@@ -70,7 +70,8 @@ def download_file(url, dest_path):
 
 def run_shell_script(script_path, args, step_name):
     """Run a shell script; return (ok: bool, stdout: str, stderr: str)."""
-    cmd = [str(script_path)] + args
+    # Run scripts via bash so they do not depend on executable file mode.
+    cmd = ["bash", str(script_path)] + args
     logger.info(f"Running {step_name}: {' '.join(cmd)}")
     try:
         result = subprocess.run(cmd, capture_output=True, text=True, check=True)
