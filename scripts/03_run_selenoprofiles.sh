@@ -12,8 +12,8 @@
 #   output_dir      - Directory where results will be written; created if absent
 #
 # Outputs written to <output_dir>:
-#   Selenoprofiles.gtf              - GTF produced by selenoprofiles
-#   Selenoprofiles.fasta            - Transcript sequences extracted by gffread
+#   all_predictions.gtf              - Raw GTF produced by selenoprofiles
+#   Selenoprofiles.fasta             - Transcript sequences extracted by gffread
 #   Selenoprofiles_annotation_result.csv - Comparison vs reference annotation
 
 set -euo pipefail
@@ -91,14 +91,13 @@ else
 fi
 
 # ---------------------------------------------------------------------------
-# Copy / rename the GTF to the canonical output name
+# Verify the GTF was produced
 # ---------------------------------------------------------------------------
 if [ ! -f "$GTF_OUT" ]; then
     echo "Error: selenoprofiles did not produce $GTF_OUT"
     exit 1
 fi
-cp "$GTF_OUT" "$OUTDIR/Selenoprofiles.gtf"
-echo "[$(date +'%Y-%m-%d %H:%M:%S')] Selenoprofiles GTF written to $OUTDIR/Selenoprofiles.gtf"
+echo "[$(date +'%Y-%m-%d %H:%M:%S')] Selenoprofiles GTF: $GTF_OUT"
 
 # ---------------------------------------------------------------------------
 # Extract transcript sequences with gffread
@@ -121,15 +120,20 @@ if command -v selenoprofiles &> /dev/null; then
         -o "$OUTDIR/Selenoprofiles_annotation_result.csv"
 else
     docker run --rm \
-        -v "$OUTDIR:/sp_out" \
-        -v "$(dirname "$ANNOTATION"):/annot_dir:ro" \
-        -v "$(dirname "$GENOME"):/genome_dir:ro" \
+        -v "$OUTDIR":/sp_out \
+        -v "$(dirname "$ANNOTATION")":/annot_dir:ro \
+        -v "$(dirname "$GENOME")":/genome_dir:ro \
         maxtico/selenoprofiles_container:latest \
         selenoprofiles assess \
-            -s /sp_out/Selenoprofiles.gtf \
+            -s /sp_out/all_predictions.gtf \
             -e /annot_dir/$(basename "$ANNOTATION") \
             -f /genome_dir/$(basename "$GENOME") \
             -o /sp_out/Selenoprofiles_annotation_result.csv
+
+    docker run --rm \
+        -v "$OUTDIR":/sp_out \
+        busybox \
+        chmod -R a+rw /sp_out
 fi
 echo "[$(date +'%Y-%m-%d %H:%M:%S')] Assessment written to $OUTDIR/Selenoprofiles_annotation_result.csv"
 

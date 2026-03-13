@@ -209,10 +209,12 @@ def extract_busco_sequences(
     )
 
     # -----------------------------------------------------------------------
-    # Pass 2: write filtered GFF (gene → mRNA → exon/CDS)
+    # Pass 2: write filtered GFF3 to a temporary file, then convert to GTF
+    # and extract transcript sequences.  The temp GFF3 is not kept in the
+    # output directory — only BUSCO.gtf and BUSCO.fasta are retained.
     # -----------------------------------------------------------------------
-    busco_gff = out_dir / "BUSCO.gff"
-    with _open_gff(alias_gff_file) as fh, open(busco_gff, "w") as out:
+    busco_gff3_tmp = out_dir / "_busco_filtered.gff3"
+    with _open_gff(alias_gff_file) as fh, open(busco_gff3_tmp, "w") as out:
         for line in fh:
             if line.startswith("#"):
                 out.write(line)
@@ -236,14 +238,29 @@ def extract_busco_sequences(
             if keep:
                 out.write(line)
 
-    logger.info(f"{annotation_id}: BUSCO.gff written to {busco_gff}")
+    # Convert filtered GFF3 → GTF format
+    busco_gtf = out_dir / "BUSCO.gtf"
+    cmd_gtf = [
+        "gffread", str(busco_gff3_tmp),
+        "-T",
+        "-o", str(busco_gtf),
+    ]
+    logger.info(f"Converting filtered GFF3 to GTF: {' '.join(cmd_gtf)}")
+    try:
+        subprocess.run(cmd_gtf, check=True, capture_output=True, text=True)
+        logger.info(f"{annotation_id}: BUSCO.gtf written to {busco_gtf}")
+    except subprocess.CalledProcessError as e:
+        logger.error(f"gffread -T failed: {e.stderr}")
+        raise
 
     # -----------------------------------------------------------------------
     # Extract transcript sequences with gffread (w = exon-stitched RNA seqs)
+    # Use the filtered GFF3 (not GTF) as gffread reads GFF3 reliably for
+    # sequence extraction.
     # -----------------------------------------------------------------------
     busco_fasta = out_dir / "BUSCO.fasta"
     cmd = [
-        "gffread", str(busco_gff),
+        "gffread", str(busco_gff3_tmp),
         "-g", str(fasta_file),
         "-w", str(busco_fasta),
     ]
@@ -254,6 +271,9 @@ def extract_busco_sequences(
     except subprocess.CalledProcessError as e:
         logger.error(f"gffread failed: {e.stderr}")
         raise
+    finally:
+        # Remove the intermediate GFF3 — only GTF and FASTA are kept
+        busco_gff3_tmp.unlink(missing_ok=True)
 
 
 # ---------------------------------------------------------------------------
@@ -487,18 +507,20 @@ def main():
                 f"Selenoprofiles failed for {annotation_id} (non-fatal): {stderr}"
             )
         else:
-            # Copy selenoprofiles outputs to per-annotation output dir
-            for fname in (
-                "Selenoprofiles.gtf",
-                "Selenoprofiles.fasta",
-                "Selenoprofiles_annotation_result.csv",
+            # Copy selenoprofiles outputs to per-annotation output dir.
+            # all_predictions.gtf is the raw GTF produced by selenoprofiles;
+            # we store it as All_predictions.gtf to match the expected output name.
+            for src_name, dst_name in (
+                ("all_predictions.gtf",               "All_predictions.gtf"),
+                ("Selenoprofiles.fasta",               "Selenoprofiles.fasta"),
+                ("Selenoprofiles_annotation_result.csv", "Selenoprofiles_annotation_result.csv"),
             ):
-                src = seleno_outdir / fname
+                src = seleno_outdir / src_name
                 if src.exists():
-                    shutil.copy2(src, output_dir / fname)
-                    logger.info(f"Copied {fname} to {output_dir}")
+                    shutil.copy2(src, output_dir / dst_name)
+                    logger.info(f"Copied {src_name} -> {dst_name} in {output_dir}")
                 else:
-                    logger.warning(f"Expected selenoprofiles output missing: {fname}")
+                    logger.warning(f"Expected selenoprofiles output missing: {src_name}")
 
         # ------------------------------------------------------------------
         # Step 8: Parse BUSCO results and write result TSV fragment

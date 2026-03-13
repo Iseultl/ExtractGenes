@@ -93,8 +93,8 @@ def read_fragment(fragment_path, expected_header):
 
 # Filenames produced per annotation that identify an annotation output directory.
 _ANNOTATION_OUTPUT_FILES = frozenset({
-    "BUSCO.fasta", "BUSCO.gff",
-    "Selenoprofiles.gtf", "Selenoprofiles.fasta",
+    "BUSCO.fasta", "BUSCO.gtf",
+    "All_predictions.gtf", "Selenoprofiles.fasta",
     "Selenoprofiles_annotation_result.csv",
 })
 
