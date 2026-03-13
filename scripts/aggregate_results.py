@@ -1,22 +1,31 @@
 #!/usr/bin/env python3
 """
-Aggregate per-job BUSCO result fragments into the shared TSV files.
+Aggregate per-job result fragments into the shared TSV files and copy
+per-annotation output files (BUSCO.gff, BUSCO.fasta, Selenoprofiles.*) into
+the repository output tree.
 
 Usage:
-    python aggregate_results.py <artifacts_dir> <busco_tsv> <retry_tsv>
+    python aggregate_results.py <artifacts_dir> <busco_tsv> <retry_tsv> [<outputs_dir>]
 
-Each run-busco-analysis job uploads up to two files:
-    result_<annotation_id>.tsv   -- one BUSCO row (header + data) on success
-    log_<annotation_id>.tsv      -- one retry row (header + data) on failure
+Each run-analysis job uploads up to two fragment files plus an optional
+annotation output directory:
+    result_<annotation_id>.tsv        -- one BUSCO row (header + data) on success
+    log_<annotation_id>.tsv           -- one retry row (header + data) on failure
+    <annotation_id>/                  -- per-annotation output files (BUSCO.gff,
+                                         BUSCO.fasta, Selenoprofiles.*)
 
-This script scans <artifacts_dir> recursively for those fragments and appends
-new rows, skipping any already present.
+This script:
+  - Scans <artifacts_dir> recursively for fragment TSVs and appends new rows,
+    skipping any already present.
+  - Copies per-annotation output directories to <outputs_dir>/<annotation_id>/
+    (default: outputs/ relative to CWD).
   - BUSCO.tsv    dedup key: annotation_id       (one success row per annotation)
   - .retry.log   dedup key: (annotation_id, run_at)  (full history of failures)
 """
 import sys
 import csv
 import logging
+import shutil
 from pathlib import Path
 
 from utils import BUSCO_HEADER, RETRY_HEADER
@@ -57,6 +66,7 @@ def ensure_header(tsv_path, header):
     """Write header if the file does not exist yet."""
     p = Path(tsv_path)
     if not p.exists():
+        p.parent.mkdir(parents=True, exist_ok=True)
         with open(p, 'w', newline='') as f:
             csv.writer(f, delimiter='\t', lineterminator='\n').writerow(header)
 
@@ -81,26 +91,69 @@ def read_fragment(fragment_path, expected_header):
     return rows
 
 
+def copy_annotation_outputs(artifacts_dir, outputs_dir):
+    """
+    For each <annotation_id>/ subdirectory found inside any artifact sub-folder,
+    copy its contents to <outputs_dir>/<annotation_id>/.
+    Only copies files; skips if destination already has all the same files.
+    """
+    outputs_dir = Path(outputs_dir)
+    copied_count = 0
+
+    # Per-annotation output dirs can appear as:
+    #   artifacts/<batch-dir>/<annotation_id>/
+    for ann_dir in sorted(artifacts_dir.rglob("*/")):
+        # Only consider directories that sit exactly two levels deep
+        # (artifacts/<batch>/<annotation_id>/) and whose name isn't a fragment dir
+        if ann_dir.name in ("", ".") or ann_dir == artifacts_dir:
+            continue
+        # Heuristic: the immediate parent is the batch artifact dir,
+        # grandparent is artifacts_dir
+        if ann_dir.parent.parent != artifacts_dir:
+            continue
+
+        annotation_id = ann_dir.name
+        dest = outputs_dir / annotation_id
+        dest.mkdir(parents=True, exist_ok=True)
+
+        for src_file in sorted(ann_dir.iterdir()):
+            if not src_file.is_file():
+                continue
+            dst_file = dest / src_file.name
+            # Skip if identical file already present
+            if dst_file.exists() and dst_file.stat().st_size == src_file.stat().st_size:
+                logger.debug(f"  ~ skip (same size): {dst_file}")
+                continue
+            shutil.copy2(src_file, dst_file)
+            logger.info(f"  + {annotation_id}/{src_file.name}")
+            copied_count += 1
+
+    logger.info(f"Copied {copied_count} annotation output file(s) to {outputs_dir}")
+    return copied_count
+
+
 def main():
-    if len(sys.argv) != 4:
-        print("Usage: python aggregate_results.py <artifacts_dir> <busco_tsv> <retry_tsv>")
+    if len(sys.argv) not in (4, 5):
+        print("Usage: python aggregate_results.py "
+              "<artifacts_dir> <busco_tsv> <retry_tsv> [<outputs_dir>]")
         sys.exit(1)
 
     artifacts_dir = Path(sys.argv[1])
     busco_tsv     = sys.argv[2]
     retry_tsv     = sys.argv[3]
+    outputs_dir   = sys.argv[4] if len(sys.argv) == 5 else "outputs"
 
     if not artifacts_dir.is_dir():
         logger.error(f"Artifacts directory not found: {artifacts_dir}")
         sys.exit(1)
 
-    existing_busco_ids   = load_existing_ids(busco_tsv)
-    existing_retry_entries = load_existing_retry_entries(retry_tsv)
+    existing_busco_ids      = load_existing_ids(busco_tsv)
+    existing_retry_entries  = load_existing_retry_entries(retry_tsv)
     logger.info(f"Existing BUSCO rows   : {len(existing_busco_ids)}")
     logger.info(f"Existing retry rows   : {len(existing_retry_entries)}")
 
-    ensure_header(busco_tsv,   BUSCO_HEADER)
-    ensure_header(retry_tsv,   RETRY_HEADER)
+    ensure_header(busco_tsv, BUSCO_HEADER)
+    ensure_header(retry_tsv, RETRY_HEADER)
 
     busco_new = []
     retry_new = []
@@ -127,10 +180,12 @@ def main():
                 existing_retry_entries.add(key)
                 logger.info(f"  + retry: {row['annotation_id']} @ {row['run_at']}")
 
-    append_rows(busco_tsv,   busco_new)
-    append_rows(retry_tsv,   retry_new)
-
+    append_rows(busco_tsv, busco_new)
+    append_rows(retry_tsv, retry_new)
     logger.info(f"Appended {len(busco_new)} BUSCO rows and {len(retry_new)} retry rows.")
+
+    # Copy per-annotation output files (BUSCO.gff, BUSCO.fasta, Selenoprofiles.*)
+    copy_annotation_outputs(artifacts_dir, outputs_dir)
 
 
 if __name__ == "__main__":

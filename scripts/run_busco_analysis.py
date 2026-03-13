@@ -1,20 +1,25 @@
 #!/usr/bin/env python3
 """
-BUSCO Analysis Orchestrator
+Per-annotation analysis pipeline: BUSCO + Selenoprofiles
 
-Downloads annotation and assembly files from URLs, then runs the full
-BUSCO pipeline using the shell scripts.
+For each annotation this script:
+  1. Downloads GFF + assembly FASTA from the AnnoTrEive API URLs.
+  2. Aliases sequence IDs with annocli so GFF chromosome names match the FASTA.
+  3. Extracts the longest protein isoform per gene (01_extract_proteins.sh).
+  4. Runs BUSCO in protein mode (02_run_BUSCO.sh).
+  5. Extracts transcript sequences + GFF records for BUSCO-matched genes.
+  6. Runs selenoprofiles on the genome to identify selenoproteins
+     (03_run_selenoprofiles.sh).
+  7. Writes all output files to <output_dir>/<annotation_id>/.
+  8. Writes a result fragment TSV on success or a log fragment TSV on failure.
 
 Usage:
-    python run_busco_analysis.py <annotation_url> <assembly_url> <annotation_id> <busco_tsv> <retry_log>
-
-Example:
     python run_busco_analysis.py \\
-        https://example.com/annotation.gff.gz \\
-        https://example.com/assembly.fna.gz \\
-        ann123 BUSCO.tsv .retry.log
+        <annotation_url> <assembly_url> <annotation_id> \\
+        <result_tsv> <log_tsv> <output_dir>
 """
 import csv
+import gzip
 import logging
 import re
 import shutil
@@ -34,13 +39,12 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-def download_file(url, dest_path):
-    """
-    Download a file from a URL to dest_path.
+# ---------------------------------------------------------------------------
+# Helpers: downloading
+# ---------------------------------------------------------------------------
 
-    Returns:
-        tuple: (success: bool, error_message: str)
-    """
+def download_file(url, dest_path):
+    """Download *url* to *dest_path*. Returns (ok: bool, error_message: str)."""
     logger.info(f"Downloading {url} -> {dest_path}")
     try:
         urllib.request.urlretrieve(url, dest_path)
@@ -60,22 +64,20 @@ def download_file(url, dest_path):
         return False, msg
 
 
-def run_shell_script(script_path, args, step_name):
-    """
-    Run a shell script and return success/failure.
+# ---------------------------------------------------------------------------
+# Helpers: running shell scripts
+# ---------------------------------------------------------------------------
 
-    Returns:
-        tuple: (success: bool, stdout: str, stderr: str)
-    """
+def run_shell_script(script_path, args, step_name):
+    """Run a shell script; return (ok: bool, stdout: str, stderr: str)."""
     cmd = [str(script_path)] + args
     logger.info(f"Running {step_name}: {' '.join(cmd)}")
-
     try:
         result = subprocess.run(cmd, capture_output=True, text=True, check=True)
         logger.info(f"{step_name} completed successfully")
         return True, result.stdout, result.stderr
     except subprocess.CalledProcessError as e:
-        logger.error(f"{step_name} failed with exit code {e.returncode}")
+        logger.error(f"{step_name} failed (exit {e.returncode})")
         logger.error(f"stdout: {e.stdout}")
         logger.error(f"stderr: {e.stderr}")
         return False, e.stdout, e.stderr
@@ -84,238 +86,341 @@ def run_shell_script(script_path, args, step_name):
         return False, "", str(e)
 
 
+# ---------------------------------------------------------------------------
+# Helpers: BUSCO result parsing
+# ---------------------------------------------------------------------------
+
 def parse_busco_results(busco_output_dir):
-    """
-    Parse BUSCO results from the output directory.
-
-    Returns:
-        dict with lineage, busco_count, complete, single,
-        duplicated, fragmented, missing
-    """
+    """Parse BUSCO short-summary; return dict with lineage/counts."""
     logger.info(f"Parsing BUSCO results from {busco_output_dir}")
-
     summary_files = list(Path(busco_output_dir).glob("short_summary.*.txt"))
     if not summary_files:
         raise ValueError(f"BUSCO summary file not found in {busco_output_dir}")
 
-    summary_file = summary_files[0]
-    logger.info(f"Reading summary from {summary_file}")
-
-    content = summary_file.read_text()
-
-    results: dict[str, str | float | int | None] = {
-        "lineage": "",
-        "busco_count": None,
-        "complete": None,
-        "single": None,
-        "duplicated": None,
-        "fragmented": None,
-        "missing": None,
+    content = summary_files[0].read_text()
+    results: dict = {
+        "lineage": "", "busco_count": None,
+        "complete": None, "single": None,
+        "duplicated": None, "fragmented": None, "missing": None,
     }
-
-    lineage_match = re.search(r"lineage dataset is: (\S+)", content)
-    complete_match = re.search(r"C:(\d+(?:\.\d+)?)%", content)
-    single_match = re.search(r"S:(\d+(?:\.\d+)?)%", content)
-    duplicated_match = re.search(r"D:(\d+(?:\.\d+)?)%", content)
-    fragmented_match = re.search(r"F:(\d+(?:\.\d+)?)%", content)
-    missing_match = re.search(r"M:(\d+(?:\.\d+)?)%", content)
-    count_match = re.search(r"(\d+)\s+total BUSCO", content, re.IGNORECASE)
-
-    if lineage_match:
-        results["lineage"] = str(lineage_match.group(1))
-    if complete_match:
-        results["complete"] = float(str(complete_match.group(1)))
-    if single_match:
-        results["single"] = float(str(single_match.group(1)))
-    if duplicated_match:
-        results["duplicated"] = float(str(duplicated_match.group(1)))
-    if fragmented_match:
-        results["fragmented"] = float(str(fragmented_match.group(1)))
-    if missing_match:
-        results["missing"] = float(str(missing_match.group(1)))
-    if count_match:
-        results["busco_count"] = int(str(count_match.group(1)))
+    for pattern, key, cast in [
+        (r"lineage dataset is: (\S+)", "lineage", str),
+        (r"C:(\d+(?:\.\d+)?)%", "complete", float),
+        (r"S:(\d+(?:\.\d+)?)%", "single", float),
+        (r"D:(\d+(?:\.\d+)?)%", "duplicated", float),
+        (r"F:(\d+(?:\.\d+)?)%", "fragmented", float),
+        (r"M:(\d+(?:\.\d+)?)%", "missing", float),
+        (r"(\d+)\s+total BUSCO", "busco_count", int),
+    ]:
+        m = re.search(pattern, content, re.IGNORECASE)
+        if m:
+            results[key] = cast(m.group(1))
 
     logger.info(f"BUSCO results: {results}")
     return results
 
 
-def append_to_busco_tsv(busco_file, annotation_id, results):
-    """Append successful BUSCO results to BUSCO.tsv."""
-    logger.info(f"Writing results for {annotation_id} to {busco_file}")
-    file_exists = Path(busco_file).exists()
-    with open(busco_file, "a", newline="") as f:
+def get_busco_matched_ids(busco_output_dir):
+    """
+    Return the set of protein/transcript IDs that BUSCO matched
+    (status Complete, Duplicated, or Fragmented) from full_table.tsv.
+    """
+    tables = list(Path(busco_output_dir).glob("run_*/full_table.tsv"))
+    if not tables:
+        logger.warning("full_table.tsv not found; BUSCO sequence extraction skipped")
+        return set()
+    matched = set()
+    with open(tables[0]) as fh:
+        for line in fh:
+            if line.startswith("#") or not line.strip():
+                continue
+            cols = line.strip().split("\t")
+            if len(cols) < 3:
+                continue
+            status, seq_id = cols[1], cols[2]
+            if status in ("Complete", "Duplicated", "Fragmented"):
+                matched.add(seq_id)
+    logger.info(f"BUSCO matched IDs: {len(matched)}")
+    return matched
+
+
+# ---------------------------------------------------------------------------
+# Helpers: GFF3 filtering for BUSCO gene extraction
+# ---------------------------------------------------------------------------
+
+def _get_attr(attr_string, key):
+    """Return the value of a GFF3 attribute, or None."""
+    m = re.search(rf'(?:^|;){re.escape(key)}=([^;]+)', attr_string)
+    return m.group(1).strip() if m else None
+
+
+def _open_gff(path):
+    """Open a plain or gzip-compressed GFF file for reading."""
+    p = str(path)
+    return gzip.open(p, "rt") if p.endswith(".gz") else open(p)
+
+
+def extract_busco_sequences(
+    busco_output_dir, alias_gff_file, fasta_file, annotation_id, out_dir
+):
+    """
+    Produce BUSCO.gff (filtered reference annotation) and BUSCO.fasta
+    (transcript sequences via gffread) for the BUSCO-matched genes.
+
+    Parameters
+    ----------
+    busco_output_dir : path-like  BUSCO run output directory.
+    alias_gff_file   : path-like  Aliased GFF3 (may be .gz).
+    fasta_file       : path-like  Decompressed genome FASTA.
+    annotation_id    : str        Used only for logging.
+    out_dir          : Path       Destination for BUSCO.gff and BUSCO.fasta.
+    """
+    matched_ids = get_busco_matched_ids(busco_output_dir)
+    if not matched_ids:
+        logger.warning(f"{annotation_id}: no BUSCO-matched IDs — skipping extraction")
+        return
+
+    # -----------------------------------------------------------------------
+    # Two-pass GFF filter
+    # Pass 1: find parent gene IDs for all matched mRNA IDs
+    # -----------------------------------------------------------------------
+    gene_ids: set[str] = set()
+    mrna_ids: set[str] = set(matched_ids)
+
+    with _open_gff(alias_gff_file) as fh:
+        for line in fh:
+            if line.startswith("#") or not line.strip():
+                continue
+            parts = line.split("\t")
+            if len(parts) < 9:
+                continue
+            ftype, attrs = parts[2], parts[8]
+            if ftype in ("mRNA", "transcript"):
+                feat_id = _get_attr(attrs, "ID")
+                if feat_id and feat_id in mrna_ids:
+                    parent = _get_attr(attrs, "Parent")
+                    if parent:
+                        gene_ids.add(parent)
+
+    logger.info(
+        f"{annotation_id}: filtering GFF — "
+        f"{len(mrna_ids)} mRNAs across {len(gene_ids)} genes"
+    )
+
+    # -----------------------------------------------------------------------
+    # Pass 2: write filtered GFF (gene → mRNA → exon/CDS)
+    # -----------------------------------------------------------------------
+    busco_gff = out_dir / "BUSCO.gff"
+    with _open_gff(alias_gff_file) as fh, open(busco_gff, "w") as out:
+        for line in fh:
+            if line.startswith("#"):
+                out.write(line)
+                continue
+            parts = line.split("\t")
+            if len(parts) < 9:
+                continue
+            ftype, attrs = parts[2], parts[8]
+            feat_id = _get_attr(attrs, "ID")
+            parent   = _get_attr(attrs, "Parent")
+
+            keep = False
+            if ftype in ("gene", "pseudogene") and feat_id in gene_ids:
+                keep = True
+            elif ftype in ("mRNA", "transcript") and feat_id in mrna_ids:
+                keep = True
+            elif ftype not in ("gene", "pseudogene", "mRNA", "transcript") \
+                    and parent in mrna_ids:
+                keep = True
+
+            if keep:
+                out.write(line)
+
+    logger.info(f"{annotation_id}: BUSCO.gff written to {busco_gff}")
+
+    # -----------------------------------------------------------------------
+    # Extract transcript sequences with gffread (w = exon-stitched RNA seqs)
+    # -----------------------------------------------------------------------
+    busco_fasta = out_dir / "BUSCO.fasta"
+    cmd = [
+        "gffread", str(busco_gff),
+        "-g", str(fasta_file),
+        "-w", str(busco_fasta),
+    ]
+    logger.info(f"Extracting BUSCO transcript sequences: {' '.join(cmd)}")
+    try:
+        subprocess.run(cmd, check=True, capture_output=True, text=True)
+        logger.info(f"{annotation_id}: BUSCO.fasta written to {busco_fasta}")
+    except subprocess.CalledProcessError as e:
+        logger.error(f"gffread failed: {e.stderr}")
+        raise
+
+
+# ---------------------------------------------------------------------------
+# Helpers: TSV fragment writers
+# ---------------------------------------------------------------------------
+
+def write_result_tsv(result_tsv, annotation_id, busco_results):
+    """Write a single-row BUSCO result fragment TSV."""
+    with open(result_tsv, "w", newline="") as f:
         writer = csv.writer(f, delimiter="\t", lineterminator="\n")
-        if not file_exists:
-            writer.writerow(BUSCO_HEADER)
-        writer.writerow(
-            [
-                annotation_id,
-                results["lineage"],
-                results["busco_count"] if results["busco_count"] is not None else "NA",
-                results["complete"] if results["complete"] is not None else "NA",
-                results["single"] if results["single"] is not None else "NA",
-                results["duplicated"] if results["duplicated"] is not None else "NA",
-                results["fragmented"] if results["fragmented"] is not None else "NA",
-                results["missing"] if results["missing"] is not None else "NA",
-            ]
-        )
+        writer.writerow(BUSCO_HEADER)
+        writer.writerow([
+            annotation_id,
+            busco_results["lineage"],
+            busco_results["busco_count"] if busco_results["busco_count"] is not None else "NA",
+            busco_results["complete"]    if busco_results["complete"]    is not None else "NA",
+            busco_results["single"]      if busco_results["single"]      is not None else "NA",
+            busco_results["duplicated"]  if busco_results["duplicated"]  is not None else "NA",
+            busco_results["fragmented"]  if busco_results["fragmented"]  is not None else "NA",
+            busco_results["missing"]     if busco_results["missing"]     is not None else "NA",
+        ])
 
 
-def append_to_retry_log(retry_log, annotation_id, step):
-    """Append a failed run to .retry.log."""
-    logger.info(f"Logging failure for {annotation_id} to {retry_log}")
-    file_exists = Path(retry_log).exists()
+def write_log_tsv(log_tsv, annotation_id, step):
+    """Write a single-row failure log fragment TSV."""
     run_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     step = " ".join(step.splitlines()).strip()
-    with open(retry_log, "a", newline="") as f:
+    with open(log_tsv, "w", newline="") as f:
         writer = csv.writer(f, delimiter="\t", lineterminator="\n")
-        if not file_exists:
-            writer.writerow(RETRY_HEADER)
+        writer.writerow(RETRY_HEADER)
         writer.writerow([annotation_id, run_at, step])
 
 
+# ---------------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------------
+
 def main():
-    """Main entry point."""
-    if len(sys.argv) != 6:
+    if len(sys.argv) != 7:
         print(
             "Usage: python run_busco_analysis.py "
-            "<annotation_url> <assembly_url> <annotation_id> <busco_tsv> <retry_log>"
+            "<annotation_url> <assembly_url> <annotation_id> "
+            "<result_tsv> <log_tsv> <output_dir>"
         )
-        print()
-        print("Arguments:")
-        print("  annotation_url - URL to GFF3/GFF annotation file (can be .gz)")
-        print("  assembly_url   - URL to FASTA assembly file (can be .gz)")
-        print("  annotation_id  - Unique identifier for this annotation")
-        print("  busco_tsv      - Path to BUSCO.tsv output file")
-        print("  retry_log      - Path to .retry.log file")
         sys.exit(1)
 
     annotation_url = sys.argv[1]
-    assembly_url = sys.argv[2]
-    annotation_id = sys.argv[3]
-    busco_tsv = sys.argv[4]
-    retry_log = sys.argv[5]
+    assembly_url   = sys.argv[2]
+    annotation_id  = sys.argv[3]
+    result_tsv     = sys.argv[4]
+    log_tsv        = sys.argv[5]
+    output_dir     = Path(sys.argv[6])
+    output_dir.mkdir(parents=True, exist_ok=True)
 
-    logger.info(f"Starting BUSCO analysis for {annotation_id}")
+    logger.info(f"Starting analysis for {annotation_id}")
 
     # Locate shell scripts relative to this file
-    script_dir = Path(__file__).parent
-    extract_script = script_dir / "01_extract_proteins.sh"
-    busco_script = script_dir / "02_run_BUSCO.sh"
+    script_dir        = Path(__file__).parent
+    extract_script    = script_dir / "01_extract_proteins.sh"
+    busco_script      = script_dir / "02_run_BUSCO.sh"
+    seleno_script     = script_dir / "03_run_selenoprofiles.sh"
 
-    for script in (extract_script, busco_script):
+    for script in (extract_script, busco_script, seleno_script):
         if not script.exists():
             logger.error(f"Required script not found: {script}")
-            append_to_retry_log(retry_log, annotation_id, "script_missing")
-            sys.exit(1)
+            write_log_tsv(log_tsv, annotation_id, f"script_missing:{script.name}")
+            return 1
 
-    # Work inside a temp directory so downloads don't pollute the repo
-    work_dir = Path(tempfile.mkdtemp(prefix=f"busco_{annotation_id}_"))
+    work_dir = Path(tempfile.mkdtemp(prefix=f"analysis_{annotation_id}_"))
     logger.info(f"Working directory: {work_dir}")
 
     try:
         # ------------------------------------------------------------------
-        # Step 1: Download files
+        # Step 1: Download annotation GFF and assembly FASTA
         # ------------------------------------------------------------------
-        logger.info("=" * 80)
         logger.info("STEP 1: Download files")
-        logger.info("=" * 80)
-
-        gff_file = work_dir / "annotation.gff.gz"
+        gff_file   = work_dir / "annotation.gff.gz"
         fasta_file = work_dir / "assembly.fna.gz"
 
         ok, err = download_file(annotation_url, gff_file)
         if not ok:
-            append_to_retry_log(retry_log, annotation_id, err)
-            sys.exit(1)
+            write_log_tsv(log_tsv, annotation_id, err)
+            return 1
 
         ok, err = download_file(assembly_url, fasta_file)
         if not ok:
-            append_to_retry_log(retry_log, annotation_id, err)
-            sys.exit(1)
+            write_log_tsv(log_tsv, annotation_id, err)
+            return 1
 
         # ------------------------------------------------------------------
-        # Step 2: Alias sequence IDs
+        # Step 2: Alias sequence IDs with annocli
         # ------------------------------------------------------------------
-        logger.info("=" * 80)
         logger.info("STEP 2: Alias sequence IDs (annocli alias)")
-        logger.info("=" * 80)
-
         alias_gff_file = work_dir / "annotation.aliasMatch.gff3.gz"
         cmd = [
-            "annocli",
-            "alias",
-            str(gff_file),
-            str(fasta_file),
-            "--output",
-            str(alias_gff_file),
+            "annocli", "alias",
+            str(gff_file), str(fasta_file),
+            "--output", str(alias_gff_file),
         ]
-        logger.info(f"Running alias_ids: {' '.join(cmd)}")
         try:
             alias_result = subprocess.run(
                 cmd, capture_output=True, text=True, check=True
             )
-            logger.info("alias_ids completed successfully")
             alias_stderr = alias_result.stderr
+            logger.info("annocli alias completed successfully")
         except subprocess.CalledProcessError as e:
-            logger.error(f"alias_ids failed with exit code {e.returncode}")
-            logger.error(f"stdout: {e.stdout}")
+            logger.error(f"annocli alias failed (exit {e.returncode})")
             logger.error(f"stderr: {e.stderr}")
-            append_to_log_tsv(
-                log_tsv, annotation_id, e.stderr if e.stderr else "alias_ids_failed"
+            write_log_tsv(
+                log_tsv, annotation_id,
+                e.stderr if e.stderr else "alias_ids_failed"
             )
-            sys.exit(1)
-        except FileNotFoundError as e:
-            logger.error("annocli not found")
-            append_to_retry_log(retry_log, annotation_id, str(e))
-            sys.exit(1)
+            return 1
+        except FileNotFoundError:
+            logger.error("annocli not found in PATH")
+            write_log_tsv(log_tsv, annotation_id, "annocli_not_found")
+            return 1
 
         if not alias_gff_file.exists():
             logger.error(f"Expected aliasMatch file not found: {alias_gff_file}")
-            append_to_log_tsv(
-                log_tsv, annotation_id, alias_stderr if alias_stderr else "alias_output_missing"
+            write_log_tsv(
+                log_tsv, annotation_id,
+                alias_stderr if alias_stderr else "alias_output_missing"
             )
-            sys.exit(1)
-
-        logger.info(f"AliasMatch annotation file: {alias_gff_file}")
+            return 1
 
         # ------------------------------------------------------------------
-        # Step 3: Extract proteins
+        # Step 3: Decompress files for downstream steps
         # ------------------------------------------------------------------
-        logger.info("=" * 80)
-        logger.info("STEP 3: Extract proteins")
-        logger.info("=" * 80)
+        logger.info("STEP 3: Decompress GFF and genome FASTA")
+        alias_gff_decompressed = work_dir / "annotation.aliasMatch.gff3"
+        fasta_decompressed     = work_dir / "assembly.fna"
 
-        success, _, stderr = run_shell_script(
-            extract_script, [str(alias_gff_file), str(fasta_file)], "extract_proteins"
+        with gzip.open(alias_gff_file, "rb") as src, \
+                open(alias_gff_decompressed, "wb") as dst:
+            shutil.copyfileobj(src, dst)
+
+        with gzip.open(fasta_file, "rb") as src, \
+                open(fasta_decompressed, "wb") as dst:
+            shutil.copyfileobj(src, dst)
+
+        # ------------------------------------------------------------------
+        # Step 4: Extract proteins (longest isoform per gene)
+        # ------------------------------------------------------------------
+        logger.info("STEP 4: Extract proteins")
+        ok, _, stderr = run_shell_script(
+            extract_script,
+            [str(alias_gff_file), str(fasta_file)],
+            "extract_proteins",
         )
-
-        if not success:
-            append_to_log_tsv(
-                log_tsv, annotation_id, stderr if stderr else "extract_proteins_failed"
+        if not ok:
+            write_log_tsv(
+                log_tsv, annotation_id,
+                stderr if stderr else "extract_proteins_failed"
             )
-            sys.exit(1)
+            return 1
 
-        # 01_extract_proteins.sh writes <gff_basename>_proteins.faa next to the gff
-        # alias_gff_file is annotation.aliasMatch.gff3.gz → basename = annotation.aliasMatch
+        # 01_extract_proteins.sh writes <gff_basename>_proteins.faa beside the GFF
         protein_file = work_dir / "annotation.aliasMatch_proteins.faa"
         if not protein_file.exists():
             logger.error(f"Expected protein file not found: {protein_file}")
-            append_to_log_tsv(
-                log_tsv, annotation_id, stderr if stderr else "protein_file_missing"
-            )
-            sys.exit(1)
-
-        logger.info(f"Protein file: {protein_file}")
+            write_log_tsv(log_tsv, annotation_id, "protein_file_missing")
+            return 1
 
         # ------------------------------------------------------------------
-        # Step 4: Run BUSCO
+        # Step 5: Run BUSCO (protein mode, offline)
         # ------------------------------------------------------------------
-        logger.info("=" * 80)
-        logger.info("STEP 4: Run BUSCO")
-        logger.info("=" * 80)
-
+        logger.info("STEP 5: Run BUSCO")
         lineage_candidates = [
             Path("assets/busco_downloads/lineages/eukaryota_odb12"),
             Path("busco_downloads/lineages/eukaryota_odb12"),
@@ -327,43 +432,87 @@ def main():
                 "Lineage folder not found. Tried: "
                 + ", ".join(str(p) for p in lineage_candidates)
             )
-            append_to_retry_log(retry_log, annotation_id, "lineage_missing")
-            sys.exit(1)
+            write_log_tsv(log_tsv, annotation_id, "lineage_missing")
+            return 1
 
         busco_output = str(work_dir / f"busco_{annotation_id}")
-
-        success, _, stderr = run_shell_script(
+        ok, _, stderr = run_shell_script(
             busco_script,
             [str(protein_file), str(lineage_path), busco_output],
             "run_busco",
         )
-
-        if not success:
-            append_to_log_tsv(
-                log_tsv, annotation_id, stderr if stderr else "busco_failed"
+        if not ok:
+            write_log_tsv(
+                log_tsv, annotation_id,
+                stderr if stderr else "busco_failed"
             )
-            sys.exit(1)
+            return 1
 
         # ------------------------------------------------------------------
-        # Step 5: Parse and record results
+        # Step 6: Extract BUSCO transcript sequences + filter GFF
         # ------------------------------------------------------------------
-        logger.info("=" * 80)
-        logger.info("STEP 5: Parse BUSCO results")
-        logger.info("=" * 80)
+        logger.info("STEP 6: Extract BUSCO gene sequences and filter reference GFF")
+        try:
+            extract_busco_sequences(
+                busco_output,
+                alias_gff_decompressed,
+                fasta_decompressed,
+                annotation_id,
+                output_dir,
+            )
+        except Exception as e:
+            # Non-fatal: log but continue to selenoprofiles
+            logger.warning(f"BUSCO sequence extraction error (non-fatal): {e}")
 
-        results = parse_busco_results(busco_output)
-        append_to_busco_tsv(busco_tsv, annotation_id, results)
+        # ------------------------------------------------------------------
+        # Step 7: Run selenoprofiles on the genome
+        # ------------------------------------------------------------------
+        logger.info("STEP 7: Run selenoprofiles")
+        seleno_outdir = work_dir / f"selenoprofiles_{annotation_id}"
+        seleno_outdir.mkdir(parents=True, exist_ok=True)
 
-        logger.info("=" * 80)
-        logger.info(f"✓ Successfully completed BUSCO analysis for {annotation_id}")
-        logger.info("=" * 80)
+        ok, _, stderr = run_shell_script(
+            seleno_script,
+            [
+                str(fasta_decompressed),
+                str(alias_gff_decompressed),
+                str(seleno_outdir),
+            ],
+            "run_selenoprofiles",
+        )
+        if not ok:
+            # Non-fatal: record in log but still write BUSCO result
+            logger.warning(
+                f"Selenoprofiles failed for {annotation_id} (non-fatal): {stderr}"
+            )
+        else:
+            # Copy selenoprofiles outputs to per-annotation output dir
+            for fname in (
+                "Selenoprofiles.gtf",
+                "Selenoprofiles.fasta",
+                "Selenoprofiles_annotation_result.csv",
+            ):
+                src = seleno_outdir / fname
+                if src.exists():
+                    shutil.copy2(src, output_dir / fname)
+                    logger.info(f"Copied {fname} to {output_dir}")
+                else:
+                    logger.warning(f"Expected selenoprofiles output missing: {fname}")
 
+        # ------------------------------------------------------------------
+        # Step 8: Parse BUSCO results and write result TSV fragment
+        # ------------------------------------------------------------------
+        logger.info("STEP 8: Parse BUSCO results and write result fragment")
+        busco_results = parse_busco_results(busco_output)
+        write_result_tsv(result_tsv, annotation_id, busco_results)
+
+        logger.info(f"Analysis complete for {annotation_id}")
         return 0
 
     except Exception as e:
-        logger.error(f"Unexpected error: {e}")
-        append_to_retry_log(retry_log, annotation_id, "unexpected_error")
-        sys.exit(1)
+        logger.error(f"Unexpected error: {e}", exc_info=True)
+        write_log_tsv(log_tsv, annotation_id, f"unexpected_error: {e}")
+        return 1
 
     finally:
         shutil.rmtree(work_dir, ignore_errors=True)
@@ -372,3 +521,4 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+

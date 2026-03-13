@@ -93,6 +93,8 @@ def main():
 
         logger.info(f"[{i}/{len(my_slice)}] Processing {annotation_id}")
 
+        ann_output_dir = str(output_dir / annotation_id)
+
         try:
             ret = subprocess.run(
                 [sys.executable, str(script),
@@ -100,7 +102,8 @@ def main():
                  ann['assembly_url'],
                  annotation_id,
                  result_tsv,
-                 log_fragment],
+                 log_fragment,
+                 ann_output_dir],
                 check=False   # do not raise on non-zero exit
             )
             if ret.returncode == 0:

@@ -1,4 +1,4 @@
-name: BUSCO Matrix Analysis
+name: ExtractGenes Pipeline
 
 on:
   workflow_dispatch:
@@ -51,9 +51,12 @@ jobs:
           echo "Max per job         : ${{ github.event.inputs.max_per_job || '10' }}"
 
   # ─────────────────────────────────────────────────────────────────────────────
-  # JOB 2: Run BUSCO analysis in parallel matrix jobs
+  # JOB 2: Run BUSCO + selenoprofiles analysis in parallel matrix jobs
+  # Each job processes a stride of the pending annotation list.
+  # Per-annotation outputs: BUSCO.tsv fragment, BUSCO.fasta, BUSCO.gff,
+  #   Selenoprofiles.gtf, Selenoprofiles.fasta, Selenoprofiles_annotation_result.csv
   # ─────────────────────────────────────────────────────────────────────────────
-  busco:
+  analysis:
     needs: setup
     if: ${{ needs.setup.outputs.pending_count > 0 }}
     runs-on: ubuntu-latest
@@ -78,14 +81,14 @@ jobs:
           channel-priority: strict
           use-mamba: true
           conda-remove-defaults: true
-          activate-environment: busco-env
+          activate-environment: analysis-env
 
       - name: Cache conda environment
         id: conda-cache
         uses: actions/cache@v4
         with:
-          path: ${{ env.CONDA }}/envs/busco-env
-          key: conda-${{ runner.os }}-busco6.0.0-gffread0.12.07-annocli1.0.0
+          path: ${{ env.CONDA }}/envs/analysis-env
+          key: conda-${{ runner.os }}-busco6.0.0-gffread0.12.7-annocli1.0.0
 
       - name: Install BUSCO and gffread
         if: steps.conda-cache.outputs.cache-hit != 'true'
@@ -101,6 +104,10 @@ jobs:
         run: |
           git clone --branch v1.0.0 --depth 1 https://github.com/apollo994/annocli.git
           pip install ./annocli/
+
+      - name: Pull selenoprofiles container
+        if: steps.conda-cache.outputs.cache-hit != 'true'
+        run: docker pull maxtico/selenoprofiles_container:latest
 
       - name: Run batch
         shell: bash -el {0}
@@ -119,17 +126,17 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: busco-batch-${{ matrix.chunk_index }}
+          name: analysis-batch-${{ matrix.chunk_index }}
           path: batch_output/
           retention-days: 30
           overwrite: true
 
   # ─────────────────────────────────────────────────────────────────────────────
-  # JOB 3: Aggregate all artifacts into BUSCO.tsv and .retry.log
+  # JOB 3: Aggregate all artifacts into BUSCO.tsv, .retry.log, and outputs/
   # ─────────────────────────────────────────────────────────────────────────────
   aggregate:
-    needs: [setup, busco]
-    # Run even if some busco jobs failed — commit partial results
+    needs: [setup, analysis]
+    # Run even if some analysis jobs failed — commit partial results
     # but skip if the workflow was manually cancelled
     if: ${{ !cancelled() && needs.setup.outputs.pending_count > 0 }}
     runs-on: ubuntu-latest
@@ -141,7 +148,7 @@ jobs:
       - name: Download all batch artifacts
         uses: actions/download-artifact@v4
         with:
-          pattern: busco-batch-*
+          pattern: analysis-batch-*
           path: artifacts/
           merge-multiple: false
 
@@ -151,28 +158,40 @@ jobs:
           python-version: '3.11'
 
       - name: Aggregate results
-        run: python scripts/aggregate_results.py artifacts/ BUSCO/eukaryota_odb12/BUSCO.tsv BUSCO/eukaryota_odb12/.retry.log
+        run: |
+          python scripts/aggregate_results.py \
+            artifacts/ \
+            BUSCO/eukaryota_odb12/BUSCO.tsv \
+            BUSCO/eukaryota_odb12/.retry.log \
+            outputs/
 
       - name: Display summary
         run: |
           echo "=== BUSCO.tsv — last 10 rows ==="
-          tail -n 10 BUSCO/eukaryota_odb12/BUSCO.tsv
+          tail -n 10 BUSCO/eukaryota_odb12/BUSCO.tsv || echo "(empty)"
           echo ""
           echo "=== .retry.log — last 10 rows ==="
-          tail -n 10 BUSCO/eukaryota_odb12/.retry.log
+          tail -n 10 BUSCO/eukaryota_odb12/.retry.log || echo "(empty)"
+          echo ""
+          echo "=== Per-annotation outputs ==="
+          find outputs/ -maxdepth 2 -type f | sort | head -40 || echo "(none)"
 
       - name: Commit and push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add BUSCO/eukaryota_odb12/BUSCO.tsv BUSCO/eukaryota_odb12/.retry.log
+          git add BUSCO/eukaryota_odb12/BUSCO.tsv \
+                  BUSCO/eukaryota_odb12/.retry.log \
+                  outputs/
           if git diff --staged --quiet; then
             echo "No new results to commit"
           else
             ADDED=$(git diff --staged BUSCO/eukaryota_odb12/BUSCO.tsv | grep '^+' | grep -v '^+++' | wc -l | tr -d ' ')
             ERRORS=$(git diff --staged BUSCO/eukaryota_odb12/.retry.log | grep '^+' | grep -v '^+++' | wc -l | tr -d ' ')
+            OUT_FILES=$(git diff --staged --name-only outputs/ | wc -l | tr -d ' ')
             TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M UTC')
-            git commit -m "Aggregate BUSCO results — ${TIMESTAMP}, +${ADDED} annotations, +${ERRORS} error_log rows"
+            git commit -m "Aggregate results — ${TIMESTAMP}, +${ADDED} BUSCO rows, +${ERRORS} error rows, +${OUT_FILES} output files"
             git pull --rebase
             git push
           fi
+    
