@@ -91,42 +91,51 @@ def read_fragment(fragment_path, expected_header):
     return rows
 
 
+# Filenames produced per annotation that identify an annotation output directory.
+_ANNOTATION_OUTPUT_FILES = frozenset({
+    "BUSCO.fasta", "BUSCO.gff",
+    "Selenoprofiles.gtf", "Selenoprofiles.fasta",
+    "Selenoprofiles_annotation_result.csv",
+})
+
+
 def copy_annotation_outputs(artifacts_dir, outputs_dir):
     """
-    For each <annotation_id>/ subdirectory found inside any artifact sub-folder,
-    copy its contents to <outputs_dir>/<annotation_id>/.
-    Only copies files; skips if destination already has all the same files.
+    Locate per-annotation output directories anywhere inside artifacts_dir by
+    searching for directories that contain known output file names, then copy
+    their contents to <outputs_dir>/<annotation_id>/.
+
+    This is intentionally content-based rather than depth-based so it works
+    regardless of how actions/download-artifact@v4 nests the artifact directory
+    structure (e.g. artifacts/analysis-batch-0/batch_output/<annotation_id>/).
     """
     outputs_dir = Path(outputs_dir)
     copied_count = 0
 
-    # Per-annotation output dirs can appear as:
-    #   artifacts/<batch-dir>/<annotation_id>/
-    for ann_dir in sorted(artifacts_dir.rglob("*/")):
-        # Only consider directories that sit exactly two levels deep
-        # (artifacts/<batch>/<annotation_id>/) and whose name isn't a fragment dir
-        if ann_dir.name in ("", ".") or ann_dir == artifacts_dir:
-            continue
-        # Heuristic: the immediate parent is the batch artifact dir,
-        # grandparent is artifacts_dir
-        if ann_dir.parent.parent != artifacts_dir:
-            continue
-
-        annotation_id = ann_dir.name
-        dest = outputs_dir / annotation_id
-        dest.mkdir(parents=True, exist_ok=True)
-
-        for src_file in sorted(ann_dir.iterdir()):
-            if not src_file.is_file():
+    # Collect annotation output dirs by finding any of the known output files.
+    seen_dirs: set[Path] = set()
+    for fname in sorted(_ANNOTATION_OUTPUT_FILES):
+        for found_file in sorted(artifacts_dir.rglob(fname)):
+            ann_dir = found_file.parent
+            if ann_dir in seen_dirs:
                 continue
-            dst_file = dest / src_file.name
-            # Skip if identical file already present
-            if dst_file.exists() and dst_file.stat().st_size == src_file.stat().st_size:
-                logger.debug(f"  ~ skip (same size): {dst_file}")
-                continue
-            shutil.copy2(src_file, dst_file)
-            logger.info(f"  + {annotation_id}/{src_file.name}")
-            copied_count += 1
+            seen_dirs.add(ann_dir)
+
+            annotation_id = ann_dir.name
+            dest = outputs_dir / annotation_id
+            dest.mkdir(parents=True, exist_ok=True)
+
+            for src_file in sorted(ann_dir.iterdir()):
+                if not src_file.is_file():
+                    continue
+                dst_file = dest / src_file.name
+                # Skip if identical file already present (same size heuristic)
+                if dst_file.exists() and dst_file.stat().st_size == src_file.stat().st_size:
+                    logger.debug(f"  ~ skip (same size): {dst_file}")
+                    continue
+                shutil.copy2(src_file, dst_file)
+                logger.info(f"  + {annotation_id}/{src_file.name}")
+                copied_count += 1
 
     logger.info(f"Copied {copied_count} annotation output file(s) to {outputs_dir}")
     return copied_count

@@ -65,27 +65,29 @@ if command -v selenoprofiles &> /dev/null; then
         -p eukarya \
         -output_gtf_file "$GTF_OUT"
 else
-    # Run via Docker container
-    # All inputs are mounted from a shared staging directory so the container
-    # can reach both the genome and write output atomically.
-    STAGING=$(mktemp -d)
-    trap 'rm -rf "$STAGING"' EXIT
-    cp "$GENOME"     "$STAGING/genome.fa"
-    cp "$ANNOTATION" "$STAGING/annotation.gff3"
-    mkdir -p "$STAGING/sp_out"
-
+    # Run via Docker container.
+    # Mount genome and annotation as read-only and OUTDIR as the output volume.
+    # This avoids copying large files to a staging directory and eliminates the
+    # root-ownership problem that arises when the container writes to a host-owned
+    # temp directory (which then cannot be cleaned up by the non-root runner).
     docker run --rm \
-        -v "$STAGING:/data" \
+        -v "$GENOME":/input/genome.fa:ro \
+        -v "$ANNOTATION":/input/annotation.gff3:ro \
+        -v "$OUTDIR":/output \
         maxtico/selenoprofiles_container:latest \
         selenoprofiles \
-            -o /data/sp_out \
-            -t /data/genome.fa \
+            -o /output/selenoprofiles_run \
+            -t /input/genome.fa \
             -s eukarya \
             -p eukarya \
-            -output_gtf_file /data/sp_out/all_predictions.gtf
+            -output_gtf_file /output/all_predictions.gtf
 
-    cp "$STAGING/sp_out/all_predictions.gtf" "$GTF_OUT" 2>/dev/null || true
-    cp -r "$STAGING/sp_out/." "$OUTDIR/selenoprofiles_run/" 2>/dev/null || true
+    # The container runs as root so output files are root-owned; fix permissions
+    # so the host runner can read and copy them.
+    docker run --rm \
+        -v "$OUTDIR":/output \
+        busybox \
+        chmod -R a+rw /output
 fi
 
 # ---------------------------------------------------------------------------
