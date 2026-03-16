@@ -28,7 +28,7 @@ import logging
 import shutil
 from pathlib import Path
 
-from utils import BUSCO_HEADER, RETRY_HEADER
+from utils import HEADER, RETRY_HEADER
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
@@ -161,7 +161,7 @@ def main():
     logger.info(f"Existing BUSCO rows   : {len(existing_busco_ids)}")
     logger.info(f"Existing retry rows   : {len(existing_retry_entries)}")
 
-    ensure_header(busco_tsv, BUSCO_HEADER)
+    ensure_header(busco_tsv, HEADER)
     ensure_header(retry_tsv, RETRY_HEADER)
 
     busco_new = []
@@ -171,7 +171,7 @@ def main():
     log_fragments    = sorted(artifacts_dir.rglob("log_*.tsv"))
 
     for frag in result_fragments:
-        rows = read_fragment(frag, BUSCO_HEADER)
+        rows = read_fragment(frag, HEADER)
         for row in rows:
             if row['annotation_id'] not in existing_busco_ids:
                 busco_new.append(row)

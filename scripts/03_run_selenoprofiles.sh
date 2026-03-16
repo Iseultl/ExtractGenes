@@ -100,6 +100,22 @@ fi
 echo "[$(date +'%Y-%m-%d %H:%M:%S')] Selenoprofiles GTF: $GTF_OUT"
 
 # ---------------------------------------------------------------------------
+# Expand the region of the selenoprotein predictions by 300bp upstream and downstream
+# This is needed to capture the full transcript sequence for gffread extraction
+# ---------------------------------------------------------------------------
+if [ -x "$(command -v python)" ]; then
+    python "$(dirname "$0")/expand_gtf_regions.py" \
+        --input_gtf "$GTF_OUT" \
+        --output_gtf "$GTF_OUT" \
+        --genome_fasta "$GENOME" \
+        --expand_upstream 300 \
+        --expand_downstream 300
+else
+    echo "Error: Python is not available in PATH"
+    exit 1
+fi
+
+# ---------------------------------------------------------------------------
 # Extract transcript sequences with gffread
 # ---------------------------------------------------------------------------
 echo "[$(date +'%Y-%m-%d %H:%M:%S')] Extracting selenoprotein transcript sequences with gffread"

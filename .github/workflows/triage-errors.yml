@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   workflow_run:
     workflows:
-      - "BUSCO Matrix Analysis"
+      - "ExtractGenes Pipeline"
     types:
       - completed
     branches:
@@ -61,7 +61,7 @@ jobs:
           LINES=$(tail -n +2 BUSCO/eukaryota_odb12/.retry.log | wc -l | tr -d ' ')
           if [ "$LINES" -gt "0" ]; then
             echo ".retry.log has $LINES entries — triggering BUSCO retry"
-            gh workflow run busco-matrix.yml --ref "${{ github.ref }}"
+            gh workflow run run_pipeline.yml --ref "${{ github.ref }}"
           else
             echo ".retry.log is empty — cycle complete"
           fi

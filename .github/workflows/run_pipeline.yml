@@ -42,7 +42,7 @@ jobs:
 
       - name: Build matrix
         id: build
-        run: python scripts/build_matrix.py test_annotations.tsv BUSCO/eukaryota_odb12/BUSCO.tsv BUSCO/eukaryota_odb12/.retry.log --max-per-job ${{ github.event.inputs.max_per_job || '10' }} --giveup-tsv BUSCO/eukaryota_odb12/.giveup.log
+        run: python scripts/build_matrix.py annotations.tsv BUSCO/eukaryota_odb12/BUSCO.tsv BUSCO/eukaryota_odb12/.retry.log --max-per-job ${{ github.event.inputs.max_per_job || '10' }} --giveup-tsv BUSCO/eukaryota_odb12/.giveup.log
 
       - name: Summary
         run: |
@@ -53,8 +53,8 @@ jobs:
   # ─────────────────────────────────────────────────────────────────────────────
   # JOB 2: Run BUSCO + selenoprofiles analysis in parallel matrix jobs
   # Each job processes a stride of the pending annotation list.
-  # Per-annotation outputs: BUSCO.tsv fragment, BUSCO.fasta, BUSCO.gff,
-  #   Selenoprofiles.gtf, Selenoprofiles.fasta, Selenoprofiles_annotation_result.csv
+  # Per-annotation outputs: BUSCO.tsv fragment, BUSCO.fasta, BUSCO.gtf,
+  #   All_predictions.gtf, Selenoprofiles.fasta, Selenoprofiles_annotation_result.csv
   # ─────────────────────────────────────────────────────────────────────────────
   analysis:
     needs: setup
@@ -113,7 +113,7 @@ jobs:
         shell: bash -el {0}
         run: |
           python scripts/run_busco_batch.py \
-            test_annotations.tsv \
+            annotations.tsv \
             BUSCO/eukaryota_odb12/BUSCO.tsv \
             BUSCO/eukaryota_odb12/.retry.log \
             ${{ matrix.chunk_index }} \

@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       run_id:
-        description: 'Run ID of the BUSCO Matrix Analysis workflow to aggregate (find it in the Actions tab URL)'
+        description: 'Run ID of the ExtractGenes Pipeline workflow to aggregate (find it in the Actions tab URL)'
         required: true
 
 permissions:
@@ -19,10 +19,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download all busco-batch artifacts
+      - name: Download all analysis-batch artifacts
         uses: actions/download-artifact@v4
         with:
-          pattern: busco-batch-*
+          pattern: analysis-batch-*
           path: artifacts/
           merge-multiple: false
           run-id: ${{ github.event.inputs.run_id }}

@@ -31,7 +31,7 @@ import urllib.request
 from datetime import datetime
 from pathlib import Path
 
-from utils import BUSCO_HEADER, RETRY_HEADER
+from utils import HEADER, RETRY_HEADER
 
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
@@ -143,6 +143,31 @@ def get_busco_matched_ids(busco_output_dir):
                 matched.add(seq_id)
     logger.info(f"BUSCO matched IDs: {len(matched)}")
     return matched
+
+# ----------------------------------------------------------------------------
+# Selenoprofiles result parsing
+# ----------------------------------------------------------------------------
+def parse_selenoprofiles_results(seleno_result_csv):
+    """
+    Parse Selenoprofiles_annotation_result.csv and return a dict with counts
+    for each annotation category in the third column.
+    Returns a dict with keys: Downstream, Well_annotated, Upstream, Out_of_frame, Skipped.
+    If the file does not exist, returns all counts as 0.
+    """
+    categories = ["Downstream", "Well_annotated", "Upstream", "Out_of_frame", "Skipped"]
+    counts = {cat: 0 for cat in categories}
+    if not Path(seleno_result_csv).exists():
+        return counts
+
+    with open(seleno_result_csv, newline="") as csvfile:
+        reader = csv.reader(csvfile)
+        for row in reader:
+            if len(row) < 3:
+                continue
+            cat = row[2].strip()
+            if cat in counts:
+                counts[cat] += 1
+    return counts
 
 
 # ---------------------------------------------------------------------------
@@ -284,7 +309,7 @@ def write_result_tsv(result_tsv, annotation_id, busco_results):
     """Write a single-row BUSCO result fragment TSV."""
     with open(result_tsv, "w", newline="") as f:
         writer = csv.writer(f, delimiter="\t", lineterminator="\n")
-        writer.writerow(BUSCO_HEADER)
+        writer.writerow(HEADER)
         writer.writerow([
             annotation_id,
             busco_results["lineage"],
@@ -294,6 +319,11 @@ def write_result_tsv(result_tsv, annotation_id, busco_results):
             busco_results["duplicated"]  if busco_results["duplicated"]  is not None else "NA",
             busco_results["fragmented"]  if busco_results["fragmented"]  is not None else "NA",
             busco_results["missing"]     if busco_results["missing"]     is not None else "NA",
+            busco_results.get("Well_annotated", 0),
+            busco_results.get("Upstream", 0),
+            busco_results.get("Downstream", 0),
+            busco_results.get("Skipped", 0),
+            busco_results.get("Out_of_frame", 0),
         ])
 
 
@@ -527,6 +557,8 @@ def main():
         # ------------------------------------------------------------------
         logger.info("STEP 8: Parse BUSCO results and write result fragment")
         busco_results = parse_busco_results(busco_output)
+        seleno_results = parse_selenoprofiles_results(seleno_outdir / "Selenoprofiles_annotation_result.csv")
+        busco_results.update(seleno_results)
         write_result_tsv(result_tsv, annotation_id, busco_results)
 
         logger.info(f"Analysis complete for {annotation_id}")
