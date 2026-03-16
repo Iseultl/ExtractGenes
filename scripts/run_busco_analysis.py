@@ -531,26 +531,49 @@ def main():
             ],
             "run_selenoprofiles",
         )
+        seleno_outputs = (
+            ("all_predictions.gtf", "All_predictions.gtf"),
+            ("Selenoprofiles.fasta", "Selenoprofiles.fasta"),
+            ("Selenoprofiles_annotation_result.csv", "Selenoprofiles_annotation_result.csv"),
+        )
+
         if not ok:
-            # Non-fatal: record in log but still write BUSCO result
+            # Non-fatal: record in log but still write BUSCO result.
+            # We still copy any selenoprofiles files that were produced before
+            # the failure (for example FASTA written before assess failed).
             logger.warning(
                 f"Selenoprofiles failed for {annotation_id} (non-fatal): {stderr}"
             )
+            if stderr and stderr.strip():
+                stderr_path = output_dir / "Selenoprofiles.stderr.log"
+                stderr_path.write_text(stderr)
+                logger.info(f"Saved selenoprofiles stderr to {stderr_path}")
         else:
-            # Copy selenoprofiles outputs to per-annotation output dir.
-            # all_predictions.gtf is the raw GTF produced by selenoprofiles;
-            # we store it as All_predictions.gtf to match the expected output name.
-            for src_name, dst_name in (
-                ("all_predictions.gtf",               "All_predictions.gtf"),
-                ("Selenoprofiles.fasta",               "Selenoprofiles.fasta"),
-                ("Selenoprofiles_annotation_result.csv", "Selenoprofiles_annotation_result.csv"),
-            ):
-                src = seleno_outdir / src_name
-                if src.exists():
-                    shutil.copy2(src, output_dir / dst_name)
-                    logger.info(f"Copied {src_name} -> {dst_name} in {output_dir}")
-                else:
-                    logger.warning(f"Expected selenoprofiles output missing: {src_name}")
+            logger.info("Selenoprofiles completed successfully")
+
+        # Copy all available selenoprofiles outputs to per-annotation output dir.
+        # all_predictions.gtf is stored as All_predictions.gtf to keep naming
+        # consistent with repository output conventions.
+        for src_name, dst_name in seleno_outputs:
+            src = seleno_outdir / src_name
+            if src.exists():
+                shutil.copy2(src, output_dir / dst_name)
+                logger.info(f"Copied {src_name} -> {dst_name} in {output_dir}")
+            else:
+                logger.warning(f"Expected selenoprofiles output missing: {src_name}")
+
+        # Require prediction output for a successful annotation run.
+        # Without all_predictions.gtf, this annotation should be retried.
+        predictions_gtf = seleno_outdir / "all_predictions.gtf"
+        if not predictions_gtf.exists():
+            msg = "selenoprofiles_predictions_missing:all_predictions.gtf"
+            if stderr and stderr.strip():
+                msg = f"{msg} | {stderr.strip()}"
+            logger.warning(
+                f"Selenoprofiles predictions missing for {annotation_id}; marking for retry"
+            )
+            write_log_tsv(log_tsv, annotation_id, msg)
+            return 1
 
         # ------------------------------------------------------------------
         # Step 8: Parse BUSCO results and write result TSV fragment
