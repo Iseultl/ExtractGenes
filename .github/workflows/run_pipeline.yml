@@ -107,7 +107,7 @@ jobs:
 
       - name: Pull selenoprofiles container
         if: steps.conda-cache.outputs.cache-hit != 'true'
-        run: docker pull maxtico/selenoprofiles_container:v4.5.7
+        run: docker pull maxtico/selenoprofiles_container:v4.5.5
 
       - name: Run batch
         shell: bash -el {0}
