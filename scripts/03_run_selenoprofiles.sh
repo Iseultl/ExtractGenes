@@ -13,6 +13,7 @@
 #
 # Outputs written to <output_dir>:
 #   all_predictions.gtf              - Raw GTF produced by selenoprofiles
+#   all_predictions_expanded.gtf     - Expanded-coordinate GTF used for FASTA extraction
 #   Selenoprofiles.fasta             - Transcript sequences extracted by gffread
 #   Selenoprofiles_annotation_result.csv - Comparison vs reference annotation
 
@@ -27,8 +28,8 @@ if [ "$#" -lt 3 ]; then
     exit 1
 fi
 
-GENOME=$(realpath "$1")
-ANNOTATION=$(realpath "$2")
+GENOME="$1"
+ANNOTATION="$2"
 OUTDIR="$3"
 
 if [ ! -f "$GENOME" ]; then
@@ -42,9 +43,9 @@ if [ ! -f "$ANNOTATION" ]; then
 fi
 
 mkdir -p "$OUTDIR"
-OUTDIR=$(realpath "$OUTDIR")
 
 GTF_OUT="$OUTDIR/all_predictions.gtf"
+GTF_EDITED="$OUTDIR/all_predictions_expanded.gtf"
 
 echo "[$(date +'%Y-%m-%d %H:%M:%S')] Running selenoprofiles on genome: $GENOME"
 
@@ -59,7 +60,7 @@ echo "[$(date +'%Y-%m-%d %H:%M:%S')] Running selenoprofiles on genome: $GENOME"
 if command -v selenoprofiles &> /dev/null; then
     # Direct execution (selenoprofiles installed in PATH via conda or pip)
     selenoprofiles \
-        -o "$OUTDIR/selenoprofiles_run" \
+        -o "$OUTDIR" \
         -t "$GENOME" \
         -s eukarya \
         -p eukarya \
@@ -76,7 +77,7 @@ else
         -v "$OUTDIR":/output \
         maxtico/selenoprofiles_container:latest \
         selenoprofiles \
-            -o /output/selenoprofiles_run \
+            -o /output \
             -t /input/genome.fa \
             -s eukarya \
             -p eukarya \
@@ -99,6 +100,7 @@ if [ ! -f "$GTF_OUT" ]; then
 fi
 echo "[$(date +'%Y-%m-%d %H:%M:%S')] Selenoprofiles GTF: $GTF_OUT"
 
+
 # ---------------------------------------------------------------------------
 # Expand the region of the selenoprotein predictions by 300bp upstream and downstream
 # This is needed to capture the full transcript sequence for gffread extraction
@@ -106,7 +108,7 @@ echo "[$(date +'%Y-%m-%d %H:%M:%S')] Selenoprofiles GTF: $GTF_OUT"
 if [ -x "$(command -v python)" ]; then
     python "$(dirname "$0")/expand_gtf_regions.py" \
         --input_gtf "$GTF_OUT" \
-        --output_gtf "$GTF_OUT" \
+        --output_gtf "$GTF_EDITED" \
         --genome_fasta "$GENOME" \
         --expand_upstream 300 \
         --expand_downstream 300
@@ -114,12 +116,12 @@ else
     echo "Error: Python is not available in PATH"
     exit 1
 fi
-
+echo "[$(date +'%Y-%m-%d %H:%M:%S')] Expanded GTF regions written to $GTF_EDITED"
 # ---------------------------------------------------------------------------
 # Extract transcript sequences with gffread
 # ---------------------------------------------------------------------------
 echo "[$(date +'%Y-%m-%d %H:%M:%S')] Extracting selenoprotein transcript sequences with gffread"
-gffread "$GTF_OUT" -g "$GENOME" -w "$OUTDIR/Selenoprofiles.fasta"
+gffread "$GTF_EDITED" -g "$GENOME" -w "$OUTDIR/Selenoprofiles.fasta"
 echo "[$(date +'%Y-%m-%d %H:%M:%S')] Transcript FASTA written to $OUTDIR/Selenoprofiles.fasta"
 
 # ---------------------------------------------------------------------------

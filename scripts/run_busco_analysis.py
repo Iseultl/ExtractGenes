@@ -533,6 +533,7 @@ def main():
         )
         seleno_outputs = (
             ("all_predictions.gtf", "All_predictions.gtf"),
+            ("all_predictions_expanded.gtf", "All_predictions_expanded.gtf"),
             ("Selenoprofiles.fasta", "Selenoprofiles.fasta"),
             ("Selenoprofiles_annotation_result.csv", "Selenoprofiles_annotation_result.csv"),
         )
@@ -562,18 +563,13 @@ def main():
             else:
                 logger.warning(f"Expected selenoprofiles output missing: {src_name}")
 
-        # Require prediction output for a successful annotation run.
-        # Without all_predictions.gtf, this annotation should be retried.
+        # Missing prediction output is logged as a warning but does not force
+        # a retry, so BUSCO results can still be recorded for this annotation.
         predictions_gtf = seleno_outdir / "all_predictions.gtf"
         if not predictions_gtf.exists():
-            msg = "selenoprofiles_predictions_missing:all_predictions.gtf"
-            if stderr and stderr.strip():
-                msg = f"{msg} | {stderr.strip()}"
             logger.warning(
-                f"Selenoprofiles predictions missing for {annotation_id}; marking for retry"
+                f"Selenoprofiles predictions missing for {annotation_id}; continuing without retry"
             )
-            write_log_tsv(log_tsv, annotation_id, msg)
-            return 1
 
         # ------------------------------------------------------------------
         # Step 8: Parse BUSCO results and write result TSV fragment
