@@ -566,16 +566,11 @@ def main():
         )
 
         if not ok:
-            # Non-fatal: record in log but still write BUSCO result.
-            # We still copy any selenoprofiles files that were produced before
-            # the failure (for example FASTA written before assess failed).
-            logger.warning(
-                f"Selenoprofiles failed for {annotation_id} (non-fatal): {stderr}"
+            write_log_tsv(
+                log_tsv, annotation_id,
+                stderr if stderr else "selenoprofiles_failed"
             )
-            if stderr and stderr.strip():
-                stderr_path = output_dir / "Selenoprofiles.stderr.log"
-                stderr_path.write_text(stderr)
-                logger.info(f"Saved selenoprofiles stderr to {stderr_path}")
+            return 1
         else:
             logger.info("Selenoprofiles completed successfully")
 
@@ -590,13 +585,11 @@ def main():
             else:
                 logger.warning(f"Expected selenoprofiles output missing: {src_name}")
 
-        # Missing prediction output is logged as a warning but does not force
-        # a retry, so BUSCO results can still be recorded for this annotation.
+        # If the GTF wasn't produced despite a zero exit code, treat as failure.
         predictions_gtf = seleno_outdir / "all_predictions.gtf"
         if not predictions_gtf.exists():
-            logger.warning(
-                f"Selenoprofiles predictions missing for {annotation_id}; continuing without retry"
-            )
+            write_log_tsv(log_tsv, annotation_id, "selenoprofiles_missing_gtf")
+            return 1
 
         # ------------------------------------------------------------------
         # Step 8: Parse BUSCO results and write result TSV fragment

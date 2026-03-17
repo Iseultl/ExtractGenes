@@ -125,34 +125,47 @@ gffread "$GTF_EDITED" -g "$GENOME" -w "$OUTDIR/Selenoprofiles.fasta"
 echo "[$(date +'%Y-%m-%d %H:%M:%S')] Transcript FASTA written to $OUTDIR/Selenoprofiles.fasta"
 
 # ---------------------------------------------------------------------------
-# Compare selenoprofiles predictions vs the reference annotation
+# Compare selenoprofiles predictions vs the reference annotation.
+# Skip assess (and write an empty CSV) when the GTF has no predictions —
+# this is valid for genomes with no selenoproteins and should not be treated
+# as a pipeline failure.
 # selenoprofiles assess  -s <predictions.gtf>  -e <reference.gff3>
 #                        -f <genome.fa>         -o <output.csv>
 # ---------------------------------------------------------------------------
-echo "[$(date +'%Y-%m-%d %H:%M:%S')] Running selenoprofiles assess vs reference annotation"
-if command -v selenoprofiles &> /dev/null; then
-    selenoprofiles assess \
-        -s "$GTF_OUT" \
-        -e "$ANNOTATION" \
-        -f "$GENOME" \
-        -o "$OUTDIR/Selenoprofiles_annotation_result.csv"
-else
-    docker run --rm \
-        -v "$OUTDIR":/sp_out \
-        -v "$(dirname "$ANNOTATION")":/annot_dir:ro \
-        -v "$(dirname "$GENOME")":/genome_dir:ro \
-        maxtico/selenoprofiles_container:latest \
-        selenoprofiles assess \
-            -s /sp_out/all_predictions.gtf \
-            -e /annot_dir/$(basename "$ANNOTATION") \
-            -f /genome_dir/$(basename "$GENOME") \
-            -o /sp_out/Selenoprofiles_annotation_result.csv
+CSV_OUT="$OUTDIR/Selenoprofiles_annotation_result.csv"
 
-    docker run --rm \
-        -v "$OUTDIR":/sp_out \
-        busybox \
-        chmod -R a+rw /sp_out
+# Only run assess when the GTF contains actual selenocysteine predictions.
+# Selenoprofiles may still write a GTF for other residue types, but the
+# assess step is only meaningful when "selenocysteine" is present.
+if ! grep -qi 'selenocysteine' "$GTF_OUT"; then
+    echo "[$(date +'%Y-%m-%d %H:%M:%S')] No selenocysteine predictions in GTF; skipping assess step"
+    printf 'transcript_id\ttranscript_id_ens\tType_annotation\n' > "$CSV_OUT"
+else
+    echo "[$(date +'%Y-%m-%d %H:%M:%S')] Running selenoprofiles assess vs reference annotation"
+    if command -v selenoprofiles &> /dev/null; then
+        selenoprofiles assess \
+            -s "$GTF_OUT" \
+            -e "$ANNOTATION" \
+            -f "$GENOME" \
+            -o "$CSV_OUT"
+    else
+        docker run --rm \
+            -v "$OUTDIR":/sp_out \
+            -v "$(dirname "$ANNOTATION")":/annot_dir:ro \
+            -v "$(dirname "$GENOME")":/genome_dir:ro \
+            maxtico/selenoprofiles_container:latest \
+            selenoprofiles assess \
+                -s /sp_out/all_predictions.gtf \
+                -e /annot_dir/$(basename "$ANNOTATION") \
+                -f /genome_dir/$(basename "$GENOME") \
+                -o /sp_out/Selenoprofiles_annotation_result.csv
+
+        docker run --rm \
+            -v "$OUTDIR":/sp_out \
+            busybox \
+            chmod -R a+rw /sp_out
+    fi
 fi
-echo "[$(date +'%Y-%m-%d %H:%M:%S')] Assessment written to $OUTDIR/Selenoprofiles_annotation_result.csv"
+echo "[$(date +'%Y-%m-%d %H:%M:%S')] Assessment written to $CSV_OUT"
 
 echo "[$(date +'%Y-%m-%d %H:%M:%S')] Done. Output directory: $OUTDIR"
