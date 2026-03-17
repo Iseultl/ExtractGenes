@@ -105,9 +105,13 @@ jobs:
           git clone --branch v1.0.0 --depth 1 https://github.com/apollo994/annocli.git
           pip install ./annocli/
 
-      - name: Pull selenoprofiles container
+      - name: Install selenoprofiles
         if: steps.conda-cache.outputs.cache-hit != 'true'
-        run: docker pull maxtico/selenoprofiles_container:v4.5.5
+        shell: bash -el {0}
+        run: |
+          mamba install -y -c mmariotti -c anaconda -c bioconda -c biobuilds selenoprofiles4
+          selenoprofiles -setup
+          selenoprofiles -download
 
       - name: Run batch
         shell: bash -el {0}
