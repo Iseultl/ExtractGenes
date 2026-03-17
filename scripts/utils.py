@@ -6,7 +6,7 @@ from pathlib import Path
 
 logger = logging.getLogger(__name__)
 
-HEADER = ['annotation_id', 'lineage', 'busco_count', 'complete',
+HEADER = ['annotation_id', 'assembly_accession', 'species', 'lineage', 'busco_count', 'complete',
                 'single', 'duplicated', 'fragmented', 'missing', 'Well_annotated', 'Upstream', 'Downstream', 'Skipped', 'Out_of_frame']
 RETRY_HEADER = ['annotation_id', 'run_at', 'step']
 GIVEUP_HEADER = RETRY_HEADER

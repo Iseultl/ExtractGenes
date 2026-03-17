@@ -160,14 +160,39 @@ def parse_selenoprofiles_results(seleno_result_csv):
         return counts
 
     with open(seleno_result_csv, newline="") as csvfile:
-        reader = csv.reader(csvfile)
+        reader = csv.reader(csvfile, delimiter="\t")
         for row in reader:
             if len(row) < 3:
                 continue
-            cat = row[2].strip()
+            cat = row[2].strip().replace(" ", "_")
             if cat in counts:
                 counts[cat] += 1
     return counts
+
+
+def infer_species_from_annotation_url(annotation_url):
+    """
+    Infer species label from an annotation URL.
+    Returns a value like Homo_sapiens when possible, else NA.
+    """
+    m = re.search(r"/ensemblorganisms/([^/]+)/", annotation_url)
+    if m:
+        return m.group(1)
+    m = re.search(r"/(?:pub/)?ensembl/([^/]+)/", annotation_url)
+    if m:
+        return m.group(1)
+    return "NA"
+
+
+def infer_assembly_accession_from_url(assembly_url):
+    """
+    Infer assembly accession from a genome assembly URL.
+    Returns a value like GCF_000695815.1 or GCA_042031275.1 when possible.
+    """
+    m = re.search(r"(GC[AF]_\d+\.\d+)", assembly_url)
+    if m:
+        return m.group(1)
+    return "NA"
 
 
 # ---------------------------------------------------------------------------
@@ -305,13 +330,15 @@ def extract_busco_sequences(
 # Helpers: TSV fragment writers
 # ---------------------------------------------------------------------------
 
-def write_result_tsv(result_tsv, annotation_id, busco_results):
+def write_result_tsv(result_tsv, annotation_id, assembly_accession, species, busco_results):
     """Write a single-row BUSCO result fragment TSV."""
     with open(result_tsv, "w", newline="") as f:
         writer = csv.writer(f, delimiter="\t", lineterminator="\n")
         writer.writerow(HEADER)
         writer.writerow([
             annotation_id,
+            assembly_accession,
+            species,
             busco_results["lineage"],
             busco_results["busco_count"] if busco_results["busco_count"] is not None else "NA",
             busco_results["complete"]    if busco_results["complete"]    is not None else "NA",
@@ -578,7 +605,9 @@ def main():
         busco_results = parse_busco_results(busco_output)
         seleno_results = parse_selenoprofiles_results(seleno_outdir / "Selenoprofiles_annotation_result.csv")
         busco_results.update(seleno_results)
-        write_result_tsv(result_tsv, annotation_id, busco_results)
+        assembly_accession = infer_assembly_accession_from_url(assembly_url)
+        species = infer_species_from_annotation_url(annotation_url)
+        write_result_tsv(result_tsv, annotation_id, assembly_accession, species, busco_results)
 
         logger.info(f"Analysis complete for {annotation_id}")
         return 0

@@ -1,22 +1,22 @@
-annotation_id	lineage	busco_count	complete	single	duplicated	fragmented	missing	Well_annotated	Upstream	Downstream	Skipped	Out_of_frame
-0ae079e7891fce57e2dc27f3e1243b86	eukaryota_odb12	129	96.9	96.1	0.8	3.1	0.0	0	0	0	0	0
-a8b7c3b81a8788e6789998a1e4c8cf25	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	0	0	0	0	0
-17a2206e38e78781f6fa55446d6ce8c3	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	0	0	0	0	0
-abb9c8eb9d3e67ea8d69bb74227b3cf6	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	0	0	0	0	0
-991c4ef9cd67049776870e8528ebc40b	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	0	0	0	0	0
-1bb1f2aeff51c04158d921902abee545	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	0	0	0	0	0
-bee0efcbfdcc29701c535c652001da1f	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	0	0	0	0	0
-20a0165d6c1410552bfab29dd88e9e3c	eukaryota_odb12	129	96.1	94.6	1.6	3.9	0.0	0	0	0	0	0
-c17de5e99e237a928dcc034d839f8a05	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	0	0	0	0	0
-5936811057280f4db6c36265e77dc62f	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	0	0	0	0	0
-c90e848e964bd31f598bf4dad6ed575c	eukaryota_odb12	129	96.9	96.1	0.8	3.1	0.0	0	0	0	0	0
-6cd50f5475212c5bac644461947cdb42	eukaryota_odb12	129	96.9	96.1	0.8	3.1	0.0	0	0	0	0	0
-da1e16bfe734ac682053a6f38d2bc9be	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	0	0	0	0	0
-777182dc987cfab4b55e0208a79463ea	eukaryota_odb12	129	96.9	96.1	0.8	3.1	0.0	0	0	0	0	0
-e16dd563c74263632d295c08186cec7f	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	0	0	0	0	0
-783aa83dfc385d9d0a2044714acbe045	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	0	0	0	0	0
-e27147e3bd7cff47e412c2d01fc23505	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	0	0	0	0	0
-816ea8269c61329ffd1a29a7b05a49f9	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	0	0	0	0	0
-fca0c7689126f4d9482de8150b2bfddc	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	0	0	0	0	0
-954d1df107cdca89a16323773cf88397	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	0	0	0	0	0
-fe7597664b7ca095cd9eca02010ce535	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	0	0	0	0	0
+annotation_id	assembly_accession	species	lineage	busco_count	complete	single	duplicated	fragmented	missing	Well_annotated	Upstream	Downstream	Skipped	Out_of_frame
+0ae079e7891fce57e2dc27f3e1243b86	GCA_042031275.1	Homo_sapiens	eukaryota_odb12	129	96.9	96.1	0.8	3.1	0.0	84	25	7	4	12
+a8b7c3b81a8788e6789998a1e4c8cf25	GCA_041900245.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	84	25	7	4	12
+17a2206e38e78781f6fa55446d6ce8c3	GCA_042077855.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	84	25	7	4	12
+abb9c8eb9d3e67ea8d69bb74227b3cf6	GCA_042031945.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	84	25	7	4	12
+991c4ef9cd67049776870e8528ebc40b	GCA_042030605.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	84	25	7	4	12
+1bb1f2aeff51c04158d921902abee545	GCA_042077995.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	84	25	7	4	12
+bee0efcbfdcc29701c535c652001da1f	GCA_042076675.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	84	25	7	4	12
+20a0165d6c1410552bfab29dd88e9e3c	GCA_042077985.1	Homo_sapiens	eukaryota_odb12	129	96.1	94.6	1.6	3.9	0.0	84	25	7	4	12
+c17de5e99e237a928dcc034d839f8a05	GCA_042078025.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	74	25	5	4	12
+5936811057280f4db6c36265e77dc62f	GCA_042076545.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	84	25	7	4	12
+c90e848e964bd31f598bf4dad6ed575c	GCA_042076825.1	Homo_sapiens	eukaryota_odb12	129	96.9	96.1	0.8	3.1	0.0	84	25	7	4	12
+6cd50f5475212c5bac644461947cdb42	GCA_042077965.1	Homo_sapiens	eukaryota_odb12	129	96.9	96.1	0.8	3.1	0.0	84	25	7	4	12
+da1e16bfe734ac682053a6f38d2bc9be	GCA_042077885.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	84	25	7	4	12
+777182dc987cfab4b55e0208a79463ea	GCA_042077015.1	Homo_sapiens	eukaryota_odb12	129	96.9	96.1	0.8	3.1	0.0	84	25	7	4	12
+e16dd563c74263632d295c08186cec7f	GCA_042077745.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	84	25	7	4	12
+783aa83dfc385d9d0a2044714acbe045	GCA_042076565.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	84	25	7	4	12
+e27147e3bd7cff47e412c2d01fc23505	GCA_041900255.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	84	25	7	4	12
+816ea8269c61329ffd1a29a7b05a49f9	GCA_042032465.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	84	25	7	4	12
+fca0c7689126f4d9482de8150b2bfddc	GCA_042077865.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	84	25	7	4	12
+954d1df107cdca89a16323773cf88397	GCA_042031775.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	84	25	7	4	12
+fe7597664b7ca095cd9eca02010ce535	GCA_042076665.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	84	25	7	4	12

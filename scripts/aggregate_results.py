@@ -151,7 +151,11 @@ def main():
     busco_tsv     = sys.argv[2]
     retry_tsv     = sys.argv[3]
     outputs_dir   = sys.argv[4] if len(sys.argv) == 5 else "outputs"
-
+    print(f"Artifacts dir: {artifacts_dir}")
+    print(f"BUSCO.tsv    : {busco_tsv}")
+    print(f".retry.log   : {retry_tsv}")
+    print(f"Outputs dir   : {outputs_dir}") 
+    
     if not artifacts_dir.is_dir():
         logger.error(f"Artifacts directory not found: {artifacts_dir}")
         sys.exit(1)
@@ -172,6 +176,7 @@ def main():
 
     for frag in result_fragments:
         rows = read_fragment(frag, HEADER)
+        print(rows)
         for row in rows:
             if row['annotation_id'] not in existing_busco_ids:
                 busco_new.append(row)
