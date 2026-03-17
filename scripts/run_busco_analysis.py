@@ -154,7 +154,7 @@ def parse_selenoprofiles_results(seleno_result_csv):
     Returns a dict with keys: Downstream, Well_annotated, Upstream, Out_of_frame, Skipped.
     If the file does not exist, returns all counts as 0.
     """
-    categories = ["Downstream", "Well_annotated", "Upstream", "Out_of_frame", "Skipped"]
+    categories = ["Downstream", "Well_annotated", "Upstream", "Out_of_frame", "Skipped", "Spliced"]
     counts = {cat: 0 for cat in categories}
     if not Path(seleno_result_csv).exists():
         return counts
