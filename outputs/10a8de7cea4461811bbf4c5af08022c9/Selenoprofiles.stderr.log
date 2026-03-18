@@ -1,0 +1,53 @@
+invalid escape sequence '\|'
+invalid escape sequence '\|'
+invalid escape sequence '\|'
+invalid escape sequence '\w'
+invalid escape sequence '\w'
+invalid escape sequence '\|'
+invalid escape sequence '\|'
+invalid escape sequence '\|'
+invalid escape sequence '\|'
+invalid escape sequence '\|'
+invalid escape sequence '\w'
+invalid escape sequence '\w'
+invalid escape sequence '\|'
+invalid escape sequence '\|'
+Profile TXNRD : profile_data not found or detected change in alignment file! Recomputing profile_data...
+
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+Traceback (most recent call last):
+  File "/opt/conda/bin/selenoprofiles", line 7, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/selenoprofiles4/selenoprofiles4.py", line 1674, in main
+    run_assess(ass_opt)
+  File "/opt/conda/lib/python3.12/site-packages/selenoprofiles4/selenoprofiles_assess.py", line 250, in main
+    sel_cor = pr.PyRanges(sel_cor, int64=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/pyranges/core/pyranges_main.py", line 196, in __init__
+    super().__init__(*args, **kwargs)
+  File "/opt/conda/lib/python3.12/site-packages/pyranges/range_frame/range_frame.py", line 56, in __init__
+    super().__init__(*args, **kwargs)
+TypeError: DataFrame.__init__() got an unexpected keyword argument 'int64'

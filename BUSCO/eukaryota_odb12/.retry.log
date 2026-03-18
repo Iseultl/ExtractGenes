@@ -17,4 +17,65 @@ f628158077010762f66c13935b5630a3	2026-03-13 15:36:03	unexpected_error: [Errno 13
 5a5982d4207be9f7d6bc8457a02b20af	2026-03-13 15:36:10	unexpected_error: [Errno 13] Permission denied: '/home/runner/work/ExtractGenes/ExtractGenes/scripts/03_run_selenoprofiles.sh'
 845380a5a9804cbda0a80e1515e9eec6	2026-03-13 15:36:07	unexpected_error: [Errno 13] Permission denied: '/home/runner/work/ExtractGenes/ExtractGenes/scripts/03_run_selenoprofiles.sh'
 89c71fcd641af5e59f466504f5fdf854	2026-03-13 15:35:42	unexpected_error: [Errno 13] Permission denied: '/home/runner/work/ExtractGenes/ExtractGenes/scripts/03_run_selenoprofiles.sh'
-8a1777d430c30910fcab89d1e00d62e7	2026-03-13 15:35:58	unexpected_error: [Errno 13] Permission denied: '/home/runner/work/ExtractGenes/ExtractGenes/scripts/03_run_selenoprofiles.sh'
+8a1777d430c30910fcab89d1e00d62e7	2026-03-13 15:35:58	unexpected_error: [Errno 13] Permission denied: '/home/runner/work/ExtractGenes/ExtractGenes/scripts/03_run_selenoprofiles.sh'09acc20d08b248b2dd88ea695c30dd3f	2026-03-17 13:19:13	Unexpected error downloading : unknown url type: ''
+01ea7639ac2920b640935eb55071cf23	2026-03-17 12:11:29	FASTA index file /tmp/tmp.lY22EPnC8X/input.fna.fai created.
+0501081105e305c677aec25ef4add939	2026-03-17 13:31:48	FASTA index file /tmp/tmp.l9JLobqaro/input.fna.fai created.
+1489ad9653106eb47f4a6d3764e0999a	2026-03-17 13:39:44	FASTA index file /tmp/tmp.pTUWrccTpy/input.fna.fai created.
+0bb5a6e543164afba67201c073053c9c	2026-03-17 15:42:53	FASTA index file /tmp/tmp.sdLOZoKjzV/input.fna.fai created. Warning: couldn't find fasta record for 'NC_002653.1'! Error: no genomic sequence available (check -g option!).
+02168af710d804bfe06bcde00f27c7f8	2026-03-17 13:52:56	FASTA index file /tmp/tmp.TOCcIrndq0/input.fna.fai created.
+0e60d851523fe0b8542e60ea3fce5db8	2026-03-17 13:17:37	FASTA index file /tmp/tmp.Mx6OITpwxl/input.fna.fai created.
+0bd0bfd99bba00f3036b59c59b3a62b9	2026-03-17 16:49:25	HTTP 404 downloading https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/029/289/425/GCF_029289425.2_NHGRI_mPanPan1-v2.1_pri/GCF_029289425.2_NHGRI_mPanPan1-v2.1_pri_genomic.fna.gz: Not Found
+10a09d0682fe57c71d117fff611e9397	2026-03-17 13:55:27	"FASTA index file /tmp/tmp.jaFpk9ig3F/input.fna.fai created. free(): invalid pointer /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 27842 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+0794b24e5697c736ac89d5a3f976624a	2026-03-17 12:47:56	FASTA index file /tmp/tmp.eByJXYuURH/input.fna.fai created.
+079ceb4c1bcfba26597910924faa7af5	2026-03-17 16:41:14	FASTA index file /tmp/tmp.c3t9XJjVLk/input.fna.fai created.
+12e7731ec0b591b199e229ccff75669f	2026-03-17 12:24:39	FASTA index file /tmp/tmp.iTgmhxZ1Mh/input.fna.fai created.
+028d1c0bdd1c71ff20c302e7a33124bb	2026-03-17 14:25:56	"FASTA index file /tmp/tmp.VMlUQrB6WN/input.fna.fai created. free(): invalid next size (normal) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64:  2570 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+07e1c122ef1b117f60e6cd9e46c0a1bf	2026-03-17 15:16:10	FASTA index file /tmp/tmp.s5hpg8nDRa/input.fna.fai created.
+07fb23a367220dd69925358f16f190a1	2026-03-17 17:17:14	FASTA index file /tmp/tmp.1EG05bS268/input.fna.fai created.
+08180d5356bdad5e8d2f5635e693d221	2026-03-17 15:55:17	FASTA index file /tmp/tmp.YGsgWxgqge/input.fna.fai created.
+02e9703a5e409ab9c99bc03eab6eead7	2026-03-17 14:53:02	Unexpected error downloading : unknown url type: ''
+112128455c36f1b7fb618a98d21b6079	2026-03-17 12:27:40	FASTA index file /tmp/tmp.OYqgPdlgtm/input.fna.fai created.
+09d1831976b15783f111d2b924fa4cf0	2026-03-17 12:57:16	FASTA index file /tmp/tmp.nCr71y0KA6/input.fna.fai created.
+155b12fb52dc1ba882c1d927747ccd70	2026-03-17 17:14:50	FASTA index file /tmp/tmp.vIaipHTJ0C/input.fna.fai created.
+051f7ad94c9ef4828db9fb96c6bd1811	2026-03-17 12:14:47	HTTP 404 downloading https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/964/275/305/GCA_964275305.1_ilCoeDoru1.hap1.1/GCA_964275305.1_ilCoeDoru1.hap1.1_genomic.fna.gz: Not Found
+0851685cf236fba9cdd973403d6cfb9c	2026-03-17 18:31:22	FASTA index file /tmp/tmp.stcdE4nnU2/input.fna.fai created.
+032fd4f7a8a28e8b43271cfbd91cf148	2026-03-17 16:34:01	"FASTA index file /tmp/tmp.7SwDfiaAjD/input.fna.fai created. free(): invalid next size (normal) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64:  3221 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+0377bd61f4a36ca97e26c679a2e8d040	2026-03-17 16:12:09	FASTA index file /tmp/tmp.KaSjrV5cRB/input.fna.fai created. Warning: couldn't find fasta record for '1A'! Error: no genomic sequence available (check -g option!).
+0cd0f0b597a603e90c8c04084ecabb22	2026-03-17 16:15:38	FASTA index file /tmp/tmp.OwARnDHRER/input.fna.fai created.
+0cd56ec176ec0146529ac63bc26e0fbc	2026-03-17 16:15:21	"FASTA index file /tmp/tmp.Ga3Ob4UdTg/input.fna.fai created. free(): invalid next size (normal) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 12257 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+1182b34b4ea79020062fe6dfd0666974	2026-03-17 16:15:28	FASTA index file /tmp/tmp.vW4Xm4jnqz/input.fna.fai created.
+0cd7d1364b2635c112c0f2ade13ea608	2026-03-17 15:50:01	FASTA index file /tmp/tmp.CqFR8gQWCC/input.fna.fai created.
+088f3a4c75cc3ce357c2c7b147d3a52c	2026-03-17 19:16:34	FASTA index file /tmp/tmp.aa6uJKINij/input.fna.fai created. Warning: couldn't find fasta record for 'KI913952'! Error: no genomic sequence available (check -g option!).
+0894735667bc93e737500a0c803e921a	2026-03-17 16:59:32	FASTA index file /tmp/tmp.UpQ2hcjXBu/input.fna.fai created.
+0d36fbc0821b28fa216796eb754c16c3	2026-03-17 16:08:52	FASTA index file /tmp/tmp.NSlaBE4x7n/input.fna.fai created. GffObj::getSpliced() error: improper genomic coordinate 49251 on KZ622970.1 for transcript:KQK11863
+15dab41368202c2d893291acadbd920f	2026-03-17 17:19:09	FASTA index file /tmp/tmp.Jvx421pV5t/input.fna.fai created.
+11dc6e333513010be1ae541f6fdc2dbc	2026-03-17 16:16:28	FASTA index file /tmp/tmp.lRznoHRkFg/input.fna.fai created. Error: discarding overlapping duplicate gene feature (748757-748793) with ID=gene-NCAS_0Atrna4P Error: discarding overlapping duplicate gene feature (912865-912910) with ID=gene-NCAS_0Atrna9S Error: discarding overlapping duplicate gene feature (961519-961555) with ID=gene-NCAS_0Atrna5P Error: discarding overlapping duplicate gene feature (1407204-1407240) with ID=gene-NCAS_0Atrna5W Error: discarding overlapping duplicate gene feature (1661718-1661754) with ID=gene-NCAS_0Atrna6P Error: discarding overlapping duplicate gene feature (1763930-1763966) with ID=gene-NCAS_0Atrna3Y Error: discarding overlapping duplicate gene feature (1773977-1774022) with ID=gene-NCAS_0Atrna11S Error: discarding overlapping duplicate gene feature (2090396-2090432) with ID=gene-NCAS_0Atrna8K Error: discarding overlapping duplicate gene feature (2309996-2310032) with ID=gene-NCAS_0Atrna9K Error: discarding overlapping duplicate gene feature (2416128-2416164) with ID=gene-NCAS_0Atrna4Y Error: discarding overlapping duplicate gene feature (2889546-2889582) with ID=gene-NCAS_0Atrna7F
+08df300496b9f0198d328ad75e48f37b	2026-03-17 17:16:44	Unexpected error downloading : unknown url type: ''
+0e96e33fcba3cd80b05e45fa2f0a8738	2026-03-17 12:22:34	"FASTA index file /tmp/tmp.0hnmFXDS3Y/input.fna.fai created. malloc(): invalid size (unsorted) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 24774 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+0424b556ecd9867567a7cfad8a20eb7c	2026-03-17 15:23:46	FASTA index file /tmp/tmp.90qs2GZ3Xm/input.fna.fai created. Warning: couldn't find fasta record for 'HG970332'! Error: no genomic sequence available (check -g option!).
+091ada95173f7fee7870706ef26e84e8	2026-03-17 18:07:54	FASTA index file /tmp/tmp.vqrvGJMKqN/input.fna.fai created.
+1239a831517aef3c644bd303fcb2b816	2026-03-17 18:23:40	FASTA index file /tmp/tmp.clcdVX58P6/input.fna.fai created.
+16a9a656aa327d4d301cf9a4fb1f4bf8	2026-03-17 17:58:20	FASTA index file /tmp/tmp.2fDNGg4Stg/input.fna.fai created.
+0499ac1e2b730d0d39ce04052933d925	2026-03-17 18:01:40	FASTA index file /tmp/tmp.XXcJchgbvX/input.fna.fai created. Warning: couldn't find fasta record for 'LN901635'! Error: no genomic sequence available (check -g option!).
+0955b2b67bbab9682692452003c023d9	2026-03-17 17:26:47	Unexpected error downloading : unknown url type: ''
+053f516c452786dd4ed86e3267070ae0	2026-03-17 12:14:43	FASTA index file /tmp/tmp.0d96Hl79lj/input.fna.fai created.
+0e3241998a2c22b22713aa8f6c34620a	2026-03-17 18:16:32	FASTA index file /tmp/tmp.KazluIIvhI/input.fna.fai created. Warning: couldn't find fasta record for 'RWGY01000011.1'! Error: no genomic sequence available (check -g option!).
+16ef63dc274c69e3787780135f77c2c7	2026-03-17 18:42:46	FASTA index file /tmp/tmp.S8lFboTUUt/input.fna.fai created.
+0a06813dda438af01b9f1cf3f3437032	2026-03-17 13:23:41	"FASTA index file /tmp/tmp.ZXA3SyMKYJ/input.fna.fai created. munmap_chunk(): invalid pointer /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 11979 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+0079e5ad3528d344aafa86be0ede0b54	2026-03-17 15:45:46	FASTA index file /tmp/tmp.JpaAQu9au0/input.fna.fai created.
+05608d93a282a3c29f6217ff1caa8e5d	2026-03-17 14:27:49	FASTA index file /tmp/tmp.PQ9nT3qnDU/input.fna.fai created. Warning: couldn't find fasta record for '1A'! Error: no genomic sequence available (check -g option!).
+04d5e9b6ef7f9ecbc1f328112a7d3f01	2026-03-17 12:20:12	FASTA index file /tmp/tmp.wvFBxPaM1x/input.fna.fai created.
+13a08ac8a46af1c7b1067ccbf86873a0	2026-03-17 14:53:09	FASTA index file /tmp/tmp.gvZcihOJJl/input.fna.fai created.
+0f148c3c314c4cd7278b8d181904ad04	2026-03-17 16:03:07	FASTA index file /tmp/tmp.ptxClILjPx/input.fna.fai created.
+05830c10d7816e9f3b6c6f848708e0d6	2026-03-17 12:28:47	"FASTA index file /tmp/tmp.i6oseaqWOZ/input.fna.fai created. free(): invalid next size (normal) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 17237 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+01101e1e6836cc4ec1be08192fb4a6ad	2026-03-17 12:11:40	FASTA index file /tmp/tmp.7RiNDqLBna/input.fna.fai created.
+0f66b70b4f3cc0b443d721215c900f86	2026-03-17 12:23:33	FASTA index file /tmp/tmp.ZWbAeSDg8p/input.fna.fai created.
+0f806f220b7b77b8a5c784327d6baea7	2026-03-17 13:37:48	FASTA index file /tmp/tmp.k1JwjK7Qf7/input.fna.fai created.
+064cc6948a384a84c5d3c04264c17275	2026-03-17 12:19:30	FASTA index file /tmp/tmp.gJpTNgFb26/input.fna.fai created.
+0f96569c0a882cade0017806fa060fb2	2026-03-17 15:18:31	FASTA index file /tmp/tmp.10YLlUNk2E/input.fna.fai created.
+1426cf8ee14a01cbd4f061d5dbb1eba6	2026-03-17 12:47:03	FASTA index file /tmp/tmp.oyBMzKcf9b/input.fna.fai created.
+002530fa07a72237fe4becf56e7c0f16	2026-03-17 12:11:31	FASTA index file /tmp/tmp.KdT0vZSqv0/input.fna.fai created.
+016bf0d67bbed6dcfba7d1eda12bff83	2026-03-17 14:13:35	FASTA index file /tmp/tmp.UBTazDh2oi/input.fna.fai created.
+0b1f932fcd92f2e8243e687abbe0e4b3	2026-03-17 13:51:11	FASTA index file /tmp/tmp.MfmSvXiqVN/input.fna.fai created.
+069fa475361db62634585b40cda60d8e	2026-03-17 12:58:18	"FASTA index file /tmp/tmp.Ro8oLn8RLs/input.fna.fai created. corrupted double-linked list /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64:  6748 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+1452ca7559517bfd4c490d458b4bc154	2026-03-17 12:20:22	"FASTA index file /tmp/tmp.zHgSx8jVN7/input.fna.fai created. malloc(): invalid size (unsorted) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 22978 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""

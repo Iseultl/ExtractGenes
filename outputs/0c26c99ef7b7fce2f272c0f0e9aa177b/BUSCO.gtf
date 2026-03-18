@@ -1,0 +1,750 @@
+NC_063068.1	RefSeq	transcript	532399	533790	.	-	.	transcript_id "rna-XM_047980963.1"; gene_id "gene-JDV02_000188"; gene_name "KRR1"
+NC_063068.1	RefSeq	exon	532399	533790	.	-	.	transcript_id "rna-XM_047980963.1"; gene_id "gene-JDV02_000188"; gene_name "KRR1";
+NC_063068.1	RefSeq	CDS	532540	533505	.	-	0	transcript_id "rna-XM_047980963.1"; gene_id "gene-JDV02_000188"; gene_name "KRR1";
+NC_063068.1	RefSeq	transcript	665759	667568	.	-	.	transcript_id "rna-XM_047981007.1"; gene_id "gene-JDV02_000227"; gene_name "ENP1"
+NC_063068.1	RefSeq	exon	665759	666809	.	-	.	transcript_id "rna-XM_047981007.1"; gene_id "gene-JDV02_000227"; gene_name "ENP1";
+NC_063068.1	RefSeq	exon	666862	667568	.	-	.	transcript_id "rna-XM_047981007.1"; gene_id "gene-JDV02_000227"; gene_name "ENP1";
+NC_063068.1	RefSeq	CDS	665948	666809	.	-	1	transcript_id "rna-XM_047981007.1"; gene_id "gene-JDV02_000227"; gene_name "ENP1";
+NC_063068.1	RefSeq	CDS	666862	667457	.	-	0	transcript_id "rna-XM_047981007.1"; gene_id "gene-JDV02_000227"; gene_name "ENP1";
+NC_063068.1	RefSeq	transcript	983148	984541	.	-	.	transcript_id "rna-XM_047981120.1"; gene_id "gene-JDV02_000324"; gene_name "ISY1"
+NC_063068.1	RefSeq	exon	983148	984395	.	-	.	transcript_id "rna-XM_047981120.1"; gene_id "gene-JDV02_000324"; gene_name "ISY1";
+NC_063068.1	RefSeq	exon	984482	984541	.	-	.	transcript_id "rna-XM_047981120.1"; gene_id "gene-JDV02_000324"; gene_name "ISY1";
+NC_063068.1	RefSeq	CDS	983667	984395	.	-	0	transcript_id "rna-XM_047981120.1"; gene_id "gene-JDV02_000324"; gene_name "ISY1";
+NC_063068.1	RefSeq	CDS	984482	984484	.	-	0	transcript_id "rna-XM_047981120.1"; gene_id "gene-JDV02_000324"; gene_name "ISY1";
+NC_063068.1	RefSeq	transcript	1158180	1159756	.	-	.	transcript_id "rna-XM_047981188.1"; gene_id "gene-JDV02_000387"
+NC_063068.1	RefSeq	exon	1158180	1159756	.	-	.	transcript_id "rna-XM_047981188.1"; gene_id "gene-JDV02_000387";
+NC_063068.1	RefSeq	CDS	1158860	1159645	.	-	0	transcript_id "rna-XM_047981188.1"; gene_id "gene-JDV02_000387";
+NC_063068.1	RefSeq	transcript	2289450	2290222	.	-	.	transcript_id "rna-XM_047981587.1"; gene_id "gene-JDV02_000742"; gene_name "MRPL51"
+NC_063068.1	RefSeq	exon	2289450	2289942	.	-	.	transcript_id "rna-XM_047981587.1"; gene_id "gene-JDV02_000742"; gene_name "MRPL51";
+NC_063068.1	RefSeq	exon	2290005	2290087	.	-	.	transcript_id "rna-XM_047981587.1"; gene_id "gene-JDV02_000742"; gene_name "MRPL51";
+NC_063068.1	RefSeq	exon	2290138	2290222	.	-	.	transcript_id "rna-XM_047981587.1"; gene_id "gene-JDV02_000742"; gene_name "MRPL51";
+NC_063068.1	RefSeq	CDS	2289651	2289942	.	-	1	transcript_id "rna-XM_047981587.1"; gene_id "gene-JDV02_000742"; gene_name "MRPL51";
+NC_063068.1	RefSeq	CDS	2290005	2290087	.	-	0	transcript_id "rna-XM_047981587.1"; gene_id "gene-JDV02_000742"; gene_name "MRPL51";
+NC_063068.1	RefSeq	CDS	2290138	2290176	.	-	0	transcript_id "rna-XM_047981587.1"; gene_id "gene-JDV02_000742"; gene_name "MRPL51";
+NC_063068.1	RefSeq	transcript	2292690	2293947	.	-	.	transcript_id "rna-XM_047981589.1"; gene_id "gene-JDV02_000744"; gene_name "MRT4"
+NC_063068.1	RefSeq	exon	2292690	2293004	.	-	.	transcript_id "rna-XM_047981589.1"; gene_id "gene-JDV02_000744"; gene_name "MRT4";
+NC_063068.1	RefSeq	exon	2293063	2293947	.	-	.	transcript_id "rna-XM_047981589.1"; gene_id "gene-JDV02_000744"; gene_name "MRT4";
+NC_063068.1	RefSeq	CDS	2292932	2293004	.	-	1	transcript_id "rna-XM_047981589.1"; gene_id "gene-JDV02_000744"; gene_name "MRT4";
+NC_063068.1	RefSeq	CDS	2293063	2293733	.	-	0	transcript_id "rna-XM_047981589.1"; gene_id "gene-JDV02_000744"; gene_name "MRT4";
+NC_063068.1	RefSeq	transcript	2556034	2557939	.	+	.	transcript_id "rna-XM_047981682.1"; gene_id "gene-JDV02_000820"; gene_name "HAT1_1"
+NC_063068.1	RefSeq	exon	2556034	2556231	.	+	.	transcript_id "rna-XM_047981682.1"; gene_id "gene-JDV02_000820"; gene_name "HAT1_1";
+NC_063068.1	RefSeq	exon	2556284	2556568	.	+	.	transcript_id "rna-XM_047981682.1"; gene_id "gene-JDV02_000820"; gene_name "HAT1_1";
+NC_063068.1	RefSeq	exon	2556622	2557939	.	+	.	transcript_id "rna-XM_047981682.1"; gene_id "gene-JDV02_000820"; gene_name "HAT1_1";
+NC_063068.1	RefSeq	CDS	2556204	2556231	.	+	0	transcript_id "rna-XM_047981682.1"; gene_id "gene-JDV02_000820"; gene_name "HAT1_1";
+NC_063068.1	RefSeq	CDS	2556284	2556568	.	+	2	transcript_id "rna-XM_047981682.1"; gene_id "gene-JDV02_000820"; gene_name "HAT1_1";
+NC_063068.1	RefSeq	CDS	2556622	2557766	.	+	2	transcript_id "rna-XM_047981682.1"; gene_id "gene-JDV02_000820"; gene_name "HAT1_1";
+NC_063068.1	RefSeq	transcript	2622859	2624007	.	-	.	transcript_id "rna-XM_047981703.1"; gene_id "gene-JDV02_000839"; gene_name "GAR1_1"
+NC_063068.1	RefSeq	exon	2622859	2623707	.	-	.	transcript_id "rna-XM_047981703.1"; gene_id "gene-JDV02_000839"; gene_name "GAR1_1";
+NC_063068.1	RefSeq	exon	2623776	2624007	.	-	.	transcript_id "rna-XM_047981703.1"; gene_id "gene-JDV02_000839"; gene_name "GAR1_1";
+NC_063068.1	RefSeq	CDS	2623121	2623707	.	-	2	transcript_id "rna-XM_047981703.1"; gene_id "gene-JDV02_000839"; gene_name "GAR1_1";
+NC_063068.1	RefSeq	CDS	2623776	2623827	.	-	0	transcript_id "rna-XM_047981703.1"; gene_id "gene-JDV02_000839"; gene_name "GAR1_1";
+NC_063068.1	RefSeq	transcript	3381217	3382569	.	+	.	transcript_id "rna-XM_047981955.1"; gene_id "gene-JDV02_001064"
+NC_063068.1	RefSeq	exon	3381217	3382569	.	+	.	transcript_id "rna-XM_047981955.1"; gene_id "gene-JDV02_001064";
+NC_063068.1	RefSeq	CDS	3381590	3382531	.	+	0	transcript_id "rna-XM_047981955.1"; gene_id "gene-JDV02_001064";
+NC_063068.1	RefSeq	transcript	3658713	3661579	.	+	.	transcript_id "rna-XM_047982041.1"; gene_id "gene-JDV02_001139"; gene_name "NOP14"
+NC_063068.1	RefSeq	exon	3658713	3659045	.	+	.	transcript_id "rna-XM_047982041.1"; gene_id "gene-JDV02_001139"; gene_name "NOP14";
+NC_063068.1	RefSeq	exon	3659104	3661579	.	+	.	transcript_id "rna-XM_047982041.1"; gene_id "gene-JDV02_001139"; gene_name "NOP14";
+NC_063068.1	RefSeq	CDS	3658749	3659045	.	+	0	transcript_id "rna-XM_047982041.1"; gene_id "gene-JDV02_001139"; gene_name "NOP14";
+NC_063068.1	RefSeq	CDS	3659104	3661530	.	+	0	transcript_id "rna-XM_047982041.1"; gene_id "gene-JDV02_001139"; gene_name "NOP14";
+NC_063068.1	RefSeq	transcript	3701959	3703888	.	-	.	transcript_id "rna-XM_047982057.1"; gene_id "gene-JDV02_001155"
+NC_063068.1	RefSeq	exon	3701959	3703098	.	-	.	transcript_id "rna-XM_047982057.1"; gene_id "gene-JDV02_001155";
+NC_063068.1	RefSeq	exon	3703200	3703888	.	-	.	transcript_id "rna-XM_047982057.1"; gene_id "gene-JDV02_001155";
+NC_063068.1	RefSeq	CDS	3702372	3703098	.	-	1	transcript_id "rna-XM_047982057.1"; gene_id "gene-JDV02_001155";
+NC_063068.1	RefSeq	CDS	3703200	3703759	.	-	0	transcript_id "rna-XM_047982057.1"; gene_id "gene-JDV02_001155";
+NC_063068.1	RefSeq	transcript	3771892	3773678	.	+	.	transcript_id "rna-XM_047982074.1"; gene_id "gene-JDV02_001172"
+NC_063068.1	RefSeq	exon	3771892	3772633	.	+	.	transcript_id "rna-XM_047982074.1"; gene_id "gene-JDV02_001172";
+NC_063068.1	RefSeq	exon	3772692	3773678	.	+	.	transcript_id "rna-XM_047982074.1"; gene_id "gene-JDV02_001172";
+NC_063068.1	RefSeq	CDS	3772027	3772633	.	+	0	transcript_id "rna-XM_047982074.1"; gene_id "gene-JDV02_001172";
+NC_063068.1	RefSeq	CDS	3772692	3773473	.	+	2	transcript_id "rna-XM_047982074.1"; gene_id "gene-JDV02_001172";
+NC_063068.1	RefSeq	transcript	3836413	3838975	.	+	.	transcript_id "rna-XM_047982100.1"; gene_id "gene-JDV02_001196"; gene_name "RRN3"
+NC_063068.1	RefSeq	exon	3836413	3838975	.	+	.	transcript_id "rna-XM_047982100.1"; gene_id "gene-JDV02_001196"; gene_name "RRN3";
+NC_063068.1	RefSeq	CDS	3836689	3838749	.	+	0	transcript_id "rna-XM_047982100.1"; gene_id "gene-JDV02_001196"; gene_name "RRN3";
+NC_063068.1	RefSeq	transcript	4029383	4032455	.	+	.	transcript_id "rna-XM_047982155.1"; gene_id "gene-JDV02_001245"; gene_name "DIP2"
+NC_063068.1	RefSeq	exon	4029383	4029479	.	+	.	transcript_id "rna-XM_047982155.1"; gene_id "gene-JDV02_001245"; gene_name "DIP2";
+NC_063068.1	RefSeq	exon	4029541	4032455	.	+	.	transcript_id "rna-XM_047982155.1"; gene_id "gene-JDV02_001245"; gene_name "DIP2";
+NC_063068.1	RefSeq	CDS	4029463	4029479	.	+	0	transcript_id "rna-XM_047982155.1"; gene_id "gene-JDV02_001245"; gene_name "DIP2";
+NC_063068.1	RefSeq	CDS	4029541	4032412	.	+	1	transcript_id "rna-XM_047982155.1"; gene_id "gene-JDV02_001245"; gene_name "DIP2";
+NC_063068.1	RefSeq	transcript	4349199	4351350	.	+	.	transcript_id "rna-XM_047982265.1"; gene_id "gene-JDV02_001346"; gene_name "PWP1"
+NC_063068.1	RefSeq	exon	4349199	4349508	.	+	.	transcript_id "rna-XM_047982265.1"; gene_id "gene-JDV02_001346"; gene_name "PWP1";
+NC_063068.1	RefSeq	exon	4349572	4351350	.	+	.	transcript_id "rna-XM_047982265.1"; gene_id "gene-JDV02_001346"; gene_name "PWP1";
+NC_063068.1	RefSeq	CDS	4349273	4349508	.	+	0	transcript_id "rna-XM_047982265.1"; gene_id "gene-JDV02_001346"; gene_name "PWP1";
+NC_063068.1	RefSeq	CDS	4349572	4350964	.	+	1	transcript_id "rna-XM_047982265.1"; gene_id "gene-JDV02_001346"; gene_name "PWP1";
+NC_063068.1	RefSeq	transcript	4411334	4413393	.	-	.	transcript_id "rna-XM_047982290.1"; gene_id "gene-JDV02_001368"
+NC_063068.1	RefSeq	exon	4411334	4413049	.	-	.	transcript_id "rna-XM_047982290.1"; gene_id "gene-JDV02_001368";
+NC_063068.1	RefSeq	exon	4413107	4413393	.	-	.	transcript_id "rna-XM_047982290.1"; gene_id "gene-JDV02_001368";
+NC_063068.1	RefSeq	CDS	4411433	4412992	.	-	0	transcript_id "rna-XM_047982290.1"; gene_id "gene-JDV02_001368";
+NC_063068.1	RefSeq	transcript	4457433	4458913	.	+	.	transcript_id "rna-XM_047982306.1"; gene_id "gene-JDV02_001383"; gene_name "SLD5"
+NC_063068.1	RefSeq	exon	4457433	4457641	.	+	.	transcript_id "rna-XM_047982306.1"; gene_id "gene-JDV02_001383"; gene_name "SLD5";
+NC_063068.1	RefSeq	exon	4457743	4457923	.	+	.	transcript_id "rna-XM_047982306.1"; gene_id "gene-JDV02_001383"; gene_name "SLD5";
+NC_063068.1	RefSeq	exon	4458119	4458913	.	+	.	transcript_id "rna-XM_047982306.1"; gene_id "gene-JDV02_001383"; gene_name "SLD5";
+NC_063068.1	RefSeq	CDS	4457517	4457641	.	+	0	transcript_id "rna-XM_047982306.1"; gene_id "gene-JDV02_001383"; gene_name "SLD5";
+NC_063068.1	RefSeq	CDS	4457743	4457923	.	+	1	transcript_id "rna-XM_047982306.1"; gene_id "gene-JDV02_001383"; gene_name "SLD5";
+NC_063068.1	RefSeq	CDS	4458119	4458478	.	+	0	transcript_id "rna-XM_047982306.1"; gene_id "gene-JDV02_001383"; gene_name "SLD5";
+NC_063068.1	RefSeq	transcript	4458887	4460824	.	-	.	transcript_id "rna-XM_047982307.1"; gene_id "gene-JDV02_001384"; gene_name "UTP18"
+NC_063068.1	RefSeq	exon	4458887	4460824	.	-	.	transcript_id "rna-XM_047982307.1"; gene_id "gene-JDV02_001384"; gene_name "UTP18";
+NC_063068.1	RefSeq	CDS	4459003	4460793	.	-	0	transcript_id "rna-XM_047982307.1"; gene_id "gene-JDV02_001384"; gene_name "UTP18";
+NC_063068.1	RefSeq	transcript	4683810	4687385	.	-	.	transcript_id "rna-XM_047982374.1"; gene_id "gene-JDV02_001443"; gene_name "CDC54"
+NC_063068.1	RefSeq	exon	4683810	4685915	.	-	.	transcript_id "rna-XM_047982374.1"; gene_id "gene-JDV02_001443"; gene_name "CDC54";
+NC_063068.1	RefSeq	exon	4685968	4686837	.	-	.	transcript_id "rna-XM_047982374.1"; gene_id "gene-JDV02_001443"; gene_name "CDC54";
+NC_063068.1	RefSeq	exon	4686899	4687385	.	-	.	transcript_id "rna-XM_047982374.1"; gene_id "gene-JDV02_001443"; gene_name "CDC54";
+NC_063068.1	RefSeq	CDS	4684057	4685915	.	-	2	transcript_id "rna-XM_047982374.1"; gene_id "gene-JDV02_001443"; gene_name "CDC54";
+NC_063068.1	RefSeq	CDS	4685968	4686837	.	-	2	transcript_id "rna-XM_047982374.1"; gene_id "gene-JDV02_001443"; gene_name "CDC54";
+NC_063068.1	RefSeq	CDS	4686899	4687244	.	-	0	transcript_id "rna-XM_047982374.1"; gene_id "gene-JDV02_001443"; gene_name "CDC54";
+NC_063068.1	RefSeq	transcript	4728860	4730812	.	+	.	transcript_id "rna-XM_047982390.1"; gene_id "gene-JDV02_001456"
+NC_063068.1	RefSeq	exon	4728860	4729501	.	+	.	transcript_id "rna-XM_047982390.1"; gene_id "gene-JDV02_001456";
+NC_063068.1	RefSeq	exon	4729568	4730812	.	+	.	transcript_id "rna-XM_047982390.1"; gene_id "gene-JDV02_001456";
+NC_063068.1	RefSeq	CDS	4729241	4729501	.	+	0	transcript_id "rna-XM_047982390.1"; gene_id "gene-JDV02_001456";
+NC_063068.1	RefSeq	CDS	4729568	4730566	.	+	0	transcript_id "rna-XM_047982390.1"; gene_id "gene-JDV02_001456";
+NC_063068.1	RefSeq	transcript	5016224	5017561	.	-	.	transcript_id "rna-XM_047982474.1"; gene_id "gene-JDV02_001534"
+NC_063068.1	RefSeq	exon	5016224	5016253	.	-	.	transcript_id "rna-XM_047982474.1"; gene_id "gene-JDV02_001534";
+NC_063068.1	RefSeq	exon	5016320	5017561	.	-	.	transcript_id "rna-XM_047982474.1"; gene_id "gene-JDV02_001534";
+NC_063068.1	RefSeq	CDS	5016224	5016253	.	-	0	transcript_id "rna-XM_047982474.1"; gene_id "gene-JDV02_001534";
+NC_063068.1	RefSeq	CDS	5016320	5017561	.	-	0	transcript_id "rna-XM_047982474.1"; gene_id "gene-JDV02_001534";
+NC_063068.1	RefSeq	transcript	5078219	5079395	.	+	.	transcript_id "rna-XM_047982487.1"; gene_id "gene-JDV02_001547"; gene_name "TMA22"
+NC_063068.1	RefSeq	exon	5078219	5078380	.	+	.	transcript_id "rna-XM_047982487.1"; gene_id "gene-JDV02_001547"; gene_name "TMA22";
+NC_063068.1	RefSeq	exon	5078497	5078516	.	+	.	transcript_id "rna-XM_047982487.1"; gene_id "gene-JDV02_001547"; gene_name "TMA22";
+NC_063068.1	RefSeq	exon	5078624	5078711	.	+	.	transcript_id "rna-XM_047982487.1"; gene_id "gene-JDV02_001547"; gene_name "TMA22";
+NC_063068.1	RefSeq	exon	5078798	5079015	.	+	.	transcript_id "rna-XM_047982487.1"; gene_id "gene-JDV02_001547"; gene_name "TMA22";
+NC_063068.1	RefSeq	exon	5079087	5079395	.	+	.	transcript_id "rna-XM_047982487.1"; gene_id "gene-JDV02_001547"; gene_name "TMA22";
+NC_063068.1	RefSeq	CDS	5078314	5078380	.	+	0	transcript_id "rna-XM_047982487.1"; gene_id "gene-JDV02_001547"; gene_name "TMA22";
+NC_063068.1	RefSeq	CDS	5078497	5078516	.	+	2	transcript_id "rna-XM_047982487.1"; gene_id "gene-JDV02_001547"; gene_name "TMA22";
+NC_063068.1	RefSeq	CDS	5078624	5078711	.	+	0	transcript_id "rna-XM_047982487.1"; gene_id "gene-JDV02_001547"; gene_name "TMA22";
+NC_063068.1	RefSeq	CDS	5078798	5079015	.	+	2	transcript_id "rna-XM_047982487.1"; gene_id "gene-JDV02_001547"; gene_name "TMA22";
+NC_063068.1	RefSeq	CDS	5079087	5079284	.	+	0	transcript_id "rna-XM_047982487.1"; gene_id "gene-JDV02_001547"; gene_name "TMA22";
+NC_063068.1	RefSeq	transcript	5091250	5092450	.	+	.	transcript_id "rna-XM_047982494.1"; gene_id "gene-JDV02_001554"; gene_name "GIR2"
+NC_063068.1	RefSeq	exon	5091250	5091474	.	+	.	transcript_id "rna-XM_047982494.1"; gene_id "gene-JDV02_001554"; gene_name "GIR2";
+NC_063068.1	RefSeq	exon	5091556	5092450	.	+	.	transcript_id "rna-XM_047982494.1"; gene_id "gene-JDV02_001554"; gene_name "GIR2";
+NC_063068.1	RefSeq	CDS	5091408	5091474	.	+	0	transcript_id "rna-XM_047982494.1"; gene_id "gene-JDV02_001554"; gene_name "GIR2";
+NC_063068.1	RefSeq	CDS	5091556	5092205	.	+	2	transcript_id "rna-XM_047982494.1"; gene_id "gene-JDV02_001554"; gene_name "GIR2";
+NC_063068.1	RefSeq	transcript	5098948	5101742	.	+	.	transcript_id "rna-XM_047982498.1"; gene_id "gene-JDV02_001558"; gene_name "PCM1"
+NC_063068.1	RefSeq	exon	5098948	5099164	.	+	.	transcript_id "rna-XM_047982498.1"; gene_id "gene-JDV02_001558"; gene_name "PCM1";
+NC_063068.1	RefSeq	exon	5099248	5100069	.	+	.	transcript_id "rna-XM_047982498.1"; gene_id "gene-JDV02_001558"; gene_name "PCM1";
+NC_063068.1	RefSeq	exon	5100129	5101742	.	+	.	transcript_id "rna-XM_047982498.1"; gene_id "gene-JDV02_001558"; gene_name "PCM1";
+NC_063068.1	RefSeq	CDS	5099311	5100069	.	+	0	transcript_id "rna-XM_047982498.1"; gene_id "gene-JDV02_001558"; gene_name "PCM1";
+NC_063068.1	RefSeq	CDS	5100129	5100986	.	+	0	transcript_id "rna-XM_047982498.1"; gene_id "gene-JDV02_001558"; gene_name "PCM1";
+NC_063068.1	RefSeq	transcript	5104575	5105826	.	-	.	transcript_id "rna-XM_047982500.1"; gene_id "gene-JDV02_001560"; gene_name "NSA2"
+NC_063068.1	RefSeq	exon	5104575	5105606	.	-	.	transcript_id "rna-XM_047982500.1"; gene_id "gene-JDV02_001560"; gene_name "NSA2";
+NC_063068.1	RefSeq	exon	5105690	5105826	.	-	.	transcript_id "rna-XM_047982500.1"; gene_id "gene-JDV02_001560"; gene_name "NSA2";
+NC_063068.1	RefSeq	CDS	5104827	5105606	.	-	0	transcript_id "rna-XM_047982500.1"; gene_id "gene-JDV02_001560"; gene_name "NSA2";
+NC_063068.1	RefSeq	CDS	5105690	5105692	.	-	0	transcript_id "rna-XM_047982500.1"; gene_id "gene-JDV02_001560"; gene_name "NSA2";
+NC_063068.1	RefSeq	transcript	5159436	5161479	.	-	.	transcript_id "rna-XM_047982514.1"; gene_id "gene-JDV02_001574"; gene_name "GCV1"
+NC_063068.1	RefSeq	exon	5159436	5161479	.	-	.	transcript_id "rna-XM_047982514.1"; gene_id "gene-JDV02_001574"; gene_name "GCV1";
+NC_063068.1	RefSeq	CDS	5159836	5161218	.	-	0	transcript_id "rna-XM_047982514.1"; gene_id "gene-JDV02_001574"; gene_name "GCV1";
+NC_063068.1	RefSeq	transcript	5330076	5331732	.	+	.	transcript_id "rna-XM_047982560.1"; gene_id "gene-JDV02_001617"; gene_name "sap62"
+NC_063068.1	RefSeq	exon	5330076	5330243	.	+	.	transcript_id "rna-XM_047982560.1"; gene_id "gene-JDV02_001617"; gene_name "sap62";
+NC_063068.1	RefSeq	exon	5330333	5331422	.	+	.	transcript_id "rna-XM_047982560.1"; gene_id "gene-JDV02_001617"; gene_name "sap62";
+NC_063068.1	RefSeq	exon	5331481	5331732	.	+	.	transcript_id "rna-XM_047982560.1"; gene_id "gene-JDV02_001617"; gene_name "sap62";
+NC_063068.1	RefSeq	CDS	5330496	5331239	.	+	0	transcript_id "rna-XM_047982560.1"; gene_id "gene-JDV02_001617"; gene_name "sap62";
+NC_063068.1	RefSeq	transcript	5546556	5549379	.	-	.	transcript_id "rna-XM_047982637.1"; gene_id "gene-JDV02_001688"; gene_name "SEC10"
+NC_063068.1	RefSeq	exon	5546556	5548918	.	-	.	transcript_id "rna-XM_047982637.1"; gene_id "gene-JDV02_001688"; gene_name "SEC10";
+NC_063068.1	RefSeq	exon	5548989	5549379	.	-	.	transcript_id "rna-XM_047982637.1"; gene_id "gene-JDV02_001688"; gene_name "SEC10";
+NC_063068.1	RefSeq	CDS	5546556	5548918	.	-	2	transcript_id "rna-XM_047982637.1"; gene_id "gene-JDV02_001688"; gene_name "SEC10";
+NC_063068.1	RefSeq	CDS	5548989	5549184	.	-	0	transcript_id "rna-XM_047982637.1"; gene_id "gene-JDV02_001688"; gene_name "SEC10";
+NC_063068.1	RefSeq	transcript	5933070	5936506	.	-	.	transcript_id "rna-XM_047982750.1"; gene_id "gene-JDV02_001788"; gene_name "MAK21"
+NC_063068.1	RefSeq	exon	5933070	5934046	.	-	.	transcript_id "rna-XM_047982750.1"; gene_id "gene-JDV02_001788"; gene_name "MAK21";
+NC_063068.1	RefSeq	exon	5934113	5934590	.	-	.	transcript_id "rna-XM_047982750.1"; gene_id "gene-JDV02_001788"; gene_name "MAK21";
+NC_063068.1	RefSeq	exon	5934652	5935817	.	-	.	transcript_id "rna-XM_047982750.1"; gene_id "gene-JDV02_001788"; gene_name "MAK21";
+NC_063068.1	RefSeq	exon	5935875	5936506	.	-	.	transcript_id "rna-XM_047982750.1"; gene_id "gene-JDV02_001788"; gene_name "MAK21";
+NC_063068.1	RefSeq	CDS	5933264	5934046	.	-	0	transcript_id "rna-XM_047982750.1"; gene_id "gene-JDV02_001788"; gene_name "MAK21";
+NC_063068.1	RefSeq	CDS	5934113	5934590	.	-	1	transcript_id "rna-XM_047982750.1"; gene_id "gene-JDV02_001788"; gene_name "MAK21";
+NC_063068.1	RefSeq	CDS	5934652	5935817	.	-	0	transcript_id "rna-XM_047982750.1"; gene_id "gene-JDV02_001788"; gene_name "MAK21";
+NC_063068.1	RefSeq	CDS	5935875	5936432	.	-	0	transcript_id "rna-XM_047982750.1"; gene_id "gene-JDV02_001788"; gene_name "MAK21";
+NC_063068.1	RefSeq	transcript	5944739	5947445	.	-	.	transcript_id "rna-XM_047982756.1"; gene_id "gene-JDV02_001793"; gene_name "PRP46"
+NC_063068.1	RefSeq	exon	5944739	5945737	.	-	.	transcript_id "rna-XM_047982756.1"; gene_id "gene-JDV02_001793"; gene_name "PRP46";
+NC_063068.1	RefSeq	exon	5945805	5945969	.	-	.	transcript_id "rna-XM_047982756.1"; gene_id "gene-JDV02_001793"; gene_name "PRP46";
+NC_063068.1	RefSeq	exon	5946041	5947445	.	-	.	transcript_id "rna-XM_047982756.1"; gene_id "gene-JDV02_001793"; gene_name "PRP46";
+NC_063068.1	RefSeq	CDS	5945652	5945737	.	-	2	transcript_id "rna-XM_047982756.1"; gene_id "gene-JDV02_001793"; gene_name "PRP46";
+NC_063068.1	RefSeq	CDS	5945805	5945969	.	-	2	transcript_id "rna-XM_047982756.1"; gene_id "gene-JDV02_001793"; gene_name "PRP46";
+NC_063068.1	RefSeq	CDS	5946041	5947313	.	-	0	transcript_id "rna-XM_047982756.1"; gene_id "gene-JDV02_001793"; gene_name "PRP46";
+NC_063069.1	RefSeq	transcript	82047	84349	.	-	.	transcript_id "rna-XM_047982837.1"; gene_id "gene-JDV02_001867"
+NC_063069.1	RefSeq	exon	82047	83931	.	-	.	transcript_id "rna-XM_047982837.1"; gene_id "gene-JDV02_001867";
+NC_063069.1	RefSeq	exon	83994	84042	.	-	.	transcript_id "rna-XM_047982837.1"; gene_id "gene-JDV02_001867";
+NC_063069.1	RefSeq	exon	84096	84349	.	-	.	transcript_id "rna-XM_047982837.1"; gene_id "gene-JDV02_001867";
+NC_063069.1	RefSeq	CDS	82217	83931	.	-	2	transcript_id "rna-XM_047982837.1"; gene_id "gene-JDV02_001867";
+NC_063069.1	RefSeq	CDS	83994	84042	.	-	0	transcript_id "rna-XM_047982837.1"; gene_id "gene-JDV02_001867";
+NC_063069.1	RefSeq	CDS	84096	84122	.	-	0	transcript_id "rna-XM_047982837.1"; gene_id "gene-JDV02_001867";
+NC_063069.1	RefSeq	transcript	671860	674948	.	-	.	transcript_id "rna-XM_047983005.1"; gene_id "gene-JDV02_002023"; gene_name "MCM2"
+NC_063069.1	RefSeq	exon	671860	672344	.	-	.	transcript_id "rna-XM_047983005.1"; gene_id "gene-JDV02_002023"; gene_name "MCM2";
+NC_063069.1	RefSeq	exon	672419	674774	.	-	.	transcript_id "rna-XM_047983005.1"; gene_id "gene-JDV02_002023"; gene_name "MCM2";
+NC_063069.1	RefSeq	exon	674822	674948	.	-	.	transcript_id "rna-XM_047983005.1"; gene_id "gene-JDV02_002023"; gene_name "MCM2";
+NC_063069.1	RefSeq	CDS	672093	672344	.	-	0	transcript_id "rna-XM_047983005.1"; gene_id "gene-JDV02_002023"; gene_name "MCM2";
+NC_063069.1	RefSeq	CDS	672419	674774	.	-	1	transcript_id "rna-XM_047983005.1"; gene_id "gene-JDV02_002023"; gene_name "MCM2";
+NC_063069.1	RefSeq	CDS	674822	674826	.	-	0	transcript_id "rna-XM_047983005.1"; gene_id "gene-JDV02_002023"; gene_name "MCM2";
+NC_063069.1	RefSeq	transcript	1095231	1097890	.	+	.	transcript_id "rna-XM_047983160.1"; gene_id "gene-JDV02_002160"; gene_name "MPP10"
+NC_063069.1	RefSeq	exon	1095231	1097890	.	+	.	transcript_id "rna-XM_047983160.1"; gene_id "gene-JDV02_002160"; gene_name "MPP10";
+NC_063069.1	RefSeq	CDS	1095310	1097598	.	+	0	transcript_id "rna-XM_047983160.1"; gene_id "gene-JDV02_002160"; gene_name "MPP10";
+NC_063069.1	RefSeq	transcript	1410276	1413014	.	-	.	transcript_id "rna-XM_047983246.1"; gene_id "gene-JDV02_002241"; gene_name "DPB2"
+NC_063069.1	RefSeq	exon	1410276	1412155	.	-	.	transcript_id "rna-XM_047983246.1"; gene_id "gene-JDV02_002241"; gene_name "DPB2";
+NC_063069.1	RefSeq	exon	1412215	1413014	.	-	.	transcript_id "rna-XM_047983246.1"; gene_id "gene-JDV02_002241"; gene_name "DPB2";
+NC_063069.1	RefSeq	CDS	1410508	1412155	.	-	1	transcript_id "rna-XM_047983246.1"; gene_id "gene-JDV02_002241"; gene_name "DPB2";
+NC_063069.1	RefSeq	CDS	1412215	1412900	.	-	0	transcript_id "rna-XM_047983246.1"; gene_id "gene-JDV02_002241"; gene_name "DPB2";
+NC_063069.1	RefSeq	transcript	2849071	2851880	.	-	.	transcript_id "rna-XM_047983721.1"; gene_id "gene-JDV02_002672"; gene_name "TFB1"
+NC_063069.1	RefSeq	exon	2849071	2851220	.	-	.	transcript_id "rna-XM_047983721.1"; gene_id "gene-JDV02_002672"; gene_name "TFB1";
+NC_063069.1	RefSeq	exon	2851285	2851880	.	-	.	transcript_id "rna-XM_047983721.1"; gene_id "gene-JDV02_002672"; gene_name "TFB1";
+NC_063069.1	RefSeq	CDS	2849422	2851220	.	-	2	transcript_id "rna-XM_047983721.1"; gene_id "gene-JDV02_002672"; gene_name "TFB1";
+NC_063069.1	RefSeq	CDS	2851285	2851423	.	-	0	transcript_id "rna-XM_047983721.1"; gene_id "gene-JDV02_002672"; gene_name "TFB1";
+NC_063069.1	RefSeq	transcript	2930893	2933110	.	-	.	transcript_id "rna-XM_047983748.1"; gene_id "gene-JDV02_002695"; gene_name "prp3"
+NC_063069.1	RefSeq	exon	2930893	2931843	.	-	.	transcript_id "rna-XM_047983748.1"; gene_id "gene-JDV02_002695"; gene_name "prp3";
+NC_063069.1	RefSeq	exon	2931894	2933110	.	-	.	transcript_id "rna-XM_047983748.1"; gene_id "gene-JDV02_002695"; gene_name "prp3";
+NC_063069.1	RefSeq	CDS	2931239	2931843	.	-	2	transcript_id "rna-XM_047983748.1"; gene_id "gene-JDV02_002695"; gene_name "prp3";
+NC_063069.1	RefSeq	CDS	2931894	2932752	.	-	0	transcript_id "rna-XM_047983748.1"; gene_id "gene-JDV02_002695"; gene_name "prp3";
+NC_063069.1	RefSeq	transcript	3198987	3200109	.	-	.	transcript_id "rna-XM_047983831.1"; gene_id "gene-JDV02_002760"
+NC_063069.1	RefSeq	exon	3198987	3199310	.	-	.	transcript_id "rna-XM_047983831.1"; gene_id "gene-JDV02_002760";
+NC_063069.1	RefSeq	exon	3199390	3200109	.	-	.	transcript_id "rna-XM_047983831.1"; gene_id "gene-JDV02_002760";
+NC_063069.1	RefSeq	CDS	3198987	3199310	.	-	0	transcript_id "rna-XM_047983831.1"; gene_id "gene-JDV02_002760";
+NC_063069.1	RefSeq	CDS	3199390	3200109	.	-	0	transcript_id "rna-XM_047983831.1"; gene_id "gene-JDV02_002760";
+NC_063069.1	RefSeq	transcript	3473044	3475228	.	-	.	transcript_id "rna-XM_047983914.1"; gene_id "gene-JDV02_002840"
+NC_063069.1	RefSeq	exon	3473044	3473574	.	-	.	transcript_id "rna-XM_047983914.1"; gene_id "gene-JDV02_002840";
+NC_063069.1	RefSeq	exon	3473627	3474664	.	-	.	transcript_id "rna-XM_047983914.1"; gene_id "gene-JDV02_002840";
+NC_063069.1	RefSeq	exon	3474737	3475228	.	-	.	transcript_id "rna-XM_047983914.1"; gene_id "gene-JDV02_002840";
+NC_063069.1	RefSeq	CDS	3473491	3473574	.	-	0	transcript_id "rna-XM_047983914.1"; gene_id "gene-JDV02_002840";
+NC_063069.1	RefSeq	CDS	3473627	3474664	.	-	0	transcript_id "rna-XM_047983914.1"; gene_id "gene-JDV02_002840";
+NC_063069.1	RefSeq	CDS	3474737	3475219	.	-	0	transcript_id "rna-XM_047983914.1"; gene_id "gene-JDV02_002840";
+NC_063069.1	RefSeq	transcript	3884473	3885831	.	-	.	transcript_id "rna-XM_047984061.1"; gene_id "gene-JDV02_002978"; gene_name "COG5"
+NC_063069.1	RefSeq	exon	3884473	3885831	.	-	.	transcript_id "rna-XM_047984061.1"; gene_id "gene-JDV02_002978"; gene_name "COG5";
+NC_063069.1	RefSeq	CDS	3884473	3885831	.	-	0	transcript_id "rna-XM_047984061.1"; gene_id "gene-JDV02_002978"; gene_name "COG5";
+NC_063069.1	RefSeq	transcript	4198882	4200656	.	-	.	transcript_id "rna-XM_047984149.1"; gene_id "gene-JDV02_003063"; gene_name "GCN3"
+NC_063069.1	RefSeq	exon	4198882	4199468	.	-	.	transcript_id "rna-XM_047984149.1"; gene_id "gene-JDV02_003063"; gene_name "GCN3";
+NC_063069.1	RefSeq	exon	4199519	4200338	.	-	.	transcript_id "rna-XM_047984149.1"; gene_id "gene-JDV02_003063"; gene_name "GCN3";
+NC_063069.1	RefSeq	exon	4200404	4200473	.	-	.	transcript_id "rna-XM_047984149.1"; gene_id "gene-JDV02_003063"; gene_name "GCN3";
+NC_063069.1	RefSeq	exon	4200540	4200656	.	-	.	transcript_id "rna-XM_047984149.1"; gene_id "gene-JDV02_003063"; gene_name "GCN3";
+NC_063069.1	RefSeq	CDS	4199367	4199468	.	-	0	transcript_id "rna-XM_047984149.1"; gene_id "gene-JDV02_003063"; gene_name "GCN3";
+NC_063069.1	RefSeq	CDS	4199519	4200338	.	-	1	transcript_id "rna-XM_047984149.1"; gene_id "gene-JDV02_003063"; gene_name "GCN3";
+NC_063069.1	RefSeq	CDS	4200404	4200473	.	-	2	transcript_id "rna-XM_047984149.1"; gene_id "gene-JDV02_003063"; gene_name "GCN3";
+NC_063069.1	RefSeq	CDS	4200540	4200564	.	-	0	transcript_id "rna-XM_047984149.1"; gene_id "gene-JDV02_003063"; gene_name "GCN3";
+NC_063069.1	RefSeq	transcript	4633249	4635360	.	-	.	transcript_id "rna-XM_047984292.1"; gene_id "gene-JDV02_003188"; gene_name "ESF1"
+NC_063069.1	RefSeq	exon	4633249	4635360	.	-	.	transcript_id "rna-XM_047984292.1"; gene_id "gene-JDV02_003188"; gene_name "ESF1";
+NC_063069.1	RefSeq	CDS	4633249	4635360	.	-	0	transcript_id "rna-XM_047984292.1"; gene_id "gene-JDV02_003188"; gene_name "ESF1";
+NC_063069.1	RefSeq	transcript	5064890	5066938	.	+	.	transcript_id "rna-XM_047984451.1"; gene_id "gene-JDV02_003326"
+NC_063069.1	RefSeq	exon	5064890	5065206	.	+	.	transcript_id "rna-XM_047984451.1"; gene_id "gene-JDV02_003326";
+NC_063069.1	RefSeq	exon	5065319	5065532	.	+	.	transcript_id "rna-XM_047984451.1"; gene_id "gene-JDV02_003326";
+NC_063069.1	RefSeq	exon	5065724	5066938	.	+	.	transcript_id "rna-XM_047984451.1"; gene_id "gene-JDV02_003326";
+NC_063069.1	RefSeq	CDS	5064903	5065206	.	+	0	transcript_id "rna-XM_047984451.1"; gene_id "gene-JDV02_003326";
+NC_063069.1	RefSeq	CDS	5065319	5065532	.	+	2	transcript_id "rna-XM_047984451.1"; gene_id "gene-JDV02_003326";
+NC_063069.1	RefSeq	CDS	5065724	5066783	.	+	1	transcript_id "rna-XM_047984451.1"; gene_id "gene-JDV02_003326";
+NC_063069.1	RefSeq	transcript	5247819	5249172	.	-	.	transcript_id "rna-XM_047984514.1"; gene_id "gene-JDV02_003388"; gene_name "BUD23"
+NC_063069.1	RefSeq	exon	5247819	5248806	.	-	.	transcript_id "rna-XM_047984514.1"; gene_id "gene-JDV02_003388"; gene_name "BUD23";
+NC_063069.1	RefSeq	exon	5248966	5249172	.	-	.	transcript_id "rna-XM_047984514.1"; gene_id "gene-JDV02_003388"; gene_name "BUD23";
+NC_063069.1	RefSeq	CDS	5247984	5248806	.	-	1	transcript_id "rna-XM_047984514.1"; gene_id "gene-JDV02_003388"; gene_name "BUD23";
+NC_063069.1	RefSeq	CDS	5248966	5248988	.	-	0	transcript_id "rna-XM_047984514.1"; gene_id "gene-JDV02_003388"; gene_name "BUD23";
+NC_063069.1	RefSeq	transcript	5632460	5634145	.	-	.	transcript_id "rna-XM_047984645.1"; gene_id "gene-JDV02_003514"; gene_name "RSA4"
+NC_063069.1	RefSeq	exon	5632460	5632712	.	-	.	transcript_id "rna-XM_047984645.1"; gene_id "gene-JDV02_003514"; gene_name "RSA4";
+NC_063069.1	RefSeq	exon	5632796	5633868	.	-	.	transcript_id "rna-XM_047984645.1"; gene_id "gene-JDV02_003514"; gene_name "RSA4";
+NC_063069.1	RefSeq	exon	5633924	5634145	.	-	.	transcript_id "rna-XM_047984645.1"; gene_id "gene-JDV02_003514"; gene_name "RSA4";
+NC_063069.1	RefSeq	CDS	5632460	5632712	.	-	1	transcript_id "rna-XM_047984645.1"; gene_id "gene-JDV02_003514"; gene_name "RSA4";
+NC_063069.1	RefSeq	CDS	5632796	5633868	.	-	0	transcript_id "rna-XM_047984645.1"; gene_id "gene-JDV02_003514"; gene_name "RSA4";
+NC_063069.1	RefSeq	CDS	5633924	5634145	.	-	0	transcript_id "rna-XM_047984645.1"; gene_id "gene-JDV02_003514"; gene_name "RSA4";
+NC_063070.1	RefSeq	transcript	310699	312161	.	+	.	transcript_id "rna-XM_047984767.1"; gene_id "gene-JDV02_003619"; gene_name "dot2"
+NC_063070.1	RefSeq	exon	310699	312161	.	+	.	transcript_id "rna-XM_047984767.1"; gene_id "gene-JDV02_003619"; gene_name "dot2";
+NC_063070.1	RefSeq	CDS	310810	311727	.	+	0	transcript_id "rna-XM_047984767.1"; gene_id "gene-JDV02_003619"; gene_name "dot2";
+NC_063070.1	RefSeq	transcript	518835	521508	.	-	.	transcript_id "rna-XM_047984836.1"; gene_id "gene-JDV02_003683"; gene_name "COG6"
+NC_063070.1	RefSeq	exon	518835	520776	.	-	.	transcript_id "rna-XM_047984836.1"; gene_id "gene-JDV02_003683"; gene_name "COG6";
+NC_063070.1	RefSeq	exon	520836	521508	.	-	.	transcript_id "rna-XM_047984836.1"; gene_id "gene-JDV02_003683"; gene_name "COG6";
+NC_063070.1	RefSeq	CDS	519001	520776	.	-	0	transcript_id "rna-XM_047984836.1"; gene_id "gene-JDV02_003683"; gene_name "COG6";
+NC_063070.1	RefSeq	CDS	520836	521144	.	-	0	transcript_id "rna-XM_047984836.1"; gene_id "gene-JDV02_003683"; gene_name "COG6";
+NC_063070.1	RefSeq	transcript	704028	705804	.	-	.	transcript_id "rna-XM_047984903.1"; gene_id "gene-JDV02_003739"; gene_name "TSR3"
+NC_063070.1	RefSeq	exon	704028	705804	.	-	.	transcript_id "rna-XM_047984903.1"; gene_id "gene-JDV02_003739"; gene_name "TSR3";
+NC_063070.1	RefSeq	CDS	704301	705671	.	-	0	transcript_id "rna-XM_047984903.1"; gene_id "gene-JDV02_003739"; gene_name "TSR3";
+NC_063070.1	RefSeq	transcript	1434445	1437354	.	+	.	transcript_id "rna-XM_047985166.1"; gene_id "gene-JDV02_003990"; gene_name "COG3"
+NC_063070.1	RefSeq	exon	1434445	1434631	.	+	.	transcript_id "rna-XM_047985166.1"; gene_id "gene-JDV02_003990"; gene_name "COG3";
+NC_063070.1	RefSeq	exon	1434683	1435002	.	+	.	transcript_id "rna-XM_047985166.1"; gene_id "gene-JDV02_003990"; gene_name "COG3";
+NC_063070.1	RefSeq	exon	1435053	1435392	.	+	.	transcript_id "rna-XM_047985166.1"; gene_id "gene-JDV02_003990"; gene_name "COG3";
+NC_063070.1	RefSeq	exon	1435445	1436386	.	+	.	transcript_id "rna-XM_047985166.1"; gene_id "gene-JDV02_003990"; gene_name "COG3";
+NC_063070.1	RefSeq	exon	1436440	1437354	.	+	.	transcript_id "rna-XM_047985166.1"; gene_id "gene-JDV02_003990"; gene_name "COG3";
+NC_063070.1	RefSeq	CDS	1434518	1434631	.	+	0	transcript_id "rna-XM_047985166.1"; gene_id "gene-JDV02_003990"; gene_name "COG3";
+NC_063070.1	RefSeq	CDS	1434683	1435002	.	+	0	transcript_id "rna-XM_047985166.1"; gene_id "gene-JDV02_003990"; gene_name "COG3";
+NC_063070.1	RefSeq	CDS	1435053	1435392	.	+	1	transcript_id "rna-XM_047985166.1"; gene_id "gene-JDV02_003990"; gene_name "COG3";
+NC_063070.1	RefSeq	CDS	1435445	1436386	.	+	0	transcript_id "rna-XM_047985166.1"; gene_id "gene-JDV02_003990"; gene_name "COG3";
+NC_063070.1	RefSeq	CDS	1436440	1437024	.	+	0	transcript_id "rna-XM_047985166.1"; gene_id "gene-JDV02_003990"; gene_name "COG3";
+NC_063070.1	RefSeq	transcript	2310763	2314427	.	-	.	transcript_id "rna-XM_047985499.1"; gene_id "gene-JDV02_004296"; gene_name "HIR1"
+NC_063070.1	RefSeq	exon	2310763	2311145	.	-	.	transcript_id "rna-XM_047985499.1"; gene_id "gene-JDV02_004296"; gene_name "HIR1";
+NC_063070.1	RefSeq	exon	2311199	2314427	.	-	.	transcript_id "rna-XM_047985499.1"; gene_id "gene-JDV02_004296"; gene_name "HIR1";
+NC_063070.1	RefSeq	CDS	2311039	2311145	.	-	2	transcript_id "rna-XM_047985499.1"; gene_id "gene-JDV02_004296"; gene_name "HIR1";
+NC_063070.1	RefSeq	CDS	2311199	2314205	.	-	0	transcript_id "rna-XM_047985499.1"; gene_id "gene-JDV02_004296"; gene_name "HIR1";
+NC_063071.1	RefSeq	transcript	717003	719188	.	-	.	transcript_id "rna-XM_047986120.1"; gene_id "gene-JDV02_004874"; gene_name "TRM61"
+NC_063071.1	RefSeq	exon	717003	719188	.	-	.	transcript_id "rna-XM_047986120.1"; gene_id "gene-JDV02_004874"; gene_name "TRM61";
+NC_063071.1	RefSeq	CDS	717624	719111	.	-	0	transcript_id "rna-XM_047986120.1"; gene_id "gene-JDV02_004874"; gene_name "TRM61";
+NC_063071.1	RefSeq	transcript	920028	921205	.	-	.	transcript_id "rna-XM_047986191.1"; gene_id "gene-JDV02_004945"; gene_name "nop16"
+NC_063071.1	RefSeq	exon	920028	920884	.	-	.	transcript_id "rna-XM_047986191.1"; gene_id "gene-JDV02_004945"; gene_name "nop16";
+NC_063071.1	RefSeq	exon	921014	921205	.	-	.	transcript_id "rna-XM_047986191.1"; gene_id "gene-JDV02_004945"; gene_name "nop16";
+NC_063071.1	RefSeq	CDS	920263	920884	.	-	1	transcript_id "rna-XM_047986191.1"; gene_id "gene-JDV02_004945"; gene_name "nop16";
+NC_063071.1	RefSeq	CDS	921014	921129	.	-	0	transcript_id "rna-XM_047986191.1"; gene_id "gene-JDV02_004945"; gene_name "nop16";
+NC_063071.1	RefSeq	transcript	1156713	1158145	.	-	.	transcript_id "rna-XM_047986268.1"; gene_id "gene-JDV02_005019"; gene_name "MED6"
+NC_063071.1	RefSeq	exon	1156713	1157568	.	-	.	transcript_id "rna-XM_047986268.1"; gene_id "gene-JDV02_005019"; gene_name "MED6";
+NC_063071.1	RefSeq	exon	1157621	1158145	.	-	.	transcript_id "rna-XM_047986268.1"; gene_id "gene-JDV02_005019"; gene_name "MED6";
+NC_063071.1	RefSeq	CDS	1157017	1157568	.	-	0	transcript_id "rna-XM_047986268.1"; gene_id "gene-JDV02_005019"; gene_name "MED6";
+NC_063071.1	RefSeq	CDS	1157621	1158055	.	-	0	transcript_id "rna-XM_047986268.1"; gene_id "gene-JDV02_005019"; gene_name "MED6";
+NC_063071.1	RefSeq	transcript	1423230	1426366	.	+	.	transcript_id "rna-XM_047986355.1"; gene_id "gene-JDV02_005096"; gene_name "utp13"
+NC_063071.1	RefSeq	exon	1423230	1423455	.	+	.	transcript_id "rna-XM_047986355.1"; gene_id "gene-JDV02_005096"; gene_name "utp13";
+NC_063071.1	RefSeq	exon	1423507	1423534	.	+	.	transcript_id "rna-XM_047986355.1"; gene_id "gene-JDV02_005096"; gene_name "utp13";
+NC_063071.1	RefSeq	exon	1423586	1426366	.	+	.	transcript_id "rna-XM_047986355.1"; gene_id "gene-JDV02_005096"; gene_name "utp13";
+NC_063071.1	RefSeq	CDS	1423279	1423455	.	+	0	transcript_id "rna-XM_047986355.1"; gene_id "gene-JDV02_005096"; gene_name "utp13";
+NC_063071.1	RefSeq	CDS	1423507	1423534	.	+	0	transcript_id "rna-XM_047986355.1"; gene_id "gene-JDV02_005096"; gene_name "utp13";
+NC_063071.1	RefSeq	CDS	1423586	1426116	.	+	2	transcript_id "rna-XM_047986355.1"; gene_id "gene-JDV02_005096"; gene_name "utp13";
+NC_063071.1	RefSeq	transcript	1475442	1477333	.	-	.	transcript_id "rna-XM_047986375.1"; gene_id "gene-JDV02_005113"; gene_name "RRP9"
+NC_063071.1	RefSeq	exon	1475442	1477333	.	-	.	transcript_id "rna-XM_047986375.1"; gene_id "gene-JDV02_005113"; gene_name "RRP9";
+NC_063071.1	RefSeq	CDS	1475487	1477280	.	-	0	transcript_id "rna-XM_047986375.1"; gene_id "gene-JDV02_005113"; gene_name "RRP9";
+NC_063071.1	RefSeq	transcript	1677478	1680454	.	+	.	transcript_id "rna-XM_047986433.1"; gene_id "gene-JDV02_005163"; gene_name "cbc1"
+NC_063071.1	RefSeq	exon	1677478	1677728	.	+	.	transcript_id "rna-XM_047986433.1"; gene_id "gene-JDV02_005163"; gene_name "cbc1";
+NC_063071.1	RefSeq	exon	1677787	1678262	.	+	.	transcript_id "rna-XM_047986433.1"; gene_id "gene-JDV02_005163"; gene_name "cbc1";
+NC_063071.1	RefSeq	exon	1678328	1679408	.	+	.	transcript_id "rna-XM_047986433.1"; gene_id "gene-JDV02_005163"; gene_name "cbc1";
+NC_063071.1	RefSeq	exon	1679469	1680454	.	+	.	transcript_id "rna-XM_047986433.1"; gene_id "gene-JDV02_005163"; gene_name "cbc1";
+NC_063071.1	RefSeq	CDS	1677668	1677728	.	+	0	transcript_id "rna-XM_047986433.1"; gene_id "gene-JDV02_005163"; gene_name "cbc1";
+NC_063071.1	RefSeq	CDS	1677787	1678262	.	+	2	transcript_id "rna-XM_047986433.1"; gene_id "gene-JDV02_005163"; gene_name "cbc1";
+NC_063071.1	RefSeq	CDS	1678328	1679408	.	+	0	transcript_id "rna-XM_047986433.1"; gene_id "gene-JDV02_005163"; gene_name "cbc1";
+NC_063071.1	RefSeq	CDS	1679469	1680262	.	+	2	transcript_id "rna-XM_047986433.1"; gene_id "gene-JDV02_005163"; gene_name "cbc1";
+NC_063071.1	RefSeq	transcript	1703461	1704918	.	-	.	transcript_id "rna-XM_047986444.1"; gene_id "gene-JDV02_005173"
+NC_063071.1	RefSeq	exon	1703461	1704178	.	-	.	transcript_id "rna-XM_047986444.1"; gene_id "gene-JDV02_005173";
+NC_063071.1	RefSeq	exon	1704285	1704918	.	-	.	transcript_id "rna-XM_047986444.1"; gene_id "gene-JDV02_005173";
+NC_063071.1	RefSeq	CDS	1703530	1704178	.	-	1	transcript_id "rna-XM_047986444.1"; gene_id "gene-JDV02_005173";
+NC_063071.1	RefSeq	CDS	1704285	1704622	.	-	0	transcript_id "rna-XM_047986444.1"; gene_id "gene-JDV02_005173";
+NC_063071.1	RefSeq	transcript	1913165	1915230	.	+	.	transcript_id "rna-XM_047986504.1"; gene_id "gene-JDV02_005228"; gene_name "cdc1"
+NC_063071.1	RefSeq	exon	1913165	1913286	.	+	.	transcript_id "rna-XM_047986504.1"; gene_id "gene-JDV02_005228"; gene_name "cdc1";
+NC_063071.1	RefSeq	exon	1913343	1913652	.	+	.	transcript_id "rna-XM_047986504.1"; gene_id "gene-JDV02_005228"; gene_name "cdc1";
+NC_063071.1	RefSeq	exon	1913727	1914666	.	+	.	transcript_id "rna-XM_047986504.1"; gene_id "gene-JDV02_005228"; gene_name "cdc1";
+NC_063071.1	RefSeq	exon	1914732	1915230	.	+	.	transcript_id "rna-XM_047986504.1"; gene_id "gene-JDV02_005228"; gene_name "cdc1";
+NC_063071.1	RefSeq	CDS	1913240	1913286	.	+	0	transcript_id "rna-XM_047986504.1"; gene_id "gene-JDV02_005228"; gene_name "cdc1";
+NC_063071.1	RefSeq	CDS	1913343	1913652	.	+	1	transcript_id "rna-XM_047986504.1"; gene_id "gene-JDV02_005228"; gene_name "cdc1";
+NC_063071.1	RefSeq	CDS	1913727	1914666	.	+	0	transcript_id "rna-XM_047986504.1"; gene_id "gene-JDV02_005228"; gene_name "cdc1";
+NC_063071.1	RefSeq	CDS	1914732	1914958	.	+	2	transcript_id "rna-XM_047986504.1"; gene_id "gene-JDV02_005228"; gene_name "cdc1";
+NC_063071.1	RefSeq	transcript	2170759	2173741	.	-	.	transcript_id "rna-XM_047986585.1"; gene_id "gene-JDV02_005302"; gene_name "PWP2"
+NC_063071.1	RefSeq	exon	2170759	2173390	.	-	.	transcript_id "rna-XM_047986585.1"; gene_id "gene-JDV02_005302"; gene_name "PWP2";
+NC_063071.1	RefSeq	exon	2173449	2173561	.	-	.	transcript_id "rna-XM_047986585.1"; gene_id "gene-JDV02_005302"; gene_name "PWP2";
+NC_063071.1	RefSeq	exon	2173621	2173741	.	-	.	transcript_id "rna-XM_047986585.1"; gene_id "gene-JDV02_005302"; gene_name "PWP2";
+NC_063071.1	RefSeq	CDS	2170819	2173390	.	-	1	transcript_id "rna-XM_047986585.1"; gene_id "gene-JDV02_005302"; gene_name "PWP2";
+NC_063071.1	RefSeq	CDS	2173449	2173561	.	-	0	transcript_id "rna-XM_047986585.1"; gene_id "gene-JDV02_005302"; gene_name "PWP2";
+NC_063071.1	RefSeq	CDS	2173621	2173644	.	-	0	transcript_id "rna-XM_047986585.1"; gene_id "gene-JDV02_005302"; gene_name "PWP2";
+NC_063071.1	RefSeq	transcript	2237348	2238212	.	+	.	transcript_id "rna-XM_047986607.1"; gene_id "gene-JDV02_005324"; gene_name "SPT4"
+NC_063071.1	RefSeq	exon	2237348	2237552	.	+	.	transcript_id "rna-XM_047986607.1"; gene_id "gene-JDV02_005324"; gene_name "SPT4";
+NC_063071.1	RefSeq	exon	2237689	2237942	.	+	.	transcript_id "rna-XM_047986607.1"; gene_id "gene-JDV02_005324"; gene_name "SPT4";
+NC_063071.1	RefSeq	exon	2238008	2238212	.	+	.	transcript_id "rna-XM_047986607.1"; gene_id "gene-JDV02_005324"; gene_name "SPT4";
+NC_063071.1	RefSeq	CDS	2237466	2237552	.	+	0	transcript_id "rna-XM_047986607.1"; gene_id "gene-JDV02_005324"; gene_name "SPT4";
+NC_063071.1	RefSeq	CDS	2237689	2237942	.	+	0	transcript_id "rna-XM_047986607.1"; gene_id "gene-JDV02_005324"; gene_name "SPT4";
+NC_063071.1	RefSeq	CDS	2238008	2238041	.	+	1	transcript_id "rna-XM_047986607.1"; gene_id "gene-JDV02_005324"; gene_name "SPT4";
+NC_063071.1	RefSeq	transcript	2239613	2240939	.	+	.	transcript_id "rna-XM_047986609.1"; gene_id "gene-JDV02_005326"; gene_name "cwf16"
+NC_063071.1	RefSeq	exon	2239613	2239814	.	+	.	transcript_id "rna-XM_047986609.1"; gene_id "gene-JDV02_005326"; gene_name "cwf16";
+NC_063071.1	RefSeq	exon	2239874	2240707	.	+	.	transcript_id "rna-XM_047986609.1"; gene_id "gene-JDV02_005326"; gene_name "cwf16";
+NC_063071.1	RefSeq	exon	2240790	2240939	.	+	.	transcript_id "rna-XM_047986609.1"; gene_id "gene-JDV02_005326"; gene_name "cwf16";
+NC_063071.1	RefSeq	CDS	2239791	2239814	.	+	0	transcript_id "rna-XM_047986609.1"; gene_id "gene-JDV02_005326"; gene_name "cwf16";
+NC_063071.1	RefSeq	CDS	2239874	2240704	.	+	0	transcript_id "rna-XM_047986609.1"; gene_id "gene-JDV02_005326"; gene_name "cwf16";
+NC_063071.1	RefSeq	transcript	2334340	2336275	.	+	.	transcript_id "rna-XM_047986640.1"; gene_id "gene-JDV02_005355"; gene_name "oca3"
+NC_063071.1	RefSeq	exon	2334340	2334910	.	+	.	transcript_id "rna-XM_047986640.1"; gene_id "gene-JDV02_005355"; gene_name "oca3";
+NC_063071.1	RefSeq	exon	2334961	2335167	.	+	.	transcript_id "rna-XM_047986640.1"; gene_id "gene-JDV02_005355"; gene_name "oca3";
+NC_063071.1	RefSeq	exon	2335222	2335374	.	+	.	transcript_id "rna-XM_047986640.1"; gene_id "gene-JDV02_005355"; gene_name "oca3";
+NC_063071.1	RefSeq	exon	2335431	2336275	.	+	.	transcript_id "rna-XM_047986640.1"; gene_id "gene-JDV02_005355"; gene_name "oca3";
+NC_063071.1	RefSeq	CDS	2334533	2334910	.	+	0	transcript_id "rna-XM_047986640.1"; gene_id "gene-JDV02_005355"; gene_name "oca3";
+NC_063071.1	RefSeq	CDS	2334961	2335167	.	+	0	transcript_id "rna-XM_047986640.1"; gene_id "gene-JDV02_005355"; gene_name "oca3";
+NC_063071.1	RefSeq	CDS	2335222	2335374	.	+	0	transcript_id "rna-XM_047986640.1"; gene_id "gene-JDV02_005355"; gene_name "oca3";
+NC_063071.1	RefSeq	CDS	2335431	2335664	.	+	0	transcript_id "rna-XM_047986640.1"; gene_id "gene-JDV02_005355"; gene_name "oca3";
+NC_063071.1	RefSeq	transcript	2421281	2423206	.	-	.	transcript_id "rna-XM_047986674.1"; gene_id "gene-JDV02_005384"; gene_name "ebp2"
+NC_063071.1	RefSeq	exon	2421281	2422103	.	-	.	transcript_id "rna-XM_047986674.1"; gene_id "gene-JDV02_005384"; gene_name "ebp2";
+NC_063071.1	RefSeq	exon	2422172	2422844	.	-	.	transcript_id "rna-XM_047986674.1"; gene_id "gene-JDV02_005384"; gene_name "ebp2";
+NC_063071.1	RefSeq	exon	2422900	2423206	.	-	.	transcript_id "rna-XM_047986674.1"; gene_id "gene-JDV02_005384"; gene_name "ebp2";
+NC_063071.1	RefSeq	CDS	2421784	2422103	.	-	2	transcript_id "rna-XM_047986674.1"; gene_id "gene-JDV02_005384"; gene_name "ebp2";
+NC_063071.1	RefSeq	CDS	2422172	2422844	.	-	0	transcript_id "rna-XM_047986674.1"; gene_id "gene-JDV02_005384"; gene_name "ebp2";
+NC_063071.1	RefSeq	CDS	2422900	2423118	.	-	0	transcript_id "rna-XM_047986674.1"; gene_id "gene-JDV02_005384"; gene_name "ebp2";
+NC_063071.1	RefSeq	transcript	2459891	2460975	.	+	.	transcript_id "rna-XM_047986687.1"; gene_id "gene-JDV02_005393"; gene_name "FAP7"
+NC_063071.1	RefSeq	exon	2459891	2460297	.	+	.	transcript_id "rna-XM_047986687.1"; gene_id "gene-JDV02_005393"; gene_name "FAP7";
+NC_063071.1	RefSeq	exon	2460368	2460513	.	+	.	transcript_id "rna-XM_047986687.1"; gene_id "gene-JDV02_005393"; gene_name "FAP7";
+NC_063071.1	RefSeq	exon	2460607	2460975	.	+	.	transcript_id "rna-XM_047986687.1"; gene_id "gene-JDV02_005393"; gene_name "FAP7";
+NC_063071.1	RefSeq	CDS	2460115	2460297	.	+	0	transcript_id "rna-XM_047986687.1"; gene_id "gene-JDV02_005393"; gene_name "FAP7";
+NC_063071.1	RefSeq	CDS	2460368	2460513	.	+	0	transcript_id "rna-XM_047986687.1"; gene_id "gene-JDV02_005393"; gene_name "FAP7";
+NC_063071.1	RefSeq	CDS	2460607	2460802	.	+	1	transcript_id "rna-XM_047986687.1"; gene_id "gene-JDV02_005393"; gene_name "FAP7";
+NC_063071.1	RefSeq	transcript	2502337	2504980	.	+	.	transcript_id "rna-XM_047986696.1"; gene_id "gene-JDV02_005400"; gene_name "ERB1"
+NC_063071.1	RefSeq	exon	2502337	2503173	.	+	.	transcript_id "rna-XM_047986696.1"; gene_id "gene-JDV02_005400"; gene_name "ERB1";
+NC_063071.1	RefSeq	exon	2503253	2504980	.	+	.	transcript_id "rna-XM_047986696.1"; gene_id "gene-JDV02_005400"; gene_name "ERB1";
+NC_063071.1	RefSeq	CDS	2502517	2503173	.	+	0	transcript_id "rna-XM_047986696.1"; gene_id "gene-JDV02_005400"; gene_name "ERB1";
+NC_063071.1	RefSeq	CDS	2503253	2504878	.	+	0	transcript_id "rna-XM_047986696.1"; gene_id "gene-JDV02_005400"; gene_name "ERB1";
+NC_063071.1	RefSeq	transcript	2712969	2714080	.	+	.	transcript_id "rna-XM_047986781.1"; gene_id "gene-JDV02_005477"; gene_name "TMA20"
+NC_063071.1	RefSeq	exon	2712969	2713018	.	+	.	transcript_id "rna-XM_047986781.1"; gene_id "gene-JDV02_005477"; gene_name "TMA20";
+NC_063071.1	RefSeq	exon	2713106	2714080	.	+	.	transcript_id "rna-XM_047986781.1"; gene_id "gene-JDV02_005477"; gene_name "TMA20";
+NC_063071.1	RefSeq	CDS	2713005	2713018	.	+	0	transcript_id "rna-XM_047986781.1"; gene_id "gene-JDV02_005477"; gene_name "TMA20";
+NC_063071.1	RefSeq	CDS	2713106	2713709	.	+	1	transcript_id "rna-XM_047986781.1"; gene_id "gene-JDV02_005477"; gene_name "TMA20";
+NC_063072.1	RefSeq	transcript	964993	967495	.	-	.	transcript_id "rna-XM_047987215.1"; gene_id "gene-JDV02_005883"; gene_name "MSW1"
+NC_063072.1	RefSeq	exon	964993	966119	.	-	.	transcript_id "rna-XM_047987215.1"; gene_id "gene-JDV02_005883"; gene_name "MSW1";
+NC_063072.1	RefSeq	exon	966175	966293	.	-	.	transcript_id "rna-XM_047987215.1"; gene_id "gene-JDV02_005883"; gene_name "MSW1";
+NC_063072.1	RefSeq	exon	966360	966475	.	-	.	transcript_id "rna-XM_047987215.1"; gene_id "gene-JDV02_005883"; gene_name "MSW1";
+NC_063072.1	RefSeq	exon	966537	966617	.	-	.	transcript_id "rna-XM_047987215.1"; gene_id "gene-JDV02_005883"; gene_name "MSW1";
+NC_063072.1	RefSeq	exon	966694	967175	.	-	.	transcript_id "rna-XM_047987215.1"; gene_id "gene-JDV02_005883"; gene_name "MSW1";
+NC_063072.1	RefSeq	exon	967248	967495	.	-	.	transcript_id "rna-XM_047987215.1"; gene_id "gene-JDV02_005883"; gene_name "MSW1";
+NC_063072.1	RefSeq	CDS	965665	966119	.	-	2	transcript_id "rna-XM_047987215.1"; gene_id "gene-JDV02_005883"; gene_name "MSW1";
+NC_063072.1	RefSeq	CDS	966175	966293	.	-	1	transcript_id "rna-XM_047987215.1"; gene_id "gene-JDV02_005883"; gene_name "MSW1";
+NC_063072.1	RefSeq	CDS	966360	966475	.	-	0	transcript_id "rna-XM_047987215.1"; gene_id "gene-JDV02_005883"; gene_name "MSW1";
+NC_063072.1	RefSeq	CDS	966537	966617	.	-	0	transcript_id "rna-XM_047987215.1"; gene_id "gene-JDV02_005883"; gene_name "MSW1";
+NC_063072.1	RefSeq	CDS	966694	966987	.	-	0	transcript_id "rna-XM_047987215.1"; gene_id "gene-JDV02_005883"; gene_name "MSW1";
+NC_063072.1	RefSeq	transcript	1205590	1207012	.	-	.	transcript_id "rna-XM_047987288.1"; gene_id "gene-JDV02_005945"; gene_name "RRP42"
+NC_063072.1	RefSeq	exon	1205590	1206379	.	-	.	transcript_id "rna-XM_047987288.1"; gene_id "gene-JDV02_005945"; gene_name "RRP42";
+NC_063072.1	RefSeq	exon	1206437	1207012	.	-	.	transcript_id "rna-XM_047987288.1"; gene_id "gene-JDV02_005945"; gene_name "RRP42";
+NC_063072.1	RefSeq	CDS	1205768	1206379	.	-	0	transcript_id "rna-XM_047987288.1"; gene_id "gene-JDV02_005945"; gene_name "RRP42";
+NC_063072.1	RefSeq	CDS	1206437	1206907	.	-	0	transcript_id "rna-XM_047987288.1"; gene_id "gene-JDV02_005945"; gene_name "RRP42";
+NC_063072.1	RefSeq	transcript	1331003	1332027	.	+	.	transcript_id "rna-XM_047987333.1"; gene_id "gene-JDV02_005984"; gene_name "COX11_2"
+NC_063072.1	RefSeq	exon	1331003	1331271	.	+	.	transcript_id "rna-XM_047987333.1"; gene_id "gene-JDV02_005984"; gene_name "COX11_2";
+NC_063072.1	RefSeq	exon	1331331	1331400	.	+	.	transcript_id "rna-XM_047987333.1"; gene_id "gene-JDV02_005984"; gene_name "COX11_2";
+NC_063072.1	RefSeq	exon	1331468	1331912	.	+	.	transcript_id "rna-XM_047987333.1"; gene_id "gene-JDV02_005984"; gene_name "COX11_2";
+NC_063072.1	RefSeq	exon	1331978	1332027	.	+	.	transcript_id "rna-XM_047987333.1"; gene_id "gene-JDV02_005984"; gene_name "COX11_2";
+NC_063072.1	RefSeq	CDS	1331003	1331271	.	+	0	transcript_id "rna-XM_047987333.1"; gene_id "gene-JDV02_005984"; gene_name "COX11_2";
+NC_063072.1	RefSeq	CDS	1331331	1331400	.	+	1	transcript_id "rna-XM_047987333.1"; gene_id "gene-JDV02_005984"; gene_name "COX11_2";
+NC_063072.1	RefSeq	CDS	1331468	1331912	.	+	0	transcript_id "rna-XM_047987333.1"; gene_id "gene-JDV02_005984"; gene_name "COX11_2";
+NC_063072.1	RefSeq	CDS	1331978	1332027	.	+	2	transcript_id "rna-XM_047987333.1"; gene_id "gene-JDV02_005984"; gene_name "COX11_2";
+NC_063072.1	RefSeq	transcript	1397025	1398907	.	+	.	transcript_id "rna-XM_047987350.1"; gene_id "gene-JDV02_006000"; gene_name "TMA46"
+NC_063072.1	RefSeq	exon	1397025	1397841	.	+	.	transcript_id "rna-XM_047987350.1"; gene_id "gene-JDV02_006000"; gene_name "TMA46";
+NC_063072.1	RefSeq	exon	1397902	1398907	.	+	.	transcript_id "rna-XM_047987350.1"; gene_id "gene-JDV02_006000"; gene_name "TMA46";
+NC_063072.1	RefSeq	CDS	1397201	1397841	.	+	0	transcript_id "rna-XM_047987350.1"; gene_id "gene-JDV02_006000"; gene_name "TMA46";
+NC_063072.1	RefSeq	CDS	1397902	1398346	.	+	1	transcript_id "rna-XM_047987350.1"; gene_id "gene-JDV02_006000"; gene_name "TMA46";
+NC_063072.1	RefSeq	transcript	1452031	1454909	.	+	.	transcript_id "rna-XM_047987373.1"; gene_id "gene-JDV02_006022"
+NC_063072.1	RefSeq	exon	1452031	1452780	.	+	.	transcript_id "rna-XM_047987373.1"; gene_id "gene-JDV02_006022";
+NC_063072.1	RefSeq	exon	1453630	1453975	.	+	.	transcript_id "rna-XM_047987373.1"; gene_id "gene-JDV02_006022";
+NC_063072.1	RefSeq	exon	1454048	1454909	.	+	.	transcript_id "rna-XM_047987373.1"; gene_id "gene-JDV02_006022";
+NC_063072.1	RefSeq	CDS	1452252	1452780	.	+	0	transcript_id "rna-XM_047987373.1"; gene_id "gene-JDV02_006022";
+NC_063072.1	RefSeq	CDS	1453630	1453975	.	+	2	transcript_id "rna-XM_047987373.1"; gene_id "gene-JDV02_006022";
+NC_063072.1	RefSeq	CDS	1454048	1454612	.	+	1	transcript_id "rna-XM_047987373.1"; gene_id "gene-JDV02_006022";
+NC_063072.1	RefSeq	transcript	1498381	1500355	.	+	.	transcript_id "rna-XM_047987388.1"; gene_id "gene-JDV02_006036"; gene_name "SPB4"
+NC_063072.1	RefSeq	exon	1498381	1498554	.	+	.	transcript_id "rna-XM_047987388.1"; gene_id "gene-JDV02_006036"; gene_name "SPB4";
+NC_063072.1	RefSeq	exon	1498637	1500355	.	+	.	transcript_id "rna-XM_047987388.1"; gene_id "gene-JDV02_006036"; gene_name "SPB4";
+NC_063072.1	RefSeq	CDS	1498381	1498554	.	+	0	transcript_id "rna-XM_047987388.1"; gene_id "gene-JDV02_006036"; gene_name "SPB4";
+NC_063072.1	RefSeq	CDS	1498637	1500355	.	+	0	transcript_id "rna-XM_047987388.1"; gene_id "gene-JDV02_006036"; gene_name "SPB4";
+NC_063072.1	RefSeq	transcript	1662024	1664118	.	+	.	transcript_id "rna-XM_047987446.1"; gene_id "gene-JDV02_006092"
+NC_063072.1	RefSeq	exon	1662024	1662757	.	+	.	transcript_id "rna-XM_047987446.1"; gene_id "gene-JDV02_006092";
+NC_063072.1	RefSeq	exon	1662837	1664118	.	+	.	transcript_id "rna-XM_047987446.1"; gene_id "gene-JDV02_006092";
+NC_063072.1	RefSeq	CDS	1662156	1662757	.	+	0	transcript_id "rna-XM_047987446.1"; gene_id "gene-JDV02_006092";
+NC_063072.1	RefSeq	CDS	1662837	1663674	.	+	1	transcript_id "rna-XM_047987446.1"; gene_id "gene-JDV02_006092";
+NC_063072.1	RefSeq	transcript	2210216	2213182	.	-	.	transcript_id "rna-XM_047987615.1"; gene_id "gene-JDV02_006242"; gene_name "MAK10"
+NC_063072.1	RefSeq	exon	2210216	2211525	.	-	.	transcript_id "rna-XM_047987615.1"; gene_id "gene-JDV02_006242"; gene_name "MAK10";
+NC_063072.1	RefSeq	exon	2211582	2212043	.	-	.	transcript_id "rna-XM_047987615.1"; gene_id "gene-JDV02_006242"; gene_name "MAK10";
+NC_063072.1	RefSeq	exon	2212099	2212329	.	-	.	transcript_id "rna-XM_047987615.1"; gene_id "gene-JDV02_006242"; gene_name "MAK10";
+NC_063072.1	RefSeq	exon	2212397	2212525	.	-	.	transcript_id "rna-XM_047987615.1"; gene_id "gene-JDV02_006242"; gene_name "MAK10";
+NC_063072.1	RefSeq	exon	2212582	2212649	.	-	.	transcript_id "rna-XM_047987615.1"; gene_id "gene-JDV02_006242"; gene_name "MAK10";
+NC_063072.1	RefSeq	exon	2212708	2212833	.	-	.	transcript_id "rna-XM_047987615.1"; gene_id "gene-JDV02_006242"; gene_name "MAK10";
+NC_063072.1	RefSeq	exon	2212904	2213182	.	-	.	transcript_id "rna-XM_047987615.1"; gene_id "gene-JDV02_006242"; gene_name "MAK10";
+NC_063072.1	RefSeq	CDS	2210278	2211525	.	-	0	transcript_id "rna-XM_047987615.1"; gene_id "gene-JDV02_006242"; gene_name "MAK10";
+NC_063072.1	RefSeq	CDS	2211582	2212043	.	-	0	transcript_id "rna-XM_047987615.1"; gene_id "gene-JDV02_006242"; gene_name "MAK10";
+NC_063072.1	RefSeq	CDS	2212099	2212329	.	-	0	transcript_id "rna-XM_047987615.1"; gene_id "gene-JDV02_006242"; gene_name "MAK10";
+NC_063072.1	RefSeq	CDS	2212397	2212525	.	-	0	transcript_id "rna-XM_047987615.1"; gene_id "gene-JDV02_006242"; gene_name "MAK10";
+NC_063072.1	RefSeq	CDS	2212582	2212649	.	-	2	transcript_id "rna-XM_047987615.1"; gene_id "gene-JDV02_006242"; gene_name "MAK10";
+NC_063072.1	RefSeq	CDS	2212708	2212833	.	-	2	transcript_id "rna-XM_047987615.1"; gene_id "gene-JDV02_006242"; gene_name "MAK10";
+NC_063072.1	RefSeq	CDS	2212904	2212934	.	-	0	transcript_id "rna-XM_047987615.1"; gene_id "gene-JDV02_006242"; gene_name "MAK10";
+NC_063072.1	RefSeq	transcript	2525052	2526791	.	+	.	transcript_id "rna-XM_047987728.1"; gene_id "gene-JDV02_006338"; gene_name "DPH1"
+NC_063072.1	RefSeq	exon	2525052	2525452	.	+	.	transcript_id "rna-XM_047987728.1"; gene_id "gene-JDV02_006338"; gene_name "DPH1";
+NC_063072.1	RefSeq	exon	2525547	2526791	.	+	.	transcript_id "rna-XM_047987728.1"; gene_id "gene-JDV02_006338"; gene_name "DPH1";
+NC_063072.1	RefSeq	CDS	2525200	2525452	.	+	0	transcript_id "rna-XM_047987728.1"; gene_id "gene-JDV02_006338"; gene_name "DPH1";
+NC_063072.1	RefSeq	CDS	2525547	2526739	.	+	2	transcript_id "rna-XM_047987728.1"; gene_id "gene-JDV02_006338"; gene_name "DPH1";
+NC_063072.1	RefSeq	transcript	2719060	2721884	.	+	.	transcript_id "rna-XM_047987785.1"; gene_id "gene-JDV02_006393"; gene_name "DBP6"
+NC_063072.1	RefSeq	exon	2719060	2721884	.	+	.	transcript_id "rna-XM_047987785.1"; gene_id "gene-JDV02_006393"; gene_name "DBP6";
+NC_063072.1	RefSeq	CDS	2719134	2721857	.	+	0	transcript_id "rna-XM_047987785.1"; gene_id "gene-JDV02_006393"; gene_name "DBP6";
+NC_063073.1	RefSeq	transcript	70031	71367	.	-	.	transcript_id "rna-XM_047987886.1"; gene_id "gene-JDV02_006486"; gene_name "CWC26"
+NC_063073.1	RefSeq	exon	70031	71367	.	-	.	transcript_id "rna-XM_047987886.1"; gene_id "gene-JDV02_006486"; gene_name "CWC26";
+NC_063073.1	RefSeq	CDS	70089	71081	.	-	0	transcript_id "rna-XM_047987886.1"; gene_id "gene-JDV02_006486"; gene_name "CWC26";
+NC_063073.1	RefSeq	transcript	803587	805903	.	+	.	transcript_id "rna-XM_047988144.1"; gene_id "gene-JDV02_006724"; gene_name "SWC4"
+NC_063073.1	RefSeq	exon	803587	805903	.	+	.	transcript_id "rna-XM_047988144.1"; gene_id "gene-JDV02_006724"; gene_name "SWC4";
+NC_063073.1	RefSeq	CDS	803739	805637	.	+	0	transcript_id "rna-XM_047988144.1"; gene_id "gene-JDV02_006724"; gene_name "SWC4";
+NC_063073.1	RefSeq	transcript	832148	833837	.	-	.	transcript_id "rna-XM_047988154.1"; gene_id "gene-JDV02_006733"
+NC_063073.1	RefSeq	exon	832148	833469	.	-	.	transcript_id "rna-XM_047988154.1"; gene_id "gene-JDV02_006733";
+NC_063073.1	RefSeq	exon	833566	833837	.	-	.	transcript_id "rna-XM_047988154.1"; gene_id "gene-JDV02_006733";
+NC_063073.1	RefSeq	CDS	832453	833469	.	-	0	transcript_id "rna-XM_047988154.1"; gene_id "gene-JDV02_006733";
+NC_063073.1	RefSeq	CDS	833566	833673	.	-	0	transcript_id "rna-XM_047988154.1"; gene_id "gene-JDV02_006733";
+NC_063073.1	RefSeq	transcript	834006	836496	.	+	.	transcript_id "rna-XM_047988155.1"; gene_id "gene-JDV02_006734"; gene_name "UTP25"
+NC_063073.1	RefSeq	exon	834006	834261	.	+	.	transcript_id "rna-XM_047988155.1"; gene_id "gene-JDV02_006734"; gene_name "UTP25";
+NC_063073.1	RefSeq	exon	834321	835025	.	+	.	transcript_id "rna-XM_047988155.1"; gene_id "gene-JDV02_006734"; gene_name "UTP25";
+NC_063073.1	RefSeq	exon	835080	836496	.	+	.	transcript_id "rna-XM_047988155.1"; gene_id "gene-JDV02_006734"; gene_name "UTP25";
+NC_063073.1	RefSeq	CDS	834116	834261	.	+	0	transcript_id "rna-XM_047988155.1"; gene_id "gene-JDV02_006734"; gene_name "UTP25";
+NC_063073.1	RefSeq	CDS	834321	835025	.	+	1	transcript_id "rna-XM_047988155.1"; gene_id "gene-JDV02_006734"; gene_name "UTP25";
+NC_063073.1	RefSeq	CDS	835080	836382	.	+	1	transcript_id "rna-XM_047988155.1"; gene_id "gene-JDV02_006734"; gene_name "UTP25";
+NC_063073.1	RefSeq	transcript	902763	904059	.	+	.	transcript_id "rna-XM_047988179.1"; gene_id "gene-JDV02_006757"; gene_name "rrp4"
+NC_063073.1	RefSeq	exon	902763	903010	.	+	.	transcript_id "rna-XM_047988179.1"; gene_id "gene-JDV02_006757"; gene_name "rrp4";
+NC_063073.1	RefSeq	exon	903200	904059	.	+	.	transcript_id "rna-XM_047988179.1"; gene_id "gene-JDV02_006757"; gene_name "rrp4";
+NC_063073.1	RefSeq	CDS	902763	903010	.	+	0	transcript_id "rna-XM_047988179.1"; gene_id "gene-JDV02_006757"; gene_name "rrp4";
+NC_063073.1	RefSeq	CDS	903200	904031	.	+	1	transcript_id "rna-XM_047988179.1"; gene_id "gene-JDV02_006757"; gene_name "rrp4";
+NC_063073.1	RefSeq	transcript	1356657	1359248	.	+	.	transcript_id "rna-XM_047988323.1"; gene_id "gene-JDV02_006886"; gene_name "ATG7"
+NC_063073.1	RefSeq	exon	1356657	1357148	.	+	.	transcript_id "rna-XM_047988323.1"; gene_id "gene-JDV02_006886"; gene_name "ATG7";
+NC_063073.1	RefSeq	exon	1357203	1357311	.	+	.	transcript_id "rna-XM_047988323.1"; gene_id "gene-JDV02_006886"; gene_name "ATG7";
+NC_063073.1	RefSeq	exon	1357362	1358654	.	+	.	transcript_id "rna-XM_047988323.1"; gene_id "gene-JDV02_006886"; gene_name "ATG7";
+NC_063073.1	RefSeq	exon	1358703	1359248	.	+	.	transcript_id "rna-XM_047988323.1"; gene_id "gene-JDV02_006886"; gene_name "ATG7";
+NC_063073.1	RefSeq	CDS	1356949	1357148	.	+	0	transcript_id "rna-XM_047988323.1"; gene_id "gene-JDV02_006886"; gene_name "ATG7";
+NC_063073.1	RefSeq	CDS	1357203	1357311	.	+	1	transcript_id "rna-XM_047988323.1"; gene_id "gene-JDV02_006886"; gene_name "ATG7";
+NC_063073.1	RefSeq	CDS	1357362	1358654	.	+	0	transcript_id "rna-XM_047988323.1"; gene_id "gene-JDV02_006886"; gene_name "ATG7";
+NC_063073.1	RefSeq	CDS	1358703	1359170	.	+	0	transcript_id "rna-XM_047988323.1"; gene_id "gene-JDV02_006886"; gene_name "ATG7";
+NC_063073.1	RefSeq	transcript	1379710	1380785	.	+	.	transcript_id "rna-XM_047988331.1"; gene_id "gene-JDV02_006894"; gene_name "imp3"
+NC_063073.1	RefSeq	exon	1379710	1379970	.	+	.	transcript_id "rna-XM_047988331.1"; gene_id "gene-JDV02_006894"; gene_name "imp3";
+NC_063073.1	RefSeq	exon	1380178	1380785	.	+	.	transcript_id "rna-XM_047988331.1"; gene_id "gene-JDV02_006894"; gene_name "imp3";
+NC_063073.1	RefSeq	CDS	1379815	1379970	.	+	0	transcript_id "rna-XM_047988331.1"; gene_id "gene-JDV02_006894"; gene_name "imp3";
+NC_063073.1	RefSeq	CDS	1380178	1380573	.	+	0	transcript_id "rna-XM_047988331.1"; gene_id "gene-JDV02_006894"; gene_name "imp3";
+NC_063073.1	RefSeq	transcript	1556811	1559267	.	-	.	transcript_id "rna-XM_047988397.1"; gene_id "gene-JDV02_006957"; gene_name "GCD7"
+NC_063073.1	RefSeq	exon	1556811	1557559	.	-	.	transcript_id "rna-XM_047988397.1"; gene_id "gene-JDV02_006957"; gene_name "GCD7";
+NC_063073.1	RefSeq	exon	1557621	1558796	.	-	.	transcript_id "rna-XM_047988397.1"; gene_id "gene-JDV02_006957"; gene_name "GCD7";
+NC_063073.1	RefSeq	exon	1558868	1559267	.	-	.	transcript_id "rna-XM_047988397.1"; gene_id "gene-JDV02_006957"; gene_name "GCD7";
+NC_063073.1	RefSeq	CDS	1557457	1557559	.	-	1	transcript_id "rna-XM_047988397.1"; gene_id "gene-JDV02_006957"; gene_name "GCD7";
+NC_063073.1	RefSeq	CDS	1557621	1558796	.	-	1	transcript_id "rna-XM_047988397.1"; gene_id "gene-JDV02_006957"; gene_name "GCD7";
+NC_063073.1	RefSeq	CDS	1558868	1558965	.	-	0	transcript_id "rna-XM_047988397.1"; gene_id "gene-JDV02_006957"; gene_name "GCD7";
+NC_063073.1	RefSeq	transcript	1749404	1750688	.	-	.	transcript_id "rna-XM_047988472.1"; gene_id "gene-JDV02_007022"
+NC_063073.1	RefSeq	exon	1749404	1750688	.	-	.	transcript_id "rna-XM_047988472.1"; gene_id "gene-JDV02_007022";
+NC_063073.1	RefSeq	CDS	1749423	1750634	.	-	0	transcript_id "rna-XM_047988472.1"; gene_id "gene-JDV02_007022";
+NC_063073.1	RefSeq	transcript	1761201	1763317	.	-	.	transcript_id "rna-XM_047988478.1"; gene_id "gene-JDV02_007027"
+NC_063073.1	RefSeq	exon	1761201	1761511	.	-	.	transcript_id "rna-XM_047988478.1"; gene_id "gene-JDV02_007027";
+NC_063073.1	RefSeq	exon	1761587	1762816	.	-	.	transcript_id "rna-XM_047988478.1"; gene_id "gene-JDV02_007027";
+NC_063073.1	RefSeq	exon	1762874	1762964	.	-	.	transcript_id "rna-XM_047988478.1"; gene_id "gene-JDV02_007027";
+NC_063073.1	RefSeq	exon	1763032	1763317	.	-	.	transcript_id "rna-XM_047988478.1"; gene_id "gene-JDV02_007027";
+NC_063073.1	RefSeq	CDS	1761410	1761511	.	-	0	transcript_id "rna-XM_047988478.1"; gene_id "gene-JDV02_007027";
+NC_063073.1	RefSeq	CDS	1761587	1762816	.	-	0	transcript_id "rna-XM_047988478.1"; gene_id "gene-JDV02_007027";
+NC_063073.1	RefSeq	CDS	1762874	1762964	.	-	1	transcript_id "rna-XM_047988478.1"; gene_id "gene-JDV02_007027";
+NC_063073.1	RefSeq	CDS	1763032	1763135	.	-	0	transcript_id "rna-XM_047988478.1"; gene_id "gene-JDV02_007027";
+NC_063073.1	RefSeq	transcript	1789611	1791031	.	-	.	transcript_id "rna-XM_047988489.1"; gene_id "gene-JDV02_007037"
+NC_063073.1	RefSeq	exon	1789611	1789757	.	-	.	transcript_id "rna-XM_047988489.1"; gene_id "gene-JDV02_007037";
+NC_063073.1	RefSeq	exon	1789923	1790639	.	-	.	transcript_id "rna-XM_047988489.1"; gene_id "gene-JDV02_007037";
+NC_063073.1	RefSeq	exon	1790724	1790821	.	-	.	transcript_id "rna-XM_047988489.1"; gene_id "gene-JDV02_007037";
+NC_063073.1	RefSeq	exon	1790929	1791031	.	-	.	transcript_id "rna-XM_047988489.1"; gene_id "gene-JDV02_007037";
+NC_063073.1	RefSeq	CDS	1789611	1789757	.	-	0	transcript_id "rna-XM_047988489.1"; gene_id "gene-JDV02_007037";
+NC_063073.1	RefSeq	CDS	1789923	1790639	.	-	0	transcript_id "rna-XM_047988489.1"; gene_id "gene-JDV02_007037";
+NC_063073.1	RefSeq	CDS	1790724	1790821	.	-	2	transcript_id "rna-XM_047988489.1"; gene_id "gene-JDV02_007037";
+NC_063073.1	RefSeq	CDS	1790929	1791031	.	-	0	transcript_id "rna-XM_047988489.1"; gene_id "gene-JDV02_007037";
+NC_063073.1	RefSeq	transcript	1938710	1942525	.	-	.	transcript_id "rna-XM_047988529.1"; gene_id "gene-JDV02_007074"
+NC_063073.1	RefSeq	exon	1938710	1942525	.	-	.	transcript_id "rna-XM_047988529.1"; gene_id "gene-JDV02_007074";
+NC_063073.1	RefSeq	CDS	1939701	1942274	.	-	0	transcript_id "rna-XM_047988529.1"; gene_id "gene-JDV02_007074";
+NC_063073.1	RefSeq	transcript	2088090	2089675	.	+	.	transcript_id "rna-XM_047988584.1"; gene_id "gene-JDV02_007120"; gene_name "PSF1"
+NC_063073.1	RefSeq	exon	2088090	2088209	.	+	.	transcript_id "rna-XM_047988584.1"; gene_id "gene-JDV02_007120"; gene_name "PSF1";
+NC_063073.1	RefSeq	exon	2088269	2088804	.	+	.	transcript_id "rna-XM_047988584.1"; gene_id "gene-JDV02_007120"; gene_name "PSF1";
+NC_063073.1	RefSeq	exon	2088860	2089675	.	+	.	transcript_id "rna-XM_047988584.1"; gene_id "gene-JDV02_007120"; gene_name "PSF1";
+NC_063073.1	RefSeq	CDS	2088183	2088209	.	+	0	transcript_id "rna-XM_047988584.1"; gene_id "gene-JDV02_007120"; gene_name "PSF1";
+NC_063073.1	RefSeq	CDS	2088269	2088804	.	+	0	transcript_id "rna-XM_047988584.1"; gene_id "gene-JDV02_007120"; gene_name "PSF1";
+NC_063073.1	RefSeq	CDS	2088860	2088953	.	+	1	transcript_id "rna-XM_047988584.1"; gene_id "gene-JDV02_007120"; gene_name "PSF1";
+NC_063073.1	RefSeq	transcript	2261110	2264596	.	-	.	transcript_id "rna-XM_047988643.1"; gene_id "gene-JDV02_007174"
+NC_063073.1	RefSeq	exon	2261110	2263237	.	-	.	transcript_id "rna-XM_047988643.1"; gene_id "gene-JDV02_007174";
+NC_063073.1	RefSeq	exon	2263301	2263711	.	-	.	transcript_id "rna-XM_047988643.1"; gene_id "gene-JDV02_007174";
+NC_063073.1	RefSeq	exon	2263764	2264596	.	-	.	transcript_id "rna-XM_047988643.1"; gene_id "gene-JDV02_007174";
+NC_063073.1	RefSeq	CDS	2262455	2263237	.	-	0	transcript_id "rna-XM_047988643.1"; gene_id "gene-JDV02_007174";
+NC_063073.1	RefSeq	CDS	2263301	2263711	.	-	0	transcript_id "rna-XM_047988643.1"; gene_id "gene-JDV02_007174";
+NC_063073.1	RefSeq	CDS	2263764	2264432	.	-	0	transcript_id "rna-XM_047988643.1"; gene_id "gene-JDV02_007174";
+NC_063073.1	RefSeq	transcript	2489580	2491077	.	+	.	transcript_id "rna-XM_047988723.1"; gene_id "gene-JDV02_007249"; gene_name "cyp6"
+NC_063073.1	RefSeq	exon	2489580	2489659	.	+	.	transcript_id "rna-XM_047988723.1"; gene_id "gene-JDV02_007249"; gene_name "cyp6";
+NC_063073.1	RefSeq	exon	2489715	2491077	.	+	.	transcript_id "rna-XM_047988723.1"; gene_id "gene-JDV02_007249"; gene_name "cyp6";
+NC_063073.1	RefSeq	CDS	2489580	2489659	.	+	0	transcript_id "rna-XM_047988723.1"; gene_id "gene-JDV02_007249"; gene_name "cyp6";
+NC_063073.1	RefSeq	CDS	2489715	2491077	.	+	1	transcript_id "rna-XM_047988723.1"; gene_id "gene-JDV02_007249"; gene_name "cyp6";
+NC_063074.1	RefSeq	transcript	91709	93588	.	+	.	transcript_id "rna-XM_047988826.1"; gene_id "gene-JDV02_007341"; gene_name "MAK11"
+NC_063074.1	RefSeq	exon	91709	93588	.	+	.	transcript_id "rna-XM_047988826.1"; gene_id "gene-JDV02_007341"; gene_name "MAK11";
+NC_063074.1	RefSeq	CDS	91786	93243	.	+	0	transcript_id "rna-XM_047988826.1"; gene_id "gene-JDV02_007341"; gene_name "MAK11";
+NC_063074.1	RefSeq	transcript	165048	167321	.	+	.	transcript_id "rna-XM_047988848.1"; gene_id "gene-JDV02_007360"; gene_name "FYV10"
+NC_063074.1	RefSeq	exon	165048	165286	.	+	.	transcript_id "rna-XM_047988848.1"; gene_id "gene-JDV02_007360"; gene_name "FYV10";
+NC_063074.1	RefSeq	exon	165417	165956	.	+	.	transcript_id "rna-XM_047988848.1"; gene_id "gene-JDV02_007360"; gene_name "FYV10";
+NC_063074.1	RefSeq	exon	166050	167321	.	+	.	transcript_id "rna-XM_047988848.1"; gene_id "gene-JDV02_007360"; gene_name "FYV10";
+NC_063074.1	RefSeq	CDS	165236	165286	.	+	0	transcript_id "rna-XM_047988848.1"; gene_id "gene-JDV02_007360"; gene_name "FYV10";
+NC_063074.1	RefSeq	CDS	165417	165956	.	+	0	transcript_id "rna-XM_047988848.1"; gene_id "gene-JDV02_007360"; gene_name "FYV10";
+NC_063074.1	RefSeq	CDS	166050	166682	.	+	0	transcript_id "rna-XM_047988848.1"; gene_id "gene-JDV02_007360"; gene_name "FYV10";
+NC_063074.1	RefSeq	transcript	397362	398579	.	-	.	transcript_id "rna-XM_047988914.1"; gene_id "gene-JDV02_007424"; gene_name "RRP45"
+NC_063074.1	RefSeq	exon	397362	398251	.	-	.	transcript_id "rna-XM_047988914.1"; gene_id "gene-JDV02_007424"; gene_name "RRP45";
+NC_063074.1	RefSeq	exon	398364	398579	.	-	.	transcript_id "rna-XM_047988914.1"; gene_id "gene-JDV02_007424"; gene_name "RRP45";
+NC_063074.1	RefSeq	CDS	397534	398251	.	-	1	transcript_id "rna-XM_047988914.1"; gene_id "gene-JDV02_007424"; gene_name "RRP45";
+NC_063074.1	RefSeq	CDS	398364	398527	.	-	0	transcript_id "rna-XM_047988914.1"; gene_id "gene-JDV02_007424"; gene_name "RRP45";
+NC_063074.1	RefSeq	transcript	408851	410174	.	+	.	transcript_id "rna-XM_047988919.1"; gene_id "gene-JDV02_007428"; gene_name "CWC15_2"
+NC_063074.1	RefSeq	exon	408851	408952	.	+	.	transcript_id "rna-XM_047988919.1"; gene_id "gene-JDV02_007428"; gene_name "CWC15_2";
+NC_063074.1	RefSeq	exon	409030	409539	.	+	.	transcript_id "rna-XM_047988919.1"; gene_id "gene-JDV02_007428"; gene_name "CWC15_2";
+NC_063074.1	RefSeq	exon	409638	409811	.	+	.	transcript_id "rna-XM_047988919.1"; gene_id "gene-JDV02_007428"; gene_name "CWC15_2";
+NC_063074.1	RefSeq	exon	409927	410174	.	+	.	transcript_id "rna-XM_047988919.1"; gene_id "gene-JDV02_007428"; gene_name "CWC15_2";
+NC_063074.1	RefSeq	CDS	408920	408952	.	+	0	transcript_id "rna-XM_047988919.1"; gene_id "gene-JDV02_007428"; gene_name "CWC15_2";
+NC_063074.1	RefSeq	CDS	409030	409539	.	+	0	transcript_id "rna-XM_047988919.1"; gene_id "gene-JDV02_007428"; gene_name "CWC15_2";
+NC_063074.1	RefSeq	CDS	409638	409811	.	+	0	transcript_id "rna-XM_047988919.1"; gene_id "gene-JDV02_007428"; gene_name "CWC15_2";
+NC_063074.1	RefSeq	CDS	409927	409980	.	+	0	transcript_id "rna-XM_047988919.1"; gene_id "gene-JDV02_007428"; gene_name "CWC15_2";
+NC_063074.1	RefSeq	transcript	565813	568023	.	+	.	transcript_id "rna-XM_047988978.1"; gene_id "gene-JDV02_007482"
+NC_063074.1	RefSeq	exon	565813	568023	.	+	.	transcript_id "rna-XM_047988978.1"; gene_id "gene-JDV02_007482";
+NC_063074.1	RefSeq	CDS	565853	567892	.	+	0	transcript_id "rna-XM_047988978.1"; gene_id "gene-JDV02_007482";
+NC_063074.1	RefSeq	transcript	680915	683461	.	-	.	transcript_id "rna-XM_047989018.1"; gene_id "gene-JDV02_007516"; gene_name "FRS1"
+NC_063074.1	RefSeq	exon	680915	681137	.	-	.	transcript_id "rna-XM_047989018.1"; gene_id "gene-JDV02_007516"; gene_name "FRS1";
+NC_063074.1	RefSeq	exon	681200	682933	.	-	.	transcript_id "rna-XM_047989018.1"; gene_id "gene-JDV02_007516"; gene_name "FRS1";
+NC_063074.1	RefSeq	exon	683041	683461	.	-	.	transcript_id "rna-XM_047989018.1"; gene_id "gene-JDV02_007516"; gene_name "FRS1";
+NC_063074.1	RefSeq	CDS	681092	681137	.	-	1	transcript_id "rna-XM_047989018.1"; gene_id "gene-JDV02_007516"; gene_name "FRS1";
+NC_063074.1	RefSeq	CDS	681200	682933	.	-	1	transcript_id "rna-XM_047989018.1"; gene_id "gene-JDV02_007516"; gene_name "FRS1";
+NC_063074.1	RefSeq	CDS	683041	683093	.	-	0	transcript_id "rna-XM_047989018.1"; gene_id "gene-JDV02_007516"; gene_name "FRS1";
+NC_063074.1	RefSeq	transcript	756354	757555	.	+	.	transcript_id "rna-XM_047989040.1"; gene_id "gene-JDV02_007539"; gene_name "LIA1"
+NC_063074.1	RefSeq	exon	756354	756911	.	+	.	transcript_id "rna-XM_047989040.1"; gene_id "gene-JDV02_007539"; gene_name "LIA1";
+NC_063074.1	RefSeq	exon	756980	757555	.	+	.	transcript_id "rna-XM_047989040.1"; gene_id "gene-JDV02_007539"; gene_name "LIA1";
+NC_063074.1	RefSeq	CDS	756454	756911	.	+	0	transcript_id "rna-XM_047989040.1"; gene_id "gene-JDV02_007539"; gene_name "LIA1";
+NC_063074.1	RefSeq	CDS	756980	757490	.	+	1	transcript_id "rna-XM_047989040.1"; gene_id "gene-JDV02_007539"; gene_name "LIA1";
+NC_063074.1	RefSeq	transcript	1143287	1145665	.	+	.	transcript_id "rna-XM_047989164.1"; gene_id "gene-JDV02_007651"; gene_name "DBP7"
+NC_063074.1	RefSeq	exon	1143287	1145665	.	+	.	transcript_id "rna-XM_047989164.1"; gene_id "gene-JDV02_007651"; gene_name "DBP7";
+NC_063074.1	RefSeq	CDS	1143340	1145577	.	+	0	transcript_id "rna-XM_047989164.1"; gene_id "gene-JDV02_007651"; gene_name "DBP7";
+NC_063074.1	RefSeq	transcript	1314669	1316650	.	-	.	transcript_id "rna-XM_047989232.1"; gene_id "gene-JDV02_007709"; gene_name "SRP68"
+NC_063074.1	RefSeq	exon	1314669	1315194	.	-	.	transcript_id "rna-XM_047989232.1"; gene_id "gene-JDV02_007709"; gene_name "SRP68";
+NC_063074.1	RefSeq	exon	1315251	1316393	.	-	.	transcript_id "rna-XM_047989232.1"; gene_id "gene-JDV02_007709"; gene_name "SRP68";
+NC_063074.1	RefSeq	exon	1316460	1316650	.	-	.	transcript_id "rna-XM_047989232.1"; gene_id "gene-JDV02_007709"; gene_name "SRP68";
+NC_063074.1	RefSeq	CDS	1314669	1315194	.	-	1	transcript_id "rna-XM_047989232.1"; gene_id "gene-JDV02_007709"; gene_name "SRP68";
+NC_063074.1	RefSeq	CDS	1315251	1316393	.	-	1	transcript_id "rna-XM_047989232.1"; gene_id "gene-JDV02_007709"; gene_name "SRP68";
+NC_063074.1	RefSeq	CDS	1316460	1316650	.	-	0	transcript_id "rna-XM_047989232.1"; gene_id "gene-JDV02_007709"; gene_name "SRP68";
+NC_063074.1	RefSeq	transcript	1697779	1698838	.	-	.	transcript_id "rna-XM_047989358.1"; gene_id "gene-JDV02_007825"; gene_name "DPH5"
+NC_063074.1	RefSeq	exon	1697779	1698416	.	-	.	transcript_id "rna-XM_047989358.1"; gene_id "gene-JDV02_007825"; gene_name "DPH5";
+NC_063074.1	RefSeq	exon	1698476	1698600	.	-	.	transcript_id "rna-XM_047989358.1"; gene_id "gene-JDV02_007825"; gene_name "DPH5";
+NC_063074.1	RefSeq	exon	1698654	1698838	.	-	.	transcript_id "rna-XM_047989358.1"; gene_id "gene-JDV02_007825"; gene_name "DPH5";
+NC_063074.1	RefSeq	CDS	1697816	1698416	.	-	1	transcript_id "rna-XM_047989358.1"; gene_id "gene-JDV02_007825"; gene_name "DPH5";
+NC_063074.1	RefSeq	CDS	1698476	1698600	.	-	0	transcript_id "rna-XM_047989358.1"; gene_id "gene-JDV02_007825"; gene_name "DPH5";
+NC_063074.1	RefSeq	CDS	1698654	1698788	.	-	0	transcript_id "rna-XM_047989358.1"; gene_id "gene-JDV02_007825"; gene_name "DPH5";
+NC_063074.1	RefSeq	transcript	1699088	1699804	.	+	.	transcript_id "rna-XM_047989359.1"; gene_id "gene-JDV02_007826"; gene_name "SNU23"
+NC_063074.1	RefSeq	exon	1699088	1699804	.	+	.	transcript_id "rna-XM_047989359.1"; gene_id "gene-JDV02_007826"; gene_name "SNU23";
+NC_063074.1	RefSeq	CDS	1699088	1699804	.	+	0	transcript_id "rna-XM_047989359.1"; gene_id "gene-JDV02_007826"; gene_name "SNU23";
+NC_063074.1	RefSeq	transcript	1789060	1790530	.	+	.	transcript_id "rna-XM_047989387.1"; gene_id "gene-JDV02_007852"; gene_name "ALG7"
+NC_063074.1	RefSeq	exon	1789060	1789503	.	+	.	transcript_id "rna-XM_047989387.1"; gene_id "gene-JDV02_007852"; gene_name "ALG7";
+NC_063074.1	RefSeq	exon	1789553	1790530	.	+	.	transcript_id "rna-XM_047989387.1"; gene_id "gene-JDV02_007852"; gene_name "ALG7";
+NC_063074.1	RefSeq	CDS	1789060	1789503	.	+	0	transcript_id "rna-XM_047989387.1"; gene_id "gene-JDV02_007852"; gene_name "ALG7";
+NC_063074.1	RefSeq	CDS	1789553	1790530	.	+	0	transcript_id "rna-XM_047989387.1"; gene_id "gene-JDV02_007852"; gene_name "ALG7";
+NC_063074.1	RefSeq	transcript	1839621	1840691	.	+	.	transcript_id "rna-XM_047989405.1"; gene_id "gene-JDV02_007869"; gene_name "BCP1"
+NC_063074.1	RefSeq	exon	1839621	1839829	.	+	.	transcript_id "rna-XM_047989405.1"; gene_id "gene-JDV02_007869"; gene_name "BCP1";
+NC_063074.1	RefSeq	exon	1839898	1840691	.	+	.	transcript_id "rna-XM_047989405.1"; gene_id "gene-JDV02_007869"; gene_name "BCP1";
+NC_063074.1	RefSeq	CDS	1839746	1839829	.	+	0	transcript_id "rna-XM_047989405.1"; gene_id "gene-JDV02_007869"; gene_name "BCP1";
+NC_063074.1	RefSeq	CDS	1839898	1840668	.	+	0	transcript_id "rna-XM_047989405.1"; gene_id "gene-JDV02_007869"; gene_name "BCP1";
+NC_063074.1	RefSeq	transcript	2146764	2150085	.	+	.	transcript_id "rna-XM_047989505.1"; gene_id "gene-JDV02_007954"; gene_name "ctf18"
+NC_063074.1	RefSeq	exon	2146764	2149388	.	+	.	transcript_id "rna-XM_047989505.1"; gene_id "gene-JDV02_007954"; gene_name "ctf18";
+NC_063074.1	RefSeq	exon	2149488	2150085	.	+	.	transcript_id "rna-XM_047989505.1"; gene_id "gene-JDV02_007954"; gene_name "ctf18";
+NC_063074.1	RefSeq	CDS	2146894	2149388	.	+	0	transcript_id "rna-XM_047989505.1"; gene_id "gene-JDV02_007954"; gene_name "ctf18";
+NC_063074.1	RefSeq	CDS	2149488	2150004	.	+	1	transcript_id "rna-XM_047989505.1"; gene_id "gene-JDV02_007954"; gene_name "ctf18";
+NC_063074.1	RefSeq	transcript	2381212	2382596	.	-	.	transcript_id "rna-XM_047989574.1"; gene_id "gene-JDV02_008017"; gene_name "ETF1"
+NC_063074.1	RefSeq	exon	2381212	2382021	.	-	.	transcript_id "rna-XM_047989574.1"; gene_id "gene-JDV02_008017"; gene_name "ETF1";
+NC_063074.1	RefSeq	exon	2382078	2382596	.	-	.	transcript_id "rna-XM_047989574.1"; gene_id "gene-JDV02_008017"; gene_name "ETF1";
+NC_063074.1	RefSeq	CDS	2381275	2382021	.	-	0	transcript_id "rna-XM_047989574.1"; gene_id "gene-JDV02_008017"; gene_name "ETF1";
+NC_063074.1	RefSeq	CDS	2382078	2382356	.	-	0	transcript_id "rna-XM_047989574.1"; gene_id "gene-JDV02_008017"; gene_name "ETF1";
+NC_063075.1	RefSeq	transcript	1203865	1205591	.	-	.	transcript_id "rna-XM_047990008.1"; gene_id "gene-JDV02_008414"; gene_name "RAM1"
+NC_063075.1	RefSeq	exon	1203865	1204117	.	-	.	transcript_id "rna-XM_047990008.1"; gene_id "gene-JDV02_008414"; gene_name "RAM1";
+NC_063075.1	RefSeq	exon	1204194	1204484	.	-	.	transcript_id "rna-XM_047990008.1"; gene_id "gene-JDV02_008414"; gene_name "RAM1";
+NC_063075.1	RefSeq	exon	1204608	1204725	.	-	.	transcript_id "rna-XM_047990008.1"; gene_id "gene-JDV02_008414"; gene_name "RAM1";
+NC_063075.1	RefSeq	exon	1204785	1204912	.	-	.	transcript_id "rna-XM_047990008.1"; gene_id "gene-JDV02_008414"; gene_name "RAM1";
+NC_063075.1	RefSeq	exon	1204993	1205591	.	-	.	transcript_id "rna-XM_047990008.1"; gene_id "gene-JDV02_008414"; gene_name "RAM1";
+NC_063075.1	RefSeq	CDS	1203865	1204117	.	-	1	transcript_id "rna-XM_047990008.1"; gene_id "gene-JDV02_008414"; gene_name "RAM1";
+NC_063075.1	RefSeq	CDS	1204194	1204484	.	-	1	transcript_id "rna-XM_047990008.1"; gene_id "gene-JDV02_008414"; gene_name "RAM1";
+NC_063075.1	RefSeq	CDS	1204608	1204725	.	-	2	transcript_id "rna-XM_047990008.1"; gene_id "gene-JDV02_008414"; gene_name "RAM1";
+NC_063075.1	RefSeq	CDS	1204785	1204912	.	-	1	transcript_id "rna-XM_047990008.1"; gene_id "gene-JDV02_008414"; gene_name "RAM1";
+NC_063075.1	RefSeq	CDS	1204993	1205591	.	-	0	transcript_id "rna-XM_047990008.1"; gene_id "gene-JDV02_008414"; gene_name "RAM1";
+NC_063075.1	RefSeq	transcript	1251712	1253511	.	-	.	transcript_id "rna-XM_047990021.1"; gene_id "gene-JDV02_008426"; gene_name "COX15"
+NC_063075.1	RefSeq	exon	1251712	1253011	.	-	.	transcript_id "rna-XM_047990021.1"; gene_id "gene-JDV02_008426"; gene_name "COX15";
+NC_063075.1	RefSeq	exon	1253098	1253511	.	-	.	transcript_id "rna-XM_047990021.1"; gene_id "gene-JDV02_008426"; gene_name "COX15";
+NC_063075.1	RefSeq	CDS	1251940	1253011	.	-	1	transcript_id "rna-XM_047990021.1"; gene_id "gene-JDV02_008426"; gene_name "COX15";
+NC_063075.1	RefSeq	CDS	1253098	1253447	.	-	0	transcript_id "rna-XM_047990021.1"; gene_id "gene-JDV02_008426"; gene_name "COX15";
+NC_063075.1	RefSeq	transcript	1481252	1485289	.	+	.	transcript_id "rna-XM_047990101.1"; gene_id "gene-JDV02_008495"
+NC_063075.1	RefSeq	exon	1481252	1483157	.	+	.	transcript_id "rna-XM_047990101.1"; gene_id "gene-JDV02_008495";
+NC_063075.1	RefSeq	exon	1483224	1485289	.	+	.	transcript_id "rna-XM_047990101.1"; gene_id "gene-JDV02_008495";
+NC_063075.1	RefSeq	CDS	1481350	1483157	.	+	0	transcript_id "rna-XM_047990101.1"; gene_id "gene-JDV02_008495";
+NC_063075.1	RefSeq	CDS	1483224	1483323	.	+	1	transcript_id "rna-XM_047990101.1"; gene_id "gene-JDV02_008495";
+NC_063075.1	RefSeq	transcript	1523306	1526096	.	+	.	transcript_id "rna-XM_047990114.1"; gene_id "gene-JDV02_008507"; gene_name "ENP2"
+NC_063075.1	RefSeq	exon	1523306	1526096	.	+	.	transcript_id "rna-XM_047990114.1"; gene_id "gene-JDV02_008507"; gene_name "ENP2";
+NC_063075.1	RefSeq	CDS	1523423	1525351	.	+	0	transcript_id "rna-XM_047990114.1"; gene_id "gene-JDV02_008507"; gene_name "ENP2";
+NC_063075.1	RefSeq	transcript	2323149	2324741	.	+	.	transcript_id "rna-XM_047990385.1"; gene_id "gene-JDV02_008755"; gene_name "DOM34"
+NC_063075.1	RefSeq	exon	2323149	2323400	.	+	.	transcript_id "rna-XM_047990385.1"; gene_id "gene-JDV02_008755"; gene_name "DOM34";
+NC_063075.1	RefSeq	exon	2323462	2324741	.	+	.	transcript_id "rna-XM_047990385.1"; gene_id "gene-JDV02_008755"; gene_name "DOM34";
+NC_063075.1	RefSeq	CDS	2323320	2323400	.	+	0	transcript_id "rna-XM_047990385.1"; gene_id "gene-JDV02_008755"; gene_name "DOM34";
+NC_063075.1	RefSeq	CDS	2323462	2324613	.	+	0	transcript_id "rna-XM_047990385.1"; gene_id "gene-JDV02_008755"; gene_name "DOM34";
+NC_063076.1	RefSeq	transcript	115406	116984	.	+	.	transcript_id "rna-XM_047990442.1"; gene_id "gene-JDV02_008811"
+NC_063076.1	RefSeq	exon	115406	115626	.	+	.	transcript_id "rna-XM_047990442.1"; gene_id "gene-JDV02_008811";
+NC_063076.1	RefSeq	exon	115778	116984	.	+	.	transcript_id "rna-XM_047990442.1"; gene_id "gene-JDV02_008811";
+NC_063076.1	RefSeq	CDS	115524	115626	.	+	0	transcript_id "rna-XM_047990442.1"; gene_id "gene-JDV02_008811";
+NC_063076.1	RefSeq	CDS	115778	116802	.	+	2	transcript_id "rna-XM_047990442.1"; gene_id "gene-JDV02_008811";
+NC_063076.1	RefSeq	transcript	316801	318772	.	-	.	transcript_id "rna-XM_047990531.1"; gene_id "gene-JDV02_008900"
+NC_063076.1	RefSeq	exon	316801	318577	.	-	.	transcript_id "rna-XM_047990531.1"; gene_id "gene-JDV02_008900";
+NC_063076.1	RefSeq	exon	318628	318772	.	-	.	transcript_id "rna-XM_047990531.1"; gene_id "gene-JDV02_008900";
+NC_063076.1	RefSeq	CDS	317861	318577	.	-	0	transcript_id "rna-XM_047990531.1"; gene_id "gene-JDV02_008900";
+NC_063076.1	RefSeq	CDS	318628	318723	.	-	0	transcript_id "rna-XM_047990531.1"; gene_id "gene-JDV02_008900";
+NC_063076.1	RefSeq	transcript	1353491	1355573	.	-	.	transcript_id "rna-XM_047990898.1"; gene_id "gene-JDV02_009245"; gene_name "NOP7"
+NC_063076.1	RefSeq	exon	1353491	1355573	.	-	.	transcript_id "rna-XM_047990898.1"; gene_id "gene-JDV02_009245"; gene_name "NOP7";
+NC_063076.1	RefSeq	CDS	1353548	1355497	.	-	0	transcript_id "rna-XM_047990898.1"; gene_id "gene-JDV02_009245"; gene_name "NOP7";
+NC_063076.1	RefSeq	transcript	2048861	2049790	.	-	.	transcript_id "rna-XM_047991115.1"; gene_id "gene-JDV02_009451"; gene_name "RPP1"
+NC_063076.1	RefSeq	exon	2048861	2049790	.	-	.	transcript_id "rna-XM_047991115.1"; gene_id "gene-JDV02_009451"; gene_name "RPP1";
+NC_063076.1	RefSeq	CDS	2048861	2049790	.	-	0	transcript_id "rna-XM_047991115.1"; gene_id "gene-JDV02_009451"; gene_name "RPP1";
+NC_063076.1	RefSeq	transcript	2082871	2085718	.	-	.	transcript_id "rna-XM_047991128.1"; gene_id "gene-JDV02_009464"; gene_name "CSN12"
+NC_063076.1	RefSeq	exon	2082871	2083435	.	-	.	transcript_id "rna-XM_047991128.1"; gene_id "gene-JDV02_009464"; gene_name "CSN12";
+NC_063076.1	RefSeq	exon	2083491	2083752	.	-	.	transcript_id "rna-XM_047991128.1"; gene_id "gene-JDV02_009464"; gene_name "CSN12";
+NC_063076.1	RefSeq	exon	2083967	2084384	.	-	.	transcript_id "rna-XM_047991128.1"; gene_id "gene-JDV02_009464"; gene_name "CSN12";
+NC_063076.1	RefSeq	exon	2084434	2084495	.	-	.	transcript_id "rna-XM_047991128.1"; gene_id "gene-JDV02_009464"; gene_name "CSN12";
+NC_063076.1	RefSeq	exon	2084576	2084807	.	-	.	transcript_id "rna-XM_047991128.1"; gene_id "gene-JDV02_009464"; gene_name "CSN12";
+NC_063076.1	RefSeq	exon	2084862	2085154	.	-	.	transcript_id "rna-XM_047991128.1"; gene_id "gene-JDV02_009464"; gene_name "CSN12";
+NC_063076.1	RefSeq	exon	2085216	2085718	.	-	.	transcript_id "rna-XM_047991128.1"; gene_id "gene-JDV02_009464"; gene_name "CSN12";
+NC_063076.1	RefSeq	CDS	2083669	2083752	.	-	0	transcript_id "rna-XM_047991128.1"; gene_id "gene-JDV02_009464"; gene_name "CSN12";
+NC_063076.1	RefSeq	CDS	2083967	2084384	.	-	1	transcript_id "rna-XM_047991128.1"; gene_id "gene-JDV02_009464"; gene_name "CSN12";
+NC_063076.1	RefSeq	CDS	2084434	2084495	.	-	0	transcript_id "rna-XM_047991128.1"; gene_id "gene-JDV02_009464"; gene_name "CSN12";
+NC_063076.1	RefSeq	CDS	2084576	2084807	.	-	1	transcript_id "rna-XM_047991128.1"; gene_id "gene-JDV02_009464"; gene_name "CSN12";
+NC_063076.1	RefSeq	CDS	2084862	2085154	.	-	0	transcript_id "rna-XM_047991128.1"; gene_id "gene-JDV02_009464"; gene_name "CSN12";
+NC_063076.1	RefSeq	CDS	2085216	2085500	.	-	0	transcript_id "rna-XM_047991128.1"; gene_id "gene-JDV02_009464"; gene_name "CSN12";
+NC_063077.1	RefSeq	transcript	490303	491695	.	+	.	transcript_id "rna-XM_047991346.1"; gene_id "gene-JDV02_009669"; gene_name "DRE2"
+NC_063077.1	RefSeq	exon	490303	491101	.	+	.	transcript_id "rna-XM_047991346.1"; gene_id "gene-JDV02_009669"; gene_name "DRE2";
+NC_063077.1	RefSeq	exon	491199	491695	.	+	.	transcript_id "rna-XM_047991346.1"; gene_id "gene-JDV02_009669"; gene_name "DRE2";
+NC_063077.1	RefSeq	CDS	490471	491101	.	+	0	transcript_id "rna-XM_047991346.1"; gene_id "gene-JDV02_009669"; gene_name "DRE2";
+NC_063077.1	RefSeq	CDS	491199	491500	.	+	2	transcript_id "rna-XM_047991346.1"; gene_id "gene-JDV02_009669"; gene_name "DRE2";
+NC_063077.1	RefSeq	transcript	495071	496363	.	-	.	transcript_id "rna-XM_047991349.1"; gene_id "gene-JDV02_009672"
+NC_063077.1	RefSeq	exon	495071	496182	.	-	.	transcript_id "rna-XM_047991349.1"; gene_id "gene-JDV02_009672";
+NC_063077.1	RefSeq	exon	496285	496363	.	-	.	transcript_id "rna-XM_047991349.1"; gene_id "gene-JDV02_009672";
+NC_063077.1	RefSeq	CDS	495071	496182	.	-	2	transcript_id "rna-XM_047991349.1"; gene_id "gene-JDV02_009672";
+NC_063077.1	RefSeq	CDS	496285	496363	.	-	0	transcript_id "rna-XM_047991349.1"; gene_id "gene-JDV02_009672";
+NC_063078.1	RefSeq	transcript	331092	332394	.	+	.	transcript_id "rna-XM_047991708.1"; gene_id "gene-JDV02_010002"; gene_name "COQ4"
+NC_063078.1	RefSeq	exon	331092	332394	.	+	.	transcript_id "rna-XM_047991708.1"; gene_id "gene-JDV02_010002"; gene_name "COQ4";
+NC_063078.1	RefSeq	CDS	331105	332277	.	+	0	transcript_id "rna-XM_047991708.1"; gene_id "gene-JDV02_010002"; gene_name "COQ4";
+NC_063078.1	RefSeq	transcript	351693	353440	.	+	.	transcript_id "rna-XM_047991717.1"; gene_id "gene-JDV02_010011"; gene_name "SHY1"
+NC_063078.1	RefSeq	exon	351693	352160	.	+	.	transcript_id "rna-XM_047991717.1"; gene_id "gene-JDV02_010011"; gene_name "SHY1";
+NC_063078.1	RefSeq	exon	352299	352808	.	+	.	transcript_id "rna-XM_047991717.1"; gene_id "gene-JDV02_010011"; gene_name "SHY1";
+NC_063078.1	RefSeq	exon	352890	352995	.	+	.	transcript_id "rna-XM_047991717.1"; gene_id "gene-JDV02_010011"; gene_name "SHY1";
+NC_063078.1	RefSeq	exon	353054	353440	.	+	.	transcript_id "rna-XM_047991717.1"; gene_id "gene-JDV02_010011"; gene_name "SHY1";
+NC_063078.1	RefSeq	CDS	351914	352160	.	+	0	transcript_id "rna-XM_047991717.1"; gene_id "gene-JDV02_010011"; gene_name "SHY1";
+NC_063078.1	RefSeq	CDS	352299	352808	.	+	2	transcript_id "rna-XM_047991717.1"; gene_id "gene-JDV02_010011"; gene_name "SHY1";
+NC_063078.1	RefSeq	CDS	352890	352995	.	+	2	transcript_id "rna-XM_047991717.1"; gene_id "gene-JDV02_010011"; gene_name "SHY1";
+NC_063078.1	RefSeq	CDS	353054	353153	.	+	1	transcript_id "rna-XM_047991717.1"; gene_id "gene-JDV02_010011"; gene_name "SHY1";
+NC_063078.1	RefSeq	transcript	572835	574717	.	+	.	transcript_id "rna-XM_047991793.1"; gene_id "gene-JDV02_010081"; gene_name "CAB2"
+NC_063078.1	RefSeq	exon	572835	574717	.	+	.	transcript_id "rna-XM_047991793.1"; gene_id "gene-JDV02_010081"; gene_name "CAB2";
+NC_063078.1	RefSeq	CDS	573025	574485	.	+	0	transcript_id "rna-XM_047991793.1"; gene_id "gene-JDV02_010081"; gene_name "CAB2";
+NC_063078.1	RefSeq	transcript	627903	628801	.	+	.	transcript_id "rna-XM_047991814.1"; gene_id "gene-JDV02_010098"; gene_name "RRP40"
+NC_063078.1	RefSeq	exon	627903	628175	.	+	.	transcript_id "rna-XM_047991814.1"; gene_id "gene-JDV02_010098"; gene_name "RRP40";
+NC_063078.1	RefSeq	exon	628241	628801	.	+	.	transcript_id "rna-XM_047991814.1"; gene_id "gene-JDV02_010098"; gene_name "RRP40";
+NC_063078.1	RefSeq	CDS	627978	628175	.	+	0	transcript_id "rna-XM_047991814.1"; gene_id "gene-JDV02_010098"; gene_name "RRP40";
+NC_063078.1	RefSeq	CDS	628241	628780	.	+	0	transcript_id "rna-XM_047991814.1"; gene_id "gene-JDV02_010098"; gene_name "RRP40";
+NC_063078.1	RefSeq	transcript	823730	825363	.	+	.	transcript_id "rna-XM_047991876.1"; gene_id "gene-JDV02_010156"; gene_name "ATG3"
+NC_063078.1	RefSeq	exon	823730	824411	.	+	.	transcript_id "rna-XM_047991876.1"; gene_id "gene-JDV02_010156"; gene_name "ATG3";
+NC_063078.1	RefSeq	exon	824478	824946	.	+	.	transcript_id "rna-XM_047991876.1"; gene_id "gene-JDV02_010156"; gene_name "ATG3";
+NC_063078.1	RefSeq	exon	825004	825363	.	+	.	transcript_id "rna-XM_047991876.1"; gene_id "gene-JDV02_010156"; gene_name "ATG3";
+NC_063078.1	RefSeq	CDS	823888	824411	.	+	0	transcript_id "rna-XM_047991876.1"; gene_id "gene-JDV02_010156"; gene_name "ATG3";
+NC_063078.1	RefSeq	CDS	824478	824946	.	+	1	transcript_id "rna-XM_047991876.1"; gene_id "gene-JDV02_010156"; gene_name "ATG3";
+NC_063078.1	RefSeq	CDS	825004	825057	.	+	0	transcript_id "rna-XM_047991876.1"; gene_id "gene-JDV02_010156"; gene_name "ATG3";
+NC_063078.1	RefSeq	transcript	1008462	1010474	.	+	.	transcript_id "rna-XM_047991929.1"; gene_id "gene-JDV02_010204"; gene_name "srp72"
+NC_063078.1	RefSeq	exon	1008462	1009204	.	+	.	transcript_id "rna-XM_047991929.1"; gene_id "gene-JDV02_010204"; gene_name "srp72";
+NC_063078.1	RefSeq	exon	1009274	1010474	.	+	.	transcript_id "rna-XM_047991929.1"; gene_id "gene-JDV02_010204"; gene_name "srp72";
+NC_063078.1	RefSeq	CDS	1008462	1009204	.	+	0	transcript_id "rna-XM_047991929.1"; gene_id "gene-JDV02_010204"; gene_name "srp72";
+NC_063078.1	RefSeq	CDS	1009274	1010474	.	+	1	transcript_id "rna-XM_047991929.1"; gene_id "gene-JDV02_010204"; gene_name "srp72";
+NC_063078.1	RefSeq	transcript	1042749	1043381	.	+	.	transcript_id "rna-XM_047991942.1"; gene_id "gene-JDV02_010215"; gene_name "naa20"
+NC_063078.1	RefSeq	exon	1042749	1042917	.	+	.	transcript_id "rna-XM_047991942.1"; gene_id "gene-JDV02_010215"; gene_name "naa20";
+NC_063078.1	RefSeq	exon	1042978	1043381	.	+	.	transcript_id "rna-XM_047991942.1"; gene_id "gene-JDV02_010215"; gene_name "naa20";
+NC_063078.1	RefSeq	CDS	1042749	1042917	.	+	0	transcript_id "rna-XM_047991942.1"; gene_id "gene-JDV02_010215"; gene_name "naa20";
+NC_063078.1	RefSeq	CDS	1042978	1043381	.	+	2	transcript_id "rna-XM_047991942.1"; gene_id "gene-JDV02_010215"; gene_name "naa20";
+NC_063079.1	RefSeq	transcript	446212	449963	.	+	.	transcript_id "rna-XM_047992085.1"; gene_id "gene-JDV02_010351"; gene_name "VPS11"
+NC_063079.1	RefSeq	exon	446212	446486	.	+	.	transcript_id "rna-XM_047992085.1"; gene_id "gene-JDV02_010351"; gene_name "VPS11";
+NC_063079.1	RefSeq	exon	446544	446795	.	+	.	transcript_id "rna-XM_047992085.1"; gene_id "gene-JDV02_010351"; gene_name "VPS11";
+NC_063079.1	RefSeq	exon	446854	446973	.	+	.	transcript_id "rna-XM_047992085.1"; gene_id "gene-JDV02_010351"; gene_name "VPS11";
+NC_063079.1	RefSeq	exon	447036	447677	.	+	.	transcript_id "rna-XM_047992085.1"; gene_id "gene-JDV02_010351"; gene_name "VPS11";
+NC_063079.1	RefSeq	exon	447725	447958	.	+	.	transcript_id "rna-XM_047992085.1"; gene_id "gene-JDV02_010351"; gene_name "VPS11";
+NC_063079.1	RefSeq	exon	448005	448340	.	+	.	transcript_id "rna-XM_047992085.1"; gene_id "gene-JDV02_010351"; gene_name "VPS11";
+NC_063079.1	RefSeq	exon	448389	449963	.	+	.	transcript_id "rna-XM_047992085.1"; gene_id "gene-JDV02_010351"; gene_name "VPS11";
+NC_063079.1	RefSeq	CDS	446475	446486	.	+	0	transcript_id "rna-XM_047992085.1"; gene_id "gene-JDV02_010351"; gene_name "VPS11";
+NC_063079.1	RefSeq	CDS	446544	446795	.	+	0	transcript_id "rna-XM_047992085.1"; gene_id "gene-JDV02_010351"; gene_name "VPS11";
+NC_063079.1	RefSeq	CDS	446854	446973	.	+	0	transcript_id "rna-XM_047992085.1"; gene_id "gene-JDV02_010351"; gene_name "VPS11";
+NC_063079.1	RefSeq	CDS	447036	447677	.	+	0	transcript_id "rna-XM_047992085.1"; gene_id "gene-JDV02_010351"; gene_name "VPS11";
+NC_063079.1	RefSeq	CDS	447725	447958	.	+	0	transcript_id "rna-XM_047992085.1"; gene_id "gene-JDV02_010351"; gene_name "VPS11";
+NC_063079.1	RefSeq	CDS	448005	448340	.	+	0	transcript_id "rna-XM_047992085.1"; gene_id "gene-JDV02_010351"; gene_name "VPS11";
+NC_063079.1	RefSeq	CDS	448389	449744	.	+	0	transcript_id "rna-XM_047992085.1"; gene_id "gene-JDV02_010351"; gene_name "VPS11";
+NC_063079.1	RefSeq	transcript	930777	932726	.	-	.	transcript_id "rna-XM_047992241.1"; gene_id "gene-JDV02_010498"; gene_name "TRM6"
+NC_063079.1	RefSeq	exon	930777	932534	.	-	.	transcript_id "rna-XM_047992241.1"; gene_id "gene-JDV02_010498"; gene_name "TRM6";
+NC_063079.1	RefSeq	exon	932597	932726	.	-	.	transcript_id "rna-XM_047992241.1"; gene_id "gene-JDV02_010498"; gene_name "TRM6";
+NC_063079.1	RefSeq	CDS	930902	932534	.	-	1	transcript_id "rna-XM_047992241.1"; gene_id "gene-JDV02_010498"; gene_name "TRM6";
+NC_063079.1	RefSeq	CDS	932597	932685	.	-	0	transcript_id "rna-XM_047992241.1"; gene_id "gene-JDV02_010498"; gene_name "TRM6";
+NC_063079.1	RefSeq	transcript	947840	950218	.	-	.	transcript_id "rna-XM_047992247.1"; gene_id "gene-JDV02_010504"; gene_name "SDA1"
+NC_063079.1	RefSeq	exon	947840	949972	.	-	.	transcript_id "rna-XM_047992247.1"; gene_id "gene-JDV02_010504"; gene_name "SDA1";
+NC_063079.1	RefSeq	exon	950030	950065	.	-	.	transcript_id "rna-XM_047992247.1"; gene_id "gene-JDV02_010504"; gene_name "SDA1";
+NC_063079.1	RefSeq	exon	950115	950218	.	-	.	transcript_id "rna-XM_047992247.1"; gene_id "gene-JDV02_010504"; gene_name "SDA1";
+NC_063079.1	RefSeq	CDS	947845	949972	.	-	1	transcript_id "rna-XM_047992247.1"; gene_id "gene-JDV02_010504"; gene_name "SDA1";
+NC_063079.1	RefSeq	CDS	950030	950065	.	-	1	transcript_id "rna-XM_047992247.1"; gene_id "gene-JDV02_010504"; gene_name "SDA1";
+NC_063079.1	RefSeq	CDS	950115	950161	.	-	0	transcript_id "rna-XM_047992247.1"; gene_id "gene-JDV02_010504"; gene_name "SDA1";
+NC_063081.1	RefSeq	transcript	262037	263493	.	+	.	transcript_id "rna-XM_047992537.1"; gene_id "gene-JDV02_010775"; gene_name "EIF3H"
+NC_063081.1	RefSeq	exon	262037	262187	.	+	.	transcript_id "rna-XM_047992537.1"; gene_id "gene-JDV02_010775"; gene_name "EIF3H";
+NC_063081.1	RefSeq	exon	262253	262719	.	+	.	transcript_id "rna-XM_047992537.1"; gene_id "gene-JDV02_010775"; gene_name "EIF3H";
+NC_063081.1	RefSeq	exon	262776	263493	.	+	.	transcript_id "rna-XM_047992537.1"; gene_id "gene-JDV02_010775"; gene_name "EIF3H";
+NC_063081.1	RefSeq	CDS	262134	262187	.	+	0	transcript_id "rna-XM_047992537.1"; gene_id "gene-JDV02_010775"; gene_name "EIF3H";
+NC_063081.1	RefSeq	CDS	262253	262719	.	+	0	transcript_id "rna-XM_047992537.1"; gene_id "gene-JDV02_010775"; gene_name "EIF3H";
+NC_063081.1	RefSeq	CDS	262776	263337	.	+	1	transcript_id "rna-XM_047992537.1"; gene_id "gene-JDV02_010775"; gene_name "EIF3H";
+NC_063081.1	RefSeq	transcript	297835	298957	.	+	.	transcript_id "rna-XM_047992554.1"; gene_id "gene-JDV02_010791"; gene_name "rpc25"
+NC_063081.1	RefSeq	exon	297835	297982	.	+	.	transcript_id "rna-XM_047992554.1"; gene_id "gene-JDV02_010791"; gene_name "rpc25";
+NC_063081.1	RefSeq	exon	298051	298149	.	+	.	transcript_id "rna-XM_047992554.1"; gene_id "gene-JDV02_010791"; gene_name "rpc25";
+NC_063081.1	RefSeq	exon	298210	298306	.	+	.	transcript_id "rna-XM_047992554.1"; gene_id "gene-JDV02_010791"; gene_name "rpc25";
+NC_063081.1	RefSeq	exon	298378	298528	.	+	.	transcript_id "rna-XM_047992554.1"; gene_id "gene-JDV02_010791"; gene_name "rpc25";
+NC_063081.1	RefSeq	exon	298583	298957	.	+	.	transcript_id "rna-XM_047992554.1"; gene_id "gene-JDV02_010791"; gene_name "rpc25";
+NC_063081.1	RefSeq	CDS	297971	297982	.	+	0	transcript_id "rna-XM_047992554.1"; gene_id "gene-JDV02_010791"; gene_name "rpc25";
+NC_063081.1	RefSeq	CDS	298051	298149	.	+	0	transcript_id "rna-XM_047992554.1"; gene_id "gene-JDV02_010791"; gene_name "rpc25";
+NC_063081.1	RefSeq	CDS	298210	298306	.	+	0	transcript_id "rna-XM_047992554.1"; gene_id "gene-JDV02_010791"; gene_name "rpc25";
+NC_063081.1	RefSeq	CDS	298378	298528	.	+	2	transcript_id "rna-XM_047992554.1"; gene_id "gene-JDV02_010791"; gene_name "rpc25";
+NC_063081.1	RefSeq	CDS	298583	298805	.	+	1	transcript_id "rna-XM_047992554.1"; gene_id "gene-JDV02_010791"; gene_name "rpc25";

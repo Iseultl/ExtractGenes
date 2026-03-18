@@ -1,0 +1,930 @@
+JAPDRP010000001.1	Genbank	transcript	254197	255088	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000089-T1_mrna"; gene_id "gene-H2199_000089"; gene_name "DPH1_2"
+JAPDRP010000001.1	Genbank	exon	254197	254849	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000089-T1_mrna"; gene_id "gene-H2199_000089"; gene_name "DPH1_2";
+JAPDRP010000001.1	Genbank	exon	254908	255088	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000089-T1_mrna"; gene_id "gene-H2199_000089"; gene_name "DPH1_2";
+JAPDRP010000001.1	Genbank	CDS	254197	254849	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000089-T1_mrna"; gene_id "gene-H2199_000089"; gene_name "DPH1_2";
+JAPDRP010000001.1	Genbank	CDS	254908	255088	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000089-T1_mrna"; gene_id "gene-H2199_000089"; gene_name "DPH1_2";
+JAPDRP010000001.1	Genbank	transcript	545560	546238	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000185-T1_mrna"; gene_id "gene-H2199_000185"; gene_name "COX11"
+JAPDRP010000001.1	Genbank	exon	545560	545606	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000185-T1_mrna"; gene_id "gene-H2199_000185"; gene_name "COX11";
+JAPDRP010000001.1	Genbank	exon	545706	546150	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000185-T1_mrna"; gene_id "gene-H2199_000185"; gene_name "COX11";
+JAPDRP010000001.1	Genbank	exon	546236	546238	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000185-T1_mrna"; gene_id "gene-H2199_000185"; gene_name "COX11";
+JAPDRP010000001.1	Genbank	CDS	545560	545606	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000185-T1_mrna"; gene_id "gene-H2199_000185"; gene_name "COX11";
+JAPDRP010000001.1	Genbank	CDS	545706	546150	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000185-T1_mrna"; gene_id "gene-H2199_000185"; gene_name "COX11";
+JAPDRP010000001.1	Genbank	CDS	546236	546238	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000185-T1_mrna"; gene_id "gene-H2199_000185"; gene_name "COX11";
+JAPDRP010000001.1	Genbank	transcript	672730	673586	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000227-T1_mrna"; gene_id "gene-H2199_000227"; gene_name "dot2"
+JAPDRP010000001.1	Genbank	exon	672730	673045	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000227-T1_mrna"; gene_id "gene-H2199_000227"; gene_name "dot2";
+JAPDRP010000001.1	Genbank	exon	673147	673586	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000227-T1_mrna"; gene_id "gene-H2199_000227"; gene_name "dot2";
+JAPDRP010000001.1	Genbank	CDS	672730	673045	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000227-T1_mrna"; gene_id "gene-H2199_000227"; gene_name "dot2";
+JAPDRP010000001.1	Genbank	CDS	673147	673586	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000227-T1_mrna"; gene_id "gene-H2199_000227"; gene_name "dot2";
+JAPDRP010000001.1	Genbank	transcript	1016425	1018327	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000342-T1_mrna"; gene_id "gene-H2199_000342"; gene_name "PCM1"
+JAPDRP010000001.1	Genbank	exon	1016425	1016511	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000342-T1_mrna"; gene_id "gene-H2199_000342"; gene_name "PCM1";
+JAPDRP010000001.1	Genbank	exon	1016643	1016656	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000342-T1_mrna"; gene_id "gene-H2199_000342"; gene_name "PCM1";
+JAPDRP010000001.1	Genbank	exon	1016720	1017389	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000342-T1_mrna"; gene_id "gene-H2199_000342"; gene_name "PCM1";
+JAPDRP010000001.1	Genbank	exon	1017465	1018179	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000342-T1_mrna"; gene_id "gene-H2199_000342"; gene_name "PCM1";
+JAPDRP010000001.1	Genbank	exon	1018194	1018327	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000342-T1_mrna"; gene_id "gene-H2199_000342"; gene_name "PCM1";
+JAPDRP010000001.1	Genbank	CDS	1016425	1016511	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000342-T1_mrna"; gene_id "gene-H2199_000342"; gene_name "PCM1";
+JAPDRP010000001.1	Genbank	CDS	1016643	1016656	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000342-T1_mrna"; gene_id "gene-H2199_000342"; gene_name "PCM1";
+JAPDRP010000001.1	Genbank	CDS	1016720	1017389	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000342-T1_mrna"; gene_id "gene-H2199_000342"; gene_name "PCM1";
+JAPDRP010000001.1	Genbank	CDS	1017465	1018179	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000342-T1_mrna"; gene_id "gene-H2199_000342"; gene_name "PCM1";
+JAPDRP010000001.1	Genbank	CDS	1018194	1018327	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000342-T1_mrna"; gene_id "gene-H2199_000342"; gene_name "PCM1";
+JAPDRP010000001.1	Genbank	transcript	1373705	1375495	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000473-T1_mrna"; gene_id "gene-H2199_000473"
+JAPDRP010000001.1	Genbank	exon	1373705	1375495	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000473-T1_mrna"; gene_id "gene-H2199_000473";
+JAPDRP010000001.1	Genbank	CDS	1373705	1375495	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000473-T1_mrna"; gene_id "gene-H2199_000473";
+JAPDRP010000001.1	Genbank	transcript	1469193	1470768	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000507-T1_mrna"; gene_id "gene-H2199_000507"
+JAPDRP010000001.1	Genbank	exon	1469193	1469273	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000507-T1_mrna"; gene_id "gene-H2199_000507";
+JAPDRP010000001.1	Genbank	exon	1469352	1469671	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000507-T1_mrna"; gene_id "gene-H2199_000507";
+JAPDRP010000001.1	Genbank	exon	1469716	1470388	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000507-T1_mrna"; gene_id "gene-H2199_000507";
+JAPDRP010000001.1	Genbank	exon	1470463	1470768	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000507-T1_mrna"; gene_id "gene-H2199_000507";
+JAPDRP010000001.1	Genbank	CDS	1469193	1469273	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000507-T1_mrna"; gene_id "gene-H2199_000507";
+JAPDRP010000001.1	Genbank	CDS	1469352	1469671	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000507-T1_mrna"; gene_id "gene-H2199_000507";
+JAPDRP010000001.1	Genbank	CDS	1469716	1470388	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000507-T1_mrna"; gene_id "gene-H2199_000507";
+JAPDRP010000001.1	Genbank	CDS	1470463	1470768	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000507-T1_mrna"; gene_id "gene-H2199_000507";
+JAPDRP010000010.1	Genbank	transcript	143112	145341	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003762-T1_mrna"; gene_id "gene-H2199_003762"; gene_name "NOP7"
+JAPDRP010000010.1	Genbank	exon	143112	144067	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003762-T1_mrna"; gene_id "gene-H2199_003762"; gene_name "NOP7";
+JAPDRP010000010.1	Genbank	exon	144103	145116	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003762-T1_mrna"; gene_id "gene-H2199_003762"; gene_name "NOP7";
+JAPDRP010000010.1	Genbank	exon	145169	145267	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003762-T1_mrna"; gene_id "gene-H2199_003762"; gene_name "NOP7";
+JAPDRP010000010.1	Genbank	exon	145320	145341	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003762-T1_mrna"; gene_id "gene-H2199_003762"; gene_name "NOP7";
+JAPDRP010000010.1	Genbank	CDS	143112	144067	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003762-T1_mrna"; gene_id "gene-H2199_003762"; gene_name "NOP7";
+JAPDRP010000010.1	Genbank	CDS	144103	145116	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003762-T1_mrna"; gene_id "gene-H2199_003762"; gene_name "NOP7";
+JAPDRP010000010.1	Genbank	CDS	145169	145267	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003762-T1_mrna"; gene_id "gene-H2199_003762"; gene_name "NOP7";
+JAPDRP010000010.1	Genbank	CDS	145320	145341	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003762-T1_mrna"; gene_id "gene-H2199_003762"; gene_name "NOP7";
+JAPDRP010000011.1	Genbank	transcript	66473	67135	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004043-T1_mrna"; gene_id "gene-H2199_004043"; gene_name "naa20"
+JAPDRP010000011.1	Genbank	exon	66473	66897	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004043-T1_mrna"; gene_id "gene-H2199_004043"; gene_name "naa20";
+JAPDRP010000011.1	Genbank	exon	66967	67135	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004043-T1_mrna"; gene_id "gene-H2199_004043"; gene_name "naa20";
+JAPDRP010000011.1	Genbank	CDS	66473	66897	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004043-T1_mrna"; gene_id "gene-H2199_004043"; gene_name "naa20";
+JAPDRP010000011.1	Genbank	CDS	66967	67135	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004043-T1_mrna"; gene_id "gene-H2199_004043"; gene_name "naa20";
+JAPDRP010000011.1	Genbank	transcript	800776	802791	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004265-T1_mrna"; gene_id "gene-H2199_004265"; gene_name "HAS1"
+JAPDRP010000011.1	Genbank	exon	800776	801894	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004265-T1_mrna"; gene_id "gene-H2199_004265"; gene_name "HAS1";
+JAPDRP010000011.1	Genbank	exon	801940	802027	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004265-T1_mrna"; gene_id "gene-H2199_004265"; gene_name "HAS1";
+JAPDRP010000011.1	Genbank	exon	802078	802120	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004265-T1_mrna"; gene_id "gene-H2199_004265"; gene_name "HAS1";
+JAPDRP010000011.1	Genbank	exon	802178	802334	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004265-T1_mrna"; gene_id "gene-H2199_004265"; gene_name "HAS1";
+JAPDRP010000011.1	Genbank	exon	802384	802791	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004265-T1_mrna"; gene_id "gene-H2199_004265"; gene_name "HAS1";
+JAPDRP010000011.1	Genbank	CDS	800776	801894	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004265-T1_mrna"; gene_id "gene-H2199_004265"; gene_name "HAS1";
+JAPDRP010000011.1	Genbank	CDS	801940	802027	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004265-T1_mrna"; gene_id "gene-H2199_004265"; gene_name "HAS1";
+JAPDRP010000011.1	Genbank	CDS	802078	802120	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004265-T1_mrna"; gene_id "gene-H2199_004265"; gene_name "HAS1";
+JAPDRP010000011.1	Genbank	CDS	802178	802334	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004265-T1_mrna"; gene_id "gene-H2199_004265"; gene_name "HAS1";
+JAPDRP010000011.1	Genbank	CDS	802384	802791	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004265-T1_mrna"; gene_id "gene-H2199_004265"; gene_name "HAS1";
+JAPDRP010000012.1	Genbank	transcript	126710	128705	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004362-T1_mrna"; gene_id "gene-H2199_004362"; gene_name "TRM6"
+JAPDRP010000012.1	Genbank	exon	126710	126813	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004362-T1_mrna"; gene_id "gene-H2199_004362"; gene_name "TRM6";
+JAPDRP010000012.1	Genbank	exon	127003	127857	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004362-T1_mrna"; gene_id "gene-H2199_004362"; gene_name "TRM6";
+JAPDRP010000012.1	Genbank	exon	128000	128364	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004362-T1_mrna"; gene_id "gene-H2199_004362"; gene_name "TRM6";
+JAPDRP010000012.1	Genbank	exon	128415	128533	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004362-T1_mrna"; gene_id "gene-H2199_004362"; gene_name "TRM6";
+JAPDRP010000012.1	Genbank	exon	128583	128705	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004362-T1_mrna"; gene_id "gene-H2199_004362"; gene_name "TRM6";
+JAPDRP010000012.1	Genbank	CDS	126710	126813	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004362-T1_mrna"; gene_id "gene-H2199_004362"; gene_name "TRM6";
+JAPDRP010000012.1	Genbank	CDS	127003	127857	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004362-T1_mrna"; gene_id "gene-H2199_004362"; gene_name "TRM6";
+JAPDRP010000012.1	Genbank	CDS	128000	128364	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004362-T1_mrna"; gene_id "gene-H2199_004362"; gene_name "TRM6";
+JAPDRP010000012.1	Genbank	CDS	128415	128533	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004362-T1_mrna"; gene_id "gene-H2199_004362"; gene_name "TRM6";
+JAPDRP010000012.1	Genbank	CDS	128583	128705	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004362-T1_mrna"; gene_id "gene-H2199_004362"; gene_name "TRM6";
+JAPDRP010000012.1	Genbank	transcript	141647	142939	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004370-T1_mrna"; gene_id "gene-H2199_004370"; gene_name "MSW1"
+JAPDRP010000012.1	Genbank	exon	141647	141658	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004370-T1_mrna"; gene_id "gene-H2199_004370"; gene_name "MSW1";
+JAPDRP010000012.1	Genbank	exon	141804	142181	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004370-T1_mrna"; gene_id "gene-H2199_004370"; gene_name "MSW1";
+JAPDRP010000012.1	Genbank	exon	142214	142939	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004370-T1_mrna"; gene_id "gene-H2199_004370"; gene_name "MSW1";
+JAPDRP010000012.1	Genbank	CDS	141647	141658	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004370-T1_mrna"; gene_id "gene-H2199_004370"; gene_name "MSW1";
+JAPDRP010000012.1	Genbank	CDS	141804	142181	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004370-T1_mrna"; gene_id "gene-H2199_004370"; gene_name "MSW1";
+JAPDRP010000012.1	Genbank	CDS	142214	142939	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004370-T1_mrna"; gene_id "gene-H2199_004370"; gene_name "MSW1";
+JAPDRP010000012.1	Genbank	transcript	320316	320912	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004430-T1_mrna"; gene_id "gene-H2199_004430"; gene_name "FAP7_1"
+JAPDRP010000012.1	Genbank	exon	320316	320523	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004430-T1_mrna"; gene_id "gene-H2199_004430"; gene_name "FAP7_1";
+JAPDRP010000012.1	Genbank	exon	320586	320665	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004430-T1_mrna"; gene_id "gene-H2199_004430"; gene_name "FAP7_1";
+JAPDRP010000012.1	Genbank	exon	320730	320912	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004430-T1_mrna"; gene_id "gene-H2199_004430"; gene_name "FAP7_1";
+JAPDRP010000012.1	Genbank	CDS	320316	320523	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004430-T1_mrna"; gene_id "gene-H2199_004430"; gene_name "FAP7_1";
+JAPDRP010000012.1	Genbank	CDS	320586	320665	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004430-T1_mrna"; gene_id "gene-H2199_004430"; gene_name "FAP7_1";
+JAPDRP010000012.1	Genbank	CDS	320730	320912	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004430-T1_mrna"; gene_id "gene-H2199_004430"; gene_name "FAP7_1";
+JAPDRP010000012.1	Genbank	transcript	609680	612808	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004525-T1_mrna"; gene_id "gene-H2199_004525"; gene_name "cbc1"
+JAPDRP010000012.1	Genbank	exon	609680	610551	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004525-T1_mrna"; gene_id "gene-H2199_004525"; gene_name "cbc1";
+JAPDRP010000012.1	Genbank	exon	610616	611261	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004525-T1_mrna"; gene_id "gene-H2199_004525"; gene_name "cbc1";
+JAPDRP010000012.1	Genbank	exon	611316	611750	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004525-T1_mrna"; gene_id "gene-H2199_004525"; gene_name "cbc1";
+JAPDRP010000012.1	Genbank	exon	611801	612068	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004525-T1_mrna"; gene_id "gene-H2199_004525"; gene_name "cbc1";
+JAPDRP010000012.1	Genbank	exon	612124	612230	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004525-T1_mrna"; gene_id "gene-H2199_004525"; gene_name "cbc1";
+JAPDRP010000012.1	Genbank	exon	612297	612391	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004525-T1_mrna"; gene_id "gene-H2199_004525"; gene_name "cbc1";
+JAPDRP010000012.1	Genbank	exon	612457	612808	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004525-T1_mrna"; gene_id "gene-H2199_004525"; gene_name "cbc1";
+JAPDRP010000012.1	Genbank	CDS	609680	610551	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004525-T1_mrna"; gene_id "gene-H2199_004525"; gene_name "cbc1";
+JAPDRP010000012.1	Genbank	CDS	610616	611261	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004525-T1_mrna"; gene_id "gene-H2199_004525"; gene_name "cbc1";
+JAPDRP010000012.1	Genbank	CDS	611316	611750	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004525-T1_mrna"; gene_id "gene-H2199_004525"; gene_name "cbc1";
+JAPDRP010000012.1	Genbank	CDS	611801	612068	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004525-T1_mrna"; gene_id "gene-H2199_004525"; gene_name "cbc1";
+JAPDRP010000012.1	Genbank	CDS	612124	612230	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004525-T1_mrna"; gene_id "gene-H2199_004525"; gene_name "cbc1";
+JAPDRP010000012.1	Genbank	CDS	612297	612391	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004525-T1_mrna"; gene_id "gene-H2199_004525"; gene_name "cbc1";
+JAPDRP010000012.1	Genbank	CDS	612457	612808	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004525-T1_mrna"; gene_id "gene-H2199_004525"; gene_name "cbc1";
+JAPDRP010000012.1	Genbank	transcript	833544	834676	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004592-T1_mrna"; gene_id "gene-H2199_004592"
+JAPDRP010000012.1	Genbank	exon	833544	833787	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004592-T1_mrna"; gene_id "gene-H2199_004592";
+JAPDRP010000012.1	Genbank	exon	833874	834109	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004592-T1_mrna"; gene_id "gene-H2199_004592";
+JAPDRP010000012.1	Genbank	exon	834221	834581	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004592-T1_mrna"; gene_id "gene-H2199_004592";
+JAPDRP010000012.1	Genbank	exon	834636	834676	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004592-T1_mrna"; gene_id "gene-H2199_004592";
+JAPDRP010000012.1	Genbank	CDS	833544	833787	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004592-T1_mrna"; gene_id "gene-H2199_004592";
+JAPDRP010000012.1	Genbank	CDS	833874	834109	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004592-T1_mrna"; gene_id "gene-H2199_004592";
+JAPDRP010000012.1	Genbank	CDS	834221	834581	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004592-T1_mrna"; gene_id "gene-H2199_004592";
+JAPDRP010000012.1	Genbank	CDS	834636	834676	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004592-T1_mrna"; gene_id "gene-H2199_004592";
+JAPDRP010000012.1	Genbank	transcript	901672	903073	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004621-T1_mrna"; gene_id "gene-H2199_004621"; gene_name "FYV10"
+JAPDRP010000012.1	Genbank	exon	901672	902106	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004621-T1_mrna"; gene_id "gene-H2199_004621"; gene_name "FYV10";
+JAPDRP010000012.1	Genbank	exon	902169	902357	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004621-T1_mrna"; gene_id "gene-H2199_004621"; gene_name "FYV10";
+JAPDRP010000012.1	Genbank	exon	902418	902954	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004621-T1_mrna"; gene_id "gene-H2199_004621"; gene_name "FYV10";
+JAPDRP010000012.1	Genbank	exon	903023	903073	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004621-T1_mrna"; gene_id "gene-H2199_004621"; gene_name "FYV10";
+JAPDRP010000012.1	Genbank	CDS	901672	902106	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004621-T1_mrna"; gene_id "gene-H2199_004621"; gene_name "FYV10";
+JAPDRP010000012.1	Genbank	CDS	902169	902357	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004621-T1_mrna"; gene_id "gene-H2199_004621"; gene_name "FYV10";
+JAPDRP010000012.1	Genbank	CDS	902418	902954	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004621-T1_mrna"; gene_id "gene-H2199_004621"; gene_name "FYV10";
+JAPDRP010000012.1	Genbank	CDS	903023	903073	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004621-T1_mrna"; gene_id "gene-H2199_004621"; gene_name "FYV10";
+JAPDRP010000013.1	Genbank	transcript	292345	293851	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004752-T1_mrna"; gene_id "gene-H2199_004752"; gene_name "GCD7"
+JAPDRP010000013.1	Genbank	exon	292345	293472	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004752-T1_mrna"; gene_id "gene-H2199_004752"; gene_name "GCD7";
+JAPDRP010000013.1	Genbank	exon	293532	293712	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004752-T1_mrna"; gene_id "gene-H2199_004752"; gene_name "GCD7";
+JAPDRP010000013.1	Genbank	exon	293763	293851	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004752-T1_mrna"; gene_id "gene-H2199_004752"; gene_name "GCD7";
+JAPDRP010000013.1	Genbank	CDS	292345	293472	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004752-T1_mrna"; gene_id "gene-H2199_004752"; gene_name "GCD7";
+JAPDRP010000013.1	Genbank	CDS	293532	293712	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004752-T1_mrna"; gene_id "gene-H2199_004752"; gene_name "GCD7";
+JAPDRP010000013.1	Genbank	CDS	293763	293851	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004752-T1_mrna"; gene_id "gene-H2199_004752"; gene_name "GCD7";
+JAPDRP010000013.1	Genbank	transcript	583895	584971	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004857-T1_mrna"; gene_id "gene-H2199_004857"; gene_name "DRE2"
+JAPDRP010000013.1	Genbank	exon	583895	584609	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004857-T1_mrna"; gene_id "gene-H2199_004857"; gene_name "DRE2";
+JAPDRP010000013.1	Genbank	exon	584664	584971	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004857-T1_mrna"; gene_id "gene-H2199_004857"; gene_name "DRE2";
+JAPDRP010000013.1	Genbank	CDS	583895	584609	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004857-T1_mrna"; gene_id "gene-H2199_004857"; gene_name "DRE2";
+JAPDRP010000013.1	Genbank	CDS	584664	584971	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004857-T1_mrna"; gene_id "gene-H2199_004857"; gene_name "DRE2";
+JAPDRP010000013.1	Genbank	transcript	585370	587264	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004858-T1_mrna"; gene_id "gene-H2199_004858"; gene_name "SWC4"
+JAPDRP010000013.1	Genbank	exon	585370	585481	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004858-T1_mrna"; gene_id "gene-H2199_004858"; gene_name "SWC4";
+JAPDRP010000013.1	Genbank	exon	585537	585660	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004858-T1_mrna"; gene_id "gene-H2199_004858"; gene_name "SWC4";
+JAPDRP010000013.1	Genbank	exon	585716	587264	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004858-T1_mrna"; gene_id "gene-H2199_004858"; gene_name "SWC4";
+JAPDRP010000013.1	Genbank	CDS	585370	585481	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004858-T1_mrna"; gene_id "gene-H2199_004858"; gene_name "SWC4";
+JAPDRP010000013.1	Genbank	CDS	585537	585660	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004858-T1_mrna"; gene_id "gene-H2199_004858"; gene_name "SWC4";
+JAPDRP010000013.1	Genbank	CDS	585716	587264	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004858-T1_mrna"; gene_id "gene-H2199_004858"; gene_name "SWC4";
+JAPDRP010000013.1	Genbank	transcript	610654	612858	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004866-T1_mrna"; gene_id "gene-H2199_004866"; gene_name "UTP25"
+JAPDRP010000013.1	Genbank	exon	610654	610876	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004866-T1_mrna"; gene_id "gene-H2199_004866"; gene_name "UTP25";
+JAPDRP010000013.1	Genbank	exon	610999	612495	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004866-T1_mrna"; gene_id "gene-H2199_004866"; gene_name "UTP25";
+JAPDRP010000013.1	Genbank	exon	612698	612858	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004866-T1_mrna"; gene_id "gene-H2199_004866"; gene_name "UTP25";
+JAPDRP010000013.1	Genbank	CDS	610654	610876	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004866-T1_mrna"; gene_id "gene-H2199_004866"; gene_name "UTP25";
+JAPDRP010000013.1	Genbank	CDS	610999	612495	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004866-T1_mrna"; gene_id "gene-H2199_004866"; gene_name "UTP25";
+JAPDRP010000013.1	Genbank	CDS	612698	612858	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004866-T1_mrna"; gene_id "gene-H2199_004866"; gene_name "UTP25";
+JAPDRP010000013.1	Genbank	transcript	613136	614231	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004867-T1_mrna"; gene_id "gene-H2199_004867"
+JAPDRP010000013.1	Genbank	exon	613136	613953	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004867-T1_mrna"; gene_id "gene-H2199_004867";
+JAPDRP010000013.1	Genbank	exon	614003	614231	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004867-T1_mrna"; gene_id "gene-H2199_004867";
+JAPDRP010000013.1	Genbank	CDS	613136	613953	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004867-T1_mrna"; gene_id "gene-H2199_004867";
+JAPDRP010000013.1	Genbank	CDS	614003	614231	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004867-T1_mrna"; gene_id "gene-H2199_004867";
+JAPDRP010000013.1	Genbank	transcript	636683	638885	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004880-T1_mrna"; gene_id "gene-H2199_004880"; gene_name "MPP10"
+JAPDRP010000013.1	Genbank	exon	636683	638529	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004880-T1_mrna"; gene_id "gene-H2199_004880"; gene_name "MPP10";
+JAPDRP010000013.1	Genbank	exon	638582	638885	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004880-T1_mrna"; gene_id "gene-H2199_004880"; gene_name "MPP10";
+JAPDRP010000013.1	Genbank	CDS	636683	638529	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004880-T1_mrna"; gene_id "gene-H2199_004880"; gene_name "MPP10";
+JAPDRP010000013.1	Genbank	CDS	638582	638885	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_004880-T1_mrna"; gene_id "gene-H2199_004880"; gene_name "MPP10";
+JAPDRP010000014.1	Genbank	transcript	252908	254794	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005061-T1_mrna"; gene_id "gene-H2199_005061"
+JAPDRP010000014.1	Genbank	exon	252908	254219	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005061-T1_mrna"; gene_id "gene-H2199_005061";
+JAPDRP010000014.1	Genbank	exon	254550	254794	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005061-T1_mrna"; gene_id "gene-H2199_005061";
+JAPDRP010000014.1	Genbank	CDS	252908	254219	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005061-T1_mrna"; gene_id "gene-H2199_005061";
+JAPDRP010000014.1	Genbank	CDS	254550	254794	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005061-T1_mrna"; gene_id "gene-H2199_005061";
+JAPDRP010000014.1	Genbank	transcript	630909	631472	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005192-T1_mrna"; gene_id "gene-H2199_005192"; gene_name "SPT4"
+JAPDRP010000014.1	Genbank	exon	630909	630948	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005192-T1_mrna"; gene_id "gene-H2199_005192"; gene_name "SPT4";
+JAPDRP010000014.1	Genbank	exon	631031	631281	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005192-T1_mrna"; gene_id "gene-H2199_005192"; gene_name "SPT4";
+JAPDRP010000014.1	Genbank	exon	631371	631472	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005192-T1_mrna"; gene_id "gene-H2199_005192"; gene_name "SPT4";
+JAPDRP010000014.1	Genbank	CDS	630909	630948	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005192-T1_mrna"; gene_id "gene-H2199_005192"; gene_name "SPT4";
+JAPDRP010000014.1	Genbank	CDS	631031	631281	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005192-T1_mrna"; gene_id "gene-H2199_005192"; gene_name "SPT4";
+JAPDRP010000014.1	Genbank	CDS	631371	631472	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005192-T1_mrna"; gene_id "gene-H2199_005192"; gene_name "SPT4";
+JAPDRP010000014.1	Genbank	transcript	646865	650019	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005200-T1_mrna"; gene_id "gene-H2199_005200"; gene_name "MAK10"
+JAPDRP010000014.1	Genbank	exon	646865	646922	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005200-T1_mrna"; gene_id "gene-H2199_005200"; gene_name "MAK10";
+JAPDRP010000014.1	Genbank	exon	646973	647137	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005200-T1_mrna"; gene_id "gene-H2199_005200"; gene_name "MAK10";
+JAPDRP010000014.1	Genbank	exon	647360	647427	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005200-T1_mrna"; gene_id "gene-H2199_005200"; gene_name "MAK10";
+JAPDRP010000014.1	Genbank	exon	647480	647967	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005200-T1_mrna"; gene_id "gene-H2199_005200"; gene_name "MAK10";
+JAPDRP010000014.1	Genbank	exon	648076	648418	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005200-T1_mrna"; gene_id "gene-H2199_005200"; gene_name "MAK10";
+JAPDRP010000014.1	Genbank	exon	648542	648769	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005200-T1_mrna"; gene_id "gene-H2199_005200"; gene_name "MAK10";
+JAPDRP010000014.1	Genbank	exon	649003	649362	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005200-T1_mrna"; gene_id "gene-H2199_005200"; gene_name "MAK10";
+JAPDRP010000014.1	Genbank	exon	649456	649782	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005200-T1_mrna"; gene_id "gene-H2199_005200"; gene_name "MAK10";
+JAPDRP010000014.1	Genbank	exon	649846	650019	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005200-T1_mrna"; gene_id "gene-H2199_005200"; gene_name "MAK10";
+JAPDRP010000014.1	Genbank	CDS	646865	646922	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005200-T1_mrna"; gene_id "gene-H2199_005200"; gene_name "MAK10";
+JAPDRP010000014.1	Genbank	CDS	646973	647137	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005200-T1_mrna"; gene_id "gene-H2199_005200"; gene_name "MAK10";
+JAPDRP010000014.1	Genbank	CDS	647360	647427	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005200-T1_mrna"; gene_id "gene-H2199_005200"; gene_name "MAK10";
+JAPDRP010000014.1	Genbank	CDS	647480	647967	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005200-T1_mrna"; gene_id "gene-H2199_005200"; gene_name "MAK10";
+JAPDRP010000014.1	Genbank	CDS	648076	648418	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005200-T1_mrna"; gene_id "gene-H2199_005200"; gene_name "MAK10";
+JAPDRP010000014.1	Genbank	CDS	648542	648769	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005200-T1_mrna"; gene_id "gene-H2199_005200"; gene_name "MAK10";
+JAPDRP010000014.1	Genbank	CDS	649003	649362	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005200-T1_mrna"; gene_id "gene-H2199_005200"; gene_name "MAK10";
+JAPDRP010000014.1	Genbank	CDS	649456	649782	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005200-T1_mrna"; gene_id "gene-H2199_005200"; gene_name "MAK10";
+JAPDRP010000014.1	Genbank	CDS	649846	650019	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005200-T1_mrna"; gene_id "gene-H2199_005200"; gene_name "MAK10";
+JAPDRP010000014.1	Genbank	transcript	888618	889666	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005285-T1_mrna"; gene_id "gene-H2199_005285"; gene_name "MED6"
+JAPDRP010000014.1	Genbank	exon	888618	889194	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005285-T1_mrna"; gene_id "gene-H2199_005285"; gene_name "MED6";
+JAPDRP010000014.1	Genbank	exon	889260	889666	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005285-T1_mrna"; gene_id "gene-H2199_005285"; gene_name "MED6";
+JAPDRP010000014.1	Genbank	CDS	888618	889194	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005285-T1_mrna"; gene_id "gene-H2199_005285"; gene_name "MED6";
+JAPDRP010000014.1	Genbank	CDS	889260	889666	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005285-T1_mrna"; gene_id "gene-H2199_005285"; gene_name "MED6";
+JAPDRP010000015.1	Genbank	transcript	150157	151463	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005325-T1_mrna"; gene_id "gene-H2199_005325"; gene_name "COQ4"
+JAPDRP010000015.1	Genbank	exon	150157	150268	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005325-T1_mrna"; gene_id "gene-H2199_005325"; gene_name "COQ4";
+JAPDRP010000015.1	Genbank	exon	150604	150738	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005325-T1_mrna"; gene_id "gene-H2199_005325"; gene_name "COQ4";
+JAPDRP010000015.1	Genbank	exon	150883	151463	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005325-T1_mrna"; gene_id "gene-H2199_005325"; gene_name "COQ4";
+JAPDRP010000015.1	Genbank	CDS	150157	150268	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005325-T1_mrna"; gene_id "gene-H2199_005325"; gene_name "COQ4";
+JAPDRP010000015.1	Genbank	CDS	150604	150738	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005325-T1_mrna"; gene_id "gene-H2199_005325"; gene_name "COQ4";
+JAPDRP010000015.1	Genbank	CDS	150883	151463	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005325-T1_mrna"; gene_id "gene-H2199_005325"; gene_name "COQ4";
+JAPDRP010000015.1	Genbank	transcript	331704	332960	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005376-T1_mrna"; gene_id "gene-H2199_005376"; gene_name "CAB2"
+JAPDRP010000015.1	Genbank	exon	331704	332960	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005376-T1_mrna"; gene_id "gene-H2199_005376"; gene_name "CAB2";
+JAPDRP010000015.1	Genbank	CDS	331704	332960	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005376-T1_mrna"; gene_id "gene-H2199_005376"; gene_name "CAB2";
+JAPDRP010000015.1	Genbank	transcript	464124	465013	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005418-T1_mrna"; gene_id "gene-H2199_005418"; gene_name "RRP40"
+JAPDRP010000015.1	Genbank	exon	464124	464827	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005418-T1_mrna"; gene_id "gene-H2199_005418"; gene_name "RRP40";
+JAPDRP010000015.1	Genbank	exon	465001	465013	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005418-T1_mrna"; gene_id "gene-H2199_005418"; gene_name "RRP40";
+JAPDRP010000015.1	Genbank	CDS	464124	464827	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005418-T1_mrna"; gene_id "gene-H2199_005418"; gene_name "RRP40";
+JAPDRP010000015.1	Genbank	CDS	465001	465013	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005418-T1_mrna"; gene_id "gene-H2199_005418"; gene_name "RRP40";
+JAPDRP010000015.1	Genbank	transcript	590758	591657	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005447-T1_mrna"; gene_id "gene-H2199_005447"; gene_name "SHY1"
+JAPDRP010000015.1	Genbank	exon	590758	590857	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005447-T1_mrna"; gene_id "gene-H2199_005447"; gene_name "SHY1";
+JAPDRP010000015.1	Genbank	exon	590930	591657	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005447-T1_mrna"; gene_id "gene-H2199_005447"; gene_name "SHY1";
+JAPDRP010000015.1	Genbank	CDS	590758	590857	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005447-T1_mrna"; gene_id "gene-H2199_005447"; gene_name "SHY1";
+JAPDRP010000015.1	Genbank	CDS	590930	591657	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005447-T1_mrna"; gene_id "gene-H2199_005447"; gene_name "SHY1";
+JAPDRP010000015.1	Genbank	transcript	727434	727901	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005496-T1_mrna"; gene_id "gene-H2199_005496"
+JAPDRP010000015.1	Genbank	exon	727434	727901	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005496-T1_mrna"; gene_id "gene-H2199_005496";
+JAPDRP010000015.1	Genbank	CDS	727434	727901	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005496-T1_mrna"; gene_id "gene-H2199_005496";
+JAPDRP010000016.1	Genbank	transcript	203134	203779	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005607-T1_mrna"; gene_id "gene-H2199_005607"; gene_name "SNU23"
+JAPDRP010000016.1	Genbank	exon	203134	203299	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005607-T1_mrna"; gene_id "gene-H2199_005607"; gene_name "SNU23";
+JAPDRP010000016.1	Genbank	exon	203328	203779	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005607-T1_mrna"; gene_id "gene-H2199_005607"; gene_name "SNU23";
+JAPDRP010000016.1	Genbank	CDS	203134	203299	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005607-T1_mrna"; gene_id "gene-H2199_005607"; gene_name "SNU23";
+JAPDRP010000016.1	Genbank	CDS	203328	203779	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005607-T1_mrna"; gene_id "gene-H2199_005607"; gene_name "SNU23";
+JAPDRP010000016.1	Genbank	transcript	263201	265297	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005625-T1_mrna"; gene_id "gene-H2199_005625"; gene_name "SPB4"
+JAPDRP010000016.1	Genbank	exon	263201	263623	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005625-T1_mrna"; gene_id "gene-H2199_005625"; gene_name "SPB4";
+JAPDRP010000016.1	Genbank	exon	263698	264455	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005625-T1_mrna"; gene_id "gene-H2199_005625"; gene_name "SPB4";
+JAPDRP010000016.1	Genbank	exon	264512	264876	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005625-T1_mrna"; gene_id "gene-H2199_005625"; gene_name "SPB4";
+JAPDRP010000016.1	Genbank	exon	264930	265050	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005625-T1_mrna"; gene_id "gene-H2199_005625"; gene_name "SPB4";
+JAPDRP010000016.1	Genbank	exon	265108	265297	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005625-T1_mrna"; gene_id "gene-H2199_005625"; gene_name "SPB4";
+JAPDRP010000016.1	Genbank	CDS	263201	263623	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005625-T1_mrna"; gene_id "gene-H2199_005625"; gene_name "SPB4";
+JAPDRP010000016.1	Genbank	CDS	263698	264455	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005625-T1_mrna"; gene_id "gene-H2199_005625"; gene_name "SPB4";
+JAPDRP010000016.1	Genbank	CDS	264512	264876	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005625-T1_mrna"; gene_id "gene-H2199_005625"; gene_name "SPB4";
+JAPDRP010000016.1	Genbank	CDS	264930	265050	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005625-T1_mrna"; gene_id "gene-H2199_005625"; gene_name "SPB4";
+JAPDRP010000016.1	Genbank	CDS	265108	265297	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005625-T1_mrna"; gene_id "gene-H2199_005625"; gene_name "SPB4";
+JAPDRP010000016.1	Genbank	transcript	497107	498155	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005704-T1_mrna"; gene_id "gene-H2199_005704"; gene_name "rrp4_1"
+JAPDRP010000016.1	Genbank	exon	497107	497719	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005704-T1_mrna"; gene_id "gene-H2199_005704"; gene_name "rrp4_1";
+JAPDRP010000016.1	Genbank	exon	497767	498155	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005704-T1_mrna"; gene_id "gene-H2199_005704"; gene_name "rrp4_1";
+JAPDRP010000016.1	Genbank	CDS	497107	497719	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005704-T1_mrna"; gene_id "gene-H2199_005704"; gene_name "rrp4_1";
+JAPDRP010000016.1	Genbank	CDS	497767	498155	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005704-T1_mrna"; gene_id "gene-H2199_005704"; gene_name "rrp4_1";
+JAPDRP010000017.1	Genbank	transcript	538775	541532	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005974-T1_mrna"; gene_id "gene-H2199_005974"; gene_name "COX15"
+JAPDRP010000017.1	Genbank	exon	538775	538895	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005974-T1_mrna"; gene_id "gene-H2199_005974"; gene_name "COX15";
+JAPDRP010000017.1	Genbank	exon	538959	539737	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005974-T1_mrna"; gene_id "gene-H2199_005974"; gene_name "COX15";
+JAPDRP010000017.1	Genbank	exon	540558	541532	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005974-T1_mrna"; gene_id "gene-H2199_005974"; gene_name "COX15";
+JAPDRP010000017.1	Genbank	CDS	538775	538895	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005974-T1_mrna"; gene_id "gene-H2199_005974"; gene_name "COX15";
+JAPDRP010000017.1	Genbank	CDS	538959	539737	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005974-T1_mrna"; gene_id "gene-H2199_005974"; gene_name "COX15";
+JAPDRP010000017.1	Genbank	CDS	540558	541532	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_005974-T1_mrna"; gene_id "gene-H2199_005974"; gene_name "COX15";
+JAPDRP010000017.1	Genbank	transcript	758433	760001	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006046-T1_mrna"; gene_id "gene-H2199_006046"; gene_name "ENP2_1"
+JAPDRP010000017.1	Genbank	exon	758433	758649	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006046-T1_mrna"; gene_id "gene-H2199_006046"; gene_name "ENP2_1";
+JAPDRP010000017.1	Genbank	exon	758748	759079	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006046-T1_mrna"; gene_id "gene-H2199_006046"; gene_name "ENP2_1";
+JAPDRP010000017.1	Genbank	exon	759169	759311	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006046-T1_mrna"; gene_id "gene-H2199_006046"; gene_name "ENP2_1";
+JAPDRP010000017.1	Genbank	exon	759326	760001	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006046-T1_mrna"; gene_id "gene-H2199_006046"; gene_name "ENP2_1";
+JAPDRP010000017.1	Genbank	CDS	758433	758649	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006046-T1_mrna"; gene_id "gene-H2199_006046"; gene_name "ENP2_1";
+JAPDRP010000017.1	Genbank	CDS	758748	759079	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006046-T1_mrna"; gene_id "gene-H2199_006046"; gene_name "ENP2_1";
+JAPDRP010000017.1	Genbank	CDS	759169	759311	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006046-T1_mrna"; gene_id "gene-H2199_006046"; gene_name "ENP2_1";
+JAPDRP010000017.1	Genbank	CDS	759326	760001	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006046-T1_mrna"; gene_id "gene-H2199_006046"; gene_name "ENP2_1";
+JAPDRP010000018.1	Genbank	transcript	440660	441489	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006233-T1_mrna"; gene_id "gene-H2199_006233"; gene_name "cwf16"
+JAPDRP010000018.1	Genbank	exon	440660	440931	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006233-T1_mrna"; gene_id "gene-H2199_006233"; gene_name "cwf16";
+JAPDRP010000018.1	Genbank	exon	441006	441489	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006233-T1_mrna"; gene_id "gene-H2199_006233"; gene_name "cwf16";
+JAPDRP010000018.1	Genbank	CDS	440660	440931	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006233-T1_mrna"; gene_id "gene-H2199_006233"; gene_name "cwf16";
+JAPDRP010000018.1	Genbank	CDS	441006	441489	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006233-T1_mrna"; gene_id "gene-H2199_006233"; gene_name "cwf16";
+JAPDRP010000018.1	Genbank	transcript	691364	694267	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006311-T1_mrna"; gene_id "gene-H2199_006311"; gene_name "PWP2"
+JAPDRP010000018.1	Genbank	exon	691364	691598	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006311-T1_mrna"; gene_id "gene-H2199_006311"; gene_name "PWP2";
+JAPDRP010000018.1	Genbank	exon	691640	693163	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006311-T1_mrna"; gene_id "gene-H2199_006311"; gene_name "PWP2";
+JAPDRP010000018.1	Genbank	exon	693212	693468	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006311-T1_mrna"; gene_id "gene-H2199_006311"; gene_name "PWP2";
+JAPDRP010000018.1	Genbank	exon	693527	694022	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006311-T1_mrna"; gene_id "gene-H2199_006311"; gene_name "PWP2";
+JAPDRP010000018.1	Genbank	exon	694084	694099	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006311-T1_mrna"; gene_id "gene-H2199_006311"; gene_name "PWP2";
+JAPDRP010000018.1	Genbank	exon	694246	694267	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006311-T1_mrna"; gene_id "gene-H2199_006311"; gene_name "PWP2";
+JAPDRP010000018.1	Genbank	CDS	691364	691598	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006311-T1_mrna"; gene_id "gene-H2199_006311"; gene_name "PWP2";
+JAPDRP010000018.1	Genbank	CDS	691640	693163	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006311-T1_mrna"; gene_id "gene-H2199_006311"; gene_name "PWP2";
+JAPDRP010000018.1	Genbank	CDS	693212	693468	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006311-T1_mrna"; gene_id "gene-H2199_006311"; gene_name "PWP2";
+JAPDRP010000018.1	Genbank	CDS	693527	694022	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006311-T1_mrna"; gene_id "gene-H2199_006311"; gene_name "PWP2";
+JAPDRP010000018.1	Genbank	CDS	694084	694099	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006311-T1_mrna"; gene_id "gene-H2199_006311"; gene_name "PWP2";
+JAPDRP010000018.1	Genbank	CDS	694246	694267	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006311-T1_mrna"; gene_id "gene-H2199_006311"; gene_name "PWP2";
+JAPDRP010000018.1	Genbank	transcript	761932	763562	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006338-T1_mrna"; gene_id "gene-H2199_006338"; gene_name "TRM61"
+JAPDRP010000018.1	Genbank	exon	761932	762731	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006338-T1_mrna"; gene_id "gene-H2199_006338"; gene_name "TRM61";
+JAPDRP010000018.1	Genbank	exon	762866	763562	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006338-T1_mrna"; gene_id "gene-H2199_006338"; gene_name "TRM61";
+JAPDRP010000018.1	Genbank	CDS	761932	762731	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006338-T1_mrna"; gene_id "gene-H2199_006338"; gene_name "TRM61";
+JAPDRP010000018.1	Genbank	CDS	762866	763562	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006338-T1_mrna"; gene_id "gene-H2199_006338"; gene_name "TRM61";
+JAPDRP010000019.1	Genbank	transcript	297697	298479	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006423-T1_mrna"; gene_id "gene-H2199_006423"
+JAPDRP010000019.1	Genbank	exon	297697	298479	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006423-T1_mrna"; gene_id "gene-H2199_006423";
+JAPDRP010000019.1	Genbank	CDS	297697	298479	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006423-T1_mrna"; gene_id "gene-H2199_006423";
+JAPDRP010000019.1	Genbank	transcript	452880	454706	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006466-T1_mrna"; gene_id "gene-H2199_006466"; gene_name "HAT1"
+JAPDRP010000019.1	Genbank	exon	452880	453084	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006466-T1_mrna"; gene_id "gene-H2199_006466"; gene_name "HAT1";
+JAPDRP010000019.1	Genbank	exon	453104	453667	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006466-T1_mrna"; gene_id "gene-H2199_006466"; gene_name "HAT1";
+JAPDRP010000019.1	Genbank	exon	453960	454227	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006466-T1_mrna"; gene_id "gene-H2199_006466"; gene_name "HAT1";
+JAPDRP010000019.1	Genbank	exon	454339	454626	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006466-T1_mrna"; gene_id "gene-H2199_006466"; gene_name "HAT1";
+JAPDRP010000019.1	Genbank	exon	454685	454706	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006466-T1_mrna"; gene_id "gene-H2199_006466"; gene_name "HAT1";
+JAPDRP010000019.1	Genbank	CDS	452880	453084	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006466-T1_mrna"; gene_id "gene-H2199_006466"; gene_name "HAT1";
+JAPDRP010000019.1	Genbank	CDS	453104	453667	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006466-T1_mrna"; gene_id "gene-H2199_006466"; gene_name "HAT1";
+JAPDRP010000019.1	Genbank	CDS	453960	454227	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006466-T1_mrna"; gene_id "gene-H2199_006466"; gene_name "HAT1";
+JAPDRP010000019.1	Genbank	CDS	454339	454626	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006466-T1_mrna"; gene_id "gene-H2199_006466"; gene_name "HAT1";
+JAPDRP010000019.1	Genbank	CDS	454685	454706	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006466-T1_mrna"; gene_id "gene-H2199_006466"; gene_name "HAT1";
+JAPDRP010000019.1	Genbank	transcript	516965	518078	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006485-T1_mrna"; gene_id "gene-H2199_006485"; gene_name "ATG3"
+JAPDRP010000019.1	Genbank	exon	516965	517293	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006485-T1_mrna"; gene_id "gene-H2199_006485"; gene_name "ATG3";
+JAPDRP010000019.1	Genbank	exon	517323	517475	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006485-T1_mrna"; gene_id "gene-H2199_006485"; gene_name "ATG3";
+JAPDRP010000019.1	Genbank	exon	517547	518078	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006485-T1_mrna"; gene_id "gene-H2199_006485"; gene_name "ATG3";
+JAPDRP010000019.1	Genbank	CDS	516965	517293	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006485-T1_mrna"; gene_id "gene-H2199_006485"; gene_name "ATG3";
+JAPDRP010000019.1	Genbank	CDS	517323	517475	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006485-T1_mrna"; gene_id "gene-H2199_006485"; gene_name "ATG3";
+JAPDRP010000019.1	Genbank	CDS	517547	518078	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006485-T1_mrna"; gene_id "gene-H2199_006485"; gene_name "ATG3";
+JAPDRP010000019.1	Genbank	transcript	519574	521234	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006487-T1_mrna"; gene_id "gene-H2199_006487"
+JAPDRP010000019.1	Genbank	exon	519574	519654	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006487-T1_mrna"; gene_id "gene-H2199_006487";
+JAPDRP010000019.1	Genbank	exon	519717	521234	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006487-T1_mrna"; gene_id "gene-H2199_006487";
+JAPDRP010000019.1	Genbank	CDS	519574	519654	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006487-T1_mrna"; gene_id "gene-H2199_006487";
+JAPDRP010000019.1	Genbank	CDS	519717	521234	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006487-T1_mrna"; gene_id "gene-H2199_006487";
+JAPDRP010000019.1	Genbank	transcript	615037	617114	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006525-T1_mrna"; gene_id "gene-H2199_006525"; gene_name "srp72"
+JAPDRP010000019.1	Genbank	exon	615037	615444	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006525-T1_mrna"; gene_id "gene-H2199_006525"; gene_name "srp72";
+JAPDRP010000019.1	Genbank	exon	615482	615771	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006525-T1_mrna"; gene_id "gene-H2199_006525"; gene_name "srp72";
+JAPDRP010000019.1	Genbank	exon	615820	616646	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006525-T1_mrna"; gene_id "gene-H2199_006525"; gene_name "srp72";
+JAPDRP010000019.1	Genbank	exon	616676	616858	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006525-T1_mrna"; gene_id "gene-H2199_006525"; gene_name "srp72";
+JAPDRP010000019.1	Genbank	exon	616915	617114	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006525-T1_mrna"; gene_id "gene-H2199_006525"; gene_name "srp72";
+JAPDRP010000019.1	Genbank	CDS	615037	615444	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006525-T1_mrna"; gene_id "gene-H2199_006525"; gene_name "srp72";
+JAPDRP010000019.1	Genbank	CDS	615482	615771	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006525-T1_mrna"; gene_id "gene-H2199_006525"; gene_name "srp72";
+JAPDRP010000019.1	Genbank	CDS	615820	616646	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006525-T1_mrna"; gene_id "gene-H2199_006525"; gene_name "srp72";
+JAPDRP010000019.1	Genbank	CDS	616676	616858	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006525-T1_mrna"; gene_id "gene-H2199_006525"; gene_name "srp72";
+JAPDRP010000019.1	Genbank	CDS	616915	617114	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006525-T1_mrna"; gene_id "gene-H2199_006525"; gene_name "srp72";
+JAPDRP010000019.1	Genbank	transcript	626104	626893	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006529-T1_mrna"; gene_id "gene-H2199_006529"; gene_name "ISY1"
+JAPDRP010000019.1	Genbank	exon	626104	626342	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006529-T1_mrna"; gene_id "gene-H2199_006529"; gene_name "ISY1";
+JAPDRP010000019.1	Genbank	exon	626470	626836	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006529-T1_mrna"; gene_id "gene-H2199_006529"; gene_name "ISY1";
+JAPDRP010000019.1	Genbank	exon	626891	626893	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006529-T1_mrna"; gene_id "gene-H2199_006529"; gene_name "ISY1";
+JAPDRP010000019.1	Genbank	CDS	626104	626342	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006529-T1_mrna"; gene_id "gene-H2199_006529"; gene_name "ISY1";
+JAPDRP010000019.1	Genbank	CDS	626470	626836	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006529-T1_mrna"; gene_id "gene-H2199_006529"; gene_name "ISY1";
+JAPDRP010000019.1	Genbank	CDS	626891	626893	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006529-T1_mrna"; gene_id "gene-H2199_006529"; gene_name "ISY1";
+JAPDRP010000019.1	Genbank	transcript	813971	814913	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006602-T1_mrna"; gene_id "gene-H2199_006602"; gene_name "CWC15"
+JAPDRP010000019.1	Genbank	exon	813971	813988	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006602-T1_mrna"; gene_id "gene-H2199_006602"; gene_name "CWC15";
+JAPDRP010000019.1	Genbank	exon	814040	814246	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006602-T1_mrna"; gene_id "gene-H2199_006602"; gene_name "CWC15";
+JAPDRP010000019.1	Genbank	exon	814312	814399	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006602-T1_mrna"; gene_id "gene-H2199_006602"; gene_name "CWC15";
+JAPDRP010000019.1	Genbank	exon	814457	814824	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006602-T1_mrna"; gene_id "gene-H2199_006602"; gene_name "CWC15";
+JAPDRP010000019.1	Genbank	exon	814881	814913	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006602-T1_mrna"; gene_id "gene-H2199_006602"; gene_name "CWC15";
+JAPDRP010000019.1	Genbank	CDS	813971	813988	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006602-T1_mrna"; gene_id "gene-H2199_006602"; gene_name "CWC15";
+JAPDRP010000019.1	Genbank	CDS	814040	814246	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006602-T1_mrna"; gene_id "gene-H2199_006602"; gene_name "CWC15";
+JAPDRP010000019.1	Genbank	CDS	814312	814399	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006602-T1_mrna"; gene_id "gene-H2199_006602"; gene_name "CWC15";
+JAPDRP010000019.1	Genbank	CDS	814457	814824	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006602-T1_mrna"; gene_id "gene-H2199_006602"; gene_name "CWC15";
+JAPDRP010000019.1	Genbank	CDS	814881	814913	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006602-T1_mrna"; gene_id "gene-H2199_006602"; gene_name "CWC15";
+JAPDRP010000019.1	Genbank	transcript	815125	816512	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006603-T1_mrna"; gene_id "gene-H2199_006603"; gene_name "RRP45"
+JAPDRP010000019.1	Genbank	exon	815125	815288	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006603-T1_mrna"; gene_id "gene-H2199_006603"; gene_name "RRP45";
+JAPDRP010000019.1	Genbank	exon	815366	815458	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006603-T1_mrna"; gene_id "gene-H2199_006603"; gene_name "RRP45";
+JAPDRP010000019.1	Genbank	exon	815563	816137	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006603-T1_mrna"; gene_id "gene-H2199_006603"; gene_name "RRP45";
+JAPDRP010000019.1	Genbank	exon	816289	816512	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006603-T1_mrna"; gene_id "gene-H2199_006603"; gene_name "RRP45";
+JAPDRP010000019.1	Genbank	CDS	815125	815288	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006603-T1_mrna"; gene_id "gene-H2199_006603"; gene_name "RRP45";
+JAPDRP010000019.1	Genbank	CDS	815366	815458	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006603-T1_mrna"; gene_id "gene-H2199_006603"; gene_name "RRP45";
+JAPDRP010000019.1	Genbank	CDS	815563	816137	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006603-T1_mrna"; gene_id "gene-H2199_006603"; gene_name "RRP45";
+JAPDRP010000019.1	Genbank	CDS	816289	816512	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006603-T1_mrna"; gene_id "gene-H2199_006603"; gene_name "RRP45";
+JAPDRP010000002.1	Genbank	transcript	218928	220673	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000638-T1_mrna"; gene_id "gene-H2199_000638"; gene_name "COG6"
+JAPDRP010000002.1	Genbank	exon	218928	220673	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000638-T1_mrna"; gene_id "gene-H2199_000638"; gene_name "COG6";
+JAPDRP010000002.1	Genbank	CDS	218928	220673	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000638-T1_mrna"; gene_id "gene-H2199_000638"; gene_name "COG6";
+JAPDRP010000002.1	Genbank	transcript	552440	555174	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000729-T1_mrna"; gene_id "gene-H2199_000729"; gene_name "MCM2"
+JAPDRP010000002.1	Genbank	exon	552440	552623	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000729-T1_mrna"; gene_id "gene-H2199_000729"; gene_name "MCM2";
+JAPDRP010000002.1	Genbank	exon	552750	555021	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000729-T1_mrna"; gene_id "gene-H2199_000729"; gene_name "MCM2";
+JAPDRP010000002.1	Genbank	exon	555072	555174	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000729-T1_mrna"; gene_id "gene-H2199_000729"; gene_name "MCM2";
+JAPDRP010000002.1	Genbank	CDS	552440	552623	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000729-T1_mrna"; gene_id "gene-H2199_000729"; gene_name "MCM2";
+JAPDRP010000002.1	Genbank	CDS	552750	555021	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000729-T1_mrna"; gene_id "gene-H2199_000729"; gene_name "MCM2";
+JAPDRP010000002.1	Genbank	CDS	555072	555174	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000729-T1_mrna"; gene_id "gene-H2199_000729"; gene_name "MCM2";
+JAPDRP010000002.1	Genbank	transcript	647832	649855	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000764-T1_mrna"; gene_id "gene-H2199_000764"; gene_name "UTP18"
+JAPDRP010000002.1	Genbank	exon	647832	648438	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000764-T1_mrna"; gene_id "gene-H2199_000764"; gene_name "UTP18";
+JAPDRP010000002.1	Genbank	exon	648495	648862	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000764-T1_mrna"; gene_id "gene-H2199_000764"; gene_name "UTP18";
+JAPDRP010000002.1	Genbank	exon	648919	649210	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000764-T1_mrna"; gene_id "gene-H2199_000764"; gene_name "UTP18";
+JAPDRP010000002.1	Genbank	exon	649263	649507	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000764-T1_mrna"; gene_id "gene-H2199_000764"; gene_name "UTP18";
+JAPDRP010000002.1	Genbank	exon	649571	649855	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000764-T1_mrna"; gene_id "gene-H2199_000764"; gene_name "UTP18";
+JAPDRP010000002.1	Genbank	CDS	647832	648438	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000764-T1_mrna"; gene_id "gene-H2199_000764"; gene_name "UTP18";
+JAPDRP010000002.1	Genbank	CDS	648495	648862	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000764-T1_mrna"; gene_id "gene-H2199_000764"; gene_name "UTP18";
+JAPDRP010000002.1	Genbank	CDS	648919	649210	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000764-T1_mrna"; gene_id "gene-H2199_000764"; gene_name "UTP18";
+JAPDRP010000002.1	Genbank	CDS	649263	649507	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000764-T1_mrna"; gene_id "gene-H2199_000764"; gene_name "UTP18";
+JAPDRP010000002.1	Genbank	CDS	649571	649855	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000764-T1_mrna"; gene_id "gene-H2199_000764"; gene_name "UTP18";
+JAPDRP010000002.1	Genbank	transcript	657774	658406	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000768-T1_mrna"; gene_id "gene-H2199_000768"; gene_name "imp3"
+JAPDRP010000002.1	Genbank	exon	657774	658240	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000768-T1_mrna"; gene_id "gene-H2199_000768"; gene_name "imp3";
+JAPDRP010000002.1	Genbank	exon	658304	658406	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000768-T1_mrna"; gene_id "gene-H2199_000768"; gene_name "imp3";
+JAPDRP010000002.1	Genbank	CDS	657774	658240	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000768-T1_mrna"; gene_id "gene-H2199_000768"; gene_name "imp3";
+JAPDRP010000002.1	Genbank	CDS	658304	658406	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000768-T1_mrna"; gene_id "gene-H2199_000768"; gene_name "imp3";
+JAPDRP010000002.1	Genbank	transcript	784759	785684	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000805-T1_mrna"; gene_id "gene-H2199_000805"; gene_name "DPH5"
+JAPDRP010000002.1	Genbank	exon	784759	784893	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000805-T1_mrna"; gene_id "gene-H2199_000805"; gene_name "DPH5";
+JAPDRP010000002.1	Genbank	exon	784962	785684	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000805-T1_mrna"; gene_id "gene-H2199_000805"; gene_name "DPH5";
+JAPDRP010000002.1	Genbank	CDS	784759	784893	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000805-T1_mrna"; gene_id "gene-H2199_000805"; gene_name "DPH5";
+JAPDRP010000002.1	Genbank	CDS	784962	785684	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000805-T1_mrna"; gene_id "gene-H2199_000805"; gene_name "DPH5";
+JAPDRP010000002.1	Genbank	transcript	789645	792507	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000808-T1_mrna"; gene_id "gene-H2199_000808"; gene_name "CDC54"
+JAPDRP010000002.1	Genbank	exon	789645	791494	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000808-T1_mrna"; gene_id "gene-H2199_000808"; gene_name "CDC54";
+JAPDRP010000002.1	Genbank	exon	791544	792443	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000808-T1_mrna"; gene_id "gene-H2199_000808"; gene_name "CDC54";
+JAPDRP010000002.1	Genbank	exon	792495	792507	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000808-T1_mrna"; gene_id "gene-H2199_000808"; gene_name "CDC54";
+JAPDRP010000002.1	Genbank	CDS	789645	791494	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000808-T1_mrna"; gene_id "gene-H2199_000808"; gene_name "CDC54";
+JAPDRP010000002.1	Genbank	CDS	791544	792443	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000808-T1_mrna"; gene_id "gene-H2199_000808"; gene_name "CDC54";
+JAPDRP010000002.1	Genbank	CDS	792495	792507	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000808-T1_mrna"; gene_id "gene-H2199_000808"; gene_name "CDC54";
+JAPDRP010000002.1	Genbank	transcript	825973	826886	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000822-T1_mrna"; gene_id "gene-H2199_000822"; gene_name "SLD5"
+JAPDRP010000002.1	Genbank	exon	825973	826293	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000822-T1_mrna"; gene_id "gene-H2199_000822"; gene_name "SLD5";
+JAPDRP010000002.1	Genbank	exon	826422	826550	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000822-T1_mrna"; gene_id "gene-H2199_000822"; gene_name "SLD5";
+JAPDRP010000002.1	Genbank	exon	826719	826886	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000822-T1_mrna"; gene_id "gene-H2199_000822"; gene_name "SLD5";
+JAPDRP010000002.1	Genbank	CDS	825973	826293	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000822-T1_mrna"; gene_id "gene-H2199_000822"; gene_name "SLD5";
+JAPDRP010000002.1	Genbank	CDS	826422	826550	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000822-T1_mrna"; gene_id "gene-H2199_000822"; gene_name "SLD5";
+JAPDRP010000002.1	Genbank	CDS	826719	826886	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000822-T1_mrna"; gene_id "gene-H2199_000822"; gene_name "SLD5";
+JAPDRP010000002.1	Genbank	transcript	863265	865657	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000836-T1_mrna"; gene_id "gene-H2199_000836"; gene_name "ATG7"
+JAPDRP010000002.1	Genbank	exon	863265	863386	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000836-T1_mrna"; gene_id "gene-H2199_000836"; gene_name "ATG7";
+JAPDRP010000002.1	Genbank	exon	863526	863634	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000836-T1_mrna"; gene_id "gene-H2199_000836"; gene_name "ATG7";
+JAPDRP010000002.1	Genbank	exon	863686	865050	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000836-T1_mrna"; gene_id "gene-H2199_000836"; gene_name "ATG7";
+JAPDRP010000002.1	Genbank	exon	865136	865657	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000836-T1_mrna"; gene_id "gene-H2199_000836"; gene_name "ATG7";
+JAPDRP010000002.1	Genbank	CDS	863265	863386	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000836-T1_mrna"; gene_id "gene-H2199_000836"; gene_name "ATG7";
+JAPDRP010000002.1	Genbank	CDS	863526	863634	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000836-T1_mrna"; gene_id "gene-H2199_000836"; gene_name "ATG7";
+JAPDRP010000002.1	Genbank	CDS	863686	865050	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000836-T1_mrna"; gene_id "gene-H2199_000836"; gene_name "ATG7";
+JAPDRP010000002.1	Genbank	CDS	865136	865657	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000836-T1_mrna"; gene_id "gene-H2199_000836"; gene_name "ATG7";
+JAPDRP010000002.1	Genbank	transcript	1063921	1066376	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000905-T1_mrna"; gene_id "gene-H2199_000905"; gene_name "DPB2"
+JAPDRP010000002.1	Genbank	exon	1063921	1065622	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000905-T1_mrna"; gene_id "gene-H2199_000905"; gene_name "DPB2";
+JAPDRP010000002.1	Genbank	exon	1065676	1065846	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000905-T1_mrna"; gene_id "gene-H2199_000905"; gene_name "DPB2";
+JAPDRP010000002.1	Genbank	exon	1065880	1066376	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000905-T1_mrna"; gene_id "gene-H2199_000905"; gene_name "DPB2";
+JAPDRP010000002.1	Genbank	CDS	1063921	1065622	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000905-T1_mrna"; gene_id "gene-H2199_000905"; gene_name "DPB2";
+JAPDRP010000002.1	Genbank	CDS	1065676	1065846	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000905-T1_mrna"; gene_id "gene-H2199_000905"; gene_name "DPB2";
+JAPDRP010000002.1	Genbank	CDS	1065880	1066376	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000905-T1_mrna"; gene_id "gene-H2199_000905"; gene_name "DPB2";
+JAPDRP010000002.1	Genbank	transcript	1177954	1179654	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000945-T1_mrna"; gene_id "gene-H2199_000945"; gene_name "prp3"
+JAPDRP010000002.1	Genbank	exon	1177954	1179654	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000945-T1_mrna"; gene_id "gene-H2199_000945"; gene_name "prp3";
+JAPDRP010000002.1	Genbank	CDS	1177954	1179654	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_000945-T1_mrna"; gene_id "gene-H2199_000945"; gene_name "prp3";
+JAPDRP010000020.1	Genbank	transcript	609597	611074	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006813-T1_mrna"; gene_id "gene-H2199_006813"; gene_name "ENP1"
+JAPDRP010000020.1	Genbank	exon	609597	610456	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006813-T1_mrna"; gene_id "gene-H2199_006813"; gene_name "ENP1";
+JAPDRP010000020.1	Genbank	exon	610507	611074	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006813-T1_mrna"; gene_id "gene-H2199_006813"; gene_name "ENP1";
+JAPDRP010000020.1	Genbank	CDS	609597	610456	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006813-T1_mrna"; gene_id "gene-H2199_006813"; gene_name "ENP1";
+JAPDRP010000020.1	Genbank	CDS	610507	611074	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_006813-T1_mrna"; gene_id "gene-H2199_006813"; gene_name "ENP1";
+JAPDRP010000021.1	Genbank	transcript	385404	387807	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007006-T1_mrna"; gene_id "gene-H2199_007006"; gene_name "SDA1"
+JAPDRP010000021.1	Genbank	exon	385404	387279	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007006-T1_mrna"; gene_id "gene-H2199_007006"; gene_name "SDA1";
+JAPDRP010000021.1	Genbank	exon	387335	387622	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007006-T1_mrna"; gene_id "gene-H2199_007006"; gene_name "SDA1";
+JAPDRP010000021.1	Genbank	exon	387675	387710	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007006-T1_mrna"; gene_id "gene-H2199_007006"; gene_name "SDA1";
+JAPDRP010000021.1	Genbank	exon	387761	387807	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007006-T1_mrna"; gene_id "gene-H2199_007006"; gene_name "SDA1";
+JAPDRP010000021.1	Genbank	CDS	385404	387279	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007006-T1_mrna"; gene_id "gene-H2199_007006"; gene_name "SDA1";
+JAPDRP010000021.1	Genbank	CDS	387335	387622	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007006-T1_mrna"; gene_id "gene-H2199_007006"; gene_name "SDA1";
+JAPDRP010000021.1	Genbank	CDS	387675	387710	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007006-T1_mrna"; gene_id "gene-H2199_007006"; gene_name "SDA1";
+JAPDRP010000021.1	Genbank	CDS	387761	387807	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007006-T1_mrna"; gene_id "gene-H2199_007006"; gene_name "SDA1";
+JAPDRP010000021.1	Genbank	transcript	388537	390209	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007007-T1_mrna"; gene_id "gene-H2199_007007"
+JAPDRP010000021.1	Genbank	exon	388537	388880	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007007-T1_mrna"; gene_id "gene-H2199_007007";
+JAPDRP010000021.1	Genbank	exon	388952	389242	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007007-T1_mrna"; gene_id "gene-H2199_007007";
+JAPDRP010000021.1	Genbank	exon	390059	390209	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007007-T1_mrna"; gene_id "gene-H2199_007007";
+JAPDRP010000021.1	Genbank	CDS	388537	388880	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007007-T1_mrna"; gene_id "gene-H2199_007007";
+JAPDRP010000021.1	Genbank	CDS	388952	389242	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007007-T1_mrna"; gene_id "gene-H2199_007007";
+JAPDRP010000021.1	Genbank	CDS	390059	390209	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007007-T1_mrna"; gene_id "gene-H2199_007007";
+JAPDRP010000021.1	Genbank	transcript	552962	555212	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007063-T1_mrna"; gene_id "gene-H2199_007063"; gene_name "DBP6"
+JAPDRP010000021.1	Genbank	exon	552962	553087	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007063-T1_mrna"; gene_id "gene-H2199_007063"; gene_name "DBP6";
+JAPDRP010000021.1	Genbank	exon	553123	553545	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007063-T1_mrna"; gene_id "gene-H2199_007063"; gene_name "DBP6";
+JAPDRP010000021.1	Genbank	exon	553604	554841	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007063-T1_mrna"; gene_id "gene-H2199_007063"; gene_name "DBP6";
+JAPDRP010000021.1	Genbank	exon	554895	554968	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007063-T1_mrna"; gene_id "gene-H2199_007063"; gene_name "DBP6";
+JAPDRP010000021.1	Genbank	exon	555001	555212	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007063-T1_mrna"; gene_id "gene-H2199_007063"; gene_name "DBP6";
+JAPDRP010000021.1	Genbank	CDS	552962	553087	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007063-T1_mrna"; gene_id "gene-H2199_007063"; gene_name "DBP6";
+JAPDRP010000021.1	Genbank	CDS	553123	553545	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007063-T1_mrna"; gene_id "gene-H2199_007063"; gene_name "DBP6";
+JAPDRP010000021.1	Genbank	CDS	553604	554841	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007063-T1_mrna"; gene_id "gene-H2199_007063"; gene_name "DBP6";
+JAPDRP010000021.1	Genbank	CDS	554895	554968	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007063-T1_mrna"; gene_id "gene-H2199_007063"; gene_name "DBP6";
+JAPDRP010000021.1	Genbank	CDS	555001	555212	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007063-T1_mrna"; gene_id "gene-H2199_007063"; gene_name "DBP6";
+JAPDRP010000021.1	Genbank	transcript	576656	577632	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007071-T1_mrna"; gene_id "gene-H2199_007071"
+JAPDRP010000021.1	Genbank	exon	576656	576728	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007071-T1_mrna"; gene_id "gene-H2199_007071";
+JAPDRP010000021.1	Genbank	exon	576783	577095	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007071-T1_mrna"; gene_id "gene-H2199_007071";
+JAPDRP010000021.1	Genbank	exon	577179	577632	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007071-T1_mrna"; gene_id "gene-H2199_007071";
+JAPDRP010000021.1	Genbank	CDS	576656	576728	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007071-T1_mrna"; gene_id "gene-H2199_007071";
+JAPDRP010000021.1	Genbank	CDS	576783	577095	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007071-T1_mrna"; gene_id "gene-H2199_007071";
+JAPDRP010000021.1	Genbank	CDS	577179	577632	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007071-T1_mrna"; gene_id "gene-H2199_007071";
+JAPDRP010000022.1	Genbank	transcript	394918	395474	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007262-T1_mrna"; gene_id "gene-H2199_007262"; gene_name "MRPL51"
+JAPDRP010000022.1	Genbank	exon	394918	395047	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007262-T1_mrna"; gene_id "gene-H2199_007262"; gene_name "MRPL51";
+JAPDRP010000022.1	Genbank	exon	395114	395373	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007262-T1_mrna"; gene_id "gene-H2199_007262"; gene_name "MRPL51";
+JAPDRP010000022.1	Genbank	exon	395436	395474	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007262-T1_mrna"; gene_id "gene-H2199_007262"; gene_name "MRPL51";
+JAPDRP010000022.1	Genbank	CDS	394918	395047	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007262-T1_mrna"; gene_id "gene-H2199_007262"; gene_name "MRPL51";
+JAPDRP010000022.1	Genbank	CDS	395114	395373	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007262-T1_mrna"; gene_id "gene-H2199_007262"; gene_name "MRPL51";
+JAPDRP010000022.1	Genbank	CDS	395436	395474	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007262-T1_mrna"; gene_id "gene-H2199_007262"; gene_name "MRPL51";
+JAPDRP010000022.1	Genbank	transcript	472618	473377	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007295-T1_mrna"; gene_id "gene-H2199_007295"; gene_name "MRT4"
+JAPDRP010000022.1	Genbank	exon	472618	472641	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007295-T1_mrna"; gene_id "gene-H2199_007295"; gene_name "MRT4";
+JAPDRP010000022.1	Genbank	exon	472680	473269	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007295-T1_mrna"; gene_id "gene-H2199_007295"; gene_name "MRT4";
+JAPDRP010000022.1	Genbank	exon	473323	473377	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007295-T1_mrna"; gene_id "gene-H2199_007295"; gene_name "MRT4";
+JAPDRP010000022.1	Genbank	CDS	472618	472641	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007295-T1_mrna"; gene_id "gene-H2199_007295"; gene_name "MRT4";
+JAPDRP010000022.1	Genbank	CDS	472680	473269	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007295-T1_mrna"; gene_id "gene-H2199_007295"; gene_name "MRT4";
+JAPDRP010000022.1	Genbank	CDS	473323	473377	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007295-T1_mrna"; gene_id "gene-H2199_007295"; gene_name "MRT4";
+JAPDRP010000022.1	Genbank	transcript	749835	751188	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007386-T1_mrna"; gene_id "gene-H2199_007386"; gene_name "ebp2"
+JAPDRP010000022.1	Genbank	exon	749835	750154	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007386-T1_mrna"; gene_id "gene-H2199_007386"; gene_name "ebp2";
+JAPDRP010000022.1	Genbank	exon	750228	751188	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007386-T1_mrna"; gene_id "gene-H2199_007386"; gene_name "ebp2";
+JAPDRP010000022.1	Genbank	CDS	749835	750154	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007386-T1_mrna"; gene_id "gene-H2199_007386"; gene_name "ebp2";
+JAPDRP010000022.1	Genbank	CDS	750228	751188	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007386-T1_mrna"; gene_id "gene-H2199_007386"; gene_name "ebp2";
+JAPDRP010000023.1	Genbank	transcript	733095	735034	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007654-T1_mrna"; gene_id "gene-H2199_007654"; gene_name "FRS1"
+JAPDRP010000023.1	Genbank	exon	733095	733140	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007654-T1_mrna"; gene_id "gene-H2199_007654"; gene_name "FRS1";
+JAPDRP010000023.1	Genbank	exon	733209	733957	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007654-T1_mrna"; gene_id "gene-H2199_007654"; gene_name "FRS1";
+JAPDRP010000023.1	Genbank	exon	734035	734379	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007654-T1_mrna"; gene_id "gene-H2199_007654"; gene_name "FRS1";
+JAPDRP010000023.1	Genbank	exon	734448	734870	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007654-T1_mrna"; gene_id "gene-H2199_007654"; gene_name "FRS1";
+JAPDRP010000023.1	Genbank	exon	734888	735034	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007654-T1_mrna"; gene_id "gene-H2199_007654"; gene_name "FRS1";
+JAPDRP010000023.1	Genbank	CDS	733095	733140	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007654-T1_mrna"; gene_id "gene-H2199_007654"; gene_name "FRS1";
+JAPDRP010000023.1	Genbank	CDS	733209	733957	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007654-T1_mrna"; gene_id "gene-H2199_007654"; gene_name "FRS1";
+JAPDRP010000023.1	Genbank	CDS	734035	734379	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007654-T1_mrna"; gene_id "gene-H2199_007654"; gene_name "FRS1";
+JAPDRP010000023.1	Genbank	CDS	734448	734870	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007654-T1_mrna"; gene_id "gene-H2199_007654"; gene_name "FRS1";
+JAPDRP010000023.1	Genbank	CDS	734888	735034	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007654-T1_mrna"; gene_id "gene-H2199_007654"; gene_name "FRS1";
+JAPDRP010000024.1	Genbank	transcript	181523	182713	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007710-T1_mrna"; gene_id "gene-H2199_007710"; gene_name "ETF1"
+JAPDRP010000024.1	Genbank	exon	181523	181886	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007710-T1_mrna"; gene_id "gene-H2199_007710"; gene_name "ETF1";
+JAPDRP010000024.1	Genbank	exon	181949	182102	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007710-T1_mrna"; gene_id "gene-H2199_007710"; gene_name "ETF1";
+JAPDRP010000024.1	Genbank	exon	182168	182336	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007710-T1_mrna"; gene_id "gene-H2199_007710"; gene_name "ETF1";
+JAPDRP010000024.1	Genbank	exon	182411	182713	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007710-T1_mrna"; gene_id "gene-H2199_007710"; gene_name "ETF1";
+JAPDRP010000024.1	Genbank	CDS	181523	181886	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007710-T1_mrna"; gene_id "gene-H2199_007710"; gene_name "ETF1";
+JAPDRP010000024.1	Genbank	CDS	181949	182102	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007710-T1_mrna"; gene_id "gene-H2199_007710"; gene_name "ETF1";
+JAPDRP010000024.1	Genbank	CDS	182168	182336	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007710-T1_mrna"; gene_id "gene-H2199_007710"; gene_name "ETF1";
+JAPDRP010000024.1	Genbank	CDS	182411	182713	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007710-T1_mrna"; gene_id "gene-H2199_007710"; gene_name "ETF1";
+JAPDRP010000024.1	Genbank	transcript	387404	390422	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007776-T1_mrna"; gene_id "gene-H2199_007776"; gene_name "ctf18"
+JAPDRP010000024.1	Genbank	exon	387404	389162	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007776-T1_mrna"; gene_id "gene-H2199_007776"; gene_name "ctf18";
+JAPDRP010000024.1	Genbank	exon	389245	389520	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007776-T1_mrna"; gene_id "gene-H2199_007776"; gene_name "ctf18";
+JAPDRP010000024.1	Genbank	exon	389576	390015	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007776-T1_mrna"; gene_id "gene-H2199_007776"; gene_name "ctf18";
+JAPDRP010000024.1	Genbank	exon	390057	390422	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007776-T1_mrna"; gene_id "gene-H2199_007776"; gene_name "ctf18";
+JAPDRP010000024.1	Genbank	CDS	387404	389162	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007776-T1_mrna"; gene_id "gene-H2199_007776"; gene_name "ctf18";
+JAPDRP010000024.1	Genbank	CDS	389245	389520	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007776-T1_mrna"; gene_id "gene-H2199_007776"; gene_name "ctf18";
+JAPDRP010000024.1	Genbank	CDS	389576	390015	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007776-T1_mrna"; gene_id "gene-H2199_007776"; gene_name "ctf18";
+JAPDRP010000024.1	Genbank	CDS	390057	390422	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007776-T1_mrna"; gene_id "gene-H2199_007776"; gene_name "ctf18";
+JAPDRP010000024.1	Genbank	transcript	466636	468393	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007800-T1_mrna"; gene_id "gene-H2199_007800"; gene_name "SRP68"
+JAPDRP010000024.1	Genbank	exon	466636	467381	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007800-T1_mrna"; gene_id "gene-H2199_007800"; gene_name "SRP68";
+JAPDRP010000024.1	Genbank	exon	467405	467824	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007800-T1_mrna"; gene_id "gene-H2199_007800"; gene_name "SRP68";
+JAPDRP010000024.1	Genbank	exon	467880	468393	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007800-T1_mrna"; gene_id "gene-H2199_007800"; gene_name "SRP68";
+JAPDRP010000024.1	Genbank	CDS	466636	467381	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007800-T1_mrna"; gene_id "gene-H2199_007800"; gene_name "SRP68";
+JAPDRP010000024.1	Genbank	CDS	467405	467824	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007800-T1_mrna"; gene_id "gene-H2199_007800"; gene_name "SRP68";
+JAPDRP010000024.1	Genbank	CDS	467880	468393	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_007800-T1_mrna"; gene_id "gene-H2199_007800"; gene_name "SRP68";
+JAPDRP010000025.1	Genbank	transcript	544157	545513	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008050-T1_mrna"; gene_id "gene-H2199_008050"; gene_name "DOM34"
+JAPDRP010000025.1	Genbank	exon	544157	544846	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008050-T1_mrna"; gene_id "gene-H2199_008050"; gene_name "DOM34";
+JAPDRP010000025.1	Genbank	exon	544919	545383	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008050-T1_mrna"; gene_id "gene-H2199_008050"; gene_name "DOM34";
+JAPDRP010000025.1	Genbank	exon	545433	545513	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008050-T1_mrna"; gene_id "gene-H2199_008050"; gene_name "DOM34";
+JAPDRP010000025.1	Genbank	CDS	544157	544846	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008050-T1_mrna"; gene_id "gene-H2199_008050"; gene_name "DOM34";
+JAPDRP010000025.1	Genbank	CDS	544919	545383	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008050-T1_mrna"; gene_id "gene-H2199_008050"; gene_name "DOM34";
+JAPDRP010000025.1	Genbank	CDS	545433	545513	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008050-T1_mrna"; gene_id "gene-H2199_008050"; gene_name "DOM34";
+JAPDRP010000026.1	Genbank	transcript	151406	152667	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008151-T1_mrna"; gene_id "gene-H2199_008151"; gene_name "KRR1"
+JAPDRP010000026.1	Genbank	exon	151406	151439	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008151-T1_mrna"; gene_id "gene-H2199_008151"; gene_name "KRR1";
+JAPDRP010000026.1	Genbank	exon	151491	152419	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008151-T1_mrna"; gene_id "gene-H2199_008151"; gene_name "KRR1";
+JAPDRP010000026.1	Genbank	exon	152518	152667	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008151-T1_mrna"; gene_id "gene-H2199_008151"; gene_name "KRR1";
+JAPDRP010000026.1	Genbank	CDS	151406	151439	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008151-T1_mrna"; gene_id "gene-H2199_008151"; gene_name "KRR1";
+JAPDRP010000026.1	Genbank	CDS	151491	152419	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008151-T1_mrna"; gene_id "gene-H2199_008151"; gene_name "KRR1";
+JAPDRP010000026.1	Genbank	CDS	152518	152667	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008151-T1_mrna"; gene_id "gene-H2199_008151"; gene_name "KRR1";
+JAPDRP010000026.1	Genbank	transcript	522156	523345	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008284-T1_mrna"; gene_id "gene-H2199_008284"; gene_name "ALG7"
+JAPDRP010000026.1	Genbank	exon	522156	522251	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008284-T1_mrna"; gene_id "gene-H2199_008284"; gene_name "ALG7";
+JAPDRP010000026.1	Genbank	exon	522380	523345	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008284-T1_mrna"; gene_id "gene-H2199_008284"; gene_name "ALG7";
+JAPDRP010000026.1	Genbank	CDS	522156	522251	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008284-T1_mrna"; gene_id "gene-H2199_008284"; gene_name "ALG7";
+JAPDRP010000026.1	Genbank	CDS	522380	523345	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008284-T1_mrna"; gene_id "gene-H2199_008284"; gene_name "ALG7";
+JAPDRP010000028.1	Genbank	transcript	138363	139968	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008580-T1_mrna"; gene_id "gene-H2199_008580"; gene_name "RAM1"
+JAPDRP010000028.1	Genbank	exon	138363	138847	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008580-T1_mrna"; gene_id "gene-H2199_008580"; gene_name "RAM1";
+JAPDRP010000028.1	Genbank	exon	138927	139968	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008580-T1_mrna"; gene_id "gene-H2199_008580"; gene_name "RAM1";
+JAPDRP010000028.1	Genbank	CDS	138363	138847	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008580-T1_mrna"; gene_id "gene-H2199_008580"; gene_name "RAM1";
+JAPDRP010000028.1	Genbank	CDS	138927	139968	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008580-T1_mrna"; gene_id "gene-H2199_008580"; gene_name "RAM1";
+JAPDRP010000028.1	Genbank	transcript	339075	340857	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008638-T1_mrna"; gene_id "gene-H2199_008638"; gene_name "TFB1"
+JAPDRP010000028.1	Genbank	exon	339075	339580	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008638-T1_mrna"; gene_id "gene-H2199_008638"; gene_name "TFB1";
+JAPDRP010000028.1	Genbank	exon	339615	340857	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008638-T1_mrna"; gene_id "gene-H2199_008638"; gene_name "TFB1";
+JAPDRP010000028.1	Genbank	CDS	339075	339580	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008638-T1_mrna"; gene_id "gene-H2199_008638"; gene_name "TFB1";
+JAPDRP010000028.1	Genbank	CDS	339615	340857	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_008638-T1_mrna"; gene_id "gene-H2199_008638"; gene_name "TFB1";
+JAPDRP010000003.1	Genbank	transcript	148081	149877	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001078-T1_mrna"; gene_id "gene-H2199_001078"
+JAPDRP010000003.1	Genbank	exon	148081	149877	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001078-T1_mrna"; gene_id "gene-H2199_001078";
+JAPDRP010000003.1	Genbank	CDS	148081	149877	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001078-T1_mrna"; gene_id "gene-H2199_001078";
+JAPDRP010000003.1	Genbank	transcript	342074	345170	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001147-T1_mrna"; gene_id "gene-H2199_001147"; gene_name "DIP2"
+JAPDRP010000003.1	Genbank	exon	342074	342090	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001147-T1_mrna"; gene_id "gene-H2199_001147"; gene_name "DIP2";
+JAPDRP010000003.1	Genbank	exon	342144	342386	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001147-T1_mrna"; gene_id "gene-H2199_001147"; gene_name "DIP2";
+JAPDRP010000003.1	Genbank	exon	342451	344596	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001147-T1_mrna"; gene_id "gene-H2199_001147"; gene_name "DIP2";
+JAPDRP010000003.1	Genbank	exon	344662	345074	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001147-T1_mrna"; gene_id "gene-H2199_001147"; gene_name "DIP2";
+JAPDRP010000003.1	Genbank	exon	345158	345170	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001147-T1_mrna"; gene_id "gene-H2199_001147"; gene_name "DIP2";
+JAPDRP010000003.1	Genbank	CDS	342074	342090	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001147-T1_mrna"; gene_id "gene-H2199_001147"; gene_name "DIP2";
+JAPDRP010000003.1	Genbank	CDS	342144	342386	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001147-T1_mrna"; gene_id "gene-H2199_001147"; gene_name "DIP2";
+JAPDRP010000003.1	Genbank	CDS	342451	344596	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001147-T1_mrna"; gene_id "gene-H2199_001147"; gene_name "DIP2";
+JAPDRP010000003.1	Genbank	CDS	344662	345074	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001147-T1_mrna"; gene_id "gene-H2199_001147"; gene_name "DIP2";
+JAPDRP010000003.1	Genbank	CDS	345158	345170	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001147-T1_mrna"; gene_id "gene-H2199_001147"; gene_name "DIP2";
+JAPDRP010000003.1	Genbank	transcript	409391	410608	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001172-T1_mrna"; gene_id "gene-H2199_001172"
+JAPDRP010000003.1	Genbank	exon	409391	409716	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001172-T1_mrna"; gene_id "gene-H2199_001172";
+JAPDRP010000003.1	Genbank	exon	409760	410299	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001172-T1_mrna"; gene_id "gene-H2199_001172";
+JAPDRP010000003.1	Genbank	exon	410359	410608	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001172-T1_mrna"; gene_id "gene-H2199_001172";
+JAPDRP010000003.1	Genbank	CDS	409391	409716	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001172-T1_mrna"; gene_id "gene-H2199_001172";
+JAPDRP010000003.1	Genbank	CDS	409760	410299	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001172-T1_mrna"; gene_id "gene-H2199_001172";
+JAPDRP010000003.1	Genbank	CDS	410359	410608	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001172-T1_mrna"; gene_id "gene-H2199_001172";
+JAPDRP010000003.1	Genbank	transcript	684051	686113	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001280-T1_mrna"; gene_id "gene-H2199_001280"; gene_name "RRN3"
+JAPDRP010000003.1	Genbank	exon	684051	684722	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001280-T1_mrna"; gene_id "gene-H2199_001280"; gene_name "RRN3";
+JAPDRP010000003.1	Genbank	exon	684746	685524	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001280-T1_mrna"; gene_id "gene-H2199_001280"; gene_name "RRN3";
+JAPDRP010000003.1	Genbank	exon	685573	686113	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001280-T1_mrna"; gene_id "gene-H2199_001280"; gene_name "RRN3";
+JAPDRP010000003.1	Genbank	CDS	684051	684722	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001280-T1_mrna"; gene_id "gene-H2199_001280"; gene_name "RRN3";
+JAPDRP010000003.1	Genbank	CDS	684746	685524	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001280-T1_mrna"; gene_id "gene-H2199_001280"; gene_name "RRN3";
+JAPDRP010000003.1	Genbank	CDS	685573	686113	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001280-T1_mrna"; gene_id "gene-H2199_001280"; gene_name "RRN3";
+JAPDRP010000003.1	Genbank	transcript	919927	921661	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001365-T1_mrna"; gene_id "gene-H2199_001365"; gene_name "PWP1"
+JAPDRP010000003.1	Genbank	exon	919927	920436	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001365-T1_mrna"; gene_id "gene-H2199_001365"; gene_name "PWP1";
+JAPDRP010000003.1	Genbank	exon	920486	921368	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001365-T1_mrna"; gene_id "gene-H2199_001365"; gene_name "PWP1";
+JAPDRP010000003.1	Genbank	exon	921426	921661	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001365-T1_mrna"; gene_id "gene-H2199_001365"; gene_name "PWP1";
+JAPDRP010000003.1	Genbank	CDS	919927	920436	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001365-T1_mrna"; gene_id "gene-H2199_001365"; gene_name "PWP1";
+JAPDRP010000003.1	Genbank	CDS	920486	921368	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001365-T1_mrna"; gene_id "gene-H2199_001365"; gene_name "PWP1";
+JAPDRP010000003.1	Genbank	CDS	921426	921661	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001365-T1_mrna"; gene_id "gene-H2199_001365"; gene_name "PWP1";
+JAPDRP010000003.1	Genbank	transcript	946995	948016	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001375-T1_mrna"; gene_id "gene-H2199_001375"; gene_name "RPP1"
+JAPDRP010000003.1	Genbank	exon	946995	947070	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001375-T1_mrna"; gene_id "gene-H2199_001375"; gene_name "RPP1";
+JAPDRP010000003.1	Genbank	exon	947120	947210	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001375-T1_mrna"; gene_id "gene-H2199_001375"; gene_name "RPP1";
+JAPDRP010000003.1	Genbank	exon	947269	948016	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001375-T1_mrna"; gene_id "gene-H2199_001375"; gene_name "RPP1";
+JAPDRP010000003.1	Genbank	CDS	946995	947070	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001375-T1_mrna"; gene_id "gene-H2199_001375"; gene_name "RPP1";
+JAPDRP010000003.1	Genbank	CDS	947120	947210	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001375-T1_mrna"; gene_id "gene-H2199_001375"; gene_name "RPP1";
+JAPDRP010000003.1	Genbank	CDS	947269	948016	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001375-T1_mrna"; gene_id "gene-H2199_001375"; gene_name "RPP1";
+JAPDRP010000003.1	Genbank	transcript	957651	958956	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001380-T1_mrna"; gene_id "gene-H2199_001380"
+JAPDRP010000003.1	Genbank	exon	957651	957753	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001380-T1_mrna"; gene_id "gene-H2199_001380";
+JAPDRP010000003.1	Genbank	exon	957813	958041	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001380-T1_mrna"; gene_id "gene-H2199_001380";
+JAPDRP010000003.1	Genbank	exon	958099	958519	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001380-T1_mrna"; gene_id "gene-H2199_001380";
+JAPDRP010000003.1	Genbank	exon	958567	958956	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001380-T1_mrna"; gene_id "gene-H2199_001380";
+JAPDRP010000003.1	Genbank	CDS	957651	957753	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001380-T1_mrna"; gene_id "gene-H2199_001380";
+JAPDRP010000003.1	Genbank	CDS	957813	958041	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001380-T1_mrna"; gene_id "gene-H2199_001380";
+JAPDRP010000003.1	Genbank	CDS	958099	958519	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001380-T1_mrna"; gene_id "gene-H2199_001380";
+JAPDRP010000003.1	Genbank	CDS	958567	958956	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001380-T1_mrna"; gene_id "gene-H2199_001380";
+JAPDRP010000003.1	Genbank	transcript	1013207	1013960	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001392-T1_mrna"; gene_id "gene-H2199_001392"; gene_name "TMA22"
+JAPDRP010000003.1	Genbank	exon	1013207	1013616	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001392-T1_mrna"; gene_id "gene-H2199_001392"; gene_name "TMA22";
+JAPDRP010000003.1	Genbank	exon	1013688	1013775	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001392-T1_mrna"; gene_id "gene-H2199_001392"; gene_name "TMA22";
+JAPDRP010000003.1	Genbank	exon	1013832	1013851	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001392-T1_mrna"; gene_id "gene-H2199_001392"; gene_name "TMA22";
+JAPDRP010000003.1	Genbank	exon	1013900	1013960	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001392-T1_mrna"; gene_id "gene-H2199_001392"; gene_name "TMA22";
+JAPDRP010000003.1	Genbank	CDS	1013207	1013616	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001392-T1_mrna"; gene_id "gene-H2199_001392"; gene_name "TMA22";
+JAPDRP010000003.1	Genbank	CDS	1013688	1013775	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001392-T1_mrna"; gene_id "gene-H2199_001392"; gene_name "TMA22";
+JAPDRP010000003.1	Genbank	CDS	1013832	1013851	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001392-T1_mrna"; gene_id "gene-H2199_001392"; gene_name "TMA22";
+JAPDRP010000003.1	Genbank	CDS	1013900	1013960	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001392-T1_mrna"; gene_id "gene-H2199_001392"; gene_name "TMA22";
+JAPDRP010000003.1	Genbank	transcript	1074039	1076620	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001411-T1_mrna"; gene_id "gene-H2199_001411"; gene_name "NOP14"
+JAPDRP010000003.1	Genbank	exon	1074039	1074323	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001411-T1_mrna"; gene_id "gene-H2199_001411"; gene_name "NOP14";
+JAPDRP010000003.1	Genbank	exon	1074381	1076268	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001411-T1_mrna"; gene_id "gene-H2199_001411"; gene_name "NOP14";
+JAPDRP010000003.1	Genbank	exon	1076346	1076620	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001411-T1_mrna"; gene_id "gene-H2199_001411"; gene_name "NOP14";
+JAPDRP010000003.1	Genbank	CDS	1074039	1074323	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001411-T1_mrna"; gene_id "gene-H2199_001411"; gene_name "NOP14";
+JAPDRP010000003.1	Genbank	CDS	1074381	1076268	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001411-T1_mrna"; gene_id "gene-H2199_001411"; gene_name "NOP14";
+JAPDRP010000003.1	Genbank	CDS	1076346	1076620	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001411-T1_mrna"; gene_id "gene-H2199_001411"; gene_name "NOP14";
+JAPDRP010000003.1	Genbank	transcript	1136010	1136762	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001432-T1_mrna"; gene_id "gene-H2199_001432"
+JAPDRP010000003.1	Genbank	exon	1136010	1136253	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001432-T1_mrna"; gene_id "gene-H2199_001432";
+JAPDRP010000003.1	Genbank	exon	1136350	1136462	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001432-T1_mrna"; gene_id "gene-H2199_001432";
+JAPDRP010000003.1	Genbank	exon	1136515	1136602	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001432-T1_mrna"; gene_id "gene-H2199_001432";
+JAPDRP010000003.1	Genbank	exon	1136659	1136762	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001432-T1_mrna"; gene_id "gene-H2199_001432";
+JAPDRP010000003.1	Genbank	CDS	1136010	1136253	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001432-T1_mrna"; gene_id "gene-H2199_001432";
+JAPDRP010000003.1	Genbank	CDS	1136350	1136462	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001432-T1_mrna"; gene_id "gene-H2199_001432";
+JAPDRP010000003.1	Genbank	CDS	1136515	1136602	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001432-T1_mrna"; gene_id "gene-H2199_001432";
+JAPDRP010000003.1	Genbank	CDS	1136659	1136762	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001432-T1_mrna"; gene_id "gene-H2199_001432";
+JAPDRP010000039.1	Genbank	transcript	90552	91284	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_009185-T1_mrna"; gene_id "gene-H2199_009185"
+JAPDRP010000039.1	Genbank	exon	90552	91113	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_009185-T1_mrna"; gene_id "gene-H2199_009185";
+JAPDRP010000039.1	Genbank	exon	91271	91284	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_009185-T1_mrna"; gene_id "gene-H2199_009185";
+JAPDRP010000039.1	Genbank	CDS	90552	91113	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_009185-T1_mrna"; gene_id "gene-H2199_009185";
+JAPDRP010000039.1	Genbank	CDS	91271	91284	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_009185-T1_mrna"; gene_id "gene-H2199_009185";
+JAPDRP010000004.1	Genbank	transcript	74399	75217	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001514-T1_mrna"; gene_id "gene-H2199_001514"; gene_name "GIR2"
+JAPDRP010000004.1	Genbank	exon	74399	74465	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001514-T1_mrna"; gene_id "gene-H2199_001514"; gene_name "GIR2";
+JAPDRP010000004.1	Genbank	exon	74543	74617	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001514-T1_mrna"; gene_id "gene-H2199_001514"; gene_name "GIR2";
+JAPDRP010000004.1	Genbank	exon	74658	75217	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001514-T1_mrna"; gene_id "gene-H2199_001514"; gene_name "GIR2";
+JAPDRP010000004.1	Genbank	CDS	74399	74465	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001514-T1_mrna"; gene_id "gene-H2199_001514"; gene_name "GIR2";
+JAPDRP010000004.1	Genbank	CDS	74543	74617	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001514-T1_mrna"; gene_id "gene-H2199_001514"; gene_name "GIR2";
+JAPDRP010000004.1	Genbank	CDS	74658	75217	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001514-T1_mrna"; gene_id "gene-H2199_001514"; gene_name "GIR2";
+JAPDRP010000004.1	Genbank	transcript	223954	226936	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001567-T1_mrna"; gene_id "gene-H2199_001567"
+JAPDRP010000004.1	Genbank	exon	223954	224658	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001567-T1_mrna"; gene_id "gene-H2199_001567";
+JAPDRP010000004.1	Genbank	exon	224712	224725	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001567-T1_mrna"; gene_id "gene-H2199_001567";
+JAPDRP010000004.1	Genbank	exon	225220	226936	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001567-T1_mrna"; gene_id "gene-H2199_001567";
+JAPDRP010000004.1	Genbank	CDS	223954	224658	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001567-T1_mrna"; gene_id "gene-H2199_001567";
+JAPDRP010000004.1	Genbank	CDS	224712	224725	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001567-T1_mrna"; gene_id "gene-H2199_001567";
+JAPDRP010000004.1	Genbank	CDS	225220	226936	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001567-T1_mrna"; gene_id "gene-H2199_001567";
+JAPDRP010000004.1	Genbank	transcript	287392	290148	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001587-T1_mrna"; gene_id "gene-H2199_001587"; gene_name "MAK21"
+JAPDRP010000004.1	Genbank	exon	287392	287532	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001587-T1_mrna"; gene_id "gene-H2199_001587"; gene_name "MAK21";
+JAPDRP010000004.1	Genbank	exon	287588	289473	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001587-T1_mrna"; gene_id "gene-H2199_001587"; gene_name "MAK21";
+JAPDRP010000004.1	Genbank	exon	289527	290148	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001587-T1_mrna"; gene_id "gene-H2199_001587"; gene_name "MAK21";
+JAPDRP010000004.1	Genbank	CDS	287392	287532	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001587-T1_mrna"; gene_id "gene-H2199_001587"; gene_name "MAK21";
+JAPDRP010000004.1	Genbank	CDS	287588	289473	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001587-T1_mrna"; gene_id "gene-H2199_001587"; gene_name "MAK21";
+JAPDRP010000004.1	Genbank	CDS	289527	290148	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001587-T1_mrna"; gene_id "gene-H2199_001587"; gene_name "MAK21";
+JAPDRP010000004.1	Genbank	transcript	349054	350724	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001605-T1_mrna"; gene_id "gene-H2199_001605"
+JAPDRP010000004.1	Genbank	exon	349054	349316	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001605-T1_mrna"; gene_id "gene-H2199_001605";
+JAPDRP010000004.1	Genbank	exon	349367	349749	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001605-T1_mrna"; gene_id "gene-H2199_001605";
+JAPDRP010000004.1	Genbank	exon	349835	350136	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001605-T1_mrna"; gene_id "gene-H2199_001605";
+JAPDRP010000004.1	Genbank	exon	350166	350288	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001605-T1_mrna"; gene_id "gene-H2199_001605";
+JAPDRP010000004.1	Genbank	exon	350335	350724	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001605-T1_mrna"; gene_id "gene-H2199_001605";
+JAPDRP010000004.1	Genbank	CDS	349054	349316	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001605-T1_mrna"; gene_id "gene-H2199_001605";
+JAPDRP010000004.1	Genbank	CDS	349367	349749	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001605-T1_mrna"; gene_id "gene-H2199_001605";
+JAPDRP010000004.1	Genbank	CDS	349835	350136	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001605-T1_mrna"; gene_id "gene-H2199_001605";
+JAPDRP010000004.1	Genbank	CDS	350166	350288	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001605-T1_mrna"; gene_id "gene-H2199_001605";
+JAPDRP010000004.1	Genbank	CDS	350335	350724	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001605-T1_mrna"; gene_id "gene-H2199_001605";
+JAPDRP010000004.1	Genbank	transcript	396376	397228	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001624-T1_mrna"; gene_id "gene-H2199_001624"; gene_name "TMA20"
+JAPDRP010000004.1	Genbank	exon	396376	396389	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001624-T1_mrna"; gene_id "gene-H2199_001624"; gene_name "TMA20";
+JAPDRP010000004.1	Genbank	exon	396445	396577	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001624-T1_mrna"; gene_id "gene-H2199_001624"; gene_name "TMA20";
+JAPDRP010000004.1	Genbank	exon	396719	397228	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001624-T1_mrna"; gene_id "gene-H2199_001624"; gene_name "TMA20";
+JAPDRP010000004.1	Genbank	CDS	396376	396389	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001624-T1_mrna"; gene_id "gene-H2199_001624"; gene_name "TMA20";
+JAPDRP010000004.1	Genbank	CDS	396445	396577	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001624-T1_mrna"; gene_id "gene-H2199_001624"; gene_name "TMA20";
+JAPDRP010000004.1	Genbank	CDS	396719	397228	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001624-T1_mrna"; gene_id "gene-H2199_001624"; gene_name "TMA20";
+JAPDRP010000004.1	Genbank	transcript	419833	422725	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001636-T1_mrna"; gene_id "gene-H2199_001636"
+JAPDRP010000004.1	Genbank	exon	419833	420132	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001636-T1_mrna"; gene_id "gene-H2199_001636";
+JAPDRP010000004.1	Genbank	exon	420184	420904	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001636-T1_mrna"; gene_id "gene-H2199_001636";
+JAPDRP010000004.1	Genbank	exon	421524	422096	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001636-T1_mrna"; gene_id "gene-H2199_001636";
+JAPDRP010000004.1	Genbank	exon	422152	422621	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001636-T1_mrna"; gene_id "gene-H2199_001636";
+JAPDRP010000004.1	Genbank	exon	422672	422725	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001636-T1_mrna"; gene_id "gene-H2199_001636";
+JAPDRP010000004.1	Genbank	CDS	419833	420132	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001636-T1_mrna"; gene_id "gene-H2199_001636";
+JAPDRP010000004.1	Genbank	CDS	420184	420904	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001636-T1_mrna"; gene_id "gene-H2199_001636";
+JAPDRP010000004.1	Genbank	CDS	421524	422096	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001636-T1_mrna"; gene_id "gene-H2199_001636";
+JAPDRP010000004.1	Genbank	CDS	422152	422621	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001636-T1_mrna"; gene_id "gene-H2199_001636";
+JAPDRP010000004.1	Genbank	CDS	422672	422725	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001636-T1_mrna"; gene_id "gene-H2199_001636";
+JAPDRP010000004.1	Genbank	transcript	455856	457031	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001646-T1_mrna"; gene_id "gene-H2199_001646"
+JAPDRP010000004.1	Genbank	exon	455856	457031	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001646-T1_mrna"; gene_id "gene-H2199_001646";
+JAPDRP010000004.1	Genbank	CDS	455856	457031	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001646-T1_mrna"; gene_id "gene-H2199_001646";
+JAPDRP010000004.1	Genbank	transcript	510630	514070	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001662-T1_mrna"; gene_id "gene-H2199_001662"; gene_name "HIR1"
+JAPDRP010000004.1	Genbank	exon	510630	510666	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001662-T1_mrna"; gene_id "gene-H2199_001662"; gene_name "HIR1";
+JAPDRP010000004.1	Genbank	exon	510899	511117	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001662-T1_mrna"; gene_id "gene-H2199_001662"; gene_name "HIR1";
+JAPDRP010000004.1	Genbank	exon	511171	511506	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001662-T1_mrna"; gene_id "gene-H2199_001662"; gene_name "HIR1";
+JAPDRP010000004.1	Genbank	exon	511571	512705	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001662-T1_mrna"; gene_id "gene-H2199_001662"; gene_name "HIR1";
+JAPDRP010000004.1	Genbank	exon	512771	513894	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001662-T1_mrna"; gene_id "gene-H2199_001662"; gene_name "HIR1";
+JAPDRP010000004.1	Genbank	exon	513976	514070	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001662-T1_mrna"; gene_id "gene-H2199_001662"; gene_name "HIR1";
+JAPDRP010000004.1	Genbank	CDS	510630	510666	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001662-T1_mrna"; gene_id "gene-H2199_001662"; gene_name "HIR1";
+JAPDRP010000004.1	Genbank	CDS	510899	511117	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001662-T1_mrna"; gene_id "gene-H2199_001662"; gene_name "HIR1";
+JAPDRP010000004.1	Genbank	CDS	511171	511506	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001662-T1_mrna"; gene_id "gene-H2199_001662"; gene_name "HIR1";
+JAPDRP010000004.1	Genbank	CDS	511571	512705	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001662-T1_mrna"; gene_id "gene-H2199_001662"; gene_name "HIR1";
+JAPDRP010000004.1	Genbank	CDS	512771	513894	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001662-T1_mrna"; gene_id "gene-H2199_001662"; gene_name "HIR1";
+JAPDRP010000004.1	Genbank	CDS	513976	514070	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001662-T1_mrna"; gene_id "gene-H2199_001662"; gene_name "HIR1";
+JAPDRP010000004.1	Genbank	transcript	516356	517840	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001664-T1_mrna"; gene_id "gene-H2199_001664"; gene_name "GCV1"
+JAPDRP010000004.1	Genbank	exon	516356	517385	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001664-T1_mrna"; gene_id "gene-H2199_001664"; gene_name "GCV1";
+JAPDRP010000004.1	Genbank	exon	517461	517840	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001664-T1_mrna"; gene_id "gene-H2199_001664"; gene_name "GCV1";
+JAPDRP010000004.1	Genbank	CDS	516356	517385	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001664-T1_mrna"; gene_id "gene-H2199_001664"; gene_name "GCV1";
+JAPDRP010000004.1	Genbank	CDS	517461	517840	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001664-T1_mrna"; gene_id "gene-H2199_001664"; gene_name "GCV1";
+JAPDRP010000004.1	Genbank	transcript	587588	589993	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001693-T1_mrna"; gene_id "gene-H2199_001693"; gene_name "ERB1"
+JAPDRP010000004.1	Genbank	exon	587588	589993	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001693-T1_mrna"; gene_id "gene-H2199_001693"; gene_name "ERB1";
+JAPDRP010000004.1	Genbank	CDS	587588	589993	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001693-T1_mrna"; gene_id "gene-H2199_001693"; gene_name "ERB1";
+JAPDRP010000004.1	Genbank	transcript	677275	678363	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001725-T1_mrna"; gene_id "gene-H2199_001725"; gene_name "TMA46"
+JAPDRP010000004.1	Genbank	exon	677275	677740	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001725-T1_mrna"; gene_id "gene-H2199_001725"; gene_name "TMA46";
+JAPDRP010000004.1	Genbank	exon	677807	678363	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001725-T1_mrna"; gene_id "gene-H2199_001725"; gene_name "TMA46";
+JAPDRP010000004.1	Genbank	CDS	677275	677740	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001725-T1_mrna"; gene_id "gene-H2199_001725"; gene_name "TMA46";
+JAPDRP010000004.1	Genbank	CDS	677807	678363	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001725-T1_mrna"; gene_id "gene-H2199_001725"; gene_name "TMA46";
+JAPDRP010000004.1	Genbank	transcript	775489	778819	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001761-T1_mrna"; gene_id "gene-H2199_001761"; gene_name "VPS11"
+JAPDRP010000004.1	Genbank	exon	775489	775875	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001761-T1_mrna"; gene_id "gene-H2199_001761"; gene_name "VPS11";
+JAPDRP010000004.1	Genbank	exon	775925	776323	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001761-T1_mrna"; gene_id "gene-H2199_001761"; gene_name "VPS11";
+JAPDRP010000004.1	Genbank	exon	776376	776921	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001761-T1_mrna"; gene_id "gene-H2199_001761"; gene_name "VPS11";
+JAPDRP010000004.1	Genbank	exon	776972	777307	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001761-T1_mrna"; gene_id "gene-H2199_001761"; gene_name "VPS11";
+JAPDRP010000004.1	Genbank	exon	777367	777600	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001761-T1_mrna"; gene_id "gene-H2199_001761"; gene_name "VPS11";
+JAPDRP010000004.1	Genbank	exon	777650	778285	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001761-T1_mrna"; gene_id "gene-H2199_001761"; gene_name "VPS11";
+JAPDRP010000004.1	Genbank	exon	778334	778633	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001761-T1_mrna"; gene_id "gene-H2199_001761"; gene_name "VPS11";
+JAPDRP010000004.1	Genbank	exon	778681	778752	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001761-T1_mrna"; gene_id "gene-H2199_001761"; gene_name "VPS11";
+JAPDRP010000004.1	Genbank	exon	778805	778819	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001761-T1_mrna"; gene_id "gene-H2199_001761"; gene_name "VPS11";
+JAPDRP010000004.1	Genbank	CDS	775489	775875	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001761-T1_mrna"; gene_id "gene-H2199_001761"; gene_name "VPS11";
+JAPDRP010000004.1	Genbank	CDS	775925	776323	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001761-T1_mrna"; gene_id "gene-H2199_001761"; gene_name "VPS11";
+JAPDRP010000004.1	Genbank	CDS	776376	776921	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001761-T1_mrna"; gene_id "gene-H2199_001761"; gene_name "VPS11";
+JAPDRP010000004.1	Genbank	CDS	776972	777307	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001761-T1_mrna"; gene_id "gene-H2199_001761"; gene_name "VPS11";
+JAPDRP010000004.1	Genbank	CDS	777367	777600	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001761-T1_mrna"; gene_id "gene-H2199_001761"; gene_name "VPS11";
+JAPDRP010000004.1	Genbank	CDS	777650	778285	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001761-T1_mrna"; gene_id "gene-H2199_001761"; gene_name "VPS11";
+JAPDRP010000004.1	Genbank	CDS	778334	778633	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001761-T1_mrna"; gene_id "gene-H2199_001761"; gene_name "VPS11";
+JAPDRP010000004.1	Genbank	CDS	778681	778752	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001761-T1_mrna"; gene_id "gene-H2199_001761"; gene_name "VPS11";
+JAPDRP010000004.1	Genbank	CDS	778805	778819	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001761-T1_mrna"; gene_id "gene-H2199_001761"; gene_name "VPS11";
+JAPDRP010000004.1	Genbank	transcript	900382	900847	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001788-T1_mrna"; gene_id "gene-H2199_001788"; gene_name "PSF1_2"
+JAPDRP010000004.1	Genbank	exon	900382	900734	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001788-T1_mrna"; gene_id "gene-H2199_001788"; gene_name "PSF1_2";
+JAPDRP010000004.1	Genbank	exon	900829	900847	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001788-T1_mrna"; gene_id "gene-H2199_001788"; gene_name "PSF1_2";
+JAPDRP010000004.1	Genbank	CDS	900382	900734	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001788-T1_mrna"; gene_id "gene-H2199_001788"; gene_name "PSF1_2";
+JAPDRP010000004.1	Genbank	CDS	900829	900847	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001788-T1_mrna"; gene_id "gene-H2199_001788"; gene_name "PSF1_2";
+JAPDRP010000004.1	Genbank	transcript	1000430	1002043	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001820-T1_mrna"; gene_id "gene-H2199_001820"; gene_name "PRP46"
+JAPDRP010000004.1	Genbank	exon	1000430	1001684	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001820-T1_mrna"; gene_id "gene-H2199_001820"; gene_name "PRP46";
+JAPDRP010000004.1	Genbank	exon	1001738	1001902	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001820-T1_mrna"; gene_id "gene-H2199_001820"; gene_name "PRP46";
+JAPDRP010000004.1	Genbank	exon	1001958	1002043	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001820-T1_mrna"; gene_id "gene-H2199_001820"; gene_name "PRP46";
+JAPDRP010000004.1	Genbank	CDS	1000430	1001684	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001820-T1_mrna"; gene_id "gene-H2199_001820"; gene_name "PRP46";
+JAPDRP010000004.1	Genbank	CDS	1001738	1001902	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001820-T1_mrna"; gene_id "gene-H2199_001820"; gene_name "PRP46";
+JAPDRP010000004.1	Genbank	CDS	1001958	1002043	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_001820-T1_mrna"; gene_id "gene-H2199_001820"; gene_name "PRP46";
+JAPDRP010000005.1	Genbank	transcript	402375	403163	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002066-T1_mrna"; gene_id "gene-H2199_002066"; gene_name "GAR1_2"
+JAPDRP010000005.1	Genbank	exon	402375	402807	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002066-T1_mrna"; gene_id "gene-H2199_002066"; gene_name "GAR1_2";
+JAPDRP010000005.1	Genbank	exon	402863	403008	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002066-T1_mrna"; gene_id "gene-H2199_002066"; gene_name "GAR1_2";
+JAPDRP010000005.1	Genbank	exon	403128	403163	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002066-T1_mrna"; gene_id "gene-H2199_002066"; gene_name "GAR1_2";
+JAPDRP010000005.1	Genbank	CDS	402375	402807	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002066-T1_mrna"; gene_id "gene-H2199_002066"; gene_name "GAR1_2";
+JAPDRP010000005.1	Genbank	CDS	402863	403008	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002066-T1_mrna"; gene_id "gene-H2199_002066"; gene_name "GAR1_2";
+JAPDRP010000005.1	Genbank	CDS	403128	403163	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002066-T1_mrna"; gene_id "gene-H2199_002066"; gene_name "GAR1_2";
+JAPDRP010000005.1	Genbank	transcript	545624	548416	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002117-T1_mrna"; gene_id "gene-H2199_002117"
+JAPDRP010000005.1	Genbank	exon	545624	546391	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002117-T1_mrna"; gene_id "gene-H2199_002117";
+JAPDRP010000005.1	Genbank	exon	546403	547089	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002117-T1_mrna"; gene_id "gene-H2199_002117";
+JAPDRP010000005.1	Genbank	exon	547148	547873	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002117-T1_mrna"; gene_id "gene-H2199_002117";
+JAPDRP010000005.1	Genbank	exon	547921	547998	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002117-T1_mrna"; gene_id "gene-H2199_002117";
+JAPDRP010000005.1	Genbank	exon	548051	548416	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002117-T1_mrna"; gene_id "gene-H2199_002117";
+JAPDRP010000005.1	Genbank	CDS	545624	546391	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002117-T1_mrna"; gene_id "gene-H2199_002117";
+JAPDRP010000005.1	Genbank	CDS	546403	547089	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002117-T1_mrna"; gene_id "gene-H2199_002117";
+JAPDRP010000005.1	Genbank	CDS	547148	547873	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002117-T1_mrna"; gene_id "gene-H2199_002117";
+JAPDRP010000005.1	Genbank	CDS	547921	547998	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002117-T1_mrna"; gene_id "gene-H2199_002117";
+JAPDRP010000005.1	Genbank	CDS	548051	548416	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002117-T1_mrna"; gene_id "gene-H2199_002117";
+JAPDRP010000005.1	Genbank	transcript	582362	583548	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002129-T1_mrna"; gene_id "gene-H2199_002129"; gene_name "TSR3"
+JAPDRP010000005.1	Genbank	exon	582362	583064	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002129-T1_mrna"; gene_id "gene-H2199_002129"; gene_name "TSR3";
+JAPDRP010000005.1	Genbank	exon	583118	583548	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002129-T1_mrna"; gene_id "gene-H2199_002129"; gene_name "TSR3";
+JAPDRP010000005.1	Genbank	CDS	582362	583064	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002129-T1_mrna"; gene_id "gene-H2199_002129"; gene_name "TSR3";
+JAPDRP010000005.1	Genbank	CDS	583118	583548	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002129-T1_mrna"; gene_id "gene-H2199_002129"; gene_name "TSR3";
+JAPDRP010000005.1	Genbank	transcript	684508	685902	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002170-T1_mrna"; gene_id "gene-H2199_002170"; gene_name "COG5"
+JAPDRP010000005.1	Genbank	exon	684508	685902	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002170-T1_mrna"; gene_id "gene-H2199_002170"; gene_name "COG5";
+JAPDRP010000005.1	Genbank	CDS	684508	685902	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002170-T1_mrna"; gene_id "gene-H2199_002170"; gene_name "COG5";
+JAPDRP010000005.1	Genbank	transcript	754503	757205	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002193-T1_mrna"; gene_id "gene-H2199_002193"; gene_name "COG3"
+JAPDRP010000005.1	Genbank	exon	754503	754595	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002193-T1_mrna"; gene_id "gene-H2199_002193"; gene_name "COG3";
+JAPDRP010000005.1	Genbank	exon	754648	754934	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002193-T1_mrna"; gene_id "gene-H2199_002193"; gene_name "COG3";
+JAPDRP010000005.1	Genbank	exon	755004	756360	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002193-T1_mrna"; gene_id "gene-H2199_002193"; gene_name "COG3";
+JAPDRP010000005.1	Genbank	exon	756417	757205	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002193-T1_mrna"; gene_id "gene-H2199_002193"; gene_name "COG3";
+JAPDRP010000005.1	Genbank	CDS	754503	754595	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002193-T1_mrna"; gene_id "gene-H2199_002193"; gene_name "COG3";
+JAPDRP010000005.1	Genbank	CDS	754648	754934	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002193-T1_mrna"; gene_id "gene-H2199_002193"; gene_name "COG3";
+JAPDRP010000005.1	Genbank	CDS	755004	756360	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002193-T1_mrna"; gene_id "gene-H2199_002193"; gene_name "COG3";
+JAPDRP010000005.1	Genbank	CDS	756417	757205	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002193-T1_mrna"; gene_id "gene-H2199_002193"; gene_name "COG3";
+JAPDRP010000006.1	Genbank	transcript	159943	161785	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002401-T1_mrna"; gene_id "gene-H2199_002401"; gene_name "cyp6"
+JAPDRP010000006.1	Genbank	exon	159943	160022	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002401-T1_mrna"; gene_id "gene-H2199_002401"; gene_name "cyp6";
+JAPDRP010000006.1	Genbank	exon	160110	160695	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002401-T1_mrna"; gene_id "gene-H2199_002401"; gene_name "cyp6";
+JAPDRP010000006.1	Genbank	exon	160879	160963	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002401-T1_mrna"; gene_id "gene-H2199_002401"; gene_name "cyp6";
+JAPDRP010000006.1	Genbank	exon	161046	161785	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002401-T1_mrna"; gene_id "gene-H2199_002401"; gene_name "cyp6";
+JAPDRP010000006.1	Genbank	CDS	159943	160022	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002401-T1_mrna"; gene_id "gene-H2199_002401"; gene_name "cyp6";
+JAPDRP010000006.1	Genbank	CDS	160110	160695	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002401-T1_mrna"; gene_id "gene-H2199_002401"; gene_name "cyp6";
+JAPDRP010000006.1	Genbank	CDS	160879	160963	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002401-T1_mrna"; gene_id "gene-H2199_002401"; gene_name "cyp6";
+JAPDRP010000006.1	Genbank	CDS	161046	161785	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002401-T1_mrna"; gene_id "gene-H2199_002401"; gene_name "cyp6";
+JAPDRP010000006.1	Genbank	transcript	323135	324968	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002439-T1_mrna"; gene_id "gene-H2199_002439"; gene_name "CSN12"
+JAPDRP010000006.1	Genbank	exon	323135	323221	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002439-T1_mrna"; gene_id "gene-H2199_002439"; gene_name "CSN12";
+JAPDRP010000006.1	Genbank	exon	323411	323825	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002439-T1_mrna"; gene_id "gene-H2199_002439"; gene_name "CSN12";
+JAPDRP010000006.1	Genbank	exon	323915	323976	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002439-T1_mrna"; gene_id "gene-H2199_002439"; gene_name "CSN12";
+JAPDRP010000006.1	Genbank	exon	324031	324319	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002439-T1_mrna"; gene_id "gene-H2199_002439"; gene_name "CSN12";
+JAPDRP010000006.1	Genbank	exon	324379	324968	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002439-T1_mrna"; gene_id "gene-H2199_002439"; gene_name "CSN12";
+JAPDRP010000006.1	Genbank	CDS	323135	323221	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002439-T1_mrna"; gene_id "gene-H2199_002439"; gene_name "CSN12";
+JAPDRP010000006.1	Genbank	CDS	323411	323825	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002439-T1_mrna"; gene_id "gene-H2199_002439"; gene_name "CSN12";
+JAPDRP010000006.1	Genbank	CDS	323915	323976	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002439-T1_mrna"; gene_id "gene-H2199_002439"; gene_name "CSN12";
+JAPDRP010000006.1	Genbank	CDS	324031	324319	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002439-T1_mrna"; gene_id "gene-H2199_002439"; gene_name "CSN12";
+JAPDRP010000006.1	Genbank	CDS	324379	324968	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002439-T1_mrna"; gene_id "gene-H2199_002439"; gene_name "CSN12";
+JAPDRP010000006.1	Genbank	transcript	401943	402696	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002462-T1_mrna"; gene_id "gene-H2199_002462"
+JAPDRP010000006.1	Genbank	exon	401943	402055	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002462-T1_mrna"; gene_id "gene-H2199_002462";
+JAPDRP010000006.1	Genbank	exon	402111	402696	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002462-T1_mrna"; gene_id "gene-H2199_002462";
+JAPDRP010000006.1	Genbank	CDS	401943	402055	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002462-T1_mrna"; gene_id "gene-H2199_002462";
+JAPDRP010000006.1	Genbank	CDS	402111	402696	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002462-T1_mrna"; gene_id "gene-H2199_002462";
+JAPDRP010000006.1	Genbank	transcript	470206	471804	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002494-T1_mrna"; gene_id "gene-H2199_002494"
+JAPDRP010000006.1	Genbank	exon	470206	471804	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002494-T1_mrna"; gene_id "gene-H2199_002494";
+JAPDRP010000006.1	Genbank	CDS	470206	471804	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002494-T1_mrna"; gene_id "gene-H2199_002494";
+JAPDRP010000006.1	Genbank	transcript	771529	774377	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002599-T1_mrna"; gene_id "gene-H2199_002599"; gene_name "SEC10"
+JAPDRP010000006.1	Genbank	exon	771529	771642	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002599-T1_mrna"; gene_id "gene-H2199_002599"; gene_name "SEC10";
+JAPDRP010000006.1	Genbank	exon	771703	772440	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002599-T1_mrna"; gene_id "gene-H2199_002599"; gene_name "SEC10";
+JAPDRP010000006.1	Genbank	exon	772501	772628	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002599-T1_mrna"; gene_id "gene-H2199_002599"; gene_name "SEC10";
+JAPDRP010000006.1	Genbank	exon	772687	772861	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002599-T1_mrna"; gene_id "gene-H2199_002599"; gene_name "SEC10";
+JAPDRP010000006.1	Genbank	exon	772908	773201	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002599-T1_mrna"; gene_id "gene-H2199_002599"; gene_name "SEC10";
+JAPDRP010000006.1	Genbank	exon	773253	774377	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002599-T1_mrna"; gene_id "gene-H2199_002599"; gene_name "SEC10";
+JAPDRP010000006.1	Genbank	CDS	771529	771642	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002599-T1_mrna"; gene_id "gene-H2199_002599"; gene_name "SEC10";
+JAPDRP010000006.1	Genbank	CDS	771703	772440	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002599-T1_mrna"; gene_id "gene-H2199_002599"; gene_name "SEC10";
+JAPDRP010000006.1	Genbank	CDS	772501	772628	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002599-T1_mrna"; gene_id "gene-H2199_002599"; gene_name "SEC10";
+JAPDRP010000006.1	Genbank	CDS	772687	772861	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002599-T1_mrna"; gene_id "gene-H2199_002599"; gene_name "SEC10";
+JAPDRP010000006.1	Genbank	CDS	772908	773201	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002599-T1_mrna"; gene_id "gene-H2199_002599"; gene_name "SEC10";
+JAPDRP010000006.1	Genbank	CDS	773253	774377	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002599-T1_mrna"; gene_id "gene-H2199_002599"; gene_name "SEC10";
+JAPDRP010000006.1	Genbank	transcript	794455	795485	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002610-T1_mrna"; gene_id "gene-H2199_002610"
+JAPDRP010000006.1	Genbank	exon	794455	795249	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002610-T1_mrna"; gene_id "gene-H2199_002610";
+JAPDRP010000006.1	Genbank	exon	795308	795405	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002610-T1_mrna"; gene_id "gene-H2199_002610";
+JAPDRP010000006.1	Genbank	exon	795464	795485	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002610-T1_mrna"; gene_id "gene-H2199_002610";
+JAPDRP010000006.1	Genbank	CDS	794455	795249	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002610-T1_mrna"; gene_id "gene-H2199_002610";
+JAPDRP010000006.1	Genbank	CDS	795308	795405	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002610-T1_mrna"; gene_id "gene-H2199_002610";
+JAPDRP010000006.1	Genbank	CDS	795464	795485	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002610-T1_mrna"; gene_id "gene-H2199_002610";
+JAPDRP010000006.1	Genbank	transcript	898982	899975	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002650-T1_mrna"; gene_id "gene-H2199_002650"; gene_name "rpc25"
+JAPDRP010000006.1	Genbank	exon	898982	899098	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002650-T1_mrna"; gene_id "gene-H2199_002650"; gene_name "rpc25";
+JAPDRP010000006.1	Genbank	exon	899149	899332	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002650-T1_mrna"; gene_id "gene-H2199_002650"; gene_name "rpc25";
+JAPDRP010000006.1	Genbank	exon	899393	899456	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002650-T1_mrna"; gene_id "gene-H2199_002650"; gene_name "rpc25";
+JAPDRP010000006.1	Genbank	exon	899527	899809	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002650-T1_mrna"; gene_id "gene-H2199_002650"; gene_name "rpc25";
+JAPDRP010000006.1	Genbank	exon	899964	899975	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002650-T1_mrna"; gene_id "gene-H2199_002650"; gene_name "rpc25";
+JAPDRP010000006.1	Genbank	CDS	898982	899098	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002650-T1_mrna"; gene_id "gene-H2199_002650"; gene_name "rpc25";
+JAPDRP010000006.1	Genbank	CDS	899149	899332	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002650-T1_mrna"; gene_id "gene-H2199_002650"; gene_name "rpc25";
+JAPDRP010000006.1	Genbank	CDS	899393	899456	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002650-T1_mrna"; gene_id "gene-H2199_002650"; gene_name "rpc25";
+JAPDRP010000006.1	Genbank	CDS	899527	899809	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002650-T1_mrna"; gene_id "gene-H2199_002650"; gene_name "rpc25";
+JAPDRP010000006.1	Genbank	CDS	899964	899975	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002650-T1_mrna"; gene_id "gene-H2199_002650"; gene_name "rpc25";
+JAPDRP010000006.1	Genbank	transcript	941890	943292	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002668-T1_mrna"; gene_id "gene-H2199_002668"
+JAPDRP010000006.1	Genbank	exon	941890	943010	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002668-T1_mrna"; gene_id "gene-H2199_002668";
+JAPDRP010000006.1	Genbank	exon	943145	943292	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002668-T1_mrna"; gene_id "gene-H2199_002668";
+JAPDRP010000006.1	Genbank	CDS	941890	943010	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002668-T1_mrna"; gene_id "gene-H2199_002668";
+JAPDRP010000006.1	Genbank	CDS	943145	943292	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002668-T1_mrna"; gene_id "gene-H2199_002668";
+JAPDRP010000006.1	Genbank	transcript	967501	969296	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002678-T1_mrna"; gene_id "gene-H2199_002678"
+JAPDRP010000006.1	Genbank	exon	967501	969002	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002678-T1_mrna"; gene_id "gene-H2199_002678";
+JAPDRP010000006.1	Genbank	exon	969072	969105	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002678-T1_mrna"; gene_id "gene-H2199_002678";
+JAPDRP010000006.1	Genbank	exon	969249	969296	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002678-T1_mrna"; gene_id "gene-H2199_002678";
+JAPDRP010000006.1	Genbank	CDS	967501	969002	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002678-T1_mrna"; gene_id "gene-H2199_002678";
+JAPDRP010000006.1	Genbank	CDS	969072	969105	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002678-T1_mrna"; gene_id "gene-H2199_002678";
+JAPDRP010000006.1	Genbank	CDS	969249	969296	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002678-T1_mrna"; gene_id "gene-H2199_002678";
+JAPDRP010000006.1	Genbank	transcript	974291	975406	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002681-T1_mrna"; gene_id "gene-H2199_002681"; gene_name "NSA2"
+JAPDRP010000006.1	Genbank	exon	974291	974306	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002681-T1_mrna"; gene_id "gene-H2199_002681"; gene_name "NSA2";
+JAPDRP010000006.1	Genbank	exon	974367	974473	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002681-T1_mrna"; gene_id "gene-H2199_002681"; gene_name "NSA2";
+JAPDRP010000006.1	Genbank	exon	974530	974667	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002681-T1_mrna"; gene_id "gene-H2199_002681"; gene_name "NSA2";
+JAPDRP010000006.1	Genbank	exon	974729	974790	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002681-T1_mrna"; gene_id "gene-H2199_002681"; gene_name "NSA2";
+JAPDRP010000006.1	Genbank	exon	974842	975160	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002681-T1_mrna"; gene_id "gene-H2199_002681"; gene_name "NSA2";
+JAPDRP010000006.1	Genbank	exon	975216	975329	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002681-T1_mrna"; gene_id "gene-H2199_002681"; gene_name "NSA2";
+JAPDRP010000006.1	Genbank	exon	975350	975406	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002681-T1_mrna"; gene_id "gene-H2199_002681"; gene_name "NSA2";
+JAPDRP010000006.1	Genbank	CDS	974291	974306	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002681-T1_mrna"; gene_id "gene-H2199_002681"; gene_name "NSA2";
+JAPDRP010000006.1	Genbank	CDS	974367	974473	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002681-T1_mrna"; gene_id "gene-H2199_002681"; gene_name "NSA2";
+JAPDRP010000006.1	Genbank	CDS	974530	974667	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002681-T1_mrna"; gene_id "gene-H2199_002681"; gene_name "NSA2";
+JAPDRP010000006.1	Genbank	CDS	974729	974790	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002681-T1_mrna"; gene_id "gene-H2199_002681"; gene_name "NSA2";
+JAPDRP010000006.1	Genbank	CDS	974842	975160	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002681-T1_mrna"; gene_id "gene-H2199_002681"; gene_name "NSA2";
+JAPDRP010000006.1	Genbank	CDS	975216	975329	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002681-T1_mrna"; gene_id "gene-H2199_002681"; gene_name "NSA2";
+JAPDRP010000006.1	Genbank	CDS	975350	975406	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002681-T1_mrna"; gene_id "gene-H2199_002681"; gene_name "NSA2";
+JAPDRP010000007.1	Genbank	transcript	639766	640741	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002906-T1_mrna"; gene_id "gene-H2199_002906"; gene_name "CWC26"
+JAPDRP010000007.1	Genbank	exon	639766	640245	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002906-T1_mrna"; gene_id "gene-H2199_002906"; gene_name "CWC26";
+JAPDRP010000007.1	Genbank	exon	640275	640432	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002906-T1_mrna"; gene_id "gene-H2199_002906"; gene_name "CWC26";
+JAPDRP010000007.1	Genbank	exon	640549	640741	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002906-T1_mrna"; gene_id "gene-H2199_002906"; gene_name "CWC26";
+JAPDRP010000007.1	Genbank	CDS	639766	640245	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002906-T1_mrna"; gene_id "gene-H2199_002906"; gene_name "CWC26";
+JAPDRP010000007.1	Genbank	CDS	640275	640432	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002906-T1_mrna"; gene_id "gene-H2199_002906"; gene_name "CWC26";
+JAPDRP010000007.1	Genbank	CDS	640549	640741	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_002906-T1_mrna"; gene_id "gene-H2199_002906"; gene_name "CWC26";
+JAPDRP010000008.1	Genbank	transcript	165543	168391	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003103-T1_mrna"; gene_id "gene-H2199_003103"; gene_name "utp13"
+JAPDRP010000008.1	Genbank	exon	165543	166124	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003103-T1_mrna"; gene_id "gene-H2199_003103"; gene_name "utp13";
+JAPDRP010000008.1	Genbank	exon	166175	166746	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003103-T1_mrna"; gene_id "gene-H2199_003103"; gene_name "utp13";
+JAPDRP010000008.1	Genbank	exon	166835	168076	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003103-T1_mrna"; gene_id "gene-H2199_003103"; gene_name "utp13";
+JAPDRP010000008.1	Genbank	exon	168125	168152	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003103-T1_mrna"; gene_id "gene-H2199_003103"; gene_name "utp13";
+JAPDRP010000008.1	Genbank	exon	168215	168391	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003103-T1_mrna"; gene_id "gene-H2199_003103"; gene_name "utp13";
+JAPDRP010000008.1	Genbank	CDS	165543	166124	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003103-T1_mrna"; gene_id "gene-H2199_003103"; gene_name "utp13";
+JAPDRP010000008.1	Genbank	CDS	166175	166746	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003103-T1_mrna"; gene_id "gene-H2199_003103"; gene_name "utp13";
+JAPDRP010000008.1	Genbank	CDS	166835	168076	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003103-T1_mrna"; gene_id "gene-H2199_003103"; gene_name "utp13";
+JAPDRP010000008.1	Genbank	CDS	168125	168152	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003103-T1_mrna"; gene_id "gene-H2199_003103"; gene_name "utp13";
+JAPDRP010000008.1	Genbank	CDS	168215	168391	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003103-T1_mrna"; gene_id "gene-H2199_003103"; gene_name "utp13";
+JAPDRP010000008.1	Genbank	transcript	176562	178411	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003107-T1_mrna"; gene_id "gene-H2199_003107"; gene_name "RRP9"
+JAPDRP010000008.1	Genbank	exon	176562	177225	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003107-T1_mrna"; gene_id "gene-H2199_003107"; gene_name "RRP9";
+JAPDRP010000008.1	Genbank	exon	177246	178411	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003107-T1_mrna"; gene_id "gene-H2199_003107"; gene_name "RRP9";
+JAPDRP010000008.1	Genbank	CDS	176562	177225	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003107-T1_mrna"; gene_id "gene-H2199_003107"; gene_name "RRP9";
+JAPDRP010000008.1	Genbank	CDS	177246	178411	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003107-T1_mrna"; gene_id "gene-H2199_003107"; gene_name "RRP9";
+JAPDRP010000008.1	Genbank	transcript	376526	378113	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003167-T1_mrna"; gene_id "gene-H2199_003167"; gene_name "MAK11"
+JAPDRP010000008.1	Genbank	exon	376526	377152	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003167-T1_mrna"; gene_id "gene-H2199_003167"; gene_name "MAK11";
+JAPDRP010000008.1	Genbank	exon	377205	378113	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003167-T1_mrna"; gene_id "gene-H2199_003167"; gene_name "MAK11";
+JAPDRP010000008.1	Genbank	CDS	376526	377152	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003167-T1_mrna"; gene_id "gene-H2199_003167"; gene_name "MAK11";
+JAPDRP010000008.1	Genbank	CDS	377205	378113	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003167-T1_mrna"; gene_id "gene-H2199_003167"; gene_name "MAK11";
+JAPDRP010000008.1	Genbank	transcript	509527	510743	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003215-T1_mrna"; gene_id "gene-H2199_003215"; gene_name "oca3"
+JAPDRP010000008.1	Genbank	exon	509527	510021	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003215-T1_mrna"; gene_id "gene-H2199_003215"; gene_name "oca3";
+JAPDRP010000008.1	Genbank	exon	510092	510298	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003215-T1_mrna"; gene_id "gene-H2199_003215"; gene_name "oca3";
+JAPDRP010000008.1	Genbank	exon	510369	510743	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003215-T1_mrna"; gene_id "gene-H2199_003215"; gene_name "oca3";
+JAPDRP010000008.1	Genbank	CDS	509527	510021	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003215-T1_mrna"; gene_id "gene-H2199_003215"; gene_name "oca3";
+JAPDRP010000008.1	Genbank	CDS	510092	510298	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003215-T1_mrna"; gene_id "gene-H2199_003215"; gene_name "oca3";
+JAPDRP010000008.1	Genbank	CDS	510369	510743	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003215-T1_mrna"; gene_id "gene-H2199_003215"; gene_name "oca3";
+JAPDRP010000008.1	Genbank	transcript	751458	752818	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003287-T1_mrna"; gene_id "gene-H2199_003287"
+JAPDRP010000008.1	Genbank	exon	751458	751674	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003287-T1_mrna"; gene_id "gene-H2199_003287";
+JAPDRP010000008.1	Genbank	exon	751731	752818	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003287-T1_mrna"; gene_id "gene-H2199_003287";
+JAPDRP010000008.1	Genbank	CDS	751458	751674	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003287-T1_mrna"; gene_id "gene-H2199_003287";
+JAPDRP010000008.1	Genbank	CDS	751731	752818	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003287-T1_mrna"; gene_id "gene-H2199_003287";
+JAPDRP010000008.1	Genbank	transcript	776945	777920	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003299-T1_mrna"; gene_id "gene-H2199_003299"; gene_name "BUD23"
+JAPDRP010000008.1	Genbank	exon	776945	776977	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003299-T1_mrna"; gene_id "gene-H2199_003299"; gene_name "BUD23";
+JAPDRP010000008.1	Genbank	exon	777049	777755	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003299-T1_mrna"; gene_id "gene-H2199_003299"; gene_name "BUD23";
+JAPDRP010000008.1	Genbank	exon	777800	777920	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003299-T1_mrna"; gene_id "gene-H2199_003299"; gene_name "BUD23";
+JAPDRP010000008.1	Genbank	CDS	776945	776977	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003299-T1_mrna"; gene_id "gene-H2199_003299"; gene_name "BUD23";
+JAPDRP010000008.1	Genbank	CDS	777049	777755	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003299-T1_mrna"; gene_id "gene-H2199_003299"; gene_name "BUD23";
+JAPDRP010000008.1	Genbank	CDS	777800	777920	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003299-T1_mrna"; gene_id "gene-H2199_003299"; gene_name "BUD23";
+JAPDRP010000008.1	Genbank	transcript	954637	956149	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003360-T1_mrna"; gene_id "gene-H2199_003360"
+JAPDRP010000008.1	Genbank	exon	954637	955270	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003360-T1_mrna"; gene_id "gene-H2199_003360";
+JAPDRP010000008.1	Genbank	exon	955383	956149	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003360-T1_mrna"; gene_id "gene-H2199_003360";
+JAPDRP010000008.1	Genbank	CDS	954637	955270	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003360-T1_mrna"; gene_id "gene-H2199_003360";
+JAPDRP010000008.1	Genbank	CDS	955383	956149	.	+	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003360-T1_mrna"; gene_id "gene-H2199_003360";
+JAPDRP010000008.1	Genbank	transcript	1035982	1037771	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003393-T1_mrna"; gene_id "gene-H2199_003393"; gene_name "cdc1"
+JAPDRP010000008.1	Genbank	exon	1035982	1036211	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003393-T1_mrna"; gene_id "gene-H2199_003393"; gene_name "cdc1";
+JAPDRP010000008.1	Genbank	exon	1036322	1037227	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003393-T1_mrna"; gene_id "gene-H2199_003393"; gene_name "cdc1";
+JAPDRP010000008.1	Genbank	exon	1037253	1037415	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003393-T1_mrna"; gene_id "gene-H2199_003393"; gene_name "cdc1";
+JAPDRP010000008.1	Genbank	exon	1037496	1037679	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003393-T1_mrna"; gene_id "gene-H2199_003393"; gene_name "cdc1";
+JAPDRP010000008.1	Genbank	exon	1037728	1037771	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003393-T1_mrna"; gene_id "gene-H2199_003393"; gene_name "cdc1";
+JAPDRP010000008.1	Genbank	CDS	1035982	1036211	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003393-T1_mrna"; gene_id "gene-H2199_003393"; gene_name "cdc1";
+JAPDRP010000008.1	Genbank	CDS	1036322	1037227	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003393-T1_mrna"; gene_id "gene-H2199_003393"; gene_name "cdc1";
+JAPDRP010000008.1	Genbank	CDS	1037253	1037415	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003393-T1_mrna"; gene_id "gene-H2199_003393"; gene_name "cdc1";
+JAPDRP010000008.1	Genbank	CDS	1037496	1037679	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003393-T1_mrna"; gene_id "gene-H2199_003393"; gene_name "cdc1";
+JAPDRP010000008.1	Genbank	CDS	1037728	1037771	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003393-T1_mrna"; gene_id "gene-H2199_003393"; gene_name "cdc1";
+JAPDRP010000009.1	Genbank	transcript	94277	95355	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003430-T1_mrna"; gene_id "gene-H2199_003430"; gene_name "LIA1"
+JAPDRP010000009.1	Genbank	exon	94277	94770	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003430-T1_mrna"; gene_id "gene-H2199_003430"; gene_name "LIA1";
+JAPDRP010000009.1	Genbank	exon	94875	95355	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003430-T1_mrna"; gene_id "gene-H2199_003430"; gene_name "LIA1";
+JAPDRP010000009.1	Genbank	CDS	94277	94770	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003430-T1_mrna"; gene_id "gene-H2199_003430"; gene_name "LIA1";
+JAPDRP010000009.1	Genbank	CDS	94875	95355	.	+	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003430-T1_mrna"; gene_id "gene-H2199_003430"; gene_name "LIA1";
+JAPDRP010000009.1	Genbank	transcript	240434	242242	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003483-T1_mrna"; gene_id "gene-H2199_003483"
+JAPDRP010000009.1	Genbank	exon	240434	241169	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003483-T1_mrna"; gene_id "gene-H2199_003483";
+JAPDRP010000009.1	Genbank	exon	241806	242242	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003483-T1_mrna"; gene_id "gene-H2199_003483";
+JAPDRP010000009.1	Genbank	CDS	240434	241169	.	-	1	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003483-T1_mrna"; gene_id "gene-H2199_003483";
+JAPDRP010000009.1	Genbank	CDS	241806	242242	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003483-T1_mrna"; gene_id "gene-H2199_003483";
+JAPDRP010000009.1	Genbank	transcript	455930	458753	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003560-T1_mrna"; gene_id "gene-H2199_003560"; gene_name "BCP1"
+JAPDRP010000009.1	Genbank	exon	455930	456022	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003560-T1_mrna"; gene_id "gene-H2199_003560"; gene_name "BCP1";
+JAPDRP010000009.1	Genbank	exon	456082	456318	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003560-T1_mrna"; gene_id "gene-H2199_003560"; gene_name "BCP1";
+JAPDRP010000009.1	Genbank	exon	456370	456891	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003560-T1_mrna"; gene_id "gene-H2199_003560"; gene_name "BCP1";
+JAPDRP010000009.1	Genbank	exon	458469	458753	.	+	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003560-T1_mrna"; gene_id "gene-H2199_003560"; gene_name "BCP1";
+JAPDRP010000009.1	Genbank	CDS	455930	456022	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003560-T1_mrna"; gene_id "gene-H2199_003560"; gene_name "BCP1";
+JAPDRP010000009.1	Genbank	CDS	456082	456318	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003560-T1_mrna"; gene_id "gene-H2199_003560"; gene_name "BCP1";
+JAPDRP010000009.1	Genbank	CDS	456370	456891	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003560-T1_mrna"; gene_id "gene-H2199_003560"; gene_name "BCP1";
+JAPDRP010000009.1	Genbank	CDS	458469	458753	.	+	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003560-T1_mrna"; gene_id "gene-H2199_003560"; gene_name "BCP1";
+JAPDRP010000009.1	Genbank	transcript	475612	477874	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003566-T1_mrna"; gene_id "gene-H2199_003566"; gene_name "ESF1"
+JAPDRP010000009.1	Genbank	exon	475612	477069	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003566-T1_mrna"; gene_id "gene-H2199_003566"; gene_name "ESF1";
+JAPDRP010000009.1	Genbank	exon	477081	477742	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003566-T1_mrna"; gene_id "gene-H2199_003566"; gene_name "ESF1";
+JAPDRP010000009.1	Genbank	exon	477808	477874	.	-	.	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003566-T1_mrna"; gene_id "gene-H2199_003566"; gene_name "ESF1";
+JAPDRP010000009.1	Genbank	CDS	475612	477069	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003566-T1_mrna"; gene_id "gene-H2199_003566"; gene_name "ESF1";
+JAPDRP010000009.1	Genbank	CDS	477081	477742	.	-	2	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003566-T1_mrna"; gene_id "gene-H2199_003566"; gene_name "ESF1";
+JAPDRP010000009.1	Genbank	CDS	477808	477874	.	-	0	transcript_id "rna-gnl|WGS:JAPDRP|H2199_003566-T1_mrna"; gene_id "gene-H2199_003566"; gene_name "ESF1";

@@ -1,0 +1,29 @@
+invalid escape sequence '\|'
+invalid escape sequence '\|'
+invalid escape sequence '\|'
+invalid escape sequence '\w'
+invalid escape sequence '\w'
+invalid escape sequence '\|'
+invalid escape sequence '\|'
+invalid escape sequence '\|'
+invalid escape sequence '\|'
+invalid escape sequence '\|'
+invalid escape sequence '\w'
+invalid escape sequence '\w'
+invalid escape sequence '\|'
+invalid escape sequence '\|'
+Profile TXNRD : profile_data not found or detected change in alignment file! Recomputing profile_data...
+Traceback (most recent call last):
+  File "/opt/conda/bin/selenoprofiles", line 7, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/selenoprofiles4/selenoprofiles4.py", line 1958, in main
+    psitblastn(
+  File "/opt/conda/lib/python3.12/site-packages/selenoprofiles4/selenoprofiles4.py", line 3213, in psitblastn
+    bbash(
+  File "/opt/conda/lib/python3.12/site-packages/selenoprofiles4/MMlib3.py", line 108, in bbash
+    if bb[0]!=0 and not dont_die:     raise Exception('COMMAND: ' + command+' ERROR: "'+bb[1]+' "')
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Exception: COMMAND: /blast-2.2.26/bin/blastall -p psitblastn  -d /input/genome.fa -R /tmp/e6d41bea88d5c877576aa0495763bee1/SEPHS2.2.pssm.chk -i /tmp/e6d41bea88d5c877576aa0495763bee1/SEPHS2.2.blast_query -I  -a 1 -b 5000 -F F > /tmp/e6d41bea88d5c877576aa0495763bee1/psitblastn_out ERROR: "[blastall] WARNING: Stored query has a X at position 24, while new query has a U there
+X appears in the stored query: The stored query may be filtered.  Run blastpgp with "-F F" option to turn the filter off.
+Segmentation fault (core dumped) "

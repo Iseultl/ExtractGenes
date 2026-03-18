@@ -1,0 +1,127 @@
+Unable to find image 'maxtico/selenoprofiles_container:latest' locally
+latest: Pulling from maxtico/selenoprofiles_container
+254e724d7786: Pulling fs layer
+17404f4f56f1: Pulling fs layer
+6a3124a74883: Pulling fs layer
+9aac9449d9ea: Pulling fs layer
+cba1411d22ac: Pulling fs layer
+a6912ea684ba: Pulling fs layer
+2ac1d2f53ab3: Pulling fs layer
+82975461b638: Pulling fs layer
+3dfeb3d91d7a: Pulling fs layer
+f0019542017e: Pulling fs layer
+e43edbaa37a4: Pulling fs layer
+c7ec584f1f89: Pulling fs layer
+674ec1d51d9d: Pulling fs layer
+82975461b638: Waiting
+3dfeb3d91d7a: Waiting
+f0019542017e: Waiting
+cba1411d22ac: Waiting
+9aac9449d9ea: Waiting
+e43edbaa37a4: Waiting
+a6912ea684ba: Waiting
+2ac1d2f53ab3: Waiting
+c7ec584f1f89: Waiting
+674ec1d51d9d: Waiting
+254e724d7786: Verifying Checksum
+254e724d7786: Download complete
+17404f4f56f1: Verifying Checksum
+17404f4f56f1: Download complete
+254e724d7786: Pull complete
+cba1411d22ac: Verifying Checksum
+cba1411d22ac: Download complete
+6a3124a74883: Verifying Checksum
+6a3124a74883: Download complete
+2ac1d2f53ab3: Verifying Checksum
+2ac1d2f53ab3: Download complete
+17404f4f56f1: Pull complete
+a6912ea684ba: Verifying Checksum
+a6912ea684ba: Download complete
+3dfeb3d91d7a: Verifying Checksum
+3dfeb3d91d7a: Download complete
+9aac9449d9ea: Verifying Checksum
+9aac9449d9ea: Download complete
+f0019542017e: Verifying Checksum
+f0019542017e: Download complete
+e43edbaa37a4: Verifying Checksum
+e43edbaa37a4: Download complete
+c7ec584f1f89: Verifying Checksum
+c7ec584f1f89: Download complete
+674ec1d51d9d: Verifying Checksum
+674ec1d51d9d: Download complete
+82975461b638: Verifying Checksum
+82975461b638: Download complete
+6a3124a74883: Pull complete
+9aac9449d9ea: Pull complete
+cba1411d22ac: Pull complete
+a6912ea684ba: Pull complete
+2ac1d2f53ab3: Pull complete
+82975461b638: Pull complete
+3dfeb3d91d7a: Pull complete
+f0019542017e: Pull complete
+e43edbaa37a4: Pull complete
+c7ec584f1f89: Pull complete
+674ec1d51d9d: Pull complete
+Digest: sha256:ea14be1bdc44d2ceec12bb5d0340b1902cad8a8ea2227906905172765757a149
+Status: Downloaded newer image for maxtico/selenoprofiles_container:latest
+invalid escape sequence '\|'
+invalid escape sequence '\|'
+invalid escape sequence '\|'
+invalid escape sequence '\w'
+invalid escape sequence '\w'
+invalid escape sequence '\|'
+invalid escape sequence '\|'
+invalid escape sequence '\|'
+invalid escape sequence '\|'
+invalid escape sequence '\|'
+invalid escape sequence '\w'
+invalid escape sequence '\w'
+invalid escape sequence '\|'
+invalid escape sequence '\|'
+Profile TXNRD : profile_data not found or detected change in alignment file! Recomputing profile_data...
+Unable to find image 'busybox:latest' locally
+latest: Pulling from library/busybox
+61dfb50712f5: Pulling fs layer
+61dfb50712f5: Verifying Checksum
+61dfb50712f5: Download complete
+61dfb50712f5: Pull complete
+Digest: sha256:b3255e7dfbcd10cb367af0d409747d511aeb66dfac98cf30e97e87e4207dd76f
+Status: Downloaded newer image for busybox:latest
+
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+Traceback (most recent call last):
+  File "/opt/conda/bin/selenoprofiles", line 7, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/selenoprofiles4/selenoprofiles4.py", line 1674, in main
+    run_assess(ass_opt)
+  File "/opt/conda/lib/python3.12/site-packages/selenoprofiles4/selenoprofiles_assess.py", line 250, in main
+    sel_cor = pr.PyRanges(sel_cor, int64=True)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/pyranges/core/pyranges_main.py", line 196, in __init__
+    super().__init__(*args, **kwargs)
+  File "/opt/conda/lib/python3.12/site-packages/pyranges/range_frame/range_frame.py", line 56, in __init__
+    super().__init__(*args, **kwargs)
+TypeError: DataFrame.__init__() got an unexpected keyword argument 'int64'
