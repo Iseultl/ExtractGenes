@@ -133,6 +133,10 @@ echo "[$(date +'%Y-%m-%d %H:%M:%S')] Transcript FASTA written to $OUTDIR/Selenop
 #                        -f <genome.fa>         -o <output.csv>
 # ---------------------------------------------------------------------------
 CSV_OUT="$OUTDIR/Selenoprofiles_annotation_result.csv"
+ASSESS_STDERR="$OUTDIR/Selenoprofiles_assess.stderr.log"
+ASSESS_GTF="$OUTDIR/all_predictions.assess.gtf"
+ASSESS_ANNOT="$OUTDIR/annotation.assess.gff3"
+GENOME_CONTIGS="$OUTDIR/genome.contigs.txt"
 
 # Only run assess when the GTF contains actual selenocysteine predictions.
 # Selenoprofiles may still write a GTF for other residue types, but the
@@ -141,29 +145,81 @@ if ! grep -qi 'selenocysteine' "$GTF_OUT"; then
     echo "[$(date +'%Y-%m-%d %H:%M:%S')] No selenocysteine predictions in GTF; skipping assess step"
     printf 'transcript_id\ttranscript_id_ens\tType_annotation\n' > "$CSV_OUT"
 else
+    # Build a set of contig IDs present in the FASTA and filter both
+    # prediction/reference files to those contigs. This prevents pyfaidx
+    # crashes (e.g., "MT not in assembly.fna") from assess.
+    awk '/^>/{h=$1; sub(/^>/, "", h); print h}' "$GENOME" | sort -u > "$GENOME_CONTIGS"
+
+    awk -v contigs="$GENOME_CONTIGS" '
+        BEGIN {
+            while ((getline line < contigs) > 0) {
+                keep[line] = 1
+            }
+            close(contigs)
+        }
+        /^#/ { print; next }
+        ($1 in keep) { print }
+    ' "$GTF_OUT" > "$ASSESS_GTF"
+
+    awk -v contigs="$GENOME_CONTIGS" '
+        BEGIN {
+            while ((getline line < contigs) > 0) {
+                keep[line] = 1
+            }
+            close(contigs)
+        }
+        /^#/ { print; next }
+        ($1 in keep) { print }
+    ' "$ANNOTATION" > "$ASSESS_ANNOT"
+
+    if ! awk 'BEGIN{ok=0} !/^#/ && NF>0 {ok=1} END{exit(ok?0:1)}' "$ASSESS_GTF"; then
+        echo "[$(date +'%Y-%m-%d %H:%M:%S')] No assessable predictions after contig filtering; writing empty assessment"
+        printf 'transcript_id\ttranscript_id_ens\tType_annotation\n' > "$CSV_OUT"
+        echo "[$(date +'%Y-%m-%d %H:%M:%S')] Assessment written to $CSV_OUT"
+        echo "[$(date +'%Y-%m-%d %H:%M:%S')] Done. Output directory: $OUTDIR"
+        exit 0
+    fi
+
     echo "[$(date +'%Y-%m-%d %H:%M:%S')] Running selenoprofiles assess vs reference annotation"
+    assess_ok=1
     if command -v selenoprofiles &> /dev/null; then
-        selenoprofiles assess \
-            -s "$GTF_OUT" \
-            -e "$ANNOTATION" \
+        if ! selenoprofiles assess \
+            -s "$ASSESS_GTF" \
+            -e "$ASSESS_ANNOT" \
             -f "$GENOME" \
-            -o "$CSV_OUT"
+            -o "$CSV_OUT" \
+            2> "$ASSESS_STDERR"; then
+            assess_ok=0
+        fi
     else
-        docker run --rm \
+        if ! docker run --rm \
             -v "$OUTDIR":/sp_out \
-            -v "$(dirname "$ANNOTATION")":/annot_dir:ro \
             -v "$(dirname "$GENOME")":/genome_dir:ro \
             maxtico/selenoprofiles_container:latest \
             selenoprofiles assess \
-                -s /sp_out/all_predictions.gtf \
-                -e /annot_dir/$(basename "$ANNOTATION") \
+                -s /sp_out/$(basename "$ASSESS_GTF") \
+                -e /sp_out/$(basename "$ASSESS_ANNOT") \
                 -f /genome_dir/$(basename "$GENOME") \
-                -o /sp_out/Selenoprofiles_annotation_result.csv
+                -o /sp_out/Selenoprofiles_annotation_result.csv \
+                2> "$ASSESS_STDERR"; then
+            assess_ok=0
+        fi
 
         docker run --rm \
             -v "$OUTDIR":/sp_out \
             busybox \
             chmod -R a+rw /sp_out
+    fi
+
+    if [ "$assess_ok" -ne 1 ]; then
+        echo "[$(date +'%Y-%m-%d %H:%M:%S')] Warning: selenoprofiles assess failed; writing empty assessment and continuing"
+        if grep -qi "unexpected keyword argument 'int64'" "$ASSESS_STDERR"; then
+            echo "[$(date +'%Y-%m-%d %H:%M:%S')] Detected PyRanges API incompatibility during assess"
+        fi
+        if grep -qi "not in .*assembly" "$ASSESS_STDERR"; then
+            echo "[$(date +'%Y-%m-%d %H:%M:%S')] Detected chromosome mismatch during assess"
+        fi
+        printf 'transcript_id\ttranscript_id_ens\tType_annotation\n' > "$CSV_OUT"
     fi
 fi
 echo "[$(date +'%Y-%m-%d %H:%M:%S')] Assessment written to $CSV_OUT"

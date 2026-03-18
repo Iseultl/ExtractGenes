@@ -30,6 +30,7 @@ import urllib.error
 import urllib.request
 from datetime import datetime
 from pathlib import Path
+import pandas as pd
 
 from utils import HEADER, RETRY_HEADER
 
@@ -151,22 +152,21 @@ def parse_selenoprofiles_results(seleno_result_csv):
     """
     Parse Selenoprofiles_annotation_result.csv and return a dict with counts
     for each annotation category in the third column.
-    Returns a dict with keys: Downstream, Well_annotated, Upstream, Out_of_frame, Skipped.
+    Returns a dict with keys: Downstream, Well_annotated, Upstream, Out_of_frame, Skipped, Spliced, Genes_with_Sec.
     If the file does not exist, returns all counts as 0.
     """
-    categories = ["Downstream", "Well_annotated", "Upstream", "Out_of_frame", "Skipped", "Spliced"]
+    categories = ["Downstream", "Well_annotated", "Upstream", "Out_of_frame", "Skipped", "Spliced", "Genes_with_Sec"]
     counts = {cat: 0 for cat in categories}
     if not Path(seleno_result_csv).exists():
         return counts
 
     with open(seleno_result_csv, newline="") as csvfile:
-        reader = csv.reader(csvfile, delimiter="\t")
-        for row in reader:
-            if len(row) < 3:
-                continue
-            cat = row[2].strip().replace(" ", "_")
-            if cat in counts:
-                counts[cat] += 1
+        df = pd.read_csv(csvfile, sep="\t", header=0)
+        category_count = df['Type_annotation'].value_counts()
+        for cat in categories:
+            counts[cat] = category_count.get(cat, 0)
+        counts["Genes_with_Sec"] = df['transcript_id'].nunique()
+    logger.info(f"Selenoprofiles results: {counts}")
     return counts
 
 
