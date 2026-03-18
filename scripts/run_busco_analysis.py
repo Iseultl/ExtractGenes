@@ -30,7 +30,6 @@ import urllib.error
 import urllib.request
 from datetime import datetime
 from pathlib import Path
-import pandas as pd
 
 from utils import HEADER, RETRY_HEADER
 
@@ -152,23 +151,46 @@ def parse_selenoprofiles_results(seleno_result_csv):
     """
     Parse Selenoprofiles_annotation_result.csv and return a dict with counts
     for each annotation category in the third column.
-    Returns a dict with keys: Downstream, Well_annotated, Upstream, Out_of_frame, Skipped, Spliced, Genes_with_Sec.
+    Returns a dict with keys: Downstream, Well_annotated, Upstream,
+    Out_of_frame, Skipped, Spliced, Selenocysteine_Gene_Count.
     If the file does not exist, returns all counts as 0.
     """
-    categories = ["Downstream", "Well_annotated", "Upstream", "Out_of_frame", "Skipped", "Spliced", "Genes_with_Sec"]
+    categories = ["Downstream", "Well_annotated", "Upstream", "Out_of_frame", "Skipped", "Spliced"]
     counts = {cat: 0 for cat in categories}
+    counts["Selenocysteine_Gene_Count"] = 0
     if not Path(seleno_result_csv).exists():
         return counts
 
+    transcript_ids = set()
     with open(seleno_result_csv, newline="") as csvfile:
-        df = pd.read_csv(csvfile, sep="\t", header=0)
-        category_count = df['Type_annotation'].value_counts()
-        for cat in categories:
-            counts[cat] = category_count.get(cat, 0)
-        counts["Genes_with_Sec"] = df['transcript_id'].nunique()
+        reader = csv.DictReader(csvfile, delimiter="\t")
+        for row in reader:
+            category = (row.get("Type_annotation") or "").strip().replace(" ", "_")
+            if category in counts:
+                counts[category] += 1
+            transcript_id = (row.get("transcript_id") or "").strip()
+            if transcript_id:
+                transcript_ids.add(transcript_id)
+    counts["Selenocysteine_Gene_Count"] = len(transcript_ids)
     logger.info(f"Selenoprofiles results: {counts}")
     return counts
 
+def count_sec_from_gtf(gtf_file):
+    """Count unique genes with selenocysteine codons from a GTF file."""
+    sec_genes = set()
+    with open(gtf_file) as f:
+        for line in f:
+            if line.startswith("#") or not line.strip():
+                continue
+            parts = line.strip().split("\t")
+            if len(parts) < 9:
+                continue
+            feature_type, attributes = parts[2], parts[8]
+            if feature_type == "Selenocysteine":
+                gene_id = _get_attr(attributes, "gene_id")
+                if gene_id:
+                    sec_genes.add(gene_id)
+    return len(set(sec_genes))
 
 def infer_species_from_annotation_url(annotation_url):
     """
@@ -351,6 +373,9 @@ def write_result_tsv(result_tsv, annotation_id, assembly_accession, species, bus
             busco_results.get("Downstream", 0),
             busco_results.get("Skipped", 0),
             busco_results.get("Out_of_frame", 0),
+            busco_results.get("Spliced", 0),
+            busco_results.get("Selenocysteine_Gene_Count", 0),
+            busco_results.get("Selenocysteine_GTF_Count", 0),
         ])
 
 
@@ -597,6 +622,8 @@ def main():
         logger.info("STEP 8: Parse BUSCO results and write result fragment")
         busco_results = parse_busco_results(busco_output)
         seleno_results = parse_selenoprofiles_results(seleno_outdir / "Selenoprofiles_annotation_result.csv")
+        sec_count = count_sec_from_gtf(predictions_gtf)
+        seleno_results["Selenocysteine_GTF_Count"] = sec_count
         busco_results.update(seleno_results)
         assembly_accession = infer_assembly_accession_from_url(assembly_url)
         species = infer_species_from_annotation_url(annotation_url)

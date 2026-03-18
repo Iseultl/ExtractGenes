@@ -63,12 +63,42 @@ def load_existing_retry_entries(tsv_path):
 
 
 def ensure_header(tsv_path, header):
-    """Write header if the file does not exist yet."""
+    """Ensure TSV exists and matches expected header schema."""
     p = Path(tsv_path)
     if not p.exists():
         p.parent.mkdir(parents=True, exist_ok=True)
         with open(p, 'w', newline='') as f:
             csv.writer(f, delimiter='\t', lineterminator='\n').writerow(header)
+        return
+
+    with open(p, newline='') as f:
+        reader = csv.reader(f, delimiter='\t')
+        rows = list(reader)
+
+    if not rows:
+        with open(p, 'w', newline='') as f:
+            csv.writer(f, delimiter='\t', lineterminator='\n').writerow(header)
+        return
+
+    current_header = rows[0]
+    if current_header == header:
+        return
+
+    # Re-write file to expected schema, carrying forward overlapping columns.
+    data_rows = rows[1:]
+    migrated_rows = []
+    if data_rows:
+        for row in data_rows:
+            row_map = {current_header[i]: row[i] if i < len(row) else ''
+                       for i in range(len(current_header))}
+            migrated_rows.append([row_map.get(col, '') for col in header])
+
+    with open(p, 'w', newline='') as f:
+        writer = csv.writer(f, delimiter='\t', lineterminator='\n')
+        writer.writerow(header)
+        writer.writerows(migrated_rows)
+
+    logger.info(f"Updated header/schema for {p}")
 
 
 def append_rows(tsv_path, rows):
