@@ -177,6 +177,15 @@ def parse_selenoprofiles_results(seleno_result_csv):
 
 def count_sec_from_gtf(gtf_file):
     """Count unique genes with selenocysteine codons from a GTF file."""
+    def _get_gtf_attr(attr_string, key):
+        # GTF attributes are key "value" pairs separated by semicolons.
+        m = re.search(rf'(?:^|;\s*){re.escape(key)}\s+"([^"]+)"', attr_string)
+        if m:
+            return m.group(1).strip()
+        # Fallback for occasional key=value style records.
+        m = re.search(rf'(?:^|;\s*){re.escape(key)}=([^;]+)', attr_string)
+        return m.group(1).strip().strip('"') if m else None
+
     sec_genes = set()
     with open(gtf_file) as f:
         for line in f:
@@ -187,8 +196,11 @@ def count_sec_from_gtf(gtf_file):
                 continue
             feature_type, attributes = parts[2], parts[8]
             if feature_type == "Selenocysteine":
-                gene_id = _get_attr(attributes, "gene_id")
+                gene_id = _get_gtf_attr(attributes, "gene_id")
                 if gene_id:
+                    # Sec-position entries are often encoded as SecN:<gene_id>.
+                    # Collapse them back to the underlying gene for counting.
+                    gene_id = re.sub(r"^Sec\d+:", "", gene_id)
                     sec_genes.add(gene_id)
     return len(set(sec_genes))
 
@@ -368,14 +380,14 @@ def write_result_tsv(result_tsv, annotation_id, assembly_accession, species, bus
             busco_results["duplicated"]  if busco_results["duplicated"]  is not None else "NA",
             busco_results["fragmented"]  if busco_results["fragmented"]  is not None else "NA",
             busco_results["missing"]     if busco_results["missing"]     is not None else "NA",
-            busco_results.get("Well_annotated", 0),
-            busco_results.get("Upstream", 0),
-            busco_results.get("Downstream", 0),
-            busco_results.get("Skipped", 0),
-            busco_results.get("Out_of_frame", 0),
-            busco_results.get("Spliced", 0),
-            busco_results.get("Selenocysteine_Gene_Count", 0),
-            busco_results.get("Selenocysteine_GTF_Count", 0),
+            busco_results["Well_annotated"] if busco_results["Well_annotated"] is not None else "NA",
+            busco_results["Upstream"] if busco_results["Upstream"] is not None else "NA",
+            busco_results["Downstream"] if busco_results["Downstream"] is not None else "NA",
+            busco_results["Skipped"] if busco_results["Skipped"] is not None else "NA",
+            busco_results["Out_of_frame"] if busco_results["Out_of_frame"] is not None else "NA",
+            busco_results["Spliced"] if busco_results["Spliced"] is not None else "NA",
+            busco_results["Selenocysteine_Gene_Count"] if busco_results["Selenocysteine_Gene_Count"] is not None else "NA",
+            busco_results["Selenocysteine_GTF_Count"] if busco_results["Selenocysteine_GTF_Count"] is not None else "NA",
         ])
 
 
@@ -563,9 +575,15 @@ def main():
                 annotation_id,
                 output_dir,
             )
+        # Make the BUSCO sequence extraction failure write to the retry log file  
         except Exception as e:
-            # Non-fatal: log but continue to selenoprofiles
-            logger.warning(f"BUSCO sequence extraction error (non-fatal): {e}")
+            logger.error(f"BUSCO sequence extraction failed (exit {e.returncode})")
+            logger.error(f"stderr: {e.stderr}")
+            write_log_tsv(
+                log_tsv, annotation_id,
+                e.stderr if e.stderr else "BUSCO_extraction_failed"
+            )
+            return 1
 
         # ------------------------------------------------------------------
         # Step 7: Run selenoprofiles on the genome
@@ -591,6 +609,7 @@ def main():
         )
 
         if not ok:
+            logger.error(f"Selenoprofiles failed")
             write_log_tsv(
                 log_tsv, annotation_id,
                 stderr if stderr else "selenoprofiles_failed"
