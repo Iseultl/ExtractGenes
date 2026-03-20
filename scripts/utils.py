@@ -7,7 +7,7 @@ from pathlib import Path
 logger = logging.getLogger(__name__)
 
 HEADER = ['annotation_id', 'assembly_accession', 'species', 'lineage', 'busco_count', 'complete',
-                'single', 'duplicated', 'fragmented', 'missing', 'Well_annotated', 'Upstream', 'Downstream', 'Skipped', 'Out_of_frame', 'Spliced', 'Selenocysteine_Gene_Count', "Selenocysteine_GTF_Count"]
+                'single', 'duplicated', 'fragmented', 'missing', 'Well_annotated', 'Upstream', 'Downstream', 'Skipped', 'Out_of_frame', 'Spliced', 'Stop_codon', 'Selenocysteine_Gene_Count', "Selenocysteine_GTF_Count"]
 RETRY_HEADER = ['annotation_id', 'run_at', 'step']
 GIVEUP_HEADER = RETRY_HEADER
 

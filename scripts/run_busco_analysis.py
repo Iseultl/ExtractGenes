@@ -21,7 +21,9 @@ Usage:
 import csv
 import gzip
 import logging
+import os
 import re
+import signal
 import shutil
 import subprocess
 import sys
@@ -70,18 +72,54 @@ def download_file(url, dest_path):
 
 def run_shell_script(script_path, args, step_name):
     """Run a shell script; return (ok: bool, stdout: str, stderr: str)."""
+    return run_shell_script_with_timeout(script_path, args, step_name)
+
+
+def run_shell_script_with_timeout(script_path, args, step_name, timeout_seconds=None):
+    """
+    Run a shell script and optionally enforce a timeout.
+
+    Returns (ok: bool, stdout: str, stderr: str).
+    """
     # Run scripts via bash so they do not depend on executable file mode.
     cmd = ["bash", str(script_path)] + args
     logger.info(f"Running {step_name}: {' '.join(cmd)}")
+
+    if timeout_seconds is not None and timeout_seconds > 0:
+        logger.info(f"{step_name} timeout set to {timeout_seconds} seconds")
+
     try:
-        result = subprocess.run(cmd, capture_output=True, text=True, check=True)
+        # Use a dedicated process group so we can terminate the whole subtree
+        # on timeout (e.g., wrapper shell + long-running tools).
+        proc = subprocess.Popen(
+            cmd,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            text=True,
+            start_new_session=True,
+        )
+        try:
+            stdout, stderr = proc.communicate(timeout=timeout_seconds)
+        except subprocess.TimeoutExpired:
+            logger.error(f"{step_name} timed out after {timeout_seconds} seconds")
+            try:
+                os.killpg(proc.pid, signal.SIGTERM)
+                proc.wait(timeout=15)
+            except Exception:
+                try:
+                    os.killpg(proc.pid, signal.SIGKILL)
+                except Exception:
+                    pass
+            return False, "", f"{step_name}_timeout_after_{timeout_seconds}s"
+
+        if proc.returncode != 0:
+            logger.error(f"{step_name} failed (exit {proc.returncode})")
+            logger.error(f"stdout: {stdout}")
+            logger.error(f"stderr: {stderr}")
+            return False, stdout or "", stderr or ""
+
         logger.info(f"{step_name} completed successfully")
-        return True, result.stdout, result.stderr
-    except subprocess.CalledProcessError as e:
-        logger.error(f"{step_name} failed (exit {e.returncode})")
-        logger.error(f"stdout: {e.stdout}")
-        logger.error(f"stderr: {e.stderr}")
-        return False, e.stdout, e.stderr
+        return True, stdout or "", stderr or ""
     except FileNotFoundError as e:
         logger.error(f"Script not found: {script_path}")
         return False, "", str(e)
@@ -152,10 +190,10 @@ def parse_selenoprofiles_results(seleno_result_csv):
     Parse Selenoprofiles_annotation_result.csv and return a dict with counts
     for each annotation category in the third column.
     Returns a dict with keys: Downstream, Well_annotated, Upstream,
-    Out_of_frame, Skipped, Spliced, Selenocysteine_Gene_Count.
+    Out_of_frame, Skipped, Spliced, Stop_codon, Selenocysteine_Gene_Count.
     If the file does not exist, returns all counts as 0.
     """
-    categories = ["Downstream", "Well_annotated", "Upstream", "Out_of_frame", "Skipped", "Spliced"]
+    categories = ["Downstream", "Well_annotated", "Upstream", "Out_of_frame", "Skipped", "Spliced", "Stop_codon"]
     counts = {cat: 0 for cat in categories}
     counts["Selenocysteine_Gene_Count"] = 0
     if not Path(seleno_result_csv).exists():
@@ -227,6 +265,23 @@ def infer_assembly_accession_from_url(assembly_url):
     if m:
         return m.group(1)
     return "NA"
+
+
+def get_seleno_timeout_seconds():
+    """Read SELENOPROFILES_TIMEOUT_MINUTES from env and convert to seconds."""
+    raw = os.getenv("SELENOPROFILES_TIMEOUT_MINUTES", "60").strip()
+    if not raw:
+        return None
+    try:
+        minutes = float(raw)
+    except ValueError:
+        logger.warning(
+            "Invalid SELENOPROFILES_TIMEOUT_MINUTES=%r; timeout disabled", raw
+        )
+        return None
+    if minutes <= 0:
+        return None
+    return int(minutes * 60)
 
 
 # ---------------------------------------------------------------------------
@@ -386,6 +441,7 @@ def write_result_tsv(result_tsv, annotation_id, assembly_accession, species, bus
             busco_results["Skipped"] if busco_results["Skipped"] is not None else "NA",
             busco_results["Out_of_frame"] if busco_results["Out_of_frame"] is not None else "NA",
             busco_results["Spliced"] if busco_results["Spliced"] is not None else "NA",
+            busco_results["Stop_codon"] if busco_results["Stop_codon"] is not None else "NA",
             busco_results["Selenocysteine_Gene_Count"] if busco_results["Selenocysteine_Gene_Count"] is not None else "NA",
             busco_results["Selenocysteine_GTF_Count"] if busco_results["Selenocysteine_GTF_Count"] is not None else "NA",
         ])
@@ -577,11 +633,10 @@ def main():
             )
         # Make the BUSCO sequence extraction failure write to the retry log file  
         except Exception as e:
-            logger.error(f"BUSCO sequence extraction failed (exit {e.returncode})")
-            logger.error(f"stderr: {e.stderr}")
+            logger.error(f"BUSCO sequence extraction failed: {e}")
             write_log_tsv(
                 log_tsv, annotation_id,
-                e.stderr if e.stderr else "BUSCO_extraction_failed"
+                str(e) if str(e) else "BUSCO_extraction_failed"
             )
             return 1
 
@@ -592,7 +647,9 @@ def main():
         seleno_outdir = work_dir / f"selenoprofiles_{annotation_id}"
         seleno_outdir.mkdir(parents=True, exist_ok=True)
 
-        ok, _, stderr = run_shell_script(
+        seleno_timeout_seconds = get_seleno_timeout_seconds()
+
+        ok, _, stderr = run_shell_script_with_timeout(
             seleno_script,
             [
                 str(fasta_decompressed),
@@ -600,6 +657,7 @@ def main():
                 str(seleno_outdir),
             ],
             "run_selenoprofiles",
+            timeout_seconds=seleno_timeout_seconds,
         )
         seleno_outputs = (
             ("all_predictions.gtf", "All_predictions.gtf"),

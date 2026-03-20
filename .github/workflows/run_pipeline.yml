@@ -7,6 +7,10 @@ on:
         description: 'Max annotations per matrix job (keep low to stay within 6h job limit)'
         required: false
         default: '10'
+      selenoprofiles_timeout_minutes:
+        description: 'Per-annotation selenoprofiles timeout in minutes (0 disables timeout)'
+        required: false
+        default: '180'
   workflow_run:
     workflows:
       - "Cleanup Stale Annotations"
@@ -49,6 +53,7 @@ jobs:
           echo "Pending annotations : ${{ steps.build.outputs.pending_count }}"
           echo "Chunks to create    : ${{ steps.build.outputs.chunk_count }}"
           echo "Max per job         : ${{ github.event.inputs.max_per_job || '10' }}"
+          echo "Seleno timeout (min): ${{ github.event.inputs.selenoprofiles_timeout_minutes || '180' }}"
 
   # ─────────────────────────────────────────────────────────────────────────────
   # JOB 2: Run BUSCO + selenoprofiles analysis in parallel matrix jobs
@@ -115,6 +120,8 @@ jobs:
 
       - name: Run batch
         shell: bash -el {0}
+        env:
+          SELENOPROFILES_TIMEOUT_MINUTES: ${{ github.event.inputs.selenoprofiles_timeout_minutes || '180' }}
         run: |
           python scripts/run_busco_batch.py \
             annotations.tsv \
