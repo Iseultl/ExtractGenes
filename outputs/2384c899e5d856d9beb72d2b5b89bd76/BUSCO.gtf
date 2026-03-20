@@ -1,0 +1,619 @@
+JAXLPI010000001.1	Genbank	transcript	322494	323989	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000136-T1_mrna"; gene_id "gene-LTR96_000136"
+JAXLPI010000001.1	Genbank	exon	322494	322633	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000136-T1_mrna"; gene_id "gene-LTR96_000136";
+JAXLPI010000001.1	Genbank	exon	322684	323989	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000136-T1_mrna"; gene_id "gene-LTR96_000136";
+JAXLPI010000001.1	Genbank	CDS	322494	322633	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000136-T1_mrna"; gene_id "gene-LTR96_000136";
+JAXLPI010000001.1	Genbank	CDS	322684	323989	.	+	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000136-T1_mrna"; gene_id "gene-LTR96_000136";
+JAXLPI010000001.1	Genbank	transcript	339967	342321	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000141-T1_mrna"; gene_id "gene-LTR96_000141"; gene_name "ERB1"
+JAXLPI010000001.1	Genbank	exon	339967	342321	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000141-T1_mrna"; gene_id "gene-LTR96_000141"; gene_name "ERB1";
+JAXLPI010000001.1	Genbank	CDS	339967	342321	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000141-T1_mrna"; gene_id "gene-LTR96_000141"; gene_name "ERB1";
+JAXLPI010000001.1	Genbank	transcript	1038133	1039233	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000416-T1_mrna"; gene_id "gene-LTR96_000416"; gene_name "CAB2"
+JAXLPI010000001.1	Genbank	exon	1038133	1039233	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000416-T1_mrna"; gene_id "gene-LTR96_000416"; gene_name "CAB2";
+JAXLPI010000001.1	Genbank	CDS	1038133	1039233	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000416-T1_mrna"; gene_id "gene-LTR96_000416"; gene_name "CAB2";
+JAXLPI010000001.1	Genbank	transcript	1231415	1233010	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000480-T1_mrna"; gene_id "gene-LTR96_000480"
+JAXLPI010000001.1	Genbank	exon	1231415	1232910	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000480-T1_mrna"; gene_id "gene-LTR96_000480";
+JAXLPI010000001.1	Genbank	exon	1232962	1233010	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000480-T1_mrna"; gene_id "gene-LTR96_000480";
+JAXLPI010000001.1	Genbank	CDS	1231415	1232910	.	-	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000480-T1_mrna"; gene_id "gene-LTR96_000480";
+JAXLPI010000001.1	Genbank	CDS	1232962	1233010	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000480-T1_mrna"; gene_id "gene-LTR96_000480";
+JAXLPI010000001.1	Genbank	transcript	1338940	1339525	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000524-T1_mrna"; gene_id "gene-LTR96_000524"; gene_name "rpc25"
+JAXLPI010000001.1	Genbank	exon	1338940	1338984	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000524-T1_mrna"; gene_id "gene-LTR96_000524"; gene_name "rpc25";
+JAXLPI010000001.1	Genbank	exon	1339035	1339206	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000524-T1_mrna"; gene_id "gene-LTR96_000524"; gene_name "rpc25";
+JAXLPI010000001.1	Genbank	exon	1339258	1339408	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000524-T1_mrna"; gene_id "gene-LTR96_000524"; gene_name "rpc25";
+JAXLPI010000001.1	Genbank	exon	1339459	1339525	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000524-T1_mrna"; gene_id "gene-LTR96_000524"; gene_name "rpc25";
+JAXLPI010000001.1	Genbank	CDS	1338940	1338984	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000524-T1_mrna"; gene_id "gene-LTR96_000524"; gene_name "rpc25";
+JAXLPI010000001.1	Genbank	CDS	1339035	1339206	.	-	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000524-T1_mrna"; gene_id "gene-LTR96_000524"; gene_name "rpc25";
+JAXLPI010000001.1	Genbank	CDS	1339258	1339408	.	-	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000524-T1_mrna"; gene_id "gene-LTR96_000524"; gene_name "rpc25";
+JAXLPI010000001.1	Genbank	CDS	1339459	1339525	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000524-T1_mrna"; gene_id "gene-LTR96_000524"; gene_name "rpc25";
+JAXLPI010000001.1	Genbank	transcript	1612501	1615446	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000611-T1_mrna"; gene_id "gene-LTR96_000611"; gene_name "DIP2"
+JAXLPI010000001.1	Genbank	exon	1612501	1615378	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000611-T1_mrna"; gene_id "gene-LTR96_000611"; gene_name "DIP2";
+JAXLPI010000001.1	Genbank	exon	1615430	1615446	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000611-T1_mrna"; gene_id "gene-LTR96_000611"; gene_name "DIP2";
+JAXLPI010000001.1	Genbank	CDS	1612501	1615378	.	-	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000611-T1_mrna"; gene_id "gene-LTR96_000611"; gene_name "DIP2";
+JAXLPI010000001.1	Genbank	CDS	1615430	1615446	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000611-T1_mrna"; gene_id "gene-LTR96_000611"; gene_name "DIP2";
+JAXLPI010000001.1	Genbank	transcript	1953271	1954383	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000739-T1_mrna"; gene_id "gene-LTR96_000739"; gene_name "RPP1"
+JAXLPI010000001.1	Genbank	exon	1953271	1954383	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000739-T1_mrna"; gene_id "gene-LTR96_000739"; gene_name "RPP1";
+JAXLPI010000001.1	Genbank	CDS	1953271	1954383	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000739-T1_mrna"; gene_id "gene-LTR96_000739"; gene_name "RPP1";
+JAXLPI010000001.1	Genbank	transcript	2425954	2426721	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000915-T1_mrna"; gene_id "gene-LTR96_000915"; gene_name "dot2"
+JAXLPI010000001.1	Genbank	exon	2425954	2426721	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000915-T1_mrna"; gene_id "gene-LTR96_000915"; gene_name "dot2";
+JAXLPI010000001.1	Genbank	CDS	2425954	2426721	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000915-T1_mrna"; gene_id "gene-LTR96_000915"; gene_name "dot2";
+JAXLPI010000001.1	Genbank	transcript	2503941	2506211	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000942-T1_mrna"; gene_id "gene-LTR96_000942"; gene_name "SDA1"
+JAXLPI010000001.1	Genbank	exon	2503941	2506211	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000942-T1_mrna"; gene_id "gene-LTR96_000942"; gene_name "SDA1";
+JAXLPI010000001.1	Genbank	CDS	2503941	2506211	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000942-T1_mrna"; gene_id "gene-LTR96_000942"; gene_name "SDA1";
+JAXLPI010000001.1	Genbank	transcript	2561326	2562804	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000967-T1_mrna"; gene_id "gene-LTR96_000967"; gene_name "GCV1"
+JAXLPI010000001.1	Genbank	exon	2561326	2562804	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000967-T1_mrna"; gene_id "gene-LTR96_000967"; gene_name "GCV1";
+JAXLPI010000001.1	Genbank	CDS	2561326	2562804	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000967-T1_mrna"; gene_id "gene-LTR96_000967"; gene_name "GCV1";
+JAXLPI010000001.1	Genbank	transcript	2622088	2623491	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000988-T1_mrna"; gene_id "gene-LTR96_000988"
+JAXLPI010000001.1	Genbank	exon	2622088	2623491	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000988-T1_mrna"; gene_id "gene-LTR96_000988";
+JAXLPI010000001.1	Genbank	CDS	2622088	2623491	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_000988-T1_mrna"; gene_id "gene-LTR96_000988";
+JAXLPI010000001.1	Genbank	transcript	2779453	2780883	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001051-T1_mrna"; gene_id "gene-LTR96_001051"
+JAXLPI010000001.1	Genbank	exon	2779453	2779625	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001051-T1_mrna"; gene_id "gene-LTR96_001051";
+JAXLPI010000001.1	Genbank	exon	2779689	2780883	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001051-T1_mrna"; gene_id "gene-LTR96_001051";
+JAXLPI010000001.1	Genbank	CDS	2779453	2779625	.	-	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001051-T1_mrna"; gene_id "gene-LTR96_001051";
+JAXLPI010000001.1	Genbank	CDS	2779689	2780883	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001051-T1_mrna"; gene_id "gene-LTR96_001051";
+JAXLPI010000001.1	Genbank	transcript	2998166	2998903	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001129-T1_mrna"; gene_id "gene-LTR96_001129"
+JAXLPI010000001.1	Genbank	exon	2998166	2998903	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001129-T1_mrna"; gene_id "gene-LTR96_001129";
+JAXLPI010000001.1	Genbank	CDS	2998166	2998903	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001129-T1_mrna"; gene_id "gene-LTR96_001129";
+JAXLPI010000001.1	Genbank	transcript	3076088	3077401	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001163-T1_mrna"; gene_id "gene-LTR96_001163"; gene_name "PRP46"
+JAXLPI010000001.1	Genbank	exon	3076088	3077401	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001163-T1_mrna"; gene_id "gene-LTR96_001163"; gene_name "PRP46";
+JAXLPI010000001.1	Genbank	CDS	3076088	3077401	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001163-T1_mrna"; gene_id "gene-LTR96_001163"; gene_name "PRP46";
+JAXLPI010000001.1	Genbank	transcript	3213456	3214731	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001219-T1_mrna"; gene_id "gene-LTR96_001219"; gene_name "ebp2"
+JAXLPI010000001.1	Genbank	exon	3213456	3214314	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001219-T1_mrna"; gene_id "gene-LTR96_001219"; gene_name "ebp2";
+JAXLPI010000001.1	Genbank	exon	3214433	3214731	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001219-T1_mrna"; gene_id "gene-LTR96_001219"; gene_name "ebp2";
+JAXLPI010000001.1	Genbank	CDS	3213456	3214314	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001219-T1_mrna"; gene_id "gene-LTR96_001219"; gene_name "ebp2";
+JAXLPI010000001.1	Genbank	CDS	3214433	3214731	.	+	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001219-T1_mrna"; gene_id "gene-LTR96_001219"; gene_name "ebp2";
+JAXLPI010000001.1	Genbank	transcript	3629775	3630970	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001371-T1_mrna"; gene_id "gene-LTR96_001371"; gene_name "TMA46"
+JAXLPI010000001.1	Genbank	exon	3629775	3630397	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001371-T1_mrna"; gene_id "gene-LTR96_001371"; gene_name "TMA46";
+JAXLPI010000001.1	Genbank	exon	3630448	3630970	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001371-T1_mrna"; gene_id "gene-LTR96_001371"; gene_name "TMA46";
+JAXLPI010000001.1	Genbank	CDS	3629775	3630397	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001371-T1_mrna"; gene_id "gene-LTR96_001371"; gene_name "TMA46";
+JAXLPI010000001.1	Genbank	CDS	3630448	3630970	.	+	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001371-T1_mrna"; gene_id "gene-LTR96_001371"; gene_name "TMA46";
+JAXLPI010000001.1	Genbank	transcript	3963640	3966690	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001499-T1_mrna"; gene_id "gene-LTR96_001499"; gene_name "VPS11"
+JAXLPI010000001.1	Genbank	exon	3963640	3963729	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001499-T1_mrna"; gene_id "gene-LTR96_001499"; gene_name "VPS11";
+JAXLPI010000001.1	Genbank	exon	3963778	3964716	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001499-T1_mrna"; gene_id "gene-LTR96_001499"; gene_name "VPS11";
+JAXLPI010000001.1	Genbank	exon	3964765	3966690	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001499-T1_mrna"; gene_id "gene-LTR96_001499"; gene_name "VPS11";
+JAXLPI010000001.1	Genbank	CDS	3963640	3963729	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001499-T1_mrna"; gene_id "gene-LTR96_001499"; gene_name "VPS11";
+JAXLPI010000001.1	Genbank	CDS	3963778	3964716	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001499-T1_mrna"; gene_id "gene-LTR96_001499"; gene_name "VPS11";
+JAXLPI010000001.1	Genbank	CDS	3964765	3966690	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001499-T1_mrna"; gene_id "gene-LTR96_001499"; gene_name "VPS11";
+JAXLPI010000001.1	Genbank	transcript	4055319	4058438	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001540-T1_mrna"; gene_id "gene-LTR96_001540"; gene_name "MAK21"
+JAXLPI010000001.1	Genbank	exon	4055319	4058438	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001540-T1_mrna"; gene_id "gene-LTR96_001540"; gene_name "MAK21";
+JAXLPI010000001.1	Genbank	CDS	4055319	4058438	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001540-T1_mrna"; gene_id "gene-LTR96_001540"; gene_name "MAK21";
+JAXLPI010000001.1	Genbank	transcript	4103387	4105036	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001561-T1_mrna"; gene_id "gene-LTR96_001561"; gene_name "PWP1"
+JAXLPI010000001.1	Genbank	exon	4103387	4105036	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001561-T1_mrna"; gene_id "gene-LTR96_001561"; gene_name "PWP1";
+JAXLPI010000001.1	Genbank	CDS	4103387	4105036	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001561-T1_mrna"; gene_id "gene-LTR96_001561"; gene_name "PWP1";
+JAXLPI010000001.1	Genbank	transcript	4180725	4183262	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001590-T1_mrna"; gene_id "gene-LTR96_001590"; gene_name "DBP7"
+JAXLPI010000001.1	Genbank	exon	4180725	4183262	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001590-T1_mrna"; gene_id "gene-LTR96_001590"; gene_name "DBP7";
+JAXLPI010000001.1	Genbank	CDS	4180725	4183262	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001590-T1_mrna"; gene_id "gene-LTR96_001590"; gene_name "DBP7";
+JAXLPI010000001.1	Genbank	transcript	4278327	4280609	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001629-T1_mrna"; gene_id "gene-LTR96_001629"; gene_name "ESF1"
+JAXLPI010000001.1	Genbank	exon	4278327	4280609	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001629-T1_mrna"; gene_id "gene-LTR96_001629"; gene_name "ESF1";
+JAXLPI010000001.1	Genbank	CDS	4278327	4280609	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001629-T1_mrna"; gene_id "gene-LTR96_001629"; gene_name "ESF1";
+JAXLPI010000002.1	Genbank	transcript	255246	256539	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001740-T1_mrna"; gene_id "gene-LTR96_001740"; gene_name "DOM34"
+JAXLPI010000002.1	Genbank	exon	255246	255323	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001740-T1_mrna"; gene_id "gene-LTR96_001740"; gene_name "DOM34";
+JAXLPI010000002.1	Genbank	exon	255376	256539	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001740-T1_mrna"; gene_id "gene-LTR96_001740"; gene_name "DOM34";
+JAXLPI010000002.1	Genbank	CDS	255246	255323	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001740-T1_mrna"; gene_id "gene-LTR96_001740"; gene_name "DOM34";
+JAXLPI010000002.1	Genbank	CDS	255376	256539	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001740-T1_mrna"; gene_id "gene-LTR96_001740"; gene_name "DOM34";
+JAXLPI010000002.1	Genbank	transcript	425110	427962	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001809-T1_mrna"; gene_id "gene-LTR96_001809"; gene_name "utp13"
+JAXLPI010000002.1	Genbank	exon	425110	427962	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001809-T1_mrna"; gene_id "gene-LTR96_001809"; gene_name "utp13";
+JAXLPI010000002.1	Genbank	CDS	425110	427962	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001809-T1_mrna"; gene_id "gene-LTR96_001809"; gene_name "utp13";
+JAXLPI010000002.1	Genbank	transcript	432593	434365	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001813-T1_mrna"; gene_id "gene-LTR96_001813"; gene_name "RRP9"
+JAXLPI010000002.1	Genbank	exon	432593	433268	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001813-T1_mrna"; gene_id "gene-LTR96_001813"; gene_name "RRP9";
+JAXLPI010000002.1	Genbank	exon	433290	434365	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001813-T1_mrna"; gene_id "gene-LTR96_001813"; gene_name "RRP9";
+JAXLPI010000002.1	Genbank	CDS	432593	433268	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001813-T1_mrna"; gene_id "gene-LTR96_001813"; gene_name "RRP9";
+JAXLPI010000002.1	Genbank	CDS	433290	434365	.	+	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001813-T1_mrna"; gene_id "gene-LTR96_001813"; gene_name "RRP9";
+JAXLPI010000002.1	Genbank	transcript	522985	524082	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001851-T1_mrna"; gene_id "gene-LTR96_001851"; gene_name "MED6"
+JAXLPI010000002.1	Genbank	exon	522985	523536	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001851-T1_mrna"; gene_id "gene-LTR96_001851"; gene_name "MED6";
+JAXLPI010000002.1	Genbank	exon	523592	523947	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001851-T1_mrna"; gene_id "gene-LTR96_001851"; gene_name "MED6";
+JAXLPI010000002.1	Genbank	exon	523992	524082	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001851-T1_mrna"; gene_id "gene-LTR96_001851"; gene_name "MED6";
+JAXLPI010000002.1	Genbank	CDS	522985	523536	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001851-T1_mrna"; gene_id "gene-LTR96_001851"; gene_name "MED6";
+JAXLPI010000002.1	Genbank	CDS	523592	523947	.	-	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001851-T1_mrna"; gene_id "gene-LTR96_001851"; gene_name "MED6";
+JAXLPI010000002.1	Genbank	CDS	523992	524082	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_001851-T1_mrna"; gene_id "gene-LTR96_001851"; gene_name "MED6";
+JAXLPI010000002.1	Genbank	transcript	1054060	1055226	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002034-T1_mrna"; gene_id "gene-LTR96_002034"; gene_name "ATG3"
+JAXLPI010000002.1	Genbank	exon	1054060	1054639	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002034-T1_mrna"; gene_id "gene-LTR96_002034"; gene_name "ATG3";
+JAXLPI010000002.1	Genbank	exon	1054691	1055226	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002034-T1_mrna"; gene_id "gene-LTR96_002034"; gene_name "ATG3";
+JAXLPI010000002.1	Genbank	CDS	1054060	1054639	.	-	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002034-T1_mrna"; gene_id "gene-LTR96_002034"; gene_name "ATG3";
+JAXLPI010000002.1	Genbank	CDS	1054691	1055226	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002034-T1_mrna"; gene_id "gene-LTR96_002034"; gene_name "ATG3";
+JAXLPI010000002.1	Genbank	transcript	1454751	1455317	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002182-T1_mrna"; gene_id "gene-LTR96_002182"; gene_name "imp3"
+JAXLPI010000002.1	Genbank	exon	1454751	1455317	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002182-T1_mrna"; gene_id "gene-LTR96_002182"; gene_name "imp3";
+JAXLPI010000002.1	Genbank	CDS	1454751	1455317	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002182-T1_mrna"; gene_id "gene-LTR96_002182"; gene_name "imp3";
+JAXLPI010000002.1	Genbank	transcript	1957117	1958563	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002370-T1_mrna"; gene_id "gene-LTR96_002370"; gene_name "GCD7"
+JAXLPI010000002.1	Genbank	exon	1957117	1958416	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002370-T1_mrna"; gene_id "gene-LTR96_002370"; gene_name "GCD7";
+JAXLPI010000002.1	Genbank	exon	1958466	1958563	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002370-T1_mrna"; gene_id "gene-LTR96_002370"; gene_name "GCD7";
+JAXLPI010000002.1	Genbank	CDS	1957117	1958416	.	-	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002370-T1_mrna"; gene_id "gene-LTR96_002370"; gene_name "GCD7";
+JAXLPI010000002.1	Genbank	CDS	1958466	1958563	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002370-T1_mrna"; gene_id "gene-LTR96_002370"; gene_name "GCD7";
+JAXLPI010000002.1	Genbank	transcript	1984052	1985132	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002380-T1_mrna"; gene_id "gene-LTR96_002380"
+JAXLPI010000002.1	Genbank	exon	1984052	1984981	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002380-T1_mrna"; gene_id "gene-LTR96_002380";
+JAXLPI010000002.1	Genbank	exon	1985028	1985132	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002380-T1_mrna"; gene_id "gene-LTR96_002380";
+JAXLPI010000002.1	Genbank	CDS	1984052	1984981	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002380-T1_mrna"; gene_id "gene-LTR96_002380";
+JAXLPI010000002.1	Genbank	CDS	1985028	1985132	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002380-T1_mrna"; gene_id "gene-LTR96_002380";
+JAXLPI010000002.1	Genbank	transcript	2015890	2018069	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002390-T1_mrna"; gene_id "gene-LTR96_002390"; gene_name "UTP25"
+JAXLPI010000002.1	Genbank	exon	2015890	2015903	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002390-T1_mrna"; gene_id "gene-LTR96_002390"; gene_name "UTP25";
+JAXLPI010000002.1	Genbank	exon	2015960	2018069	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002390-T1_mrna"; gene_id "gene-LTR96_002390"; gene_name "UTP25";
+JAXLPI010000002.1	Genbank	CDS	2015890	2015903	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002390-T1_mrna"; gene_id "gene-LTR96_002390"; gene_name "UTP25";
+JAXLPI010000002.1	Genbank	CDS	2015960	2018069	.	+	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002390-T1_mrna"; gene_id "gene-LTR96_002390"; gene_name "UTP25";
+JAXLPI010000002.1	Genbank	transcript	2211334	2212968	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002468-T1_mrna"; gene_id "gene-LTR96_002468"; gene_name "RSA4"
+JAXLPI010000002.1	Genbank	exon	2211334	2212689	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002468-T1_mrna"; gene_id "gene-LTR96_002468"; gene_name "RSA4";
+JAXLPI010000002.1	Genbank	exon	2212744	2212968	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002468-T1_mrna"; gene_id "gene-LTR96_002468"; gene_name "RSA4";
+JAXLPI010000002.1	Genbank	CDS	2211334	2212689	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002468-T1_mrna"; gene_id "gene-LTR96_002468"; gene_name "RSA4";
+JAXLPI010000002.1	Genbank	CDS	2212744	2212968	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002468-T1_mrna"; gene_id "gene-LTR96_002468"; gene_name "RSA4";
+JAXLPI010000002.1	Genbank	transcript	2269461	2270839	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002492-T1_mrna"; gene_id "gene-LTR96_002492"
+JAXLPI010000002.1	Genbank	exon	2269461	2270293	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002492-T1_mrna"; gene_id "gene-LTR96_002492";
+JAXLPI010000002.1	Genbank	exon	2270347	2270839	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002492-T1_mrna"; gene_id "gene-LTR96_002492";
+JAXLPI010000002.1	Genbank	CDS	2269461	2270293	.	-	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002492-T1_mrna"; gene_id "gene-LTR96_002492";
+JAXLPI010000002.1	Genbank	CDS	2270347	2270839	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002492-T1_mrna"; gene_id "gene-LTR96_002492";
+JAXLPI010000002.1	Genbank	transcript	2425521	2427002	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002553-T1_mrna"; gene_id "gene-LTR96_002553"; gene_name "MAK11"
+JAXLPI010000002.1	Genbank	exon	2425521	2427002	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002553-T1_mrna"; gene_id "gene-LTR96_002553"; gene_name "MAK11";
+JAXLPI010000002.1	Genbank	CDS	2425521	2427002	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002553-T1_mrna"; gene_id "gene-LTR96_002553"; gene_name "MAK11";
+JAXLPI010000002.1	Genbank	transcript	2432416	2433931	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002555-T1_mrna"; gene_id "gene-LTR96_002555"
+JAXLPI010000002.1	Genbank	exon	2432416	2433608	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002555-T1_mrna"; gene_id "gene-LTR96_002555";
+JAXLPI010000002.1	Genbank	exon	2433670	2433931	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002555-T1_mrna"; gene_id "gene-LTR96_002555";
+JAXLPI010000002.1	Genbank	CDS	2432416	2433608	.	-	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002555-T1_mrna"; gene_id "gene-LTR96_002555";
+JAXLPI010000002.1	Genbank	CDS	2433670	2433931	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002555-T1_mrna"; gene_id "gene-LTR96_002555";
+JAXLPI010000002.1	Genbank	transcript	2685169	2687154	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002660-T1_mrna"; gene_id "gene-LTR96_002660"; gene_name "GPD1_2"
+JAXLPI010000002.1	Genbank	exon	2685169	2687154	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002660-T1_mrna"; gene_id "gene-LTR96_002660"; gene_name "GPD1_2";
+JAXLPI010000002.1	Genbank	CDS	2685169	2687154	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002660-T1_mrna"; gene_id "gene-LTR96_002660"; gene_name "GPD1_2";
+JAXLPI010000002.1	Genbank	transcript	3322803	3323744	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002901-T1_mrna"; gene_id "gene-LTR96_002901"; gene_name "oca3"
+JAXLPI010000002.1	Genbank	exon	3322803	3323744	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002901-T1_mrna"; gene_id "gene-LTR96_002901"; gene_name "oca3";
+JAXLPI010000002.1	Genbank	CDS	3322803	3323744	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_002901-T1_mrna"; gene_id "gene-LTR96_002901"; gene_name "oca3";
+JAXLPI010000003.1	Genbank	transcript	339442	342204	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003096-T1_mrna"; gene_id "gene-LTR96_003096"; gene_name "cbc1"
+JAXLPI010000003.1	Genbank	exon	339442	339525	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003096-T1_mrna"; gene_id "gene-LTR96_003096"; gene_name "cbc1";
+JAXLPI010000003.1	Genbank	exon	339728	339834	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003096-T1_mrna"; gene_id "gene-LTR96_003096"; gene_name "cbc1";
+JAXLPI010000003.1	Genbank	exon	339886	340153	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003096-T1_mrna"; gene_id "gene-LTR96_003096"; gene_name "cbc1";
+JAXLPI010000003.1	Genbank	exon	340208	341100	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003096-T1_mrna"; gene_id "gene-LTR96_003096"; gene_name "cbc1";
+JAXLPI010000003.1	Genbank	exon	341151	342204	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003096-T1_mrna"; gene_id "gene-LTR96_003096"; gene_name "cbc1";
+JAXLPI010000003.1	Genbank	CDS	339442	339525	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003096-T1_mrna"; gene_id "gene-LTR96_003096"; gene_name "cbc1";
+JAXLPI010000003.1	Genbank	CDS	339728	339834	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003096-T1_mrna"; gene_id "gene-LTR96_003096"; gene_name "cbc1";
+JAXLPI010000003.1	Genbank	CDS	339886	340153	.	+	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003096-T1_mrna"; gene_id "gene-LTR96_003096"; gene_name "cbc1";
+JAXLPI010000003.1	Genbank	CDS	340208	341100	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003096-T1_mrna"; gene_id "gene-LTR96_003096"; gene_name "cbc1";
+JAXLPI010000003.1	Genbank	CDS	341151	342204	.	+	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003096-T1_mrna"; gene_id "gene-LTR96_003096"; gene_name "cbc1";
+JAXLPI010000003.1	Genbank	transcript	464747	467098	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003139-T1_mrna"; gene_id "gene-LTR96_003139"; gene_name "COG3"
+JAXLPI010000003.1	Genbank	exon	464747	464883	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003139-T1_mrna"; gene_id "gene-LTR96_003139"; gene_name "COG3";
+JAXLPI010000003.1	Genbank	exon	464932	467098	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003139-T1_mrna"; gene_id "gene-LTR96_003139"; gene_name "COG3";
+JAXLPI010000003.1	Genbank	CDS	464747	464883	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003139-T1_mrna"; gene_id "gene-LTR96_003139"; gene_name "COG3";
+JAXLPI010000003.1	Genbank	CDS	464932	467098	.	+	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003139-T1_mrna"; gene_id "gene-LTR96_003139"; gene_name "COG3";
+JAXLPI010000003.1	Genbank	transcript	599931	600861	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003191-T1_mrna"; gene_id "gene-LTR96_003191"
+JAXLPI010000003.1	Genbank	exon	599931	600034	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003191-T1_mrna"; gene_id "gene-LTR96_003191";
+JAXLPI010000003.1	Genbank	exon	600095	600185	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003191-T1_mrna"; gene_id "gene-LTR96_003191";
+JAXLPI010000003.1	Genbank	exon	600232	600396	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003191-T1_mrna"; gene_id "gene-LTR96_003191";
+JAXLPI010000003.1	Genbank	exon	600444	600546	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003191-T1_mrna"; gene_id "gene-LTR96_003191";
+JAXLPI010000003.1	Genbank	exon	600608	600861	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003191-T1_mrna"; gene_id "gene-LTR96_003191";
+JAXLPI010000003.1	Genbank	CDS	599931	600034	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003191-T1_mrna"; gene_id "gene-LTR96_003191";
+JAXLPI010000003.1	Genbank	CDS	600095	600185	.	+	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003191-T1_mrna"; gene_id "gene-LTR96_003191";
+JAXLPI010000003.1	Genbank	CDS	600232	600396	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003191-T1_mrna"; gene_id "gene-LTR96_003191";
+JAXLPI010000003.1	Genbank	CDS	600444	600546	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003191-T1_mrna"; gene_id "gene-LTR96_003191";
+JAXLPI010000003.1	Genbank	CDS	600608	600861	.	+	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003191-T1_mrna"; gene_id "gene-LTR96_003191";
+JAXLPI010000003.1	Genbank	transcript	778601	779176	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003253-T1_mrna"; gene_id "gene-LTR96_003253"; gene_name "FAP7"
+JAXLPI010000003.1	Genbank	exon	778601	779176	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003253-T1_mrna"; gene_id "gene-LTR96_003253"; gene_name "FAP7";
+JAXLPI010000003.1	Genbank	CDS	778601	779176	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003253-T1_mrna"; gene_id "gene-LTR96_003253"; gene_name "FAP7";
+JAXLPI010000003.1	Genbank	transcript	841944	843230	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003272-T1_mrna"; gene_id "gene-LTR96_003272"; gene_name "MSW1"
+JAXLPI010000003.1	Genbank	exon	841944	841997	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003272-T1_mrna"; gene_id "gene-LTR96_003272"; gene_name "MSW1";
+JAXLPI010000003.1	Genbank	exon	842047	842127	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003272-T1_mrna"; gene_id "gene-LTR96_003272"; gene_name "MSW1";
+JAXLPI010000003.1	Genbank	exon	842181	842296	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003272-T1_mrna"; gene_id "gene-LTR96_003272"; gene_name "MSW1";
+JAXLPI010000003.1	Genbank	exon	842349	842485	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003272-T1_mrna"; gene_id "gene-LTR96_003272"; gene_name "MSW1";
+JAXLPI010000003.1	Genbank	exon	842542	843230	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003272-T1_mrna"; gene_id "gene-LTR96_003272"; gene_name "MSW1";
+JAXLPI010000003.1	Genbank	CDS	841944	841997	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003272-T1_mrna"; gene_id "gene-LTR96_003272"; gene_name "MSW1";
+JAXLPI010000003.1	Genbank	CDS	842047	842127	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003272-T1_mrna"; gene_id "gene-LTR96_003272"; gene_name "MSW1";
+JAXLPI010000003.1	Genbank	CDS	842181	842296	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003272-T1_mrna"; gene_id "gene-LTR96_003272"; gene_name "MSW1";
+JAXLPI010000003.1	Genbank	CDS	842349	842485	.	+	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003272-T1_mrna"; gene_id "gene-LTR96_003272"; gene_name "MSW1";
+JAXLPI010000003.1	Genbank	CDS	842542	843230	.	+	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003272-T1_mrna"; gene_id "gene-LTR96_003272"; gene_name "MSW1";
+JAXLPI010000003.1	Genbank	transcript	914013	915364	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003300-T1_mrna"; gene_id "gene-LTR96_003300"; gene_name "FYV10"
+JAXLPI010000003.1	Genbank	exon	914013	914066	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003300-T1_mrna"; gene_id "gene-LTR96_003300"; gene_name "FYV10";
+JAXLPI010000003.1	Genbank	exon	914120	915364	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003300-T1_mrna"; gene_id "gene-LTR96_003300"; gene_name "FYV10";
+JAXLPI010000003.1	Genbank	CDS	914013	914066	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003300-T1_mrna"; gene_id "gene-LTR96_003300"; gene_name "FYV10";
+JAXLPI010000003.1	Genbank	CDS	914120	915364	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003300-T1_mrna"; gene_id "gene-LTR96_003300"; gene_name "FYV10";
+JAXLPI010000003.1	Genbank	transcript	929512	929918	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003307-T1_mrna"; gene_id "gene-LTR96_003307"; gene_name "SPT4"
+JAXLPI010000003.1	Genbank	exon	929512	929802	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003307-T1_mrna"; gene_id "gene-LTR96_003307"; gene_name "SPT4";
+JAXLPI010000003.1	Genbank	exon	929856	929918	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003307-T1_mrna"; gene_id "gene-LTR96_003307"; gene_name "SPT4";
+JAXLPI010000003.1	Genbank	CDS	929512	929802	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003307-T1_mrna"; gene_id "gene-LTR96_003307"; gene_name "SPT4";
+JAXLPI010000003.1	Genbank	CDS	929856	929918	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003307-T1_mrna"; gene_id "gene-LTR96_003307"; gene_name "SPT4";
+JAXLPI010000003.1	Genbank	transcript	1090596	1091966	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003374-T1_mrna"; gene_id "gene-LTR96_003374"
+JAXLPI010000003.1	Genbank	exon	1090596	1091218	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003374-T1_mrna"; gene_id "gene-LTR96_003374";
+JAXLPI010000003.1	Genbank	exon	1091376	1091749	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003374-T1_mrna"; gene_id "gene-LTR96_003374";
+JAXLPI010000003.1	Genbank	exon	1091923	1091966	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003374-T1_mrna"; gene_id "gene-LTR96_003374";
+JAXLPI010000003.1	Genbank	CDS	1090596	1091218	.	-	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003374-T1_mrna"; gene_id "gene-LTR96_003374";
+JAXLPI010000003.1	Genbank	CDS	1091376	1091749	.	-	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003374-T1_mrna"; gene_id "gene-LTR96_003374";
+JAXLPI010000003.1	Genbank	CDS	1091923	1091966	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003374-T1_mrna"; gene_id "gene-LTR96_003374";
+JAXLPI010000003.1	Genbank	transcript	1177857	1179187	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003405-T1_mrna"; gene_id "gene-LTR96_003405"
+JAXLPI010000003.1	Genbank	exon	1177857	1177886	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003405-T1_mrna"; gene_id "gene-LTR96_003405";
+JAXLPI010000003.1	Genbank	exon	1177943	1179187	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003405-T1_mrna"; gene_id "gene-LTR96_003405";
+JAXLPI010000003.1	Genbank	CDS	1177857	1177886	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003405-T1_mrna"; gene_id "gene-LTR96_003405";
+JAXLPI010000003.1	Genbank	CDS	1177943	1179187	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003405-T1_mrna"; gene_id "gene-LTR96_003405";
+JAXLPI010000003.1	Genbank	transcript	1355082	1356080	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003465-T1_mrna"; gene_id "gene-LTR96_003465"
+JAXLPI010000003.1	Genbank	exon	1355082	1356080	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003465-T1_mrna"; gene_id "gene-LTR96_003465";
+JAXLPI010000003.1	Genbank	CDS	1355082	1356080	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003465-T1_mrna"; gene_id "gene-LTR96_003465";
+JAXLPI010000003.1	Genbank	transcript	1433149	1435866	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003496-T1_mrna"; gene_id "gene-LTR96_003496"; gene_name "NOP14"
+JAXLPI010000003.1	Genbank	exon	1433149	1434423	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003496-T1_mrna"; gene_id "gene-LTR96_003496"; gene_name "NOP14";
+JAXLPI010000003.1	Genbank	exon	1434463	1435866	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003496-T1_mrna"; gene_id "gene-LTR96_003496"; gene_name "NOP14";
+JAXLPI010000003.1	Genbank	CDS	1433149	1434423	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003496-T1_mrna"; gene_id "gene-LTR96_003496"; gene_name "NOP14";
+JAXLPI010000003.1	Genbank	CDS	1434463	1435866	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003496-T1_mrna"; gene_id "gene-LTR96_003496"; gene_name "NOP14";
+JAXLPI010000003.1	Genbank	transcript	1624740	1626308	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003574-T1_mrna"; gene_id "gene-LTR96_003574"; gene_name "ENP1"
+JAXLPI010000003.1	Genbank	exon	1624740	1626308	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003574-T1_mrna"; gene_id "gene-LTR96_003574"; gene_name "ENP1";
+JAXLPI010000003.1	Genbank	CDS	1624740	1626308	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003574-T1_mrna"; gene_id "gene-LTR96_003574"; gene_name "ENP1";
+JAXLPI010000003.1	Genbank	transcript	1640498	1641911	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003581-T1_mrna"; gene_id "gene-LTR96_003581"; gene_name "CWC26"
+JAXLPI010000003.1	Genbank	exon	1640498	1641708	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003581-T1_mrna"; gene_id "gene-LTR96_003581"; gene_name "CWC26";
+JAXLPI010000003.1	Genbank	exon	1641773	1641911	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003581-T1_mrna"; gene_id "gene-LTR96_003581"; gene_name "CWC26";
+JAXLPI010000003.1	Genbank	CDS	1640498	1641708	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003581-T1_mrna"; gene_id "gene-LTR96_003581"; gene_name "CWC26";
+JAXLPI010000003.1	Genbank	CDS	1641773	1641911	.	+	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003581-T1_mrna"; gene_id "gene-LTR96_003581"; gene_name "CWC26";
+JAXLPI010000003.1	Genbank	transcript	1740429	1742101	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003611-T1_mrna"; gene_id "gene-LTR96_003611"
+JAXLPI010000003.1	Genbank	exon	1740429	1741793	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003611-T1_mrna"; gene_id "gene-LTR96_003611";
+JAXLPI010000003.1	Genbank	exon	1741846	1741946	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003611-T1_mrna"; gene_id "gene-LTR96_003611";
+JAXLPI010000003.1	Genbank	exon	1741999	1742101	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003611-T1_mrna"; gene_id "gene-LTR96_003611";
+JAXLPI010000003.1	Genbank	CDS	1740429	1741793	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003611-T1_mrna"; gene_id "gene-LTR96_003611";
+JAXLPI010000003.1	Genbank	CDS	1741846	1741946	.	-	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003611-T1_mrna"; gene_id "gene-LTR96_003611";
+JAXLPI010000003.1	Genbank	CDS	1741999	1742101	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003611-T1_mrna"; gene_id "gene-LTR96_003611";
+JAXLPI010000003.1	Genbank	transcript	1806909	1807533	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003636-T1_mrna"; gene_id "gene-LTR96_003636"; gene_name "naa20"
+JAXLPI010000003.1	Genbank	exon	1806909	1807111	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003636-T1_mrna"; gene_id "gene-LTR96_003636"; gene_name "naa20";
+JAXLPI010000003.1	Genbank	exon	1807167	1807533	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003636-T1_mrna"; gene_id "gene-LTR96_003636"; gene_name "naa20";
+JAXLPI010000003.1	Genbank	CDS	1806909	1807111	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003636-T1_mrna"; gene_id "gene-LTR96_003636"; gene_name "naa20";
+JAXLPI010000003.1	Genbank	CDS	1807167	1807533	.	+	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003636-T1_mrna"; gene_id "gene-LTR96_003636"; gene_name "naa20";
+JAXLPI010000003.1	Genbank	transcript	2015492	2016958	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003727-T1_mrna"; gene_id "gene-LTR96_003727"; gene_name "TRM61"
+JAXLPI010000003.1	Genbank	exon	2015492	2016958	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003727-T1_mrna"; gene_id "gene-LTR96_003727"; gene_name "TRM61";
+JAXLPI010000003.1	Genbank	CDS	2015492	2016958	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003727-T1_mrna"; gene_id "gene-LTR96_003727"; gene_name "TRM61";
+JAXLPI010000004.1	Genbank	transcript	400394	402230	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003938-T1_mrna"; gene_id "gene-LTR96_003938"; gene_name "COX15"
+JAXLPI010000004.1	Genbank	exon	400394	400875	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003938-T1_mrna"; gene_id "gene-LTR96_003938"; gene_name "COX15";
+JAXLPI010000004.1	Genbank	exon	400961	402230	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003938-T1_mrna"; gene_id "gene-LTR96_003938"; gene_name "COX15";
+JAXLPI010000004.1	Genbank	CDS	400394	400875	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003938-T1_mrna"; gene_id "gene-LTR96_003938"; gene_name "COX15";
+JAXLPI010000004.1	Genbank	CDS	400961	402230	.	+	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003938-T1_mrna"; gene_id "gene-LTR96_003938"; gene_name "COX15";
+JAXLPI010000004.1	Genbank	transcript	439432	440957	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003954-T1_mrna"; gene_id "gene-LTR96_003954"; gene_name "HAT1"
+JAXLPI010000004.1	Genbank	exon	439432	440882	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003954-T1_mrna"; gene_id "gene-LTR96_003954"; gene_name "HAT1";
+JAXLPI010000004.1	Genbank	exon	440936	440957	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003954-T1_mrna"; gene_id "gene-LTR96_003954"; gene_name "HAT1";
+JAXLPI010000004.1	Genbank	CDS	439432	440882	.	-	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003954-T1_mrna"; gene_id "gene-LTR96_003954"; gene_name "HAT1";
+JAXLPI010000004.1	Genbank	CDS	440936	440957	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_003954-T1_mrna"; gene_id "gene-LTR96_003954"; gene_name "HAT1";
+JAXLPI010000004.1	Genbank	transcript	830597	831331	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004091-T1_mrna"; gene_id "gene-LTR96_004091"; gene_name "NOP16"
+JAXLPI010000004.1	Genbank	exon	830597	831155	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004091-T1_mrna"; gene_id "gene-LTR96_004091"; gene_name "NOP16";
+JAXLPI010000004.1	Genbank	exon	831204	831331	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004091-T1_mrna"; gene_id "gene-LTR96_004091"; gene_name "NOP16";
+JAXLPI010000004.1	Genbank	CDS	830597	831155	.	-	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004091-T1_mrna"; gene_id "gene-LTR96_004091"; gene_name "NOP16";
+JAXLPI010000004.1	Genbank	CDS	831204	831331	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004091-T1_mrna"; gene_id "gene-LTR96_004091"; gene_name "NOP16";
+JAXLPI010000004.1	Genbank	transcript	910353	912961	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004118-T1_mrna"; gene_id "gene-LTR96_004118"; gene_name "MCM2"
+JAXLPI010000004.1	Genbank	exon	910353	910526	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004118-T1_mrna"; gene_id "gene-LTR96_004118"; gene_name "MCM2";
+JAXLPI010000004.1	Genbank	exon	910578	912823	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004118-T1_mrna"; gene_id "gene-LTR96_004118"; gene_name "MCM2";
+JAXLPI010000004.1	Genbank	exon	912871	912961	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004118-T1_mrna"; gene_id "gene-LTR96_004118"; gene_name "MCM2";
+JAXLPI010000004.1	Genbank	CDS	910353	910526	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004118-T1_mrna"; gene_id "gene-LTR96_004118"; gene_name "MCM2";
+JAXLPI010000004.1	Genbank	CDS	910578	912823	.	-	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004118-T1_mrna"; gene_id "gene-LTR96_004118"; gene_name "MCM2";
+JAXLPI010000004.1	Genbank	CDS	912871	912961	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004118-T1_mrna"; gene_id "gene-LTR96_004118"; gene_name "MCM2";
+JAXLPI010000004.1	Genbank	transcript	1152462	1154270	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004208-T1_mrna"; gene_id "gene-LTR96_004208"; gene_name "FRS1"
+JAXLPI010000004.1	Genbank	exon	1152462	1152921	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004208-T1_mrna"; gene_id "gene-LTR96_004208"; gene_name "FRS1";
+JAXLPI010000004.1	Genbank	exon	1152949	1154270	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004208-T1_mrna"; gene_id "gene-LTR96_004208"; gene_name "FRS1";
+JAXLPI010000004.1	Genbank	CDS	1152462	1152921	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004208-T1_mrna"; gene_id "gene-LTR96_004208"; gene_name "FRS1";
+JAXLPI010000004.1	Genbank	CDS	1152949	1154270	.	+	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004208-T1_mrna"; gene_id "gene-LTR96_004208"; gene_name "FRS1";
+JAXLPI010000005.1	Genbank	transcript	1062054	1064517	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004805-T1_mrna"; gene_id "gene-LTR96_004805"; gene_name "MAK10"
+JAXLPI010000005.1	Genbank	exon	1062054	1063808	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004805-T1_mrna"; gene_id "gene-LTR96_004805"; gene_name "MAK10";
+JAXLPI010000005.1	Genbank	exon	1063860	1064093	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004805-T1_mrna"; gene_id "gene-LTR96_004805"; gene_name "MAK10";
+JAXLPI010000005.1	Genbank	exon	1064145	1064273	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004805-T1_mrna"; gene_id "gene-LTR96_004805"; gene_name "MAK10";
+JAXLPI010000005.1	Genbank	exon	1064326	1064517	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004805-T1_mrna"; gene_id "gene-LTR96_004805"; gene_name "MAK10";
+JAXLPI010000005.1	Genbank	CDS	1062054	1063808	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004805-T1_mrna"; gene_id "gene-LTR96_004805"; gene_name "MAK10";
+JAXLPI010000005.1	Genbank	CDS	1063860	1064093	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004805-T1_mrna"; gene_id "gene-LTR96_004805"; gene_name "MAK10";
+JAXLPI010000005.1	Genbank	CDS	1064145	1064273	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004805-T1_mrna"; gene_id "gene-LTR96_004805"; gene_name "MAK10";
+JAXLPI010000005.1	Genbank	CDS	1064326	1064517	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004805-T1_mrna"; gene_id "gene-LTR96_004805"; gene_name "MAK10";
+JAXLPI010000005.1	Genbank	transcript	1144218	1145312	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004841-T1_mrna"; gene_id "gene-LTR96_004841"
+JAXLPI010000005.1	Genbank	exon	1144218	1145312	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004841-T1_mrna"; gene_id "gene-LTR96_004841";
+JAXLPI010000005.1	Genbank	CDS	1144218	1145312	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004841-T1_mrna"; gene_id "gene-LTR96_004841";
+JAXLPI010000005.1	Genbank	transcript	1228641	1230475	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004878-T1_mrna"; gene_id "gene-LTR96_004878"; gene_name "TRM6"
+JAXLPI010000005.1	Genbank	exon	1228641	1228729	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004878-T1_mrna"; gene_id "gene-LTR96_004878"; gene_name "TRM6";
+JAXLPI010000005.1	Genbank	exon	1228810	1230475	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004878-T1_mrna"; gene_id "gene-LTR96_004878"; gene_name "TRM6";
+JAXLPI010000005.1	Genbank	CDS	1228641	1228729	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004878-T1_mrna"; gene_id "gene-LTR96_004878"; gene_name "TRM6";
+JAXLPI010000005.1	Genbank	CDS	1228810	1230475	.	+	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004878-T1_mrna"; gene_id "gene-LTR96_004878"; gene_name "TRM6";
+JAXLPI010000005.1	Genbank	transcript	1281821	1284595	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004900-T1_mrna"; gene_id "gene-LTR96_004900"; gene_name "PWP2"
+JAXLPI010000005.1	Genbank	exon	1281821	1284359	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004900-T1_mrna"; gene_id "gene-LTR96_004900"; gene_name "PWP2";
+JAXLPI010000005.1	Genbank	exon	1284415	1284527	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004900-T1_mrna"; gene_id "gene-LTR96_004900"; gene_name "PWP2";
+JAXLPI010000005.1	Genbank	exon	1284578	1284595	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004900-T1_mrna"; gene_id "gene-LTR96_004900"; gene_name "PWP2";
+JAXLPI010000005.1	Genbank	CDS	1281821	1284359	.	-	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004900-T1_mrna"; gene_id "gene-LTR96_004900"; gene_name "PWP2";
+JAXLPI010000005.1	Genbank	CDS	1284415	1284527	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004900-T1_mrna"; gene_id "gene-LTR96_004900"; gene_name "PWP2";
+JAXLPI010000005.1	Genbank	CDS	1284578	1284595	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_004900-T1_mrna"; gene_id "gene-LTR96_004900"; gene_name "PWP2";
+JAXLPI010000006.1	Genbank	transcript	251620	252270	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005078-T1_mrna"; gene_id "gene-LTR96_005078"
+JAXLPI010000006.1	Genbank	exon	251620	252270	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005078-T1_mrna"; gene_id "gene-LTR96_005078";
+JAXLPI010000006.1	Genbank	CDS	251620	252270	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005078-T1_mrna"; gene_id "gene-LTR96_005078";
+JAXLPI010000006.1	Genbank	transcript	540752	542491	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005195-T1_mrna"; gene_id "gene-LTR96_005195"; gene_name "prp3"
+JAXLPI010000006.1	Genbank	exon	540752	542491	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005195-T1_mrna"; gene_id "gene-LTR96_005195"; gene_name "prp3";
+JAXLPI010000006.1	Genbank	CDS	540752	542491	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005195-T1_mrna"; gene_id "gene-LTR96_005195"; gene_name "prp3";
+JAXLPI010000006.1	Genbank	transcript	630235	632214	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005232-T1_mrna"; gene_id "gene-LTR96_005232"; gene_name "PCM1"
+JAXLPI010000006.1	Genbank	exon	630235	630381	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005232-T1_mrna"; gene_id "gene-LTR96_005232"; gene_name "PCM1";
+JAXLPI010000006.1	Genbank	exon	630430	630443	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005232-T1_mrna"; gene_id "gene-LTR96_005232"; gene_name "PCM1";
+JAXLPI010000006.1	Genbank	exon	630523	630667	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005232-T1_mrna"; gene_id "gene-LTR96_005232"; gene_name "PCM1";
+JAXLPI010000006.1	Genbank	exon	630720	630734	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005232-T1_mrna"; gene_id "gene-LTR96_005232"; gene_name "PCM1";
+JAXLPI010000006.1	Genbank	exon	630783	631304	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005232-T1_mrna"; gene_id "gene-LTR96_005232"; gene_name "PCM1";
+JAXLPI010000006.1	Genbank	exon	631354	632214	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005232-T1_mrna"; gene_id "gene-LTR96_005232"; gene_name "PCM1";
+JAXLPI010000006.1	Genbank	CDS	630235	630381	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005232-T1_mrna"; gene_id "gene-LTR96_005232"; gene_name "PCM1";
+JAXLPI010000006.1	Genbank	CDS	630430	630443	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005232-T1_mrna"; gene_id "gene-LTR96_005232"; gene_name "PCM1";
+JAXLPI010000006.1	Genbank	CDS	630523	630667	.	+	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005232-T1_mrna"; gene_id "gene-LTR96_005232"; gene_name "PCM1";
+JAXLPI010000006.1	Genbank	CDS	630720	630734	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005232-T1_mrna"; gene_id "gene-LTR96_005232"; gene_name "PCM1";
+JAXLPI010000006.1	Genbank	CDS	630783	631304	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005232-T1_mrna"; gene_id "gene-LTR96_005232"; gene_name "PCM1";
+JAXLPI010000006.1	Genbank	CDS	631354	632214	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005232-T1_mrna"; gene_id "gene-LTR96_005232"; gene_name "PCM1";
+JAXLPI010000006.1	Genbank	transcript	905530	907399	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005331-T1_mrna"; gene_id "gene-LTR96_005331"
+JAXLPI010000006.1	Genbank	exon	905530	905629	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005331-T1_mrna"; gene_id "gene-LTR96_005331";
+JAXLPI010000006.1	Genbank	exon	905694	907399	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005331-T1_mrna"; gene_id "gene-LTR96_005331";
+JAXLPI010000006.1	Genbank	CDS	905530	905629	.	-	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005331-T1_mrna"; gene_id "gene-LTR96_005331";
+JAXLPI010000006.1	Genbank	CDS	905694	907399	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005331-T1_mrna"; gene_id "gene-LTR96_005331";
+JAXLPI010000006.1	Genbank	transcript	1228212	1229131	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005452-T1_mrna"; gene_id "gene-LTR96_005452"; gene_name "DPH5"
+JAXLPI010000006.1	Genbank	exon	1228212	1228931	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005452-T1_mrna"; gene_id "gene-LTR96_005452"; gene_name "DPH5";
+JAXLPI010000006.1	Genbank	exon	1228997	1229131	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005452-T1_mrna"; gene_id "gene-LTR96_005452"; gene_name "DPH5";
+JAXLPI010000006.1	Genbank	CDS	1228212	1228931	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005452-T1_mrna"; gene_id "gene-LTR96_005452"; gene_name "DPH5";
+JAXLPI010000006.1	Genbank	CDS	1228997	1229131	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005452-T1_mrna"; gene_id "gene-LTR96_005452"; gene_name "DPH5";
+JAXLPI010000006.1	Genbank	transcript	1280352	1281194	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005471-T1_mrna"; gene_id "gene-LTR96_005471"
+JAXLPI010000006.1	Genbank	exon	1280352	1281194	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005471-T1_mrna"; gene_id "gene-LTR96_005471";
+JAXLPI010000006.1	Genbank	CDS	1280352	1281194	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005471-T1_mrna"; gene_id "gene-LTR96_005471";
+JAXLPI010000007.1	Genbank	transcript	88338	89793	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005593-T1_mrna"; gene_id "gene-LTR96_005593"; gene_name "cyp6"
+JAXLPI010000007.1	Genbank	exon	88338	88417	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005593-T1_mrna"; gene_id "gene-LTR96_005593"; gene_name "cyp6";
+JAXLPI010000007.1	Genbank	exon	88467	89793	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005593-T1_mrna"; gene_id "gene-LTR96_005593"; gene_name "cyp6";
+JAXLPI010000007.1	Genbank	CDS	88338	88417	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005593-T1_mrna"; gene_id "gene-LTR96_005593"; gene_name "cyp6";
+JAXLPI010000007.1	Genbank	CDS	88467	89793	.	+	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005593-T1_mrna"; gene_id "gene-LTR96_005593"; gene_name "cyp6";
+JAXLPI010000007.1	Genbank	transcript	493607	494523	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005760-T1_mrna"; gene_id "gene-LTR96_005760"; gene_name "GAR1_2"
+JAXLPI010000007.1	Genbank	exon	493607	493700	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005760-T1_mrna"; gene_id "gene-LTR96_005760"; gene_name "GAR1_2";
+JAXLPI010000007.1	Genbank	exon	493775	493825	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005760-T1_mrna"; gene_id "gene-LTR96_005760"; gene_name "GAR1_2";
+JAXLPI010000007.1	Genbank	exon	493874	493974	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005760-T1_mrna"; gene_id "gene-LTR96_005760"; gene_name "GAR1_2";
+JAXLPI010000007.1	Genbank	exon	494024	494169	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005760-T1_mrna"; gene_id "gene-LTR96_005760"; gene_name "GAR1_2";
+JAXLPI010000007.1	Genbank	exon	494220	494523	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005760-T1_mrna"; gene_id "gene-LTR96_005760"; gene_name "GAR1_2";
+JAXLPI010000007.1	Genbank	CDS	493607	493700	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005760-T1_mrna"; gene_id "gene-LTR96_005760"; gene_name "GAR1_2";
+JAXLPI010000007.1	Genbank	CDS	493775	493825	.	+	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005760-T1_mrna"; gene_id "gene-LTR96_005760"; gene_name "GAR1_2";
+JAXLPI010000007.1	Genbank	CDS	493874	493974	.	+	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005760-T1_mrna"; gene_id "gene-LTR96_005760"; gene_name "GAR1_2";
+JAXLPI010000007.1	Genbank	CDS	494024	494169	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005760-T1_mrna"; gene_id "gene-LTR96_005760"; gene_name "GAR1_2";
+JAXLPI010000007.1	Genbank	CDS	494220	494523	.	+	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005760-T1_mrna"; gene_id "gene-LTR96_005760"; gene_name "GAR1_2";
+JAXLPI010000007.1	Genbank	transcript	796012	798492	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005877-T1_mrna"; gene_id "gene-LTR96_005877"; gene_name "DBP6"
+JAXLPI010000007.1	Genbank	exon	796012	798492	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005877-T1_mrna"; gene_id "gene-LTR96_005877"; gene_name "DBP6";
+JAXLPI010000007.1	Genbank	CDS	796012	798492	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005877-T1_mrna"; gene_id "gene-LTR96_005877"; gene_name "DBP6";
+JAXLPI010000007.1	Genbank	transcript	868482	870716	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005909-T1_mrna"; gene_id "gene-LTR96_005909"
+JAXLPI010000007.1	Genbank	exon	868482	869652	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005909-T1_mrna"; gene_id "gene-LTR96_005909";
+JAXLPI010000007.1	Genbank	exon	869898	869922	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005909-T1_mrna"; gene_id "gene-LTR96_005909";
+JAXLPI010000007.1	Genbank	exon	870119	870208	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005909-T1_mrna"; gene_id "gene-LTR96_005909";
+JAXLPI010000007.1	Genbank	exon	870260	870716	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005909-T1_mrna"; gene_id "gene-LTR96_005909";
+JAXLPI010000007.1	Genbank	CDS	868482	869652	.	-	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005909-T1_mrna"; gene_id "gene-LTR96_005909";
+JAXLPI010000007.1	Genbank	CDS	869898	869922	.	-	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005909-T1_mrna"; gene_id "gene-LTR96_005909";
+JAXLPI010000007.1	Genbank	CDS	870119	870208	.	-	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005909-T1_mrna"; gene_id "gene-LTR96_005909";
+JAXLPI010000007.1	Genbank	CDS	870260	870716	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_005909-T1_mrna"; gene_id "gene-LTR96_005909";
+JAXLPI010000007.1	Genbank	transcript	1185925	1187745	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006021-T1_mrna"; gene_id "gene-LTR96_006021"
+JAXLPI010000007.1	Genbank	exon	1185925	1187745	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006021-T1_mrna"; gene_id "gene-LTR96_006021";
+JAXLPI010000007.1	Genbank	CDS	1185925	1187745	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006021-T1_mrna"; gene_id "gene-LTR96_006021";
+JAXLPI010000007.1	Genbank	transcript	1201133	1202245	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006025-T1_mrna"; gene_id "gene-LTR96_006025"
+JAXLPI010000007.1	Genbank	exon	1201133	1202245	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006025-T1_mrna"; gene_id "gene-LTR96_006025";
+JAXLPI010000007.1	Genbank	CDS	1201133	1202245	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006025-T1_mrna"; gene_id "gene-LTR96_006025";
+JAXLPI010000008.1	Genbank	transcript	208175	209279	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006133-T1_mrna"; gene_id "gene-LTR96_006133"; gene_name "ETF1"
+JAXLPI010000008.1	Genbank	exon	208175	208646	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006133-T1_mrna"; gene_id "gene-LTR96_006133"; gene_name "ETF1";
+JAXLPI010000008.1	Genbank	exon	208702	209279	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006133-T1_mrna"; gene_id "gene-LTR96_006133"; gene_name "ETF1";
+JAXLPI010000008.1	Genbank	CDS	208175	208646	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006133-T1_mrna"; gene_id "gene-LTR96_006133"; gene_name "ETF1";
+JAXLPI010000008.1	Genbank	CDS	208702	209279	.	+	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006133-T1_mrna"; gene_id "gene-LTR96_006133"; gene_name "ETF1";
+JAXLPI010000008.1	Genbank	transcript	338424	340442	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006176-T1_mrna"; gene_id "gene-LTR96_006176"; gene_name "SRP68"
+JAXLPI010000008.1	Genbank	exon	338424	338611	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006176-T1_mrna"; gene_id "gene-LTR96_006176"; gene_name "SRP68";
+JAXLPI010000008.1	Genbank	exon	338663	340442	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006176-T1_mrna"; gene_id "gene-LTR96_006176"; gene_name "SRP68";
+JAXLPI010000008.1	Genbank	CDS	338424	338611	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006176-T1_mrna"; gene_id "gene-LTR96_006176"; gene_name "SRP68";
+JAXLPI010000008.1	Genbank	CDS	338663	340442	.	+	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006176-T1_mrna"; gene_id "gene-LTR96_006176"; gene_name "SRP68";
+JAXLPI010000008.1	Genbank	transcript	447321	447871	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006222-T1_mrna"; gene_id "gene-LTR96_006222"; gene_name "COX11"
+JAXLPI010000008.1	Genbank	exon	447321	447323	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006222-T1_mrna"; gene_id "gene-LTR96_006222"; gene_name "COX11";
+JAXLPI010000008.1	Genbank	exon	447371	447871	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006222-T1_mrna"; gene_id "gene-LTR96_006222"; gene_name "COX11";
+JAXLPI010000008.1	Genbank	CDS	447321	447323	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006222-T1_mrna"; gene_id "gene-LTR96_006222"; gene_name "COX11";
+JAXLPI010000008.1	Genbank	CDS	447371	447871	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006222-T1_mrna"; gene_id "gene-LTR96_006222"; gene_name "COX11";
+JAXLPI010000009.1	Genbank	transcript	223341	225530	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006542-T1_mrna"; gene_id "gene-LTR96_006542"; gene_name "MPP10"
+JAXLPI010000009.1	Genbank	exon	223341	225530	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006542-T1_mrna"; gene_id "gene-LTR96_006542"; gene_name "MPP10";
+JAXLPI010000009.1	Genbank	CDS	223341	225530	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006542-T1_mrna"; gene_id "gene-LTR96_006542"; gene_name "MPP10";
+JAXLPI010000009.1	Genbank	transcript	410254	411013	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006617-T1_mrna"; gene_id "gene-LTR96_006617"; gene_name "GIR2"
+JAXLPI010000009.1	Genbank	exon	410254	410320	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006617-T1_mrna"; gene_id "gene-LTR96_006617"; gene_name "GIR2";
+JAXLPI010000009.1	Genbank	exon	410382	411013	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006617-T1_mrna"; gene_id "gene-LTR96_006617"; gene_name "GIR2";
+JAXLPI010000009.1	Genbank	CDS	410254	410320	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006617-T1_mrna"; gene_id "gene-LTR96_006617"; gene_name "GIR2";
+JAXLPI010000009.1	Genbank	CDS	410382	411013	.	+	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006617-T1_mrna"; gene_id "gene-LTR96_006617"; gene_name "GIR2";
+JAXLPI010000009.1	Genbank	transcript	422167	423507	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006623-T1_mrna"; gene_id "gene-LTR96_006623"
+JAXLPI010000009.1	Genbank	exon	422167	422252	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006623-T1_mrna"; gene_id "gene-LTR96_006623";
+JAXLPI010000009.1	Genbank	exon	422307	422349	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006623-T1_mrna"; gene_id "gene-LTR96_006623";
+JAXLPI010000009.1	Genbank	exon	422399	422868	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006623-T1_mrna"; gene_id "gene-LTR96_006623";
+JAXLPI010000009.1	Genbank	exon	422925	423507	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006623-T1_mrna"; gene_id "gene-LTR96_006623";
+JAXLPI010000009.1	Genbank	CDS	422167	422252	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006623-T1_mrna"; gene_id "gene-LTR96_006623";
+JAXLPI010000009.1	Genbank	CDS	422307	422349	.	+	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006623-T1_mrna"; gene_id "gene-LTR96_006623";
+JAXLPI010000009.1	Genbank	CDS	422399	422868	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006623-T1_mrna"; gene_id "gene-LTR96_006623";
+JAXLPI010000009.1	Genbank	CDS	422925	423507	.	+	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006623-T1_mrna"; gene_id "gene-LTR96_006623";
+JAXLPI010000009.1	Genbank	transcript	451471	456478	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006636-T1_mrna"; gene_id "gene-LTR96_006636"; gene_name "HIR1"
+JAXLPI010000009.1	Genbank	exon	451471	454274	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006636-T1_mrna"; gene_id "gene-LTR96_006636"; gene_name "HIR1";
+JAXLPI010000009.1	Genbank	exon	454328	454543	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006636-T1_mrna"; gene_id "gene-LTR96_006636"; gene_name "HIR1";
+JAXLPI010000009.1	Genbank	exon	454596	454670	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006636-T1_mrna"; gene_id "gene-LTR96_006636"; gene_name "HIR1";
+JAXLPI010000009.1	Genbank	exon	455401	456071	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006636-T1_mrna"; gene_id "gene-LTR96_006636"; gene_name "HIR1";
+JAXLPI010000009.1	Genbank	exon	456124	456257	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006636-T1_mrna"; gene_id "gene-LTR96_006636"; gene_name "HIR1";
+JAXLPI010000009.1	Genbank	exon	456311	456478	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006636-T1_mrna"; gene_id "gene-LTR96_006636"; gene_name "HIR1";
+JAXLPI010000009.1	Genbank	CDS	451471	454274	.	-	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006636-T1_mrna"; gene_id "gene-LTR96_006636"; gene_name "HIR1";
+JAXLPI010000009.1	Genbank	CDS	454328	454543	.	-	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006636-T1_mrna"; gene_id "gene-LTR96_006636"; gene_name "HIR1";
+JAXLPI010000009.1	Genbank	CDS	454596	454670	.	-	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006636-T1_mrna"; gene_id "gene-LTR96_006636"; gene_name "HIR1";
+JAXLPI010000009.1	Genbank	CDS	455401	456071	.	-	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006636-T1_mrna"; gene_id "gene-LTR96_006636"; gene_name "HIR1";
+JAXLPI010000009.1	Genbank	CDS	456124	456257	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006636-T1_mrna"; gene_id "gene-LTR96_006636"; gene_name "HIR1";
+JAXLPI010000009.1	Genbank	CDS	456311	456478	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006636-T1_mrna"; gene_id "gene-LTR96_006636"; gene_name "HIR1";
+JAXLPI010000009.1	Genbank	transcript	538347	539107	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006668-T1_mrna"; gene_id "gene-LTR96_006668"; gene_name "TMA20"
+JAXLPI010000009.1	Genbank	exon	538347	538737	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006668-T1_mrna"; gene_id "gene-LTR96_006668"; gene_name "TMA20";
+JAXLPI010000009.1	Genbank	exon	538896	539107	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006668-T1_mrna"; gene_id "gene-LTR96_006668"; gene_name "TMA20";
+JAXLPI010000009.1	Genbank	CDS	538347	538737	.	-	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006668-T1_mrna"; gene_id "gene-LTR96_006668"; gene_name "TMA20";
+JAXLPI010000009.1	Genbank	CDS	538896	539107	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006668-T1_mrna"; gene_id "gene-LTR96_006668"; gene_name "TMA20";
+JAXLPI010000009.1	Genbank	transcript	594189	595407	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006692-T1_mrna"; gene_id "gene-LTR96_006692"
+JAXLPI010000009.1	Genbank	exon	594189	595306	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006692-T1_mrna"; gene_id "gene-LTR96_006692";
+JAXLPI010000009.1	Genbank	exon	595365	595407	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006692-T1_mrna"; gene_id "gene-LTR96_006692";
+JAXLPI010000009.1	Genbank	CDS	594189	595306	.	-	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006692-T1_mrna"; gene_id "gene-LTR96_006692";
+JAXLPI010000009.1	Genbank	CDS	595365	595407	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006692-T1_mrna"; gene_id "gene-LTR96_006692";
+JAXLPI010000009.1	Genbank	transcript	758279	758986	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006762-T1_mrna"; gene_id "gene-LTR96_006762"; gene_name "sap62"
+JAXLPI010000009.1	Genbank	exon	758279	758986	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006762-T1_mrna"; gene_id "gene-LTR96_006762"; gene_name "sap62";
+JAXLPI010000009.1	Genbank	CDS	758279	758986	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006762-T1_mrna"; gene_id "gene-LTR96_006762"; gene_name "sap62";
+JAXLPI010000009.1	Genbank	transcript	774920	775684	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006771-T1_mrna"; gene_id "gene-LTR96_006771"; gene_name "RRP40"
+JAXLPI010000009.1	Genbank	exon	774920	775684	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006771-T1_mrna"; gene_id "gene-LTR96_006771"; gene_name "RRP40";
+JAXLPI010000009.1	Genbank	CDS	774920	775684	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006771-T1_mrna"; gene_id "gene-LTR96_006771"; gene_name "RRP40";
+JAXLPI010000009.1	Genbank	transcript	964116	969433	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006844-T1_mrna"; gene_id "gene-LTR96_006844"; gene_name "HSP78"
+JAXLPI010000009.1	Genbank	exon	964116	966582	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006844-T1_mrna"; gene_id "gene-LTR96_006844"; gene_name "HSP78";
+JAXLPI010000009.1	Genbank	exon	967188	969433	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006844-T1_mrna"; gene_id "gene-LTR96_006844"; gene_name "HSP78";
+JAXLPI010000009.1	Genbank	CDS	964116	966582	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006844-T1_mrna"; gene_id "gene-LTR96_006844"; gene_name "HSP78";
+JAXLPI010000009.1	Genbank	CDS	967188	969433	.	+	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006844-T1_mrna"; gene_id "gene-LTR96_006844"; gene_name "HSP78";
+JAXLPI010000010.1	Genbank	transcript	327506	328629	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006989-T1_mrna"; gene_id "gene-LTR96_006989"; gene_name "KRR1"
+JAXLPI010000010.1	Genbank	exon	327506	328180	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006989-T1_mrna"; gene_id "gene-LTR96_006989"; gene_name "KRR1";
+JAXLPI010000010.1	Genbank	exon	328233	328505	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006989-T1_mrna"; gene_id "gene-LTR96_006989"; gene_name "KRR1";
+JAXLPI010000010.1	Genbank	exon	328570	328629	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006989-T1_mrna"; gene_id "gene-LTR96_006989"; gene_name "KRR1";
+JAXLPI010000010.1	Genbank	CDS	327506	328180	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006989-T1_mrna"; gene_id "gene-LTR96_006989"; gene_name "KRR1";
+JAXLPI010000010.1	Genbank	CDS	328233	328505	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006989-T1_mrna"; gene_id "gene-LTR96_006989"; gene_name "KRR1";
+JAXLPI010000010.1	Genbank	CDS	328570	328629	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_006989-T1_mrna"; gene_id "gene-LTR96_006989"; gene_name "KRR1";
+JAXLPI010000010.1	Genbank	transcript	409322	410083	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007020-T1_mrna"; gene_id "gene-LTR96_007020"; gene_name "ISY1"
+JAXLPI010000010.1	Genbank	exon	409322	410083	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007020-T1_mrna"; gene_id "gene-LTR96_007020"; gene_name "ISY1";
+JAXLPI010000010.1	Genbank	CDS	409322	410083	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007020-T1_mrna"; gene_id "gene-LTR96_007020"; gene_name "ISY1";
+JAXLPI010000010.1	Genbank	transcript	418905	419738	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007026-T1_mrna"; gene_id "gene-LTR96_007026"; gene_name "SHY1"
+JAXLPI010000010.1	Genbank	exon	418905	419738	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007026-T1_mrna"; gene_id "gene-LTR96_007026"; gene_name "SHY1";
+JAXLPI010000010.1	Genbank	CDS	418905	419738	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007026-T1_mrna"; gene_id "gene-LTR96_007026"; gene_name "SHY1";
+JAXLPI010000010.1	Genbank	transcript	565476	566449	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007084-T1_mrna"; gene_id "gene-LTR96_007084"; gene_name "BCP1"
+JAXLPI010000010.1	Genbank	exon	565476	565553	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007084-T1_mrna"; gene_id "gene-LTR96_007084"; gene_name "BCP1";
+JAXLPI010000010.1	Genbank	exon	565603	565839	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007084-T1_mrna"; gene_id "gene-LTR96_007084"; gene_name "BCP1";
+JAXLPI010000010.1	Genbank	exon	565895	566449	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007084-T1_mrna"; gene_id "gene-LTR96_007084"; gene_name "BCP1";
+JAXLPI010000010.1	Genbank	CDS	565476	565553	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007084-T1_mrna"; gene_id "gene-LTR96_007084"; gene_name "BCP1";
+JAXLPI010000010.1	Genbank	CDS	565603	565839	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007084-T1_mrna"; gene_id "gene-LTR96_007084"; gene_name "BCP1";
+JAXLPI010000010.1	Genbank	CDS	565895	566449	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007084-T1_mrna"; gene_id "gene-LTR96_007084"; gene_name "BCP1";
+JAXLPI010000010.1	Genbank	transcript	673589	675224	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007127-T1_mrna"; gene_id "gene-LTR96_007127"; gene_name "CSN12"
+JAXLPI010000010.1	Genbank	exon	673589	674884	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007127-T1_mrna"; gene_id "gene-LTR96_007127"; gene_name "CSN12";
+JAXLPI010000010.1	Genbank	exon	675141	675224	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007127-T1_mrna"; gene_id "gene-LTR96_007127"; gene_name "CSN12";
+JAXLPI010000010.1	Genbank	CDS	673589	674884	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007127-T1_mrna"; gene_id "gene-LTR96_007127"; gene_name "CSN12";
+JAXLPI010000010.1	Genbank	CDS	675141	675224	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007127-T1_mrna"; gene_id "gene-LTR96_007127"; gene_name "CSN12";
+JAXLPI010000011.1	Genbank	transcript	115700	118863	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007260-T1_mrna"; gene_id "gene-LTR96_007260"; gene_name "CDC54"
+JAXLPI010000011.1	Genbank	exon	115700	116287	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007260-T1_mrna"; gene_id "gene-LTR96_007260"; gene_name "CDC54";
+JAXLPI010000011.1	Genbank	exon	116398	118535	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007260-T1_mrna"; gene_id "gene-LTR96_007260"; gene_name "CDC54";
+JAXLPI010000011.1	Genbank	exon	118584	118863	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007260-T1_mrna"; gene_id "gene-LTR96_007260"; gene_name "CDC54";
+JAXLPI010000011.1	Genbank	CDS	115700	116287	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007260-T1_mrna"; gene_id "gene-LTR96_007260"; gene_name "CDC54";
+JAXLPI010000011.1	Genbank	CDS	116398	118535	.	-	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007260-T1_mrna"; gene_id "gene-LTR96_007260"; gene_name "CDC54";
+JAXLPI010000011.1	Genbank	CDS	118584	118863	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007260-T1_mrna"; gene_id "gene-LTR96_007260"; gene_name "CDC54";
+JAXLPI010000011.1	Genbank	transcript	402577	403362	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007370-T1_mrna"; gene_id "gene-LTR96_007370"; gene_name "NSA2"
+JAXLPI010000011.1	Genbank	exon	402577	403362	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007370-T1_mrna"; gene_id "gene-LTR96_007370"; gene_name "NSA2";
+JAXLPI010000011.1	Genbank	CDS	402577	403362	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007370-T1_mrna"; gene_id "gene-LTR96_007370"; gene_name "NSA2";
+JAXLPI010000011.1	Genbank	transcript	501866	504565	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007413-T1_mrna"; gene_id "gene-LTR96_007413"; gene_name "DPB2"
+JAXLPI010000011.1	Genbank	exon	501866	504565	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007413-T1_mrna"; gene_id "gene-LTR96_007413"; gene_name "DPB2";
+JAXLPI010000011.1	Genbank	CDS	501866	504565	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007413-T1_mrna"; gene_id "gene-LTR96_007413"; gene_name "DPB2";
+JAXLPI010000012.1	Genbank	transcript	27419	28312	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007575-T1_mrna"; gene_id "gene-LTR96_007575"; gene_name "cwf16"
+JAXLPI010000012.1	Genbank	exon	27419	28312	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007575-T1_mrna"; gene_id "gene-LTR96_007575"; gene_name "cwf16";
+JAXLPI010000012.1	Genbank	CDS	27419	28312	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007575-T1_mrna"; gene_id "gene-LTR96_007575"; gene_name "cwf16";
+JAXLPI010000012.1	Genbank	transcript	282123	283624	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007665-T1_mrna"; gene_id "gene-LTR96_007665"; gene_name "ALG7"
+JAXLPI010000012.1	Genbank	exon	282123	283341	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007665-T1_mrna"; gene_id "gene-LTR96_007665"; gene_name "ALG7";
+JAXLPI010000012.1	Genbank	exon	283392	283624	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007665-T1_mrna"; gene_id "gene-LTR96_007665"; gene_name "ALG7";
+JAXLPI010000012.1	Genbank	CDS	282123	283341	.	-	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007665-T1_mrna"; gene_id "gene-LTR96_007665"; gene_name "ALG7";
+JAXLPI010000012.1	Genbank	CDS	283392	283624	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007665-T1_mrna"; gene_id "gene-LTR96_007665"; gene_name "ALG7";
+JAXLPI010000012.1	Genbank	transcript	486010	487470	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007746-T1_mrna"; gene_id "gene-LTR96_007746"; gene_name "COG5"
+JAXLPI010000012.1	Genbank	exon	486010	487470	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007746-T1_mrna"; gene_id "gene-LTR96_007746"; gene_name "COG5";
+JAXLPI010000012.1	Genbank	CDS	486010	487470	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007746-T1_mrna"; gene_id "gene-LTR96_007746"; gene_name "COG5";
+JAXLPI010000013.1	Genbank	transcript	31484	32573	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007855-T1_mrna"; gene_id "gene-LTR96_007855"
+JAXLPI010000013.1	Genbank	exon	31484	31530	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007855-T1_mrna"; gene_id "gene-LTR96_007855";
+JAXLPI010000013.1	Genbank	exon	31583	32262	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007855-T1_mrna"; gene_id "gene-LTR96_007855";
+JAXLPI010000013.1	Genbank	exon	32368	32573	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007855-T1_mrna"; gene_id "gene-LTR96_007855";
+JAXLPI010000013.1	Genbank	CDS	31484	31530	.	-	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007855-T1_mrna"; gene_id "gene-LTR96_007855";
+JAXLPI010000013.1	Genbank	CDS	31583	32262	.	-	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007855-T1_mrna"; gene_id "gene-LTR96_007855";
+JAXLPI010000013.1	Genbank	CDS	32368	32573	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007855-T1_mrna"; gene_id "gene-LTR96_007855";
+JAXLPI010000013.1	Genbank	transcript	96251	98809	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007883-T1_mrna"; gene_id "gene-LTR96_007883"; gene_name "SEC10"
+JAXLPI010000013.1	Genbank	exon	96251	98809	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007883-T1_mrna"; gene_id "gene-LTR96_007883"; gene_name "SEC10";
+JAXLPI010000013.1	Genbank	CDS	96251	98809	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_007883-T1_mrna"; gene_id "gene-LTR96_007883"; gene_name "SEC10";
+JAXLPI010000013.1	Genbank	transcript	481467	482614	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008031-T1_mrna"; gene_id "gene-LTR96_008031"; gene_name "COQ4"
+JAXLPI010000013.1	Genbank	exon	481467	481519	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008031-T1_mrna"; gene_id "gene-LTR96_008031"; gene_name "COQ4";
+JAXLPI010000013.1	Genbank	exon	481606	482614	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008031-T1_mrna"; gene_id "gene-LTR96_008031"; gene_name "COQ4";
+JAXLPI010000013.1	Genbank	CDS	481467	481519	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008031-T1_mrna"; gene_id "gene-LTR96_008031"; gene_name "COQ4";
+JAXLPI010000013.1	Genbank	CDS	481606	482614	.	+	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008031-T1_mrna"; gene_id "gene-LTR96_008031"; gene_name "COQ4";
+JAXLPI010000014.1	Genbank	transcript	331611	333509	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008262-T1_mrna"; gene_id "gene-LTR96_008262"; gene_name "SPB4"
+JAXLPI010000014.1	Genbank	exon	331611	333509	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008262-T1_mrna"; gene_id "gene-LTR96_008262"; gene_name "SPB4";
+JAXLPI010000014.1	Genbank	CDS	331611	333509	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008262-T1_mrna"; gene_id "gene-LTR96_008262"; gene_name "SPB4";
+JAXLPI010000014.1	Genbank	transcript	384237	385946	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008282-T1_mrna"; gene_id "gene-LTR96_008282"
+JAXLPI010000014.1	Genbank	exon	384237	385946	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008282-T1_mrna"; gene_id "gene-LTR96_008282";
+JAXLPI010000014.1	Genbank	CDS	384237	385946	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008282-T1_mrna"; gene_id "gene-LTR96_008282";
+JAXLPI010000014.1	Genbank	transcript	492636	493626	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008326-T1_mrna"; gene_id "gene-LTR96_008326"; gene_name "PSF1"
+JAXLPI010000014.1	Genbank	exon	492636	492662	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008326-T1_mrna"; gene_id "gene-LTR96_008326"; gene_name "PSF1";
+JAXLPI010000014.1	Genbank	exon	492943	493626	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008326-T1_mrna"; gene_id "gene-LTR96_008326"; gene_name "PSF1";
+JAXLPI010000014.1	Genbank	CDS	492636	492662	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008326-T1_mrna"; gene_id "gene-LTR96_008326"; gene_name "PSF1";
+JAXLPI010000014.1	Genbank	CDS	492943	493626	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008326-T1_mrna"; gene_id "gene-LTR96_008326"; gene_name "PSF1";
+JAXLPI010000014.1	Genbank	transcript	685291	686369	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008403-T1_mrna"; gene_id "gene-LTR96_008403"; gene_name "DRE2"
+JAXLPI010000014.1	Genbank	exon	685291	685385	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008403-T1_mrna"; gene_id "gene-LTR96_008403"; gene_name "DRE2";
+JAXLPI010000014.1	Genbank	exon	685434	685643	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008403-T1_mrna"; gene_id "gene-LTR96_008403"; gene_name "DRE2";
+JAXLPI010000014.1	Genbank	exon	685691	686369	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008403-T1_mrna"; gene_id "gene-LTR96_008403"; gene_name "DRE2";
+JAXLPI010000014.1	Genbank	CDS	685291	685385	.	-	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008403-T1_mrna"; gene_id "gene-LTR96_008403"; gene_name "DRE2";
+JAXLPI010000014.1	Genbank	CDS	685434	685643	.	-	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008403-T1_mrna"; gene_id "gene-LTR96_008403"; gene_name "DRE2";
+JAXLPI010000014.1	Genbank	CDS	685691	686369	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008403-T1_mrna"; gene_id "gene-LTR96_008403"; gene_name "DRE2";
+JAXLPI010000015.1	Genbank	transcript	403922	406054	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008565-T1_mrna"; gene_id "gene-LTR96_008565"
+JAXLPI010000015.1	Genbank	exon	403922	406054	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008565-T1_mrna"; gene_id "gene-LTR96_008565";
+JAXLPI010000015.1	Genbank	CDS	403922	406054	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008565-T1_mrna"; gene_id "gene-LTR96_008565";
+JAXLPI010000015.1	Genbank	transcript	447744	449801	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008584-T1_mrna"; gene_id "gene-LTR96_008584"
+JAXLPI010000015.1	Genbank	exon	447744	449801	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008584-T1_mrna"; gene_id "gene-LTR96_008584";
+JAXLPI010000015.1	Genbank	CDS	447744	449801	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008584-T1_mrna"; gene_id "gene-LTR96_008584";
+JAXLPI010000016.1	Genbank	transcript	121469	122470	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008718-T1_mrna"; gene_id "gene-LTR96_008718"; gene_name "LIA1"
+JAXLPI010000016.1	Genbank	exon	121469	122156	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008718-T1_mrna"; gene_id "gene-LTR96_008718"; gene_name "LIA1";
+JAXLPI010000016.1	Genbank	exon	122178	122470	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008718-T1_mrna"; gene_id "gene-LTR96_008718"; gene_name "LIA1";
+JAXLPI010000016.1	Genbank	CDS	121469	122156	.	-	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008718-T1_mrna"; gene_id "gene-LTR96_008718"; gene_name "LIA1";
+JAXLPI010000016.1	Genbank	CDS	122178	122470	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008718-T1_mrna"; gene_id "gene-LTR96_008718"; gene_name "LIA1";
+JAXLPI010000016.1	Genbank	transcript	616179	618233	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008911-T1_mrna"; gene_id "gene-LTR96_008911"; gene_name "RRN3"
+JAXLPI010000016.1	Genbank	exon	616179	618233	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008911-T1_mrna"; gene_id "gene-LTR96_008911"; gene_name "RRN3";
+JAXLPI010000016.1	Genbank	CDS	616179	618233	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008911-T1_mrna"; gene_id "gene-LTR96_008911"; gene_name "RRN3";
+JAXLPI010000017.1	Genbank	transcript	31998	34185	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008934-T1_mrna"; gene_id "gene-LTR96_008934"; gene_name "COG6"
+JAXLPI010000017.1	Genbank	exon	31998	32294	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008934-T1_mrna"; gene_id "gene-LTR96_008934"; gene_name "COG6";
+JAXLPI010000017.1	Genbank	exon	32362	34185	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008934-T1_mrna"; gene_id "gene-LTR96_008934"; gene_name "COG6";
+JAXLPI010000017.1	Genbank	CDS	31998	32294	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008934-T1_mrna"; gene_id "gene-LTR96_008934"; gene_name "COG6";
+JAXLPI010000017.1	Genbank	CDS	32362	34185	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008934-T1_mrna"; gene_id "gene-LTR96_008934"; gene_name "COG6";
+JAXLPI010000017.1	Genbank	transcript	97360	98879	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008958-T1_mrna"; gene_id "gene-LTR96_008958"; gene_name "RAM1"
+JAXLPI010000017.1	Genbank	exon	97360	97663	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008958-T1_mrna"; gene_id "gene-LTR96_008958"; gene_name "RAM1";
+JAXLPI010000017.1	Genbank	exon	97687	97721	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008958-T1_mrna"; gene_id "gene-LTR96_008958"; gene_name "RAM1";
+JAXLPI010000017.1	Genbank	exon	97782	98445	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008958-T1_mrna"; gene_id "gene-LTR96_008958"; gene_name "RAM1";
+JAXLPI010000017.1	Genbank	exon	98533	98879	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008958-T1_mrna"; gene_id "gene-LTR96_008958"; gene_name "RAM1";
+JAXLPI010000017.1	Genbank	CDS	97360	97663	.	-	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008958-T1_mrna"; gene_id "gene-LTR96_008958"; gene_name "RAM1";
+JAXLPI010000017.1	Genbank	CDS	97687	97721	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008958-T1_mrna"; gene_id "gene-LTR96_008958"; gene_name "RAM1";
+JAXLPI010000017.1	Genbank	CDS	97782	98445	.	-	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008958-T1_mrna"; gene_id "gene-LTR96_008958"; gene_name "RAM1";
+JAXLPI010000017.1	Genbank	CDS	98533	98879	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008958-T1_mrna"; gene_id "gene-LTR96_008958"; gene_name "RAM1";
+JAXLPI010000017.1	Genbank	transcript	204325	205450	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008998-T1_mrna"; gene_id "gene-LTR96_008998"; gene_name "rrp4"
+JAXLPI010000017.1	Genbank	exon	204325	205177	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008998-T1_mrna"; gene_id "gene-LTR96_008998"; gene_name "rrp4";
+JAXLPI010000017.1	Genbank	exon	205239	205450	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008998-T1_mrna"; gene_id "gene-LTR96_008998"; gene_name "rrp4";
+JAXLPI010000017.1	Genbank	CDS	204325	205177	.	-	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008998-T1_mrna"; gene_id "gene-LTR96_008998"; gene_name "rrp4";
+JAXLPI010000017.1	Genbank	CDS	205239	205450	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008998-T1_mrna"; gene_id "gene-LTR96_008998"; gene_name "rrp4";
+JAXLPI010000017.1	Genbank	transcript	205736	207023	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008999-T1_mrna"; gene_id "gene-LTR96_008999"; gene_name "TSR3"
+JAXLPI010000017.1	Genbank	exon	205736	205980	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008999-T1_mrna"; gene_id "gene-LTR96_008999"; gene_name "TSR3";
+JAXLPI010000017.1	Genbank	exon	206060	207023	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008999-T1_mrna"; gene_id "gene-LTR96_008999"; gene_name "TSR3";
+JAXLPI010000017.1	Genbank	CDS	205736	205980	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008999-T1_mrna"; gene_id "gene-LTR96_008999"; gene_name "TSR3";
+JAXLPI010000017.1	Genbank	CDS	206060	207023	.	+	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_008999-T1_mrna"; gene_id "gene-LTR96_008999"; gene_name "TSR3";
+JAXLPI010000019.1	Genbank	transcript	77618	79443	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009449-T1_mrna"; gene_id "gene-LTR96_009449"; gene_name "UTP18"
+JAXLPI010000019.1	Genbank	exon	77618	79150	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009449-T1_mrna"; gene_id "gene-LTR96_009449"; gene_name "UTP18";
+JAXLPI010000019.1	Genbank	exon	79201	79443	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009449-T1_mrna"; gene_id "gene-LTR96_009449"; gene_name "UTP18";
+JAXLPI010000019.1	Genbank	CDS	77618	79150	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009449-T1_mrna"; gene_id "gene-LTR96_009449"; gene_name "UTP18";
+JAXLPI010000019.1	Genbank	CDS	79201	79443	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009449-T1_mrna"; gene_id "gene-LTR96_009449"; gene_name "UTP18";
+JAXLPI010000019.1	Genbank	transcript	217957	218826	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009505-T1_mrna"; gene_id "gene-LTR96_009505"
+JAXLPI010000019.1	Genbank	exon	217957	218826	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009505-T1_mrna"; gene_id "gene-LTR96_009505";
+JAXLPI010000019.1	Genbank	CDS	217957	218826	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009505-T1_mrna"; gene_id "gene-LTR96_009505";
+JAXLPI010000019.1	Genbank	transcript	449889	450649	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009592-T1_mrna"; gene_id "gene-LTR96_009592"; gene_name "CWC15"
+JAXLPI010000019.1	Genbank	exon	449889	450435	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009592-T1_mrna"; gene_id "gene-LTR96_009592"; gene_name "CWC15";
+JAXLPI010000019.1	Genbank	exon	450486	450585	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009592-T1_mrna"; gene_id "gene-LTR96_009592"; gene_name "CWC15";
+JAXLPI010000019.1	Genbank	exon	450640	450649	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009592-T1_mrna"; gene_id "gene-LTR96_009592"; gene_name "CWC15";
+JAXLPI010000019.1	Genbank	CDS	449889	450435	.	-	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009592-T1_mrna"; gene_id "gene-LTR96_009592"; gene_name "CWC15";
+JAXLPI010000019.1	Genbank	CDS	450486	450585	.	-	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009592-T1_mrna"; gene_id "gene-LTR96_009592"; gene_name "CWC15";
+JAXLPI010000019.1	Genbank	CDS	450640	450649	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009592-T1_mrna"; gene_id "gene-LTR96_009592"; gene_name "CWC15";
+JAXLPI010000019.1	Genbank	transcript	451052	452033	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009593-T1_mrna"; gene_id "gene-LTR96_009593"; gene_name "RRP45"
+JAXLPI010000019.1	Genbank	exon	451052	451215	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009593-T1_mrna"; gene_id "gene-LTR96_009593"; gene_name "RRP45";
+JAXLPI010000019.1	Genbank	exon	451264	451383	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009593-T1_mrna"; gene_id "gene-LTR96_009593"; gene_name "RRP45";
+JAXLPI010000019.1	Genbank	exon	451442	452033	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009593-T1_mrna"; gene_id "gene-LTR96_009593"; gene_name "RRP45";
+JAXLPI010000019.1	Genbank	CDS	451052	451215	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009593-T1_mrna"; gene_id "gene-LTR96_009593"; gene_name "RRP45";
+JAXLPI010000019.1	Genbank	CDS	451264	451383	.	+	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009593-T1_mrna"; gene_id "gene-LTR96_009593"; gene_name "RRP45";
+JAXLPI010000019.1	Genbank	CDS	451442	452033	.	+	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009593-T1_mrna"; gene_id "gene-LTR96_009593"; gene_name "RRP45";
+JAXLPI010000020.1	Genbank	transcript	215440	216228	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009705-T1_mrna"; gene_id "gene-LTR96_009705"; gene_name "MRT4"
+JAXLPI010000020.1	Genbank	exon	215440	216163	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009705-T1_mrna"; gene_id "gene-LTR96_009705"; gene_name "MRT4";
+JAXLPI010000020.1	Genbank	exon	216215	216228	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009705-T1_mrna"; gene_id "gene-LTR96_009705"; gene_name "MRT4";
+JAXLPI010000020.1	Genbank	CDS	215440	216163	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009705-T1_mrna"; gene_id "gene-LTR96_009705"; gene_name "MRT4";
+JAXLPI010000020.1	Genbank	CDS	216215	216228	.	+	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009705-T1_mrna"; gene_id "gene-LTR96_009705"; gene_name "MRT4";
+JAXLPI010000020.1	Genbank	transcript	256428	256969	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009722-T1_mrna"; gene_id "gene-LTR96_009722"; gene_name "MRPL51"
+JAXLPI010000020.1	Genbank	exon	256428	256466	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009722-T1_mrna"; gene_id "gene-LTR96_009722"; gene_name "MRPL51";
+JAXLPI010000020.1	Genbank	exon	256589	256969	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009722-T1_mrna"; gene_id "gene-LTR96_009722"; gene_name "MRPL51";
+JAXLPI010000020.1	Genbank	CDS	256428	256466	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009722-T1_mrna"; gene_id "gene-LTR96_009722"; gene_name "MRPL51";
+JAXLPI010000020.1	Genbank	CDS	256589	256969	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009722-T1_mrna"; gene_id "gene-LTR96_009722"; gene_name "MRPL51";
+JAXLPI010000021.1	Genbank	transcript	237163	238308	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009920-T1_mrna"; gene_id "gene-LTR96_009920"; gene_name "RRP42"
+JAXLPI010000021.1	Genbank	exon	237163	238308	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009920-T1_mrna"; gene_id "gene-LTR96_009920"; gene_name "RRP42";
+JAXLPI010000021.1	Genbank	CDS	237163	238308	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_009920-T1_mrna"; gene_id "gene-LTR96_009920"; gene_name "RRP42";
+JAXLPI010000022.1	Genbank	transcript	259290	261323	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010096-T1_mrna"; gene_id "gene-LTR96_010096"; gene_name "NOP7"
+JAXLPI010000022.1	Genbank	exon	259290	261323	.	+	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010096-T1_mrna"; gene_id "gene-LTR96_010096"; gene_name "NOP7";
+JAXLPI010000022.1	Genbank	CDS	259290	261323	.	+	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010096-T1_mrna"; gene_id "gene-LTR96_010096"; gene_name "NOP7";
+JAXLPI010000023.1	Genbank	transcript	236557	238646	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010228-T1_mrna"; gene_id "gene-LTR96_010228"; gene_name "srp72"
+JAXLPI010000023.1	Genbank	exon	236557	238519	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010228-T1_mrna"; gene_id "gene-LTR96_010228"; gene_name "srp72";
+JAXLPI010000023.1	Genbank	exon	238567	238646	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010228-T1_mrna"; gene_id "gene-LTR96_010228"; gene_name "srp72";
+JAXLPI010000023.1	Genbank	CDS	236557	238519	.	-	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010228-T1_mrna"; gene_id "gene-LTR96_010228"; gene_name "srp72";
+JAXLPI010000023.1	Genbank	CDS	238567	238646	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010228-T1_mrna"; gene_id "gene-LTR96_010228"; gene_name "srp72";
+JAXLPI010000024.1	Genbank	transcript	229851	232967	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010349-T1_mrna"; gene_id "gene-LTR96_010349"; gene_name "ctf18"
+JAXLPI010000024.1	Genbank	exon	229851	230277	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010349-T1_mrna"; gene_id "gene-LTR96_010349"; gene_name "ctf18";
+JAXLPI010000024.1	Genbank	exon	230326	232967	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010349-T1_mrna"; gene_id "gene-LTR96_010349"; gene_name "ctf18";
+JAXLPI010000024.1	Genbank	CDS	229851	230277	.	-	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010349-T1_mrna"; gene_id "gene-LTR96_010349"; gene_name "ctf18";
+JAXLPI010000024.1	Genbank	CDS	230326	232967	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010349-T1_mrna"; gene_id "gene-LTR96_010349"; gene_name "ctf18";
+JAXLPI010000024.1	Genbank	transcript	291339	292722	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010373-T1_mrna"; gene_id "gene-LTR96_010373"; gene_name "DPH1"
+JAXLPI010000024.1	Genbank	exon	291339	292501	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010373-T1_mrna"; gene_id "gene-LTR96_010373"; gene_name "DPH1";
+JAXLPI010000024.1	Genbank	exon	292551	292722	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010373-T1_mrna"; gene_id "gene-LTR96_010373"; gene_name "DPH1";
+JAXLPI010000024.1	Genbank	CDS	291339	292501	.	-	2	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010373-T1_mrna"; gene_id "gene-LTR96_010373"; gene_name "DPH1";
+JAXLPI010000024.1	Genbank	CDS	292551	292722	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010373-T1_mrna"; gene_id "gene-LTR96_010373"; gene_name "DPH1";
+JAXLPI010000024.1	Genbank	transcript	311622	313580	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010383-T1_mrna"; gene_id "gene-LTR96_010383"; gene_name "TFB1"
+JAXLPI010000024.1	Genbank	exon	311622	313580	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010383-T1_mrna"; gene_id "gene-LTR96_010383"; gene_name "TFB1";
+JAXLPI010000024.1	Genbank	CDS	311622	313580	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010383-T1_mrna"; gene_id "gene-LTR96_010383"; gene_name "TFB1";
+JAXLPI010000027.1	Genbank	transcript	34346	35161	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010644-T1_mrna"; gene_id "gene-LTR96_010644"; gene_name "BUD23"
+JAXLPI010000027.1	Genbank	exon	34346	35161	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010644-T1_mrna"; gene_id "gene-LTR96_010644"; gene_name "BUD23";
+JAXLPI010000027.1	Genbank	CDS	34346	35161	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010644-T1_mrna"; gene_id "gene-LTR96_010644"; gene_name "BUD23";
+JAXLPI010000027.1	Genbank	transcript	105092	106612	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010675-T1_mrna"; gene_id "gene-LTR96_010675"; gene_name "cdc1"
+JAXLPI010000027.1	Genbank	exon	105092	106612	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010675-T1_mrna"; gene_id "gene-LTR96_010675"; gene_name "cdc1";
+JAXLPI010000027.1	Genbank	CDS	105092	106612	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_010675-T1_mrna"; gene_id "gene-LTR96_010675"; gene_name "cdc1";
+JAXLPI010000092.1	Genbank	transcript	330	2612	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_011492-T1_mrna"; gene_id "gene-LTR96_011492"; gene_name "ATG7_1"
+JAXLPI010000092.1	Genbank	exon	330	528	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_011492-T1_mrna"; gene_id "gene-LTR96_011492"; gene_name "ATG7_1";
+JAXLPI010000092.1	Genbank	exon	544	2612	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_011492-T1_mrna"; gene_id "gene-LTR96_011492"; gene_name "ATG7_1";
+JAXLPI010000092.1	Genbank	CDS	330	528	.	-	1	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_011492-T1_mrna"; gene_id "gene-LTR96_011492"; gene_name "ATG7_1";
+JAXLPI010000092.1	Genbank	CDS	544	2612	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_011492-T1_mrna"; gene_id "gene-LTR96_011492"; gene_name "ATG7_1";
+JAXLPI010000101.1	Genbank	transcript	10462	12621	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_011532-T1_mrna"; gene_id "gene-LTR96_011532"; gene_name "ATG7_2"
+JAXLPI010000101.1	Genbank	exon	10462	12621	.	-	.	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_011532-T1_mrna"; gene_id "gene-LTR96_011532"; gene_name "ATG7_2";
+JAXLPI010000101.1	Genbank	CDS	10462	12621	.	-	0	transcript_id "rna-gnl|WGS:JAXLPI|LTR96_011532-T1_mrna"; gene_id "gene-LTR96_011532"; gene_name "ATG7_2";
