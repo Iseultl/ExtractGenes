@@ -1,0 +1,929 @@
+NC_054857.1	RefSeq	transcript	1761928	1763036	.	-	.	transcript_id "rna-XM_041704240.1"; gene_id "gene-APUU_10748A"; gene_name "med6"
+NC_054857.1	RefSeq	exon	1761928	1762440	.	-	.	transcript_id "rna-XM_041704240.1"; gene_id "gene-APUU_10748A"; gene_name "med6";
+NC_054857.1	RefSeq	exon	1762507	1762868	.	-	.	transcript_id "rna-XM_041704240.1"; gene_id "gene-APUU_10748A"; gene_name "med6";
+NC_054857.1	RefSeq	exon	1762940	1763036	.	-	.	transcript_id "rna-XM_041704240.1"; gene_id "gene-APUU_10748A"; gene_name "med6";
+NC_054857.1	RefSeq	CDS	1761928	1762440	.	-	0	transcript_id "rna-XM_041704240.1"; gene_id "gene-APUU_10748A"; gene_name "med6";
+NC_054857.1	RefSeq	CDS	1762507	1762868	.	-	2	transcript_id "rna-XM_041704240.1"; gene_id "gene-APUU_10748A"; gene_name "med6";
+NC_054857.1	RefSeq	CDS	1762940	1763036	.	-	0	transcript_id "rna-XM_041704240.1"; gene_id "gene-APUU_10748A"; gene_name "med6";
+NC_054857.1	RefSeq	transcript	1825890	1827144	.	-	.	transcript_id "rna-XM_041704496.1"; gene_id "gene-APUU_10771A"
+NC_054857.1	RefSeq	exon	1825890	1826473	.	-	.	transcript_id "rna-XM_041704496.1"; gene_id "gene-APUU_10771A";
+NC_054857.1	RefSeq	exon	1826525	1826677	.	-	.	transcript_id "rna-XM_041704496.1"; gene_id "gene-APUU_10771A";
+NC_054857.1	RefSeq	exon	1826752	1827008	.	-	.	transcript_id "rna-XM_041704496.1"; gene_id "gene-APUU_10771A";
+NC_054857.1	RefSeq	exon	1827101	1827144	.	-	.	transcript_id "rna-XM_041704496.1"; gene_id "gene-APUU_10771A";
+NC_054857.1	RefSeq	CDS	1825890	1826473	.	-	2	transcript_id "rna-XM_041704496.1"; gene_id "gene-APUU_10771A";
+NC_054857.1	RefSeq	CDS	1826525	1826677	.	-	2	transcript_id "rna-XM_041704496.1"; gene_id "gene-APUU_10771A";
+NC_054857.1	RefSeq	CDS	1826752	1827008	.	-	1	transcript_id "rna-XM_041704496.1"; gene_id "gene-APUU_10771A";
+NC_054857.1	RefSeq	CDS	1827101	1827144	.	-	0	transcript_id "rna-XM_041704496.1"; gene_id "gene-APUU_10771A";
+NC_054857.1	RefSeq	transcript	1850707	1853632	.	+	.	transcript_id "rna-XM_041704596.1"; gene_id "gene-APUU_10780S"
+NC_054857.1	RefSeq	exon	1850707	1850770	.	+	.	transcript_id "rna-XM_041704596.1"; gene_id "gene-APUU_10780S";
+NC_054857.1	RefSeq	exon	1850853	1850944	.	+	.	transcript_id "rna-XM_041704596.1"; gene_id "gene-APUU_10780S";
+NC_054857.1	RefSeq	exon	1851014	1851120	.	+	.	transcript_id "rna-XM_041704596.1"; gene_id "gene-APUU_10780S";
+NC_054857.1	RefSeq	exon	1851191	1851458	.	+	.	transcript_id "rna-XM_041704596.1"; gene_id "gene-APUU_10780S";
+NC_054857.1	RefSeq	exon	1851518	1852410	.	+	.	transcript_id "rna-XM_041704596.1"; gene_id "gene-APUU_10780S";
+NC_054857.1	RefSeq	exon	1852468	1852649	.	+	.	transcript_id "rna-XM_041704596.1"; gene_id "gene-APUU_10780S";
+NC_054857.1	RefSeq	exon	1852734	1853632	.	+	.	transcript_id "rna-XM_041704596.1"; gene_id "gene-APUU_10780S";
+NC_054857.1	RefSeq	CDS	1850707	1850770	.	+	0	transcript_id "rna-XM_041704596.1"; gene_id "gene-APUU_10780S";
+NC_054857.1	RefSeq	CDS	1850853	1850944	.	+	2	transcript_id "rna-XM_041704596.1"; gene_id "gene-APUU_10780S";
+NC_054857.1	RefSeq	CDS	1851014	1851120	.	+	0	transcript_id "rna-XM_041704596.1"; gene_id "gene-APUU_10780S";
+NC_054857.1	RefSeq	CDS	1851191	1851458	.	+	1	transcript_id "rna-XM_041704596.1"; gene_id "gene-APUU_10780S";
+NC_054857.1	RefSeq	CDS	1851518	1852410	.	+	0	transcript_id "rna-XM_041704596.1"; gene_id "gene-APUU_10780S";
+NC_054857.1	RefSeq	CDS	1852468	1852649	.	+	1	transcript_id "rna-XM_041704596.1"; gene_id "gene-APUU_10780S";
+NC_054857.1	RefSeq	CDS	1852734	1853632	.	+	2	transcript_id "rna-XM_041704596.1"; gene_id "gene-APUU_10780S";
+NC_054857.1	RefSeq	transcript	1944956	1946393	.	+	.	transcript_id "rna-XM_041704819.1"; gene_id "gene-APUU_10800S"; gene_name "MSW1"
+NC_054857.1	RefSeq	exon	1944956	1945357	.	+	.	transcript_id "rna-XM_041704819.1"; gene_id "gene-APUU_10800S"; gene_name "MSW1";
+NC_054857.1	RefSeq	exon	1945426	1945506	.	+	.	transcript_id "rna-XM_041704819.1"; gene_id "gene-APUU_10800S"; gene_name "MSW1";
+NC_054857.1	RefSeq	exon	1945597	1945712	.	+	.	transcript_id "rna-XM_041704819.1"; gene_id "gene-APUU_10800S"; gene_name "MSW1";
+NC_054857.1	RefSeq	exon	1945762	1945880	.	+	.	transcript_id "rna-XM_041704819.1"; gene_id "gene-APUU_10800S"; gene_name "MSW1";
+NC_054857.1	RefSeq	exon	1945948	1946393	.	+	.	transcript_id "rna-XM_041704819.1"; gene_id "gene-APUU_10800S"; gene_name "MSW1";
+NC_054857.1	RefSeq	CDS	1944956	1945357	.	+	0	transcript_id "rna-XM_041704819.1"; gene_id "gene-APUU_10800S"; gene_name "MSW1";
+NC_054857.1	RefSeq	CDS	1945426	1945506	.	+	0	transcript_id "rna-XM_041704819.1"; gene_id "gene-APUU_10800S"; gene_name "MSW1";
+NC_054857.1	RefSeq	CDS	1945597	1945712	.	+	0	transcript_id "rna-XM_041704819.1"; gene_id "gene-APUU_10800S"; gene_name "MSW1";
+NC_054857.1	RefSeq	CDS	1945762	1945880	.	+	1	transcript_id "rna-XM_041704819.1"; gene_id "gene-APUU_10800S"; gene_name "MSW1";
+NC_054857.1	RefSeq	CDS	1945948	1946393	.	+	2	transcript_id "rna-XM_041704819.1"; gene_id "gene-APUU_10800S"; gene_name "MSW1";
+NC_054857.1	RefSeq	transcript	2279281	2280495	.	+	.	transcript_id "rna-XM_041705795.1"; gene_id "gene-APUU_10888S"; gene_name "KRR1"
+NC_054857.1	RefSeq	exon	2279281	2279340	.	+	.	transcript_id "rna-XM_041705795.1"; gene_id "gene-APUU_10888S"; gene_name "KRR1";
+NC_054857.1	RefSeq	exon	2279409	2279681	.	+	.	transcript_id "rna-XM_041705795.1"; gene_id "gene-APUU_10888S"; gene_name "KRR1";
+NC_054857.1	RefSeq	exon	2279746	2280495	.	+	.	transcript_id "rna-XM_041705795.1"; gene_id "gene-APUU_10888S"; gene_name "KRR1";
+NC_054857.1	RefSeq	CDS	2279281	2279340	.	+	0	transcript_id "rna-XM_041705795.1"; gene_id "gene-APUU_10888S"; gene_name "KRR1";
+NC_054857.1	RefSeq	CDS	2279409	2279681	.	+	0	transcript_id "rna-XM_041705795.1"; gene_id "gene-APUU_10888S"; gene_name "KRR1";
+NC_054857.1	RefSeq	CDS	2279746	2280495	.	+	0	transcript_id "rna-XM_041705795.1"; gene_id "gene-APUU_10888S"; gene_name "KRR1";
+NC_054857.1	RefSeq	transcript	2319966	2321523	.	-	.	transcript_id "rna-XM_041705963.1"; gene_id "gene-APUU_10903A"; gene_name "ALG7"
+NC_054857.1	RefSeq	exon	2319966	2320940	.	-	.	transcript_id "rna-XM_041705963.1"; gene_id "gene-APUU_10903A"; gene_name "ALG7";
+NC_054857.1	RefSeq	exon	2321016	2321196	.	-	.	transcript_id "rna-XM_041705963.1"; gene_id "gene-APUU_10903A"; gene_name "ALG7";
+NC_054857.1	RefSeq	exon	2321279	2321523	.	-	.	transcript_id "rna-XM_041705963.1"; gene_id "gene-APUU_10903A"; gene_name "ALG7";
+NC_054857.1	RefSeq	CDS	2319966	2320940	.	-	0	transcript_id "rna-XM_041705963.1"; gene_id "gene-APUU_10903A"; gene_name "ALG7";
+NC_054857.1	RefSeq	CDS	2321016	2321196	.	-	1	transcript_id "rna-XM_041705963.1"; gene_id "gene-APUU_10903A"; gene_name "ALG7";
+NC_054857.1	RefSeq	CDS	2321279	2321523	.	-	0	transcript_id "rna-XM_041705963.1"; gene_id "gene-APUU_10903A"; gene_name "ALG7";
+NC_054857.1	RefSeq	transcript	2529777	2531350	.	-	.	transcript_id "rna-XM_041706940.1"; gene_id "gene-APUU_10991A"
+NC_054857.1	RefSeq	exon	2529777	2530898	.	-	.	transcript_id "rna-XM_041706940.1"; gene_id "gene-APUU_10991A";
+NC_054857.1	RefSeq	exon	2531042	2531350	.	-	.	transcript_id "rna-XM_041706940.1"; gene_id "gene-APUU_10991A";
+NC_054857.1	RefSeq	CDS	2529777	2530898	.	-	0	transcript_id "rna-XM_041706940.1"; gene_id "gene-APUU_10991A";
+NC_054857.1	RefSeq	CDS	2531042	2531350	.	-	0	transcript_id "rna-XM_041706940.1"; gene_id "gene-APUU_10991A";
+NC_054857.1	RefSeq	transcript	2661778	2663180	.	-	.	transcript_id "rna-XM_041693868.1"; gene_id "gene-APUU_11039A"
+NC_054857.1	RefSeq	exon	2661778	2662659	.	-	.	transcript_id "rna-XM_041693868.1"; gene_id "gene-APUU_11039A";
+NC_054857.1	RefSeq	exon	2662716	2662748	.	-	.	transcript_id "rna-XM_041693868.1"; gene_id "gene-APUU_11039A";
+NC_054857.1	RefSeq	exon	2662805	2662815	.	-	.	transcript_id "rna-XM_041693868.1"; gene_id "gene-APUU_11039A";
+NC_054857.1	RefSeq	exon	2662873	2662919	.	-	.	transcript_id "rna-XM_041693868.1"; gene_id "gene-APUU_11039A";
+NC_054857.1	RefSeq	exon	2662975	2663014	.	-	.	transcript_id "rna-XM_041693868.1"; gene_id "gene-APUU_11039A";
+NC_054857.1	RefSeq	exon	2663087	2663180	.	-	.	transcript_id "rna-XM_041693868.1"; gene_id "gene-APUU_11039A";
+NC_054857.1	RefSeq	CDS	2661778	2662659	.	-	0	transcript_id "rna-XM_041693868.1"; gene_id "gene-APUU_11039A";
+NC_054857.1	RefSeq	CDS	2662716	2662748	.	-	0	transcript_id "rna-XM_041693868.1"; gene_id "gene-APUU_11039A";
+NC_054857.1	RefSeq	CDS	2662805	2662815	.	-	2	transcript_id "rna-XM_041693868.1"; gene_id "gene-APUU_11039A";
+NC_054857.1	RefSeq	CDS	2662873	2662919	.	-	1	transcript_id "rna-XM_041693868.1"; gene_id "gene-APUU_11039A";
+NC_054857.1	RefSeq	CDS	2662975	2663014	.	-	2	transcript_id "rna-XM_041693868.1"; gene_id "gene-APUU_11039A";
+NC_054857.1	RefSeq	CDS	2663087	2663180	.	-	0	transcript_id "rna-XM_041693868.1"; gene_id "gene-APUU_11039A";
+NC_054857.1	RefSeq	transcript	2942873	2946145	.	-	.	transcript_id "rna-XM_041695224.1"; gene_id "gene-APUU_11161A"
+NC_054857.1	RefSeq	exon	2942873	2943460	.	-	.	transcript_id "rna-XM_041695224.1"; gene_id "gene-APUU_11161A";
+NC_054857.1	RefSeq	exon	2943517	2944709	.	-	.	transcript_id "rna-XM_041695224.1"; gene_id "gene-APUU_11161A";
+NC_054857.1	RefSeq	exon	2944762	2944833	.	-	.	transcript_id "rna-XM_041695224.1"; gene_id "gene-APUU_11161A";
+NC_054857.1	RefSeq	exon	2944890	2945762	.	-	.	transcript_id "rna-XM_041695224.1"; gene_id "gene-APUU_11161A";
+NC_054857.1	RefSeq	exon	2945821	2946145	.	-	.	transcript_id "rna-XM_041695224.1"; gene_id "gene-APUU_11161A";
+NC_054857.1	RefSeq	CDS	2942873	2943460	.	-	0	transcript_id "rna-XM_041695224.1"; gene_id "gene-APUU_11161A";
+NC_054857.1	RefSeq	CDS	2943517	2944709	.	-	2	transcript_id "rna-XM_041695224.1"; gene_id "gene-APUU_11161A";
+NC_054857.1	RefSeq	CDS	2944762	2944833	.	-	2	transcript_id "rna-XM_041695224.1"; gene_id "gene-APUU_11161A";
+NC_054857.1	RefSeq	CDS	2944890	2945762	.	-	2	transcript_id "rna-XM_041695224.1"; gene_id "gene-APUU_11161A";
+NC_054857.1	RefSeq	CDS	2945821	2946145	.	-	0	transcript_id "rna-XM_041695224.1"; gene_id "gene-APUU_11161A";
+NC_054857.1	RefSeq	transcript	3006306	3009016	.	+	.	transcript_id "rna-XM_041695479.1"; gene_id "gene-APUU_11184S"
+NC_054857.1	RefSeq	exon	3006306	3006405	.	+	.	transcript_id "rna-XM_041695479.1"; gene_id "gene-APUU_11184S";
+NC_054857.1	RefSeq	exon	3006481	3006548	.	+	.	transcript_id "rna-XM_041695479.1"; gene_id "gene-APUU_11184S";
+NC_054857.1	RefSeq	exon	3006640	3006777	.	+	.	transcript_id "rna-XM_041695479.1"; gene_id "gene-APUU_11184S";
+NC_054857.1	RefSeq	exon	3006854	3007090	.	+	.	transcript_id "rna-XM_041695479.1"; gene_id "gene-APUU_11184S";
+NC_054857.1	RefSeq	exon	3007160	3007615	.	+	.	transcript_id "rna-XM_041695479.1"; gene_id "gene-APUU_11184S";
+NC_054857.1	RefSeq	exon	3007668	3007925	.	+	.	transcript_id "rna-XM_041695479.1"; gene_id "gene-APUU_11184S";
+NC_054857.1	RefSeq	exon	3007977	3008075	.	+	.	transcript_id "rna-XM_041695479.1"; gene_id "gene-APUU_11184S";
+NC_054857.1	RefSeq	exon	3008126	3009016	.	+	.	transcript_id "rna-XM_041695479.1"; gene_id "gene-APUU_11184S";
+NC_054857.1	RefSeq	CDS	3006306	3006405	.	+	0	transcript_id "rna-XM_041695479.1"; gene_id "gene-APUU_11184S";
+NC_054857.1	RefSeq	CDS	3006481	3006548	.	+	2	transcript_id "rna-XM_041695479.1"; gene_id "gene-APUU_11184S";
+NC_054857.1	RefSeq	CDS	3006640	3006777	.	+	0	transcript_id "rna-XM_041695479.1"; gene_id "gene-APUU_11184S";
+NC_054857.1	RefSeq	CDS	3006854	3007090	.	+	0	transcript_id "rna-XM_041695479.1"; gene_id "gene-APUU_11184S";
+NC_054857.1	RefSeq	CDS	3007160	3007615	.	+	0	transcript_id "rna-XM_041695479.1"; gene_id "gene-APUU_11184S";
+NC_054857.1	RefSeq	CDS	3007668	3007925	.	+	0	transcript_id "rna-XM_041695479.1"; gene_id "gene-APUU_11184S";
+NC_054857.1	RefSeq	CDS	3007977	3008075	.	+	0	transcript_id "rna-XM_041695479.1"; gene_id "gene-APUU_11184S";
+NC_054857.1	RefSeq	CDS	3008126	3009016	.	+	0	transcript_id "rna-XM_041695479.1"; gene_id "gene-APUU_11184S";
+NC_054857.1	RefSeq	transcript	3029260	3030199	.	+	.	transcript_id "rna-XM_041695601.1"; gene_id "gene-APUU_11195S"
+NC_054857.1	RefSeq	exon	3029260	3029355	.	+	.	transcript_id "rna-XM_041695601.1"; gene_id "gene-APUU_11195S";
+NC_054857.1	RefSeq	exon	3029429	3030199	.	+	.	transcript_id "rna-XM_041695601.1"; gene_id "gene-APUU_11195S";
+NC_054857.1	RefSeq	CDS	3029260	3029355	.	+	0	transcript_id "rna-XM_041695601.1"; gene_id "gene-APUU_11195S";
+NC_054857.1	RefSeq	CDS	3029429	3030199	.	+	0	transcript_id "rna-XM_041695601.1"; gene_id "gene-APUU_11195S";
+NC_054857.1	RefSeq	transcript	3206295	3206942	.	-	.	transcript_id "rna-XM_041696368.1"; gene_id "gene-APUU_11264A"
+NC_054857.1	RefSeq	exon	3206295	3206942	.	-	.	transcript_id "rna-XM_041696368.1"; gene_id "gene-APUU_11264A";
+NC_054857.1	RefSeq	CDS	3206295	3206942	.	-	0	transcript_id "rna-XM_041696368.1"; gene_id "gene-APUU_11264A";
+NC_054857.1	RefSeq	transcript	3215152	3216158	.	+	.	transcript_id "rna-XM_041696423.1"; gene_id "gene-APUU_11269S"; gene_name "dph5"
+NC_054857.1	RefSeq	exon	3215152	3215286	.	+	.	transcript_id "rna-XM_041696423.1"; gene_id "gene-APUU_11269S"; gene_name "dph5";
+NC_054857.1	RefSeq	exon	3215366	3215490	.	+	.	transcript_id "rna-XM_041696423.1"; gene_id "gene-APUU_11269S"; gene_name "dph5";
+NC_054857.1	RefSeq	exon	3215561	3216158	.	+	.	transcript_id "rna-XM_041696423.1"; gene_id "gene-APUU_11269S"; gene_name "dph5";
+NC_054857.1	RefSeq	CDS	3215152	3215286	.	+	0	transcript_id "rna-XM_041696423.1"; gene_id "gene-APUU_11269S"; gene_name "dph5";
+NC_054857.1	RefSeq	CDS	3215366	3215490	.	+	0	transcript_id "rna-XM_041696423.1"; gene_id "gene-APUU_11269S"; gene_name "dph5";
+NC_054857.1	RefSeq	CDS	3215561	3216158	.	+	1	transcript_id "rna-XM_041696423.1"; gene_id "gene-APUU_11269S"; gene_name "dph5";
+NC_054857.1	RefSeq	transcript	3250980	3252767	.	+	.	transcript_id "rna-XM_041696568.1"; gene_id "gene-APUU_11282S"
+NC_054857.1	RefSeq	exon	3250980	3252767	.	+	.	transcript_id "rna-XM_041696568.1"; gene_id "gene-APUU_11282S";
+NC_054857.1	RefSeq	CDS	3250980	3252767	.	+	0	transcript_id "rna-XM_041696568.1"; gene_id "gene-APUU_11282S";
+NC_054857.1	RefSeq	transcript	3531910	3534495	.	-	.	transcript_id "rna-XM_041697475.1"; gene_id "gene-APUU_11390A"; gene_name "DBP6"
+NC_054857.1	RefSeq	exon	3531910	3534495	.	-	.	transcript_id "rna-XM_041697475.1"; gene_id "gene-APUU_11390A"; gene_name "DBP6";
+NC_054857.1	RefSeq	CDS	3531910	3534495	.	-	0	transcript_id "rna-XM_041697475.1"; gene_id "gene-APUU_11390A"; gene_name "DBP6";
+NC_054857.1	RefSeq	transcript	3541417	3542588	.	-	.	transcript_id "rna-XM_041697480.1"; gene_id "gene-APUU_11395A"; gene_name "PRP18"
+NC_054857.1	RefSeq	exon	3541417	3541609	.	-	.	transcript_id "rna-XM_041697480.1"; gene_id "gene-APUU_11395A"; gene_name "PRP18";
+NC_054857.1	RefSeq	exon	3541663	3542588	.	-	.	transcript_id "rna-XM_041697480.1"; gene_id "gene-APUU_11395A"; gene_name "PRP18";
+NC_054857.1	RefSeq	CDS	3541417	3541609	.	-	1	transcript_id "rna-XM_041697480.1"; gene_id "gene-APUU_11395A"; gene_name "PRP18";
+NC_054857.1	RefSeq	CDS	3541663	3542588	.	-	0	transcript_id "rna-XM_041697480.1"; gene_id "gene-APUU_11395A"; gene_name "PRP18";
+NC_054857.1	RefSeq	transcript	4108102	4109720	.	+	.	transcript_id "rna-XM_041697738.1"; gene_id "gene-APUU_11627S"; gene_name "csn12"
+NC_054857.1	RefSeq	exon	4108102	4108664	.	+	.	transcript_id "rna-XM_041697738.1"; gene_id "gene-APUU_11627S"; gene_name "csn12";
+NC_054857.1	RefSeq	exon	4108719	4108791	.	+	.	transcript_id "rna-XM_041697738.1"; gene_id "gene-APUU_11627S"; gene_name "csn12";
+NC_054857.1	RefSeq	exon	4108842	4108994	.	+	.	transcript_id "rna-XM_041697738.1"; gene_id "gene-APUU_11627S"; gene_name "csn12";
+NC_054857.1	RefSeq	exon	4109044	4109105	.	+	.	transcript_id "rna-XM_041697738.1"; gene_id "gene-APUU_11627S"; gene_name "csn12";
+NC_054857.1	RefSeq	exon	4109157	4109577	.	+	.	transcript_id "rna-XM_041697738.1"; gene_id "gene-APUU_11627S"; gene_name "csn12";
+NC_054857.1	RefSeq	exon	4109634	4109720	.	+	.	transcript_id "rna-XM_041697738.1"; gene_id "gene-APUU_11627S"; gene_name "csn12";
+NC_054857.1	RefSeq	CDS	4108102	4108664	.	+	0	transcript_id "rna-XM_041697738.1"; gene_id "gene-APUU_11627S"; gene_name "csn12";
+NC_054857.1	RefSeq	CDS	4108719	4108791	.	+	1	transcript_id "rna-XM_041697738.1"; gene_id "gene-APUU_11627S"; gene_name "csn12";
+NC_054857.1	RefSeq	CDS	4108842	4108994	.	+	0	transcript_id "rna-XM_041697738.1"; gene_id "gene-APUU_11627S"; gene_name "csn12";
+NC_054857.1	RefSeq	CDS	4109044	4109105	.	+	0	transcript_id "rna-XM_041697738.1"; gene_id "gene-APUU_11627S"; gene_name "csn12";
+NC_054857.1	RefSeq	CDS	4109157	4109577	.	+	1	transcript_id "rna-XM_041697738.1"; gene_id "gene-APUU_11627S"; gene_name "csn12";
+NC_054857.1	RefSeq	CDS	4109634	4109720	.	+	0	transcript_id "rna-XM_041697738.1"; gene_id "gene-APUU_11627S"; gene_name "csn12";
+NC_054857.1	RefSeq	transcript	4374900	4376594	.	-	.	transcript_id "rna-XM_041697858.1"; gene_id "gene-APUU_11735A"
+NC_054857.1	RefSeq	exon	4374900	4375143	.	-	.	transcript_id "rna-XM_041697858.1"; gene_id "gene-APUU_11735A";
+NC_054857.1	RefSeq	exon	4375216	4376303	.	-	.	transcript_id "rna-XM_041697858.1"; gene_id "gene-APUU_11735A";
+NC_054857.1	RefSeq	exon	4376370	4376594	.	-	.	transcript_id "rna-XM_041697858.1"; gene_id "gene-APUU_11735A";
+NC_054857.1	RefSeq	CDS	4374900	4375143	.	-	1	transcript_id "rna-XM_041697858.1"; gene_id "gene-APUU_11735A";
+NC_054857.1	RefSeq	CDS	4375216	4376303	.	-	0	transcript_id "rna-XM_041697858.1"; gene_id "gene-APUU_11735A";
+NC_054857.1	RefSeq	CDS	4376370	4376594	.	-	0	transcript_id "rna-XM_041697858.1"; gene_id "gene-APUU_11735A";
+NC_054857.1	RefSeq	transcript	4531295	4533427	.	-	.	transcript_id "rna-XM_041697928.1"; gene_id "gene-APUU_11799A"
+NC_054857.1	RefSeq	exon	4531295	4533427	.	-	.	transcript_id "rna-XM_041697928.1"; gene_id "gene-APUU_11799A";
+NC_054857.1	RefSeq	CDS	4531295	4533427	.	-	0	transcript_id "rna-XM_041697928.1"; gene_id "gene-APUU_11799A";
+NC_054857.1	RefSeq	transcript	4537333	4539000	.	-	.	transcript_id "rna-XM_041697932.1"; gene_id "gene-APUU_11801A"
+NC_054857.1	RefSeq	exon	4537333	4538698	.	-	.	transcript_id "rna-XM_041697932.1"; gene_id "gene-APUU_11801A";
+NC_054857.1	RefSeq	exon	4538759	4539000	.	-	.	transcript_id "rna-XM_041697932.1"; gene_id "gene-APUU_11801A";
+NC_054857.1	RefSeq	CDS	4537333	4538698	.	-	1	transcript_id "rna-XM_041697932.1"; gene_id "gene-APUU_11801A";
+NC_054857.1	RefSeq	CDS	4538759	4539000	.	-	0	transcript_id "rna-XM_041697932.1"; gene_id "gene-APUU_11801A";
+NC_054857.1	RefSeq	transcript	4550864	4553880	.	+	.	transcript_id "rna-XM_041697939.1"; gene_id "gene-APUU_11808S"
+NC_054857.1	RefSeq	exon	4550864	4550880	.	+	.	transcript_id "rna-XM_041697939.1"; gene_id "gene-APUU_11808S";
+NC_054857.1	RefSeq	exon	4550947	4551201	.	+	.	transcript_id "rna-XM_041697939.1"; gene_id "gene-APUU_11808S";
+NC_054857.1	RefSeq	exon	4551264	4553880	.	+	.	transcript_id "rna-XM_041697939.1"; gene_id "gene-APUU_11808S";
+NC_054857.1	RefSeq	CDS	4550864	4550880	.	+	0	transcript_id "rna-XM_041697939.1"; gene_id "gene-APUU_11808S";
+NC_054857.1	RefSeq	CDS	4550947	4551201	.	+	1	transcript_id "rna-XM_041697939.1"; gene_id "gene-APUU_11808S";
+NC_054857.1	RefSeq	CDS	4551264	4553880	.	+	1	transcript_id "rna-XM_041697939.1"; gene_id "gene-APUU_11808S";
+NC_054857.1	RefSeq	transcript	4725961	4727376	.	+	.	transcript_id "rna-XM_041698010.1"; gene_id "gene-APUU_11872S"
+NC_054857.1	RefSeq	exon	4725961	4726063	.	+	.	transcript_id "rna-XM_041698010.1"; gene_id "gene-APUU_11872S";
+NC_054857.1	RefSeq	exon	4726132	4726232	.	+	.	transcript_id "rna-XM_041698010.1"; gene_id "gene-APUU_11872S";
+NC_054857.1	RefSeq	exon	4726308	4726435	.	+	.	transcript_id "rna-XM_041698010.1"; gene_id "gene-APUU_11872S";
+NC_054857.1	RefSeq	exon	4726488	4727376	.	+	.	transcript_id "rna-XM_041698010.1"; gene_id "gene-APUU_11872S";
+NC_054857.1	RefSeq	CDS	4725961	4726063	.	+	0	transcript_id "rna-XM_041698010.1"; gene_id "gene-APUU_11872S";
+NC_054857.1	RefSeq	CDS	4726132	4726232	.	+	2	transcript_id "rna-XM_041698010.1"; gene_id "gene-APUU_11872S";
+NC_054857.1	RefSeq	CDS	4726308	4726435	.	+	0	transcript_id "rna-XM_041698010.1"; gene_id "gene-APUU_11872S";
+NC_054857.1	RefSeq	CDS	4726488	4727376	.	+	1	transcript_id "rna-XM_041698010.1"; gene_id "gene-APUU_11872S";
+NC_054857.1	RefSeq	transcript	4903160	4905499	.	+	.	transcript_id "rna-XM_041698086.1"; gene_id "gene-APUU_11940S"; gene_name "dbp7"
+NC_054857.1	RefSeq	exon	4903160	4905499	.	+	.	transcript_id "rna-XM_041698086.1"; gene_id "gene-APUU_11940S"; gene_name "dbp7";
+NC_054857.1	RefSeq	CDS	4903160	4905499	.	+	0	transcript_id "rna-XM_041698086.1"; gene_id "gene-APUU_11940S"; gene_name "dbp7";
+NC_054857.1	RefSeq	transcript	4997618	4998734	.	-	.	transcript_id "rna-XM_041698125.1"; gene_id "gene-APUU_11976A"; gene_name "GCN3"
+NC_054857.1	RefSeq	exon	4997618	4998632	.	-	.	transcript_id "rna-XM_041698125.1"; gene_id "gene-APUU_11976A"; gene_name "GCN3";
+NC_054857.1	RefSeq	exon	4998688	4998734	.	-	.	transcript_id "rna-XM_041698125.1"; gene_id "gene-APUU_11976A"; gene_name "GCN3";
+NC_054857.1	RefSeq	CDS	4997618	4998632	.	-	1	transcript_id "rna-XM_041698125.1"; gene_id "gene-APUU_11976A"; gene_name "GCN3";
+NC_054857.1	RefSeq	CDS	4998688	4998734	.	-	0	transcript_id "rna-XM_041698125.1"; gene_id "gene-APUU_11976A"; gene_name "GCN3";
+NC_054857.1	RefSeq	transcript	5303787	5304999	.	+	.	transcript_id "rna-XM_041698253.1"; gene_id "gene-APUU_12090S"; gene_name "EBP2"
+NC_054857.1	RefSeq	exon	5303787	5303909	.	+	.	transcript_id "rna-XM_041698253.1"; gene_id "gene-APUU_12090S"; gene_name "EBP2";
+NC_054857.1	RefSeq	exon	5303970	5304633	.	+	.	transcript_id "rna-XM_041698253.1"; gene_id "gene-APUU_12090S"; gene_name "EBP2";
+NC_054857.1	RefSeq	exon	5304695	5304999	.	+	.	transcript_id "rna-XM_041698253.1"; gene_id "gene-APUU_12090S"; gene_name "EBP2";
+NC_054857.1	RefSeq	CDS	5303787	5303909	.	+	0	transcript_id "rna-XM_041698253.1"; gene_id "gene-APUU_12090S"; gene_name "EBP2";
+NC_054857.1	RefSeq	CDS	5303970	5304633	.	+	0	transcript_id "rna-XM_041698253.1"; gene_id "gene-APUU_12090S"; gene_name "EBP2";
+NC_054857.1	RefSeq	CDS	5304695	5304999	.	+	2	transcript_id "rna-XM_041698253.1"; gene_id "gene-APUU_12090S"; gene_name "EBP2";
+NC_054857.1	RefSeq	transcript	5515885	5516817	.	+	.	transcript_id "rna-XM_041698348.1"; gene_id "gene-APUU_12176S"; gene_name "BCP1"
+NC_054857.1	RefSeq	exon	5515885	5516193	.	+	.	transcript_id "rna-XM_041698348.1"; gene_id "gene-APUU_12176S"; gene_name "BCP1";
+NC_054857.1	RefSeq	exon	5516260	5516817	.	+	.	transcript_id "rna-XM_041698348.1"; gene_id "gene-APUU_12176S"; gene_name "BCP1";
+NC_054857.1	RefSeq	CDS	5515885	5516193	.	+	0	transcript_id "rna-XM_041698348.1"; gene_id "gene-APUU_12176S"; gene_name "BCP1";
+NC_054857.1	RefSeq	CDS	5516260	5516817	.	+	0	transcript_id "rna-XM_041698348.1"; gene_id "gene-APUU_12176S"; gene_name "BCP1";
+NC_054857.1	RefSeq	transcript	5623675	5624513	.	+	.	transcript_id "rna-XM_041698396.1"; gene_id "gene-APUU_12219S"; gene_name "MRT4"
+NC_054857.1	RefSeq	exon	5623675	5623868	.	+	.	transcript_id "rna-XM_041698396.1"; gene_id "gene-APUU_12219S"; gene_name "MRT4";
+NC_054857.1	RefSeq	exon	5623967	5624513	.	+	.	transcript_id "rna-XM_041698396.1"; gene_id "gene-APUU_12219S"; gene_name "MRT4";
+NC_054857.1	RefSeq	CDS	5623675	5623868	.	+	0	transcript_id "rna-XM_041698396.1"; gene_id "gene-APUU_12219S"; gene_name "MRT4";
+NC_054857.1	RefSeq	CDS	5623967	5624513	.	+	1	transcript_id "rna-XM_041698396.1"; gene_id "gene-APUU_12219S"; gene_name "MRT4";
+NC_054857.1	RefSeq	transcript	5626965	5627501	.	+	.	transcript_id "rna-XM_041698399.1"; gene_id "gene-APUU_12221S"; gene_name "MRPL51"
+NC_054857.1	RefSeq	exon	5626965	5627003	.	+	.	transcript_id "rna-XM_041698399.1"; gene_id "gene-APUU_12221S"; gene_name "MRPL51";
+NC_054857.1	RefSeq	exon	5627067	5627149	.	+	.	transcript_id "rna-XM_041698399.1"; gene_id "gene-APUU_12221S"; gene_name "MRPL51";
+NC_054857.1	RefSeq	exon	5627210	5627501	.	+	.	transcript_id "rna-XM_041698399.1"; gene_id "gene-APUU_12221S"; gene_name "MRPL51";
+NC_054857.1	RefSeq	CDS	5626965	5627003	.	+	0	transcript_id "rna-XM_041698399.1"; gene_id "gene-APUU_12221S"; gene_name "MRPL51";
+NC_054857.1	RefSeq	CDS	5627067	5627149	.	+	0	transcript_id "rna-XM_041698399.1"; gene_id "gene-APUU_12221S"; gene_name "MRPL51";
+NC_054857.1	RefSeq	CDS	5627210	5627501	.	+	1	transcript_id "rna-XM_041698399.1"; gene_id "gene-APUU_12221S"; gene_name "MRPL51";
+NC_054857.1	RefSeq	transcript	5682819	5684042	.	+	.	transcript_id "rna-XM_041698425.1"; gene_id "gene-APUU_12245S"
+NC_054857.1	RefSeq	exon	5682819	5682875	.	+	.	transcript_id "rna-XM_041698425.1"; gene_id "gene-APUU_12245S";
+NC_054857.1	RefSeq	exon	5682937	5682954	.	+	.	transcript_id "rna-XM_041698425.1"; gene_id "gene-APUU_12245S";
+NC_054857.1	RefSeq	exon	5683036	5683577	.	+	.	transcript_id "rna-XM_041698425.1"; gene_id "gene-APUU_12245S";
+NC_054857.1	RefSeq	exon	5683628	5684042	.	+	.	transcript_id "rna-XM_041698425.1"; gene_id "gene-APUU_12245S";
+NC_054857.1	RefSeq	CDS	5682819	5682875	.	+	0	transcript_id "rna-XM_041698425.1"; gene_id "gene-APUU_12245S";
+NC_054857.1	RefSeq	CDS	5682937	5682954	.	+	0	transcript_id "rna-XM_041698425.1"; gene_id "gene-APUU_12245S";
+NC_054857.1	RefSeq	CDS	5683036	5683577	.	+	0	transcript_id "rna-XM_041698425.1"; gene_id "gene-APUU_12245S";
+NC_054857.1	RefSeq	CDS	5683628	5684042	.	+	1	transcript_id "rna-XM_041698425.1"; gene_id "gene-APUU_12245S";
+NC_054858.1	RefSeq	transcript	516842	518905	.	+	.	transcript_id "rna-XM_041698838.1"; gene_id "gene-APUU_20221S"
+NC_054858.1	RefSeq	exon	516842	518905	.	+	.	transcript_id "rna-XM_041698838.1"; gene_id "gene-APUU_20221S";
+NC_054858.1	RefSeq	CDS	516842	518905	.	+	0	transcript_id "rna-XM_041698838.1"; gene_id "gene-APUU_20221S";
+NC_054858.1	RefSeq	transcript	1354906	1355344	.	+	.	transcript_id "rna-XM_041699219.1"; gene_id "gene-APUU_20564S"; gene_name "spt4"
+NC_054858.1	RefSeq	exon	1354906	1354983	.	+	.	transcript_id "rna-XM_041699219.1"; gene_id "gene-APUU_20564S"; gene_name "spt4";
+NC_054858.1	RefSeq	exon	1355060	1355344	.	+	.	transcript_id "rna-XM_041699219.1"; gene_id "gene-APUU_20564S"; gene_name "spt4";
+NC_054858.1	RefSeq	CDS	1354906	1354983	.	+	0	transcript_id "rna-XM_041699219.1"; gene_id "gene-APUU_20564S"; gene_name "spt4";
+NC_054858.1	RefSeq	CDS	1355060	1355344	.	+	0	transcript_id "rna-XM_041699219.1"; gene_id "gene-APUU_20564S"; gene_name "spt4";
+NC_054858.1	RefSeq	transcript	1636308	1637901	.	+	.	transcript_id "rna-XM_041699335.1"; gene_id "gene-APUU_20668S"; gene_name "UBA4"
+NC_054858.1	RefSeq	exon	1636308	1636551	.	+	.	transcript_id "rna-XM_041699335.1"; gene_id "gene-APUU_20668S"; gene_name "UBA4";
+NC_054858.1	RefSeq	exon	1636629	1636842	.	+	.	transcript_id "rna-XM_041699335.1"; gene_id "gene-APUU_20668S"; gene_name "UBA4";
+NC_054858.1	RefSeq	exon	1636911	1637901	.	+	.	transcript_id "rna-XM_041699335.1"; gene_id "gene-APUU_20668S"; gene_name "UBA4";
+NC_054858.1	RefSeq	CDS	1636308	1636551	.	+	0	transcript_id "rna-XM_041699335.1"; gene_id "gene-APUU_20668S"; gene_name "UBA4";
+NC_054858.1	RefSeq	CDS	1636629	1636842	.	+	2	transcript_id "rna-XM_041699335.1"; gene_id "gene-APUU_20668S"; gene_name "UBA4";
+NC_054858.1	RefSeq	CDS	1636911	1637901	.	+	1	transcript_id "rna-XM_041699335.1"; gene_id "gene-APUU_20668S"; gene_name "UBA4";
+NC_054858.1	RefSeq	transcript	2096704	2099988	.	+	.	transcript_id "rna-XM_041699559.1"; gene_id "gene-APUU_20870S"
+NC_054858.1	RefSeq	exon	2096704	2096718	.	+	.	transcript_id "rna-XM_041699559.1"; gene_id "gene-APUU_20870S";
+NC_054858.1	RefSeq	exon	2096779	2096847	.	+	.	transcript_id "rna-XM_041699559.1"; gene_id "gene-APUU_20870S";
+NC_054858.1	RefSeq	exon	2096905	2097201	.	+	.	transcript_id "rna-XM_041699559.1"; gene_id "gene-APUU_20870S";
+NC_054858.1	RefSeq	exon	2097260	2097883	.	+	.	transcript_id "rna-XM_041699559.1"; gene_id "gene-APUU_20870S";
+NC_054858.1	RefSeq	exon	2097933	2098166	.	+	.	transcript_id "rna-XM_041699559.1"; gene_id "gene-APUU_20870S";
+NC_054858.1	RefSeq	exon	2098220	2098555	.	+	.	transcript_id "rna-XM_041699559.1"; gene_id "gene-APUU_20870S";
+NC_054858.1	RefSeq	exon	2098605	2099108	.	+	.	transcript_id "rna-XM_041699559.1"; gene_id "gene-APUU_20870S";
+NC_054858.1	RefSeq	exon	2099158	2099556	.	+	.	transcript_id "rna-XM_041699559.1"; gene_id "gene-APUU_20870S";
+NC_054858.1	RefSeq	exon	2099611	2099988	.	+	.	transcript_id "rna-XM_041699559.1"; gene_id "gene-APUU_20870S";
+NC_054858.1	RefSeq	CDS	2096704	2096718	.	+	0	transcript_id "rna-XM_041699559.1"; gene_id "gene-APUU_20870S";
+NC_054858.1	RefSeq	CDS	2096779	2096847	.	+	0	transcript_id "rna-XM_041699559.1"; gene_id "gene-APUU_20870S";
+NC_054858.1	RefSeq	CDS	2096905	2097201	.	+	0	transcript_id "rna-XM_041699559.1"; gene_id "gene-APUU_20870S";
+NC_054858.1	RefSeq	CDS	2097260	2097883	.	+	0	transcript_id "rna-XM_041699559.1"; gene_id "gene-APUU_20870S";
+NC_054858.1	RefSeq	CDS	2097933	2098166	.	+	0	transcript_id "rna-XM_041699559.1"; gene_id "gene-APUU_20870S";
+NC_054858.1	RefSeq	CDS	2098220	2098555	.	+	0	transcript_id "rna-XM_041699559.1"; gene_id "gene-APUU_20870S";
+NC_054858.1	RefSeq	CDS	2098605	2099108	.	+	0	transcript_id "rna-XM_041699559.1"; gene_id "gene-APUU_20870S";
+NC_054858.1	RefSeq	CDS	2099158	2099556	.	+	0	transcript_id "rna-XM_041699559.1"; gene_id "gene-APUU_20870S";
+NC_054858.1	RefSeq	CDS	2099611	2099988	.	+	0	transcript_id "rna-XM_041699559.1"; gene_id "gene-APUU_20870S";
+NC_054858.1	RefSeq	transcript	2269917	2272702	.	-	.	transcript_id "rna-XM_041699647.1"; gene_id "gene-APUU_20949A"
+NC_054858.1	RefSeq	exon	2269917	2272214	.	-	.	transcript_id "rna-XM_041699647.1"; gene_id "gene-APUU_20949A";
+NC_054858.1	RefSeq	exon	2272274	2272702	.	-	.	transcript_id "rna-XM_041699647.1"; gene_id "gene-APUU_20949A";
+NC_054858.1	RefSeq	CDS	2269917	2272214	.	-	0	transcript_id "rna-XM_041699647.1"; gene_id "gene-APUU_20949A";
+NC_054858.1	RefSeq	CDS	2272274	2272702	.	-	0	transcript_id "rna-XM_041699647.1"; gene_id "gene-APUU_20949A";
+NC_054858.1	RefSeq	transcript	2373586	2375846	.	+	.	transcript_id "rna-XM_041699690.1"; gene_id "gene-APUU_20988S"
+NC_054858.1	RefSeq	exon	2373586	2373802	.	+	.	transcript_id "rna-XM_041699690.1"; gene_id "gene-APUU_20988S";
+NC_054858.1	RefSeq	exon	2373871	2375846	.	+	.	transcript_id "rna-XM_041699690.1"; gene_id "gene-APUU_20988S";
+NC_054858.1	RefSeq	CDS	2373586	2373802	.	+	0	transcript_id "rna-XM_041699690.1"; gene_id "gene-APUU_20988S";
+NC_054858.1	RefSeq	CDS	2373871	2375846	.	+	2	transcript_id "rna-XM_041699690.1"; gene_id "gene-APUU_20988S";
+NC_054858.1	RefSeq	transcript	2513241	2515359	.	+	.	transcript_id "rna-XM_041699743.1"; gene_id "gene-APUU_21035S"; gene_name "SRP72"
+NC_054858.1	RefSeq	exon	2513241	2513561	.	+	.	transcript_id "rna-XM_041699743.1"; gene_id "gene-APUU_21035S"; gene_name "SRP72";
+NC_054858.1	RefSeq	exon	2513622	2513895	.	+	.	transcript_id "rna-XM_041699743.1"; gene_id "gene-APUU_21035S"; gene_name "SRP72";
+NC_054858.1	RefSeq	exon	2513952	2514096	.	+	.	transcript_id "rna-XM_041699743.1"; gene_id "gene-APUU_21035S"; gene_name "SRP72";
+NC_054858.1	RefSeq	exon	2514147	2515359	.	+	.	transcript_id "rna-XM_041699743.1"; gene_id "gene-APUU_21035S"; gene_name "SRP72";
+NC_054858.1	RefSeq	CDS	2513241	2513561	.	+	0	transcript_id "rna-XM_041699743.1"; gene_id "gene-APUU_21035S"; gene_name "SRP72";
+NC_054858.1	RefSeq	CDS	2513622	2513895	.	+	0	transcript_id "rna-XM_041699743.1"; gene_id "gene-APUU_21035S"; gene_name "SRP72";
+NC_054858.1	RefSeq	CDS	2513952	2514096	.	+	2	transcript_id "rna-XM_041699743.1"; gene_id "gene-APUU_21035S"; gene_name "SRP72";
+NC_054858.1	RefSeq	CDS	2514147	2515359	.	+	1	transcript_id "rna-XM_041699743.1"; gene_id "gene-APUU_21035S"; gene_name "SRP72";
+NC_054858.1	RefSeq	transcript	2554836	2556809	.	-	.	transcript_id "rna-XM_041699759.1"; gene_id "gene-APUU_21050A"; gene_name "RAM1"
+NC_054858.1	RefSeq	exon	2554836	2555112	.	-	.	transcript_id "rna-XM_041699759.1"; gene_id "gene-APUU_21050A"; gene_name "RAM1";
+NC_054858.1	RefSeq	exon	2555183	2555461	.	-	.	transcript_id "rna-XM_041699759.1"; gene_id "gene-APUU_21050A"; gene_name "RAM1";
+NC_054858.1	RefSeq	exon	2555513	2555630	.	-	.	transcript_id "rna-XM_041699759.1"; gene_id "gene-APUU_21050A"; gene_name "RAM1";
+NC_054858.1	RefSeq	exon	2555682	2555809	.	-	.	transcript_id "rna-XM_041699759.1"; gene_id "gene-APUU_21050A"; gene_name "RAM1";
+NC_054858.1	RefSeq	exon	2555870	2555944	.	-	.	transcript_id "rna-XM_041699759.1"; gene_id "gene-APUU_21050A"; gene_name "RAM1";
+NC_054858.1	RefSeq	exon	2556000	2556155	.	-	.	transcript_id "rna-XM_041699759.1"; gene_id "gene-APUU_21050A"; gene_name "RAM1";
+NC_054858.1	RefSeq	exon	2556298	2556809	.	-	.	transcript_id "rna-XM_041699759.1"; gene_id "gene-APUU_21050A"; gene_name "RAM1";
+NC_054858.1	RefSeq	CDS	2554836	2555112	.	-	1	transcript_id "rna-XM_041699759.1"; gene_id "gene-APUU_21050A"; gene_name "RAM1";
+NC_054858.1	RefSeq	CDS	2555183	2555461	.	-	1	transcript_id "rna-XM_041699759.1"; gene_id "gene-APUU_21050A"; gene_name "RAM1";
+NC_054858.1	RefSeq	CDS	2555513	2555630	.	-	2	transcript_id "rna-XM_041699759.1"; gene_id "gene-APUU_21050A"; gene_name "RAM1";
+NC_054858.1	RefSeq	CDS	2555682	2555809	.	-	1	transcript_id "rna-XM_041699759.1"; gene_id "gene-APUU_21050A"; gene_name "RAM1";
+NC_054858.1	RefSeq	CDS	2555870	2555944	.	-	1	transcript_id "rna-XM_041699759.1"; gene_id "gene-APUU_21050A"; gene_name "RAM1";
+NC_054858.1	RefSeq	CDS	2556000	2556155	.	-	1	transcript_id "rna-XM_041699759.1"; gene_id "gene-APUU_21050A"; gene_name "RAM1";
+NC_054858.1	RefSeq	CDS	2556298	2556809	.	-	0	transcript_id "rna-XM_041699759.1"; gene_id "gene-APUU_21050A"; gene_name "RAM1";
+NC_054858.1	RefSeq	transcript	2838505	2840051	.	+	.	transcript_id "rna-XM_041699872.1"; gene_id "gene-APUU_21152S"; gene_name "cox15"
+NC_054858.1	RefSeq	exon	2838505	2838878	.	+	.	transcript_id "rna-XM_041699872.1"; gene_id "gene-APUU_21152S"; gene_name "cox15";
+NC_054858.1	RefSeq	exon	2838938	2840051	.	+	.	transcript_id "rna-XM_041699872.1"; gene_id "gene-APUU_21152S"; gene_name "cox15";
+NC_054858.1	RefSeq	CDS	2838505	2838878	.	+	0	transcript_id "rna-XM_041699872.1"; gene_id "gene-APUU_21152S"; gene_name "cox15";
+NC_054858.1	RefSeq	CDS	2838938	2840051	.	+	1	transcript_id "rna-XM_041699872.1"; gene_id "gene-APUU_21152S"; gene_name "cox15";
+NC_054858.1	RefSeq	transcript	4031688	4033018	.	-	.	transcript_id "rna-XM_041700446.1"; gene_id "gene-APUU_21668A"
+NC_054858.1	RefSeq	exon	4031688	4031714	.	-	.	transcript_id "rna-XM_041700446.1"; gene_id "gene-APUU_21668A";
+NC_054858.1	RefSeq	exon	4031801	4033018	.	-	.	transcript_id "rna-XM_041700446.1"; gene_id "gene-APUU_21668A";
+NC_054858.1	RefSeq	CDS	4031688	4031714	.	-	0	transcript_id "rna-XM_041700446.1"; gene_id "gene-APUU_21668A";
+NC_054858.1	RefSeq	CDS	4031801	4033018	.	-	0	transcript_id "rna-XM_041700446.1"; gene_id "gene-APUU_21668A";
+NC_054858.1	RefSeq	transcript	4201807	4202846	.	-	.	transcript_id "rna-XM_041700517.1"; gene_id "gene-APUU_21732A"
+NC_054858.1	RefSeq	exon	4201807	4202666	.	-	.	transcript_id "rna-XM_041700517.1"; gene_id "gene-APUU_21732A";
+NC_054858.1	RefSeq	exon	4202771	4202846	.	-	.	transcript_id "rna-XM_041700517.1"; gene_id "gene-APUU_21732A";
+NC_054858.1	RefSeq	CDS	4201807	4202666	.	-	2	transcript_id "rna-XM_041700517.1"; gene_id "gene-APUU_21732A";
+NC_054858.1	RefSeq	CDS	4202771	4202846	.	-	0	transcript_id "rna-XM_041700517.1"; gene_id "gene-APUU_21732A";
+NC_054858.1	RefSeq	transcript	4246086	4247279	.	+	.	transcript_id "rna-XM_041700537.1"; gene_id "gene-APUU_21750S"
+NC_054858.1	RefSeq	exon	4246086	4247279	.	+	.	transcript_id "rna-XM_041700537.1"; gene_id "gene-APUU_21750S";
+NC_054858.1	RefSeq	CDS	4246086	4247279	.	+	0	transcript_id "rna-XM_041700537.1"; gene_id "gene-APUU_21750S";
+NC_054858.1	RefSeq	transcript	4260842	4262622	.	-	.	transcript_id "rna-XM_041700542.1"; gene_id "gene-APUU_21754A"
+NC_054858.1	RefSeq	exon	4260842	4262340	.	-	.	transcript_id "rna-XM_041700542.1"; gene_id "gene-APUU_21754A";
+NC_054858.1	RefSeq	exon	4262408	4262441	.	-	.	transcript_id "rna-XM_041700542.1"; gene_id "gene-APUU_21754A";
+NC_054858.1	RefSeq	exon	4262581	4262622	.	-	.	transcript_id "rna-XM_041700542.1"; gene_id "gene-APUU_21754A";
+NC_054858.1	RefSeq	CDS	4260842	4262340	.	-	2	transcript_id "rna-XM_041700542.1"; gene_id "gene-APUU_21754A";
+NC_054858.1	RefSeq	CDS	4262408	4262441	.	-	0	transcript_id "rna-XM_041700542.1"; gene_id "gene-APUU_21754A";
+NC_054858.1	RefSeq	CDS	4262581	4262622	.	-	0	transcript_id "rna-XM_041700542.1"; gene_id "gene-APUU_21754A";
+NC_054858.1	RefSeq	transcript	4325196	4326118	.	+	.	transcript_id "rna-XM_041700570.1"; gene_id "gene-APUU_21780S"; gene_name "RPC25"
+NC_054858.1	RefSeq	exon	4325196	4325207	.	+	.	transcript_id "rna-XM_041700570.1"; gene_id "gene-APUU_21780S"; gene_name "RPC25";
+NC_054858.1	RefSeq	exon	4325270	4325368	.	+	.	transcript_id "rna-XM_041700570.1"; gene_id "gene-APUU_21780S"; gene_name "RPC25";
+NC_054858.1	RefSeq	exon	4325429	4325525	.	+	.	transcript_id "rna-XM_041700570.1"; gene_id "gene-APUU_21780S"; gene_name "RPC25";
+NC_054858.1	RefSeq	exon	4325588	4325674	.	+	.	transcript_id "rna-XM_041700570.1"; gene_id "gene-APUU_21780S"; gene_name "RPC25";
+NC_054858.1	RefSeq	exon	4325734	4325797	.	+	.	transcript_id "rna-XM_041700570.1"; gene_id "gene-APUU_21780S"; gene_name "RPC25";
+NC_054858.1	RefSeq	exon	4325850	4326024	.	+	.	transcript_id "rna-XM_041700570.1"; gene_id "gene-APUU_21780S"; gene_name "RPC25";
+NC_054858.1	RefSeq	exon	4326074	4326118	.	+	.	transcript_id "rna-XM_041700570.1"; gene_id "gene-APUU_21780S"; gene_name "RPC25";
+NC_054858.1	RefSeq	CDS	4325196	4325207	.	+	0	transcript_id "rna-XM_041700570.1"; gene_id "gene-APUU_21780S"; gene_name "RPC25";
+NC_054858.1	RefSeq	CDS	4325270	4325368	.	+	0	transcript_id "rna-XM_041700570.1"; gene_id "gene-APUU_21780S"; gene_name "RPC25";
+NC_054858.1	RefSeq	CDS	4325429	4325525	.	+	0	transcript_id "rna-XM_041700570.1"; gene_id "gene-APUU_21780S"; gene_name "RPC25";
+NC_054858.1	RefSeq	CDS	4325588	4325674	.	+	2	transcript_id "rna-XM_041700570.1"; gene_id "gene-APUU_21780S"; gene_name "RPC25";
+NC_054858.1	RefSeq	CDS	4325734	4325797	.	+	2	transcript_id "rna-XM_041700570.1"; gene_id "gene-APUU_21780S"; gene_name "RPC25";
+NC_054858.1	RefSeq	CDS	4325850	4326024	.	+	1	transcript_id "rna-XM_041700570.1"; gene_id "gene-APUU_21780S"; gene_name "RPC25";
+NC_054858.1	RefSeq	CDS	4326074	4326118	.	+	0	transcript_id "rna-XM_041700570.1"; gene_id "gene-APUU_21780S"; gene_name "RPC25";
+NC_054858.1	RefSeq	transcript	4361514	4364305	.	+	.	transcript_id "rna-XM_041700586.1"; gene_id "gene-APUU_21794S"; gene_name "NOP14"
+NC_054858.1	RefSeq	exon	4361514	4361801	.	+	.	transcript_id "rna-XM_041700586.1"; gene_id "gene-APUU_21794S"; gene_name "NOP14";
+NC_054858.1	RefSeq	exon	4361855	4364305	.	+	.	transcript_id "rna-XM_041700586.1"; gene_id "gene-APUU_21794S"; gene_name "NOP14";
+NC_054858.1	RefSeq	CDS	4361514	4361801	.	+	0	transcript_id "rna-XM_041700586.1"; gene_id "gene-APUU_21794S"; gene_name "NOP14";
+NC_054858.1	RefSeq	CDS	4361855	4364305	.	+	0	transcript_id "rna-XM_041700586.1"; gene_id "gene-APUU_21794S"; gene_name "NOP14";
+NC_054858.1	RefSeq	transcript	4585303	4588013	.	+	.	transcript_id "rna-XM_041700639.1"; gene_id "gene-APUU_21842S"; gene_name "SEC10"
+NC_054858.1	RefSeq	exon	4585303	4587465	.	+	.	transcript_id "rna-XM_041700639.1"; gene_id "gene-APUU_21842S"; gene_name "SEC10";
+NC_054858.1	RefSeq	exon	4587522	4588013	.	+	.	transcript_id "rna-XM_041700639.1"; gene_id "gene-APUU_21842S"; gene_name "SEC10";
+NC_054858.1	RefSeq	CDS	4585303	4587465	.	+	0	transcript_id "rna-XM_041700639.1"; gene_id "gene-APUU_21842S"; gene_name "SEC10";
+NC_054858.1	RefSeq	CDS	4587522	4588013	.	+	0	transcript_id "rna-XM_041700639.1"; gene_id "gene-APUU_21842S"; gene_name "SEC10";
+NC_054858.1	RefSeq	transcript	4601881	4602775	.	-	.	transcript_id "rna-XM_041700647.1"; gene_id "gene-APUU_21849A"; gene_name "tma22"
+NC_054858.1	RefSeq	exon	4601881	4602302	.	-	.	transcript_id "rna-XM_041700647.1"; gene_id "gene-APUU_21849A"; gene_name "tma22";
+NC_054858.1	RefSeq	exon	4602386	4602473	.	-	.	transcript_id "rna-XM_041700647.1"; gene_id "gene-APUU_21849A"; gene_name "tma22";
+NC_054858.1	RefSeq	exon	4602606	4602625	.	-	.	transcript_id "rna-XM_041700647.1"; gene_id "gene-APUU_21849A"; gene_name "tma22";
+NC_054858.1	RefSeq	exon	4602715	4602775	.	-	.	transcript_id "rna-XM_041700647.1"; gene_id "gene-APUU_21849A"; gene_name "tma22";
+NC_054858.1	RefSeq	CDS	4601881	4602302	.	-	2	transcript_id "rna-XM_041700647.1"; gene_id "gene-APUU_21849A"; gene_name "tma22";
+NC_054858.1	RefSeq	CDS	4602386	4602473	.	-	0	transcript_id "rna-XM_041700647.1"; gene_id "gene-APUU_21849A"; gene_name "tma22";
+NC_054858.1	RefSeq	CDS	4602606	4602625	.	-	2	transcript_id "rna-XM_041700647.1"; gene_id "gene-APUU_21849A"; gene_name "tma22";
+NC_054858.1	RefSeq	CDS	4602715	4602775	.	-	0	transcript_id "rna-XM_041700647.1"; gene_id "gene-APUU_21849A"; gene_name "tma22";
+NC_054859.1	RefSeq	transcript	714308	717262	.	-	.	transcript_id "rna-XM_041701383.1"; gene_id "gene-APUU_30305A"; gene_name "MCM2"
+NC_054859.1	RefSeq	exon	714308	714404	.	-	.	transcript_id "rna-XM_041701383.1"; gene_id "gene-APUU_30305A"; gene_name "MCM2";
+NC_054859.1	RefSeq	exon	714504	714673	.	-	.	transcript_id "rna-XM_041701383.1"; gene_id "gene-APUU_30305A"; gene_name "MCM2";
+NC_054859.1	RefSeq	exon	714733	717026	.	-	.	transcript_id "rna-XM_041701383.1"; gene_id "gene-APUU_30305A"; gene_name "MCM2";
+NC_054859.1	RefSeq	exon	717086	717201	.	-	.	transcript_id "rna-XM_041701383.1"; gene_id "gene-APUU_30305A"; gene_name "MCM2";
+NC_054859.1	RefSeq	exon	717258	717262	.	-	.	transcript_id "rna-XM_041701383.1"; gene_id "gene-APUU_30305A"; gene_name "MCM2";
+NC_054859.1	RefSeq	CDS	714308	714404	.	-	1	transcript_id "rna-XM_041701383.1"; gene_id "gene-APUU_30305A"; gene_name "MCM2";
+NC_054859.1	RefSeq	CDS	714504	714673	.	-	0	transcript_id "rna-XM_041701383.1"; gene_id "gene-APUU_30305A"; gene_name "MCM2";
+NC_054859.1	RefSeq	CDS	714733	717026	.	-	2	transcript_id "rna-XM_041701383.1"; gene_id "gene-APUU_30305A"; gene_name "MCM2";
+NC_054859.1	RefSeq	CDS	717086	717201	.	-	1	transcript_id "rna-XM_041701383.1"; gene_id "gene-APUU_30305A"; gene_name "MCM2";
+NC_054859.1	RefSeq	CDS	717258	717262	.	-	0	transcript_id "rna-XM_041701383.1"; gene_id "gene-APUU_30305A"; gene_name "MCM2";
+NC_054859.1	RefSeq	transcript	849740	851775	.	-	.	transcript_id "rna-XM_041701437.1"; gene_id "gene-APUU_30354A"; gene_name "spb4"
+NC_054859.1	RefSeq	exon	849740	850859	.	-	.	transcript_id "rna-XM_041701437.1"; gene_id "gene-APUU_30354A"; gene_name "spb4";
+NC_054859.1	RefSeq	exon	850912	851424	.	-	.	transcript_id "rna-XM_041701437.1"; gene_id "gene-APUU_30354A"; gene_name "spb4";
+NC_054859.1	RefSeq	exon	851486	851775	.	-	.	transcript_id "rna-XM_041701437.1"; gene_id "gene-APUU_30354A"; gene_name "spb4";
+NC_054859.1	RefSeq	CDS	849740	850859	.	-	1	transcript_id "rna-XM_041701437.1"; gene_id "gene-APUU_30354A"; gene_name "spb4";
+NC_054859.1	RefSeq	CDS	850912	851424	.	-	1	transcript_id "rna-XM_041701437.1"; gene_id "gene-APUU_30354A"; gene_name "spb4";
+NC_054859.1	RefSeq	CDS	851486	851775	.	-	0	transcript_id "rna-XM_041701437.1"; gene_id "gene-APUU_30354A"; gene_name "spb4";
+NC_054859.1	RefSeq	transcript	1546342	1547938	.	+	.	transcript_id "rna-XM_041701737.1"; gene_id "gene-APUU_30623S"
+NC_054859.1	RefSeq	exon	1546342	1546445	.	+	.	transcript_id "rna-XM_041701737.1"; gene_id "gene-APUU_30623S";
+NC_054859.1	RefSeq	exon	1546509	1546599	.	+	.	transcript_id "rna-XM_041701737.1"; gene_id "gene-APUU_30623S";
+NC_054859.1	RefSeq	exon	1546661	1546825	.	+	.	transcript_id "rna-XM_041701737.1"; gene_id "gene-APUU_30623S";
+NC_054859.1	RefSeq	exon	1546889	1547938	.	+	.	transcript_id "rna-XM_041701737.1"; gene_id "gene-APUU_30623S";
+NC_054859.1	RefSeq	CDS	1546342	1546445	.	+	0	transcript_id "rna-XM_041701737.1"; gene_id "gene-APUU_30623S";
+NC_054859.1	RefSeq	CDS	1546509	1546599	.	+	1	transcript_id "rna-XM_041701737.1"; gene_id "gene-APUU_30623S";
+NC_054859.1	RefSeq	CDS	1546661	1546825	.	+	0	transcript_id "rna-XM_041701737.1"; gene_id "gene-APUU_30623S";
+NC_054859.1	RefSeq	CDS	1546889	1547938	.	+	0	transcript_id "rna-XM_041701737.1"; gene_id "gene-APUU_30623S";
+NC_054859.1	RefSeq	transcript	1561396	1562456	.	+	.	transcript_id "rna-XM_041701742.1"; gene_id "gene-APUU_30627S"; gene_name "NSA2"
+NC_054859.1	RefSeq	exon	1561396	1561398	.	+	.	transcript_id "rna-XM_041701742.1"; gene_id "gene-APUU_30627S"; gene_name "NSA2";
+NC_054859.1	RefSeq	exon	1561466	1561476	.	+	.	transcript_id "rna-XM_041701742.1"; gene_id "gene-APUU_30627S"; gene_name "NSA2";
+NC_054859.1	RefSeq	exon	1561528	1562031	.	+	.	transcript_id "rna-XM_041701742.1"; gene_id "gene-APUU_30627S"; gene_name "NSA2";
+NC_054859.1	RefSeq	exon	1562083	1562121	.	+	.	transcript_id "rna-XM_041701742.1"; gene_id "gene-APUU_30627S"; gene_name "NSA2";
+NC_054859.1	RefSeq	exon	1562177	1562389	.	+	.	transcript_id "rna-XM_041701742.1"; gene_id "gene-APUU_30627S"; gene_name "NSA2";
+NC_054859.1	RefSeq	exon	1562441	1562456	.	+	.	transcript_id "rna-XM_041701742.1"; gene_id "gene-APUU_30627S"; gene_name "NSA2";
+NC_054859.1	RefSeq	CDS	1561396	1561398	.	+	0	transcript_id "rna-XM_041701742.1"; gene_id "gene-APUU_30627S"; gene_name "NSA2";
+NC_054859.1	RefSeq	CDS	1561466	1561476	.	+	0	transcript_id "rna-XM_041701742.1"; gene_id "gene-APUU_30627S"; gene_name "NSA2";
+NC_054859.1	RefSeq	CDS	1561528	1562031	.	+	1	transcript_id "rna-XM_041701742.1"; gene_id "gene-APUU_30627S"; gene_name "NSA2";
+NC_054859.1	RefSeq	CDS	1562083	1562121	.	+	1	transcript_id "rna-XM_041701742.1"; gene_id "gene-APUU_30627S"; gene_name "NSA2";
+NC_054859.1	RefSeq	CDS	1562177	1562389	.	+	1	transcript_id "rna-XM_041701742.1"; gene_id "gene-APUU_30627S"; gene_name "NSA2";
+NC_054859.1	RefSeq	CDS	1562441	1562456	.	+	1	transcript_id "rna-XM_041701742.1"; gene_id "gene-APUU_30627S"; gene_name "NSA2";
+NC_054859.1	RefSeq	transcript	2041483	2042937	.	+	.	transcript_id "rna-XM_041701950.1"; gene_id "gene-APUU_30815S"; gene_name "RRP6_1"
+NC_054859.1	RefSeq	exon	2041483	2042937	.	+	.	transcript_id "rna-XM_041701950.1"; gene_id "gene-APUU_30815S"; gene_name "RRP6_1";
+NC_054859.1	RefSeq	CDS	2041483	2042937	.	+	0	transcript_id "rna-XM_041701950.1"; gene_id "gene-APUU_30815S"; gene_name "RRP6_1";
+NC_054859.1	RefSeq	transcript	2198397	2200447	.	-	.	transcript_id "rna-XM_041702020.1"; gene_id "gene-APUU_30878A"
+NC_054859.1	RefSeq	exon	2198397	2198496	.	-	.	transcript_id "rna-XM_041702020.1"; gene_id "gene-APUU_30878A";
+NC_054859.1	RefSeq	exon	2198553	2200071	.	-	.	transcript_id "rna-XM_041702020.1"; gene_id "gene-APUU_30878A";
+NC_054859.1	RefSeq	exon	2200165	2200447	.	-	.	transcript_id "rna-XM_041702020.1"; gene_id "gene-APUU_30878A";
+NC_054859.1	RefSeq	CDS	2198397	2198496	.	-	1	transcript_id "rna-XM_041702020.1"; gene_id "gene-APUU_30878A";
+NC_054859.1	RefSeq	CDS	2198553	2200071	.	-	2	transcript_id "rna-XM_041702020.1"; gene_id "gene-APUU_30878A";
+NC_054859.1	RefSeq	CDS	2200165	2200447	.	-	0	transcript_id "rna-XM_041702020.1"; gene_id "gene-APUU_30878A";
+NC_054859.1	RefSeq	transcript	2479573	2482111	.	-	.	transcript_id "rna-XM_041702132.1"; gene_id "gene-APUU_30979A"; gene_name "COG3"
+NC_054859.1	RefSeq	exon	2479573	2480364	.	-	.	transcript_id "rna-XM_041702132.1"; gene_id "gene-APUU_30979A"; gene_name "COG3";
+NC_054859.1	RefSeq	exon	2480426	2481451	.	-	.	transcript_id "rna-XM_041702132.1"; gene_id "gene-APUU_30979A"; gene_name "COG3";
+NC_054859.1	RefSeq	exon	2481505	2481844	.	-	.	transcript_id "rna-XM_041702132.1"; gene_id "gene-APUU_30979A"; gene_name "COG3";
+NC_054859.1	RefSeq	exon	2481903	2482111	.	-	.	transcript_id "rna-XM_041702132.1"; gene_id "gene-APUU_30979A"; gene_name "COG3";
+NC_054859.1	RefSeq	CDS	2479573	2480364	.	-	0	transcript_id "rna-XM_041702132.1"; gene_id "gene-APUU_30979A"; gene_name "COG3";
+NC_054859.1	RefSeq	CDS	2480426	2481451	.	-	0	transcript_id "rna-XM_041702132.1"; gene_id "gene-APUU_30979A"; gene_name "COG3";
+NC_054859.1	RefSeq	CDS	2481505	2481844	.	-	1	transcript_id "rna-XM_041702132.1"; gene_id "gene-APUU_30979A"; gene_name "COG3";
+NC_054859.1	RefSeq	CDS	2481903	2482111	.	-	0	transcript_id "rna-XM_041702132.1"; gene_id "gene-APUU_30979A"; gene_name "COG3";
+NC_054859.1	RefSeq	transcript	2666282	2667478	.	+	.	transcript_id "rna-XM_041702210.1"; gene_id "gene-APUU_31049S"
+NC_054859.1	RefSeq	exon	2666282	2667478	.	+	.	transcript_id "rna-XM_041702210.1"; gene_id "gene-APUU_31049S";
+NC_054859.1	RefSeq	CDS	2666282	2667478	.	+	0	transcript_id "rna-XM_041702210.1"; gene_id "gene-APUU_31049S";
+NC_054859.1	RefSeq	transcript	2894970	2895900	.	-	.	transcript_id "rna-XM_041702311.1"; gene_id "gene-APUU_31140A"; gene_name "coq4"
+NC_054859.1	RefSeq	exon	2894970	2895619	.	-	.	transcript_id "rna-XM_041702311.1"; gene_id "gene-APUU_31140A"; gene_name "coq4";
+NC_054859.1	RefSeq	exon	2895684	2895900	.	-	.	transcript_id "rna-XM_041702311.1"; gene_id "gene-APUU_31140A"; gene_name "coq4";
+NC_054859.1	RefSeq	CDS	2894970	2895619	.	-	2	transcript_id "rna-XM_041702311.1"; gene_id "gene-APUU_31140A"; gene_name "coq4";
+NC_054859.1	RefSeq	CDS	2895684	2895900	.	-	0	transcript_id "rna-XM_041702311.1"; gene_id "gene-APUU_31140A"; gene_name "coq4";
+NC_054859.1	RefSeq	transcript	2904324	2905487	.	+	.	transcript_id "rna-XM_041702317.1"; gene_id "gene-APUU_31146S"; gene_name "SHY1"
+NC_054859.1	RefSeq	exon	2904324	2904579	.	+	.	transcript_id "rna-XM_041702317.1"; gene_id "gene-APUU_31146S"; gene_name "SHY1";
+NC_054859.1	RefSeq	exon	2904648	2905160	.	+	.	transcript_id "rna-XM_041702317.1"; gene_id "gene-APUU_31146S"; gene_name "SHY1";
+NC_054859.1	RefSeq	exon	2905211	2905316	.	+	.	transcript_id "rna-XM_041702317.1"; gene_id "gene-APUU_31146S"; gene_name "SHY1";
+NC_054859.1	RefSeq	exon	2905388	2905487	.	+	.	transcript_id "rna-XM_041702317.1"; gene_id "gene-APUU_31146S"; gene_name "SHY1";
+NC_054859.1	RefSeq	CDS	2904324	2904579	.	+	0	transcript_id "rna-XM_041702317.1"; gene_id "gene-APUU_31146S"; gene_name "SHY1";
+NC_054859.1	RefSeq	CDS	2904648	2905160	.	+	2	transcript_id "rna-XM_041702317.1"; gene_id "gene-APUU_31146S"; gene_name "SHY1";
+NC_054859.1	RefSeq	CDS	2905211	2905316	.	+	2	transcript_id "rna-XM_041702317.1"; gene_id "gene-APUU_31146S"; gene_name "SHY1";
+NC_054859.1	RefSeq	CDS	2905388	2905487	.	+	1	transcript_id "rna-XM_041702317.1"; gene_id "gene-APUU_31146S"; gene_name "SHY1";
+NC_054859.1	RefSeq	transcript	3648127	3649343	.	-	.	transcript_id "rna-XM_041702669.1"; gene_id "gene-APUU_31462A"; gene_name "RRP4"
+NC_054859.1	RefSeq	exon	3648127	3649057	.	-	.	transcript_id "rna-XM_041702669.1"; gene_id "gene-APUU_31462A"; gene_name "RRP4";
+NC_054859.1	RefSeq	exon	3649123	3649343	.	-	.	transcript_id "rna-XM_041702669.1"; gene_id "gene-APUU_31462A"; gene_name "RRP4";
+NC_054859.1	RefSeq	CDS	3648127	3649057	.	-	1	transcript_id "rna-XM_041702669.1"; gene_id "gene-APUU_31462A"; gene_name "RRP4";
+NC_054859.1	RefSeq	CDS	3649123	3649343	.	-	0	transcript_id "rna-XM_041702669.1"; gene_id "gene-APUU_31462A"; gene_name "RRP4";
+NC_054859.1	RefSeq	transcript	3989642	3991265	.	-	.	transcript_id "rna-XM_041702776.1"; gene_id "gene-APUU_31558A"; gene_name "CYP6"
+NC_054859.1	RefSeq	exon	3989642	3990052	.	-	.	transcript_id "rna-XM_041702776.1"; gene_id "gene-APUU_31558A"; gene_name "CYP6";
+NC_054859.1	RefSeq	exon	3990122	3990318	.	-	.	transcript_id "rna-XM_041702776.1"; gene_id "gene-APUU_31558A"; gene_name "CYP6";
+NC_054859.1	RefSeq	exon	3990374	3991074	.	-	.	transcript_id "rna-XM_041702776.1"; gene_id "gene-APUU_31558A"; gene_name "CYP6";
+NC_054859.1	RefSeq	exon	3991186	3991265	.	-	.	transcript_id "rna-XM_041702776.1"; gene_id "gene-APUU_31558A"; gene_name "CYP6";
+NC_054859.1	RefSeq	CDS	3989642	3990052	.	-	0	transcript_id "rna-XM_041702776.1"; gene_id "gene-APUU_31558A"; gene_name "CYP6";
+NC_054859.1	RefSeq	CDS	3990122	3990318	.	-	2	transcript_id "rna-XM_041702776.1"; gene_id "gene-APUU_31558A"; gene_name "CYP6";
+NC_054859.1	RefSeq	CDS	3990374	3991074	.	-	1	transcript_id "rna-XM_041702776.1"; gene_id "gene-APUU_31558A"; gene_name "CYP6";
+NC_054859.1	RefSeq	CDS	3991186	3991265	.	-	0	transcript_id "rna-XM_041702776.1"; gene_id "gene-APUU_31558A"; gene_name "CYP6";
+NC_054859.1	RefSeq	transcript	4058209	4060377	.	-	.	transcript_id "rna-XM_041702808.1"; gene_id "gene-APUU_31587A"
+NC_054859.1	RefSeq	exon	4058209	4058291	.	-	.	transcript_id "rna-XM_041702808.1"; gene_id "gene-APUU_31587A";
+NC_054859.1	RefSeq	exon	4058349	4058751	.	-	.	transcript_id "rna-XM_041702808.1"; gene_id "gene-APUU_31587A";
+NC_054859.1	RefSeq	exon	4058806	4059320	.	-	.	transcript_id "rna-XM_041702808.1"; gene_id "gene-APUU_31587A";
+NC_054859.1	RefSeq	exon	4059369	4059462	.	-	.	transcript_id "rna-XM_041702808.1"; gene_id "gene-APUU_31587A";
+NC_054859.1	RefSeq	exon	4059509	4059743	.	-	.	transcript_id "rna-XM_041702808.1"; gene_id "gene-APUU_31587A";
+NC_054859.1	RefSeq	exon	4059794	4059900	.	-	.	transcript_id "rna-XM_041702808.1"; gene_id "gene-APUU_31587A";
+NC_054859.1	RefSeq	exon	4059953	4060194	.	-	.	transcript_id "rna-XM_041702808.1"; gene_id "gene-APUU_31587A";
+NC_054859.1	RefSeq	exon	4060249	4060300	.	-	.	transcript_id "rna-XM_041702808.1"; gene_id "gene-APUU_31587A";
+NC_054859.1	RefSeq	exon	4060351	4060377	.	-	.	transcript_id "rna-XM_041702808.1"; gene_id "gene-APUU_31587A";
+NC_054859.1	RefSeq	CDS	4058209	4058291	.	-	2	transcript_id "rna-XM_041702808.1"; gene_id "gene-APUU_31587A";
+NC_054859.1	RefSeq	CDS	4058349	4058751	.	-	0	transcript_id "rna-XM_041702808.1"; gene_id "gene-APUU_31587A";
+NC_054859.1	RefSeq	CDS	4058806	4059320	.	-	2	transcript_id "rna-XM_041702808.1"; gene_id "gene-APUU_31587A";
+NC_054859.1	RefSeq	CDS	4059369	4059462	.	-	0	transcript_id "rna-XM_041702808.1"; gene_id "gene-APUU_31587A";
+NC_054859.1	RefSeq	CDS	4059509	4059743	.	-	1	transcript_id "rna-XM_041702808.1"; gene_id "gene-APUU_31587A";
+NC_054859.1	RefSeq	CDS	4059794	4059900	.	-	0	transcript_id "rna-XM_041702808.1"; gene_id "gene-APUU_31587A";
+NC_054859.1	RefSeq	CDS	4059953	4060194	.	-	2	transcript_id "rna-XM_041702808.1"; gene_id "gene-APUU_31587A";
+NC_054859.1	RefSeq	CDS	4060249	4060300	.	-	0	transcript_id "rna-XM_041702808.1"; gene_id "gene-APUU_31587A";
+NC_054859.1	RefSeq	CDS	4060351	4060377	.	-	0	transcript_id "rna-XM_041702808.1"; gene_id "gene-APUU_31587A";
+NC_054860.1	RefSeq	transcript	602141	604418	.	-	.	transcript_id "rna-XM_041703314.1"; gene_id "gene-APUU_40262A"; gene_name "FRS1"
+NC_054860.1	RefSeq	exon	602141	602304	.	-	.	transcript_id "rna-XM_041703314.1"; gene_id "gene-APUU_40262A"; gene_name "FRS1";
+NC_054860.1	RefSeq	exon	602377	603185	.	-	.	transcript_id "rna-XM_041703314.1"; gene_id "gene-APUU_40262A"; gene_name "FRS1";
+NC_054860.1	RefSeq	exon	603246	603487	.	-	.	transcript_id "rna-XM_041703314.1"; gene_id "gene-APUU_40262A"; gene_name "FRS1";
+NC_054860.1	RefSeq	exon	603538	603804	.	-	.	transcript_id "rna-XM_041703314.1"; gene_id "gene-APUU_40262A"; gene_name "FRS1";
+NC_054860.1	RefSeq	exon	603871	604000	.	-	.	transcript_id "rna-XM_041703314.1"; gene_id "gene-APUU_40262A"; gene_name "FRS1";
+NC_054860.1	RefSeq	exon	604052	604128	.	-	.	transcript_id "rna-XM_041703314.1"; gene_id "gene-APUU_40262A"; gene_name "FRS1";
+NC_054860.1	RefSeq	exon	604185	604204	.	-	.	transcript_id "rna-XM_041703314.1"; gene_id "gene-APUU_40262A"; gene_name "FRS1";
+NC_054860.1	RefSeq	exon	604268	604308	.	-	.	transcript_id "rna-XM_041703314.1"; gene_id "gene-APUU_40262A"; gene_name "FRS1";
+NC_054860.1	RefSeq	exon	604366	604418	.	-	.	transcript_id "rna-XM_041703314.1"; gene_id "gene-APUU_40262A"; gene_name "FRS1";
+NC_054860.1	RefSeq	CDS	602141	602304	.	-	2	transcript_id "rna-XM_041703314.1"; gene_id "gene-APUU_40262A"; gene_name "FRS1";
+NC_054860.1	RefSeq	CDS	602377	603185	.	-	1	transcript_id "rna-XM_041703314.1"; gene_id "gene-APUU_40262A"; gene_name "FRS1";
+NC_054860.1	RefSeq	CDS	603246	603487	.	-	0	transcript_id "rna-XM_041703314.1"; gene_id "gene-APUU_40262A"; gene_name "FRS1";
+NC_054860.1	RefSeq	CDS	603538	603804	.	-	0	transcript_id "rna-XM_041703314.1"; gene_id "gene-APUU_40262A"; gene_name "FRS1";
+NC_054860.1	RefSeq	CDS	603871	604000	.	-	1	transcript_id "rna-XM_041703314.1"; gene_id "gene-APUU_40262A"; gene_name "FRS1";
+NC_054860.1	RefSeq	CDS	604052	604128	.	-	0	transcript_id "rna-XM_041703314.1"; gene_id "gene-APUU_40262A"; gene_name "FRS1";
+NC_054860.1	RefSeq	CDS	604185	604204	.	-	2	transcript_id "rna-XM_041703314.1"; gene_id "gene-APUU_40262A"; gene_name "FRS1";
+NC_054860.1	RefSeq	CDS	604268	604308	.	-	1	transcript_id "rna-XM_041703314.1"; gene_id "gene-APUU_40262A"; gene_name "FRS1";
+NC_054860.1	RefSeq	CDS	604366	604418	.	-	0	transcript_id "rna-XM_041703314.1"; gene_id "gene-APUU_40262A"; gene_name "FRS1";
+NC_054860.1	RefSeq	transcript	721648	723621	.	+	.	transcript_id "rna-XM_041703364.1"; gene_id "gene-APUU_40307S"
+NC_054860.1	RefSeq	exon	721648	721838	.	+	.	transcript_id "rna-XM_041703364.1"; gene_id "gene-APUU_40307S";
+NC_054860.1	RefSeq	exon	721905	723044	.	+	.	transcript_id "rna-XM_041703364.1"; gene_id "gene-APUU_40307S";
+NC_054860.1	RefSeq	exon	723102	723621	.	+	.	transcript_id "rna-XM_041703364.1"; gene_id "gene-APUU_40307S";
+NC_054860.1	RefSeq	CDS	721648	721838	.	+	0	transcript_id "rna-XM_041703364.1"; gene_id "gene-APUU_40307S";
+NC_054860.1	RefSeq	CDS	721905	723044	.	+	1	transcript_id "rna-XM_041703364.1"; gene_id "gene-APUU_40307S";
+NC_054860.1	RefSeq	CDS	723102	723621	.	+	1	transcript_id "rna-XM_041703364.1"; gene_id "gene-APUU_40307S";
+NC_054860.1	RefSeq	transcript	989341	990212	.	+	.	transcript_id "rna-XM_041703487.1"; gene_id "gene-APUU_40417S"; gene_name "sld5"
+NC_054860.1	RefSeq	exon	989341	989517	.	+	.	transcript_id "rna-XM_041703487.1"; gene_id "gene-APUU_40417S"; gene_name "sld5";
+NC_054860.1	RefSeq	exon	989577	990212	.	+	.	transcript_id "rna-XM_041703487.1"; gene_id "gene-APUU_40417S"; gene_name "sld5";
+NC_054860.1	RefSeq	CDS	989341	989517	.	+	0	transcript_id "rna-XM_041703487.1"; gene_id "gene-APUU_40417S"; gene_name "sld5";
+NC_054860.1	RefSeq	CDS	989577	990212	.	+	0	transcript_id "rna-XM_041703487.1"; gene_id "gene-APUU_40417S"; gene_name "sld5";
+NC_054860.1	RefSeq	transcript	1281449	1283306	.	-	.	transcript_id "rna-XM_041703617.1"; gene_id "gene-APUU_40535A"
+NC_054860.1	RefSeq	exon	1281449	1281747	.	-	.	transcript_id "rna-XM_041703617.1"; gene_id "gene-APUU_40535A";
+NC_054860.1	RefSeq	exon	1281806	1282769	.	-	.	transcript_id "rna-XM_041703617.1"; gene_id "gene-APUU_40535A";
+NC_054860.1	RefSeq	exon	1282820	1282951	.	-	.	transcript_id "rna-XM_041703617.1"; gene_id "gene-APUU_40535A";
+NC_054860.1	RefSeq	exon	1283019	1283202	.	-	.	transcript_id "rna-XM_041703617.1"; gene_id "gene-APUU_40535A";
+NC_054860.1	RefSeq	exon	1283263	1283306	.	-	.	transcript_id "rna-XM_041703617.1"; gene_id "gene-APUU_40535A";
+NC_054860.1	RefSeq	CDS	1281449	1281747	.	-	2	transcript_id "rna-XM_041703617.1"; gene_id "gene-APUU_40535A";
+NC_054860.1	RefSeq	CDS	1281806	1282769	.	-	0	transcript_id "rna-XM_041703617.1"; gene_id "gene-APUU_40535A";
+NC_054860.1	RefSeq	CDS	1282820	1282951	.	-	0	transcript_id "rna-XM_041703617.1"; gene_id "gene-APUU_40535A";
+NC_054860.1	RefSeq	CDS	1283019	1283202	.	-	1	transcript_id "rna-XM_041703617.1"; gene_id "gene-APUU_40535A";
+NC_054860.1	RefSeq	CDS	1283263	1283306	.	-	0	transcript_id "rna-XM_041703617.1"; gene_id "gene-APUU_40535A";
+NC_054860.1	RefSeq	transcript	1346158	1348314	.	-	.	transcript_id "rna-XM_041703650.1"; gene_id "gene-APUU_40565A"; gene_name "nop7"
+NC_054860.1	RefSeq	exon	1346158	1348079	.	-	.	transcript_id "rna-XM_041703650.1"; gene_id "gene-APUU_40565A"; gene_name "nop7";
+NC_054860.1	RefSeq	exon	1348138	1348236	.	-	.	transcript_id "rna-XM_041703650.1"; gene_id "gene-APUU_40565A"; gene_name "nop7";
+NC_054860.1	RefSeq	exon	1348293	1348314	.	-	.	transcript_id "rna-XM_041703650.1"; gene_id "gene-APUU_40565A"; gene_name "nop7";
+NC_054860.1	RefSeq	CDS	1346158	1348079	.	-	2	transcript_id "rna-XM_041703650.1"; gene_id "gene-APUU_40565A"; gene_name "nop7";
+NC_054860.1	RefSeq	CDS	1348138	1348236	.	-	2	transcript_id "rna-XM_041703650.1"; gene_id "gene-APUU_40565A"; gene_name "nop7";
+NC_054860.1	RefSeq	CDS	1348293	1348314	.	-	0	transcript_id "rna-XM_041703650.1"; gene_id "gene-APUU_40565A"; gene_name "nop7";
+NC_054860.1	RefSeq	transcript	1739501	1741073	.	+	.	transcript_id "rna-XM_041703827.1"; gene_id "gene-APUU_40723S"; gene_name "RSM23"
+NC_054860.1	RefSeq	exon	1739501	1740134	.	+	.	transcript_id "rna-XM_041703827.1"; gene_id "gene-APUU_40723S"; gene_name "RSM23";
+NC_054860.1	RefSeq	exon	1740205	1741073	.	+	.	transcript_id "rna-XM_041703827.1"; gene_id "gene-APUU_40723S"; gene_name "RSM23";
+NC_054860.1	RefSeq	CDS	1739501	1740134	.	+	0	transcript_id "rna-XM_041703827.1"; gene_id "gene-APUU_40723S"; gene_name "RSM23";
+NC_054860.1	RefSeq	CDS	1740205	1741073	.	+	2	transcript_id "rna-XM_041703827.1"; gene_id "gene-APUU_40723S"; gene_name "RSM23";
+NC_054860.1	RefSeq	transcript	1808873	1811139	.	+	.	transcript_id "rna-XM_041703851.1"; gene_id "gene-APUU_40745S"; gene_name "cog6"
+NC_054860.1	RefSeq	exon	1808873	1809184	.	+	.	transcript_id "rna-XM_041703851.1"; gene_id "gene-APUU_40745S"; gene_name "cog6";
+NC_054860.1	RefSeq	exon	1809256	1811139	.	+	.	transcript_id "rna-XM_041703851.1"; gene_id "gene-APUU_40745S"; gene_name "cog6";
+NC_054860.1	RefSeq	CDS	1808873	1809184	.	+	0	transcript_id "rna-XM_041703851.1"; gene_id "gene-APUU_40745S"; gene_name "cog6";
+NC_054860.1	RefSeq	CDS	1809256	1811139	.	+	0	transcript_id "rna-XM_041703851.1"; gene_id "gene-APUU_40745S"; gene_name "cog6";
+NC_054860.1	RefSeq	transcript	1927439	1928559	.	+	.	transcript_id "rna-XM_041703902.1"; gene_id "gene-APUU_40791S"
+NC_054860.1	RefSeq	exon	1927439	1927505	.	+	.	transcript_id "rna-XM_041703902.1"; gene_id "gene-APUU_40791S";
+NC_054860.1	RefSeq	exon	1927583	1928559	.	+	.	transcript_id "rna-XM_041703902.1"; gene_id "gene-APUU_40791S";
+NC_054860.1	RefSeq	CDS	1927439	1927505	.	+	0	transcript_id "rna-XM_041703902.1"; gene_id "gene-APUU_40791S";
+NC_054860.1	RefSeq	CDS	1927583	1928559	.	+	2	transcript_id "rna-XM_041703902.1"; gene_id "gene-APUU_40791S";
+NC_054860.1	RefSeq	transcript	2167452	2168243	.	-	.	transcript_id "rna-XM_041703995.1"; gene_id "gene-APUU_40875A"
+NC_054860.1	RefSeq	exon	2167452	2168153	.	-	.	transcript_id "rna-XM_041703995.1"; gene_id "gene-APUU_40875A";
+NC_054860.1	RefSeq	exon	2168232	2168243	.	-	.	transcript_id "rna-XM_041703995.1"; gene_id "gene-APUU_40875A";
+NC_054860.1	RefSeq	CDS	2167452	2168153	.	-	0	transcript_id "rna-XM_041703995.1"; gene_id "gene-APUU_40875A";
+NC_054860.1	RefSeq	CDS	2168232	2168243	.	-	0	transcript_id "rna-XM_041703995.1"; gene_id "gene-APUU_40875A";
+NC_054860.1	RefSeq	transcript	2180577	2181836	.	+	.	transcript_id "rna-XM_041704002.1"; gene_id "gene-APUU_40881S"
+NC_054860.1	RefSeq	exon	2180577	2180622	.	+	.	transcript_id "rna-XM_041704002.1"; gene_id "gene-APUU_40881S";
+NC_054860.1	RefSeq	exon	2180680	2181836	.	+	.	transcript_id "rna-XM_041704002.1"; gene_id "gene-APUU_40881S";
+NC_054860.1	RefSeq	CDS	2180577	2180622	.	+	0	transcript_id "rna-XM_041704002.1"; gene_id "gene-APUU_40881S";
+NC_054860.1	RefSeq	CDS	2180680	2181836	.	+	2	transcript_id "rna-XM_041704002.1"; gene_id "gene-APUU_40881S";
+NC_054860.1	RefSeq	transcript	2277342	2279335	.	+	.	transcript_id "rna-XM_041704054.1"; gene_id "gene-APUU_40927S"; gene_name "TFB1"
+NC_054860.1	RefSeq	exon	2277342	2277483	.	+	.	transcript_id "rna-XM_041704054.1"; gene_id "gene-APUU_40927S"; gene_name "TFB1";
+NC_054860.1	RefSeq	exon	2277555	2279335	.	+	.	transcript_id "rna-XM_041704054.1"; gene_id "gene-APUU_40927S"; gene_name "TFB1";
+NC_054860.1	RefSeq	CDS	2277342	2277483	.	+	0	transcript_id "rna-XM_041704054.1"; gene_id "gene-APUU_40927S"; gene_name "TFB1";
+NC_054860.1	RefSeq	CDS	2277555	2279335	.	+	2	transcript_id "rna-XM_041704054.1"; gene_id "gene-APUU_40927S"; gene_name "TFB1";
+NC_054860.1	RefSeq	transcript	2599647	2600585	.	-	.	transcript_id "rna-XM_041704177.1"; gene_id "gene-APUU_41038A"; gene_name "GAR1_2"
+NC_054860.1	RefSeq	exon	2599647	2599900	.	-	.	transcript_id "rna-XM_041704177.1"; gene_id "gene-APUU_41038A"; gene_name "GAR1_2";
+NC_054860.1	RefSeq	exon	2599959	2599987	.	-	.	transcript_id "rna-XM_041704177.1"; gene_id "gene-APUU_41038A"; gene_name "GAR1_2";
+NC_054860.1	RefSeq	exon	2600041	2600186	.	-	.	transcript_id "rna-XM_041704177.1"; gene_id "gene-APUU_41038A"; gene_name "GAR1_2";
+NC_054860.1	RefSeq	exon	2600245	2600345	.	-	.	transcript_id "rna-XM_041704177.1"; gene_id "gene-APUU_41038A"; gene_name "GAR1_2";
+NC_054860.1	RefSeq	exon	2600402	2600449	.	-	.	transcript_id "rna-XM_041704177.1"; gene_id "gene-APUU_41038A"; gene_name "GAR1_2";
+NC_054860.1	RefSeq	exon	2600519	2600585	.	-	.	transcript_id "rna-XM_041704177.1"; gene_id "gene-APUU_41038A"; gene_name "GAR1_2";
+NC_054860.1	RefSeq	CDS	2599647	2599900	.	-	2	transcript_id "rna-XM_041704177.1"; gene_id "gene-APUU_41038A"; gene_name "GAR1_2";
+NC_054860.1	RefSeq	CDS	2599959	2599987	.	-	1	transcript_id "rna-XM_041704177.1"; gene_id "gene-APUU_41038A"; gene_name "GAR1_2";
+NC_054860.1	RefSeq	CDS	2600041	2600186	.	-	0	transcript_id "rna-XM_041704177.1"; gene_id "gene-APUU_41038A"; gene_name "GAR1_2";
+NC_054860.1	RefSeq	CDS	2600245	2600345	.	-	2	transcript_id "rna-XM_041704177.1"; gene_id "gene-APUU_41038A"; gene_name "GAR1_2";
+NC_054860.1	RefSeq	CDS	2600402	2600449	.	-	2	transcript_id "rna-XM_041704177.1"; gene_id "gene-APUU_41038A"; gene_name "GAR1_2";
+NC_054860.1	RefSeq	CDS	2600519	2600585	.	-	0	transcript_id "rna-XM_041704177.1"; gene_id "gene-APUU_41038A"; gene_name "GAR1_2";
+NC_054860.1	RefSeq	transcript	2727358	2728569	.	+	.	transcript_id "rna-XM_041704235.1"; gene_id "gene-APUU_41091S"; gene_name "TSR3"
+NC_054860.1	RefSeq	exon	2727358	2727596	.	+	.	transcript_id "rna-XM_041704235.1"; gene_id "gene-APUU_41091S"; gene_name "TSR3";
+NC_054860.1	RefSeq	exon	2727654	2727790	.	+	.	transcript_id "rna-XM_041704235.1"; gene_id "gene-APUU_41091S"; gene_name "TSR3";
+NC_054860.1	RefSeq	exon	2727839	2728569	.	+	.	transcript_id "rna-XM_041704235.1"; gene_id "gene-APUU_41091S"; gene_name "TSR3";
+NC_054860.1	RefSeq	CDS	2727358	2727596	.	+	0	transcript_id "rna-XM_041704235.1"; gene_id "gene-APUU_41091S"; gene_name "TSR3";
+NC_054860.1	RefSeq	CDS	2727654	2727790	.	+	1	transcript_id "rna-XM_041704235.1"; gene_id "gene-APUU_41091S"; gene_name "TSR3";
+NC_054860.1	RefSeq	CDS	2727839	2728569	.	+	2	transcript_id "rna-XM_041704235.1"; gene_id "gene-APUU_41091S"; gene_name "TSR3";
+NC_054860.1	RefSeq	transcript	2944512	2945404	.	+	.	transcript_id "rna-XM_041704333.1"; gene_id "gene-APUU_41179S"
+NC_054860.1	RefSeq	exon	2944512	2944534	.	+	.	transcript_id "rna-XM_041704333.1"; gene_id "gene-APUU_41179S";
+NC_054860.1	RefSeq	exon	2944588	2945404	.	+	.	transcript_id "rna-XM_041704333.1"; gene_id "gene-APUU_41179S";
+NC_054860.1	RefSeq	CDS	2944512	2944534	.	+	0	transcript_id "rna-XM_041704333.1"; gene_id "gene-APUU_41179S";
+NC_054860.1	RefSeq	CDS	2944588	2945404	.	+	1	transcript_id "rna-XM_041704333.1"; gene_id "gene-APUU_41179S";
+NC_054860.1	RefSeq	transcript	3851211	3852932	.	+	.	transcript_id "rna-XM_041704682.1"; gene_id "gene-APUU_41494S"; gene_name "trm6"
+NC_054860.1	RefSeq	exon	3851211	3851296	.	+	.	transcript_id "rna-XM_041704682.1"; gene_id "gene-APUU_41494S"; gene_name "trm6";
+NC_054860.1	RefSeq	exon	3851357	3852932	.	+	.	transcript_id "rna-XM_041704682.1"; gene_id "gene-APUU_41494S"; gene_name "trm6";
+NC_054860.1	RefSeq	CDS	3851211	3851296	.	+	0	transcript_id "rna-XM_041704682.1"; gene_id "gene-APUU_41494S"; gene_name "trm6";
+NC_054860.1	RefSeq	CDS	3851357	3852932	.	+	1	transcript_id "rna-XM_041704682.1"; gene_id "gene-APUU_41494S"; gene_name "trm6";
+NC_054860.1	RefSeq	transcript	4040414	4041293	.	+	.	transcript_id "rna-XM_041704769.1"; gene_id "gene-APUU_41572S"
+NC_054860.1	RefSeq	exon	4040414	4040433	.	+	.	transcript_id "rna-XM_041704769.1"; gene_id "gene-APUU_41572S";
+NC_054860.1	RefSeq	exon	4040495	4041293	.	+	.	transcript_id "rna-XM_041704769.1"; gene_id "gene-APUU_41572S";
+NC_054860.1	RefSeq	CDS	4040414	4040433	.	+	0	transcript_id "rna-XM_041704769.1"; gene_id "gene-APUU_41572S";
+NC_054860.1	RefSeq	CDS	4040495	4041293	.	+	1	transcript_id "rna-XM_041704769.1"; gene_id "gene-APUU_41572S";
+NC_054861.1	RefSeq	transcript	620047	621644	.	-	.	transcript_id "rna-XM_041705259.1"; gene_id "gene-APUU_50280A"; gene_name "ENP1"
+NC_054861.1	RefSeq	exon	620047	620905	.	-	.	transcript_id "rna-XM_041705259.1"; gene_id "gene-APUU_50280A"; gene_name "ENP1";
+NC_054861.1	RefSeq	exon	620966	621210	.	-	.	transcript_id "rna-XM_041705259.1"; gene_id "gene-APUU_50280A"; gene_name "ENP1";
+NC_054861.1	RefSeq	exon	621270	621644	.	-	.	transcript_id "rna-XM_041705259.1"; gene_id "gene-APUU_50280A"; gene_name "ENP1";
+NC_054861.1	RefSeq	CDS	620047	620905	.	-	1	transcript_id "rna-XM_041705259.1"; gene_id "gene-APUU_50280A"; gene_name "ENP1";
+NC_054861.1	RefSeq	CDS	620966	621210	.	-	0	transcript_id "rna-XM_041705259.1"; gene_id "gene-APUU_50280A"; gene_name "ENP1";
+NC_054861.1	RefSeq	CDS	621270	621644	.	-	0	transcript_id "rna-XM_041705259.1"; gene_id "gene-APUU_50280A"; gene_name "ENP1";
+NC_054861.1	RefSeq	transcript	908020	909528	.	+	.	transcript_id "rna-XM_041705325.1"; gene_id "gene-APUU_50339S"
+NC_054861.1	RefSeq	exon	908020	908216	.	+	.	transcript_id "rna-XM_041705325.1"; gene_id "gene-APUU_50339S";
+NC_054861.1	RefSeq	exon	908303	908483	.	+	.	transcript_id "rna-XM_041705325.1"; gene_id "gene-APUU_50339S";
+NC_054861.1	RefSeq	exon	908539	909528	.	+	.	transcript_id "rna-XM_041705325.1"; gene_id "gene-APUU_50339S";
+NC_054861.1	RefSeq	CDS	908020	908216	.	+	0	transcript_id "rna-XM_041705325.1"; gene_id "gene-APUU_50339S";
+NC_054861.1	RefSeq	CDS	908303	908483	.	+	1	transcript_id "rna-XM_041705325.1"; gene_id "gene-APUU_50339S";
+NC_054861.1	RefSeq	CDS	908539	909528	.	+	0	transcript_id "rna-XM_041705325.1"; gene_id "gene-APUU_50339S";
+NC_054861.1	RefSeq	transcript	911519	913897	.	+	.	transcript_id "rna-XM_041705327.1"; gene_id "gene-APUU_50341S"; gene_name "erb1"
+NC_054861.1	RefSeq	exon	911519	913897	.	+	.	transcript_id "rna-XM_041705327.1"; gene_id "gene-APUU_50341S"; gene_name "erb1";
+NC_054861.1	RefSeq	CDS	911519	913897	.	+	0	transcript_id "rna-XM_041705327.1"; gene_id "gene-APUU_50341S"; gene_name "erb1";
+NC_054861.1	RefSeq	transcript	940094	942474	.	-	.	transcript_id "rna-XM_041705341.1"; gene_id "gene-APUU_50353A"; gene_name "UTP25"
+NC_054861.1	RefSeq	exon	940094	941012	.	-	.	transcript_id "rna-XM_041705341.1"; gene_id "gene-APUU_50353A"; gene_name "UTP25";
+NC_054861.1	RefSeq	exon	941064	941641	.	-	.	transcript_id "rna-XM_041705341.1"; gene_id "gene-APUU_50353A"; gene_name "UTP25";
+NC_054861.1	RefSeq	exon	941694	941893	.	-	.	transcript_id "rna-XM_041705341.1"; gene_id "gene-APUU_50353A"; gene_name "UTP25";
+NC_054861.1	RefSeq	exon	941942	942315	.	-	.	transcript_id "rna-XM_041705341.1"; gene_id "gene-APUU_50353A"; gene_name "UTP25";
+NC_054861.1	RefSeq	exon	942374	942474	.	-	.	transcript_id "rna-XM_041705341.1"; gene_id "gene-APUU_50353A"; gene_name "UTP25";
+NC_054861.1	RefSeq	CDS	940094	941012	.	-	1	transcript_id "rna-XM_041705341.1"; gene_id "gene-APUU_50353A"; gene_name "UTP25";
+NC_054861.1	RefSeq	CDS	941064	941641	.	-	0	transcript_id "rna-XM_041705341.1"; gene_id "gene-APUU_50353A"; gene_name "UTP25";
+NC_054861.1	RefSeq	CDS	941694	941893	.	-	2	transcript_id "rna-XM_041705341.1"; gene_id "gene-APUU_50353A"; gene_name "UTP25";
+NC_054861.1	RefSeq	CDS	941942	942315	.	-	1	transcript_id "rna-XM_041705341.1"; gene_id "gene-APUU_50353A"; gene_name "UTP25";
+NC_054861.1	RefSeq	CDS	942374	942474	.	-	0	transcript_id "rna-XM_041705341.1"; gene_id "gene-APUU_50353A"; gene_name "UTP25";
+NC_054861.1	RefSeq	transcript	942773	943922	.	+	.	transcript_id "rna-XM_041705342.1"; gene_id "gene-APUU_50354S"
+NC_054861.1	RefSeq	exon	942773	942877	.	+	.	transcript_id "rna-XM_041705342.1"; gene_id "gene-APUU_50354S";
+NC_054861.1	RefSeq	exon	942940	943652	.	+	.	transcript_id "rna-XM_041705342.1"; gene_id "gene-APUU_50354S";
+NC_054861.1	RefSeq	exon	943706	943922	.	+	.	transcript_id "rna-XM_041705342.1"; gene_id "gene-APUU_50354S";
+NC_054861.1	RefSeq	CDS	942773	942877	.	+	0	transcript_id "rna-XM_041705342.1"; gene_id "gene-APUU_50354S";
+NC_054861.1	RefSeq	CDS	942940	943652	.	+	0	transcript_id "rna-XM_041705342.1"; gene_id "gene-APUU_50354S";
+NC_054861.1	RefSeq	CDS	943706	943922	.	+	1	transcript_id "rna-XM_041705342.1"; gene_id "gene-APUU_50354S";
+NC_054861.1	RefSeq	transcript	959454	961394	.	-	.	transcript_id "rna-XM_041705354.1"; gene_id "gene-APUU_50365A"; gene_name "GCD7"
+NC_054861.1	RefSeq	exon	959454	959526	.	-	.	transcript_id "rna-XM_041705354.1"; gene_id "gene-APUU_50365A"; gene_name "GCD7";
+NC_054861.1	RefSeq	exon	959580	960417	.	-	.	transcript_id "rna-XM_041705354.1"; gene_id "gene-APUU_50365A"; gene_name "GCD7";
+NC_054861.1	RefSeq	exon	960477	960772	.	-	.	transcript_id "rna-XM_041705354.1"; gene_id "gene-APUU_50365A"; gene_name "GCD7";
+NC_054861.1	RefSeq	exon	960840	960969	.	-	.	transcript_id "rna-XM_041705354.1"; gene_id "gene-APUU_50365A"; gene_name "GCD7";
+NC_054861.1	RefSeq	exon	961041	961171	.	-	.	transcript_id "rna-XM_041705354.1"; gene_id "gene-APUU_50365A"; gene_name "GCD7";
+NC_054861.1	RefSeq	exon	961327	961394	.	-	.	transcript_id "rna-XM_041705354.1"; gene_id "gene-APUU_50365A"; gene_name "GCD7";
+NC_054861.1	RefSeq	CDS	959454	959526	.	-	1	transcript_id "rna-XM_041705354.1"; gene_id "gene-APUU_50365A"; gene_name "GCD7";
+NC_054861.1	RefSeq	CDS	959580	960417	.	-	2	transcript_id "rna-XM_041705354.1"; gene_id "gene-APUU_50365A"; gene_name "GCD7";
+NC_054861.1	RefSeq	CDS	960477	960772	.	-	1	transcript_id "rna-XM_041705354.1"; gene_id "gene-APUU_50365A"; gene_name "GCD7";
+NC_054861.1	RefSeq	CDS	960840	960969	.	-	2	transcript_id "rna-XM_041705354.1"; gene_id "gene-APUU_50365A"; gene_name "GCD7";
+NC_054861.1	RefSeq	CDS	961041	961171	.	-	1	transcript_id "rna-XM_041705354.1"; gene_id "gene-APUU_50365A"; gene_name "GCD7";
+NC_054861.1	RefSeq	CDS	961327	961394	.	-	0	transcript_id "rna-XM_041705354.1"; gene_id "gene-APUU_50365A"; gene_name "GCD7";
+NC_054861.1	RefSeq	transcript	1133297	1136883	.	+	.	transcript_id "rna-XM_041705436.1"; gene_id "gene-APUU_50439S"; gene_name "hir1"
+NC_054861.1	RefSeq	exon	1133297	1133333	.	+	.	transcript_id "rna-XM_041705436.1"; gene_id "gene-APUU_50439S"; gene_name "hir1";
+NC_054861.1	RefSeq	exon	1133463	1133537	.	+	.	transcript_id "rna-XM_041705436.1"; gene_id "gene-APUU_50439S"; gene_name "hir1";
+NC_054861.1	RefSeq	exon	1133654	1133866	.	+	.	transcript_id "rna-XM_041705436.1"; gene_id "gene-APUU_50439S"; gene_name "hir1";
+NC_054861.1	RefSeq	exon	1133934	1136711	.	+	.	transcript_id "rna-XM_041705436.1"; gene_id "gene-APUU_50439S"; gene_name "hir1";
+NC_054861.1	RefSeq	exon	1136786	1136883	.	+	.	transcript_id "rna-XM_041705436.1"; gene_id "gene-APUU_50439S"; gene_name "hir1";
+NC_054861.1	RefSeq	CDS	1133297	1133333	.	+	0	transcript_id "rna-XM_041705436.1"; gene_id "gene-APUU_50439S"; gene_name "hir1";
+NC_054861.1	RefSeq	CDS	1133463	1133537	.	+	2	transcript_id "rna-XM_041705436.1"; gene_id "gene-APUU_50439S"; gene_name "hir1";
+NC_054861.1	RefSeq	CDS	1133654	1133866	.	+	2	transcript_id "rna-XM_041705436.1"; gene_id "gene-APUU_50439S"; gene_name "hir1";
+NC_054861.1	RefSeq	CDS	1133934	1136711	.	+	2	transcript_id "rna-XM_041705436.1"; gene_id "gene-APUU_50439S"; gene_name "hir1";
+NC_054861.1	RefSeq	CDS	1136786	1136883	.	+	2	transcript_id "rna-XM_041705436.1"; gene_id "gene-APUU_50439S"; gene_name "hir1";
+NC_054861.1	RefSeq	transcript	1142325	1143106	.	+	.	transcript_id "rna-XM_041705439.1"; gene_id "gene-APUU_50442S"; gene_name "TMA20"
+NC_054861.1	RefSeq	exon	1142325	1142338	.	+	.	transcript_id "rna-XM_041705439.1"; gene_id "gene-APUU_50442S"; gene_name "TMA20";
+NC_054861.1	RefSeq	exon	1142454	1142594	.	+	.	transcript_id "rna-XM_041705439.1"; gene_id "gene-APUU_50442S"; gene_name "TMA20";
+NC_054861.1	RefSeq	exon	1142716	1143106	.	+	.	transcript_id "rna-XM_041705439.1"; gene_id "gene-APUU_50442S"; gene_name "TMA20";
+NC_054861.1	RefSeq	CDS	1142325	1142338	.	+	0	transcript_id "rna-XM_041705439.1"; gene_id "gene-APUU_50442S"; gene_name "TMA20";
+NC_054861.1	RefSeq	CDS	1142454	1142594	.	+	1	transcript_id "rna-XM_041705439.1"; gene_id "gene-APUU_50442S"; gene_name "TMA20";
+NC_054861.1	RefSeq	CDS	1142716	1143106	.	+	1	transcript_id "rna-XM_041705439.1"; gene_id "gene-APUU_50442S"; gene_name "TMA20";
+NC_054861.1	RefSeq	transcript	1184254	1185556	.	+	.	transcript_id "rna-XM_041705461.1"; gene_id "gene-APUU_50462S"
+NC_054861.1	RefSeq	exon	1184254	1184261	.	+	.	transcript_id "rna-XM_041705461.1"; gene_id "gene-APUU_50462S";
+NC_054861.1	RefSeq	exon	1184318	1184360	.	+	.	transcript_id "rna-XM_041705461.1"; gene_id "gene-APUU_50462S";
+NC_054861.1	RefSeq	exon	1184451	1184920	.	+	.	transcript_id "rna-XM_041705461.1"; gene_id "gene-APUU_50462S";
+NC_054861.1	RefSeq	exon	1184977	1185556	.	+	.	transcript_id "rna-XM_041705461.1"; gene_id "gene-APUU_50462S";
+NC_054861.1	RefSeq	CDS	1184254	1184261	.	+	0	transcript_id "rna-XM_041705461.1"; gene_id "gene-APUU_50462S";
+NC_054861.1	RefSeq	CDS	1184318	1184360	.	+	1	transcript_id "rna-XM_041705461.1"; gene_id "gene-APUU_50462S";
+NC_054861.1	RefSeq	CDS	1184451	1184920	.	+	0	transcript_id "rna-XM_041705461.1"; gene_id "gene-APUU_50462S";
+NC_054861.1	RefSeq	CDS	1184977	1185556	.	+	1	transcript_id "rna-XM_041705461.1"; gene_id "gene-APUU_50462S";
+NC_054861.1	RefSeq	transcript	1390525	1391892	.	+	.	transcript_id "rna-XM_041705536.1"; gene_id "gene-APUU_50529S"; gene_name "PRP46"
+NC_054861.1	RefSeq	exon	1390525	1391892	.	+	.	transcript_id "rna-XM_041705536.1"; gene_id "gene-APUU_50529S"; gene_name "PRP46";
+NC_054861.1	RefSeq	CDS	1390525	1391892	.	+	0	transcript_id "rna-XM_041705536.1"; gene_id "gene-APUU_50529S"; gene_name "PRP46";
+NC_054861.1	RefSeq	transcript	1413952	1417459	.	+	.	transcript_id "rna-XM_041705548.1"; gene_id "gene-APUU_50540S"
+NC_054861.1	RefSeq	exon	1413952	1414764	.	+	.	transcript_id "rna-XM_041705548.1"; gene_id "gene-APUU_50540S";
+NC_054861.1	RefSeq	exon	1414816	1415921	.	+	.	transcript_id "rna-XM_041705548.1"; gene_id "gene-APUU_50540S";
+NC_054861.1	RefSeq	exon	1415975	1416518	.	+	.	transcript_id "rna-XM_041705548.1"; gene_id "gene-APUU_50540S";
+NC_054861.1	RefSeq	exon	1416572	1417459	.	+	.	transcript_id "rna-XM_041705548.1"; gene_id "gene-APUU_50540S";
+NC_054861.1	RefSeq	CDS	1413952	1414764	.	+	0	transcript_id "rna-XM_041705548.1"; gene_id "gene-APUU_50540S";
+NC_054861.1	RefSeq	CDS	1414816	1415921	.	+	0	transcript_id "rna-XM_041705548.1"; gene_id "gene-APUU_50540S";
+NC_054861.1	RefSeq	CDS	1415975	1416518	.	+	1	transcript_id "rna-XM_041705548.1"; gene_id "gene-APUU_50540S";
+NC_054861.1	RefSeq	CDS	1416572	1417459	.	+	0	transcript_id "rna-XM_041705548.1"; gene_id "gene-APUU_50540S";
+NC_054861.1	RefSeq	transcript	1421535	1423038	.	+	.	transcript_id "rna-XM_041705550.1"; gene_id "gene-APUU_50542S"; gene_name "GCV1"
+NC_054861.1	RefSeq	exon	1421535	1421926	.	+	.	transcript_id "rna-XM_041705550.1"; gene_id "gene-APUU_50542S"; gene_name "GCV1";
+NC_054861.1	RefSeq	exon	1421982	1423038	.	+	.	transcript_id "rna-XM_041705550.1"; gene_id "gene-APUU_50542S"; gene_name "GCV1";
+NC_054861.1	RefSeq	CDS	1421535	1421926	.	+	0	transcript_id "rna-XM_041705550.1"; gene_id "gene-APUU_50542S"; gene_name "GCV1";
+NC_054861.1	RefSeq	CDS	1421982	1423038	.	+	1	transcript_id "rna-XM_041705550.1"; gene_id "gene-APUU_50542S"; gene_name "GCV1";
+NC_054861.1	RefSeq	transcript	2319396	2320917	.	-	.	transcript_id "rna-XM_041705938.1"; gene_id "gene-APUU_50890A"; gene_name "DOC1"
+NC_054861.1	RefSeq	exon	2319396	2320309	.	-	.	transcript_id "rna-XM_041705938.1"; gene_id "gene-APUU_50890A"; gene_name "DOC1";
+NC_054861.1	RefSeq	exon	2320377	2320917	.	-	.	transcript_id "rna-XM_041705938.1"; gene_id "gene-APUU_50890A"; gene_name "DOC1";
+NC_054861.1	RefSeq	CDS	2319396	2320309	.	-	2	transcript_id "rna-XM_041705938.1"; gene_id "gene-APUU_50890A"; gene_name "DOC1";
+NC_054861.1	RefSeq	CDS	2320377	2320917	.	-	0	transcript_id "rna-XM_041705938.1"; gene_id "gene-APUU_50890A"; gene_name "DOC1";
+NC_054861.1	RefSeq	transcript	2529197	2531602	.	-	.	transcript_id "rna-XM_041706025.1"; gene_id "gene-APUU_50969A"; gene_name "SDA1"
+NC_054861.1	RefSeq	exon	2529197	2531357	.	-	.	transcript_id "rna-XM_041706025.1"; gene_id "gene-APUU_50969A"; gene_name "SDA1";
+NC_054861.1	RefSeq	exon	2531441	2531476	.	-	.	transcript_id "rna-XM_041706025.1"; gene_id "gene-APUU_50969A"; gene_name "SDA1";
+NC_054861.1	RefSeq	exon	2531556	2531602	.	-	.	transcript_id "rna-XM_041706025.1"; gene_id "gene-APUU_50969A"; gene_name "SDA1";
+NC_054861.1	RefSeq	CDS	2529197	2531357	.	-	1	transcript_id "rna-XM_041706025.1"; gene_id "gene-APUU_50969A"; gene_name "SDA1";
+NC_054861.1	RefSeq	CDS	2531441	2531476	.	-	1	transcript_id "rna-XM_041706025.1"; gene_id "gene-APUU_50969A"; gene_name "SDA1";
+NC_054861.1	RefSeq	CDS	2531556	2531602	.	-	0	transcript_id "rna-XM_041706025.1"; gene_id "gene-APUU_50969A"; gene_name "SDA1";
+NC_054861.1	RefSeq	transcript	2713864	2714813	.	-	.	transcript_id "rna-XM_041706100.1"; gene_id "gene-APUU_51036A"; gene_name "CWC15"
+NC_054861.1	RefSeq	exon	2713864	2714088	.	-	.	transcript_id "rna-XM_041706100.1"; gene_id "gene-APUU_51036A"; gene_name "CWC15";
+NC_054861.1	RefSeq	exon	2714137	2714218	.	-	.	transcript_id "rna-XM_041706100.1"; gene_id "gene-APUU_51036A"; gene_name "CWC15";
+NC_054861.1	RefSeq	exon	2714268	2714555	.	-	.	transcript_id "rna-XM_041706100.1"; gene_id "gene-APUU_51036A"; gene_name "CWC15";
+NC_054861.1	RefSeq	exon	2714606	2714682	.	-	.	transcript_id "rna-XM_041706100.1"; gene_id "gene-APUU_51036A"; gene_name "CWC15";
+NC_054861.1	RefSeq	exon	2714730	2714752	.	-	.	transcript_id "rna-XM_041706100.1"; gene_id "gene-APUU_51036A"; gene_name "CWC15";
+NC_054861.1	RefSeq	exon	2714804	2714813	.	-	.	transcript_id "rna-XM_041706100.1"; gene_id "gene-APUU_51036A"; gene_name "CWC15";
+NC_054861.1	RefSeq	CDS	2713864	2714088	.	-	0	transcript_id "rna-XM_041706100.1"; gene_id "gene-APUU_51036A"; gene_name "CWC15";
+NC_054861.1	RefSeq	CDS	2714137	2714218	.	-	1	transcript_id "rna-XM_041706100.1"; gene_id "gene-APUU_51036A"; gene_name "CWC15";
+NC_054861.1	RefSeq	CDS	2714268	2714555	.	-	1	transcript_id "rna-XM_041706100.1"; gene_id "gene-APUU_51036A"; gene_name "CWC15";
+NC_054861.1	RefSeq	CDS	2714606	2714682	.	-	0	transcript_id "rna-XM_041706100.1"; gene_id "gene-APUU_51036A"; gene_name "CWC15";
+NC_054861.1	RefSeq	CDS	2714730	2714752	.	-	2	transcript_id "rna-XM_041706100.1"; gene_id "gene-APUU_51036A"; gene_name "CWC15";
+NC_054861.1	RefSeq	CDS	2714804	2714813	.	-	0	transcript_id "rna-XM_041706100.1"; gene_id "gene-APUU_51036A"; gene_name "CWC15";
+NC_054861.1	RefSeq	transcript	2715055	2716054	.	+	.	transcript_id "rna-XM_041706101.1"; gene_id "gene-APUU_51037S"
+NC_054861.1	RefSeq	exon	2715055	2715218	.	+	.	transcript_id "rna-XM_041706101.1"; gene_id "gene-APUU_51037S";
+NC_054861.1	RefSeq	exon	2715269	2715388	.	+	.	transcript_id "rna-XM_041706101.1"; gene_id "gene-APUU_51037S";
+NC_054861.1	RefSeq	exon	2715451	2716054	.	+	.	transcript_id "rna-XM_041706101.1"; gene_id "gene-APUU_51037S";
+NC_054861.1	RefSeq	CDS	2715055	2715218	.	+	0	transcript_id "rna-XM_041706101.1"; gene_id "gene-APUU_51037S";
+NC_054861.1	RefSeq	CDS	2715269	2715388	.	+	1	transcript_id "rna-XM_041706101.1"; gene_id "gene-APUU_51037S";
+NC_054861.1	RefSeq	CDS	2715451	2716054	.	+	1	transcript_id "rna-XM_041706101.1"; gene_id "gene-APUU_51037S";
+NC_054861.1	RefSeq	transcript	2881838	2882571	.	+	.	transcript_id "rna-XM_041706176.1"; gene_id "gene-APUU_51104S"; gene_name "IMP3"
+NC_054861.1	RefSeq	exon	2881838	2881869	.	+	.	transcript_id "rna-XM_041706176.1"; gene_id "gene-APUU_51104S"; gene_name "IMP3";
+NC_054861.1	RefSeq	exon	2881940	2882300	.	+	.	transcript_id "rna-XM_041706176.1"; gene_id "gene-APUU_51104S"; gene_name "IMP3";
+NC_054861.1	RefSeq	exon	2882398	2882571	.	+	.	transcript_id "rna-XM_041706176.1"; gene_id "gene-APUU_51104S"; gene_name "IMP3";
+NC_054861.1	RefSeq	CDS	2881838	2881869	.	+	0	transcript_id "rna-XM_041706176.1"; gene_id "gene-APUU_51104S"; gene_name "IMP3";
+NC_054861.1	RefSeq	CDS	2881940	2882300	.	+	1	transcript_id "rna-XM_041706176.1"; gene_id "gene-APUU_51104S"; gene_name "IMP3";
+NC_054861.1	RefSeq	CDS	2882398	2882571	.	+	0	transcript_id "rna-XM_041706176.1"; gene_id "gene-APUU_51104S"; gene_name "IMP3";
+NC_054861.1	RefSeq	transcript	3020316	3021978	.	-	.	transcript_id "rna-XM_041706232.1"; gene_id "gene-APUU_51155A"; gene_name "hat1"
+NC_054861.1	RefSeq	exon	3020316	3021240	.	-	.	transcript_id "rna-XM_041706232.1"; gene_id "gene-APUU_51155A"; gene_name "hat1";
+NC_054861.1	RefSeq	exon	3021295	3021556	.	-	.	transcript_id "rna-XM_041706232.1"; gene_id "gene-APUU_51155A"; gene_name "hat1";
+NC_054861.1	RefSeq	exon	3021625	3021900	.	-	.	transcript_id "rna-XM_041706232.1"; gene_id "gene-APUU_51155A"; gene_name "hat1";
+NC_054861.1	RefSeq	exon	3021960	3021978	.	-	.	transcript_id "rna-XM_041706232.1"; gene_id "gene-APUU_51155A"; gene_name "hat1";
+NC_054861.1	RefSeq	CDS	3020316	3021240	.	-	1	transcript_id "rna-XM_041706232.1"; gene_id "gene-APUU_51155A"; gene_name "hat1";
+NC_054861.1	RefSeq	CDS	3021295	3021556	.	-	2	transcript_id "rna-XM_041706232.1"; gene_id "gene-APUU_51155A"; gene_name "hat1";
+NC_054861.1	RefSeq	CDS	3021625	3021900	.	-	2	transcript_id "rna-XM_041706232.1"; gene_id "gene-APUU_51155A"; gene_name "hat1";
+NC_054861.1	RefSeq	CDS	3021960	3021978	.	-	0	transcript_id "rna-XM_041706232.1"; gene_id "gene-APUU_51155A"; gene_name "hat1";
+NC_054861.1	RefSeq	transcript	3092106	3093049	.	-	.	transcript_id "rna-XM_041706264.1"; gene_id "gene-APUU_51183A"; gene_name "COX11"
+NC_054861.1	RefSeq	exon	3092106	3092155	.	-	.	transcript_id "rna-XM_041706264.1"; gene_id "gene-APUU_51183A"; gene_name "COX11";
+NC_054861.1	RefSeq	exon	3092216	3092657	.	-	.	transcript_id "rna-XM_041706264.1"; gene_id "gene-APUU_51183A"; gene_name "COX11";
+NC_054861.1	RefSeq	exon	3092740	3092809	.	-	.	transcript_id "rna-XM_041706264.1"; gene_id "gene-APUU_51183A"; gene_name "COX11";
+NC_054861.1	RefSeq	exon	3092856	3093049	.	-	.	transcript_id "rna-XM_041706264.1"; gene_id "gene-APUU_51183A"; gene_name "COX11";
+NC_054861.1	RefSeq	CDS	3092106	3092155	.	-	2	transcript_id "rna-XM_041706264.1"; gene_id "gene-APUU_51183A"; gene_name "COX11";
+NC_054861.1	RefSeq	CDS	3092216	3092657	.	-	0	transcript_id "rna-XM_041706264.1"; gene_id "gene-APUU_51183A"; gene_name "COX11";
+NC_054861.1	RefSeq	CDS	3092740	3092809	.	-	1	transcript_id "rna-XM_041706264.1"; gene_id "gene-APUU_51183A"; gene_name "COX11";
+NC_054861.1	RefSeq	CDS	3092856	3093049	.	-	0	transcript_id "rna-XM_041706264.1"; gene_id "gene-APUU_51183A"; gene_name "COX11";
+NC_054861.1	RefSeq	transcript	3131228	3132578	.	-	.	transcript_id "rna-XM_041706279.1"; gene_id "gene-APUU_51197A"; gene_name "dph1"
+NC_054861.1	RefSeq	exon	3131228	3132384	.	-	.	transcript_id "rna-XM_041706279.1"; gene_id "gene-APUU_51197A"; gene_name "dph1";
+NC_054861.1	RefSeq	exon	3132437	3132578	.	-	.	transcript_id "rna-XM_041706279.1"; gene_id "gene-APUU_51197A"; gene_name "dph1";
+NC_054861.1	RefSeq	CDS	3131228	3132384	.	-	2	transcript_id "rna-XM_041706279.1"; gene_id "gene-APUU_51197A"; gene_name "dph1";
+NC_054861.1	RefSeq	CDS	3132437	3132578	.	-	0	transcript_id "rna-XM_041706279.1"; gene_id "gene-APUU_51197A"; gene_name "dph1";
+NC_054861.1	RefSeq	transcript	3245423	3246679	.	-	.	transcript_id "rna-XM_041706327.1"; gene_id "gene-APUU_51241A"
+NC_054861.1	RefSeq	exon	3245423	3246046	.	-	.	transcript_id "rna-XM_041706327.1"; gene_id "gene-APUU_51241A";
+NC_054861.1	RefSeq	exon	3246116	3246679	.	-	.	transcript_id "rna-XM_041706327.1"; gene_id "gene-APUU_51241A";
+NC_054861.1	RefSeq	CDS	3245423	3246046	.	-	0	transcript_id "rna-XM_041706327.1"; gene_id "gene-APUU_51241A";
+NC_054861.1	RefSeq	CDS	3246116	3246679	.	-	0	transcript_id "rna-XM_041706327.1"; gene_id "gene-APUU_51241A";
+NC_054862.1	RefSeq	transcript	448583	450414	.	+	.	transcript_id "rna-XM_041707010.1"; gene_id "gene-APUU_60193S"
+NC_054862.1	RefSeq	exon	448583	449317	.	+	.	transcript_id "rna-XM_041707010.1"; gene_id "gene-APUU_60193S";
+NC_054862.1	RefSeq	exon	449374	450414	.	+	.	transcript_id "rna-XM_041707010.1"; gene_id "gene-APUU_60193S";
+NC_054862.1	RefSeq	CDS	448583	449317	.	+	0	transcript_id "rna-XM_041707010.1"; gene_id "gene-APUU_60193S";
+NC_054862.1	RefSeq	CDS	449374	450414	.	+	0	transcript_id "rna-XM_041707010.1"; gene_id "gene-APUU_60193S";
+NC_054862.1	RefSeq	transcript	464993	465814	.	-	.	transcript_id "rna-XM_041707014.1"; gene_id "gene-APUU_60197A"; gene_name "PSF1"
+NC_054862.1	RefSeq	exon	464993	465086	.	-	.	transcript_id "rna-XM_041707014.1"; gene_id "gene-APUU_60197A"; gene_name "PSF1";
+NC_054862.1	RefSeq	exon	465155	465693	.	-	.	transcript_id "rna-XM_041707014.1"; gene_id "gene-APUU_60197A"; gene_name "PSF1";
+NC_054862.1	RefSeq	exon	465788	465814	.	-	.	transcript_id "rna-XM_041707014.1"; gene_id "gene-APUU_60197A"; gene_name "PSF1";
+NC_054862.1	RefSeq	CDS	464993	465086	.	-	1	transcript_id "rna-XM_041707014.1"; gene_id "gene-APUU_60197A"; gene_name "PSF1";
+NC_054862.1	RefSeq	CDS	465155	465693	.	-	0	transcript_id "rna-XM_041707014.1"; gene_id "gene-APUU_60197A"; gene_name "PSF1";
+NC_054862.1	RefSeq	CDS	465788	465814	.	-	0	transcript_id "rna-XM_041707014.1"; gene_id "gene-APUU_60197A"; gene_name "PSF1";
+NC_054862.1	RefSeq	transcript	542556	543322	.	+	.	transcript_id "rna-XM_041693445.1"; gene_id "gene-APUU_60228S"
+NC_054862.1	RefSeq	exon	542556	542622	.	+	.	transcript_id "rna-XM_041693445.1"; gene_id "gene-APUU_60228S";
+NC_054862.1	RefSeq	exon	542685	543322	.	+	.	transcript_id "rna-XM_041693445.1"; gene_id "gene-APUU_60228S";
+NC_054862.1	RefSeq	CDS	542556	542622	.	+	0	transcript_id "rna-XM_041693445.1"; gene_id "gene-APUU_60228S";
+NC_054862.1	RefSeq	CDS	542685	543322	.	+	2	transcript_id "rna-XM_041693445.1"; gene_id "gene-APUU_60228S";
+NC_054862.1	RefSeq	transcript	1151467	1153487	.	-	.	transcript_id "rna-XM_041693723.1"; gene_id "gene-APUU_60479A"; gene_name "agm1"
+NC_054862.1	RefSeq	exon	1151467	1152339	.	-	.	transcript_id "rna-XM_041693723.1"; gene_id "gene-APUU_60479A"; gene_name "agm1";
+NC_054862.1	RefSeq	exon	1152409	1152915	.	-	.	transcript_id "rna-XM_041693723.1"; gene_id "gene-APUU_60479A"; gene_name "agm1";
+NC_054862.1	RefSeq	exon	1152971	1152985	.	-	.	transcript_id "rna-XM_041693723.1"; gene_id "gene-APUU_60479A"; gene_name "agm1";
+NC_054862.1	RefSeq	exon	1153044	1153188	.	-	.	transcript_id "rna-XM_041693723.1"; gene_id "gene-APUU_60479A"; gene_name "agm1";
+NC_054862.1	RefSeq	exon	1153310	1153323	.	-	.	transcript_id "rna-XM_041693723.1"; gene_id "gene-APUU_60479A"; gene_name "agm1";
+NC_054862.1	RefSeq	exon	1153395	1153487	.	-	.	transcript_id "rna-XM_041693723.1"; gene_id "gene-APUU_60479A"; gene_name "agm1";
+NC_054862.1	RefSeq	CDS	1151467	1152339	.	-	0	transcript_id "rna-XM_041693723.1"; gene_id "gene-APUU_60479A"; gene_name "agm1";
+NC_054862.1	RefSeq	CDS	1152409	1152915	.	-	0	transcript_id "rna-XM_041693723.1"; gene_id "gene-APUU_60479A"; gene_name "agm1";
+NC_054862.1	RefSeq	CDS	1152971	1152985	.	-	0	transcript_id "rna-XM_041693723.1"; gene_id "gene-APUU_60479A"; gene_name "agm1";
+NC_054862.1	RefSeq	CDS	1153044	1153188	.	-	1	transcript_id "rna-XM_041693723.1"; gene_id "gene-APUU_60479A"; gene_name "agm1";
+NC_054862.1	RefSeq	CDS	1153310	1153323	.	-	0	transcript_id "rna-XM_041693723.1"; gene_id "gene-APUU_60479A"; gene_name "agm1";
+NC_054862.1	RefSeq	CDS	1153395	1153487	.	-	0	transcript_id "rna-XM_041693723.1"; gene_id "gene-APUU_60479A"; gene_name "agm1";
+NC_054862.1	RefSeq	transcript	1225114	1226551	.	-	.	transcript_id "rna-XM_041693755.1"; gene_id "gene-APUU_60508A"
+NC_054862.1	RefSeq	exon	1225114	1226249	.	-	.	transcript_id "rna-XM_041693755.1"; gene_id "gene-APUU_60508A";
+NC_054862.1	RefSeq	exon	1226305	1226551	.	-	.	transcript_id "rna-XM_041693755.1"; gene_id "gene-APUU_60508A";
+NC_054862.1	RefSeq	CDS	1225114	1226249	.	-	2	transcript_id "rna-XM_041693755.1"; gene_id "gene-APUU_60508A";
+NC_054862.1	RefSeq	CDS	1226305	1226551	.	-	0	transcript_id "rna-XM_041693755.1"; gene_id "gene-APUU_60508A";
+NC_054862.1	RefSeq	transcript	1329779	1330905	.	+	.	transcript_id "rna-XM_041693792.1"; gene_id "gene-APUU_60540S"
+NC_054862.1	RefSeq	exon	1329779	1330153	.	+	.	transcript_id "rna-XM_041693792.1"; gene_id "gene-APUU_60540S";
+NC_054862.1	RefSeq	exon	1330207	1330413	.	+	.	transcript_id "rna-XM_041693792.1"; gene_id "gene-APUU_60540S";
+NC_054862.1	RefSeq	exon	1330476	1330628	.	+	.	transcript_id "rna-XM_041693792.1"; gene_id "gene-APUU_60540S";
+NC_054862.1	RefSeq	exon	1330693	1330905	.	+	.	transcript_id "rna-XM_041693792.1"; gene_id "gene-APUU_60540S";
+NC_054862.1	RefSeq	CDS	1329779	1330153	.	+	0	transcript_id "rna-XM_041693792.1"; gene_id "gene-APUU_60540S";
+NC_054862.1	RefSeq	CDS	1330207	1330413	.	+	0	transcript_id "rna-XM_041693792.1"; gene_id "gene-APUU_60540S";
+NC_054862.1	RefSeq	CDS	1330476	1330628	.	+	0	transcript_id "rna-XM_041693792.1"; gene_id "gene-APUU_60540S";
+NC_054862.1	RefSeq	CDS	1330693	1330905	.	+	0	transcript_id "rna-XM_041693792.1"; gene_id "gene-APUU_60540S";
+NC_054862.1	RefSeq	transcript	1478111	1479643	.	-	.	transcript_id "rna-XM_041693808.1"; gene_id "gene-APUU_60555A"
+NC_054862.1	RefSeq	exon	1478111	1478915	.	-	.	transcript_id "rna-XM_041693808.1"; gene_id "gene-APUU_60555A";
+NC_054862.1	RefSeq	exon	1478984	1479319	.	-	.	transcript_id "rna-XM_041693808.1"; gene_id "gene-APUU_60555A";
+NC_054862.1	RefSeq	exon	1479417	1479643	.	-	.	transcript_id "rna-XM_041693808.1"; gene_id "gene-APUU_60555A";
+NC_054862.1	RefSeq	CDS	1478111	1478915	.	-	1	transcript_id "rna-XM_041693808.1"; gene_id "gene-APUU_60555A";
+NC_054862.1	RefSeq	CDS	1478984	1479319	.	-	1	transcript_id "rna-XM_041693808.1"; gene_id "gene-APUU_60555A";
+NC_054862.1	RefSeq	CDS	1479417	1479643	.	-	0	transcript_id "rna-XM_041693808.1"; gene_id "gene-APUU_60555A";
+NC_054862.1	RefSeq	transcript	1808095	1811052	.	-	.	transcript_id "rna-XM_041693955.1"; gene_id "gene-APUU_60688A"
+NC_054862.1	RefSeq	exon	1808095	1809928	.	-	.	transcript_id "rna-XM_041693955.1"; gene_id "gene-APUU_60688A";
+NC_054862.1	RefSeq	exon	1809979	1810226	.	-	.	transcript_id "rna-XM_041693955.1"; gene_id "gene-APUU_60688A";
+NC_054862.1	RefSeq	exon	1810277	1810772	.	-	.	transcript_id "rna-XM_041693955.1"; gene_id "gene-APUU_60688A";
+NC_054862.1	RefSeq	exon	1810843	1810955	.	-	.	transcript_id "rna-XM_041693955.1"; gene_id "gene-APUU_60688A";
+NC_054862.1	RefSeq	exon	1811035	1811052	.	-	.	transcript_id "rna-XM_041693955.1"; gene_id "gene-APUU_60688A";
+NC_054862.1	RefSeq	CDS	1808095	1809928	.	-	1	transcript_id "rna-XM_041693955.1"; gene_id "gene-APUU_60688A";
+NC_054862.1	RefSeq	CDS	1809979	1810226	.	-	0	transcript_id "rna-XM_041693955.1"; gene_id "gene-APUU_60688A";
+NC_054862.1	RefSeq	CDS	1810277	1810772	.	-	1	transcript_id "rna-XM_041693955.1"; gene_id "gene-APUU_60688A";
+NC_054862.1	RefSeq	CDS	1810843	1810955	.	-	0	transcript_id "rna-XM_041693955.1"; gene_id "gene-APUU_60688A";
+NC_054862.1	RefSeq	CDS	1811035	1811052	.	-	0	transcript_id "rna-XM_041693955.1"; gene_id "gene-APUU_60688A";
+NC_054862.1	RefSeq	transcript	3008820	3009832	.	-	.	transcript_id "rna-XM_041694516.1"; gene_id "gene-APUU_61201A"; gene_name "DRE2"
+NC_054862.1	RefSeq	exon	3008820	3009127	.	-	.	transcript_id "rna-XM_041694516.1"; gene_id "gene-APUU_61201A"; gene_name "DRE2";
+NC_054862.1	RefSeq	exon	3009178	3009832	.	-	.	transcript_id "rna-XM_041694516.1"; gene_id "gene-APUU_61201A"; gene_name "DRE2";
+NC_054862.1	RefSeq	CDS	3008820	3009127	.	-	2	transcript_id "rna-XM_041694516.1"; gene_id "gene-APUU_61201A"; gene_name "DRE2";
+NC_054862.1	RefSeq	CDS	3009178	3009832	.	-	0	transcript_id "rna-XM_041694516.1"; gene_id "gene-APUU_61201A"; gene_name "DRE2";
+NC_054863.1	RefSeq	transcript	652242	653422	.	+	.	transcript_id "rna-XM_041695120.1"; gene_id "gene-APUU_70266S"; gene_name "ETF1"
+NC_054863.1	RefSeq	exon	652242	652547	.	+	.	transcript_id "rna-XM_041695120.1"; gene_id "gene-APUU_70266S"; gene_name "ETF1";
+NC_054863.1	RefSeq	exon	652617	652785	.	+	.	transcript_id "rna-XM_041695120.1"; gene_id "gene-APUU_70266S"; gene_name "ETF1";
+NC_054863.1	RefSeq	exon	652845	653422	.	+	.	transcript_id "rna-XM_041695120.1"; gene_id "gene-APUU_70266S"; gene_name "ETF1";
+NC_054863.1	RefSeq	CDS	652242	652547	.	+	0	transcript_id "rna-XM_041695120.1"; gene_id "gene-APUU_70266S"; gene_name "ETF1";
+NC_054863.1	RefSeq	CDS	652617	652785	.	+	0	transcript_id "rna-XM_041695120.1"; gene_id "gene-APUU_70266S"; gene_name "ETF1";
+NC_054863.1	RefSeq	CDS	652845	653422	.	+	2	transcript_id "rna-XM_041695120.1"; gene_id "gene-APUU_70266S"; gene_name "ETF1";
+NC_054863.1	RefSeq	transcript	653676	656894	.	-	.	transcript_id "rna-XM_041695121.1"; gene_id "gene-APUU_70267A"; gene_name "CTF18"
+NC_054863.1	RefSeq	exon	653676	654087	.	-	.	transcript_id "rna-XM_041695121.1"; gene_id "gene-APUU_70267A"; gene_name "CTF18";
+NC_054863.1	RefSeq	exon	654144	656631	.	-	.	transcript_id "rna-XM_041695121.1"; gene_id "gene-APUU_70267A"; gene_name "CTF18";
+NC_054863.1	RefSeq	exon	656681	656894	.	-	.	transcript_id "rna-XM_041695121.1"; gene_id "gene-APUU_70267A"; gene_name "CTF18";
+NC_054863.1	RefSeq	CDS	653676	654087	.	-	1	transcript_id "rna-XM_041695121.1"; gene_id "gene-APUU_70267A"; gene_name "CTF18";
+NC_054863.1	RefSeq	CDS	654144	656631	.	-	2	transcript_id "rna-XM_041695121.1"; gene_id "gene-APUU_70267A"; gene_name "CTF18";
+NC_054863.1	RefSeq	CDS	656681	656894	.	-	0	transcript_id "rna-XM_041695121.1"; gene_id "gene-APUU_70267A"; gene_name "CTF18";
+NC_054863.1	RefSeq	transcript	893183	894703	.	-	.	transcript_id "rna-XM_041695231.1"; gene_id "gene-APUU_70366A"; gene_name "trm61"
+NC_054863.1	RefSeq	exon	893183	894703	.	-	.	transcript_id "rna-XM_041695231.1"; gene_id "gene-APUU_70366A"; gene_name "trm61";
+NC_054863.1	RefSeq	CDS	893183	894703	.	-	0	transcript_id "rna-XM_041695231.1"; gene_id "gene-APUU_70366A"; gene_name "trm61";
+NC_054863.1	RefSeq	transcript	1059062	1060457	.	-	.	transcript_id "rna-XM_041695300.1"; gene_id "gene-APUU_70429A"; gene_name "FYV10"
+NC_054863.1	RefSeq	exon	1059062	1059493	.	-	.	transcript_id "rna-XM_041695300.1"; gene_id "gene-APUU_70429A"; gene_name "FYV10";
+NC_054863.1	RefSeq	exon	1059541	1059735	.	-	.	transcript_id "rna-XM_041695300.1"; gene_id "gene-APUU_70429A"; gene_name "FYV10";
+NC_054863.1	RefSeq	exon	1059795	1060334	.	-	.	transcript_id "rna-XM_041695300.1"; gene_id "gene-APUU_70429A"; gene_name "FYV10";
+NC_054863.1	RefSeq	exon	1060404	1060457	.	-	.	transcript_id "rna-XM_041695300.1"; gene_id "gene-APUU_70429A"; gene_name "FYV10";
+NC_054863.1	RefSeq	CDS	1059062	1059493	.	-	0	transcript_id "rna-XM_041695300.1"; gene_id "gene-APUU_70429A"; gene_name "FYV10";
+NC_054863.1	RefSeq	CDS	1059541	1059735	.	-	0	transcript_id "rna-XM_041695300.1"; gene_id "gene-APUU_70429A"; gene_name "FYV10";
+NC_054863.1	RefSeq	CDS	1059795	1060334	.	-	0	transcript_id "rna-XM_041695300.1"; gene_id "gene-APUU_70429A"; gene_name "FYV10";
+NC_054863.1	RefSeq	CDS	1060404	1060457	.	-	0	transcript_id "rna-XM_041695300.1"; gene_id "gene-APUU_70429A"; gene_name "FYV10";
+NC_054863.1	RefSeq	transcript	1084998	1085725	.	+	.	transcript_id "rna-XM_041695315.1"; gene_id "gene-APUU_70442S"; gene_name "FAP7"
+NC_054863.1	RefSeq	exon	1084998	1085180	.	+	.	transcript_id "rna-XM_041695315.1"; gene_id "gene-APUU_70442S"; gene_name "FAP7";
+NC_054863.1	RefSeq	exon	1085272	1085420	.	+	.	transcript_id "rna-XM_041695315.1"; gene_id "gene-APUU_70442S"; gene_name "FAP7";
+NC_054863.1	RefSeq	exon	1085524	1085725	.	+	.	transcript_id "rna-XM_041695315.1"; gene_id "gene-APUU_70442S"; gene_name "FAP7";
+NC_054863.1	RefSeq	CDS	1084998	1085180	.	+	0	transcript_id "rna-XM_041695315.1"; gene_id "gene-APUU_70442S"; gene_name "FAP7";
+NC_054863.1	RefSeq	CDS	1085272	1085420	.	+	0	transcript_id "rna-XM_041695315.1"; gene_id "gene-APUU_70442S"; gene_name "FAP7";
+NC_054863.1	RefSeq	CDS	1085524	1085725	.	+	1	transcript_id "rna-XM_041695315.1"; gene_id "gene-APUU_70442S"; gene_name "FAP7";
+NC_054863.1	RefSeq	transcript	1216777	1219190	.	+	.	transcript_id "rna-XM_041695337.1"; gene_id "gene-APUU_70461S"; gene_name "MPP10"
+NC_054863.1	RefSeq	exon	1216777	1216799	.	+	.	transcript_id "rna-XM_041695337.1"; gene_id "gene-APUU_70461S"; gene_name "MPP10";
+NC_054863.1	RefSeq	exon	1217069	1219190	.	+	.	transcript_id "rna-XM_041695337.1"; gene_id "gene-APUU_70461S"; gene_name "MPP10";
+NC_054863.1	RefSeq	CDS	1216777	1216799	.	+	0	transcript_id "rna-XM_041695337.1"; gene_id "gene-APUU_70461S"; gene_name "MPP10";
+NC_054863.1	RefSeq	CDS	1217069	1219190	.	+	1	transcript_id "rna-XM_041695337.1"; gene_id "gene-APUU_70461S"; gene_name "MPP10";
+NC_054863.1	RefSeq	transcript	1694311	1696216	.	-	.	transcript_id "rna-XM_041695528.1"; gene_id "gene-APUU_70634A"; gene_name "SWC4"
+NC_054863.1	RefSeq	exon	1694311	1695892	.	-	.	transcript_id "rna-XM_041695528.1"; gene_id "gene-APUU_70634A"; gene_name "SWC4";
+NC_054863.1	RefSeq	exon	1695945	1696062	.	-	.	transcript_id "rna-XM_041695528.1"; gene_id "gene-APUU_70634A"; gene_name "SWC4";
+NC_054863.1	RefSeq	exon	1696123	1696216	.	-	.	transcript_id "rna-XM_041695528.1"; gene_id "gene-APUU_70634A"; gene_name "SWC4";
+NC_054863.1	RefSeq	CDS	1694311	1695892	.	-	1	transcript_id "rna-XM_041695528.1"; gene_id "gene-APUU_70634A"; gene_name "SWC4";
+NC_054863.1	RefSeq	CDS	1695945	1696062	.	-	2	transcript_id "rna-XM_041695528.1"; gene_id "gene-APUU_70634A"; gene_name "SWC4";
+NC_054863.1	RefSeq	CDS	1696123	1696216	.	-	0	transcript_id "rna-XM_041695528.1"; gene_id "gene-APUU_70634A"; gene_name "SWC4";
+NC_054863.1	RefSeq	transcript	1721031	1722948	.	-	.	transcript_id "rna-XM_041695541.1"; gene_id "gene-APUU_70646A"; gene_name "RRP9"
+NC_054863.1	RefSeq	exon	1721031	1722524	.	-	.	transcript_id "rna-XM_041695541.1"; gene_id "gene-APUU_70646A"; gene_name "RRP9";
+NC_054863.1	RefSeq	exon	1722577	1722948	.	-	.	transcript_id "rna-XM_041695541.1"; gene_id "gene-APUU_70646A"; gene_name "RRP9";
+NC_054863.1	RefSeq	CDS	1721031	1722524	.	-	0	transcript_id "rna-XM_041695541.1"; gene_id "gene-APUU_70646A"; gene_name "RRP9";
+NC_054863.1	RefSeq	CDS	1722577	1722948	.	-	0	transcript_id "rna-XM_041695541.1"; gene_id "gene-APUU_70646A"; gene_name "RRP9";
+NC_054863.1	RefSeq	transcript	1729710	1732759	.	+	.	transcript_id "rna-XM_041695547.1"; gene_id "gene-APUU_70650S"; gene_name "UTP13"
+NC_054863.1	RefSeq	exon	1729710	1729883	.	+	.	transcript_id "rna-XM_041695547.1"; gene_id "gene-APUU_70650S"; gene_name "UTP13";
+NC_054863.1	RefSeq	exon	1729932	1729959	.	+	.	transcript_id "rna-XM_041695547.1"; gene_id "gene-APUU_70650S"; gene_name "UTP13";
+NC_054863.1	RefSeq	exon	1730019	1732759	.	+	.	transcript_id "rna-XM_041695547.1"; gene_id "gene-APUU_70650S"; gene_name "UTP13";
+NC_054863.1	RefSeq	CDS	1729710	1729883	.	+	0	transcript_id "rna-XM_041695547.1"; gene_id "gene-APUU_70650S"; gene_name "UTP13";
+NC_054863.1	RefSeq	CDS	1729932	1729959	.	+	0	transcript_id "rna-XM_041695547.1"; gene_id "gene-APUU_70650S"; gene_name "UTP13";
+NC_054863.1	RefSeq	CDS	1730019	1732759	.	+	2	transcript_id "rna-XM_041695547.1"; gene_id "gene-APUU_70650S"; gene_name "UTP13";
+NC_054863.1	RefSeq	transcript	1741079	1742643	.	+	.	transcript_id "rna-XM_041695550.1"; gene_id "gene-APUU_70653S"
+NC_054863.1	RefSeq	exon	1741079	1742023	.	+	.	transcript_id "rna-XM_041695550.1"; gene_id "gene-APUU_70653S";
+NC_054863.1	RefSeq	exon	1742077	1742643	.	+	.	transcript_id "rna-XM_041695550.1"; gene_id "gene-APUU_70653S";
+NC_054863.1	RefSeq	CDS	1741079	1742023	.	+	0	transcript_id "rna-XM_041695550.1"; gene_id "gene-APUU_70653S";
+NC_054863.1	RefSeq	CDS	1742077	1742643	.	+	0	transcript_id "rna-XM_041695550.1"; gene_id "gene-APUU_70653S";
+NC_054863.1	RefSeq	transcript	1974982	1976323	.	-	.	transcript_id "rna-XM_041695636.1"; gene_id "gene-APUU_70731A"; gene_name "DOM34"
+NC_054863.1	RefSeq	exon	1974982	1975626	.	-	.	transcript_id "rna-XM_041695636.1"; gene_id "gene-APUU_70731A"; gene_name "DOM34";
+NC_054863.1	RefSeq	exon	1975696	1976187	.	-	.	transcript_id "rna-XM_041695636.1"; gene_id "gene-APUU_70731A"; gene_name "DOM34";
+NC_054863.1	RefSeq	exon	1976246	1976323	.	-	.	transcript_id "rna-XM_041695636.1"; gene_id "gene-APUU_70731A"; gene_name "DOM34";
+NC_054863.1	RefSeq	CDS	1974982	1975626	.	-	0	transcript_id "rna-XM_041695636.1"; gene_id "gene-APUU_70731A"; gene_name "DOM34";
+NC_054863.1	RefSeq	CDS	1975696	1976187	.	-	0	transcript_id "rna-XM_041695636.1"; gene_id "gene-APUU_70731A"; gene_name "DOM34";
+NC_054863.1	RefSeq	CDS	1976246	1976323	.	-	0	transcript_id "rna-XM_041695636.1"; gene_id "gene-APUU_70731A"; gene_name "DOM34";
+NC_054863.1	RefSeq	transcript	2331612	2332433	.	+	.	transcript_id "rna-XM_041695794.1"; gene_id "gene-APUU_70872S"; gene_name "RRP40"
+NC_054863.1	RefSeq	exon	2331612	2332433	.	+	.	transcript_id "rna-XM_041695794.1"; gene_id "gene-APUU_70872S"; gene_name "RRP40";
+NC_054863.1	RefSeq	CDS	2331612	2332433	.	+	0	transcript_id "rna-XM_041695794.1"; gene_id "gene-APUU_70872S"; gene_name "RRP40";
+NC_054863.1	RefSeq	transcript	2523721	2524461	.	+	.	transcript_id "rna-XM_041695893.1"; gene_id "gene-APUU_70961S"
+NC_054863.1	RefSeq	exon	2523721	2524461	.	+	.	transcript_id "rna-XM_041695893.1"; gene_id "gene-APUU_70961S";
+NC_054863.1	RefSeq	CDS	2523721	2524461	.	+	0	transcript_id "rna-XM_041695893.1"; gene_id "gene-APUU_70961S";
+NC_054863.1	RefSeq	transcript	2645687	2646564	.	+	.	transcript_id "rna-XM_041695937.1"; gene_id "gene-APUU_71001S"; gene_name "ISY1"
+NC_054863.1	RefSeq	exon	2645687	2645689	.	+	.	transcript_id "rna-XM_041695937.1"; gene_id "gene-APUU_71001S"; gene_name "ISY1";
+NC_054863.1	RefSeq	exon	2645803	2646564	.	+	.	transcript_id "rna-XM_041695937.1"; gene_id "gene-APUU_71001S"; gene_name "ISY1";
+NC_054863.1	RefSeq	CDS	2645687	2645689	.	+	0	transcript_id "rna-XM_041695937.1"; gene_id "gene-APUU_71001S"; gene_name "ISY1";
+NC_054863.1	RefSeq	CDS	2645803	2646564	.	+	0	transcript_id "rna-XM_041695937.1"; gene_id "gene-APUU_71001S"; gene_name "ISY1";
+NC_054863.1	RefSeq	transcript	2749211	2749925	.	-	.	transcript_id "rna-XM_041695982.1"; gene_id "gene-APUU_71042A"
+NC_054863.1	RefSeq	exon	2749211	2749382	.	-	.	transcript_id "rna-XM_041695982.1"; gene_id "gene-APUU_71042A";
+NC_054863.1	RefSeq	exon	2749448	2749679	.	-	.	transcript_id "rna-XM_041695982.1"; gene_id "gene-APUU_71042A";
+NC_054863.1	RefSeq	exon	2749757	2749925	.	-	.	transcript_id "rna-XM_041695982.1"; gene_id "gene-APUU_71042A";
+NC_054863.1	RefSeq	CDS	2749211	2749382	.	-	1	transcript_id "rna-XM_041695982.1"; gene_id "gene-APUU_71042A";
+NC_054863.1	RefSeq	CDS	2749448	2749679	.	-	2	transcript_id "rna-XM_041695982.1"; gene_id "gene-APUU_71042A";
+NC_054863.1	RefSeq	CDS	2749757	2749925	.	-	0	transcript_id "rna-XM_041695982.1"; gene_id "gene-APUU_71042A";
+NC_054864.1	RefSeq	transcript	410114	411264	.	+	.	transcript_id "rna-XM_041696408.1"; gene_id "gene-APUU_80159S"; gene_name "ATG3"
+NC_054864.1	RefSeq	exon	410114	410637	.	+	.	transcript_id "rna-XM_041696408.1"; gene_id "gene-APUU_80159S"; gene_name "ATG3";
+NC_054864.1	RefSeq	exon	410700	411264	.	+	.	transcript_id "rna-XM_041696408.1"; gene_id "gene-APUU_80159S"; gene_name "ATG3";
+NC_054864.1	RefSeq	CDS	410114	410637	.	+	0	transcript_id "rna-XM_041696408.1"; gene_id "gene-APUU_80159S"; gene_name "ATG3";
+NC_054864.1	RefSeq	CDS	410700	411264	.	+	1	transcript_id "rna-XM_041696408.1"; gene_id "gene-APUU_80159S"; gene_name "ATG3";
+NC_054864.1	RefSeq	transcript	560073	560847	.	-	.	transcript_id "rna-XM_041696477.1"; gene_id "gene-APUU_80221A"; gene_name "NOP16"
+NC_054864.1	RefSeq	exon	560073	560649	.	-	.	transcript_id "rna-XM_041696477.1"; gene_id "gene-APUU_80221A"; gene_name "NOP16";
+NC_054864.1	RefSeq	exon	560717	560847	.	-	.	transcript_id "rna-XM_041696477.1"; gene_id "gene-APUU_80221A"; gene_name "NOP16";
+NC_054864.1	RefSeq	CDS	560073	560649	.	-	1	transcript_id "rna-XM_041696477.1"; gene_id "gene-APUU_80221A"; gene_name "NOP16";
+NC_054864.1	RefSeq	CDS	560717	560847	.	-	0	transcript_id "rna-XM_041696477.1"; gene_id "gene-APUU_80221A"; gene_name "NOP16";
+NC_054864.1	RefSeq	transcript	1365276	1367521	.	-	.	transcript_id "rna-XM_041696829.1"; gene_id "gene-APUU_80537A"; gene_name "ESF1"
+NC_054864.1	RefSeq	exon	1365276	1367356	.	-	.	transcript_id "rna-XM_041696829.1"; gene_id "gene-APUU_80537A"; gene_name "ESF1";
+NC_054864.1	RefSeq	exon	1367455	1367521	.	-	.	transcript_id "rna-XM_041696829.1"; gene_id "gene-APUU_80537A"; gene_name "ESF1";
+NC_054864.1	RefSeq	CDS	1365276	1367356	.	-	2	transcript_id "rna-XM_041696829.1"; gene_id "gene-APUU_80537A"; gene_name "ESF1";
+NC_054864.1	RefSeq	CDS	1367455	1367521	.	-	0	transcript_id "rna-XM_041696829.1"; gene_id "gene-APUU_80537A"; gene_name "ESF1";
+NC_054864.1	RefSeq	transcript	1381964	1383030	.	-	.	transcript_id "rna-XM_041696836.1"; gene_id "gene-APUU_80543A"; gene_name "LIA1"
+NC_054864.1	RefSeq	exon	1381964	1382492	.	-	.	transcript_id "rna-XM_041696836.1"; gene_id "gene-APUU_80543A"; gene_name "LIA1";
+NC_054864.1	RefSeq	exon	1382549	1383030	.	-	.	transcript_id "rna-XM_041696836.1"; gene_id "gene-APUU_80543A"; gene_name "LIA1";
+NC_054864.1	RefSeq	CDS	1381964	1382492	.	-	1	transcript_id "rna-XM_041696836.1"; gene_id "gene-APUU_80543A"; gene_name "LIA1";
+NC_054864.1	RefSeq	CDS	1382549	1383030	.	-	0	transcript_id "rna-XM_041696836.1"; gene_id "gene-APUU_80543A"; gene_name "LIA1";
+NC_054864.1	RefSeq	transcript	1504337	1506207	.	-	.	transcript_id "rna-XM_041696887.1"; gene_id "gene-APUU_80589A"
+NC_054864.1	RefSeq	exon	1504337	1505344	.	-	.	transcript_id "rna-XM_041696887.1"; gene_id "gene-APUU_80589A";
+NC_054864.1	RefSeq	exon	1505404	1505904	.	-	.	transcript_id "rna-XM_041696887.1"; gene_id "gene-APUU_80589A";
+NC_054864.1	RefSeq	exon	1505971	1506207	.	-	.	transcript_id "rna-XM_041696887.1"; gene_id "gene-APUU_80589A";
+NC_054864.1	RefSeq	CDS	1504337	1505344	.	-	0	transcript_id "rna-XM_041696887.1"; gene_id "gene-APUU_80589A";
+NC_054864.1	RefSeq	CDS	1505404	1505904	.	-	0	transcript_id "rna-XM_041696887.1"; gene_id "gene-APUU_80589A";
+NC_054864.1	RefSeq	CDS	1505971	1506207	.	-	0	transcript_id "rna-XM_041696887.1"; gene_id "gene-APUU_80589A";
+NC_054864.1	RefSeq	transcript	1581444	1583675	.	-	.	transcript_id "rna-XM_041696916.1"; gene_id "gene-APUU_80615A"; gene_name "DPB2"
+NC_054864.1	RefSeq	exon	1581444	1583675	.	-	.	transcript_id "rna-XM_041696916.1"; gene_id "gene-APUU_80615A"; gene_name "DPB2";
+NC_054864.1	RefSeq	CDS	1581444	1583675	.	-	0	transcript_id "rna-XM_041696916.1"; gene_id "gene-APUU_80615A"; gene_name "DPB2";
+NC_054864.1	RefSeq	transcript	1596922	1599327	.	+	.	transcript_id "rna-XM_041696923.1"; gene_id "gene-APUU_80622S"; gene_name "ATG7"
+NC_054864.1	RefSeq	exon	1596922	1597112	.	+	.	transcript_id "rna-XM_041696923.1"; gene_id "gene-APUU_80622S"; gene_name "ATG7";
+NC_054864.1	RefSeq	exon	1597181	1597289	.	+	.	transcript_id "rna-XM_041696923.1"; gene_id "gene-APUU_80622S"; gene_name "ATG7";
+NC_054864.1	RefSeq	exon	1597346	1598055	.	+	.	transcript_id "rna-XM_041696923.1"; gene_id "gene-APUU_80622S"; gene_name "ATG7";
+NC_054864.1	RefSeq	exon	1598116	1598260	.	+	.	transcript_id "rna-XM_041696923.1"; gene_id "gene-APUU_80622S"; gene_name "ATG7";
+NC_054864.1	RefSeq	exon	1598312	1598779	.	+	.	transcript_id "rna-XM_041696923.1"; gene_id "gene-APUU_80622S"; gene_name "ATG7";
+NC_054864.1	RefSeq	exon	1598829	1599188	.	+	.	transcript_id "rna-XM_041696923.1"; gene_id "gene-APUU_80622S"; gene_name "ATG7";
+NC_054864.1	RefSeq	exon	1599238	1599327	.	+	.	transcript_id "rna-XM_041696923.1"; gene_id "gene-APUU_80622S"; gene_name "ATG7";
+NC_054864.1	RefSeq	CDS	1596922	1597112	.	+	0	transcript_id "rna-XM_041696923.1"; gene_id "gene-APUU_80622S"; gene_name "ATG7";
+NC_054864.1	RefSeq	CDS	1597181	1597289	.	+	1	transcript_id "rna-XM_041696923.1"; gene_id "gene-APUU_80622S"; gene_name "ATG7";
+NC_054864.1	RefSeq	CDS	1597346	1598055	.	+	0	transcript_id "rna-XM_041696923.1"; gene_id "gene-APUU_80622S"; gene_name "ATG7";
+NC_054864.1	RefSeq	CDS	1598116	1598260	.	+	1	transcript_id "rna-XM_041696923.1"; gene_id "gene-APUU_80622S"; gene_name "ATG7";
+NC_054864.1	RefSeq	CDS	1598312	1598779	.	+	0	transcript_id "rna-XM_041696923.1"; gene_id "gene-APUU_80622S"; gene_name "ATG7";
+NC_054864.1	RefSeq	CDS	1598829	1599188	.	+	0	transcript_id "rna-XM_041696923.1"; gene_id "gene-APUU_80622S"; gene_name "ATG7";
+NC_054864.1	RefSeq	CDS	1599238	1599327	.	+	0	transcript_id "rna-XM_041696923.1"; gene_id "gene-APUU_80622S"; gene_name "ATG7";
+NC_054864.1	RefSeq	transcript	1974808	1975670	.	+	.	transcript_id "rna-XM_041697043.1"; gene_id "gene-APUU_80730S"
+NC_054864.1	RefSeq	exon	1974808	1975283	.	+	.	transcript_id "rna-XM_041697043.1"; gene_id "gene-APUU_80730S";
+NC_054864.1	RefSeq	exon	1975352	1975670	.	+	.	transcript_id "rna-XM_041697043.1"; gene_id "gene-APUU_80730S";
+NC_054864.1	RefSeq	CDS	1974808	1975283	.	+	0	transcript_id "rna-XM_041697043.1"; gene_id "gene-APUU_80730S";
+NC_054864.1	RefSeq	CDS	1975352	1975670	.	+	1	transcript_id "rna-XM_041697043.1"; gene_id "gene-APUU_80730S";
+NC_054864.1	RefSeq	transcript	2174328	2175386	.	-	.	transcript_id "rna-XM_041697141.1"; gene_id "gene-APUU_80818A"; gene_name "cwc26"
+NC_054864.1	RefSeq	exon	2174328	2175386	.	-	.	transcript_id "rna-XM_041697141.1"; gene_id "gene-APUU_80818A"; gene_name "cwc26";
+NC_054864.1	RefSeq	CDS	2174328	2175386	.	-	0	transcript_id "rna-XM_041697141.1"; gene_id "gene-APUU_80818A"; gene_name "cwc26";

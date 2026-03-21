@@ -1,0 +1,959 @@
+JAIBQA010000001.1	Genbank	transcript	112340	113434	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000038-T1_mrna"; gene_id "gene-KXX22_000038"
+JAIBQA010000001.1	Genbank	exon	112340	112406	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000038-T1_mrna"; gene_id "gene-KXX22_000038";
+JAIBQA010000001.1	Genbank	exon	112467	113434	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000038-T1_mrna"; gene_id "gene-KXX22_000038";
+JAIBQA010000001.1	Genbank	CDS	112340	112406	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000038-T1_mrna"; gene_id "gene-KXX22_000038";
+JAIBQA010000001.1	Genbank	CDS	112467	113434	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000038-T1_mrna"; gene_id "gene-KXX22_000038";
+JAIBQA010000001.1	Genbank	transcript	406030	408350	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000131-T1_mrna"; gene_id "gene-KXX22_000131"; gene_name "COG6"
+JAIBQA010000001.1	Genbank	exon	406030	407991	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000131-T1_mrna"; gene_id "gene-KXX22_000131"; gene_name "COG6";
+JAIBQA010000001.1	Genbank	exon	408054	408350	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000131-T1_mrna"; gene_id "gene-KXX22_000131"; gene_name "COG6";
+JAIBQA010000001.1	Genbank	CDS	406030	407991	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000131-T1_mrna"; gene_id "gene-KXX22_000131"; gene_name "COG6";
+JAIBQA010000001.1	Genbank	CDS	408054	408350	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000131-T1_mrna"; gene_id "gene-KXX22_000131"; gene_name "COG6";
+JAIBQA010000010.1	Genbank	transcript	119643	120467	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000257-T1_mrna"; gene_id "gene-KXX22_000257"
+JAIBQA010000010.1	Genbank	exon	119643	120467	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000257-T1_mrna"; gene_id "gene-KXX22_000257";
+JAIBQA010000010.1	Genbank	CDS	119643	120467	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000257-T1_mrna"; gene_id "gene-KXX22_000257";
+JAIBQA010000010.1	Genbank	transcript	354561	355352	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000344-T1_mrna"; gene_id "gene-KXX22_000344"; gene_name "NOP16"
+JAIBQA010000010.1	Genbank	exon	354561	355155	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000344-T1_mrna"; gene_id "gene-KXX22_000344"; gene_name "NOP16";
+JAIBQA010000010.1	Genbank	exon	355222	355352	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000344-T1_mrna"; gene_id "gene-KXX22_000344"; gene_name "NOP16";
+JAIBQA010000010.1	Genbank	CDS	354561	355155	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000344-T1_mrna"; gene_id "gene-KXX22_000344"; gene_name "NOP16";
+JAIBQA010000010.1	Genbank	CDS	355222	355352	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000344-T1_mrna"; gene_id "gene-KXX22_000344"; gene_name "NOP16";
+JAIBQA010000100.1	Genbank	transcript	53518	54596	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000368-T1_mrna"; gene_id "gene-KXX22_000368"; gene_name "NSA2"
+JAIBQA010000100.1	Genbank	exon	53518	53520	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000368-T1_mrna"; gene_id "gene-KXX22_000368"; gene_name "NSA2";
+JAIBQA010000100.1	Genbank	exon	53637	53647	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000368-T1_mrna"; gene_id "gene-KXX22_000368"; gene_name "NSA2";
+JAIBQA010000100.1	Genbank	exon	53705	54247	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000368-T1_mrna"; gene_id "gene-KXX22_000368"; gene_name "NSA2";
+JAIBQA010000100.1	Genbank	exon	54308	54520	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000368-T1_mrna"; gene_id "gene-KXX22_000368"; gene_name "NSA2";
+JAIBQA010000100.1	Genbank	exon	54581	54596	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000368-T1_mrna"; gene_id "gene-KXX22_000368"; gene_name "NSA2";
+JAIBQA010000100.1	Genbank	CDS	53518	53520	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000368-T1_mrna"; gene_id "gene-KXX22_000368"; gene_name "NSA2";
+JAIBQA010000100.1	Genbank	CDS	53637	53647	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000368-T1_mrna"; gene_id "gene-KXX22_000368"; gene_name "NSA2";
+JAIBQA010000100.1	Genbank	CDS	53705	54247	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000368-T1_mrna"; gene_id "gene-KXX22_000368"; gene_name "NSA2";
+JAIBQA010000100.1	Genbank	CDS	54308	54520	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000368-T1_mrna"; gene_id "gene-KXX22_000368"; gene_name "NSA2";
+JAIBQA010000100.1	Genbank	CDS	54581	54596	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000368-T1_mrna"; gene_id "gene-KXX22_000368"; gene_name "NSA2";
+JAIBQA010000100.1	Genbank	transcript	65832	67127	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000372-T1_mrna"; gene_id "gene-KXX22_000372"
+JAIBQA010000100.1	Genbank	exon	65832	66131	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000372-T1_mrna"; gene_id "gene-KXX22_000372";
+JAIBQA010000100.1	Genbank	exon	66193	66576	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000372-T1_mrna"; gene_id "gene-KXX22_000372";
+JAIBQA010000100.1	Genbank	exon	66636	66800	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000372-T1_mrna"; gene_id "gene-KXX22_000372";
+JAIBQA010000100.1	Genbank	exon	66869	66959	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000372-T1_mrna"; gene_id "gene-KXX22_000372";
+JAIBQA010000100.1	Genbank	exon	67024	67127	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000372-T1_mrna"; gene_id "gene-KXX22_000372";
+JAIBQA010000100.1	Genbank	CDS	65832	66131	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000372-T1_mrna"; gene_id "gene-KXX22_000372";
+JAIBQA010000100.1	Genbank	CDS	66193	66576	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000372-T1_mrna"; gene_id "gene-KXX22_000372";
+JAIBQA010000100.1	Genbank	CDS	66636	66800	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000372-T1_mrna"; gene_id "gene-KXX22_000372";
+JAIBQA010000100.1	Genbank	CDS	66869	66959	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000372-T1_mrna"; gene_id "gene-KXX22_000372";
+JAIBQA010000100.1	Genbank	CDS	67024	67127	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000372-T1_mrna"; gene_id "gene-KXX22_000372";
+JAIBQA010000102.1	Genbank	transcript	51851	54584	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000427-T1_mrna"; gene_id "gene-KXX22_000427"
+JAIBQA010000102.1	Genbank	exon	51851	54100	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000427-T1_mrna"; gene_id "gene-KXX22_000427";
+JAIBQA010000102.1	Genbank	exon	54150	54584	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000427-T1_mrna"; gene_id "gene-KXX22_000427";
+JAIBQA010000102.1	Genbank	CDS	51851	54100	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000427-T1_mrna"; gene_id "gene-KXX22_000427";
+JAIBQA010000102.1	Genbank	CDS	54150	54584	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000427-T1_mrna"; gene_id "gene-KXX22_000427";
+JAIBQA010000103.1	Genbank	transcript	2028	3452	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000437-T1_mrna"; gene_id "gene-KXX22_000437"; gene_name "FYV10"
+JAIBQA010000103.1	Genbank	exon	2028	2459	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000437-T1_mrna"; gene_id "gene-KXX22_000437"; gene_name "FYV10";
+JAIBQA010000103.1	Genbank	exon	2530	2724	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000437-T1_mrna"; gene_id "gene-KXX22_000437"; gene_name "FYV10";
+JAIBQA010000103.1	Genbank	exon	2795	3334	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000437-T1_mrna"; gene_id "gene-KXX22_000437"; gene_name "FYV10";
+JAIBQA010000103.1	Genbank	exon	3399	3452	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000437-T1_mrna"; gene_id "gene-KXX22_000437"; gene_name "FYV10";
+JAIBQA010000103.1	Genbank	CDS	2028	2459	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000437-T1_mrna"; gene_id "gene-KXX22_000437"; gene_name "FYV10";
+JAIBQA010000103.1	Genbank	CDS	2530	2724	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000437-T1_mrna"; gene_id "gene-KXX22_000437"; gene_name "FYV10";
+JAIBQA010000103.1	Genbank	CDS	2795	3334	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000437-T1_mrna"; gene_id "gene-KXX22_000437"; gene_name "FYV10";
+JAIBQA010000103.1	Genbank	CDS	3399	3452	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000437-T1_mrna"; gene_id "gene-KXX22_000437"; gene_name "FYV10";
+JAIBQA010000011.1	Genbank	transcript	127702	128688	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000664-T1_mrna"; gene_id "gene-KXX22_000664"; gene_name "BCP1"
+JAIBQA010000011.1	Genbank	exon	127702	127785	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000664-T1_mrna"; gene_id "gene-KXX22_000664"; gene_name "BCP1";
+JAIBQA010000011.1	Genbank	exon	127845	128081	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000664-T1_mrna"; gene_id "gene-KXX22_000664"; gene_name "BCP1";
+JAIBQA010000011.1	Genbank	exon	128134	128688	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000664-T1_mrna"; gene_id "gene-KXX22_000664"; gene_name "BCP1";
+JAIBQA010000011.1	Genbank	CDS	127702	127785	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000664-T1_mrna"; gene_id "gene-KXX22_000664"; gene_name "BCP1";
+JAIBQA010000011.1	Genbank	CDS	127845	128081	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000664-T1_mrna"; gene_id "gene-KXX22_000664"; gene_name "BCP1";
+JAIBQA010000011.1	Genbank	CDS	128134	128688	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000664-T1_mrna"; gene_id "gene-KXX22_000664"; gene_name "BCP1";
+JAIBQA010000011.1	Genbank	transcript	225087	225918	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000695-T1_mrna"; gene_id "gene-KXX22_000695"
+JAIBQA010000011.1	Genbank	exon	225087	225280	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000695-T1_mrna"; gene_id "gene-KXX22_000695";
+JAIBQA010000011.1	Genbank	exon	225369	225918	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000695-T1_mrna"; gene_id "gene-KXX22_000695";
+JAIBQA010000011.1	Genbank	CDS	225087	225280	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000695-T1_mrna"; gene_id "gene-KXX22_000695";
+JAIBQA010000011.1	Genbank	CDS	225369	225918	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000695-T1_mrna"; gene_id "gene-KXX22_000695";
+JAIBQA010000011.1	Genbank	transcript	228373	228922	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000697-T1_mrna"; gene_id "gene-KXX22_000697"
+JAIBQA010000011.1	Genbank	exon	228373	228411	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000697-T1_mrna"; gene_id "gene-KXX22_000697";
+JAIBQA010000011.1	Genbank	exon	228480	228562	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000697-T1_mrna"; gene_id "gene-KXX22_000697";
+JAIBQA010000011.1	Genbank	exon	228631	228922	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000697-T1_mrna"; gene_id "gene-KXX22_000697";
+JAIBQA010000011.1	Genbank	CDS	228373	228411	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000697-T1_mrna"; gene_id "gene-KXX22_000697";
+JAIBQA010000011.1	Genbank	CDS	228480	228562	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000697-T1_mrna"; gene_id "gene-KXX22_000697";
+JAIBQA010000011.1	Genbank	CDS	228631	228922	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000697-T1_mrna"; gene_id "gene-KXX22_000697";
+JAIBQA010000011.1	Genbank	transcript	328570	329820	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000739-T1_mrna"; gene_id "gene-KXX22_000739"
+JAIBQA010000011.1	Genbank	exon	328570	328626	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000739-T1_mrna"; gene_id "gene-KXX22_000739";
+JAIBQA010000011.1	Genbank	exon	328690	328707	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000739-T1_mrna"; gene_id "gene-KXX22_000739";
+JAIBQA010000011.1	Genbank	exon	328781	329331	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000739-T1_mrna"; gene_id "gene-KXX22_000739";
+JAIBQA010000011.1	Genbank	exon	329388	329820	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000739-T1_mrna"; gene_id "gene-KXX22_000739";
+JAIBQA010000011.1	Genbank	CDS	328570	328626	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000739-T1_mrna"; gene_id "gene-KXX22_000739";
+JAIBQA010000011.1	Genbank	CDS	328690	328707	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000739-T1_mrna"; gene_id "gene-KXX22_000739";
+JAIBQA010000011.1	Genbank	CDS	328781	329331	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000739-T1_mrna"; gene_id "gene-KXX22_000739";
+JAIBQA010000011.1	Genbank	CDS	329388	329820	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000739-T1_mrna"; gene_id "gene-KXX22_000739";
+JAIBQA010000110.1	Genbank	transcript	37716	39318	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000766-T1_mrna"; gene_id "gene-KXX22_000766"
+JAIBQA010000110.1	Genbank	exon	37716	38589	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000766-T1_mrna"; gene_id "gene-KXX22_000766";
+JAIBQA010000110.1	Genbank	exon	38646	38887	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000766-T1_mrna"; gene_id "gene-KXX22_000766";
+JAIBQA010000110.1	Genbank	exon	38941	39318	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000766-T1_mrna"; gene_id "gene-KXX22_000766";
+JAIBQA010000110.1	Genbank	CDS	37716	38589	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000766-T1_mrna"; gene_id "gene-KXX22_000766";
+JAIBQA010000110.1	Genbank	CDS	38646	38887	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000766-T1_mrna"; gene_id "gene-KXX22_000766";
+JAIBQA010000110.1	Genbank	CDS	38941	39318	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000766-T1_mrna"; gene_id "gene-KXX22_000766";
+JAIBQA010000114.1	Genbank	transcript	64695	65898	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000884-T1_mrna"; gene_id "gene-KXX22_000884"; gene_name "KRR1"
+JAIBQA010000114.1	Genbank	exon	64695	64754	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000884-T1_mrna"; gene_id "gene-KXX22_000884"; gene_name "KRR1";
+JAIBQA010000114.1	Genbank	exon	64821	65093	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000884-T1_mrna"; gene_id "gene-KXX22_000884"; gene_name "KRR1";
+JAIBQA010000114.1	Genbank	exon	65155	65898	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000884-T1_mrna"; gene_id "gene-KXX22_000884"; gene_name "KRR1";
+JAIBQA010000114.1	Genbank	CDS	64695	64754	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000884-T1_mrna"; gene_id "gene-KXX22_000884"; gene_name "KRR1";
+JAIBQA010000114.1	Genbank	CDS	64821	65093	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000884-T1_mrna"; gene_id "gene-KXX22_000884"; gene_name "KRR1";
+JAIBQA010000114.1	Genbank	CDS	65155	65898	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000884-T1_mrna"; gene_id "gene-KXX22_000884"; gene_name "KRR1";
+JAIBQA010000115.1	Genbank	transcript	53754	56009	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000909-T1_mrna"; gene_id "gene-KXX22_000909"
+JAIBQA010000115.1	Genbank	exon	53754	53917	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000909-T1_mrna"; gene_id "gene-KXX22_000909";
+JAIBQA010000115.1	Genbank	exon	54048	54763	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000909-T1_mrna"; gene_id "gene-KXX22_000909";
+JAIBQA010000115.1	Genbank	exon	54818	55059	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000909-T1_mrna"; gene_id "gene-KXX22_000909";
+JAIBQA010000115.1	Genbank	exon	55114	55380	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000909-T1_mrna"; gene_id "gene-KXX22_000909";
+JAIBQA010000115.1	Genbank	exon	55444	55573	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000909-T1_mrna"; gene_id "gene-KXX22_000909";
+JAIBQA010000115.1	Genbank	exon	55635	55711	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000909-T1_mrna"; gene_id "gene-KXX22_000909";
+JAIBQA010000115.1	Genbank	exon	55768	55787	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000909-T1_mrna"; gene_id "gene-KXX22_000909";
+JAIBQA010000115.1	Genbank	exon	55856	55896	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000909-T1_mrna"; gene_id "gene-KXX22_000909";
+JAIBQA010000115.1	Genbank	exon	55957	56009	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000909-T1_mrna"; gene_id "gene-KXX22_000909";
+JAIBQA010000115.1	Genbank	CDS	53754	53917	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000909-T1_mrna"; gene_id "gene-KXX22_000909";
+JAIBQA010000115.1	Genbank	CDS	54048	54763	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000909-T1_mrna"; gene_id "gene-KXX22_000909";
+JAIBQA010000115.1	Genbank	CDS	54818	55059	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000909-T1_mrna"; gene_id "gene-KXX22_000909";
+JAIBQA010000115.1	Genbank	CDS	55114	55380	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000909-T1_mrna"; gene_id "gene-KXX22_000909";
+JAIBQA010000115.1	Genbank	CDS	55444	55573	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000909-T1_mrna"; gene_id "gene-KXX22_000909";
+JAIBQA010000115.1	Genbank	CDS	55635	55711	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000909-T1_mrna"; gene_id "gene-KXX22_000909";
+JAIBQA010000115.1	Genbank	CDS	55768	55787	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000909-T1_mrna"; gene_id "gene-KXX22_000909";
+JAIBQA010000115.1	Genbank	CDS	55856	55896	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000909-T1_mrna"; gene_id "gene-KXX22_000909";
+JAIBQA010000115.1	Genbank	CDS	55957	56009	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_000909-T1_mrna"; gene_id "gene-KXX22_000909";
+JAIBQA010000012.1	Genbank	transcript	84170	85109	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001051-T1_mrna"; gene_id "gene-KXX22_001051"
+JAIBQA010000012.1	Genbank	exon	84170	84192	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001051-T1_mrna"; gene_id "gene-KXX22_001051";
+JAIBQA010000012.1	Genbank	exon	84248	84375	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001051-T1_mrna"; gene_id "gene-KXX22_001051";
+JAIBQA010000012.1	Genbank	exon	84430	85109	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001051-T1_mrna"; gene_id "gene-KXX22_001051";
+JAIBQA010000012.1	Genbank	CDS	84170	84192	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001051-T1_mrna"; gene_id "gene-KXX22_001051";
+JAIBQA010000012.1	Genbank	CDS	84248	84375	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001051-T1_mrna"; gene_id "gene-KXX22_001051";
+JAIBQA010000012.1	Genbank	CDS	84430	85109	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001051-T1_mrna"; gene_id "gene-KXX22_001051";
+JAIBQA010000012.1	Genbank	transcript	290047	291819	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001121-T1_mrna"; gene_id "gene-KXX22_001121"; gene_name "TRM6"
+JAIBQA010000012.1	Genbank	exon	290047	291679	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001121-T1_mrna"; gene_id "gene-KXX22_001121"; gene_name "TRM6";
+JAIBQA010000012.1	Genbank	exon	291734	291819	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001121-T1_mrna"; gene_id "gene-KXX22_001121"; gene_name "TRM6";
+JAIBQA010000012.1	Genbank	CDS	290047	291679	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001121-T1_mrna"; gene_id "gene-KXX22_001121"; gene_name "TRM6";
+JAIBQA010000012.1	Genbank	CDS	291734	291819	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001121-T1_mrna"; gene_id "gene-KXX22_001121"; gene_name "TRM6";
+JAIBQA010000120.1	Genbank	transcript	51376	53420	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001159-T1_mrna"; gene_id "gene-KXX22_001159"; gene_name "SPB4"
+JAIBQA010000120.1	Genbank	exon	51376	52498	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001159-T1_mrna"; gene_id "gene-KXX22_001159"; gene_name "SPB4";
+JAIBQA010000120.1	Genbank	exon	52552	53061	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001159-T1_mrna"; gene_id "gene-KXX22_001159"; gene_name "SPB4";
+JAIBQA010000120.1	Genbank	exon	53131	53420	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001159-T1_mrna"; gene_id "gene-KXX22_001159"; gene_name "SPB4";
+JAIBQA010000120.1	Genbank	CDS	51376	52498	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001159-T1_mrna"; gene_id "gene-KXX22_001159"; gene_name "SPB4";
+JAIBQA010000120.1	Genbank	CDS	52552	53061	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001159-T1_mrna"; gene_id "gene-KXX22_001159"; gene_name "SPB4";
+JAIBQA010000120.1	Genbank	CDS	53131	53420	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001159-T1_mrna"; gene_id "gene-KXX22_001159"; gene_name "SPB4";
+JAIBQA010000126.1	Genbank	transcript	27288	28218	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001320-T1_mrna"; gene_id "gene-KXX22_001320"
+JAIBQA010000126.1	Genbank	exon	27288	28104	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001320-T1_mrna"; gene_id "gene-KXX22_001320";
+JAIBQA010000126.1	Genbank	exon	28196	28218	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001320-T1_mrna"; gene_id "gene-KXX22_001320";
+JAIBQA010000126.1	Genbank	CDS	27288	28104	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001320-T1_mrna"; gene_id "gene-KXX22_001320";
+JAIBQA010000126.1	Genbank	CDS	28196	28218	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001320-T1_mrna"; gene_id "gene-KXX22_001320";
+JAIBQA010000132.1	Genbank	transcript	14933	17750	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001584-T1_mrna"; gene_id "gene-KXX22_001584"
+JAIBQA010000132.1	Genbank	exon	14933	15384	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001584-T1_mrna"; gene_id "gene-KXX22_001584";
+JAIBQA010000132.1	Genbank	exon	15446	15564	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001584-T1_mrna"; gene_id "gene-KXX22_001584";
+JAIBQA010000132.1	Genbank	exon	15614	15729	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001584-T1_mrna"; gene_id "gene-KXX22_001584";
+JAIBQA010000132.1	Genbank	exon	15797	15877	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001584-T1_mrna"; gene_id "gene-KXX22_001584";
+JAIBQA010000132.1	Genbank	exon	15926	16023	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001584-T1_mrna"; gene_id "gene-KXX22_001584";
+JAIBQA010000132.1	Genbank	exon	16723	16845	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001584-T1_mrna"; gene_id "gene-KXX22_001584";
+JAIBQA010000132.1	Genbank	exon	16924	17348	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001584-T1_mrna"; gene_id "gene-KXX22_001584";
+JAIBQA010000132.1	Genbank	exon	17411	17455	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001584-T1_mrna"; gene_id "gene-KXX22_001584";
+JAIBQA010000132.1	Genbank	exon	17530	17633	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001584-T1_mrna"; gene_id "gene-KXX22_001584";
+JAIBQA010000132.1	Genbank	exon	17697	17750	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001584-T1_mrna"; gene_id "gene-KXX22_001584";
+JAIBQA010000132.1	Genbank	CDS	14933	15384	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001584-T1_mrna"; gene_id "gene-KXX22_001584";
+JAIBQA010000132.1	Genbank	CDS	15446	15564	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001584-T1_mrna"; gene_id "gene-KXX22_001584";
+JAIBQA010000132.1	Genbank	CDS	15614	15729	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001584-T1_mrna"; gene_id "gene-KXX22_001584";
+JAIBQA010000132.1	Genbank	CDS	15797	15877	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001584-T1_mrna"; gene_id "gene-KXX22_001584";
+JAIBQA010000132.1	Genbank	CDS	15926	16023	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001584-T1_mrna"; gene_id "gene-KXX22_001584";
+JAIBQA010000132.1	Genbank	CDS	16723	16845	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001584-T1_mrna"; gene_id "gene-KXX22_001584";
+JAIBQA010000132.1	Genbank	CDS	16924	17348	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001584-T1_mrna"; gene_id "gene-KXX22_001584";
+JAIBQA010000132.1	Genbank	CDS	17411	17455	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001584-T1_mrna"; gene_id "gene-KXX22_001584";
+JAIBQA010000132.1	Genbank	CDS	17530	17633	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001584-T1_mrna"; gene_id "gene-KXX22_001584";
+JAIBQA010000132.1	Genbank	CDS	17697	17750	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001584-T1_mrna"; gene_id "gene-KXX22_001584";
+JAIBQA010000132.1	Genbank	transcript	67569	70518	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001601-T1_mrna"; gene_id "gene-KXX22_001601"
+JAIBQA010000132.1	Genbank	exon	67569	68464	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001601-T1_mrna"; gene_id "gene-KXX22_001601";
+JAIBQA010000132.1	Genbank	exon	68537	68718	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001601-T1_mrna"; gene_id "gene-KXX22_001601";
+JAIBQA010000132.1	Genbank	exon	68772	69658	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001601-T1_mrna"; gene_id "gene-KXX22_001601";
+JAIBQA010000132.1	Genbank	exon	69726	69993	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001601-T1_mrna"; gene_id "gene-KXX22_001601";
+JAIBQA010000132.1	Genbank	exon	70071	70177	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001601-T1_mrna"; gene_id "gene-KXX22_001601";
+JAIBQA010000132.1	Genbank	exon	70254	70348	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001601-T1_mrna"; gene_id "gene-KXX22_001601";
+JAIBQA010000132.1	Genbank	exon	70455	70518	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001601-T1_mrna"; gene_id "gene-KXX22_001601";
+JAIBQA010000132.1	Genbank	CDS	67569	68464	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001601-T1_mrna"; gene_id "gene-KXX22_001601";
+JAIBQA010000132.1	Genbank	CDS	68537	68718	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001601-T1_mrna"; gene_id "gene-KXX22_001601";
+JAIBQA010000132.1	Genbank	CDS	68772	69658	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001601-T1_mrna"; gene_id "gene-KXX22_001601";
+JAIBQA010000132.1	Genbank	CDS	69726	69993	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001601-T1_mrna"; gene_id "gene-KXX22_001601";
+JAIBQA010000132.1	Genbank	CDS	70071	70177	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001601-T1_mrna"; gene_id "gene-KXX22_001601";
+JAIBQA010000132.1	Genbank	CDS	70254	70348	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001601-T1_mrna"; gene_id "gene-KXX22_001601";
+JAIBQA010000132.1	Genbank	CDS	70455	70518	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001601-T1_mrna"; gene_id "gene-KXX22_001601";
+JAIBQA010000138.1	Genbank	transcript	37038	38674	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001743-T1_mrna"; gene_id "gene-KXX22_001743"; gene_name "UBA4"
+JAIBQA010000138.1	Genbank	exon	37038	38058	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001743-T1_mrna"; gene_id "gene-KXX22_001743"; gene_name "UBA4";
+JAIBQA010000138.1	Genbank	exon	38124	38337	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001743-T1_mrna"; gene_id "gene-KXX22_001743"; gene_name "UBA4";
+JAIBQA010000138.1	Genbank	exon	38428	38674	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001743-T1_mrna"; gene_id "gene-KXX22_001743"; gene_name "UBA4";
+JAIBQA010000138.1	Genbank	CDS	37038	38058	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001743-T1_mrna"; gene_id "gene-KXX22_001743"; gene_name "UBA4";
+JAIBQA010000138.1	Genbank	CDS	38124	38337	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001743-T1_mrna"; gene_id "gene-KXX22_001743"; gene_name "UBA4";
+JAIBQA010000138.1	Genbank	CDS	38428	38674	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001743-T1_mrna"; gene_id "gene-KXX22_001743"; gene_name "UBA4";
+JAIBQA010000139.1	Genbank	transcript	11538	13572	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001756-T1_mrna"; gene_id "gene-KXX22_001756"
+JAIBQA010000139.1	Genbank	exon	11538	11888	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001756-T1_mrna"; gene_id "gene-KXX22_001756";
+JAIBQA010000139.1	Genbank	exon	11945	12448	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001756-T1_mrna"; gene_id "gene-KXX22_001756";
+JAIBQA010000139.1	Genbank	exon	12508	13357	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001756-T1_mrna"; gene_id "gene-KXX22_001756";
+JAIBQA010000139.1	Genbank	exon	13421	13572	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001756-T1_mrna"; gene_id "gene-KXX22_001756";
+JAIBQA010000139.1	Genbank	CDS	11538	11888	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001756-T1_mrna"; gene_id "gene-KXX22_001756";
+JAIBQA010000139.1	Genbank	CDS	11945	12448	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001756-T1_mrna"; gene_id "gene-KXX22_001756";
+JAIBQA010000139.1	Genbank	CDS	12508	13357	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001756-T1_mrna"; gene_id "gene-KXX22_001756";
+JAIBQA010000139.1	Genbank	CDS	13421	13572	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001756-T1_mrna"; gene_id "gene-KXX22_001756";
+JAIBQA010000014.1	Genbank	transcript	109742	110974	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001813-T1_mrna"; gene_id "gene-KXX22_001813"
+JAIBQA010000014.1	Genbank	exon	109742	110974	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001813-T1_mrna"; gene_id "gene-KXX22_001813";
+JAIBQA010000014.1	Genbank	CDS	109742	110974	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_001813-T1_mrna"; gene_id "gene-KXX22_001813";
+JAIBQA010000015.1	Genbank	transcript	44168	45367	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002110-T1_mrna"; gene_id "gene-KXX22_002110"
+JAIBQA010000015.1	Genbank	exon	44168	44473	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002110-T1_mrna"; gene_id "gene-KXX22_002110";
+JAIBQA010000015.1	Genbank	exon	44547	44715	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002110-T1_mrna"; gene_id "gene-KXX22_002110";
+JAIBQA010000015.1	Genbank	exon	44787	45367	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002110-T1_mrna"; gene_id "gene-KXX22_002110";
+JAIBQA010000015.1	Genbank	CDS	44168	44473	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002110-T1_mrna"; gene_id "gene-KXX22_002110";
+JAIBQA010000015.1	Genbank	CDS	44547	44715	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002110-T1_mrna"; gene_id "gene-KXX22_002110";
+JAIBQA010000015.1	Genbank	CDS	44787	45367	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002110-T1_mrna"; gene_id "gene-KXX22_002110";
+JAIBQA010000015.1	Genbank	transcript	46323	49208	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002111-T1_mrna"; gene_id "gene-KXX22_002111"; gene_name "CTF18"
+JAIBQA010000015.1	Genbank	exon	46323	48721	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002111-T1_mrna"; gene_id "gene-KXX22_002111"; gene_name "CTF18";
+JAIBQA010000015.1	Genbank	exon	48785	49208	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002111-T1_mrna"; gene_id "gene-KXX22_002111"; gene_name "CTF18";
+JAIBQA010000015.1	Genbank	CDS	46323	48721	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002111-T1_mrna"; gene_id "gene-KXX22_002111"; gene_name "CTF18";
+JAIBQA010000015.1	Genbank	CDS	48785	49208	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002111-T1_mrna"; gene_id "gene-KXX22_002111"; gene_name "CTF18";
+JAIBQA010000015.1	Genbank	transcript	271941	273155	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002187-T1_mrna"; gene_id "gene-KXX22_002187"
+JAIBQA010000015.1	Genbank	exon	271941	272170	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002187-T1_mrna"; gene_id "gene-KXX22_002187";
+JAIBQA010000015.1	Genbank	exon	272256	272591	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002187-T1_mrna"; gene_id "gene-KXX22_002187";
+JAIBQA010000015.1	Genbank	exon	272656	272999	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002187-T1_mrna"; gene_id "gene-KXX22_002187";
+JAIBQA010000015.1	Genbank	exon	273055	273155	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002187-T1_mrna"; gene_id "gene-KXX22_002187";
+JAIBQA010000015.1	Genbank	CDS	271941	272170	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002187-T1_mrna"; gene_id "gene-KXX22_002187";
+JAIBQA010000015.1	Genbank	CDS	272256	272591	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002187-T1_mrna"; gene_id "gene-KXX22_002187";
+JAIBQA010000015.1	Genbank	CDS	272656	272999	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002187-T1_mrna"; gene_id "gene-KXX22_002187";
+JAIBQA010000015.1	Genbank	CDS	273055	273155	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002187-T1_mrna"; gene_id "gene-KXX22_002187";
+JAIBQA010000164.1	Genbank	transcript	2596	5025	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002538-T1_mrna"; gene_id "gene-KXX22_002538"; gene_name "UTP25"
+JAIBQA010000164.1	Genbank	exon	2596	3514	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002538-T1_mrna"; gene_id "gene-KXX22_002538"; gene_name "UTP25";
+JAIBQA010000164.1	Genbank	exon	3571	4148	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002538-T1_mrna"; gene_id "gene-KXX22_002538"; gene_name "UTP25";
+JAIBQA010000164.1	Genbank	exon	4218	4417	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002538-T1_mrna"; gene_id "gene-KXX22_002538"; gene_name "UTP25";
+JAIBQA010000164.1	Genbank	exon	4471	4847	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002538-T1_mrna"; gene_id "gene-KXX22_002538"; gene_name "UTP25";
+JAIBQA010000164.1	Genbank	exon	4913	5025	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002538-T1_mrna"; gene_id "gene-KXX22_002538"; gene_name "UTP25";
+JAIBQA010000164.1	Genbank	CDS	2596	3514	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002538-T1_mrna"; gene_id "gene-KXX22_002538"; gene_name "UTP25";
+JAIBQA010000164.1	Genbank	CDS	3571	4148	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002538-T1_mrna"; gene_id "gene-KXX22_002538"; gene_name "UTP25";
+JAIBQA010000164.1	Genbank	CDS	4218	4417	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002538-T1_mrna"; gene_id "gene-KXX22_002538"; gene_name "UTP25";
+JAIBQA010000164.1	Genbank	CDS	4471	4847	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002538-T1_mrna"; gene_id "gene-KXX22_002538"; gene_name "UTP25";
+JAIBQA010000164.1	Genbank	CDS	4913	5025	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002538-T1_mrna"; gene_id "gene-KXX22_002538"; gene_name "UTP25";
+JAIBQA010000164.1	Genbank	transcript	5334	6500	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002539-T1_mrna"; gene_id "gene-KXX22_002539"
+JAIBQA010000164.1	Genbank	exon	5334	5438	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002539-T1_mrna"; gene_id "gene-KXX22_002539";
+JAIBQA010000164.1	Genbank	exon	5502	6214	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002539-T1_mrna"; gene_id "gene-KXX22_002539";
+JAIBQA010000164.1	Genbank	exon	6281	6500	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002539-T1_mrna"; gene_id "gene-KXX22_002539";
+JAIBQA010000164.1	Genbank	CDS	5334	5438	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002539-T1_mrna"; gene_id "gene-KXX22_002539";
+JAIBQA010000164.1	Genbank	CDS	5502	6214	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002539-T1_mrna"; gene_id "gene-KXX22_002539";
+JAIBQA010000164.1	Genbank	CDS	6281	6500	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002539-T1_mrna"; gene_id "gene-KXX22_002539";
+JAIBQA010000164.1	Genbank	transcript	27729	29237	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002551-T1_mrna"; gene_id "gene-KXX22_002551"
+JAIBQA010000164.1	Genbank	exon	27729	27801	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002551-T1_mrna"; gene_id "gene-KXX22_002551";
+JAIBQA010000164.1	Genbank	exon	27865	28717	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002551-T1_mrna"; gene_id "gene-KXX22_002551";
+JAIBQA010000164.1	Genbank	exon	28783	29078	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002551-T1_mrna"; gene_id "gene-KXX22_002551";
+JAIBQA010000164.1	Genbank	exon	29140	29237	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002551-T1_mrna"; gene_id "gene-KXX22_002551";
+JAIBQA010000164.1	Genbank	CDS	27729	27801	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002551-T1_mrna"; gene_id "gene-KXX22_002551";
+JAIBQA010000164.1	Genbank	CDS	27865	28717	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002551-T1_mrna"; gene_id "gene-KXX22_002551";
+JAIBQA010000164.1	Genbank	CDS	28783	29078	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002551-T1_mrna"; gene_id "gene-KXX22_002551";
+JAIBQA010000164.1	Genbank	CDS	29140	29237	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002551-T1_mrna"; gene_id "gene-KXX22_002551";
+JAIBQA010000017.1	Genbank	transcript	149015	150184	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002674-T1_mrna"; gene_id "gene-KXX22_002674"
+JAIBQA010000017.1	Genbank	exon	149015	149940	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002674-T1_mrna"; gene_id "gene-KXX22_002674";
+JAIBQA010000017.1	Genbank	exon	149992	150184	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002674-T1_mrna"; gene_id "gene-KXX22_002674";
+JAIBQA010000017.1	Genbank	CDS	149015	149940	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002674-T1_mrna"; gene_id "gene-KXX22_002674";
+JAIBQA010000017.1	Genbank	CDS	149992	150184	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002674-T1_mrna"; gene_id "gene-KXX22_002674";
+JAIBQA010000017.1	Genbank	transcript	157521	160091	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002679-T1_mrna"; gene_id "gene-KXX22_002679"; gene_name "DBP6"
+JAIBQA010000017.1	Genbank	exon	157521	160091	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002679-T1_mrna"; gene_id "gene-KXX22_002679"; gene_name "DBP6";
+JAIBQA010000017.1	Genbank	CDS	157521	160091	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002679-T1_mrna"; gene_id "gene-KXX22_002679"; gene_name "DBP6";
+JAIBQA010000170.1	Genbank	transcript	23294	25823	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002726-T1_mrna"; gene_id "gene-KXX22_002726"; gene_name "ATG7"
+JAIBQA010000170.1	Genbank	exon	23294	23782	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002726-T1_mrna"; gene_id "gene-KXX22_002726"; gene_name "ATG7";
+JAIBQA010000170.1	Genbank	exon	23838	24305	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002726-T1_mrna"; gene_id "gene-KXX22_002726"; gene_name "ATG7";
+JAIBQA010000170.1	Genbank	exon	24361	24505	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002726-T1_mrna"; gene_id "gene-KXX22_002726"; gene_name "ATG7";
+JAIBQA010000170.1	Genbank	exon	24574	25364	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002726-T1_mrna"; gene_id "gene-KXX22_002726"; gene_name "ATG7";
+JAIBQA010000170.1	Genbank	exon	25419	25527	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002726-T1_mrna"; gene_id "gene-KXX22_002726"; gene_name "ATG7";
+JAIBQA010000170.1	Genbank	exon	25633	25823	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002726-T1_mrna"; gene_id "gene-KXX22_002726"; gene_name "ATG7";
+JAIBQA010000170.1	Genbank	CDS	23294	23782	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002726-T1_mrna"; gene_id "gene-KXX22_002726"; gene_name "ATG7";
+JAIBQA010000170.1	Genbank	CDS	23838	24305	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002726-T1_mrna"; gene_id "gene-KXX22_002726"; gene_name "ATG7";
+JAIBQA010000170.1	Genbank	CDS	24361	24505	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002726-T1_mrna"; gene_id "gene-KXX22_002726"; gene_name "ATG7";
+JAIBQA010000170.1	Genbank	CDS	24574	25364	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002726-T1_mrna"; gene_id "gene-KXX22_002726"; gene_name "ATG7";
+JAIBQA010000170.1	Genbank	CDS	25419	25527	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002726-T1_mrna"; gene_id "gene-KXX22_002726"; gene_name "ATG7";
+JAIBQA010000170.1	Genbank	CDS	25633	25823	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002726-T1_mrna"; gene_id "gene-KXX22_002726"; gene_name "ATG7";
+JAIBQA010000175.1	Genbank	transcript	25223	27365	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002790-T1_mrna"; gene_id "gene-KXX22_002790"
+JAIBQA010000175.1	Genbank	exon	25223	25543	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002790-T1_mrna"; gene_id "gene-KXX22_002790";
+JAIBQA010000175.1	Genbank	exon	25631	25904	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002790-T1_mrna"; gene_id "gene-KXX22_002790";
+JAIBQA010000175.1	Genbank	exon	25962	26106	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002790-T1_mrna"; gene_id "gene-KXX22_002790";
+JAIBQA010000175.1	Genbank	exon	26162	27365	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002790-T1_mrna"; gene_id "gene-KXX22_002790";
+JAIBQA010000175.1	Genbank	CDS	25223	25543	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002790-T1_mrna"; gene_id "gene-KXX22_002790";
+JAIBQA010000175.1	Genbank	CDS	25631	25904	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002790-T1_mrna"; gene_id "gene-KXX22_002790";
+JAIBQA010000175.1	Genbank	CDS	25962	26106	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002790-T1_mrna"; gene_id "gene-KXX22_002790";
+JAIBQA010000175.1	Genbank	CDS	26162	27365	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002790-T1_mrna"; gene_id "gene-KXX22_002790";
+JAIBQA010000177.1	Genbank	transcript	22020	24413	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002818-T1_mrna"; gene_id "gene-KXX22_002818"; gene_name "ERB1"
+JAIBQA010000177.1	Genbank	exon	22020	24413	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002818-T1_mrna"; gene_id "gene-KXX22_002818"; gene_name "ERB1";
+JAIBQA010000177.1	Genbank	CDS	22020	24413	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002818-T1_mrna"; gene_id "gene-KXX22_002818"; gene_name "ERB1";
+JAIBQA010000177.1	Genbank	transcript	26490	28017	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002820-T1_mrna"; gene_id "gene-KXX22_002820"
+JAIBQA010000177.1	Genbank	exon	26490	27515	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002820-T1_mrna"; gene_id "gene-KXX22_002820";
+JAIBQA010000177.1	Genbank	exon	27576	27750	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002820-T1_mrna"; gene_id "gene-KXX22_002820";
+JAIBQA010000177.1	Genbank	exon	27806	28017	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002820-T1_mrna"; gene_id "gene-KXX22_002820";
+JAIBQA010000177.1	Genbank	CDS	26490	27515	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002820-T1_mrna"; gene_id "gene-KXX22_002820";
+JAIBQA010000177.1	Genbank	CDS	27576	27750	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002820-T1_mrna"; gene_id "gene-KXX22_002820";
+JAIBQA010000177.1	Genbank	CDS	27806	28017	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002820-T1_mrna"; gene_id "gene-KXX22_002820";
+JAIBQA010000180.1	Genbank	transcript	6167	8245	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002948-T1_mrna"; gene_id "gene-KXX22_002948"
+JAIBQA010000180.1	Genbank	exon	6167	8245	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002948-T1_mrna"; gene_id "gene-KXX22_002948";
+JAIBQA010000180.1	Genbank	CDS	6167	8245	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_002948-T1_mrna"; gene_id "gene-KXX22_002948";
+JAIBQA010000185.1	Genbank	transcript	12797	13757	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003027-T1_mrna"; gene_id "gene-KXX22_003027"
+JAIBQA010000185.1	Genbank	exon	12797	12892	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003027-T1_mrna"; gene_id "gene-KXX22_003027";
+JAIBQA010000185.1	Genbank	exon	12969	13757	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003027-T1_mrna"; gene_id "gene-KXX22_003027";
+JAIBQA010000185.1	Genbank	CDS	12797	12892	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003027-T1_mrna"; gene_id "gene-KXX22_003027";
+JAIBQA010000185.1	Genbank	CDS	12969	13757	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003027-T1_mrna"; gene_id "gene-KXX22_003027";
+JAIBQA010000019.1	Genbank	transcript	73905	75042	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003111-T1_mrna"; gene_id "gene-KXX22_003111"
+JAIBQA010000019.1	Genbank	exon	73905	74940	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003111-T1_mrna"; gene_id "gene-KXX22_003111";
+JAIBQA010000019.1	Genbank	exon	74996	75042	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003111-T1_mrna"; gene_id "gene-KXX22_003111";
+JAIBQA010000019.1	Genbank	CDS	73905	74940	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003111-T1_mrna"; gene_id "gene-KXX22_003111";
+JAIBQA010000019.1	Genbank	CDS	74996	75042	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003111-T1_mrna"; gene_id "gene-KXX22_003111";
+JAIBQA010000002.1	Genbank	transcript	10614	11330	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003317-T1_mrna"; gene_id "gene-KXX22_003317"
+JAIBQA010000002.1	Genbank	exon	10614	10645	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003317-T1_mrna"; gene_id "gene-KXX22_003317";
+JAIBQA010000002.1	Genbank	exon	10719	11079	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003317-T1_mrna"; gene_id "gene-KXX22_003317";
+JAIBQA010000002.1	Genbank	exon	11157	11330	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003317-T1_mrna"; gene_id "gene-KXX22_003317";
+JAIBQA010000002.1	Genbank	CDS	10614	10645	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003317-T1_mrna"; gene_id "gene-KXX22_003317";
+JAIBQA010000002.1	Genbank	CDS	10719	11079	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003317-T1_mrna"; gene_id "gene-KXX22_003317";
+JAIBQA010000002.1	Genbank	CDS	11157	11330	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003317-T1_mrna"; gene_id "gene-KXX22_003317";
+JAIBQA010000002.1	Genbank	transcript	146393	147384	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003364-T1_mrna"; gene_id "gene-KXX22_003364"
+JAIBQA010000002.1	Genbank	exon	146393	146987	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003364-T1_mrna"; gene_id "gene-KXX22_003364";
+JAIBQA010000002.1	Genbank	exon	147044	147163	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003364-T1_mrna"; gene_id "gene-KXX22_003364";
+JAIBQA010000002.1	Genbank	exon	147221	147384	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003364-T1_mrna"; gene_id "gene-KXX22_003364";
+JAIBQA010000002.1	Genbank	CDS	146393	146987	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003364-T1_mrna"; gene_id "gene-KXX22_003364";
+JAIBQA010000002.1	Genbank	CDS	147044	147163	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003364-T1_mrna"; gene_id "gene-KXX22_003364";
+JAIBQA010000002.1	Genbank	CDS	147221	147384	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003364-T1_mrna"; gene_id "gene-KXX22_003364";
+JAIBQA010000002.1	Genbank	transcript	147642	148702	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003365-T1_mrna"; gene_id "gene-KXX22_003365"; gene_name "CWC15"
+JAIBQA010000002.1	Genbank	exon	147642	147651	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003365-T1_mrna"; gene_id "gene-KXX22_003365"; gene_name "CWC15";
+JAIBQA010000002.1	Genbank	exon	147713	147728	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003365-T1_mrna"; gene_id "gene-KXX22_003365"; gene_name "CWC15";
+JAIBQA010000002.1	Genbank	exon	147783	147859	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003365-T1_mrna"; gene_id "gene-KXX22_003365"; gene_name "CWC15";
+JAIBQA010000002.1	Genbank	exon	147918	148194	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003365-T1_mrna"; gene_id "gene-KXX22_003365"; gene_name "CWC15";
+JAIBQA010000002.1	Genbank	exon	148248	148329	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003365-T1_mrna"; gene_id "gene-KXX22_003365"; gene_name "CWC15";
+JAIBQA010000002.1	Genbank	exon	148380	148550	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003365-T1_mrna"; gene_id "gene-KXX22_003365"; gene_name "CWC15";
+JAIBQA010000002.1	Genbank	exon	148599	148634	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003365-T1_mrna"; gene_id "gene-KXX22_003365"; gene_name "CWC15";
+JAIBQA010000002.1	Genbank	exon	148685	148702	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003365-T1_mrna"; gene_id "gene-KXX22_003365"; gene_name "CWC15";
+JAIBQA010000002.1	Genbank	CDS	147642	147651	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003365-T1_mrna"; gene_id "gene-KXX22_003365"; gene_name "CWC15";
+JAIBQA010000002.1	Genbank	CDS	147713	147728	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003365-T1_mrna"; gene_id "gene-KXX22_003365"; gene_name "CWC15";
+JAIBQA010000002.1	Genbank	CDS	147783	147859	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003365-T1_mrna"; gene_id "gene-KXX22_003365"; gene_name "CWC15";
+JAIBQA010000002.1	Genbank	CDS	147918	148194	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003365-T1_mrna"; gene_id "gene-KXX22_003365"; gene_name "CWC15";
+JAIBQA010000002.1	Genbank	CDS	148248	148329	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003365-T1_mrna"; gene_id "gene-KXX22_003365"; gene_name "CWC15";
+JAIBQA010000002.1	Genbank	CDS	148380	148550	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003365-T1_mrna"; gene_id "gene-KXX22_003365"; gene_name "CWC15";
+JAIBQA010000002.1	Genbank	CDS	148599	148634	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003365-T1_mrna"; gene_id "gene-KXX22_003365"; gene_name "CWC15";
+JAIBQA010000002.1	Genbank	CDS	148685	148702	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003365-T1_mrna"; gene_id "gene-KXX22_003365"; gene_name "CWC15";
+JAIBQA010000002.1	Genbank	transcript	184716	187983	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003379-T1_mrna"; gene_id "gene-KXX22_003379"
+JAIBQA010000002.1	Genbank	exon	184716	185303	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003379-T1_mrna"; gene_id "gene-KXX22_003379";
+JAIBQA010000002.1	Genbank	exon	185369	186561	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003379-T1_mrna"; gene_id "gene-KXX22_003379";
+JAIBQA010000002.1	Genbank	exon	186623	186694	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003379-T1_mrna"; gene_id "gene-KXX22_003379";
+JAIBQA010000002.1	Genbank	exon	186755	187585	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003379-T1_mrna"; gene_id "gene-KXX22_003379";
+JAIBQA010000002.1	Genbank	exon	187638	187983	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003379-T1_mrna"; gene_id "gene-KXX22_003379";
+JAIBQA010000002.1	Genbank	CDS	184716	185303	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003379-T1_mrna"; gene_id "gene-KXX22_003379";
+JAIBQA010000002.1	Genbank	CDS	185369	186561	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003379-T1_mrna"; gene_id "gene-KXX22_003379";
+JAIBQA010000002.1	Genbank	CDS	186623	186694	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003379-T1_mrna"; gene_id "gene-KXX22_003379";
+JAIBQA010000002.1	Genbank	CDS	186755	187585	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003379-T1_mrna"; gene_id "gene-KXX22_003379";
+JAIBQA010000002.1	Genbank	CDS	187638	187983	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003379-T1_mrna"; gene_id "gene-KXX22_003379";
+JAIBQA010000002.1	Genbank	transcript	248055	250801	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003402-T1_mrna"; gene_id "gene-KXX22_003402"
+JAIBQA010000002.1	Genbank	exon	248055	248121	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003402-T1_mrna"; gene_id "gene-KXX22_003402";
+JAIBQA010000002.1	Genbank	exon	248221	248516	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003402-T1_mrna"; gene_id "gene-KXX22_003402";
+JAIBQA010000002.1	Genbank	exon	248582	248818	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003402-T1_mrna"; gene_id "gene-KXX22_003402";
+JAIBQA010000002.1	Genbank	exon	248871	249329	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003402-T1_mrna"; gene_id "gene-KXX22_003402";
+JAIBQA010000002.1	Genbank	exon	249387	249644	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003402-T1_mrna"; gene_id "gene-KXX22_003402";
+JAIBQA010000002.1	Genbank	exon	249697	249795	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003402-T1_mrna"; gene_id "gene-KXX22_003402";
+JAIBQA010000002.1	Genbank	exon	249860	250801	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003402-T1_mrna"; gene_id "gene-KXX22_003402";
+JAIBQA010000002.1	Genbank	CDS	248055	248121	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003402-T1_mrna"; gene_id "gene-KXX22_003402";
+JAIBQA010000002.1	Genbank	CDS	248221	248516	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003402-T1_mrna"; gene_id "gene-KXX22_003402";
+JAIBQA010000002.1	Genbank	CDS	248582	248818	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003402-T1_mrna"; gene_id "gene-KXX22_003402";
+JAIBQA010000002.1	Genbank	CDS	248871	249329	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003402-T1_mrna"; gene_id "gene-KXX22_003402";
+JAIBQA010000002.1	Genbank	CDS	249387	249644	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003402-T1_mrna"; gene_id "gene-KXX22_003402";
+JAIBQA010000002.1	Genbank	CDS	249697	249795	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003402-T1_mrna"; gene_id "gene-KXX22_003402";
+JAIBQA010000002.1	Genbank	CDS	249860	250801	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003402-T1_mrna"; gene_id "gene-KXX22_003402";
+JAIBQA010000002.1	Genbank	transcript	445024	446431	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003468-T1_mrna"; gene_id "gene-KXX22_003468"
+JAIBQA010000002.1	Genbank	exon	445024	445114	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003468-T1_mrna"; gene_id "gene-KXX22_003468";
+JAIBQA010000002.1	Genbank	exon	445183	445222	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003468-T1_mrna"; gene_id "gene-KXX22_003468";
+JAIBQA010000002.1	Genbank	exon	445281	445327	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003468-T1_mrna"; gene_id "gene-KXX22_003468";
+JAIBQA010000002.1	Genbank	exon	445387	445397	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003468-T1_mrna"; gene_id "gene-KXX22_003468";
+JAIBQA010000002.1	Genbank	exon	445455	445487	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003468-T1_mrna"; gene_id "gene-KXX22_003468";
+JAIBQA010000002.1	Genbank	exon	445547	446431	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003468-T1_mrna"; gene_id "gene-KXX22_003468";
+JAIBQA010000002.1	Genbank	CDS	445024	445114	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003468-T1_mrna"; gene_id "gene-KXX22_003468";
+JAIBQA010000002.1	Genbank	CDS	445183	445222	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003468-T1_mrna"; gene_id "gene-KXX22_003468";
+JAIBQA010000002.1	Genbank	CDS	445281	445327	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003468-T1_mrna"; gene_id "gene-KXX22_003468";
+JAIBQA010000002.1	Genbank	CDS	445387	445397	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003468-T1_mrna"; gene_id "gene-KXX22_003468";
+JAIBQA010000002.1	Genbank	CDS	445455	445487	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003468-T1_mrna"; gene_id "gene-KXX22_003468";
+JAIBQA010000002.1	Genbank	CDS	445547	446431	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003468-T1_mrna"; gene_id "gene-KXX22_003468";
+JAIBQA010000020.1	Genbank	transcript	44037	45152	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003508-T1_mrna"; gene_id "gene-KXX22_003508"; gene_name "ATG3"
+JAIBQA010000020.1	Genbank	exon	44037	44574	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003508-T1_mrna"; gene_id "gene-KXX22_003508"; gene_name "ATG3";
+JAIBQA010000020.1	Genbank	exon	44629	45152	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003508-T1_mrna"; gene_id "gene-KXX22_003508"; gene_name "ATG3";
+JAIBQA010000020.1	Genbank	CDS	44037	44574	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003508-T1_mrna"; gene_id "gene-KXX22_003508"; gene_name "ATG3";
+JAIBQA010000020.1	Genbank	CDS	44629	45152	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003508-T1_mrna"; gene_id "gene-KXX22_003508"; gene_name "ATG3";
+JAIBQA010000021.1	Genbank	transcript	215487	217056	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003760-T1_mrna"; gene_id "gene-KXX22_003760"
+JAIBQA010000021.1	Genbank	exon	215487	216600	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003760-T1_mrna"; gene_id "gene-KXX22_003760";
+JAIBQA010000021.1	Genbank	exon	216659	217056	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003760-T1_mrna"; gene_id "gene-KXX22_003760";
+JAIBQA010000021.1	Genbank	CDS	215487	216600	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003760-T1_mrna"; gene_id "gene-KXX22_003760";
+JAIBQA010000021.1	Genbank	CDS	216659	217056	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003760-T1_mrna"; gene_id "gene-KXX22_003760";
+JAIBQA010000210.1	Genbank	transcript	26961	28532	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003796-T1_mrna"; gene_id "gene-KXX22_003796"
+JAIBQA010000210.1	Genbank	exon	26961	27941	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003796-T1_mrna"; gene_id "gene-KXX22_003796";
+JAIBQA010000210.1	Genbank	exon	27992	28172	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003796-T1_mrna"; gene_id "gene-KXX22_003796";
+JAIBQA010000210.1	Genbank	exon	28288	28532	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003796-T1_mrna"; gene_id "gene-KXX22_003796";
+JAIBQA010000210.1	Genbank	CDS	26961	27941	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003796-T1_mrna"; gene_id "gene-KXX22_003796";
+JAIBQA010000210.1	Genbank	CDS	27992	28172	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003796-T1_mrna"; gene_id "gene-KXX22_003796";
+JAIBQA010000210.1	Genbank	CDS	28288	28532	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003796-T1_mrna"; gene_id "gene-KXX22_003796";
+JAIBQA010000213.1	Genbank	transcript	25158	26413	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003830-T1_mrna"; gene_id "gene-KXX22_003830"
+JAIBQA010000213.1	Genbank	exon	25158	25897	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003830-T1_mrna"; gene_id "gene-KXX22_003830";
+JAIBQA010000213.1	Genbank	exon	25970	26106	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003830-T1_mrna"; gene_id "gene-KXX22_003830";
+JAIBQA010000213.1	Genbank	exon	26166	26413	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003830-T1_mrna"; gene_id "gene-KXX22_003830";
+JAIBQA010000213.1	Genbank	CDS	25158	25897	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003830-T1_mrna"; gene_id "gene-KXX22_003830";
+JAIBQA010000213.1	Genbank	CDS	25970	26106	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003830-T1_mrna"; gene_id "gene-KXX22_003830";
+JAIBQA010000213.1	Genbank	CDS	26166	26413	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003830-T1_mrna"; gene_id "gene-KXX22_003830";
+JAIBQA010000217.1	Genbank	transcript	19131	20293	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003859-T1_mrna"; gene_id "gene-KXX22_003859"
+JAIBQA010000217.1	Genbank	exon	19131	19367	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003859-T1_mrna"; gene_id "gene-KXX22_003859";
+JAIBQA010000217.1	Genbank	exon	19431	19583	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003859-T1_mrna"; gene_id "gene-KXX22_003859";
+JAIBQA010000217.1	Genbank	exon	19654	19860	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003859-T1_mrna"; gene_id "gene-KXX22_003859";
+JAIBQA010000217.1	Genbank	exon	19913	20293	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003859-T1_mrna"; gene_id "gene-KXX22_003859";
+JAIBQA010000217.1	Genbank	CDS	19131	19367	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003859-T1_mrna"; gene_id "gene-KXX22_003859";
+JAIBQA010000217.1	Genbank	CDS	19431	19583	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003859-T1_mrna"; gene_id "gene-KXX22_003859";
+JAIBQA010000217.1	Genbank	CDS	19654	19860	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003859-T1_mrna"; gene_id "gene-KXX22_003859";
+JAIBQA010000217.1	Genbank	CDS	19913	20293	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003859-T1_mrna"; gene_id "gene-KXX22_003859";
+JAIBQA010000218.1	Genbank	transcript	13774	14674	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003868-T1_mrna"; gene_id "gene-KXX22_003868"; gene_name "GAR1_2"
+JAIBQA010000218.1	Genbank	exon	13774	13849	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003868-T1_mrna"; gene_id "gene-KXX22_003868"; gene_name "GAR1_2";
+JAIBQA010000218.1	Genbank	exon	13913	13960	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003868-T1_mrna"; gene_id "gene-KXX22_003868"; gene_name "GAR1_2";
+JAIBQA010000218.1	Genbank	exon	14019	14119	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003868-T1_mrna"; gene_id "gene-KXX22_003868"; gene_name "GAR1_2";
+JAIBQA010000218.1	Genbank	exon	14182	14327	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003868-T1_mrna"; gene_id "gene-KXX22_003868"; gene_name "GAR1_2";
+JAIBQA010000218.1	Genbank	exon	14385	14413	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003868-T1_mrna"; gene_id "gene-KXX22_003868"; gene_name "GAR1_2";
+JAIBQA010000218.1	Genbank	exon	14466	14674	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003868-T1_mrna"; gene_id "gene-KXX22_003868"; gene_name "GAR1_2";
+JAIBQA010000218.1	Genbank	CDS	13774	13849	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003868-T1_mrna"; gene_id "gene-KXX22_003868"; gene_name "GAR1_2";
+JAIBQA010000218.1	Genbank	CDS	13913	13960	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003868-T1_mrna"; gene_id "gene-KXX22_003868"; gene_name "GAR1_2";
+JAIBQA010000218.1	Genbank	CDS	14019	14119	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003868-T1_mrna"; gene_id "gene-KXX22_003868"; gene_name "GAR1_2";
+JAIBQA010000218.1	Genbank	CDS	14182	14327	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003868-T1_mrna"; gene_id "gene-KXX22_003868"; gene_name "GAR1_2";
+JAIBQA010000218.1	Genbank	CDS	14385	14413	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003868-T1_mrna"; gene_id "gene-KXX22_003868"; gene_name "GAR1_2";
+JAIBQA010000218.1	Genbank	CDS	14466	14674	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003868-T1_mrna"; gene_id "gene-KXX22_003868"; gene_name "GAR1_2";
+JAIBQA010000022.1	Genbank	transcript	27212	28088	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003878-T1_mrna"; gene_id "gene-KXX22_003878"
+JAIBQA010000022.1	Genbank	exon	27212	27385	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003878-T1_mrna"; gene_id "gene-KXX22_003878";
+JAIBQA010000022.1	Genbank	exon	27462	28088	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003878-T1_mrna"; gene_id "gene-KXX22_003878";
+JAIBQA010000022.1	Genbank	CDS	27212	27385	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003878-T1_mrna"; gene_id "gene-KXX22_003878";
+JAIBQA010000022.1	Genbank	CDS	27462	28088	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_003878-T1_mrna"; gene_id "gene-KXX22_003878";
+JAIBQA010000023.1	Genbank	transcript	105237	106670	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004096-T1_mrna"; gene_id "gene-KXX22_004096"
+JAIBQA010000023.1	Genbank	exon	105237	106108	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004096-T1_mrna"; gene_id "gene-KXX22_004096";
+JAIBQA010000023.1	Genbank	exon	106178	106670	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004096-T1_mrna"; gene_id "gene-KXX22_004096";
+JAIBQA010000023.1	Genbank	CDS	105237	106108	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004096-T1_mrna"; gene_id "gene-KXX22_004096";
+JAIBQA010000023.1	Genbank	CDS	106178	106670	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004096-T1_mrna"; gene_id "gene-KXX22_004096";
+JAIBQA010000238.1	Genbank	transcript	9517	10160	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004228-T1_mrna"; gene_id "gene-KXX22_004228"
+JAIBQA010000238.1	Genbank	exon	9517	9920	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004228-T1_mrna"; gene_id "gene-KXX22_004228";
+JAIBQA010000238.1	Genbank	exon	9992	10160	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004228-T1_mrna"; gene_id "gene-KXX22_004228";
+JAIBQA010000238.1	Genbank	CDS	9517	9920	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004228-T1_mrna"; gene_id "gene-KXX22_004228";
+JAIBQA010000238.1	Genbank	CDS	9992	10160	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004228-T1_mrna"; gene_id "gene-KXX22_004228";
+JAIBQA010000024.1	Genbank	transcript	83854	85493	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004261-T1_mrna"; gene_id "gene-KXX22_004261"; gene_name "CSN12"
+JAIBQA010000024.1	Genbank	exon	83854	83940	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004261-T1_mrna"; gene_id "gene-KXX22_004261"; gene_name "CSN12";
+JAIBQA010000024.1	Genbank	exon	83995	84415	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004261-T1_mrna"; gene_id "gene-KXX22_004261"; gene_name "CSN12";
+JAIBQA010000024.1	Genbank	exon	84465	84526	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004261-T1_mrna"; gene_id "gene-KXX22_004261"; gene_name "CSN12";
+JAIBQA010000024.1	Genbank	exon	84589	84741	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004261-T1_mrna"; gene_id "gene-KXX22_004261"; gene_name "CSN12";
+JAIBQA010000024.1	Genbank	exon	84790	84862	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004261-T1_mrna"; gene_id "gene-KXX22_004261"; gene_name "CSN12";
+JAIBQA010000024.1	Genbank	exon	84922	85493	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004261-T1_mrna"; gene_id "gene-KXX22_004261"; gene_name "CSN12";
+JAIBQA010000024.1	Genbank	CDS	83854	83940	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004261-T1_mrna"; gene_id "gene-KXX22_004261"; gene_name "CSN12";
+JAIBQA010000024.1	Genbank	CDS	83995	84415	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004261-T1_mrna"; gene_id "gene-KXX22_004261"; gene_name "CSN12";
+JAIBQA010000024.1	Genbank	CDS	84465	84526	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004261-T1_mrna"; gene_id "gene-KXX22_004261"; gene_name "CSN12";
+JAIBQA010000024.1	Genbank	CDS	84589	84741	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004261-T1_mrna"; gene_id "gene-KXX22_004261"; gene_name "CSN12";
+JAIBQA010000024.1	Genbank	CDS	84790	84862	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004261-T1_mrna"; gene_id "gene-KXX22_004261"; gene_name "CSN12";
+JAIBQA010000024.1	Genbank	CDS	84922	85493	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004261-T1_mrna"; gene_id "gene-KXX22_004261"; gene_name "CSN12";
+JAIBQA010000026.1	Genbank	transcript	248707	250616	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004585-T1_mrna"; gene_id "gene-KXX22_004585"
+JAIBQA010000026.1	Genbank	exon	248707	249230	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004585-T1_mrna"; gene_id "gene-KXX22_004585";
+JAIBQA010000026.1	Genbank	exon	249299	249454	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004585-T1_mrna"; gene_id "gene-KXX22_004585";
+JAIBQA010000026.1	Genbank	exon	249510	249584	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004585-T1_mrna"; gene_id "gene-KXX22_004585";
+JAIBQA010000026.1	Genbank	exon	249647	249774	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004585-T1_mrna"; gene_id "gene-KXX22_004585";
+JAIBQA010000026.1	Genbank	exon	249829	249946	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004585-T1_mrna"; gene_id "gene-KXX22_004585";
+JAIBQA010000026.1	Genbank	exon	249998	250276	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004585-T1_mrna"; gene_id "gene-KXX22_004585";
+JAIBQA010000026.1	Genbank	exon	250337	250616	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004585-T1_mrna"; gene_id "gene-KXX22_004585";
+JAIBQA010000026.1	Genbank	CDS	248707	249230	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004585-T1_mrna"; gene_id "gene-KXX22_004585";
+JAIBQA010000026.1	Genbank	CDS	249299	249454	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004585-T1_mrna"; gene_id "gene-KXX22_004585";
+JAIBQA010000026.1	Genbank	CDS	249510	249584	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004585-T1_mrna"; gene_id "gene-KXX22_004585";
+JAIBQA010000026.1	Genbank	CDS	249647	249774	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004585-T1_mrna"; gene_id "gene-KXX22_004585";
+JAIBQA010000026.1	Genbank	CDS	249829	249946	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004585-T1_mrna"; gene_id "gene-KXX22_004585";
+JAIBQA010000026.1	Genbank	CDS	249998	250276	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004585-T1_mrna"; gene_id "gene-KXX22_004585";
+JAIBQA010000026.1	Genbank	CDS	250337	250616	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004585-T1_mrna"; gene_id "gene-KXX22_004585";
+JAIBQA010000262.1	Genbank	transcript	11341	12486	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004595-T1_mrna"; gene_id "gene-KXX22_004595"; gene_name "DRE2"
+JAIBQA010000262.1	Genbank	exon	11341	11418	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004595-T1_mrna"; gene_id "gene-KXX22_004595"; gene_name "DRE2";
+JAIBQA010000262.1	Genbank	exon	11490	11719	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004595-T1_mrna"; gene_id "gene-KXX22_004595"; gene_name "DRE2";
+JAIBQA010000262.1	Genbank	exon	11832	12486	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004595-T1_mrna"; gene_id "gene-KXX22_004595"; gene_name "DRE2";
+JAIBQA010000262.1	Genbank	CDS	11341	11418	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004595-T1_mrna"; gene_id "gene-KXX22_004595"; gene_name "DRE2";
+JAIBQA010000262.1	Genbank	CDS	11490	11719	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004595-T1_mrna"; gene_id "gene-KXX22_004595"; gene_name "DRE2";
+JAIBQA010000262.1	Genbank	CDS	11832	12486	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004595-T1_mrna"; gene_id "gene-KXX22_004595"; gene_name "DRE2";
+JAIBQA010000265.1	Genbank	transcript	8853	10427	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004612-T1_mrna"; gene_id "gene-KXX22_004612"
+JAIBQA010000265.1	Genbank	exon	8853	9161	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004612-T1_mrna"; gene_id "gene-KXX22_004612";
+JAIBQA010000265.1	Genbank	exon	9306	10427	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004612-T1_mrna"; gene_id "gene-KXX22_004612";
+JAIBQA010000265.1	Genbank	CDS	8853	9161	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004612-T1_mrna"; gene_id "gene-KXX22_004612";
+JAIBQA010000265.1	Genbank	CDS	9306	10427	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004612-T1_mrna"; gene_id "gene-KXX22_004612";
+JAIBQA010000027.1	Genbank	transcript	119191	121181	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004674-T1_mrna"; gene_id "gene-KXX22_004674"
+JAIBQA010000027.1	Genbank	exon	119191	120072	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004674-T1_mrna"; gene_id "gene-KXX22_004674";
+JAIBQA010000027.1	Genbank	exon	120127	120627	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004674-T1_mrna"; gene_id "gene-KXX22_004674";
+JAIBQA010000027.1	Genbank	exon	120687	120701	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004674-T1_mrna"; gene_id "gene-KXX22_004674";
+JAIBQA010000027.1	Genbank	exon	120770	120914	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004674-T1_mrna"; gene_id "gene-KXX22_004674";
+JAIBQA010000027.1	Genbank	exon	121010	121023	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004674-T1_mrna"; gene_id "gene-KXX22_004674";
+JAIBQA010000027.1	Genbank	exon	121089	121181	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004674-T1_mrna"; gene_id "gene-KXX22_004674";
+JAIBQA010000027.1	Genbank	CDS	119191	120072	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004674-T1_mrna"; gene_id "gene-KXX22_004674";
+JAIBQA010000027.1	Genbank	CDS	120127	120627	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004674-T1_mrna"; gene_id "gene-KXX22_004674";
+JAIBQA010000027.1	Genbank	CDS	120687	120701	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004674-T1_mrna"; gene_id "gene-KXX22_004674";
+JAIBQA010000027.1	Genbank	CDS	120770	120914	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004674-T1_mrna"; gene_id "gene-KXX22_004674";
+JAIBQA010000027.1	Genbank	CDS	121010	121023	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004674-T1_mrna"; gene_id "gene-KXX22_004674";
+JAIBQA010000027.1	Genbank	CDS	121089	121181	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004674-T1_mrna"; gene_id "gene-KXX22_004674";
+JAIBQA010000028.1	Genbank	transcript	51081	54379	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004765-T1_mrna"; gene_id "gene-KXX22_004765"
+JAIBQA010000028.1	Genbank	exon	51081	51461	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004765-T1_mrna"; gene_id "gene-KXX22_004765";
+JAIBQA010000028.1	Genbank	exon	51516	51914	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004765-T1_mrna"; gene_id "gene-KXX22_004765";
+JAIBQA010000028.1	Genbank	exon	51963	52466	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004765-T1_mrna"; gene_id "gene-KXX22_004765";
+JAIBQA010000028.1	Genbank	exon	52520	52855	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004765-T1_mrna"; gene_id "gene-KXX22_004765";
+JAIBQA010000028.1	Genbank	exon	52911	53144	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004765-T1_mrna"; gene_id "gene-KXX22_004765";
+JAIBQA010000028.1	Genbank	exon	53195	53806	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004765-T1_mrna"; gene_id "gene-KXX22_004765";
+JAIBQA010000028.1	Genbank	exon	53866	54162	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004765-T1_mrna"; gene_id "gene-KXX22_004765";
+JAIBQA010000028.1	Genbank	exon	54235	54303	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004765-T1_mrna"; gene_id "gene-KXX22_004765";
+JAIBQA010000028.1	Genbank	exon	54365	54379	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004765-T1_mrna"; gene_id "gene-KXX22_004765";
+JAIBQA010000028.1	Genbank	CDS	51081	51461	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004765-T1_mrna"; gene_id "gene-KXX22_004765";
+JAIBQA010000028.1	Genbank	CDS	51516	51914	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004765-T1_mrna"; gene_id "gene-KXX22_004765";
+JAIBQA010000028.1	Genbank	CDS	51963	52466	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004765-T1_mrna"; gene_id "gene-KXX22_004765";
+JAIBQA010000028.1	Genbank	CDS	52520	52855	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004765-T1_mrna"; gene_id "gene-KXX22_004765";
+JAIBQA010000028.1	Genbank	CDS	52911	53144	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004765-T1_mrna"; gene_id "gene-KXX22_004765";
+JAIBQA010000028.1	Genbank	CDS	53195	53806	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004765-T1_mrna"; gene_id "gene-KXX22_004765";
+JAIBQA010000028.1	Genbank	CDS	53866	54162	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004765-T1_mrna"; gene_id "gene-KXX22_004765";
+JAIBQA010000028.1	Genbank	CDS	54235	54303	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004765-T1_mrna"; gene_id "gene-KXX22_004765";
+JAIBQA010000028.1	Genbank	CDS	54365	54379	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004765-T1_mrna"; gene_id "gene-KXX22_004765";
+JAIBQA010000029.1	Genbank	transcript	20189	21781	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004851-T1_mrna"; gene_id "gene-KXX22_004851"
+JAIBQA010000029.1	Genbank	exon	20189	20822	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004851-T1_mrna"; gene_id "gene-KXX22_004851";
+JAIBQA010000029.1	Genbank	exon	20910	21781	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004851-T1_mrna"; gene_id "gene-KXX22_004851";
+JAIBQA010000029.1	Genbank	CDS	20189	20822	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004851-T1_mrna"; gene_id "gene-KXX22_004851";
+JAIBQA010000029.1	Genbank	CDS	20910	21781	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004851-T1_mrna"; gene_id "gene-KXX22_004851";
+JAIBQA010000029.1	Genbank	transcript	133059	134567	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004897-T1_mrna"; gene_id "gene-KXX22_004897"
+JAIBQA010000029.1	Genbank	exon	133059	134218	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004897-T1_mrna"; gene_id "gene-KXX22_004897";
+JAIBQA010000029.1	Genbank	exon	134321	134567	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004897-T1_mrna"; gene_id "gene-KXX22_004897";
+JAIBQA010000029.1	Genbank	CDS	133059	134218	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004897-T1_mrna"; gene_id "gene-KXX22_004897";
+JAIBQA010000029.1	Genbank	CDS	134321	134567	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_004897-T1_mrna"; gene_id "gene-KXX22_004897";
+JAIBQA010000003.1	Genbank	transcript	321840	323360	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005046-T1_mrna"; gene_id "gene-KXX22_005046"
+JAIBQA010000003.1	Genbank	exon	321840	322905	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005046-T1_mrna"; gene_id "gene-KXX22_005046";
+JAIBQA010000003.1	Genbank	exon	322969	323360	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005046-T1_mrna"; gene_id "gene-KXX22_005046";
+JAIBQA010000003.1	Genbank	CDS	321840	322905	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005046-T1_mrna"; gene_id "gene-KXX22_005046";
+JAIBQA010000003.1	Genbank	CDS	322969	323360	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005046-T1_mrna"; gene_id "gene-KXX22_005046";
+JAIBQA010000003.1	Genbank	transcript	327305	330809	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005048-T1_mrna"; gene_id "gene-KXX22_005048"
+JAIBQA010000003.1	Genbank	exon	327305	328210	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005048-T1_mrna"; gene_id "gene-KXX22_005048";
+JAIBQA010000003.1	Genbank	exon	328276	328822	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005048-T1_mrna"; gene_id "gene-KXX22_005048";
+JAIBQA010000003.1	Genbank	exon	328872	329986	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005048-T1_mrna"; gene_id "gene-KXX22_005048";
+JAIBQA010000003.1	Genbank	exon	330039	330809	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005048-T1_mrna"; gene_id "gene-KXX22_005048";
+JAIBQA010000003.1	Genbank	CDS	327305	328210	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005048-T1_mrna"; gene_id "gene-KXX22_005048";
+JAIBQA010000003.1	Genbank	CDS	328276	328822	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005048-T1_mrna"; gene_id "gene-KXX22_005048";
+JAIBQA010000003.1	Genbank	CDS	328872	329986	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005048-T1_mrna"; gene_id "gene-KXX22_005048";
+JAIBQA010000003.1	Genbank	CDS	330039	330809	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005048-T1_mrna"; gene_id "gene-KXX22_005048";
+JAIBQA010000003.1	Genbank	transcript	341526	342887	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005053-T1_mrna"; gene_id "gene-KXX22_005053"; gene_name "PRP46"
+JAIBQA010000003.1	Genbank	exon	341526	342887	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005053-T1_mrna"; gene_id "gene-KXX22_005053"; gene_name "PRP46";
+JAIBQA010000003.1	Genbank	CDS	341526	342887	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005053-T1_mrna"; gene_id "gene-KXX22_005053"; gene_name "PRP46";
+JAIBQA010000032.1	Genbank	transcript	149639	150174	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005313-T1_mrna"; gene_id "gene-KXX22_005313"; gene_name "SPT4"
+JAIBQA010000032.1	Genbank	exon	149639	149722	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005313-T1_mrna"; gene_id "gene-KXX22_005313"; gene_name "SPT4";
+JAIBQA010000032.1	Genbank	exon	149789	149986	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005313-T1_mrna"; gene_id "gene-KXX22_005313"; gene_name "SPT4";
+JAIBQA010000032.1	Genbank	exon	150035	150087	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005313-T1_mrna"; gene_id "gene-KXX22_005313"; gene_name "SPT4";
+JAIBQA010000032.1	Genbank	exon	150141	150174	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005313-T1_mrna"; gene_id "gene-KXX22_005313"; gene_name "SPT4";
+JAIBQA010000032.1	Genbank	CDS	149639	149722	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005313-T1_mrna"; gene_id "gene-KXX22_005313"; gene_name "SPT4";
+JAIBQA010000032.1	Genbank	CDS	149789	149986	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005313-T1_mrna"; gene_id "gene-KXX22_005313"; gene_name "SPT4";
+JAIBQA010000032.1	Genbank	CDS	150035	150087	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005313-T1_mrna"; gene_id "gene-KXX22_005313"; gene_name "SPT4";
+JAIBQA010000032.1	Genbank	CDS	150141	150174	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005313-T1_mrna"; gene_id "gene-KXX22_005313"; gene_name "SPT4";
+JAIBQA010000034.1	Genbank	transcript	80942	82553	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005461-T1_mrna"; gene_id "gene-KXX22_005461"; gene_name "CYP6"
+JAIBQA010000034.1	Genbank	exon	80942	81343	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005461-T1_mrna"; gene_id "gene-KXX22_005461"; gene_name "CYP6";
+JAIBQA010000034.1	Genbank	exon	81399	81595	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005461-T1_mrna"; gene_id "gene-KXX22_005461"; gene_name "CYP6";
+JAIBQA010000034.1	Genbank	exon	81651	82351	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005461-T1_mrna"; gene_id "gene-KXX22_005461"; gene_name "CYP6";
+JAIBQA010000034.1	Genbank	exon	82474	82553	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005461-T1_mrna"; gene_id "gene-KXX22_005461"; gene_name "CYP6";
+JAIBQA010000034.1	Genbank	CDS	80942	81343	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005461-T1_mrna"; gene_id "gene-KXX22_005461"; gene_name "CYP6";
+JAIBQA010000034.1	Genbank	CDS	81399	81595	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005461-T1_mrna"; gene_id "gene-KXX22_005461"; gene_name "CYP6";
+JAIBQA010000034.1	Genbank	CDS	81651	82351	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005461-T1_mrna"; gene_id "gene-KXX22_005461"; gene_name "CYP6";
+JAIBQA010000034.1	Genbank	CDS	82474	82553	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005461-T1_mrna"; gene_id "gene-KXX22_005461"; gene_name "CYP6";
+JAIBQA010000034.1	Genbank	transcript	150444	152697	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005487-T1_mrna"; gene_id "gene-KXX22_005487"
+JAIBQA010000034.1	Genbank	exon	150444	150526	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005487-T1_mrna"; gene_id "gene-KXX22_005487";
+JAIBQA010000034.1	Genbank	exon	150581	150698	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005487-T1_mrna"; gene_id "gene-KXX22_005487";
+JAIBQA010000034.1	Genbank	exon	150759	151043	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005487-T1_mrna"; gene_id "gene-KXX22_005487";
+JAIBQA010000034.1	Genbank	exon	151096	151610	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005487-T1_mrna"; gene_id "gene-KXX22_005487";
+JAIBQA010000034.1	Genbank	exon	151665	151758	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005487-T1_mrna"; gene_id "gene-KXX22_005487";
+JAIBQA010000034.1	Genbank	exon	151804	152038	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005487-T1_mrna"; gene_id "gene-KXX22_005487";
+JAIBQA010000034.1	Genbank	exon	152096	152202	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005487-T1_mrna"; gene_id "gene-KXX22_005487";
+JAIBQA010000034.1	Genbank	exon	152262	152500	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005487-T1_mrna"; gene_id "gene-KXX22_005487";
+JAIBQA010000034.1	Genbank	exon	152565	152619	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005487-T1_mrna"; gene_id "gene-KXX22_005487";
+JAIBQA010000034.1	Genbank	exon	152671	152697	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005487-T1_mrna"; gene_id "gene-KXX22_005487";
+JAIBQA010000034.1	Genbank	CDS	150444	150526	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005487-T1_mrna"; gene_id "gene-KXX22_005487";
+JAIBQA010000034.1	Genbank	CDS	150581	150698	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005487-T1_mrna"; gene_id "gene-KXX22_005487";
+JAIBQA010000034.1	Genbank	CDS	150759	151043	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005487-T1_mrna"; gene_id "gene-KXX22_005487";
+JAIBQA010000034.1	Genbank	CDS	151096	151610	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005487-T1_mrna"; gene_id "gene-KXX22_005487";
+JAIBQA010000034.1	Genbank	CDS	151665	151758	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005487-T1_mrna"; gene_id "gene-KXX22_005487";
+JAIBQA010000034.1	Genbank	CDS	151804	152038	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005487-T1_mrna"; gene_id "gene-KXX22_005487";
+JAIBQA010000034.1	Genbank	CDS	152096	152202	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005487-T1_mrna"; gene_id "gene-KXX22_005487";
+JAIBQA010000034.1	Genbank	CDS	152262	152500	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005487-T1_mrna"; gene_id "gene-KXX22_005487";
+JAIBQA010000034.1	Genbank	CDS	152565	152619	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005487-T1_mrna"; gene_id "gene-KXX22_005487";
+JAIBQA010000034.1	Genbank	CDS	152671	152697	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005487-T1_mrna"; gene_id "gene-KXX22_005487";
+JAIBQA010000036.1	Genbank	transcript	45088	46860	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005609-T1_mrna"; gene_id "gene-KXX22_005609"
+JAIBQA010000036.1	Genbank	exon	45088	46860	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005609-T1_mrna"; gene_id "gene-KXX22_005609";
+JAIBQA010000036.1	Genbank	CDS	45088	46860	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005609-T1_mrna"; gene_id "gene-KXX22_005609";
+JAIBQA010000036.1	Genbank	transcript	84457	85430	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005622-T1_mrna"; gene_id "gene-KXX22_005622"; gene_name "DPH5"
+JAIBQA010000036.1	Genbank	exon	84457	85054	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005622-T1_mrna"; gene_id "gene-KXX22_005622"; gene_name "DPH5";
+JAIBQA010000036.1	Genbank	exon	85107	85231	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005622-T1_mrna"; gene_id "gene-KXX22_005622"; gene_name "DPH5";
+JAIBQA010000036.1	Genbank	exon	85296	85430	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005622-T1_mrna"; gene_id "gene-KXX22_005622"; gene_name "DPH5";
+JAIBQA010000036.1	Genbank	CDS	84457	85054	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005622-T1_mrna"; gene_id "gene-KXX22_005622"; gene_name "DPH5";
+JAIBQA010000036.1	Genbank	CDS	85107	85231	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005622-T1_mrna"; gene_id "gene-KXX22_005622"; gene_name "DPH5";
+JAIBQA010000036.1	Genbank	CDS	85296	85430	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005622-T1_mrna"; gene_id "gene-KXX22_005622"; gene_name "DPH5";
+JAIBQA010000036.1	Genbank	transcript	90995	91651	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005625-T1_mrna"; gene_id "gene-KXX22_005625"
+JAIBQA010000036.1	Genbank	exon	90995	91651	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005625-T1_mrna"; gene_id "gene-KXX22_005625";
+JAIBQA010000036.1	Genbank	CDS	90995	91651	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005625-T1_mrna"; gene_id "gene-KXX22_005625";
+JAIBQA010000038.1	Genbank	transcript	44093	45440	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005788-T1_mrna"; gene_id "gene-KXX22_005788"
+JAIBQA010000038.1	Genbank	exon	44093	44170	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005788-T1_mrna"; gene_id "gene-KXX22_005788";
+JAIBQA010000038.1	Genbank	exon	44230	44724	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005788-T1_mrna"; gene_id "gene-KXX22_005788";
+JAIBQA010000038.1	Genbank	exon	44781	45440	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005788-T1_mrna"; gene_id "gene-KXX22_005788";
+JAIBQA010000038.1	Genbank	CDS	44093	44170	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005788-T1_mrna"; gene_id "gene-KXX22_005788";
+JAIBQA010000038.1	Genbank	CDS	44230	44724	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005788-T1_mrna"; gene_id "gene-KXX22_005788";
+JAIBQA010000038.1	Genbank	CDS	44781	45440	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005788-T1_mrna"; gene_id "gene-KXX22_005788";
+JAIBQA010000039.1	Genbank	transcript	68097	71354	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005862-T1_mrna"; gene_id "gene-KXX22_005862"
+JAIBQA010000039.1	Genbank	exon	68097	68171	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005862-T1_mrna"; gene_id "gene-KXX22_005862";
+JAIBQA010000039.1	Genbank	exon	68494	68606	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005862-T1_mrna"; gene_id "gene-KXX22_005862";
+JAIBQA010000039.1	Genbank	exon	68679	69174	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005862-T1_mrna"; gene_id "gene-KXX22_005862";
+JAIBQA010000039.1	Genbank	exon	69224	69471	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005862-T1_mrna"; gene_id "gene-KXX22_005862";
+JAIBQA010000039.1	Genbank	exon	69521	71354	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005862-T1_mrna"; gene_id "gene-KXX22_005862";
+JAIBQA010000039.1	Genbank	CDS	68097	68171	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005862-T1_mrna"; gene_id "gene-KXX22_005862";
+JAIBQA010000039.1	Genbank	CDS	68494	68606	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005862-T1_mrna"; gene_id "gene-KXX22_005862";
+JAIBQA010000039.1	Genbank	CDS	68679	69174	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005862-T1_mrna"; gene_id "gene-KXX22_005862";
+JAIBQA010000039.1	Genbank	CDS	69224	69471	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005862-T1_mrna"; gene_id "gene-KXX22_005862";
+JAIBQA010000039.1	Genbank	CDS	69521	71354	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005862-T1_mrna"; gene_id "gene-KXX22_005862";
+JAIBQA010000004.1	Genbank	transcript	131370	132404	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005962-T1_mrna"; gene_id "gene-KXX22_005962"
+JAIBQA010000004.1	Genbank	exon	131370	132404	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005962-T1_mrna"; gene_id "gene-KXX22_005962";
+JAIBQA010000004.1	Genbank	CDS	131370	132404	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005962-T1_mrna"; gene_id "gene-KXX22_005962";
+JAIBQA010000004.1	Genbank	transcript	147534	148335	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005966-T1_mrna"; gene_id "gene-KXX22_005966"; gene_name "PSF1"
+JAIBQA010000004.1	Genbank	exon	147534	147627	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005966-T1_mrna"; gene_id "gene-KXX22_005966"; gene_name "PSF1";
+JAIBQA010000004.1	Genbank	exon	147722	148248	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005966-T1_mrna"; gene_id "gene-KXX22_005966"; gene_name "PSF1";
+JAIBQA010000004.1	Genbank	exon	148309	148335	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005966-T1_mrna"; gene_id "gene-KXX22_005966"; gene_name "PSF1";
+JAIBQA010000004.1	Genbank	CDS	147534	147627	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005966-T1_mrna"; gene_id "gene-KXX22_005966"; gene_name "PSF1";
+JAIBQA010000004.1	Genbank	CDS	147722	148248	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005966-T1_mrna"; gene_id "gene-KXX22_005966"; gene_name "PSF1";
+JAIBQA010000004.1	Genbank	CDS	148309	148335	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005966-T1_mrna"; gene_id "gene-KXX22_005966"; gene_name "PSF1";
+JAIBQA010000004.1	Genbank	transcript	227795	228573	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005995-T1_mrna"; gene_id "gene-KXX22_005995"
+JAIBQA010000004.1	Genbank	exon	227795	227861	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005995-T1_mrna"; gene_id "gene-KXX22_005995";
+JAIBQA010000004.1	Genbank	exon	227930	228573	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005995-T1_mrna"; gene_id "gene-KXX22_005995";
+JAIBQA010000004.1	Genbank	CDS	227795	227861	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005995-T1_mrna"; gene_id "gene-KXX22_005995";
+JAIBQA010000004.1	Genbank	CDS	227930	228573	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_005995-T1_mrna"; gene_id "gene-KXX22_005995";
+JAIBQA010000004.1	Genbank	transcript	273994	274766	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006015-T1_mrna"; gene_id "gene-KXX22_006015"; gene_name "SF3A2"
+JAIBQA010000004.1	Genbank	exon	273994	274698	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006015-T1_mrna"; gene_id "gene-KXX22_006015"; gene_name "SF3A2";
+JAIBQA010000004.1	Genbank	exon	274755	274766	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006015-T1_mrna"; gene_id "gene-KXX22_006015"; gene_name "SF3A2";
+JAIBQA010000004.1	Genbank	CDS	273994	274698	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006015-T1_mrna"; gene_id "gene-KXX22_006015"; gene_name "SF3A2";
+JAIBQA010000004.1	Genbank	CDS	274755	274766	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006015-T1_mrna"; gene_id "gene-KXX22_006015"; gene_name "SF3A2";
+JAIBQA010000004.1	Genbank	transcript	287954	289253	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006021-T1_mrna"; gene_id "gene-KXX22_006021"
+JAIBQA010000004.1	Genbank	exon	287954	287996	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006021-T1_mrna"; gene_id "gene-KXX22_006021";
+JAIBQA010000004.1	Genbank	exon	288073	289253	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006021-T1_mrna"; gene_id "gene-KXX22_006021";
+JAIBQA010000004.1	Genbank	CDS	287954	287996	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006021-T1_mrna"; gene_id "gene-KXX22_006021";
+JAIBQA010000004.1	Genbank	CDS	288073	289253	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006021-T1_mrna"; gene_id "gene-KXX22_006021";
+JAIBQA010000004.1	Genbank	transcript	321008	322987	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006033-T1_mrna"; gene_id "gene-KXX22_006033"
+JAIBQA010000004.1	Genbank	exon	321008	321149	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006033-T1_mrna"; gene_id "gene-KXX22_006033";
+JAIBQA010000004.1	Genbank	exon	321201	322987	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006033-T1_mrna"; gene_id "gene-KXX22_006033";
+JAIBQA010000004.1	Genbank	CDS	321008	321149	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006033-T1_mrna"; gene_id "gene-KXX22_006033";
+JAIBQA010000004.1	Genbank	CDS	321201	322987	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006033-T1_mrna"; gene_id "gene-KXX22_006033";
+JAIBQA010000047.1	Genbank	transcript	98228	100461	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006569-T1_mrna"; gene_id "gene-KXX22_006569"
+JAIBQA010000047.1	Genbank	exon	98228	98444	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006569-T1_mrna"; gene_id "gene-KXX22_006569";
+JAIBQA010000047.1	Genbank	exon	98513	100461	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006569-T1_mrna"; gene_id "gene-KXX22_006569";
+JAIBQA010000047.1	Genbank	CDS	98228	98444	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006569-T1_mrna"; gene_id "gene-KXX22_006569";
+JAIBQA010000047.1	Genbank	CDS	98513	100461	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006569-T1_mrna"; gene_id "gene-KXX22_006569";
+JAIBQA010000050.1	Genbank	transcript	19489	22447	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006870-T1_mrna"; gene_id "gene-KXX22_006870"; gene_name "MCM2"
+JAIBQA010000050.1	Genbank	exon	19489	19588	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006870-T1_mrna"; gene_id "gene-KXX22_006870"; gene_name "MCM2";
+JAIBQA010000050.1	Genbank	exon	19657	19826	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006870-T1_mrna"; gene_id "gene-KXX22_006870"; gene_name "MCM2";
+JAIBQA010000050.1	Genbank	exon	19882	22181	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006870-T1_mrna"; gene_id "gene-KXX22_006870"; gene_name "MCM2";
+JAIBQA010000050.1	Genbank	exon	22242	22357	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006870-T1_mrna"; gene_id "gene-KXX22_006870"; gene_name "MCM2";
+JAIBQA010000050.1	Genbank	exon	22443	22447	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006870-T1_mrna"; gene_id "gene-KXX22_006870"; gene_name "MCM2";
+JAIBQA010000050.1	Genbank	CDS	19489	19588	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006870-T1_mrna"; gene_id "gene-KXX22_006870"; gene_name "MCM2";
+JAIBQA010000050.1	Genbank	CDS	19657	19826	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006870-T1_mrna"; gene_id "gene-KXX22_006870"; gene_name "MCM2";
+JAIBQA010000050.1	Genbank	CDS	19882	22181	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006870-T1_mrna"; gene_id "gene-KXX22_006870"; gene_name "MCM2";
+JAIBQA010000050.1	Genbank	CDS	22242	22357	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006870-T1_mrna"; gene_id "gene-KXX22_006870"; gene_name "MCM2";
+JAIBQA010000050.1	Genbank	CDS	22443	22447	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006870-T1_mrna"; gene_id "gene-KXX22_006870"; gene_name "MCM2";
+JAIBQA010000051.1	Genbank	transcript	19709	21781	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006922-T1_mrna"; gene_id "gene-KXX22_006922"
+JAIBQA010000051.1	Genbank	exon	19709	21781	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006922-T1_mrna"; gene_id "gene-KXX22_006922";
+JAIBQA010000051.1	Genbank	CDS	19709	21781	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_006922-T1_mrna"; gene_id "gene-KXX22_006922";
+JAIBQA010000053.1	Genbank	transcript	113980	115260	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007087-T1_mrna"; gene_id "gene-KXX22_007087"
+JAIBQA010000053.1	Genbank	exon	113980	114278	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007087-T1_mrna"; gene_id "gene-KXX22_007087";
+JAIBQA010000053.1	Genbank	exon	114344	115019	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007087-T1_mrna"; gene_id "gene-KXX22_007087";
+JAIBQA010000053.1	Genbank	exon	115087	115260	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007087-T1_mrna"; gene_id "gene-KXX22_007087";
+JAIBQA010000053.1	Genbank	CDS	113980	114278	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007087-T1_mrna"; gene_id "gene-KXX22_007087";
+JAIBQA010000053.1	Genbank	CDS	114344	115019	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007087-T1_mrna"; gene_id "gene-KXX22_007087";
+JAIBQA010000053.1	Genbank	CDS	115087	115260	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007087-T1_mrna"; gene_id "gene-KXX22_007087";
+JAIBQA010000054.1	Genbank	transcript	2339	3284	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007106-T1_mrna"; gene_id "gene-KXX22_007106"; gene_name "COQ4"
+JAIBQA010000054.1	Genbank	exon	2339	2985	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007106-T1_mrna"; gene_id "gene-KXX22_007106"; gene_name "COQ4";
+JAIBQA010000054.1	Genbank	exon	3074	3284	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007106-T1_mrna"; gene_id "gene-KXX22_007106"; gene_name "COQ4";
+JAIBQA010000054.1	Genbank	CDS	2339	2985	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007106-T1_mrna"; gene_id "gene-KXX22_007106"; gene_name "COQ4";
+JAIBQA010000054.1	Genbank	CDS	3074	3284	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007106-T1_mrna"; gene_id "gene-KXX22_007106"; gene_name "COQ4";
+JAIBQA010000054.1	Genbank	transcript	11865	13067	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007112-T1_mrna"; gene_id "gene-KXX22_007112"
+JAIBQA010000054.1	Genbank	exon	11865	12111	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007112-T1_mrna"; gene_id "gene-KXX22_007112";
+JAIBQA010000054.1	Genbank	exon	12201	12713	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007112-T1_mrna"; gene_id "gene-KXX22_007112";
+JAIBQA010000054.1	Genbank	exon	12777	12882	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007112-T1_mrna"; gene_id "gene-KXX22_007112";
+JAIBQA010000054.1	Genbank	exon	12965	13067	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007112-T1_mrna"; gene_id "gene-KXX22_007112";
+JAIBQA010000054.1	Genbank	CDS	11865	12111	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007112-T1_mrna"; gene_id "gene-KXX22_007112";
+JAIBQA010000054.1	Genbank	CDS	12201	12713	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007112-T1_mrna"; gene_id "gene-KXX22_007112";
+JAIBQA010000054.1	Genbank	CDS	12777	12882	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007112-T1_mrna"; gene_id "gene-KXX22_007112";
+JAIBQA010000054.1	Genbank	CDS	12965	13067	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007112-T1_mrna"; gene_id "gene-KXX22_007112";
+JAIBQA010000054.1	Genbank	transcript	149569	150832	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007156-T1_mrna"; gene_id "gene-KXX22_007156"
+JAIBQA010000054.1	Genbank	exon	149569	150520	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007156-T1_mrna"; gene_id "gene-KXX22_007156";
+JAIBQA010000054.1	Genbank	exon	150612	150832	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007156-T1_mrna"; gene_id "gene-KXX22_007156";
+JAIBQA010000054.1	Genbank	CDS	149569	150520	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007156-T1_mrna"; gene_id "gene-KXX22_007156";
+JAIBQA010000054.1	Genbank	CDS	150612	150832	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007156-T1_mrna"; gene_id "gene-KXX22_007156";
+JAIBQA010000057.1	Genbank	transcript	17735	19078	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007281-T1_mrna"; gene_id "gene-KXX22_007281"
+JAIBQA010000057.1	Genbank	exon	17735	17778	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007281-T1_mrna"; gene_id "gene-KXX22_007281";
+JAIBQA010000057.1	Genbank	exon	17877	18133	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007281-T1_mrna"; gene_id "gene-KXX22_007281";
+JAIBQA010000057.1	Genbank	exon	18287	18439	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007281-T1_mrna"; gene_id "gene-KXX22_007281";
+JAIBQA010000057.1	Genbank	exon	18492	19078	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007281-T1_mrna"; gene_id "gene-KXX22_007281";
+JAIBQA010000057.1	Genbank	CDS	17735	17778	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007281-T1_mrna"; gene_id "gene-KXX22_007281";
+JAIBQA010000057.1	Genbank	CDS	17877	18133	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007281-T1_mrna"; gene_id "gene-KXX22_007281";
+JAIBQA010000057.1	Genbank	CDS	18287	18439	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007281-T1_mrna"; gene_id "gene-KXX22_007281";
+JAIBQA010000057.1	Genbank	CDS	18492	19078	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007281-T1_mrna"; gene_id "gene-KXX22_007281";
+JAIBQA010000057.1	Genbank	transcript	92347	93461	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007304-T1_mrna"; gene_id "gene-KXX22_007304"; gene_name "MED6"
+JAIBQA010000057.1	Genbank	exon	92347	92440	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007304-T1_mrna"; gene_id "gene-KXX22_007304"; gene_name "MED6";
+JAIBQA010000057.1	Genbank	exon	92517	92878	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007304-T1_mrna"; gene_id "gene-KXX22_007304"; gene_name "MED6";
+JAIBQA010000057.1	Genbank	exon	92943	93461	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007304-T1_mrna"; gene_id "gene-KXX22_007304"; gene_name "MED6";
+JAIBQA010000057.1	Genbank	CDS	92347	92440	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007304-T1_mrna"; gene_id "gene-KXX22_007304"; gene_name "MED6";
+JAIBQA010000057.1	Genbank	CDS	92517	92878	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007304-T1_mrna"; gene_id "gene-KXX22_007304"; gene_name "MED6";
+JAIBQA010000057.1	Genbank	CDS	92943	93461	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007304-T1_mrna"; gene_id "gene-KXX22_007304"; gene_name "MED6";
+JAIBQA010000006.1	Genbank	transcript	257446	259312	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007523-T1_mrna"; gene_id "gene-KXX22_007523"; gene_name "SWC4"
+JAIBQA010000006.1	Genbank	exon	257446	258979	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007523-T1_mrna"; gene_id "gene-KXX22_007523"; gene_name "SWC4";
+JAIBQA010000006.1	Genbank	exon	259043	259160	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007523-T1_mrna"; gene_id "gene-KXX22_007523"; gene_name "SWC4";
+JAIBQA010000006.1	Genbank	exon	259219	259312	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007523-T1_mrna"; gene_id "gene-KXX22_007523"; gene_name "SWC4";
+JAIBQA010000006.1	Genbank	CDS	257446	258979	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007523-T1_mrna"; gene_id "gene-KXX22_007523"; gene_name "SWC4";
+JAIBQA010000006.1	Genbank	CDS	259043	259160	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007523-T1_mrna"; gene_id "gene-KXX22_007523"; gene_name "SWC4";
+JAIBQA010000006.1	Genbank	CDS	259219	259312	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007523-T1_mrna"; gene_id "gene-KXX22_007523"; gene_name "SWC4";
+JAIBQA010000006.1	Genbank	transcript	286619	288590	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007532-T1_mrna"; gene_id "gene-KXX22_007532"
+JAIBQA010000006.1	Genbank	exon	286619	288130	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007532-T1_mrna"; gene_id "gene-KXX22_007532";
+JAIBQA010000006.1	Genbank	exon	288219	288590	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007532-T1_mrna"; gene_id "gene-KXX22_007532";
+JAIBQA010000006.1	Genbank	CDS	286619	288130	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007532-T1_mrna"; gene_id "gene-KXX22_007532";
+JAIBQA010000006.1	Genbank	CDS	288219	288590	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007532-T1_mrna"; gene_id "gene-KXX22_007532";
+JAIBQA010000006.1	Genbank	transcript	295720	298779	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007536-T1_mrna"; gene_id "gene-KXX22_007536"
+JAIBQA010000006.1	Genbank	exon	295720	295893	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007536-T1_mrna"; gene_id "gene-KXX22_007536";
+JAIBQA010000006.1	Genbank	exon	295956	295983	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007536-T1_mrna"; gene_id "gene-KXX22_007536";
+JAIBQA010000006.1	Genbank	exon	296057	298779	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007536-T1_mrna"; gene_id "gene-KXX22_007536";
+JAIBQA010000006.1	Genbank	CDS	295720	295893	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007536-T1_mrna"; gene_id "gene-KXX22_007536";
+JAIBQA010000006.1	Genbank	CDS	295956	295983	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007536-T1_mrna"; gene_id "gene-KXX22_007536";
+JAIBQA010000006.1	Genbank	CDS	296057	298779	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007536-T1_mrna"; gene_id "gene-KXX22_007536";
+JAIBQA010000006.1	Genbank	transcript	306947	308557	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007539-T1_mrna"; gene_id "gene-KXX22_007539"
+JAIBQA010000006.1	Genbank	exon	306947	307882	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007539-T1_mrna"; gene_id "gene-KXX22_007539";
+JAIBQA010000006.1	Genbank	exon	307940	308557	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007539-T1_mrna"; gene_id "gene-KXX22_007539";
+JAIBQA010000006.1	Genbank	CDS	306947	307882	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007539-T1_mrna"; gene_id "gene-KXX22_007539";
+JAIBQA010000006.1	Genbank	CDS	307940	308557	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007539-T1_mrna"; gene_id "gene-KXX22_007539";
+JAIBQA010000006.1	Genbank	transcript	413774	418220	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007581-T1_mrna"; gene_id "gene-KXX22_007581"
+JAIBQA010000006.1	Genbank	exon	413774	413817	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007581-T1_mrna"; gene_id "gene-KXX22_007581";
+JAIBQA010000006.1	Genbank	exon	413884	414067	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007581-T1_mrna"; gene_id "gene-KXX22_007581";
+JAIBQA010000006.1	Genbank	exon	414126	414257	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007581-T1_mrna"; gene_id "gene-KXX22_007581";
+JAIBQA010000006.1	Genbank	exon	414305	415247	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007581-T1_mrna"; gene_id "gene-KXX22_007581";
+JAIBQA010000006.1	Genbank	exon	415296	415559	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007581-T1_mrna"; gene_id "gene-KXX22_007581";
+JAIBQA010000006.1	Genbank	exon	415834	415857	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007581-T1_mrna"; gene_id "gene-KXX22_007581";
+JAIBQA010000006.1	Genbank	exon	415937	416679	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007581-T1_mrna"; gene_id "gene-KXX22_007581";
+JAIBQA010000006.1	Genbank	exon	417255	418220	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007581-T1_mrna"; gene_id "gene-KXX22_007581";
+JAIBQA010000006.1	Genbank	CDS	413774	413817	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007581-T1_mrna"; gene_id "gene-KXX22_007581";
+JAIBQA010000006.1	Genbank	CDS	413884	414067	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007581-T1_mrna"; gene_id "gene-KXX22_007581";
+JAIBQA010000006.1	Genbank	CDS	414126	414257	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007581-T1_mrna"; gene_id "gene-KXX22_007581";
+JAIBQA010000006.1	Genbank	CDS	414305	415247	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007581-T1_mrna"; gene_id "gene-KXX22_007581";
+JAIBQA010000006.1	Genbank	CDS	415296	415559	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007581-T1_mrna"; gene_id "gene-KXX22_007581";
+JAIBQA010000006.1	Genbank	CDS	415834	415857	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007581-T1_mrna"; gene_id "gene-KXX22_007581";
+JAIBQA010000006.1	Genbank	CDS	415937	416679	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007581-T1_mrna"; gene_id "gene-KXX22_007581";
+JAIBQA010000006.1	Genbank	CDS	417255	418220	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007581-T1_mrna"; gene_id "gene-KXX22_007581";
+JAIBQA010000064.1	Genbank	transcript	56530	57564	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007793-T1_mrna"; gene_id "gene-KXX22_007793"; gene_name "CWC26"
+JAIBQA010000064.1	Genbank	exon	56530	57564	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007793-T1_mrna"; gene_id "gene-KXX22_007793"; gene_name "CWC26";
+JAIBQA010000064.1	Genbank	CDS	56530	57564	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007793-T1_mrna"; gene_id "gene-KXX22_007793"; gene_name "CWC26";
+JAIBQA010000065.1	Genbank	transcript	17554	19223	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007827-T1_mrna"; gene_id "gene-KXX22_007827"
+JAIBQA010000065.1	Genbank	exon	17554	17797	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007827-T1_mrna"; gene_id "gene-KXX22_007827";
+JAIBQA010000065.1	Genbank	exon	17854	18932	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007827-T1_mrna"; gene_id "gene-KXX22_007827";
+JAIBQA010000065.1	Genbank	exon	18999	19223	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007827-T1_mrna"; gene_id "gene-KXX22_007827";
+JAIBQA010000065.1	Genbank	CDS	17554	17797	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007827-T1_mrna"; gene_id "gene-KXX22_007827";
+JAIBQA010000065.1	Genbank	CDS	17854	18932	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007827-T1_mrna"; gene_id "gene-KXX22_007827";
+JAIBQA010000065.1	Genbank	CDS	18999	19223	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007827-T1_mrna"; gene_id "gene-KXX22_007827";
+JAIBQA010000068.1	Genbank	transcript	428	1374	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007977-T1_mrna"; gene_id "gene-KXX22_007977"
+JAIBQA010000068.1	Genbank	exon	428	472	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007977-T1_mrna"; gene_id "gene-KXX22_007977";
+JAIBQA010000068.1	Genbank	exon	534	711	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007977-T1_mrna"; gene_id "gene-KXX22_007977";
+JAIBQA010000068.1	Genbank	exon	770	833	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007977-T1_mrna"; gene_id "gene-KXX22_007977";
+JAIBQA010000068.1	Genbank	exon	888	974	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007977-T1_mrna"; gene_id "gene-KXX22_007977";
+JAIBQA010000068.1	Genbank	exon	1030	1126	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007977-T1_mrna"; gene_id "gene-KXX22_007977";
+JAIBQA010000068.1	Genbank	exon	1190	1288	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007977-T1_mrna"; gene_id "gene-KXX22_007977";
+JAIBQA010000068.1	Genbank	exon	1363	1374	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007977-T1_mrna"; gene_id "gene-KXX22_007977";
+JAIBQA010000068.1	Genbank	CDS	428	472	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007977-T1_mrna"; gene_id "gene-KXX22_007977";
+JAIBQA010000068.1	Genbank	CDS	534	711	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007977-T1_mrna"; gene_id "gene-KXX22_007977";
+JAIBQA010000068.1	Genbank	CDS	770	833	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007977-T1_mrna"; gene_id "gene-KXX22_007977";
+JAIBQA010000068.1	Genbank	CDS	888	974	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007977-T1_mrna"; gene_id "gene-KXX22_007977";
+JAIBQA010000068.1	Genbank	CDS	1030	1126	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007977-T1_mrna"; gene_id "gene-KXX22_007977";
+JAIBQA010000068.1	Genbank	CDS	1190	1288	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007977-T1_mrna"; gene_id "gene-KXX22_007977";
+JAIBQA010000068.1	Genbank	CDS	1363	1374	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_007977-T1_mrna"; gene_id "gene-KXX22_007977";
+JAIBQA010000068.1	Genbank	transcript	71929	73568	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008006-T1_mrna"; gene_id "gene-KXX22_008006"
+JAIBQA010000068.1	Genbank	exon	71929	71953	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008006-T1_mrna"; gene_id "gene-KXX22_008006";
+JAIBQA010000068.1	Genbank	exon	72031	73568	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008006-T1_mrna"; gene_id "gene-KXX22_008006";
+JAIBQA010000068.1	Genbank	CDS	71929	71953	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008006-T1_mrna"; gene_id "gene-KXX22_008006";
+JAIBQA010000068.1	Genbank	CDS	72031	73568	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008006-T1_mrna"; gene_id "gene-KXX22_008006";
+JAIBQA010000068.1	Genbank	transcript	84643	85854	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008010-T1_mrna"; gene_id "gene-KXX22_008010"
+JAIBQA010000068.1	Genbank	exon	84643	85854	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008010-T1_mrna"; gene_id "gene-KXX22_008010";
+JAIBQA010000068.1	Genbank	CDS	84643	85854	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008010-T1_mrna"; gene_id "gene-KXX22_008010";
+JAIBQA010000068.1	Genbank	transcript	128676	129717	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008028-T1_mrna"; gene_id "gene-KXX22_008028"
+JAIBQA010000068.1	Genbank	exon	128676	128751	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008028-T1_mrna"; gene_id "gene-KXX22_008028";
+JAIBQA010000068.1	Genbank	exon	128837	129717	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008028-T1_mrna"; gene_id "gene-KXX22_008028";
+JAIBQA010000068.1	Genbank	CDS	128676	128751	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008028-T1_mrna"; gene_id "gene-KXX22_008028";
+JAIBQA010000068.1	Genbank	CDS	128837	129717	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008028-T1_mrna"; gene_id "gene-KXX22_008028";
+JAIBQA010000069.1	Genbank	transcript	81528	84007	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008056-T1_mrna"; gene_id "gene-KXX22_008056"; gene_name "SDA1"
+JAIBQA010000069.1	Genbank	exon	81528	81574	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008056-T1_mrna"; gene_id "gene-KXX22_008056"; gene_name "SDA1";
+JAIBQA010000069.1	Genbank	exon	81665	81700	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008056-T1_mrna"; gene_id "gene-KXX22_008056"; gene_name "SDA1";
+JAIBQA010000069.1	Genbank	exon	81776	82063	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008056-T1_mrna"; gene_id "gene-KXX22_008056"; gene_name "SDA1";
+JAIBQA010000069.1	Genbank	exon	82132	84007	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008056-T1_mrna"; gene_id "gene-KXX22_008056"; gene_name "SDA1";
+JAIBQA010000069.1	Genbank	CDS	81528	81574	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008056-T1_mrna"; gene_id "gene-KXX22_008056"; gene_name "SDA1";
+JAIBQA010000069.1	Genbank	CDS	81665	81700	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008056-T1_mrna"; gene_id "gene-KXX22_008056"; gene_name "SDA1";
+JAIBQA010000069.1	Genbank	CDS	81776	82063	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008056-T1_mrna"; gene_id "gene-KXX22_008056"; gene_name "SDA1";
+JAIBQA010000069.1	Genbank	CDS	82132	84007	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008056-T1_mrna"; gene_id "gene-KXX22_008056"; gene_name "SDA1";
+JAIBQA010000007.1	Genbank	transcript	90480	91262	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008104-T1_mrna"; gene_id "gene-KXX22_008104"
+JAIBQA010000007.1	Genbank	exon	90480	91262	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008104-T1_mrna"; gene_id "gene-KXX22_008104";
+JAIBQA010000007.1	Genbank	CDS	90480	91262	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008104-T1_mrna"; gene_id "gene-KXX22_008104";
+JAIBQA010000007.1	Genbank	transcript	242238	243746	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008160-T1_mrna"; gene_id "gene-KXX22_008160"; gene_name "TRM61"
+JAIBQA010000007.1	Genbank	exon	242238	243746	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008160-T1_mrna"; gene_id "gene-KXX22_008160"; gene_name "TRM61";
+JAIBQA010000007.1	Genbank	CDS	242238	243746	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008160-T1_mrna"; gene_id "gene-KXX22_008160"; gene_name "TRM61";
+JAIBQA010000070.1	Genbank	transcript	54978	56431	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008247-T1_mrna"; gene_id "gene-KXX22_008247"
+JAIBQA010000070.1	Genbank	exon	54978	55911	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008247-T1_mrna"; gene_id "gene-KXX22_008247";
+JAIBQA010000070.1	Genbank	exon	55964	56091	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008247-T1_mrna"; gene_id "gene-KXX22_008247";
+JAIBQA010000070.1	Genbank	exon	56164	56264	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008247-T1_mrna"; gene_id "gene-KXX22_008247";
+JAIBQA010000070.1	Genbank	exon	56329	56431	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008247-T1_mrna"; gene_id "gene-KXX22_008247";
+JAIBQA010000070.1	Genbank	CDS	54978	55911	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008247-T1_mrna"; gene_id "gene-KXX22_008247";
+JAIBQA010000070.1	Genbank	CDS	55964	56091	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008247-T1_mrna"; gene_id "gene-KXX22_008247";
+JAIBQA010000070.1	Genbank	CDS	56164	56264	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008247-T1_mrna"; gene_id "gene-KXX22_008247";
+JAIBQA010000070.1	Genbank	CDS	56329	56431	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008247-T1_mrna"; gene_id "gene-KXX22_008247";
+JAIBQA010000071.1	Genbank	transcript	74611	76778	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008303-T1_mrna"; gene_id "gene-KXX22_008303"; gene_name "NOP7"
+JAIBQA010000071.1	Genbank	exon	74611	74632	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008303-T1_mrna"; gene_id "gene-KXX22_008303"; gene_name "NOP7";
+JAIBQA010000071.1	Genbank	exon	74690	74788	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008303-T1_mrna"; gene_id "gene-KXX22_008303"; gene_name "NOP7";
+JAIBQA010000071.1	Genbank	exon	74872	76778	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008303-T1_mrna"; gene_id "gene-KXX22_008303"; gene_name "NOP7";
+JAIBQA010000071.1	Genbank	CDS	74611	74632	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008303-T1_mrna"; gene_id "gene-KXX22_008303"; gene_name "NOP7";
+JAIBQA010000071.1	Genbank	CDS	74690	74788	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008303-T1_mrna"; gene_id "gene-KXX22_008303"; gene_name "NOP7";
+JAIBQA010000071.1	Genbank	CDS	74872	76778	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008303-T1_mrna"; gene_id "gene-KXX22_008303"; gene_name "NOP7";
+JAIBQA010000073.1	Genbank	transcript	71716	73146	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008370-T1_mrna"; gene_id "gene-KXX22_008370"
+JAIBQA010000073.1	Genbank	exon	71716	73146	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008370-T1_mrna"; gene_id "gene-KXX22_008370";
+JAIBQA010000073.1	Genbank	CDS	71716	73146	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008370-T1_mrna"; gene_id "gene-KXX22_008370";
+JAIBQA010000074.1	Genbank	transcript	88972	89829	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008421-T1_mrna"; gene_id "gene-KXX22_008421"; gene_name "ISY1"
+JAIBQA010000074.1	Genbank	exon	88972	89730	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008421-T1_mrna"; gene_id "gene-KXX22_008421"; gene_name "ISY1";
+JAIBQA010000074.1	Genbank	exon	89827	89829	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008421-T1_mrna"; gene_id "gene-KXX22_008421"; gene_name "ISY1";
+JAIBQA010000074.1	Genbank	CDS	88972	89730	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008421-T1_mrna"; gene_id "gene-KXX22_008421"; gene_name "ISY1";
+JAIBQA010000074.1	Genbank	CDS	89827	89829	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008421-T1_mrna"; gene_id "gene-KXX22_008421"; gene_name "ISY1";
+JAIBQA010000078.1	Genbank	transcript	73966	75932	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008583-T1_mrna"; gene_id "gene-KXX22_008583"
+JAIBQA010000078.1	Genbank	exon	73966	74156	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008583-T1_mrna"; gene_id "gene-KXX22_008583";
+JAIBQA010000078.1	Genbank	exon	74231	75370	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008583-T1_mrna"; gene_id "gene-KXX22_008583";
+JAIBQA010000078.1	Genbank	exon	75428	75932	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008583-T1_mrna"; gene_id "gene-KXX22_008583";
+JAIBQA010000078.1	Genbank	CDS	73966	74156	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008583-T1_mrna"; gene_id "gene-KXX22_008583";
+JAIBQA010000078.1	Genbank	CDS	74231	75370	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008583-T1_mrna"; gene_id "gene-KXX22_008583";
+JAIBQA010000078.1	Genbank	CDS	75428	75932	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008583-T1_mrna"; gene_id "gene-KXX22_008583";
+JAIBQA010000008.1	Genbank	transcript	47319	48580	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008648-T1_mrna"; gene_id "gene-KXX22_008648"
+JAIBQA010000008.1	Genbank	exon	47319	47912	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008648-T1_mrna"; gene_id "gene-KXX22_008648";
+JAIBQA010000008.1	Genbank	exon	47963	48580	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008648-T1_mrna"; gene_id "gene-KXX22_008648";
+JAIBQA010000008.1	Genbank	CDS	47319	47912	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008648-T1_mrna"; gene_id "gene-KXX22_008648";
+JAIBQA010000008.1	Genbank	CDS	47963	48580	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008648-T1_mrna"; gene_id "gene-KXX22_008648";
+JAIBQA010000008.1	Genbank	transcript	216031	217439	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008713-T1_mrna"; gene_id "gene-KXX22_008713"; gene_name "DPH1"
+JAIBQA010000008.1	Genbank	exon	216031	216208	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008713-T1_mrna"; gene_id "gene-KXX22_008713"; gene_name "DPH1";
+JAIBQA010000008.1	Genbank	exon	216280	217439	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008713-T1_mrna"; gene_id "gene-KXX22_008713"; gene_name "DPH1";
+JAIBQA010000008.1	Genbank	CDS	216031	216208	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008713-T1_mrna"; gene_id "gene-KXX22_008713"; gene_name "DPH1";
+JAIBQA010000008.1	Genbank	CDS	216280	217439	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008713-T1_mrna"; gene_id "gene-KXX22_008713"; gene_name "DPH1";
+JAIBQA010000008.1	Genbank	transcript	258598	259540	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008728-T1_mrna"; gene_id "gene-KXX22_008728"
+JAIBQA010000008.1	Genbank	exon	258598	258800	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008728-T1_mrna"; gene_id "gene-KXX22_008728";
+JAIBQA010000008.1	Genbank	exon	258851	258920	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008728-T1_mrna"; gene_id "gene-KXX22_008728";
+JAIBQA010000008.1	Genbank	exon	258992	259433	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008728-T1_mrna"; gene_id "gene-KXX22_008728";
+JAIBQA010000008.1	Genbank	exon	259491	259540	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008728-T1_mrna"; gene_id "gene-KXX22_008728";
+JAIBQA010000008.1	Genbank	CDS	258598	258800	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008728-T1_mrna"; gene_id "gene-KXX22_008728";
+JAIBQA010000008.1	Genbank	CDS	258851	258920	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008728-T1_mrna"; gene_id "gene-KXX22_008728";
+JAIBQA010000008.1	Genbank	CDS	258992	259433	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008728-T1_mrna"; gene_id "gene-KXX22_008728";
+JAIBQA010000008.1	Genbank	CDS	259491	259540	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008728-T1_mrna"; gene_id "gene-KXX22_008728";
+JAIBQA010000008.1	Genbank	transcript	280497	295274	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008738-T1_mrna"; gene_id "gene-KXX22_008738"
+JAIBQA010000008.1	Genbank	exon	280497	286190	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008738-T1_mrna"; gene_id "gene-KXX22_008738";
+JAIBQA010000008.1	Genbank	exon	286251	295274	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008738-T1_mrna"; gene_id "gene-KXX22_008738";
+JAIBQA010000008.1	Genbank	CDS	280497	286190	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008738-T1_mrna"; gene_id "gene-KXX22_008738";
+JAIBQA010000008.1	Genbank	CDS	286251	295274	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008738-T1_mrna"; gene_id "gene-KXX22_008738";
+JAIBQA010000008.1	Genbank	transcript	318980	320707	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008748-T1_mrna"; gene_id "gene-KXX22_008748"; gene_name "HAT1"
+JAIBQA010000008.1	Genbank	exon	318980	318998	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008748-T1_mrna"; gene_id "gene-KXX22_008748"; gene_name "HAT1";
+JAIBQA010000008.1	Genbank	exon	319079	319354	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008748-T1_mrna"; gene_id "gene-KXX22_008748"; gene_name "HAT1";
+JAIBQA010000008.1	Genbank	exon	319413	319677	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008748-T1_mrna"; gene_id "gene-KXX22_008748"; gene_name "HAT1";
+JAIBQA010000008.1	Genbank	exon	319741	320707	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008748-T1_mrna"; gene_id "gene-KXX22_008748"; gene_name "HAT1";
+JAIBQA010000008.1	Genbank	CDS	318980	318998	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008748-T1_mrna"; gene_id "gene-KXX22_008748"; gene_name "HAT1";
+JAIBQA010000008.1	Genbank	CDS	319079	319354	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008748-T1_mrna"; gene_id "gene-KXX22_008748"; gene_name "HAT1";
+JAIBQA010000008.1	Genbank	CDS	319413	319677	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008748-T1_mrna"; gene_id "gene-KXX22_008748"; gene_name "HAT1";
+JAIBQA010000008.1	Genbank	CDS	319741	320707	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008748-T1_mrna"; gene_id "gene-KXX22_008748"; gene_name "HAT1";
+JAIBQA010000084.1	Genbank	transcript	8571	10847	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008946-T1_mrna"; gene_id "gene-KXX22_008946"; gene_name "DBP7"
+JAIBQA010000084.1	Genbank	exon	8571	10847	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008946-T1_mrna"; gene_id "gene-KXX22_008946"; gene_name "DBP7";
+JAIBQA010000084.1	Genbank	CDS	8571	10847	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008946-T1_mrna"; gene_id "gene-KXX22_008946"; gene_name "DBP7";
+JAIBQA010000085.1	Genbank	transcript	8217	11746	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008977-T1_mrna"; gene_id "gene-KXX22_008977"; gene_name "HIR1"
+JAIBQA010000085.1	Genbank	exon	8217	8253	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008977-T1_mrna"; gene_id "gene-KXX22_008977"; gene_name "HIR1";
+JAIBQA010000085.1	Genbank	exon	8359	8433	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008977-T1_mrna"; gene_id "gene-KXX22_008977"; gene_name "HIR1";
+JAIBQA010000085.1	Genbank	exon	8526	8747	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008977-T1_mrna"; gene_id "gene-KXX22_008977"; gene_name "HIR1";
+JAIBQA010000085.1	Genbank	exon	8816	11572	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008977-T1_mrna"; gene_id "gene-KXX22_008977"; gene_name "HIR1";
+JAIBQA010000085.1	Genbank	exon	11649	11746	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008977-T1_mrna"; gene_id "gene-KXX22_008977"; gene_name "HIR1";
+JAIBQA010000085.1	Genbank	CDS	8217	8253	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008977-T1_mrna"; gene_id "gene-KXX22_008977"; gene_name "HIR1";
+JAIBQA010000085.1	Genbank	CDS	8359	8433	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008977-T1_mrna"; gene_id "gene-KXX22_008977"; gene_name "HIR1";
+JAIBQA010000085.1	Genbank	CDS	8526	8747	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008977-T1_mrna"; gene_id "gene-KXX22_008977"; gene_name "HIR1";
+JAIBQA010000085.1	Genbank	CDS	8816	11572	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008977-T1_mrna"; gene_id "gene-KXX22_008977"; gene_name "HIR1";
+JAIBQA010000085.1	Genbank	CDS	11649	11746	.	+	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008977-T1_mrna"; gene_id "gene-KXX22_008977"; gene_name "HIR1";
+JAIBQA010000085.1	Genbank	transcript	14548	15372	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008979-T1_mrna"; gene_id "gene-KXX22_008979"
+JAIBQA010000085.1	Genbank	exon	14548	14561	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008979-T1_mrna"; gene_id "gene-KXX22_008979";
+JAIBQA010000085.1	Genbank	exon	14757	14897	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008979-T1_mrna"; gene_id "gene-KXX22_008979";
+JAIBQA010000085.1	Genbank	exon	14982	15372	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008979-T1_mrna"; gene_id "gene-KXX22_008979";
+JAIBQA010000085.1	Genbank	CDS	14548	14561	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008979-T1_mrna"; gene_id "gene-KXX22_008979";
+JAIBQA010000085.1	Genbank	CDS	14757	14897	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008979-T1_mrna"; gene_id "gene-KXX22_008979";
+JAIBQA010000085.1	Genbank	CDS	14982	15372	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008979-T1_mrna"; gene_id "gene-KXX22_008979";
+JAIBQA010000085.1	Genbank	transcript	47302	48618	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008993-T1_mrna"; gene_id "gene-KXX22_008993"
+JAIBQA010000085.1	Genbank	exon	47302	47309	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008993-T1_mrna"; gene_id "gene-KXX22_008993";
+JAIBQA010000085.1	Genbank	exon	47368	47407	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008993-T1_mrna"; gene_id "gene-KXX22_008993";
+JAIBQA010000085.1	Genbank	exon	47494	47963	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008993-T1_mrna"; gene_id "gene-KXX22_008993";
+JAIBQA010000085.1	Genbank	exon	48039	48618	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008993-T1_mrna"; gene_id "gene-KXX22_008993";
+JAIBQA010000085.1	Genbank	CDS	47302	47309	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008993-T1_mrna"; gene_id "gene-KXX22_008993";
+JAIBQA010000085.1	Genbank	CDS	47368	47407	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008993-T1_mrna"; gene_id "gene-KXX22_008993";
+JAIBQA010000085.1	Genbank	CDS	47494	47963	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008993-T1_mrna"; gene_id "gene-KXX22_008993";
+JAIBQA010000085.1	Genbank	CDS	48039	48618	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_008993-T1_mrna"; gene_id "gene-KXX22_008993";
+JAIBQA010000086.1	Genbank	transcript	26070	28612	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009022-T1_mrna"; gene_id "gene-KXX22_009022"
+JAIBQA010000086.1	Genbank	exon	26070	26278	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009022-T1_mrna"; gene_id "gene-KXX22_009022";
+JAIBQA010000086.1	Genbank	exon	26351	26690	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009022-T1_mrna"; gene_id "gene-KXX22_009022";
+JAIBQA010000086.1	Genbank	exon	26743	27768	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009022-T1_mrna"; gene_id "gene-KXX22_009022";
+JAIBQA010000086.1	Genbank	exon	27830	28612	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009022-T1_mrna"; gene_id "gene-KXX22_009022";
+JAIBQA010000086.1	Genbank	CDS	26070	26278	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009022-T1_mrna"; gene_id "gene-KXX22_009022";
+JAIBQA010000086.1	Genbank	CDS	26351	26690	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009022-T1_mrna"; gene_id "gene-KXX22_009022";
+JAIBQA010000086.1	Genbank	CDS	26743	27768	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009022-T1_mrna"; gene_id "gene-KXX22_009022";
+JAIBQA010000086.1	Genbank	CDS	27830	28612	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009022-T1_mrna"; gene_id "gene-KXX22_009022";
+JAIBQA010000087.1	Genbank	transcript	39277	42085	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009059-T1_mrna"; gene_id "gene-KXX22_009059"
+JAIBQA010000087.1	Genbank	exon	39277	39564	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009059-T1_mrna"; gene_id "gene-KXX22_009059";
+JAIBQA010000087.1	Genbank	exon	39632	42085	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009059-T1_mrna"; gene_id "gene-KXX22_009059";
+JAIBQA010000087.1	Genbank	CDS	39277	39564	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009059-T1_mrna"; gene_id "gene-KXX22_009059";
+JAIBQA010000087.1	Genbank	CDS	39632	42085	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009059-T1_mrna"; gene_id "gene-KXX22_009059";
+JAIBQA010000009.1	Genbank	transcript	9626	12379	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009143-T1_mrna"; gene_id "gene-KXX22_009143"
+JAIBQA010000009.1	Genbank	exon	9626	11806	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009143-T1_mrna"; gene_id "gene-KXX22_009143";
+JAIBQA010000009.1	Genbank	exon	11870	12379	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009143-T1_mrna"; gene_id "gene-KXX22_009143";
+JAIBQA010000009.1	Genbank	CDS	9626	11806	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009143-T1_mrna"; gene_id "gene-KXX22_009143";
+JAIBQA010000009.1	Genbank	CDS	11870	12379	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009143-T1_mrna"; gene_id "gene-KXX22_009143";
+JAIBQA010000009.1	Genbank	transcript	24172	25028	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009148-T1_mrna"; gene_id "gene-KXX22_009148"; gene_name "TMA22"
+JAIBQA010000009.1	Genbank	exon	24172	24584	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009148-T1_mrna"; gene_id "gene-KXX22_009148"; gene_name "TMA22";
+JAIBQA010000009.1	Genbank	exon	24650	24737	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009148-T1_mrna"; gene_id "gene-KXX22_009148"; gene_name "TMA22";
+JAIBQA010000009.1	Genbank	exon	24860	24879	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009148-T1_mrna"; gene_id "gene-KXX22_009148"; gene_name "TMA22";
+JAIBQA010000009.1	Genbank	exon	24965	25028	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009148-T1_mrna"; gene_id "gene-KXX22_009148"; gene_name "TMA22";
+JAIBQA010000009.1	Genbank	CDS	24172	24584	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009148-T1_mrna"; gene_id "gene-KXX22_009148"; gene_name "TMA22";
+JAIBQA010000009.1	Genbank	CDS	24650	24737	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009148-T1_mrna"; gene_id "gene-KXX22_009148"; gene_name "TMA22";
+JAIBQA010000009.1	Genbank	CDS	24860	24879	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009148-T1_mrna"; gene_id "gene-KXX22_009148"; gene_name "TMA22";
+JAIBQA010000009.1	Genbank	CDS	24965	25028	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009148-T1_mrna"; gene_id "gene-KXX22_009148"; gene_name "TMA22";
+JAIBQA010000009.1	Genbank	transcript	252666	253974	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009223-T1_mrna"; gene_id "gene-KXX22_009223"
+JAIBQA010000009.1	Genbank	exon	252666	253895	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009223-T1_mrna"; gene_id "gene-KXX22_009223";
+JAIBQA010000009.1	Genbank	exon	253945	253974	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009223-T1_mrna"; gene_id "gene-KXX22_009223";
+JAIBQA010000009.1	Genbank	CDS	252666	253895	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009223-T1_mrna"; gene_id "gene-KXX22_009223";
+JAIBQA010000009.1	Genbank	CDS	253945	253974	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009223-T1_mrna"; gene_id "gene-KXX22_009223";
+JAIBQA010000094.1	Genbank	transcript	15764	18029	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009417-T1_mrna"; gene_id "gene-KXX22_009417"
+JAIBQA010000094.1	Genbank	exon	15764	17889	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009417-T1_mrna"; gene_id "gene-KXX22_009417";
+JAIBQA010000094.1	Genbank	exon	17966	18029	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009417-T1_mrna"; gene_id "gene-KXX22_009417";
+JAIBQA010000094.1	Genbank	CDS	15764	17889	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009417-T1_mrna"; gene_id "gene-KXX22_009417";
+JAIBQA010000094.1	Genbank	CDS	17966	18029	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009417-T1_mrna"; gene_id "gene-KXX22_009417";
+JAIBQA010000094.1	Genbank	transcript	32255	33343	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009422-T1_mrna"; gene_id "gene-KXX22_009422"; gene_name "LIA1"
+JAIBQA010000094.1	Genbank	exon	32255	32771	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009422-T1_mrna"; gene_id "gene-KXX22_009422"; gene_name "LIA1";
+JAIBQA010000094.1	Genbank	exon	32853	33343	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009422-T1_mrna"; gene_id "gene-KXX22_009422"; gene_name "LIA1";
+JAIBQA010000094.1	Genbank	CDS	32255	32771	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009422-T1_mrna"; gene_id "gene-KXX22_009422"; gene_name "LIA1";
+JAIBQA010000094.1	Genbank	CDS	32853	33343	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009422-T1_mrna"; gene_id "gene-KXX22_009422"; gene_name "LIA1";
+JAIBQA010000096.1	Genbank	transcript	15541	20843	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009481-T1_mrna"; gene_id "gene-KXX22_009481"
+JAIBQA010000096.1	Genbank	exon	15541	15921	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009481-T1_mrna"; gene_id "gene-KXX22_009481";
+JAIBQA010000096.1	Genbank	exon	15980	16076	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009481-T1_mrna"; gene_id "gene-KXX22_009481";
+JAIBQA010000096.1	Genbank	exon	16135	16208	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009481-T1_mrna"; gene_id "gene-KXX22_009481";
+JAIBQA010000096.1	Genbank	exon	16682	16842	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009481-T1_mrna"; gene_id "gene-KXX22_009481";
+JAIBQA010000096.1	Genbank	exon	16896	16901	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009481-T1_mrna"; gene_id "gene-KXX22_009481";
+JAIBQA010000096.1	Genbank	exon	16970	17087	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009481-T1_mrna"; gene_id "gene-KXX22_009481";
+JAIBQA010000096.1	Genbank	exon	18854	18884	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009481-T1_mrna"; gene_id "gene-KXX22_009481";
+JAIBQA010000096.1	Genbank	exon	18946	20464	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009481-T1_mrna"; gene_id "gene-KXX22_009481";
+JAIBQA010000096.1	Genbank	exon	20543	20843	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009481-T1_mrna"; gene_id "gene-KXX22_009481";
+JAIBQA010000096.1	Genbank	CDS	15541	15921	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009481-T1_mrna"; gene_id "gene-KXX22_009481";
+JAIBQA010000096.1	Genbank	CDS	15980	16076	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009481-T1_mrna"; gene_id "gene-KXX22_009481";
+JAIBQA010000096.1	Genbank	CDS	16135	16208	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009481-T1_mrna"; gene_id "gene-KXX22_009481";
+JAIBQA010000096.1	Genbank	CDS	16682	16842	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009481-T1_mrna"; gene_id "gene-KXX22_009481";
+JAIBQA010000096.1	Genbank	CDS	16896	16901	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009481-T1_mrna"; gene_id "gene-KXX22_009481";
+JAIBQA010000096.1	Genbank	CDS	16970	17087	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009481-T1_mrna"; gene_id "gene-KXX22_009481";
+JAIBQA010000096.1	Genbank	CDS	18854	18884	.	-	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009481-T1_mrna"; gene_id "gene-KXX22_009481";
+JAIBQA010000096.1	Genbank	CDS	18946	20464	.	-	2	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009481-T1_mrna"; gene_id "gene-KXX22_009481";
+JAIBQA010000096.1	Genbank	CDS	20543	20843	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009481-T1_mrna"; gene_id "gene-KXX22_009481";
+JAIBQA010000097.1	Genbank	transcript	45162	47300	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009517-T1_mrna"; gene_id "gene-KXX22_009517"
+JAIBQA010000097.1	Genbank	exon	45162	47300	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009517-T1_mrna"; gene_id "gene-KXX22_009517";
+JAIBQA010000097.1	Genbank	CDS	45162	47300	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009517-T1_mrna"; gene_id "gene-KXX22_009517";
+JAIBQA010000097.1	Genbank	transcript	54430	56126	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009521-T1_mrna"; gene_id "gene-KXX22_009521"
+JAIBQA010000097.1	Genbank	exon	54430	54695	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009521-T1_mrna"; gene_id "gene-KXX22_009521";
+JAIBQA010000097.1	Genbank	exon	54764	56126	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009521-T1_mrna"; gene_id "gene-KXX22_009521";
+JAIBQA010000097.1	Genbank	CDS	54430	54695	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009521-T1_mrna"; gene_id "gene-KXX22_009521";
+JAIBQA010000097.1	Genbank	CDS	54764	56126	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009521-T1_mrna"; gene_id "gene-KXX22_009521";
+JAIBQA010000097.1	Genbank	transcript	67434	70452	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009528-T1_mrna"; gene_id "gene-KXX22_009528"
+JAIBQA010000097.1	Genbank	exon	67434	67450	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009528-T1_mrna"; gene_id "gene-KXX22_009528";
+JAIBQA010000097.1	Genbank	exon	67519	67773	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009528-T1_mrna"; gene_id "gene-KXX22_009528";
+JAIBQA010000097.1	Genbank	exon	67848	70452	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009528-T1_mrna"; gene_id "gene-KXX22_009528";
+JAIBQA010000097.1	Genbank	CDS	67434	67450	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009528-T1_mrna"; gene_id "gene-KXX22_009528";
+JAIBQA010000097.1	Genbank	CDS	67519	67773	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009528-T1_mrna"; gene_id "gene-KXX22_009528";
+JAIBQA010000097.1	Genbank	CDS	67848	70452	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009528-T1_mrna"; gene_id "gene-KXX22_009528";
+JAIBQA010000098.1	Genbank	transcript	4048	4889	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009539-T1_mrna"; gene_id "gene-KXX22_009539"
+JAIBQA010000098.1	Genbank	exon	4048	4517	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009539-T1_mrna"; gene_id "gene-KXX22_009539";
+JAIBQA010000098.1	Genbank	exon	4577	4889	.	+	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009539-T1_mrna"; gene_id "gene-KXX22_009539";
+JAIBQA010000098.1	Genbank	CDS	4048	4517	.	+	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009539-T1_mrna"; gene_id "gene-KXX22_009539";
+JAIBQA010000098.1	Genbank	CDS	4577	4889	.	+	1	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009539-T1_mrna"; gene_id "gene-KXX22_009539";
+JAIBQA010000099.1	Genbank	transcript	79741	82029	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009597-T1_mrna"; gene_id "gene-KXX22_009597"
+JAIBQA010000099.1	Genbank	exon	79741	82029	.	-	.	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009597-T1_mrna"; gene_id "gene-KXX22_009597";
+JAIBQA010000099.1	Genbank	CDS	79741	82029	.	-	0	transcript_id "rna-gnl|WGS:JAIBQA|KXX22_009597-T1_mrna"; gene_id "gene-KXX22_009597";
