@@ -1,0 +1,967 @@
+JAIBZD010000001.1	Genbank	transcript	9501	10144	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000005-T1_mrna"; gene_id "gene-KXW27_000005"
+JAIBZD010000001.1	Genbank	exon	9501	9904	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000005-T1_mrna"; gene_id "gene-KXW27_000005";
+JAIBZD010000001.1	Genbank	exon	9976	10144	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000005-T1_mrna"; gene_id "gene-KXW27_000005";
+JAIBZD010000001.1	Genbank	CDS	9501	9904	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000005-T1_mrna"; gene_id "gene-KXW27_000005";
+JAIBZD010000001.1	Genbank	CDS	9976	10144	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000005-T1_mrna"; gene_id "gene-KXW27_000005";
+JAIBZD010000001.1	Genbank	transcript	242620	243336	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000067-T1_mrna"; gene_id "gene-KXW27_000067"
+JAIBZD010000001.1	Genbank	exon	242620	242687	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000067-T1_mrna"; gene_id "gene-KXW27_000067";
+JAIBZD010000001.1	Genbank	exon	242725	243085	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000067-T1_mrna"; gene_id "gene-KXW27_000067";
+JAIBZD010000001.1	Genbank	exon	243163	243336	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000067-T1_mrna"; gene_id "gene-KXW27_000067";
+JAIBZD010000001.1	Genbank	CDS	242620	242687	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000067-T1_mrna"; gene_id "gene-KXW27_000067";
+JAIBZD010000001.1	Genbank	CDS	242725	243085	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000067-T1_mrna"; gene_id "gene-KXW27_000067";
+JAIBZD010000001.1	Genbank	CDS	243163	243336	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000067-T1_mrna"; gene_id "gene-KXW27_000067";
+JAIBZD010000001.1	Genbank	transcript	378399	379390	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000114-T1_mrna"; gene_id "gene-KXW27_000114"
+JAIBZD010000001.1	Genbank	exon	378399	378993	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000114-T1_mrna"; gene_id "gene-KXW27_000114";
+JAIBZD010000001.1	Genbank	exon	379050	379169	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000114-T1_mrna"; gene_id "gene-KXW27_000114";
+JAIBZD010000001.1	Genbank	exon	379227	379390	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000114-T1_mrna"; gene_id "gene-KXW27_000114";
+JAIBZD010000001.1	Genbank	CDS	378399	378993	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000114-T1_mrna"; gene_id "gene-KXW27_000114";
+JAIBZD010000001.1	Genbank	CDS	379050	379169	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000114-T1_mrna"; gene_id "gene-KXW27_000114";
+JAIBZD010000001.1	Genbank	CDS	379227	379390	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000114-T1_mrna"; gene_id "gene-KXW27_000114";
+JAIBZD010000001.1	Genbank	transcript	379648	380708	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000115-T1_mrna"; gene_id "gene-KXW27_000115"; gene_name "CWC15"
+JAIBZD010000001.1	Genbank	exon	379648	379657	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000115-T1_mrna"; gene_id "gene-KXW27_000115"; gene_name "CWC15";
+JAIBZD010000001.1	Genbank	exon	379719	379734	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000115-T1_mrna"; gene_id "gene-KXW27_000115"; gene_name "CWC15";
+JAIBZD010000001.1	Genbank	exon	379789	379865	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000115-T1_mrna"; gene_id "gene-KXW27_000115"; gene_name "CWC15";
+JAIBZD010000001.1	Genbank	exon	379924	380200	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000115-T1_mrna"; gene_id "gene-KXW27_000115"; gene_name "CWC15";
+JAIBZD010000001.1	Genbank	exon	380254	380335	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000115-T1_mrna"; gene_id "gene-KXW27_000115"; gene_name "CWC15";
+JAIBZD010000001.1	Genbank	exon	380386	380556	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000115-T1_mrna"; gene_id "gene-KXW27_000115"; gene_name "CWC15";
+JAIBZD010000001.1	Genbank	exon	380605	380640	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000115-T1_mrna"; gene_id "gene-KXW27_000115"; gene_name "CWC15";
+JAIBZD010000001.1	Genbank	exon	380691	380708	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000115-T1_mrna"; gene_id "gene-KXW27_000115"; gene_name "CWC15";
+JAIBZD010000001.1	Genbank	CDS	379648	379657	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000115-T1_mrna"; gene_id "gene-KXW27_000115"; gene_name "CWC15";
+JAIBZD010000001.1	Genbank	CDS	379719	379734	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000115-T1_mrna"; gene_id "gene-KXW27_000115"; gene_name "CWC15";
+JAIBZD010000001.1	Genbank	CDS	379789	379865	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000115-T1_mrna"; gene_id "gene-KXW27_000115"; gene_name "CWC15";
+JAIBZD010000001.1	Genbank	CDS	379924	380200	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000115-T1_mrna"; gene_id "gene-KXW27_000115"; gene_name "CWC15";
+JAIBZD010000001.1	Genbank	CDS	380254	380335	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000115-T1_mrna"; gene_id "gene-KXW27_000115"; gene_name "CWC15";
+JAIBZD010000001.1	Genbank	CDS	380386	380556	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000115-T1_mrna"; gene_id "gene-KXW27_000115"; gene_name "CWC15";
+JAIBZD010000001.1	Genbank	CDS	380605	380640	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000115-T1_mrna"; gene_id "gene-KXW27_000115"; gene_name "CWC15";
+JAIBZD010000001.1	Genbank	CDS	380691	380708	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000115-T1_mrna"; gene_id "gene-KXW27_000115"; gene_name "CWC15";
+JAIBZD010000001.1	Genbank	transcript	416624	419933	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000129-T1_mrna"; gene_id "gene-KXW27_000129"
+JAIBZD010000001.1	Genbank	exon	416624	417211	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000129-T1_mrna"; gene_id "gene-KXW27_000129";
+JAIBZD010000001.1	Genbank	exon	417277	418469	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000129-T1_mrna"; gene_id "gene-KXW27_000129";
+JAIBZD010000001.1	Genbank	exon	418531	418602	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000129-T1_mrna"; gene_id "gene-KXW27_000129";
+JAIBZD010000001.1	Genbank	exon	418663	419535	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000129-T1_mrna"; gene_id "gene-KXW27_000129";
+JAIBZD010000001.1	Genbank	exon	419588	419933	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000129-T1_mrna"; gene_id "gene-KXW27_000129";
+JAIBZD010000001.1	Genbank	CDS	416624	417211	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000129-T1_mrna"; gene_id "gene-KXW27_000129";
+JAIBZD010000001.1	Genbank	CDS	417277	418469	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000129-T1_mrna"; gene_id "gene-KXW27_000129";
+JAIBZD010000001.1	Genbank	CDS	418531	418602	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000129-T1_mrna"; gene_id "gene-KXW27_000129";
+JAIBZD010000001.1	Genbank	CDS	418663	419535	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000129-T1_mrna"; gene_id "gene-KXW27_000129";
+JAIBZD010000001.1	Genbank	CDS	419588	419933	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000129-T1_mrna"; gene_id "gene-KXW27_000129";
+JAIBZD010000010.1	Genbank	transcript	128833	129819	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000180-T1_mrna"; gene_id "gene-KXW27_000180"; gene_name "BCP1"
+JAIBZD010000010.1	Genbank	exon	128833	128916	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000180-T1_mrna"; gene_id "gene-KXW27_000180"; gene_name "BCP1";
+JAIBZD010000010.1	Genbank	exon	128976	129212	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000180-T1_mrna"; gene_id "gene-KXW27_000180"; gene_name "BCP1";
+JAIBZD010000010.1	Genbank	exon	129265	129819	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000180-T1_mrna"; gene_id "gene-KXW27_000180"; gene_name "BCP1";
+JAIBZD010000010.1	Genbank	CDS	128833	128916	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000180-T1_mrna"; gene_id "gene-KXW27_000180"; gene_name "BCP1";
+JAIBZD010000010.1	Genbank	CDS	128976	129212	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000180-T1_mrna"; gene_id "gene-KXW27_000180"; gene_name "BCP1";
+JAIBZD010000010.1	Genbank	CDS	129265	129819	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000180-T1_mrna"; gene_id "gene-KXW27_000180"; gene_name "BCP1";
+JAIBZD010000010.1	Genbank	transcript	226223	227054	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000211-T1_mrna"; gene_id "gene-KXW27_000211"
+JAIBZD010000010.1	Genbank	exon	226223	226416	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000211-T1_mrna"; gene_id "gene-KXW27_000211";
+JAIBZD010000010.1	Genbank	exon	226505	227054	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000211-T1_mrna"; gene_id "gene-KXW27_000211";
+JAIBZD010000010.1	Genbank	CDS	226223	226416	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000211-T1_mrna"; gene_id "gene-KXW27_000211";
+JAIBZD010000010.1	Genbank	CDS	226505	227054	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000211-T1_mrna"; gene_id "gene-KXW27_000211";
+JAIBZD010000010.1	Genbank	transcript	229509	230058	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000213-T1_mrna"; gene_id "gene-KXW27_000213"
+JAIBZD010000010.1	Genbank	exon	229509	229547	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000213-T1_mrna"; gene_id "gene-KXW27_000213";
+JAIBZD010000010.1	Genbank	exon	229616	229698	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000213-T1_mrna"; gene_id "gene-KXW27_000213";
+JAIBZD010000010.1	Genbank	exon	229767	230058	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000213-T1_mrna"; gene_id "gene-KXW27_000213";
+JAIBZD010000010.1	Genbank	CDS	229509	229547	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000213-T1_mrna"; gene_id "gene-KXW27_000213";
+JAIBZD010000010.1	Genbank	CDS	229616	229698	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000213-T1_mrna"; gene_id "gene-KXW27_000213";
+JAIBZD010000010.1	Genbank	CDS	229767	230058	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000213-T1_mrna"; gene_id "gene-KXW27_000213";
+JAIBZD010000105.1	Genbank	transcript	2908	4140	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000393-T1_mrna"; gene_id "gene-KXW27_000393"
+JAIBZD010000105.1	Genbank	exon	2908	4140	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000393-T1_mrna"; gene_id "gene-KXW27_000393";
+JAIBZD010000105.1	Genbank	CDS	2908	4140	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000393-T1_mrna"; gene_id "gene-KXW27_000393";
+JAIBZD010000109.1	Genbank	transcript	17436	18943	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000531-T1_mrna"; gene_id "gene-KXW27_000531"
+JAIBZD010000109.1	Genbank	exon	17436	17533	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000531-T1_mrna"; gene_id "gene-KXW27_000531";
+JAIBZD010000109.1	Genbank	exon	17594	17666	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000531-T1_mrna"; gene_id "gene-KXW27_000531";
+JAIBZD010000109.1	Genbank	exon	17718	17889	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000531-T1_mrna"; gene_id "gene-KXW27_000531";
+JAIBZD010000109.1	Genbank	exon	17955	18807	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000531-T1_mrna"; gene_id "gene-KXW27_000531";
+JAIBZD010000109.1	Genbank	exon	18871	18943	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000531-T1_mrna"; gene_id "gene-KXW27_000531";
+JAIBZD010000109.1	Genbank	CDS	17436	17533	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000531-T1_mrna"; gene_id "gene-KXW27_000531";
+JAIBZD010000109.1	Genbank	CDS	17594	17666	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000531-T1_mrna"; gene_id "gene-KXW27_000531";
+JAIBZD010000109.1	Genbank	CDS	17718	17889	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000531-T1_mrna"; gene_id "gene-KXW27_000531";
+JAIBZD010000109.1	Genbank	CDS	17955	18807	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000531-T1_mrna"; gene_id "gene-KXW27_000531";
+JAIBZD010000109.1	Genbank	CDS	18871	18943	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000531-T1_mrna"; gene_id "gene-KXW27_000531";
+JAIBZD010000109.1	Genbank	transcript	40170	41336	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000543-T1_mrna"; gene_id "gene-KXW27_000543"
+JAIBZD010000109.1	Genbank	exon	40170	40389	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000543-T1_mrna"; gene_id "gene-KXW27_000543";
+JAIBZD010000109.1	Genbank	exon	40456	41168	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000543-T1_mrna"; gene_id "gene-KXW27_000543";
+JAIBZD010000109.1	Genbank	exon	41232	41336	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000543-T1_mrna"; gene_id "gene-KXW27_000543";
+JAIBZD010000109.1	Genbank	CDS	40170	40389	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000543-T1_mrna"; gene_id "gene-KXW27_000543";
+JAIBZD010000109.1	Genbank	CDS	40456	41168	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000543-T1_mrna"; gene_id "gene-KXW27_000543";
+JAIBZD010000109.1	Genbank	CDS	41232	41336	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000543-T1_mrna"; gene_id "gene-KXW27_000543";
+JAIBZD010000109.1	Genbank	transcript	41645	44074	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000544-T1_mrna"; gene_id "gene-KXW27_000544"; gene_name "UTP25"
+JAIBZD010000109.1	Genbank	exon	41645	41757	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000544-T1_mrna"; gene_id "gene-KXW27_000544"; gene_name "UTP25";
+JAIBZD010000109.1	Genbank	exon	41823	42199	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000544-T1_mrna"; gene_id "gene-KXW27_000544"; gene_name "UTP25";
+JAIBZD010000109.1	Genbank	exon	42253	42452	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000544-T1_mrna"; gene_id "gene-KXW27_000544"; gene_name "UTP25";
+JAIBZD010000109.1	Genbank	exon	42522	43099	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000544-T1_mrna"; gene_id "gene-KXW27_000544"; gene_name "UTP25";
+JAIBZD010000109.1	Genbank	exon	43156	44074	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000544-T1_mrna"; gene_id "gene-KXW27_000544"; gene_name "UTP25";
+JAIBZD010000109.1	Genbank	CDS	41645	41757	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000544-T1_mrna"; gene_id "gene-KXW27_000544"; gene_name "UTP25";
+JAIBZD010000109.1	Genbank	CDS	41823	42199	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000544-T1_mrna"; gene_id "gene-KXW27_000544"; gene_name "UTP25";
+JAIBZD010000109.1	Genbank	CDS	42253	42452	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000544-T1_mrna"; gene_id "gene-KXW27_000544"; gene_name "UTP25";
+JAIBZD010000109.1	Genbank	CDS	42522	43099	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000544-T1_mrna"; gene_id "gene-KXW27_000544"; gene_name "UTP25";
+JAIBZD010000109.1	Genbank	CDS	43156	44074	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000544-T1_mrna"; gene_id "gene-KXW27_000544"; gene_name "UTP25";
+JAIBZD010000109.1	Genbank	transcript	71226	73622	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000557-T1_mrna"; gene_id "gene-KXW27_000557"; gene_name "ERB1"
+JAIBZD010000109.1	Genbank	exon	71226	73622	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000557-T1_mrna"; gene_id "gene-KXW27_000557"; gene_name "ERB1";
+JAIBZD010000109.1	Genbank	CDS	71226	73622	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000557-T1_mrna"; gene_id "gene-KXW27_000557"; gene_name "ERB1";
+JAIBZD010000109.1	Genbank	transcript	75699	77226	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000559-T1_mrna"; gene_id "gene-KXW27_000559"
+JAIBZD010000109.1	Genbank	exon	75699	76724	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000559-T1_mrna"; gene_id "gene-KXW27_000559";
+JAIBZD010000109.1	Genbank	exon	76785	76959	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000559-T1_mrna"; gene_id "gene-KXW27_000559";
+JAIBZD010000109.1	Genbank	exon	77015	77226	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000559-T1_mrna"; gene_id "gene-KXW27_000559";
+JAIBZD010000109.1	Genbank	CDS	75699	76724	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000559-T1_mrna"; gene_id "gene-KXW27_000559";
+JAIBZD010000109.1	Genbank	CDS	76785	76959	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000559-T1_mrna"; gene_id "gene-KXW27_000559";
+JAIBZD010000109.1	Genbank	CDS	77015	77226	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000559-T1_mrna"; gene_id "gene-KXW27_000559";
+JAIBZD010000011.1	Genbank	transcript	17270	19314	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000571-T1_mrna"; gene_id "gene-KXW27_000571"; gene_name "SPB4"
+JAIBZD010000011.1	Genbank	exon	17270	17559	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000571-T1_mrna"; gene_id "gene-KXW27_000571"; gene_name "SPB4";
+JAIBZD010000011.1	Genbank	exon	17629	18138	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000571-T1_mrna"; gene_id "gene-KXW27_000571"; gene_name "SPB4";
+JAIBZD010000011.1	Genbank	exon	18192	19314	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000571-T1_mrna"; gene_id "gene-KXW27_000571"; gene_name "SPB4";
+JAIBZD010000011.1	Genbank	CDS	17270	17559	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000571-T1_mrna"; gene_id "gene-KXW27_000571"; gene_name "SPB4";
+JAIBZD010000011.1	Genbank	CDS	17629	18138	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000571-T1_mrna"; gene_id "gene-KXW27_000571"; gene_name "SPB4";
+JAIBZD010000011.1	Genbank	CDS	18192	19314	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000571-T1_mrna"; gene_id "gene-KXW27_000571"; gene_name "SPB4";
+JAIBZD010000110.1	Genbank	transcript	18898	20193	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000688-T1_mrna"; gene_id "gene-KXW27_000688"
+JAIBZD010000110.1	Genbank	exon	18898	19001	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000688-T1_mrna"; gene_id "gene-KXW27_000688";
+JAIBZD010000110.1	Genbank	exon	19066	19156	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000688-T1_mrna"; gene_id "gene-KXW27_000688";
+JAIBZD010000110.1	Genbank	exon	19225	19389	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000688-T1_mrna"; gene_id "gene-KXW27_000688";
+JAIBZD010000110.1	Genbank	exon	19449	19832	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000688-T1_mrna"; gene_id "gene-KXW27_000688";
+JAIBZD010000110.1	Genbank	exon	19894	20193	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000688-T1_mrna"; gene_id "gene-KXW27_000688";
+JAIBZD010000110.1	Genbank	CDS	18898	19001	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000688-T1_mrna"; gene_id "gene-KXW27_000688";
+JAIBZD010000110.1	Genbank	CDS	19066	19156	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000688-T1_mrna"; gene_id "gene-KXW27_000688";
+JAIBZD010000110.1	Genbank	CDS	19225	19389	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000688-T1_mrna"; gene_id "gene-KXW27_000688";
+JAIBZD010000110.1	Genbank	CDS	19449	19832	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000688-T1_mrna"; gene_id "gene-KXW27_000688";
+JAIBZD010000110.1	Genbank	CDS	19894	20193	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000688-T1_mrna"; gene_id "gene-KXW27_000688";
+JAIBZD010000110.1	Genbank	transcript	31329	32353	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000692-T1_mrna"; gene_id "gene-KXW27_000692"; gene_name "NSA2"
+JAIBZD010000110.1	Genbank	exon	31329	31344	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000692-T1_mrna"; gene_id "gene-KXW27_000692"; gene_name "NSA2";
+JAIBZD010000110.1	Genbank	exon	31405	31617	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000692-T1_mrna"; gene_id "gene-KXW27_000692"; gene_name "NSA2";
+JAIBZD010000110.1	Genbank	exon	31678	32220	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000692-T1_mrna"; gene_id "gene-KXW27_000692"; gene_name "NSA2";
+JAIBZD010000110.1	Genbank	exon	32274	32353	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000692-T1_mrna"; gene_id "gene-KXW27_000692"; gene_name "NSA2";
+JAIBZD010000110.1	Genbank	CDS	31329	31344	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000692-T1_mrna"; gene_id "gene-KXW27_000692"; gene_name "NSA2";
+JAIBZD010000110.1	Genbank	CDS	31405	31617	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000692-T1_mrna"; gene_id "gene-KXW27_000692"; gene_name "NSA2";
+JAIBZD010000110.1	Genbank	CDS	31678	32220	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000692-T1_mrna"; gene_id "gene-KXW27_000692"; gene_name "NSA2";
+JAIBZD010000110.1	Genbank	CDS	32274	32353	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000692-T1_mrna"; gene_id "gene-KXW27_000692"; gene_name "NSA2";
+JAIBZD010000112.1	Genbank	transcript	25647	27900	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000751-T1_mrna"; gene_id "gene-KXW27_000751"
+JAIBZD010000112.1	Genbank	exon	25647	25673	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000751-T1_mrna"; gene_id "gene-KXW27_000751";
+JAIBZD010000112.1	Genbank	exon	25725	25779	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000751-T1_mrna"; gene_id "gene-KXW27_000751";
+JAIBZD010000112.1	Genbank	exon	25844	26082	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000751-T1_mrna"; gene_id "gene-KXW27_000751";
+JAIBZD010000112.1	Genbank	exon	26142	26248	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000751-T1_mrna"; gene_id "gene-KXW27_000751";
+JAIBZD010000112.1	Genbank	exon	26306	26540	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000751-T1_mrna"; gene_id "gene-KXW27_000751";
+JAIBZD010000112.1	Genbank	exon	26586	26679	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000751-T1_mrna"; gene_id "gene-KXW27_000751";
+JAIBZD010000112.1	Genbank	exon	26734	27248	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000751-T1_mrna"; gene_id "gene-KXW27_000751";
+JAIBZD010000112.1	Genbank	exon	27301	27585	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000751-T1_mrna"; gene_id "gene-KXW27_000751";
+JAIBZD010000112.1	Genbank	exon	27646	27763	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000751-T1_mrna"; gene_id "gene-KXW27_000751";
+JAIBZD010000112.1	Genbank	exon	27818	27900	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000751-T1_mrna"; gene_id "gene-KXW27_000751";
+JAIBZD010000112.1	Genbank	CDS	25647	25673	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000751-T1_mrna"; gene_id "gene-KXW27_000751";
+JAIBZD010000112.1	Genbank	CDS	25725	25779	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000751-T1_mrna"; gene_id "gene-KXW27_000751";
+JAIBZD010000112.1	Genbank	CDS	25844	26082	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000751-T1_mrna"; gene_id "gene-KXW27_000751";
+JAIBZD010000112.1	Genbank	CDS	26142	26248	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000751-T1_mrna"; gene_id "gene-KXW27_000751";
+JAIBZD010000112.1	Genbank	CDS	26306	26540	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000751-T1_mrna"; gene_id "gene-KXW27_000751";
+JAIBZD010000112.1	Genbank	CDS	26586	26679	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000751-T1_mrna"; gene_id "gene-KXW27_000751";
+JAIBZD010000112.1	Genbank	CDS	26734	27248	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000751-T1_mrna"; gene_id "gene-KXW27_000751";
+JAIBZD010000112.1	Genbank	CDS	27301	27585	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000751-T1_mrna"; gene_id "gene-KXW27_000751";
+JAIBZD010000112.1	Genbank	CDS	27646	27763	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000751-T1_mrna"; gene_id "gene-KXW27_000751";
+JAIBZD010000112.1	Genbank	CDS	27818	27900	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000751-T1_mrna"; gene_id "gene-KXW27_000751";
+JAIBZD010000113.1	Genbank	transcript	12471	21309	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000779-T1_mrna"; gene_id "gene-KXW27_000779"
+JAIBZD010000113.1	Genbank	exon	12471	13229	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000779-T1_mrna"; gene_id "gene-KXW27_000779";
+JAIBZD010000113.1	Genbank	exon	13958	14299	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000779-T1_mrna"; gene_id "gene-KXW27_000779";
+JAIBZD010000113.1	Genbank	exon	14359	20353	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000779-T1_mrna"; gene_id "gene-KXW27_000779";
+JAIBZD010000113.1	Genbank	exon	20410	20594	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000779-T1_mrna"; gene_id "gene-KXW27_000779";
+JAIBZD010000113.1	Genbank	exon	20654	20797	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000779-T1_mrna"; gene_id "gene-KXW27_000779";
+JAIBZD010000113.1	Genbank	exon	20857	21309	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000779-T1_mrna"; gene_id "gene-KXW27_000779";
+JAIBZD010000113.1	Genbank	CDS	12471	13229	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000779-T1_mrna"; gene_id "gene-KXW27_000779";
+JAIBZD010000113.1	Genbank	CDS	13958	14299	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000779-T1_mrna"; gene_id "gene-KXW27_000779";
+JAIBZD010000113.1	Genbank	CDS	14359	20353	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000779-T1_mrna"; gene_id "gene-KXW27_000779";
+JAIBZD010000113.1	Genbank	CDS	20410	20594	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000779-T1_mrna"; gene_id "gene-KXW27_000779";
+JAIBZD010000113.1	Genbank	CDS	20654	20797	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000779-T1_mrna"; gene_id "gene-KXW27_000779";
+JAIBZD010000113.1	Genbank	CDS	20857	21309	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000779-T1_mrna"; gene_id "gene-KXW27_000779";
+JAIBZD010000012.1	Genbank	transcript	80013	82003	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000990-T1_mrna"; gene_id "gene-KXW27_000990"
+JAIBZD010000012.1	Genbank	exon	80013	80105	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000990-T1_mrna"; gene_id "gene-KXW27_000990";
+JAIBZD010000012.1	Genbank	exon	80171	80184	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000990-T1_mrna"; gene_id "gene-KXW27_000990";
+JAIBZD010000012.1	Genbank	exon	80280	80424	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000990-T1_mrna"; gene_id "gene-KXW27_000990";
+JAIBZD010000012.1	Genbank	exon	80493	80507	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000990-T1_mrna"; gene_id "gene-KXW27_000990";
+JAIBZD010000012.1	Genbank	exon	80567	81067	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000990-T1_mrna"; gene_id "gene-KXW27_000990";
+JAIBZD010000012.1	Genbank	exon	81122	82003	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000990-T1_mrna"; gene_id "gene-KXW27_000990";
+JAIBZD010000012.1	Genbank	CDS	80013	80105	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000990-T1_mrna"; gene_id "gene-KXW27_000990";
+JAIBZD010000012.1	Genbank	CDS	80171	80184	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000990-T1_mrna"; gene_id "gene-KXW27_000990";
+JAIBZD010000012.1	Genbank	CDS	80280	80424	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000990-T1_mrna"; gene_id "gene-KXW27_000990";
+JAIBZD010000012.1	Genbank	CDS	80493	80507	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000990-T1_mrna"; gene_id "gene-KXW27_000990";
+JAIBZD010000012.1	Genbank	CDS	80567	81067	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000990-T1_mrna"; gene_id "gene-KXW27_000990";
+JAIBZD010000012.1	Genbank	CDS	81122	82003	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_000990-T1_mrna"; gene_id "gene-KXW27_000990";
+JAIBZD010000012.1	Genbank	transcript	204268	205523	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001037-T1_mrna"; gene_id "gene-KXW27_001037"
+JAIBZD010000012.1	Genbank	exon	204268	204515	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001037-T1_mrna"; gene_id "gene-KXW27_001037";
+JAIBZD010000012.1	Genbank	exon	204575	204711	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001037-T1_mrna"; gene_id "gene-KXW27_001037";
+JAIBZD010000012.1	Genbank	exon	204784	205523	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001037-T1_mrna"; gene_id "gene-KXW27_001037";
+JAIBZD010000012.1	Genbank	CDS	204268	204515	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001037-T1_mrna"; gene_id "gene-KXW27_001037";
+JAIBZD010000012.1	Genbank	CDS	204575	204711	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001037-T1_mrna"; gene_id "gene-KXW27_001037";
+JAIBZD010000012.1	Genbank	CDS	204784	205523	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001037-T1_mrna"; gene_id "gene-KXW27_001037";
+JAIBZD010000123.1	Genbank	transcript	64708	65911	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001173-T1_mrna"; gene_id "gene-KXW27_001173"; gene_name "KRR1"
+JAIBZD010000123.1	Genbank	exon	64708	64767	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001173-T1_mrna"; gene_id "gene-KXW27_001173"; gene_name "KRR1";
+JAIBZD010000123.1	Genbank	exon	64834	65106	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001173-T1_mrna"; gene_id "gene-KXW27_001173"; gene_name "KRR1";
+JAIBZD010000123.1	Genbank	exon	65168	65911	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001173-T1_mrna"; gene_id "gene-KXW27_001173"; gene_name "KRR1";
+JAIBZD010000123.1	Genbank	CDS	64708	64767	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001173-T1_mrna"; gene_id "gene-KXW27_001173"; gene_name "KRR1";
+JAIBZD010000123.1	Genbank	CDS	64834	65106	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001173-T1_mrna"; gene_id "gene-KXW27_001173"; gene_name "KRR1";
+JAIBZD010000123.1	Genbank	CDS	65168	65911	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001173-T1_mrna"; gene_id "gene-KXW27_001173"; gene_name "KRR1";
+JAIBZD010000125.1	Genbank	transcript	53595	55880	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001222-T1_mrna"; gene_id "gene-KXW27_001222"
+JAIBZD010000125.1	Genbank	exon	53595	53758	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001222-T1_mrna"; gene_id "gene-KXW27_001222";
+JAIBZD010000125.1	Genbank	exon	53826	54634	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001222-T1_mrna"; gene_id "gene-KXW27_001222";
+JAIBZD010000125.1	Genbank	exon	54689	54930	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001222-T1_mrna"; gene_id "gene-KXW27_001222";
+JAIBZD010000125.1	Genbank	exon	54985	55251	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001222-T1_mrna"; gene_id "gene-KXW27_001222";
+JAIBZD010000125.1	Genbank	exon	55315	55444	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001222-T1_mrna"; gene_id "gene-KXW27_001222";
+JAIBZD010000125.1	Genbank	exon	55506	55582	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001222-T1_mrna"; gene_id "gene-KXW27_001222";
+JAIBZD010000125.1	Genbank	exon	55639	55658	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001222-T1_mrna"; gene_id "gene-KXW27_001222";
+JAIBZD010000125.1	Genbank	exon	55727	55767	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001222-T1_mrna"; gene_id "gene-KXW27_001222";
+JAIBZD010000125.1	Genbank	exon	55828	55880	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001222-T1_mrna"; gene_id "gene-KXW27_001222";
+JAIBZD010000125.1	Genbank	CDS	53595	53758	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001222-T1_mrna"; gene_id "gene-KXW27_001222";
+JAIBZD010000125.1	Genbank	CDS	53826	54634	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001222-T1_mrna"; gene_id "gene-KXW27_001222";
+JAIBZD010000125.1	Genbank	CDS	54689	54930	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001222-T1_mrna"; gene_id "gene-KXW27_001222";
+JAIBZD010000125.1	Genbank	CDS	54985	55251	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001222-T1_mrna"; gene_id "gene-KXW27_001222";
+JAIBZD010000125.1	Genbank	CDS	55315	55444	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001222-T1_mrna"; gene_id "gene-KXW27_001222";
+JAIBZD010000125.1	Genbank	CDS	55506	55582	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001222-T1_mrna"; gene_id "gene-KXW27_001222";
+JAIBZD010000125.1	Genbank	CDS	55639	55658	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001222-T1_mrna"; gene_id "gene-KXW27_001222";
+JAIBZD010000125.1	Genbank	CDS	55727	55767	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001222-T1_mrna"; gene_id "gene-KXW27_001222";
+JAIBZD010000125.1	Genbank	CDS	55828	55880	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001222-T1_mrna"; gene_id "gene-KXW27_001222";
+JAIBZD010000128.1	Genbank	transcript	39925	41013	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001294-T1_mrna"; gene_id "gene-KXW27_001294"; gene_name "LIA1"
+JAIBZD010000128.1	Genbank	exon	39925	40415	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001294-T1_mrna"; gene_id "gene-KXW27_001294"; gene_name "LIA1";
+JAIBZD010000128.1	Genbank	exon	40497	41013	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001294-T1_mrna"; gene_id "gene-KXW27_001294"; gene_name "LIA1";
+JAIBZD010000128.1	Genbank	CDS	39925	40415	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001294-T1_mrna"; gene_id "gene-KXW27_001294"; gene_name "LIA1";
+JAIBZD010000128.1	Genbank	CDS	40497	41013	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001294-T1_mrna"; gene_id "gene-KXW27_001294"; gene_name "LIA1";
+JAIBZD010000128.1	Genbank	transcript	55240	57505	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001299-T1_mrna"; gene_id "gene-KXW27_001299"
+JAIBZD010000128.1	Genbank	exon	55240	55303	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001299-T1_mrna"; gene_id "gene-KXW27_001299";
+JAIBZD010000128.1	Genbank	exon	55380	57505	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001299-T1_mrna"; gene_id "gene-KXW27_001299";
+JAIBZD010000128.1	Genbank	CDS	55240	55303	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001299-T1_mrna"; gene_id "gene-KXW27_001299";
+JAIBZD010000128.1	Genbank	CDS	55380	57505	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001299-T1_mrna"; gene_id "gene-KXW27_001299";
+JAIBZD010000013.1	Genbank	transcript	179212	181532	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001394-T1_mrna"; gene_id "gene-KXW27_001394"; gene_name "COG6"
+JAIBZD010000013.1	Genbank	exon	179212	179508	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001394-T1_mrna"; gene_id "gene-KXW27_001394"; gene_name "COG6";
+JAIBZD010000013.1	Genbank	exon	179571	181532	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001394-T1_mrna"; gene_id "gene-KXW27_001394"; gene_name "COG6";
+JAIBZD010000013.1	Genbank	CDS	179212	179508	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001394-T1_mrna"; gene_id "gene-KXW27_001394"; gene_name "COG6";
+JAIBZD010000013.1	Genbank	CDS	179571	181532	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001394-T1_mrna"; gene_id "gene-KXW27_001394"; gene_name "COG6";
+JAIBZD010000132.1	Genbank	transcript	34680	36282	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001485-T1_mrna"; gene_id "gene-KXW27_001485"
+JAIBZD010000132.1	Genbank	exon	34680	35057	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001485-T1_mrna"; gene_id "gene-KXW27_001485";
+JAIBZD010000132.1	Genbank	exon	35111	35352	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001485-T1_mrna"; gene_id "gene-KXW27_001485";
+JAIBZD010000132.1	Genbank	exon	35409	36282	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001485-T1_mrna"; gene_id "gene-KXW27_001485";
+JAIBZD010000132.1	Genbank	CDS	34680	35057	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001485-T1_mrna"; gene_id "gene-KXW27_001485";
+JAIBZD010000132.1	Genbank	CDS	35111	35352	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001485-T1_mrna"; gene_id "gene-KXW27_001485";
+JAIBZD010000132.1	Genbank	CDS	35409	36282	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001485-T1_mrna"; gene_id "gene-KXW27_001485";
+JAIBZD010000139.1	Genbank	transcript	49559	50992	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001679-T1_mrna"; gene_id "gene-KXW27_001679"
+JAIBZD010000139.1	Genbank	exon	49559	50430	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001679-T1_mrna"; gene_id "gene-KXW27_001679";
+JAIBZD010000139.1	Genbank	exon	50500	50992	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001679-T1_mrna"; gene_id "gene-KXW27_001679";
+JAIBZD010000139.1	Genbank	CDS	49559	50430	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001679-T1_mrna"; gene_id "gene-KXW27_001679";
+JAIBZD010000139.1	Genbank	CDS	50500	50992	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001679-T1_mrna"; gene_id "gene-KXW27_001679";
+JAIBZD010000014.1	Genbank	transcript	173933	176475	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001745-T1_mrna"; gene_id "gene-KXW27_001745"
+JAIBZD010000014.1	Genbank	exon	173933	174715	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001745-T1_mrna"; gene_id "gene-KXW27_001745";
+JAIBZD010000014.1	Genbank	exon	174777	175802	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001745-T1_mrna"; gene_id "gene-KXW27_001745";
+JAIBZD010000014.1	Genbank	exon	175855	176194	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001745-T1_mrna"; gene_id "gene-KXW27_001745";
+JAIBZD010000014.1	Genbank	exon	176267	176475	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001745-T1_mrna"; gene_id "gene-KXW27_001745";
+JAIBZD010000014.1	Genbank	CDS	173933	174715	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001745-T1_mrna"; gene_id "gene-KXW27_001745";
+JAIBZD010000014.1	Genbank	CDS	174777	175802	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001745-T1_mrna"; gene_id "gene-KXW27_001745";
+JAIBZD010000014.1	Genbank	CDS	175855	176194	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001745-T1_mrna"; gene_id "gene-KXW27_001745";
+JAIBZD010000014.1	Genbank	CDS	176267	176475	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001745-T1_mrna"; gene_id "gene-KXW27_001745";
+JAIBZD010000147.1	Genbank	transcript	50709	52743	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001950-T1_mrna"; gene_id "gene-KXW27_001950"
+JAIBZD010000147.1	Genbank	exon	50709	50860	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001950-T1_mrna"; gene_id "gene-KXW27_001950";
+JAIBZD010000147.1	Genbank	exon	50924	51773	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001950-T1_mrna"; gene_id "gene-KXW27_001950";
+JAIBZD010000147.1	Genbank	exon	51833	52336	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001950-T1_mrna"; gene_id "gene-KXW27_001950";
+JAIBZD010000147.1	Genbank	exon	52393	52743	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001950-T1_mrna"; gene_id "gene-KXW27_001950";
+JAIBZD010000147.1	Genbank	CDS	50709	50860	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001950-T1_mrna"; gene_id "gene-KXW27_001950";
+JAIBZD010000147.1	Genbank	CDS	50924	51773	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001950-T1_mrna"; gene_id "gene-KXW27_001950";
+JAIBZD010000147.1	Genbank	CDS	51833	52336	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001950-T1_mrna"; gene_id "gene-KXW27_001950";
+JAIBZD010000147.1	Genbank	CDS	52393	52743	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001950-T1_mrna"; gene_id "gene-KXW27_001950";
+JAIBZD010000149.1	Genbank	transcript	61213	62721	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001990-T1_mrna"; gene_id "gene-KXW27_001990"
+JAIBZD010000149.1	Genbank	exon	61213	61459	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001990-T1_mrna"; gene_id "gene-KXW27_001990";
+JAIBZD010000149.1	Genbank	exon	61562	62721	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001990-T1_mrna"; gene_id "gene-KXW27_001990";
+JAIBZD010000149.1	Genbank	CDS	61213	61459	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001990-T1_mrna"; gene_id "gene-KXW27_001990";
+JAIBZD010000149.1	Genbank	CDS	61562	62721	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_001990-T1_mrna"; gene_id "gene-KXW27_001990";
+JAIBZD010000015.1	Genbank	transcript	42570	43707	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002002-T1_mrna"; gene_id "gene-KXW27_002002"
+JAIBZD010000015.1	Genbank	exon	42570	43605	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002002-T1_mrna"; gene_id "gene-KXW27_002002";
+JAIBZD010000015.1	Genbank	exon	43661	43707	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002002-T1_mrna"; gene_id "gene-KXW27_002002";
+JAIBZD010000015.1	Genbank	CDS	42570	43605	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002002-T1_mrna"; gene_id "gene-KXW27_002002";
+JAIBZD010000015.1	Genbank	CDS	43661	43707	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002002-T1_mrna"; gene_id "gene-KXW27_002002";
+JAIBZD010000151.1	Genbank	transcript	25247	27389	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002090-T1_mrna"; gene_id "gene-KXW27_002090"
+JAIBZD010000151.1	Genbank	exon	25247	25567	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002090-T1_mrna"; gene_id "gene-KXW27_002090";
+JAIBZD010000151.1	Genbank	exon	25655	25928	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002090-T1_mrna"; gene_id "gene-KXW27_002090";
+JAIBZD010000151.1	Genbank	exon	25986	26130	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002090-T1_mrna"; gene_id "gene-KXW27_002090";
+JAIBZD010000151.1	Genbank	exon	26186	27389	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002090-T1_mrna"; gene_id "gene-KXW27_002090";
+JAIBZD010000151.1	Genbank	CDS	25247	25567	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002090-T1_mrna"; gene_id "gene-KXW27_002090";
+JAIBZD010000151.1	Genbank	CDS	25655	25928	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002090-T1_mrna"; gene_id "gene-KXW27_002090";
+JAIBZD010000151.1	Genbank	CDS	25986	26130	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002090-T1_mrna"; gene_id "gene-KXW27_002090";
+JAIBZD010000151.1	Genbank	CDS	26186	27389	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002090-T1_mrna"; gene_id "gene-KXW27_002090";
+JAIBZD010000153.1	Genbank	transcript	2791	3905	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002119-T1_mrna"; gene_id "gene-KXW27_002119"; gene_name "MED6"
+JAIBZD010000153.1	Genbank	exon	2791	3309	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002119-T1_mrna"; gene_id "gene-KXW27_002119"; gene_name "MED6";
+JAIBZD010000153.1	Genbank	exon	3374	3735	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002119-T1_mrna"; gene_id "gene-KXW27_002119"; gene_name "MED6";
+JAIBZD010000153.1	Genbank	exon	3812	3905	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002119-T1_mrna"; gene_id "gene-KXW27_002119"; gene_name "MED6";
+JAIBZD010000153.1	Genbank	CDS	2791	3309	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002119-T1_mrna"; gene_id "gene-KXW27_002119"; gene_name "MED6";
+JAIBZD010000153.1	Genbank	CDS	3374	3735	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002119-T1_mrna"; gene_id "gene-KXW27_002119"; gene_name "MED6";
+JAIBZD010000153.1	Genbank	CDS	3812	3905	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002119-T1_mrna"; gene_id "gene-KXW27_002119"; gene_name "MED6";
+JAIBZD010000156.1	Genbank	transcript	11851	12751	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002180-T1_mrna"; gene_id "gene-KXW27_002180"; gene_name "GAR1_1"
+JAIBZD010000156.1	Genbank	exon	11851	12059	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002180-T1_mrna"; gene_id "gene-KXW27_002180"; gene_name "GAR1_1";
+JAIBZD010000156.1	Genbank	exon	12112	12140	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002180-T1_mrna"; gene_id "gene-KXW27_002180"; gene_name "GAR1_1";
+JAIBZD010000156.1	Genbank	exon	12198	12343	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002180-T1_mrna"; gene_id "gene-KXW27_002180"; gene_name "GAR1_1";
+JAIBZD010000156.1	Genbank	exon	12406	12506	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002180-T1_mrna"; gene_id "gene-KXW27_002180"; gene_name "GAR1_1";
+JAIBZD010000156.1	Genbank	exon	12565	12612	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002180-T1_mrna"; gene_id "gene-KXW27_002180"; gene_name "GAR1_1";
+JAIBZD010000156.1	Genbank	exon	12676	12751	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002180-T1_mrna"; gene_id "gene-KXW27_002180"; gene_name "GAR1_1";
+JAIBZD010000156.1	Genbank	CDS	11851	12059	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002180-T1_mrna"; gene_id "gene-KXW27_002180"; gene_name "GAR1_1";
+JAIBZD010000156.1	Genbank	CDS	12112	12140	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002180-T1_mrna"; gene_id "gene-KXW27_002180"; gene_name "GAR1_1";
+JAIBZD010000156.1	Genbank	CDS	12198	12343	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002180-T1_mrna"; gene_id "gene-KXW27_002180"; gene_name "GAR1_1";
+JAIBZD010000156.1	Genbank	CDS	12406	12506	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002180-T1_mrna"; gene_id "gene-KXW27_002180"; gene_name "GAR1_1";
+JAIBZD010000156.1	Genbank	CDS	12565	12612	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002180-T1_mrna"; gene_id "gene-KXW27_002180"; gene_name "GAR1_1";
+JAIBZD010000156.1	Genbank	CDS	12676	12751	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002180-T1_mrna"; gene_id "gene-KXW27_002180"; gene_name "GAR1_1";
+JAIBZD010000164.1	Genbank	transcript	9647	12400	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002434-T1_mrna"; gene_id "gene-KXW27_002434"
+JAIBZD010000164.1	Genbank	exon	9647	11827	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002434-T1_mrna"; gene_id "gene-KXW27_002434";
+JAIBZD010000164.1	Genbank	exon	11891	12400	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002434-T1_mrna"; gene_id "gene-KXW27_002434";
+JAIBZD010000164.1	Genbank	CDS	9647	11827	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002434-T1_mrna"; gene_id "gene-KXW27_002434";
+JAIBZD010000164.1	Genbank	CDS	11891	12400	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002434-T1_mrna"; gene_id "gene-KXW27_002434";
+JAIBZD010000164.1	Genbank	transcript	24110	24966	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002438-T1_mrna"; gene_id "gene-KXW27_002438"; gene_name "TMA22"
+JAIBZD010000164.1	Genbank	exon	24110	24522	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002438-T1_mrna"; gene_id "gene-KXW27_002438"; gene_name "TMA22";
+JAIBZD010000164.1	Genbank	exon	24588	24675	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002438-T1_mrna"; gene_id "gene-KXW27_002438"; gene_name "TMA22";
+JAIBZD010000164.1	Genbank	exon	24798	24817	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002438-T1_mrna"; gene_id "gene-KXW27_002438"; gene_name "TMA22";
+JAIBZD010000164.1	Genbank	exon	24903	24966	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002438-T1_mrna"; gene_id "gene-KXW27_002438"; gene_name "TMA22";
+JAIBZD010000164.1	Genbank	CDS	24110	24522	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002438-T1_mrna"; gene_id "gene-KXW27_002438"; gene_name "TMA22";
+JAIBZD010000164.1	Genbank	CDS	24588	24675	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002438-T1_mrna"; gene_id "gene-KXW27_002438"; gene_name "TMA22";
+JAIBZD010000164.1	Genbank	CDS	24798	24817	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002438-T1_mrna"; gene_id "gene-KXW27_002438"; gene_name "TMA22";
+JAIBZD010000164.1	Genbank	CDS	24903	24966	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002438-T1_mrna"; gene_id "gene-KXW27_002438"; gene_name "TMA22";
+JAIBZD010000169.1	Genbank	transcript	7246	8176	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002527-T1_mrna"; gene_id "gene-KXW27_002527"
+JAIBZD010000169.1	Genbank	exon	7246	8062	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002527-T1_mrna"; gene_id "gene-KXW27_002527";
+JAIBZD010000169.1	Genbank	exon	8154	8176	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002527-T1_mrna"; gene_id "gene-KXW27_002527";
+JAIBZD010000169.1	Genbank	CDS	7246	8062	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002527-T1_mrna"; gene_id "gene-KXW27_002527";
+JAIBZD010000169.1	Genbank	CDS	8154	8176	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002527-T1_mrna"; gene_id "gene-KXW27_002527";
+JAIBZD010000171.1	Genbank	transcript	30164	32897	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002644-T1_mrna"; gene_id "gene-KXW27_002644"
+JAIBZD010000171.1	Genbank	exon	30164	32413	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002644-T1_mrna"; gene_id "gene-KXW27_002644";
+JAIBZD010000171.1	Genbank	exon	32463	32897	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002644-T1_mrna"; gene_id "gene-KXW27_002644";
+JAIBZD010000171.1	Genbank	CDS	30164	32413	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002644-T1_mrna"; gene_id "gene-KXW27_002644";
+JAIBZD010000171.1	Genbank	CDS	32463	32897	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002644-T1_mrna"; gene_id "gene-KXW27_002644";
+JAIBZD010000018.1	Genbank	transcript	119451	120275	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002828-T1_mrna"; gene_id "gene-KXW27_002828"
+JAIBZD010000018.1	Genbank	exon	119451	120275	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002828-T1_mrna"; gene_id "gene-KXW27_002828";
+JAIBZD010000018.1	Genbank	CDS	119451	120275	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002828-T1_mrna"; gene_id "gene-KXW27_002828";
+JAIBZD010000182.1	Genbank	transcript	37606	39242	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002912-T1_mrna"; gene_id "gene-KXW27_002912"; gene_name "UBA4"
+JAIBZD010000182.1	Genbank	exon	37606	38626	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002912-T1_mrna"; gene_id "gene-KXW27_002912"; gene_name "UBA4";
+JAIBZD010000182.1	Genbank	exon	38692	38905	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002912-T1_mrna"; gene_id "gene-KXW27_002912"; gene_name "UBA4";
+JAIBZD010000182.1	Genbank	exon	38996	39242	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002912-T1_mrna"; gene_id "gene-KXW27_002912"; gene_name "UBA4";
+JAIBZD010000182.1	Genbank	CDS	37606	38626	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002912-T1_mrna"; gene_id "gene-KXW27_002912"; gene_name "UBA4";
+JAIBZD010000182.1	Genbank	CDS	38692	38905	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002912-T1_mrna"; gene_id "gene-KXW27_002912"; gene_name "UBA4";
+JAIBZD010000182.1	Genbank	CDS	38996	39242	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002912-T1_mrna"; gene_id "gene-KXW27_002912"; gene_name "UBA4";
+JAIBZD010000185.1	Genbank	transcript	14794	15585	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002955-T1_mrna"; gene_id "gene-KXW27_002955"; gene_name "NOP16"
+JAIBZD010000185.1	Genbank	exon	14794	14924	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002955-T1_mrna"; gene_id "gene-KXW27_002955"; gene_name "NOP16";
+JAIBZD010000185.1	Genbank	exon	14991	15585	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002955-T1_mrna"; gene_id "gene-KXW27_002955"; gene_name "NOP16";
+JAIBZD010000185.1	Genbank	CDS	14794	14924	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002955-T1_mrna"; gene_id "gene-KXW27_002955"; gene_name "NOP16";
+JAIBZD010000185.1	Genbank	CDS	14991	15585	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_002955-T1_mrna"; gene_id "gene-KXW27_002955"; gene_name "NOP16";
+JAIBZD010000192.1	Genbank	transcript	11370	12620	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003145-T1_mrna"; gene_id "gene-KXW27_003145"
+JAIBZD010000192.1	Genbank	exon	11370	11802	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003145-T1_mrna"; gene_id "gene-KXW27_003145";
+JAIBZD010000192.1	Genbank	exon	11859	12409	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003145-T1_mrna"; gene_id "gene-KXW27_003145";
+JAIBZD010000192.1	Genbank	exon	12483	12500	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003145-T1_mrna"; gene_id "gene-KXW27_003145";
+JAIBZD010000192.1	Genbank	exon	12564	12620	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003145-T1_mrna"; gene_id "gene-KXW27_003145";
+JAIBZD010000192.1	Genbank	CDS	11370	11802	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003145-T1_mrna"; gene_id "gene-KXW27_003145";
+JAIBZD010000192.1	Genbank	CDS	11859	12409	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003145-T1_mrna"; gene_id "gene-KXW27_003145";
+JAIBZD010000192.1	Genbank	CDS	12483	12500	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003145-T1_mrna"; gene_id "gene-KXW27_003145";
+JAIBZD010000192.1	Genbank	CDS	12564	12620	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003145-T1_mrna"; gene_id "gene-KXW27_003145";
+JAIBZD010000194.1	Genbank	transcript	23131	25660	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003188-T1_mrna"; gene_id "gene-KXW27_003188"; gene_name "ATG7"
+JAIBZD010000194.1	Genbank	exon	23131	23619	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003188-T1_mrna"; gene_id "gene-KXW27_003188"; gene_name "ATG7";
+JAIBZD010000194.1	Genbank	exon	23675	24142	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003188-T1_mrna"; gene_id "gene-KXW27_003188"; gene_name "ATG7";
+JAIBZD010000194.1	Genbank	exon	24198	24342	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003188-T1_mrna"; gene_id "gene-KXW27_003188"; gene_name "ATG7";
+JAIBZD010000194.1	Genbank	exon	24411	25201	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003188-T1_mrna"; gene_id "gene-KXW27_003188"; gene_name "ATG7";
+JAIBZD010000194.1	Genbank	exon	25256	25364	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003188-T1_mrna"; gene_id "gene-KXW27_003188"; gene_name "ATG7";
+JAIBZD010000194.1	Genbank	exon	25470	25660	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003188-T1_mrna"; gene_id "gene-KXW27_003188"; gene_name "ATG7";
+JAIBZD010000194.1	Genbank	CDS	23131	23619	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003188-T1_mrna"; gene_id "gene-KXW27_003188"; gene_name "ATG7";
+JAIBZD010000194.1	Genbank	CDS	23675	24142	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003188-T1_mrna"; gene_id "gene-KXW27_003188"; gene_name "ATG7";
+JAIBZD010000194.1	Genbank	CDS	24198	24342	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003188-T1_mrna"; gene_id "gene-KXW27_003188"; gene_name "ATG7";
+JAIBZD010000194.1	Genbank	CDS	24411	25201	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003188-T1_mrna"; gene_id "gene-KXW27_003188"; gene_name "ATG7";
+JAIBZD010000194.1	Genbank	CDS	25256	25364	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003188-T1_mrna"; gene_id "gene-KXW27_003188"; gene_name "ATG7";
+JAIBZD010000194.1	Genbank	CDS	25470	25660	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003188-T1_mrna"; gene_id "gene-KXW27_003188"; gene_name "ATG7";
+JAIBZD010000197.1	Genbank	transcript	3031	4484	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003227-T1_mrna"; gene_id "gene-KXW27_003227"
+JAIBZD010000197.1	Genbank	exon	3031	3964	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003227-T1_mrna"; gene_id "gene-KXW27_003227";
+JAIBZD010000197.1	Genbank	exon	4017	4144	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003227-T1_mrna"; gene_id "gene-KXW27_003227";
+JAIBZD010000197.1	Genbank	exon	4217	4317	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003227-T1_mrna"; gene_id "gene-KXW27_003227";
+JAIBZD010000197.1	Genbank	exon	4382	4484	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003227-T1_mrna"; gene_id "gene-KXW27_003227";
+JAIBZD010000197.1	Genbank	CDS	3031	3964	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003227-T1_mrna"; gene_id "gene-KXW27_003227";
+JAIBZD010000197.1	Genbank	CDS	4017	4144	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003227-T1_mrna"; gene_id "gene-KXW27_003227";
+JAIBZD010000197.1	Genbank	CDS	4217	4317	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003227-T1_mrna"; gene_id "gene-KXW27_003227";
+JAIBZD010000197.1	Genbank	CDS	4382	4484	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003227-T1_mrna"; gene_id "gene-KXW27_003227";
+JAIBZD010000002.1	Genbank	transcript	100442	102811	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003306-T1_mrna"; gene_id "gene-KXW27_003306"; gene_name "HAT1"
+JAIBZD010000002.1	Genbank	exon	100442	101408	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003306-T1_mrna"; gene_id "gene-KXW27_003306"; gene_name "HAT1";
+JAIBZD010000002.1	Genbank	exon	101472	101736	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003306-T1_mrna"; gene_id "gene-KXW27_003306"; gene_name "HAT1";
+JAIBZD010000002.1	Genbank	exon	101795	102070	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003306-T1_mrna"; gene_id "gene-KXW27_003306"; gene_name "HAT1";
+JAIBZD010000002.1	Genbank	exon	102110	102325	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003306-T1_mrna"; gene_id "gene-KXW27_003306"; gene_name "HAT1";
+JAIBZD010000002.1	Genbank	exon	102748	102811	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003306-T1_mrna"; gene_id "gene-KXW27_003306"; gene_name "HAT1";
+JAIBZD010000002.1	Genbank	CDS	100442	101408	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003306-T1_mrna"; gene_id "gene-KXW27_003306"; gene_name "HAT1";
+JAIBZD010000002.1	Genbank	CDS	101472	101736	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003306-T1_mrna"; gene_id "gene-KXW27_003306"; gene_name "HAT1";
+JAIBZD010000002.1	Genbank	CDS	101795	102070	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003306-T1_mrna"; gene_id "gene-KXW27_003306"; gene_name "HAT1";
+JAIBZD010000002.1	Genbank	CDS	102110	102325	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003306-T1_mrna"; gene_id "gene-KXW27_003306"; gene_name "HAT1";
+JAIBZD010000002.1	Genbank	CDS	102748	102811	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003306-T1_mrna"; gene_id "gene-KXW27_003306"; gene_name "HAT1";
+JAIBZD010000002.1	Genbank	transcript	125875	140652	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003316-T1_mrna"; gene_id "gene-KXW27_003316"
+JAIBZD010000002.1	Genbank	exon	125875	134898	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003316-T1_mrna"; gene_id "gene-KXW27_003316";
+JAIBZD010000002.1	Genbank	exon	134959	140652	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003316-T1_mrna"; gene_id "gene-KXW27_003316";
+JAIBZD010000002.1	Genbank	CDS	125875	134898	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003316-T1_mrna"; gene_id "gene-KXW27_003316";
+JAIBZD010000002.1	Genbank	CDS	134959	140652	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003316-T1_mrna"; gene_id "gene-KXW27_003316";
+JAIBZD010000002.1	Genbank	transcript	161610	162552	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003326-T1_mrna"; gene_id "gene-KXW27_003326"
+JAIBZD010000002.1	Genbank	exon	161610	161659	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003326-T1_mrna"; gene_id "gene-KXW27_003326";
+JAIBZD010000002.1	Genbank	exon	161717	162158	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003326-T1_mrna"; gene_id "gene-KXW27_003326";
+JAIBZD010000002.1	Genbank	exon	162230	162299	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003326-T1_mrna"; gene_id "gene-KXW27_003326";
+JAIBZD010000002.1	Genbank	exon	162350	162552	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003326-T1_mrna"; gene_id "gene-KXW27_003326";
+JAIBZD010000002.1	Genbank	CDS	161610	161659	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003326-T1_mrna"; gene_id "gene-KXW27_003326";
+JAIBZD010000002.1	Genbank	CDS	161717	162158	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003326-T1_mrna"; gene_id "gene-KXW27_003326";
+JAIBZD010000002.1	Genbank	CDS	162230	162299	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003326-T1_mrna"; gene_id "gene-KXW27_003326";
+JAIBZD010000002.1	Genbank	CDS	162350	162552	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003326-T1_mrna"; gene_id "gene-KXW27_003326";
+JAIBZD010000002.1	Genbank	transcript	203711	205119	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003341-T1_mrna"; gene_id "gene-KXW27_003341"; gene_name "DPH1"
+JAIBZD010000002.1	Genbank	exon	203711	204870	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003341-T1_mrna"; gene_id "gene-KXW27_003341"; gene_name "DPH1";
+JAIBZD010000002.1	Genbank	exon	204942	205119	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003341-T1_mrna"; gene_id "gene-KXW27_003341"; gene_name "DPH1";
+JAIBZD010000002.1	Genbank	CDS	203711	204870	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003341-T1_mrna"; gene_id "gene-KXW27_003341"; gene_name "DPH1";
+JAIBZD010000002.1	Genbank	CDS	204942	205119	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003341-T1_mrna"; gene_id "gene-KXW27_003341"; gene_name "DPH1";
+JAIBZD010000002.1	Genbank	transcript	372496	373757	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003406-T1_mrna"; gene_id "gene-KXW27_003406"
+JAIBZD010000002.1	Genbank	exon	372496	373113	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003406-T1_mrna"; gene_id "gene-KXW27_003406";
+JAIBZD010000002.1	Genbank	exon	373203	373757	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003406-T1_mrna"; gene_id "gene-KXW27_003406";
+JAIBZD010000002.1	Genbank	CDS	372496	373113	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003406-T1_mrna"; gene_id "gene-KXW27_003406";
+JAIBZD010000002.1	Genbank	CDS	373203	373757	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003406-T1_mrna"; gene_id "gene-KXW27_003406";
+JAIBZD010000020.1	Genbank	transcript	55030	56669	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003431-T1_mrna"; gene_id "gene-KXW27_003431"; gene_name "CSN12"
+JAIBZD010000020.1	Genbank	exon	55030	55116	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003431-T1_mrna"; gene_id "gene-KXW27_003431"; gene_name "CSN12";
+JAIBZD010000020.1	Genbank	exon	55171	55591	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003431-T1_mrna"; gene_id "gene-KXW27_003431"; gene_name "CSN12";
+JAIBZD010000020.1	Genbank	exon	55641	55702	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003431-T1_mrna"; gene_id "gene-KXW27_003431"; gene_name "CSN12";
+JAIBZD010000020.1	Genbank	exon	55765	55917	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003431-T1_mrna"; gene_id "gene-KXW27_003431"; gene_name "CSN12";
+JAIBZD010000020.1	Genbank	exon	55966	56038	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003431-T1_mrna"; gene_id "gene-KXW27_003431"; gene_name "CSN12";
+JAIBZD010000020.1	Genbank	exon	56098	56669	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003431-T1_mrna"; gene_id "gene-KXW27_003431"; gene_name "CSN12";
+JAIBZD010000020.1	Genbank	CDS	55030	55116	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003431-T1_mrna"; gene_id "gene-KXW27_003431"; gene_name "CSN12";
+JAIBZD010000020.1	Genbank	CDS	55171	55591	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003431-T1_mrna"; gene_id "gene-KXW27_003431"; gene_name "CSN12";
+JAIBZD010000020.1	Genbank	CDS	55641	55702	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003431-T1_mrna"; gene_id "gene-KXW27_003431"; gene_name "CSN12";
+JAIBZD010000020.1	Genbank	CDS	55765	55917	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003431-T1_mrna"; gene_id "gene-KXW27_003431"; gene_name "CSN12";
+JAIBZD010000020.1	Genbank	CDS	55966	56038	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003431-T1_mrna"; gene_id "gene-KXW27_003431"; gene_name "CSN12";
+JAIBZD010000020.1	Genbank	CDS	56098	56669	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003431-T1_mrna"; gene_id "gene-KXW27_003431"; gene_name "CSN12";
+JAIBZD010000202.1	Genbank	transcript	6765	9511	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003516-T1_mrna"; gene_id "gene-KXW27_003516"
+JAIBZD010000202.1	Genbank	exon	6765	7706	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003516-T1_mrna"; gene_id "gene-KXW27_003516";
+JAIBZD010000202.1	Genbank	exon	7771	7869	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003516-T1_mrna"; gene_id "gene-KXW27_003516";
+JAIBZD010000202.1	Genbank	exon	7922	8179	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003516-T1_mrna"; gene_id "gene-KXW27_003516";
+JAIBZD010000202.1	Genbank	exon	8237	8695	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003516-T1_mrna"; gene_id "gene-KXW27_003516";
+JAIBZD010000202.1	Genbank	exon	8748	8984	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003516-T1_mrna"; gene_id "gene-KXW27_003516";
+JAIBZD010000202.1	Genbank	exon	9050	9345	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003516-T1_mrna"; gene_id "gene-KXW27_003516";
+JAIBZD010000202.1	Genbank	exon	9445	9511	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003516-T1_mrna"; gene_id "gene-KXW27_003516";
+JAIBZD010000202.1	Genbank	CDS	6765	7706	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003516-T1_mrna"; gene_id "gene-KXW27_003516";
+JAIBZD010000202.1	Genbank	CDS	7771	7869	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003516-T1_mrna"; gene_id "gene-KXW27_003516";
+JAIBZD010000202.1	Genbank	CDS	7922	8179	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003516-T1_mrna"; gene_id "gene-KXW27_003516";
+JAIBZD010000202.1	Genbank	CDS	8237	8695	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003516-T1_mrna"; gene_id "gene-KXW27_003516";
+JAIBZD010000202.1	Genbank	CDS	8748	8984	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003516-T1_mrna"; gene_id "gene-KXW27_003516";
+JAIBZD010000202.1	Genbank	CDS	9050	9345	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003516-T1_mrna"; gene_id "gene-KXW27_003516";
+JAIBZD010000202.1	Genbank	CDS	9445	9511	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003516-T1_mrna"; gene_id "gene-KXW27_003516";
+JAIBZD010000022.1	Genbank	transcript	43804	45783	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003847-T1_mrna"; gene_id "gene-KXW27_003847"
+JAIBZD010000022.1	Genbank	exon	43804	45590	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003847-T1_mrna"; gene_id "gene-KXW27_003847";
+JAIBZD010000022.1	Genbank	exon	45642	45783	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003847-T1_mrna"; gene_id "gene-KXW27_003847";
+JAIBZD010000022.1	Genbank	CDS	43804	45590	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003847-T1_mrna"; gene_id "gene-KXW27_003847";
+JAIBZD010000022.1	Genbank	CDS	45642	45783	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003847-T1_mrna"; gene_id "gene-KXW27_003847";
+JAIBZD010000022.1	Genbank	transcript	77353	78652	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003859-T1_mrna"; gene_id "gene-KXW27_003859"
+JAIBZD010000022.1	Genbank	exon	77353	78533	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003859-T1_mrna"; gene_id "gene-KXW27_003859";
+JAIBZD010000022.1	Genbank	exon	78610	78652	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003859-T1_mrna"; gene_id "gene-KXW27_003859";
+JAIBZD010000022.1	Genbank	CDS	77353	78533	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003859-T1_mrna"; gene_id "gene-KXW27_003859";
+JAIBZD010000022.1	Genbank	CDS	78610	78652	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003859-T1_mrna"; gene_id "gene-KXW27_003859";
+JAIBZD010000022.1	Genbank	transcript	91843	92615	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003865-T1_mrna"; gene_id "gene-KXW27_003865"; gene_name "SF3A2"
+JAIBZD010000022.1	Genbank	exon	91843	91854	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003865-T1_mrna"; gene_id "gene-KXW27_003865"; gene_name "SF3A2";
+JAIBZD010000022.1	Genbank	exon	91911	92615	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003865-T1_mrna"; gene_id "gene-KXW27_003865"; gene_name "SF3A2";
+JAIBZD010000022.1	Genbank	CDS	91843	91854	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003865-T1_mrna"; gene_id "gene-KXW27_003865"; gene_name "SF3A2";
+JAIBZD010000022.1	Genbank	CDS	91911	92615	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003865-T1_mrna"; gene_id "gene-KXW27_003865"; gene_name "SF3A2";
+JAIBZD010000022.1	Genbank	transcript	138009	138787	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003884-T1_mrna"; gene_id "gene-KXW27_003884"
+JAIBZD010000022.1	Genbank	exon	138009	138652	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003884-T1_mrna"; gene_id "gene-KXW27_003884";
+JAIBZD010000022.1	Genbank	exon	138721	138787	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003884-T1_mrna"; gene_id "gene-KXW27_003884";
+JAIBZD010000022.1	Genbank	CDS	138009	138652	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003884-T1_mrna"; gene_id "gene-KXW27_003884";
+JAIBZD010000022.1	Genbank	CDS	138721	138787	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_003884-T1_mrna"; gene_id "gene-KXW27_003884";
+JAIBZD010000023.1	Genbank	transcript	102431	103525	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004075-T1_mrna"; gene_id "gene-KXW27_004075"
+JAIBZD010000023.1	Genbank	exon	102431	102497	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004075-T1_mrna"; gene_id "gene-KXW27_004075";
+JAIBZD010000023.1	Genbank	exon	102558	103525	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004075-T1_mrna"; gene_id "gene-KXW27_004075";
+JAIBZD010000023.1	Genbank	CDS	102431	102497	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004075-T1_mrna"; gene_id "gene-KXW27_004075";
+JAIBZD010000023.1	Genbank	CDS	102558	103525	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004075-T1_mrna"; gene_id "gene-KXW27_004075";
+JAIBZD010000232.1	Genbank	transcript	13772	19076	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004145-T1_mrna"; gene_id "gene-KXW27_004145"
+JAIBZD010000232.1	Genbank	exon	13772	14072	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004145-T1_mrna"; gene_id "gene-KXW27_004145";
+JAIBZD010000232.1	Genbank	exon	14151	15669	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004145-T1_mrna"; gene_id "gene-KXW27_004145";
+JAIBZD010000232.1	Genbank	exon	15731	15761	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004145-T1_mrna"; gene_id "gene-KXW27_004145";
+JAIBZD010000232.1	Genbank	exon	17530	17647	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004145-T1_mrna"; gene_id "gene-KXW27_004145";
+JAIBZD010000232.1	Genbank	exon	17716	17721	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004145-T1_mrna"; gene_id "gene-KXW27_004145";
+JAIBZD010000232.1	Genbank	exon	17775	17935	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004145-T1_mrna"; gene_id "gene-KXW27_004145";
+JAIBZD010000232.1	Genbank	exon	18409	18482	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004145-T1_mrna"; gene_id "gene-KXW27_004145";
+JAIBZD010000232.1	Genbank	exon	18541	18637	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004145-T1_mrna"; gene_id "gene-KXW27_004145";
+JAIBZD010000232.1	Genbank	exon	18696	19076	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004145-T1_mrna"; gene_id "gene-KXW27_004145";
+JAIBZD010000232.1	Genbank	CDS	13772	14072	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004145-T1_mrna"; gene_id "gene-KXW27_004145";
+JAIBZD010000232.1	Genbank	CDS	14151	15669	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004145-T1_mrna"; gene_id "gene-KXW27_004145";
+JAIBZD010000232.1	Genbank	CDS	15731	15761	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004145-T1_mrna"; gene_id "gene-KXW27_004145";
+JAIBZD010000232.1	Genbank	CDS	17530	17647	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004145-T1_mrna"; gene_id "gene-KXW27_004145";
+JAIBZD010000232.1	Genbank	CDS	17716	17721	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004145-T1_mrna"; gene_id "gene-KXW27_004145";
+JAIBZD010000232.1	Genbank	CDS	17775	17935	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004145-T1_mrna"; gene_id "gene-KXW27_004145";
+JAIBZD010000232.1	Genbank	CDS	18409	18482	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004145-T1_mrna"; gene_id "gene-KXW27_004145";
+JAIBZD010000232.1	Genbank	CDS	18541	18637	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004145-T1_mrna"; gene_id "gene-KXW27_004145";
+JAIBZD010000232.1	Genbank	CDS	18696	19076	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004145-T1_mrna"; gene_id "gene-KXW27_004145";
+JAIBZD010000243.1	Genbank	transcript	21288	23564	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004324-T1_mrna"; gene_id "gene-KXW27_004324"; gene_name "DBP7"
+JAIBZD010000243.1	Genbank	exon	21288	23564	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004324-T1_mrna"; gene_id "gene-KXW27_004324"; gene_name "DBP7";
+JAIBZD010000243.1	Genbank	CDS	21288	23564	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004324-T1_mrna"; gene_id "gene-KXW27_004324"; gene_name "DBP7";
+JAIBZD010000025.1	Genbank	transcript	72938	75417	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004423-T1_mrna"; gene_id "gene-KXW27_004423"
+JAIBZD010000025.1	Genbank	exon	72938	74813	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004423-T1_mrna"; gene_id "gene-KXW27_004423";
+JAIBZD010000025.1	Genbank	exon	74882	75169	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004423-T1_mrna"; gene_id "gene-KXW27_004423";
+JAIBZD010000025.1	Genbank	exon	75245	75280	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004423-T1_mrna"; gene_id "gene-KXW27_004423";
+JAIBZD010000025.1	Genbank	exon	75371	75417	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004423-T1_mrna"; gene_id "gene-KXW27_004423";
+JAIBZD010000025.1	Genbank	CDS	72938	74813	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004423-T1_mrna"; gene_id "gene-KXW27_004423";
+JAIBZD010000025.1	Genbank	CDS	74882	75169	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004423-T1_mrna"; gene_id "gene-KXW27_004423";
+JAIBZD010000025.1	Genbank	CDS	75245	75280	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004423-T1_mrna"; gene_id "gene-KXW27_004423";
+JAIBZD010000025.1	Genbank	CDS	75371	75417	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004423-T1_mrna"; gene_id "gene-KXW27_004423";
+JAIBZD010000253.1	Genbank	transcript	8940	11093	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004506-T1_mrna"; gene_id "gene-KXW27_004506"
+JAIBZD010000253.1	Genbank	exon	8940	11093	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004506-T1_mrna"; gene_id "gene-KXW27_004506";
+JAIBZD010000253.1	Genbank	CDS	8940	11093	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004506-T1_mrna"; gene_id "gene-KXW27_004506";
+JAIBZD010000026.1	Genbank	transcript	32303	32957	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004567-T1_mrna"; gene_id "gene-KXW27_004567"
+JAIBZD010000026.1	Genbank	exon	32303	32642	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004567-T1_mrna"; gene_id "gene-KXW27_004567";
+JAIBZD010000026.1	Genbank	exon	32728	32957	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004567-T1_mrna"; gene_id "gene-KXW27_004567";
+JAIBZD010000026.1	Genbank	CDS	32303	32642	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004567-T1_mrna"; gene_id "gene-KXW27_004567";
+JAIBZD010000026.1	Genbank	CDS	32728	32957	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004567-T1_mrna"; gene_id "gene-KXW27_004567";
+JAIBZD010000270.1	Genbank	transcript	4162	5425	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004816-T1_mrna"; gene_id "gene-KXW27_004816"
+JAIBZD010000270.1	Genbank	exon	4162	4382	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004816-T1_mrna"; gene_id "gene-KXW27_004816";
+JAIBZD010000270.1	Genbank	exon	4474	5425	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004816-T1_mrna"; gene_id "gene-KXW27_004816";
+JAIBZD010000270.1	Genbank	CDS	4162	4382	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004816-T1_mrna"; gene_id "gene-KXW27_004816";
+JAIBZD010000270.1	Genbank	CDS	4474	5425	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004816-T1_mrna"; gene_id "gene-KXW27_004816";
+JAIBZD010000028.1	Genbank	transcript	54876	58125	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004912-T1_mrna"; gene_id "gene-KXW27_004912"; gene_name "CTF18"
+JAIBZD010000028.1	Genbank	exon	54876	55299	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004912-T1_mrna"; gene_id "gene-KXW27_004912"; gene_name "CTF18";
+JAIBZD010000028.1	Genbank	exon	55363	57859	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004912-T1_mrna"; gene_id "gene-KXW27_004912"; gene_name "CTF18";
+JAIBZD010000028.1	Genbank	exon	57915	58125	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004912-T1_mrna"; gene_id "gene-KXW27_004912"; gene_name "CTF18";
+JAIBZD010000028.1	Genbank	CDS	54876	55299	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004912-T1_mrna"; gene_id "gene-KXW27_004912"; gene_name "CTF18";
+JAIBZD010000028.1	Genbank	CDS	55363	57859	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004912-T1_mrna"; gene_id "gene-KXW27_004912"; gene_name "CTF18";
+JAIBZD010000028.1	Genbank	CDS	57915	58125	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004912-T1_mrna"; gene_id "gene-KXW27_004912"; gene_name "CTF18";
+JAIBZD010000028.1	Genbank	transcript	58717	59919	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004913-T1_mrna"; gene_id "gene-KXW27_004913"
+JAIBZD010000028.1	Genbank	exon	58717	59297	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004913-T1_mrna"; gene_id "gene-KXW27_004913";
+JAIBZD010000028.1	Genbank	exon	59369	59537	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004913-T1_mrna"; gene_id "gene-KXW27_004913";
+JAIBZD010000028.1	Genbank	exon	59611	59919	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004913-T1_mrna"; gene_id "gene-KXW27_004913";
+JAIBZD010000028.1	Genbank	CDS	58717	59297	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004913-T1_mrna"; gene_id "gene-KXW27_004913";
+JAIBZD010000028.1	Genbank	CDS	59369	59537	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004913-T1_mrna"; gene_id "gene-KXW27_004913";
+JAIBZD010000028.1	Genbank	CDS	59611	59919	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_004913-T1_mrna"; gene_id "gene-KXW27_004913";
+JAIBZD010000029.1	Genbank	transcript	75711	79009	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005056-T1_mrna"; gene_id "gene-KXW27_005056"
+JAIBZD010000029.1	Genbank	exon	75711	75725	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005056-T1_mrna"; gene_id "gene-KXW27_005056";
+JAIBZD010000029.1	Genbank	exon	75787	75855	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005056-T1_mrna"; gene_id "gene-KXW27_005056";
+JAIBZD010000029.1	Genbank	exon	75928	76224	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005056-T1_mrna"; gene_id "gene-KXW27_005056";
+JAIBZD010000029.1	Genbank	exon	76284	76895	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005056-T1_mrna"; gene_id "gene-KXW27_005056";
+JAIBZD010000029.1	Genbank	exon	76946	77179	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005056-T1_mrna"; gene_id "gene-KXW27_005056";
+JAIBZD010000029.1	Genbank	exon	77235	77570	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005056-T1_mrna"; gene_id "gene-KXW27_005056";
+JAIBZD010000029.1	Genbank	exon	77624	78127	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005056-T1_mrna"; gene_id "gene-KXW27_005056";
+JAIBZD010000029.1	Genbank	exon	78176	78574	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005056-T1_mrna"; gene_id "gene-KXW27_005056";
+JAIBZD010000029.1	Genbank	exon	78629	79009	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005056-T1_mrna"; gene_id "gene-KXW27_005056";
+JAIBZD010000029.1	Genbank	CDS	75711	75725	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005056-T1_mrna"; gene_id "gene-KXW27_005056";
+JAIBZD010000029.1	Genbank	CDS	75787	75855	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005056-T1_mrna"; gene_id "gene-KXW27_005056";
+JAIBZD010000029.1	Genbank	CDS	75928	76224	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005056-T1_mrna"; gene_id "gene-KXW27_005056";
+JAIBZD010000029.1	Genbank	CDS	76284	76895	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005056-T1_mrna"; gene_id "gene-KXW27_005056";
+JAIBZD010000029.1	Genbank	CDS	76946	77179	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005056-T1_mrna"; gene_id "gene-KXW27_005056";
+JAIBZD010000029.1	Genbank	CDS	77235	77570	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005056-T1_mrna"; gene_id "gene-KXW27_005056";
+JAIBZD010000029.1	Genbank	CDS	77624	78127	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005056-T1_mrna"; gene_id "gene-KXW27_005056";
+JAIBZD010000029.1	Genbank	CDS	78176	78574	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005056-T1_mrna"; gene_id "gene-KXW27_005056";
+JAIBZD010000029.1	Genbank	CDS	78629	79009	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005056-T1_mrna"; gene_id "gene-KXW27_005056";
+JAIBZD010000003.1	Genbank	transcript	126614	127783	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005216-T1_mrna"; gene_id "gene-KXW27_005216"
+JAIBZD010000003.1	Genbank	exon	126614	127539	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005216-T1_mrna"; gene_id "gene-KXW27_005216";
+JAIBZD010000003.1	Genbank	exon	127591	127783	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005216-T1_mrna"; gene_id "gene-KXW27_005216";
+JAIBZD010000003.1	Genbank	CDS	126614	127539	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005216-T1_mrna"; gene_id "gene-KXW27_005216";
+JAIBZD010000003.1	Genbank	CDS	127591	127783	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005216-T1_mrna"; gene_id "gene-KXW27_005216";
+JAIBZD010000003.1	Genbank	transcript	135120	137690	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005221-T1_mrna"; gene_id "gene-KXW27_005221"; gene_name "DBP6"
+JAIBZD010000003.1	Genbank	exon	135120	137690	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005221-T1_mrna"; gene_id "gene-KXW27_005221"; gene_name "DBP6";
+JAIBZD010000003.1	Genbank	CDS	135120	137690	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005221-T1_mrna"; gene_id "gene-KXW27_005221"; gene_name "DBP6";
+JAIBZD010000030.1	Genbank	transcript	56185	57493	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005325-T1_mrna"; gene_id "gene-KXW27_005325"
+JAIBZD010000030.1	Genbank	exon	56185	57414	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005325-T1_mrna"; gene_id "gene-KXW27_005325";
+JAIBZD010000030.1	Genbank	exon	57464	57493	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005325-T1_mrna"; gene_id "gene-KXW27_005325";
+JAIBZD010000030.1	Genbank	CDS	56185	57414	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005325-T1_mrna"; gene_id "gene-KXW27_005325";
+JAIBZD010000030.1	Genbank	CDS	57464	57493	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005325-T1_mrna"; gene_id "gene-KXW27_005325";
+JAIBZD010000300.1	Genbank	transcript	6737	9755	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005380-T1_mrna"; gene_id "gene-KXW27_005380"
+JAIBZD010000300.1	Genbank	exon	6737	9341	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005380-T1_mrna"; gene_id "gene-KXW27_005380";
+JAIBZD010000300.1	Genbank	exon	9416	9670	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005380-T1_mrna"; gene_id "gene-KXW27_005380";
+JAIBZD010000300.1	Genbank	exon	9739	9755	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005380-T1_mrna"; gene_id "gene-KXW27_005380";
+JAIBZD010000300.1	Genbank	CDS	6737	9341	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005380-T1_mrna"; gene_id "gene-KXW27_005380";
+JAIBZD010000300.1	Genbank	CDS	9416	9670	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005380-T1_mrna"; gene_id "gene-KXW27_005380";
+JAIBZD010000300.1	Genbank	CDS	9739	9755	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005380-T1_mrna"; gene_id "gene-KXW27_005380";
+JAIBZD010000308.1	Genbank	transcript	10963	11764	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005440-T1_mrna"; gene_id "gene-KXW27_005440"; gene_name "PSF1"
+JAIBZD010000308.1	Genbank	exon	10963	10989	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005440-T1_mrna"; gene_id "gene-KXW27_005440"; gene_name "PSF1";
+JAIBZD010000308.1	Genbank	exon	11050	11576	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005440-T1_mrna"; gene_id "gene-KXW27_005440"; gene_name "PSF1";
+JAIBZD010000308.1	Genbank	exon	11671	11764	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005440-T1_mrna"; gene_id "gene-KXW27_005440"; gene_name "PSF1";
+JAIBZD010000308.1	Genbank	CDS	10963	10989	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005440-T1_mrna"; gene_id "gene-KXW27_005440"; gene_name "PSF1";
+JAIBZD010000308.1	Genbank	CDS	11050	11576	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005440-T1_mrna"; gene_id "gene-KXW27_005440"; gene_name "PSF1";
+JAIBZD010000308.1	Genbank	CDS	11671	11764	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005440-T1_mrna"; gene_id "gene-KXW27_005440"; gene_name "PSF1";
+JAIBZD010000031.1	Genbank	transcript	154273	155781	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005513-T1_mrna"; gene_id "gene-KXW27_005513"; gene_name "TRM61"
+JAIBZD010000031.1	Genbank	exon	154273	155781	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005513-T1_mrna"; gene_id "gene-KXW27_005513"; gene_name "TRM61";
+JAIBZD010000031.1	Genbank	CDS	154273	155781	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005513-T1_mrna"; gene_id "gene-KXW27_005513"; gene_name "TRM61";
+JAIBZD010000032.1	Genbank	transcript	160739	163996	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005635-T1_mrna"; gene_id "gene-KXW27_005635"
+JAIBZD010000032.1	Genbank	exon	160739	162572	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005635-T1_mrna"; gene_id "gene-KXW27_005635";
+JAIBZD010000032.1	Genbank	exon	162622	162869	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005635-T1_mrna"; gene_id "gene-KXW27_005635";
+JAIBZD010000032.1	Genbank	exon	162919	163414	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005635-T1_mrna"; gene_id "gene-KXW27_005635";
+JAIBZD010000032.1	Genbank	exon	163487	163734	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005635-T1_mrna"; gene_id "gene-KXW27_005635";
+JAIBZD010000032.1	Genbank	exon	163907	163996	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005635-T1_mrna"; gene_id "gene-KXW27_005635";
+JAIBZD010000032.1	Genbank	CDS	160739	162572	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005635-T1_mrna"; gene_id "gene-KXW27_005635";
+JAIBZD010000032.1	Genbank	CDS	162622	162869	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005635-T1_mrna"; gene_id "gene-KXW27_005635";
+JAIBZD010000032.1	Genbank	CDS	162919	163414	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005635-T1_mrna"; gene_id "gene-KXW27_005635";
+JAIBZD010000032.1	Genbank	CDS	163487	163734	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005635-T1_mrna"; gene_id "gene-KXW27_005635";
+JAIBZD010000032.1	Genbank	CDS	163907	163996	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005635-T1_mrna"; gene_id "gene-KXW27_005635";
+JAIBZD010000033.1	Genbank	transcript	24814	25855	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005695-T1_mrna"; gene_id "gene-KXW27_005695"
+JAIBZD010000033.1	Genbank	exon	24814	25694	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005695-T1_mrna"; gene_id "gene-KXW27_005695";
+JAIBZD010000033.1	Genbank	exon	25780	25855	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005695-T1_mrna"; gene_id "gene-KXW27_005695";
+JAIBZD010000033.1	Genbank	CDS	24814	25694	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005695-T1_mrna"; gene_id "gene-KXW27_005695";
+JAIBZD010000033.1	Genbank	CDS	25780	25855	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005695-T1_mrna"; gene_id "gene-KXW27_005695";
+JAIBZD010000033.1	Genbank	transcript	68685	69896	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005713-T1_mrna"; gene_id "gene-KXW27_005713"
+JAIBZD010000033.1	Genbank	exon	68685	69896	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005713-T1_mrna"; gene_id "gene-KXW27_005713";
+JAIBZD010000033.1	Genbank	CDS	68685	69896	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005713-T1_mrna"; gene_id "gene-KXW27_005713";
+JAIBZD010000033.1	Genbank	transcript	80975	82810	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005717-T1_mrna"; gene_id "gene-KXW27_005717"
+JAIBZD010000033.1	Genbank	exon	80975	82512	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005717-T1_mrna"; gene_id "gene-KXW27_005717";
+JAIBZD010000033.1	Genbank	exon	82590	82623	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005717-T1_mrna"; gene_id "gene-KXW27_005717";
+JAIBZD010000033.1	Genbank	exon	82769	82810	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005717-T1_mrna"; gene_id "gene-KXW27_005717";
+JAIBZD010000033.1	Genbank	CDS	80975	82512	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005717-T1_mrna"; gene_id "gene-KXW27_005717";
+JAIBZD010000033.1	Genbank	CDS	82590	82623	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005717-T1_mrna"; gene_id "gene-KXW27_005717";
+JAIBZD010000033.1	Genbank	CDS	82769	82810	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005717-T1_mrna"; gene_id "gene-KXW27_005717";
+JAIBZD010000033.1	Genbank	transcript	153149	154095	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005746-T1_mrna"; gene_id "gene-KXW27_005746"
+JAIBZD010000033.1	Genbank	exon	153149	153160	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005746-T1_mrna"; gene_id "gene-KXW27_005746";
+JAIBZD010000033.1	Genbank	exon	153235	153333	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005746-T1_mrna"; gene_id "gene-KXW27_005746";
+JAIBZD010000033.1	Genbank	exon	153397	153493	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005746-T1_mrna"; gene_id "gene-KXW27_005746";
+JAIBZD010000033.1	Genbank	exon	153549	153635	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005746-T1_mrna"; gene_id "gene-KXW27_005746";
+JAIBZD010000033.1	Genbank	exon	153690	153753	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005746-T1_mrna"; gene_id "gene-KXW27_005746";
+JAIBZD010000033.1	Genbank	exon	153812	153989	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005746-T1_mrna"; gene_id "gene-KXW27_005746";
+JAIBZD010000033.1	Genbank	exon	154051	154095	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005746-T1_mrna"; gene_id "gene-KXW27_005746";
+JAIBZD010000033.1	Genbank	CDS	153149	153160	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005746-T1_mrna"; gene_id "gene-KXW27_005746";
+JAIBZD010000033.1	Genbank	CDS	153235	153333	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005746-T1_mrna"; gene_id "gene-KXW27_005746";
+JAIBZD010000033.1	Genbank	CDS	153397	153493	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005746-T1_mrna"; gene_id "gene-KXW27_005746";
+JAIBZD010000033.1	Genbank	CDS	153549	153635	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005746-T1_mrna"; gene_id "gene-KXW27_005746";
+JAIBZD010000033.1	Genbank	CDS	153690	153753	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005746-T1_mrna"; gene_id "gene-KXW27_005746";
+JAIBZD010000033.1	Genbank	CDS	153812	153989	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005746-T1_mrna"; gene_id "gene-KXW27_005746";
+JAIBZD010000033.1	Genbank	CDS	154051	154095	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005746-T1_mrna"; gene_id "gene-KXW27_005746";
+JAIBZD010000336.1	Genbank	transcript	538	2234	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005776-T1_mrna"; gene_id "gene-KXW27_005776"
+JAIBZD010000336.1	Genbank	exon	538	1900	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005776-T1_mrna"; gene_id "gene-KXW27_005776";
+JAIBZD010000336.1	Genbank	exon	1969	2234	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005776-T1_mrna"; gene_id "gene-KXW27_005776";
+JAIBZD010000336.1	Genbank	CDS	538	1900	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005776-T1_mrna"; gene_id "gene-KXW27_005776";
+JAIBZD010000336.1	Genbank	CDS	1969	2234	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005776-T1_mrna"; gene_id "gene-KXW27_005776";
+JAIBZD010000336.1	Genbank	transcript	9357	11498	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005780-T1_mrna"; gene_id "gene-KXW27_005780"
+JAIBZD010000336.1	Genbank	exon	9357	11498	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005780-T1_mrna"; gene_id "gene-KXW27_005780";
+JAIBZD010000336.1	Genbank	CDS	9357	11498	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005780-T1_mrna"; gene_id "gene-KXW27_005780";
+JAIBZD010000342.1	Genbank	transcript	11342	12487	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005844-T1_mrna"; gene_id "gene-KXW27_005844"; gene_name "DRE2"
+JAIBZD010000342.1	Genbank	exon	11342	11419	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005844-T1_mrna"; gene_id "gene-KXW27_005844"; gene_name "DRE2";
+JAIBZD010000342.1	Genbank	exon	11491	11720	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005844-T1_mrna"; gene_id "gene-KXW27_005844"; gene_name "DRE2";
+JAIBZD010000342.1	Genbank	exon	11833	12487	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005844-T1_mrna"; gene_id "gene-KXW27_005844"; gene_name "DRE2";
+JAIBZD010000342.1	Genbank	CDS	11342	11419	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005844-T1_mrna"; gene_id "gene-KXW27_005844"; gene_name "DRE2";
+JAIBZD010000342.1	Genbank	CDS	11491	11720	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005844-T1_mrna"; gene_id "gene-KXW27_005844"; gene_name "DRE2";
+JAIBZD010000342.1	Genbank	CDS	11833	12487	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005844-T1_mrna"; gene_id "gene-KXW27_005844"; gene_name "DRE2";
+JAIBZD010000345.1	Genbank	transcript	8572	9606	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005851-T1_mrna"; gene_id "gene-KXW27_005851"
+JAIBZD010000345.1	Genbank	exon	8572	9606	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005851-T1_mrna"; gene_id "gene-KXW27_005851";
+JAIBZD010000345.1	Genbank	CDS	8572	9606	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005851-T1_mrna"; gene_id "gene-KXW27_005851";
+JAIBZD010000346.1	Genbank	transcript	12250	13365	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005855-T1_mrna"; gene_id "gene-KXW27_005855"; gene_name "ATG3"
+JAIBZD010000346.1	Genbank	exon	12250	12773	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005855-T1_mrna"; gene_id "gene-KXW27_005855"; gene_name "ATG3";
+JAIBZD010000346.1	Genbank	exon	12828	13365	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005855-T1_mrna"; gene_id "gene-KXW27_005855"; gene_name "ATG3";
+JAIBZD010000346.1	Genbank	CDS	12250	12773	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005855-T1_mrna"; gene_id "gene-KXW27_005855"; gene_name "ATG3";
+JAIBZD010000346.1	Genbank	CDS	12828	13365	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005855-T1_mrna"; gene_id "gene-KXW27_005855"; gene_name "ATG3";
+JAIBZD010000348.1	Genbank	transcript	9559	11130	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005864-T1_mrna"; gene_id "gene-KXW27_005864"
+JAIBZD010000348.1	Genbank	exon	9559	10539	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005864-T1_mrna"; gene_id "gene-KXW27_005864";
+JAIBZD010000348.1	Genbank	exon	10590	10770	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005864-T1_mrna"; gene_id "gene-KXW27_005864";
+JAIBZD010000348.1	Genbank	exon	10886	11130	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005864-T1_mrna"; gene_id "gene-KXW27_005864";
+JAIBZD010000348.1	Genbank	CDS	9559	10539	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005864-T1_mrna"; gene_id "gene-KXW27_005864";
+JAIBZD010000348.1	Genbank	CDS	10590	10770	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005864-T1_mrna"; gene_id "gene-KXW27_005864";
+JAIBZD010000348.1	Genbank	CDS	10886	11130	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005864-T1_mrna"; gene_id "gene-KXW27_005864";
+JAIBZD010000035.1	Genbank	transcript	53033	54310	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005888-T1_mrna"; gene_id "gene-KXW27_005888"
+JAIBZD010000035.1	Genbank	exon	53033	53206	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005888-T1_mrna"; gene_id "gene-KXW27_005888";
+JAIBZD010000035.1	Genbank	exon	53274	53946	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005888-T1_mrna"; gene_id "gene-KXW27_005888";
+JAIBZD010000035.1	Genbank	exon	54012	54310	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005888-T1_mrna"; gene_id "gene-KXW27_005888";
+JAIBZD010000035.1	Genbank	CDS	53033	53206	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005888-T1_mrna"; gene_id "gene-KXW27_005888";
+JAIBZD010000035.1	Genbank	CDS	53274	53946	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005888-T1_mrna"; gene_id "gene-KXW27_005888";
+JAIBZD010000035.1	Genbank	CDS	54012	54310	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005888-T1_mrna"; gene_id "gene-KXW27_005888";
+JAIBZD010000351.1	Genbank	transcript	9217	10177	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005939-T1_mrna"; gene_id "gene-KXW27_005939"
+JAIBZD010000351.1	Genbank	exon	9217	10005	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005939-T1_mrna"; gene_id "gene-KXW27_005939";
+JAIBZD010000351.1	Genbank	exon	10046	10177	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005939-T1_mrna"; gene_id "gene-KXW27_005939";
+JAIBZD010000351.1	Genbank	CDS	9217	10005	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005939-T1_mrna"; gene_id "gene-KXW27_005939";
+JAIBZD010000351.1	Genbank	CDS	10046	10177	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005939-T1_mrna"; gene_id "gene-KXW27_005939";
+JAIBZD010000355.1	Genbank	transcript	6971	8545	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005953-T1_mrna"; gene_id "gene-KXW27_005953"
+JAIBZD010000355.1	Genbank	exon	6971	7279	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005953-T1_mrna"; gene_id "gene-KXW27_005953";
+JAIBZD010000355.1	Genbank	exon	7424	8545	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005953-T1_mrna"; gene_id "gene-KXW27_005953";
+JAIBZD010000355.1	Genbank	CDS	6971	7279	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005953-T1_mrna"; gene_id "gene-KXW27_005953";
+JAIBZD010000355.1	Genbank	CDS	7424	8545	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_005953-T1_mrna"; gene_id "gene-KXW27_005953";
+JAIBZD010000037.1	Genbank	transcript	21623	24431	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006052-T1_mrna"; gene_id "gene-KXW27_006052"
+JAIBZD010000037.1	Genbank	exon	21623	21910	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006052-T1_mrna"; gene_id "gene-KXW27_006052";
+JAIBZD010000037.1	Genbank	exon	21978	24431	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006052-T1_mrna"; gene_id "gene-KXW27_006052";
+JAIBZD010000037.1	Genbank	CDS	21623	21910	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006052-T1_mrna"; gene_id "gene-KXW27_006052";
+JAIBZD010000037.1	Genbank	CDS	21978	24431	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006052-T1_mrna"; gene_id "gene-KXW27_006052";
+JAIBZD010000369.1	Genbank	transcript	3237	4399	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006090-T1_mrna"; gene_id "gene-KXW27_006090"
+JAIBZD010000369.1	Genbank	exon	3237	3473	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006090-T1_mrna"; gene_id "gene-KXW27_006090";
+JAIBZD010000369.1	Genbank	exon	3537	3689	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006090-T1_mrna"; gene_id "gene-KXW27_006090";
+JAIBZD010000369.1	Genbank	exon	3760	3966	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006090-T1_mrna"; gene_id "gene-KXW27_006090";
+JAIBZD010000369.1	Genbank	exon	4019	4399	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006090-T1_mrna"; gene_id "gene-KXW27_006090";
+JAIBZD010000369.1	Genbank	CDS	3237	3473	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006090-T1_mrna"; gene_id "gene-KXW27_006090";
+JAIBZD010000369.1	Genbank	CDS	3537	3689	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006090-T1_mrna"; gene_id "gene-KXW27_006090";
+JAIBZD010000369.1	Genbank	CDS	3760	3966	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006090-T1_mrna"; gene_id "gene-KXW27_006090";
+JAIBZD010000369.1	Genbank	CDS	4019	4399	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006090-T1_mrna"; gene_id "gene-KXW27_006090";
+JAIBZD010000004.1	Genbank	transcript	130395	131051	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006306-T1_mrna"; gene_id "gene-KXW27_006306"
+JAIBZD010000004.1	Genbank	exon	130395	131051	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006306-T1_mrna"; gene_id "gene-KXW27_006306";
+JAIBZD010000004.1	Genbank	CDS	130395	131051	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006306-T1_mrna"; gene_id "gene-KXW27_006306";
+JAIBZD010000004.1	Genbank	transcript	136619	137592	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006309-T1_mrna"; gene_id "gene-KXW27_006309"; gene_name "DPH5"
+JAIBZD010000004.1	Genbank	exon	136619	136753	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006309-T1_mrna"; gene_id "gene-KXW27_006309"; gene_name "DPH5";
+JAIBZD010000004.1	Genbank	exon	136818	136942	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006309-T1_mrna"; gene_id "gene-KXW27_006309"; gene_name "DPH5";
+JAIBZD010000004.1	Genbank	exon	136995	137592	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006309-T1_mrna"; gene_id "gene-KXW27_006309"; gene_name "DPH5";
+JAIBZD010000004.1	Genbank	CDS	136619	136753	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006309-T1_mrna"; gene_id "gene-KXW27_006309"; gene_name "DPH5";
+JAIBZD010000004.1	Genbank	CDS	136818	136942	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006309-T1_mrna"; gene_id "gene-KXW27_006309"; gene_name "DPH5";
+JAIBZD010000004.1	Genbank	CDS	136995	137592	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006309-T1_mrna"; gene_id "gene-KXW27_006309"; gene_name "DPH5";
+JAIBZD010000004.1	Genbank	transcript	175189	176961	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006321-T1_mrna"; gene_id "gene-KXW27_006321"
+JAIBZD010000004.1	Genbank	exon	175189	176961	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006321-T1_mrna"; gene_id "gene-KXW27_006321";
+JAIBZD010000004.1	Genbank	CDS	175189	176961	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006321-T1_mrna"; gene_id "gene-KXW27_006321";
+JAIBZD010000040.1	Genbank	transcript	142323	145281	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006422-T1_mrna"; gene_id "gene-KXW27_006422"; gene_name "MCM2"
+JAIBZD010000040.1	Genbank	exon	142323	142327	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006422-T1_mrna"; gene_id "gene-KXW27_006422"; gene_name "MCM2";
+JAIBZD010000040.1	Genbank	exon	142413	142528	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006422-T1_mrna"; gene_id "gene-KXW27_006422"; gene_name "MCM2";
+JAIBZD010000040.1	Genbank	exon	142589	144888	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006422-T1_mrna"; gene_id "gene-KXW27_006422"; gene_name "MCM2";
+JAIBZD010000040.1	Genbank	exon	144944	145113	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006422-T1_mrna"; gene_id "gene-KXW27_006422"; gene_name "MCM2";
+JAIBZD010000040.1	Genbank	exon	145182	145281	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006422-T1_mrna"; gene_id "gene-KXW27_006422"; gene_name "MCM2";
+JAIBZD010000040.1	Genbank	CDS	142323	142327	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006422-T1_mrna"; gene_id "gene-KXW27_006422"; gene_name "MCM2";
+JAIBZD010000040.1	Genbank	CDS	142413	142528	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006422-T1_mrna"; gene_id "gene-KXW27_006422"; gene_name "MCM2";
+JAIBZD010000040.1	Genbank	CDS	142589	144888	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006422-T1_mrna"; gene_id "gene-KXW27_006422"; gene_name "MCM2";
+JAIBZD010000040.1	Genbank	CDS	144944	145113	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006422-T1_mrna"; gene_id "gene-KXW27_006422"; gene_name "MCM2";
+JAIBZD010000040.1	Genbank	CDS	145182	145281	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006422-T1_mrna"; gene_id "gene-KXW27_006422"; gene_name "MCM2";
+JAIBZD010000043.1	Genbank	transcript	134725	136132	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006627-T1_mrna"; gene_id "gene-KXW27_006627"
+JAIBZD010000043.1	Genbank	exon	134725	134815	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006627-T1_mrna"; gene_id "gene-KXW27_006627";
+JAIBZD010000043.1	Genbank	exon	134884	134923	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006627-T1_mrna"; gene_id "gene-KXW27_006627";
+JAIBZD010000043.1	Genbank	exon	134982	135028	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006627-T1_mrna"; gene_id "gene-KXW27_006627";
+JAIBZD010000043.1	Genbank	exon	135088	135098	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006627-T1_mrna"; gene_id "gene-KXW27_006627";
+JAIBZD010000043.1	Genbank	exon	135156	135188	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006627-T1_mrna"; gene_id "gene-KXW27_006627";
+JAIBZD010000043.1	Genbank	exon	135248	136132	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006627-T1_mrna"; gene_id "gene-KXW27_006627";
+JAIBZD010000043.1	Genbank	CDS	134725	134815	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006627-T1_mrna"; gene_id "gene-KXW27_006627";
+JAIBZD010000043.1	Genbank	CDS	134884	134923	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006627-T1_mrna"; gene_id "gene-KXW27_006627";
+JAIBZD010000043.1	Genbank	CDS	134982	135028	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006627-T1_mrna"; gene_id "gene-KXW27_006627";
+JAIBZD010000043.1	Genbank	CDS	135088	135098	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006627-T1_mrna"; gene_id "gene-KXW27_006627";
+JAIBZD010000043.1	Genbank	CDS	135156	135188	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006627-T1_mrna"; gene_id "gene-KXW27_006627";
+JAIBZD010000043.1	Genbank	CDS	135248	136132	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006627-T1_mrna"; gene_id "gene-KXW27_006627";
+JAIBZD010000045.1	Genbank	transcript	108776	109652	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006740-T1_mrna"; gene_id "gene-KXW27_006740"
+JAIBZD010000045.1	Genbank	exon	108776	108949	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006740-T1_mrna"; gene_id "gene-KXW27_006740";
+JAIBZD010000045.1	Genbank	exon	109026	109652	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006740-T1_mrna"; gene_id "gene-KXW27_006740";
+JAIBZD010000045.1	Genbank	CDS	108776	108949	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006740-T1_mrna"; gene_id "gene-KXW27_006740";
+JAIBZD010000045.1	Genbank	CDS	109026	109652	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006740-T1_mrna"; gene_id "gene-KXW27_006740";
+JAIBZD010000047.1	Genbank	transcript	120372	121406	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006859-T1_mrna"; gene_id "gene-KXW27_006859"; gene_name "CWC26"
+JAIBZD010000047.1	Genbank	exon	120372	121406	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006859-T1_mrna"; gene_id "gene-KXW27_006859"; gene_name "CWC26";
+JAIBZD010000047.1	Genbank	CDS	120372	121406	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_006859-T1_mrna"; gene_id "gene-KXW27_006859"; gene_name "CWC26";
+JAIBZD010000005.1	Genbank	transcript	257380	259246	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007034-T1_mrna"; gene_id "gene-KXW27_007034"; gene_name "SWC4"
+JAIBZD010000005.1	Genbank	exon	257380	258913	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007034-T1_mrna"; gene_id "gene-KXW27_007034"; gene_name "SWC4";
+JAIBZD010000005.1	Genbank	exon	258977	259094	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007034-T1_mrna"; gene_id "gene-KXW27_007034"; gene_name "SWC4";
+JAIBZD010000005.1	Genbank	exon	259153	259246	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007034-T1_mrna"; gene_id "gene-KXW27_007034"; gene_name "SWC4";
+JAIBZD010000005.1	Genbank	CDS	257380	258913	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007034-T1_mrna"; gene_id "gene-KXW27_007034"; gene_name "SWC4";
+JAIBZD010000005.1	Genbank	CDS	258977	259094	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007034-T1_mrna"; gene_id "gene-KXW27_007034"; gene_name "SWC4";
+JAIBZD010000005.1	Genbank	CDS	259153	259246	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007034-T1_mrna"; gene_id "gene-KXW27_007034"; gene_name "SWC4";
+JAIBZD010000005.1	Genbank	transcript	286553	288524	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007044-T1_mrna"; gene_id "gene-KXW27_007044"
+JAIBZD010000005.1	Genbank	exon	286553	288064	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007044-T1_mrna"; gene_id "gene-KXW27_007044";
+JAIBZD010000005.1	Genbank	exon	288153	288524	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007044-T1_mrna"; gene_id "gene-KXW27_007044";
+JAIBZD010000005.1	Genbank	CDS	286553	288064	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007044-T1_mrna"; gene_id "gene-KXW27_007044";
+JAIBZD010000005.1	Genbank	CDS	288153	288524	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007044-T1_mrna"; gene_id "gene-KXW27_007044";
+JAIBZD010000005.1	Genbank	transcript	295654	298713	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007048-T1_mrna"; gene_id "gene-KXW27_007048"
+JAIBZD010000005.1	Genbank	exon	295654	295827	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007048-T1_mrna"; gene_id "gene-KXW27_007048";
+JAIBZD010000005.1	Genbank	exon	295890	295917	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007048-T1_mrna"; gene_id "gene-KXW27_007048";
+JAIBZD010000005.1	Genbank	exon	295991	298713	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007048-T1_mrna"; gene_id "gene-KXW27_007048";
+JAIBZD010000005.1	Genbank	CDS	295654	295827	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007048-T1_mrna"; gene_id "gene-KXW27_007048";
+JAIBZD010000005.1	Genbank	CDS	295890	295917	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007048-T1_mrna"; gene_id "gene-KXW27_007048";
+JAIBZD010000005.1	Genbank	CDS	295991	298713	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007048-T1_mrna"; gene_id "gene-KXW27_007048";
+JAIBZD010000005.1	Genbank	transcript	306881	308491	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007051-T1_mrna"; gene_id "gene-KXW27_007051"
+JAIBZD010000005.1	Genbank	exon	306881	307816	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007051-T1_mrna"; gene_id "gene-KXW27_007051";
+JAIBZD010000005.1	Genbank	exon	307874	308491	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007051-T1_mrna"; gene_id "gene-KXW27_007051";
+JAIBZD010000005.1	Genbank	CDS	306881	307816	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007051-T1_mrna"; gene_id "gene-KXW27_007051";
+JAIBZD010000005.1	Genbank	CDS	307874	308491	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007051-T1_mrna"; gene_id "gene-KXW27_007051";
+JAIBZD010000050.1	Genbank	transcript	6179	8257	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007062-T1_mrna"; gene_id "gene-KXW27_007062"
+JAIBZD010000050.1	Genbank	exon	6179	8257	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007062-T1_mrna"; gene_id "gene-KXW27_007062";
+JAIBZD010000050.1	Genbank	CDS	6179	8257	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007062-T1_mrna"; gene_id "gene-KXW27_007062";
+JAIBZD010000053.1	Genbank	transcript	139568	141179	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007278-T1_mrna"; gene_id "gene-KXW27_007278"; gene_name "CYP6"
+JAIBZD010000053.1	Genbank	exon	139568	139969	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007278-T1_mrna"; gene_id "gene-KXW27_007278"; gene_name "CYP6";
+JAIBZD010000053.1	Genbank	exon	140025	140221	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007278-T1_mrna"; gene_id "gene-KXW27_007278"; gene_name "CYP6";
+JAIBZD010000053.1	Genbank	exon	140277	140977	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007278-T1_mrna"; gene_id "gene-KXW27_007278"; gene_name "CYP6";
+JAIBZD010000053.1	Genbank	exon	141100	141179	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007278-T1_mrna"; gene_id "gene-KXW27_007278"; gene_name "CYP6";
+JAIBZD010000053.1	Genbank	CDS	139568	139969	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007278-T1_mrna"; gene_id "gene-KXW27_007278"; gene_name "CYP6";
+JAIBZD010000053.1	Genbank	CDS	140025	140221	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007278-T1_mrna"; gene_id "gene-KXW27_007278"; gene_name "CYP6";
+JAIBZD010000053.1	Genbank	CDS	140277	140977	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007278-T1_mrna"; gene_id "gene-KXW27_007278"; gene_name "CYP6";
+JAIBZD010000053.1	Genbank	CDS	141100	141179	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007278-T1_mrna"; gene_id "gene-KXW27_007278"; gene_name "CYP6";
+JAIBZD010000058.1	Genbank	transcript	132388	134676	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007523-T1_mrna"; gene_id "gene-KXW27_007523"
+JAIBZD010000058.1	Genbank	exon	132388	134676	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007523-T1_mrna"; gene_id "gene-KXW27_007523";
+JAIBZD010000058.1	Genbank	CDS	132388	134676	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007523-T1_mrna"; gene_id "gene-KXW27_007523";
+JAIBZD010000059.1	Genbank	transcript	108682	110915	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007565-T1_mrna"; gene_id "gene-KXW27_007565"
+JAIBZD010000059.1	Genbank	exon	108682	108898	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007565-T1_mrna"; gene_id "gene-KXW27_007565";
+JAIBZD010000059.1	Genbank	exon	108967	110915	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007565-T1_mrna"; gene_id "gene-KXW27_007565";
+JAIBZD010000059.1	Genbank	CDS	108682	108898	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007565-T1_mrna"; gene_id "gene-KXW27_007565";
+JAIBZD010000059.1	Genbank	CDS	108967	110915	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007565-T1_mrna"; gene_id "gene-KXW27_007565";
+JAIBZD010000006.1	Genbank	transcript	48977	50324	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007591-T1_mrna"; gene_id "gene-KXW27_007591"
+JAIBZD010000006.1	Genbank	exon	48977	49054	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007591-T1_mrna"; gene_id "gene-KXW27_007591";
+JAIBZD010000006.1	Genbank	exon	49114	49608	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007591-T1_mrna"; gene_id "gene-KXW27_007591";
+JAIBZD010000006.1	Genbank	exon	49665	50324	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007591-T1_mrna"; gene_id "gene-KXW27_007591";
+JAIBZD010000006.1	Genbank	CDS	48977	49054	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007591-T1_mrna"; gene_id "gene-KXW27_007591";
+JAIBZD010000006.1	Genbank	CDS	49114	49608	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007591-T1_mrna"; gene_id "gene-KXW27_007591";
+JAIBZD010000006.1	Genbank	CDS	49665	50324	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_007591-T1_mrna"; gene_id "gene-KXW27_007591";
+JAIBZD010000067.1	Genbank	transcript	59415	60617	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008034-T1_mrna"; gene_id "gene-KXW27_008034"
+JAIBZD010000067.1	Genbank	exon	59415	59517	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008034-T1_mrna"; gene_id "gene-KXW27_008034";
+JAIBZD010000067.1	Genbank	exon	59600	59705	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008034-T1_mrna"; gene_id "gene-KXW27_008034";
+JAIBZD010000067.1	Genbank	exon	59769	60281	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008034-T1_mrna"; gene_id "gene-KXW27_008034";
+JAIBZD010000067.1	Genbank	exon	60371	60617	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008034-T1_mrna"; gene_id "gene-KXW27_008034";
+JAIBZD010000067.1	Genbank	CDS	59415	59517	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008034-T1_mrna"; gene_id "gene-KXW27_008034";
+JAIBZD010000067.1	Genbank	CDS	59600	59705	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008034-T1_mrna"; gene_id "gene-KXW27_008034";
+JAIBZD010000067.1	Genbank	CDS	59769	60281	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008034-T1_mrna"; gene_id "gene-KXW27_008034";
+JAIBZD010000067.1	Genbank	CDS	60371	60617	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008034-T1_mrna"; gene_id "gene-KXW27_008034";
+JAIBZD010000067.1	Genbank	transcript	69198	70143	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008040-T1_mrna"; gene_id "gene-KXW27_008040"; gene_name "COQ4"
+JAIBZD010000067.1	Genbank	exon	69198	69408	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008040-T1_mrna"; gene_id "gene-KXW27_008040"; gene_name "COQ4";
+JAIBZD010000067.1	Genbank	exon	69497	70143	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008040-T1_mrna"; gene_id "gene-KXW27_008040"; gene_name "COQ4";
+JAIBZD010000067.1	Genbank	CDS	69198	69408	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008040-T1_mrna"; gene_id "gene-KXW27_008040"; gene_name "COQ4";
+JAIBZD010000067.1	Genbank	CDS	69497	70143	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008040-T1_mrna"; gene_id "gene-KXW27_008040"; gene_name "COQ4";
+JAIBZD010000068.1	Genbank	transcript	47224	49190	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008079-T1_mrna"; gene_id "gene-KXW27_008079"
+JAIBZD010000068.1	Genbank	exon	47224	47728	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008079-T1_mrna"; gene_id "gene-KXW27_008079";
+JAIBZD010000068.1	Genbank	exon	47786	48925	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008079-T1_mrna"; gene_id "gene-KXW27_008079";
+JAIBZD010000068.1	Genbank	exon	49000	49190	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008079-T1_mrna"; gene_id "gene-KXW27_008079";
+JAIBZD010000068.1	Genbank	CDS	47224	47728	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008079-T1_mrna"; gene_id "gene-KXW27_008079";
+JAIBZD010000068.1	Genbank	CDS	47786	48925	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008079-T1_mrna"; gene_id "gene-KXW27_008079";
+JAIBZD010000068.1	Genbank	CDS	49000	49190	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008079-T1_mrna"; gene_id "gene-KXW27_008079";
+JAIBZD010000069.1	Genbank	transcript	66529	67112	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008128-T1_mrna"; gene_id "gene-KXW27_008128"; gene_name "SPT4"
+JAIBZD010000069.1	Genbank	exon	66529	66717	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008128-T1_mrna"; gene_id "gene-KXW27_008128"; gene_name "SPT4";
+JAIBZD010000069.1	Genbank	exon	66766	66963	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008128-T1_mrna"; gene_id "gene-KXW27_008128"; gene_name "SPT4";
+JAIBZD010000069.1	Genbank	exon	67029	67112	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008128-T1_mrna"; gene_id "gene-KXW27_008128"; gene_name "SPT4";
+JAIBZD010000069.1	Genbank	CDS	66529	66717	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008128-T1_mrna"; gene_id "gene-KXW27_008128"; gene_name "SPT4";
+JAIBZD010000069.1	Genbank	CDS	66766	66963	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008128-T1_mrna"; gene_id "gene-KXW27_008128"; gene_name "SPT4";
+JAIBZD010000069.1	Genbank	CDS	67029	67112	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008128-T1_mrna"; gene_id "gene-KXW27_008128"; gene_name "SPT4";
+JAIBZD010000007.1	Genbank	transcript	84102	85041	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008179-T1_mrna"; gene_id "gene-KXW27_008179"
+JAIBZD010000007.1	Genbank	exon	84102	84124	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008179-T1_mrna"; gene_id "gene-KXW27_008179";
+JAIBZD010000007.1	Genbank	exon	84180	84307	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008179-T1_mrna"; gene_id "gene-KXW27_008179";
+JAIBZD010000007.1	Genbank	exon	84362	85041	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008179-T1_mrna"; gene_id "gene-KXW27_008179";
+JAIBZD010000007.1	Genbank	CDS	84102	84124	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008179-T1_mrna"; gene_id "gene-KXW27_008179";
+JAIBZD010000007.1	Genbank	CDS	84180	84307	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008179-T1_mrna"; gene_id "gene-KXW27_008179";
+JAIBZD010000007.1	Genbank	CDS	84362	85041	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008179-T1_mrna"; gene_id "gene-KXW27_008179";
+JAIBZD010000007.1	Genbank	transcript	289922	291694	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008249-T1_mrna"; gene_id "gene-KXW27_008249"; gene_name "TRM6"
+JAIBZD010000007.1	Genbank	exon	289922	291554	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008249-T1_mrna"; gene_id "gene-KXW27_008249"; gene_name "TRM6";
+JAIBZD010000007.1	Genbank	exon	291609	291694	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008249-T1_mrna"; gene_id "gene-KXW27_008249"; gene_name "TRM6";
+JAIBZD010000007.1	Genbank	CDS	289922	291554	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008249-T1_mrna"; gene_id "gene-KXW27_008249"; gene_name "TRM6";
+JAIBZD010000007.1	Genbank	CDS	291609	291694	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008249-T1_mrna"; gene_id "gene-KXW27_008249"; gene_name "TRM6";
+JAIBZD010000073.1	Genbank	transcript	73249	73992	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008422-T1_mrna"; gene_id "gene-KXW27_008422"
+JAIBZD010000073.1	Genbank	exon	73249	73992	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008422-T1_mrna"; gene_id "gene-KXW27_008422";
+JAIBZD010000073.1	Genbank	CDS	73249	73992	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008422-T1_mrna"; gene_id "gene-KXW27_008422";
+JAIBZD010000074.1	Genbank	transcript	15340	16701	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008444-T1_mrna"; gene_id "gene-KXW27_008444"; gene_name "PRP46"
+JAIBZD010000074.1	Genbank	exon	15340	16701	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008444-T1_mrna"; gene_id "gene-KXW27_008444"; gene_name "PRP46";
+JAIBZD010000074.1	Genbank	CDS	15340	16701	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008444-T1_mrna"; gene_id "gene-KXW27_008444"; gene_name "PRP46";
+JAIBZD010000074.1	Genbank	transcript	27419	30923	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008449-T1_mrna"; gene_id "gene-KXW27_008449"
+JAIBZD010000074.1	Genbank	exon	27419	28189	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008449-T1_mrna"; gene_id "gene-KXW27_008449";
+JAIBZD010000074.1	Genbank	exon	28242	29356	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008449-T1_mrna"; gene_id "gene-KXW27_008449";
+JAIBZD010000074.1	Genbank	exon	29406	29952	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008449-T1_mrna"; gene_id "gene-KXW27_008449";
+JAIBZD010000074.1	Genbank	exon	30018	30923	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008449-T1_mrna"; gene_id "gene-KXW27_008449";
+JAIBZD010000074.1	Genbank	CDS	27419	28189	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008449-T1_mrna"; gene_id "gene-KXW27_008449";
+JAIBZD010000074.1	Genbank	CDS	28242	29356	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008449-T1_mrna"; gene_id "gene-KXW27_008449";
+JAIBZD010000074.1	Genbank	CDS	29406	29952	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008449-T1_mrna"; gene_id "gene-KXW27_008449";
+JAIBZD010000074.1	Genbank	CDS	30018	30923	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008449-T1_mrna"; gene_id "gene-KXW27_008449";
+JAIBZD010000074.1	Genbank	transcript	34868	36388	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008451-T1_mrna"; gene_id "gene-KXW27_008451"
+JAIBZD010000074.1	Genbank	exon	34868	35259	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008451-T1_mrna"; gene_id "gene-KXW27_008451";
+JAIBZD010000074.1	Genbank	exon	35323	36388	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008451-T1_mrna"; gene_id "gene-KXW27_008451";
+JAIBZD010000074.1	Genbank	CDS	34868	35259	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008451-T1_mrna"; gene_id "gene-KXW27_008451";
+JAIBZD010000074.1	Genbank	CDS	35323	36388	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008451-T1_mrna"; gene_id "gene-KXW27_008451";
+JAIBZD010000075.1	Genbank	transcript	84602	87603	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008516-T1_mrna"; gene_id "gene-KXW27_008516"
+JAIBZD010000075.1	Genbank	exon	84602	84645	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008516-T1_mrna"; gene_id "gene-KXW27_008516";
+JAIBZD010000075.1	Genbank	exon	84712	84895	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008516-T1_mrna"; gene_id "gene-KXW27_008516";
+JAIBZD010000075.1	Genbank	exon	84954	85085	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008516-T1_mrna"; gene_id "gene-KXW27_008516";
+JAIBZD010000075.1	Genbank	exon	85133	86075	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008516-T1_mrna"; gene_id "gene-KXW27_008516";
+JAIBZD010000075.1	Genbank	exon	86124	86387	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008516-T1_mrna"; gene_id "gene-KXW27_008516";
+JAIBZD010000075.1	Genbank	exon	86662	86685	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008516-T1_mrna"; gene_id "gene-KXW27_008516";
+JAIBZD010000075.1	Genbank	exon	86765	86844	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008516-T1_mrna"; gene_id "gene-KXW27_008516";
+JAIBZD010000075.1	Genbank	exon	86905	87603	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008516-T1_mrna"; gene_id "gene-KXW27_008516";
+JAIBZD010000075.1	Genbank	CDS	84602	84645	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008516-T1_mrna"; gene_id "gene-KXW27_008516";
+JAIBZD010000075.1	Genbank	CDS	84712	84895	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008516-T1_mrna"; gene_id "gene-KXW27_008516";
+JAIBZD010000075.1	Genbank	CDS	84954	85085	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008516-T1_mrna"; gene_id "gene-KXW27_008516";
+JAIBZD010000075.1	Genbank	CDS	85133	86075	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008516-T1_mrna"; gene_id "gene-KXW27_008516";
+JAIBZD010000075.1	Genbank	CDS	86124	86387	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008516-T1_mrna"; gene_id "gene-KXW27_008516";
+JAIBZD010000075.1	Genbank	CDS	86662	86685	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008516-T1_mrna"; gene_id "gene-KXW27_008516";
+JAIBZD010000075.1	Genbank	CDS	86765	86844	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008516-T1_mrna"; gene_id "gene-KXW27_008516";
+JAIBZD010000075.1	Genbank	CDS	86905	87603	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008516-T1_mrna"; gene_id "gene-KXW27_008516";
+JAIBZD010000076.1	Genbank	transcript	62588	64018	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008551-T1_mrna"; gene_id "gene-KXW27_008551"
+JAIBZD010000076.1	Genbank	exon	62588	64018	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008551-T1_mrna"; gene_id "gene-KXW27_008551";
+JAIBZD010000076.1	Genbank	CDS	62588	64018	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008551-T1_mrna"; gene_id "gene-KXW27_008551";
+JAIBZD010000078.1	Genbank	transcript	3447	5356	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008610-T1_mrna"; gene_id "gene-KXW27_008610"
+JAIBZD010000078.1	Genbank	exon	3447	3726	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008610-T1_mrna"; gene_id "gene-KXW27_008610";
+JAIBZD010000078.1	Genbank	exon	3787	4065	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008610-T1_mrna"; gene_id "gene-KXW27_008610";
+JAIBZD010000078.1	Genbank	exon	4117	4234	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008610-T1_mrna"; gene_id "gene-KXW27_008610";
+JAIBZD010000078.1	Genbank	exon	4289	4416	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008610-T1_mrna"; gene_id "gene-KXW27_008610";
+JAIBZD010000078.1	Genbank	exon	4479	4553	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008610-T1_mrna"; gene_id "gene-KXW27_008610";
+JAIBZD010000078.1	Genbank	exon	4609	4764	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008610-T1_mrna"; gene_id "gene-KXW27_008610";
+JAIBZD010000078.1	Genbank	exon	4833	5356	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008610-T1_mrna"; gene_id "gene-KXW27_008610";
+JAIBZD010000078.1	Genbank	CDS	3447	3726	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008610-T1_mrna"; gene_id "gene-KXW27_008610";
+JAIBZD010000078.1	Genbank	CDS	3787	4065	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008610-T1_mrna"; gene_id "gene-KXW27_008610";
+JAIBZD010000078.1	Genbank	CDS	4117	4234	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008610-T1_mrna"; gene_id "gene-KXW27_008610";
+JAIBZD010000078.1	Genbank	CDS	4289	4416	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008610-T1_mrna"; gene_id "gene-KXW27_008610";
+JAIBZD010000078.1	Genbank	CDS	4479	4553	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008610-T1_mrna"; gene_id "gene-KXW27_008610";
+JAIBZD010000078.1	Genbank	CDS	4609	4764	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008610-T1_mrna"; gene_id "gene-KXW27_008610";
+JAIBZD010000078.1	Genbank	CDS	4833	5356	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008610-T1_mrna"; gene_id "gene-KXW27_008610";
+JAIBZD010000079.1	Genbank	transcript	15950	17293	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008659-T1_mrna"; gene_id "gene-KXW27_008659"
+JAIBZD010000079.1	Genbank	exon	15950	16536	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008659-T1_mrna"; gene_id "gene-KXW27_008659";
+JAIBZD010000079.1	Genbank	exon	16589	16741	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008659-T1_mrna"; gene_id "gene-KXW27_008659";
+JAIBZD010000079.1	Genbank	exon	16895	17151	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008659-T1_mrna"; gene_id "gene-KXW27_008659";
+JAIBZD010000079.1	Genbank	exon	17250	17293	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008659-T1_mrna"; gene_id "gene-KXW27_008659";
+JAIBZD010000079.1	Genbank	CDS	15950	16536	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008659-T1_mrna"; gene_id "gene-KXW27_008659";
+JAIBZD010000079.1	Genbank	CDS	16589	16741	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008659-T1_mrna"; gene_id "gene-KXW27_008659";
+JAIBZD010000079.1	Genbank	CDS	16895	17151	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008659-T1_mrna"; gene_id "gene-KXW27_008659";
+JAIBZD010000079.1	Genbank	CDS	17250	17293	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008659-T1_mrna"; gene_id "gene-KXW27_008659";
+JAIBZD010000079.1	Genbank	transcript	41050	43999	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008668-T1_mrna"; gene_id "gene-KXW27_008668"
+JAIBZD010000079.1	Genbank	exon	41050	41113	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008668-T1_mrna"; gene_id "gene-KXW27_008668";
+JAIBZD010000079.1	Genbank	exon	41220	41314	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008668-T1_mrna"; gene_id "gene-KXW27_008668";
+JAIBZD010000079.1	Genbank	exon	41391	41497	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008668-T1_mrna"; gene_id "gene-KXW27_008668";
+JAIBZD010000079.1	Genbank	exon	41575	41842	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008668-T1_mrna"; gene_id "gene-KXW27_008668";
+JAIBZD010000079.1	Genbank	exon	41910	42796	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008668-T1_mrna"; gene_id "gene-KXW27_008668";
+JAIBZD010000079.1	Genbank	exon	42850	43031	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008668-T1_mrna"; gene_id "gene-KXW27_008668";
+JAIBZD010000079.1	Genbank	exon	43104	43999	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008668-T1_mrna"; gene_id "gene-KXW27_008668";
+JAIBZD010000079.1	Genbank	CDS	41050	41113	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008668-T1_mrna"; gene_id "gene-KXW27_008668";
+JAIBZD010000079.1	Genbank	CDS	41220	41314	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008668-T1_mrna"; gene_id "gene-KXW27_008668";
+JAIBZD010000079.1	Genbank	CDS	41391	41497	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008668-T1_mrna"; gene_id "gene-KXW27_008668";
+JAIBZD010000079.1	Genbank	CDS	41575	41842	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008668-T1_mrna"; gene_id "gene-KXW27_008668";
+JAIBZD010000079.1	Genbank	CDS	41910	42796	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008668-T1_mrna"; gene_id "gene-KXW27_008668";
+JAIBZD010000079.1	Genbank	CDS	42850	43031	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008668-T1_mrna"; gene_id "gene-KXW27_008668";
+JAIBZD010000079.1	Genbank	CDS	43104	43999	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008668-T1_mrna"; gene_id "gene-KXW27_008668";
+JAIBZD010000079.1	Genbank	transcript	93817	96634	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008685-T1_mrna"; gene_id "gene-KXW27_008685"
+JAIBZD010000079.1	Genbank	exon	93817	93870	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008685-T1_mrna"; gene_id "gene-KXW27_008685";
+JAIBZD010000079.1	Genbank	exon	93934	94037	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008685-T1_mrna"; gene_id "gene-KXW27_008685";
+JAIBZD010000079.1	Genbank	exon	94112	94156	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008685-T1_mrna"; gene_id "gene-KXW27_008685";
+JAIBZD010000079.1	Genbank	exon	94219	94643	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008685-T1_mrna"; gene_id "gene-KXW27_008685";
+JAIBZD010000079.1	Genbank	exon	94722	94844	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008685-T1_mrna"; gene_id "gene-KXW27_008685";
+JAIBZD010000079.1	Genbank	exon	95544	95641	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008685-T1_mrna"; gene_id "gene-KXW27_008685";
+JAIBZD010000079.1	Genbank	exon	95690	95770	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008685-T1_mrna"; gene_id "gene-KXW27_008685";
+JAIBZD010000079.1	Genbank	exon	95838	95953	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008685-T1_mrna"; gene_id "gene-KXW27_008685";
+JAIBZD010000079.1	Genbank	exon	96003	96121	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008685-T1_mrna"; gene_id "gene-KXW27_008685";
+JAIBZD010000079.1	Genbank	exon	96183	96634	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008685-T1_mrna"; gene_id "gene-KXW27_008685";
+JAIBZD010000079.1	Genbank	CDS	93817	93870	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008685-T1_mrna"; gene_id "gene-KXW27_008685";
+JAIBZD010000079.1	Genbank	CDS	93934	94037	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008685-T1_mrna"; gene_id "gene-KXW27_008685";
+JAIBZD010000079.1	Genbank	CDS	94112	94156	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008685-T1_mrna"; gene_id "gene-KXW27_008685";
+JAIBZD010000079.1	Genbank	CDS	94219	94643	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008685-T1_mrna"; gene_id "gene-KXW27_008685";
+JAIBZD010000079.1	Genbank	CDS	94722	94844	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008685-T1_mrna"; gene_id "gene-KXW27_008685";
+JAIBZD010000079.1	Genbank	CDS	95544	95641	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008685-T1_mrna"; gene_id "gene-KXW27_008685";
+JAIBZD010000079.1	Genbank	CDS	95690	95770	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008685-T1_mrna"; gene_id "gene-KXW27_008685";
+JAIBZD010000079.1	Genbank	CDS	95838	95953	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008685-T1_mrna"; gene_id "gene-KXW27_008685";
+JAIBZD010000079.1	Genbank	CDS	96003	96121	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008685-T1_mrna"; gene_id "gene-KXW27_008685";
+JAIBZD010000079.1	Genbank	CDS	96183	96634	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008685-T1_mrna"; gene_id "gene-KXW27_008685";
+JAIBZD010000008.1	Genbank	transcript	67732	71261	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008709-T1_mrna"; gene_id "gene-KXW27_008709"; gene_name "HIR1"
+JAIBZD010000008.1	Genbank	exon	67732	67768	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008709-T1_mrna"; gene_id "gene-KXW27_008709"; gene_name "HIR1";
+JAIBZD010000008.1	Genbank	exon	67874	67948	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008709-T1_mrna"; gene_id "gene-KXW27_008709"; gene_name "HIR1";
+JAIBZD010000008.1	Genbank	exon	68041	68262	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008709-T1_mrna"; gene_id "gene-KXW27_008709"; gene_name "HIR1";
+JAIBZD010000008.1	Genbank	exon	68331	71087	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008709-T1_mrna"; gene_id "gene-KXW27_008709"; gene_name "HIR1";
+JAIBZD010000008.1	Genbank	exon	71164	71261	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008709-T1_mrna"; gene_id "gene-KXW27_008709"; gene_name "HIR1";
+JAIBZD010000008.1	Genbank	CDS	67732	67768	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008709-T1_mrna"; gene_id "gene-KXW27_008709"; gene_name "HIR1";
+JAIBZD010000008.1	Genbank	CDS	67874	67948	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008709-T1_mrna"; gene_id "gene-KXW27_008709"; gene_name "HIR1";
+JAIBZD010000008.1	Genbank	CDS	68041	68262	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008709-T1_mrna"; gene_id "gene-KXW27_008709"; gene_name "HIR1";
+JAIBZD010000008.1	Genbank	CDS	68331	71087	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008709-T1_mrna"; gene_id "gene-KXW27_008709"; gene_name "HIR1";
+JAIBZD010000008.1	Genbank	CDS	71164	71261	.	+	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008709-T1_mrna"; gene_id "gene-KXW27_008709"; gene_name "HIR1";
+JAIBZD010000008.1	Genbank	transcript	74063	74887	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008711-T1_mrna"; gene_id "gene-KXW27_008711"
+JAIBZD010000008.1	Genbank	exon	74063	74076	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008711-T1_mrna"; gene_id "gene-KXW27_008711";
+JAIBZD010000008.1	Genbank	exon	74272	74412	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008711-T1_mrna"; gene_id "gene-KXW27_008711";
+JAIBZD010000008.1	Genbank	exon	74497	74887	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008711-T1_mrna"; gene_id "gene-KXW27_008711";
+JAIBZD010000008.1	Genbank	CDS	74063	74076	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008711-T1_mrna"; gene_id "gene-KXW27_008711";
+JAIBZD010000008.1	Genbank	CDS	74272	74412	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008711-T1_mrna"; gene_id "gene-KXW27_008711";
+JAIBZD010000008.1	Genbank	CDS	74497	74887	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008711-T1_mrna"; gene_id "gene-KXW27_008711";
+JAIBZD010000008.1	Genbank	transcript	106818	108134	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008725-T1_mrna"; gene_id "gene-KXW27_008725"
+JAIBZD010000008.1	Genbank	exon	106818	106825	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008725-T1_mrna"; gene_id "gene-KXW27_008725";
+JAIBZD010000008.1	Genbank	exon	106884	106923	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008725-T1_mrna"; gene_id "gene-KXW27_008725";
+JAIBZD010000008.1	Genbank	exon	107010	107479	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008725-T1_mrna"; gene_id "gene-KXW27_008725";
+JAIBZD010000008.1	Genbank	exon	107555	108134	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008725-T1_mrna"; gene_id "gene-KXW27_008725";
+JAIBZD010000008.1	Genbank	CDS	106818	106825	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008725-T1_mrna"; gene_id "gene-KXW27_008725";
+JAIBZD010000008.1	Genbank	CDS	106884	106923	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008725-T1_mrna"; gene_id "gene-KXW27_008725";
+JAIBZD010000008.1	Genbank	CDS	107010	107479	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008725-T1_mrna"; gene_id "gene-KXW27_008725";
+JAIBZD010000008.1	Genbank	CDS	107555	108134	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008725-T1_mrna"; gene_id "gene-KXW27_008725";
+JAIBZD010000081.1	Genbank	transcript	15345	16186	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008835-T1_mrna"; gene_id "gene-KXW27_008835"
+JAIBZD010000081.1	Genbank	exon	15345	15814	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008835-T1_mrna"; gene_id "gene-KXW27_008835";
+JAIBZD010000081.1	Genbank	exon	15874	16186	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008835-T1_mrna"; gene_id "gene-KXW27_008835";
+JAIBZD010000081.1	Genbank	CDS	15345	15814	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008835-T1_mrna"; gene_id "gene-KXW27_008835";
+JAIBZD010000081.1	Genbank	CDS	15874	16186	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_008835-T1_mrna"; gene_id "gene-KXW27_008835";
+JAIBZD010000085.1	Genbank	transcript	21090	22759	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009004-T1_mrna"; gene_id "gene-KXW27_009004"
+JAIBZD010000085.1	Genbank	exon	21090	21333	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009004-T1_mrna"; gene_id "gene-KXW27_009004";
+JAIBZD010000085.1	Genbank	exon	21390	22468	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009004-T1_mrna"; gene_id "gene-KXW27_009004";
+JAIBZD010000085.1	Genbank	exon	22535	22759	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009004-T1_mrna"; gene_id "gene-KXW27_009004";
+JAIBZD010000085.1	Genbank	CDS	21090	21333	.	-	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009004-T1_mrna"; gene_id "gene-KXW27_009004";
+JAIBZD010000085.1	Genbank	CDS	21390	22468	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009004-T1_mrna"; gene_id "gene-KXW27_009004";
+JAIBZD010000085.1	Genbank	CDS	22535	22759	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009004-T1_mrna"; gene_id "gene-KXW27_009004";
+JAIBZD010000086.1	Genbank	transcript	30379	31803	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009049-T1_mrna"; gene_id "gene-KXW27_009049"; gene_name "FYV10"
+JAIBZD010000086.1	Genbank	exon	30379	30810	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009049-T1_mrna"; gene_id "gene-KXW27_009049"; gene_name "FYV10";
+JAIBZD010000086.1	Genbank	exon	30881	31075	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009049-T1_mrna"; gene_id "gene-KXW27_009049"; gene_name "FYV10";
+JAIBZD010000086.1	Genbank	exon	31146	31685	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009049-T1_mrna"; gene_id "gene-KXW27_009049"; gene_name "FYV10";
+JAIBZD010000086.1	Genbank	exon	31750	31803	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009049-T1_mrna"; gene_id "gene-KXW27_009049"; gene_name "FYV10";
+JAIBZD010000086.1	Genbank	CDS	30379	30810	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009049-T1_mrna"; gene_id "gene-KXW27_009049"; gene_name "FYV10";
+JAIBZD010000086.1	Genbank	CDS	30881	31075	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009049-T1_mrna"; gene_id "gene-KXW27_009049"; gene_name "FYV10";
+JAIBZD010000086.1	Genbank	CDS	31146	31685	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009049-T1_mrna"; gene_id "gene-KXW27_009049"; gene_name "FYV10";
+JAIBZD010000086.1	Genbank	CDS	31750	31803	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009049-T1_mrna"; gene_id "gene-KXW27_009049"; gene_name "FYV10";
+JAIBZD010000009.1	Genbank	transcript	63297	64866	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009223-T1_mrna"; gene_id "gene-KXW27_009223"
+JAIBZD010000009.1	Genbank	exon	63297	63694	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009223-T1_mrna"; gene_id "gene-KXW27_009223";
+JAIBZD010000009.1	Genbank	exon	63753	64866	.	+	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009223-T1_mrna"; gene_id "gene-KXW27_009223";
+JAIBZD010000009.1	Genbank	CDS	63297	63694	.	+	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009223-T1_mrna"; gene_id "gene-KXW27_009223";
+JAIBZD010000009.1	Genbank	CDS	63753	64866	.	+	1	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009223-T1_mrna"; gene_id "gene-KXW27_009223";
+JAIBZD010000092.1	Genbank	transcript	4658	6250	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009382-T1_mrna"; gene_id "gene-KXW27_009382"
+JAIBZD010000092.1	Genbank	exon	4658	5529	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009382-T1_mrna"; gene_id "gene-KXW27_009382";
+JAIBZD010000092.1	Genbank	exon	5617	6250	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009382-T1_mrna"; gene_id "gene-KXW27_009382";
+JAIBZD010000092.1	Genbank	CDS	4658	5529	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009382-T1_mrna"; gene_id "gene-KXW27_009382";
+JAIBZD010000092.1	Genbank	CDS	5617	6250	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009382-T1_mrna"; gene_id "gene-KXW27_009382";
+JAIBZD010000095.1	Genbank	transcript	20089	22256	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009501-T1_mrna"; gene_id "gene-KXW27_009501"; gene_name "NOP7"
+JAIBZD010000095.1	Genbank	exon	20089	21995	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009501-T1_mrna"; gene_id "gene-KXW27_009501"; gene_name "NOP7";
+JAIBZD010000095.1	Genbank	exon	22079	22177	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009501-T1_mrna"; gene_id "gene-KXW27_009501"; gene_name "NOP7";
+JAIBZD010000095.1	Genbank	exon	22235	22256	.	-	.	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009501-T1_mrna"; gene_id "gene-KXW27_009501"; gene_name "NOP7";
+JAIBZD010000095.1	Genbank	CDS	20089	21995	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009501-T1_mrna"; gene_id "gene-KXW27_009501"; gene_name "NOP7";
+JAIBZD010000095.1	Genbank	CDS	22079	22177	.	-	2	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009501-T1_mrna"; gene_id "gene-KXW27_009501"; gene_name "NOP7";
+JAIBZD010000095.1	Genbank	CDS	22235	22256	.	-	0	transcript_id "rna-gnl|WGS:JAIBZD|KXW27_009501-T1_mrna"; gene_id "gene-KXW27_009501"; gene_name "NOP7";
