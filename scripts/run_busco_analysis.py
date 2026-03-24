@@ -214,7 +214,7 @@ def parse_selenoprofiles_results(seleno_result_csv):
     return counts
 
 def count_sec_from_gtf(gtf_file):
-    """Count unique genes with selenocysteine codons from a GTF file."""
+    """Return (selenocysteine_instances, unique_genes_with_selenocysteine)."""
     def _get_gtf_attr(attr_string, key):
         # GTF attributes are key "value" pairs separated by semicolons.
         m = re.search(rf'(?:^|;\s*){re.escape(key)}\s+"([^"]+)"', attr_string)
@@ -224,6 +224,7 @@ def count_sec_from_gtf(gtf_file):
         m = re.search(rf'(?:^|;\s*){re.escape(key)}=([^;]+)', attr_string)
         return m.group(1).strip().strip('"') if m else None
 
+    sec_instances = 0
     sec_genes = set()
     with open(gtf_file) as f:
         for line in f:
@@ -234,13 +235,14 @@ def count_sec_from_gtf(gtf_file):
                 continue
             feature_type, attributes = parts[2], parts[8]
             if feature_type == "Selenocysteine":
+                sec_instances += 1
                 gene_id = _get_gtf_attr(attributes, "gene_id")
                 if gene_id:
                     # Sec-position entries are often encoded as SecN:<gene_id>.
                     # Collapse them back to the underlying gene for counting.
                     gene_id = re.sub(r"^Sec\d+:", "", gene_id)
                     sec_genes.add(gene_id)
-    return len(set(sec_genes))
+    return sec_instances, len(sec_genes)
 
 def infer_species_from_annotation_url(annotation_url):
     """
@@ -444,6 +446,7 @@ def write_result_tsv(result_tsv, annotation_id, assembly_accession, species, bus
             busco_results["Stop_codon"] if busco_results["Stop_codon"] is not None else "NA",
             busco_results["Selenocysteine_Gene_Count"] if busco_results["Selenocysteine_Gene_Count"] is not None else "NA",
             busco_results["Selenocysteine_GTF_Count"] if busco_results["Selenocysteine_GTF_Count"] is not None else "NA",
+            busco_results["Selenocysteine_GTF_Count_Genes"] if busco_results["Selenocysteine_GTF_Count_Genes"] is not None else "NA",
         ])
 
 
@@ -699,8 +702,9 @@ def main():
         logger.info("STEP 8: Parse BUSCO results and write result fragment")
         busco_results = parse_busco_results(busco_output)
         seleno_results = parse_selenoprofiles_results(seleno_outdir / "Selenoprofiles_annotation_result.csv")
-        sec_count = count_sec_from_gtf(predictions_gtf)
+        sec_count, gene_count = count_sec_from_gtf(predictions_gtf)
         seleno_results["Selenocysteine_GTF_Count"] = sec_count
+        seleno_results["Selenocysteine_GTF_Count_Genes"] = gene_count
         busco_results.update(seleno_results)
         assembly_accession = infer_assembly_accession_from_url(assembly_url)
         species = infer_species_from_annotation_url(annotation_url)
