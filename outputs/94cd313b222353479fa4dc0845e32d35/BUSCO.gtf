@@ -1,0 +1,719 @@
+NW_026250090.1	RefSeq	transcript	904556	906040	.	+	.	transcript_id "rna-XM_051464607.1"; gene_id "gene-J4E85_000315"
+NW_026250090.1	RefSeq	exon	904556	904642	.	+	.	transcript_id "rna-XM_051464607.1"; gene_id "gene-J4E85_000315";
+NW_026250090.1	RefSeq	exon	904686	904858	.	+	.	transcript_id "rna-XM_051464607.1"; gene_id "gene-J4E85_000315";
+NW_026250090.1	RefSeq	exon	904906	906040	.	+	.	transcript_id "rna-XM_051464607.1"; gene_id "gene-J4E85_000315";
+NW_026250090.1	RefSeq	CDS	904556	904642	.	+	0	transcript_id "rna-XM_051464607.1"; gene_id "gene-J4E85_000315";
+NW_026250090.1	RefSeq	CDS	904686	904858	.	+	0	transcript_id "rna-XM_051464607.1"; gene_id "gene-J4E85_000315";
+NW_026250090.1	RefSeq	CDS	904906	906040	.	+	1	transcript_id "rna-XM_051464607.1"; gene_id "gene-J4E85_000315";
+NW_026250090.1	RefSeq	transcript	1251428	1253804	.	+	.	transcript_id "rna-XM_051464737.1"; gene_id "gene-J4E85_000447"
+NW_026250090.1	RefSeq	exon	1251428	1252110	.	+	.	transcript_id "rna-XM_051464737.1"; gene_id "gene-J4E85_000447";
+NW_026250090.1	RefSeq	exon	1252157	1253804	.	+	.	transcript_id "rna-XM_051464737.1"; gene_id "gene-J4E85_000447";
+NW_026250090.1	RefSeq	CDS	1251428	1252110	.	+	0	transcript_id "rna-XM_051464737.1"; gene_id "gene-J4E85_000447";
+NW_026250090.1	RefSeq	CDS	1252157	1253804	.	+	1	transcript_id "rna-XM_051464737.1"; gene_id "gene-J4E85_000447";
+NW_026250090.1	RefSeq	transcript	1382439	1383971	.	-	.	transcript_id "rna-XM_051464785.1"; gene_id "gene-J4E85_000495"
+NW_026250090.1	RefSeq	exon	1382439	1383971	.	-	.	transcript_id "rna-XM_051464785.1"; gene_id "gene-J4E85_000495";
+NW_026250090.1	RefSeq	CDS	1382439	1383971	.	-	0	transcript_id "rna-XM_051464785.1"; gene_id "gene-J4E85_000495";
+NW_026250090.1	RefSeq	transcript	1407232	1409999	.	+	.	transcript_id "rna-XM_051464796.1"; gene_id "gene-J4E85_000506"
+NW_026250090.1	RefSeq	exon	1407232	1407249	.	+	.	transcript_id "rna-XM_051464796.1"; gene_id "gene-J4E85_000506";
+NW_026250090.1	RefSeq	exon	1407296	1407408	.	+	.	transcript_id "rna-XM_051464796.1"; gene_id "gene-J4E85_000506";
+NW_026250090.1	RefSeq	exon	1407461	1409999	.	+	.	transcript_id "rna-XM_051464796.1"; gene_id "gene-J4E85_000506";
+NW_026250090.1	RefSeq	CDS	1407232	1407249	.	+	0	transcript_id "rna-XM_051464796.1"; gene_id "gene-J4E85_000506";
+NW_026250090.1	RefSeq	CDS	1407296	1407408	.	+	0	transcript_id "rna-XM_051464796.1"; gene_id "gene-J4E85_000506";
+NW_026250090.1	RefSeq	CDS	1407461	1409999	.	+	1	transcript_id "rna-XM_051464796.1"; gene_id "gene-J4E85_000506";
+NW_026250090.1	RefSeq	transcript	1448978	1449841	.	-	.	transcript_id "rna-XM_051464812.1"; gene_id "gene-J4E85_000522"
+NW_026250090.1	RefSeq	exon	1448978	1449841	.	-	.	transcript_id "rna-XM_051464812.1"; gene_id "gene-J4E85_000522";
+NW_026250090.1	RefSeq	CDS	1448978	1449841	.	-	0	transcript_id "rna-XM_051464812.1"; gene_id "gene-J4E85_000522";
+NW_026250090.1	RefSeq	transcript	1663985	1666152	.	+	.	transcript_id "rna-XM_051464899.1"; gene_id "gene-J4E85_000609"
+NW_026250090.1	RefSeq	exon	1663985	1664045	.	+	.	transcript_id "rna-XM_051464899.1"; gene_id "gene-J4E85_000609";
+NW_026250090.1	RefSeq	exon	1664096	1666152	.	+	.	transcript_id "rna-XM_051464899.1"; gene_id "gene-J4E85_000609";
+NW_026250090.1	RefSeq	CDS	1663985	1664045	.	+	0	transcript_id "rna-XM_051464899.1"; gene_id "gene-J4E85_000609";
+NW_026250090.1	RefSeq	CDS	1664096	1666152	.	+	2	transcript_id "rna-XM_051464899.1"; gene_id "gene-J4E85_000609";
+NW_026250090.1	RefSeq	transcript	1793368	1794487	.	-	.	transcript_id "rna-XM_051464950.1"; gene_id "gene-J4E85_000660"
+NW_026250090.1	RefSeq	exon	1793368	1793457	.	-	.	transcript_id "rna-XM_051464950.1"; gene_id "gene-J4E85_000660";
+NW_026250090.1	RefSeq	exon	1793507	1794487	.	-	.	transcript_id "rna-XM_051464950.1"; gene_id "gene-J4E85_000660";
+NW_026250090.1	RefSeq	CDS	1793368	1793457	.	-	0	transcript_id "rna-XM_051464950.1"; gene_id "gene-J4E85_000660";
+NW_026250090.1	RefSeq	CDS	1793507	1794487	.	-	0	transcript_id "rna-XM_051464950.1"; gene_id "gene-J4E85_000660";
+NW_026250090.1	RefSeq	transcript	2741496	2742195	.	+	.	transcript_id "rna-XM_051465242.1"; gene_id "gene-J4E85_000954"
+NW_026250090.1	RefSeq	exon	2741496	2741830	.	+	.	transcript_id "rna-XM_051465242.1"; gene_id "gene-J4E85_000954";
+NW_026250090.1	RefSeq	exon	2741886	2742195	.	+	.	transcript_id "rna-XM_051465242.1"; gene_id "gene-J4E85_000954";
+NW_026250090.1	RefSeq	CDS	2741496	2741830	.	+	0	transcript_id "rna-XM_051465242.1"; gene_id "gene-J4E85_000954";
+NW_026250090.1	RefSeq	CDS	2741886	2742195	.	+	1	transcript_id "rna-XM_051465242.1"; gene_id "gene-J4E85_000954";
+NW_026250099.1	RefSeq	transcript	423956	425968	.	+	.	transcript_id "rna-XM_051471453.1"; gene_id "gene-J4E85_007221"
+NW_026250099.1	RefSeq	exon	423956	424097	.	+	.	transcript_id "rna-XM_051471453.1"; gene_id "gene-J4E85_007221";
+NW_026250099.1	RefSeq	exon	424149	425968	.	+	.	transcript_id "rna-XM_051471453.1"; gene_id "gene-J4E85_007221";
+NW_026250099.1	RefSeq	CDS	423956	424097	.	+	0	transcript_id "rna-XM_051471453.1"; gene_id "gene-J4E85_007221";
+NW_026250099.1	RefSeq	CDS	424149	425968	.	+	2	transcript_id "rna-XM_051471453.1"; gene_id "gene-J4E85_007221";
+NW_026250099.1	RefSeq	transcript	718736	720969	.	+	.	transcript_id "rna-XM_051471541.1"; gene_id "gene-J4E85_007309"
+NW_026250099.1	RefSeq	exon	718736	719023	.	+	.	transcript_id "rna-XM_051471541.1"; gene_id "gene-J4E85_007309";
+NW_026250099.1	RefSeq	exon	719077	720969	.	+	.	transcript_id "rna-XM_051471541.1"; gene_id "gene-J4E85_007309";
+NW_026250099.1	RefSeq	CDS	718736	719023	.	+	0	transcript_id "rna-XM_051471541.1"; gene_id "gene-J4E85_007309";
+NW_026250099.1	RefSeq	CDS	719077	720969	.	+	0	transcript_id "rna-XM_051471541.1"; gene_id "gene-J4E85_007309";
+NW_026250099.1	RefSeq	transcript	1189698	1191683	.	+	.	transcript_id "rna-XM_051471698.1"; gene_id "gene-J4E85_007466"; gene_name "SPB4"
+NW_026250099.1	RefSeq	exon	1189698	1189888	.	+	.	transcript_id "rna-XM_051471698.1"; gene_id "gene-J4E85_007466"; gene_name "SPB4";
+NW_026250099.1	RefSeq	exon	1189937	1191683	.	+	.	transcript_id "rna-XM_051471698.1"; gene_id "gene-J4E85_007466"; gene_name "SPB4";
+NW_026250099.1	RefSeq	CDS	1189698	1189888	.	+	0	transcript_id "rna-XM_051471698.1"; gene_id "gene-J4E85_007466"; gene_name "SPB4";
+NW_026250099.1	RefSeq	CDS	1189937	1191683	.	+	1	transcript_id "rna-XM_051471698.1"; gene_id "gene-J4E85_007466"; gene_name "SPB4";
+NW_026250100.1	RefSeq	transcript	296843	297653	.	+	.	transcript_id "rna-XM_051471862.1"; gene_id "gene-J4E85_007631"
+NW_026250100.1	RefSeq	exon	296843	296909	.	+	.	transcript_id "rna-XM_051471862.1"; gene_id "gene-J4E85_007631";
+NW_026250100.1	RefSeq	exon	296960	297040	.	+	.	transcript_id "rna-XM_051471862.1"; gene_id "gene-J4E85_007631";
+NW_026250100.1	RefSeq	exon	297091	297653	.	+	.	transcript_id "rna-XM_051471862.1"; gene_id "gene-J4E85_007631";
+NW_026250100.1	RefSeq	CDS	296843	296909	.	+	0	transcript_id "rna-XM_051471862.1"; gene_id "gene-J4E85_007631";
+NW_026250100.1	RefSeq	CDS	296960	297040	.	+	2	transcript_id "rna-XM_051471862.1"; gene_id "gene-J4E85_007631";
+NW_026250100.1	RefSeq	CDS	297091	297653	.	+	2	transcript_id "rna-XM_051471862.1"; gene_id "gene-J4E85_007631";
+NW_026250100.1	RefSeq	transcript	440915	442046	.	+	.	transcript_id "rna-XM_051471917.1"; gene_id "gene-J4E85_007686"
+NW_026250100.1	RefSeq	exon	440915	441391	.	+	.	transcript_id "rna-XM_051471917.1"; gene_id "gene-J4E85_007686";
+NW_026250100.1	RefSeq	exon	441441	442046	.	+	.	transcript_id "rna-XM_051471917.1"; gene_id "gene-J4E85_007686";
+NW_026250100.1	RefSeq	CDS	440915	441391	.	+	0	transcript_id "rna-XM_051471917.1"; gene_id "gene-J4E85_007686";
+NW_026250100.1	RefSeq	CDS	441441	442046	.	+	0	transcript_id "rna-XM_051471917.1"; gene_id "gene-J4E85_007686";
+NW_026250100.1	RefSeq	transcript	629177	630596	.	-	.	transcript_id "rna-XM_051471981.1"; gene_id "gene-J4E85_007751"
+NW_026250100.1	RefSeq	exon	629177	630380	.	-	.	transcript_id "rna-XM_051471981.1"; gene_id "gene-J4E85_007751";
+NW_026250100.1	RefSeq	exon	630427	630596	.	-	.	transcript_id "rna-XM_051471981.1"; gene_id "gene-J4E85_007751";
+NW_026250100.1	RefSeq	CDS	629177	630380	.	-	1	transcript_id "rna-XM_051471981.1"; gene_id "gene-J4E85_007751";
+NW_026250100.1	RefSeq	CDS	630427	630596	.	-	0	transcript_id "rna-XM_051471981.1"; gene_id "gene-J4E85_007751";
+NW_026250100.1	RefSeq	transcript	686079	686830	.	+	.	transcript_id "rna-XM_051472005.1"; gene_id "gene-J4E85_007775"
+NW_026250100.1	RefSeq	exon	686079	686090	.	+	.	transcript_id "rna-XM_051472005.1"; gene_id "gene-J4E85_007775";
+NW_026250100.1	RefSeq	exon	686138	686830	.	+	.	transcript_id "rna-XM_051472005.1"; gene_id "gene-J4E85_007775";
+NW_026250100.1	RefSeq	CDS	686079	686090	.	+	0	transcript_id "rna-XM_051472005.1"; gene_id "gene-J4E85_007775";
+NW_026250100.1	RefSeq	CDS	686138	686830	.	+	0	transcript_id "rna-XM_051472005.1"; gene_id "gene-J4E85_007775";
+NW_026250100.1	RefSeq	transcript	869387	870642	.	+	.	transcript_id "rna-XM_051472057.1"; gene_id "gene-J4E85_007827"
+NW_026250100.1	RefSeq	exon	869387	869440	.	+	.	transcript_id "rna-XM_051472057.1"; gene_id "gene-J4E85_007827";
+NW_026250100.1	RefSeq	exon	869553	870025	.	+	.	transcript_id "rna-XM_051472057.1"; gene_id "gene-J4E85_007827";
+NW_026250100.1	RefSeq	exon	870072	870642	.	+	.	transcript_id "rna-XM_051472057.1"; gene_id "gene-J4E85_007827";
+NW_026250100.1	RefSeq	CDS	869387	869440	.	+	0	transcript_id "rna-XM_051472057.1"; gene_id "gene-J4E85_007827";
+NW_026250100.1	RefSeq	CDS	869553	870025	.	+	0	transcript_id "rna-XM_051472057.1"; gene_id "gene-J4E85_007827";
+NW_026250100.1	RefSeq	CDS	870072	870642	.	+	1	transcript_id "rna-XM_051472057.1"; gene_id "gene-J4E85_007827";
+NW_026250100.1	RefSeq	transcript	876928	877640	.	+	.	transcript_id "rna-XM_051472059.1"; gene_id "gene-J4E85_007829"
+NW_026250100.1	RefSeq	exon	876928	876941	.	+	.	transcript_id "rna-XM_051472059.1"; gene_id "gene-J4E85_007829";
+NW_026250100.1	RefSeq	exon	876995	877135	.	+	.	transcript_id "rna-XM_051472059.1"; gene_id "gene-J4E85_007829";
+NW_026250100.1	RefSeq	exon	877217	877640	.	+	.	transcript_id "rna-XM_051472059.1"; gene_id "gene-J4E85_007829";
+NW_026250100.1	RefSeq	CDS	876928	876941	.	+	0	transcript_id "rna-XM_051472059.1"; gene_id "gene-J4E85_007829";
+NW_026250100.1	RefSeq	CDS	876995	877135	.	+	1	transcript_id "rna-XM_051472059.1"; gene_id "gene-J4E85_007829";
+NW_026250100.1	RefSeq	CDS	877217	877640	.	+	1	transcript_id "rna-XM_051472059.1"; gene_id "gene-J4E85_007829";
+NW_026250100.1	RefSeq	transcript	1007861	1010611	.	+	.	transcript_id "rna-XM_051472106.1"; gene_id "gene-J4E85_007876"
+NW_026250100.1	RefSeq	exon	1007861	1008022	.	+	.	transcript_id "rna-XM_051472106.1"; gene_id "gene-J4E85_007876";
+NW_026250100.1	RefSeq	exon	1008074	1010611	.	+	.	transcript_id "rna-XM_051472106.1"; gene_id "gene-J4E85_007876";
+NW_026250100.1	RefSeq	CDS	1007861	1008022	.	+	0	transcript_id "rna-XM_051472106.1"; gene_id "gene-J4E85_007876";
+NW_026250100.1	RefSeq	CDS	1008074	1010611	.	+	0	transcript_id "rna-XM_051472106.1"; gene_id "gene-J4E85_007876";
+NW_026250100.1	RefSeq	transcript	1023245	1024570	.	-	.	transcript_id "rna-XM_051472108.1"; gene_id "gene-J4E85_007878"
+NW_026250100.1	RefSeq	exon	1023245	1024570	.	-	.	transcript_id "rna-XM_051472108.1"; gene_id "gene-J4E85_007878";
+NW_026250100.1	RefSeq	CDS	1023245	1024570	.	-	0	transcript_id "rna-XM_051472108.1"; gene_id "gene-J4E85_007878";
+NW_026250100.1	RefSeq	transcript	1102115	1102918	.	+	.	transcript_id "rna-XM_051472134.1"; gene_id "gene-J4E85_007904"; gene_name "PSF1"
+NW_026250100.1	RefSeq	exon	1102115	1102141	.	+	.	transcript_id "rna-XM_051472134.1"; gene_id "gene-J4E85_007904"; gene_name "PSF1";
+NW_026250100.1	RefSeq	exon	1102196	1102728	.	+	.	transcript_id "rna-XM_051472134.1"; gene_id "gene-J4E85_007904"; gene_name "PSF1";
+NW_026250100.1	RefSeq	exon	1102825	1102918	.	+	.	transcript_id "rna-XM_051472134.1"; gene_id "gene-J4E85_007904"; gene_name "PSF1";
+NW_026250100.1	RefSeq	CDS	1102115	1102141	.	+	0	transcript_id "rna-XM_051472134.1"; gene_id "gene-J4E85_007904"; gene_name "PSF1";
+NW_026250100.1	RefSeq	CDS	1102196	1102728	.	+	0	transcript_id "rna-XM_051472134.1"; gene_id "gene-J4E85_007904"; gene_name "PSF1";
+NW_026250100.1	RefSeq	CDS	1102825	1102918	.	+	1	transcript_id "rna-XM_051472134.1"; gene_id "gene-J4E85_007904"; gene_name "PSF1";
+NW_026250100.1	RefSeq	transcript	1108272	1110678	.	+	.	transcript_id "rna-XM_051472136.1"; gene_id "gene-J4E85_007906"; gene_name "ERB1"
+NW_026250100.1	RefSeq	exon	1108272	1110305	.	+	.	transcript_id "rna-XM_051472136.1"; gene_id "gene-J4E85_007906"; gene_name "ERB1";
+NW_026250100.1	RefSeq	exon	1110361	1110678	.	+	.	transcript_id "rna-XM_051472136.1"; gene_id "gene-J4E85_007906"; gene_name "ERB1";
+NW_026250100.1	RefSeq	CDS	1108272	1110305	.	+	0	transcript_id "rna-XM_051472136.1"; gene_id "gene-J4E85_007906"; gene_name "ERB1";
+NW_026250100.1	RefSeq	CDS	1110361	1110678	.	+	0	transcript_id "rna-XM_051472136.1"; gene_id "gene-J4E85_007906"; gene_name "ERB1";
+NW_026250100.1	RefSeq	transcript	1125160	1126713	.	+	.	transcript_id "rna-XM_051472142.1"; gene_id "gene-J4E85_007912"; gene_name "PRP46"
+NW_026250100.1	RefSeq	exon	1125160	1125735	.	+	.	transcript_id "rna-XM_051472142.1"; gene_id "gene-J4E85_007912"; gene_name "PRP46";
+NW_026250100.1	RefSeq	exon	1125790	1126713	.	+	.	transcript_id "rna-XM_051472142.1"; gene_id "gene-J4E85_007912"; gene_name "PRP46";
+NW_026250100.1	RefSeq	CDS	1125160	1125735	.	+	0	transcript_id "rna-XM_051472142.1"; gene_id "gene-J4E85_007912"; gene_name "PRP46";
+NW_026250100.1	RefSeq	CDS	1125790	1126713	.	+	0	transcript_id "rna-XM_051472142.1"; gene_id "gene-J4E85_007912"; gene_name "PRP46";
+NW_026250100.1	RefSeq	transcript	1190773	1193808	.	+	.	transcript_id "rna-XM_051472162.1"; gene_id "gene-J4E85_007932"
+NW_026250100.1	RefSeq	exon	1190773	1190865	.	+	.	transcript_id "rna-XM_051472162.1"; gene_id "gene-J4E85_007932";
+NW_026250100.1	RefSeq	exon	1190915	1192084	.	+	.	transcript_id "rna-XM_051472162.1"; gene_id "gene-J4E85_007932";
+NW_026250100.1	RefSeq	exon	1192132	1193808	.	+	.	transcript_id "rna-XM_051472162.1"; gene_id "gene-J4E85_007932";
+NW_026250100.1	RefSeq	CDS	1190773	1190865	.	+	0	transcript_id "rna-XM_051472162.1"; gene_id "gene-J4E85_007932";
+NW_026250100.1	RefSeq	CDS	1190915	1192084	.	+	0	transcript_id "rna-XM_051472162.1"; gene_id "gene-J4E85_007932";
+NW_026250100.1	RefSeq	CDS	1192132	1193808	.	+	0	transcript_id "rna-XM_051472162.1"; gene_id "gene-J4E85_007932";
+NW_026250101.1	RefSeq	transcript	53190	55534	.	+	.	transcript_id "rna-XM_051472206.1"; gene_id "gene-J4E85_007976"
+NW_026250101.1	RefSeq	exon	53190	53205	.	+	.	transcript_id "rna-XM_051472206.1"; gene_id "gene-J4E85_007976";
+NW_026250101.1	RefSeq	exon	53249	53316	.	+	.	transcript_id "rna-XM_051472206.1"; gene_id "gene-J4E85_007976";
+NW_026250101.1	RefSeq	exon	53367	53833	.	+	.	transcript_id "rna-XM_051472206.1"; gene_id "gene-J4E85_007976";
+NW_026250101.1	RefSeq	exon	53884	55534	.	+	.	transcript_id "rna-XM_051472206.1"; gene_id "gene-J4E85_007976";
+NW_026250101.1	RefSeq	CDS	53190	53205	.	+	0	transcript_id "rna-XM_051472206.1"; gene_id "gene-J4E85_007976";
+NW_026250101.1	RefSeq	CDS	53249	53316	.	+	2	transcript_id "rna-XM_051472206.1"; gene_id "gene-J4E85_007976";
+NW_026250101.1	RefSeq	CDS	53367	53833	.	+	0	transcript_id "rna-XM_051472206.1"; gene_id "gene-J4E85_007976";
+NW_026250101.1	RefSeq	CDS	53884	55534	.	+	1	transcript_id "rna-XM_051472206.1"; gene_id "gene-J4E85_007976";
+NW_026250102.1	RefSeq	transcript	523860	525989	.	-	.	transcript_id "rna-XM_051472719.1"; gene_id "gene-J4E85_008494"
+NW_026250102.1	RefSeq	exon	523860	525989	.	-	.	transcript_id "rna-XM_051472719.1"; gene_id "gene-J4E85_008494";
+NW_026250102.1	RefSeq	CDS	523860	525989	.	-	0	transcript_id "rna-XM_051472719.1"; gene_id "gene-J4E85_008494";
+NW_026250102.1	RefSeq	transcript	722672	724144	.	-	.	transcript_id "rna-XM_051472789.1"; gene_id "gene-J4E85_008565"
+NW_026250102.1	RefSeq	exon	722672	724071	.	-	.	transcript_id "rna-XM_051472789.1"; gene_id "gene-J4E85_008565";
+NW_026250102.1	RefSeq	exon	724099	724144	.	-	.	transcript_id "rna-XM_051472789.1"; gene_id "gene-J4E85_008565";
+NW_026250102.1	RefSeq	CDS	722672	724071	.	-	2	transcript_id "rna-XM_051472789.1"; gene_id "gene-J4E85_008565";
+NW_026250102.1	RefSeq	CDS	724099	724144	.	-	0	transcript_id "rna-XM_051472789.1"; gene_id "gene-J4E85_008565";
+NW_026250103.1	RefSeq	transcript	198157	200004	.	+	.	transcript_id "rna-XM_051472907.1"; gene_id "gene-J4E85_008683"
+NW_026250103.1	RefSeq	exon	198157	200004	.	+	.	transcript_id "rna-XM_051472907.1"; gene_id "gene-J4E85_008683";
+NW_026250103.1	RefSeq	CDS	198157	200004	.	+	0	transcript_id "rna-XM_051472907.1"; gene_id "gene-J4E85_008683";
+NW_026250103.1	RefSeq	transcript	714651	716139	.	-	.	transcript_id "rna-XM_051473086.1"; gene_id "gene-J4E85_008862"
+NW_026250103.1	RefSeq	exon	714651	715704	.	-	.	transcript_id "rna-XM_051473086.1"; gene_id "gene-J4E85_008862";
+NW_026250103.1	RefSeq	exon	715759	715987	.	-	.	transcript_id "rna-XM_051473086.1"; gene_id "gene-J4E85_008862";
+NW_026250103.1	RefSeq	exon	716037	716139	.	-	.	transcript_id "rna-XM_051473086.1"; gene_id "gene-J4E85_008862";
+NW_026250103.1	RefSeq	CDS	714651	715704	.	-	1	transcript_id "rna-XM_051473086.1"; gene_id "gene-J4E85_008862";
+NW_026250103.1	RefSeq	CDS	715759	715987	.	-	2	transcript_id "rna-XM_051473086.1"; gene_id "gene-J4E85_008862";
+NW_026250103.1	RefSeq	CDS	716037	716139	.	-	0	transcript_id "rna-XM_051473086.1"; gene_id "gene-J4E85_008862";
+NW_026250103.1	RefSeq	transcript	767029	768282	.	+	.	transcript_id "rna-XM_051473107.1"; gene_id "gene-J4E85_008883"
+NW_026250103.1	RefSeq	exon	767029	768282	.	+	.	transcript_id "rna-XM_051473107.1"; gene_id "gene-J4E85_008883";
+NW_026250103.1	RefSeq	CDS	767029	768282	.	+	0	transcript_id "rna-XM_051473107.1"; gene_id "gene-J4E85_008883";
+NW_026250103.1	RefSeq	transcript	769442	770441	.	+	.	transcript_id "rna-XM_051473109.1"; gene_id "gene-J4E85_008885"; gene_name "NSA2"
+NW_026250103.1	RefSeq	exon	769442	769479	.	+	.	transcript_id "rna-XM_051473109.1"; gene_id "gene-J4E85_008885"; gene_name "NSA2";
+NW_026250103.1	RefSeq	exon	769622	769797	.	+	.	transcript_id "rna-XM_051473109.1"; gene_id "gene-J4E85_008885"; gene_name "NSA2";
+NW_026250103.1	RefSeq	exon	769851	770254	.	+	.	transcript_id "rna-XM_051473109.1"; gene_id "gene-J4E85_008885"; gene_name "NSA2";
+NW_026250103.1	RefSeq	exon	770310	770441	.	+	.	transcript_id "rna-XM_051473109.1"; gene_id "gene-J4E85_008885"; gene_name "NSA2";
+NW_026250103.1	RefSeq	CDS	769442	769479	.	+	0	transcript_id "rna-XM_051473109.1"; gene_id "gene-J4E85_008885"; gene_name "NSA2";
+NW_026250103.1	RefSeq	CDS	769622	769797	.	+	1	transcript_id "rna-XM_051473109.1"; gene_id "gene-J4E85_008885"; gene_name "NSA2";
+NW_026250103.1	RefSeq	CDS	769851	770254	.	+	2	transcript_id "rna-XM_051473109.1"; gene_id "gene-J4E85_008885"; gene_name "NSA2";
+NW_026250103.1	RefSeq	CDS	770310	770441	.	+	0	transcript_id "rna-XM_051473109.1"; gene_id "gene-J4E85_008885"; gene_name "NSA2";
+NW_026250104.1	RefSeq	transcript	80795	81714	.	-	.	transcript_id "rna-XM_051473160.1"; gene_id "gene-J4E85_008936"
+NW_026250104.1	RefSeq	exon	80795	80902	.	-	.	transcript_id "rna-XM_051473160.1"; gene_id "gene-J4E85_008936";
+NW_026250104.1	RefSeq	exon	80953	81284	.	-	.	transcript_id "rna-XM_051473160.1"; gene_id "gene-J4E85_008936";
+NW_026250104.1	RefSeq	exon	81334	81529	.	-	.	transcript_id "rna-XM_051473160.1"; gene_id "gene-J4E85_008936";
+NW_026250104.1	RefSeq	exon	81703	81714	.	-	.	transcript_id "rna-XM_051473160.1"; gene_id "gene-J4E85_008936";
+NW_026250104.1	RefSeq	CDS	80795	80902	.	-	0	transcript_id "rna-XM_051473160.1"; gene_id "gene-J4E85_008936";
+NW_026250104.1	RefSeq	CDS	80953	81284	.	-	2	transcript_id "rna-XM_051473160.1"; gene_id "gene-J4E85_008936";
+NW_026250104.1	RefSeq	CDS	81334	81529	.	-	0	transcript_id "rna-XM_051473160.1"; gene_id "gene-J4E85_008936";
+NW_026250104.1	RefSeq	CDS	81703	81714	.	-	0	transcript_id "rna-XM_051473160.1"; gene_id "gene-J4E85_008936";
+NW_026250104.1	RefSeq	transcript	172666	173499	.	+	.	transcript_id "rna-XM_051473190.1"; gene_id "gene-J4E85_008966"
+NW_026250104.1	RefSeq	exon	172666	173499	.	+	.	transcript_id "rna-XM_051473190.1"; gene_id "gene-J4E85_008966";
+NW_026250104.1	RefSeq	CDS	172666	173499	.	+	0	transcript_id "rna-XM_051473190.1"; gene_id "gene-J4E85_008966";
+NW_026250104.1	RefSeq	transcript	462254	463927	.	+	.	transcript_id "rna-XM_051473285.1"; gene_id "gene-J4E85_009061"
+NW_026250104.1	RefSeq	exon	462254	462602	.	+	.	transcript_id "rna-XM_051473285.1"; gene_id "gene-J4E85_009061";
+NW_026250104.1	RefSeq	exon	462659	462693	.	+	.	transcript_id "rna-XM_051473285.1"; gene_id "gene-J4E85_009061";
+NW_026250104.1	RefSeq	exon	462923	463927	.	+	.	transcript_id "rna-XM_051473285.1"; gene_id "gene-J4E85_009061";
+NW_026250104.1	RefSeq	CDS	462254	462602	.	+	0	transcript_id "rna-XM_051473285.1"; gene_id "gene-J4E85_009061";
+NW_026250104.1	RefSeq	CDS	462659	462693	.	+	2	transcript_id "rna-XM_051473285.1"; gene_id "gene-J4E85_009061";
+NW_026250104.1	RefSeq	CDS	462923	463927	.	+	0	transcript_id "rna-XM_051473285.1"; gene_id "gene-J4E85_009061";
+NW_026250104.1	RefSeq	transcript	505458	506998	.	+	.	transcript_id "rna-XM_051473298.1"; gene_id "gene-J4E85_009074"; gene_name "CYP6"
+NW_026250104.1	RefSeq	exon	505458	505537	.	+	.	transcript_id "rna-XM_051473298.1"; gene_id "gene-J4E85_009074"; gene_name "CYP6";
+NW_026250104.1	RefSeq	exon	505654	506998	.	+	.	transcript_id "rna-XM_051473298.1"; gene_id "gene-J4E85_009074"; gene_name "CYP6";
+NW_026250104.1	RefSeq	CDS	505458	505537	.	+	0	transcript_id "rna-XM_051473298.1"; gene_id "gene-J4E85_009074"; gene_name "CYP6";
+NW_026250104.1	RefSeq	CDS	505654	506998	.	+	1	transcript_id "rna-XM_051473298.1"; gene_id "gene-J4E85_009074"; gene_name "CYP6";
+NW_026250105.1	RefSeq	transcript	163871	165913	.	+	.	transcript_id "rna-XM_051473434.1"; gene_id "gene-J4E85_009210"
+NW_026250105.1	RefSeq	exon	163871	165913	.	+	.	transcript_id "rna-XM_051473434.1"; gene_id "gene-J4E85_009210";
+NW_026250105.1	RefSeq	CDS	163871	165913	.	+	0	transcript_id "rna-XM_051473434.1"; gene_id "gene-J4E85_009210";
+NW_026250105.1	RefSeq	transcript	208138	209826	.	+	.	transcript_id "rna-XM_051473450.1"; gene_id "gene-J4E85_009226"
+NW_026250105.1	RefSeq	exon	208138	208346	.	+	.	transcript_id "rna-XM_051473450.1"; gene_id "gene-J4E85_009226";
+NW_026250105.1	RefSeq	exon	208396	209263	.	+	.	transcript_id "rna-XM_051473450.1"; gene_id "gene-J4E85_009226";
+NW_026250105.1	RefSeq	exon	209311	209826	.	+	.	transcript_id "rna-XM_051473450.1"; gene_id "gene-J4E85_009226";
+NW_026250105.1	RefSeq	CDS	208138	208346	.	+	0	transcript_id "rna-XM_051473450.1"; gene_id "gene-J4E85_009226";
+NW_026250105.1	RefSeq	CDS	208396	209263	.	+	1	transcript_id "rna-XM_051473450.1"; gene_id "gene-J4E85_009226";
+NW_026250105.1	RefSeq	CDS	209311	209826	.	+	0	transcript_id "rna-XM_051473450.1"; gene_id "gene-J4E85_009226";
+NW_026250105.1	RefSeq	transcript	214693	217635	.	-	.	transcript_id "rna-XM_051473453.1"; gene_id "gene-J4E85_009229"
+NW_026250105.1	RefSeq	exon	214693	217564	.	-	.	transcript_id "rna-XM_051473453.1"; gene_id "gene-J4E85_009229";
+NW_026250105.1	RefSeq	exon	217619	217635	.	-	.	transcript_id "rna-XM_051473453.1"; gene_id "gene-J4E85_009229";
+NW_026250105.1	RefSeq	CDS	214693	217564	.	-	1	transcript_id "rna-XM_051473453.1"; gene_id "gene-J4E85_009229";
+NW_026250105.1	RefSeq	CDS	217619	217635	.	-	0	transcript_id "rna-XM_051473453.1"; gene_id "gene-J4E85_009229";
+NW_026250105.1	RefSeq	transcript	389156	389908	.	-	.	transcript_id "rna-XM_051473521.1"; gene_id "gene-J4E85_009297"; gene_name "TMA22"
+NW_026250105.1	RefSeq	exon	389156	389571	.	-	.	transcript_id "rna-XM_051473521.1"; gene_id "gene-J4E85_009297"; gene_name "TMA22";
+NW_026250105.1	RefSeq	exon	389652	389739	.	-	.	transcript_id "rna-XM_051473521.1"; gene_id "gene-J4E85_009297"; gene_name "TMA22";
+NW_026250105.1	RefSeq	exon	389800	389819	.	-	.	transcript_id "rna-XM_051473521.1"; gene_id "gene-J4E85_009297"; gene_name "TMA22";
+NW_026250105.1	RefSeq	exon	389866	389908	.	-	.	transcript_id "rna-XM_051473521.1"; gene_id "gene-J4E85_009297"; gene_name "TMA22";
+NW_026250105.1	RefSeq	CDS	389156	389571	.	-	2	transcript_id "rna-XM_051473521.1"; gene_id "gene-J4E85_009297"; gene_name "TMA22";
+NW_026250105.1	RefSeq	CDS	389652	389739	.	-	0	transcript_id "rna-XM_051473521.1"; gene_id "gene-J4E85_009297"; gene_name "TMA22";
+NW_026250105.1	RefSeq	CDS	389800	389819	.	-	2	transcript_id "rna-XM_051473521.1"; gene_id "gene-J4E85_009297"; gene_name "TMA22";
+NW_026250105.1	RefSeq	CDS	389866	389908	.	-	0	transcript_id "rna-XM_051473521.1"; gene_id "gene-J4E85_009297"; gene_name "TMA22";
+NW_026250105.1	RefSeq	transcript	424152	425366	.	-	.	transcript_id "rna-XM_051473536.1"; gene_id "gene-J4E85_009312"
+NW_026250105.1	RefSeq	exon	424152	425366	.	-	.	transcript_id "rna-XM_051473536.1"; gene_id "gene-J4E85_009312";
+NW_026250105.1	RefSeq	CDS	424152	425366	.	-	0	transcript_id "rna-XM_051473536.1"; gene_id "gene-J4E85_009312";
+NW_026250106.1	RefSeq	transcript	268155	271496	.	-	.	transcript_id "rna-XM_051473697.1"; gene_id "gene-J4E85_009473"
+NW_026250106.1	RefSeq	exon	268155	269182	.	-	.	transcript_id "rna-XM_051473697.1"; gene_id "gene-J4E85_009473";
+NW_026250106.1	RefSeq	exon	269232	271217	.	-	.	transcript_id "rna-XM_051473697.1"; gene_id "gene-J4E85_009473";
+NW_026250106.1	RefSeq	exon	271265	271496	.	-	.	transcript_id "rna-XM_051473697.1"; gene_id "gene-J4E85_009473";
+NW_026250106.1	RefSeq	CDS	268155	269182	.	-	2	transcript_id "rna-XM_051473697.1"; gene_id "gene-J4E85_009473";
+NW_026250106.1	RefSeq	CDS	269232	271217	.	-	2	transcript_id "rna-XM_051473697.1"; gene_id "gene-J4E85_009473";
+NW_026250106.1	RefSeq	CDS	271265	271496	.	-	0	transcript_id "rna-XM_051473697.1"; gene_id "gene-J4E85_009473";
+NW_026250106.1	RefSeq	transcript	461218	462705	.	+	.	transcript_id "rna-XM_051473762.1"; gene_id "gene-J4E85_009540"
+NW_026250106.1	RefSeq	exon	461218	462705	.	+	.	transcript_id "rna-XM_051473762.1"; gene_id "gene-J4E85_009540";
+NW_026250106.1	RefSeq	CDS	461218	462705	.	+	0	transcript_id "rna-XM_051473762.1"; gene_id "gene-J4E85_009540";
+NW_026250107.1	RefSeq	transcript	230702	231469	.	+	.	transcript_id "rna-XM_051473876.1"; gene_id "gene-J4E85_009656"; gene_name "NOP16"
+NW_026250107.1	RefSeq	exon	230702	230811	.	+	.	transcript_id "rna-XM_051473876.1"; gene_id "gene-J4E85_009656"; gene_name "NOP16";
+NW_026250107.1	RefSeq	exon	230866	231469	.	+	.	transcript_id "rna-XM_051473876.1"; gene_id "gene-J4E85_009656"; gene_name "NOP16";
+NW_026250107.1	RefSeq	CDS	230702	230811	.	+	0	transcript_id "rna-XM_051473876.1"; gene_id "gene-J4E85_009656"; gene_name "NOP16";
+NW_026250107.1	RefSeq	CDS	230866	231469	.	+	1	transcript_id "rna-XM_051473876.1"; gene_id "gene-J4E85_009656"; gene_name "NOP16";
+NW_026250107.1	RefSeq	transcript	387358	388662	.	+	.	transcript_id "rna-XM_051473940.1"; gene_id "gene-J4E85_009722"
+NW_026250107.1	RefSeq	exon	387358	387438	.	+	.	transcript_id "rna-XM_051473940.1"; gene_id "gene-J4E85_009722";
+NW_026250107.1	RefSeq	exon	387517	388662	.	+	.	transcript_id "rna-XM_051473940.1"; gene_id "gene-J4E85_009722";
+NW_026250107.1	RefSeq	CDS	387358	387438	.	+	0	transcript_id "rna-XM_051473940.1"; gene_id "gene-J4E85_009722";
+NW_026250107.1	RefSeq	CDS	387517	388662	.	+	0	transcript_id "rna-XM_051473940.1"; gene_id "gene-J4E85_009722";
+NW_026250108.1	RefSeq	transcript	94033	95967	.	+	.	transcript_id "rna-XM_051474006.1"; gene_id "gene-J4E85_009788"
+NW_026250108.1	RefSeq	exon	94033	94110	.	+	.	transcript_id "rna-XM_051474006.1"; gene_id "gene-J4E85_009788";
+NW_026250108.1	RefSeq	exon	94315	94479	.	+	.	transcript_id "rna-XM_051474006.1"; gene_id "gene-J4E85_009788";
+NW_026250108.1	RefSeq	exon	94533	95057	.	+	.	transcript_id "rna-XM_051474006.1"; gene_id "gene-J4E85_009788";
+NW_026250108.1	RefSeq	exon	95107	95967	.	+	.	transcript_id "rna-XM_051474006.1"; gene_id "gene-J4E85_009788";
+NW_026250108.1	RefSeq	CDS	94033	94110	.	+	0	transcript_id "rna-XM_051474006.1"; gene_id "gene-J4E85_009788";
+NW_026250108.1	RefSeq	CDS	94315	94479	.	+	0	transcript_id "rna-XM_051474006.1"; gene_id "gene-J4E85_009788";
+NW_026250108.1	RefSeq	CDS	94533	95057	.	+	0	transcript_id "rna-XM_051474006.1"; gene_id "gene-J4E85_009788";
+NW_026250108.1	RefSeq	CDS	95107	95967	.	+	0	transcript_id "rna-XM_051474006.1"; gene_id "gene-J4E85_009788";
+NW_026250091.1	RefSeq	transcript	101592	102696	.	+	.	transcript_id "rna-XM_051465407.1"; gene_id "gene-J4E85_001119"
+NW_026250091.1	RefSeq	exon	101592	102378	.	+	.	transcript_id "rna-XM_051465407.1"; gene_id "gene-J4E85_001119";
+NW_026250091.1	RefSeq	exon	102434	102539	.	+	.	transcript_id "rna-XM_051465407.1"; gene_id "gene-J4E85_001119";
+NW_026250091.1	RefSeq	exon	102594	102696	.	+	.	transcript_id "rna-XM_051465407.1"; gene_id "gene-J4E85_001119";
+NW_026250091.1	RefSeq	CDS	101592	102378	.	+	0	transcript_id "rna-XM_051465407.1"; gene_id "gene-J4E85_001119";
+NW_026250091.1	RefSeq	CDS	102434	102539	.	+	2	transcript_id "rna-XM_051465407.1"; gene_id "gene-J4E85_001119";
+NW_026250091.1	RefSeq	CDS	102594	102696	.	+	1	transcript_id "rna-XM_051465407.1"; gene_id "gene-J4E85_001119";
+NW_026250091.1	RefSeq	transcript	240885	242927	.	-	.	transcript_id "rna-XM_051465460.1"; gene_id "gene-J4E85_001172"
+NW_026250091.1	RefSeq	exon	240885	242927	.	-	.	transcript_id "rna-XM_051465460.1"; gene_id "gene-J4E85_001172";
+NW_026250091.1	RefSeq	CDS	240885	242927	.	-	0	transcript_id "rna-XM_051465460.1"; gene_id "gene-J4E85_001172";
+NW_026250091.1	RefSeq	transcript	244192	244947	.	-	.	transcript_id "rna-XM_051465462.1"; gene_id "gene-J4E85_001174"; gene_name "ISY1"
+NW_026250091.1	RefSeq	exon	244192	244947	.	-	.	transcript_id "rna-XM_051465462.1"; gene_id "gene-J4E85_001174"; gene_name "ISY1";
+NW_026250091.1	RefSeq	CDS	244192	244947	.	-	0	transcript_id "rna-XM_051465462.1"; gene_id "gene-J4E85_001174"; gene_name "ISY1";
+NW_026250091.1	RefSeq	transcript	361950	364012	.	+	.	transcript_id "rna-XM_051465499.1"; gene_id "gene-J4E85_001212"
+NW_026250091.1	RefSeq	exon	361950	362279	.	+	.	transcript_id "rna-XM_051465499.1"; gene_id "gene-J4E85_001212";
+NW_026250091.1	RefSeq	exon	362333	362745	.	+	.	transcript_id "rna-XM_051465499.1"; gene_id "gene-J4E85_001212";
+NW_026250091.1	RefSeq	exon	362791	364012	.	+	.	transcript_id "rna-XM_051465499.1"; gene_id "gene-J4E85_001212";
+NW_026250091.1	RefSeq	CDS	361950	362279	.	+	0	transcript_id "rna-XM_051465499.1"; gene_id "gene-J4E85_001212";
+NW_026250091.1	RefSeq	CDS	362333	362745	.	+	0	transcript_id "rna-XM_051465499.1"; gene_id "gene-J4E85_001212";
+NW_026250091.1	RefSeq	CDS	362791	364012	.	+	1	transcript_id "rna-XM_051465499.1"; gene_id "gene-J4E85_001212";
+NW_026250091.1	RefSeq	transcript	565507	566501	.	+	.	transcript_id "rna-XM_051465569.1"; gene_id "gene-J4E85_001283"
+NW_026250091.1	RefSeq	exon	565507	566266	.	+	.	transcript_id "rna-XM_051465569.1"; gene_id "gene-J4E85_001283";
+NW_026250091.1	RefSeq	exon	566310	566428	.	+	.	transcript_id "rna-XM_051465569.1"; gene_id "gene-J4E85_001283";
+NW_026250091.1	RefSeq	exon	566445	566501	.	+	.	transcript_id "rna-XM_051465569.1"; gene_id "gene-J4E85_001283";
+NW_026250091.1	RefSeq	CDS	565507	566266	.	+	0	transcript_id "rna-XM_051465569.1"; gene_id "gene-J4E85_001283";
+NW_026250091.1	RefSeq	CDS	566310	566428	.	+	2	transcript_id "rna-XM_051465569.1"; gene_id "gene-J4E85_001283";
+NW_026250091.1	RefSeq	CDS	566445	566501	.	+	0	transcript_id "rna-XM_051465569.1"; gene_id "gene-J4E85_001283";
+NW_026250091.1	RefSeq	transcript	818183	819103	.	-	.	transcript_id "rna-XM_051465666.1"; gene_id "gene-J4E85_001380"; gene_name "COQ4"
+NW_026250091.1	RefSeq	exon	818183	818841	.	-	.	transcript_id "rna-XM_051465666.1"; gene_id "gene-J4E85_001380"; gene_name "COQ4";
+NW_026250091.1	RefSeq	exon	818893	819103	.	-	.	transcript_id "rna-XM_051465666.1"; gene_id "gene-J4E85_001380"; gene_name "COQ4";
+NW_026250091.1	RefSeq	CDS	818183	818841	.	-	2	transcript_id "rna-XM_051465666.1"; gene_id "gene-J4E85_001380"; gene_name "COQ4";
+NW_026250091.1	RefSeq	CDS	818893	819103	.	-	0	transcript_id "rna-XM_051465666.1"; gene_id "gene-J4E85_001380"; gene_name "COQ4";
+NW_026250091.1	RefSeq	transcript	878658	879434	.	-	.	transcript_id "rna-XM_051465688.1"; gene_id "gene-J4E85_001402"
+NW_026250091.1	RefSeq	exon	878658	879179	.	-	.	transcript_id "rna-XM_051465688.1"; gene_id "gene-J4E85_001402";
+NW_026250091.1	RefSeq	exon	879231	879434	.	-	.	transcript_id "rna-XM_051465688.1"; gene_id "gene-J4E85_001402";
+NW_026250091.1	RefSeq	CDS	878658	879179	.	-	0	transcript_id "rna-XM_051465688.1"; gene_id "gene-J4E85_001402";
+NW_026250091.1	RefSeq	CDS	879231	879434	.	-	0	transcript_id "rna-XM_051465688.1"; gene_id "gene-J4E85_001402";
+NW_026250091.1	RefSeq	transcript	1697790	1698946	.	+	.	transcript_id "rna-XM_051465970.1"; gene_id "gene-J4E85_001686"; gene_name "ATG3"
+NW_026250091.1	RefSeq	exon	1697790	1698313	.	+	.	transcript_id "rna-XM_051465970.1"; gene_id "gene-J4E85_001686"; gene_name "ATG3";
+NW_026250091.1	RefSeq	exon	1698366	1698854	.	+	.	transcript_id "rna-XM_051465970.1"; gene_id "gene-J4E85_001686"; gene_name "ATG3";
+NW_026250091.1	RefSeq	exon	1698904	1698946	.	+	.	transcript_id "rna-XM_051465970.1"; gene_id "gene-J4E85_001686"; gene_name "ATG3";
+NW_026250091.1	RefSeq	CDS	1697790	1698313	.	+	0	transcript_id "rna-XM_051465970.1"; gene_id "gene-J4E85_001686"; gene_name "ATG3";
+NW_026250091.1	RefSeq	CDS	1698366	1698854	.	+	1	transcript_id "rna-XM_051465970.1"; gene_id "gene-J4E85_001686"; gene_name "ATG3";
+NW_026250091.1	RefSeq	CDS	1698904	1698946	.	+	1	transcript_id "rna-XM_051465970.1"; gene_id "gene-J4E85_001686"; gene_name "ATG3";
+NW_026250091.1	RefSeq	transcript	1706160	1707136	.	-	.	transcript_id "rna-XM_051465974.1"; gene_id "gene-J4E85_001690"
+NW_026250091.1	RefSeq	exon	1706160	1706751	.	-	.	transcript_id "rna-XM_051465974.1"; gene_id "gene-J4E85_001690";
+NW_026250091.1	RefSeq	exon	1706806	1706925	.	-	.	transcript_id "rna-XM_051465974.1"; gene_id "gene-J4E85_001690";
+NW_026250091.1	RefSeq	exon	1706973	1707136	.	-	.	transcript_id "rna-XM_051465974.1"; gene_id "gene-J4E85_001690";
+NW_026250091.1	RefSeq	CDS	1706160	1706751	.	-	1	transcript_id "rna-XM_051465974.1"; gene_id "gene-J4E85_001690";
+NW_026250091.1	RefSeq	CDS	1706806	1706925	.	-	1	transcript_id "rna-XM_051465974.1"; gene_id "gene-J4E85_001690";
+NW_026250091.1	RefSeq	CDS	1706973	1707136	.	-	0	transcript_id "rna-XM_051465974.1"; gene_id "gene-J4E85_001690";
+NW_026250091.1	RefSeq	transcript	1707375	1708187	.	+	.	transcript_id "rna-XM_051465975.1"; gene_id "gene-J4E85_001691"; gene_name "CWC15"
+NW_026250091.1	RefSeq	exon	1707375	1707769	.	+	.	transcript_id "rna-XM_051465975.1"; gene_id "gene-J4E85_001691"; gene_name "CWC15";
+NW_026250091.1	RefSeq	exon	1707821	1708118	.	+	.	transcript_id "rna-XM_051465975.1"; gene_id "gene-J4E85_001691"; gene_name "CWC15";
+NW_026250091.1	RefSeq	exon	1708170	1708187	.	+	.	transcript_id "rna-XM_051465975.1"; gene_id "gene-J4E85_001691"; gene_name "CWC15";
+NW_026250091.1	RefSeq	CDS	1707375	1707769	.	+	0	transcript_id "rna-XM_051465975.1"; gene_id "gene-J4E85_001691"; gene_name "CWC15";
+NW_026250091.1	RefSeq	CDS	1707821	1708118	.	+	1	transcript_id "rna-XM_051465975.1"; gene_id "gene-J4E85_001691"; gene_name "CWC15";
+NW_026250091.1	RefSeq	CDS	1708170	1708187	.	+	0	transcript_id "rna-XM_051465975.1"; gene_id "gene-J4E85_001691"; gene_name "CWC15";
+NW_026250091.1	RefSeq	transcript	1865328	1867395	.	-	.	transcript_id "rna-XM_051466026.1"; gene_id "gene-J4E85_001742"; gene_name "NOP7"
+NW_026250091.1	RefSeq	exon	1865328	1867318	.	-	.	transcript_id "rna-XM_051466026.1"; gene_id "gene-J4E85_001742"; gene_name "NOP7";
+NW_026250091.1	RefSeq	exon	1867371	1867395	.	-	.	transcript_id "rna-XM_051466026.1"; gene_id "gene-J4E85_001742"; gene_name "NOP7";
+NW_026250091.1	RefSeq	CDS	1865328	1867318	.	-	2	transcript_id "rna-XM_051466026.1"; gene_id "gene-J4E85_001742"; gene_name "NOP7";
+NW_026250091.1	RefSeq	CDS	1867371	1867395	.	-	0	transcript_id "rna-XM_051466026.1"; gene_id "gene-J4E85_001742"; gene_name "NOP7";
+NW_026250091.1	RefSeq	transcript	2064390	2065040	.	+	.	transcript_id "rna-XM_051466092.1"; gene_id "gene-J4E85_001808"
+NW_026250091.1	RefSeq	exon	2064390	2064558	.	+	.	transcript_id "rna-XM_051466092.1"; gene_id "gene-J4E85_001808";
+NW_026250091.1	RefSeq	exon	2064628	2065040	.	+	.	transcript_id "rna-XM_051466092.1"; gene_id "gene-J4E85_001808";
+NW_026250091.1	RefSeq	CDS	2064390	2064558	.	+	0	transcript_id "rna-XM_051466092.1"; gene_id "gene-J4E85_001808";
+NW_026250091.1	RefSeq	CDS	2064628	2065040	.	+	2	transcript_id "rna-XM_051466092.1"; gene_id "gene-J4E85_001808";
+NW_026250091.1	RefSeq	transcript	2311611	2312825	.	+	.	transcript_id "rna-XM_051466167.1"; gene_id "gene-J4E85_001883"
+NW_026250091.1	RefSeq	exon	2311611	2312825	.	+	.	transcript_id "rna-XM_051466167.1"; gene_id "gene-J4E85_001883";
+NW_026250091.1	RefSeq	CDS	2311611	2312825	.	+	0	transcript_id "rna-XM_051466167.1"; gene_id "gene-J4E85_001883";
+NW_026250109.1	RefSeq	transcript	25786	27227	.	-	.	transcript_id "rna-XM_051474147.1"; gene_id "gene-J4E85_009929"
+NW_026250109.1	RefSeq	exon	25786	26803	.	-	.	transcript_id "rna-XM_051474147.1"; gene_id "gene-J4E85_009929";
+NW_026250109.1	RefSeq	exon	26872	27227	.	-	.	transcript_id "rna-XM_051474147.1"; gene_id "gene-J4E85_009929";
+NW_026250109.1	RefSeq	CDS	25786	26803	.	-	1	transcript_id "rna-XM_051474147.1"; gene_id "gene-J4E85_009929";
+NW_026250109.1	RefSeq	CDS	26872	27227	.	-	0	transcript_id "rna-XM_051474147.1"; gene_id "gene-J4E85_009929";
+NW_026250109.1	RefSeq	transcript	29302	30432	.	+	.	transcript_id "rna-XM_051474149.1"; gene_id "gene-J4E85_009931"; gene_name "KRR1"
+NW_026250109.1	RefSeq	exon	29302	29361	.	+	.	transcript_id "rna-XM_051474149.1"; gene_id "gene-J4E85_009931"; gene_name "KRR1";
+NW_026250109.1	RefSeq	exon	29418	29987	.	+	.	transcript_id "rna-XM_051474149.1"; gene_id "gene-J4E85_009931"; gene_name "KRR1";
+NW_026250109.1	RefSeq	exon	30040	30432	.	+	.	transcript_id "rna-XM_051474149.1"; gene_id "gene-J4E85_009931"; gene_name "KRR1";
+NW_026250109.1	RefSeq	CDS	29302	29361	.	+	0	transcript_id "rna-XM_051474149.1"; gene_id "gene-J4E85_009931"; gene_name "KRR1";
+NW_026250109.1	RefSeq	CDS	29418	29987	.	+	0	transcript_id "rna-XM_051474149.1"; gene_id "gene-J4E85_009931"; gene_name "KRR1";
+NW_026250109.1	RefSeq	CDS	30040	30432	.	+	0	transcript_id "rna-XM_051474149.1"; gene_id "gene-J4E85_009931"; gene_name "KRR1";
+NW_026250109.1	RefSeq	transcript	215238	218617	.	-	.	transcript_id "rna-XM_051474203.1"; gene_id "gene-J4E85_009986"; gene_name "HIR1"
+NW_026250109.1	RefSeq	exon	215238	215344	.	-	.	transcript_id "rna-XM_051474203.1"; gene_id "gene-J4E85_009986"; gene_name "HIR1";
+NW_026250109.1	RefSeq	exon	215403	218105	.	-	.	transcript_id "rna-XM_051474203.1"; gene_id "gene-J4E85_009986"; gene_name "HIR1";
+NW_026250109.1	RefSeq	exon	218156	218371	.	-	.	transcript_id "rna-XM_051474203.1"; gene_id "gene-J4E85_009986"; gene_name "HIR1";
+NW_026250109.1	RefSeq	exon	218442	218516	.	-	.	transcript_id "rna-XM_051474203.1"; gene_id "gene-J4E85_009986"; gene_name "HIR1";
+NW_026250109.1	RefSeq	exon	218581	218617	.	-	.	transcript_id "rna-XM_051474203.1"; gene_id "gene-J4E85_009986"; gene_name "HIR1";
+NW_026250109.1	RefSeq	CDS	215238	215344	.	-	2	transcript_id "rna-XM_051474203.1"; gene_id "gene-J4E85_009986"; gene_name "HIR1";
+NW_026250109.1	RefSeq	CDS	215403	218105	.	-	2	transcript_id "rna-XM_051474203.1"; gene_id "gene-J4E85_009986"; gene_name "HIR1";
+NW_026250109.1	RefSeq	CDS	218156	218371	.	-	2	transcript_id "rna-XM_051474203.1"; gene_id "gene-J4E85_009986"; gene_name "HIR1";
+NW_026250109.1	RefSeq	CDS	218442	218516	.	-	2	transcript_id "rna-XM_051474203.1"; gene_id "gene-J4E85_009986"; gene_name "HIR1";
+NW_026250109.1	RefSeq	CDS	218581	218617	.	-	0	transcript_id "rna-XM_051474203.1"; gene_id "gene-J4E85_009986"; gene_name "HIR1";
+NW_026250109.1	RefSeq	transcript	360475	361621	.	-	.	transcript_id "rna-XM_051474256.1"; gene_id "gene-J4E85_010041"
+NW_026250109.1	RefSeq	exon	360475	360868	.	-	.	transcript_id "rna-XM_051474256.1"; gene_id "gene-J4E85_010041";
+NW_026250109.1	RefSeq	exon	360941	360977	.	-	.	transcript_id "rna-XM_051474256.1"; gene_id "gene-J4E85_010041";
+NW_026250109.1	RefSeq	exon	361030	361621	.	-	.	transcript_id "rna-XM_051474256.1"; gene_id "gene-J4E85_010041";
+NW_026250109.1	RefSeq	CDS	360475	360868	.	-	1	transcript_id "rna-XM_051474256.1"; gene_id "gene-J4E85_010041";
+NW_026250109.1	RefSeq	CDS	360941	360977	.	-	2	transcript_id "rna-XM_051474256.1"; gene_id "gene-J4E85_010041";
+NW_026250109.1	RefSeq	CDS	361030	361621	.	-	0	transcript_id "rna-XM_051474256.1"; gene_id "gene-J4E85_010041";
+NW_026250110.1	RefSeq	transcript	218783	221408	.	+	.	transcript_id "rna-XM_051474356.1"; gene_id "gene-J4E85_010142"
+NW_026250110.1	RefSeq	exon	218783	218878	.	+	.	transcript_id "rna-XM_051474356.1"; gene_id "gene-J4E85_010142";
+NW_026250110.1	RefSeq	exon	218928	220615	.	+	.	transcript_id "rna-XM_051474356.1"; gene_id "gene-J4E85_010142";
+NW_026250110.1	RefSeq	exon	220664	221408	.	+	.	transcript_id "rna-XM_051474356.1"; gene_id "gene-J4E85_010142";
+NW_026250110.1	RefSeq	CDS	218783	218878	.	+	0	transcript_id "rna-XM_051474356.1"; gene_id "gene-J4E85_010142";
+NW_026250110.1	RefSeq	CDS	218928	220615	.	+	0	transcript_id "rna-XM_051474356.1"; gene_id "gene-J4E85_010142";
+NW_026250110.1	RefSeq	CDS	220664	221408	.	+	1	transcript_id "rna-XM_051474356.1"; gene_id "gene-J4E85_010142";
+NW_026250110.1	RefSeq	transcript	250063	252585	.	+	.	transcript_id "rna-XM_051474365.1"; gene_id "gene-J4E85_010151"
+NW_026250110.1	RefSeq	exon	250063	252585	.	+	.	transcript_id "rna-XM_051474365.1"; gene_id "gene-J4E85_010151";
+NW_026250110.1	RefSeq	CDS	250063	252585	.	+	0	transcript_id "rna-XM_051474365.1"; gene_id "gene-J4E85_010151";
+NW_026250110.1	RefSeq	transcript	287600	289249	.	-	.	transcript_id "rna-XM_051474375.1"; gene_id "gene-J4E85_010161"
+NW_026250110.1	RefSeq	exon	287600	289096	.	-	.	transcript_id "rna-XM_051474375.1"; gene_id "gene-J4E85_010161";
+NW_026250110.1	RefSeq	exon	289199	289249	.	-	.	transcript_id "rna-XM_051474375.1"; gene_id "gene-J4E85_010161";
+NW_026250110.1	RefSeq	CDS	287600	289096	.	-	0	transcript_id "rna-XM_051474375.1"; gene_id "gene-J4E85_010161";
+NW_026250110.1	RefSeq	CDS	289199	289249	.	-	0	transcript_id "rna-XM_051474375.1"; gene_id "gene-J4E85_010161";
+NW_026250110.1	RefSeq	transcript	307810	308895	.	-	.	transcript_id "rna-XM_051474384.1"; gene_id "gene-J4E85_010170"
+NW_026250110.1	RefSeq	exon	307810	308610	.	-	.	transcript_id "rna-XM_051474384.1"; gene_id "gene-J4E85_010170";
+NW_026250110.1	RefSeq	exon	308663	308760	.	-	.	transcript_id "rna-XM_051474384.1"; gene_id "gene-J4E85_010170";
+NW_026250110.1	RefSeq	exon	308817	308895	.	-	.	transcript_id "rna-XM_051474384.1"; gene_id "gene-J4E85_010170";
+NW_026250110.1	RefSeq	CDS	307810	308610	.	-	0	transcript_id "rna-XM_051474384.1"; gene_id "gene-J4E85_010170";
+NW_026250110.1	RefSeq	CDS	308663	308760	.	-	2	transcript_id "rna-XM_051474384.1"; gene_id "gene-J4E85_010170";
+NW_026250110.1	RefSeq	CDS	308817	308895	.	-	0	transcript_id "rna-XM_051474384.1"; gene_id "gene-J4E85_010170";
+NW_026250110.1	RefSeq	transcript	317683	318890	.	-	.	transcript_id "rna-XM_051474387.1"; gene_id "gene-J4E85_010173"
+NW_026250110.1	RefSeq	exon	317683	318161	.	-	.	transcript_id "rna-XM_051474387.1"; gene_id "gene-J4E85_010173";
+NW_026250110.1	RefSeq	exon	318279	318432	.	-	.	transcript_id "rna-XM_051474387.1"; gene_id "gene-J4E85_010173";
+NW_026250110.1	RefSeq	exon	318482	318646	.	-	.	transcript_id "rna-XM_051474387.1"; gene_id "gene-J4E85_010173";
+NW_026250110.1	RefSeq	exon	318696	318890	.	-	.	transcript_id "rna-XM_051474387.1"; gene_id "gene-J4E85_010173";
+NW_026250110.1	RefSeq	CDS	317683	318161	.	-	2	transcript_id "rna-XM_051474387.1"; gene_id "gene-J4E85_010173";
+NW_026250110.1	RefSeq	CDS	318279	318432	.	-	0	transcript_id "rna-XM_051474387.1"; gene_id "gene-J4E85_010173";
+NW_026250110.1	RefSeq	CDS	318482	318646	.	-	0	transcript_id "rna-XM_051474387.1"; gene_id "gene-J4E85_010173";
+NW_026250110.1	RefSeq	CDS	318696	318890	.	-	0	transcript_id "rna-XM_051474387.1"; gene_id "gene-J4E85_010173";
+NW_026250110.1	RefSeq	transcript	416321	417927	.	+	.	transcript_id "rna-XM_051474428.1"; gene_id "gene-J4E85_010215"
+NW_026250110.1	RefSeq	exon	416321	416986	.	+	.	transcript_id "rna-XM_051474428.1"; gene_id "gene-J4E85_010215";
+NW_026250110.1	RefSeq	exon	417042	417253	.	+	.	transcript_id "rna-XM_051474428.1"; gene_id "gene-J4E85_010215";
+NW_026250110.1	RefSeq	exon	417365	417734	.	+	.	transcript_id "rna-XM_051474428.1"; gene_id "gene-J4E85_010215";
+NW_026250110.1	RefSeq	exon	417844	417927	.	+	.	transcript_id "rna-XM_051474428.1"; gene_id "gene-J4E85_010215";
+NW_026250110.1	RefSeq	CDS	416321	416986	.	+	0	transcript_id "rna-XM_051474428.1"; gene_id "gene-J4E85_010215";
+NW_026250110.1	RefSeq	CDS	417042	417253	.	+	0	transcript_id "rna-XM_051474428.1"; gene_id "gene-J4E85_010215";
+NW_026250110.1	RefSeq	CDS	417365	417734	.	+	1	transcript_id "rna-XM_051474428.1"; gene_id "gene-J4E85_010215";
+NW_026250110.1	RefSeq	CDS	417844	417927	.	+	0	transcript_id "rna-XM_051474428.1"; gene_id "gene-J4E85_010215";
+NW_026250111.1	RefSeq	transcript	131222	132211	.	+	.	transcript_id "rna-XM_051474477.1"; gene_id "gene-J4E85_010265"
+NW_026250111.1	RefSeq	exon	131222	132211	.	+	.	transcript_id "rna-XM_051474477.1"; gene_id "gene-J4E85_010265";
+NW_026250111.1	RefSeq	CDS	131222	132211	.	+	0	transcript_id "rna-XM_051474477.1"; gene_id "gene-J4E85_010265";
+NW_026250111.1	RefSeq	transcript	382391	383542	.	-	.	transcript_id "rna-XM_051474565.1"; gene_id "gene-J4E85_010355"
+NW_026250111.1	RefSeq	exon	382391	382968	.	-	.	transcript_id "rna-XM_051474565.1"; gene_id "gene-J4E85_010355";
+NW_026250111.1	RefSeq	exon	383019	383187	.	-	.	transcript_id "rna-XM_051474565.1"; gene_id "gene-J4E85_010355";
+NW_026250111.1	RefSeq	exon	383240	383542	.	-	.	transcript_id "rna-XM_051474565.1"; gene_id "gene-J4E85_010355";
+NW_026250111.1	RefSeq	CDS	382391	382968	.	-	2	transcript_id "rna-XM_051474565.1"; gene_id "gene-J4E85_010355";
+NW_026250111.1	RefSeq	CDS	383019	383187	.	-	0	transcript_id "rna-XM_051474565.1"; gene_id "gene-J4E85_010355";
+NW_026250111.1	RefSeq	CDS	383240	383542	.	-	0	transcript_id "rna-XM_051474565.1"; gene_id "gene-J4E85_010355";
+NW_026250112.1	RefSeq	transcript	370016	372190	.	-	.	transcript_id "rna-XM_051474696.1"; gene_id "gene-J4E85_010487"
+NW_026250112.1	RefSeq	exon	370016	372190	.	-	.	transcript_id "rna-XM_051474696.1"; gene_id "gene-J4E85_010487";
+NW_026250112.1	RefSeq	CDS	370016	372190	.	-	0	transcript_id "rna-XM_051474696.1"; gene_id "gene-J4E85_010487";
+NW_026250113.1	RefSeq	transcript	188727	189791	.	-	.	transcript_id "rna-XM_051474760.1"; gene_id "gene-J4E85_010551"
+NW_026250113.1	RefSeq	exon	188727	189791	.	-	.	transcript_id "rna-XM_051474760.1"; gene_id "gene-J4E85_010551";
+NW_026250113.1	RefSeq	CDS	188727	189791	.	-	0	transcript_id "rna-XM_051474760.1"; gene_id "gene-J4E85_010551";
+NW_026250115.1	RefSeq	transcript	151976	152577	.	-	.	transcript_id "rna-XM_051474996.1"; gene_id "gene-J4E85_010792"
+NW_026250115.1	RefSeq	exon	151976	152320	.	-	.	transcript_id "rna-XM_051474996.1"; gene_id "gene-J4E85_010792";
+NW_026250115.1	RefSeq	exon	152392	152577	.	-	.	transcript_id "rna-XM_051474996.1"; gene_id "gene-J4E85_010792";
+NW_026250115.1	RefSeq	CDS	151976	152320	.	-	0	transcript_id "rna-XM_051474996.1"; gene_id "gene-J4E85_010792";
+NW_026250115.1	RefSeq	CDS	152392	152577	.	-	0	transcript_id "rna-XM_051474996.1"; gene_id "gene-J4E85_010792";
+NW_026250117.1	RefSeq	transcript	57375	59300	.	-	.	transcript_id "rna-XM_051475146.1"; gene_id "gene-J4E85_010943"
+NW_026250117.1	RefSeq	exon	57375	59145	.	-	.	transcript_id "rna-XM_051475146.1"; gene_id "gene-J4E85_010943";
+NW_026250117.1	RefSeq	exon	59215	59300	.	-	.	transcript_id "rna-XM_051475146.1"; gene_id "gene-J4E85_010943";
+NW_026250117.1	RefSeq	CDS	57375	59145	.	-	1	transcript_id "rna-XM_051475146.1"; gene_id "gene-J4E85_010943";
+NW_026250117.1	RefSeq	CDS	59215	59300	.	-	0	transcript_id "rna-XM_051475146.1"; gene_id "gene-J4E85_010943";
+NW_026250092.1	RefSeq	transcript	142262	143246	.	-	.	transcript_id "rna-XM_051466282.1"; gene_id "gene-J4E85_002002"; gene_name "BCP1"
+NW_026250092.1	RefSeq	exon	142262	142807	.	-	.	transcript_id "rna-XM_051466282.1"; gene_id "gene-J4E85_002002"; gene_name "BCP1";
+NW_026250092.1	RefSeq	exon	142861	143097	.	-	.	transcript_id "rna-XM_051466282.1"; gene_id "gene-J4E85_002002"; gene_name "BCP1";
+NW_026250092.1	RefSeq	exon	143151	143246	.	-	.	transcript_id "rna-XM_051466282.1"; gene_id "gene-J4E85_002002"; gene_name "BCP1";
+NW_026250092.1	RefSeq	CDS	142262	142807	.	-	0	transcript_id "rna-XM_051466282.1"; gene_id "gene-J4E85_002002"; gene_name "BCP1";
+NW_026250092.1	RefSeq	CDS	142861	143097	.	-	0	transcript_id "rna-XM_051466282.1"; gene_id "gene-J4E85_002002"; gene_name "BCP1";
+NW_026250092.1	RefSeq	CDS	143151	143246	.	-	0	transcript_id "rna-XM_051466282.1"; gene_id "gene-J4E85_002002"; gene_name "BCP1";
+NW_026250092.1	RefSeq	transcript	571704	574223	.	-	.	transcript_id "rna-XM_051466447.1"; gene_id "gene-J4E85_002167"; gene_name "DBP7"
+NW_026250092.1	RefSeq	exon	571704	574223	.	-	.	transcript_id "rna-XM_051466447.1"; gene_id "gene-J4E85_002167"; gene_name "DBP7";
+NW_026250092.1	RefSeq	CDS	571704	574223	.	-	0	transcript_id "rna-XM_051466447.1"; gene_id "gene-J4E85_002167"; gene_name "DBP7";
+NW_026250092.1	RefSeq	transcript	601377	602413	.	-	.	transcript_id "rna-XM_051466454.1"; gene_id "gene-J4E85_002174"; gene_name "LIA1"
+NW_026250092.1	RefSeq	exon	601377	601887	.	-	.	transcript_id "rna-XM_051466454.1"; gene_id "gene-J4E85_002174"; gene_name "LIA1";
+NW_026250092.1	RefSeq	exon	601941	602413	.	-	.	transcript_id "rna-XM_051466454.1"; gene_id "gene-J4E85_002174"; gene_name "LIA1";
+NW_026250092.1	RefSeq	CDS	601377	601887	.	-	1	transcript_id "rna-XM_051466454.1"; gene_id "gene-J4E85_002174"; gene_name "LIA1";
+NW_026250092.1	RefSeq	CDS	601941	602413	.	-	0	transcript_id "rna-XM_051466454.1"; gene_id "gene-J4E85_002174"; gene_name "LIA1";
+NW_026250092.1	RefSeq	transcript	1818051	1819803	.	-	.	transcript_id "rna-XM_051466854.1"; gene_id "gene-J4E85_002576"
+NW_026250092.1	RefSeq	exon	1818051	1819091	.	-	.	transcript_id "rna-XM_051466854.1"; gene_id "gene-J4E85_002576";
+NW_026250092.1	RefSeq	exon	1819135	1819803	.	-	.	transcript_id "rna-XM_051466854.1"; gene_id "gene-J4E85_002576";
+NW_026250092.1	RefSeq	CDS	1818051	1819091	.	-	0	transcript_id "rna-XM_051466854.1"; gene_id "gene-J4E85_002576";
+NW_026250092.1	RefSeq	CDS	1819135	1819803	.	-	0	transcript_id "rna-XM_051466854.1"; gene_id "gene-J4E85_002576";
+NW_026250092.1	RefSeq	transcript	1939215	1940745	.	-	.	transcript_id "rna-XM_051466902.1"; gene_id "gene-J4E85_002624"
+NW_026250092.1	RefSeq	exon	1939215	1940098	.	-	.	transcript_id "rna-XM_051466902.1"; gene_id "gene-J4E85_002624";
+NW_026250092.1	RefSeq	exon	1940148	1940745	.	-	.	transcript_id "rna-XM_051466902.1"; gene_id "gene-J4E85_002624";
+NW_026250092.1	RefSeq	CDS	1939215	1940098	.	-	2	transcript_id "rna-XM_051466902.1"; gene_id "gene-J4E85_002624";
+NW_026250092.1	RefSeq	CDS	1940148	1940745	.	-	0	transcript_id "rna-XM_051466902.1"; gene_id "gene-J4E85_002624";
+NW_026250125.1	RefSeq	transcript	52748	54720	.	+	.	transcript_id "rna-XM_051475699.1"; gene_id "gene-J4E85_011496"
+NW_026250125.1	RefSeq	exon	52748	52938	.	+	.	transcript_id "rna-XM_051475699.1"; gene_id "gene-J4E85_011496";
+NW_026250125.1	RefSeq	exon	52986	53563	.	+	.	transcript_id "rna-XM_051475699.1"; gene_id "gene-J4E85_011496";
+NW_026250125.1	RefSeq	exon	53609	54720	.	+	.	transcript_id "rna-XM_051475699.1"; gene_id "gene-J4E85_011496";
+NW_026250125.1	RefSeq	CDS	52748	52938	.	+	0	transcript_id "rna-XM_051475699.1"; gene_id "gene-J4E85_011496";
+NW_026250125.1	RefSeq	CDS	52986	53563	.	+	1	transcript_id "rna-XM_051475699.1"; gene_id "gene-J4E85_011496";
+NW_026250125.1	RefSeq	CDS	53609	54720	.	+	2	transcript_id "rna-XM_051475699.1"; gene_id "gene-J4E85_011496";
+NW_026250093.1	RefSeq	transcript	262310	263347	.	+	.	transcript_id "rna-XM_051467165.1"; gene_id "gene-J4E85_002892"
+NW_026250093.1	RefSeq	exon	262310	263347	.	+	.	transcript_id "rna-XM_051467165.1"; gene_id "gene-J4E85_002892";
+NW_026250093.1	RefSeq	CDS	262310	263347	.	+	0	transcript_id "rna-XM_051467165.1"; gene_id "gene-J4E85_002892";
+NW_026250093.1	RefSeq	transcript	914998	916005	.	-	.	transcript_id "rna-XM_051467406.1"; gene_id "gene-J4E85_003135"; gene_name "DRE2"
+NW_026250093.1	RefSeq	exon	914998	915305	.	-	.	transcript_id "rna-XM_051467406.1"; gene_id "gene-J4E85_003135"; gene_name "DRE2";
+NW_026250093.1	RefSeq	exon	915357	916005	.	-	.	transcript_id "rna-XM_051467406.1"; gene_id "gene-J4E85_003135"; gene_name "DRE2";
+NW_026250093.1	RefSeq	CDS	914998	915305	.	-	2	transcript_id "rna-XM_051467406.1"; gene_id "gene-J4E85_003135"; gene_name "DRE2";
+NW_026250093.1	RefSeq	CDS	915357	916005	.	-	0	transcript_id "rna-XM_051467406.1"; gene_id "gene-J4E85_003135"; gene_name "DRE2";
+NW_026250093.1	RefSeq	transcript	926694	928737	.	+	.	transcript_id "rna-XM_051467410.1"; gene_id "gene-J4E85_003139"
+NW_026250093.1	RefSeq	exon	926694	926832	.	+	.	transcript_id "rna-XM_051467410.1"; gene_id "gene-J4E85_003139";
+NW_026250093.1	RefSeq	exon	926905	927022	.	+	.	transcript_id "rna-XM_051467410.1"; gene_id "gene-J4E85_003139";
+NW_026250093.1	RefSeq	exon	927072	928737	.	+	.	transcript_id "rna-XM_051467410.1"; gene_id "gene-J4E85_003139";
+NW_026250093.1	RefSeq	CDS	926694	926832	.	+	0	transcript_id "rna-XM_051467410.1"; gene_id "gene-J4E85_003139";
+NW_026250093.1	RefSeq	CDS	926905	927022	.	+	2	transcript_id "rna-XM_051467410.1"; gene_id "gene-J4E85_003139";
+NW_026250093.1	RefSeq	CDS	927072	928737	.	+	1	transcript_id "rna-XM_051467410.1"; gene_id "gene-J4E85_003139";
+NW_026250093.1	RefSeq	transcript	1084869	1086438	.	-	.	transcript_id "rna-XM_051467469.1"; gene_id "gene-J4E85_003198"
+NW_026250093.1	RefSeq	exon	1084869	1084941	.	-	.	transcript_id "rna-XM_051467469.1"; gene_id "gene-J4E85_003198";
+NW_026250093.1	RefSeq	exon	1084996	1086288	.	-	.	transcript_id "rna-XM_051467469.1"; gene_id "gene-J4E85_003198";
+NW_026250093.1	RefSeq	exon	1086344	1086438	.	-	.	transcript_id "rna-XM_051467469.1"; gene_id "gene-J4E85_003198";
+NW_026250093.1	RefSeq	CDS	1084869	1084941	.	-	1	transcript_id "rna-XM_051467469.1"; gene_id "gene-J4E85_003198";
+NW_026250093.1	RefSeq	CDS	1084996	1086288	.	-	1	transcript_id "rna-XM_051467469.1"; gene_id "gene-J4E85_003198";
+NW_026250093.1	RefSeq	CDS	1086344	1086438	.	-	0	transcript_id "rna-XM_051467469.1"; gene_id "gene-J4E85_003198";
+NW_026250093.1	RefSeq	transcript	1886228	1888224	.	-	.	transcript_id "rna-XM_051467761.1"; gene_id "gene-J4E85_003493"
+NW_026250093.1	RefSeq	exon	1886228	1886273	.	-	.	transcript_id "rna-XM_051467761.1"; gene_id "gene-J4E85_003493";
+NW_026250093.1	RefSeq	exon	1886329	1886446	.	-	.	transcript_id "rna-XM_051467761.1"; gene_id "gene-J4E85_003493";
+NW_026250093.1	RefSeq	exon	1886501	1887536	.	-	.	transcript_id "rna-XM_051467761.1"; gene_id "gene-J4E85_003493";
+NW_026250093.1	RefSeq	exon	1887587	1887853	.	-	.	transcript_id "rna-XM_051467761.1"; gene_id "gene-J4E85_003493";
+NW_026250093.1	RefSeq	exon	1887910	1888224	.	-	.	transcript_id "rna-XM_051467761.1"; gene_id "gene-J4E85_003493";
+NW_026250093.1	RefSeq	CDS	1886228	1886273	.	-	1	transcript_id "rna-XM_051467761.1"; gene_id "gene-J4E85_003493";
+NW_026250093.1	RefSeq	CDS	1886329	1886446	.	-	2	transcript_id "rna-XM_051467761.1"; gene_id "gene-J4E85_003493";
+NW_026250093.1	RefSeq	CDS	1886501	1887536	.	-	0	transcript_id "rna-XM_051467761.1"; gene_id "gene-J4E85_003493";
+NW_026250093.1	RefSeq	CDS	1887587	1887853	.	-	0	transcript_id "rna-XM_051467761.1"; gene_id "gene-J4E85_003493";
+NW_026250093.1	RefSeq	CDS	1887910	1888224	.	-	0	transcript_id "rna-XM_051467761.1"; gene_id "gene-J4E85_003493";
+NW_026250093.1	RefSeq	transcript	2180244	2181585	.	+	.	transcript_id "rna-XM_051467864.1"; gene_id "gene-J4E85_003597"
+NW_026250093.1	RefSeq	exon	2180244	2181231	.	+	.	transcript_id "rna-XM_051467864.1"; gene_id "gene-J4E85_003597";
+NW_026250093.1	RefSeq	exon	2181287	2181585	.	+	.	transcript_id "rna-XM_051467864.1"; gene_id "gene-J4E85_003597";
+NW_026250093.1	RefSeq	CDS	2180244	2181231	.	+	0	transcript_id "rna-XM_051467864.1"; gene_id "gene-J4E85_003597";
+NW_026250093.1	RefSeq	CDS	2181287	2181585	.	+	2	transcript_id "rna-XM_051467864.1"; gene_id "gene-J4E85_003597";
+NW_026250093.1	RefSeq	transcript	2264594	2265073	.	+	.	transcript_id "rna-XM_051467890.1"; gene_id "gene-J4E85_003624"
+NW_026250093.1	RefSeq	exon	2264594	2264632	.	+	.	transcript_id "rna-XM_051467890.1"; gene_id "gene-J4E85_003624";
+NW_026250093.1	RefSeq	exon	2264696	2265073	.	+	.	transcript_id "rna-XM_051467890.1"; gene_id "gene-J4E85_003624";
+NW_026250093.1	RefSeq	CDS	2264594	2264632	.	+	0	transcript_id "rna-XM_051467890.1"; gene_id "gene-J4E85_003624";
+NW_026250093.1	RefSeq	CDS	2264696	2265073	.	+	0	transcript_id "rna-XM_051467890.1"; gene_id "gene-J4E85_003624";
+NW_026250093.1	RefSeq	transcript	2312111	2312872	.	-	.	transcript_id "rna-XM_051467911.1"; gene_id "gene-J4E85_003645"
+NW_026250093.1	RefSeq	exon	2312111	2312627	.	-	.	transcript_id "rna-XM_051467911.1"; gene_id "gene-J4E85_003645";
+NW_026250093.1	RefSeq	exon	2312682	2312872	.	-	.	transcript_id "rna-XM_051467911.1"; gene_id "gene-J4E85_003645";
+NW_026250093.1	RefSeq	CDS	2312111	2312627	.	-	1	transcript_id "rna-XM_051467911.1"; gene_id "gene-J4E85_003645";
+NW_026250093.1	RefSeq	CDS	2312682	2312872	.	-	0	transcript_id "rna-XM_051467911.1"; gene_id "gene-J4E85_003645";
+NW_026250094.1	RefSeq	transcript	238550	240584	.	+	.	transcript_id "rna-XM_051468008.1"; gene_id "gene-J4E85_003742"
+NW_026250094.1	RefSeq	exon	238550	239494	.	+	.	transcript_id "rna-XM_051468008.1"; gene_id "gene-J4E85_003742";
+NW_026250094.1	RefSeq	exon	239547	240584	.	+	.	transcript_id "rna-XM_051468008.1"; gene_id "gene-J4E85_003742";
+NW_026250094.1	RefSeq	CDS	238550	239494	.	+	0	transcript_id "rna-XM_051468008.1"; gene_id "gene-J4E85_003742";
+NW_026250094.1	RefSeq	CDS	239547	240584	.	+	0	transcript_id "rna-XM_051468008.1"; gene_id "gene-J4E85_003742";
+NW_026250094.1	RefSeq	transcript	436490	439630	.	+	.	transcript_id "rna-XM_051468088.1"; gene_id "gene-J4E85_003823"
+NW_026250094.1	RefSeq	exon	436490	436814	.	+	.	transcript_id "rna-XM_051468088.1"; gene_id "gene-J4E85_003823";
+NW_026250094.1	RefSeq	exon	436864	437805	.	+	.	transcript_id "rna-XM_051468088.1"; gene_id "gene-J4E85_003823";
+NW_026250094.1	RefSeq	exon	437853	439630	.	+	.	transcript_id "rna-XM_051468088.1"; gene_id "gene-J4E85_003823";
+NW_026250094.1	RefSeq	CDS	436490	436814	.	+	0	transcript_id "rna-XM_051468088.1"; gene_id "gene-J4E85_003823";
+NW_026250094.1	RefSeq	CDS	436864	437805	.	+	2	transcript_id "rna-XM_051468088.1"; gene_id "gene-J4E85_003823";
+NW_026250094.1	RefSeq	CDS	437853	439630	.	+	2	transcript_id "rna-XM_051468088.1"; gene_id "gene-J4E85_003823";
+NW_026250094.1	RefSeq	transcript	563372	564910	.	-	.	transcript_id "rna-XM_051468132.1"; gene_id "gene-J4E85_003867"
+NW_026250094.1	RefSeq	exon	563372	564910	.	-	.	transcript_id "rna-XM_051468132.1"; gene_id "gene-J4E85_003867";
+NW_026250094.1	RefSeq	CDS	563372	564910	.	-	0	transcript_id "rna-XM_051468132.1"; gene_id "gene-J4E85_003867";
+NW_026250094.1	RefSeq	transcript	725158	727412	.	-	.	transcript_id "rna-XM_051468177.1"; gene_id "gene-J4E85_003912"
+NW_026250094.1	RefSeq	exon	725158	725658	.	-	.	transcript_id "rna-XM_051468177.1"; gene_id "gene-J4E85_003912";
+NW_026250094.1	RefSeq	exon	725712	727058	.	-	.	transcript_id "rna-XM_051468177.1"; gene_id "gene-J4E85_003912";
+NW_026250094.1	RefSeq	exon	727104	727412	.	-	.	transcript_id "rna-XM_051468177.1"; gene_id "gene-J4E85_003912";
+NW_026250094.1	RefSeq	CDS	725158	725658	.	-	0	transcript_id "rna-XM_051468177.1"; gene_id "gene-J4E85_003912";
+NW_026250094.1	RefSeq	CDS	725712	727058	.	-	0	transcript_id "rna-XM_051468177.1"; gene_id "gene-J4E85_003912";
+NW_026250094.1	RefSeq	CDS	727104	727412	.	-	0	transcript_id "rna-XM_051468177.1"; gene_id "gene-J4E85_003912";
+NW_026250094.1	RefSeq	transcript	1014100	1014893	.	-	.	transcript_id "rna-XM_051468255.1"; gene_id "gene-J4E85_003992"
+NW_026250094.1	RefSeq	exon	1014100	1014480	.	-	.	transcript_id "rna-XM_051468255.1"; gene_id "gene-J4E85_003992";
+NW_026250094.1	RefSeq	exon	1014540	1014668	.	-	.	transcript_id "rna-XM_051468255.1"; gene_id "gene-J4E85_003992";
+NW_026250094.1	RefSeq	exon	1014726	1014893	.	-	.	transcript_id "rna-XM_051468255.1"; gene_id "gene-J4E85_003992";
+NW_026250094.1	RefSeq	CDS	1014100	1014480	.	-	0	transcript_id "rna-XM_051468255.1"; gene_id "gene-J4E85_003992";
+NW_026250094.1	RefSeq	CDS	1014540	1014668	.	-	0	transcript_id "rna-XM_051468255.1"; gene_id "gene-J4E85_003992";
+NW_026250094.1	RefSeq	CDS	1014726	1014893	.	-	0	transcript_id "rna-XM_051468255.1"; gene_id "gene-J4E85_003992";
+NW_026250094.1	RefSeq	transcript	1434228	1435194	.	+	.	transcript_id "rna-XM_051468382.1"; gene_id "gene-J4E85_004120"; gene_name "DPH5"
+NW_026250094.1	RefSeq	exon	1434228	1434362	.	+	.	transcript_id "rna-XM_051468382.1"; gene_id "gene-J4E85_004120"; gene_name "DPH5";
+NW_026250094.1	RefSeq	exon	1434422	1434546	.	+	.	transcript_id "rna-XM_051468382.1"; gene_id "gene-J4E85_004120"; gene_name "DPH5";
+NW_026250094.1	RefSeq	exon	1434594	1435194	.	+	.	transcript_id "rna-XM_051468382.1"; gene_id "gene-J4E85_004120"; gene_name "DPH5";
+NW_026250094.1	RefSeq	CDS	1434228	1434362	.	+	0	transcript_id "rna-XM_051468382.1"; gene_id "gene-J4E85_004120"; gene_name "DPH5";
+NW_026250094.1	RefSeq	CDS	1434422	1434546	.	+	0	transcript_id "rna-XM_051468382.1"; gene_id "gene-J4E85_004120"; gene_name "DPH5";
+NW_026250094.1	RefSeq	CDS	1434594	1435194	.	+	1	transcript_id "rna-XM_051468382.1"; gene_id "gene-J4E85_004120"; gene_name "DPH5";
+NW_026250094.1	RefSeq	transcript	1539455	1541587	.	-	.	transcript_id "rna-XM_051468418.1"; gene_id "gene-J4E85_004157"; gene_name "COG6"
+NW_026250094.1	RefSeq	exon	1539455	1541245	.	-	.	transcript_id "rna-XM_051468418.1"; gene_id "gene-J4E85_004157"; gene_name "COG6";
+NW_026250094.1	RefSeq	exon	1541294	1541587	.	-	.	transcript_id "rna-XM_051468418.1"; gene_id "gene-J4E85_004157"; gene_name "COG6";
+NW_026250094.1	RefSeq	CDS	1539455	1541245	.	-	0	transcript_id "rna-XM_051468418.1"; gene_id "gene-J4E85_004157"; gene_name "COG6";
+NW_026250094.1	RefSeq	CDS	1541294	1541587	.	-	0	transcript_id "rna-XM_051468418.1"; gene_id "gene-J4E85_004157"; gene_name "COG6";
+NW_026250094.1	RefSeq	transcript	1548070	1550738	.	-	.	transcript_id "rna-XM_051468421.1"; gene_id "gene-J4E85_004160"; gene_name "MCM2"
+NW_026250094.1	RefSeq	exon	1548070	1548312	.	-	.	transcript_id "rna-XM_051468421.1"; gene_id "gene-J4E85_004160"; gene_name "MCM2";
+NW_026250094.1	RefSeq	exon	1548360	1550587	.	-	.	transcript_id "rna-XM_051468421.1"; gene_id "gene-J4E85_004160"; gene_name "MCM2";
+NW_026250094.1	RefSeq	exon	1550636	1550738	.	-	.	transcript_id "rna-XM_051468421.1"; gene_id "gene-J4E85_004160"; gene_name "MCM2";
+NW_026250094.1	RefSeq	CDS	1548070	1548312	.	-	0	transcript_id "rna-XM_051468421.1"; gene_id "gene-J4E85_004160"; gene_name "MCM2";
+NW_026250094.1	RefSeq	CDS	1548360	1550587	.	-	2	transcript_id "rna-XM_051468421.1"; gene_id "gene-J4E85_004160"; gene_name "MCM2";
+NW_026250094.1	RefSeq	CDS	1550636	1550738	.	-	0	transcript_id "rna-XM_051468421.1"; gene_id "gene-J4E85_004160"; gene_name "MCM2";
+NW_026250094.1	RefSeq	transcript	2209143	2209939	.	+	.	transcript_id "rna-XM_051468637.1"; gene_id "gene-J4E85_004379"
+NW_026250094.1	RefSeq	exon	2209143	2209187	.	+	.	transcript_id "rna-XM_051468637.1"; gene_id "gene-J4E85_004379";
+NW_026250094.1	RefSeq	exon	2209337	2209705	.	+	.	transcript_id "rna-XM_051468637.1"; gene_id "gene-J4E85_004379";
+NW_026250094.1	RefSeq	exon	2209784	2209939	.	+	.	transcript_id "rna-XM_051468637.1"; gene_id "gene-J4E85_004379";
+NW_026250094.1	RefSeq	CDS	2209143	2209187	.	+	0	transcript_id "rna-XM_051468637.1"; gene_id "gene-J4E85_004379";
+NW_026250094.1	RefSeq	CDS	2209337	2209705	.	+	0	transcript_id "rna-XM_051468637.1"; gene_id "gene-J4E85_004379";
+NW_026250094.1	RefSeq	CDS	2209784	2209939	.	+	0	transcript_id "rna-XM_051468637.1"; gene_id "gene-J4E85_004379";
+NW_026250141.1	RefSeq	transcript	3358	5581	.	-	.	transcript_id "rna-XM_051475932.1"; gene_id "gene-J4E85_011733"; gene_name "UTP25"
+NW_026250141.1	RefSeq	exon	3358	5359	.	-	.	transcript_id "rna-XM_051475932.1"; gene_id "gene-J4E85_011733"; gene_name "UTP25";
+NW_026250141.1	RefSeq	exon	5412	5581	.	-	.	transcript_id "rna-XM_051475932.1"; gene_id "gene-J4E85_011733"; gene_name "UTP25";
+NW_026250141.1	RefSeq	CDS	3358	5359	.	-	1	transcript_id "rna-XM_051475932.1"; gene_id "gene-J4E85_011733"; gene_name "UTP25";
+NW_026250141.1	RefSeq	CDS	5412	5581	.	-	0	transcript_id "rna-XM_051475932.1"; gene_id "gene-J4E85_011733"; gene_name "UTP25";
+NW_026250141.1	RefSeq	transcript	5925	7063	.	+	.	transcript_id "rna-XM_051475933.1"; gene_id "gene-J4E85_011734"
+NW_026250141.1	RefSeq	exon	5925	6029	.	+	.	transcript_id "rna-XM_051475933.1"; gene_id "gene-J4E85_011734";
+NW_026250141.1	RefSeq	exon	6087	6799	.	+	.	transcript_id "rna-XM_051475933.1"; gene_id "gene-J4E85_011734";
+NW_026250141.1	RefSeq	exon	6847	7063	.	+	.	transcript_id "rna-XM_051475933.1"; gene_id "gene-J4E85_011734";
+NW_026250141.1	RefSeq	CDS	5925	6029	.	+	0	transcript_id "rna-XM_051475933.1"; gene_id "gene-J4E85_011734";
+NW_026250141.1	RefSeq	CDS	6087	6799	.	+	0	transcript_id "rna-XM_051475933.1"; gene_id "gene-J4E85_011734";
+NW_026250141.1	RefSeq	CDS	6847	7063	.	+	1	transcript_id "rna-XM_051475933.1"; gene_id "gene-J4E85_011734";
+NW_026250095.1	RefSeq	transcript	288376	289425	.	-	.	transcript_id "rna-XM_051468730.1"; gene_id "gene-J4E85_004474"
+NW_026250095.1	RefSeq	exon	288376	289193	.	-	.	transcript_id "rna-XM_051468730.1"; gene_id "gene-J4E85_004474";
+NW_026250095.1	RefSeq	exon	289254	289425	.	-	.	transcript_id "rna-XM_051468730.1"; gene_id "gene-J4E85_004474";
+NW_026250095.1	RefSeq	CDS	288376	289193	.	-	2	transcript_id "rna-XM_051468730.1"; gene_id "gene-J4E85_004474";
+NW_026250095.1	RefSeq	CDS	289254	289425	.	-	0	transcript_id "rna-XM_051468730.1"; gene_id "gene-J4E85_004474";
+NW_026250095.1	RefSeq	transcript	310364	311161	.	-	.	transcript_id "rna-XM_051468739.1"; gene_id "gene-J4E85_004483"
+NW_026250095.1	RefSeq	exon	310364	311161	.	-	.	transcript_id "rna-XM_051468739.1"; gene_id "gene-J4E85_004483";
+NW_026250095.1	RefSeq	CDS	310364	311161	.	-	0	transcript_id "rna-XM_051468739.1"; gene_id "gene-J4E85_004483";
+NW_026250095.1	RefSeq	transcript	527673	528622	.	+	.	transcript_id "rna-XM_051468809.1"; gene_id "gene-J4E85_004553"
+NW_026250095.1	RefSeq	exon	527673	527745	.	+	.	transcript_id "rna-XM_051468809.1"; gene_id "gene-J4E85_004553";
+NW_026250095.1	RefSeq	exon	527796	528622	.	+	.	transcript_id "rna-XM_051468809.1"; gene_id "gene-J4E85_004553";
+NW_026250095.1	RefSeq	CDS	527673	527745	.	+	0	transcript_id "rna-XM_051468809.1"; gene_id "gene-J4E85_004553";
+NW_026250095.1	RefSeq	CDS	527796	528622	.	+	2	transcript_id "rna-XM_051468809.1"; gene_id "gene-J4E85_004553";
+NW_026250095.1	RefSeq	transcript	620798	622735	.	-	.	transcript_id "rna-XM_051468842.1"; gene_id "gene-J4E85_004586"
+NW_026250095.1	RefSeq	exon	620798	620897	.	-	.	transcript_id "rna-XM_051468842.1"; gene_id "gene-J4E85_004586";
+NW_026250095.1	RefSeq	exon	620946	622735	.	-	.	transcript_id "rna-XM_051468842.1"; gene_id "gene-J4E85_004586";
+NW_026250095.1	RefSeq	CDS	620798	620897	.	-	1	transcript_id "rna-XM_051468842.1"; gene_id "gene-J4E85_004586";
+NW_026250095.1	RefSeq	CDS	620946	622735	.	-	0	transcript_id "rna-XM_051468842.1"; gene_id "gene-J4E85_004586";
+NW_026250095.1	RefSeq	transcript	751611	753089	.	-	.	transcript_id "rna-XM_051468895.1"; gene_id "gene-J4E85_004641"
+NW_026250095.1	RefSeq	exon	751611	752359	.	-	.	transcript_id "rna-XM_051468895.1"; gene_id "gene-J4E85_004641";
+NW_026250095.1	RefSeq	exon	752413	752807	.	-	.	transcript_id "rna-XM_051468895.1"; gene_id "gene-J4E85_004641";
+NW_026250095.1	RefSeq	exon	752857	753089	.	-	.	transcript_id "rna-XM_051468895.1"; gene_id "gene-J4E85_004641";
+NW_026250095.1	RefSeq	CDS	751611	752359	.	-	2	transcript_id "rna-XM_051468895.1"; gene_id "gene-J4E85_004641";
+NW_026250095.1	RefSeq	CDS	752413	752807	.	-	1	transcript_id "rna-XM_051468895.1"; gene_id "gene-J4E85_004641";
+NW_026250095.1	RefSeq	CDS	752857	753089	.	-	0	transcript_id "rna-XM_051468895.1"; gene_id "gene-J4E85_004641";
+NW_026250095.1	RefSeq	transcript	1693124	1694212	.	+	.	transcript_id "rna-XM_051469221.1"; gene_id "gene-J4E85_004970"
+NW_026250095.1	RefSeq	exon	1693124	1694212	.	+	.	transcript_id "rna-XM_051469221.1"; gene_id "gene-J4E85_004970";
+NW_026250095.1	RefSeq	CDS	1693124	1694212	.	+	0	transcript_id "rna-XM_051469221.1"; gene_id "gene-J4E85_004970";
+NW_026250095.1	RefSeq	transcript	1886085	1888444	.	+	.	transcript_id "rna-XM_051469292.1"; gene_id "gene-J4E85_005042"
+NW_026250095.1	RefSeq	exon	1886085	1886599	.	+	.	transcript_id "rna-XM_051469292.1"; gene_id "gene-J4E85_005042";
+NW_026250095.1	RefSeq	exon	1886649	1887423	.	+	.	transcript_id "rna-XM_051469292.1"; gene_id "gene-J4E85_005042";
+NW_026250095.1	RefSeq	exon	1887476	1888444	.	+	.	transcript_id "rna-XM_051469292.1"; gene_id "gene-J4E85_005042";
+NW_026250095.1	RefSeq	CDS	1886085	1886599	.	+	0	transcript_id "rna-XM_051469292.1"; gene_id "gene-J4E85_005042";
+NW_026250095.1	RefSeq	CDS	1886649	1887423	.	+	1	transcript_id "rna-XM_051469292.1"; gene_id "gene-J4E85_005042";
+NW_026250095.1	RefSeq	CDS	1887476	1888444	.	+	0	transcript_id "rna-XM_051469292.1"; gene_id "gene-J4E85_005042";
+NW_026250096.1	RefSeq	transcript	43387	45162	.	+	.	transcript_id "rna-XM_051469346.1"; gene_id "gene-J4E85_005096"
+NW_026250096.1	RefSeq	exon	43387	45162	.	+	.	transcript_id "rna-XM_051469346.1"; gene_id "gene-J4E85_005096";
+NW_026250096.1	RefSeq	CDS	43387	45162	.	+	0	transcript_id "rna-XM_051469346.1"; gene_id "gene-J4E85_005096";
+NW_026250096.1	RefSeq	transcript	147267	149981	.	+	.	transcript_id "rna-XM_051469383.1"; gene_id "gene-J4E85_005133"
+NW_026250096.1	RefSeq	exon	147267	149981	.	+	.	transcript_id "rna-XM_051469383.1"; gene_id "gene-J4E85_005133";
+NW_026250096.1	RefSeq	CDS	147267	149981	.	+	0	transcript_id "rna-XM_051469383.1"; gene_id "gene-J4E85_005133";
+NW_026250096.1	RefSeq	transcript	401420	402982	.	+	.	transcript_id "rna-XM_051469465.1"; gene_id "gene-J4E85_005215"
+NW_026250096.1	RefSeq	exon	401420	402982	.	+	.	transcript_id "rna-XM_051469465.1"; gene_id "gene-J4E85_005215";
+NW_026250096.1	RefSeq	CDS	401420	402982	.	+	0	transcript_id "rna-XM_051469465.1"; gene_id "gene-J4E85_005215";
+NW_026250096.1	RefSeq	transcript	573647	575027	.	+	.	transcript_id "rna-XM_051469532.1"; gene_id "gene-J4E85_005283"
+NW_026250096.1	RefSeq	exon	573647	573863	.	+	.	transcript_id "rna-XM_051469532.1"; gene_id "gene-J4E85_005283";
+NW_026250096.1	RefSeq	exon	573934	575027	.	+	.	transcript_id "rna-XM_051469532.1"; gene_id "gene-J4E85_005283";
+NW_026250096.1	RefSeq	CDS	573647	573863	.	+	0	transcript_id "rna-XM_051469532.1"; gene_id "gene-J4E85_005283";
+NW_026250096.1	RefSeq	CDS	573934	575027	.	+	2	transcript_id "rna-XM_051469532.1"; gene_id "gene-J4E85_005283";
+NW_026250096.1	RefSeq	transcript	648956	650661	.	-	.	transcript_id "rna-XM_051469569.1"; gene_id "gene-J4E85_005320"
+NW_026250096.1	RefSeq	exon	648956	650137	.	-	.	transcript_id "rna-XM_051469569.1"; gene_id "gene-J4E85_005320";
+NW_026250096.1	RefSeq	exon	650188	650319	.	-	.	transcript_id "rna-XM_051469569.1"; gene_id "gene-J4E85_005320";
+NW_026250096.1	RefSeq	exon	650391	650574	.	-	.	transcript_id "rna-XM_051469569.1"; gene_id "gene-J4E85_005320";
+NW_026250096.1	RefSeq	exon	650621	650661	.	-	.	transcript_id "rna-XM_051469569.1"; gene_id "gene-J4E85_005320";
+NW_026250096.1	RefSeq	CDS	648956	650137	.	-	0	transcript_id "rna-XM_051469569.1"; gene_id "gene-J4E85_005320";
+NW_026250096.1	RefSeq	CDS	650188	650319	.	-	0	transcript_id "rna-XM_051469569.1"; gene_id "gene-J4E85_005320";
+NW_026250096.1	RefSeq	CDS	650391	650574	.	-	1	transcript_id "rna-XM_051469569.1"; gene_id "gene-J4E85_005320";
+NW_026250096.1	RefSeq	CDS	650621	650661	.	-	0	transcript_id "rna-XM_051469569.1"; gene_id "gene-J4E85_005320";
+NW_026250096.1	RefSeq	transcript	678681	680216	.	-	.	transcript_id "rna-XM_051469577.1"; gene_id "gene-J4E85_005328"
+NW_026250096.1	RefSeq	exon	678681	680216	.	-	.	transcript_id "rna-XM_051469577.1"; gene_id "gene-J4E85_005328";
+NW_026250096.1	RefSeq	CDS	678681	680216	.	-	0	transcript_id "rna-XM_051469577.1"; gene_id "gene-J4E85_005328";
+NW_026250096.1	RefSeq	transcript	692856	693891	.	+	.	transcript_id "rna-XM_051469584.1"; gene_id "gene-J4E85_005335"
+NW_026250096.1	RefSeq	exon	692856	693440	.	+	.	transcript_id "rna-XM_051469584.1"; gene_id "gene-J4E85_005335";
+NW_026250096.1	RefSeq	exon	693493	693891	.	+	.	transcript_id "rna-XM_051469584.1"; gene_id "gene-J4E85_005335";
+NW_026250096.1	RefSeq	CDS	692856	693440	.	+	0	transcript_id "rna-XM_051469584.1"; gene_id "gene-J4E85_005335";
+NW_026250096.1	RefSeq	CDS	693493	693891	.	+	0	transcript_id "rna-XM_051469584.1"; gene_id "gene-J4E85_005335";
+NW_026250096.1	RefSeq	transcript	741385	742788	.	+	.	transcript_id "rna-XM_051469602.1"; gene_id "gene-J4E85_005355"; gene_name "FYV10"
+NW_026250096.1	RefSeq	exon	741385	741435	.	+	.	transcript_id "rna-XM_051469602.1"; gene_id "gene-J4E85_005355"; gene_name "FYV10";
+NW_026250096.1	RefSeq	exon	741491	742300	.	+	.	transcript_id "rna-XM_051469602.1"; gene_id "gene-J4E85_005355"; gene_name "FYV10";
+NW_026250096.1	RefSeq	exon	742351	742788	.	+	.	transcript_id "rna-XM_051469602.1"; gene_id "gene-J4E85_005355"; gene_name "FYV10";
+NW_026250096.1	RefSeq	CDS	741385	741435	.	+	0	transcript_id "rna-XM_051469602.1"; gene_id "gene-J4E85_005355"; gene_name "FYV10";
+NW_026250096.1	RefSeq	CDS	741491	742300	.	+	0	transcript_id "rna-XM_051469602.1"; gene_id "gene-J4E85_005355"; gene_name "FYV10";
+NW_026250096.1	RefSeq	CDS	742351	742788	.	+	0	transcript_id "rna-XM_051469602.1"; gene_id "gene-J4E85_005355"; gene_name "FYV10";
+NW_026250096.1	RefSeq	transcript	827939	829157	.	+	.	transcript_id "rna-XM_051469632.1"; gene_id "gene-J4E85_005386"
+NW_026250096.1	RefSeq	exon	827939	828394	.	+	.	transcript_id "rna-XM_051469632.1"; gene_id "gene-J4E85_005386";
+NW_026250096.1	RefSeq	exon	828447	829157	.	+	.	transcript_id "rna-XM_051469632.1"; gene_id "gene-J4E85_005386";
+NW_026250096.1	RefSeq	CDS	827939	828394	.	+	0	transcript_id "rna-XM_051469632.1"; gene_id "gene-J4E85_005386";
+NW_026250096.1	RefSeq	CDS	828447	829157	.	+	0	transcript_id "rna-XM_051469632.1"; gene_id "gene-J4E85_005386";
+NW_026250096.1	RefSeq	transcript	921811	923295	.	-	.	transcript_id "rna-XM_051469671.1"; gene_id "gene-J4E85_005425"
+NW_026250096.1	RefSeq	exon	921811	922610	.	-	.	transcript_id "rna-XM_051469671.1"; gene_id "gene-J4E85_005425";
+NW_026250096.1	RefSeq	exon	922659	923295	.	-	.	transcript_id "rna-XM_051469671.1"; gene_id "gene-J4E85_005425";
+NW_026250096.1	RefSeq	CDS	921811	922610	.	-	2	transcript_id "rna-XM_051469671.1"; gene_id "gene-J4E85_005425";
+NW_026250096.1	RefSeq	CDS	922659	923295	.	-	0	transcript_id "rna-XM_051469671.1"; gene_id "gene-J4E85_005425";
+NW_026250096.1	RefSeq	transcript	1173445	1174357	.	-	.	transcript_id "rna-XM_051469756.1"; gene_id "gene-J4E85_005511"
+NW_026250096.1	RefSeq	exon	1173445	1174264	.	-	.	transcript_id "rna-XM_051469756.1"; gene_id "gene-J4E85_005511";
+NW_026250096.1	RefSeq	exon	1174335	1174357	.	-	.	transcript_id "rna-XM_051469756.1"; gene_id "gene-J4E85_005511";
+NW_026250096.1	RefSeq	CDS	1173445	1174264	.	-	1	transcript_id "rna-XM_051469756.1"; gene_id "gene-J4E85_005511";
+NW_026250096.1	RefSeq	CDS	1174335	1174357	.	-	0	transcript_id "rna-XM_051469756.1"; gene_id "gene-J4E85_005511";
+NW_026250096.1	RefSeq	transcript	1676352	1677493	.	+	.	transcript_id "rna-XM_051469924.1"; gene_id "gene-J4E85_005681"
+NW_026250096.1	RefSeq	exon	1676352	1676459	.	+	.	transcript_id "rna-XM_051469924.1"; gene_id "gene-J4E85_005681";
+NW_026250096.1	RefSeq	exon	1676533	1676818	.	+	.	transcript_id "rna-XM_051469924.1"; gene_id "gene-J4E85_005681";
+NW_026250096.1	RefSeq	exon	1676865	1677316	.	+	.	transcript_id "rna-XM_051469924.1"; gene_id "gene-J4E85_005681";
+NW_026250096.1	RefSeq	exon	1677368	1677493	.	+	.	transcript_id "rna-XM_051469924.1"; gene_id "gene-J4E85_005681";
+NW_026250096.1	RefSeq	CDS	1676352	1676459	.	+	0	transcript_id "rna-XM_051469924.1"; gene_id "gene-J4E85_005681";
+NW_026250096.1	RefSeq	CDS	1676533	1676818	.	+	0	transcript_id "rna-XM_051469924.1"; gene_id "gene-J4E85_005681";
+NW_026250096.1	RefSeq	CDS	1676865	1677316	.	+	2	transcript_id "rna-XM_051469924.1"; gene_id "gene-J4E85_005681";
+NW_026250096.1	RefSeq	CDS	1677368	1677493	.	+	0	transcript_id "rna-XM_051469924.1"; gene_id "gene-J4E85_005681";
+NW_026250096.1	RefSeq	transcript	1730890	1734271	.	+	.	transcript_id "rna-XM_051469941.1"; gene_id "gene-J4E85_005698"
+NW_026250096.1	RefSeq	exon	1730890	1731427	.	+	.	transcript_id "rna-XM_051469941.1"; gene_id "gene-J4E85_005698";
+NW_026250096.1	RefSeq	exon	1731602	1731842	.	+	.	transcript_id "rna-XM_051469941.1"; gene_id "gene-J4E85_005698";
+NW_026250096.1	RefSeq	exon	1731892	1732159	.	+	.	transcript_id "rna-XM_051469941.1"; gene_id "gene-J4E85_005698";
+NW_026250096.1	RefSeq	exon	1732206	1733110	.	+	.	transcript_id "rna-XM_051469941.1"; gene_id "gene-J4E85_005698";
+NW_026250096.1	RefSeq	exon	1733159	1733343	.	+	.	transcript_id "rna-XM_051469941.1"; gene_id "gene-J4E85_005698";
+NW_026250096.1	RefSeq	exon	1733391	1734271	.	+	.	transcript_id "rna-XM_051469941.1"; gene_id "gene-J4E85_005698";
+NW_026250096.1	RefSeq	CDS	1730890	1731427	.	+	0	transcript_id "rna-XM_051469941.1"; gene_id "gene-J4E85_005698";
+NW_026250096.1	RefSeq	CDS	1731602	1731842	.	+	2	transcript_id "rna-XM_051469941.1"; gene_id "gene-J4E85_005698";
+NW_026250096.1	RefSeq	CDS	1731892	1732159	.	+	1	transcript_id "rna-XM_051469941.1"; gene_id "gene-J4E85_005698";
+NW_026250096.1	RefSeq	CDS	1732206	1733110	.	+	0	transcript_id "rna-XM_051469941.1"; gene_id "gene-J4E85_005698";
+NW_026250096.1	RefSeq	CDS	1733159	1733343	.	+	1	transcript_id "rna-XM_051469941.1"; gene_id "gene-J4E85_005698";
+NW_026250096.1	RefSeq	CDS	1733391	1734271	.	+	2	transcript_id "rna-XM_051469941.1"; gene_id "gene-J4E85_005698";
+NW_026250096.1	RefSeq	transcript	1866994	1868100	.	+	.	transcript_id "rna-XM_051469982.1"; gene_id "gene-J4E85_005740"
+NW_026250096.1	RefSeq	exon	1866994	1867037	.	+	.	transcript_id "rna-XM_051469982.1"; gene_id "gene-J4E85_005740";
+NW_026250096.1	RefSeq	exon	1867089	1867459	.	+	.	transcript_id "rna-XM_051469982.1"; gene_id "gene-J4E85_005740";
+NW_026250096.1	RefSeq	exon	1867541	1868100	.	+	.	transcript_id "rna-XM_051469982.1"; gene_id "gene-J4E85_005740";
+NW_026250096.1	RefSeq	CDS	1866994	1867037	.	+	0	transcript_id "rna-XM_051469982.1"; gene_id "gene-J4E85_005740";
+NW_026250096.1	RefSeq	CDS	1867089	1867459	.	+	1	transcript_id "rna-XM_051469982.1"; gene_id "gene-J4E85_005740";
+NW_026250096.1	RefSeq	CDS	1867541	1868100	.	+	2	transcript_id "rna-XM_051469982.1"; gene_id "gene-J4E85_005740";
+NW_026250097.1	RefSeq	transcript	310561	311751	.	+	.	transcript_id "rna-XM_051470140.1"; gene_id "gene-J4E85_005899"
+NW_026250097.1	RefSeq	exon	310561	311751	.	+	.	transcript_id "rna-XM_051470140.1"; gene_id "gene-J4E85_005899";
+NW_026250097.1	RefSeq	CDS	310561	311751	.	+	0	transcript_id "rna-XM_051470140.1"; gene_id "gene-J4E85_005899";
+NW_026250097.1	RefSeq	transcript	350295	353001	.	-	.	transcript_id "rna-XM_051470148.1"; gene_id "gene-J4E85_005907"
+NW_026250097.1	RefSeq	exon	350295	351152	.	-	.	transcript_id "rna-XM_051470148.1"; gene_id "gene-J4E85_005907";
+NW_026250097.1	RefSeq	exon	351203	352837	.	-	.	transcript_id "rna-XM_051470148.1"; gene_id "gene-J4E85_005907";
+NW_026250097.1	RefSeq	exon	352897	353001	.	-	.	transcript_id "rna-XM_051470148.1"; gene_id "gene-J4E85_005907";
+NW_026250097.1	RefSeq	CDS	350295	351152	.	-	0	transcript_id "rna-XM_051470148.1"; gene_id "gene-J4E85_005907";
+NW_026250097.1	RefSeq	CDS	351203	352837	.	-	0	transcript_id "rna-XM_051470148.1"; gene_id "gene-J4E85_005907";
+NW_026250097.1	RefSeq	CDS	352897	353001	.	-	0	transcript_id "rna-XM_051470148.1"; gene_id "gene-J4E85_005907";
+NW_026250097.1	RefSeq	transcript	550207	552972	.	+	.	transcript_id "rna-XM_051470221.1"; gene_id "gene-J4E85_005980"
+NW_026250097.1	RefSeq	exon	550207	552972	.	+	.	transcript_id "rna-XM_051470221.1"; gene_id "gene-J4E85_005980";
+NW_026250097.1	RefSeq	CDS	550207	552972	.	+	0	transcript_id "rna-XM_051470221.1"; gene_id "gene-J4E85_005980";
+NW_026250097.1	RefSeq	transcript	978883	979729	.	-	.	transcript_id "rna-XM_051470372.1"; gene_id "gene-J4E85_006132"; gene_name "GAR1"
+NW_026250097.1	RefSeq	exon	978883	979153	.	-	.	transcript_id "rna-XM_051470372.1"; gene_id "gene-J4E85_006132"; gene_name "GAR1";
+NW_026250097.1	RefSeq	exon	979201	979346	.	-	.	transcript_id "rna-XM_051470372.1"; gene_id "gene-J4E85_006132"; gene_name "GAR1";
+NW_026250097.1	RefSeq	exon	979400	979500	.	-	.	transcript_id "rna-XM_051470372.1"; gene_id "gene-J4E85_006132"; gene_name "GAR1";
+NW_026250097.1	RefSeq	exon	979550	979603	.	-	.	transcript_id "rna-XM_051470372.1"; gene_id "gene-J4E85_006132"; gene_name "GAR1";
+NW_026250097.1	RefSeq	exon	979654	979729	.	-	.	transcript_id "rna-XM_051470372.1"; gene_id "gene-J4E85_006132"; gene_name "GAR1";
+NW_026250097.1	RefSeq	CDS	978883	979153	.	-	1	transcript_id "rna-XM_051470372.1"; gene_id "gene-J4E85_006132"; gene_name "GAR1";
+NW_026250097.1	RefSeq	CDS	979201	979346	.	-	0	transcript_id "rna-XM_051470372.1"; gene_id "gene-J4E85_006132"; gene_name "GAR1";
+NW_026250097.1	RefSeq	CDS	979400	979500	.	-	2	transcript_id "rna-XM_051470372.1"; gene_id "gene-J4E85_006132"; gene_name "GAR1";
+NW_026250097.1	RefSeq	CDS	979550	979603	.	-	2	transcript_id "rna-XM_051470372.1"; gene_id "gene-J4E85_006132"; gene_name "GAR1";
+NW_026250097.1	RefSeq	CDS	979654	979729	.	-	0	transcript_id "rna-XM_051470372.1"; gene_id "gene-J4E85_006132"; gene_name "GAR1";
+NW_026250097.1	RefSeq	transcript	1007336	1008667	.	-	.	transcript_id "rna-XM_051470383.1"; gene_id "gene-J4E85_006143"
+NW_026250097.1	RefSeq	exon	1007336	1008667	.	-	.	transcript_id "rna-XM_051470383.1"; gene_id "gene-J4E85_006143";
+NW_026250097.1	RefSeq	CDS	1007336	1008667	.	-	0	transcript_id "rna-XM_051470383.1"; gene_id "gene-J4E85_006143";
+NW_026250097.1	RefSeq	transcript	1367630	1369165	.	-	.	transcript_id "rna-XM_051470518.1"; gene_id "gene-J4E85_006278"
+NW_026250097.1	RefSeq	exon	1367630	1367710	.	-	.	transcript_id "rna-XM_051470518.1"; gene_id "gene-J4E85_006278";
+NW_026250097.1	RefSeq	exon	1367759	1368796	.	-	.	transcript_id "rna-XM_051470518.1"; gene_id "gene-J4E85_006278";
+NW_026250097.1	RefSeq	exon	1368845	1369165	.	-	.	transcript_id "rna-XM_051470518.1"; gene_id "gene-J4E85_006278";
+NW_026250097.1	RefSeq	CDS	1367630	1367710	.	-	0	transcript_id "rna-XM_051470518.1"; gene_id "gene-J4E85_006278";
+NW_026250097.1	RefSeq	CDS	1367759	1368796	.	-	0	transcript_id "rna-XM_051470518.1"; gene_id "gene-J4E85_006278";
+NW_026250097.1	RefSeq	CDS	1368845	1369165	.	-	0	transcript_id "rna-XM_051470518.1"; gene_id "gene-J4E85_006278";
+NW_026250098.1	RefSeq	transcript	781841	783325	.	+	.	transcript_id "rna-XM_051470959.1"; gene_id "gene-J4E85_006723"; gene_name "DPH1"
+NW_026250098.1	RefSeq	exon	781841	782021	.	+	.	transcript_id "rna-XM_051470959.1"; gene_id "gene-J4E85_006723"; gene_name "DPH1";
+NW_026250098.1	RefSeq	exon	782079	783325	.	+	.	transcript_id "rna-XM_051470959.1"; gene_id "gene-J4E85_006723"; gene_name "DPH1";
+NW_026250098.1	RefSeq	CDS	781841	782021	.	+	0	transcript_id "rna-XM_051470959.1"; gene_id "gene-J4E85_006723"; gene_name "DPH1";
+NW_026250098.1	RefSeq	CDS	782079	783325	.	+	2	transcript_id "rna-XM_051470959.1"; gene_id "gene-J4E85_006723"; gene_name "DPH1";
+NW_026250098.1	RefSeq	transcript	1503613	1504334	.	+	.	transcript_id "rna-XM_051471211.1"; gene_id "gene-J4E85_006977"
+NW_026250098.1	RefSeq	exon	1503613	1503659	.	+	.	transcript_id "rna-XM_051471211.1"; gene_id "gene-J4E85_006977";
+NW_026250098.1	RefSeq	exon	1503711	1503780	.	+	.	transcript_id "rna-XM_051471211.1"; gene_id "gene-J4E85_006977";
+NW_026250098.1	RefSeq	exon	1503837	1504334	.	+	.	transcript_id "rna-XM_051471211.1"; gene_id "gene-J4E85_006977";
+NW_026250098.1	RefSeq	CDS	1503613	1503659	.	+	0	transcript_id "rna-XM_051471211.1"; gene_id "gene-J4E85_006977";
+NW_026250098.1	RefSeq	CDS	1503711	1503780	.	+	1	transcript_id "rna-XM_051471211.1"; gene_id "gene-J4E85_006977";
+NW_026250098.1	RefSeq	CDS	1503837	1504334	.	+	0	transcript_id "rna-XM_051471211.1"; gene_id "gene-J4E85_006977";

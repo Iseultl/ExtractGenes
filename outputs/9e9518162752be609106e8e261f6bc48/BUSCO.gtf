@@ -1,0 +1,941 @@
+NW_026643125.1	RefSeq	transcript	123889	125622	.	+	.	transcript_id "rna-XM_057122471.1"; gene_id "gene-N7511_000046"; gene_name "trm6"
+NW_026643125.1	RefSeq	exon	123889	123974	.	+	.	transcript_id "rna-XM_057122471.1"; gene_id "gene-N7511_000046"; gene_name "trm6";
+NW_026643125.1	RefSeq	exon	124029	125622	.	+	.	transcript_id "rna-XM_057122471.1"; gene_id "gene-N7511_000046"; gene_name "trm6";
+NW_026643125.1	RefSeq	CDS	123889	123974	.	+	0	transcript_id "rna-XM_057122471.1"; gene_id "gene-N7511_000046"; gene_name "trm6";
+NW_026643125.1	RefSeq	CDS	124029	125622	.	+	1	transcript_id "rna-XM_057122471.1"; gene_id "gene-N7511_000046"; gene_name "trm6";
+NW_026643125.1	RefSeq	transcript	309267	310168	.	+	.	transcript_id "rna-XM_057122551.1"; gene_id "gene-N7511_000126"
+NW_026643125.1	RefSeq	exon	309267	309558	.	+	.	transcript_id "rna-XM_057122551.1"; gene_id "gene-N7511_000126";
+NW_026643125.1	RefSeq	exon	309615	310168	.	+	.	transcript_id "rna-XM_057122551.1"; gene_id "gene-N7511_000126";
+NW_026643125.1	RefSeq	CDS	309267	309558	.	+	0	transcript_id "rna-XM_057122551.1"; gene_id "gene-N7511_000126";
+NW_026643125.1	RefSeq	CDS	309615	310168	.	+	2	transcript_id "rna-XM_057122551.1"; gene_id "gene-N7511_000126";
+NW_026643125.1	RefSeq	transcript	492563	495497	.	-	.	transcript_id "rna-XM_057122620.1"; gene_id "gene-N7511_000195"
+NW_026643125.1	RefSeq	exon	492563	494378	.	-	.	transcript_id "rna-XM_057122620.1"; gene_id "gene-N7511_000195";
+NW_026643125.1	RefSeq	exon	494432	494679	.	-	.	transcript_id "rna-XM_057122620.1"; gene_id "gene-N7511_000195";
+NW_026643125.1	RefSeq	exon	494729	495224	.	-	.	transcript_id "rna-XM_057122620.1"; gene_id "gene-N7511_000195";
+NW_026643125.1	RefSeq	exon	495289	495401	.	-	.	transcript_id "rna-XM_057122620.1"; gene_id "gene-N7511_000195";
+NW_026643125.1	RefSeq	exon	495480	495497	.	-	.	transcript_id "rna-XM_057122620.1"; gene_id "gene-N7511_000195";
+NW_026643125.1	RefSeq	CDS	492563	494378	.	-	1	transcript_id "rna-XM_057122620.1"; gene_id "gene-N7511_000195";
+NW_026643125.1	RefSeq	CDS	494432	494679	.	-	0	transcript_id "rna-XM_057122620.1"; gene_id "gene-N7511_000195";
+NW_026643125.1	RefSeq	CDS	494729	495224	.	-	1	transcript_id "rna-XM_057122620.1"; gene_id "gene-N7511_000195";
+NW_026643125.1	RefSeq	CDS	495289	495401	.	-	0	transcript_id "rna-XM_057122620.1"; gene_id "gene-N7511_000195";
+NW_026643125.1	RefSeq	CDS	495480	495497	.	-	0	transcript_id "rna-XM_057122620.1"; gene_id "gene-N7511_000195";
+NW_026643125.1	RefSeq	transcript	763374	764129	.	-	.	transcript_id "rna-XM_057122726.1"; gene_id "gene-N7511_000301"
+NW_026643125.1	RefSeq	exon	763374	764129	.	-	.	transcript_id "rna-XM_057122726.1"; gene_id "gene-N7511_000301";
+NW_026643125.1	RefSeq	CDS	763374	764129	.	-	0	transcript_id "rna-XM_057122726.1"; gene_id "gene-N7511_000301";
+NW_026643125.1	RefSeq	transcript	816453	817053	.	-	.	transcript_id "rna-XM_057122747.1"; gene_id "gene-N7511_000322"; gene_name "spt4"
+NW_026643125.1	RefSeq	exon	816453	816486	.	-	.	transcript_id "rna-XM_057122747.1"; gene_id "gene-N7511_000322"; gene_name "spt4";
+NW_026643125.1	RefSeq	exon	816562	816614	.	-	.	transcript_id "rna-XM_057122747.1"; gene_id "gene-N7511_000322"; gene_name "spt4";
+NW_026643125.1	RefSeq	exon	816719	816916	.	-	.	transcript_id "rna-XM_057122747.1"; gene_id "gene-N7511_000322"; gene_name "spt4";
+NW_026643125.1	RefSeq	exon	816976	817053	.	-	.	transcript_id "rna-XM_057122747.1"; gene_id "gene-N7511_000322"; gene_name "spt4";
+NW_026643125.1	RefSeq	CDS	816453	816486	.	-	1	transcript_id "rna-XM_057122747.1"; gene_id "gene-N7511_000322"; gene_name "spt4";
+NW_026643125.1	RefSeq	CDS	816562	816614	.	-	0	transcript_id "rna-XM_057122747.1"; gene_id "gene-N7511_000322"; gene_name "spt4";
+NW_026643125.1	RefSeq	CDS	816719	816916	.	-	0	transcript_id "rna-XM_057122747.1"; gene_id "gene-N7511_000322"; gene_name "spt4";
+NW_026643125.1	RefSeq	CDS	816976	817053	.	-	0	transcript_id "rna-XM_057122747.1"; gene_id "gene-N7511_000322"; gene_name "spt4";
+NW_026643125.1	RefSeq	transcript	1039646	1040795	.	-	.	transcript_id "rna-XM_057122835.1"; gene_id "gene-N7511_000410"
+NW_026643125.1	RefSeq	exon	1039646	1040189	.	-	.	transcript_id "rna-XM_057122835.1"; gene_id "gene-N7511_000410";
+NW_026643125.1	RefSeq	exon	1040248	1040795	.	-	.	transcript_id "rna-XM_057122835.1"; gene_id "gene-N7511_000410";
+NW_026643125.1	RefSeq	CDS	1039646	1040189	.	-	1	transcript_id "rna-XM_057122835.1"; gene_id "gene-N7511_000410";
+NW_026643125.1	RefSeq	CDS	1040248	1040795	.	-	0	transcript_id "rna-XM_057122835.1"; gene_id "gene-N7511_000410";
+NW_026643125.1	RefSeq	transcript	1388088	1389578	.	-	.	transcript_id "rna-XM_057122963.1"; gene_id "gene-N7511_000538"; gene_name "trm61"
+NW_026643125.1	RefSeq	exon	1388088	1389578	.	-	.	transcript_id "rna-XM_057122963.1"; gene_id "gene-N7511_000538"; gene_name "trm61";
+NW_026643125.1	RefSeq	CDS	1388088	1389578	.	-	0	transcript_id "rna-XM_057122963.1"; gene_id "gene-N7511_000538"; gene_name "trm61";
+NW_026643125.1	RefSeq	transcript	1734369	1735211	.	-	.	transcript_id "rna-XM_057123092.1"; gene_id "gene-N7511_000667"
+NW_026643125.1	RefSeq	exon	1734369	1735115	.	-	.	transcript_id "rna-XM_057123092.1"; gene_id "gene-N7511_000667";
+NW_026643125.1	RefSeq	exon	1735209	1735211	.	-	.	transcript_id "rna-XM_057123092.1"; gene_id "gene-N7511_000667";
+NW_026643125.1	RefSeq	CDS	1734369	1735115	.	-	0	transcript_id "rna-XM_057123092.1"; gene_id "gene-N7511_000667";
+NW_026643125.1	RefSeq	CDS	1735209	1735211	.	-	0	transcript_id "rna-XM_057123092.1"; gene_id "gene-N7511_000667";
+NW_026643125.1	RefSeq	transcript	2002446	2005706	.	-	.	transcript_id "rna-XM_057123192.1"; gene_id "gene-N7511_000767"
+NW_026643125.1	RefSeq	exon	2002446	2002848	.	-	.	transcript_id "rna-XM_057123192.1"; gene_id "gene-N7511_000767";
+NW_026643125.1	RefSeq	exon	2002923	2005422	.	-	.	transcript_id "rna-XM_057123192.1"; gene_id "gene-N7511_000767";
+NW_026643125.1	RefSeq	exon	2005478	2005706	.	-	.	transcript_id "rna-XM_057123192.1"; gene_id "gene-N7511_000767";
+NW_026643125.1	RefSeq	CDS	2002446	2002848	.	-	1	transcript_id "rna-XM_057123192.1"; gene_id "gene-N7511_000767";
+NW_026643125.1	RefSeq	CDS	2002923	2005422	.	-	2	transcript_id "rna-XM_057123192.1"; gene_id "gene-N7511_000767";
+NW_026643125.1	RefSeq	CDS	2005478	2005706	.	-	0	transcript_id "rna-XM_057123192.1"; gene_id "gene-N7511_000767";
+NW_026643125.1	RefSeq	transcript	2006159	2007339	.	-	.	transcript_id "rna-XM_057123193.1"; gene_id "gene-N7511_000768"
+NW_026643125.1	RefSeq	exon	2006159	2006736	.	-	.	transcript_id "rna-XM_057123193.1"; gene_id "gene-N7511_000768";
+NW_026643125.1	RefSeq	exon	2006798	2006966	.	-	.	transcript_id "rna-XM_057123193.1"; gene_id "gene-N7511_000768";
+NW_026643125.1	RefSeq	exon	2007043	2007339	.	-	.	transcript_id "rna-XM_057123193.1"; gene_id "gene-N7511_000768";
+NW_026643125.1	RefSeq	CDS	2006159	2006736	.	-	2	transcript_id "rna-XM_057123193.1"; gene_id "gene-N7511_000768";
+NW_026643125.1	RefSeq	CDS	2006798	2006966	.	-	0	transcript_id "rna-XM_057123193.1"; gene_id "gene-N7511_000768";
+NW_026643125.1	RefSeq	CDS	2007043	2007339	.	-	0	transcript_id "rna-XM_057123193.1"; gene_id "gene-N7511_000768";
+NW_026643125.1	RefSeq	transcript	2630099	2632456	.	-	.	transcript_id "rna-XM_057123409.1"; gene_id "gene-N7511_000984"
+NW_026643125.1	RefSeq	exon	2630099	2630456	.	-	.	transcript_id "rna-XM_057123409.1"; gene_id "gene-N7511_000984";
+NW_026643125.1	RefSeq	exon	2630522	2630769	.	-	.	transcript_id "rna-XM_057123409.1"; gene_id "gene-N7511_000984";
+NW_026643125.1	RefSeq	exon	2631397	2631799	.	-	.	transcript_id "rna-XM_057123409.1"; gene_id "gene-N7511_000984";
+NW_026643125.1	RefSeq	exon	2631854	2632189	.	-	.	transcript_id "rna-XM_057123409.1"; gene_id "gene-N7511_000984";
+NW_026643125.1	RefSeq	exon	2632245	2632456	.	-	.	transcript_id "rna-XM_057123409.1"; gene_id "gene-N7511_000984";
+NW_026643125.1	RefSeq	CDS	2630099	2630456	.	-	1	transcript_id "rna-XM_057123409.1"; gene_id "gene-N7511_000984";
+NW_026643125.1	RefSeq	CDS	2630522	2630769	.	-	0	transcript_id "rna-XM_057123409.1"; gene_id "gene-N7511_000984";
+NW_026643125.1	RefSeq	CDS	2631397	2631799	.	-	1	transcript_id "rna-XM_057123409.1"; gene_id "gene-N7511_000984";
+NW_026643125.1	RefSeq	CDS	2631854	2632189	.	-	1	transcript_id "rna-XM_057123409.1"; gene_id "gene-N7511_000984";
+NW_026643125.1	RefSeq	CDS	2632245	2632456	.	-	0	transcript_id "rna-XM_057123409.1"; gene_id "gene-N7511_000984";
+NW_026643125.1	RefSeq	transcript	2901606	2903417	.	+	.	transcript_id "rna-XM_057123520.1"; gene_id "gene-N7511_001095"
+NW_026643125.1	RefSeq	exon	2901606	2901943	.	+	.	transcript_id "rna-XM_057123520.1"; gene_id "gene-N7511_001095";
+NW_026643125.1	RefSeq	exon	2902129	2902284	.	+	.	transcript_id "rna-XM_057123520.1"; gene_id "gene-N7511_001095";
+NW_026643125.1	RefSeq	exon	2902340	2902414	.	+	.	transcript_id "rna-XM_057123520.1"; gene_id "gene-N7511_001095";
+NW_026643125.1	RefSeq	exon	2902487	2902614	.	+	.	transcript_id "rna-XM_057123520.1"; gene_id "gene-N7511_001095";
+NW_026643125.1	RefSeq	exon	2902666	2902783	.	+	.	transcript_id "rna-XM_057123520.1"; gene_id "gene-N7511_001095";
+NW_026643125.1	RefSeq	exon	2902832	2903101	.	+	.	transcript_id "rna-XM_057123520.1"; gene_id "gene-N7511_001095";
+NW_026643125.1	RefSeq	exon	2903159	2903417	.	+	.	transcript_id "rna-XM_057123520.1"; gene_id "gene-N7511_001095";
+NW_026643125.1	RefSeq	CDS	2901606	2901943	.	+	0	transcript_id "rna-XM_057123520.1"; gene_id "gene-N7511_001095";
+NW_026643125.1	RefSeq	CDS	2902129	2902284	.	+	1	transcript_id "rna-XM_057123520.1"; gene_id "gene-N7511_001095";
+NW_026643125.1	RefSeq	CDS	2902340	2902414	.	+	1	transcript_id "rna-XM_057123520.1"; gene_id "gene-N7511_001095";
+NW_026643125.1	RefSeq	CDS	2902487	2902614	.	+	1	transcript_id "rna-XM_057123520.1"; gene_id "gene-N7511_001095";
+NW_026643125.1	RefSeq	CDS	2902666	2902783	.	+	2	transcript_id "rna-XM_057123520.1"; gene_id "gene-N7511_001095";
+NW_026643125.1	RefSeq	CDS	2902832	2903101	.	+	1	transcript_id "rna-XM_057123520.1"; gene_id "gene-N7511_001095";
+NW_026643125.1	RefSeq	CDS	2903159	2903417	.	+	1	transcript_id "rna-XM_057123520.1"; gene_id "gene-N7511_001095";
+NW_026643125.1	RefSeq	transcript	2966423	2968536	.	-	.	transcript_id "rna-XM_057123545.1"; gene_id "gene-N7511_001120"
+NW_026643125.1	RefSeq	exon	2966423	2967632	.	-	.	transcript_id "rna-XM_057123545.1"; gene_id "gene-N7511_001120";
+NW_026643125.1	RefSeq	exon	2967682	2967826	.	-	.	transcript_id "rna-XM_057123545.1"; gene_id "gene-N7511_001120";
+NW_026643125.1	RefSeq	exon	2967882	2968155	.	-	.	transcript_id "rna-XM_057123545.1"; gene_id "gene-N7511_001120";
+NW_026643125.1	RefSeq	exon	2968216	2968536	.	-	.	transcript_id "rna-XM_057123545.1"; gene_id "gene-N7511_001120";
+NW_026643125.1	RefSeq	CDS	2966423	2967632	.	-	1	transcript_id "rna-XM_057123545.1"; gene_id "gene-N7511_001120";
+NW_026643125.1	RefSeq	CDS	2967682	2967826	.	-	2	transcript_id "rna-XM_057123545.1"; gene_id "gene-N7511_001120";
+NW_026643125.1	RefSeq	CDS	2967882	2968155	.	-	0	transcript_id "rna-XM_057123545.1"; gene_id "gene-N7511_001120";
+NW_026643125.1	RefSeq	CDS	2968216	2968536	.	-	0	transcript_id "rna-XM_057123545.1"; gene_id "gene-N7511_001120";
+NW_026643125.1	RefSeq	transcript	3121592	3122831	.	+	.	transcript_id "rna-XM_057123594.1"; gene_id "gene-N7511_001169"
+NW_026643125.1	RefSeq	exon	3121592	3122131	.	+	.	transcript_id "rna-XM_057123594.1"; gene_id "gene-N7511_001169";
+NW_026643125.1	RefSeq	exon	3122211	3122831	.	+	.	transcript_id "rna-XM_057123594.1"; gene_id "gene-N7511_001169";
+NW_026643125.1	RefSeq	CDS	3121592	3122131	.	+	0	transcript_id "rna-XM_057123594.1"; gene_id "gene-N7511_001169";
+NW_026643125.1	RefSeq	CDS	3122211	3122831	.	+	0	transcript_id "rna-XM_057123594.1"; gene_id "gene-N7511_001169";
+NW_026643125.1	RefSeq	transcript	3615640	3617200	.	-	.	transcript_id "rna-XM_057123790.1"; gene_id "gene-N7511_001365"; gene_name "cox15"
+NW_026643125.1	RefSeq	exon	3615640	3616750	.	-	.	transcript_id "rna-XM_057123790.1"; gene_id "gene-N7511_001365"; gene_name "cox15";
+NW_026643125.1	RefSeq	exon	3616815	3617200	.	-	.	transcript_id "rna-XM_057123790.1"; gene_id "gene-N7511_001365"; gene_name "cox15";
+NW_026643125.1	RefSeq	CDS	3615640	3616750	.	-	1	transcript_id "rna-XM_057123790.1"; gene_id "gene-N7511_001365"; gene_name "cox15";
+NW_026643125.1	RefSeq	CDS	3616815	3617200	.	-	0	transcript_id "rna-XM_057123790.1"; gene_id "gene-N7511_001365"; gene_name "cox15";
+NW_026643125.1	RefSeq	transcript	3967004	3969225	.	-	.	transcript_id "rna-XM_057123929.1"; gene_id "gene-N7511_001504"
+NW_026643125.1	RefSeq	exon	3967004	3968949	.	-	.	transcript_id "rna-XM_057123929.1"; gene_id "gene-N7511_001504";
+NW_026643125.1	RefSeq	exon	3969009	3969225	.	-	.	transcript_id "rna-XM_057123929.1"; gene_id "gene-N7511_001504";
+NW_026643125.1	RefSeq	CDS	3967004	3968949	.	-	2	transcript_id "rna-XM_057123929.1"; gene_id "gene-N7511_001504";
+NW_026643125.1	RefSeq	CDS	3969009	3969225	.	-	0	transcript_id "rna-XM_057123929.1"; gene_id "gene-N7511_001504";
+NW_026643126.1	RefSeq	transcript	896941	897817	.	-	.	transcript_id "rna-XM_057124514.1"; gene_id "gene-N7511_002089"
+NW_026643126.1	RefSeq	exon	896941	897217	.	-	.	transcript_id "rna-XM_057124514.1"; gene_id "gene-N7511_002089";
+NW_026643126.1	RefSeq	exon	897272	897417	.	-	.	transcript_id "rna-XM_057124514.1"; gene_id "gene-N7511_002089";
+NW_026643126.1	RefSeq	exon	897483	897583	.	-	.	transcript_id "rna-XM_057124514.1"; gene_id "gene-N7511_002089";
+NW_026643126.1	RefSeq	exon	897637	897684	.	-	.	transcript_id "rna-XM_057124514.1"; gene_id "gene-N7511_002089";
+NW_026643126.1	RefSeq	exon	897754	897817	.	-	.	transcript_id "rna-XM_057124514.1"; gene_id "gene-N7511_002089";
+NW_026643126.1	RefSeq	CDS	896941	897217	.	-	1	transcript_id "rna-XM_057124514.1"; gene_id "gene-N7511_002089";
+NW_026643126.1	RefSeq	CDS	897272	897417	.	-	0	transcript_id "rna-XM_057124514.1"; gene_id "gene-N7511_002089";
+NW_026643126.1	RefSeq	CDS	897483	897583	.	-	2	transcript_id "rna-XM_057124514.1"; gene_id "gene-N7511_002089";
+NW_026643126.1	RefSeq	CDS	897637	897684	.	-	2	transcript_id "rna-XM_057124514.1"; gene_id "gene-N7511_002089";
+NW_026643126.1	RefSeq	CDS	897754	897817	.	-	0	transcript_id "rna-XM_057124514.1"; gene_id "gene-N7511_002089";
+NW_026643126.1	RefSeq	transcript	984536	986847	.	+	.	transcript_id "rna-XM_057124548.1"; gene_id "gene-N7511_002123"; gene_name "cog6"
+NW_026643126.1	RefSeq	exon	984536	984814	.	+	.	transcript_id "rna-XM_057124548.1"; gene_id "gene-N7511_002123"; gene_name "cog6";
+NW_026643126.1	RefSeq	exon	984880	986847	.	+	.	transcript_id "rna-XM_057124548.1"; gene_id "gene-N7511_002123"; gene_name "cog6";
+NW_026643126.1	RefSeq	CDS	984536	984814	.	+	0	transcript_id "rna-XM_057124548.1"; gene_id "gene-N7511_002123"; gene_name "cog6";
+NW_026643126.1	RefSeq	CDS	984880	986847	.	+	0	transcript_id "rna-XM_057124548.1"; gene_id "gene-N7511_002123"; gene_name "cog6";
+NW_026643126.1	RefSeq	transcript	1275417	1278707	.	-	.	transcript_id "rna-XM_057124671.1"; gene_id "gene-N7511_002246"
+NW_026643126.1	RefSeq	exon	1275417	1275794	.	-	.	transcript_id "rna-XM_057124671.1"; gene_id "gene-N7511_002246";
+NW_026643126.1	RefSeq	exon	1275868	1276266	.	-	.	transcript_id "rna-XM_057124671.1"; gene_id "gene-N7511_002246";
+NW_026643126.1	RefSeq	exon	1276315	1276824	.	-	.	transcript_id "rna-XM_057124671.1"; gene_id "gene-N7511_002246";
+NW_026643126.1	RefSeq	exon	1276871	1277206	.	-	.	transcript_id "rna-XM_057124671.1"; gene_id "gene-N7511_002246";
+NW_026643126.1	RefSeq	exon	1277256	1277489	.	-	.	transcript_id "rna-XM_057124671.1"; gene_id "gene-N7511_002246";
+NW_026643126.1	RefSeq	exon	1277538	1278170	.	-	.	transcript_id "rna-XM_057124671.1"; gene_id "gene-N7511_002246";
+NW_026643126.1	RefSeq	exon	1278223	1278516	.	-	.	transcript_id "rna-XM_057124671.1"; gene_id "gene-N7511_002246";
+NW_026643126.1	RefSeq	exon	1278574	1278642	.	-	.	transcript_id "rna-XM_057124671.1"; gene_id "gene-N7511_002246";
+NW_026643126.1	RefSeq	exon	1278693	1278707	.	-	.	transcript_id "rna-XM_057124671.1"; gene_id "gene-N7511_002246";
+NW_026643126.1	RefSeq	CDS	1275417	1275794	.	-	0	transcript_id "rna-XM_057124671.1"; gene_id "gene-N7511_002246";
+NW_026643126.1	RefSeq	CDS	1275868	1276266	.	-	0	transcript_id "rna-XM_057124671.1"; gene_id "gene-N7511_002246";
+NW_026643126.1	RefSeq	CDS	1276315	1276824	.	-	0	transcript_id "rna-XM_057124671.1"; gene_id "gene-N7511_002246";
+NW_026643126.1	RefSeq	CDS	1276871	1277206	.	-	0	transcript_id "rna-XM_057124671.1"; gene_id "gene-N7511_002246";
+NW_026643126.1	RefSeq	CDS	1277256	1277489	.	-	0	transcript_id "rna-XM_057124671.1"; gene_id "gene-N7511_002246";
+NW_026643126.1	RefSeq	CDS	1277538	1278170	.	-	0	transcript_id "rna-XM_057124671.1"; gene_id "gene-N7511_002246";
+NW_026643126.1	RefSeq	CDS	1278223	1278516	.	-	0	transcript_id "rna-XM_057124671.1"; gene_id "gene-N7511_002246";
+NW_026643126.1	RefSeq	CDS	1278574	1278642	.	-	0	transcript_id "rna-XM_057124671.1"; gene_id "gene-N7511_002246";
+NW_026643126.1	RefSeq	CDS	1278693	1278707	.	-	0	transcript_id "rna-XM_057124671.1"; gene_id "gene-N7511_002246";
+NW_026643126.1	RefSeq	transcript	1380355	1382415	.	-	.	transcript_id "rna-XM_057124714.1"; gene_id "gene-N7511_002289"
+NW_026643126.1	RefSeq	exon	1380355	1382415	.	-	.	transcript_id "rna-XM_057124714.1"; gene_id "gene-N7511_002289";
+NW_026643126.1	RefSeq	CDS	1380355	1382415	.	-	0	transcript_id "rna-XM_057124714.1"; gene_id "gene-N7511_002289";
+NW_026643126.1	RefSeq	transcript	2096133	2098724	.	-	.	transcript_id "rna-XM_057124981.1"; gene_id "gene-N7511_002556"
+NW_026643126.1	RefSeq	exon	2096133	2097047	.	-	.	transcript_id "rna-XM_057124981.1"; gene_id "gene-N7511_002556";
+NW_026643126.1	RefSeq	exon	2097099	2097455	.	-	.	transcript_id "rna-XM_057124981.1"; gene_id "gene-N7511_002556";
+NW_026643126.1	RefSeq	exon	2097505	2097960	.	-	.	transcript_id "rna-XM_057124981.1"; gene_id "gene-N7511_002556";
+NW_026643126.1	RefSeq	exon	2098014	2098235	.	-	.	transcript_id "rna-XM_057124981.1"; gene_id "gene-N7511_002556";
+NW_026643126.1	RefSeq	exon	2098296	2098436	.	-	.	transcript_id "rna-XM_057124981.1"; gene_id "gene-N7511_002556";
+NW_026643126.1	RefSeq	exon	2098505	2098572	.	-	.	transcript_id "rna-XM_057124981.1"; gene_id "gene-N7511_002556";
+NW_026643126.1	RefSeq	exon	2098628	2098724	.	-	.	transcript_id "rna-XM_057124981.1"; gene_id "gene-N7511_002556";
+NW_026643126.1	RefSeq	CDS	2096133	2097047	.	-	0	transcript_id "rna-XM_057124981.1"; gene_id "gene-N7511_002556";
+NW_026643126.1	RefSeq	CDS	2097099	2097455	.	-	0	transcript_id "rna-XM_057124981.1"; gene_id "gene-N7511_002556";
+NW_026643126.1	RefSeq	CDS	2097505	2097960	.	-	0	transcript_id "rna-XM_057124981.1"; gene_id "gene-N7511_002556";
+NW_026643126.1	RefSeq	CDS	2098014	2098235	.	-	0	transcript_id "rna-XM_057124981.1"; gene_id "gene-N7511_002556";
+NW_026643126.1	RefSeq	CDS	2098296	2098436	.	-	0	transcript_id "rna-XM_057124981.1"; gene_id "gene-N7511_002556";
+NW_026643126.1	RefSeq	CDS	2098505	2098572	.	-	2	transcript_id "rna-XM_057124981.1"; gene_id "gene-N7511_002556";
+NW_026643126.1	RefSeq	CDS	2098628	2098724	.	-	0	transcript_id "rna-XM_057124981.1"; gene_id "gene-N7511_002556";
+NW_026643126.1	RefSeq	transcript	2196171	2199289	.	+	.	transcript_id "rna-XM_057125025.1"; gene_id "gene-N7511_002600"
+NW_026643126.1	RefSeq	exon	2196171	2196459	.	+	.	transcript_id "rna-XM_057125025.1"; gene_id "gene-N7511_002600";
+NW_026643126.1	RefSeq	exon	2196525	2198647	.	+	.	transcript_id "rna-XM_057125025.1"; gene_id "gene-N7511_002600";
+NW_026643126.1	RefSeq	exon	2198699	2199289	.	+	.	transcript_id "rna-XM_057125025.1"; gene_id "gene-N7511_002600";
+NW_026643126.1	RefSeq	CDS	2196171	2196459	.	+	0	transcript_id "rna-XM_057125025.1"; gene_id "gene-N7511_002600";
+NW_026643126.1	RefSeq	CDS	2196525	2198647	.	+	2	transcript_id "rna-XM_057125025.1"; gene_id "gene-N7511_002600";
+NW_026643126.1	RefSeq	CDS	2198699	2199289	.	+	0	transcript_id "rna-XM_057125025.1"; gene_id "gene-N7511_002600";
+NW_026643126.1	RefSeq	transcript	2231709	2232796	.	-	.	transcript_id "rna-XM_057125040.1"; gene_id "gene-N7511_002615"
+NW_026643126.1	RefSeq	exon	2231709	2231726	.	-	.	transcript_id "rna-XM_057125040.1"; gene_id "gene-N7511_002615";
+NW_026643126.1	RefSeq	exon	2231778	2231813	.	-	.	transcript_id "rna-XM_057125040.1"; gene_id "gene-N7511_002615";
+NW_026643126.1	RefSeq	exon	2231873	2232043	.	-	.	transcript_id "rna-XM_057125040.1"; gene_id "gene-N7511_002615";
+NW_026643126.1	RefSeq	exon	2232100	2232181	.	-	.	transcript_id "rna-XM_057125040.1"; gene_id "gene-N7511_002615";
+NW_026643126.1	RefSeq	exon	2232234	2232518	.	-	.	transcript_id "rna-XM_057125040.1"; gene_id "gene-N7511_002615";
+NW_026643126.1	RefSeq	exon	2232570	2232646	.	-	.	transcript_id "rna-XM_057125040.1"; gene_id "gene-N7511_002615";
+NW_026643126.1	RefSeq	exon	2232707	2232729	.	-	.	transcript_id "rna-XM_057125040.1"; gene_id "gene-N7511_002615";
+NW_026643126.1	RefSeq	exon	2232787	2232796	.	-	.	transcript_id "rna-XM_057125040.1"; gene_id "gene-N7511_002615";
+NW_026643126.1	RefSeq	CDS	2231709	2231726	.	-	0	transcript_id "rna-XM_057125040.1"; gene_id "gene-N7511_002615";
+NW_026643126.1	RefSeq	CDS	2231778	2231813	.	-	0	transcript_id "rna-XM_057125040.1"; gene_id "gene-N7511_002615";
+NW_026643126.1	RefSeq	CDS	2231873	2232043	.	-	0	transcript_id "rna-XM_057125040.1"; gene_id "gene-N7511_002615";
+NW_026643126.1	RefSeq	CDS	2232100	2232181	.	-	1	transcript_id "rna-XM_057125040.1"; gene_id "gene-N7511_002615";
+NW_026643126.1	RefSeq	CDS	2232234	2232518	.	-	1	transcript_id "rna-XM_057125040.1"; gene_id "gene-N7511_002615";
+NW_026643126.1	RefSeq	CDS	2232570	2232646	.	-	0	transcript_id "rna-XM_057125040.1"; gene_id "gene-N7511_002615";
+NW_026643126.1	RefSeq	CDS	2232707	2232729	.	-	2	transcript_id "rna-XM_057125040.1"; gene_id "gene-N7511_002615";
+NW_026643126.1	RefSeq	CDS	2232787	2232796	.	-	0	transcript_id "rna-XM_057125040.1"; gene_id "gene-N7511_002615";
+NW_026643126.1	RefSeq	transcript	2232851	2234038	.	+	.	transcript_id "rna-XM_057125041.1"; gene_id "gene-N7511_002616"
+NW_026643126.1	RefSeq	exon	2232851	2233197	.	+	.	transcript_id "rna-XM_057125041.1"; gene_id "gene-N7511_002616";
+NW_026643126.1	RefSeq	exon	2233252	2233371	.	+	.	transcript_id "rna-XM_057125041.1"; gene_id "gene-N7511_002616";
+NW_026643126.1	RefSeq	exon	2233429	2234038	.	+	.	transcript_id "rna-XM_057125041.1"; gene_id "gene-N7511_002616";
+NW_026643126.1	RefSeq	CDS	2232851	2233197	.	+	0	transcript_id "rna-XM_057125041.1"; gene_id "gene-N7511_002616";
+NW_026643126.1	RefSeq	CDS	2233252	2233371	.	+	1	transcript_id "rna-XM_057125041.1"; gene_id "gene-N7511_002616";
+NW_026643126.1	RefSeq	CDS	2233429	2234038	.	+	1	transcript_id "rna-XM_057125041.1"; gene_id "gene-N7511_002616";
+NW_026643126.1	RefSeq	transcript	2446708	2447493	.	-	.	transcript_id "rna-XM_057125125.1"; gene_id "gene-N7511_002700"
+NW_026643126.1	RefSeq	exon	2446708	2446881	.	-	.	transcript_id "rna-XM_057125125.1"; gene_id "gene-N7511_002700";
+NW_026643126.1	RefSeq	exon	2446986	2447346	.	-	.	transcript_id "rna-XM_057125125.1"; gene_id "gene-N7511_002700";
+NW_026643126.1	RefSeq	exon	2447462	2447493	.	-	.	transcript_id "rna-XM_057125125.1"; gene_id "gene-N7511_002700";
+NW_026643126.1	RefSeq	CDS	2446708	2446881	.	-	0	transcript_id "rna-XM_057125125.1"; gene_id "gene-N7511_002700";
+NW_026643126.1	RefSeq	CDS	2446986	2447346	.	-	1	transcript_id "rna-XM_057125125.1"; gene_id "gene-N7511_002700";
+NW_026643126.1	RefSeq	CDS	2447462	2447493	.	-	0	transcript_id "rna-XM_057125125.1"; gene_id "gene-N7511_002700";
+NW_026643126.1	RefSeq	transcript	2972719	2973566	.	+	.	transcript_id "rna-XM_057125310.1"; gene_id "gene-N7511_002885"
+NW_026643126.1	RefSeq	exon	2972719	2973191	.	+	.	transcript_id "rna-XM_057125310.1"; gene_id "gene-N7511_002885";
+NW_026643126.1	RefSeq	exon	2973254	2973566	.	+	.	transcript_id "rna-XM_057125310.1"; gene_id "gene-N7511_002885";
+NW_026643126.1	RefSeq	CDS	2972719	2973191	.	+	0	transcript_id "rna-XM_057125310.1"; gene_id "gene-N7511_002885";
+NW_026643126.1	RefSeq	CDS	2973254	2973566	.	+	1	transcript_id "rna-XM_057125310.1"; gene_id "gene-N7511_002885";
+NW_026643126.1	RefSeq	transcript	3033765	3035353	.	+	.	transcript_id "rna-XM_057125332.1"; gene_id "gene-N7511_002907"
+NW_026643126.1	RefSeq	exon	3033765	3034133	.	+	.	transcript_id "rna-XM_057125332.1"; gene_id "gene-N7511_002907";
+NW_026643126.1	RefSeq	exon	3034189	3034439	.	+	.	transcript_id "rna-XM_057125332.1"; gene_id "gene-N7511_002907";
+NW_026643126.1	RefSeq	exon	3034486	3035353	.	+	.	transcript_id "rna-XM_057125332.1"; gene_id "gene-N7511_002907";
+NW_026643126.1	RefSeq	CDS	3033765	3034133	.	+	0	transcript_id "rna-XM_057125332.1"; gene_id "gene-N7511_002907";
+NW_026643126.1	RefSeq	CDS	3034189	3034439	.	+	0	transcript_id "rna-XM_057125332.1"; gene_id "gene-N7511_002907";
+NW_026643126.1	RefSeq	CDS	3034486	3035353	.	+	1	transcript_id "rna-XM_057125332.1"; gene_id "gene-N7511_002907";
+NW_026643126.1	RefSeq	transcript	3759366	3760382	.	+	.	transcript_id "rna-XM_057125605.1"; gene_id "gene-N7511_003180"; gene_name "cwc26"
+NW_026643126.1	RefSeq	exon	3759366	3760382	.	+	.	transcript_id "rna-XM_057125605.1"; gene_id "gene-N7511_003180"; gene_name "cwc26";
+NW_026643126.1	RefSeq	CDS	3759366	3760382	.	+	0	transcript_id "rna-XM_057125605.1"; gene_id "gene-N7511_003180"; gene_name "cwc26";
+NW_026643127.1	RefSeq	transcript	601231	602551	.	-	.	transcript_id "rna-XM_057126236.1"; gene_id "gene-N7511_003811"
+NW_026643127.1	RefSeq	exon	601231	601260	.	-	.	transcript_id "rna-XM_057126236.1"; gene_id "gene-N7511_003811";
+NW_026643127.1	RefSeq	exon	601313	602551	.	-	.	transcript_id "rna-XM_057126236.1"; gene_id "gene-N7511_003811";
+NW_026643127.1	RefSeq	CDS	601231	601260	.	-	0	transcript_id "rna-XM_057126236.1"; gene_id "gene-N7511_003811";
+NW_026643127.1	RefSeq	CDS	601313	602551	.	-	0	transcript_id "rna-XM_057126236.1"; gene_id "gene-N7511_003811";
+NW_026643127.1	RefSeq	transcript	1038891	1039896	.	+	.	transcript_id "rna-XM_057126396.1"; gene_id "gene-N7511_003971"
+NW_026643127.1	RefSeq	exon	1038891	1038966	.	+	.	transcript_id "rna-XM_057126396.1"; gene_id "gene-N7511_003971";
+NW_026643127.1	RefSeq	exon	1039040	1039896	.	+	.	transcript_id "rna-XM_057126396.1"; gene_id "gene-N7511_003971";
+NW_026643127.1	RefSeq	CDS	1038891	1038966	.	+	0	transcript_id "rna-XM_057126396.1"; gene_id "gene-N7511_003971";
+NW_026643127.1	RefSeq	CDS	1039040	1039896	.	+	2	transcript_id "rna-XM_057126396.1"; gene_id "gene-N7511_003971";
+NW_026643127.1	RefSeq	transcript	1070211	1071422	.	+	.	transcript_id "rna-XM_057126408.1"; gene_id "gene-N7511_003983"
+NW_026643127.1	RefSeq	exon	1070211	1071422	.	+	.	transcript_id "rna-XM_057126408.1"; gene_id "gene-N7511_003983";
+NW_026643127.1	RefSeq	CDS	1070211	1071422	.	+	0	transcript_id "rna-XM_057126408.1"; gene_id "gene-N7511_003983";
+NW_026643127.1	RefSeq	transcript	1079255	1080998	.	-	.	transcript_id "rna-XM_057126412.1"; gene_id "gene-N7511_003987"
+NW_026643127.1	RefSeq	exon	1079255	1080820	.	-	.	transcript_id "rna-XM_057126412.1"; gene_id "gene-N7511_003987";
+NW_026643127.1	RefSeq	exon	1080960	1080998	.	-	.	transcript_id "rna-XM_057126412.1"; gene_id "gene-N7511_003987";
+NW_026643127.1	RefSeq	CDS	1079255	1080820	.	-	0	transcript_id "rna-XM_057126412.1"; gene_id "gene-N7511_003987";
+NW_026643127.1	RefSeq	CDS	1080960	1080998	.	-	0	transcript_id "rna-XM_057126412.1"; gene_id "gene-N7511_003987";
+NW_026643127.1	RefSeq	transcript	1156965	1158002	.	+	.	transcript_id "rna-XM_057126439.1"; gene_id "gene-N7511_004014"
+NW_026643127.1	RefSeq	exon	1156965	1157330	.	+	.	transcript_id "rna-XM_057126439.1"; gene_id "gene-N7511_004014";
+NW_026643127.1	RefSeq	exon	1157384	1157590	.	+	.	transcript_id "rna-XM_057126439.1"; gene_id "gene-N7511_004014";
+NW_026643127.1	RefSeq	exon	1157639	1157764	.	+	.	transcript_id "rna-XM_057126439.1"; gene_id "gene-N7511_004014";
+NW_026643127.1	RefSeq	exon	1157820	1158002	.	+	.	transcript_id "rna-XM_057126439.1"; gene_id "gene-N7511_004014";
+NW_026643127.1	RefSeq	CDS	1156965	1157330	.	+	0	transcript_id "rna-XM_057126439.1"; gene_id "gene-N7511_004014";
+NW_026643127.1	RefSeq	CDS	1157384	1157590	.	+	0	transcript_id "rna-XM_057126439.1"; gene_id "gene-N7511_004014";
+NW_026643127.1	RefSeq	CDS	1157639	1157764	.	+	0	transcript_id "rna-XM_057126439.1"; gene_id "gene-N7511_004014";
+NW_026643127.1	RefSeq	CDS	1157820	1158002	.	+	0	transcript_id "rna-XM_057126439.1"; gene_id "gene-N7511_004014";
+NW_026643127.1	RefSeq	transcript	1320549	1321815	.	+	.	transcript_id "rna-XM_057126494.1"; gene_id "gene-N7511_004069"
+NW_026643127.1	RefSeq	exon	1320549	1320760	.	+	.	transcript_id "rna-XM_057126494.1"; gene_id "gene-N7511_004069";
+NW_026643127.1	RefSeq	exon	1320852	1321815	.	+	.	transcript_id "rna-XM_057126494.1"; gene_id "gene-N7511_004069";
+NW_026643127.1	RefSeq	CDS	1320549	1320760	.	+	0	transcript_id "rna-XM_057126494.1"; gene_id "gene-N7511_004069";
+NW_026643127.1	RefSeq	CDS	1320852	1321815	.	+	1	transcript_id "rna-XM_057126494.1"; gene_id "gene-N7511_004069";
+NW_026643127.1	RefSeq	transcript	1456914	1457820	.	-	.	transcript_id "rna-XM_057126543.1"; gene_id "gene-N7511_004118"; gene_name "coq4"
+NW_026643127.1	RefSeq	exon	1456914	1457560	.	-	.	transcript_id "rna-XM_057126543.1"; gene_id "gene-N7511_004118"; gene_name "coq4";
+NW_026643127.1	RefSeq	exon	1457619	1457820	.	-	.	transcript_id "rna-XM_057126543.1"; gene_id "gene-N7511_004118"; gene_name "coq4";
+NW_026643127.1	RefSeq	CDS	1456914	1457560	.	-	2	transcript_id "rna-XM_057126543.1"; gene_id "gene-N7511_004118"; gene_name "coq4";
+NW_026643127.1	RefSeq	CDS	1457619	1457820	.	-	0	transcript_id "rna-XM_057126543.1"; gene_id "gene-N7511_004118"; gene_name "coq4";
+NW_026643127.1	RefSeq	transcript	1465552	1466687	.	+	.	transcript_id "rna-XM_057126549.1"; gene_id "gene-N7511_004124"
+NW_026643127.1	RefSeq	exon	1465552	1465792	.	+	.	transcript_id "rna-XM_057126549.1"; gene_id "gene-N7511_004124";
+NW_026643127.1	RefSeq	exon	1465869	1466378	.	+	.	transcript_id "rna-XM_057126549.1"; gene_id "gene-N7511_004124";
+NW_026643127.1	RefSeq	exon	1466432	1466537	.	+	.	transcript_id "rna-XM_057126549.1"; gene_id "gene-N7511_004124";
+NW_026643127.1	RefSeq	exon	1466588	1466687	.	+	.	transcript_id "rna-XM_057126549.1"; gene_id "gene-N7511_004124";
+NW_026643127.1	RefSeq	CDS	1465552	1465792	.	+	0	transcript_id "rna-XM_057126549.1"; gene_id "gene-N7511_004124";
+NW_026643127.1	RefSeq	CDS	1465869	1466378	.	+	2	transcript_id "rna-XM_057126549.1"; gene_id "gene-N7511_004124";
+NW_026643127.1	RefSeq	CDS	1466432	1466537	.	+	2	transcript_id "rna-XM_057126549.1"; gene_id "gene-N7511_004124";
+NW_026643127.1	RefSeq	CDS	1466588	1466687	.	+	1	transcript_id "rna-XM_057126549.1"; gene_id "gene-N7511_004124";
+NW_026643127.1	RefSeq	transcript	1663692	1664816	.	-	.	transcript_id "rna-XM_057126632.1"; gene_id "gene-N7511_004207"
+NW_026643127.1	RefSeq	exon	1663692	1664300	.	-	.	transcript_id "rna-XM_057126632.1"; gene_id "gene-N7511_004207";
+NW_026643127.1	RefSeq	exon	1664345	1664509	.	-	.	transcript_id "rna-XM_057126632.1"; gene_id "gene-N7511_004207";
+NW_026643127.1	RefSeq	exon	1664567	1664657	.	-	.	transcript_id "rna-XM_057126632.1"; gene_id "gene-N7511_004207";
+NW_026643127.1	RefSeq	exon	1664713	1664816	.	-	.	transcript_id "rna-XM_057126632.1"; gene_id "gene-N7511_004207";
+NW_026643127.1	RefSeq	CDS	1663692	1664300	.	-	0	transcript_id "rna-XM_057126632.1"; gene_id "gene-N7511_004207";
+NW_026643127.1	RefSeq	CDS	1664345	1664509	.	-	0	transcript_id "rna-XM_057126632.1"; gene_id "gene-N7511_004207";
+NW_026643127.1	RefSeq	CDS	1664567	1664657	.	-	1	transcript_id "rna-XM_057126632.1"; gene_id "gene-N7511_004207";
+NW_026643127.1	RefSeq	CDS	1664713	1664816	.	-	0	transcript_id "rna-XM_057126632.1"; gene_id "gene-N7511_004207";
+NW_026643127.1	RefSeq	transcript	1669907	1670962	.	-	.	transcript_id "rna-XM_057126634.1"; gene_id "gene-N7511_004209"
+NW_026643127.1	RefSeq	exon	1669907	1669922	.	-	.	transcript_id "rna-XM_057126634.1"; gene_id "gene-N7511_004209";
+NW_026643127.1	RefSeq	exon	1669980	1670192	.	-	.	transcript_id "rna-XM_057126634.1"; gene_id "gene-N7511_004209";
+NW_026643127.1	RefSeq	exon	1670278	1670820	.	-	.	transcript_id "rna-XM_057126634.1"; gene_id "gene-N7511_004209";
+NW_026643127.1	RefSeq	exon	1670876	1670886	.	-	.	transcript_id "rna-XM_057126634.1"; gene_id "gene-N7511_004209";
+NW_026643127.1	RefSeq	exon	1670960	1670962	.	-	.	transcript_id "rna-XM_057126634.1"; gene_id "gene-N7511_004209";
+NW_026643127.1	RefSeq	CDS	1669907	1669922	.	-	1	transcript_id "rna-XM_057126634.1"; gene_id "gene-N7511_004209";
+NW_026643127.1	RefSeq	CDS	1669980	1670192	.	-	1	transcript_id "rna-XM_057126634.1"; gene_id "gene-N7511_004209";
+NW_026643127.1	RefSeq	CDS	1670278	1670820	.	-	1	transcript_id "rna-XM_057126634.1"; gene_id "gene-N7511_004209";
+NW_026643127.1	RefSeq	CDS	1670876	1670886	.	-	0	transcript_id "rna-XM_057126634.1"; gene_id "gene-N7511_004209";
+NW_026643127.1	RefSeq	CDS	1670960	1670962	.	-	0	transcript_id "rna-XM_057126634.1"; gene_id "gene-N7511_004209";
+NW_026643127.1	RefSeq	transcript	2279796	2281025	.	+	.	transcript_id "rna-XM_057126835.1"; gene_id "gene-N7511_004410"
+NW_026643127.1	RefSeq	exon	2279796	2281025	.	+	.	transcript_id "rna-XM_057126835.1"; gene_id "gene-N7511_004410";
+NW_026643127.1	RefSeq	CDS	2279796	2281025	.	+	0	transcript_id "rna-XM_057126835.1"; gene_id "gene-N7511_004410";
+NW_026643127.1	RefSeq	transcript	2734496	2735826	.	+	.	transcript_id "rna-XM_057127024.1"; gene_id "gene-N7511_004599"
+NW_026643127.1	RefSeq	exon	2734496	2734575	.	+	.	transcript_id "rna-XM_057127024.1"; gene_id "gene-N7511_004599";
+NW_026643127.1	RefSeq	exon	2734627	2734666	.	+	.	transcript_id "rna-XM_057127024.1"; gene_id "gene-N7511_004599";
+NW_026643127.1	RefSeq	exon	2734724	2735193	.	+	.	transcript_id "rna-XM_057127024.1"; gene_id "gene-N7511_004599";
+NW_026643127.1	RefSeq	exon	2735247	2735826	.	+	.	transcript_id "rna-XM_057127024.1"; gene_id "gene-N7511_004599";
+NW_026643127.1	RefSeq	CDS	2734496	2734575	.	+	0	transcript_id "rna-XM_057127024.1"; gene_id "gene-N7511_004599";
+NW_026643127.1	RefSeq	CDS	2734627	2734666	.	+	1	transcript_id "rna-XM_057127024.1"; gene_id "gene-N7511_004599";
+NW_026643127.1	RefSeq	CDS	2734724	2735193	.	+	0	transcript_id "rna-XM_057127024.1"; gene_id "gene-N7511_004599";
+NW_026643127.1	RefSeq	CDS	2735247	2735826	.	+	1	transcript_id "rna-XM_057127024.1"; gene_id "gene-N7511_004599";
+NW_026643127.1	RefSeq	transcript	3120794	3122146	.	-	.	transcript_id "rna-XM_057127163.1"; gene_id "gene-N7511_004738"
+NW_026643127.1	RefSeq	exon	3120794	3122146	.	-	.	transcript_id "rna-XM_057127163.1"; gene_id "gene-N7511_004738";
+NW_026643127.1	RefSeq	CDS	3120794	3122146	.	-	0	transcript_id "rna-XM_057127163.1"; gene_id "gene-N7511_004738";
+NW_026643127.1	RefSeq	transcript	3134723	3138157	.	+	.	transcript_id "rna-XM_057127170.1"; gene_id "gene-N7511_004745"
+NW_026643127.1	RefSeq	exon	3134723	3135451	.	+	.	transcript_id "rna-XM_057127170.1"; gene_id "gene-N7511_004745";
+NW_026643127.1	RefSeq	exon	3135504	3136636	.	+	.	transcript_id "rna-XM_057127170.1"; gene_id "gene-N7511_004745";
+NW_026643127.1	RefSeq	exon	3136687	3138157	.	+	.	transcript_id "rna-XM_057127170.1"; gene_id "gene-N7511_004745";
+NW_026643127.1	RefSeq	CDS	3134723	3135451	.	+	0	transcript_id "rna-XM_057127170.1"; gene_id "gene-N7511_004745";
+NW_026643127.1	RefSeq	CDS	3135504	3136636	.	+	0	transcript_id "rna-XM_057127170.1"; gene_id "gene-N7511_004745";
+NW_026643127.1	RefSeq	CDS	3136687	3138157	.	+	1	transcript_id "rna-XM_057127170.1"; gene_id "gene-N7511_004745";
+NW_026643127.1	RefSeq	transcript	3142729	3144243	.	+	.	transcript_id "rna-XM_057127172.1"; gene_id "gene-N7511_004747"
+NW_026643127.1	RefSeq	exon	3142729	3143120	.	+	.	transcript_id "rna-XM_057127172.1"; gene_id "gene-N7511_004747";
+NW_026643127.1	RefSeq	exon	3143184	3144243	.	+	.	transcript_id "rna-XM_057127172.1"; gene_id "gene-N7511_004747";
+NW_026643127.1	RefSeq	CDS	3142729	3143120	.	+	0	transcript_id "rna-XM_057127172.1"; gene_id "gene-N7511_004747";
+NW_026643127.1	RefSeq	CDS	3143184	3144243	.	+	1	transcript_id "rna-XM_057127172.1"; gene_id "gene-N7511_004747";
+NW_026643127.1	RefSeq	transcript	3512204	3513946	.	-	.	transcript_id "rna-XM_057127306.1"; gene_id "gene-N7511_004881"
+NW_026643127.1	RefSeq	exon	3512204	3513946	.	-	.	transcript_id "rna-XM_057127306.1"; gene_id "gene-N7511_004881";
+NW_026643127.1	RefSeq	CDS	3512204	3513946	.	-	0	transcript_id "rna-XM_057127306.1"; gene_id "gene-N7511_004881";
+NW_026643127.1	RefSeq	transcript	3561100	3562113	.	-	.	transcript_id "rna-XM_057127321.1"; gene_id "gene-N7511_004896"; gene_name "dph5"
+NW_026643127.1	RefSeq	exon	3561100	3561697	.	-	.	transcript_id "rna-XM_057127321.1"; gene_id "gene-N7511_004896"; gene_name "dph5";
+NW_026643127.1	RefSeq	exon	3561776	3561900	.	-	.	transcript_id "rna-XM_057127321.1"; gene_id "gene-N7511_004896"; gene_name "dph5";
+NW_026643127.1	RefSeq	exon	3561979	3562113	.	-	.	transcript_id "rna-XM_057127321.1"; gene_id "gene-N7511_004896"; gene_name "dph5";
+NW_026643127.1	RefSeq	CDS	3561100	3561697	.	-	1	transcript_id "rna-XM_057127321.1"; gene_id "gene-N7511_004896"; gene_name "dph5";
+NW_026643127.1	RefSeq	CDS	3561776	3561900	.	-	0	transcript_id "rna-XM_057127321.1"; gene_id "gene-N7511_004896"; gene_name "dph5";
+NW_026643127.1	RefSeq	CDS	3561979	3562113	.	-	0	transcript_id "rna-XM_057127321.1"; gene_id "gene-N7511_004896"; gene_name "dph5";
+NW_026643127.1	RefSeq	transcript	3645279	3645914	.	+	.	transcript_id "rna-XM_057127358.1"; gene_id "gene-N7511_004933"
+NW_026643127.1	RefSeq	exon	3645279	3645914	.	+	.	transcript_id "rna-XM_057127358.1"; gene_id "gene-N7511_004933";
+NW_026643127.1	RefSeq	CDS	3645279	3645914	.	+	0	transcript_id "rna-XM_057127358.1"; gene_id "gene-N7511_004933";
+NW_026643127.1	RefSeq	transcript	3727631	3728661	.	-	.	transcript_id "rna-XM_057127389.1"; gene_id "gene-N7511_004964"
+NW_026643127.1	RefSeq	exon	3727631	3727938	.	-	.	transcript_id "rna-XM_057127389.1"; gene_id "gene-N7511_004964";
+NW_026643127.1	RefSeq	exon	3727995	3728661	.	-	.	transcript_id "rna-XM_057127389.1"; gene_id "gene-N7511_004964";
+NW_026643127.1	RefSeq	CDS	3727631	3727938	.	-	2	transcript_id "rna-XM_057127389.1"; gene_id "gene-N7511_004964";
+NW_026643127.1	RefSeq	CDS	3727995	3728661	.	-	0	transcript_id "rna-XM_057127389.1"; gene_id "gene-N7511_004964";
+NW_026643127.1	RefSeq	transcript	3730549	3731500	.	-	.	transcript_id "rna-XM_057127390.1"; gene_id "gene-N7511_004965"
+NW_026643127.1	RefSeq	exon	3730549	3731316	.	-	.	transcript_id "rna-XM_057127390.1"; gene_id "gene-N7511_004965";
+NW_026643127.1	RefSeq	exon	3731405	3731500	.	-	.	transcript_id "rna-XM_057127390.1"; gene_id "gene-N7511_004965";
+NW_026643127.1	RefSeq	CDS	3730549	3731316	.	-	0	transcript_id "rna-XM_057127390.1"; gene_id "gene-N7511_004965";
+NW_026643127.1	RefSeq	CDS	3731405	3731500	.	-	0	transcript_id "rna-XM_057127390.1"; gene_id "gene-N7511_004965";
+NW_026643129.1	RefSeq	transcript	406495	409185	.	+	.	transcript_id "rna-XM_057127609.1"; gene_id "gene-N7511_005232"
+NW_026643129.1	RefSeq	exon	406495	408648	.	+	.	transcript_id "rna-XM_057127609.1"; gene_id "gene-N7511_005232";
+NW_026643129.1	RefSeq	exon	408700	409185	.	+	.	transcript_id "rna-XM_057127609.1"; gene_id "gene-N7511_005232";
+NW_026643129.1	RefSeq	CDS	406495	408648	.	+	0	transcript_id "rna-XM_057127609.1"; gene_id "gene-N7511_005232";
+NW_026643129.1	RefSeq	CDS	408700	409185	.	+	0	transcript_id "rna-XM_057127609.1"; gene_id "gene-N7511_005232";
+NW_026643129.1	RefSeq	transcript	443586	444543	.	-	.	transcript_id "rna-XM_057127626.1"; gene_id "gene-N7511_005249"; gene_name "tma22"
+NW_026643129.1	RefSeq	exon	443586	444079	.	-	.	transcript_id "rna-XM_057127626.1"; gene_id "gene-N7511_005249"; gene_name "tma22";
+NW_026643129.1	RefSeq	exon	444129	444216	.	-	.	transcript_id "rna-XM_057127626.1"; gene_id "gene-N7511_005249"; gene_name "tma22";
+NW_026643129.1	RefSeq	exon	444400	444419	.	-	.	transcript_id "rna-XM_057127626.1"; gene_id "gene-N7511_005249"; gene_name "tma22";
+NW_026643129.1	RefSeq	exon	444495	444543	.	-	.	transcript_id "rna-XM_057127626.1"; gene_id "gene-N7511_005249"; gene_name "tma22";
+NW_026643129.1	RefSeq	CDS	443586	444079	.	-	2	transcript_id "rna-XM_057127626.1"; gene_id "gene-N7511_005249"; gene_name "tma22";
+NW_026643129.1	RefSeq	CDS	444129	444216	.	-	0	transcript_id "rna-XM_057127626.1"; gene_id "gene-N7511_005249"; gene_name "tma22";
+NW_026643129.1	RefSeq	CDS	444400	444419	.	-	2	transcript_id "rna-XM_057127626.1"; gene_id "gene-N7511_005249"; gene_name "tma22";
+NW_026643129.1	RefSeq	CDS	444495	444543	.	-	0	transcript_id "rna-XM_057127626.1"; gene_id "gene-N7511_005249"; gene_name "tma22";
+NW_026643129.1	RefSeq	transcript	615660	617111	.	+	.	transcript_id "rna-XM_057127687.1"; gene_id "gene-N7511_005310"
+NW_026643129.1	RefSeq	exon	615660	615829	.	+	.	transcript_id "rna-XM_057127687.1"; gene_id "gene-N7511_005310";
+NW_026643129.1	RefSeq	exon	615882	616050	.	+	.	transcript_id "rna-XM_057127687.1"; gene_id "gene-N7511_005310";
+NW_026643129.1	RefSeq	exon	616110	617111	.	+	.	transcript_id "rna-XM_057127687.1"; gene_id "gene-N7511_005310";
+NW_026643129.1	RefSeq	CDS	615660	615829	.	+	0	transcript_id "rna-XM_057127687.1"; gene_id "gene-N7511_005310";
+NW_026643129.1	RefSeq	CDS	615882	616050	.	+	1	transcript_id "rna-XM_057127687.1"; gene_id "gene-N7511_005310";
+NW_026643129.1	RefSeq	CDS	616110	617111	.	+	0	transcript_id "rna-XM_057127687.1"; gene_id "gene-N7511_005310";
+NW_026643129.1	RefSeq	transcript	618919	621227	.	+	.	transcript_id "rna-XM_057127689.1"; gene_id "gene-N7511_005312"; gene_name "erb1"
+NW_026643129.1	RefSeq	exon	618919	620698	.	+	.	transcript_id "rna-XM_057127689.1"; gene_id "gene-N7511_005312"; gene_name "erb1";
+NW_026643129.1	RefSeq	exon	620800	621227	.	+	.	transcript_id "rna-XM_057127689.1"; gene_id "gene-N7511_005312"; gene_name "erb1";
+NW_026643129.1	RefSeq	CDS	618919	620698	.	+	0	transcript_id "rna-XM_057127689.1"; gene_id "gene-N7511_005312"; gene_name "erb1";
+NW_026643129.1	RefSeq	CDS	620800	621227	.	+	2	transcript_id "rna-XM_057127689.1"; gene_id "gene-N7511_005312"; gene_name "erb1";
+NW_026643129.1	RefSeq	transcript	649467	651701	.	-	.	transcript_id "rna-XM_057127705.1"; gene_id "gene-N7511_005328"
+NW_026643129.1	RefSeq	exon	649467	649559	.	-	.	transcript_id "rna-XM_057127705.1"; gene_id "gene-N7511_005328";
+NW_026643129.1	RefSeq	exon	649585	650961	.	-	.	transcript_id "rna-XM_057127705.1"; gene_id "gene-N7511_005328";
+NW_026643129.1	RefSeq	exon	651007	651517	.	-	.	transcript_id "rna-XM_057127705.1"; gene_id "gene-N7511_005328";
+NW_026643129.1	RefSeq	exon	651568	651701	.	-	.	transcript_id "rna-XM_057127705.1"; gene_id "gene-N7511_005328";
+NW_026643129.1	RefSeq	CDS	649467	649559	.	-	0	transcript_id "rna-XM_057127705.1"; gene_id "gene-N7511_005328";
+NW_026643129.1	RefSeq	CDS	649585	650961	.	-	0	transcript_id "rna-XM_057127705.1"; gene_id "gene-N7511_005328";
+NW_026643129.1	RefSeq	CDS	651007	651517	.	-	1	transcript_id "rna-XM_057127705.1"; gene_id "gene-N7511_005328";
+NW_026643129.1	RefSeq	CDS	651568	651701	.	-	0	transcript_id "rna-XM_057127705.1"; gene_id "gene-N7511_005328";
+NW_026643129.1	RefSeq	transcript	651891	652996	.	+	.	transcript_id "rna-XM_057127706.1"; gene_id "gene-N7511_005329"
+NW_026643129.1	RefSeq	exon	651891	651986	.	+	.	transcript_id "rna-XM_057127706.1"; gene_id "gene-N7511_005329";
+NW_026643129.1	RefSeq	exon	652035	652747	.	+	.	transcript_id "rna-XM_057127706.1"; gene_id "gene-N7511_005329";
+NW_026643129.1	RefSeq	exon	652798	652996	.	+	.	transcript_id "rna-XM_057127706.1"; gene_id "gene-N7511_005329";
+NW_026643129.1	RefSeq	CDS	651891	651986	.	+	0	transcript_id "rna-XM_057127706.1"; gene_id "gene-N7511_005329";
+NW_026643129.1	RefSeq	CDS	652035	652747	.	+	0	transcript_id "rna-XM_057127706.1"; gene_id "gene-N7511_005329";
+NW_026643129.1	RefSeq	CDS	652798	652996	.	+	1	transcript_id "rna-XM_057127706.1"; gene_id "gene-N7511_005329";
+NW_026643129.1	RefSeq	transcript	692788	694303	.	-	.	transcript_id "rna-XM_057127723.1"; gene_id "gene-N7511_005346"
+NW_026643129.1	RefSeq	exon	692788	692860	.	-	.	transcript_id "rna-XM_057127723.1"; gene_id "gene-N7511_005346";
+NW_026643129.1	RefSeq	exon	692917	693754	.	-	.	transcript_id "rna-XM_057127723.1"; gene_id "gene-N7511_005346";
+NW_026643129.1	RefSeq	exon	693810	694105	.	-	.	transcript_id "rna-XM_057127723.1"; gene_id "gene-N7511_005346";
+NW_026643129.1	RefSeq	exon	694180	694303	.	-	.	transcript_id "rna-XM_057127723.1"; gene_id "gene-N7511_005346";
+NW_026643129.1	RefSeq	CDS	692788	692860	.	-	1	transcript_id "rna-XM_057127723.1"; gene_id "gene-N7511_005346";
+NW_026643129.1	RefSeq	CDS	692917	693754	.	-	2	transcript_id "rna-XM_057127723.1"; gene_id "gene-N7511_005346";
+NW_026643129.1	RefSeq	CDS	693810	694105	.	-	1	transcript_id "rna-XM_057127723.1"; gene_id "gene-N7511_005346";
+NW_026643129.1	RefSeq	CDS	694180	694277	.	-	0	transcript_id "rna-XM_057127723.1"; gene_id "gene-N7511_005346";
+NW_026643129.1	RefSeq	transcript	936173	939703	.	+	.	transcript_id "rna-XM_057127822.1"; gene_id "gene-N7511_005445"; gene_name "hir1"
+NW_026643129.1	RefSeq	exon	936173	936209	.	+	.	transcript_id "rna-XM_057127822.1"; gene_id "gene-N7511_005445"; gene_name "hir1";
+NW_026643129.1	RefSeq	exon	936333	936407	.	+	.	transcript_id "rna-XM_057127822.1"; gene_id "gene-N7511_005445"; gene_name "hir1";
+NW_026643129.1	RefSeq	exon	936501	936722	.	+	.	transcript_id "rna-XM_057127822.1"; gene_id "gene-N7511_005445"; gene_name "hir1";
+NW_026643129.1	RefSeq	exon	936792	938585	.	+	.	transcript_id "rna-XM_057127822.1"; gene_id "gene-N7511_005445"; gene_name "hir1";
+NW_026643129.1	RefSeq	exon	938615	939547	.	+	.	transcript_id "rna-XM_057127822.1"; gene_id "gene-N7511_005445"; gene_name "hir1";
+NW_026643129.1	RefSeq	exon	939606	939703	.	+	.	transcript_id "rna-XM_057127822.1"; gene_id "gene-N7511_005445"; gene_name "hir1";
+NW_026643129.1	RefSeq	CDS	936173	936209	.	+	0	transcript_id "rna-XM_057127822.1"; gene_id "gene-N7511_005445"; gene_name "hir1";
+NW_026643129.1	RefSeq	CDS	936333	936407	.	+	2	transcript_id "rna-XM_057127822.1"; gene_id "gene-N7511_005445"; gene_name "hir1";
+NW_026643129.1	RefSeq	CDS	936501	936722	.	+	2	transcript_id "rna-XM_057127822.1"; gene_id "gene-N7511_005445"; gene_name "hir1";
+NW_026643129.1	RefSeq	CDS	936792	938585	.	+	2	transcript_id "rna-XM_057127822.1"; gene_id "gene-N7511_005445"; gene_name "hir1";
+NW_026643129.1	RefSeq	CDS	938615	939547	.	+	2	transcript_id "rna-XM_057127822.1"; gene_id "gene-N7511_005445"; gene_name "hir1";
+NW_026643129.1	RefSeq	CDS	939606	939703	.	+	2	transcript_id "rna-XM_057127822.1"; gene_id "gene-N7511_005445"; gene_name "hir1";
+NW_026643129.1	RefSeq	transcript	943877	944796	.	+	.	transcript_id "rna-XM_057127825.1"; gene_id "gene-N7511_005448"
+NW_026643129.1	RefSeq	exon	943877	943890	.	+	.	transcript_id "rna-XM_057127825.1"; gene_id "gene-N7511_005448";
+NW_026643129.1	RefSeq	exon	944122	944262	.	+	.	transcript_id "rna-XM_057127825.1"; gene_id "gene-N7511_005448";
+NW_026643129.1	RefSeq	exon	944406	944796	.	+	.	transcript_id "rna-XM_057127825.1"; gene_id "gene-N7511_005448";
+NW_026643129.1	RefSeq	CDS	943877	943890	.	+	0	transcript_id "rna-XM_057127825.1"; gene_id "gene-N7511_005448";
+NW_026643129.1	RefSeq	CDS	944122	944262	.	+	1	transcript_id "rna-XM_057127825.1"; gene_id "gene-N7511_005448";
+NW_026643129.1	RefSeq	CDS	944406	944796	.	+	1	transcript_id "rna-XM_057127825.1"; gene_id "gene-N7511_005448";
+NW_026643129.1	RefSeq	transcript	1069569	1072385	.	+	.	transcript_id "rna-XM_057127869.1"; gene_id "gene-N7511_005492"
+NW_026643129.1	RefSeq	exon	1069569	1070054	.	+	.	transcript_id "rna-XM_057127869.1"; gene_id "gene-N7511_005492";
+NW_026643129.1	RefSeq	exon	1070109	1072385	.	+	.	transcript_id "rna-XM_057127869.1"; gene_id "gene-N7511_005492";
+NW_026643129.1	RefSeq	CDS	1069569	1070054	.	+	0	transcript_id "rna-XM_057127869.1"; gene_id "gene-N7511_005492";
+NW_026643129.1	RefSeq	CDS	1070109	1072385	.	+	0	transcript_id "rna-XM_057127869.1"; gene_id "gene-N7511_005492";
+NW_026643129.1	RefSeq	transcript	1202877	1203939	.	+	.	transcript_id "rna-XM_057127911.1"; gene_id "gene-N7511_005534"
+NW_026643129.1	RefSeq	exon	1202877	1203343	.	+	.	transcript_id "rna-XM_057127911.1"; gene_id "gene-N7511_005534";
+NW_026643129.1	RefSeq	exon	1203417	1203939	.	+	.	transcript_id "rna-XM_057127911.1"; gene_id "gene-N7511_005534";
+NW_026643129.1	RefSeq	CDS	1202877	1203343	.	+	0	transcript_id "rna-XM_057127911.1"; gene_id "gene-N7511_005534";
+NW_026643129.1	RefSeq	CDS	1203417	1203939	.	+	1	transcript_id "rna-XM_057127911.1"; gene_id "gene-N7511_005534";
+NW_026643129.1	RefSeq	transcript	1217659	1219866	.	+	.	transcript_id "rna-XM_057127917.1"; gene_id "gene-N7511_005540"
+NW_026643129.1	RefSeq	exon	1217659	1217725	.	+	.	transcript_id "rna-XM_057127917.1"; gene_id "gene-N7511_005540";
+NW_026643129.1	RefSeq	exon	1217792	1219866	.	+	.	transcript_id "rna-XM_057127917.1"; gene_id "gene-N7511_005540";
+NW_026643129.1	RefSeq	CDS	1217659	1217725	.	+	0	transcript_id "rna-XM_057127917.1"; gene_id "gene-N7511_005540";
+NW_026643129.1	RefSeq	CDS	1217792	1219866	.	+	2	transcript_id "rna-XM_057127917.1"; gene_id "gene-N7511_005540";
+NW_026643129.1	RefSeq	transcript	1404573	1406575	.	-	.	transcript_id "rna-XM_057127978.1"; gene_id "gene-N7511_005601"
+NW_026643129.1	RefSeq	exon	1404573	1406356	.	-	.	transcript_id "rna-XM_057127978.1"; gene_id "gene-N7511_005601";
+NW_026643129.1	RefSeq	exon	1406434	1406575	.	-	.	transcript_id "rna-XM_057127978.1"; gene_id "gene-N7511_005601";
+NW_026643129.1	RefSeq	CDS	1404573	1406356	.	-	2	transcript_id "rna-XM_057127978.1"; gene_id "gene-N7511_005601";
+NW_026643129.1	RefSeq	CDS	1406434	1406575	.	-	0	transcript_id "rna-XM_057127978.1"; gene_id "gene-N7511_005601";
+NW_026643129.1	RefSeq	transcript	1428188	1429458	.	-	.	transcript_id "rna-XM_057127986.1"; gene_id "gene-N7511_005609"
+NW_026643129.1	RefSeq	exon	1428188	1429356	.	-	.	transcript_id "rna-XM_057127986.1"; gene_id "gene-N7511_005609";
+NW_026643129.1	RefSeq	exon	1429419	1429458	.	-	.	transcript_id "rna-XM_057127986.1"; gene_id "gene-N7511_005609";
+NW_026643129.1	RefSeq	CDS	1428188	1429356	.	-	2	transcript_id "rna-XM_057127986.1"; gene_id "gene-N7511_005609";
+NW_026643129.1	RefSeq	CDS	1429419	1429458	.	-	0	transcript_id "rna-XM_057127986.1"; gene_id "gene-N7511_005609";
+NW_026643129.1	RefSeq	transcript	1441526	1442315	.	+	.	transcript_id "rna-XM_057127992.1"; gene_id "gene-N7511_005615"
+NW_026643129.1	RefSeq	exon	1441526	1441537	.	+	.	transcript_id "rna-XM_057127992.1"; gene_id "gene-N7511_005615";
+NW_026643129.1	RefSeq	exon	1441620	1442315	.	+	.	transcript_id "rna-XM_057127992.1"; gene_id "gene-N7511_005615";
+NW_026643129.1	RefSeq	CDS	1441526	1441537	.	+	0	transcript_id "rna-XM_057127992.1"; gene_id "gene-N7511_005615";
+NW_026643129.1	RefSeq	CDS	1441620	1442315	.	+	0	transcript_id "rna-XM_057127992.1"; gene_id "gene-N7511_005615";
+NW_026643129.1	RefSeq	transcript	1755369	1757161	.	-	.	transcript_id "rna-XM_057128105.1"; gene_id "gene-N7511_005728"
+NW_026643129.1	RefSeq	exon	1755369	1756427	.	-	.	transcript_id "rna-XM_057128105.1"; gene_id "gene-N7511_005728";
+NW_026643129.1	RefSeq	exon	1756478	1757161	.	-	.	transcript_id "rna-XM_057128105.1"; gene_id "gene-N7511_005728";
+NW_026643129.1	RefSeq	CDS	1755369	1756427	.	-	0	transcript_id "rna-XM_057128105.1"; gene_id "gene-N7511_005728";
+NW_026643129.1	RefSeq	CDS	1756478	1757161	.	-	0	transcript_id "rna-XM_057128105.1"; gene_id "gene-N7511_005728";
+NW_026643129.1	RefSeq	transcript	1795686	1796675	.	+	.	transcript_id "rna-XM_057128119.1"; gene_id "gene-N7511_005742"
+NW_026643129.1	RefSeq	exon	1795686	1795763	.	+	.	transcript_id "rna-XM_057128119.1"; gene_id "gene-N7511_005742";
+NW_026643129.1	RefSeq	exon	1795885	1796423	.	+	.	transcript_id "rna-XM_057128119.1"; gene_id "gene-N7511_005742";
+NW_026643129.1	RefSeq	exon	1796582	1796675	.	+	.	transcript_id "rna-XM_057128119.1"; gene_id "gene-N7511_005742";
+NW_026643129.1	RefSeq	CDS	1795686	1795763	.	+	0	transcript_id "rna-XM_057128119.1"; gene_id "gene-N7511_005742";
+NW_026643129.1	RefSeq	CDS	1795885	1796423	.	+	0	transcript_id "rna-XM_057128119.1"; gene_id "gene-N7511_005742";
+NW_026643129.1	RefSeq	CDS	1796582	1796675	.	+	1	transcript_id "rna-XM_057128119.1"; gene_id "gene-N7511_005742";
+NW_026643129.1	RefSeq	transcript	1848020	1848797	.	+	.	transcript_id "rna-XM_057128140.1"; gene_id "gene-N7511_005763"
+NW_026643129.1	RefSeq	exon	1848020	1848086	.	+	.	transcript_id "rna-XM_057128140.1"; gene_id "gene-N7511_005763";
+NW_026643129.1	RefSeq	exon	1848169	1848797	.	+	.	transcript_id "rna-XM_057128140.1"; gene_id "gene-N7511_005763";
+NW_026643129.1	RefSeq	CDS	1848020	1848086	.	+	0	transcript_id "rna-XM_057128140.1"; gene_id "gene-N7511_005763";
+NW_026643129.1	RefSeq	CDS	1848169	1848797	.	+	2	transcript_id "rna-XM_057128140.1"; gene_id "gene-N7511_005763";
+NW_026643129.1	RefSeq	transcript	2227056	2229061	.	-	.	transcript_id "rna-XM_057128280.1"; gene_id "gene-N7511_005903"
+NW_026643129.1	RefSeq	exon	2227056	2227207	.	-	.	transcript_id "rna-XM_057128280.1"; gene_id "gene-N7511_005903";
+NW_026643129.1	RefSeq	exon	2227274	2228135	.	-	.	transcript_id "rna-XM_057128280.1"; gene_id "gene-N7511_005903";
+NW_026643129.1	RefSeq	exon	2228189	2228677	.	-	.	transcript_id "rna-XM_057128280.1"; gene_id "gene-N7511_005903";
+NW_026643129.1	RefSeq	exon	2228738	2229061	.	-	.	transcript_id "rna-XM_057128280.1"; gene_id "gene-N7511_005903";
+NW_026643129.1	RefSeq	CDS	2227056	2227207	.	-	2	transcript_id "rna-XM_057128280.1"; gene_id "gene-N7511_005903";
+NW_026643129.1	RefSeq	CDS	2227274	2228135	.	-	0	transcript_id "rna-XM_057128280.1"; gene_id "gene-N7511_005903";
+NW_026643129.1	RefSeq	CDS	2228189	2228677	.	-	0	transcript_id "rna-XM_057128280.1"; gene_id "gene-N7511_005903";
+NW_026643129.1	RefSeq	CDS	2228738	2229061	.	-	0	transcript_id "rna-XM_057128280.1"; gene_id "gene-N7511_005903";
+NW_026643130.1	RefSeq	transcript	532359	533246	.	+	.	transcript_id "rna-XM_057128581.1"; gene_id "gene-N7511_006204"
+NW_026643130.1	RefSeq	exon	532359	532552	.	+	.	transcript_id "rna-XM_057128581.1"; gene_id "gene-N7511_006204";
+NW_026643130.1	RefSeq	exon	532700	533246	.	+	.	transcript_id "rna-XM_057128581.1"; gene_id "gene-N7511_006204";
+NW_026643130.1	RefSeq	CDS	532359	532552	.	+	0	transcript_id "rna-XM_057128581.1"; gene_id "gene-N7511_006204";
+NW_026643130.1	RefSeq	CDS	532700	533246	.	+	1	transcript_id "rna-XM_057128581.1"; gene_id "gene-N7511_006204";
+NW_026643130.1	RefSeq	transcript	535795	536329	.	+	.	transcript_id "rna-XM_057128583.1"; gene_id "gene-N7511_006206"
+NW_026643130.1	RefSeq	exon	535795	535833	.	+	.	transcript_id "rna-XM_057128583.1"; gene_id "gene-N7511_006206";
+NW_026643130.1	RefSeq	exon	535890	535972	.	+	.	transcript_id "rna-XM_057128583.1"; gene_id "gene-N7511_006206";
+NW_026643130.1	RefSeq	exon	536038	536329	.	+	.	transcript_id "rna-XM_057128583.1"; gene_id "gene-N7511_006206";
+NW_026643130.1	RefSeq	CDS	535795	535833	.	+	0	transcript_id "rna-XM_057128583.1"; gene_id "gene-N7511_006206";
+NW_026643130.1	RefSeq	CDS	535890	535972	.	+	0	transcript_id "rna-XM_057128583.1"; gene_id "gene-N7511_006206";
+NW_026643130.1	RefSeq	CDS	536038	536329	.	+	1	transcript_id "rna-XM_057128583.1"; gene_id "gene-N7511_006206";
+NW_026643130.1	RefSeq	transcript	606353	607642	.	+	.	transcript_id "rna-XM_057128615.1"; gene_id "gene-N7511_006238"
+NW_026643130.1	RefSeq	exon	606353	606412	.	+	.	transcript_id "rna-XM_057128615.1"; gene_id "gene-N7511_006238";
+NW_026643130.1	RefSeq	exon	606495	606512	.	+	.	transcript_id "rna-XM_057128615.1"; gene_id "gene-N7511_006238";
+NW_026643130.1	RefSeq	exon	606606	607156	.	+	.	transcript_id "rna-XM_057128615.1"; gene_id "gene-N7511_006238";
+NW_026643130.1	RefSeq	exon	607213	607642	.	+	.	transcript_id "rna-XM_057128615.1"; gene_id "gene-N7511_006238";
+NW_026643130.1	RefSeq	CDS	606353	606412	.	+	0	transcript_id "rna-XM_057128615.1"; gene_id "gene-N7511_006238";
+NW_026643130.1	RefSeq	CDS	606495	606512	.	+	0	transcript_id "rna-XM_057128615.1"; gene_id "gene-N7511_006238";
+NW_026643130.1	RefSeq	CDS	606606	607156	.	+	0	transcript_id "rna-XM_057128615.1"; gene_id "gene-N7511_006238";
+NW_026643130.1	RefSeq	CDS	607213	607642	.	+	1	transcript_id "rna-XM_057128615.1"; gene_id "gene-N7511_006238";
+NW_026643130.1	RefSeq	transcript	783822	784785	.	+	.	transcript_id "rna-XM_057128678.1"; gene_id "gene-N7511_006301"
+NW_026643130.1	RefSeq	exon	783822	783893	.	+	.	transcript_id "rna-XM_057128678.1"; gene_id "gene-N7511_006301";
+NW_026643130.1	RefSeq	exon	783953	784189	.	+	.	transcript_id "rna-XM_057128678.1"; gene_id "gene-N7511_006301";
+NW_026643130.1	RefSeq	exon	784240	784785	.	+	.	transcript_id "rna-XM_057128678.1"; gene_id "gene-N7511_006301";
+NW_026643130.1	RefSeq	CDS	783822	783893	.	+	0	transcript_id "rna-XM_057128678.1"; gene_id "gene-N7511_006301";
+NW_026643130.1	RefSeq	CDS	783953	784189	.	+	0	transcript_id "rna-XM_057128678.1"; gene_id "gene-N7511_006301";
+NW_026643130.1	RefSeq	CDS	784240	784785	.	+	0	transcript_id "rna-XM_057128678.1"; gene_id "gene-N7511_006301";
+NW_026643130.1	RefSeq	transcript	930730	932290	.	+	.	transcript_id "rna-XM_057128739.1"; gene_id "gene-N7511_006362"
+NW_026643130.1	RefSeq	exon	930730	931354	.	+	.	transcript_id "rna-XM_057128739.1"; gene_id "gene-N7511_006362";
+NW_026643130.1	RefSeq	exon	931419	932290	.	+	.	transcript_id "rna-XM_057128739.1"; gene_id "gene-N7511_006362";
+NW_026643130.1	RefSeq	CDS	930730	931354	.	+	0	transcript_id "rna-XM_057128739.1"; gene_id "gene-N7511_006362";
+NW_026643130.1	RefSeq	CDS	931419	932290	.	+	2	transcript_id "rna-XM_057128739.1"; gene_id "gene-N7511_006362";
+NW_026643130.1	RefSeq	transcript	1071485	1073112	.	+	.	transcript_id "rna-XM_057128789.1"; gene_id "gene-N7511_006412"
+NW_026643130.1	RefSeq	exon	1071485	1071731	.	+	.	transcript_id "rna-XM_057128789.1"; gene_id "gene-N7511_006412";
+NW_026643130.1	RefSeq	exon	1071809	1072022	.	+	.	transcript_id "rna-XM_057128789.1"; gene_id "gene-N7511_006412";
+NW_026643130.1	RefSeq	exon	1072086	1073112	.	+	.	transcript_id "rna-XM_057128789.1"; gene_id "gene-N7511_006412";
+NW_026643130.1	RefSeq	CDS	1071485	1071731	.	+	0	transcript_id "rna-XM_057128789.1"; gene_id "gene-N7511_006412";
+NW_026643130.1	RefSeq	CDS	1071809	1072022	.	+	2	transcript_id "rna-XM_057128789.1"; gene_id "gene-N7511_006412";
+NW_026643130.1	RefSeq	CDS	1072086	1073112	.	+	1	transcript_id "rna-XM_057128789.1"; gene_id "gene-N7511_006412";
+NW_026643130.1	RefSeq	transcript	1349974	1352754	.	+	.	transcript_id "rna-XM_057128894.1"; gene_id "gene-N7511_006517"
+NW_026643130.1	RefSeq	exon	1349974	1350261	.	+	.	transcript_id "rna-XM_057128894.1"; gene_id "gene-N7511_006517";
+NW_026643130.1	RefSeq	exon	1350316	1352754	.	+	.	transcript_id "rna-XM_057128894.1"; gene_id "gene-N7511_006517";
+NW_026643130.1	RefSeq	CDS	1349974	1350261	.	+	0	transcript_id "rna-XM_057128894.1"; gene_id "gene-N7511_006517";
+NW_026643130.1	RefSeq	CDS	1350316	1352754	.	+	0	transcript_id "rna-XM_057128894.1"; gene_id "gene-N7511_006517";
+NW_026643130.1	RefSeq	transcript	1388772	1391054	.	-	.	transcript_id "rna-XM_057128909.1"; gene_id "gene-N7511_006532"
+NW_026643130.1	RefSeq	exon	1388772	1391054	.	-	.	transcript_id "rna-XM_057128909.1"; gene_id "gene-N7511_006532";
+NW_026643130.1	RefSeq	CDS	1388772	1391054	.	-	0	transcript_id "rna-XM_057128909.1"; gene_id "gene-N7511_006532";
+NW_026643130.1	RefSeq	transcript	1402538	1404979	.	+	.	transcript_id "rna-XM_057128916.1"; gene_id "gene-N7511_006539"
+NW_026643130.1	RefSeq	exon	1402538	1402728	.	+	.	transcript_id "rna-XM_057128916.1"; gene_id "gene-N7511_006539";
+NW_026643130.1	RefSeq	exon	1402784	1402892	.	+	.	transcript_id "rna-XM_057128916.1"; gene_id "gene-N7511_006539";
+NW_026643130.1	RefSeq	exon	1402945	1403238	.	+	.	transcript_id "rna-XM_057128916.1"; gene_id "gene-N7511_006539";
+NW_026643130.1	RefSeq	exon	1403259	1403692	.	+	.	transcript_id "rna-XM_057128916.1"; gene_id "gene-N7511_006539";
+NW_026643130.1	RefSeq	exon	1403760	1403904	.	+	.	transcript_id "rna-XM_057128916.1"; gene_id "gene-N7511_006539";
+NW_026643130.1	RefSeq	exon	1403967	1404431	.	+	.	transcript_id "rna-XM_057128916.1"; gene_id "gene-N7511_006539";
+NW_026643130.1	RefSeq	exon	1404485	1404847	.	+	.	transcript_id "rna-XM_057128916.1"; gene_id "gene-N7511_006539";
+NW_026643130.1	RefSeq	exon	1404899	1404979	.	+	.	transcript_id "rna-XM_057128916.1"; gene_id "gene-N7511_006539";
+NW_026643130.1	RefSeq	CDS	1402538	1402728	.	+	0	transcript_id "rna-XM_057128916.1"; gene_id "gene-N7511_006539";
+NW_026643130.1	RefSeq	CDS	1402784	1402892	.	+	1	transcript_id "rna-XM_057128916.1"; gene_id "gene-N7511_006539";
+NW_026643130.1	RefSeq	CDS	1402945	1403238	.	+	0	transcript_id "rna-XM_057128916.1"; gene_id "gene-N7511_006539";
+NW_026643130.1	RefSeq	CDS	1403259	1403692	.	+	0	transcript_id "rna-XM_057128916.1"; gene_id "gene-N7511_006539";
+NW_026643130.1	RefSeq	CDS	1403760	1403904	.	+	1	transcript_id "rna-XM_057128916.1"; gene_id "gene-N7511_006539";
+NW_026643130.1	RefSeq	CDS	1403967	1404431	.	+	0	transcript_id "rna-XM_057128916.1"; gene_id "gene-N7511_006539";
+NW_026643130.1	RefSeq	CDS	1404485	1404847	.	+	0	transcript_id "rna-XM_057128916.1"; gene_id "gene-N7511_006539";
+NW_026643130.1	RefSeq	CDS	1404899	1404979	.	+	0	transcript_id "rna-XM_057128916.1"; gene_id "gene-N7511_006539";
+NW_026643130.1	RefSeq	transcript	1459279	1461372	.	+	.	transcript_id "rna-XM_057128929.1"; gene_id "gene-N7511_006552"
+NW_026643130.1	RefSeq	exon	1459279	1461372	.	+	.	transcript_id "rna-XM_057128929.1"; gene_id "gene-N7511_006552";
+NW_026643130.1	RefSeq	CDS	1459279	1461372	.	+	0	transcript_id "rna-XM_057128929.1"; gene_id "gene-N7511_006552";
+NW_026643130.1	RefSeq	transcript	1635167	1637326	.	-	.	transcript_id "rna-XM_057128999.1"; gene_id "gene-N7511_006622"; gene_name "nop7"
+NW_026643130.1	RefSeq	exon	1635167	1637064	.	-	.	transcript_id "rna-XM_057128999.1"; gene_id "gene-N7511_006622"; gene_name "nop7";
+NW_026643130.1	RefSeq	exon	1637126	1637224	.	-	.	transcript_id "rna-XM_057128999.1"; gene_id "gene-N7511_006622"; gene_name "nop7";
+NW_026643130.1	RefSeq	exon	1637279	1637326	.	-	.	transcript_id "rna-XM_057128999.1"; gene_id "gene-N7511_006622"; gene_name "nop7";
+NW_026643130.1	RefSeq	CDS	1635167	1637064	.	-	2	transcript_id "rna-XM_057128999.1"; gene_id "gene-N7511_006622"; gene_name "nop7";
+NW_026643130.1	RefSeq	CDS	1637126	1637224	.	-	2	transcript_id "rna-XM_057128999.1"; gene_id "gene-N7511_006622"; gene_name "nop7";
+NW_026643130.1	RefSeq	CDS	1637279	1637300	.	-	0	transcript_id "rna-XM_057128999.1"; gene_id "gene-N7511_006622"; gene_name "nop7";
+NW_026643130.1	RefSeq	transcript	1899931	1901866	.	+	.	transcript_id "rna-XM_057129107.1"; gene_id "gene-N7511_006730"
+NW_026643130.1	RefSeq	exon	1899931	1900121	.	+	.	transcript_id "rna-XM_057129107.1"; gene_id "gene-N7511_006730";
+NW_026643130.1	RefSeq	exon	1900175	1901296	.	+	.	transcript_id "rna-XM_057129107.1"; gene_id "gene-N7511_006730";
+NW_026643130.1	RefSeq	exon	1901365	1901866	.	+	.	transcript_id "rna-XM_057129107.1"; gene_id "gene-N7511_006730";
+NW_026643130.1	RefSeq	CDS	1899931	1900121	.	+	0	transcript_id "rna-XM_057129107.1"; gene_id "gene-N7511_006730";
+NW_026643130.1	RefSeq	CDS	1900175	1901296	.	+	1	transcript_id "rna-XM_057129107.1"; gene_id "gene-N7511_006730";
+NW_026643130.1	RefSeq	CDS	1901365	1901866	.	+	1	transcript_id "rna-XM_057129107.1"; gene_id "gene-N7511_006730";
+NW_026643130.1	RefSeq	transcript	2117116	2118726	.	+	.	transcript_id "rna-XM_057129195.1"; gene_id "gene-N7511_006818"; gene_name "csn12"
+NW_026643130.1	RefSeq	exon	2117116	2117684	.	+	.	transcript_id "rna-XM_057129195.1"; gene_id "gene-N7511_006818"; gene_name "csn12";
+NW_026643130.1	RefSeq	exon	2117731	2117803	.	+	.	transcript_id "rna-XM_057129195.1"; gene_id "gene-N7511_006818"; gene_name "csn12";
+NW_026643130.1	RefSeq	exon	2117858	2118010	.	+	.	transcript_id "rna-XM_057129195.1"; gene_id "gene-N7511_006818"; gene_name "csn12";
+NW_026643130.1	RefSeq	exon	2118062	2118123	.	+	.	transcript_id "rna-XM_057129195.1"; gene_id "gene-N7511_006818"; gene_name "csn12";
+NW_026643130.1	RefSeq	exon	2118171	2118591	.	+	.	transcript_id "rna-XM_057129195.1"; gene_id "gene-N7511_006818"; gene_name "csn12";
+NW_026643130.1	RefSeq	exon	2118643	2118726	.	+	.	transcript_id "rna-XM_057129195.1"; gene_id "gene-N7511_006818"; gene_name "csn12";
+NW_026643130.1	RefSeq	CDS	2117116	2117684	.	+	0	transcript_id "rna-XM_057129195.1"; gene_id "gene-N7511_006818"; gene_name "csn12";
+NW_026643130.1	RefSeq	CDS	2117731	2117803	.	+	1	transcript_id "rna-XM_057129195.1"; gene_id "gene-N7511_006818"; gene_name "csn12";
+NW_026643130.1	RefSeq	CDS	2117858	2118010	.	+	0	transcript_id "rna-XM_057129195.1"; gene_id "gene-N7511_006818"; gene_name "csn12";
+NW_026643130.1	RefSeq	CDS	2118062	2118123	.	+	0	transcript_id "rna-XM_057129195.1"; gene_id "gene-N7511_006818"; gene_name "csn12";
+NW_026643130.1	RefSeq	CDS	2118171	2118591	.	+	1	transcript_id "rna-XM_057129195.1"; gene_id "gene-N7511_006818"; gene_name "csn12";
+NW_026643130.1	RefSeq	CDS	2118643	2118726	.	+	0	transcript_id "rna-XM_057129195.1"; gene_id "gene-N7511_006818"; gene_name "csn12";
+NW_026643130.1	RefSeq	transcript	2377758	2378457	.	-	.	transcript_id "rna-XM_057129293.1"; gene_id "gene-N7511_006916"
+NW_026643130.1	RefSeq	exon	2377758	2377929	.	-	.	transcript_id "rna-XM_057129293.1"; gene_id "gene-N7511_006916";
+NW_026643130.1	RefSeq	exon	2377985	2378216	.	-	.	transcript_id "rna-XM_057129293.1"; gene_id "gene-N7511_006916";
+NW_026643130.1	RefSeq	exon	2378289	2378457	.	-	.	transcript_id "rna-XM_057129293.1"; gene_id "gene-N7511_006916";
+NW_026643130.1	RefSeq	CDS	2377758	2377929	.	-	1	transcript_id "rna-XM_057129293.1"; gene_id "gene-N7511_006916";
+NW_026643130.1	RefSeq	CDS	2377985	2378216	.	-	2	transcript_id "rna-XM_057129293.1"; gene_id "gene-N7511_006916";
+NW_026643130.1	RefSeq	CDS	2378289	2378457	.	-	0	transcript_id "rna-XM_057129293.1"; gene_id "gene-N7511_006916";
+NW_026643130.1	RefSeq	transcript	2452689	2454055	.	-	.	transcript_id "rna-XM_057129319.1"; gene_id "gene-N7511_006942"
+NW_026643130.1	RefSeq	exon	2452689	2453538	.	-	.	transcript_id "rna-XM_057129319.1"; gene_id "gene-N7511_006942";
+NW_026643130.1	RefSeq	exon	2453591	2453718	.	-	.	transcript_id "rna-XM_057129319.1"; gene_id "gene-N7511_006942";
+NW_026643130.1	RefSeq	exon	2453803	2453903	.	-	.	transcript_id "rna-XM_057129319.1"; gene_id "gene-N7511_006942";
+NW_026643130.1	RefSeq	exon	2453956	2454055	.	-	.	transcript_id "rna-XM_057129319.1"; gene_id "gene-N7511_006942";
+NW_026643130.1	RefSeq	CDS	2452689	2453538	.	-	1	transcript_id "rna-XM_057129319.1"; gene_id "gene-N7511_006942";
+NW_026643130.1	RefSeq	CDS	2453591	2453718	.	-	0	transcript_id "rna-XM_057129319.1"; gene_id "gene-N7511_006942";
+NW_026643130.1	RefSeq	CDS	2453803	2453903	.	-	2	transcript_id "rna-XM_057129319.1"; gene_id "gene-N7511_006942";
+NW_026643130.1	RefSeq	CDS	2453956	2454055	.	-	0	transcript_id "rna-XM_057129319.1"; gene_id "gene-N7511_006942";
+NW_026643130.1	RefSeq	transcript	2534089	2535148	.	-	.	transcript_id "rna-XM_057129354.1"; gene_id "gene-N7511_006977"
+NW_026643130.1	RefSeq	exon	2534089	2535029	.	-	.	transcript_id "rna-XM_057129354.1"; gene_id "gene-N7511_006977";
+NW_026643130.1	RefSeq	exon	2535082	2535148	.	-	.	transcript_id "rna-XM_057129354.1"; gene_id "gene-N7511_006977";
+NW_026643130.1	RefSeq	CDS	2534089	2535029	.	-	2	transcript_id "rna-XM_057129354.1"; gene_id "gene-N7511_006977";
+NW_026643130.1	RefSeq	CDS	2535082	2535148	.	-	0	transcript_id "rna-XM_057129354.1"; gene_id "gene-N7511_006977";
+NW_026643131.1	RefSeq	transcript	392369	393756	.	-	.	transcript_id "rna-XM_057129585.1"; gene_id "gene-N7511_007208"
+NW_026643131.1	RefSeq	exon	392369	392800	.	-	.	transcript_id "rna-XM_057129585.1"; gene_id "gene-N7511_007208";
+NW_026643131.1	RefSeq	exon	392850	393044	.	-	.	transcript_id "rna-XM_057129585.1"; gene_id "gene-N7511_007208";
+NW_026643131.1	RefSeq	exon	393102	393641	.	-	.	transcript_id "rna-XM_057129585.1"; gene_id "gene-N7511_007208";
+NW_026643131.1	RefSeq	exon	393694	393756	.	-	.	transcript_id "rna-XM_057129585.1"; gene_id "gene-N7511_007208";
+NW_026643131.1	RefSeq	CDS	392369	392800	.	-	0	transcript_id "rna-XM_057129585.1"; gene_id "gene-N7511_007208";
+NW_026643131.1	RefSeq	CDS	392850	393044	.	-	0	transcript_id "rna-XM_057129585.1"; gene_id "gene-N7511_007208";
+NW_026643131.1	RefSeq	CDS	393102	393641	.	-	0	transcript_id "rna-XM_057129585.1"; gene_id "gene-N7511_007208";
+NW_026643131.1	RefSeq	CDS	393694	393756	.	-	0	transcript_id "rna-XM_057129585.1"; gene_id "gene-N7511_007208";
+NW_026643131.1	RefSeq	transcript	416072	418818	.	+	.	transcript_id "rna-XM_057129598.1"; gene_id "gene-N7511_007221"
+NW_026643131.1	RefSeq	exon	416072	416557	.	+	.	transcript_id "rna-XM_057129598.1"; gene_id "gene-N7511_007221";
+NW_026643131.1	RefSeq	exon	416609	417076	.	+	.	transcript_id "rna-XM_057129598.1"; gene_id "gene-N7511_007221";
+NW_026643131.1	RefSeq	exon	417128	417159	.	+	.	transcript_id "rna-XM_057129598.1"; gene_id "gene-N7511_007221";
+NW_026643131.1	RefSeq	exon	417212	417369	.	+	.	transcript_id "rna-XM_057129598.1"; gene_id "gene-N7511_007221";
+NW_026643131.1	RefSeq	exon	417435	417639	.	+	.	transcript_id "rna-XM_057129598.1"; gene_id "gene-N7511_007221";
+NW_026643131.1	RefSeq	exon	417687	417696	.	+	.	transcript_id "rna-XM_057129598.1"; gene_id "gene-N7511_007221";
+NW_026643131.1	RefSeq	exon	418073	418270	.	+	.	transcript_id "rna-XM_057129598.1"; gene_id "gene-N7511_007221";
+NW_026643131.1	RefSeq	exon	418407	418555	.	+	.	transcript_id "rna-XM_057129598.1"; gene_id "gene-N7511_007221";
+NW_026643131.1	RefSeq	exon	418617	418818	.	+	.	transcript_id "rna-XM_057129598.1"; gene_id "gene-N7511_007221";
+NW_026643131.1	RefSeq	CDS	416072	416557	.	+	0	transcript_id "rna-XM_057129598.1"; gene_id "gene-N7511_007221";
+NW_026643131.1	RefSeq	CDS	416609	417076	.	+	0	transcript_id "rna-XM_057129598.1"; gene_id "gene-N7511_007221";
+NW_026643131.1	RefSeq	CDS	417128	417159	.	+	0	transcript_id "rna-XM_057129598.1"; gene_id "gene-N7511_007221";
+NW_026643131.1	RefSeq	CDS	417212	417369	.	+	1	transcript_id "rna-XM_057129598.1"; gene_id "gene-N7511_007221";
+NW_026643131.1	RefSeq	CDS	417435	417639	.	+	2	transcript_id "rna-XM_057129598.1"; gene_id "gene-N7511_007221";
+NW_026643131.1	RefSeq	CDS	417687	417696	.	+	1	transcript_id "rna-XM_057129598.1"; gene_id "gene-N7511_007221";
+NW_026643131.1	RefSeq	CDS	418073	418270	.	+	0	transcript_id "rna-XM_057129598.1"; gene_id "gene-N7511_007221";
+NW_026643131.1	RefSeq	CDS	418407	418555	.	+	0	transcript_id "rna-XM_057129598.1"; gene_id "gene-N7511_007221";
+NW_026643131.1	RefSeq	CDS	418617	418818	.	+	1	transcript_id "rna-XM_057129598.1"; gene_id "gene-N7511_007221";
+NW_026643131.1	RefSeq	transcript	577712	579264	.	-	.	transcript_id "rna-XM_057129652.1"; gene_id "gene-N7511_007275"
+NW_026643131.1	RefSeq	exon	577712	577965	.	-	.	transcript_id "rna-XM_057129652.1"; gene_id "gene-N7511_007275";
+NW_026643131.1	RefSeq	exon	578021	578114	.	-	.	transcript_id "rna-XM_057129652.1"; gene_id "gene-N7511_007275";
+NW_026643131.1	RefSeq	exon	578172	578368	.	-	.	transcript_id "rna-XM_057129652.1"; gene_id "gene-N7511_007275";
+NW_026643131.1	RefSeq	exon	578421	579121	.	-	.	transcript_id "rna-XM_057129652.1"; gene_id "gene-N7511_007275";
+NW_026643131.1	RefSeq	exon	579185	579264	.	-	.	transcript_id "rna-XM_057129652.1"; gene_id "gene-N7511_007275";
+NW_026643131.1	RefSeq	CDS	577712	577965	.	-	2	transcript_id "rna-XM_057129652.1"; gene_id "gene-N7511_007275";
+NW_026643131.1	RefSeq	CDS	578021	578114	.	-	0	transcript_id "rna-XM_057129652.1"; gene_id "gene-N7511_007275";
+NW_026643131.1	RefSeq	CDS	578172	578368	.	-	2	transcript_id "rna-XM_057129652.1"; gene_id "gene-N7511_007275";
+NW_026643131.1	RefSeq	CDS	578421	579121	.	-	1	transcript_id "rna-XM_057129652.1"; gene_id "gene-N7511_007275";
+NW_026643131.1	RefSeq	CDS	579185	579264	.	-	0	transcript_id "rna-XM_057129652.1"; gene_id "gene-N7511_007275";
+NW_026643131.1	RefSeq	transcript	759929	762109	.	+	.	transcript_id "rna-XM_057129718.1"; gene_id "gene-N7511_007341"
+NW_026643131.1	RefSeq	exon	759929	759952	.	+	.	transcript_id "rna-XM_057129718.1"; gene_id "gene-N7511_007341";
+NW_026643131.1	RefSeq	exon	760000	760054	.	+	.	transcript_id "rna-XM_057129718.1"; gene_id "gene-N7511_007341";
+NW_026643131.1	RefSeq	exon	760107	760342	.	+	.	transcript_id "rna-XM_057129718.1"; gene_id "gene-N7511_007341";
+NW_026643131.1	RefSeq	exon	760394	760500	.	+	.	transcript_id "rna-XM_057129718.1"; gene_id "gene-N7511_007341";
+NW_026643131.1	RefSeq	exon	760547	760781	.	+	.	transcript_id "rna-XM_057129718.1"; gene_id "gene-N7511_007341";
+NW_026643131.1	RefSeq	exon	760829	760922	.	+	.	transcript_id "rna-XM_057129718.1"; gene_id "gene-N7511_007341";
+NW_026643131.1	RefSeq	exon	760970	761484	.	+	.	transcript_id "rna-XM_057129718.1"; gene_id "gene-N7511_007341";
+NW_026643131.1	RefSeq	exon	761534	761818	.	+	.	transcript_id "rna-XM_057129718.1"; gene_id "gene-N7511_007341";
+NW_026643131.1	RefSeq	exon	761863	761980	.	+	.	transcript_id "rna-XM_057129718.1"; gene_id "gene-N7511_007341";
+NW_026643131.1	RefSeq	exon	762027	762109	.	+	.	transcript_id "rna-XM_057129718.1"; gene_id "gene-N7511_007341";
+NW_026643131.1	RefSeq	CDS	759929	759952	.	+	0	transcript_id "rna-XM_057129718.1"; gene_id "gene-N7511_007341";
+NW_026643131.1	RefSeq	CDS	760000	760054	.	+	0	transcript_id "rna-XM_057129718.1"; gene_id "gene-N7511_007341";
+NW_026643131.1	RefSeq	CDS	760107	760342	.	+	2	transcript_id "rna-XM_057129718.1"; gene_id "gene-N7511_007341";
+NW_026643131.1	RefSeq	CDS	760394	760500	.	+	0	transcript_id "rna-XM_057129718.1"; gene_id "gene-N7511_007341";
+NW_026643131.1	RefSeq	CDS	760547	760781	.	+	1	transcript_id "rna-XM_057129718.1"; gene_id "gene-N7511_007341";
+NW_026643131.1	RefSeq	CDS	760829	760922	.	+	0	transcript_id "rna-XM_057129718.1"; gene_id "gene-N7511_007341";
+NW_026643131.1	RefSeq	CDS	760970	761484	.	+	2	transcript_id "rna-XM_057129718.1"; gene_id "gene-N7511_007341";
+NW_026643131.1	RefSeq	CDS	761534	761818	.	+	0	transcript_id "rna-XM_057129718.1"; gene_id "gene-N7511_007341";
+NW_026643131.1	RefSeq	CDS	761863	761980	.	+	0	transcript_id "rna-XM_057129718.1"; gene_id "gene-N7511_007341";
+NW_026643131.1	RefSeq	CDS	762027	762109	.	+	2	transcript_id "rna-XM_057129718.1"; gene_id "gene-N7511_007341";
+NW_026643132.1	RefSeq	transcript	201359	202727	.	+	.	transcript_id "rna-XM_057129936.1"; gene_id "gene-N7511_007559"; gene_name "dph1"
+NW_026643132.1	RefSeq	exon	201359	201521	.	+	.	transcript_id "rna-XM_057129936.1"; gene_id "gene-N7511_007559"; gene_name "dph1";
+NW_026643132.1	RefSeq	exon	201580	202727	.	+	.	transcript_id "rna-XM_057129936.1"; gene_id "gene-N7511_007559"; gene_name "dph1";
+NW_026643132.1	RefSeq	CDS	201359	201521	.	+	0	transcript_id "rna-XM_057129936.1"; gene_id "gene-N7511_007559"; gene_name "dph1";
+NW_026643132.1	RefSeq	CDS	201580	202727	.	+	2	transcript_id "rna-XM_057129936.1"; gene_id "gene-N7511_007559"; gene_name "dph1";
+NW_026643132.1	RefSeq	transcript	234708	237922	.	+	.	transcript_id "rna-XM_057129949.1"; gene_id "gene-N7511_007572"
+NW_026643132.1	RefSeq	exon	234708	234748	.	+	.	transcript_id "rna-XM_057129949.1"; gene_id "gene-N7511_007572";
+NW_026643132.1	RefSeq	exon	234802	234913	.	+	.	transcript_id "rna-XM_057129949.1"; gene_id "gene-N7511_007572";
+NW_026643132.1	RefSeq	exon	235002	236198	.	+	.	transcript_id "rna-XM_057129949.1"; gene_id "gene-N7511_007572";
+NW_026643132.1	RefSeq	exon	236314	236424	.	+	.	transcript_id "rna-XM_057129949.1"; gene_id "gene-N7511_007572";
+NW_026643132.1	RefSeq	exon	237017	237177	.	+	.	transcript_id "rna-XM_057129949.1"; gene_id "gene-N7511_007572";
+NW_026643132.1	RefSeq	exon	237239	237308	.	+	.	transcript_id "rna-XM_057129949.1"; gene_id "gene-N7511_007572";
+NW_026643132.1	RefSeq	exon	237383	237824	.	+	.	transcript_id "rna-XM_057129949.1"; gene_id "gene-N7511_007572";
+NW_026643132.1	RefSeq	exon	237876	237922	.	+	.	transcript_id "rna-XM_057129949.1"; gene_id "gene-N7511_007572";
+NW_026643132.1	RefSeq	CDS	234708	234748	.	+	0	transcript_id "rna-XM_057129949.1"; gene_id "gene-N7511_007572";
+NW_026643132.1	RefSeq	CDS	234802	234913	.	+	1	transcript_id "rna-XM_057129949.1"; gene_id "gene-N7511_007572";
+NW_026643132.1	RefSeq	CDS	235002	236198	.	+	0	transcript_id "rna-XM_057129949.1"; gene_id "gene-N7511_007572";
+NW_026643132.1	RefSeq	CDS	236314	236424	.	+	0	transcript_id "rna-XM_057129949.1"; gene_id "gene-N7511_007572";
+NW_026643132.1	RefSeq	CDS	237017	237177	.	+	0	transcript_id "rna-XM_057129949.1"; gene_id "gene-N7511_007572";
+NW_026643132.1	RefSeq	CDS	237239	237308	.	+	1	transcript_id "rna-XM_057129949.1"; gene_id "gene-N7511_007572";
+NW_026643132.1	RefSeq	CDS	237383	237824	.	+	0	transcript_id "rna-XM_057129949.1"; gene_id "gene-N7511_007572";
+NW_026643132.1	RefSeq	CDS	237876	237922	.	+	2	transcript_id "rna-XM_057129949.1"; gene_id "gene-N7511_007572";
+NW_026643132.1	RefSeq	transcript	309457	311138	.	+	.	transcript_id "rna-XM_057129978.1"; gene_id "gene-N7511_007601"; gene_name "hat1"
+NW_026643132.1	RefSeq	exon	309457	309475	.	+	.	transcript_id "rna-XM_057129978.1"; gene_id "gene-N7511_007601"; gene_name "hat1";
+NW_026643132.1	RefSeq	exon	309533	309808	.	+	.	transcript_id "rna-XM_057129978.1"; gene_id "gene-N7511_007601"; gene_name "hat1";
+NW_026643132.1	RefSeq	exon	309864	310128	.	+	.	transcript_id "rna-XM_057129978.1"; gene_id "gene-N7511_007601"; gene_name "hat1";
+NW_026643132.1	RefSeq	exon	310181	311138	.	+	.	transcript_id "rna-XM_057129978.1"; gene_id "gene-N7511_007601"; gene_name "hat1";
+NW_026643132.1	RefSeq	CDS	309457	309475	.	+	0	transcript_id "rna-XM_057129978.1"; gene_id "gene-N7511_007601"; gene_name "hat1";
+NW_026643132.1	RefSeq	CDS	309533	309808	.	+	2	transcript_id "rna-XM_057129978.1"; gene_id "gene-N7511_007601"; gene_name "hat1";
+NW_026643132.1	RefSeq	CDS	309864	310128	.	+	2	transcript_id "rna-XM_057129978.1"; gene_id "gene-N7511_007601"; gene_name "hat1";
+NW_026643132.1	RefSeq	CDS	310181	311138	.	+	1	transcript_id "rna-XM_057129978.1"; gene_id "gene-N7511_007601"; gene_name "hat1";
+NW_026643132.1	RefSeq	transcript	584937	586288	.	+	.	transcript_id "rna-XM_057130085.1"; gene_id "gene-N7511_007708"
+NW_026643132.1	RefSeq	exon	584937	584996	.	+	.	transcript_id "rna-XM_057130085.1"; gene_id "gene-N7511_007708";
+NW_026643132.1	RefSeq	exon	585056	586288	.	+	.	transcript_id "rna-XM_057130085.1"; gene_id "gene-N7511_007708";
+NW_026643132.1	RefSeq	CDS	584937	584996	.	+	0	transcript_id "rna-XM_057130085.1"; gene_id "gene-N7511_007708";
+NW_026643132.1	RefSeq	CDS	585056	586288	.	+	0	transcript_id "rna-XM_057130085.1"; gene_id "gene-N7511_007708";
+NW_026643132.1	RefSeq	transcript	767920	769425	.	-	.	transcript_id "rna-XM_057130148.1"; gene_id "gene-N7511_007771"
+NW_026643132.1	RefSeq	exon	767920	768900	.	-	.	transcript_id "rna-XM_057130148.1"; gene_id "gene-N7511_007771";
+NW_026643132.1	RefSeq	exon	768950	769130	.	-	.	transcript_id "rna-XM_057130148.1"; gene_id "gene-N7511_007771";
+NW_026643132.1	RefSeq	exon	769187	769425	.	-	.	transcript_id "rna-XM_057130148.1"; gene_id "gene-N7511_007771";
+NW_026643132.1	RefSeq	CDS	767920	768900	.	-	0	transcript_id "rna-XM_057130148.1"; gene_id "gene-N7511_007771";
+NW_026643132.1	RefSeq	CDS	768950	769130	.	-	1	transcript_id "rna-XM_057130148.1"; gene_id "gene-N7511_007771";
+NW_026643132.1	RefSeq	CDS	769187	769425	.	-	0	transcript_id "rna-XM_057130148.1"; gene_id "gene-N7511_007771";
+NW_026643132.1	RefSeq	transcript	1066951	1068002	.	-	.	transcript_id "rna-XM_057130269.1"; gene_id "gene-N7511_007892"; gene_name "med6"
+NW_026643132.1	RefSeq	exon	1066951	1067858	.	-	.	transcript_id "rna-XM_057130269.1"; gene_id "gene-N7511_007892"; gene_name "med6";
+NW_026643132.1	RefSeq	exon	1067912	1068002	.	-	.	transcript_id "rna-XM_057130269.1"; gene_id "gene-N7511_007892"; gene_name "med6";
+NW_026643132.1	RefSeq	CDS	1066951	1067858	.	-	2	transcript_id "rna-XM_057130269.1"; gene_id "gene-N7511_007892"; gene_name "med6";
+NW_026643132.1	RefSeq	CDS	1067912	1068002	.	-	0	transcript_id "rna-XM_057130269.1"; gene_id "gene-N7511_007892"; gene_name "med6";
+NW_026643132.1	RefSeq	transcript	1249869	1251115	.	-	.	transcript_id "rna-XM_057130339.1"; gene_id "gene-N7511_007962"
+NW_026643132.1	RefSeq	exon	1249869	1250443	.	-	.	transcript_id "rna-XM_057130339.1"; gene_id "gene-N7511_007962";
+NW_026643132.1	RefSeq	exon	1250497	1250649	.	-	.	transcript_id "rna-XM_057130339.1"; gene_id "gene-N7511_007962";
+NW_026643132.1	RefSeq	exon	1250746	1251002	.	-	.	transcript_id "rna-XM_057130339.1"; gene_id "gene-N7511_007962";
+NW_026643132.1	RefSeq	exon	1251072	1251115	.	-	.	transcript_id "rna-XM_057130339.1"; gene_id "gene-N7511_007962";
+NW_026643132.1	RefSeq	CDS	1249869	1250443	.	-	2	transcript_id "rna-XM_057130339.1"; gene_id "gene-N7511_007962";
+NW_026643132.1	RefSeq	CDS	1250497	1250649	.	-	2	transcript_id "rna-XM_057130339.1"; gene_id "gene-N7511_007962";
+NW_026643132.1	RefSeq	CDS	1250746	1251002	.	-	1	transcript_id "rna-XM_057130339.1"; gene_id "gene-N7511_007962";
+NW_026643132.1	RefSeq	CDS	1251072	1251115	.	-	0	transcript_id "rna-XM_057130339.1"; gene_id "gene-N7511_007962";
+NW_026643132.1	RefSeq	transcript	1269541	1272357	.	+	.	transcript_id "rna-XM_057130348.1"; gene_id "gene-N7511_007971"
+NW_026643132.1	RefSeq	exon	1269541	1269601	.	+	.	transcript_id "rna-XM_057130348.1"; gene_id "gene-N7511_007971";
+NW_026643132.1	RefSeq	exon	1269663	1269757	.	+	.	transcript_id "rna-XM_057130348.1"; gene_id "gene-N7511_007971";
+NW_026643132.1	RefSeq	exon	1269851	1269957	.	+	.	transcript_id "rna-XM_057130348.1"; gene_id "gene-N7511_007971";
+NW_026643132.1	RefSeq	exon	1270012	1270279	.	+	.	transcript_id "rna-XM_057130348.1"; gene_id "gene-N7511_007971";
+NW_026643132.1	RefSeq	exon	1270332	1271224	.	+	.	transcript_id "rna-XM_057130348.1"; gene_id "gene-N7511_007971";
+NW_026643132.1	RefSeq	exon	1271274	1271455	.	+	.	transcript_id "rna-XM_057130348.1"; gene_id "gene-N7511_007971";
+NW_026643132.1	RefSeq	exon	1271507	1272357	.	+	.	transcript_id "rna-XM_057130348.1"; gene_id "gene-N7511_007971";
+NW_026643132.1	RefSeq	CDS	1269541	1269601	.	+	0	transcript_id "rna-XM_057130348.1"; gene_id "gene-N7511_007971";
+NW_026643132.1	RefSeq	CDS	1269663	1269757	.	+	2	transcript_id "rna-XM_057130348.1"; gene_id "gene-N7511_007971";
+NW_026643132.1	RefSeq	CDS	1269851	1269957	.	+	0	transcript_id "rna-XM_057130348.1"; gene_id "gene-N7511_007971";
+NW_026643132.1	RefSeq	CDS	1270012	1270279	.	+	1	transcript_id "rna-XM_057130348.1"; gene_id "gene-N7511_007971";
+NW_026643132.1	RefSeq	CDS	1270332	1271224	.	+	0	transcript_id "rna-XM_057130348.1"; gene_id "gene-N7511_007971";
+NW_026643132.1	RefSeq	CDS	1271274	1271455	.	+	1	transcript_id "rna-XM_057130348.1"; gene_id "gene-N7511_007971";
+NW_026643132.1	RefSeq	CDS	1271507	1272357	.	+	2	transcript_id "rna-XM_057130348.1"; gene_id "gene-N7511_007971";
+NW_026643132.1	RefSeq	transcript	1285988	1286687	.	-	.	transcript_id "rna-XM_057130355.1"; gene_id "gene-N7511_007978"
+NW_026643132.1	RefSeq	exon	1285988	1286107	.	-	.	transcript_id "rna-XM_057130355.1"; gene_id "gene-N7511_007978";
+NW_026643132.1	RefSeq	exon	1286159	1286239	.	-	.	transcript_id "rna-XM_057130355.1"; gene_id "gene-N7511_007978";
+NW_026643132.1	RefSeq	exon	1286289	1286687	.	-	.	transcript_id "rna-XM_057130355.1"; gene_id "gene-N7511_007978";
+NW_026643132.1	RefSeq	CDS	1285988	1286107	.	-	0	transcript_id "rna-XM_057130355.1"; gene_id "gene-N7511_007978";
+NW_026643132.1	RefSeq	CDS	1286159	1286239	.	-	0	transcript_id "rna-XM_057130355.1"; gene_id "gene-N7511_007978";
+NW_026643132.1	RefSeq	CDS	1286289	1286687	.	-	0	transcript_id "rna-XM_057130355.1"; gene_id "gene-N7511_007978";
+NW_026643132.1	RefSeq	transcript	1416097	1416975	.	+	.	transcript_id "rna-XM_057130403.1"; gene_id "gene-N7511_008026"; gene_name "sld5"
+NW_026643132.1	RefSeq	exon	1416097	1416975	.	+	.	transcript_id "rna-XM_057130403.1"; gene_id "gene-N7511_008026"; gene_name "sld5";
+NW_026643132.1	RefSeq	CDS	1416097	1416975	.	+	0	transcript_id "rna-XM_057130403.1"; gene_id "gene-N7511_008026"; gene_name "sld5";
+NW_026643132.1	RefSeq	transcript	1673486	1674271	.	-	.	transcript_id "rna-XM_057130495.1"; gene_id "gene-N7511_008118"
+NW_026643132.1	RefSeq	exon	1673486	1674062	.	-	.	transcript_id "rna-XM_057130495.1"; gene_id "gene-N7511_008118";
+NW_026643132.1	RefSeq	exon	1674117	1674271	.	-	.	transcript_id "rna-XM_057130495.1"; gene_id "gene-N7511_008118";
+NW_026643132.1	RefSeq	CDS	1673486	1674062	.	-	1	transcript_id "rna-XM_057130495.1"; gene_id "gene-N7511_008118";
+NW_026643132.1	RefSeq	CDS	1674117	1674271	.	-	0	transcript_id "rna-XM_057130495.1"; gene_id "gene-N7511_008118";
+NW_026643132.1	RefSeq	transcript	1796912	1799905	.	-	.	transcript_id "rna-XM_057130552.1"; gene_id "gene-N7511_008175"
+NW_026643132.1	RefSeq	exon	1796912	1799516	.	-	.	transcript_id "rna-XM_057130552.1"; gene_id "gene-N7511_008175";
+NW_026643132.1	RefSeq	exon	1799580	1799831	.	-	.	transcript_id "rna-XM_057130552.1"; gene_id "gene-N7511_008175";
+NW_026643132.1	RefSeq	exon	1799889	1799905	.	-	.	transcript_id "rna-XM_057130552.1"; gene_id "gene-N7511_008175";
+NW_026643132.1	RefSeq	CDS	1796912	1799516	.	-	1	transcript_id "rna-XM_057130552.1"; gene_id "gene-N7511_008175";
+NW_026643132.1	RefSeq	CDS	1799580	1799831	.	-	1	transcript_id "rna-XM_057130552.1"; gene_id "gene-N7511_008175";
+NW_026643132.1	RefSeq	CDS	1799889	1799905	.	-	0	transcript_id "rna-XM_057130552.1"; gene_id "gene-N7511_008175";
+NW_026643132.1	RefSeq	transcript	1810595	1812258	.	+	.	transcript_id "rna-XM_057130558.1"; gene_id "gene-N7511_008181"
+NW_026643132.1	RefSeq	exon	1810595	1810836	.	+	.	transcript_id "rna-XM_057130558.1"; gene_id "gene-N7511_008181";
+NW_026643132.1	RefSeq	exon	1810899	1812258	.	+	.	transcript_id "rna-XM_057130558.1"; gene_id "gene-N7511_008181";
+NW_026643132.1	RefSeq	CDS	1810595	1810836	.	+	0	transcript_id "rna-XM_057130558.1"; gene_id "gene-N7511_008181";
+NW_026643132.1	RefSeq	CDS	1810899	1812258	.	+	1	transcript_id "rna-XM_057130558.1"; gene_id "gene-N7511_008181";
+NW_026643132.1	RefSeq	transcript	1826408	1828495	.	+	.	transcript_id "rna-XM_057130565.1"; gene_id "gene-N7511_008188"
+NW_026643132.1	RefSeq	exon	1826408	1828495	.	+	.	transcript_id "rna-XM_057130565.1"; gene_id "gene-N7511_008188";
+NW_026643132.1	RefSeq	CDS	1826408	1828495	.	+	0	transcript_id "rna-XM_057130565.1"; gene_id "gene-N7511_008188";
+NW_026643132.1	RefSeq	transcript	1925668	1927318	.	-	.	transcript_id "rna-XM_057130602.1"; gene_id "gene-N7511_008225"
+NW_026643132.1	RefSeq	exon	1925668	1925911	.	-	.	transcript_id "rna-XM_057130602.1"; gene_id "gene-N7511_008225";
+NW_026643132.1	RefSeq	exon	1925960	1927035	.	-	.	transcript_id "rna-XM_057130602.1"; gene_id "gene-N7511_008225";
+NW_026643132.1	RefSeq	exon	1927094	1927318	.	-	.	transcript_id "rna-XM_057130602.1"; gene_id "gene-N7511_008225";
+NW_026643132.1	RefSeq	CDS	1925668	1925911	.	-	1	transcript_id "rna-XM_057130602.1"; gene_id "gene-N7511_008225";
+NW_026643132.1	RefSeq	CDS	1925960	1927035	.	-	0	transcript_id "rna-XM_057130602.1"; gene_id "gene-N7511_008225";
+NW_026643132.1	RefSeq	CDS	1927094	1927318	.	-	0	transcript_id "rna-XM_057130602.1"; gene_id "gene-N7511_008225";
+NW_026643134.1	RefSeq	transcript	99791	100938	.	+	.	transcript_id "rna-XM_057130940.1"; gene_id "gene-N7511_008563"
+NW_026643134.1	RefSeq	exon	99791	100692	.	+	.	transcript_id "rna-XM_057130940.1"; gene_id "gene-N7511_008563";
+NW_026643134.1	RefSeq	exon	100746	100938	.	+	.	transcript_id "rna-XM_057130940.1"; gene_id "gene-N7511_008563";
+NW_026643134.1	RefSeq	CDS	99791	100692	.	+	0	transcript_id "rna-XM_057130940.1"; gene_id "gene-N7511_008563";
+NW_026643134.1	RefSeq	CDS	100746	100938	.	+	1	transcript_id "rna-XM_057130940.1"; gene_id "gene-N7511_008563";
+NW_026643134.1	RefSeq	transcript	110421	112874	.	-	.	transcript_id "rna-XM_057130946.1"; gene_id "gene-N7511_008569"
+NW_026643134.1	RefSeq	exon	110421	112874	.	-	.	transcript_id "rna-XM_057130946.1"; gene_id "gene-N7511_008569";
+NW_026643134.1	RefSeq	CDS	110421	112874	.	-	0	transcript_id "rna-XM_057130946.1"; gene_id "gene-N7511_008569";
+NW_026643134.1	RefSeq	transcript	180290	182750	.	-	.	transcript_id "rna-XM_057130970.1"; gene_id "gene-N7511_008593"
+NW_026643134.1	RefSeq	exon	180290	182174	.	-	.	transcript_id "rna-XM_057130970.1"; gene_id "gene-N7511_008593";
+NW_026643134.1	RefSeq	exon	182225	182512	.	-	.	transcript_id "rna-XM_057130970.1"; gene_id "gene-N7511_008593";
+NW_026643134.1	RefSeq	exon	182585	182620	.	-	.	transcript_id "rna-XM_057130970.1"; gene_id "gene-N7511_008593";
+NW_026643134.1	RefSeq	exon	182704	182750	.	-	.	transcript_id "rna-XM_057130970.1"; gene_id "gene-N7511_008593";
+NW_026643134.1	RefSeq	CDS	180290	182174	.	-	1	transcript_id "rna-XM_057130970.1"; gene_id "gene-N7511_008593";
+NW_026643134.1	RefSeq	CDS	182225	182512	.	-	1	transcript_id "rna-XM_057130970.1"; gene_id "gene-N7511_008593";
+NW_026643134.1	RefSeq	CDS	182585	182620	.	-	1	transcript_id "rna-XM_057130970.1"; gene_id "gene-N7511_008593";
+NW_026643134.1	RefSeq	CDS	182704	182750	.	-	0	transcript_id "rna-XM_057130970.1"; gene_id "gene-N7511_008593";
+NW_026643134.1	RefSeq	transcript	710461	711851	.	-	.	transcript_id "rna-XM_057131178.1"; gene_id "gene-N7511_008801"
+NW_026643134.1	RefSeq	exon	710461	711293	.	-	.	transcript_id "rna-XM_057131178.1"; gene_id "gene-N7511_008801";
+NW_026643134.1	RefSeq	exon	711374	711851	.	-	.	transcript_id "rna-XM_057131178.1"; gene_id "gene-N7511_008801";
+NW_026643134.1	RefSeq	CDS	710461	711293	.	-	2	transcript_id "rna-XM_057131178.1"; gene_id "gene-N7511_008801";
+NW_026643134.1	RefSeq	CDS	711374	711851	.	-	0	transcript_id "rna-XM_057131178.1"; gene_id "gene-N7511_008801";
+NW_026643134.1	RefSeq	transcript	1029509	1030964	.	+	.	transcript_id "rna-XM_057131309.1"; gene_id "gene-N7511_008932"
+NW_026643134.1	RefSeq	exon	1029509	1029749	.	+	.	transcript_id "rna-XM_057131309.1"; gene_id "gene-N7511_008932";
+NW_026643134.1	RefSeq	exon	1029856	1030964	.	+	.	transcript_id "rna-XM_057131309.1"; gene_id "gene-N7511_008932";
+NW_026643134.1	RefSeq	CDS	1029509	1029749	.	+	0	transcript_id "rna-XM_057131309.1"; gene_id "gene-N7511_008932";
+NW_026643134.1	RefSeq	CDS	1029856	1030964	.	+	2	transcript_id "rna-XM_057131309.1"; gene_id "gene-N7511_008932";
+NW_026643134.1	RefSeq	transcript	1126842	1127708	.	+	.	transcript_id "rna-XM_057131346.1"; gene_id "gene-N7511_008969"
+NW_026643134.1	RefSeq	exon	1126842	1126853	.	+	.	transcript_id "rna-XM_057131346.1"; gene_id "gene-N7511_008969";
+NW_026643134.1	RefSeq	exon	1126898	1126996	.	+	.	transcript_id "rna-XM_057131346.1"; gene_id "gene-N7511_008969";
+NW_026643134.1	RefSeq	exon	1127049	1127145	.	+	.	transcript_id "rna-XM_057131346.1"; gene_id "gene-N7511_008969";
+NW_026643134.1	RefSeq	exon	1127191	1127277	.	+	.	transcript_id "rna-XM_057131346.1"; gene_id "gene-N7511_008969";
+NW_026643134.1	RefSeq	exon	1127326	1127389	.	+	.	transcript_id "rna-XM_057131346.1"; gene_id "gene-N7511_008969";
+NW_026643134.1	RefSeq	exon	1127439	1127616	.	+	.	transcript_id "rna-XM_057131346.1"; gene_id "gene-N7511_008969";
+NW_026643134.1	RefSeq	exon	1127664	1127708	.	+	.	transcript_id "rna-XM_057131346.1"; gene_id "gene-N7511_008969";
+NW_026643134.1	RefSeq	CDS	1126842	1126853	.	+	0	transcript_id "rna-XM_057131346.1"; gene_id "gene-N7511_008969";
+NW_026643134.1	RefSeq	CDS	1126898	1126996	.	+	0	transcript_id "rna-XM_057131346.1"; gene_id "gene-N7511_008969";
+NW_026643134.1	RefSeq	CDS	1127049	1127145	.	+	0	transcript_id "rna-XM_057131346.1"; gene_id "gene-N7511_008969";
+NW_026643134.1	RefSeq	CDS	1127191	1127277	.	+	2	transcript_id "rna-XM_057131346.1"; gene_id "gene-N7511_008969";
+NW_026643134.1	RefSeq	CDS	1127326	1127389	.	+	2	transcript_id "rna-XM_057131346.1"; gene_id "gene-N7511_008969";
+NW_026643134.1	RefSeq	CDS	1127439	1127616	.	+	1	transcript_id "rna-XM_057131346.1"; gene_id "gene-N7511_008969";
+NW_026643134.1	RefSeq	CDS	1127664	1127708	.	+	0	transcript_id "rna-XM_057131346.1"; gene_id "gene-N7511_008969";
+NW_026643134.1	RefSeq	transcript	1143401	1145656	.	+	.	transcript_id "rna-XM_057131353.1"; gene_id "gene-N7511_008976"; gene_name "dbp7"
+NW_026643134.1	RefSeq	exon	1143401	1145656	.	+	.	transcript_id "rna-XM_057131353.1"; gene_id "gene-N7511_008976"; gene_name "dbp7";
+NW_026643134.1	RefSeq	CDS	1143401	1145656	.	+	0	transcript_id "rna-XM_057131353.1"; gene_id "gene-N7511_008976"; gene_name "dbp7";
+NW_026643134.1	RefSeq	transcript	1317824	1318932	.	-	.	transcript_id "rna-XM_057131433.1"; gene_id "gene-N7511_009056"
+NW_026643134.1	RefSeq	exon	1317824	1318832	.	-	.	transcript_id "rna-XM_057131433.1"; gene_id "gene-N7511_009056";
+NW_026643134.1	RefSeq	exon	1318883	1318932	.	-	.	transcript_id "rna-XM_057131433.1"; gene_id "gene-N7511_009056";
+NW_026643134.1	RefSeq	CDS	1317824	1318832	.	-	1	transcript_id "rna-XM_057131433.1"; gene_id "gene-N7511_009056";
+NW_026643134.1	RefSeq	CDS	1318883	1318932	.	-	0	transcript_id "rna-XM_057131433.1"; gene_id "gene-N7511_009056";
+NW_026643134.1	RefSeq	transcript	1625501	1626612	.	+	.	transcript_id "rna-XM_057131551.1"; gene_id "gene-N7511_009174"
+NW_026643134.1	RefSeq	exon	1625501	1626260	.	+	.	transcript_id "rna-XM_057131551.1"; gene_id "gene-N7511_009174";
+NW_026643134.1	RefSeq	exon	1626323	1626612	.	+	.	transcript_id "rna-XM_057131551.1"; gene_id "gene-N7511_009174";
+NW_026643134.1	RefSeq	CDS	1625501	1626260	.	+	0	transcript_id "rna-XM_057131551.1"; gene_id "gene-N7511_009174";
+NW_026643134.1	RefSeq	CDS	1626323	1626612	.	+	2	transcript_id "rna-XM_057131551.1"; gene_id "gene-N7511_009174";
+NW_026643134.1	RefSeq	transcript	1832445	1834003	.	+	.	transcript_id "rna-XM_057131618.1"; gene_id "gene-N7511_009241"
+NW_026643134.1	RefSeq	exon	1832445	1832747	.	+	.	transcript_id "rna-XM_057131618.1"; gene_id "gene-N7511_009241";
+NW_026643134.1	RefSeq	exon	1832882	1834003	.	+	.	transcript_id "rna-XM_057131618.1"; gene_id "gene-N7511_009241";
+NW_026643134.1	RefSeq	CDS	1832445	1832747	.	+	0	transcript_id "rna-XM_057131618.1"; gene_id "gene-N7511_009241";
+NW_026643134.1	RefSeq	CDS	1832882	1834003	.	+	0	transcript_id "rna-XM_057131618.1"; gene_id "gene-N7511_009241";
+NW_026643134.1	RefSeq	transcript	1919800	1921200	.	+	.	transcript_id "rna-XM_057131651.1"; gene_id "gene-N7511_009274"
+NW_026643134.1	RefSeq	exon	1919800	1919893	.	+	.	transcript_id "rna-XM_057131651.1"; gene_id "gene-N7511_009274";
+NW_026643134.1	RefSeq	exon	1919988	1920027	.	+	.	transcript_id "rna-XM_057131651.1"; gene_id "gene-N7511_009274";
+NW_026643134.1	RefSeq	exon	1920074	1920120	.	+	.	transcript_id "rna-XM_057131651.1"; gene_id "gene-N7511_009274";
+NW_026643134.1	RefSeq	exon	1920210	1920271	.	+	.	transcript_id "rna-XM_057131651.1"; gene_id "gene-N7511_009274";
+NW_026643134.1	RefSeq	exon	1920325	1921200	.	+	.	transcript_id "rna-XM_057131651.1"; gene_id "gene-N7511_009274";
+NW_026643134.1	RefSeq	CDS	1919800	1919893	.	+	0	transcript_id "rna-XM_057131651.1"; gene_id "gene-N7511_009274";
+NW_026643134.1	RefSeq	CDS	1919988	1920027	.	+	2	transcript_id "rna-XM_057131651.1"; gene_id "gene-N7511_009274";
+NW_026643134.1	RefSeq	CDS	1920074	1920120	.	+	1	transcript_id "rna-XM_057131651.1"; gene_id "gene-N7511_009274";
+NW_026643134.1	RefSeq	CDS	1920210	1920271	.	+	2	transcript_id "rna-XM_057131651.1"; gene_id "gene-N7511_009274";
+NW_026643134.1	RefSeq	CDS	1920325	1921200	.	+	0	transcript_id "rna-XM_057131651.1"; gene_id "gene-N7511_009274";
+NW_026643134.1	RefSeq	transcript	2208154	2209676	.	-	.	transcript_id "rna-XM_057131760.1"; gene_id "gene-N7511_009383"
+NW_026643134.1	RefSeq	exon	2208154	2208708	.	-	.	transcript_id "rna-XM_057131760.1"; gene_id "gene-N7511_009383";
+NW_026643134.1	RefSeq	exon	2208762	2209676	.	-	.	transcript_id "rna-XM_057131760.1"; gene_id "gene-N7511_009383";
+NW_026643134.1	RefSeq	CDS	2208154	2208708	.	-	0	transcript_id "rna-XM_057131760.1"; gene_id "gene-N7511_009383";
+NW_026643134.1	RefSeq	CDS	2208762	2209676	.	-	0	transcript_id "rna-XM_057131760.1"; gene_id "gene-N7511_009383";
+NW_026643134.1	RefSeq	transcript	2224322	2227344	.	-	.	transcript_id "rna-XM_057131767.1"; gene_id "gene-N7511_009390"
+NW_026643134.1	RefSeq	exon	2224322	2227029	.	-	.	transcript_id "rna-XM_057131767.1"; gene_id "gene-N7511_009390";
+NW_026643134.1	RefSeq	exon	2227080	2227107	.	-	.	transcript_id "rna-XM_057131767.1"; gene_id "gene-N7511_009390";
+NW_026643134.1	RefSeq	exon	2227171	2227344	.	-	.	transcript_id "rna-XM_057131767.1"; gene_id "gene-N7511_009390";
+NW_026643134.1	RefSeq	CDS	2224322	2227029	.	-	2	transcript_id "rna-XM_057131767.1"; gene_id "gene-N7511_009390";
+NW_026643134.1	RefSeq	CDS	2227080	2227107	.	-	0	transcript_id "rna-XM_057131767.1"; gene_id "gene-N7511_009390";
+NW_026643134.1	RefSeq	CDS	2227171	2227344	.	-	0	transcript_id "rna-XM_057131767.1"; gene_id "gene-N7511_009390";
+NW_026643134.1	RefSeq	transcript	2234300	2236141	.	+	.	transcript_id "rna-XM_057131771.1"; gene_id "gene-N7511_009394"
+NW_026643134.1	RefSeq	exon	2234300	2236141	.	+	.	transcript_id "rna-XM_057131771.1"; gene_id "gene-N7511_009394";
+NW_026643134.1	RefSeq	CDS	2234300	2236141	.	+	0	transcript_id "rna-XM_057131771.1"; gene_id "gene-N7511_009394";
+NW_026643134.1	RefSeq	transcript	2260059	2261889	.	+	.	transcript_id "rna-XM_057131781.1"; gene_id "gene-N7511_009404"
+NW_026643134.1	RefSeq	exon	2260059	2260155	.	+	.	transcript_id "rna-XM_057131781.1"; gene_id "gene-N7511_009404";
+NW_026643134.1	RefSeq	exon	2260213	2260330	.	+	.	transcript_id "rna-XM_057131781.1"; gene_id "gene-N7511_009404";
+NW_026643134.1	RefSeq	exon	2260392	2261889	.	+	.	transcript_id "rna-XM_057131781.1"; gene_id "gene-N7511_009404";
+NW_026643134.1	RefSeq	CDS	2260059	2260155	.	+	0	transcript_id "rna-XM_057131781.1"; gene_id "gene-N7511_009404";
+NW_026643134.1	RefSeq	CDS	2260213	2260330	.	+	2	transcript_id "rna-XM_057131781.1"; gene_id "gene-N7511_009404";
+NW_026643134.1	RefSeq	CDS	2260392	2261889	.	+	1	transcript_id "rna-XM_057131781.1"; gene_id "gene-N7511_009404";
+NW_026643134.1	RefSeq	transcript	2808009	2809892	.	+	.	transcript_id "rna-XM_057131988.1"; gene_id "gene-N7511_009611"
+NW_026643134.1	RefSeq	exon	2808009	2808049	.	+	.	transcript_id "rna-XM_057131988.1"; gene_id "gene-N7511_009611";
+NW_026643134.1	RefSeq	exon	2808135	2808324	.	+	.	transcript_id "rna-XM_057131988.1"; gene_id "gene-N7511_009611";
+NW_026643134.1	RefSeq	exon	2808390	2808521	.	+	.	transcript_id "rna-XM_057131988.1"; gene_id "gene-N7511_009611";
+NW_026643134.1	RefSeq	exon	2808579	2809542	.	+	.	transcript_id "rna-XM_057131988.1"; gene_id "gene-N7511_009611";
+NW_026643134.1	RefSeq	exon	2809597	2809892	.	+	.	transcript_id "rna-XM_057131988.1"; gene_id "gene-N7511_009611";
+NW_026643134.1	RefSeq	CDS	2808009	2808049	.	+	0	transcript_id "rna-XM_057131988.1"; gene_id "gene-N7511_009611";
+NW_026643134.1	RefSeq	CDS	2808135	2808324	.	+	1	transcript_id "rna-XM_057131988.1"; gene_id "gene-N7511_009611";
+NW_026643134.1	RefSeq	CDS	2808390	2808521	.	+	0	transcript_id "rna-XM_057131988.1"; gene_id "gene-N7511_009611";
+NW_026643134.1	RefSeq	CDS	2808579	2809542	.	+	0	transcript_id "rna-XM_057131988.1"; gene_id "gene-N7511_009611";
+NW_026643134.1	RefSeq	CDS	2809597	2809892	.	+	2	transcript_id "rna-XM_057131988.1"; gene_id "gene-N7511_009611";
+NW_026643134.1	RefSeq	transcript	3127342	3128239	.	+	.	transcript_id "rna-XM_057132116.1"; gene_id "gene-N7511_009739"
+NW_026643134.1	RefSeq	exon	3127342	3127364	.	+	.	transcript_id "rna-XM_057132116.1"; gene_id "gene-N7511_009739";
+NW_026643134.1	RefSeq	exon	3127423	3128239	.	+	.	transcript_id "rna-XM_057132116.1"; gene_id "gene-N7511_009739";
+NW_026643134.1	RefSeq	CDS	3127342	3127364	.	+	0	transcript_id "rna-XM_057132116.1"; gene_id "gene-N7511_009739";
+NW_026643134.1	RefSeq	CDS	3127423	3128239	.	+	1	transcript_id "rna-XM_057132116.1"; gene_id "gene-N7511_009739";
+NW_026643134.1	RefSeq	transcript	3423952	3425893	.	-	.	transcript_id "rna-XM_057132230.1"; gene_id "gene-N7511_009853"; gene_name "agm1"
+NW_026643134.1	RefSeq	exon	3423952	3424812	.	-	.	transcript_id "rna-XM_057132230.1"; gene_id "gene-N7511_009853"; gene_name "agm1";
+NW_026643134.1	RefSeq	exon	3424868	3425359	.	-	.	transcript_id "rna-XM_057132230.1"; gene_id "gene-N7511_009853"; gene_name "agm1";
+NW_026643134.1	RefSeq	exon	3425409	3425423	.	-	.	transcript_id "rna-XM_057132230.1"; gene_id "gene-N7511_009853"; gene_name "agm1";
+NW_026643134.1	RefSeq	exon	3425480	3425624	.	-	.	transcript_id "rna-XM_057132230.1"; gene_id "gene-N7511_009853"; gene_name "agm1";
+NW_026643134.1	RefSeq	exon	3425722	3425735	.	-	.	transcript_id "rna-XM_057132230.1"; gene_id "gene-N7511_009853"; gene_name "agm1";
+NW_026643134.1	RefSeq	exon	3425801	3425893	.	-	.	transcript_id "rna-XM_057132230.1"; gene_id "gene-N7511_009853"; gene_name "agm1";
+NW_026643134.1	RefSeq	CDS	3423952	3424812	.	-	0	transcript_id "rna-XM_057132230.1"; gene_id "gene-N7511_009853"; gene_name "agm1";
+NW_026643134.1	RefSeq	CDS	3424868	3425359	.	-	0	transcript_id "rna-XM_057132230.1"; gene_id "gene-N7511_009853"; gene_name "agm1";
+NW_026643134.1	RefSeq	CDS	3425409	3425423	.	-	0	transcript_id "rna-XM_057132230.1"; gene_id "gene-N7511_009853"; gene_name "agm1";
+NW_026643134.1	RefSeq	CDS	3425480	3425624	.	-	1	transcript_id "rna-XM_057132230.1"; gene_id "gene-N7511_009853"; gene_name "agm1";
+NW_026643134.1	RefSeq	CDS	3425722	3425735	.	-	0	transcript_id "rna-XM_057132230.1"; gene_id "gene-N7511_009853"; gene_name "agm1";
+NW_026643134.1	RefSeq	CDS	3425801	3425893	.	-	0	transcript_id "rna-XM_057132230.1"; gene_id "gene-N7511_009853"; gene_name "agm1";
+NW_026643134.1	RefSeq	transcript	3510753	3511989	.	-	.	transcript_id "rna-XM_057132268.1"; gene_id "gene-N7511_009891"
+NW_026643134.1	RefSeq	exon	3510753	3511492	.	-	.	transcript_id "rna-XM_057132268.1"; gene_id "gene-N7511_009891";
+NW_026643134.1	RefSeq	exon	3511553	3511689	.	-	.	transcript_id "rna-XM_057132268.1"; gene_id "gene-N7511_009891";
+NW_026643134.1	RefSeq	exon	3511748	3511989	.	-	.	transcript_id "rna-XM_057132268.1"; gene_id "gene-N7511_009891";
+NW_026643134.1	RefSeq	CDS	3510753	3511492	.	-	2	transcript_id "rna-XM_057132268.1"; gene_id "gene-N7511_009891";
+NW_026643134.1	RefSeq	CDS	3511553	3511689	.	-	1	transcript_id "rna-XM_057132268.1"; gene_id "gene-N7511_009891";
+NW_026643134.1	RefSeq	CDS	3511748	3511989	.	-	0	transcript_id "rna-XM_057132268.1"; gene_id "gene-N7511_009891";
+NW_026643134.1	RefSeq	transcript	3926138	3928386	.	-	.	transcript_id "rna-XM_057132437.1"; gene_id "gene-N7511_010060"
+NW_026643134.1	RefSeq	exon	3926138	3926301	.	-	.	transcript_id "rna-XM_057132437.1"; gene_id "gene-N7511_010060";
+NW_026643134.1	RefSeq	exon	3926360	3927168	.	-	.	transcript_id "rna-XM_057132437.1"; gene_id "gene-N7511_010060";
+NW_026643134.1	RefSeq	exon	3927220	3927461	.	-	.	transcript_id "rna-XM_057132437.1"; gene_id "gene-N7511_010060";
+NW_026643134.1	RefSeq	exon	3927518	3927784	.	-	.	transcript_id "rna-XM_057132437.1"; gene_id "gene-N7511_010060";
+NW_026643134.1	RefSeq	exon	3927822	3927969	.	-	.	transcript_id "rna-XM_057132437.1"; gene_id "gene-N7511_010060";
+NW_026643134.1	RefSeq	exon	3928026	3928102	.	-	.	transcript_id "rna-XM_057132437.1"; gene_id "gene-N7511_010060";
+NW_026643134.1	RefSeq	exon	3928159	3928178	.	-	.	transcript_id "rna-XM_057132437.1"; gene_id "gene-N7511_010060";
+NW_026643134.1	RefSeq	exon	3928231	3928271	.	-	.	transcript_id "rna-XM_057132437.1"; gene_id "gene-N7511_010060";
+NW_026643134.1	RefSeq	exon	3928334	3928386	.	-	.	transcript_id "rna-XM_057132437.1"; gene_id "gene-N7511_010060";
+NW_026643134.1	RefSeq	CDS	3926138	3926301	.	-	2	transcript_id "rna-XM_057132437.1"; gene_id "gene-N7511_010060";
+NW_026643134.1	RefSeq	CDS	3926360	3927168	.	-	1	transcript_id "rna-XM_057132437.1"; gene_id "gene-N7511_010060";
+NW_026643134.1	RefSeq	CDS	3927220	3927461	.	-	0	transcript_id "rna-XM_057132437.1"; gene_id "gene-N7511_010060";
+NW_026643134.1	RefSeq	CDS	3927518	3927784	.	-	0	transcript_id "rna-XM_057132437.1"; gene_id "gene-N7511_010060";
+NW_026643134.1	RefSeq	CDS	3927822	3927969	.	-	1	transcript_id "rna-XM_057132437.1"; gene_id "gene-N7511_010060";
+NW_026643134.1	RefSeq	CDS	3928026	3928102	.	-	0	transcript_id "rna-XM_057132437.1"; gene_id "gene-N7511_010060";
+NW_026643134.1	RefSeq	CDS	3928159	3928178	.	-	2	transcript_id "rna-XM_057132437.1"; gene_id "gene-N7511_010060";
+NW_026643134.1	RefSeq	CDS	3928231	3928271	.	-	1	transcript_id "rna-XM_057132437.1"; gene_id "gene-N7511_010060";
+NW_026643134.1	RefSeq	CDS	3928334	3928386	.	-	0	transcript_id "rna-XM_057132437.1"; gene_id "gene-N7511_010060";
+NW_026643134.1	RefSeq	transcript	4514727	4516058	.	+	.	transcript_id "rna-XM_057132654.1"; gene_id "gene-N7511_010277"
+NW_026643134.1	RefSeq	exon	4514727	4514804	.	+	.	transcript_id "rna-XM_057132654.1"; gene_id "gene-N7511_010277";
+NW_026643134.1	RefSeq	exon	4514865	4515356	.	+	.	transcript_id "rna-XM_057132654.1"; gene_id "gene-N7511_010277";
+NW_026643134.1	RefSeq	exon	4515417	4516058	.	+	.	transcript_id "rna-XM_057132654.1"; gene_id "gene-N7511_010277";
+NW_026643134.1	RefSeq	CDS	4514727	4514804	.	+	0	transcript_id "rna-XM_057132654.1"; gene_id "gene-N7511_010277";
+NW_026643134.1	RefSeq	CDS	4514865	4515356	.	+	0	transcript_id "rna-XM_057132654.1"; gene_id "gene-N7511_010277";
+NW_026643134.1	RefSeq	CDS	4515417	4516058	.	+	0	transcript_id "rna-XM_057132654.1"; gene_id "gene-N7511_010277";
+NW_026643134.1	RefSeq	transcript	5231049	5231867	.	-	.	transcript_id "rna-XM_057132925.1"; gene_id "gene-N7511_010548"
+NW_026643134.1	RefSeq	exon	5231049	5231867	.	-	.	transcript_id "rna-XM_057132925.1"; gene_id "gene-N7511_010548";
+NW_026643134.1	RefSeq	CDS	5231049	5231867	.	-	0	transcript_id "rna-XM_057132925.1"; gene_id "gene-N7511_010548";
+NW_026643134.1	RefSeq	transcript	5377881	5379320	.	+	.	transcript_id "rna-XM_057132984.1"; gene_id "gene-N7511_010607"
+NW_026643134.1	RefSeq	exon	5377881	5379320	.	+	.	transcript_id "rna-XM_057132984.1"; gene_id "gene-N7511_010607";
+NW_026643134.1	RefSeq	CDS	5377881	5379320	.	+	0	transcript_id "rna-XM_057132984.1"; gene_id "gene-N7511_010607";
+NW_026643134.1	RefSeq	transcript	5489648	5491661	.	-	.	transcript_id "rna-XM_057133026.1"; gene_id "gene-N7511_010649"
+NW_026643134.1	RefSeq	exon	5489648	5489747	.	-	.	transcript_id "rna-XM_057133026.1"; gene_id "gene-N7511_010649";
+NW_026643134.1	RefSeq	exon	5489799	5491317	.	-	.	transcript_id "rna-XM_057133026.1"; gene_id "gene-N7511_010649";
+NW_026643134.1	RefSeq	exon	5491373	5491661	.	-	.	transcript_id "rna-XM_057133026.1"; gene_id "gene-N7511_010649";
+NW_026643134.1	RefSeq	CDS	5489648	5489747	.	-	1	transcript_id "rna-XM_057133026.1"; gene_id "gene-N7511_010649";
+NW_026643134.1	RefSeq	CDS	5489799	5491317	.	-	2	transcript_id "rna-XM_057133026.1"; gene_id "gene-N7511_010649";
+NW_026643134.1	RefSeq	CDS	5491373	5491661	.	-	0	transcript_id "rna-XM_057133026.1"; gene_id "gene-N7511_010649";
+NW_026643134.1	RefSeq	transcript	5733484	5736009	.	-	.	transcript_id "rna-XM_057133115.1"; gene_id "gene-N7511_010738"
+NW_026643134.1	RefSeq	exon	5733484	5734266	.	-	.	transcript_id "rna-XM_057133115.1"; gene_id "gene-N7511_010738";
+NW_026643134.1	RefSeq	exon	5734326	5735342	.	-	.	transcript_id "rna-XM_057133115.1"; gene_id "gene-N7511_010738";
+NW_026643134.1	RefSeq	exon	5735391	5735730	.	-	.	transcript_id "rna-XM_057133115.1"; gene_id "gene-N7511_010738";
+NW_026643134.1	RefSeq	exon	5735786	5736009	.	-	.	transcript_id "rna-XM_057133115.1"; gene_id "gene-N7511_010738";
+NW_026643134.1	RefSeq	CDS	5733484	5734266	.	-	0	transcript_id "rna-XM_057133115.1"; gene_id "gene-N7511_010738";
+NW_026643134.1	RefSeq	CDS	5734326	5735342	.	-	0	transcript_id "rna-XM_057133115.1"; gene_id "gene-N7511_010738";
+NW_026643134.1	RefSeq	CDS	5735391	5735730	.	-	1	transcript_id "rna-XM_057133115.1"; gene_id "gene-N7511_010738";
+NW_026643134.1	RefSeq	CDS	5735786	5736009	.	-	0	transcript_id "rna-XM_057133115.1"; gene_id "gene-N7511_010738";
+NW_026643134.1	RefSeq	transcript	6293511	6295556	.	-	.	transcript_id "rna-XM_057133328.1"; gene_id "gene-N7511_010951"; gene_name "spb4"
+NW_026643134.1	RefSeq	exon	6293511	6294259	.	-	.	transcript_id "rna-XM_057133328.1"; gene_id "gene-N7511_010951"; gene_name "spb4";
+NW_026643134.1	RefSeq	exon	6294301	6294629	.	-	.	transcript_id "rna-XM_057133328.1"; gene_id "gene-N7511_010951"; gene_name "spb4";
+NW_026643134.1	RefSeq	exon	6294681	6295187	.	-	.	transcript_id "rna-XM_057133328.1"; gene_id "gene-N7511_010951"; gene_name "spb4";
+NW_026643134.1	RefSeq	exon	6295240	6295556	.	-	.	transcript_id "rna-XM_057133328.1"; gene_id "gene-N7511_010951"; gene_name "spb4";
+NW_026643134.1	RefSeq	CDS	6293511	6294259	.	-	2	transcript_id "rna-XM_057133328.1"; gene_id "gene-N7511_010951"; gene_name "spb4";
+NW_026643134.1	RefSeq	CDS	6294301	6294629	.	-	1	transcript_id "rna-XM_057133328.1"; gene_id "gene-N7511_010951"; gene_name "spb4";
+NW_026643134.1	RefSeq	CDS	6294681	6295187	.	-	1	transcript_id "rna-XM_057133328.1"; gene_id "gene-N7511_010951"; gene_name "spb4";
+NW_026643134.1	RefSeq	CDS	6295240	6295556	.	-	0	transcript_id "rna-XM_057133328.1"; gene_id "gene-N7511_010951"; gene_name "spb4";
+NW_026643134.1	RefSeq	transcript	6466596	6469529	.	+	.	transcript_id "rna-XM_057133399.1"; gene_id "gene-N7511_011022"
+NW_026643134.1	RefSeq	exon	6466596	6466600	.	+	.	transcript_id "rna-XM_057133399.1"; gene_id "gene-N7511_011022";
+NW_026643134.1	RefSeq	exon	6466657	6466769	.	+	.	transcript_id "rna-XM_057133399.1"; gene_id "gene-N7511_011022";
+NW_026643134.1	RefSeq	exon	6466848	6469156	.	+	.	transcript_id "rna-XM_057133399.1"; gene_id "gene-N7511_011022";
+NW_026643134.1	RefSeq	exon	6469210	6469379	.	+	.	transcript_id "rna-XM_057133399.1"; gene_id "gene-N7511_011022";
+NW_026643134.1	RefSeq	exon	6469433	6469529	.	+	.	transcript_id "rna-XM_057133399.1"; gene_id "gene-N7511_011022";
+NW_026643134.1	RefSeq	CDS	6466596	6466600	.	+	0	transcript_id "rna-XM_057133399.1"; gene_id "gene-N7511_011022";
+NW_026643134.1	RefSeq	CDS	6466657	6466769	.	+	1	transcript_id "rna-XM_057133399.1"; gene_id "gene-N7511_011022";
+NW_026643134.1	RefSeq	CDS	6466848	6469156	.	+	2	transcript_id "rna-XM_057133399.1"; gene_id "gene-N7511_011022";
+NW_026643134.1	RefSeq	CDS	6469210	6469379	.	+	0	transcript_id "rna-XM_057133399.1"; gene_id "gene-N7511_011022";
+NW_026643134.1	RefSeq	CDS	6469433	6469529	.	+	1	transcript_id "rna-XM_057133399.1"; gene_id "gene-N7511_011022";

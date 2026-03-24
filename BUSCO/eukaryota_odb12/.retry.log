@@ -460,3 +460,212 @@ f628158077010762f66c13935b5630a3	2026-03-13 15:36:03	unexpected_error: [Errno 13
 5df3c34f32248d0e416f60b41c83c764	2026-03-22 19:13:25	run_selenoprofiles_timeout_after_10800s
 5973b8bced26bc153216a512cfe95c50	2026-03-22 13:01:20	FASTA index file /tmp/tmp.cpLWz39E4F/input.fna.fai created.
 816e311535ccee0bf25f1b82ce78fea2	2026-03-22 13:43:22	FASTA index file /tmp/tmp.ZFERnGs6ow/input.fna.fai created.
+90224125eef79eaed8c7557728bee1f3	2026-03-23 12:52:36	run_selenoprofiles_timeout_after_7200s
+9d3354194ff02af636a9aa2a0b7d9188	2026-03-23 13:01:43	FASTA index file /tmp/tmp.2a1Wnd4kgP/input.fna.fai created. Warning: couldn't find fasta record for 'NC_011710.1'! Error: no genomic sequence available (check -g option!).
+a12d2266f99397cbed9c6c378b91adb8	2026-03-23 15:04:15	run_selenoprofiles_timeout_after_7200s
+84954d65ca718ed93b1ce58de81e72e0	2026-03-23 19:48:23	FASTA index file /tmp/tmp.GXrN8lViBD/input.fna.fai created.
+9629bcde2591c3cc1389b235769a1213	2026-03-23 16:17:48	run_selenoprofiles_timeout_after_7200s
+a741770ce98df6359999fc4ba0f2de56	2026-03-23 18:27:21	run_selenoprofiles_timeout_after_7200s
+9a7437d893954d24340cddb4e17e76a3	2026-03-23 16:24:03	run_selenoprofiles_timeout_after_7200s
+a2d7f44ccdf56cc88841804e41f448a6	2026-03-23 16:26:36	FASTA index file /tmp/tmp.L2YaUwd9mW/input.fna.fai created.
+84b7e0b5a2dc1f5885dd52c464c3102a	2026-03-23 12:53:06	"FASTA index file /tmp/tmp.TiFEJmqAtw/input.fna.fai created. malloc(): invalid size (unsorted) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64:  2645 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+8db742cd3aba74421fb3d27edceca0ec	2026-03-23 13:05:41	"invalid escape sequence '\|' invalid escape sequence '\|' invalid escape sequence '\|' invalid escape sequence '\w' invalid escape sequence '\w' invalid escape sequence '\|' invalid escape sequence '\|' invalid escape sequence '\|' invalid escape sequence '\|' invalid escape sequence '\|' invalid escape sequence '\w' invalid escape sequence '\w' invalid escape sequence '\|' invalid escape sequence '\|' Profile TXNRD : profile_data not found or detected change in alignment file! Recomputing profile_data... Traceback (most recent call last):   File ""/opt/conda/bin/selenoprofiles"", line 7, in <module>     sys.exit(main())              ^^^^^^   File ""/opt/conda/lib/python3.12/site-packages/selenoprofiles4/selenoprofiles4.py"", line 1958, in main     psitblastn(   File ""/opt/conda/lib/python3.12/site-packages/selenoprofiles4/selenoprofiles4.py"", line 3213, in psitblastn     bbash(   File ""/opt/conda/lib/python3.12/site-packages/selenoprofiles4/MMlib3.py"", line 108, in bbash     if bb[0]!=0 and not dont_die:     raise Exception('COMMAND: ' + command+' ERROR: ""'+bb[1]+' ""')                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ Exception: COMMAND: /blast-2.2.26/bin/blastall -p psitblastn  -d /input/genome.fa -R /tmp/cf2fb61e46ad2489c82c3a1cc75c85b8/SEPHS2.2.pssm.chk -i /tmp/cf2fb61e46ad2489c82c3a1cc75c85b8/SEPHS2.2.blast_query -I  -a 1 -b 5000 -F F > /tmp/cf2fb61e46ad2489c82c3a1cc75c85b8/psitblastn_out ERROR: ""[blastall] WARNING: Stored query has a X at position 24, while new query has a U there X appears in the stored query: The stored query may be filtered.  Run blastpgp with ""-F F"" option to turn the filter off. Segmentation fault (core dumped) """
+91fbe21fd759bae7297f2a03e2de8784	2026-03-23 14:45:49	FASTA index file /tmp/tmp.8SlpoynhvK/input.fna.fai created.
+84c6945a6332eb9297b4d7b85ac4eb8f	2026-03-23 18:16:07	HTTP 404 downloading https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/918/358/695/GCA_918358695.1_ilMelMeno1.1/GCA_918358695.1_ilMelMeno1.1_genomic.fna.gz: Not Found
+abba307eb098ae635eb3b04b509e7185	2026-03-23 19:28:01	FASTA index file /tmp/tmp.eQkLnqvi8C/input.fna.fai created.
+921a71f897cc38365326ca6c1196bdac	2026-03-23 19:31:43	run_selenoprofiles_timeout_after_7200s
+8dd3356d1796ed3e31666649ee223203	2026-03-23 17:20:32	run_selenoprofiles_timeout_after_7200s
+8bbe81a039230fe18fb8f70c38cbc93e	2026-03-23 11:14:18	FASTA index file /tmp/tmp.xMlWCAcWWW/input.fna.fai created. GffObj::getSpliced() error: improper genomic coordinate 207763 on NC_086732.1 for rna-HJF84_mgp36
+98b7c24e7215691d60c56ca4ed667460	2026-03-23 12:05:09	FASTA index file /tmp/tmp.PsirpNj6AR/input.fna.fai created.
+a57babe530626edb9178cfc9a880fb74	2026-03-23 12:24:03	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Eupithecia_centaureata/GCA_944548335.1/braker/geneset/2022_09/genes.gff3.gz: [Errno 111] Connection refused
+a9d8560540500229076cd6c74199b24f	2026-03-23 14:25:45	run_selenoprofiles_timeout_after_7200s
+a798ae116fd687d3d6cd7257cd6d9445	2026-03-23 16:00:38	FASTA index file /tmp/tmp.yCe4GBvMn0/input.fna.fai created.
+84fd093eeb1ad120b1acecafb3adf10c	2026-03-23 12:16:04	FASTA index file /tmp/tmp.xLMoOAd8tb/input.fna.fai created.
+96b451eed87adbee404521c914c3f3f7	2026-03-23 19:39:08	FASTA index file /tmp/tmp.XdWGWYYJTY/input.fna.fai created.
+8799d24f22f2bcfd4a97fdea7b8ad702	2026-03-23 09:42:15	FASTA index file /tmp/tmp.VDBzmtRlKq/input.fna.fai created. GffObj::getSpliced() error: improper genomic coordinate 227609 on NC_009143.1 for rna-Poptr_cp071
+9ad93cd4ea070fa5724542c3bf36f7e9	2026-03-23 12:51:24	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Bombylius_major/GCA_932526495.1/ensembl/geneset/2022_07/genes.gff3.gz: [Errno 111] Connection refused
+926b3614a4ccec77c0b6dcd66d130726	2026-03-23 16:00:17	FASTA index file /tmp/tmp.c21aUJCqXc/input.fna.fai created.
+a3533b9de0cf32de42ab41e6a15bdf18	2026-03-23 14:37:06	"FASTA index file /tmp/tmp.NeofDh36pB/input.fna.fai created. malloc(): corrupted top size /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 62982 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+9281addd35b2c5af927e52d0a68771b5	2026-03-23 16:48:30	FASTA index file /tmp/tmp.83rla7StsM/input.fna.fai created.
+5e3dcb28619b5e447edfb2a9570d097c	2026-03-23 11:40:38	run_selenoprofiles_timeout_after_7200s
+879b7f831c52e44eac32ab64bb39ac31	2026-03-23 11:40:41	FASTA index file /tmp/tmp.B8yZo6dsOa/input.fna.fai created.
+9f393d52b485e7f69bf017a043278ce4	2026-03-23 20:32:58	FASTA index file /tmp/tmp.R9f65pXXUj/input.fna.fai created. Warning: couldn't find fasta record for 'KB291798'! Error: no genomic sequence available (check -g option!).
+89cc1a513d4396d4ea34057450b4c28f	2026-03-23 23:20:25	run_selenoprofiles_timeout_after_7200s
+9f396a55f7dd5143a8fe4026d3e98653	2026-03-24 00:25:34	FASTA index file /tmp/tmp.r9jXfEjIiJ/input.fna.fai created.
+a7f61e604d4622aa60c613754e820157	2026-03-24 00:27:55	FASTA index file /tmp/tmp.ByqiXx9dWJ/input.fna.fai created.
+9b2634596f309b115441e9b59dd0f9c7	2026-03-23 22:07:48	run_selenoprofiles_timeout_after_7200s
+89d060ecdcc3af8a991f3a4528a8b7d8	2026-03-23 16:52:42	"FASTA index file /tmp/tmp.V15aRvhHCT/input.fna.fai created. double free or corruption (!prev) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64:  7066 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+a37a93b4a414b247fe40792d3f2d4376	2026-03-23 20:23:58	run_selenoprofiles_timeout_after_7200s
+5eee7d75c4b24aabd0531e6ec0058ece	2026-03-23 11:42:25	run_selenoprofiles_timeout_after_7200s
+89fddbad979122dba0628146dfd541a5	2026-03-23 21:07:43	"FASTA index file /tmp/tmp.we2kPyLm5e/input.fna.fai created. /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 11599 Segmentation fault      (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+8586632523fc202e1664905e2f9a1bd2	2026-03-23 15:32:11	FASTA index file /tmp/tmp.CWNoMcrQAN/input.fna.fai created.
+92b75d9da8453495c25a131258e5ed2f	2026-03-23 17:58:32	FASTA index file /tmp/tmp.ZYO6Q1jIXJ/input.fna.fai created. Warning: couldn't find fasta record for 'CABIKO010000001.1'! Error: no genomic sequence available (check -g option!).
+96fc1d75c94e053895d75ad9679213d9	2026-03-23 17:58:38	"FASTA index file /tmp/tmp.WfGKGTz7y7/input.fna.fai created. malloc(): invalid size (unsorted) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 26551 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+9b51e2b82642bae0146438d85188ea79	2026-03-23 17:58:41	FASTA index file /tmp/tmp.NcgkQIMMXF/input.fna.fai created.
+9f7a224d5f3e90978f0bc20976e2bdb9	2026-03-23 16:55:51	"FASTA index file /tmp/tmp.RapNbMcWiq/input.fna.fai created. malloc(): invalid size (unsorted) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 72290 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+8e99e3ab494273801d320920f1908d72	2026-03-23 15:49:32	FASTA index file /tmp/tmp.SFRACrgmUu/input.fna.fai created.
+ac5672f40e8aa1e3b08b7b229f63f2d7	2026-03-23 18:43:26	FASTA index file /tmp/tmp.mTKbcRGkSE/input.fna.fai created.
+a8471f143591f1ba9647df64d7861a13	2026-03-23 21:02:53	FASTA index file /tmp/tmp.wRBG4zkOuU/input.fna.fai created.
+9717265fb2920560149d57270ff662c2	2026-03-23 21:43:49	FASTA index file /tmp/tmp.RKuqoLMmWF/input.fna.fai created. Warning: couldn't find fasta record for 'NKQK01000001.1'! Error: no genomic sequence available (check -g option!).
+98be61766bbf4975cf0d48000b648b32	2026-03-23 10:35:16	FASTA index file /tmp/tmp.HeLhuiSCYz/input.fna.fai created.
+8a232d47400a79fec27d9264a03b7ff6	2026-03-23 18:40:54	FASTA index file /tmp/tmp.qJvgHp69he/input.fna.fai created.
+ac67176f05c5ef0976b753cb0fde0daa	2026-03-23 19:15:20	FASTA index file /tmp/tmp.pRznCkB7nw/input.fna.fai created. Warning: CDS 6193566-6193568 too short for transcript:ENSMOCT00000008013, check your data. Warning: couldn't find fasta record for 'NC_027945.1'! Error: no genomic sequence available (check -g option!).
+9fa6d054833189f86e5c3063751bbbba	2026-03-23 19:20:19	FASTA index file /tmp/tmp.l1FCl4nrGG/input.fna.fai created.
+92eb8936e73034042cebc27a8e9a7828	2026-03-23 16:58:41	FASTA index file /tmp/tmp.2LczfdyX9L/input.fna.fai created. Warning: couldn't find fasta record for 'AJ011856.1'! Error: no genomic sequence available (check -g option!).
+85bf7683fe0c31b1e8f135b98adfd8b1	2026-03-23 18:57:05	run_selenoprofiles_timeout_after_7200s
+85c224d5aa62ac64c6c56877384f5633	2026-03-23 15:59:06	FASTA index file /tmp/tmp.HPOQ4HmzFu/input.fna.fai created. Warning: couldn't find fasta record for 'KB199650'! Error: no genomic sequence available (check -g option!).
+8a373413754a4552f55379ad08a36708	2026-03-23 15:59:11	FASTA index file /tmp/tmp.P41c9WKPM6/input.fna.fai created.
+92fea22c9f9c6f1ffa21a9c84706bcd4	2026-03-23 16:12:54	Unexpected error downloading : unknown url type: ''
+608279f78d14e7a2d8c4a47970da096f	2026-03-23 11:44:23	run_selenoprofiles_timeout_after_7200s
+905fe524fa0ee9b52a1e60f9e9b8c533	2026-03-23 12:30:41	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Macaca_fascicularis/GCA_903645275.1/ensembl/geneset/2020_08/genes.gff3.gz: [Errno 111] Connection refused
+98bf0306ca543511621bc647568d0678	2026-03-23 12:44:38	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Eilema_depressum/GCA_914767945.1/braker/geneset/2021_12/genes.gff3.gz: [Errno 111] Connection refused
+9d7a3ade2f049eeaadfa0474d1fc4180	2026-03-23 12:44:38	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Gallus_gallus/GCA_027408225.1/ensembl/geneset/2023_03/genes.gff3.gz: [Errno 111] Connection refused
+930329f10fbc01b07cf5e4aff2eb98b2	2026-03-23 18:11:17	FASTA index file /tmp/tmp.ZyZYkneQi6/input.fna.fai created.
+ac9374ed92957ecd837b092516d7935a	2026-03-23 21:05:58	run_selenoprofiles_timeout_after_7200s
+8ef2f26bf7136024cb5f710e88293138	2026-03-23 14:49:56	FASTA index file /tmp/tmp.ZoJg4XHtjN/input.fna.fai created.
+8f0e87acd69d19d4179beef7853526ed	2026-03-23 14:08:50	FASTA index file /tmp/tmp.QTL7hAheAv/input.fna.fai created.
+8618882dbb081fe8448dd8313e80224e	2026-03-23 16:53:36	FASTA index file /tmp/tmp.jaupM1WvjT/input.fna.fai created.
+acb5229fc27d530db1c3d293e7e9c385	2026-03-23 23:15:39	FASTA index file /tmp/tmp.lf4dOYNcL3/input.fna.fai created.
+8aaf74fad487b78ed900a8d47e3c5e39	2026-03-23 18:41:58	"FASTA index file /tmp/tmp.0Zn3yl9ZNu/input.fna.fai created. free(): invalid next size (normal) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 16334 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+9d7eb614e4fd890801b1a9c0ac1402ea	2026-03-23 12:13:31	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Ischnura_elegans/GCA_921293095.2/ensembl/geneset/2024_06/genes.gff3.gz: [Errno 111] Connection refused
+8622729aec5a704690f416913bd5f50c	2026-03-23 16:45:22	FASTA index file /tmp/tmp.XRCBJ1vRji/input.fna.fai created.
+8639177ba1b30349d3cbee22574897eb	2026-03-23 19:59:20	"2026-03-23 19:59:19 ERROR:	The character ""/"" is present in the fasta header >rna-gnl|WGS:JAZDWV|mrna.YLoK5aEE1C8pY6DBN3eVp/yE0r8.1716383177753.0, which will crash Reader. Please clean the header of your input file. 2026-03-23 19:59:19 ERROR:	BUSCO analysis failed! 2026-03-23 19:59:19 ERROR:	Check the logs, read the user guide (https://busco.ezlab.org/busco_userguide.html), and check the BUSCO issue board on https://gitlab.com/ezlab/busco/issues"
+8ac6c1099331212573b6e764ed746556	2026-03-23 16:48:29	"FASTA index file /tmp/tmp.BCrlv3BOFr/input.fna.fai created. double free or corruption (!prev) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64:  7403 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+ace329111ab4578da6f75bb512e10b6c	2026-03-23 18:25:57	FASTA index file /tmp/tmp.1YWb2WbV9I/input.fna.fai created.
+8646fd9db89bb9c34f4f5fb944f2ff4f	2026-03-23 18:17:21	"FASTA index file /tmp/tmp.MxYGJY5mRW/input.fna.fai created. free(): invalid next size (normal) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64:  2683 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+875bde8418769504e41225f58634d586	2026-03-23 12:22:30	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Gymnocheta_viridis/GCA_956483585.1/ensembl/geneset/2023_10/genes.gff3.gz: [Errno 111] Connection refused
+8b9a08274946c0ed2fb205e4044fb8d5	2026-03-23 12:22:30	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Hyppa_rectilinea/GCA_951799385.1/ensembl/geneset/2024_04/genes.gff3.gz: [Errno 111] Connection refused
+9d3d35a9c68c6413ea556b6fc526085c	2026-03-23 12:43:40	FASTA index file /tmp/tmp.dDGZxCxFUb/input.fna.fai created.
+9c34bb64af026c7bb5a942310eeefdbf	2026-03-23 20:07:27	"FASTA index file /tmp/tmp.HCMkp5eCDx/input.fna.fai created. malloc(): corrupted top size /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 49914 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+ad04f707e583ccb3272c71338a7996fa	2026-03-23 22:51:36	run_selenoprofiles_timeout_after_7200s
+8adfdca6c0db0a79c2ec3f74b5ddd5ce	2026-03-23 20:34:14	FASTA index file /tmp/tmp.ThCsJs2Q1V/input.fna.fai created.
+9c5c832616b8725d66dccde5e06733e9	2026-03-23 23:52:23	run_selenoprofiles_timeout_after_7200s
+a056d584fa362882a11a893bff53608d	2026-03-23 23:52:34	"FASTA index file /tmp/tmp.WFRVlHBRzS/input.fna.fai created. malloc(): invalid size (unsorted) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 74340 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+a05b7779dc62ca1d1a8882a741a61054	2026-03-23 20:30:12	"FASTA index file /tmp/tmp.bIvzGsntai/input.fna.fai created. double free or corruption (!prev) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 45828 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+ad17ce319b1b5f5524f91cd34ad36ce2	2026-03-23 20:49:30	FASTA index file /tmp/tmp.rVMj1B3yS5/input.fna.fai created. Warning: couldn't find fasta record for 'NC_003428.1'! Error: no genomic sequence available (check -g option!).
+9c6f073ae5a036d0ef2b538ee5ae81d9	2026-03-23 18:22:13	FASTA index file /tmp/tmp.orJxLgrZx0/input.fna.fai created. Warning: couldn't find fasta record for 'JF760210.1'! Error: no genomic sequence available (check -g option!).
+8af504d3570419ae8d21db5c15729c31	2026-03-23 13:41:19	FASTA index file /tmp/tmp.zMgjbFVQKm/input.fna.fai created. Warning: couldn't find fasta record for 'Contig0'! Error: no genomic sequence available (check -g option!).
+86a34d261a9193551d3a0599e558bd1a	2026-03-23 23:02:03	run_selenoprofiles_timeout_after_7200s
+a487ac73ed051f25bdcf55652ad91807	2026-03-23 21:38:17	run_selenoprofiles_timeout_after_7200s
+ad461feedca83b1a602e1723b9e33b6f	2026-03-23 21:44:46	Unexpected error downloading : unknown url type: ''
+93addce17a5e9bd19e1581c4d7da75cd	2026-03-24 00:45:53	run_selenoprofiles_timeout_after_7200s
+9c935d1784d9b07147f07cc6598e9c3f	2026-03-23 20:43:20	"FASTA index file /tmp/tmp.NmIIxZHyoZ/input.fna.fai created. double free or corruption (!prev) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 36931 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+a5aabb8e5624231403396d49d3be3be0	2026-03-23 12:44:27	run_selenoprofiles_timeout_after_7200s
+a9fff626b7d63fb9fd4ee2b9995687c8	2026-03-23 12:44:31	FASTA index file /tmp/tmp.2kCQINgliP/input.fna.fai created.
+93e021e0e3262cb4a937cb133a3d3616	2026-03-23 21:49:26	run_selenoprofiles_timeout_after_7200s
+98275755e36890a2a075ca3e850efc33	2026-03-23 21:49:32	FASTA index file /tmp/tmp.WjaCdJ4xsX/input.fna.fai created.
+a0a44498b11e3ccc3a7aa6ca3d1464dc	2026-03-24 00:57:38	FASTA index file /tmp/tmp.r1uxyLyCjt/input.fna.fai created.
+9cb030e999569b76ff8387368aa7d06e	2026-03-23 22:02:28	FASTA index file /tmp/tmp.cSGrQJ2LN6/input.fna.fai created.
+94ea808b2263774c21fbae97ecff84ca	2026-03-23 10:45:21	FASTA index file /tmp/tmp.9l39FR0crP/input.fna.fai created.
+a4dc3c3412ef4cc95fbcb1807532c534	2026-03-23 23:14:08	FASTA index file /tmp/tmp.rookTxLHMR/input.fna.fai created. Warning: couldn't find fasta record for 'NC_014285.1'! Error: no genomic sequence available (check -g option!).
+8b55e0c6a3bcc989a7be14d5644b4ed7	2026-03-24 00:53:35	run_selenoprofiles_timeout_after_7200s
+9cd05387a7f6f49120f5c107b23095a6	2026-03-23 20:23:53	Unexpected error downloading : unknown url type: ''
+adc8a4b04e80a84a5692041cc7356ce7	2026-03-24 00:33:43	Unexpected error downloading : unknown url type: ''
+addc05b31ea6f6c7a2b89e7637f81d3b	2026-03-24 00:57:36	run_selenoprofiles_timeout_after_7200s
+a0d1651ca4eb154a9c24dc43117e02a2	2026-03-23 23:48:28	FASTA index file /tmp/tmp.XzsIM2nwo9/input.fna.fai created.
+8b69baec596679424b86adcd74f8b634	2026-03-23 22:05:48	run_selenoprofiles_timeout_after_7200s
+98674c7cc48d35930e1bc4b3027a25b0	2026-03-23 22:10:46	"FASTA index file /tmp/tmp.jjdvN37FV7/input.fna.fai created. double free or corruption (!prev) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 90235 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+a97229be0b58b3736da22ee9d860ce82	2026-03-23 22:44:30	"invalid escape sequence '\|' invalid escape sequence '\|' invalid escape sequence '\|' invalid escape sequence '\w' invalid escape sequence '\w' invalid escape sequence '\|' invalid escape sequence '\|' invalid escape sequence '\|' invalid escape sequence '\|' invalid escape sequence '\|' invalid escape sequence '\w' invalid escape sequence '\w' invalid escape sequence '\|' invalid escape sequence '\|' Profile TXNRD : profile_data not found or detected change in alignment file! Recomputing profile_data... Traceback (most recent call last):   File ""/opt/conda/bin/selenoprofiles"", line 7, in <module>     sys.exit(main())              ^^^^^^   File ""/opt/conda/lib/python3.12/site-packages/selenoprofiles4/selenoprofiles4.py"", line 1958, in main     psitblastn(   File ""/opt/conda/lib/python3.12/site-packages/selenoprofiles4/selenoprofiles4.py"", line 3213, in psitblastn     bbash(   File ""/opt/conda/lib/python3.12/site-packages/selenoprofiles4/MMlib3.py"", line 108, in bbash     if bb[0]!=0 and not dont_die:     raise Exception('COMMAND: ' + command+' ERROR: ""'+bb[1]+' ""')                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ Exception: COMMAND: /blast-2.2.26/bin/blastall -p psitblastn  -d /input/genome.fa -R /tmp/e99ce77f3e3421cb288f9d1b674b0b9e/SEPHS2.2.pssm.chk -i /tmp/e99ce77f3e3421cb288f9d1b674b0b9e/SEPHS2.2.blast_query -I  -a 1 -b 5000 -F F > /tmp/e99ce77f3e3421cb288f9d1b674b0b9e/psitblastn_out ERROR: ""[blastall] WARNING: Stored query has a X at position 24, while new query has a U there X appears in the stored query: The stored query may be filtered.  Run blastpgp with ""-F F"" option to turn the filter off. Segmentation fault (core dumped) """
+8b6bfef5bffe8a32f1c6bf3d5f9cbb1e	2026-03-23 23:10:49	FASTA index file /tmp/tmp.a1cwHD0dAy/input.fna.fai created.
+8fd2871689f99c747ac5204734b3dcd6	2026-03-23 23:10:51	Unexpected error downloading : unknown url type: ''
+94523c4b00321fcb3a4571029aa1f6bb	2026-03-23 22:37:43	FASTA index file /tmp/tmp.1wuS84AKKC/input.fna.fai created. Warning: couldn't find fasta record for 'scaffold_1'! Error: no genomic sequence available (check -g option!).
+a0ddd1c9640cd010853a2dd7a7e8fe25	2026-03-23 23:03:49	Unexpected error downloading : unknown url type: ''
+8735352e6be550b78e33b6a2f41fd511	2026-03-23 20:22:36	FASTA index file /tmp/tmp.qJNuafeLLt/input.fna.fai created.
+8b7d26a25ed103bd939c58a2b028ce10	2026-03-23 20:23:00	"FASTA index file /tmp/tmp.3kbUBenYeB/input.fna.fai created. double free or corruption (!prev) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64:  2644 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+98794e67e469524c158ef3491269c577	2026-03-23 20:28:05	FASTA index file /tmp/tmp.ZdZj48CyCK/input.fna.fai created.
+a520aa9f0693e2485ffd43365d1bbe85	2026-03-23 22:51:05	run_selenoprofiles_timeout_after_7200s
+a5289011b9ce6cc2b35978eece5e2280	2026-03-23 22:00:48	run_selenoprofiles_timeout_after_7200s
+90709069c033649d7985901d9fdbd7e1	2026-03-23 16:02:44	FASTA index file /tmp/tmp.jP2Gr6V8gf/input.fna.fai created.
+873e7b5999c3d697d2ad501f0f7a402e	2026-03-23 19:32:36	FASTA index file /tmp/tmp.n4NJCjBfmR/input.fna.fai created.
+946dc7a27554d7446db6645305ad9db5	2026-03-23 19:41:03	FASTA index file /tmp/tmp.aM5yJCjA6H/input.fna.fai created.
+ae05759184f01e22f495097724f99874	2026-03-23 23:19:38	"FASTA index file /tmp/tmp.4CV5ucaiKp/input.fna.fai created. malloc(): invalid size (unsorted) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 64984 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+a120e130a2b06533509a2dee14936874	2026-03-24 00:53:32	run_selenoprofiles_timeout_after_7200s
+874d708ecc48f60ae9f615f50e82e5d5	2026-03-23 21:22:24	FASTA index file /tmp/tmp.TVISgL3kt9/input.fna.fai created.
+8c1f49a92c5fe28be8f3636a43972db2	2026-03-23 12:43:17	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Cheilosia_soror/GCA_949372485.1/ensembl/geneset/2023_07/genes.gff3.gz: [Errno 104] Connection reset by peer
+a5c32158a04941524ce6880b82d87d99	2026-03-23 15:06:21	run_selenoprofiles_timeout_after_7200s
+94facdf77c9869290eaacfc0be499007	2026-03-23 13:36:36	run_selenoprofiles_timeout_after_7200s
+a5cbd70173d6fc4073ba401bd40f042a	2026-03-23 13:48:15	"FASTA index file /tmp/tmp.h3KRySlLO5/input.fna.fai created. double free or corruption (!prev) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 148077 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+4be1a58c7901ab0fb442fd7242159b89	2026-03-23 11:39:34	run_selenoprofiles_timeout_after_7200s
+9da58a77946a276f005613fdbcd58ec5	2026-03-23 17:48:06	run_selenoprofiles_timeout_after_7200s
+9daf941700fbe7083ca4e9011cd58484	2026-03-23 14:00:35	FASTA index file /tmp/tmp.kjVYtGbCBg/input.fna.fai created.
+a5d94741375b5c06ae4697b0d9b2aaae	2026-03-23 12:41:30	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Bombus_sylvestris/GCA_911622165.2/ensembl/geneset/2023_03/genes.gff3.gz: [Errno 111] Connection refused
+69c8f80f51ba7c5e91ad9b5afae52793	2026-03-23 14:37:24	run_selenoprofiles_timeout_after_7200s
+8c4d9038be099b15b0145d7a7f1c3150	2026-03-23 16:40:57	run_selenoprofiles_timeout_after_7200s
+90bdbfb3391ef9e3145934ecb3e4bf36	2026-03-23 16:41:04	FASTA index file /tmp/tmp.LtbP9nn54S/input.fna.fai created.
+a9bb0f08fe8b86526f43636014edda3b	2026-03-23 11:56:58	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Bombus_difficillimus/GCA_014737525.1/ensembl/geneset/2021_11/genes.gff3.gz: [Errno 111] Connection refused
+951b74280481ad014aca1d1543d2af17	2026-03-23 10:12:50	FASTA index file /tmp/tmp.1YsePLBUPX/input.fna.fai created.
+aa5ffd3df074736e38999e6839d80bde	2026-03-23 12:45:53	run_selenoprofiles_timeout_after_7200s
+8845a20faad247c80953f328f7828b6a	2026-03-23 09:52:24	"FASTA index file /tmp/tmp.bROtQ0UAtR/input.fna.fai created. free(): invalid next size (normal) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 11861 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+a206983adf8194b9aa1d03457f0813bd	2026-03-23 10:23:50	FASTA index file /tmp/tmp.bblhm4LD1g/input.fna.fai created. Warning: couldn't find fasta record for 'NC_012312.1'! Error: no genomic sequence available (check -g option!).
+99413f2452b3d88f3d6300ad947e0722	2026-03-23 12:29:57	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Oryza_sativa_Indica_Group/GCA_001618795.1/community/geneset/2020_12/genes.gff3.gz: [Errno 111] Connection refused
+a20cb67050d182dbe686bc6c70c4776a	2026-03-23 11:45:00	"FASTA index file /tmp/tmp.1YNFYbL5Wp/input.fna.fai created. double free or corruption (!prev) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 48303 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+6d49328d2fdffa57ad9aaaa0e9b25b67	2026-03-23 13:52:04	run_selenoprofiles_timeout_after_7200s
+9539045fb8235a841a598f3d547baa92	2026-03-23 14:19:31	FASTA index file /tmp/tmp.04osBdC89b/input.fna.fai created.
+6dd0077553e0557afca3273e6bb2a1ae	2026-03-23 17:00:33	run_selenoprofiles_timeout_after_7200s
+6e13a304c89c677a99ba3f65514e3699	2026-03-23 11:39:17	run_selenoprofiles_timeout_after_7200s
+8854c2c283705eb62fbca0d8ffb32234	2026-03-23 13:41:50	run_selenoprofiles_timeout_after_7200s
+a21489bd570836a895140356f33d9ed2	2026-03-23 14:18:33	run_selenoprofiles_timeout_after_7200s
+a21de42c7ba2c02f98429ca77ec0c4ef	2026-03-23 12:14:53	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Xestia_castanea/GCA_965113175.1/ensembl/geneset/2025_03/genes.gff3.gz: [Errno 111] Connection refused
+a61b7ae790f93c5cb26f67a44f1b6fd9	2026-03-23 12:14:54	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Marchantia_polymorpha_str_Tak_1/GCA_003032435.1/community/geneset/2018_04/genes.gff3.gz: [Errno 111] Connection refused
+954f2e683eee287044835fae491ed9d6	2026-03-23 10:06:57	FASTA index file /tmp/tmp.GbFNOzkYYV/input.fna.fai created.
+a61e1962745fc428545bdaa01f26c47e	2026-03-23 10:36:23	FASTA index file /tmp/tmp.3owi9g7wDW/input.fna.fai created. Warning: couldn't find fasta record for '1'! Error: no genomic sequence available (check -g option!).
+703e2e7ffe84b940edc240addb3d3f65	2026-03-23 13:20:03	run_selenoprofiles_timeout_after_7200s
+a61eb502ba14f9fec3dcd755d2bc9156	2026-03-23 13:52:04	FASTA index file /tmp/tmp.zeBOfIywld/input.fna.fai created.
+9dded0df92a92242b13df635db009d4d	2026-03-23 11:08:25	FASTA index file /tmp/tmp.GefKyWQlBj/input.fna.fai created. Warning: couldn't find fasta record for 'CM001021'! Error: no genomic sequence available (check -g option!).
+71f893fd67d54b25d6e07ad6e1d799c2	2026-03-23 11:39:00	run_selenoprofiles_timeout_after_7200s
+9554cb554062e4d1d8388d8317491e45	2026-03-23 12:47:21	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Synanthedon_myopaeformis/GCA_944738685.1/braker/geneset/2022_08/genes.gff3.gz: [Errno 111] Connection refused
+aab6e1e05f5b9bf1a6f4a8b5fd4baf68	2026-03-23 12:27:59	FASTA index file /tmp/tmp.6SGGrnyctU/input.fna.fai created.
+8887e530a7c12b9a0dac2cf4a0d6d126	2026-03-23 11:44:53	run_selenoprofiles_timeout_after_7200s
+9985fb48d3bd7895bfefc9a106c5c691	2026-03-23 14:10:07	run_selenoprofiles_timeout_after_7200s
+a62dd514d636ed679cf609db7c751d2f	2026-03-23 14:41:41	FASTA index file /tmp/tmp.k0P5arvSlN/input.fna.fai created.
+888c5a9ec173848afed6dde25fb65c2c	2026-03-23 12:34:58	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Meganola_strigula/GCA_965276985.1/ensembl/geneset/2025_08/genes.gff3.gz: [Errno 111] Connection refused
+8ca4fcbb7f4ef4343517b9abbd8dcd99	2026-03-23 12:34:59	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Solidago_canadensis/GCA_965663515.1/ensembl/geneset/2025_10/genes.gff3.gz: [Errno 111] Connection refused
+91162a92f53043f62ea85c87fb13ff52	2026-03-23 12:35:05	FASTA index file /tmp/tmp.SDjtrrWk5S/input.fna.fai created.
+a2285d47b567976c7188a3b965e9e143	2026-03-23 10:52:41	FASTA index file /tmp/tmp.akVzkNwDxv/input.fna.fai created.
+88a3d52dac0a563f2d83c87d7a94d9fd	2026-03-23 12:07:29	FASTA index file /tmp/tmp.FKMkhWQ6Xk/input.fna.fai created.
+74fcdbd83996d5a8ee04775167fd8c76	2026-03-23 12:14:36	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Lathyrus_linifolius/GCA_964345755.1/ensembl/geneset/2025_08/genes.gff3.gz: [Errno 111] Connection refused
+88a73467844adcb877bb25caefa4dfd3	2026-03-23 12:14:37	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Homo_sapiens/GCA_018506965.2/ensembl/geneset/2025_08/genes.gff3.gz: [Errno 111] Connection refused
+99a39f142c9fb182c0bc3ad0258f49ea	2026-03-23 12:45:06	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Conomelus_anceps/GCA_948455865.1/ensembl/geneset/2025_03/genes.gff3.gz: [Errno 111] Connection refused
+9deffe5d0f2aaedf0fd59123c78e1ae6	2026-03-23 12:45:06	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Ypsolopha_scabrella/GCA_910592155.1/braker/geneset/2021_12/genes.gff3.gz: [Errno 111] Connection refused
+a242e7c3fc93d1288aae2020dd582599	2026-03-23 12:45:07	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Homo_sapiens/GCA_042037725.1/ensembl/geneset/2025_04/genes.gff3.gz: [Errno 111] Connection refused
+a63d491d5adb8d7eafe5c3670cc65dd8	2026-03-23 12:45:07	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Macaca_fascicularis/GCA_011100615.1/ensembl/geneset/2020_08/genes.gff3.gz: [Errno 111] Connection refused
+88aaca233050978e1e86c21082039e73	2026-03-23 12:31:18	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Ballota_nigra/GCA_947034835.1/ensembl/geneset/2024_02/genes.gff3.gz: [Errno 111] Connection refused
+8cb42a9a3d09fa596aa3a93438ed3713	2026-03-23 12:31:19	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Mythimna_conigera/GCA_964503535.1/ensembl/geneset/2025_05/genes.gff3.gz: [Errno 111] Connection refused
+95883fd8c81b2821a021ec9b5671cc14	2026-03-23 12:35:18	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Plemyria_rubiginata/GCA_963576535.1/ensembl/geneset/2024_04/genes.gff3.gz: [Errno 111] Connection refused
+99a6666587ff96bd9fecaa430c9e9a3c	2026-03-23 12:35:22	FASTA index file /tmp/tmp.6jd6weRKD8/input.fna.fai created.
+9df58d30af07ec877bb803bf6e49333b	2026-03-23 12:35:23	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Melieria_omissa/GCA_963971225.1/braker/geneset/2024_05/genes.gff3.gz: [Errno 111] Connection refused
+99aa3ff9a9fb48a41321cd6c77c36ee6	2026-03-23 15:11:03	FASTA index file /tmp/tmp.jIgZVKpcDc/input.fna.fai created.
+9df7de3457d1f856337daff845d7f348	2026-03-23 15:12:11	FASTA index file /tmp/tmp.ur7AdoQxFx/input.fna.fai created.
+79f94bcab57e51280ac3b6752344f2ab	2026-03-23 12:26:47	run_selenoprofiles_timeout_after_7200s
+91465c80bd3c2ac2718d1e4e0a0b5d28	2026-03-23 12:30:47	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Calliergon_cordifolium/GCA_964639475.1/ensembl/geneset/2025_07/genes.gff3.gz: [Errno 111] Connection refused
+914ac15e51ba1a1546dc227d27c5b780	2026-03-23 14:20:58	"FASTA index file /tmp/tmp.I9pb54uhWO/input.fna.fai created. free(): invalid next size (normal) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 17433 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+7c2c08c3482489d552b62db99872714f	2026-03-23 09:38:19	FASTA index file /tmp/tmp.4B5La3zCy7/input.fna.fai created.
+91579fe784bbeec278bc00279efdd764	2026-03-23 12:59:11	run_selenoprofiles_timeout_after_7200s
+ab03ca93345729957f42997918d659c9	2026-03-23 18:19:58	run_selenoprofiles_timeout_after_7200s
+a28483a85a8c2c437423eb47b8143a41	2026-03-23 20:52:14	run_selenoprofiles_timeout_after_7200s
+a6d970099d3eca5525866c1714c8eebf	2026-03-23 13:54:43	"FASTA index file /tmp/tmp.zZ0iina8dT/input.fna.fai created. malloc(): corrupted top size /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 52996 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+a6dcff46316f8ec2046d064a366459bf	2026-03-23 12:13:37	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Eunicella_cavolini/GCA_965177985.1/ensembl/geneset/2025_07/genes.gff3.gz: [Errno 111] Connection refused
+ab18f4a8de711a694369a679bc111699	2026-03-23 12:13:38	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Vaccinium_vitis_idaea/GCA_963854785.2/ensembl/geneset/2025_10/genes.gff3.gz: [Errno 111] Connection refused
+7fa2f5b259c7f0077b5fb43d99b3e170	2026-03-23 15:28:54	run_selenoprofiles_timeout_after_7200s
+7fbb88f3dea3612eb2d9ff4ec033e7b0	2026-03-23 12:22:18	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Cygnus_olor/GCA_009769625.2/ensembl/geneset/2021_09/genes.gff3.gz: [Errno 111] Connection refused
+8d240de92c40ad8bd606f8ae6d04ab0b	2026-03-23 12:27:57	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Hemithea_aestivaria/GCA_947507615.1/braker/geneset/2023_02/genes.gff3.gz: [Errno 111] Connection refused
+917477ad08f6c760aef327121f56e5e0	2026-03-23 12:27:58	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Tachysurus_fulvidraco/GCA_022655615.1/ensembl/geneset/2024_01/genes.gff3.gz: [Errno 111] Connection refused
+95dbdb5d7178b3812c65cebf3bf6b971	2026-03-23 12:27:58	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Peribatodes_rhomboidaria/GCA_911728515.1/braker/geneset/2021_12/genes.gff3.gz: [Errno 111] Connection refused
+9e3e399194fc3c021e7b123bcad6b6f7	2026-03-23 12:30:47	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Quercus_ilex/GCA_964341355.1/ensembl/geneset/2025_01/genes.gff3.gz: [Errno 111] Connection refused
+a28f5baf17e6257da6343535fc22c303	2026-03-23 12:30:47	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Glycera_fallax/GCA_964657245.1/ensembl/geneset/2025_03/genes.gff3.gz: [Errno 111] Connection refused
+8050258bcc4d5cff7fd56ec47e7c86e6	2026-03-23 11:51:10	"FASTA index file /tmp/tmp.FIXBswatzs/input.fna.fai created. /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64:  2650 Segmentation fault      (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+8d2f1d0ab5bc514816d2ef3658bbcd63	2026-03-23 12:30:00	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Diarsia_brunnea/GCA_949774965.1/braker/geneset/2023_07/genes.gff3.gz: [Errno 111] Connection refused
+8065d94998b0e10849b5b806bdc97d41	2026-03-23 15:40:43	FASTA index file /tmp/tmp.8HuU6DwP0m/input.fna.fai created. Warning: couldn't find fasta record for 'wee_scaffold_000001'! Error: no genomic sequence available (check -g option!).
+9a25521821cc6608ad5469d7da480d2a	2026-03-23 12:03:11	FASTA index file /tmp/tmp.BgvtMTfSlk/input.fna.fai created.
+a2aa28a93dd9c994d94f7090df081464	2026-03-23 14:06:07	run_selenoprofiles_timeout_after_7200s
+95f9f8fc398ebf40f49dc285398117d3	2026-03-23 15:16:09	run_selenoprofiles_timeout_after_7200s
+98a57954992671e3e76b45d77e37071c	2026-03-23 10:12:24	FASTA index file /tmp/tmp.MITNMf7pT2/input.fna.fai created.
+a718b4347344acd58d319e768c2ddad4	2026-03-23 13:56:38	"FASTA index file /tmp/tmp.L8kVJ1s0PZ/input.fna.fai created. free(): invalid next size (normal) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 58274 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
+89099edea2730c03918b8ce72e2b6205	2026-03-23 17:16:57	run_selenoprofiles_timeout_after_7200s
+84669c5ddebc357085780a692e18db8b	2026-03-23 11:57:54	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Hedera_helix/GCA_947179155.2/ensembl/geneset/2024_02/genes.gff3.gz: [Errno 111] Connection refused
+890bcaf729922c450df800896b825434	2026-03-23 11:57:55	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Oncomelania_hupensis/GCA_036898135.1/ensembl/geneset/2024_11/genes.gff3.gz: [Errno 111] Connection refused
+8d52b3e26e0684b5dbcc7dba2a92fc1c	2026-03-23 11:57:55	URL error downloading https://ftp.ebi.ac.uk/pub/ensemblorganisms/Homo_sapiens/GCA_046116065.1/ensembl/geneset/2025_07/genes.gff3.gz: [Errno 111] Connection refused
+8d56d0efc54e4947fb89394c326f8ee6	2026-03-23 12:35:38	run_selenoprofiles_timeout_after_7200s
+84742f7d3828a92d495f80d0c055fc2a	2026-03-23 15:18:17	FASTA index file /tmp/tmp.LwUFVgVmDT/input.fna.fai created. Warning: couldn't find fasta record for 'AYRZ02000001.1'! Error: no genomic sequence available (check -g option!).
+847d621b01e2dab09b8dd1e78b1e6e85	2026-03-23 14:16:26	FASTA index file /tmp/tmp.yi3hFOoX8c/input.fna.fai created.
+8921f17d29bebfaa4a4d3a1294102e29	2026-03-23 14:16:49	FASTA index file /tmp/tmp.OZSp6QKJEf/input.fna.fai created. GffObj::getSpliced() error: improper genomic coordinate 47259724 on CM000126.1 for transcript:BGIOSGA000002-TA

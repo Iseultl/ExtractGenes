@@ -1,0 +1,759 @@
+CP156178.1	Genbank	transcript	954011	955447	.	+	.	transcript_id "rna-Hte_000267-T1_mrna"; gene_id "gene-Hte_000267"
+CP156178.1	Genbank	exon	954011	955447	.	+	.	transcript_id "rna-Hte_000267-T1_mrna"; gene_id "gene-Hte_000267";
+CP156178.1	Genbank	CDS	954011	955447	.	+	0	transcript_id "rna-Hte_000267-T1_mrna"; gene_id "gene-Hte_000267";
+CP156178.1	Genbank	transcript	1389947	1392951	.	-	.	transcript_id "rna-Hte_000378-T1_mrna"; gene_id "gene-Hte_000378"; gene_name "ctf18"
+CP156178.1	Genbank	exon	1389947	1390403	.	-	.	transcript_id "rna-Hte_000378-T1_mrna"; gene_id "gene-Hte_000378"; gene_name "ctf18";
+CP156178.1	Genbank	exon	1390463	1392951	.	-	.	transcript_id "rna-Hte_000378-T1_mrna"; gene_id "gene-Hte_000378"; gene_name "ctf18";
+CP156178.1	Genbank	CDS	1389947	1390403	.	-	1	transcript_id "rna-Hte_000378-T1_mrna"; gene_id "gene-Hte_000378"; gene_name "ctf18";
+CP156178.1	Genbank	CDS	1390463	1392951	.	-	0	transcript_id "rna-Hte_000378-T1_mrna"; gene_id "gene-Hte_000378"; gene_name "ctf18";
+CP156178.1	Genbank	transcript	1448076	1449406	.	+	.	transcript_id "rna-Hte_000396-T1_mrna"; gene_id "gene-Hte_000396"
+CP156178.1	Genbank	exon	1448076	1448175	.	+	.	transcript_id "rna-Hte_000396-T1_mrna"; gene_id "gene-Hte_000396";
+CP156178.1	Genbank	exon	1448270	1448367	.	+	.	transcript_id "rna-Hte_000396-T1_mrna"; gene_id "gene-Hte_000396";
+CP156178.1	Genbank	exon	1448444	1449169	.	+	.	transcript_id "rna-Hte_000396-T1_mrna"; gene_id "gene-Hte_000396";
+CP156178.1	Genbank	exon	1449290	1449406	.	+	.	transcript_id "rna-Hte_000396-T1_mrna"; gene_id "gene-Hte_000396";
+CP156178.1	Genbank	CDS	1448076	1448175	.	+	0	transcript_id "rna-Hte_000396-T1_mrna"; gene_id "gene-Hte_000396";
+CP156178.1	Genbank	CDS	1448270	1448367	.	+	2	transcript_id "rna-Hte_000396-T1_mrna"; gene_id "gene-Hte_000396";
+CP156178.1	Genbank	CDS	1448444	1449169	.	+	0	transcript_id "rna-Hte_000396-T1_mrna"; gene_id "gene-Hte_000396";
+CP156178.1	Genbank	CDS	1449290	1449406	.	+	0	transcript_id "rna-Hte_000396-T1_mrna"; gene_id "gene-Hte_000396";
+CP156178.1	Genbank	transcript	1550653	1552431	.	-	.	transcript_id "rna-Hte_000423-T1_mrna"; gene_id "gene-Hte_000423"; gene_name "RSA4"
+CP156178.1	Genbank	exon	1550653	1550673	.	-	.	transcript_id "rna-Hte_000423-T1_mrna"; gene_id "gene-Hte_000423"; gene_name "RSA4";
+CP156178.1	Genbank	exon	1550712	1550750	.	-	.	transcript_id "rna-Hte_000423-T1_mrna"; gene_id "gene-Hte_000423"; gene_name "RSA4";
+CP156178.1	Genbank	exon	1550865	1550898	.	-	.	transcript_id "rna-Hte_000423-T1_mrna"; gene_id "gene-Hte_000423"; gene_name "RSA4";
+CP156178.1	Genbank	exon	1551017	1551471	.	-	.	transcript_id "rna-Hte_000423-T1_mrna"; gene_id "gene-Hte_000423"; gene_name "RSA4";
+CP156178.1	Genbank	exon	1551525	1552142	.	-	.	transcript_id "rna-Hte_000423-T1_mrna"; gene_id "gene-Hte_000423"; gene_name "RSA4";
+CP156178.1	Genbank	exon	1552210	1552431	.	-	.	transcript_id "rna-Hte_000423-T1_mrna"; gene_id "gene-Hte_000423"; gene_name "RSA4";
+CP156178.1	Genbank	CDS	1550653	1550673	.	-	0	transcript_id "rna-Hte_000423-T1_mrna"; gene_id "gene-Hte_000423"; gene_name "RSA4";
+CP156178.1	Genbank	CDS	1550712	1550750	.	-	0	transcript_id "rna-Hte_000423-T1_mrna"; gene_id "gene-Hte_000423"; gene_name "RSA4";
+CP156178.1	Genbank	CDS	1550865	1550898	.	-	1	transcript_id "rna-Hte_000423-T1_mrna"; gene_id "gene-Hte_000423"; gene_name "RSA4";
+CP156178.1	Genbank	CDS	1551017	1551471	.	-	0	transcript_id "rna-Hte_000423-T1_mrna"; gene_id "gene-Hte_000423"; gene_name "RSA4";
+CP156178.1	Genbank	CDS	1551525	1552142	.	-	0	transcript_id "rna-Hte_000423-T1_mrna"; gene_id "gene-Hte_000423"; gene_name "RSA4";
+CP156178.1	Genbank	CDS	1552210	1552431	.	-	0	transcript_id "rna-Hte_000423-T1_mrna"; gene_id "gene-Hte_000423"; gene_name "RSA4";
+CP156178.1	Genbank	transcript	1717669	1718918	.	+	.	transcript_id "rna-Hte_000466-T1_mrna"; gene_id "gene-Hte_000466"
+CP156178.1	Genbank	exon	1717669	1718074	.	+	.	transcript_id "rna-Hte_000466-T1_mrna"; gene_id "gene-Hte_000466";
+CP156178.1	Genbank	exon	1718188	1718918	.	+	.	transcript_id "rna-Hte_000466-T1_mrna"; gene_id "gene-Hte_000466";
+CP156178.1	Genbank	CDS	1717669	1718074	.	+	0	transcript_id "rna-Hte_000466-T1_mrna"; gene_id "gene-Hte_000466";
+CP156178.1	Genbank	CDS	1718188	1718918	.	+	2	transcript_id "rna-Hte_000466-T1_mrna"; gene_id "gene-Hte_000466";
+CP156178.1	Genbank	transcript	2432745	2433797	.	-	.	transcript_id "rna-Hte_000658-T1_mrna"; gene_id "gene-Hte_000658"; gene_name "LIA1"
+CP156178.1	Genbank	exon	2432745	2433255	.	-	.	transcript_id "rna-Hte_000658-T1_mrna"; gene_id "gene-Hte_000658"; gene_name "LIA1";
+CP156178.1	Genbank	exon	2433328	2433797	.	-	.	transcript_id "rna-Hte_000658-T1_mrna"; gene_id "gene-Hte_000658"; gene_name "LIA1";
+CP156178.1	Genbank	CDS	2432745	2433255	.	-	1	transcript_id "rna-Hte_000658-T1_mrna"; gene_id "gene-Hte_000658"; gene_name "LIA1";
+CP156178.1	Genbank	CDS	2433328	2433797	.	-	0	transcript_id "rna-Hte_000658-T1_mrna"; gene_id "gene-Hte_000658"; gene_name "LIA1";
+CP156178.1	Genbank	transcript	2453227	2454389	.	+	.	transcript_id "rna-Hte_000668-T1_mrna"; gene_id "gene-Hte_000668"; gene_name "KRR1"
+CP156178.1	Genbank	exon	2453227	2453275	.	+	.	transcript_id "rna-Hte_000668-T1_mrna"; gene_id "gene-Hte_000668"; gene_name "KRR1";
+CP156178.1	Genbank	exon	2453350	2453425	.	+	.	transcript_id "rna-Hte_000668-T1_mrna"; gene_id "gene-Hte_000668"; gene_name "KRR1";
+CP156178.1	Genbank	exon	2453483	2453586	.	+	.	transcript_id "rna-Hte_000668-T1_mrna"; gene_id "gene-Hte_000668"; gene_name "KRR1";
+CP156178.1	Genbank	exon	2453644	2454389	.	+	.	transcript_id "rna-Hte_000668-T1_mrna"; gene_id "gene-Hte_000668"; gene_name "KRR1";
+CP156178.1	Genbank	CDS	2453227	2453275	.	+	0	transcript_id "rna-Hte_000668-T1_mrna"; gene_id "gene-Hte_000668"; gene_name "KRR1";
+CP156178.1	Genbank	CDS	2453350	2453425	.	+	2	transcript_id "rna-Hte_000668-T1_mrna"; gene_id "gene-Hte_000668"; gene_name "KRR1";
+CP156178.1	Genbank	CDS	2453483	2453586	.	+	1	transcript_id "rna-Hte_000668-T1_mrna"; gene_id "gene-Hte_000668"; gene_name "KRR1";
+CP156178.1	Genbank	CDS	2453644	2454389	.	+	2	transcript_id "rna-Hte_000668-T1_mrna"; gene_id "gene-Hte_000668"; gene_name "KRR1";
+CP156178.1	Genbank	transcript	2454820	2456320	.	-	.	transcript_id "rna-Hte_000669-T1_mrna"; gene_id "gene-Hte_000669"; gene_name "ENP1"
+CP156178.1	Genbank	exon	2454820	2455690	.	-	.	transcript_id "rna-Hte_000669-T1_mrna"; gene_id "gene-Hte_000669"; gene_name "ENP1";
+CP156178.1	Genbank	exon	2455743	2456320	.	-	.	transcript_id "rna-Hte_000669-T1_mrna"; gene_id "gene-Hte_000669"; gene_name "ENP1";
+CP156178.1	Genbank	CDS	2454820	2455690	.	-	1	transcript_id "rna-Hte_000669-T1_mrna"; gene_id "gene-Hte_000669"; gene_name "ENP1";
+CP156178.1	Genbank	CDS	2455743	2456320	.	-	0	transcript_id "rna-Hte_000669-T1_mrna"; gene_id "gene-Hte_000669"; gene_name "ENP1";
+CP156178.1	Genbank	transcript	2612308	2614404	.	+	.	transcript_id "rna-Hte_000723-T1_mrna"; gene_id "gene-Hte_000723"
+CP156178.1	Genbank	exon	2612308	2614404	.	+	.	transcript_id "rna-Hte_000723-T1_mrna"; gene_id "gene-Hte_000723";
+CP156178.1	Genbank	CDS	2612308	2614404	.	+	0	transcript_id "rna-Hte_000723-T1_mrna"; gene_id "gene-Hte_000723";
+CP156178.1	Genbank	transcript	2990818	2992299	.	-	.	transcript_id "rna-Hte_000832-T1_mrna"; gene_id "gene-Hte_000832"
+CP156178.1	Genbank	exon	2990818	2992299	.	-	.	transcript_id "rna-Hte_000832-T1_mrna"; gene_id "gene-Hte_000832";
+CP156178.1	Genbank	CDS	2990818	2992299	.	-	0	transcript_id "rna-Hte_000832-T1_mrna"; gene_id "gene-Hte_000832";
+CP156178.1	Genbank	transcript	3003955	3004727	.	-	.	transcript_id "rna-Hte_000837-T1_mrna"; gene_id "gene-Hte_000837"
+CP156178.1	Genbank	exon	3003955	3004048	.	-	.	transcript_id "rna-Hte_000837-T1_mrna"; gene_id "gene-Hte_000837";
+CP156178.1	Genbank	exon	3004109	3004638	.	-	.	transcript_id "rna-Hte_000837-T1_mrna"; gene_id "gene-Hte_000837";
+CP156178.1	Genbank	exon	3004701	3004727	.	-	.	transcript_id "rna-Hte_000837-T1_mrna"; gene_id "gene-Hte_000837";
+CP156178.1	Genbank	CDS	3003955	3004048	.	-	1	transcript_id "rna-Hte_000837-T1_mrna"; gene_id "gene-Hte_000837";
+CP156178.1	Genbank	CDS	3004109	3004638	.	-	0	transcript_id "rna-Hte_000837-T1_mrna"; gene_id "gene-Hte_000837";
+CP156178.1	Genbank	CDS	3004701	3004727	.	-	0	transcript_id "rna-Hte_000837-T1_mrna"; gene_id "gene-Hte_000837";
+CP156178.1	Genbank	transcript	3018654	3020453	.	-	.	transcript_id "rna-Hte_000843-T1_mrna"; gene_id "gene-Hte_000843"
+CP156178.1	Genbank	exon	3018654	3020453	.	-	.	transcript_id "rna-Hte_000843-T1_mrna"; gene_id "gene-Hte_000843";
+CP156178.1	Genbank	CDS	3018654	3020453	.	-	0	transcript_id "rna-Hte_000843-T1_mrna"; gene_id "gene-Hte_000843";
+CP156178.1	Genbank	transcript	3101032	3103665	.	-	.	transcript_id "rna-Hte_000870-T1_mrna"; gene_id "gene-Hte_000870"
+CP156178.1	Genbank	exon	3101032	3103403	.	-	.	transcript_id "rna-Hte_000870-T1_mrna"; gene_id "gene-Hte_000870";
+CP156178.1	Genbank	exon	3103470	3103665	.	-	.	transcript_id "rna-Hte_000870-T1_mrna"; gene_id "gene-Hte_000870";
+CP156178.1	Genbank	CDS	3101032	3103403	.	-	2	transcript_id "rna-Hte_000870-T1_mrna"; gene_id "gene-Hte_000870";
+CP156178.1	Genbank	CDS	3103470	3103665	.	-	0	transcript_id "rna-Hte_000870-T1_mrna"; gene_id "gene-Hte_000870";
+CP156178.1	Genbank	transcript	3138528	3139745	.	+	.	transcript_id "rna-Hte_000882-T1_mrna"; gene_id "gene-Hte_000882"; gene_name "sec66"
+CP156178.1	Genbank	exon	3138528	3139745	.	+	.	transcript_id "rna-Hte_000882-T1_mrna"; gene_id "gene-Hte_000882"; gene_name "sec66";
+CP156178.1	Genbank	CDS	3138528	3139745	.	+	0	transcript_id "rna-Hte_000882-T1_mrna"; gene_id "gene-Hte_000882"; gene_name "sec66";
+CP156178.1	Genbank	transcript	3243667	3246430	.	+	.	transcript_id "rna-Hte_000918-T1_mrna"; gene_id "gene-Hte_000918"
+CP156178.1	Genbank	exon	3243667	3243954	.	+	.	transcript_id "rna-Hte_000918-T1_mrna"; gene_id "gene-Hte_000918";
+CP156178.1	Genbank	exon	3244007	3246430	.	+	.	transcript_id "rna-Hte_000918-T1_mrna"; gene_id "gene-Hte_000918";
+CP156178.1	Genbank	CDS	3243667	3243954	.	+	0	transcript_id "rna-Hte_000918-T1_mrna"; gene_id "gene-Hte_000918";
+CP156178.1	Genbank	CDS	3244007	3246430	.	+	0	transcript_id "rna-Hte_000918-T1_mrna"; gene_id "gene-Hte_000918";
+CP156178.1	Genbank	transcript	3303169	3304088	.	-	.	transcript_id "rna-Hte_000937-T1_mrna"; gene_id "gene-Hte_000937"
+CP156178.1	Genbank	exon	3303169	3303537	.	-	.	transcript_id "rna-Hte_000937-T1_mrna"; gene_id "gene-Hte_000937";
+CP156178.1	Genbank	exon	3303606	3303770	.	-	.	transcript_id "rna-Hte_000937-T1_mrna"; gene_id "gene-Hte_000937";
+CP156178.1	Genbank	exon	3303833	3303923	.	-	.	transcript_id "rna-Hte_000937-T1_mrna"; gene_id "gene-Hte_000937";
+CP156178.1	Genbank	exon	3303985	3304088	.	-	.	transcript_id "rna-Hte_000937-T1_mrna"; gene_id "gene-Hte_000937";
+CP156178.1	Genbank	CDS	3303169	3303537	.	-	0	transcript_id "rna-Hte_000937-T1_mrna"; gene_id "gene-Hte_000937";
+CP156178.1	Genbank	CDS	3303606	3303770	.	-	0	transcript_id "rna-Hte_000937-T1_mrna"; gene_id "gene-Hte_000937";
+CP156178.1	Genbank	CDS	3303833	3303923	.	-	1	transcript_id "rna-Hte_000937-T1_mrna"; gene_id "gene-Hte_000937";
+CP156178.1	Genbank	CDS	3303985	3304088	.	-	0	transcript_id "rna-Hte_000937-T1_mrna"; gene_id "gene-Hte_000937";
+CP156178.1	Genbank	transcript	3341903	3343522	.	-	.	transcript_id "rna-Hte_000952-T1_mrna"; gene_id "gene-Hte_000952"
+CP156178.1	Genbank	exon	3341903	3343522	.	-	.	transcript_id "rna-Hte_000952-T1_mrna"; gene_id "gene-Hte_000952";
+CP156178.1	Genbank	CDS	3341903	3343522	.	-	0	transcript_id "rna-Hte_000952-T1_mrna"; gene_id "gene-Hte_000952";
+CP156178.1	Genbank	transcript	3572069	3573919	.	-	.	transcript_id "rna-Hte_001014-T1_mrna"; gene_id "gene-Hte_001014"; gene_name "URA6"
+CP156178.1	Genbank	exon	3572069	3572846	.	-	.	transcript_id "rna-Hte_001014-T1_mrna"; gene_id "gene-Hte_001014"; gene_name "URA6";
+CP156178.1	Genbank	exon	3572907	3573919	.	-	.	transcript_id "rna-Hte_001014-T1_mrna"; gene_id "gene-Hte_001014"; gene_name "URA6";
+CP156178.1	Genbank	CDS	3572069	3572846	.	-	1	transcript_id "rna-Hte_001014-T1_mrna"; gene_id "gene-Hte_001014"; gene_name "URA6";
+CP156178.1	Genbank	CDS	3572907	3573919	.	-	0	transcript_id "rna-Hte_001014-T1_mrna"; gene_id "gene-Hte_001014"; gene_name "URA6";
+CP156178.1	Genbank	transcript	3691602	3693278	.	+	.	transcript_id "rna-Hte_001052-T1_mrna"; gene_id "gene-Hte_001052"; gene_name "PRP16"
+CP156178.1	Genbank	exon	3691602	3691858	.	+	.	transcript_id "rna-Hte_001052-T1_mrna"; gene_id "gene-Hte_001052"; gene_name "PRP16";
+CP156178.1	Genbank	exon	3691910	3693278	.	+	.	transcript_id "rna-Hte_001052-T1_mrna"; gene_id "gene-Hte_001052"; gene_name "PRP16";
+CP156178.1	Genbank	CDS	3691602	3691858	.	+	0	transcript_id "rna-Hte_001052-T1_mrna"; gene_id "gene-Hte_001052"; gene_name "PRP16";
+CP156178.1	Genbank	CDS	3691910	3693278	.	+	1	transcript_id "rna-Hte_001052-T1_mrna"; gene_id "gene-Hte_001052"; gene_name "PRP16";
+CP156178.1	Genbank	transcript	3822448	3823515	.	-	.	transcript_id "rna-Hte_001092-T1_mrna"; gene_id "gene-Hte_001092"; gene_name "TFG1"
+CP156178.1	Genbank	exon	3822448	3823515	.	-	.	transcript_id "rna-Hte_001092-T1_mrna"; gene_id "gene-Hte_001092"; gene_name "TFG1";
+CP156178.1	Genbank	CDS	3822448	3823515	.	-	0	transcript_id "rna-Hte_001092-T1_mrna"; gene_id "gene-Hte_001092"; gene_name "TFG1";
+CP156178.1	Genbank	transcript	4053614	4054552	.	-	.	transcript_id "rna-Hte_001166-T1_mrna"; gene_id "gene-Hte_001166"
+CP156178.1	Genbank	exon	4053614	4054433	.	-	.	transcript_id "rna-Hte_001166-T1_mrna"; gene_id "gene-Hte_001166";
+CP156178.1	Genbank	exon	4054530	4054552	.	-	.	transcript_id "rna-Hte_001166-T1_mrna"; gene_id "gene-Hte_001166";
+CP156178.1	Genbank	CDS	4053614	4054433	.	-	1	transcript_id "rna-Hte_001166-T1_mrna"; gene_id "gene-Hte_001166";
+CP156178.1	Genbank	CDS	4054530	4054552	.	-	0	transcript_id "rna-Hte_001166-T1_mrna"; gene_id "gene-Hte_001166";
+CP156178.1	Genbank	transcript	4172732	4175902	.	+	.	transcript_id "rna-Hte_001208-T1_mrna"; gene_id "gene-Hte_001208"; gene_name "RET3"
+CP156178.1	Genbank	exon	4172732	4173077	.	+	.	transcript_id "rna-Hte_001208-T1_mrna"; gene_id "gene-Hte_001208"; gene_name "RET3";
+CP156178.1	Genbank	exon	4173133	4175264	.	+	.	transcript_id "rna-Hte_001208-T1_mrna"; gene_id "gene-Hte_001208"; gene_name "RET3";
+CP156178.1	Genbank	exon	4175321	4175902	.	+	.	transcript_id "rna-Hte_001208-T1_mrna"; gene_id "gene-Hte_001208"; gene_name "RET3";
+CP156178.1	Genbank	CDS	4172732	4173077	.	+	0	transcript_id "rna-Hte_001208-T1_mrna"; gene_id "gene-Hte_001208"; gene_name "RET3";
+CP156178.1	Genbank	CDS	4173133	4175264	.	+	2	transcript_id "rna-Hte_001208-T1_mrna"; gene_id "gene-Hte_001208"; gene_name "RET3";
+CP156178.1	Genbank	CDS	4175321	4175902	.	+	0	transcript_id "rna-Hte_001208-T1_mrna"; gene_id "gene-Hte_001208"; gene_name "RET3";
+CP156178.1	Genbank	transcript	4228950	4230273	.	+	.	transcript_id "rna-Hte_001222-T1_mrna"; gene_id "gene-Hte_001222"
+CP156178.1	Genbank	exon	4228950	4229207	.	+	.	transcript_id "rna-Hte_001222-T1_mrna"; gene_id "gene-Hte_001222";
+CP156178.1	Genbank	exon	4229260	4230273	.	+	.	transcript_id "rna-Hte_001222-T1_mrna"; gene_id "gene-Hte_001222";
+CP156178.1	Genbank	CDS	4228950	4229207	.	+	0	transcript_id "rna-Hte_001222-T1_mrna"; gene_id "gene-Hte_001222";
+CP156178.1	Genbank	CDS	4229260	4230273	.	+	0	transcript_id "rna-Hte_001222-T1_mrna"; gene_id "gene-Hte_001222";
+CP156178.1	Genbank	transcript	4244616	4246967	.	-	.	transcript_id "rna-Hte_001225-T1_mrna"; gene_id "gene-Hte_001225"
+CP156178.1	Genbank	exon	4244616	4246250	.	-	.	transcript_id "rna-Hte_001225-T1_mrna"; gene_id "gene-Hte_001225";
+CP156178.1	Genbank	exon	4246305	4246967	.	-	.	transcript_id "rna-Hte_001225-T1_mrna"; gene_id "gene-Hte_001225";
+CP156178.1	Genbank	CDS	4244616	4246250	.	-	0	transcript_id "rna-Hte_001225-T1_mrna"; gene_id "gene-Hte_001225";
+CP156178.1	Genbank	CDS	4246305	4246967	.	-	0	transcript_id "rna-Hte_001225-T1_mrna"; gene_id "gene-Hte_001225";
+CP156178.1	Genbank	transcript	4682535	4684928	.	+	.	transcript_id "rna-Hte_001365-T1_mrna"; gene_id "gene-Hte_001365"
+CP156178.1	Genbank	exon	4682535	4684928	.	+	.	transcript_id "rna-Hte_001365-T1_mrna"; gene_id "gene-Hte_001365";
+CP156178.1	Genbank	CDS	4682535	4684928	.	+	0	transcript_id "rna-Hte_001365-T1_mrna"; gene_id "gene-Hte_001365";
+CP156178.1	Genbank	transcript	6312289	6314420	.	-	.	transcript_id "rna-Hte_001808-T1_mrna"; gene_id "gene-Hte_001808"
+CP156178.1	Genbank	exon	6312289	6313869	.	-	.	transcript_id "rna-Hte_001808-T1_mrna"; gene_id "gene-Hte_001808";
+CP156178.1	Genbank	exon	6313938	6314086	.	-	.	transcript_id "rna-Hte_001808-T1_mrna"; gene_id "gene-Hte_001808";
+CP156178.1	Genbank	exon	6314140	6314285	.	-	.	transcript_id "rna-Hte_001808-T1_mrna"; gene_id "gene-Hte_001808";
+CP156178.1	Genbank	exon	6314344	6314420	.	-	.	transcript_id "rna-Hte_001808-T1_mrna"; gene_id "gene-Hte_001808";
+CP156178.1	Genbank	CDS	6312289	6313869	.	-	0	transcript_id "rna-Hte_001808-T1_mrna"; gene_id "gene-Hte_001808";
+CP156178.1	Genbank	CDS	6313938	6314086	.	-	2	transcript_id "rna-Hte_001808-T1_mrna"; gene_id "gene-Hte_001808";
+CP156178.1	Genbank	CDS	6314140	6314285	.	-	1	transcript_id "rna-Hte_001808-T1_mrna"; gene_id "gene-Hte_001808";
+CP156178.1	Genbank	CDS	6314344	6314420	.	-	0	transcript_id "rna-Hte_001808-T1_mrna"; gene_id "gene-Hte_001808";
+CP156178.1	Genbank	transcript	6638141	6640201	.	+	.	transcript_id "rna-Hte_001917-T1_mrna"; gene_id "gene-Hte_001917"
+CP156178.1	Genbank	exon	6638141	6638423	.	+	.	transcript_id "rna-Hte_001917-T1_mrna"; gene_id "gene-Hte_001917";
+CP156178.1	Genbank	exon	6638492	6640010	.	+	.	transcript_id "rna-Hte_001917-T1_mrna"; gene_id "gene-Hte_001917";
+CP156178.1	Genbank	exon	6640102	6640201	.	+	.	transcript_id "rna-Hte_001917-T1_mrna"; gene_id "gene-Hte_001917";
+CP156178.1	Genbank	CDS	6638141	6638423	.	+	0	transcript_id "rna-Hte_001917-T1_mrna"; gene_id "gene-Hte_001917";
+CP156178.1	Genbank	CDS	6638492	6640010	.	+	2	transcript_id "rna-Hte_001917-T1_mrna"; gene_id "gene-Hte_001917";
+CP156178.1	Genbank	CDS	6640102	6640201	.	+	1	transcript_id "rna-Hte_001917-T1_mrna"; gene_id "gene-Hte_001917";
+CP156178.1	Genbank	transcript	7340045	7343388	.	-	.	transcript_id "rna-Hte_002130-T1_mrna"; gene_id "gene-Hte_002130"; gene_name "HIR1"
+CP156178.1	Genbank	exon	7340045	7340148	.	-	.	transcript_id "rna-Hte_002130-T1_mrna"; gene_id "gene-Hte_002130"; gene_name "HIR1";
+CP156178.1	Genbank	exon	7340219	7343149	.	-	.	transcript_id "rna-Hte_002130-T1_mrna"; gene_id "gene-Hte_002130"; gene_name "HIR1";
+CP156178.1	Genbank	exon	7343212	7343286	.	-	.	transcript_id "rna-Hte_002130-T1_mrna"; gene_id "gene-Hte_002130"; gene_name "HIR1";
+CP156178.1	Genbank	exon	7343352	7343388	.	-	.	transcript_id "rna-Hte_002130-T1_mrna"; gene_id "gene-Hte_002130"; gene_name "HIR1";
+CP156178.1	Genbank	CDS	7340045	7340148	.	-	2	transcript_id "rna-Hte_002130-T1_mrna"; gene_id "gene-Hte_002130"; gene_name "HIR1";
+CP156178.1	Genbank	CDS	7340219	7343149	.	-	2	transcript_id "rna-Hte_002130-T1_mrna"; gene_id "gene-Hte_002130"; gene_name "HIR1";
+CP156178.1	Genbank	CDS	7343212	7343286	.	-	2	transcript_id "rna-Hte_002130-T1_mrna"; gene_id "gene-Hte_002130"; gene_name "HIR1";
+CP156178.1	Genbank	CDS	7343352	7343388	.	-	0	transcript_id "rna-Hte_002130-T1_mrna"; gene_id "gene-Hte_002130"; gene_name "HIR1";
+CP156178.1	Genbank	transcript	7654753	7656255	.	+	.	transcript_id "rna-Hte_002210-T1_mrna"; gene_id "gene-Hte_002210"; gene_name "RAM1"
+CP156178.1	Genbank	exon	7654753	7655490	.	+	.	transcript_id "rna-Hte_002210-T1_mrna"; gene_id "gene-Hte_002210"; gene_name "RAM1";
+CP156178.1	Genbank	exon	7655543	7655561	.	+	.	transcript_id "rna-Hte_002210-T1_mrna"; gene_id "gene-Hte_002210"; gene_name "RAM1";
+CP156178.1	Genbank	exon	7655647	7655670	.	+	.	transcript_id "rna-Hte_002210-T1_mrna"; gene_id "gene-Hte_002210"; gene_name "RAM1";
+CP156178.1	Genbank	exon	7655732	7655849	.	+	.	transcript_id "rna-Hte_002210-T1_mrna"; gene_id "gene-Hte_002210"; gene_name "RAM1";
+CP156178.1	Genbank	exon	7655949	7656255	.	+	.	transcript_id "rna-Hte_002210-T1_mrna"; gene_id "gene-Hte_002210"; gene_name "RAM1";
+CP156178.1	Genbank	CDS	7654753	7655490	.	+	0	transcript_id "rna-Hte_002210-T1_mrna"; gene_id "gene-Hte_002210"; gene_name "RAM1";
+CP156178.1	Genbank	CDS	7655543	7655561	.	+	0	transcript_id "rna-Hte_002210-T1_mrna"; gene_id "gene-Hte_002210"; gene_name "RAM1";
+CP156178.1	Genbank	CDS	7655647	7655670	.	+	2	transcript_id "rna-Hte_002210-T1_mrna"; gene_id "gene-Hte_002210"; gene_name "RAM1";
+CP156178.1	Genbank	CDS	7655732	7655849	.	+	2	transcript_id "rna-Hte_002210-T1_mrna"; gene_id "gene-Hte_002210"; gene_name "RAM1";
+CP156178.1	Genbank	CDS	7655949	7656255	.	+	1	transcript_id "rna-Hte_002210-T1_mrna"; gene_id "gene-Hte_002210"; gene_name "RAM1";
+CP156178.1	Genbank	transcript	8288921	8290504	.	-	.	transcript_id "rna-Hte_002380-T1_mrna"; gene_id "gene-Hte_002380"; gene_name "COX15"
+CP156178.1	Genbank	exon	8288921	8289998	.	-	.	transcript_id "rna-Hte_002380-T1_mrna"; gene_id "gene-Hte_002380"; gene_name "COX15";
+CP156178.1	Genbank	exon	8290113	8290504	.	-	.	transcript_id "rna-Hte_002380-T1_mrna"; gene_id "gene-Hte_002380"; gene_name "COX15";
+CP156178.1	Genbank	CDS	8288921	8289998	.	-	1	transcript_id "rna-Hte_002380-T1_mrna"; gene_id "gene-Hte_002380"; gene_name "COX15";
+CP156178.1	Genbank	CDS	8290113	8290504	.	-	0	transcript_id "rna-Hte_002380-T1_mrna"; gene_id "gene-Hte_002380"; gene_name "COX15";
+CP156179.1	Genbank	transcript	168999	171356	.	+	.	transcript_id "rna-Hte_002596-T1_mrna"; gene_id "gene-Hte_002596"
+CP156179.1	Genbank	exon	168999	169081	.	+	.	transcript_id "rna-Hte_002596-T1_mrna"; gene_id "gene-Hte_002596";
+CP156179.1	Genbank	exon	169140	169264	.	+	.	transcript_id "rna-Hte_002596-T1_mrna"; gene_id "gene-Hte_002596";
+CP156179.1	Genbank	exon	169336	171356	.	+	.	transcript_id "rna-Hte_002596-T1_mrna"; gene_id "gene-Hte_002596";
+CP156179.1	Genbank	CDS	168999	169081	.	+	0	transcript_id "rna-Hte_002596-T1_mrna"; gene_id "gene-Hte_002596";
+CP156179.1	Genbank	CDS	169140	169264	.	+	1	transcript_id "rna-Hte_002596-T1_mrna"; gene_id "gene-Hte_002596";
+CP156179.1	Genbank	CDS	169336	171356	.	+	2	transcript_id "rna-Hte_002596-T1_mrna"; gene_id "gene-Hte_002596";
+CP156179.1	Genbank	transcript	667196	668332	.	+	.	transcript_id "rna-Hte_002743-T1_mrna"; gene_id "gene-Hte_002743"
+CP156179.1	Genbank	exon	667196	668332	.	+	.	transcript_id "rna-Hte_002743-T1_mrna"; gene_id "gene-Hte_002743";
+CP156179.1	Genbank	CDS	667196	668332	.	+	0	transcript_id "rna-Hte_002743-T1_mrna"; gene_id "gene-Hte_002743";
+CP156179.1	Genbank	transcript	1315074	1316995	.	+	.	transcript_id "rna-Hte_002952-T1_mrna"; gene_id "gene-Hte_002952"; gene_name "EFM4"
+CP156179.1	Genbank	exon	1315074	1315126	.	+	.	transcript_id "rna-Hte_002952-T1_mrna"; gene_id "gene-Hte_002952"; gene_name "EFM4";
+CP156179.1	Genbank	exon	1315210	1316995	.	+	.	transcript_id "rna-Hte_002952-T1_mrna"; gene_id "gene-Hte_002952"; gene_name "EFM4";
+CP156179.1	Genbank	CDS	1315074	1315126	.	+	0	transcript_id "rna-Hte_002952-T1_mrna"; gene_id "gene-Hte_002952"; gene_name "EFM4";
+CP156179.1	Genbank	CDS	1315210	1316995	.	+	1	transcript_id "rna-Hte_002952-T1_mrna"; gene_id "gene-Hte_002952"; gene_name "EFM4";
+CP156179.1	Genbank	transcript	1559980	1561511	.	-	.	transcript_id "rna-Hte_003010-T1_mrna"; gene_id "gene-Hte_003010"
+CP156179.1	Genbank	exon	1559980	1560542	.	-	.	transcript_id "rna-Hte_003010-T1_mrna"; gene_id "gene-Hte_003010";
+CP156179.1	Genbank	exon	1560651	1560885	.	-	.	transcript_id "rna-Hte_003010-T1_mrna"; gene_id "gene-Hte_003010";
+CP156179.1	Genbank	exon	1560978	1561511	.	-	.	transcript_id "rna-Hte_003010-T1_mrna"; gene_id "gene-Hte_003010";
+CP156179.1	Genbank	CDS	1559980	1560542	.	-	2	transcript_id "rna-Hte_003010-T1_mrna"; gene_id "gene-Hte_003010";
+CP156179.1	Genbank	CDS	1560651	1560885	.	-	0	transcript_id "rna-Hte_003010-T1_mrna"; gene_id "gene-Hte_003010";
+CP156179.1	Genbank	CDS	1560978	1561511	.	-	0	transcript_id "rna-Hte_003010-T1_mrna"; gene_id "gene-Hte_003010";
+CP156179.1	Genbank	transcript	1609159	1610768	.	-	.	transcript_id "rna-Hte_003028-T1_mrna"; gene_id "gene-Hte_003028"
+CP156179.1	Genbank	exon	1609159	1610357	.	-	.	transcript_id "rna-Hte_003028-T1_mrna"; gene_id "gene-Hte_003028";
+CP156179.1	Genbank	exon	1610407	1610685	.	-	.	transcript_id "rna-Hte_003028-T1_mrna"; gene_id "gene-Hte_003028";
+CP156179.1	Genbank	exon	1610756	1610768	.	-	.	transcript_id "rna-Hte_003028-T1_mrna"; gene_id "gene-Hte_003028";
+CP156179.1	Genbank	CDS	1609159	1610357	.	-	2	transcript_id "rna-Hte_003028-T1_mrna"; gene_id "gene-Hte_003028";
+CP156179.1	Genbank	CDS	1610407	1610685	.	-	2	transcript_id "rna-Hte_003028-T1_mrna"; gene_id "gene-Hte_003028";
+CP156179.1	Genbank	CDS	1610756	1610768	.	-	0	transcript_id "rna-Hte_003028-T1_mrna"; gene_id "gene-Hte_003028";
+CP156179.1	Genbank	transcript	1674809	1676427	.	-	.	transcript_id "rna-Hte_003043-T1_mrna"; gene_id "gene-Hte_003043"
+CP156179.1	Genbank	exon	1674809	1674892	.	-	.	transcript_id "rna-Hte_003043-T1_mrna"; gene_id "gene-Hte_003043";
+CP156179.1	Genbank	exon	1675010	1676050	.	-	.	transcript_id "rna-Hte_003043-T1_mrna"; gene_id "gene-Hte_003043";
+CP156179.1	Genbank	exon	1676116	1676427	.	-	.	transcript_id "rna-Hte_003043-T1_mrna"; gene_id "gene-Hte_003043";
+CP156179.1	Genbank	CDS	1674809	1674892	.	-	0	transcript_id "rna-Hte_003043-T1_mrna"; gene_id "gene-Hte_003043";
+CP156179.1	Genbank	CDS	1675010	1676050	.	-	0	transcript_id "rna-Hte_003043-T1_mrna"; gene_id "gene-Hte_003043";
+CP156179.1	Genbank	CDS	1676116	1676427	.	-	0	transcript_id "rna-Hte_003043-T1_mrna"; gene_id "gene-Hte_003043";
+CP156179.1	Genbank	transcript	2219597	2223973	.	+	.	transcript_id "rna-Hte_003229-T1_mrna"; gene_id "gene-Hte_003229"
+CP156179.1	Genbank	exon	2219597	2219750	.	+	.	transcript_id "rna-Hte_003229-T1_mrna"; gene_id "gene-Hte_003229";
+CP156179.1	Genbank	exon	2219805	2219859	.	+	.	transcript_id "rna-Hte_003229-T1_mrna"; gene_id "gene-Hte_003229";
+CP156179.1	Genbank	exon	2219918	2220424	.	+	.	transcript_id "rna-Hte_003229-T1_mrna"; gene_id "gene-Hte_003229";
+CP156179.1	Genbank	exon	2220505	2221085	.	+	.	transcript_id "rna-Hte_003229-T1_mrna"; gene_id "gene-Hte_003229";
+CP156179.1	Genbank	exon	2221190	2221353	.	+	.	transcript_id "rna-Hte_003229-T1_mrna"; gene_id "gene-Hte_003229";
+CP156179.1	Genbank	exon	2221417	2221553	.	+	.	transcript_id "rna-Hte_003229-T1_mrna"; gene_id "gene-Hte_003229";
+CP156179.1	Genbank	exon	2222269	2223973	.	+	.	transcript_id "rna-Hte_003229-T1_mrna"; gene_id "gene-Hte_003229";
+CP156179.1	Genbank	CDS	2219597	2219750	.	+	0	transcript_id "rna-Hte_003229-T1_mrna"; gene_id "gene-Hte_003229";
+CP156179.1	Genbank	CDS	2219805	2219859	.	+	2	transcript_id "rna-Hte_003229-T1_mrna"; gene_id "gene-Hte_003229";
+CP156179.1	Genbank	CDS	2219918	2220424	.	+	1	transcript_id "rna-Hte_003229-T1_mrna"; gene_id "gene-Hte_003229";
+CP156179.1	Genbank	CDS	2220505	2221085	.	+	1	transcript_id "rna-Hte_003229-T1_mrna"; gene_id "gene-Hte_003229";
+CP156179.1	Genbank	CDS	2221190	2221353	.	+	2	transcript_id "rna-Hte_003229-T1_mrna"; gene_id "gene-Hte_003229";
+CP156179.1	Genbank	CDS	2221417	2221553	.	+	0	transcript_id "rna-Hte_003229-T1_mrna"; gene_id "gene-Hte_003229";
+CP156179.1	Genbank	CDS	2222269	2223973	.	+	1	transcript_id "rna-Hte_003229-T1_mrna"; gene_id "gene-Hte_003229";
+CP156179.1	Genbank	transcript	2275761	2277152	.	-	.	transcript_id "rna-Hte_003248-T1_mrna"; gene_id "gene-Hte_003248"
+CP156179.1	Genbank	exon	2275761	2276911	.	-	.	transcript_id "rna-Hte_003248-T1_mrna"; gene_id "gene-Hte_003248";
+CP156179.1	Genbank	exon	2276969	2277152	.	-	.	transcript_id "rna-Hte_003248-T1_mrna"; gene_id "gene-Hte_003248";
+CP156179.1	Genbank	CDS	2275761	2276911	.	-	2	transcript_id "rna-Hte_003248-T1_mrna"; gene_id "gene-Hte_003248";
+CP156179.1	Genbank	CDS	2276969	2277152	.	-	0	transcript_id "rna-Hte_003248-T1_mrna"; gene_id "gene-Hte_003248";
+CP156179.1	Genbank	transcript	2855032	2856573	.	-	.	transcript_id "rna-Hte_003414-T1_mrna"; gene_id "gene-Hte_003414"
+CP156179.1	Genbank	exon	2855032	2855917	.	-	.	transcript_id "rna-Hte_003414-T1_mrna"; gene_id "gene-Hte_003414";
+CP156179.1	Genbank	exon	2855984	2856573	.	-	.	transcript_id "rna-Hte_003414-T1_mrna"; gene_id "gene-Hte_003414";
+CP156179.1	Genbank	CDS	2855032	2855917	.	-	1	transcript_id "rna-Hte_003414-T1_mrna"; gene_id "gene-Hte_003414";
+CP156179.1	Genbank	CDS	2855984	2856573	.	-	0	transcript_id "rna-Hte_003414-T1_mrna"; gene_id "gene-Hte_003414";
+CP156179.1	Genbank	transcript	2992681	2993570	.	-	.	transcript_id "rna-Hte_003447-T1_mrna"; gene_id "gene-Hte_003447"; gene_name "PHO81_1"
+CP156179.1	Genbank	exon	2992681	2992739	.	-	.	transcript_id "rna-Hte_003447-T1_mrna"; gene_id "gene-Hte_003447"; gene_name "PHO81_1";
+CP156179.1	Genbank	exon	2992814	2993309	.	-	.	transcript_id "rna-Hte_003447-T1_mrna"; gene_id "gene-Hte_003447"; gene_name "PHO81_1";
+CP156179.1	Genbank	exon	2993386	2993455	.	-	.	transcript_id "rna-Hte_003447-T1_mrna"; gene_id "gene-Hte_003447"; gene_name "PHO81_1";
+CP156179.1	Genbank	exon	2993524	2993570	.	-	.	transcript_id "rna-Hte_003447-T1_mrna"; gene_id "gene-Hte_003447"; gene_name "PHO81_1";
+CP156179.1	Genbank	CDS	2992681	2992739	.	-	2	transcript_id "rna-Hte_003447-T1_mrna"; gene_id "gene-Hte_003447"; gene_name "PHO81_1";
+CP156179.1	Genbank	CDS	2992814	2993309	.	-	0	transcript_id "rna-Hte_003447-T1_mrna"; gene_id "gene-Hte_003447"; gene_name "PHO81_1";
+CP156179.1	Genbank	CDS	2993386	2993455	.	-	1	transcript_id "rna-Hte_003447-T1_mrna"; gene_id "gene-Hte_003447"; gene_name "PHO81_1";
+CP156179.1	Genbank	CDS	2993524	2993570	.	-	0	transcript_id "rna-Hte_003447-T1_mrna"; gene_id "gene-Hte_003447"; gene_name "PHO81_1";
+CP156179.1	Genbank	transcript	3035986	3037228	.	-	.	transcript_id "rna-Hte_003462-T1_mrna"; gene_id "gene-Hte_003462"; gene_name "CYC1"
+CP156179.1	Genbank	exon	3035986	3036639	.	-	.	transcript_id "rna-Hte_003462-T1_mrna"; gene_id "gene-Hte_003462"; gene_name "CYC1";
+CP156179.1	Genbank	exon	3036713	3037228	.	-	.	transcript_id "rna-Hte_003462-T1_mrna"; gene_id "gene-Hte_003462"; gene_name "CYC1";
+CP156179.1	Genbank	CDS	3035986	3036639	.	-	0	transcript_id "rna-Hte_003462-T1_mrna"; gene_id "gene-Hte_003462"; gene_name "CYC1";
+CP156179.1	Genbank	CDS	3036713	3037228	.	-	0	transcript_id "rna-Hte_003462-T1_mrna"; gene_id "gene-Hte_003462"; gene_name "CYC1";
+CP156179.1	Genbank	transcript	3128494	3129632	.	-	.	transcript_id "rna-Hte_003497-T1_mrna"; gene_id "gene-Hte_003497"
+CP156179.1	Genbank	exon	3128494	3128944	.	-	.	transcript_id "rna-Hte_003497-T1_mrna"; gene_id "gene-Hte_003497";
+CP156179.1	Genbank	exon	3129001	3129632	.	-	.	transcript_id "rna-Hte_003497-T1_mrna"; gene_id "gene-Hte_003497";
+CP156179.1	Genbank	CDS	3128494	3128944	.	-	1	transcript_id "rna-Hte_003497-T1_mrna"; gene_id "gene-Hte_003497";
+CP156179.1	Genbank	CDS	3129001	3129632	.	-	0	transcript_id "rna-Hte_003497-T1_mrna"; gene_id "gene-Hte_003497";
+CP156179.1	Genbank	transcript	3893328	3896565	.	-	.	transcript_id "rna-Hte_003722-T1_mrna"; gene_id "gene-Hte_003722"; gene_name "ARO2"
+CP156179.1	Genbank	exon	3893328	3894650	.	-	.	transcript_id "rna-Hte_003722-T1_mrna"; gene_id "gene-Hte_003722"; gene_name "ARO2";
+CP156179.1	Genbank	exon	3894708	3895043	.	-	.	transcript_id "rna-Hte_003722-T1_mrna"; gene_id "gene-Hte_003722"; gene_name "ARO2";
+CP156179.1	Genbank	exon	3895090	3895323	.	-	.	transcript_id "rna-Hte_003722-T1_mrna"; gene_id "gene-Hte_003722"; gene_name "ARO2";
+CP156179.1	Genbank	exon	3895378	3896010	.	-	.	transcript_id "rna-Hte_003722-T1_mrna"; gene_id "gene-Hte_003722"; gene_name "ARO2";
+CP156179.1	Genbank	exon	3896064	3896183	.	-	.	transcript_id "rna-Hte_003722-T1_mrna"; gene_id "gene-Hte_003722"; gene_name "ARO2";
+CP156179.1	Genbank	exon	3896236	3896487	.	-	.	transcript_id "rna-Hte_003722-T1_mrna"; gene_id "gene-Hte_003722"; gene_name "ARO2";
+CP156179.1	Genbank	exon	3896551	3896565	.	-	.	transcript_id "rna-Hte_003722-T1_mrna"; gene_id "gene-Hte_003722"; gene_name "ARO2";
+CP156179.1	Genbank	CDS	3893328	3894650	.	-	0	transcript_id "rna-Hte_003722-T1_mrna"; gene_id "gene-Hte_003722"; gene_name "ARO2";
+CP156179.1	Genbank	CDS	3894708	3895043	.	-	0	transcript_id "rna-Hte_003722-T1_mrna"; gene_id "gene-Hte_003722"; gene_name "ARO2";
+CP156179.1	Genbank	CDS	3895090	3895323	.	-	0	transcript_id "rna-Hte_003722-T1_mrna"; gene_id "gene-Hte_003722"; gene_name "ARO2";
+CP156179.1	Genbank	CDS	3895378	3896010	.	-	0	transcript_id "rna-Hte_003722-T1_mrna"; gene_id "gene-Hte_003722"; gene_name "ARO2";
+CP156179.1	Genbank	CDS	3896064	3896183	.	-	0	transcript_id "rna-Hte_003722-T1_mrna"; gene_id "gene-Hte_003722"; gene_name "ARO2";
+CP156179.1	Genbank	CDS	3896236	3896487	.	-	0	transcript_id "rna-Hte_003722-T1_mrna"; gene_id "gene-Hte_003722"; gene_name "ARO2";
+CP156179.1	Genbank	CDS	3896551	3896565	.	-	0	transcript_id "rna-Hte_003722-T1_mrna"; gene_id "gene-Hte_003722"; gene_name "ARO2";
+CP156179.1	Genbank	transcript	4598602	4600605	.	-	.	transcript_id "rna-Hte_003913-T1_mrna"; gene_id "gene-Hte_003913"
+CP156179.1	Genbank	exon	4598602	4600403	.	-	.	transcript_id "rna-Hte_003913-T1_mrna"; gene_id "gene-Hte_003913";
+CP156179.1	Genbank	exon	4600461	4600605	.	-	.	transcript_id "rna-Hte_003913-T1_mrna"; gene_id "gene-Hte_003913";
+CP156179.1	Genbank	CDS	4598602	4600403	.	-	2	transcript_id "rna-Hte_003913-T1_mrna"; gene_id "gene-Hte_003913";
+CP156179.1	Genbank	CDS	4600461	4600605	.	-	0	transcript_id "rna-Hte_003913-T1_mrna"; gene_id "gene-Hte_003913";
+CP156179.1	Genbank	transcript	4650430	4651893	.	-	.	transcript_id "rna-Hte_003924-T1_mrna"; gene_id "gene-Hte_003924"; gene_name "RAD3"
+CP156179.1	Genbank	exon	4650430	4651893	.	-	.	transcript_id "rna-Hte_003924-T1_mrna"; gene_id "gene-Hte_003924"; gene_name "RAD3";
+CP156179.1	Genbank	CDS	4650430	4651893	.	-	0	transcript_id "rna-Hte_003924-T1_mrna"; gene_id "gene-Hte_003924"; gene_name "RAD3";
+CP156179.1	Genbank	transcript	5464825	5467386	.	+	.	transcript_id "rna-Hte_004176-T1_mrna"; gene_id "gene-Hte_004176"
+CP156179.1	Genbank	exon	5464825	5467386	.	+	.	transcript_id "rna-Hte_004176-T1_mrna"; gene_id "gene-Hte_004176";
+CP156179.1	Genbank	CDS	5464825	5467386	.	+	0	transcript_id "rna-Hte_004176-T1_mrna"; gene_id "gene-Hte_004176";
+CP156179.1	Genbank	transcript	5517513	5519545	.	+	.	transcript_id "rna-Hte_004194-T1_mrna"; gene_id "gene-Hte_004194"; gene_name "DGK1"
+CP156179.1	Genbank	exon	5517513	5517689	.	+	.	transcript_id "rna-Hte_004194-T1_mrna"; gene_id "gene-Hte_004194"; gene_name "DGK1";
+CP156179.1	Genbank	exon	5517755	5519545	.	+	.	transcript_id "rna-Hte_004194-T1_mrna"; gene_id "gene-Hte_004194"; gene_name "DGK1";
+CP156179.1	Genbank	CDS	5517513	5517689	.	+	0	transcript_id "rna-Hte_004194-T1_mrna"; gene_id "gene-Hte_004194"; gene_name "DGK1";
+CP156179.1	Genbank	CDS	5517755	5519545	.	+	0	transcript_id "rna-Hte_004194-T1_mrna"; gene_id "gene-Hte_004194"; gene_name "DGK1";
+CP156179.1	Genbank	transcript	5575136	5577722	.	+	.	transcript_id "rna-Hte_004214-T1_mrna"; gene_id "gene-Hte_004214"; gene_name "QCR2"
+CP156179.1	Genbank	exon	5575136	5575232	.	+	.	transcript_id "rna-Hte_004214-T1_mrna"; gene_id "gene-Hte_004214"; gene_name "QCR2";
+CP156179.1	Genbank	exon	5575291	5575358	.	+	.	transcript_id "rna-Hte_004214-T1_mrna"; gene_id "gene-Hte_004214"; gene_name "QCR2";
+CP156179.1	Genbank	exon	5575418	5575546	.	+	.	transcript_id "rna-Hte_004214-T1_mrna"; gene_id "gene-Hte_004214"; gene_name "QCR2";
+CP156179.1	Genbank	exon	5575663	5575860	.	+	.	transcript_id "rna-Hte_004214-T1_mrna"; gene_id "gene-Hte_004214"; gene_name "QCR2";
+CP156179.1	Genbank	exon	5575921	5576385	.	+	.	transcript_id "rna-Hte_004214-T1_mrna"; gene_id "gene-Hte_004214"; gene_name "QCR2";
+CP156179.1	Genbank	exon	5576439	5577722	.	+	.	transcript_id "rna-Hte_004214-T1_mrna"; gene_id "gene-Hte_004214"; gene_name "QCR2";
+CP156179.1	Genbank	CDS	5575136	5575232	.	+	0	transcript_id "rna-Hte_004214-T1_mrna"; gene_id "gene-Hte_004214"; gene_name "QCR2";
+CP156179.1	Genbank	CDS	5575291	5575358	.	+	2	transcript_id "rna-Hte_004214-T1_mrna"; gene_id "gene-Hte_004214"; gene_name "QCR2";
+CP156179.1	Genbank	CDS	5575418	5575546	.	+	0	transcript_id "rna-Hte_004214-T1_mrna"; gene_id "gene-Hte_004214"; gene_name "QCR2";
+CP156179.1	Genbank	CDS	5575663	5575860	.	+	0	transcript_id "rna-Hte_004214-T1_mrna"; gene_id "gene-Hte_004214"; gene_name "QCR2";
+CP156179.1	Genbank	CDS	5575921	5576385	.	+	0	transcript_id "rna-Hte_004214-T1_mrna"; gene_id "gene-Hte_004214"; gene_name "QCR2";
+CP156179.1	Genbank	CDS	5576439	5577722	.	+	0	transcript_id "rna-Hte_004214-T1_mrna"; gene_id "gene-Hte_004214"; gene_name "QCR2";
+CP156180.1	Genbank	transcript	79993	81240	.	+	.	transcript_id "rna-Hte_004365-T1_mrna"; gene_id "gene-Hte_004365"
+CP156180.1	Genbank	exon	79993	80046	.	+	.	transcript_id "rna-Hte_004365-T1_mrna"; gene_id "gene-Hte_004365";
+CP156180.1	Genbank	exon	80149	80618	.	+	.	transcript_id "rna-Hte_004365-T1_mrna"; gene_id "gene-Hte_004365";
+CP156180.1	Genbank	exon	80679	81240	.	+	.	transcript_id "rna-Hte_004365-T1_mrna"; gene_id "gene-Hte_004365";
+CP156180.1	Genbank	CDS	79993	80046	.	+	0	transcript_id "rna-Hte_004365-T1_mrna"; gene_id "gene-Hte_004365";
+CP156180.1	Genbank	CDS	80149	80618	.	+	0	transcript_id "rna-Hte_004365-T1_mrna"; gene_id "gene-Hte_004365";
+CP156180.1	Genbank	CDS	80679	81240	.	+	1	transcript_id "rna-Hte_004365-T1_mrna"; gene_id "gene-Hte_004365";
+CP156180.1	Genbank	transcript	151039	152342	.	-	.	transcript_id "rna-Hte_004391-T1_mrna"; gene_id "gene-Hte_004391"
+CP156180.1	Genbank	exon	151039	151850	.	-	.	transcript_id "rna-Hte_004391-T1_mrna"; gene_id "gene-Hte_004391";
+CP156180.1	Genbank	exon	151925	152342	.	-	.	transcript_id "rna-Hte_004391-T1_mrna"; gene_id "gene-Hte_004391";
+CP156180.1	Genbank	CDS	151039	151850	.	-	2	transcript_id "rna-Hte_004391-T1_mrna"; gene_id "gene-Hte_004391";
+CP156180.1	Genbank	CDS	151925	152342	.	-	0	transcript_id "rna-Hte_004391-T1_mrna"; gene_id "gene-Hte_004391";
+CP156180.1	Genbank	transcript	255503	257467	.	+	.	transcript_id "rna-Hte_004416-T1_mrna"; gene_id "gene-Hte_004416"
+CP156180.1	Genbank	exon	255503	255693	.	+	.	transcript_id "rna-Hte_004416-T1_mrna"; gene_id "gene-Hte_004416";
+CP156180.1	Genbank	exon	255748	256887	.	+	.	transcript_id "rna-Hte_004416-T1_mrna"; gene_id "gene-Hte_004416";
+CP156180.1	Genbank	exon	256951	257467	.	+	.	transcript_id "rna-Hte_004416-T1_mrna"; gene_id "gene-Hte_004416";
+CP156180.1	Genbank	CDS	255503	255693	.	+	0	transcript_id "rna-Hte_004416-T1_mrna"; gene_id "gene-Hte_004416";
+CP156180.1	Genbank	CDS	255748	256887	.	+	1	transcript_id "rna-Hte_004416-T1_mrna"; gene_id "gene-Hte_004416";
+CP156180.1	Genbank	CDS	256951	257467	.	+	1	transcript_id "rna-Hte_004416-T1_mrna"; gene_id "gene-Hte_004416";
+CP156180.1	Genbank	transcript	449650	450355	.	-	.	transcript_id "rna-Hte_004464-T1_mrna"; gene_id "gene-Hte_004464"
+CP156180.1	Genbank	exon	449650	450235	.	-	.	transcript_id "rna-Hte_004464-T1_mrna"; gene_id "gene-Hte_004464";
+CP156180.1	Genbank	exon	450342	450355	.	-	.	transcript_id "rna-Hte_004464-T1_mrna"; gene_id "gene-Hte_004464";
+CP156180.1	Genbank	CDS	449650	450235	.	-	1	transcript_id "rna-Hte_004464-T1_mrna"; gene_id "gene-Hte_004464";
+CP156180.1	Genbank	CDS	450342	450355	.	-	0	transcript_id "rna-Hte_004464-T1_mrna"; gene_id "gene-Hte_004464";
+CP156180.1	Genbank	transcript	674613	676676	.	+	.	transcript_id "rna-Hte_004540-T1_mrna"; gene_id "gene-Hte_004540"
+CP156180.1	Genbank	exon	674613	676676	.	+	.	transcript_id "rna-Hte_004540-T1_mrna"; gene_id "gene-Hte_004540";
+CP156180.1	Genbank	CDS	674613	676676	.	+	0	transcript_id "rna-Hte_004540-T1_mrna"; gene_id "gene-Hte_004540";
+CP156180.1	Genbank	transcript	723199	724121	.	-	.	transcript_id "rna-Hte_004561-T1_mrna"; gene_id "gene-Hte_004561"; gene_name "MDV1"
+CP156180.1	Genbank	exon	723199	723969	.	-	.	transcript_id "rna-Hte_004561-T1_mrna"; gene_id "gene-Hte_004561"; gene_name "MDV1";
+CP156180.1	Genbank	exon	724029	724121	.	-	.	transcript_id "rna-Hte_004561-T1_mrna"; gene_id "gene-Hte_004561"; gene_name "MDV1";
+CP156180.1	Genbank	CDS	723199	723969	.	-	0	transcript_id "rna-Hte_004561-T1_mrna"; gene_id "gene-Hte_004561"; gene_name "MDV1";
+CP156180.1	Genbank	CDS	724029	724121	.	-	0	transcript_id "rna-Hte_004561-T1_mrna"; gene_id "gene-Hte_004561"; gene_name "MDV1";
+CP156180.1	Genbank	transcript	2174362	2176219	.	-	.	transcript_id "rna-Hte_004986-T1_mrna"; gene_id "gene-Hte_004986"
+CP156180.1	Genbank	exon	2174362	2174418	.	-	.	transcript_id "rna-Hte_004986-T1_mrna"; gene_id "gene-Hte_004986";
+CP156180.1	Genbank	exon	2174463	2175008	.	-	.	transcript_id "rna-Hte_004986-T1_mrna"; gene_id "gene-Hte_004986";
+CP156180.1	Genbank	exon	2175058	2175492	.	-	.	transcript_id "rna-Hte_004986-T1_mrna"; gene_id "gene-Hte_004986";
+CP156180.1	Genbank	exon	2175557	2176219	.	-	.	transcript_id "rna-Hte_004986-T1_mrna"; gene_id "gene-Hte_004986";
+CP156180.1	Genbank	CDS	2174362	2174418	.	-	0	transcript_id "rna-Hte_004986-T1_mrna"; gene_id "gene-Hte_004986";
+CP156180.1	Genbank	CDS	2174463	2175008	.	-	0	transcript_id "rna-Hte_004986-T1_mrna"; gene_id "gene-Hte_004986";
+CP156180.1	Genbank	CDS	2175058	2175492	.	-	0	transcript_id "rna-Hte_004986-T1_mrna"; gene_id "gene-Hte_004986";
+CP156180.1	Genbank	CDS	2175557	2176219	.	-	0	transcript_id "rna-Hte_004986-T1_mrna"; gene_id "gene-Hte_004986";
+CP156180.1	Genbank	transcript	2204580	2205491	.	+	.	transcript_id "rna-Hte_004998-T1_mrna"; gene_id "gene-Hte_004998"
+CP156180.1	Genbank	exon	2204580	2204582	.	+	.	transcript_id "rna-Hte_004998-T1_mrna"; gene_id "gene-Hte_004998";
+CP156180.1	Genbank	exon	2204642	2205168	.	+	.	transcript_id "rna-Hte_004998-T1_mrna"; gene_id "gene-Hte_004998";
+CP156180.1	Genbank	exon	2205239	2205491	.	+	.	transcript_id "rna-Hte_004998-T1_mrna"; gene_id "gene-Hte_004998";
+CP156180.1	Genbank	CDS	2204580	2204582	.	+	0	transcript_id "rna-Hte_004998-T1_mrna"; gene_id "gene-Hte_004998";
+CP156180.1	Genbank	CDS	2204642	2205168	.	+	0	transcript_id "rna-Hte_004998-T1_mrna"; gene_id "gene-Hte_004998";
+CP156180.1	Genbank	CDS	2205239	2205491	.	+	1	transcript_id "rna-Hte_004998-T1_mrna"; gene_id "gene-Hte_004998";
+CP156180.1	Genbank	transcript	2210450	2211291	.	+	.	transcript_id "rna-Hte_005000-T1_mrna"; gene_id "gene-Hte_005000"; gene_name "NSA2"
+CP156180.1	Genbank	exon	2210450	2210461	.	+	.	transcript_id "rna-Hte_005000-T1_mrna"; gene_id "gene-Hte_005000"; gene_name "NSA2";
+CP156180.1	Genbank	exon	2210527	2210722	.	+	.	transcript_id "rna-Hte_005000-T1_mrna"; gene_id "gene-Hte_005000"; gene_name "NSA2";
+CP156180.1	Genbank	exon	2210807	2210893	.	+	.	transcript_id "rna-Hte_005000-T1_mrna"; gene_id "gene-Hte_005000"; gene_name "NSA2";
+CP156180.1	Genbank	exon	2210943	2211006	.	+	.	transcript_id "rna-Hte_005000-T1_mrna"; gene_id "gene-Hte_005000"; gene_name "NSA2";
+CP156180.1	Genbank	exon	2211063	2211291	.	+	.	transcript_id "rna-Hte_005000-T1_mrna"; gene_id "gene-Hte_005000"; gene_name "NSA2";
+CP156180.1	Genbank	CDS	2210450	2210461	.	+	0	transcript_id "rna-Hte_005000-T1_mrna"; gene_id "gene-Hte_005000"; gene_name "NSA2";
+CP156180.1	Genbank	CDS	2210527	2210722	.	+	0	transcript_id "rna-Hte_005000-T1_mrna"; gene_id "gene-Hte_005000"; gene_name "NSA2";
+CP156180.1	Genbank	CDS	2210807	2210893	.	+	2	transcript_id "rna-Hte_005000-T1_mrna"; gene_id "gene-Hte_005000"; gene_name "NSA2";
+CP156180.1	Genbank	CDS	2210943	2211006	.	+	2	transcript_id "rna-Hte_005000-T1_mrna"; gene_id "gene-Hte_005000"; gene_name "NSA2";
+CP156180.1	Genbank	CDS	2211063	2211291	.	+	1	transcript_id "rna-Hte_005000-T1_mrna"; gene_id "gene-Hte_005000"; gene_name "NSA2";
+CP156180.1	Genbank	transcript	2240884	2244077	.	+	.	transcript_id "rna-Hte_005011-T1_mrna"; gene_id "gene-Hte_005011"
+CP156180.1	Genbank	exon	2240884	2241477	.	+	.	transcript_id "rna-Hte_005011-T1_mrna"; gene_id "gene-Hte_005011";
+CP156180.1	Genbank	exon	2241545	2242686	.	+	.	transcript_id "rna-Hte_005011-T1_mrna"; gene_id "gene-Hte_005011";
+CP156180.1	Genbank	exon	2242742	2244077	.	+	.	transcript_id "rna-Hte_005011-T1_mrna"; gene_id "gene-Hte_005011";
+CP156180.1	Genbank	CDS	2240884	2241477	.	+	0	transcript_id "rna-Hte_005011-T1_mrna"; gene_id "gene-Hte_005011";
+CP156180.1	Genbank	CDS	2241545	2242686	.	+	0	transcript_id "rna-Hte_005011-T1_mrna"; gene_id "gene-Hte_005011";
+CP156180.1	Genbank	CDS	2242742	2244077	.	+	1	transcript_id "rna-Hte_005011-T1_mrna"; gene_id "gene-Hte_005011";
+CP156180.1	Genbank	transcript	2455411	2456148	.	+	.	transcript_id "rna-Hte_005070-T1_mrna"; gene_id "gene-Hte_005070"; gene_name "cyp15"
+CP156180.1	Genbank	exon	2455411	2455716	.	+	.	transcript_id "rna-Hte_005070-T1_mrna"; gene_id "gene-Hte_005070"; gene_name "cyp15";
+CP156180.1	Genbank	exon	2455789	2456148	.	+	.	transcript_id "rna-Hte_005070-T1_mrna"; gene_id "gene-Hte_005070"; gene_name "cyp15";
+CP156180.1	Genbank	CDS	2455411	2455716	.	+	0	transcript_id "rna-Hte_005070-T1_mrna"; gene_id "gene-Hte_005070"; gene_name "cyp15";
+CP156180.1	Genbank	CDS	2455789	2456148	.	+	0	transcript_id "rna-Hte_005070-T1_mrna"; gene_id "gene-Hte_005070"; gene_name "cyp15";
+CP156180.1	Genbank	transcript	2621139	2622761	.	-	.	transcript_id "rna-Hte_005126-T1_mrna"; gene_id "gene-Hte_005126"; gene_name "DUS4"
+CP156180.1	Genbank	exon	2621139	2622653	.	-	.	transcript_id "rna-Hte_005126-T1_mrna"; gene_id "gene-Hte_005126"; gene_name "DUS4";
+CP156180.1	Genbank	exon	2622717	2622761	.	-	.	transcript_id "rna-Hte_005126-T1_mrna"; gene_id "gene-Hte_005126"; gene_name "DUS4";
+CP156180.1	Genbank	CDS	2621139	2622653	.	-	0	transcript_id "rna-Hte_005126-T1_mrna"; gene_id "gene-Hte_005126"; gene_name "DUS4";
+CP156180.1	Genbank	CDS	2622717	2622761	.	-	0	transcript_id "rna-Hte_005126-T1_mrna"; gene_id "gene-Hte_005126"; gene_name "DUS4";
+CP156180.1	Genbank	transcript	2665150	2667692	.	+	.	transcript_id "rna-Hte_005141-T1_mrna"; gene_id "gene-Hte_005141"
+CP156180.1	Genbank	exon	2665150	2665583	.	+	.	transcript_id "rna-Hte_005141-T1_mrna"; gene_id "gene-Hte_005141";
+CP156180.1	Genbank	exon	2666327	2667692	.	+	.	transcript_id "rna-Hte_005141-T1_mrna"; gene_id "gene-Hte_005141";
+CP156180.1	Genbank	CDS	2665150	2665583	.	+	0	transcript_id "rna-Hte_005141-T1_mrna"; gene_id "gene-Hte_005141";
+CP156180.1	Genbank	CDS	2666327	2667692	.	+	1	transcript_id "rna-Hte_005141-T1_mrna"; gene_id "gene-Hte_005141";
+CP156180.1	Genbank	transcript	2772121	2772852	.	+	.	transcript_id "rna-Hte_005178-T1_mrna"; gene_id "gene-Hte_005178"; gene_name "TIM54"
+CP156180.1	Genbank	exon	2772121	2772852	.	+	.	transcript_id "rna-Hte_005178-T1_mrna"; gene_id "gene-Hte_005178"; gene_name "TIM54";
+CP156180.1	Genbank	CDS	2772121	2772852	.	+	0	transcript_id "rna-Hte_005178-T1_mrna"; gene_id "gene-Hte_005178"; gene_name "TIM54";
+CP156180.1	Genbank	transcript	3748627	3749427	.	-	.	transcript_id "rna-Hte_005387-T1_mrna"; gene_id "gene-Hte_005387"
+CP156180.1	Genbank	exon	3748627	3749258	.	-	.	transcript_id "rna-Hte_005387-T1_mrna"; gene_id "gene-Hte_005387";
+CP156180.1	Genbank	exon	3749361	3749427	.	-	.	transcript_id "rna-Hte_005387-T1_mrna"; gene_id "gene-Hte_005387";
+CP156180.1	Genbank	CDS	3748627	3749258	.	-	2	transcript_id "rna-Hte_005387-T1_mrna"; gene_id "gene-Hte_005387";
+CP156180.1	Genbank	CDS	3749361	3749427	.	-	0	transcript_id "rna-Hte_005387-T1_mrna"; gene_id "gene-Hte_005387";
+CP156180.1	Genbank	transcript	3760988	3761878	.	-	.	transcript_id "rna-Hte_005394-T1_mrna"; gene_id "gene-Hte_005394"; gene_name "RPN10"
+CP156180.1	Genbank	exon	3760988	3761403	.	-	.	transcript_id "rna-Hte_005394-T1_mrna"; gene_id "gene-Hte_005394"; gene_name "RPN10";
+CP156180.1	Genbank	exon	3761493	3761580	.	-	.	transcript_id "rna-Hte_005394-T1_mrna"; gene_id "gene-Hte_005394"; gene_name "RPN10";
+CP156180.1	Genbank	exon	3761694	3761713	.	-	.	transcript_id "rna-Hte_005394-T1_mrna"; gene_id "gene-Hte_005394"; gene_name "RPN10";
+CP156180.1	Genbank	exon	3761812	3761878	.	-	.	transcript_id "rna-Hte_005394-T1_mrna"; gene_id "gene-Hte_005394"; gene_name "RPN10";
+CP156180.1	Genbank	CDS	3760988	3761403	.	-	2	transcript_id "rna-Hte_005394-T1_mrna"; gene_id "gene-Hte_005394"; gene_name "RPN10";
+CP156180.1	Genbank	CDS	3761493	3761580	.	-	0	transcript_id "rna-Hte_005394-T1_mrna"; gene_id "gene-Hte_005394"; gene_name "RPN10";
+CP156180.1	Genbank	CDS	3761694	3761713	.	-	2	transcript_id "rna-Hte_005394-T1_mrna"; gene_id "gene-Hte_005394"; gene_name "RPN10";
+CP156180.1	Genbank	CDS	3761812	3761878	.	-	0	transcript_id "rna-Hte_005394-T1_mrna"; gene_id "gene-Hte_005394"; gene_name "RPN10";
+CP156180.1	Genbank	transcript	3903220	3904665	.	+	.	transcript_id "rna-Hte_005439-T1_mrna"; gene_id "gene-Hte_005439"
+CP156180.1	Genbank	exon	3903220	3904665	.	+	.	transcript_id "rna-Hte_005439-T1_mrna"; gene_id "gene-Hte_005439";
+CP156180.1	Genbank	CDS	3903220	3904665	.	+	0	transcript_id "rna-Hte_005439-T1_mrna"; gene_id "gene-Hte_005439";
+CP156180.1	Genbank	transcript	4185325	4186452	.	-	.	transcript_id "rna-Hte_005496-T1_mrna"; gene_id "gene-Hte_005496"
+CP156180.1	Genbank	exon	4185325	4186071	.	-	.	transcript_id "rna-Hte_005496-T1_mrna"; gene_id "gene-Hte_005496";
+CP156180.1	Genbank	exon	4186147	4186452	.	-	.	transcript_id "rna-Hte_005496-T1_mrna"; gene_id "gene-Hte_005496";
+CP156180.1	Genbank	CDS	4185325	4186071	.	-	0	transcript_id "rna-Hte_005496-T1_mrna"; gene_id "gene-Hte_005496";
+CP156180.1	Genbank	CDS	4186147	4186452	.	-	0	transcript_id "rna-Hte_005496-T1_mrna"; gene_id "gene-Hte_005496";
+CP156180.1	Genbank	transcript	4282815	4284089	.	-	.	transcript_id "rna-Hte_005517-T1_mrna"; gene_id "gene-Hte_005517"
+CP156180.1	Genbank	exon	4282815	4282904	.	-	.	transcript_id "rna-Hte_005517-T1_mrna"; gene_id "gene-Hte_005517";
+CP156180.1	Genbank	exon	4282979	4283900	.	-	.	transcript_id "rna-Hte_005517-T1_mrna"; gene_id "gene-Hte_005517";
+CP156180.1	Genbank	exon	4284022	4284089	.	-	.	transcript_id "rna-Hte_005517-T1_mrna"; gene_id "gene-Hte_005517";
+CP156180.1	Genbank	CDS	4282815	4282904	.	-	0	transcript_id "rna-Hte_005517-T1_mrna"; gene_id "gene-Hte_005517";
+CP156180.1	Genbank	CDS	4282979	4283900	.	-	1	transcript_id "rna-Hte_005517-T1_mrna"; gene_id "gene-Hte_005517";
+CP156180.1	Genbank	CDS	4284022	4284089	.	-	0	transcript_id "rna-Hte_005517-T1_mrna"; gene_id "gene-Hte_005517";
+CP156180.1	Genbank	transcript	4369137	4371755	.	+	.	transcript_id "rna-Hte_005535-T1_mrna"; gene_id "gene-Hte_005535"; gene_name "GDI1"
+CP156180.1	Genbank	exon	4369137	4371755	.	+	.	transcript_id "rna-Hte_005535-T1_mrna"; gene_id "gene-Hte_005535"; gene_name "GDI1";
+CP156180.1	Genbank	CDS	4369137	4371755	.	+	0	transcript_id "rna-Hte_005535-T1_mrna"; gene_id "gene-Hte_005535"; gene_name "GDI1";
+CP156180.1	Genbank	transcript	4392876	4395848	.	-	.	transcript_id "rna-Hte_005539-T1_mrna"; gene_id "gene-Hte_005539"
+CP156180.1	Genbank	exon	4392876	4395768	.	-	.	transcript_id "rna-Hte_005539-T1_mrna"; gene_id "gene-Hte_005539";
+CP156180.1	Genbank	exon	4395832	4395848	.	-	.	transcript_id "rna-Hte_005539-T1_mrna"; gene_id "gene-Hte_005539";
+CP156180.1	Genbank	CDS	4392876	4395768	.	-	1	transcript_id "rna-Hte_005539-T1_mrna"; gene_id "gene-Hte_005539";
+CP156180.1	Genbank	CDS	4395832	4395848	.	-	0	transcript_id "rna-Hte_005539-T1_mrna"; gene_id "gene-Hte_005539";
+CP156180.1	Genbank	transcript	4531878	4533387	.	+	.	transcript_id "rna-Hte_005591-T1_mrna"; gene_id "gene-Hte_005591"
+CP156180.1	Genbank	exon	4531878	4532309	.	+	.	transcript_id "rna-Hte_005591-T1_mrna"; gene_id "gene-Hte_005591";
+CP156180.1	Genbank	exon	4532404	4533387	.	+	.	transcript_id "rna-Hte_005591-T1_mrna"; gene_id "gene-Hte_005591";
+CP156180.1	Genbank	CDS	4531878	4532309	.	+	0	transcript_id "rna-Hte_005591-T1_mrna"; gene_id "gene-Hte_005591";
+CP156180.1	Genbank	CDS	4532404	4533387	.	+	0	transcript_id "rna-Hte_005591-T1_mrna"; gene_id "gene-Hte_005591";
+CP156180.1	Genbank	transcript	5233613	5234611	.	-	.	transcript_id "rna-Hte_005825-T1_mrna"; gene_id "gene-Hte_005825"
+CP156180.1	Genbank	exon	5233613	5234213	.	-	.	transcript_id "rna-Hte_005825-T1_mrna"; gene_id "gene-Hte_005825";
+CP156180.1	Genbank	exon	5234284	5234408	.	-	.	transcript_id "rna-Hte_005825-T1_mrna"; gene_id "gene-Hte_005825";
+CP156180.1	Genbank	exon	5234477	5234611	.	-	.	transcript_id "rna-Hte_005825-T1_mrna"; gene_id "gene-Hte_005825";
+CP156180.1	Genbank	CDS	5233613	5234213	.	-	1	transcript_id "rna-Hte_005825-T1_mrna"; gene_id "gene-Hte_005825";
+CP156180.1	Genbank	CDS	5234284	5234408	.	-	0	transcript_id "rna-Hte_005825-T1_mrna"; gene_id "gene-Hte_005825";
+CP156180.1	Genbank	CDS	5234477	5234611	.	-	0	transcript_id "rna-Hte_005825-T1_mrna"; gene_id "gene-Hte_005825";
+CP156180.1	Genbank	transcript	5234991	5235704	.	+	.	transcript_id "rna-Hte_005826-T1_mrna"; gene_id "gene-Hte_005826"; gene_name "BLI3"
+CP156180.1	Genbank	exon	5234991	5235704	.	+	.	transcript_id "rna-Hte_005826-T1_mrna"; gene_id "gene-Hte_005826"; gene_name "BLI3";
+CP156180.1	Genbank	CDS	5234991	5235704	.	+	0	transcript_id "rna-Hte_005826-T1_mrna"; gene_id "gene-Hte_005826"; gene_name "BLI3";
+CP156181.1	Genbank	transcript	804177	804942	.	-	.	transcript_id "rna-Hte_006094-T1_mrna"; gene_id "gene-Hte_006094"
+CP156181.1	Genbank	exon	804177	804753	.	-	.	transcript_id "rna-Hte_006094-T1_mrna"; gene_id "gene-Hte_006094";
+CP156181.1	Genbank	exon	804818	804942	.	-	.	transcript_id "rna-Hte_006094-T1_mrna"; gene_id "gene-Hte_006094";
+CP156181.1	Genbank	CDS	804177	804753	.	-	1	transcript_id "rna-Hte_006094-T1_mrna"; gene_id "gene-Hte_006094";
+CP156181.1	Genbank	CDS	804818	804942	.	-	0	transcript_id "rna-Hte_006094-T1_mrna"; gene_id "gene-Hte_006094";
+CP156181.1	Genbank	transcript	894312	896091	.	-	.	transcript_id "rna-Hte_006116-T1_mrna"; gene_id "gene-Hte_006116"
+CP156181.1	Genbank	exon	894312	894532	.	-	.	transcript_id "rna-Hte_006116-T1_mrna"; gene_id "gene-Hte_006116";
+CP156181.1	Genbank	exon	894637	895600	.	-	.	transcript_id "rna-Hte_006116-T1_mrna"; gene_id "gene-Hte_006116";
+CP156181.1	Genbank	exon	895677	895986	.	-	.	transcript_id "rna-Hte_006116-T1_mrna"; gene_id "gene-Hte_006116";
+CP156181.1	Genbank	exon	896045	896091	.	-	.	transcript_id "rna-Hte_006116-T1_mrna"; gene_id "gene-Hte_006116";
+CP156181.1	Genbank	CDS	894312	894532	.	-	2	transcript_id "rna-Hte_006116-T1_mrna"; gene_id "gene-Hte_006116";
+CP156181.1	Genbank	CDS	894637	895600	.	-	0	transcript_id "rna-Hte_006116-T1_mrna"; gene_id "gene-Hte_006116";
+CP156181.1	Genbank	CDS	895677	895986	.	-	1	transcript_id "rna-Hte_006116-T1_mrna"; gene_id "gene-Hte_006116";
+CP156181.1	Genbank	CDS	896045	896091	.	-	0	transcript_id "rna-Hte_006116-T1_mrna"; gene_id "gene-Hte_006116";
+CP156181.1	Genbank	transcript	917971	918620	.	-	.	transcript_id "rna-Hte_006124-T1_mrna"; gene_id "gene-Hte_006124"
+CP156181.1	Genbank	exon	917971	918001	.	-	.	transcript_id "rna-Hte_006124-T1_mrna"; gene_id "gene-Hte_006124";
+CP156181.1	Genbank	exon	918110	918357	.	-	.	transcript_id "rna-Hte_006124-T1_mrna"; gene_id "gene-Hte_006124";
+CP156181.1	Genbank	exon	918516	918620	.	-	.	transcript_id "rna-Hte_006124-T1_mrna"; gene_id "gene-Hte_006124";
+CP156181.1	Genbank	CDS	917971	918001	.	-	1	transcript_id "rna-Hte_006124-T1_mrna"; gene_id "gene-Hte_006124";
+CP156181.1	Genbank	CDS	918110	918357	.	-	0	transcript_id "rna-Hte_006124-T1_mrna"; gene_id "gene-Hte_006124";
+CP156181.1	Genbank	CDS	918516	918620	.	-	0	transcript_id "rna-Hte_006124-T1_mrna"; gene_id "gene-Hte_006124";
+CP156181.1	Genbank	transcript	1019289	1020272	.	-	.	transcript_id "rna-Hte_006162-T1_mrna"; gene_id "gene-Hte_006162"
+CP156181.1	Genbank	exon	1019289	1019792	.	-	.	transcript_id "rna-Hte_006162-T1_mrna"; gene_id "gene-Hte_006162";
+CP156181.1	Genbank	exon	1019847	1020272	.	-	.	transcript_id "rna-Hte_006162-T1_mrna"; gene_id "gene-Hte_006162";
+CP156181.1	Genbank	CDS	1019289	1019792	.	-	0	transcript_id "rna-Hte_006162-T1_mrna"; gene_id "gene-Hte_006162";
+CP156181.1	Genbank	CDS	1019847	1020272	.	-	0	transcript_id "rna-Hte_006162-T1_mrna"; gene_id "gene-Hte_006162";
+CP156181.1	Genbank	transcript	1117215	1118771	.	-	.	transcript_id "rna-Hte_006197-T1_mrna"; gene_id "gene-Hte_006197"
+CP156181.1	Genbank	exon	1117215	1118771	.	-	.	transcript_id "rna-Hte_006197-T1_mrna"; gene_id "gene-Hte_006197";
+CP156181.1	Genbank	CDS	1117215	1118771	.	-	0	transcript_id "rna-Hte_006197-T1_mrna"; gene_id "gene-Hte_006197";
+CP156181.1	Genbank	transcript	1409027	1411883	.	+	.	transcript_id "rna-Hte_006276-T1_mrna"; gene_id "gene-Hte_006276"; gene_name "CTF1BETA"
+CP156181.1	Genbank	exon	1409027	1409207	.	+	.	transcript_id "rna-Hte_006276-T1_mrna"; gene_id "gene-Hte_006276"; gene_name "CTF1BETA";
+CP156181.1	Genbank	exon	1409359	1411883	.	+	.	transcript_id "rna-Hte_006276-T1_mrna"; gene_id "gene-Hte_006276"; gene_name "CTF1BETA";
+CP156181.1	Genbank	CDS	1409027	1409207	.	+	0	transcript_id "rna-Hte_006276-T1_mrna"; gene_id "gene-Hte_006276"; gene_name "CTF1BETA";
+CP156181.1	Genbank	CDS	1409359	1411883	.	+	2	transcript_id "rna-Hte_006276-T1_mrna"; gene_id "gene-Hte_006276"; gene_name "CTF1BETA";
+CP156181.1	Genbank	transcript	2392954	2394187	.	+	.	transcript_id "rna-Hte_006562-T1_mrna"; gene_id "gene-Hte_006562"; gene_name "KTR4_2"
+CP156181.1	Genbank	exon	2392954	2392975	.	+	.	transcript_id "rna-Hte_006562-T1_mrna"; gene_id "gene-Hte_006562"; gene_name "KTR4_2";
+CP156181.1	Genbank	exon	2393068	2393196	.	+	.	transcript_id "rna-Hte_006562-T1_mrna"; gene_id "gene-Hte_006562"; gene_name "KTR4_2";
+CP156181.1	Genbank	exon	2393266	2393288	.	+	.	transcript_id "rna-Hte_006562-T1_mrna"; gene_id "gene-Hte_006562"; gene_name "KTR4_2";
+CP156181.1	Genbank	exon	2393348	2393406	.	+	.	transcript_id "rna-Hte_006562-T1_mrna"; gene_id "gene-Hte_006562"; gene_name "KTR4_2";
+CP156181.1	Genbank	exon	2393469	2393538	.	+	.	transcript_id "rna-Hte_006562-T1_mrna"; gene_id "gene-Hte_006562"; gene_name "KTR4_2";
+CP156181.1	Genbank	exon	2393600	2394187	.	+	.	transcript_id "rna-Hte_006562-T1_mrna"; gene_id "gene-Hte_006562"; gene_name "KTR4_2";
+CP156181.1	Genbank	CDS	2392954	2392975	.	+	0	transcript_id "rna-Hte_006562-T1_mrna"; gene_id "gene-Hte_006562"; gene_name "KTR4_2";
+CP156181.1	Genbank	CDS	2393068	2393196	.	+	2	transcript_id "rna-Hte_006562-T1_mrna"; gene_id "gene-Hte_006562"; gene_name "KTR4_2";
+CP156181.1	Genbank	CDS	2393266	2393288	.	+	2	transcript_id "rna-Hte_006562-T1_mrna"; gene_id "gene-Hte_006562"; gene_name "KTR4_2";
+CP156181.1	Genbank	CDS	2393348	2393406	.	+	0	transcript_id "rna-Hte_006562-T1_mrna"; gene_id "gene-Hte_006562"; gene_name "KTR4_2";
+CP156181.1	Genbank	CDS	2393469	2393538	.	+	1	transcript_id "rna-Hte_006562-T1_mrna"; gene_id "gene-Hte_006562"; gene_name "KTR4_2";
+CP156181.1	Genbank	CDS	2393600	2394187	.	+	0	transcript_id "rna-Hte_006562-T1_mrna"; gene_id "gene-Hte_006562"; gene_name "KTR4_2";
+CP156181.1	Genbank	transcript	2545056	2545966	.	-	.	transcript_id "rna-Hte_006605-T1_mrna"; gene_id "gene-Hte_006605"
+CP156181.1	Genbank	exon	2545056	2545272	.	-	.	transcript_id "rna-Hte_006605-T1_mrna"; gene_id "gene-Hte_006605";
+CP156181.1	Genbank	exon	2545391	2545539	.	-	.	transcript_id "rna-Hte_006605-T1_mrna"; gene_id "gene-Hte_006605";
+CP156181.1	Genbank	exon	2545784	2545966	.	-	.	transcript_id "rna-Hte_006605-T1_mrna"; gene_id "gene-Hte_006605";
+CP156181.1	Genbank	CDS	2545056	2545272	.	-	1	transcript_id "rna-Hte_006605-T1_mrna"; gene_id "gene-Hte_006605";
+CP156181.1	Genbank	CDS	2545391	2545539	.	-	0	transcript_id "rna-Hte_006605-T1_mrna"; gene_id "gene-Hte_006605";
+CP156181.1	Genbank	CDS	2545784	2545966	.	-	0	transcript_id "rna-Hte_006605-T1_mrna"; gene_id "gene-Hte_006605";
+CP156181.1	Genbank	transcript	2566649	2568457	.	-	.	transcript_id "rna-Hte_006610-T1_mrna"; gene_id "gene-Hte_006610"; gene_name "NAP1"
+CP156181.1	Genbank	exon	2566649	2568457	.	-	.	transcript_id "rna-Hte_006610-T1_mrna"; gene_id "gene-Hte_006610"; gene_name "NAP1";
+CP156181.1	Genbank	CDS	2566649	2568457	.	-	0	transcript_id "rna-Hte_006610-T1_mrna"; gene_id "gene-Hte_006610"; gene_name "NAP1";
+CP156181.1	Genbank	transcript	2619557	2620699	.	+	.	transcript_id "rna-Hte_006628-T1_mrna"; gene_id "gene-Hte_006628"; gene_name "rga8"
+CP156181.1	Genbank	exon	2619557	2619934	.	+	.	transcript_id "rna-Hte_006628-T1_mrna"; gene_id "gene-Hte_006628"; gene_name "rga8";
+CP156181.1	Genbank	exon	2619992	2620198	.	+	.	transcript_id "rna-Hte_006628-T1_mrna"; gene_id "gene-Hte_006628"; gene_name "rga8";
+CP156181.1	Genbank	exon	2620256	2620399	.	+	.	transcript_id "rna-Hte_006628-T1_mrna"; gene_id "gene-Hte_006628"; gene_name "rga8";
+CP156181.1	Genbank	exon	2620460	2620699	.	+	.	transcript_id "rna-Hte_006628-T1_mrna"; gene_id "gene-Hte_006628"; gene_name "rga8";
+CP156181.1	Genbank	CDS	2619557	2619934	.	+	0	transcript_id "rna-Hte_006628-T1_mrna"; gene_id "gene-Hte_006628"; gene_name "rga8";
+CP156181.1	Genbank	CDS	2619992	2620198	.	+	0	transcript_id "rna-Hte_006628-T1_mrna"; gene_id "gene-Hte_006628"; gene_name "rga8";
+CP156181.1	Genbank	CDS	2620256	2620399	.	+	0	transcript_id "rna-Hte_006628-T1_mrna"; gene_id "gene-Hte_006628"; gene_name "rga8";
+CP156181.1	Genbank	CDS	2620460	2620699	.	+	0	transcript_id "rna-Hte_006628-T1_mrna"; gene_id "gene-Hte_006628"; gene_name "rga8";
+CP156181.1	Genbank	transcript	2731018	2732105	.	+	.	transcript_id "rna-Hte_006661-T1_mrna"; gene_id "gene-Hte_006661"
+CP156181.1	Genbank	exon	2731018	2731367	.	+	.	transcript_id "rna-Hte_006661-T1_mrna"; gene_id "gene-Hte_006661";
+CP156181.1	Genbank	exon	2731442	2732105	.	+	.	transcript_id "rna-Hte_006661-T1_mrna"; gene_id "gene-Hte_006661";
+CP156181.1	Genbank	CDS	2731018	2731367	.	+	0	transcript_id "rna-Hte_006661-T1_mrna"; gene_id "gene-Hte_006661";
+CP156181.1	Genbank	CDS	2731442	2732105	.	+	1	transcript_id "rna-Hte_006661-T1_mrna"; gene_id "gene-Hte_006661";
+CP156181.1	Genbank	transcript	2842190	2844761	.	+	.	transcript_id "rna-Hte_006689-T1_mrna"; gene_id "gene-Hte_006689"
+CP156181.1	Genbank	exon	2842190	2842247	.	+	.	transcript_id "rna-Hte_006689-T1_mrna"; gene_id "gene-Hte_006689";
+CP156181.1	Genbank	exon	2842364	2842833	.	+	.	transcript_id "rna-Hte_006689-T1_mrna"; gene_id "gene-Hte_006689";
+CP156181.1	Genbank	exon	2842893	2843973	.	+	.	transcript_id "rna-Hte_006689-T1_mrna"; gene_id "gene-Hte_006689";
+CP156181.1	Genbank	exon	2844031	2844761	.	+	.	transcript_id "rna-Hte_006689-T1_mrna"; gene_id "gene-Hte_006689";
+CP156181.1	Genbank	CDS	2842190	2842247	.	+	0	transcript_id "rna-Hte_006689-T1_mrna"; gene_id "gene-Hte_006689";
+CP156181.1	Genbank	CDS	2842364	2842833	.	+	2	transcript_id "rna-Hte_006689-T1_mrna"; gene_id "gene-Hte_006689";
+CP156181.1	Genbank	CDS	2842893	2843973	.	+	0	transcript_id "rna-Hte_006689-T1_mrna"; gene_id "gene-Hte_006689";
+CP156181.1	Genbank	CDS	2844031	2844761	.	+	2	transcript_id "rna-Hte_006689-T1_mrna"; gene_id "gene-Hte_006689";
+CP156181.1	Genbank	transcript	3132008	3134023	.	+	.	transcript_id "rna-Hte_006736-T1_mrna"; gene_id "gene-Hte_006736"
+CP156181.1	Genbank	exon	3132008	3132771	.	+	.	transcript_id "rna-Hte_006736-T1_mrna"; gene_id "gene-Hte_006736";
+CP156181.1	Genbank	exon	3132823	3134023	.	+	.	transcript_id "rna-Hte_006736-T1_mrna"; gene_id "gene-Hte_006736";
+CP156181.1	Genbank	CDS	3132008	3132771	.	+	0	transcript_id "rna-Hte_006736-T1_mrna"; gene_id "gene-Hte_006736";
+CP156181.1	Genbank	CDS	3132823	3134023	.	+	1	transcript_id "rna-Hte_006736-T1_mrna"; gene_id "gene-Hte_006736";
+CP156181.1	Genbank	transcript	3177216	3177861	.	-	.	transcript_id "rna-Hte_006750-T1_mrna"; gene_id "gene-Hte_006750"
+CP156181.1	Genbank	exon	3177216	3177619	.	-	.	transcript_id "rna-Hte_006750-T1_mrna"; gene_id "gene-Hte_006750";
+CP156181.1	Genbank	exon	3177693	3177861	.	-	.	transcript_id "rna-Hte_006750-T1_mrna"; gene_id "gene-Hte_006750";
+CP156181.1	Genbank	CDS	3177216	3177619	.	-	2	transcript_id "rna-Hte_006750-T1_mrna"; gene_id "gene-Hte_006750";
+CP156181.1	Genbank	CDS	3177693	3177861	.	-	0	transcript_id "rna-Hte_006750-T1_mrna"; gene_id "gene-Hte_006750";
+CP156181.1	Genbank	transcript	3374960	3377770	.	-	.	transcript_id "rna-Hte_006792-T1_mrna"; gene_id "gene-Hte_006792"
+CP156181.1	Genbank	exon	3374960	3377525	.	-	.	transcript_id "rna-Hte_006792-T1_mrna"; gene_id "gene-Hte_006792";
+CP156181.1	Genbank	exon	3377590	3377702	.	-	.	transcript_id "rna-Hte_006792-T1_mrna"; gene_id "gene-Hte_006792";
+CP156181.1	Genbank	exon	3377753	3377770	.	-	.	transcript_id "rna-Hte_006792-T1_mrna"; gene_id "gene-Hte_006792";
+CP156181.1	Genbank	CDS	3374960	3377525	.	-	1	transcript_id "rna-Hte_006792-T1_mrna"; gene_id "gene-Hte_006792";
+CP156181.1	Genbank	CDS	3377590	3377702	.	-	0	transcript_id "rna-Hte_006792-T1_mrna"; gene_id "gene-Hte_006792";
+CP156181.1	Genbank	CDS	3377753	3377770	.	-	0	transcript_id "rna-Hte_006792-T1_mrna"; gene_id "gene-Hte_006792";
+CP156181.1	Genbank	transcript	4491388	4492871	.	-	.	transcript_id "rna-Hte_007129-T1_mrna"; gene_id "gene-Hte_007129"
+CP156181.1	Genbank	exon	4491388	4491767	.	-	.	transcript_id "rna-Hte_007129-T1_mrna"; gene_id "gene-Hte_007129";
+CP156181.1	Genbank	exon	4491872	4492871	.	-	.	transcript_id "rna-Hte_007129-T1_mrna"; gene_id "gene-Hte_007129";
+CP156181.1	Genbank	CDS	4491388	4491767	.	-	2	transcript_id "rna-Hte_007129-T1_mrna"; gene_id "gene-Hte_007129";
+CP156181.1	Genbank	CDS	4491872	4492871	.	-	0	transcript_id "rna-Hte_007129-T1_mrna"; gene_id "gene-Hte_007129";
+CP156182.1	Genbank	transcript	318500	319735	.	+	.	transcript_id "rna-Hte_007427-T1_mrna"; gene_id "gene-Hte_007427"; gene_name "IFM1"
+CP156182.1	Genbank	exon	318500	319735	.	+	.	transcript_id "rna-Hte_007427-T1_mrna"; gene_id "gene-Hte_007427"; gene_name "IFM1";
+CP156182.1	Genbank	CDS	318500	319735	.	+	0	transcript_id "rna-Hte_007427-T1_mrna"; gene_id "gene-Hte_007427"; gene_name "IFM1";
+CP156182.1	Genbank	transcript	481622	482377	.	+	.	transcript_id "rna-Hte_007470-T1_mrna"; gene_id "gene-Hte_007470"
+CP156182.1	Genbank	exon	481622	481706	.	+	.	transcript_id "rna-Hte_007470-T1_mrna"; gene_id "gene-Hte_007470";
+CP156182.1	Genbank	exon	481812	482377	.	+	.	transcript_id "rna-Hte_007470-T1_mrna"; gene_id "gene-Hte_007470";
+CP156182.1	Genbank	CDS	481622	481706	.	+	0	transcript_id "rna-Hte_007470-T1_mrna"; gene_id "gene-Hte_007470";
+CP156182.1	Genbank	CDS	481812	482377	.	+	2	transcript_id "rna-Hte_007470-T1_mrna"; gene_id "gene-Hte_007470";
+CP156182.1	Genbank	transcript	537946	540069	.	+	.	transcript_id "rna-Hte_007489-T1_mrna"; gene_id "gene-Hte_007489"; gene_name "LYS21"
+CP156182.1	Genbank	exon	537946	540069	.	+	.	transcript_id "rna-Hte_007489-T1_mrna"; gene_id "gene-Hte_007489"; gene_name "LYS21";
+CP156182.1	Genbank	CDS	537946	540069	.	+	0	transcript_id "rna-Hte_007489-T1_mrna"; gene_id "gene-Hte_007489"; gene_name "LYS21";
+CP156182.1	Genbank	transcript	3508143	3510689	.	+	.	transcript_id "rna-Hte_008290-T1_mrna"; gene_id "gene-Hte_008290"
+CP156182.1	Genbank	exon	3508143	3508253	.	+	.	transcript_id "rna-Hte_008290-T1_mrna"; gene_id "gene-Hte_008290";
+CP156182.1	Genbank	exon	3508311	3508615	.	+	.	transcript_id "rna-Hte_008290-T1_mrna"; gene_id "gene-Hte_008290";
+CP156182.1	Genbank	exon	3508673	3509012	.	+	.	transcript_id "rna-Hte_008290-T1_mrna"; gene_id "gene-Hte_008290";
+CP156182.1	Genbank	exon	3509068	3510006	.	+	.	transcript_id "rna-Hte_008290-T1_mrna"; gene_id "gene-Hte_008290";
+CP156182.1	Genbank	exon	3510069	3510689	.	+	.	transcript_id "rna-Hte_008290-T1_mrna"; gene_id "gene-Hte_008290";
+CP156182.1	Genbank	CDS	3508143	3508253	.	+	0	transcript_id "rna-Hte_008290-T1_mrna"; gene_id "gene-Hte_008290";
+CP156182.1	Genbank	CDS	3508311	3508615	.	+	0	transcript_id "rna-Hte_008290-T1_mrna"; gene_id "gene-Hte_008290";
+CP156182.1	Genbank	CDS	3508673	3509012	.	+	1	transcript_id "rna-Hte_008290-T1_mrna"; gene_id "gene-Hte_008290";
+CP156182.1	Genbank	CDS	3509068	3510006	.	+	0	transcript_id "rna-Hte_008290-T1_mrna"; gene_id "gene-Hte_008290";
+CP156182.1	Genbank	CDS	3510069	3510689	.	+	0	transcript_id "rna-Hte_008290-T1_mrna"; gene_id "gene-Hte_008290";
+CP156182.1	Genbank	transcript	3632984	3635115	.	-	.	transcript_id "rna-Hte_008329-T1_mrna"; gene_id "gene-Hte_008329"; gene_name "COG5"
+CP156182.1	Genbank	exon	3632984	3634344	.	-	.	transcript_id "rna-Hte_008329-T1_mrna"; gene_id "gene-Hte_008329"; gene_name "COG5";
+CP156182.1	Genbank	exon	3634788	3635115	.	-	.	transcript_id "rna-Hte_008329-T1_mrna"; gene_id "gene-Hte_008329"; gene_name "COG5";
+CP156182.1	Genbank	CDS	3632984	3634344	.	-	2	transcript_id "rna-Hte_008329-T1_mrna"; gene_id "gene-Hte_008329"; gene_name "COG5";
+CP156182.1	Genbank	CDS	3634788	3635115	.	-	0	transcript_id "rna-Hte_008329-T1_mrna"; gene_id "gene-Hte_008329"; gene_name "COG5";
+CP156183.1	Genbank	transcript	820195	821400	.	+	.	transcript_id "rna-Hte_008720-T1_mrna"; gene_id "gene-Hte_008720"
+CP156183.1	Genbank	exon	820195	821400	.	+	.	transcript_id "rna-Hte_008720-T1_mrna"; gene_id "gene-Hte_008720";
+CP156183.1	Genbank	CDS	820195	821400	.	+	0	transcript_id "rna-Hte_008720-T1_mrna"; gene_id "gene-Hte_008720";
+CP156183.1	Genbank	transcript	1077389	1079185	.	-	.	transcript_id "rna-Hte_008792-T1_mrna"; gene_id "gene-Hte_008792"; gene_name "RPL20B"
+CP156183.1	Genbank	exon	1077389	1077472	.	-	.	transcript_id "rna-Hte_008792-T1_mrna"; gene_id "gene-Hte_008792"; gene_name "RPL20B";
+CP156183.1	Genbank	exon	1077647	1078055	.	-	.	transcript_id "rna-Hte_008792-T1_mrna"; gene_id "gene-Hte_008792"; gene_name "RPL20B";
+CP156183.1	Genbank	exon	1078109	1078170	.	-	.	transcript_id "rna-Hte_008792-T1_mrna"; gene_id "gene-Hte_008792"; gene_name "RPL20B";
+CP156183.1	Genbank	exon	1078228	1078453	.	-	.	transcript_id "rna-Hte_008792-T1_mrna"; gene_id "gene-Hte_008792"; gene_name "RPL20B";
+CP156183.1	Genbank	exon	1078504	1078805	.	-	.	transcript_id "rna-Hte_008792-T1_mrna"; gene_id "gene-Hte_008792"; gene_name "RPL20B";
+CP156183.1	Genbank	exon	1078895	1079185	.	-	.	transcript_id "rna-Hte_008792-T1_mrna"; gene_id "gene-Hte_008792"; gene_name "RPL20B";
+CP156183.1	Genbank	CDS	1077389	1077472	.	-	0	transcript_id "rna-Hte_008792-T1_mrna"; gene_id "gene-Hte_008792"; gene_name "RPL20B";
+CP156183.1	Genbank	CDS	1077647	1078055	.	-	1	transcript_id "rna-Hte_008792-T1_mrna"; gene_id "gene-Hte_008792"; gene_name "RPL20B";
+CP156183.1	Genbank	CDS	1078109	1078170	.	-	0	transcript_id "rna-Hte_008792-T1_mrna"; gene_id "gene-Hte_008792"; gene_name "RPL20B";
+CP156183.1	Genbank	CDS	1078228	1078453	.	-	1	transcript_id "rna-Hte_008792-T1_mrna"; gene_id "gene-Hte_008792"; gene_name "RPL20B";
+CP156183.1	Genbank	CDS	1078504	1078805	.	-	0	transcript_id "rna-Hte_008792-T1_mrna"; gene_id "gene-Hte_008792"; gene_name "RPL20B";
+CP156183.1	Genbank	CDS	1078895	1079185	.	-	0	transcript_id "rna-Hte_008792-T1_mrna"; gene_id "gene-Hte_008792"; gene_name "RPL20B";
+CP156183.1	Genbank	transcript	1405826	1406790	.	+	.	transcript_id "rna-Hte_008894-T1_mrna"; gene_id "gene-Hte_008894"
+CP156183.1	Genbank	exon	1405826	1405921	.	+	.	transcript_id "rna-Hte_008894-T1_mrna"; gene_id "gene-Hte_008894";
+CP156183.1	Genbank	exon	1406056	1406790	.	+	.	transcript_id "rna-Hte_008894-T1_mrna"; gene_id "gene-Hte_008894";
+CP156183.1	Genbank	CDS	1405826	1405921	.	+	0	transcript_id "rna-Hte_008894-T1_mrna"; gene_id "gene-Hte_008894";
+CP156183.1	Genbank	CDS	1406056	1406790	.	+	0	transcript_id "rna-Hte_008894-T1_mrna"; gene_id "gene-Hte_008894";
+CP156183.1	Genbank	transcript	2264734	2265447	.	+	.	transcript_id "rna-Hte_009144-T1_mrna"; gene_id "gene-Hte_009144"
+CP156183.1	Genbank	exon	2264734	2265447	.	+	.	transcript_id "rna-Hte_009144-T1_mrna"; gene_id "gene-Hte_009144";
+CP156183.1	Genbank	CDS	2264734	2265447	.	+	0	transcript_id "rna-Hte_009144-T1_mrna"; gene_id "gene-Hte_009144";
+CP156183.1	Genbank	transcript	2273885	2274742	.	+	.	transcript_id "rna-Hte_009148-T1_mrna"; gene_id "gene-Hte_009148"; gene_name "HER2"
+CP156183.1	Genbank	exon	2273885	2274742	.	+	.	transcript_id "rna-Hte_009148-T1_mrna"; gene_id "gene-Hte_009148"; gene_name "HER2";
+CP156183.1	Genbank	CDS	2273885	2274742	.	+	0	transcript_id "rna-Hte_009148-T1_mrna"; gene_id "gene-Hte_009148"; gene_name "HER2";
+CP156183.1	Genbank	transcript	3698576	3699804	.	-	.	transcript_id "rna-Hte_009530-T1_mrna"; gene_id "gene-Hte_009530"
+CP156183.1	Genbank	exon	3698576	3698678	.	-	.	transcript_id "rna-Hte_009530-T1_mrna"; gene_id "gene-Hte_009530";
+CP156183.1	Genbank	exon	3698771	3698876	.	-	.	transcript_id "rna-Hte_009530-T1_mrna"; gene_id "gene-Hte_009530";
+CP156183.1	Genbank	exon	3698961	3699804	.	-	.	transcript_id "rna-Hte_009530-T1_mrna"; gene_id "gene-Hte_009530";
+CP156183.1	Genbank	CDS	3698576	3698678	.	-	1	transcript_id "rna-Hte_009530-T1_mrna"; gene_id "gene-Hte_009530";
+CP156183.1	Genbank	CDS	3698771	3698876	.	-	2	transcript_id "rna-Hte_009530-T1_mrna"; gene_id "gene-Hte_009530";
+CP156183.1	Genbank	CDS	3698961	3699804	.	-	0	transcript_id "rna-Hte_009530-T1_mrna"; gene_id "gene-Hte_009530";
+CP156183.1	Genbank	transcript	3705019	3705927	.	-	.	transcript_id "rna-Hte_009534-T1_mrna"; gene_id "gene-Hte_009534"
+CP156183.1	Genbank	exon	3705019	3705927	.	-	.	transcript_id "rna-Hte_009534-T1_mrna"; gene_id "gene-Hte_009534";
+CP156183.1	Genbank	CDS	3705019	3705927	.	-	0	transcript_id "rna-Hte_009534-T1_mrna"; gene_id "gene-Hte_009534";
+CP156184.1	Genbank	transcript	229975	231904	.	+	.	transcript_id "rna-Hte_009681-T1_mrna"; gene_id "gene-Hte_009681"
+CP156184.1	Genbank	exon	229975	230001	.	+	.	transcript_id "rna-Hte_009681-T1_mrna"; gene_id "gene-Hte_009681";
+CP156184.1	Genbank	exon	230068	230119	.	+	.	transcript_id "rna-Hte_009681-T1_mrna"; gene_id "gene-Hte_009681";
+CP156184.1	Genbank	exon	230193	231904	.	+	.	transcript_id "rna-Hte_009681-T1_mrna"; gene_id "gene-Hte_009681";
+CP156184.1	Genbank	CDS	229975	230001	.	+	0	transcript_id "rna-Hte_009681-T1_mrna"; gene_id "gene-Hte_009681";
+CP156184.1	Genbank	CDS	230068	230119	.	+	0	transcript_id "rna-Hte_009681-T1_mrna"; gene_id "gene-Hte_009681";
+CP156184.1	Genbank	CDS	230193	231904	.	+	2	transcript_id "rna-Hte_009681-T1_mrna"; gene_id "gene-Hte_009681";
+CP156184.1	Genbank	transcript	371491	374209	.	-	.	transcript_id "rna-Hte_009727-T1_mrna"; gene_id "gene-Hte_009727"
+CP156184.1	Genbank	exon	371491	371745	.	-	.	transcript_id "rna-Hte_009727-T1_mrna"; gene_id "gene-Hte_009727";
+CP156184.1	Genbank	exon	371804	374144	.	-	.	transcript_id "rna-Hte_009727-T1_mrna"; gene_id "gene-Hte_009727";
+CP156184.1	Genbank	exon	374205	374209	.	-	.	transcript_id "rna-Hte_009727-T1_mrna"; gene_id "gene-Hte_009727";
+CP156184.1	Genbank	CDS	371491	371745	.	-	0	transcript_id "rna-Hte_009727-T1_mrna"; gene_id "gene-Hte_009727";
+CP156184.1	Genbank	CDS	371804	374144	.	-	1	transcript_id "rna-Hte_009727-T1_mrna"; gene_id "gene-Hte_009727";
+CP156184.1	Genbank	CDS	374205	374209	.	-	0	transcript_id "rna-Hte_009727-T1_mrna"; gene_id "gene-Hte_009727";
+CP156184.1	Genbank	transcript	594707	596962	.	-	.	transcript_id "rna-Hte_009759-T1_mrna"; gene_id "gene-Hte_009759"
+CP156184.1	Genbank	exon	594707	596962	.	-	.	transcript_id "rna-Hte_009759-T1_mrna"; gene_id "gene-Hte_009759";
+CP156184.1	Genbank	CDS	594707	596962	.	-	0	transcript_id "rna-Hte_009759-T1_mrna"; gene_id "gene-Hte_009759";
+CP156184.1	Genbank	transcript	613989	616446	.	-	.	transcript_id "rna-Hte_009766-T1_mrna"; gene_id "gene-Hte_009766"
+CP156184.1	Genbank	exon	613989	615627	.	-	.	transcript_id "rna-Hte_009766-T1_mrna"; gene_id "gene-Hte_009766";
+CP156184.1	Genbank	exon	615743	616446	.	-	.	transcript_id "rna-Hte_009766-T1_mrna"; gene_id "gene-Hte_009766";
+CP156184.1	Genbank	CDS	613989	615627	.	-	1	transcript_id "rna-Hte_009766-T1_mrna"; gene_id "gene-Hte_009766";
+CP156184.1	Genbank	CDS	615743	616446	.	-	0	transcript_id "rna-Hte_009766-T1_mrna"; gene_id "gene-Hte_009766";
+CP156184.1	Genbank	transcript	1013387	1015680	.	-	.	transcript_id "rna-Hte_009858-T1_mrna"; gene_id "gene-Hte_009858"
+CP156184.1	Genbank	exon	1013387	1014725	.	-	.	transcript_id "rna-Hte_009858-T1_mrna"; gene_id "gene-Hte_009858";
+CP156184.1	Genbank	exon	1014779	1015498	.	-	.	transcript_id "rna-Hte_009858-T1_mrna"; gene_id "gene-Hte_009858";
+CP156184.1	Genbank	exon	1015550	1015680	.	-	.	transcript_id "rna-Hte_009858-T1_mrna"; gene_id "gene-Hte_009858";
+CP156184.1	Genbank	CDS	1013387	1014725	.	-	1	transcript_id "rna-Hte_009858-T1_mrna"; gene_id "gene-Hte_009858";
+CP156184.1	Genbank	CDS	1014779	1015498	.	-	1	transcript_id "rna-Hte_009858-T1_mrna"; gene_id "gene-Hte_009858";
+CP156184.1	Genbank	CDS	1015550	1015680	.	-	0	transcript_id "rna-Hte_009858-T1_mrna"; gene_id "gene-Hte_009858";
+CP156184.1	Genbank	transcript	1016131	1017370	.	+	.	transcript_id "rna-Hte_009859-T1_mrna"; gene_id "gene-Hte_009859"
+CP156184.1	Genbank	exon	1016131	1016235	.	+	.	transcript_id "rna-Hte_009859-T1_mrna"; gene_id "gene-Hte_009859";
+CP156184.1	Genbank	exon	1016381	1017370	.	+	.	transcript_id "rna-Hte_009859-T1_mrna"; gene_id "gene-Hte_009859";
+CP156184.1	Genbank	CDS	1016131	1016235	.	+	0	transcript_id "rna-Hte_009859-T1_mrna"; gene_id "gene-Hte_009859";
+CP156184.1	Genbank	CDS	1016381	1017370	.	+	0	transcript_id "rna-Hte_009859-T1_mrna"; gene_id "gene-Hte_009859";
+CP156184.1	Genbank	transcript	1054881	1056797	.	-	.	transcript_id "rna-Hte_009870-T1_mrna"; gene_id "gene-Hte_009870"; gene_name "ERP1"
+CP156184.1	Genbank	exon	1054881	1056797	.	-	.	transcript_id "rna-Hte_009870-T1_mrna"; gene_id "gene-Hte_009870"; gene_name "ERP1";
+CP156184.1	Genbank	CDS	1054881	1056797	.	-	0	transcript_id "rna-Hte_009870-T1_mrna"; gene_id "gene-Hte_009870"; gene_name "ERP1";
+CP156184.1	Genbank	transcript	1067978	1069073	.	-	.	transcript_id "rna-Hte_009874-T1_mrna"; gene_id "gene-Hte_009874"
+CP156184.1	Genbank	exon	1067978	1068285	.	-	.	transcript_id "rna-Hte_009874-T1_mrna"; gene_id "gene-Hte_009874";
+CP156184.1	Genbank	exon	1068347	1069073	.	-	.	transcript_id "rna-Hte_009874-T1_mrna"; gene_id "gene-Hte_009874";
+CP156184.1	Genbank	CDS	1067978	1068285	.	-	2	transcript_id "rna-Hte_009874-T1_mrna"; gene_id "gene-Hte_009874";
+CP156184.1	Genbank	CDS	1068347	1069073	.	-	0	transcript_id "rna-Hte_009874-T1_mrna"; gene_id "gene-Hte_009874";
+CP156184.1	Genbank	transcript	1432686	1434979	.	+	.	transcript_id "rna-Hte_009965-T1_mrna"; gene_id "gene-Hte_009965"
+CP156184.1	Genbank	exon	1432686	1432885	.	+	.	transcript_id "rna-Hte_009965-T1_mrna"; gene_id "gene-Hte_009965";
+CP156184.1	Genbank	exon	1432970	1433078	.	+	.	transcript_id "rna-Hte_009965-T1_mrna"; gene_id "gene-Hte_009965";
+CP156184.1	Genbank	exon	1433148	1434446	.	+	.	transcript_id "rna-Hte_009965-T1_mrna"; gene_id "gene-Hte_009965";
+CP156184.1	Genbank	exon	1434497	1434979	.	+	.	transcript_id "rna-Hte_009965-T1_mrna"; gene_id "gene-Hte_009965";
+CP156184.1	Genbank	CDS	1432686	1432885	.	+	0	transcript_id "rna-Hte_009965-T1_mrna"; gene_id "gene-Hte_009965";
+CP156184.1	Genbank	CDS	1432970	1433078	.	+	1	transcript_id "rna-Hte_009965-T1_mrna"; gene_id "gene-Hte_009965";
+CP156184.1	Genbank	CDS	1433148	1434446	.	+	0	transcript_id "rna-Hte_009965-T1_mrna"; gene_id "gene-Hte_009965";
+CP156184.1	Genbank	CDS	1434497	1434979	.	+	0	transcript_id "rna-Hte_009965-T1_mrna"; gene_id "gene-Hte_009965";
+CP156184.1	Genbank	transcript	1633475	1634890	.	+	.	transcript_id "rna-Hte_010036-T1_mrna"; gene_id "gene-Hte_010036"
+CP156184.1	Genbank	exon	1633475	1633572	.	+	.	transcript_id "rna-Hte_010036-T1_mrna"; gene_id "gene-Hte_010036";
+CP156184.1	Genbank	exon	1633640	1634722	.	+	.	transcript_id "rna-Hte_010036-T1_mrna"; gene_id "gene-Hte_010036";
+CP156184.1	Genbank	exon	1634794	1634890	.	+	.	transcript_id "rna-Hte_010036-T1_mrna"; gene_id "gene-Hte_010036";
+CP156184.1	Genbank	CDS	1633475	1633572	.	+	0	transcript_id "rna-Hte_010036-T1_mrna"; gene_id "gene-Hte_010036";
+CP156184.1	Genbank	CDS	1633640	1634722	.	+	1	transcript_id "rna-Hte_010036-T1_mrna"; gene_id "gene-Hte_010036";
+CP156184.1	Genbank	CDS	1634794	1634890	.	+	1	transcript_id "rna-Hte_010036-T1_mrna"; gene_id "gene-Hte_010036";
+CP156184.1	Genbank	transcript	2475157	2476315	.	+	.	transcript_id "rna-Hte_010271-T1_mrna"; gene_id "gene-Hte_010271"; gene_name "HFD1"
+CP156184.1	Genbank	exon	2475157	2475353	.	+	.	transcript_id "rna-Hte_010271-T1_mrna"; gene_id "gene-Hte_010271"; gene_name "HFD1";
+CP156184.1	Genbank	exon	2475442	2476315	.	+	.	transcript_id "rna-Hte_010271-T1_mrna"; gene_id "gene-Hte_010271"; gene_name "HFD1";
+CP156184.1	Genbank	CDS	2475157	2475353	.	+	0	transcript_id "rna-Hte_010271-T1_mrna"; gene_id "gene-Hte_010271"; gene_name "HFD1";
+CP156184.1	Genbank	CDS	2475442	2476315	.	+	1	transcript_id "rna-Hte_010271-T1_mrna"; gene_id "gene-Hte_010271"; gene_name "HFD1";
+CP156184.1	Genbank	transcript	2852681	2853389	.	+	.	transcript_id "rna-Hte_010368-T1_mrna"; gene_id "gene-Hte_010368"
+CP156184.1	Genbank	exon	2852681	2852767	.	+	.	transcript_id "rna-Hte_010368-T1_mrna"; gene_id "gene-Hte_010368";
+CP156184.1	Genbank	exon	2852848	2852916	.	+	.	transcript_id "rna-Hte_010368-T1_mrna"; gene_id "gene-Hte_010368";
+CP156184.1	Genbank	exon	2852994	2853389	.	+	.	transcript_id "rna-Hte_010368-T1_mrna"; gene_id "gene-Hte_010368";
+CP156184.1	Genbank	CDS	2852681	2852767	.	+	0	transcript_id "rna-Hte_010368-T1_mrna"; gene_id "gene-Hte_010368";
+CP156184.1	Genbank	CDS	2852848	2852916	.	+	0	transcript_id "rna-Hte_010368-T1_mrna"; gene_id "gene-Hte_010368";
+CP156184.1	Genbank	CDS	2852994	2853389	.	+	0	transcript_id "rna-Hte_010368-T1_mrna"; gene_id "gene-Hte_010368";
+CP156184.1	Genbank	transcript	3195977	3197437	.	-	.	transcript_id "rna-Hte_010465-T1_mrna"; gene_id "gene-Hte_010465"
+CP156184.1	Genbank	exon	3195977	3197437	.	-	.	transcript_id "rna-Hte_010465-T1_mrna"; gene_id "gene-Hte_010465";
+CP156184.1	Genbank	CDS	3195977	3197437	.	-	0	transcript_id "rna-Hte_010465-T1_mrna"; gene_id "gene-Hte_010465";
+CP156185.1	Genbank	transcript	389524	391014	.	+	.	transcript_id "rna-Hte_010820-T1_mrna"; gene_id "gene-Hte_010820"
+CP156185.1	Genbank	exon	389524	391014	.	+	.	transcript_id "rna-Hte_010820-T1_mrna"; gene_id "gene-Hte_010820";
+CP156185.1	Genbank	CDS	389524	391014	.	+	0	transcript_id "rna-Hte_010820-T1_mrna"; gene_id "gene-Hte_010820";
+CP156185.1	Genbank	transcript	655555	656103	.	-	.	transcript_id "rna-Hte_010865-T1_mrna"; gene_id "gene-Hte_010865"
+CP156185.1	Genbank	exon	655555	655846	.	-	.	transcript_id "rna-Hte_010865-T1_mrna"; gene_id "gene-Hte_010865";
+CP156185.1	Genbank	exon	655910	655992	.	-	.	transcript_id "rna-Hte_010865-T1_mrna"; gene_id "gene-Hte_010865";
+CP156185.1	Genbank	exon	656065	656103	.	-	.	transcript_id "rna-Hte_010865-T1_mrna"; gene_id "gene-Hte_010865";
+CP156185.1	Genbank	CDS	655555	655846	.	-	1	transcript_id "rna-Hte_010865-T1_mrna"; gene_id "gene-Hte_010865";
+CP156185.1	Genbank	CDS	655910	655992	.	-	0	transcript_id "rna-Hte_010865-T1_mrna"; gene_id "gene-Hte_010865";
+CP156185.1	Genbank	CDS	656065	656103	.	-	0	transcript_id "rna-Hte_010865-T1_mrna"; gene_id "gene-Hte_010865";
+CP156185.1	Genbank	transcript	659092	659971	.	-	.	transcript_id "rna-Hte_010867-T1_mrna"; gene_id "gene-Hte_010867"; gene_name "TIM9"
+CP156185.1	Genbank	exon	659092	659689	.	-	.	transcript_id "rna-Hte_010867-T1_mrna"; gene_id "gene-Hte_010867"; gene_name "TIM9";
+CP156185.1	Genbank	exon	659781	659971	.	-	.	transcript_id "rna-Hte_010867-T1_mrna"; gene_id "gene-Hte_010867"; gene_name "TIM9";
+CP156185.1	Genbank	CDS	659092	659689	.	-	1	transcript_id "rna-Hte_010867-T1_mrna"; gene_id "gene-Hte_010867"; gene_name "TIM9";
+CP156185.1	Genbank	CDS	659781	659971	.	-	0	transcript_id "rna-Hte_010867-T1_mrna"; gene_id "gene-Hte_010867"; gene_name "TIM9";
+CP156185.1	Genbank	transcript	745102	746367	.	+	.	transcript_id "rna-Hte_010892-T1_mrna"; gene_id "gene-Hte_010892"
+CP156185.1	Genbank	exon	745102	745191	.	+	.	transcript_id "rna-Hte_010892-T1_mrna"; gene_id "gene-Hte_010892";
+CP156185.1	Genbank	exon	745249	746367	.	+	.	transcript_id "rna-Hte_010892-T1_mrna"; gene_id "gene-Hte_010892";
+CP156185.1	Genbank	CDS	745102	745191	.	+	0	transcript_id "rna-Hte_010892-T1_mrna"; gene_id "gene-Hte_010892";
+CP156185.1	Genbank	CDS	745249	746367	.	+	0	transcript_id "rna-Hte_010892-T1_mrna"; gene_id "gene-Hte_010892";
+CP156185.1	Genbank	transcript	1798708	1799593	.	-	.	transcript_id "rna-Hte_011219-T1_mrna"; gene_id "gene-Hte_011219"; gene_name "RRP45"
+CP156185.1	Genbank	exon	1798708	1798761	.	-	.	transcript_id "rna-Hte_011219-T1_mrna"; gene_id "gene-Hte_011219"; gene_name "RRP45";
+CP156185.1	Genbank	exon	1798817	1798892	.	-	.	transcript_id "rna-Hte_011219-T1_mrna"; gene_id "gene-Hte_011219"; gene_name "RRP45";
+CP156185.1	Genbank	exon	1798950	1799500	.	-	.	transcript_id "rna-Hte_011219-T1_mrna"; gene_id "gene-Hte_011219"; gene_name "RRP45";
+CP156185.1	Genbank	exon	1799561	1799593	.	-	.	transcript_id "rna-Hte_011219-T1_mrna"; gene_id "gene-Hte_011219"; gene_name "RRP45";
+CP156185.1	Genbank	CDS	1798708	1798761	.	-	0	transcript_id "rna-Hte_011219-T1_mrna"; gene_id "gene-Hte_011219"; gene_name "RRP45";
+CP156185.1	Genbank	CDS	1798817	1798892	.	-	1	transcript_id "rna-Hte_011219-T1_mrna"; gene_id "gene-Hte_011219"; gene_name "RRP45";
+CP156185.1	Genbank	CDS	1798950	1799500	.	-	0	transcript_id "rna-Hte_011219-T1_mrna"; gene_id "gene-Hte_011219"; gene_name "RRP45";
+CP156185.1	Genbank	CDS	1799561	1799593	.	-	0	transcript_id "rna-Hte_011219-T1_mrna"; gene_id "gene-Hte_011219"; gene_name "RRP45";
+CP156185.1	Genbank	transcript	1799943	1800889	.	+	.	transcript_id "rna-Hte_011220-T1_mrna"; gene_id "gene-Hte_011220"; gene_name "ARL3"
+CP156185.1	Genbank	exon	1799943	1800106	.	+	.	transcript_id "rna-Hte_011220-T1_mrna"; gene_id "gene-Hte_011220"; gene_name "ARL3";
+CP156185.1	Genbank	exon	1800175	1800889	.	+	.	transcript_id "rna-Hte_011220-T1_mrna"; gene_id "gene-Hte_011220"; gene_name "ARL3";
+CP156185.1	Genbank	CDS	1799943	1800106	.	+	0	transcript_id "rna-Hte_011220-T1_mrna"; gene_id "gene-Hte_011220"; gene_name "ARL3";
+CP156185.1	Genbank	CDS	1800175	1800889	.	+	1	transcript_id "rna-Hte_011220-T1_mrna"; gene_id "gene-Hte_011220"; gene_name "ARL3";
+CP156185.1	Genbank	transcript	1815269	1817310	.	+	.	transcript_id "rna-Hte_011226-T1_mrna"; gene_id "gene-Hte_011226"; gene_name "RPS18"
+CP156185.1	Genbank	exon	1815269	1815277	.	+	.	transcript_id "rna-Hte_011226-T1_mrna"; gene_id "gene-Hte_011226"; gene_name "RPS18";
+CP156185.1	Genbank	exon	1816381	1817310	.	+	.	transcript_id "rna-Hte_011226-T1_mrna"; gene_id "gene-Hte_011226"; gene_name "RPS18";
+CP156185.1	Genbank	CDS	1815269	1815277	.	+	0	transcript_id "rna-Hte_011226-T1_mrna"; gene_id "gene-Hte_011226"; gene_name "RPS18";
+CP156185.1	Genbank	CDS	1816381	1817310	.	+	0	transcript_id "rna-Hte_011226-T1_mrna"; gene_id "gene-Hte_011226"; gene_name "RPS18";
+CP156185.1	Genbank	transcript	2027731	2029089	.	-	.	transcript_id "rna-Hte_011287-T1_mrna"; gene_id "gene-Hte_011287"; gene_name "CBF1"
+CP156185.1	Genbank	exon	2027731	2028375	.	-	.	transcript_id "rna-Hte_011287-T1_mrna"; gene_id "gene-Hte_011287"; gene_name "CBF1";
+CP156185.1	Genbank	exon	2028452	2028997	.	-	.	transcript_id "rna-Hte_011287-T1_mrna"; gene_id "gene-Hte_011287"; gene_name "CBF1";
+CP156185.1	Genbank	exon	2029045	2029089	.	-	.	transcript_id "rna-Hte_011287-T1_mrna"; gene_id "gene-Hte_011287"; gene_name "CBF1";
+CP156185.1	Genbank	CDS	2027731	2028375	.	-	0	transcript_id "rna-Hte_011287-T1_mrna"; gene_id "gene-Hte_011287"; gene_name "CBF1";
+CP156185.1	Genbank	CDS	2028452	2028997	.	-	0	transcript_id "rna-Hte_011287-T1_mrna"; gene_id "gene-Hte_011287"; gene_name "CBF1";
+CP156185.1	Genbank	CDS	2029045	2029089	.	-	0	transcript_id "rna-Hte_011287-T1_mrna"; gene_id "gene-Hte_011287"; gene_name "CBF1";
+CP156185.1	Genbank	transcript	2186192	2186989	.	-	.	transcript_id "rna-Hte_011329-T1_mrna"; gene_id "gene-Hte_011329"; gene_name "RPS16"
+CP156185.1	Genbank	exon	2186192	2186989	.	-	.	transcript_id "rna-Hte_011329-T1_mrna"; gene_id "gene-Hte_011329"; gene_name "RPS16";
+CP156185.1	Genbank	CDS	2186192	2186989	.	-	0	transcript_id "rna-Hte_011329-T1_mrna"; gene_id "gene-Hte_011329"; gene_name "RPS16";
+CP156185.1	Genbank	transcript	2819596	2821671	.	+	.	transcript_id "rna-Hte_011489-T1_mrna"; gene_id "gene-Hte_011489"
+CP156185.1	Genbank	exon	2819596	2821671	.	+	.	transcript_id "rna-Hte_011489-T1_mrna"; gene_id "gene-Hte_011489";
+CP156185.1	Genbank	CDS	2819596	2821671	.	+	0	transcript_id "rna-Hte_011489-T1_mrna"; gene_id "gene-Hte_011489";
+CP156185.1	Genbank	transcript	3460266	3461402	.	+	.	transcript_id "rna-Hte_011657-T1_mrna"; gene_id "gene-Hte_011657"
+CP156185.1	Genbank	exon	3460266	3460783	.	+	.	transcript_id "rna-Hte_011657-T1_mrna"; gene_id "gene-Hte_011657";
+CP156185.1	Genbank	exon	3460844	3461402	.	+	.	transcript_id "rna-Hte_011657-T1_mrna"; gene_id "gene-Hte_011657";
+CP156185.1	Genbank	CDS	3460266	3460783	.	+	0	transcript_id "rna-Hte_011657-T1_mrna"; gene_id "gene-Hte_011657";
+CP156185.1	Genbank	CDS	3460844	3461402	.	+	1	transcript_id "rna-Hte_011657-T1_mrna"; gene_id "gene-Hte_011657";
+CP156186.1	Genbank	transcript	639949	642060	.	+	.	transcript_id "rna-Hte_011879-T1_mrna"; gene_id "gene-Hte_011879"
+CP156186.1	Genbank	exon	639949	640070	.	+	.	transcript_id "rna-Hte_011879-T1_mrna"; gene_id "gene-Hte_011879";
+CP156186.1	Genbank	exon	640170	642060	.	+	.	transcript_id "rna-Hte_011879-T1_mrna"; gene_id "gene-Hte_011879";
+CP156186.1	Genbank	CDS	639949	640070	.	+	0	transcript_id "rna-Hte_011879-T1_mrna"; gene_id "gene-Hte_011879";
+CP156186.1	Genbank	CDS	640170	642060	.	+	1	transcript_id "rna-Hte_011879-T1_mrna"; gene_id "gene-Hte_011879";
+CP156186.1	Genbank	transcript	1748405	1749208	.	-	.	transcript_id "rna-Hte_012184-T1_mrna"; gene_id "gene-Hte_012184"; gene_name "SSZ1"
+CP156186.1	Genbank	exon	1748405	1748944	.	-	.	transcript_id "rna-Hte_012184-T1_mrna"; gene_id "gene-Hte_012184"; gene_name "SSZ1";
+CP156186.1	Genbank	exon	1749002	1749208	.	-	.	transcript_id "rna-Hte_012184-T1_mrna"; gene_id "gene-Hte_012184"; gene_name "SSZ1";
+CP156186.1	Genbank	CDS	1748405	1748944	.	-	0	transcript_id "rna-Hte_012184-T1_mrna"; gene_id "gene-Hte_012184"; gene_name "SSZ1";
+CP156186.1	Genbank	CDS	1749002	1749208	.	-	0	transcript_id "rna-Hte_012184-T1_mrna"; gene_id "gene-Hte_012184"; gene_name "SSZ1";
+CP156186.1	Genbank	transcript	2061106	2062288	.	+	.	transcript_id "rna-Hte_012272-T1_mrna"; gene_id "gene-Hte_012272"
+CP156186.1	Genbank	exon	2061106	2061623	.	+	.	transcript_id "rna-Hte_012272-T1_mrna"; gene_id "gene-Hte_012272";
+CP156186.1	Genbank	exon	2061696	2062158	.	+	.	transcript_id "rna-Hte_012272-T1_mrna"; gene_id "gene-Hte_012272";
+CP156186.1	Genbank	exon	2062235	2062288	.	+	.	transcript_id "rna-Hte_012272-T1_mrna"; gene_id "gene-Hte_012272";
+CP156186.1	Genbank	CDS	2061106	2061623	.	+	0	transcript_id "rna-Hte_012272-T1_mrna"; gene_id "gene-Hte_012272";
+CP156186.1	Genbank	CDS	2061696	2062158	.	+	1	transcript_id "rna-Hte_012272-T1_mrna"; gene_id "gene-Hte_012272";
+CP156186.1	Genbank	CDS	2062235	2062288	.	+	0	transcript_id "rna-Hte_012272-T1_mrna"; gene_id "gene-Hte_012272";
+CP156186.1	Genbank	transcript	2736737	2737726	.	-	.	transcript_id "rna-Hte_012409-T1_mrna"; gene_id "gene-Hte_012409"
+CP156186.1	Genbank	exon	2736737	2737726	.	-	.	transcript_id "rna-Hte_012409-T1_mrna"; gene_id "gene-Hte_012409";
+CP156186.1	Genbank	CDS	2736737	2737726	.	-	0	transcript_id "rna-Hte_012409-T1_mrna"; gene_id "gene-Hte_012409";
+CP156186.1	Genbank	transcript	3341653	3343174	.	+	.	transcript_id "rna-Hte_012602-T1_mrna"; gene_id "gene-Hte_012602"
+CP156186.1	Genbank	exon	3341653	3341755	.	+	.	transcript_id "rna-Hte_012602-T1_mrna"; gene_id "gene-Hte_012602";
+CP156186.1	Genbank	exon	3341824	3341924	.	+	.	transcript_id "rna-Hte_012602-T1_mrna"; gene_id "gene-Hte_012602";
+CP156186.1	Genbank	exon	3341993	3342120	.	+	.	transcript_id "rna-Hte_012602-T1_mrna"; gene_id "gene-Hte_012602";
+CP156186.1	Genbank	exon	3342181	3343174	.	+	.	transcript_id "rna-Hte_012602-T1_mrna"; gene_id "gene-Hte_012602";
+CP156186.1	Genbank	CDS	3341653	3341755	.	+	0	transcript_id "rna-Hte_012602-T1_mrna"; gene_id "gene-Hte_012602";
+CP156186.1	Genbank	CDS	3341824	3341924	.	+	2	transcript_id "rna-Hte_012602-T1_mrna"; gene_id "gene-Hte_012602";
+CP156186.1	Genbank	CDS	3341993	3342120	.	+	0	transcript_id "rna-Hte_012602-T1_mrna"; gene_id "gene-Hte_012602";
+CP156186.1	Genbank	CDS	3342181	3343174	.	+	1	transcript_id "rna-Hte_012602-T1_mrna"; gene_id "gene-Hte_012602";
