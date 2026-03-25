@@ -1,0 +1,753 @@
+JABWCZ010000001.1	Genbank	transcript	11957	12661	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000005-T1_mrna"; gene_id "gene-MCOR19_000005"
+JABWCZ010000001.1	Genbank	exon	11957	12349	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000005-T1_mrna"; gene_id "gene-MCOR19_000005";
+JABWCZ010000001.1	Genbank	exon	12435	12517	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000005-T1_mrna"; gene_id "gene-MCOR19_000005";
+JABWCZ010000001.1	Genbank	exon	12586	12661	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000005-T1_mrna"; gene_id "gene-MCOR19_000005";
+JABWCZ010000001.1	Genbank	CDS	12058	12349	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000005-T1_mrna"; gene_id "gene-MCOR19_000005";
+JABWCZ010000001.1	Genbank	CDS	12435	12517	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000005-T1_mrna"; gene_id "gene-MCOR19_000005";
+JABWCZ010000001.1	Genbank	CDS	12586	12624	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000005-T1_mrna"; gene_id "gene-MCOR19_000005";
+JABWCZ010000001.1	Genbank	transcript	15633	17039	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000007-T1_mrna"; gene_id "gene-MCOR19_000007"
+JABWCZ010000001.1	Genbank	exon	15633	15928	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000007-T1_mrna"; gene_id "gene-MCOR19_000007";
+JABWCZ010000001.1	Genbank	exon	16071	16553	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000007-T1_mrna"; gene_id "gene-MCOR19_000007";
+JABWCZ010000001.1	Genbank	exon	16667	17039	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000007-T1_mrna"; gene_id "gene-MCOR19_000007";
+JABWCZ010000001.1	Genbank	CDS	15850	15928	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000007-T1_mrna"; gene_id "gene-MCOR19_000007";
+JABWCZ010000001.1	Genbank	CDS	16071	16553	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000007-T1_mrna"; gene_id "gene-MCOR19_000007";
+JABWCZ010000001.1	Genbank	CDS	16667	16860	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000007-T1_mrna"; gene_id "gene-MCOR19_000007";
+JABWCZ010000001.1	Genbank	transcript	164835	167843	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000049-T1_mrna"; gene_id "gene-MCOR19_000049"
+JABWCZ010000001.1	Genbank	exon	164835	165250	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000049-T1_mrna"; gene_id "gene-MCOR19_000049";
+JABWCZ010000001.1	Genbank	exon	165325	167843	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000049-T1_mrna"; gene_id "gene-MCOR19_000049";
+JABWCZ010000001.1	Genbank	CDS	165052	165250	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000049-T1_mrna"; gene_id "gene-MCOR19_000049";
+JABWCZ010000001.1	Genbank	CDS	165325	167681	.	+	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000049-T1_mrna"; gene_id "gene-MCOR19_000049";
+JABWCZ010000001.1	Genbank	transcript	245273	246702	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000079-T1_mrna"; gene_id "gene-MCOR19_000079"; gene_name "TMA22"
+JABWCZ010000001.1	Genbank	exon	245273	245919	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000079-T1_mrna"; gene_id "gene-MCOR19_000079"; gene_name "TMA22";
+JABWCZ010000001.1	Genbank	exon	245991	246296	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000079-T1_mrna"; gene_id "gene-MCOR19_000079"; gene_name "TMA22";
+JABWCZ010000001.1	Genbank	exon	246385	246404	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000079-T1_mrna"; gene_id "gene-MCOR19_000079"; gene_name "TMA22";
+JABWCZ010000001.1	Genbank	exon	246474	246702	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000079-T1_mrna"; gene_id "gene-MCOR19_000079"; gene_name "TMA22";
+JABWCZ010000001.1	Genbank	CDS	245710	245919	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000079-T1_mrna"; gene_id "gene-MCOR19_000079"; gene_name "TMA22";
+JABWCZ010000001.1	Genbank	CDS	245991	246296	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000079-T1_mrna"; gene_id "gene-MCOR19_000079"; gene_name "TMA22";
+JABWCZ010000001.1	Genbank	CDS	246385	246404	.	-	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000079-T1_mrna"; gene_id "gene-MCOR19_000079"; gene_name "TMA22";
+JABWCZ010000001.1	Genbank	CDS	246474	246543	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000079-T1_mrna"; gene_id "gene-MCOR19_000079"; gene_name "TMA22";
+JABWCZ010000001.1	Genbank	transcript	352404	355356	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000115-T1_mrna"; gene_id "gene-MCOR19_000115"
+JABWCZ010000001.1	Genbank	exon	352404	352811	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000115-T1_mrna"; gene_id "gene-MCOR19_000115";
+JABWCZ010000001.1	Genbank	exon	352881	355356	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000115-T1_mrna"; gene_id "gene-MCOR19_000115";
+JABWCZ010000001.1	Genbank	CDS	352521	352811	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000115-T1_mrna"; gene_id "gene-MCOR19_000115";
+JABWCZ010000001.1	Genbank	CDS	352881	355283	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000115-T1_mrna"; gene_id "gene-MCOR19_000115";
+JABWCZ010000103.1	Genbank	transcript	36291	37832	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005623-T1_mrna"; gene_id "gene-MCOR19_005623"
+JABWCZ010000103.1	Genbank	exon	36291	36979	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005623-T1_mrna"; gene_id "gene-MCOR19_005623";
+JABWCZ010000103.1	Genbank	exon	37088	37430	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005623-T1_mrna"; gene_id "gene-MCOR19_005623";
+JABWCZ010000103.1	Genbank	exon	37547	37832	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005623-T1_mrna"; gene_id "gene-MCOR19_005623";
+JABWCZ010000103.1	Genbank	CDS	36391	36979	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005623-T1_mrna"; gene_id "gene-MCOR19_005623";
+JABWCZ010000103.1	Genbank	CDS	37088	37430	.	-	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005623-T1_mrna"; gene_id "gene-MCOR19_005623";
+JABWCZ010000103.1	Genbank	CDS	37547	37694	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005623-T1_mrna"; gene_id "gene-MCOR19_005623";
+JABWCZ010000103.1	Genbank	transcript	45311	48045	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005627-T1_mrna"; gene_id "gene-MCOR19_005627"; gene_name "COG6"
+JABWCZ010000103.1	Genbank	exon	45311	47366	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005627-T1_mrna"; gene_id "gene-MCOR19_005627"; gene_name "COG6";
+JABWCZ010000103.1	Genbank	exon	47473	48045	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005627-T1_mrna"; gene_id "gene-MCOR19_005627"; gene_name "COG6";
+JABWCZ010000103.1	Genbank	CDS	45543	47366	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005627-T1_mrna"; gene_id "gene-MCOR19_005627"; gene_name "COG6";
+JABWCZ010000103.1	Genbank	CDS	47473	47763	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005627-T1_mrna"; gene_id "gene-MCOR19_005627"; gene_name "COG6";
+JABWCZ010000108.1	Genbank	transcript	76728	77978	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005815-T1_mrna"; gene_id "gene-MCOR19_005815"
+JABWCZ010000108.1	Genbank	exon	76728	76928	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005815-T1_mrna"; gene_id "gene-MCOR19_005815";
+JABWCZ010000108.1	Genbank	exon	77056	77978	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005815-T1_mrna"; gene_id "gene-MCOR19_005815";
+JABWCZ010000108.1	Genbank	CDS	76915	76928	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005815-T1_mrna"; gene_id "gene-MCOR19_005815";
+JABWCZ010000108.1	Genbank	CDS	77056	77647	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005815-T1_mrna"; gene_id "gene-MCOR19_005815";
+JABWCZ010000113.1	Genbank	transcript	45557	47614	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005933-T1_mrna"; gene_id "gene-MCOR19_005933"
+JABWCZ010000113.1	Genbank	exon	45557	47614	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005933-T1_mrna"; gene_id "gene-MCOR19_005933";
+JABWCZ010000113.1	Genbank	CDS	45680	47437	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005933-T1_mrna"; gene_id "gene-MCOR19_005933";
+JABWCZ010000119.1	Genbank	transcript	32374	35844	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006126-T1_mrna"; gene_id "gene-MCOR19_006126"
+JABWCZ010000119.1	Genbank	exon	32374	32662	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006126-T1_mrna"; gene_id "gene-MCOR19_006126";
+JABWCZ010000119.1	Genbank	exon	32769	33256	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006126-T1_mrna"; gene_id "gene-MCOR19_006126";
+JABWCZ010000119.1	Genbank	exon	33330	34410	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006126-T1_mrna"; gene_id "gene-MCOR19_006126";
+JABWCZ010000119.1	Genbank	exon	34519	35844	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006126-T1_mrna"; gene_id "gene-MCOR19_006126";
+JABWCZ010000119.1	Genbank	CDS	32587	32662	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006126-T1_mrna"; gene_id "gene-MCOR19_006126";
+JABWCZ010000119.1	Genbank	CDS	32769	33256	.	+	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006126-T1_mrna"; gene_id "gene-MCOR19_006126";
+JABWCZ010000119.1	Genbank	CDS	33330	34410	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006126-T1_mrna"; gene_id "gene-MCOR19_006126";
+JABWCZ010000119.1	Genbank	CDS	34519	35339	.	+	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006126-T1_mrna"; gene_id "gene-MCOR19_006126";
+JABWCZ010000120.1	Genbank	transcript	6174	8828	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006149-T1_mrna"; gene_id "gene-MCOR19_006149"
+JABWCZ010000120.1	Genbank	exon	6174	8828	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006149-T1_mrna"; gene_id "gene-MCOR19_006149";
+JABWCZ010000120.1	Genbank	CDS	6470	8548	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006149-T1_mrna"; gene_id "gene-MCOR19_006149";
+JABWCZ010000122.1	Genbank	transcript	21359	24688	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006209-T1_mrna"; gene_id "gene-MCOR19_006209"
+JABWCZ010000122.1	Genbank	exon	21359	22181	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006209-T1_mrna"; gene_id "gene-MCOR19_006209";
+JABWCZ010000122.1	Genbank	exon	22249	23931	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006209-T1_mrna"; gene_id "gene-MCOR19_006209";
+JABWCZ010000122.1	Genbank	exon	24007	24688	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006209-T1_mrna"; gene_id "gene-MCOR19_006209";
+JABWCZ010000122.1	Genbank	CDS	21378	22181	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006209-T1_mrna"; gene_id "gene-MCOR19_006209";
+JABWCZ010000122.1	Genbank	CDS	22249	23931	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006209-T1_mrna"; gene_id "gene-MCOR19_006209";
+JABWCZ010000122.1	Genbank	CDS	24007	24657	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006209-T1_mrna"; gene_id "gene-MCOR19_006209";
+JABWCZ010000013.1	Genbank	transcript	207682	209533	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001272-T1_mrna"; gene_id "gene-MCOR19_001272"
+JABWCZ010000013.1	Genbank	exon	207682	208234	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001272-T1_mrna"; gene_id "gene-MCOR19_001272";
+JABWCZ010000013.1	Genbank	exon	208311	208391	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001272-T1_mrna"; gene_id "gene-MCOR19_001272";
+JABWCZ010000013.1	Genbank	exon	208467	208588	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001272-T1_mrna"; gene_id "gene-MCOR19_001272";
+JABWCZ010000013.1	Genbank	exon	208687	208805	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001272-T1_mrna"; gene_id "gene-MCOR19_001272";
+JABWCZ010000013.1	Genbank	exon	208906	209533	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001272-T1_mrna"; gene_id "gene-MCOR19_001272";
+JABWCZ010000013.1	Genbank	CDS	207827	208234	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001272-T1_mrna"; gene_id "gene-MCOR19_001272";
+JABWCZ010000013.1	Genbank	CDS	208311	208391	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001272-T1_mrna"; gene_id "gene-MCOR19_001272";
+JABWCZ010000013.1	Genbank	CDS	208467	208588	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001272-T1_mrna"; gene_id "gene-MCOR19_001272";
+JABWCZ010000013.1	Genbank	CDS	208687	208805	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001272-T1_mrna"; gene_id "gene-MCOR19_001272";
+JABWCZ010000013.1	Genbank	CDS	208906	209375	.	+	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001272-T1_mrna"; gene_id "gene-MCOR19_001272";
+JABWCZ010000138.1	Genbank	transcript	5239	6667	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006674-T1_mrna"; gene_id "gene-MCOR19_006674"
+JABWCZ010000138.1	Genbank	exon	5239	5566	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006674-T1_mrna"; gene_id "gene-MCOR19_006674";
+JABWCZ010000138.1	Genbank	exon	5698	6667	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006674-T1_mrna"; gene_id "gene-MCOR19_006674";
+JABWCZ010000138.1	Genbank	CDS	5385	5566	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006674-T1_mrna"; gene_id "gene-MCOR19_006674";
+JABWCZ010000138.1	Genbank	CDS	5698	6601	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006674-T1_mrna"; gene_id "gene-MCOR19_006674";
+JABWCZ010000138.1	Genbank	transcript	74952	78099	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006697-T1_mrna"; gene_id "gene-MCOR19_006697"; gene_name "MCM2"
+JABWCZ010000138.1	Genbank	exon	74952	75039	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006697-T1_mrna"; gene_id "gene-MCOR19_006697"; gene_name "MCM2";
+JABWCZ010000138.1	Genbank	exon	75136	77491	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006697-T1_mrna"; gene_id "gene-MCOR19_006697"; gene_name "MCM2";
+JABWCZ010000138.1	Genbank	exon	77580	78099	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006697-T1_mrna"; gene_id "gene-MCOR19_006697"; gene_name "MCM2";
+JABWCZ010000138.1	Genbank	CDS	75035	75039	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006697-T1_mrna"; gene_id "gene-MCOR19_006697"; gene_name "MCM2";
+JABWCZ010000138.1	Genbank	CDS	75136	77491	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006697-T1_mrna"; gene_id "gene-MCOR19_006697"; gene_name "MCM2";
+JABWCZ010000138.1	Genbank	CDS	77580	77840	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006697-T1_mrna"; gene_id "gene-MCOR19_006697"; gene_name "MCM2";
+JABWCZ010000139.1	Genbank	transcript	20256	22167	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006708-T1_mrna"; gene_id "gene-MCOR19_006708"
+JABWCZ010000139.1	Genbank	exon	20256	20557	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006708-T1_mrna"; gene_id "gene-MCOR19_006708";
+JABWCZ010000139.1	Genbank	exon	20626	22167	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006708-T1_mrna"; gene_id "gene-MCOR19_006708";
+JABWCZ010000139.1	Genbank	CDS	20310	20557	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006708-T1_mrna"; gene_id "gene-MCOR19_006708";
+JABWCZ010000139.1	Genbank	CDS	20626	22033	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006708-T1_mrna"; gene_id "gene-MCOR19_006708";
+JABWCZ010000014.1	Genbank	transcript	104942	107090	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001329-T1_mrna"; gene_id "gene-MCOR19_001329"
+JABWCZ010000014.1	Genbank	exon	104942	106136	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001329-T1_mrna"; gene_id "gene-MCOR19_001329";
+JABWCZ010000014.1	Genbank	exon	106212	106684	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001329-T1_mrna"; gene_id "gene-MCOR19_001329";
+JABWCZ010000014.1	Genbank	exon	106778	106989	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001329-T1_mrna"; gene_id "gene-MCOR19_001329";
+JABWCZ010000014.1	Genbank	exon	107057	107090	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001329-T1_mrna"; gene_id "gene-MCOR19_001329";
+JABWCZ010000014.1	Genbank	CDS	105572	106136	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001329-T1_mrna"; gene_id "gene-MCOR19_001329";
+JABWCZ010000014.1	Genbank	CDS	106212	106684	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001329-T1_mrna"; gene_id "gene-MCOR19_001329";
+JABWCZ010000014.1	Genbank	CDS	106778	106989	.	-	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001329-T1_mrna"; gene_id "gene-MCOR19_001329";
+JABWCZ010000014.1	Genbank	CDS	107057	107090	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001329-T1_mrna"; gene_id "gene-MCOR19_001329";
+JABWCZ010000142.1	Genbank	transcript	76977	79257	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006785-T1_mrna"; gene_id "gene-MCOR19_006785"
+JABWCZ010000142.1	Genbank	exon	76977	79257	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006785-T1_mrna"; gene_id "gene-MCOR19_006785";
+JABWCZ010000142.1	Genbank	CDS	77044	79224	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006785-T1_mrna"; gene_id "gene-MCOR19_006785";
+JABWCZ010000144.1	Genbank	transcript	228	1787	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006816-T1_mrna"; gene_id "gene-MCOR19_006816"
+JABWCZ010000144.1	Genbank	exon	228	1787	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006816-T1_mrna"; gene_id "gene-MCOR19_006816";
+JABWCZ010000144.1	Genbank	CDS	250	1632	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_006816-T1_mrna"; gene_id "gene-MCOR19_006816";
+JABWCZ010000151.1	Genbank	transcript	41481	44168	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007025-T1_mrna"; gene_id "gene-MCOR19_007025"; gene_name "CSN8"
+JABWCZ010000151.1	Genbank	exon	41481	42636	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007025-T1_mrna"; gene_id "gene-MCOR19_007025"; gene_name "CSN8";
+JABWCZ010000151.1	Genbank	exon	42708	42769	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007025-T1_mrna"; gene_id "gene-MCOR19_007025"; gene_name "CSN8";
+JABWCZ010000151.1	Genbank	exon	42831	43239	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007025-T1_mrna"; gene_id "gene-MCOR19_007025"; gene_name "CSN8";
+JABWCZ010000151.1	Genbank	exon	43368	44168	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007025-T1_mrna"; gene_id "gene-MCOR19_007025"; gene_name "CSN8";
+JABWCZ010000151.1	Genbank	CDS	41836	42636	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007025-T1_mrna"; gene_id "gene-MCOR19_007025"; gene_name "CSN8";
+JABWCZ010000151.1	Genbank	CDS	42708	42769	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007025-T1_mrna"; gene_id "gene-MCOR19_007025"; gene_name "CSN8";
+JABWCZ010000151.1	Genbank	CDS	42831	43239	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007025-T1_mrna"; gene_id "gene-MCOR19_007025"; gene_name "CSN8";
+JABWCZ010000151.1	Genbank	CDS	43368	43451	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007025-T1_mrna"; gene_id "gene-MCOR19_007025"; gene_name "CSN8";
+JABWCZ010000157.1	Genbank	transcript	11064	13058	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007169-T1_mrna"; gene_id "gene-MCOR19_007169"
+JABWCZ010000157.1	Genbank	exon	11064	12645	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007169-T1_mrna"; gene_id "gene-MCOR19_007169";
+JABWCZ010000157.1	Genbank	exon	12732	13058	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007169-T1_mrna"; gene_id "gene-MCOR19_007169";
+JABWCZ010000157.1	Genbank	CDS	11318	12645	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007169-T1_mrna"; gene_id "gene-MCOR19_007169";
+JABWCZ010000157.1	Genbank	CDS	12732	12984	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007169-T1_mrna"; gene_id "gene-MCOR19_007169";
+JABWCZ010000159.1	Genbank	transcript	20665	23158	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007230-T1_mrna"; gene_id "gene-MCOR19_007230"
+JABWCZ010000159.1	Genbank	exon	20665	21035	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007230-T1_mrna"; gene_id "gene-MCOR19_007230";
+JABWCZ010000159.1	Genbank	exon	21120	23158	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007230-T1_mrna"; gene_id "gene-MCOR19_007230";
+JABWCZ010000159.1	Genbank	CDS	20897	21035	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007230-T1_mrna"; gene_id "gene-MCOR19_007230";
+JABWCZ010000159.1	Genbank	CDS	21120	22942	.	+	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007230-T1_mrna"; gene_id "gene-MCOR19_007230";
+JABWCZ010000016.1	Genbank	transcript	68010	69147	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001479-T1_mrna"; gene_id "gene-MCOR19_001479"
+JABWCZ010000016.1	Genbank	exon	68010	68519	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001479-T1_mrna"; gene_id "gene-MCOR19_001479";
+JABWCZ010000016.1	Genbank	exon	68611	69147	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001479-T1_mrna"; gene_id "gene-MCOR19_001479";
+JABWCZ010000016.1	Genbank	CDS	68070	68519	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001479-T1_mrna"; gene_id "gene-MCOR19_001479";
+JABWCZ010000016.1	Genbank	CDS	68611	69147	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001479-T1_mrna"; gene_id "gene-MCOR19_001479";
+JABWCZ010000163.1	Genbank	transcript	39166	40174	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007322-T1_mrna"; gene_id "gene-MCOR19_007322"
+JABWCZ010000163.1	Genbank	exon	39166	39773	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007322-T1_mrna"; gene_id "gene-MCOR19_007322";
+JABWCZ010000163.1	Genbank	exon	39852	40174	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007322-T1_mrna"; gene_id "gene-MCOR19_007322";
+JABWCZ010000163.1	Genbank	CDS	39183	39773	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007322-T1_mrna"; gene_id "gene-MCOR19_007322";
+JABWCZ010000163.1	Genbank	CDS	39852	40055	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007322-T1_mrna"; gene_id "gene-MCOR19_007322";
+JABWCZ010000166.1	Genbank	transcript	54834	56201	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007403-T1_mrna"; gene_id "gene-MCOR19_007403"
+JABWCZ010000166.1	Genbank	exon	54834	56201	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007403-T1_mrna"; gene_id "gene-MCOR19_007403";
+JABWCZ010000166.1	Genbank	CDS	54962	56161	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007403-T1_mrna"; gene_id "gene-MCOR19_007403";
+JABWCZ010000172.1	Genbank	transcript	35594	38567	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007532-T1_mrna"; gene_id "gene-MCOR19_007532"
+JABWCZ010000172.1	Genbank	exon	35594	36023	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007532-T1_mrna"; gene_id "gene-MCOR19_007532";
+JABWCZ010000172.1	Genbank	exon	36107	37231	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007532-T1_mrna"; gene_id "gene-MCOR19_007532";
+JABWCZ010000172.1	Genbank	exon	37296	38567	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007532-T1_mrna"; gene_id "gene-MCOR19_007532";
+JABWCZ010000172.1	Genbank	CDS	35833	36023	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007532-T1_mrna"; gene_id "gene-MCOR19_007532";
+JABWCZ010000172.1	Genbank	CDS	36107	37231	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007532-T1_mrna"; gene_id "gene-MCOR19_007532";
+JABWCZ010000172.1	Genbank	CDS	37296	37827	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007532-T1_mrna"; gene_id "gene-MCOR19_007532";
+JABWCZ010000172.1	Genbank	transcript	75028	76635	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007544-T1_mrna"; gene_id "gene-MCOR19_007544"; gene_name "IMP3"
+JABWCZ010000172.1	Genbank	exon	75028	75157	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007544-T1_mrna"; gene_id "gene-MCOR19_007544"; gene_name "IMP3";
+JABWCZ010000172.1	Genbank	exon	75309	76635	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007544-T1_mrna"; gene_id "gene-MCOR19_007544"; gene_name "IMP3";
+JABWCZ010000172.1	Genbank	CDS	75126	75157	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007544-T1_mrna"; gene_id "gene-MCOR19_007544"; gene_name "IMP3";
+JABWCZ010000172.1	Genbank	CDS	75309	75828	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007544-T1_mrna"; gene_id "gene-MCOR19_007544"; gene_name "IMP3";
+JABWCZ010000018.1	Genbank	transcript	45842	48209	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001623-T1_mrna"; gene_id "gene-MCOR19_001623"; gene_name "RAM1"
+JABWCZ010000018.1	Genbank	exon	45842	46420	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001623-T1_mrna"; gene_id "gene-MCOR19_001623"; gene_name "RAM1";
+JABWCZ010000018.1	Genbank	exon	46486	46767	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001623-T1_mrna"; gene_id "gene-MCOR19_001623"; gene_name "RAM1";
+JABWCZ010000018.1	Genbank	exon	46858	46975	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001623-T1_mrna"; gene_id "gene-MCOR19_001623"; gene_name "RAM1";
+JABWCZ010000018.1	Genbank	exon	47044	47174	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001623-T1_mrna"; gene_id "gene-MCOR19_001623"; gene_name "RAM1";
+JABWCZ010000018.1	Genbank	exon	47251	48209	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001623-T1_mrna"; gene_id "gene-MCOR19_001623"; gene_name "RAM1";
+JABWCZ010000018.1	Genbank	CDS	46183	46420	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001623-T1_mrna"; gene_id "gene-MCOR19_001623"; gene_name "RAM1";
+JABWCZ010000018.1	Genbank	CDS	46486	46767	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001623-T1_mrna"; gene_id "gene-MCOR19_001623"; gene_name "RAM1";
+JABWCZ010000018.1	Genbank	CDS	46858	46975	.	-	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001623-T1_mrna"; gene_id "gene-MCOR19_001623"; gene_name "RAM1";
+JABWCZ010000018.1	Genbank	CDS	47044	47174	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001623-T1_mrna"; gene_id "gene-MCOR19_001623"; gene_name "RAM1";
+JABWCZ010000018.1	Genbank	CDS	47251	48026	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001623-T1_mrna"; gene_id "gene-MCOR19_001623"; gene_name "RAM1";
+JABWCZ010000018.1	Genbank	transcript	141514	143428	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001651-T1_mrna"; gene_id "gene-MCOR19_001651"
+JABWCZ010000018.1	Genbank	exon	141514	143081	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001651-T1_mrna"; gene_id "gene-MCOR19_001651";
+JABWCZ010000018.1	Genbank	exon	143156	143195	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001651-T1_mrna"; gene_id "gene-MCOR19_001651";
+JABWCZ010000018.1	Genbank	exon	143286	143428	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001651-T1_mrna"; gene_id "gene-MCOR19_001651";
+JABWCZ010000018.1	Genbank	CDS	141580	143081	.	-	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001651-T1_mrna"; gene_id "gene-MCOR19_001651";
+JABWCZ010000018.1	Genbank	CDS	143156	143195	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001651-T1_mrna"; gene_id "gene-MCOR19_001651";
+JABWCZ010000018.1	Genbank	CDS	143286	143339	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001651-T1_mrna"; gene_id "gene-MCOR19_001651";
+JABWCZ010000183.1	Genbank	transcript	15953	17193	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007801-T1_mrna"; gene_id "gene-MCOR19_007801"
+JABWCZ010000183.1	Genbank	exon	15953	17193	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007801-T1_mrna"; gene_id "gene-MCOR19_007801";
+JABWCZ010000183.1	Genbank	CDS	16322	17065	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007801-T1_mrna"; gene_id "gene-MCOR19_007801";
+JABWCZ010000183.1	Genbank	transcript	24202	26426	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007806-T1_mrna"; gene_id "gene-MCOR19_007806"
+JABWCZ010000183.1	Genbank	exon	24202	24512	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007806-T1_mrna"; gene_id "gene-MCOR19_007806";
+JABWCZ010000183.1	Genbank	exon	24630	25193	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007806-T1_mrna"; gene_id "gene-MCOR19_007806";
+JABWCZ010000183.1	Genbank	exon	25261	25701	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007806-T1_mrna"; gene_id "gene-MCOR19_007806";
+JABWCZ010000183.1	Genbank	exon	25780	26426	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007806-T1_mrna"; gene_id "gene-MCOR19_007806";
+JABWCZ010000183.1	Genbank	CDS	24444	24512	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007806-T1_mrna"; gene_id "gene-MCOR19_007806";
+JABWCZ010000183.1	Genbank	CDS	24630	25193	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007806-T1_mrna"; gene_id "gene-MCOR19_007806";
+JABWCZ010000183.1	Genbank	CDS	25261	25701	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007806-T1_mrna"; gene_id "gene-MCOR19_007806";
+JABWCZ010000183.1	Genbank	CDS	25780	26415	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007806-T1_mrna"; gene_id "gene-MCOR19_007806";
+JABWCZ010000185.1	Genbank	transcript	55066	57580	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007869-T1_mrna"; gene_id "gene-MCOR19_007869"; gene_name "DBP7"
+JABWCZ010000185.1	Genbank	exon	55066	57580	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007869-T1_mrna"; gene_id "gene-MCOR19_007869"; gene_name "DBP7";
+JABWCZ010000185.1	Genbank	CDS	55066	57543	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007869-T1_mrna"; gene_id "gene-MCOR19_007869"; gene_name "DBP7";
+JABWCZ010000189.1	Genbank	transcript	44284	47892	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007960-T1_mrna"; gene_id "gene-MCOR19_007960"; gene_name "MCM4"
+JABWCZ010000189.1	Genbank	exon	44284	45028	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007960-T1_mrna"; gene_id "gene-MCOR19_007960"; gene_name "MCM4";
+JABWCZ010000189.1	Genbank	exon	45113	47253	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007960-T1_mrna"; gene_id "gene-MCOR19_007960"; gene_name "MCM4";
+JABWCZ010000189.1	Genbank	exon	47342	47892	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007960-T1_mrna"; gene_id "gene-MCOR19_007960"; gene_name "MCM4";
+JABWCZ010000189.1	Genbank	CDS	44447	45028	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007960-T1_mrna"; gene_id "gene-MCOR19_007960"; gene_name "MCM4";
+JABWCZ010000189.1	Genbank	CDS	45113	47253	.	-	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007960-T1_mrna"; gene_id "gene-MCOR19_007960"; gene_name "MCM4";
+JABWCZ010000189.1	Genbank	CDS	47342	47708	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007960-T1_mrna"; gene_id "gene-MCOR19_007960"; gene_name "MCM4";
+JABWCZ010000189.1	Genbank	transcript	65664	67475	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007968-T1_mrna"; gene_id "gene-MCOR19_007968"
+JABWCZ010000189.1	Genbank	exon	65664	66575	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007968-T1_mrna"; gene_id "gene-MCOR19_007968";
+JABWCZ010000189.1	Genbank	exon	66716	67475	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007968-T1_mrna"; gene_id "gene-MCOR19_007968";
+JABWCZ010000189.1	Genbank	CDS	65776	66575	.	-	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007968-T1_mrna"; gene_id "gene-MCOR19_007968";
+JABWCZ010000189.1	Genbank	CDS	66716	67352	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_007968-T1_mrna"; gene_id "gene-MCOR19_007968";
+JABWCZ010000191.1	Genbank	transcript	32462	34176	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008004-T1_mrna"; gene_id "gene-MCOR19_008004"; gene_name "UBA4"
+JABWCZ010000191.1	Genbank	exon	32462	32701	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008004-T1_mrna"; gene_id "gene-MCOR19_008004"; gene_name "UBA4";
+JABWCZ010000191.1	Genbank	exon	32783	34176	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008004-T1_mrna"; gene_id "gene-MCOR19_008004"; gene_name "UBA4";
+JABWCZ010000191.1	Genbank	CDS	32464	32701	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008004-T1_mrna"; gene_id "gene-MCOR19_008004"; gene_name "UBA4";
+JABWCZ010000191.1	Genbank	CDS	32783	34017	.	+	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008004-T1_mrna"; gene_id "gene-MCOR19_008004"; gene_name "UBA4";
+JABWCZ010000194.1	Genbank	transcript	18879	21276	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008074-T1_mrna"; gene_id "gene-MCOR19_008074"
+JABWCZ010000194.1	Genbank	exon	18879	19442	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008074-T1_mrna"; gene_id "gene-MCOR19_008074";
+JABWCZ010000194.1	Genbank	exon	19555	21076	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008074-T1_mrna"; gene_id "gene-MCOR19_008074";
+JABWCZ010000194.1	Genbank	exon	21165	21276	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008074-T1_mrna"; gene_id "gene-MCOR19_008074";
+JABWCZ010000194.1	Genbank	CDS	19160	19442	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008074-T1_mrna"; gene_id "gene-MCOR19_008074";
+JABWCZ010000194.1	Genbank	CDS	19555	21076	.	+	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008074-T1_mrna"; gene_id "gene-MCOR19_008074";
+JABWCZ010000194.1	Genbank	CDS	21165	21264	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008074-T1_mrna"; gene_id "gene-MCOR19_008074";
+JABWCZ010000020.1	Genbank	transcript	129306	131777	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001796-T1_mrna"; gene_id "gene-MCOR19_001796"
+JABWCZ010000020.1	Genbank	exon	129306	130460	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001796-T1_mrna"; gene_id "gene-MCOR19_001796";
+JABWCZ010000020.1	Genbank	exon	130544	131777	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001796-T1_mrna"; gene_id "gene-MCOR19_001796";
+JABWCZ010000020.1	Genbank	CDS	129669	130460	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001796-T1_mrna"; gene_id "gene-MCOR19_001796";
+JABWCZ010000020.1	Genbank	CDS	130544	131410	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001796-T1_mrna"; gene_id "gene-MCOR19_001796";
+JABWCZ010000020.1	Genbank	transcript	184515	185573	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001811-T1_mrna"; gene_id "gene-MCOR19_001811"; gene_name "CWC26"
+JABWCZ010000020.1	Genbank	exon	184515	185573	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001811-T1_mrna"; gene_id "gene-MCOR19_001811"; gene_name "CWC26";
+JABWCZ010000020.1	Genbank	CDS	184515	185573	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001811-T1_mrna"; gene_id "gene-MCOR19_001811"; gene_name "CWC26";
+JABWCZ010000200.1	Genbank	transcript	18330	20861	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008232-T1_mrna"; gene_id "gene-MCOR19_008232"; gene_name "ERB1"
+JABWCZ010000200.1	Genbank	exon	18330	19118	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008232-T1_mrna"; gene_id "gene-MCOR19_008232"; gene_name "ERB1";
+JABWCZ010000200.1	Genbank	exon	19194	20861	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008232-T1_mrna"; gene_id "gene-MCOR19_008232"; gene_name "ERB1";
+JABWCZ010000200.1	Genbank	CDS	18402	19118	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008232-T1_mrna"; gene_id "gene-MCOR19_008232"; gene_name "ERB1";
+JABWCZ010000200.1	Genbank	CDS	19194	20822	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008232-T1_mrna"; gene_id "gene-MCOR19_008232"; gene_name "ERB1";
+JABWCZ010000200.1	Genbank	transcript	31422	33228	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008237-T1_mrna"; gene_id "gene-MCOR19_008237"
+JABWCZ010000200.1	Genbank	exon	31422	32632	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008237-T1_mrna"; gene_id "gene-MCOR19_008237";
+JABWCZ010000200.1	Genbank	exon	32728	33228	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008237-T1_mrna"; gene_id "gene-MCOR19_008237";
+JABWCZ010000200.1	Genbank	CDS	31640	32632	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008237-T1_mrna"; gene_id "gene-MCOR19_008237";
+JABWCZ010000200.1	Genbank	CDS	32728	32979	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008237-T1_mrna"; gene_id "gene-MCOR19_008237";
+JABWCZ010000021.1	Genbank	transcript	202782	206314	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001884-T1_mrna"; gene_id "gene-MCOR19_001884"
+JABWCZ010000021.1	Genbank	exon	202782	204288	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001884-T1_mrna"; gene_id "gene-MCOR19_001884";
+JABWCZ010000021.1	Genbank	exon	204359	204694	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001884-T1_mrna"; gene_id "gene-MCOR19_001884";
+JABWCZ010000021.1	Genbank	exon	204756	204989	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001884-T1_mrna"; gene_id "gene-MCOR19_001884";
+JABWCZ010000021.1	Genbank	exon	205055	205717	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001884-T1_mrna"; gene_id "gene-MCOR19_001884";
+JABWCZ010000021.1	Genbank	exon	205783	206178	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001884-T1_mrna"; gene_id "gene-MCOR19_001884";
+JABWCZ010000021.1	Genbank	exon	206257	206314	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001884-T1_mrna"; gene_id "gene-MCOR19_001884";
+JABWCZ010000021.1	Genbank	CDS	202903	204288	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001884-T1_mrna"; gene_id "gene-MCOR19_001884";
+JABWCZ010000021.1	Genbank	CDS	204359	204694	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001884-T1_mrna"; gene_id "gene-MCOR19_001884";
+JABWCZ010000021.1	Genbank	CDS	204756	204989	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001884-T1_mrna"; gene_id "gene-MCOR19_001884";
+JABWCZ010000021.1	Genbank	CDS	205055	205717	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001884-T1_mrna"; gene_id "gene-MCOR19_001884";
+JABWCZ010000021.1	Genbank	CDS	205783	206178	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001884-T1_mrna"; gene_id "gene-MCOR19_001884";
+JABWCZ010000021.1	Genbank	CDS	206257	206268	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_001884-T1_mrna"; gene_id "gene-MCOR19_001884";
+JABWCZ010000220.1	Genbank	transcript	16217	18232	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008607-T1_mrna"; gene_id "gene-MCOR19_008607"
+JABWCZ010000220.1	Genbank	exon	16217	18050	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008607-T1_mrna"; gene_id "gene-MCOR19_008607";
+JABWCZ010000220.1	Genbank	exon	18130	18232	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008607-T1_mrna"; gene_id "gene-MCOR19_008607";
+JABWCZ010000220.1	Genbank	CDS	16217	18050	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008607-T1_mrna"; gene_id "gene-MCOR19_008607";
+JABWCZ010000220.1	Genbank	CDS	18130	18215	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008607-T1_mrna"; gene_id "gene-MCOR19_008607";
+JABWCZ010000224.1	Genbank	transcript	21496	23228	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008664-T1_mrna"; gene_id "gene-MCOR19_008664"; gene_name "DPH1"
+JABWCZ010000224.1	Genbank	exon	21496	22697	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008664-T1_mrna"; gene_id "gene-MCOR19_008664"; gene_name "DPH1";
+JABWCZ010000224.1	Genbank	exon	22801	23228	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008664-T1_mrna"; gene_id "gene-MCOR19_008664"; gene_name "DPH1";
+JABWCZ010000224.1	Genbank	CDS	21523	22697	.	-	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008664-T1_mrna"; gene_id "gene-MCOR19_008664"; gene_name "DPH1";
+JABWCZ010000224.1	Genbank	CDS	22801	22999	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008664-T1_mrna"; gene_id "gene-MCOR19_008664"; gene_name "DPH1";
+JABWCZ010000224.1	Genbank	transcript	49781	52619	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008673-T1_mrna"; gene_id "gene-MCOR19_008673"
+JABWCZ010000224.1	Genbank	exon	49781	52619	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008673-T1_mrna"; gene_id "gene-MCOR19_008673";
+JABWCZ010000224.1	Genbank	CDS	49929	52619	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008673-T1_mrna"; gene_id "gene-MCOR19_008673";
+JABWCZ010000224.1	Genbank	transcript	52887	56251	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008674-T1_mrna"; gene_id "gene-MCOR19_008674"
+JABWCZ010000224.1	Genbank	exon	52887	54152	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008674-T1_mrna"; gene_id "gene-MCOR19_008674";
+JABWCZ010000224.1	Genbank	exon	54253	54714	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008674-T1_mrna"; gene_id "gene-MCOR19_008674";
+JABWCZ010000224.1	Genbank	exon	54801	55061	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008674-T1_mrna"; gene_id "gene-MCOR19_008674";
+JABWCZ010000224.1	Genbank	exon	55141	55269	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008674-T1_mrna"; gene_id "gene-MCOR19_008674";
+JABWCZ010000224.1	Genbank	exon	55373	55440	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008674-T1_mrna"; gene_id "gene-MCOR19_008674";
+JABWCZ010000224.1	Genbank	exon	55576	55777	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008674-T1_mrna"; gene_id "gene-MCOR19_008674";
+JABWCZ010000224.1	Genbank	exon	55886	56251	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008674-T1_mrna"; gene_id "gene-MCOR19_008674";
+JABWCZ010000224.1	Genbank	CDS	52887	54152	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008674-T1_mrna"; gene_id "gene-MCOR19_008674";
+JABWCZ010000224.1	Genbank	CDS	54253	54714	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008674-T1_mrna"; gene_id "gene-MCOR19_008674";
+JABWCZ010000224.1	Genbank	CDS	54801	55061	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008674-T1_mrna"; gene_id "gene-MCOR19_008674";
+JABWCZ010000224.1	Genbank	CDS	55141	55269	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008674-T1_mrna"; gene_id "gene-MCOR19_008674";
+JABWCZ010000224.1	Genbank	CDS	55373	55440	.	-	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008674-T1_mrna"; gene_id "gene-MCOR19_008674";
+JABWCZ010000224.1	Genbank	CDS	55576	55765	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008674-T1_mrna"; gene_id "gene-MCOR19_008674";
+JABWCZ010000229.1	Genbank	transcript	35793	38969	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008749-T1_mrna"; gene_id "gene-MCOR19_008749"
+JABWCZ010000229.1	Genbank	exon	35793	38009	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008749-T1_mrna"; gene_id "gene-MCOR19_008749";
+JABWCZ010000229.1	Genbank	exon	38069	38311	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008749-T1_mrna"; gene_id "gene-MCOR19_008749";
+JABWCZ010000229.1	Genbank	exon	38382	38969	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008749-T1_mrna"; gene_id "gene-MCOR19_008749";
+JABWCZ010000229.1	Genbank	CDS	35990	37819	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008749-T1_mrna"; gene_id "gene-MCOR19_008749";
+JABWCZ010000232.1	Genbank	transcript	34482	36318	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008806-T1_mrna"; gene_id "gene-MCOR19_008806"
+JABWCZ010000232.1	Genbank	exon	34482	36318	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008806-T1_mrna"; gene_id "gene-MCOR19_008806";
+JABWCZ010000232.1	Genbank	CDS	34532	35995	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008806-T1_mrna"; gene_id "gene-MCOR19_008806";
+JABWCZ010000239.1	Genbank	transcript	28038	30296	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008895-T1_mrna"; gene_id "gene-MCOR19_008895"; gene_name "NOP7"
+JABWCZ010000239.1	Genbank	exon	28038	30296	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008895-T1_mrna"; gene_id "gene-MCOR19_008895"; gene_name "NOP7";
+JABWCZ010000239.1	Genbank	CDS	28128	30170	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008895-T1_mrna"; gene_id "gene-MCOR19_008895"; gene_name "NOP7";
+JABWCZ010000240.1	Genbank	transcript	53091	54323	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008918-T1_mrna"; gene_id "gene-MCOR19_008918"
+JABWCZ010000240.1	Genbank	exon	53091	54323	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008918-T1_mrna"; gene_id "gene-MCOR19_008918";
+JABWCZ010000240.1	Genbank	CDS	53305	54249	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_008918-T1_mrna"; gene_id "gene-MCOR19_008918";
+JABWCZ010000249.1	Genbank	transcript	34205	35508	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009047-T1_mrna"; gene_id "gene-MCOR19_009047"
+JABWCZ010000249.1	Genbank	exon	34205	34671	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009047-T1_mrna"; gene_id "gene-MCOR19_009047";
+JABWCZ010000249.1	Genbank	exon	34759	35508	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009047-T1_mrna"; gene_id "gene-MCOR19_009047";
+JABWCZ010000249.1	Genbank	CDS	34325	34671	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009047-T1_mrna"; gene_id "gene-MCOR19_009047";
+JABWCZ010000249.1	Genbank	CDS	34759	35413	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009047-T1_mrna"; gene_id "gene-MCOR19_009047";
+JABWCZ010000025.1	Genbank	transcript	25770	27542	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002075-T1_mrna"; gene_id "gene-MCOR19_002075"; gene_name "DRE2"
+JABWCZ010000025.1	Genbank	exon	25770	26325	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002075-T1_mrna"; gene_id "gene-MCOR19_002075"; gene_name "DRE2";
+JABWCZ010000025.1	Genbank	exon	26406	27542	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002075-T1_mrna"; gene_id "gene-MCOR19_002075"; gene_name "DRE2";
+JABWCZ010000025.1	Genbank	CDS	26003	26325	.	-	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002075-T1_mrna"; gene_id "gene-MCOR19_002075"; gene_name "DRE2";
+JABWCZ010000025.1	Genbank	CDS	26406	27066	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002075-T1_mrna"; gene_id "gene-MCOR19_002075"; gene_name "DRE2";
+JABWCZ010000250.1	Genbank	transcript	20072	22042	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009061-T1_mrna"; gene_id "gene-MCOR19_009061"
+JABWCZ010000250.1	Genbank	exon	20072	21081	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009061-T1_mrna"; gene_id "gene-MCOR19_009061";
+JABWCZ010000250.1	Genbank	exon	21231	22042	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009061-T1_mrna"; gene_id "gene-MCOR19_009061";
+JABWCZ010000250.1	Genbank	CDS	20113	21081	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009061-T1_mrna"; gene_id "gene-MCOR19_009061";
+JABWCZ010000250.1	Genbank	CDS	21231	21650	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009061-T1_mrna"; gene_id "gene-MCOR19_009061";
+JABWCZ010000251.1	Genbank	transcript	34846	36523	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009087-T1_mrna"; gene_id "gene-MCOR19_009087"; gene_name "PSF1"
+JABWCZ010000251.1	Genbank	exon	34846	34964	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009087-T1_mrna"; gene_id "gene-MCOR19_009087"; gene_name "PSF1";
+JABWCZ010000251.1	Genbank	exon	35082	35608	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009087-T1_mrna"; gene_id "gene-MCOR19_009087"; gene_name "PSF1";
+JABWCZ010000251.1	Genbank	exon	35702	36523	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009087-T1_mrna"; gene_id "gene-MCOR19_009087"; gene_name "PSF1";
+JABWCZ010000251.1	Genbank	CDS	34938	34964	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009087-T1_mrna"; gene_id "gene-MCOR19_009087"; gene_name "PSF1";
+JABWCZ010000251.1	Genbank	CDS	35082	35608	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009087-T1_mrna"; gene_id "gene-MCOR19_009087"; gene_name "PSF1";
+JABWCZ010000251.1	Genbank	CDS	35702	35795	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009087-T1_mrna"; gene_id "gene-MCOR19_009087"; gene_name "PSF1";
+JABWCZ010000252.1	Genbank	transcript	36310	38822	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009101-T1_mrna"; gene_id "gene-MCOR19_009101"
+JABWCZ010000252.1	Genbank	exon	36310	37381	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009101-T1_mrna"; gene_id "gene-MCOR19_009101";
+JABWCZ010000252.1	Genbank	exon	37438	37580	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009101-T1_mrna"; gene_id "gene-MCOR19_009101";
+JABWCZ010000252.1	Genbank	exon	37636	38353	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009101-T1_mrna"; gene_id "gene-MCOR19_009101";
+JABWCZ010000252.1	Genbank	exon	38424	38460	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009101-T1_mrna"; gene_id "gene-MCOR19_009101";
+JABWCZ010000252.1	Genbank	exon	38534	38822	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009101-T1_mrna"; gene_id "gene-MCOR19_009101";
+JABWCZ010000252.1	Genbank	CDS	36540	37381	.	-	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009101-T1_mrna"; gene_id "gene-MCOR19_009101";
+JABWCZ010000252.1	Genbank	CDS	37438	37580	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009101-T1_mrna"; gene_id "gene-MCOR19_009101";
+JABWCZ010000252.1	Genbank	CDS	37636	38353	.	-	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009101-T1_mrna"; gene_id "gene-MCOR19_009101";
+JABWCZ010000252.1	Genbank	CDS	38424	38460	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009101-T1_mrna"; gene_id "gene-MCOR19_009101";
+JABWCZ010000252.1	Genbank	CDS	38534	38704	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009101-T1_mrna"; gene_id "gene-MCOR19_009101";
+JABWCZ010000256.1	Genbank	transcript	12963	14699	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009146-T1_mrna"; gene_id "gene-MCOR19_009146"; gene_name "PLRG1"
+JABWCZ010000256.1	Genbank	exon	12963	14699	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009146-T1_mrna"; gene_id "gene-MCOR19_009146"; gene_name "PLRG1";
+JABWCZ010000256.1	Genbank	CDS	13129	14661	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009146-T1_mrna"; gene_id "gene-MCOR19_009146"; gene_name "PLRG1";
+JABWCZ010000027.1	Genbank	transcript	131980	133517	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002231-T1_mrna"; gene_id "gene-MCOR19_002231"
+JABWCZ010000027.1	Genbank	exon	131980	133305	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002231-T1_mrna"; gene_id "gene-MCOR19_002231";
+JABWCZ010000027.1	Genbank	exon	133371	133517	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002231-T1_mrna"; gene_id "gene-MCOR19_002231";
+JABWCZ010000027.1	Genbank	CDS	132161	133305	.	-	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002231-T1_mrna"; gene_id "gene-MCOR19_002231";
+JABWCZ010000027.1	Genbank	CDS	133371	133452	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002231-T1_mrna"; gene_id "gene-MCOR19_002231";
+JABWCZ010000271.1	Genbank	transcript	26760	28690	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009373-T1_mrna"; gene_id "gene-MCOR19_009373"; gene_name "HAT1"
+JABWCZ010000271.1	Genbank	exon	26760	26942	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009373-T1_mrna"; gene_id "gene-MCOR19_009373"; gene_name "HAT1";
+JABWCZ010000271.1	Genbank	exon	27010	27285	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009373-T1_mrna"; gene_id "gene-MCOR19_009373"; gene_name "HAT1";
+JABWCZ010000271.1	Genbank	exon	27356	28690	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009373-T1_mrna"; gene_id "gene-MCOR19_009373"; gene_name "HAT1";
+JABWCZ010000271.1	Genbank	CDS	26924	26942	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009373-T1_mrna"; gene_id "gene-MCOR19_009373"; gene_name "HAT1";
+JABWCZ010000271.1	Genbank	CDS	27010	27285	.	+	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009373-T1_mrna"; gene_id "gene-MCOR19_009373"; gene_name "HAT1";
+JABWCZ010000271.1	Genbank	CDS	27356	28467	.	+	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009373-T1_mrna"; gene_id "gene-MCOR19_009373"; gene_name "HAT1";
+JABWCZ010000277.1	Genbank	transcript	15808	18887	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009438-T1_mrna"; gene_id "gene-MCOR19_009438"
+JABWCZ010000277.1	Genbank	exon	15808	18732	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009438-T1_mrna"; gene_id "gene-MCOR19_009438";
+JABWCZ010000277.1	Genbank	exon	18809	18887	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009438-T1_mrna"; gene_id "gene-MCOR19_009438";
+JABWCZ010000277.1	Genbank	CDS	15843	18732	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009438-T1_mrna"; gene_id "gene-MCOR19_009438";
+JABWCZ010000277.1	Genbank	CDS	18809	18825	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009438-T1_mrna"; gene_id "gene-MCOR19_009438";
+JABWCZ010000278.1	Genbank	transcript	25714	27608	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009456-T1_mrna"; gene_id "gene-MCOR19_009456"
+JABWCZ010000278.1	Genbank	exon	25714	27608	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009456-T1_mrna"; gene_id "gene-MCOR19_009456";
+JABWCZ010000278.1	Genbank	CDS	25800	27290	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009456-T1_mrna"; gene_id "gene-MCOR19_009456";
+JABWCZ010000279.1	Genbank	transcript	3646	5964	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009465-T1_mrna"; gene_id "gene-MCOR19_009465"
+JABWCZ010000279.1	Genbank	exon	3646	4126	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009465-T1_mrna"; gene_id "gene-MCOR19_009465";
+JABWCZ010000279.1	Genbank	exon	4211	5248	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009465-T1_mrna"; gene_id "gene-MCOR19_009465";
+JABWCZ010000279.1	Genbank	exon	5319	5964	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009465-T1_mrna"; gene_id "gene-MCOR19_009465";
+JABWCZ010000279.1	Genbank	CDS	3833	4126	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009465-T1_mrna"; gene_id "gene-MCOR19_009465";
+JABWCZ010000279.1	Genbank	CDS	4211	5248	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009465-T1_mrna"; gene_id "gene-MCOR19_009465";
+JABWCZ010000279.1	Genbank	CDS	5319	5402	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009465-T1_mrna"; gene_id "gene-MCOR19_009465";
+JABWCZ010000028.1	Genbank	transcript	77854	79543	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002270-T1_mrna"; gene_id "gene-MCOR19_002270"; gene_name "ATG3"
+JABWCZ010000028.1	Genbank	exon	77854	78599	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002270-T1_mrna"; gene_id "gene-MCOR19_002270"; gene_name "ATG3";
+JABWCZ010000028.1	Genbank	exon	78683	79157	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002270-T1_mrna"; gene_id "gene-MCOR19_002270"; gene_name "ATG3";
+JABWCZ010000028.1	Genbank	exon	79223	79543	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002270-T1_mrna"; gene_id "gene-MCOR19_002270"; gene_name "ATG3";
+JABWCZ010000028.1	Genbank	CDS	78079	78599	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002270-T1_mrna"; gene_id "gene-MCOR19_002270"; gene_name "ATG3";
+JABWCZ010000028.1	Genbank	CDS	78683	79157	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002270-T1_mrna"; gene_id "gene-MCOR19_002270"; gene_name "ATG3";
+JABWCZ010000028.1	Genbank	CDS	79223	79276	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002270-T1_mrna"; gene_id "gene-MCOR19_002270"; gene_name "ATG3";
+JABWCZ010000280.1	Genbank	transcript	30068	32662	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009485-T1_mrna"; gene_id "gene-MCOR19_009485"
+JABWCZ010000280.1	Genbank	exon	30068	31113	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009485-T1_mrna"; gene_id "gene-MCOR19_009485";
+JABWCZ010000280.1	Genbank	exon	31189	32662	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009485-T1_mrna"; gene_id "gene-MCOR19_009485";
+JABWCZ010000280.1	Genbank	CDS	30205	31113	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009485-T1_mrna"; gene_id "gene-MCOR19_009485";
+JABWCZ010000280.1	Genbank	CDS	31189	32190	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009485-T1_mrna"; gene_id "gene-MCOR19_009485";
+JABWCZ010000282.1	Genbank	transcript	44488	46374	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009526-T1_mrna"; gene_id "gene-MCOR19_009526"
+JABWCZ010000282.1	Genbank	exon	44488	46374	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009526-T1_mrna"; gene_id "gene-MCOR19_009526";
+JABWCZ010000282.1	Genbank	CDS	44976	46088	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009526-T1_mrna"; gene_id "gene-MCOR19_009526";
+JABWCZ010000282.1	Genbank	transcript	46602	49168	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009527-T1_mrna"; gene_id "gene-MCOR19_009527"; gene_name "UTP25"
+JABWCZ010000282.1	Genbank	exon	46602	46839	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009527-T1_mrna"; gene_id "gene-MCOR19_009527"; gene_name "UTP25";
+JABWCZ010000282.1	Genbank	exon	46986	47702	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009527-T1_mrna"; gene_id "gene-MCOR19_009527"; gene_name "UTP25";
+JABWCZ010000282.1	Genbank	exon	47771	49168	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009527-T1_mrna"; gene_id "gene-MCOR19_009527"; gene_name "UTP25";
+JABWCZ010000282.1	Genbank	CDS	46691	46839	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009527-T1_mrna"; gene_id "gene-MCOR19_009527"; gene_name "UTP25";
+JABWCZ010000282.1	Genbank	CDS	46986	47702	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009527-T1_mrna"; gene_id "gene-MCOR19_009527"; gene_name "UTP25";
+JABWCZ010000282.1	Genbank	CDS	47771	49073	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009527-T1_mrna"; gene_id "gene-MCOR19_009527"; gene_name "UTP25";
+JABWCZ010000293.1	Genbank	transcript	16490	18898	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009635-T1_mrna"; gene_id "gene-MCOR19_009635"; gene_name "CYP6"
+JABWCZ010000293.1	Genbank	exon	16490	18898	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009635-T1_mrna"; gene_id "gene-MCOR19_009635"; gene_name "CYP6";
+JABWCZ010000293.1	Genbank	CDS	17262	18779	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009635-T1_mrna"; gene_id "gene-MCOR19_009635"; gene_name "CYP6";
+JABWCZ010000003.1	Genbank	transcript	49390	50874	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000319-T1_mrna"; gene_id "gene-MCOR19_000319"
+JABWCZ010000003.1	Genbank	exon	49390	49677	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000319-T1_mrna"; gene_id "gene-MCOR19_000319";
+JABWCZ010000003.1	Genbank	exon	49830	50395	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000319-T1_mrna"; gene_id "gene-MCOR19_000319";
+JABWCZ010000003.1	Genbank	exon	50465	50650	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000319-T1_mrna"; gene_id "gene-MCOR19_000319";
+JABWCZ010000003.1	Genbank	exon	50721	50874	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000319-T1_mrna"; gene_id "gene-MCOR19_000319";
+JABWCZ010000003.1	Genbank	CDS	49509	49677	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000319-T1_mrna"; gene_id "gene-MCOR19_000319";
+JABWCZ010000003.1	Genbank	CDS	49830	50233	.	+	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000319-T1_mrna"; gene_id "gene-MCOR19_000319";
+JABWCZ010000003.1	Genbank	transcript	157306	158738	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000360-T1_mrna"; gene_id "gene-MCOR19_000360"
+JABWCZ010000003.1	Genbank	exon	157306	157838	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000360-T1_mrna"; gene_id "gene-MCOR19_000360";
+JABWCZ010000003.1	Genbank	exon	157930	158136	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000360-T1_mrna"; gene_id "gene-MCOR19_000360";
+JABWCZ010000003.1	Genbank	exon	158213	158371	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000360-T1_mrna"; gene_id "gene-MCOR19_000360";
+JABWCZ010000003.1	Genbank	exon	158455	158738	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000360-T1_mrna"; gene_id "gene-MCOR19_000360";
+JABWCZ010000003.1	Genbank	CDS	157461	157838	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000360-T1_mrna"; gene_id "gene-MCOR19_000360";
+JABWCZ010000003.1	Genbank	CDS	157930	158136	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000360-T1_mrna"; gene_id "gene-MCOR19_000360";
+JABWCZ010000003.1	Genbank	CDS	158213	158371	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000360-T1_mrna"; gene_id "gene-MCOR19_000360";
+JABWCZ010000003.1	Genbank	CDS	158455	158697	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000360-T1_mrna"; gene_id "gene-MCOR19_000360";
+JABWCZ010000003.1	Genbank	transcript	203768	206705	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000377-T1_mrna"; gene_id "gene-MCOR19_000377"
+JABWCZ010000003.1	Genbank	exon	203768	203858	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000377-T1_mrna"; gene_id "gene-MCOR19_000377";
+JABWCZ010000003.1	Genbank	exon	203914	204026	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000377-T1_mrna"; gene_id "gene-MCOR19_000377";
+JABWCZ010000003.1	Genbank	exon	204080	206705	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000377-T1_mrna"; gene_id "gene-MCOR19_000377";
+JABWCZ010000003.1	Genbank	CDS	203841	203858	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000377-T1_mrna"; gene_id "gene-MCOR19_000377";
+JABWCZ010000003.1	Genbank	CDS	203914	204026	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000377-T1_mrna"; gene_id "gene-MCOR19_000377";
+JABWCZ010000003.1	Genbank	CDS	204080	206651	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000377-T1_mrna"; gene_id "gene-MCOR19_000377";
+JABWCZ010000003.1	Genbank	transcript	259552	261005	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000390-T1_mrna"; gene_id "gene-MCOR19_000390"; gene_name "NOP16"
+JABWCZ010000003.1	Genbank	exon	259552	260706	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000390-T1_mrna"; gene_id "gene-MCOR19_000390"; gene_name "NOP16";
+JABWCZ010000003.1	Genbank	exon	260791	261005	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000390-T1_mrna"; gene_id "gene-MCOR19_000390"; gene_name "NOP16";
+JABWCZ010000003.1	Genbank	CDS	260163	260706	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000390-T1_mrna"; gene_id "gene-MCOR19_000390"; gene_name "NOP16";
+JABWCZ010000003.1	Genbank	CDS	260791	260909	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000390-T1_mrna"; gene_id "gene-MCOR19_000390"; gene_name "NOP16";
+JABWCZ010000302.1	Genbank	transcript	13	2278	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009711-T1_mrna"; gene_id "gene-MCOR19_009711"
+JABWCZ010000302.1	Genbank	exon	13	663	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009711-T1_mrna"; gene_id "gene-MCOR19_009711";
+JABWCZ010000302.1	Genbank	exon	748	2278	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009711-T1_mrna"; gene_id "gene-MCOR19_009711";
+JABWCZ010000302.1	Genbank	CDS	634	663	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009711-T1_mrna"; gene_id "gene-MCOR19_009711";
+JABWCZ010000302.1	Genbank	CDS	748	1980	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009711-T1_mrna"; gene_id "gene-MCOR19_009711";
+JABWCZ010000303.1	Genbank	transcript	29828	31245	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009734-T1_mrna"; gene_id "gene-MCOR19_009734"
+JABWCZ010000303.1	Genbank	exon	29828	30093	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009734-T1_mrna"; gene_id "gene-MCOR19_009734";
+JABWCZ010000303.1	Genbank	exon	30236	30334	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009734-T1_mrna"; gene_id "gene-MCOR19_009734";
+JABWCZ010000303.1	Genbank	exon	30432	30528	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009734-T1_mrna"; gene_id "gene-MCOR19_009734";
+JABWCZ010000303.1	Genbank	exon	30614	30700	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009734-T1_mrna"; gene_id "gene-MCOR19_009734";
+JABWCZ010000303.1	Genbank	exon	30779	30842	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009734-T1_mrna"; gene_id "gene-MCOR19_009734";
+JABWCZ010000303.1	Genbank	exon	30920	31245	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009734-T1_mrna"; gene_id "gene-MCOR19_009734";
+JABWCZ010000303.1	Genbank	CDS	30082	30093	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009734-T1_mrna"; gene_id "gene-MCOR19_009734";
+JABWCZ010000303.1	Genbank	CDS	30236	30334	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009734-T1_mrna"; gene_id "gene-MCOR19_009734";
+JABWCZ010000303.1	Genbank	CDS	30432	30528	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009734-T1_mrna"; gene_id "gene-MCOR19_009734";
+JABWCZ010000303.1	Genbank	CDS	30614	30700	.	+	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009734-T1_mrna"; gene_id "gene-MCOR19_009734";
+JABWCZ010000303.1	Genbank	CDS	30779	30842	.	+	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009734-T1_mrna"; gene_id "gene-MCOR19_009734";
+JABWCZ010000303.1	Genbank	CDS	30920	31202	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009734-T1_mrna"; gene_id "gene-MCOR19_009734";
+JABWCZ010000303.1	Genbank	transcript	41701	43543	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009739-T1_mrna"; gene_id "gene-MCOR19_009739"; gene_name "RBG52"
+JABWCZ010000303.1	Genbank	exon	41701	41761	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009739-T1_mrna"; gene_id "gene-MCOR19_009739"; gene_name "RBG52";
+JABWCZ010000303.1	Genbank	exon	41836	41876	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009739-T1_mrna"; gene_id "gene-MCOR19_009739"; gene_name "RBG52";
+JABWCZ010000303.1	Genbank	exon	41959	42219	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009739-T1_mrna"; gene_id "gene-MCOR19_009739"; gene_name "RBG52";
+JABWCZ010000303.1	Genbank	exon	42317	42502	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009739-T1_mrna"; gene_id "gene-MCOR19_009739"; gene_name "RBG52";
+JABWCZ010000303.1	Genbank	exon	42572	42644	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009739-T1_mrna"; gene_id "gene-MCOR19_009739"; gene_name "RBG52";
+JABWCZ010000303.1	Genbank	exon	42704	42737	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009739-T1_mrna"; gene_id "gene-MCOR19_009739"; gene_name "RBG52";
+JABWCZ010000303.1	Genbank	exon	42802	42829	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009739-T1_mrna"; gene_id "gene-MCOR19_009739"; gene_name "RBG52";
+JABWCZ010000303.1	Genbank	exon	42918	43034	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009739-T1_mrna"; gene_id "gene-MCOR19_009739"; gene_name "RBG52";
+JABWCZ010000303.1	Genbank	exon	43089	43543	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009739-T1_mrna"; gene_id "gene-MCOR19_009739"; gene_name "RBG52";
+JABWCZ010000303.1	Genbank	CDS	41759	41761	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009739-T1_mrna"; gene_id "gene-MCOR19_009739"; gene_name "RBG52";
+JABWCZ010000303.1	Genbank	CDS	41836	41876	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009739-T1_mrna"; gene_id "gene-MCOR19_009739"; gene_name "RBG52";
+JABWCZ010000303.1	Genbank	CDS	41959	42219	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009739-T1_mrna"; gene_id "gene-MCOR19_009739"; gene_name "RBG52";
+JABWCZ010000303.1	Genbank	CDS	42317	42502	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009739-T1_mrna"; gene_id "gene-MCOR19_009739"; gene_name "RBG52";
+JABWCZ010000303.1	Genbank	CDS	42572	42644	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009739-T1_mrna"; gene_id "gene-MCOR19_009739"; gene_name "RBG52";
+JABWCZ010000303.1	Genbank	CDS	42704	42737	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009739-T1_mrna"; gene_id "gene-MCOR19_009739"; gene_name "RBG52";
+JABWCZ010000303.1	Genbank	CDS	42802	42829	.	+	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009739-T1_mrna"; gene_id "gene-MCOR19_009739"; gene_name "RBG52";
+JABWCZ010000303.1	Genbank	CDS	42918	43034	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009739-T1_mrna"; gene_id "gene-MCOR19_009739"; gene_name "RBG52";
+JABWCZ010000303.1	Genbank	CDS	43089	43128	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009739-T1_mrna"; gene_id "gene-MCOR19_009739"; gene_name "RBG52";
+JABWCZ010000309.1	Genbank	transcript	5356	6461	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009782-T1_mrna"; gene_id "gene-MCOR19_009782"; gene_name "GAR1_2"
+JABWCZ010000309.1	Genbank	exon	5356	6214	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009782-T1_mrna"; gene_id "gene-MCOR19_009782"; gene_name "GAR1_2";
+JABWCZ010000309.1	Genbank	exon	6314	6461	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009782-T1_mrna"; gene_id "gene-MCOR19_009782"; gene_name "GAR1_2";
+JABWCZ010000309.1	Genbank	CDS	5622	6214	.	-	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009782-T1_mrna"; gene_id "gene-MCOR19_009782"; gene_name "GAR1_2";
+JABWCZ010000309.1	Genbank	CDS	6314	6371	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009782-T1_mrna"; gene_id "gene-MCOR19_009782"; gene_name "GAR1_2";
+JABWCZ010000031.1	Genbank	transcript	182484	184966	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002480-T1_mrna"; gene_id "gene-MCOR19_002480"; gene_name "SDA1"
+JABWCZ010000031.1	Genbank	exon	182484	182577	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002480-T1_mrna"; gene_id "gene-MCOR19_002480"; gene_name "SDA1";
+JABWCZ010000031.1	Genbank	exon	182637	182672	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002480-T1_mrna"; gene_id "gene-MCOR19_002480"; gene_name "SDA1";
+JABWCZ010000031.1	Genbank	exon	182745	184966	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002480-T1_mrna"; gene_id "gene-MCOR19_002480"; gene_name "SDA1";
+JABWCZ010000031.1	Genbank	CDS	182531	182577	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002480-T1_mrna"; gene_id "gene-MCOR19_002480"; gene_name "SDA1";
+JABWCZ010000031.1	Genbank	CDS	182637	182672	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002480-T1_mrna"; gene_id "gene-MCOR19_002480"; gene_name "SDA1";
+JABWCZ010000031.1	Genbank	CDS	182745	184905	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002480-T1_mrna"; gene_id "gene-MCOR19_002480"; gene_name "SDA1";
+JABWCZ010000311.1	Genbank	transcript	37751	38585	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009810-T1_mrna"; gene_id "gene-MCOR19_009810"
+JABWCZ010000311.1	Genbank	exon	37751	38078	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009810-T1_mrna"; gene_id "gene-MCOR19_009810";
+JABWCZ010000311.1	Genbank	exon	38137	38585	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009810-T1_mrna"; gene_id "gene-MCOR19_009810";
+JABWCZ010000311.1	Genbank	CDS	37751	38078	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009810-T1_mrna"; gene_id "gene-MCOR19_009810";
+JABWCZ010000311.1	Genbank	CDS	38137	38585	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_009810-T1_mrna"; gene_id "gene-MCOR19_009810";
+JABWCZ010000328.1	Genbank	transcript	29342	30944	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010016-T1_mrna"; gene_id "gene-MCOR19_010016"
+JABWCZ010000328.1	Genbank	exon	29342	30944	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010016-T1_mrna"; gene_id "gene-MCOR19_010016";
+JABWCZ010000328.1	Genbank	CDS	29404	30798	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010016-T1_mrna"; gene_id "gene-MCOR19_010016";
+JABWCZ010000033.1	Genbank	transcript	18561	20124	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002554-T1_mrna"; gene_id "gene-MCOR19_002554"
+JABWCZ010000033.1	Genbank	exon	18561	20124	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002554-T1_mrna"; gene_id "gene-MCOR19_002554";
+JABWCZ010000033.1	Genbank	CDS	18676	19917	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002554-T1_mrna"; gene_id "gene-MCOR19_002554";
+JABWCZ010000331.1	Genbank	transcript	27324	28451	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010053-T1_mrna"; gene_id "gene-MCOR19_010053"
+JABWCZ010000331.1	Genbank	exon	27324	28103	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010053-T1_mrna"; gene_id "gene-MCOR19_010053";
+JABWCZ010000331.1	Genbank	exon	28197	28451	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010053-T1_mrna"; gene_id "gene-MCOR19_010053";
+JABWCZ010000331.1	Genbank	CDS	27386	28103	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010053-T1_mrna"; gene_id "gene-MCOR19_010053";
+JABWCZ010000331.1	Genbank	CDS	28197	28360	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010053-T1_mrna"; gene_id "gene-MCOR19_010053";
+JABWCZ010000331.1	Genbank	transcript	28704	29785	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010054-T1_mrna"; gene_id "gene-MCOR19_010054"
+JABWCZ010000331.1	Genbank	exon	28704	29538	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010054-T1_mrna"; gene_id "gene-MCOR19_010054";
+JABWCZ010000331.1	Genbank	exon	29613	29785	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010054-T1_mrna"; gene_id "gene-MCOR19_010054";
+JABWCZ010000331.1	Genbank	CDS	28840	29538	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010054-T1_mrna"; gene_id "gene-MCOR19_010054";
+JABWCZ010000331.1	Genbank	CDS	29613	29666	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010054-T1_mrna"; gene_id "gene-MCOR19_010054";
+JABWCZ010000035.1	Genbank	transcript	4894	6312	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002665-T1_mrna"; gene_id "gene-MCOR19_002665"
+JABWCZ010000035.1	Genbank	exon	4894	5112	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002665-T1_mrna"; gene_id "gene-MCOR19_002665";
+JABWCZ010000035.1	Genbank	exon	5189	6312	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002665-T1_mrna"; gene_id "gene-MCOR19_002665";
+JABWCZ010000035.1	Genbank	CDS	5017	5112	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002665-T1_mrna"; gene_id "gene-MCOR19_002665";
+JABWCZ010000035.1	Genbank	CDS	5189	5932	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002665-T1_mrna"; gene_id "gene-MCOR19_002665";
+JABWCZ010000351.1	Genbank	transcript	21012	23390	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010243-T2_mrna"; gene_id "gene-MCOR19_010243"
+JABWCZ010000351.1	Genbank	exon	21012	21503	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010243-T2_mrna"; gene_id "gene-MCOR19_010243";
+JABWCZ010000351.1	Genbank	exon	21570	22637	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010243-T2_mrna"; gene_id "gene-MCOR19_010243";
+JABWCZ010000351.1	Genbank	exon	22708	22872	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010243-T2_mrna"; gene_id "gene-MCOR19_010243";
+JABWCZ010000351.1	Genbank	exon	22950	23040	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010243-T2_mrna"; gene_id "gene-MCOR19_010243";
+JABWCZ010000351.1	Genbank	exon	23182	23390	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010243-T2_mrna"; gene_id "gene-MCOR19_010243";
+JABWCZ010000351.1	Genbank	CDS	21396	21503	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010243-T2_mrna"; gene_id "gene-MCOR19_010243";
+JABWCZ010000351.1	Genbank	CDS	21570	22637	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010243-T2_mrna"; gene_id "gene-MCOR19_010243";
+JABWCZ010000351.1	Genbank	CDS	22708	22872	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010243-T2_mrna"; gene_id "gene-MCOR19_010243";
+JABWCZ010000351.1	Genbank	CDS	22950	23040	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010243-T2_mrna"; gene_id "gene-MCOR19_010243";
+JABWCZ010000351.1	Genbank	CDS	23182	23285	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010243-T2_mrna"; gene_id "gene-MCOR19_010243";
+JABWCZ010000361.1	Genbank	transcript	24148	26807	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010362-T1_mrna"; gene_id "gene-MCOR19_010362"
+JABWCZ010000361.1	Genbank	exon	24148	25972	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010362-T1_mrna"; gene_id "gene-MCOR19_010362";
+JABWCZ010000361.1	Genbank	exon	26035	26807	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010362-T1_mrna"; gene_id "gene-MCOR19_010362";
+JABWCZ010000361.1	Genbank	CDS	24148	25972	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010362-T1_mrna"; gene_id "gene-MCOR19_010362";
+JABWCZ010000361.1	Genbank	CDS	26035	26807	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010362-T1_mrna"; gene_id "gene-MCOR19_010362";
+JABWCZ010000365.1	Genbank	transcript	17766	19295	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010393-T1_mrna"; gene_id "gene-MCOR19_010393"; gene_name "BCP1"
+JABWCZ010000365.1	Genbank	exon	17766	18583	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010393-T1_mrna"; gene_id "gene-MCOR19_010393"; gene_name "BCP1";
+JABWCZ010000365.1	Genbank	exon	18655	19295	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010393-T1_mrna"; gene_id "gene-MCOR19_010393"; gene_name "BCP1";
+JABWCZ010000365.1	Genbank	CDS	17813	18583	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010393-T1_mrna"; gene_id "gene-MCOR19_010393"; gene_name "BCP1";
+JABWCZ010000365.1	Genbank	CDS	18655	18753	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010393-T1_mrna"; gene_id "gene-MCOR19_010393"; gene_name "BCP1";
+JABWCZ010000366.1	Genbank	transcript	25620	27272	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010407-T1_mrna"; gene_id "gene-MCOR19_010407"
+JABWCZ010000366.1	Genbank	exon	25620	27272	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010407-T1_mrna"; gene_id "gene-MCOR19_010407";
+JABWCZ010000366.1	Genbank	CDS	25837	27156	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010407-T1_mrna"; gene_id "gene-MCOR19_010407";
+JABWCZ010000037.1	Genbank	transcript	95397	97288	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002796-T1_mrna"; gene_id "gene-MCOR19_002796"
+JABWCZ010000037.1	Genbank	exon	95397	95808	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002796-T1_mrna"; gene_id "gene-MCOR19_002796";
+JABWCZ010000037.1	Genbank	exon	95883	96606	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002796-T1_mrna"; gene_id "gene-MCOR19_002796";
+JABWCZ010000037.1	Genbank	exon	96692	97288	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002796-T1_mrna"; gene_id "gene-MCOR19_002796";
+JABWCZ010000037.1	Genbank	CDS	95530	95808	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002796-T1_mrna"; gene_id "gene-MCOR19_002796";
+JABWCZ010000037.1	Genbank	CDS	95883	96606	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002796-T1_mrna"; gene_id "gene-MCOR19_002796";
+JABWCZ010000037.1	Genbank	CDS	96692	97029	.	+	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002796-T1_mrna"; gene_id "gene-MCOR19_002796";
+JABWCZ010000037.1	Genbank	transcript	125496	127417	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002804-T1_mrna"; gene_id "gene-MCOR19_002804"
+JABWCZ010000037.1	Genbank	exon	125496	125805	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002804-T1_mrna"; gene_id "gene-MCOR19_002804";
+JABWCZ010000037.1	Genbank	exon	125879	126788	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002804-T1_mrna"; gene_id "gene-MCOR19_002804";
+JABWCZ010000037.1	Genbank	exon	126869	127184	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002804-T1_mrna"; gene_id "gene-MCOR19_002804";
+JABWCZ010000037.1	Genbank	exon	127291	127417	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002804-T1_mrna"; gene_id "gene-MCOR19_002804";
+JABWCZ010000037.1	Genbank	CDS	125585	125805	.	-	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002804-T1_mrna"; gene_id "gene-MCOR19_002804";
+JABWCZ010000037.1	Genbank	CDS	125879	126788	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002804-T1_mrna"; gene_id "gene-MCOR19_002804";
+JABWCZ010000037.1	Genbank	CDS	126869	127184	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002804-T1_mrna"; gene_id "gene-MCOR19_002804";
+JABWCZ010000037.1	Genbank	CDS	127291	127337	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002804-T1_mrna"; gene_id "gene-MCOR19_002804";
+JABWCZ010000379.1	Genbank	transcript	30828	32664	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010502-T1_mrna"; gene_id "gene-MCOR19_010502"
+JABWCZ010000379.1	Genbank	exon	30828	31448	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010502-T1_mrna"; gene_id "gene-MCOR19_010502";
+JABWCZ010000379.1	Genbank	exon	31516	31538	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010502-T1_mrna"; gene_id "gene-MCOR19_010502";
+JABWCZ010000379.1	Genbank	exon	31600	32127	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010502-T1_mrna"; gene_id "gene-MCOR19_010502";
+JABWCZ010000379.1	Genbank	exon	32199	32664	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010502-T1_mrna"; gene_id "gene-MCOR19_010502";
+JABWCZ010000379.1	Genbank	CDS	30859	31448	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010502-T1_mrna"; gene_id "gene-MCOR19_010502";
+JABWCZ010000379.1	Genbank	CDS	31516	31538	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010502-T1_mrna"; gene_id "gene-MCOR19_010502";
+JABWCZ010000379.1	Genbank	CDS	31600	32127	.	+	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010502-T1_mrna"; gene_id "gene-MCOR19_010502";
+JABWCZ010000379.1	Genbank	CDS	32199	32515	.	+	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010502-T1_mrna"; gene_id "gene-MCOR19_010502";
+JABWCZ010000038.1	Genbank	transcript	5615	8035	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002826-T1_mrna"; gene_id "gene-MCOR19_002826"
+JABWCZ010000038.1	Genbank	exon	5615	8035	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002826-T1_mrna"; gene_id "gene-MCOR19_002826";
+JABWCZ010000038.1	Genbank	CDS	5934	7904	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002826-T1_mrna"; gene_id "gene-MCOR19_002826";
+JABWCZ010000393.1	Genbank	transcript	27811	30483	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010611-T1_mrna"; gene_id "gene-MCOR19_010611"
+JABWCZ010000393.1	Genbank	exon	27811	29344	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010611-T1_mrna"; gene_id "gene-MCOR19_010611";
+JABWCZ010000393.1	Genbank	exon	29445	30483	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010611-T1_mrna"; gene_id "gene-MCOR19_010611";
+JABWCZ010000393.1	Genbank	CDS	28120	29344	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010611-T1_mrna"; gene_id "gene-MCOR19_010611";
+JABWCZ010000393.1	Genbank	CDS	29445	30235	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010611-T1_mrna"; gene_id "gene-MCOR19_010611";
+JABWCZ010000004.1	Genbank	transcript	77577	79714	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000438-T1_mrna"; gene_id "gene-MCOR19_000438"
+JABWCZ010000004.1	Genbank	exon	77577	79714	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000438-T1_mrna"; gene_id "gene-MCOR19_000438";
+JABWCZ010000004.1	Genbank	CDS	77577	79598	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000438-T1_mrna"; gene_id "gene-MCOR19_000438";
+JABWCZ010000004.1	Genbank	transcript	187292	189251	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000469-T1_mrna"; gene_id "gene-MCOR19_000469"
+JABWCZ010000004.1	Genbank	exon	187292	188617	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000469-T1_mrna"; gene_id "gene-MCOR19_000469";
+JABWCZ010000004.1	Genbank	exon	188732	189251	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000469-T1_mrna"; gene_id "gene-MCOR19_000469";
+JABWCZ010000004.1	Genbank	CDS	187516	188617	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000469-T1_mrna"; gene_id "gene-MCOR19_000469";
+JABWCZ010000004.1	Genbank	CDS	188732	189162	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000469-T1_mrna"; gene_id "gene-MCOR19_000469";
+JABWCZ010000040.1	Genbank	transcript	166301	167319	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002987-T1_mrna"; gene_id "gene-MCOR19_002987"; gene_name "ISY1"
+JABWCZ010000040.1	Genbank	exon	166301	166450	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002987-T1_mrna"; gene_id "gene-MCOR19_002987"; gene_name "ISY1";
+JABWCZ010000040.1	Genbank	exon	166534	167319	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002987-T1_mrna"; gene_id "gene-MCOR19_002987"; gene_name "ISY1";
+JABWCZ010000040.1	Genbank	CDS	166448	166450	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002987-T1_mrna"; gene_id "gene-MCOR19_002987"; gene_name "ISY1";
+JABWCZ010000040.1	Genbank	CDS	166534	167271	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_002987-T1_mrna"; gene_id "gene-MCOR19_002987"; gene_name "ISY1";
+JABWCZ010000426.1	Genbank	transcript	14827	16760	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010865-T1_mrna"; gene_id "gene-MCOR19_010865"; gene_name "FYV10"
+JABWCZ010000426.1	Genbank	exon	14827	15075	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010865-T1_mrna"; gene_id "gene-MCOR19_010865"; gene_name "FYV10";
+JABWCZ010000426.1	Genbank	exon	15204	15743	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010865-T1_mrna"; gene_id "gene-MCOR19_010865"; gene_name "FYV10";
+JABWCZ010000426.1	Genbank	exon	15844	16760	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010865-T1_mrna"; gene_id "gene-MCOR19_010865"; gene_name "FYV10";
+JABWCZ010000426.1	Genbank	CDS	15025	15075	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010865-T1_mrna"; gene_id "gene-MCOR19_010865"; gene_name "FYV10";
+JABWCZ010000426.1	Genbank	CDS	15204	15743	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010865-T1_mrna"; gene_id "gene-MCOR19_010865"; gene_name "FYV10";
+JABWCZ010000426.1	Genbank	CDS	15844	16485	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_010865-T1_mrna"; gene_id "gene-MCOR19_010865"; gene_name "FYV10";
+JABWCZ010000043.1	Genbank	transcript	97396	98316	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003143-T1_mrna"; gene_id "gene-MCOR19_003143"
+JABWCZ010000043.1	Genbank	exon	97396	98316	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003143-T1_mrna"; gene_id "gene-MCOR19_003143";
+JABWCZ010000043.1	Genbank	CDS	97396	98316	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003143-T1_mrna"; gene_id "gene-MCOR19_003143";
+JABWCZ010000043.1	Genbank	transcript	109687	112889	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003147-T1_mrna"; gene_id "gene-MCOR19_003147"
+JABWCZ010000043.1	Genbank	exon	109687	112446	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003147-T1_mrna"; gene_id "gene-MCOR19_003147";
+JABWCZ010000043.1	Genbank	exon	112541	112568	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003147-T1_mrna"; gene_id "gene-MCOR19_003147";
+JABWCZ010000043.1	Genbank	exon	112630	112889	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003147-T1_mrna"; gene_id "gene-MCOR19_003147";
+JABWCZ010000043.1	Genbank	CDS	109823	112446	.	-	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003147-T1_mrna"; gene_id "gene-MCOR19_003147";
+JABWCZ010000043.1	Genbank	CDS	112541	112568	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003147-T1_mrna"; gene_id "gene-MCOR19_003147";
+JABWCZ010000043.1	Genbank	CDS	112630	112806	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003147-T1_mrna"; gene_id "gene-MCOR19_003147";
+JABWCZ010000045.1	Genbank	transcript	73236	74597	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003238-T1_mrna"; gene_id "gene-MCOR19_003238"
+JABWCZ010000045.1	Genbank	exon	73236	73528	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003238-T1_mrna"; gene_id "gene-MCOR19_003238";
+JABWCZ010000045.1	Genbank	exon	73586	74042	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003238-T1_mrna"; gene_id "gene-MCOR19_003238";
+JABWCZ010000045.1	Genbank	exon	74182	74251	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003238-T1_mrna"; gene_id "gene-MCOR19_003238";
+JABWCZ010000045.1	Genbank	exon	74374	74597	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003238-T1_mrna"; gene_id "gene-MCOR19_003238";
+JABWCZ010000045.1	Genbank	CDS	73461	73528	.	-	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003238-T1_mrna"; gene_id "gene-MCOR19_003238";
+JABWCZ010000045.1	Genbank	CDS	73586	74042	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003238-T1_mrna"; gene_id "gene-MCOR19_003238";
+JABWCZ010000045.1	Genbank	CDS	74182	74251	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003238-T1_mrna"; gene_id "gene-MCOR19_003238";
+JABWCZ010000045.1	Genbank	CDS	74374	74561	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003238-T1_mrna"; gene_id "gene-MCOR19_003238";
+JABWCZ010000451.1	Genbank	transcript	9691	10858	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_011009-T1_mrna"; gene_id "gene-MCOR19_011009"; gene_name "KRR1"
+JABWCZ010000451.1	Genbank	exon	9691	10858	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_011009-T1_mrna"; gene_id "gene-MCOR19_011009"; gene_name "KRR1";
+JABWCZ010000451.1	Genbank	CDS	9768	10730	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_011009-T1_mrna"; gene_id "gene-MCOR19_011009"; gene_name "KRR1";
+JABWCZ010000047.1	Genbank	transcript	14311	17013	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003330-T1_mrna"; gene_id "gene-MCOR19_003330"
+JABWCZ010000047.1	Genbank	exon	14311	14484	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003330-T1_mrna"; gene_id "gene-MCOR19_003330";
+JABWCZ010000047.1	Genbank	exon	14567	15229	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003330-T1_mrna"; gene_id "gene-MCOR19_003330";
+JABWCZ010000047.1	Genbank	exon	15325	16275	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003330-T1_mrna"; gene_id "gene-MCOR19_003330";
+JABWCZ010000047.1	Genbank	exon	16352	17013	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003330-T1_mrna"; gene_id "gene-MCOR19_003330";
+JABWCZ010000047.1	Genbank	CDS	14371	14484	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003330-T1_mrna"; gene_id "gene-MCOR19_003330";
+JABWCZ010000047.1	Genbank	CDS	14567	15229	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003330-T1_mrna"; gene_id "gene-MCOR19_003330";
+JABWCZ010000047.1	Genbank	CDS	15325	16275	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003330-T1_mrna"; gene_id "gene-MCOR19_003330";
+JABWCZ010000047.1	Genbank	CDS	16352	16993	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003330-T1_mrna"; gene_id "gene-MCOR19_003330";
+JABWCZ010000048.1	Genbank	transcript	150979	152406	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003439-T1_mrna"; gene_id "gene-MCOR19_003439"
+JABWCZ010000048.1	Genbank	exon	150979	151840	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003439-T1_mrna"; gene_id "gene-MCOR19_003439";
+JABWCZ010000048.1	Genbank	exon	151931	152406	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003439-T1_mrna"; gene_id "gene-MCOR19_003439";
+JABWCZ010000048.1	Genbank	CDS	151094	151840	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003439-T1_mrna"; gene_id "gene-MCOR19_003439";
+JABWCZ010000048.1	Genbank	CDS	151931	152227	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003439-T1_mrna"; gene_id "gene-MCOR19_003439";
+JABWCZ010000488.1	Genbank	transcript	7395	8476	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_011223-T1_mrna"; gene_id "gene-MCOR19_011223"
+JABWCZ010000488.1	Genbank	exon	7395	7560	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_011223-T1_mrna"; gene_id "gene-MCOR19_011223";
+JABWCZ010000488.1	Genbank	exon	7658	8476	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_011223-T1_mrna"; gene_id "gene-MCOR19_011223";
+JABWCZ010000488.1	Genbank	CDS	7494	7560	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_011223-T1_mrna"; gene_id "gene-MCOR19_011223";
+JABWCZ010000488.1	Genbank	CDS	7658	8283	.	+	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_011223-T1_mrna"; gene_id "gene-MCOR19_011223";
+JABWCZ010000502.1	Genbank	transcript	2324	5455	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_011285-T1_mrna"; gene_id "gene-MCOR19_011285"
+JABWCZ010000502.1	Genbank	exon	2324	5455	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_011285-T1_mrna"; gene_id "gene-MCOR19_011285";
+JABWCZ010000502.1	Genbank	CDS	2324	5455	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_011285-T1_mrna"; gene_id "gene-MCOR19_011285";
+JABWCZ010000053.1	Genbank	transcript	139400	140699	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003663-T1_mrna"; gene_id "gene-MCOR19_003663"; gene_name "COQ4"
+JABWCZ010000053.1	Genbank	exon	139400	139783	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003663-T1_mrna"; gene_id "gene-MCOR19_003663"; gene_name "COQ4";
+JABWCZ010000053.1	Genbank	exon	139888	140699	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003663-T1_mrna"; gene_id "gene-MCOR19_003663"; gene_name "COQ4";
+JABWCZ010000053.1	Genbank	CDS	139546	139783	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003663-T1_mrna"; gene_id "gene-MCOR19_003663"; gene_name "COQ4";
+JABWCZ010000053.1	Genbank	CDS	139888	140558	.	+	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003663-T1_mrna"; gene_id "gene-MCOR19_003663"; gene_name "COQ4";
+JABWCZ010000053.1	Genbank	transcript	149369	151307	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003669-T1_mrna"; gene_id "gene-MCOR19_003669"
+JABWCZ010000053.1	Genbank	exon	149369	149716	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003669-T1_mrna"; gene_id "gene-MCOR19_003669";
+JABWCZ010000053.1	Genbank	exon	149803	150465	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003669-T1_mrna"; gene_id "gene-MCOR19_003669";
+JABWCZ010000053.1	Genbank	exon	150540	150645	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003669-T1_mrna"; gene_id "gene-MCOR19_003669";
+JABWCZ010000053.1	Genbank	exon	150799	151307	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003669-T1_mrna"; gene_id "gene-MCOR19_003669";
+JABWCZ010000053.1	Genbank	CDS	149461	149716	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003669-T1_mrna"; gene_id "gene-MCOR19_003669";
+JABWCZ010000053.1	Genbank	CDS	149803	150465	.	+	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003669-T1_mrna"; gene_id "gene-MCOR19_003669";
+JABWCZ010000053.1	Genbank	CDS	150540	150645	.	+	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003669-T1_mrna"; gene_id "gene-MCOR19_003669";
+JABWCZ010000053.1	Genbank	CDS	150799	150898	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003669-T1_mrna"; gene_id "gene-MCOR19_003669";
+JABWCZ010000054.1	Genbank	transcript	31040	32810	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003682-T1_mrna"; gene_id "gene-MCOR19_003682"
+JABWCZ010000054.1	Genbank	exon	31040	31619	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003682-T1_mrna"; gene_id "gene-MCOR19_003682";
+JABWCZ010000054.1	Genbank	exon	31684	32545	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003682-T1_mrna"; gene_id "gene-MCOR19_003682";
+JABWCZ010000054.1	Genbank	exon	32664	32810	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003682-T1_mrna"; gene_id "gene-MCOR19_003682";
+JABWCZ010000054.1	Genbank	CDS	31530	31619	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003682-T1_mrna"; gene_id "gene-MCOR19_003682";
+JABWCZ010000054.1	Genbank	CDS	31684	32545	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003682-T1_mrna"; gene_id "gene-MCOR19_003682";
+JABWCZ010000054.1	Genbank	CDS	32664	32731	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003682-T1_mrna"; gene_id "gene-MCOR19_003682";
+JABWCZ010000550.1	Genbank	transcript	7674	8624	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_011469-T1_mrna"; gene_id "gene-MCOR19_011469"
+JABWCZ010000550.1	Genbank	exon	7674	8624	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_011469-T1_mrna"; gene_id "gene-MCOR19_011469";
+JABWCZ010000550.1	Genbank	CDS	7806	8624	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_011469-T1_mrna"; gene_id "gene-MCOR19_011469";
+JABWCZ010000056.1	Genbank	transcript	90556	93900	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003803-T1_mrna"; gene_id "gene-MCOR19_003803"; gene_name "ATG7"
+JABWCZ010000056.1	Genbank	exon	90556	91440	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003803-T1_mrna"; gene_id "gene-MCOR19_003803"; gene_name "ATG7";
+JABWCZ010000056.1	Genbank	exon	91531	91639	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003803-T1_mrna"; gene_id "gene-MCOR19_003803"; gene_name "ATG7";
+JABWCZ010000056.1	Genbank	exon	91715	93025	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003803-T1_mrna"; gene_id "gene-MCOR19_003803"; gene_name "ATG7";
+JABWCZ010000056.1	Genbank	exon	93104	93900	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003803-T1_mrna"; gene_id "gene-MCOR19_003803"; gene_name "ATG7";
+JABWCZ010000056.1	Genbank	CDS	91199	91440	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003803-T1_mrna"; gene_id "gene-MCOR19_003803"; gene_name "ATG7";
+JABWCZ010000056.1	Genbank	CDS	91531	91639	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003803-T1_mrna"; gene_id "gene-MCOR19_003803"; gene_name "ATG7";
+JABWCZ010000056.1	Genbank	CDS	91715	93025	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003803-T1_mrna"; gene_id "gene-MCOR19_003803"; gene_name "ATG7";
+JABWCZ010000056.1	Genbank	CDS	93104	93586	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003803-T1_mrna"; gene_id "gene-MCOR19_003803"; gene_name "ATG7";
+JABWCZ010000057.1	Genbank	transcript	74275	75064	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003848-T1_mrna"; gene_id "gene-MCOR19_003848"; gene_name "TRF2_1"
+JABWCZ010000057.1	Genbank	exon	74275	74417	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003848-T1_mrna"; gene_id "gene-MCOR19_003848"; gene_name "TRF2_1";
+JABWCZ010000057.1	Genbank	exon	74494	74747	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003848-T1_mrna"; gene_id "gene-MCOR19_003848"; gene_name "TRF2_1";
+JABWCZ010000057.1	Genbank	exon	74881	75064	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003848-T1_mrna"; gene_id "gene-MCOR19_003848"; gene_name "TRF2_1";
+JABWCZ010000057.1	Genbank	CDS	74384	74417	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003848-T1_mrna"; gene_id "gene-MCOR19_003848"; gene_name "TRF2_1";
+JABWCZ010000057.1	Genbank	CDS	74494	74747	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003848-T1_mrna"; gene_id "gene-MCOR19_003848"; gene_name "TRF2_1";
+JABWCZ010000057.1	Genbank	CDS	74881	74961	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003848-T1_mrna"; gene_id "gene-MCOR19_003848"; gene_name "TRF2_1";
+JABWCZ010000057.1	Genbank	transcript	141799	143140	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003870-T1_mrna"; gene_id "gene-MCOR19_003870"
+JABWCZ010000057.1	Genbank	exon	141799	142227	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003870-T1_mrna"; gene_id "gene-MCOR19_003870";
+JABWCZ010000057.1	Genbank	exon	142539	142684	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003870-T1_mrna"; gene_id "gene-MCOR19_003870";
+JABWCZ010000057.1	Genbank	exon	142763	143140	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003870-T1_mrna"; gene_id "gene-MCOR19_003870";
+JABWCZ010000057.1	Genbank	CDS	142039	142227	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003870-T1_mrna"; gene_id "gene-MCOR19_003870";
+JABWCZ010000057.1	Genbank	CDS	142539	142684	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003870-T1_mrna"; gene_id "gene-MCOR19_003870";
+JABWCZ010000057.1	Genbank	CDS	142763	142955	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_003870-T1_mrna"; gene_id "gene-MCOR19_003870";
+JABWCZ010000061.1	Genbank	transcript	103753	106239	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004058-T1_mrna"; gene_id "gene-MCOR19_004058"
+JABWCZ010000061.1	Genbank	exon	103753	106239	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004058-T1_mrna"; gene_id "gene-MCOR19_004058";
+JABWCZ010000061.1	Genbank	CDS	103857	106124	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004058-T1_mrna"; gene_id "gene-MCOR19_004058";
+JABWCZ010000065.1	Genbank	transcript	1328	3480	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004226-T1_mrna"; gene_id "gene-MCOR19_004226"
+JABWCZ010000065.1	Genbank	exon	1328	2439	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004226-T1_mrna"; gene_id "gene-MCOR19_004226";
+JABWCZ010000065.1	Genbank	exon	2520	3480	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004226-T1_mrna"; gene_id "gene-MCOR19_004226";
+JABWCZ010000065.1	Genbank	CDS	1698	2439	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004226-T1_mrna"; gene_id "gene-MCOR19_004226";
+JABWCZ010000065.1	Genbank	CDS	2520	3076	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004226-T1_mrna"; gene_id "gene-MCOR19_004226";
+JABWCZ010000065.1	Genbank	transcript	30859	32892	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004234-T1_mrna"; gene_id "gene-MCOR19_004234"
+JABWCZ010000065.1	Genbank	exon	30859	32892	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004234-T1_mrna"; gene_id "gene-MCOR19_004234";
+JABWCZ010000065.1	Genbank	CDS	31069	32865	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004234-T1_mrna"; gene_id "gene-MCOR19_004234";
+JABWCZ010000065.1	Genbank	transcript	56409	57262	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004245-T1_mrna"; gene_id "gene-MCOR19_004245"; gene_name "SLD5"
+JABWCZ010000065.1	Genbank	exon	56409	56768	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004245-T1_mrna"; gene_id "gene-MCOR19_004245"; gene_name "SLD5";
+JABWCZ010000065.1	Genbank	exon	56853	57033	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004245-T1_mrna"; gene_id "gene-MCOR19_004245"; gene_name "SLD5";
+JABWCZ010000065.1	Genbank	exon	57138	57262	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004245-T1_mrna"; gene_id "gene-MCOR19_004245"; gene_name "SLD5";
+JABWCZ010000065.1	Genbank	CDS	56409	56768	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004245-T1_mrna"; gene_id "gene-MCOR19_004245"; gene_name "SLD5";
+JABWCZ010000065.1	Genbank	CDS	56853	57033	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004245-T1_mrna"; gene_id "gene-MCOR19_004245"; gene_name "SLD5";
+JABWCZ010000065.1	Genbank	CDS	57138	57262	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004245-T1_mrna"; gene_id "gene-MCOR19_004245"; gene_name "SLD5";
+JABWCZ010000067.1	Genbank	transcript	27846	29095	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004317-T1_mrna"; gene_id "gene-MCOR19_004317"; gene_name "DPH5"
+JABWCZ010000067.1	Genbank	exon	27846	28618	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004317-T1_mrna"; gene_id "gene-MCOR19_004317"; gene_name "DPH5";
+JABWCZ010000067.1	Genbank	exon	28693	28817	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004317-T1_mrna"; gene_id "gene-MCOR19_004317"; gene_name "DPH5";
+JABWCZ010000067.1	Genbank	exon	28908	29095	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004317-T1_mrna"; gene_id "gene-MCOR19_004317"; gene_name "DPH5";
+JABWCZ010000067.1	Genbank	CDS	27997	28618	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004317-T1_mrna"; gene_id "gene-MCOR19_004317"; gene_name "DPH5";
+JABWCZ010000067.1	Genbank	CDS	28693	28817	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004317-T1_mrna"; gene_id "gene-MCOR19_004317"; gene_name "DPH5";
+JABWCZ010000067.1	Genbank	CDS	28908	29042	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004317-T1_mrna"; gene_id "gene-MCOR19_004317"; gene_name "DPH5";
+JABWCZ010000067.1	Genbank	transcript	29307	30359	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004318-T1_mrna"; gene_id "gene-MCOR19_004318"
+JABWCZ010000067.1	Genbank	exon	29307	30359	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004318-T1_mrna"; gene_id "gene-MCOR19_004318";
+JABWCZ010000067.1	Genbank	CDS	29491	30201	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004318-T1_mrna"; gene_id "gene-MCOR19_004318";
+JABWCZ010000069.1	Genbank	transcript	138256	140541	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004415-T1_mrna"; gene_id "gene-MCOR19_004415"
+JABWCZ010000069.1	Genbank	exon	138256	139097	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004415-T1_mrna"; gene_id "gene-MCOR19_004415";
+JABWCZ010000069.1	Genbank	exon	139185	140541	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004415-T1_mrna"; gene_id "gene-MCOR19_004415";
+JABWCZ010000069.1	Genbank	CDS	138466	139097	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004415-T1_mrna"; gene_id "gene-MCOR19_004415";
+JABWCZ010000069.1	Genbank	CDS	139185	139590	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004415-T1_mrna"; gene_id "gene-MCOR19_004415";
+JABWCZ010000007.1	Genbank	transcript	168431	169903	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000733-T1_mrna"; gene_id "gene-MCOR19_000733"
+JABWCZ010000007.1	Genbank	exon	168431	169434	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000733-T1_mrna"; gene_id "gene-MCOR19_000733";
+JABWCZ010000007.1	Genbank	exon	169507	169604	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000733-T1_mrna"; gene_id "gene-MCOR19_000733";
+JABWCZ010000007.1	Genbank	exon	169735	169903	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000733-T1_mrna"; gene_id "gene-MCOR19_000733";
+JABWCZ010000007.1	Genbank	CDS	168577	169434	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000733-T1_mrna"; gene_id "gene-MCOR19_000733";
+JABWCZ010000007.1	Genbank	CDS	169507	169604	.	-	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000733-T1_mrna"; gene_id "gene-MCOR19_000733";
+JABWCZ010000007.1	Genbank	CDS	169735	169834	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000733-T1_mrna"; gene_id "gene-MCOR19_000733";
+JABWCZ010000071.1	Genbank	transcript	94511	96574	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004488-T1_mrna"; gene_id "gene-MCOR19_004488"
+JABWCZ010000071.1	Genbank	exon	94511	96285	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004488-T1_mrna"; gene_id "gene-MCOR19_004488";
+JABWCZ010000071.1	Genbank	exon	96340	96388	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004488-T1_mrna"; gene_id "gene-MCOR19_004488";
+JABWCZ010000071.1	Genbank	exon	96465	96574	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004488-T1_mrna"; gene_id "gene-MCOR19_004488";
+JABWCZ010000071.1	Genbank	CDS	94571	96285	.	-	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004488-T1_mrna"; gene_id "gene-MCOR19_004488";
+JABWCZ010000071.1	Genbank	CDS	96340	96388	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004488-T1_mrna"; gene_id "gene-MCOR19_004488";
+JABWCZ010000071.1	Genbank	CDS	96465	96491	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004488-T1_mrna"; gene_id "gene-MCOR19_004488";
+JABWCZ010000072.1	Genbank	transcript	57193	58609	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004520-T1_mrna"; gene_id "gene-MCOR19_004520"
+JABWCZ010000072.1	Genbank	exon	57193	57696	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004520-T1_mrna"; gene_id "gene-MCOR19_004520";
+JABWCZ010000072.1	Genbank	exon	57777	58609	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004520-T1_mrna"; gene_id "gene-MCOR19_004520";
+JABWCZ010000072.1	Genbank	CDS	57373	57696	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004520-T1_mrna"; gene_id "gene-MCOR19_004520";
+JABWCZ010000072.1	Genbank	CDS	57777	58535	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004520-T1_mrna"; gene_id "gene-MCOR19_004520";
+JABWCZ010000072.1	Genbank	transcript	129421	130726	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004540-T1_mrna"; gene_id "gene-MCOR19_004540"
+JABWCZ010000072.1	Genbank	exon	129421	130726	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004540-T1_mrna"; gene_id "gene-MCOR19_004540";
+JABWCZ010000072.1	Genbank	CDS	129754	130716	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004540-T1_mrna"; gene_id "gene-MCOR19_004540";
+JABWCZ010000078.1	Genbank	transcript	20146	21537	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004728-T1_mrna"; gene_id "gene-MCOR19_004728"
+JABWCZ010000078.1	Genbank	exon	20146	21204	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004728-T1_mrna"; gene_id "gene-MCOR19_004728";
+JABWCZ010000078.1	Genbank	exon	21269	21369	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004728-T1_mrna"; gene_id "gene-MCOR19_004728";
+JABWCZ010000078.1	Genbank	exon	21432	21537	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004728-T1_mrna"; gene_id "gene-MCOR19_004728";
+JABWCZ010000078.1	Genbank	CDS	20146	21204	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004728-T1_mrna"; gene_id "gene-MCOR19_004728";
+JABWCZ010000078.1	Genbank	CDS	21269	21369	.	-	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004728-T1_mrna"; gene_id "gene-MCOR19_004728";
+JABWCZ010000078.1	Genbank	CDS	21432	21537	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004728-T1_mrna"; gene_id "gene-MCOR19_004728";
+JABWCZ010000080.1	Genbank	transcript	125887	127096	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004846-T1_mrna"; gene_id "gene-MCOR19_004846"
+JABWCZ010000080.1	Genbank	exon	125887	126870	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004846-T1_mrna"; gene_id "gene-MCOR19_004846";
+JABWCZ010000080.1	Genbank	exon	126961	127096	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004846-T1_mrna"; gene_id "gene-MCOR19_004846";
+JABWCZ010000080.1	Genbank	CDS	126054	126870	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004846-T1_mrna"; gene_id "gene-MCOR19_004846";
+JABWCZ010000080.1	Genbank	CDS	126961	126983	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_004846-T1_mrna"; gene_id "gene-MCOR19_004846";
+JABWCZ010000087.1	Genbank	transcript	55816	59032	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005077-T1_mrna"; gene_id "gene-MCOR19_005077"
+JABWCZ010000087.1	Genbank	exon	55816	56359	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005077-T1_mrna"; gene_id "gene-MCOR19_005077";
+JABWCZ010000087.1	Genbank	exon	56436	59032	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005077-T1_mrna"; gene_id "gene-MCOR19_005077";
+JABWCZ010000087.1	Genbank	CDS	55876	56359	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005077-T1_mrna"; gene_id "gene-MCOR19_005077";
+JABWCZ010000087.1	Genbank	CDS	56436	59032	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005077-T1_mrna"; gene_id "gene-MCOR19_005077";
+JABWCZ010000009.1	Genbank	transcript	78719	80970	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000880-T1_mrna"; gene_id "gene-MCOR19_000880"
+JABWCZ010000009.1	Genbank	exon	78719	80970	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000880-T1_mrna"; gene_id "gene-MCOR19_000880";
+JABWCZ010000009.1	Genbank	CDS	79637	80686	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000880-T1_mrna"; gene_id "gene-MCOR19_000880";
+JABWCZ010000009.1	Genbank	transcript	179616	181978	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000910-T2_mrna"; gene_id "gene-MCOR19_000910"
+JABWCZ010000009.1	Genbank	exon	179616	180434	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000910-T2_mrna"; gene_id "gene-MCOR19_000910";
+JABWCZ010000009.1	Genbank	exon	180518	181640	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000910-T2_mrna"; gene_id "gene-MCOR19_000910";
+JABWCZ010000009.1	Genbank	exon	181716	181978	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000910-T2_mrna"; gene_id "gene-MCOR19_000910";
+JABWCZ010000009.1	Genbank	CDS	179828	180434	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000910-T2_mrna"; gene_id "gene-MCOR19_000910";
+JABWCZ010000009.1	Genbank	CDS	180518	181640	.	+	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000910-T2_mrna"; gene_id "gene-MCOR19_000910";
+JABWCZ010000009.1	Genbank	CDS	181716	181761	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_000910-T2_mrna"; gene_id "gene-MCOR19_000910";
+JABWCZ010000092.1	Genbank	transcript	37960	41855	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005238-T1_mrna"; gene_id "gene-MCOR19_005238"; gene_name "HIR1"
+JABWCZ010000092.1	Genbank	exon	37960	38420	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005238-T1_mrna"; gene_id "gene-MCOR19_005238"; gene_name "HIR1";
+JABWCZ010000092.1	Genbank	exon	38491	41262	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005238-T1_mrna"; gene_id "gene-MCOR19_005238"; gene_name "HIR1";
+JABWCZ010000092.1	Genbank	exon	41345	41638	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005238-T1_mrna"; gene_id "gene-MCOR19_005238"; gene_name "HIR1";
+JABWCZ010000092.1	Genbank	exon	41751	41855	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005238-T1_mrna"; gene_id "gene-MCOR19_005238"; gene_name "HIR1";
+JABWCZ010000092.1	Genbank	CDS	38308	38420	.	-	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005238-T1_mrna"; gene_id "gene-MCOR19_005238"; gene_name "HIR1";
+JABWCZ010000092.1	Genbank	CDS	38491	41262	.	-	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005238-T1_mrna"; gene_id "gene-MCOR19_005238"; gene_name "HIR1";
+JABWCZ010000092.1	Genbank	CDS	41345	41638	.	-	2	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005238-T1_mrna"; gene_id "gene-MCOR19_005238"; gene_name "HIR1";
+JABWCZ010000092.1	Genbank	CDS	41751	41787	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005238-T1_mrna"; gene_id "gene-MCOR19_005238"; gene_name "HIR1";
+JABWCZ010000094.1	Genbank	transcript	71106	72715	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005321-T1_mrna"; gene_id "gene-MCOR19_005321"
+JABWCZ010000094.1	Genbank	exon	71106	71796	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005321-T1_mrna"; gene_id "gene-MCOR19_005321";
+JABWCZ010000094.1	Genbank	exon	71885	72715	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005321-T1_mrna"; gene_id "gene-MCOR19_005321";
+JABWCZ010000094.1	Genbank	CDS	71299	71796	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005321-T1_mrna"; gene_id "gene-MCOR19_005321";
+JABWCZ010000094.1	Genbank	CDS	71885	72568	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005321-T1_mrna"; gene_id "gene-MCOR19_005321";
+JABWCZ010000094.1	Genbank	transcript	93302	95408	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005329-T1_mrna"; gene_id "gene-MCOR19_005329"
+JABWCZ010000094.1	Genbank	exon	93302	94283	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005329-T1_mrna"; gene_id "gene-MCOR19_005329";
+JABWCZ010000094.1	Genbank	exon	94371	95408	.	+	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005329-T1_mrna"; gene_id "gene-MCOR19_005329";
+JABWCZ010000094.1	Genbank	CDS	93697	94283	.	+	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005329-T1_mrna"; gene_id "gene-MCOR19_005329";
+JABWCZ010000094.1	Genbank	CDS	94371	95334	.	+	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005329-T1_mrna"; gene_id "gene-MCOR19_005329";
+JABWCZ010000099.1	Genbank	transcript	111989	113323	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005510-T1_mrna"; gene_id "gene-MCOR19_005510"; gene_name "LIA1"
+JABWCZ010000099.1	Genbank	exon	111989	112603	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005510-T1_mrna"; gene_id "gene-MCOR19_005510"; gene_name "LIA1";
+JABWCZ010000099.1	Genbank	exon	112677	113323	.	-	.	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005510-T1_mrna"; gene_id "gene-MCOR19_005510"; gene_name "LIA1";
+JABWCZ010000099.1	Genbank	CDS	112090	112603	.	-	1	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005510-T1_mrna"; gene_id "gene-MCOR19_005510"; gene_name "LIA1";
+JABWCZ010000099.1	Genbank	CDS	112677	113170	.	-	0	transcript_id "rna-gnl|WGS:JABWCZ|MCOR19_005510-T1_mrna"; gene_id "gene-MCOR19_005510"; gene_name "LIA1";

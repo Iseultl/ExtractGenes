@@ -1,0 +1,920 @@
+NW_020798048.1	RefSeq	transcript	202852	204671	.	+	.	transcript_id "rna-XM_026763148.1"; gene_id "gene-CDV56_109529"
+NW_020798048.1	RefSeq	exon	202852	203565	.	+	.	transcript_id "rna-XM_026763148.1"; gene_id "gene-CDV56_109529";
+NW_020798048.1	RefSeq	exon	203619	204671	.	+	.	transcript_id "rna-XM_026763148.1"; gene_id "gene-CDV56_109529";
+NW_020798048.1	RefSeq	CDS	202852	203565	.	+	0	transcript_id "rna-XM_026763148.1"; gene_id "gene-CDV56_109529";
+NW_020798048.1	RefSeq	CDS	203619	204671	.	+	0	transcript_id "rna-XM_026763148.1"; gene_id "gene-CDV56_109529";
+NW_020798048.1	RefSeq	transcript	219878	220668	.	-	.	transcript_id "rna-XM_026763190.1"; gene_id "gene-CDV56_109571"; gene_name "PSF1"
+NW_020798048.1	RefSeq	exon	219878	219971	.	-	.	transcript_id "rna-XM_026763190.1"; gene_id "gene-CDV56_109571"; gene_name "PSF1";
+NW_020798048.1	RefSeq	exon	220063	220589	.	-	.	transcript_id "rna-XM_026763190.1"; gene_id "gene-CDV56_109571"; gene_name "PSF1";
+NW_020798048.1	RefSeq	exon	220642	220668	.	-	.	transcript_id "rna-XM_026763190.1"; gene_id "gene-CDV56_109571"; gene_name "PSF1";
+NW_020798048.1	RefSeq	CDS	219878	219971	.	-	1	transcript_id "rna-XM_026763190.1"; gene_id "gene-CDV56_109571"; gene_name "PSF1";
+NW_020798048.1	RefSeq	CDS	220063	220589	.	-	0	transcript_id "rna-XM_026763190.1"; gene_id "gene-CDV56_109571"; gene_name "PSF1";
+NW_020798048.1	RefSeq	CDS	220642	220668	.	-	0	transcript_id "rna-XM_026763190.1"; gene_id "gene-CDV56_109571"; gene_name "PSF1";
+NW_020798048.1	RefSeq	transcript	301191	301976	.	+	.	transcript_id "rna-XM_026763285.1"; gene_id "gene-CDV56_109666"
+NW_020798048.1	RefSeq	exon	301191	301257	.	+	.	transcript_id "rna-XM_026763285.1"; gene_id "gene-CDV56_109666";
+NW_020798048.1	RefSeq	exon	301333	301976	.	+	.	transcript_id "rna-XM_026763285.1"; gene_id "gene-CDV56_109666";
+NW_020798048.1	RefSeq	CDS	301191	301257	.	+	0	transcript_id "rna-XM_026763285.1"; gene_id "gene-CDV56_109666";
+NW_020798048.1	RefSeq	CDS	301333	301976	.	+	2	transcript_id "rna-XM_026763285.1"; gene_id "gene-CDV56_109666";
+NW_020798048.1	RefSeq	transcript	346166	346941	.	-	.	transcript_id "rna-XM_026763303.1"; gene_id "gene-CDV56_109684"; gene_name "SF3A2"
+NW_020798048.1	RefSeq	exon	346166	346870	.	-	.	transcript_id "rna-XM_026763303.1"; gene_id "gene-CDV56_109684"; gene_name "SF3A2";
+NW_020798048.1	RefSeq	exon	346930	346941	.	-	.	transcript_id "rna-XM_026763303.1"; gene_id "gene-CDV56_109684"; gene_name "SF3A2";
+NW_020798048.1	RefSeq	CDS	346166	346870	.	-	0	transcript_id "rna-XM_026763303.1"; gene_id "gene-CDV56_109684"; gene_name "SF3A2";
+NW_020798048.1	RefSeq	CDS	346930	346941	.	-	0	transcript_id "rna-XM_026763303.1"; gene_id "gene-CDV56_109684"; gene_name "SF3A2";
+NW_020798048.1	RefSeq	transcript	362045	363341	.	+	.	transcript_id "rna-XM_026763309.1"; gene_id "gene-CDV56_109690"
+NW_020798048.1	RefSeq	exon	362045	362087	.	+	.	transcript_id "rna-XM_026763309.1"; gene_id "gene-CDV56_109690";
+NW_020798048.1	RefSeq	exon	362167	363341	.	+	.	transcript_id "rna-XM_026763309.1"; gene_id "gene-CDV56_109690";
+NW_020798048.1	RefSeq	CDS	362045	362087	.	+	0	transcript_id "rna-XM_026763309.1"; gene_id "gene-CDV56_109690";
+NW_020798048.1	RefSeq	CDS	362167	363341	.	+	2	transcript_id "rna-XM_026763309.1"; gene_id "gene-CDV56_109690";
+NW_020798058.1	RefSeq	transcript	37332	37872	.	-	.	transcript_id "rna-XM_026758369.1"; gene_id "gene-CDV56_104750"
+NW_020798058.1	RefSeq	exon	37332	37623	.	-	.	transcript_id "rna-XM_026758369.1"; gene_id "gene-CDV56_104750";
+NW_020798058.1	RefSeq	exon	37683	37765	.	-	.	transcript_id "rna-XM_026758369.1"; gene_id "gene-CDV56_104750";
+NW_020798058.1	RefSeq	exon	37834	37872	.	-	.	transcript_id "rna-XM_026758369.1"; gene_id "gene-CDV56_104750";
+NW_020798058.1	RefSeq	CDS	37332	37623	.	-	1	transcript_id "rna-XM_026758369.1"; gene_id "gene-CDV56_104750";
+NW_020798058.1	RefSeq	CDS	37683	37765	.	-	0	transcript_id "rna-XM_026758369.1"; gene_id "gene-CDV56_104750";
+NW_020798058.1	RefSeq	CDS	37834	37872	.	-	0	transcript_id "rna-XM_026758369.1"; gene_id "gene-CDV56_104750";
+NW_020798058.1	RefSeq	transcript	40344	41199	.	-	.	transcript_id "rna-XM_026758628.1"; gene_id "gene-CDV56_105009"
+NW_020798058.1	RefSeq	exon	40344	40893	.	-	.	transcript_id "rna-XM_026758628.1"; gene_id "gene-CDV56_105009";
+NW_020798058.1	RefSeq	exon	41006	41199	.	-	.	transcript_id "rna-XM_026758628.1"; gene_id "gene-CDV56_105009";
+NW_020798058.1	RefSeq	CDS	40344	40893	.	-	1	transcript_id "rna-XM_026758628.1"; gene_id "gene-CDV56_105009";
+NW_020798058.1	RefSeq	CDS	41006	41199	.	-	0	transcript_id "rna-XM_026758628.1"; gene_id "gene-CDV56_105009";
+NW_020798058.1	RefSeq	transcript	145298	146282	.	-	.	transcript_id "rna-XM_026762702.1"; gene_id "gene-CDV56_109083"; gene_name "BCP1"
+NW_020798058.1	RefSeq	exon	145298	145852	.	-	.	transcript_id "rna-XM_026762702.1"; gene_id "gene-CDV56_109083"; gene_name "BCP1";
+NW_020798058.1	RefSeq	exon	145904	146140	.	-	.	transcript_id "rna-XM_026762702.1"; gene_id "gene-CDV56_109083"; gene_name "BCP1";
+NW_020798058.1	RefSeq	exon	146199	146282	.	-	.	transcript_id "rna-XM_026762702.1"; gene_id "gene-CDV56_109083"; gene_name "BCP1";
+NW_020798058.1	RefSeq	CDS	145298	145852	.	-	0	transcript_id "rna-XM_026762702.1"; gene_id "gene-CDV56_109083"; gene_name "BCP1";
+NW_020798058.1	RefSeq	CDS	145904	146140	.	-	0	transcript_id "rna-XM_026762702.1"; gene_id "gene-CDV56_109083"; gene_name "BCP1";
+NW_020798058.1	RefSeq	CDS	146199	146282	.	-	0	transcript_id "rna-XM_026762702.1"; gene_id "gene-CDV56_109083"; gene_name "BCP1";
+NW_020798149.1	RefSeq	transcript	68353	69617	.	-	.	transcript_id "rna-XM_026760519.1"; gene_id "gene-CDV56_106900"
+NW_020798149.1	RefSeq	exon	68353	69107	.	-	.	transcript_id "rna-XM_026760519.1"; gene_id "gene-CDV56_106900";
+NW_020798149.1	RefSeq	exon	69182	69318	.	-	.	transcript_id "rna-XM_026760519.1"; gene_id "gene-CDV56_106900";
+NW_020798149.1	RefSeq	exon	69379	69617	.	-	.	transcript_id "rna-XM_026760519.1"; gene_id "gene-CDV56_106900";
+NW_020798149.1	RefSeq	CDS	68353	69107	.	-	2	transcript_id "rna-XM_026760519.1"; gene_id "gene-CDV56_106900";
+NW_020798149.1	RefSeq	CDS	69182	69318	.	-	1	transcript_id "rna-XM_026760519.1"; gene_id "gene-CDV56_106900";
+NW_020798149.1	RefSeq	CDS	69379	69617	.	-	0	transcript_id "rna-XM_026760519.1"; gene_id "gene-CDV56_106900";
+NW_020798151.1	RefSeq	transcript	74268	75467	.	+	.	transcript_id "rna-XM_026760815.1"; gene_id "gene-CDV56_107196"; gene_name "KRR1"
+NW_020798151.1	RefSeq	exon	74268	74327	.	+	.	transcript_id "rna-XM_026760815.1"; gene_id "gene-CDV56_107196"; gene_name "KRR1";
+NW_020798151.1	RefSeq	exon	74393	74665	.	+	.	transcript_id "rna-XM_026760815.1"; gene_id "gene-CDV56_107196"; gene_name "KRR1";
+NW_020798151.1	RefSeq	exon	74721	75467	.	+	.	transcript_id "rna-XM_026760815.1"; gene_id "gene-CDV56_107196"; gene_name "KRR1";
+NW_020798151.1	RefSeq	CDS	74268	74327	.	+	0	transcript_id "rna-XM_026760815.1"; gene_id "gene-CDV56_107196"; gene_name "KRR1";
+NW_020798151.1	RefSeq	CDS	74393	74665	.	+	0	transcript_id "rna-XM_026760815.1"; gene_id "gene-CDV56_107196"; gene_name "KRR1";
+NW_020798151.1	RefSeq	CDS	74721	75467	.	+	0	transcript_id "rna-XM_026760815.1"; gene_id "gene-CDV56_107196"; gene_name "KRR1";
+NW_020798154.1	RefSeq	transcript	10825	13754	.	+	.	transcript_id "rna-XM_026755427.1"; gene_id "gene-CDV56_101808"
+NW_020798154.1	RefSeq	exon	10825	10842	.	+	.	transcript_id "rna-XM_026755427.1"; gene_id "gene-CDV56_101808";
+NW_020798154.1	RefSeq	exon	10894	11006	.	+	.	transcript_id "rna-XM_026755427.1"; gene_id "gene-CDV56_101808";
+NW_020798154.1	RefSeq	exon	11078	11573	.	+	.	transcript_id "rna-XM_026755427.1"; gene_id "gene-CDV56_101808";
+NW_020798154.1	RefSeq	exon	11624	11871	.	+	.	transcript_id "rna-XM_026755427.1"; gene_id "gene-CDV56_101808";
+NW_020798154.1	RefSeq	exon	11921	13754	.	+	.	transcript_id "rna-XM_026755427.1"; gene_id "gene-CDV56_101808";
+NW_020798154.1	RefSeq	CDS	10825	10842	.	+	0	transcript_id "rna-XM_026755427.1"; gene_id "gene-CDV56_101808";
+NW_020798154.1	RefSeq	CDS	10894	11006	.	+	0	transcript_id "rna-XM_026755427.1"; gene_id "gene-CDV56_101808";
+NW_020798154.1	RefSeq	CDS	11078	11573	.	+	1	transcript_id "rna-XM_026755427.1"; gene_id "gene-CDV56_101808";
+NW_020798154.1	RefSeq	CDS	11624	11871	.	+	0	transcript_id "rna-XM_026755427.1"; gene_id "gene-CDV56_101808";
+NW_020798154.1	RefSeq	CDS	11921	13754	.	+	1	transcript_id "rna-XM_026755427.1"; gene_id "gene-CDV56_101808";
+NW_020798156.1	RefSeq	transcript	20228	22002	.	+	.	transcript_id "rna-XM_026756655.1"; gene_id "gene-CDV56_103036"; gene_name "trm6"
+NW_020798156.1	RefSeq	exon	20228	20313	.	+	.	transcript_id "rna-XM_026756655.1"; gene_id "gene-CDV56_103036"; gene_name "trm6";
+NW_020798156.1	RefSeq	exon	20370	22002	.	+	.	transcript_id "rna-XM_026756655.1"; gene_id "gene-CDV56_103036"; gene_name "trm6";
+NW_020798156.1	RefSeq	CDS	20228	20313	.	+	0	transcript_id "rna-XM_026756655.1"; gene_id "gene-CDV56_103036"; gene_name "trm6";
+NW_020798156.1	RefSeq	CDS	20370	22002	.	+	1	transcript_id "rna-XM_026756655.1"; gene_id "gene-CDV56_103036"; gene_name "trm6";
+NW_020798059.1	RefSeq	transcript	122653	127200	.	+	.	transcript_id "rna-XM_026762361.1"; gene_id "gene-CDV56_108742"
+NW_020798059.1	RefSeq	exon	122653	122703	.	+	.	transcript_id "rna-XM_026762361.1"; gene_id "gene-CDV56_108742";
+NW_020798059.1	RefSeq	exon	122766	123142	.	+	.	transcript_id "rna-XM_026762361.1"; gene_id "gene-CDV56_108742";
+NW_020798059.1	RefSeq	exon	123201	123414	.	+	.	transcript_id "rna-XM_026762361.1"; gene_id "gene-CDV56_108742";
+NW_020798059.1	RefSeq	exon	123468	125356	.	+	.	transcript_id "rna-XM_026762361.1"; gene_id "gene-CDV56_108742";
+NW_020798059.1	RefSeq	exon	125775	125854	.	+	.	transcript_id "rna-XM_026762361.1"; gene_id "gene-CDV56_108742";
+NW_020798059.1	RefSeq	exon	125917	126017	.	+	.	transcript_id "rna-XM_026762361.1"; gene_id "gene-CDV56_108742";
+NW_020798059.1	RefSeq	exon	126090	126217	.	+	.	transcript_id "rna-XM_026762361.1"; gene_id "gene-CDV56_108742";
+NW_020798059.1	RefSeq	exon	126270	127200	.	+	.	transcript_id "rna-XM_026762361.1"; gene_id "gene-CDV56_108742";
+NW_020798059.1	RefSeq	CDS	122653	122703	.	+	0	transcript_id "rna-XM_026762361.1"; gene_id "gene-CDV56_108742";
+NW_020798059.1	RefSeq	CDS	122766	123142	.	+	0	transcript_id "rna-XM_026762361.1"; gene_id "gene-CDV56_108742";
+NW_020798059.1	RefSeq	CDS	123201	123414	.	+	1	transcript_id "rna-XM_026762361.1"; gene_id "gene-CDV56_108742";
+NW_020798059.1	RefSeq	CDS	123468	125356	.	+	0	transcript_id "rna-XM_026762361.1"; gene_id "gene-CDV56_108742";
+NW_020798059.1	RefSeq	CDS	125775	125854	.	+	1	transcript_id "rna-XM_026762361.1"; gene_id "gene-CDV56_108742";
+NW_020798059.1	RefSeq	CDS	125917	126017	.	+	2	transcript_id "rna-XM_026762361.1"; gene_id "gene-CDV56_108742";
+NW_020798059.1	RefSeq	CDS	126090	126217	.	+	0	transcript_id "rna-XM_026762361.1"; gene_id "gene-CDV56_108742";
+NW_020798059.1	RefSeq	CDS	126270	127200	.	+	1	transcript_id "rna-XM_026762361.1"; gene_id "gene-CDV56_108742";
+NW_020798060.1	RefSeq	transcript	136488	138022	.	+	.	transcript_id "rna-XM_026762582.1"; gene_id "gene-CDV56_108963"
+NW_020798060.1	RefSeq	exon	136488	136699	.	+	.	transcript_id "rna-XM_026762582.1"; gene_id "gene-CDV56_108963";
+NW_020798060.1	RefSeq	exon	136755	136932	.	+	.	transcript_id "rna-XM_026762582.1"; gene_id "gene-CDV56_108963";
+NW_020798060.1	RefSeq	exon	136994	138022	.	+	.	transcript_id "rna-XM_026762582.1"; gene_id "gene-CDV56_108963";
+NW_020798060.1	RefSeq	CDS	136488	136699	.	+	0	transcript_id "rna-XM_026762582.1"; gene_id "gene-CDV56_108963";
+NW_020798060.1	RefSeq	CDS	136755	136932	.	+	1	transcript_id "rna-XM_026762582.1"; gene_id "gene-CDV56_108963";
+NW_020798060.1	RefSeq	CDS	136994	138022	.	+	0	transcript_id "rna-XM_026762582.1"; gene_id "gene-CDV56_108963";
+NW_020798060.1	RefSeq	transcript	140104	142476	.	+	.	transcript_id "rna-XM_026762635.1"; gene_id "gene-CDV56_109016"; gene_name "erb1"
+NW_020798060.1	RefSeq	exon	140104	142476	.	+	.	transcript_id "rna-XM_026762635.1"; gene_id "gene-CDV56_109016"; gene_name "erb1";
+NW_020798060.1	RefSeq	CDS	140104	142476	.	+	0	transcript_id "rna-XM_026762635.1"; gene_id "gene-CDV56_109016"; gene_name "erb1";
+NW_020798060.1	RefSeq	transcript	169543	171967	.	-	.	transcript_id "rna-XM_026762948.1"; gene_id "gene-CDV56_109329"; gene_name "UTP25"
+NW_020798060.1	RefSeq	exon	169543	170461	.	-	.	transcript_id "rna-XM_026762948.1"; gene_id "gene-CDV56_109329"; gene_name "UTP25";
+NW_020798060.1	RefSeq	exon	170519	171096	.	-	.	transcript_id "rna-XM_026762948.1"; gene_id "gene-CDV56_109329"; gene_name "UTP25";
+NW_020798060.1	RefSeq	exon	171166	171365	.	-	.	transcript_id "rna-XM_026762948.1"; gene_id "gene-CDV56_109329"; gene_name "UTP25";
+NW_020798060.1	RefSeq	exon	171416	171789	.	-	.	transcript_id "rna-XM_026762948.1"; gene_id "gene-CDV56_109329"; gene_name "UTP25";
+NW_020798060.1	RefSeq	exon	171855	171967	.	-	.	transcript_id "rna-XM_026762948.1"; gene_id "gene-CDV56_109329"; gene_name "UTP25";
+NW_020798060.1	RefSeq	CDS	169543	170461	.	-	1	transcript_id "rna-XM_026762948.1"; gene_id "gene-CDV56_109329"; gene_name "UTP25";
+NW_020798060.1	RefSeq	CDS	170519	171096	.	-	0	transcript_id "rna-XM_026762948.1"; gene_id "gene-CDV56_109329"; gene_name "UTP25";
+NW_020798060.1	RefSeq	CDS	171166	171365	.	-	2	transcript_id "rna-XM_026762948.1"; gene_id "gene-CDV56_109329"; gene_name "UTP25";
+NW_020798060.1	RefSeq	CDS	171416	171789	.	-	1	transcript_id "rna-XM_026762948.1"; gene_id "gene-CDV56_109329"; gene_name "UTP25";
+NW_020798060.1	RefSeq	CDS	171855	171967	.	-	0	transcript_id "rna-XM_026762948.1"; gene_id "gene-CDV56_109329"; gene_name "UTP25";
+NW_020798060.1	RefSeq	transcript	172288	173454	.	+	.	transcript_id "rna-XM_026762966.1"; gene_id "gene-CDV56_109347"
+NW_020798060.1	RefSeq	exon	172288	172392	.	+	.	transcript_id "rna-XM_026762966.1"; gene_id "gene-CDV56_109347";
+NW_020798060.1	RefSeq	exon	172458	173170	.	+	.	transcript_id "rna-XM_026762966.1"; gene_id "gene-CDV56_109347";
+NW_020798060.1	RefSeq	exon	173235	173454	.	+	.	transcript_id "rna-XM_026762966.1"; gene_id "gene-CDV56_109347";
+NW_020798060.1	RefSeq	CDS	172288	172392	.	+	0	transcript_id "rna-XM_026762966.1"; gene_id "gene-CDV56_109347";
+NW_020798060.1	RefSeq	CDS	172458	173170	.	+	0	transcript_id "rna-XM_026762966.1"; gene_id "gene-CDV56_109347";
+NW_020798060.1	RefSeq	CDS	173235	173454	.	+	1	transcript_id "rna-XM_026762966.1"; gene_id "gene-CDV56_109347";
+NW_020798171.1	RefSeq	transcript	43233	44859	.	-	.	transcript_id "rna-XM_026758847.1"; gene_id "gene-CDV56_105228"; gene_name "CYP6"
+NW_020798171.1	RefSeq	exon	43233	43646	.	-	.	transcript_id "rna-XM_026758847.1"; gene_id "gene-CDV56_105228"; gene_name "CYP6";
+NW_020798171.1	RefSeq	exon	43704	43900	.	-	.	transcript_id "rna-XM_026758847.1"; gene_id "gene-CDV56_105228"; gene_name "CYP6";
+NW_020798171.1	RefSeq	exon	43958	44658	.	-	.	transcript_id "rna-XM_026758847.1"; gene_id "gene-CDV56_105228"; gene_name "CYP6";
+NW_020798171.1	RefSeq	exon	44780	44859	.	-	.	transcript_id "rna-XM_026758847.1"; gene_id "gene-CDV56_105228"; gene_name "CYP6";
+NW_020798171.1	RefSeq	CDS	43233	43646	.	-	0	transcript_id "rna-XM_026758847.1"; gene_id "gene-CDV56_105228"; gene_name "CYP6";
+NW_020798171.1	RefSeq	CDS	43704	43900	.	-	2	transcript_id "rna-XM_026758847.1"; gene_id "gene-CDV56_105228"; gene_name "CYP6";
+NW_020798171.1	RefSeq	CDS	43958	44658	.	-	1	transcript_id "rna-XM_026758847.1"; gene_id "gene-CDV56_105228"; gene_name "CYP6";
+NW_020798171.1	RefSeq	CDS	44780	44859	.	-	0	transcript_id "rna-XM_026758847.1"; gene_id "gene-CDV56_105228"; gene_name "CYP6";
+NW_020798172.1	RefSeq	transcript	41331	43916	.	-	.	transcript_id "rna-XM_026758699.1"; gene_id "gene-CDV56_105080"; gene_name "DBP6"
+NW_020798172.1	RefSeq	exon	41331	43916	.	-	.	transcript_id "rna-XM_026758699.1"; gene_id "gene-CDV56_105080"; gene_name "DBP6";
+NW_020798172.1	RefSeq	CDS	41331	43916	.	-	0	transcript_id "rna-XM_026758699.1"; gene_id "gene-CDV56_105080"; gene_name "DBP6";
+NW_020798172.1	RefSeq	transcript	53955	55123	.	-	.	transcript_id "rna-XM_026759651.1"; gene_id "gene-CDV56_106032"
+NW_020798172.1	RefSeq	exon	53955	54147	.	-	.	transcript_id "rna-XM_026759651.1"; gene_id "gene-CDV56_106032";
+NW_020798172.1	RefSeq	exon	54201	55123	.	-	.	transcript_id "rna-XM_026759651.1"; gene_id "gene-CDV56_106032";
+NW_020798172.1	RefSeq	CDS	53955	54147	.	-	1	transcript_id "rna-XM_026759651.1"; gene_id "gene-CDV56_106032";
+NW_020798172.1	RefSeq	CDS	54201	55123	.	-	0	transcript_id "rna-XM_026759651.1"; gene_id "gene-CDV56_106032";
+NW_020798061.1	RefSeq	transcript	43009	46267	.	-	.	transcript_id "rna-XM_026758830.1"; gene_id "gene-CDV56_105211"; gene_name "CTF18"
+NW_020798061.1	RefSeq	exon	43009	43441	.	-	.	transcript_id "rna-XM_026758830.1"; gene_id "gene-CDV56_105211"; gene_name "CTF18";
+NW_020798061.1	RefSeq	exon	43505	46001	.	-	.	transcript_id "rna-XM_026758830.1"; gene_id "gene-CDV56_105211"; gene_name "CTF18";
+NW_020798061.1	RefSeq	exon	46057	46267	.	-	.	transcript_id "rna-XM_026758830.1"; gene_id "gene-CDV56_105211"; gene_name "CTF18";
+NW_020798061.1	RefSeq	CDS	43009	43441	.	-	1	transcript_id "rna-XM_026758830.1"; gene_id "gene-CDV56_105211"; gene_name "CTF18";
+NW_020798061.1	RefSeq	CDS	43505	46001	.	-	2	transcript_id "rna-XM_026758830.1"; gene_id "gene-CDV56_105211"; gene_name "CTF18";
+NW_020798061.1	RefSeq	CDS	46057	46267	.	-	0	transcript_id "rna-XM_026758830.1"; gene_id "gene-CDV56_105211"; gene_name "CTF18";
+NW_020798061.1	RefSeq	transcript	46903	48101	.	-	.	transcript_id "rna-XM_026759134.1"; gene_id "gene-CDV56_105515"
+NW_020798061.1	RefSeq	exon	46903	47483	.	-	.	transcript_id "rna-XM_026759134.1"; gene_id "gene-CDV56_105515";
+NW_020798061.1	RefSeq	exon	47554	47746	.	-	.	transcript_id "rna-XM_026759134.1"; gene_id "gene-CDV56_105515";
+NW_020798061.1	RefSeq	exon	47796	48101	.	-	.	transcript_id "rna-XM_026759134.1"; gene_id "gene-CDV56_105515";
+NW_020798061.1	RefSeq	CDS	46903	47483	.	-	2	transcript_id "rna-XM_026759134.1"; gene_id "gene-CDV56_105515";
+NW_020798061.1	RefSeq	CDS	47554	47746	.	-	0	transcript_id "rna-XM_026759134.1"; gene_id "gene-CDV56_105515";
+NW_020798061.1	RefSeq	CDS	47796	48101	.	-	0	transcript_id "rna-XM_026759134.1"; gene_id "gene-CDV56_105515";
+NW_020798181.1	RefSeq	transcript	62088	65195	.	+	.	transcript_id "rna-XM_026760177.1"; gene_id "gene-CDV56_106558"
+NW_020798181.1	RefSeq	exon	62088	62182	.	+	.	transcript_id "rna-XM_026760177.1"; gene_id "gene-CDV56_106558";
+NW_020798181.1	RefSeq	exon	62252	62368	.	+	.	transcript_id "rna-XM_026760177.1"; gene_id "gene-CDV56_106558";
+NW_020798181.1	RefSeq	exon	62436	63239	.	+	.	transcript_id "rna-XM_026760177.1"; gene_id "gene-CDV56_106558";
+NW_020798181.1	RefSeq	exon	64244	65195	.	+	.	transcript_id "rna-XM_026760177.1"; gene_id "gene-CDV56_106558";
+NW_020798181.1	RefSeq	CDS	62088	62182	.	+	0	transcript_id "rna-XM_026760177.1"; gene_id "gene-CDV56_106558";
+NW_020798181.1	RefSeq	CDS	62252	62368	.	+	1	transcript_id "rna-XM_026760177.1"; gene_id "gene-CDV56_106558";
+NW_020798181.1	RefSeq	CDS	62436	63239	.	+	1	transcript_id "rna-XM_026760177.1"; gene_id "gene-CDV56_106558";
+NW_020798181.1	RefSeq	CDS	64244	65195	.	+	1	transcript_id "rna-XM_026760177.1"; gene_id "gene-CDV56_106558";
+NW_020798185.1	RefSeq	transcript	54387	55691	.	-	.	transcript_id "rna-XM_026759679.1"; gene_id "gene-CDV56_106060"
+NW_020798185.1	RefSeq	exon	54387	54685	.	-	.	transcript_id "rna-XM_026759679.1"; gene_id "gene-CDV56_106060";
+NW_020798185.1	RefSeq	exon	54753	55449	.	-	.	transcript_id "rna-XM_026759679.1"; gene_id "gene-CDV56_106060";
+NW_020798185.1	RefSeq	exon	55518	55691	.	-	.	transcript_id "rna-XM_026759679.1"; gene_id "gene-CDV56_106060";
+NW_020798185.1	RefSeq	CDS	54387	54685	.	-	2	transcript_id "rna-XM_026759679.1"; gene_id "gene-CDV56_106060";
+NW_020798185.1	RefSeq	CDS	54753	55449	.	-	0	transcript_id "rna-XM_026759679.1"; gene_id "gene-CDV56_106060";
+NW_020798185.1	RefSeq	CDS	55518	55691	.	-	0	transcript_id "rna-XM_026759679.1"; gene_id "gene-CDV56_106060";
+NW_020798188.1	RefSeq	transcript	24378	25328	.	-	.	transcript_id "rna-XM_026757108.1"; gene_id "gene-CDV56_103489"
+NW_020798188.1	RefSeq	exon	24378	24422	.	-	.	transcript_id "rna-XM_026757108.1"; gene_id "gene-CDV56_103489";
+NW_020798188.1	RefSeq	exon	24488	24665	.	-	.	transcript_id "rna-XM_026757108.1"; gene_id "gene-CDV56_103489";
+NW_020798188.1	RefSeq	exon	24724	24787	.	-	.	transcript_id "rna-XM_026757108.1"; gene_id "gene-CDV56_103489";
+NW_020798188.1	RefSeq	exon	24842	24928	.	-	.	transcript_id "rna-XM_026757108.1"; gene_id "gene-CDV56_103489";
+NW_020798188.1	RefSeq	exon	24984	25080	.	-	.	transcript_id "rna-XM_026757108.1"; gene_id "gene-CDV56_103489";
+NW_020798188.1	RefSeq	exon	25144	25242	.	-	.	transcript_id "rna-XM_026757108.1"; gene_id "gene-CDV56_103489";
+NW_020798188.1	RefSeq	exon	25317	25328	.	-	.	transcript_id "rna-XM_026757108.1"; gene_id "gene-CDV56_103489";
+NW_020798188.1	RefSeq	CDS	24378	24422	.	-	0	transcript_id "rna-XM_026757108.1"; gene_id "gene-CDV56_103489";
+NW_020798188.1	RefSeq	CDS	24488	24665	.	-	1	transcript_id "rna-XM_026757108.1"; gene_id "gene-CDV56_103489";
+NW_020798188.1	RefSeq	CDS	24724	24787	.	-	2	transcript_id "rna-XM_026757108.1"; gene_id "gene-CDV56_103489";
+NW_020798188.1	RefSeq	CDS	24842	24928	.	-	2	transcript_id "rna-XM_026757108.1"; gene_id "gene-CDV56_103489";
+NW_020798188.1	RefSeq	CDS	24984	25080	.	-	0	transcript_id "rna-XM_026757108.1"; gene_id "gene-CDV56_103489";
+NW_020798188.1	RefSeq	CDS	25144	25242	.	-	0	transcript_id "rna-XM_026757108.1"; gene_id "gene-CDV56_103489";
+NW_020798188.1	RefSeq	CDS	25317	25328	.	-	0	transcript_id "rna-XM_026757108.1"; gene_id "gene-CDV56_103489";
+NW_020798190.1	RefSeq	transcript	33733	34847	.	-	.	transcript_id "rna-XM_026758068.1"; gene_id "gene-CDV56_104449"; gene_name "med6"
+NW_020798190.1	RefSeq	exon	33733	34251	.	-	.	transcript_id "rna-XM_026758068.1"; gene_id "gene-CDV56_104449"; gene_name "med6";
+NW_020798190.1	RefSeq	exon	34316	34677	.	-	.	transcript_id "rna-XM_026758068.1"; gene_id "gene-CDV56_104449"; gene_name "med6";
+NW_020798190.1	RefSeq	exon	34754	34847	.	-	.	transcript_id "rna-XM_026758068.1"; gene_id "gene-CDV56_104449"; gene_name "med6";
+NW_020798190.1	RefSeq	CDS	33733	34251	.	-	0	transcript_id "rna-XM_026758068.1"; gene_id "gene-CDV56_104449"; gene_name "med6";
+NW_020798190.1	RefSeq	CDS	34316	34677	.	-	2	transcript_id "rna-XM_026758068.1"; gene_id "gene-CDV56_104449"; gene_name "med6";
+NW_020798190.1	RefSeq	CDS	34754	34847	.	-	0	transcript_id "rna-XM_026758068.1"; gene_id "gene-CDV56_104449"; gene_name "med6";
+NW_020798196.1	RefSeq	transcript	65224	66210	.	-	.	transcript_id "rna-XM_026760351.1"; gene_id "gene-CDV56_106732"
+NW_020798196.1	RefSeq	exon	65224	66210	.	-	.	transcript_id "rna-XM_026760351.1"; gene_id "gene-CDV56_106732";
+NW_020798196.1	RefSeq	CDS	65224	66210	.	-	0	transcript_id "rna-XM_026760351.1"; gene_id "gene-CDV56_106732";
+NW_020798197.1	RefSeq	transcript	6673	21453	.	-	.	transcript_id "rna-XM_026754834.1"; gene_id "gene-CDV56_101215"
+NW_020798197.1	RefSeq	exon	6673	21453	.	-	.	transcript_id "rna-XM_026754834.1"; gene_id "gene-CDV56_101215";
+NW_020798197.1	RefSeq	CDS	6673	21453	.	-	0	transcript_id "rna-XM_026754834.1"; gene_id "gene-CDV56_101215";
+NW_020798197.1	RefSeq	transcript	45576	47236	.	+	.	transcript_id "rna-XM_026759040.1"; gene_id "gene-CDV56_105421"; gene_name "hat1"
+NW_020798197.1	RefSeq	exon	45576	45870	.	+	.	transcript_id "rna-XM_026759040.1"; gene_id "gene-CDV56_105421"; gene_name "hat1";
+NW_020798197.1	RefSeq	exon	45939	46203	.	+	.	transcript_id "rna-XM_026759040.1"; gene_id "gene-CDV56_105421"; gene_name "hat1";
+NW_020798197.1	RefSeq	exon	46267	47236	.	+	.	transcript_id "rna-XM_026759040.1"; gene_id "gene-CDV56_105421"; gene_name "hat1";
+NW_020798197.1	RefSeq	CDS	45576	45870	.	+	0	transcript_id "rna-XM_026759040.1"; gene_id "gene-CDV56_105421"; gene_name "hat1";
+NW_020798197.1	RefSeq	CDS	45939	46203	.	+	2	transcript_id "rna-XM_026759040.1"; gene_id "gene-CDV56_105421"; gene_name "hat1";
+NW_020798197.1	RefSeq	CDS	46267	47236	.	+	1	transcript_id "rna-XM_026759040.1"; gene_id "gene-CDV56_105421"; gene_name "hat1";
+NW_020798198.1	RefSeq	transcript	60288	61925	.	-	.	transcript_id "rna-XM_026760054.1"; gene_id "gene-CDV56_106435"; gene_name "csn12"
+NW_020798198.1	RefSeq	exon	60288	60374	.	-	.	transcript_id "rna-XM_026760054.1"; gene_id "gene-CDV56_106435"; gene_name "csn12";
+NW_020798198.1	RefSeq	exon	60431	60851	.	-	.	transcript_id "rna-XM_026760054.1"; gene_id "gene-CDV56_106435"; gene_name "csn12";
+NW_020798198.1	RefSeq	exon	60902	60963	.	-	.	transcript_id "rna-XM_026760054.1"; gene_id "gene-CDV56_106435"; gene_name "csn12";
+NW_020798198.1	RefSeq	exon	61024	61176	.	-	.	transcript_id "rna-XM_026760054.1"; gene_id "gene-CDV56_106435"; gene_name "csn12";
+NW_020798198.1	RefSeq	exon	61225	61297	.	-	.	transcript_id "rna-XM_026760054.1"; gene_id "gene-CDV56_106435"; gene_name "csn12";
+NW_020798198.1	RefSeq	exon	61354	61925	.	-	.	transcript_id "rna-XM_026760054.1"; gene_id "gene-CDV56_106435"; gene_name "csn12";
+NW_020798198.1	RefSeq	CDS	60288	60374	.	-	0	transcript_id "rna-XM_026760054.1"; gene_id "gene-CDV56_106435"; gene_name "csn12";
+NW_020798198.1	RefSeq	CDS	60431	60851	.	-	1	transcript_id "rna-XM_026760054.1"; gene_id "gene-CDV56_106435"; gene_name "csn12";
+NW_020798198.1	RefSeq	CDS	60902	60963	.	-	0	transcript_id "rna-XM_026760054.1"; gene_id "gene-CDV56_106435"; gene_name "csn12";
+NW_020798198.1	RefSeq	CDS	61024	61176	.	-	0	transcript_id "rna-XM_026760054.1"; gene_id "gene-CDV56_106435"; gene_name "csn12";
+NW_020798198.1	RefSeq	CDS	61225	61297	.	-	1	transcript_id "rna-XM_026760054.1"; gene_id "gene-CDV56_106435"; gene_name "csn12";
+NW_020798198.1	RefSeq	CDS	61354	61925	.	-	0	transcript_id "rna-XM_026760054.1"; gene_id "gene-CDV56_106435"; gene_name "csn12";
+NW_020798063.1	RefSeq	transcript	171713	173383	.	+	.	transcript_id "rna-XM_026762963.1"; gene_id "gene-CDV56_109344"
+NW_020798063.1	RefSeq	exon	171713	171937	.	+	.	transcript_id "rna-XM_026762963.1"; gene_id "gene-CDV56_109344";
+NW_020798063.1	RefSeq	exon	172005	173083	.	+	.	transcript_id "rna-XM_026762963.1"; gene_id "gene-CDV56_109344";
+NW_020798063.1	RefSeq	exon	173140	173383	.	+	.	transcript_id "rna-XM_026762963.1"; gene_id "gene-CDV56_109344";
+NW_020798063.1	RefSeq	CDS	171713	171937	.	+	0	transcript_id "rna-XM_026762963.1"; gene_id "gene-CDV56_109344";
+NW_020798063.1	RefSeq	CDS	172005	173083	.	+	0	transcript_id "rna-XM_026762963.1"; gene_id "gene-CDV56_109344";
+NW_020798063.1	RefSeq	CDS	173140	173383	.	+	1	transcript_id "rna-XM_026762963.1"; gene_id "gene-CDV56_109344";
+NW_020798205.1	RefSeq	transcript	15952	18498	.	+	.	transcript_id "rna-XM_026756126.1"; gene_id "gene-CDV56_102507"
+NW_020798205.1	RefSeq	exon	15952	18498	.	+	.	transcript_id "rna-XM_026756126.1"; gene_id "gene-CDV56_102507";
+NW_020798205.1	RefSeq	CDS	15952	18498	.	+	0	transcript_id "rna-XM_026756126.1"; gene_id "gene-CDV56_102507";
+NW_020798211.1	RefSeq	transcript	61468	62892	.	+	.	transcript_id "rna-XM_026760131.1"; gene_id "gene-CDV56_106512"; gene_name "FYV10"
+NW_020798211.1	RefSeq	exon	61468	61521	.	+	.	transcript_id "rna-XM_026760131.1"; gene_id "gene-CDV56_106512"; gene_name "FYV10";
+NW_020798211.1	RefSeq	exon	61586	62125	.	+	.	transcript_id "rna-XM_026760131.1"; gene_id "gene-CDV56_106512"; gene_name "FYV10";
+NW_020798211.1	RefSeq	exon	62195	62389	.	+	.	transcript_id "rna-XM_026760131.1"; gene_id "gene-CDV56_106512"; gene_name "FYV10";
+NW_020798211.1	RefSeq	exon	62461	62892	.	+	.	transcript_id "rna-XM_026760131.1"; gene_id "gene-CDV56_106512"; gene_name "FYV10";
+NW_020798211.1	RefSeq	CDS	61468	61521	.	+	0	transcript_id "rna-XM_026760131.1"; gene_id "gene-CDV56_106512"; gene_name "FYV10";
+NW_020798211.1	RefSeq	CDS	61586	62125	.	+	0	transcript_id "rna-XM_026760131.1"; gene_id "gene-CDV56_106512"; gene_name "FYV10";
+NW_020798211.1	RefSeq	CDS	62195	62389	.	+	0	transcript_id "rna-XM_026760131.1"; gene_id "gene-CDV56_106512"; gene_name "FYV10";
+NW_020798211.1	RefSeq	CDS	62461	62892	.	+	0	transcript_id "rna-XM_026760131.1"; gene_id "gene-CDV56_106512"; gene_name "FYV10";
+NW_020798213.1	RefSeq	transcript	36	2729	.	-	.	transcript_id "rna-XM_026753635.1"; gene_id "gene-CDV56_100016"
+NW_020798213.1	RefSeq	exon	36	403	.	-	.	transcript_id "rna-XM_026753635.1"; gene_id "gene-CDV56_100016";
+NW_020798213.1	RefSeq	exon	457	496	.	-	.	transcript_id "rna-XM_026753635.1"; gene_id "gene-CDV56_100016";
+NW_020798213.1	RefSeq	exon	787	836	.	-	.	transcript_id "rna-XM_026753635.1"; gene_id "gene-CDV56_100016";
+NW_020798213.1	RefSeq	exon	896	1146	.	-	.	transcript_id "rna-XM_026753635.1"; gene_id "gene-CDV56_100016";
+NW_020798213.1	RefSeq	exon	1197	2169	.	-	.	transcript_id "rna-XM_026753635.1"; gene_id "gene-CDV56_100016";
+NW_020798213.1	RefSeq	exon	2218	2349	.	-	.	transcript_id "rna-XM_026753635.1"; gene_id "gene-CDV56_100016";
+NW_020798213.1	RefSeq	exon	2429	2612	.	-	.	transcript_id "rna-XM_026753635.1"; gene_id "gene-CDV56_100016";
+NW_020798213.1	RefSeq	exon	2686	2729	.	-	.	transcript_id "rna-XM_026753635.1"; gene_id "gene-CDV56_100016";
+NW_020798213.1	RefSeq	CDS	36	403	.	-	0	transcript_id "rna-XM_026753635.1"; gene_id "gene-CDV56_100016";
+NW_020798213.1	RefSeq	CDS	457	496	.	-	1	transcript_id "rna-XM_026753635.1"; gene_id "gene-CDV56_100016";
+NW_020798213.1	RefSeq	CDS	787	836	.	-	0	transcript_id "rna-XM_026753635.1"; gene_id "gene-CDV56_100016";
+NW_020798213.1	RefSeq	CDS	896	1146	.	-	2	transcript_id "rna-XM_026753635.1"; gene_id "gene-CDV56_100016";
+NW_020798213.1	RefSeq	CDS	1197	2169	.	-	0	transcript_id "rna-XM_026753635.1"; gene_id "gene-CDV56_100016";
+NW_020798213.1	RefSeq	CDS	2218	2349	.	-	0	transcript_id "rna-XM_026753635.1"; gene_id "gene-CDV56_100016";
+NW_020798213.1	RefSeq	CDS	2429	2612	.	-	1	transcript_id "rna-XM_026753635.1"; gene_id "gene-CDV56_100016";
+NW_020798213.1	RefSeq	CDS	2686	2729	.	-	0	transcript_id "rna-XM_026753635.1"; gene_id "gene-CDV56_100016";
+NW_020798217.1	RefSeq	transcript	18172	20787	.	-	.	transcript_id "rna-XM_026756412.1"; gene_id "gene-CDV56_102793"; gene_name "ATG7"
+NW_020798217.1	RefSeq	exon	18172	18249	.	-	.	transcript_id "rna-XM_026756412.1"; gene_id "gene-CDV56_102793"; gene_name "ATG7";
+NW_020798217.1	RefSeq	exon	18396	18755	.	-	.	transcript_id "rna-XM_026756412.1"; gene_id "gene-CDV56_102793"; gene_name "ATG7";
+NW_020798217.1	RefSeq	exon	18808	19275	.	-	.	transcript_id "rna-XM_026756412.1"; gene_id "gene-CDV56_102793"; gene_name "ATG7";
+NW_020798217.1	RefSeq	exon	19331	19475	.	-	.	transcript_id "rna-XM_026756412.1"; gene_id "gene-CDV56_102793"; gene_name "ATG7";
+NW_020798217.1	RefSeq	exon	19545	20335	.	-	.	transcript_id "rna-XM_026756412.1"; gene_id "gene-CDV56_102793"; gene_name "ATG7";
+NW_020798217.1	RefSeq	exon	20391	20499	.	-	.	transcript_id "rna-XM_026756412.1"; gene_id "gene-CDV56_102793"; gene_name "ATG7";
+NW_020798217.1	RefSeq	exon	20597	20787	.	-	.	transcript_id "rna-XM_026756412.1"; gene_id "gene-CDV56_102793"; gene_name "ATG7";
+NW_020798217.1	RefSeq	CDS	18172	18249	.	-	0	transcript_id "rna-XM_026756412.1"; gene_id "gene-CDV56_102793"; gene_name "ATG7";
+NW_020798217.1	RefSeq	CDS	18396	18755	.	-	0	transcript_id "rna-XM_026756412.1"; gene_id "gene-CDV56_102793"; gene_name "ATG7";
+NW_020798217.1	RefSeq	CDS	18808	19275	.	-	0	transcript_id "rna-XM_026756412.1"; gene_id "gene-CDV56_102793"; gene_name "ATG7";
+NW_020798217.1	RefSeq	CDS	19331	19475	.	-	1	transcript_id "rna-XM_026756412.1"; gene_id "gene-CDV56_102793"; gene_name "ATG7";
+NW_020798217.1	RefSeq	CDS	19545	20335	.	-	0	transcript_id "rna-XM_026756412.1"; gene_id "gene-CDV56_102793"; gene_name "ATG7";
+NW_020798217.1	RefSeq	CDS	20391	20499	.	-	1	transcript_id "rna-XM_026756412.1"; gene_id "gene-CDV56_102793"; gene_name "ATG7";
+NW_020798217.1	RefSeq	CDS	20597	20787	.	-	0	transcript_id "rna-XM_026756412.1"; gene_id "gene-CDV56_102793"; gene_name "ATG7";
+NW_020798217.1	RefSeq	transcript	35127	37415	.	+	.	transcript_id "rna-XM_026758193.1"; gene_id "gene-CDV56_104574"
+NW_020798217.1	RefSeq	exon	35127	37415	.	+	.	transcript_id "rna-XM_026758193.1"; gene_id "gene-CDV56_104574";
+NW_020798217.1	RefSeq	CDS	35127	37415	.	+	0	transcript_id "rna-XM_026758193.1"; gene_id "gene-CDV56_104574";
+NW_020798065.1	RefSeq	transcript	56903	58213	.	+	.	transcript_id "rna-XM_026759840.1"; gene_id "gene-CDV56_106221"
+NW_020798065.1	RefSeq	exon	56903	57006	.	+	.	transcript_id "rna-XM_026759840.1"; gene_id "gene-CDV56_106221";
+NW_020798065.1	RefSeq	exon	57068	57158	.	+	.	transcript_id "rna-XM_026759840.1"; gene_id "gene-CDV56_106221";
+NW_020798065.1	RefSeq	exon	57227	58213	.	+	.	transcript_id "rna-XM_026759840.1"; gene_id "gene-CDV56_106221";
+NW_020798065.1	RefSeq	CDS	56903	57006	.	+	0	transcript_id "rna-XM_026759840.1"; gene_id "gene-CDV56_106221";
+NW_020798065.1	RefSeq	CDS	57068	57158	.	+	1	transcript_id "rna-XM_026759840.1"; gene_id "gene-CDV56_106221";
+NW_020798065.1	RefSeq	CDS	57227	58213	.	+	0	transcript_id "rna-XM_026759840.1"; gene_id "gene-CDV56_106221";
+NW_020798065.1	RefSeq	transcript	69335	70414	.	-	.	transcript_id "rna-XM_026760576.1"; gene_id "gene-CDV56_106957"; gene_name "NSA2"
+NW_020798065.1	RefSeq	exon	69335	69350	.	-	.	transcript_id "rna-XM_026760576.1"; gene_id "gene-CDV56_106957"; gene_name "NSA2";
+NW_020798065.1	RefSeq	exon	69412	69624	.	-	.	transcript_id "rna-XM_026760576.1"; gene_id "gene-CDV56_106957"; gene_name "NSA2";
+NW_020798065.1	RefSeq	exon	69683	70225	.	-	.	transcript_id "rna-XM_026760576.1"; gene_id "gene-CDV56_106957"; gene_name "NSA2";
+NW_020798065.1	RefSeq	exon	70284	70294	.	-	.	transcript_id "rna-XM_026760576.1"; gene_id "gene-CDV56_106957"; gene_name "NSA2";
+NW_020798065.1	RefSeq	exon	70412	70414	.	-	.	transcript_id "rna-XM_026760576.1"; gene_id "gene-CDV56_106957"; gene_name "NSA2";
+NW_020798065.1	RefSeq	CDS	69335	69350	.	-	1	transcript_id "rna-XM_026760576.1"; gene_id "gene-CDV56_106957"; gene_name "NSA2";
+NW_020798065.1	RefSeq	CDS	69412	69624	.	-	1	transcript_id "rna-XM_026760576.1"; gene_id "gene-CDV56_106957"; gene_name "NSA2";
+NW_020798065.1	RefSeq	CDS	69683	70225	.	-	1	transcript_id "rna-XM_026760576.1"; gene_id "gene-CDV56_106957"; gene_name "NSA2";
+NW_020798065.1	RefSeq	CDS	70284	70294	.	-	0	transcript_id "rna-XM_026760576.1"; gene_id "gene-CDV56_106957"; gene_name "NSA2";
+NW_020798065.1	RefSeq	CDS	70412	70414	.	-	0	transcript_id "rna-XM_026760576.1"; gene_id "gene-CDV56_106957"; gene_name "NSA2";
+NW_020798225.1	RefSeq	transcript	22737	24786	.	-	.	transcript_id "rna-XM_026756947.1"; gene_id "gene-CDV56_103328"; gene_name "spb4"
+NW_020798225.1	RefSeq	exon	22737	23859	.	-	.	transcript_id "rna-XM_026756947.1"; gene_id "gene-CDV56_103328"; gene_name "spb4";
+NW_020798225.1	RefSeq	exon	23913	24422	.	-	.	transcript_id "rna-XM_026756947.1"; gene_id "gene-CDV56_103328"; gene_name "spb4";
+NW_020798225.1	RefSeq	exon	24497	24786	.	-	.	transcript_id "rna-XM_026756947.1"; gene_id "gene-CDV56_103328"; gene_name "spb4";
+NW_020798225.1	RefSeq	CDS	22737	23859	.	-	1	transcript_id "rna-XM_026756947.1"; gene_id "gene-CDV56_103328"; gene_name "spb4";
+NW_020798225.1	RefSeq	CDS	23913	24422	.	-	1	transcript_id "rna-XM_026756947.1"; gene_id "gene-CDV56_103328"; gene_name "spb4";
+NW_020798225.1	RefSeq	CDS	24497	24786	.	-	0	transcript_id "rna-XM_026756947.1"; gene_id "gene-CDV56_103328"; gene_name "spb4";
+NW_020798066.1	RefSeq	transcript	168182	170315	.	+	.	transcript_id "rna-XM_026762935.1"; gene_id "gene-CDV56_109316"
+NW_020798066.1	RefSeq	exon	168182	168502	.	+	.	transcript_id "rna-XM_026762935.1"; gene_id "gene-CDV56_109316";
+NW_020798066.1	RefSeq	exon	168581	168854	.	+	.	transcript_id "rna-XM_026762935.1"; gene_id "gene-CDV56_109316";
+NW_020798066.1	RefSeq	exon	168912	169056	.	+	.	transcript_id "rna-XM_026762935.1"; gene_id "gene-CDV56_109316";
+NW_020798066.1	RefSeq	exon	169112	170315	.	+	.	transcript_id "rna-XM_026762935.1"; gene_id "gene-CDV56_109316";
+NW_020798066.1	RefSeq	CDS	168182	168502	.	+	0	transcript_id "rna-XM_026762935.1"; gene_id "gene-CDV56_109316";
+NW_020798066.1	RefSeq	CDS	168581	168854	.	+	0	transcript_id "rna-XM_026762935.1"; gene_id "gene-CDV56_109316";
+NW_020798066.1	RefSeq	CDS	168912	169056	.	+	2	transcript_id "rna-XM_026762935.1"; gene_id "gene-CDV56_109316";
+NW_020798066.1	RefSeq	CDS	169112	170315	.	+	1	transcript_id "rna-XM_026762935.1"; gene_id "gene-CDV56_109316";
+NW_020798232.1	RefSeq	transcript	53007	54512	.	+	.	transcript_id "rna-XM_026759581.1"; gene_id "gene-CDV56_105962"; gene_name "trm61"
+NW_020798232.1	RefSeq	exon	53007	54512	.	+	.	transcript_id "rna-XM_026759581.1"; gene_id "gene-CDV56_105962"; gene_name "trm61";
+NW_020798232.1	RefSeq	CDS	53007	54512	.	+	0	transcript_id "rna-XM_026759581.1"; gene_id "gene-CDV56_105962"; gene_name "trm61";
+NW_020798237.1	RefSeq	transcript	12573	13121	.	-	.	transcript_id "rna-XM_026755676.1"; gene_id "gene-CDV56_102057"; gene_name "spt4"
+NW_020798237.1	RefSeq	exon	12573	12606	.	-	.	transcript_id "rna-XM_026755676.1"; gene_id "gene-CDV56_102057"; gene_name "spt4";
+NW_020798237.1	RefSeq	exon	12662	12714	.	-	.	transcript_id "rna-XM_026755676.1"; gene_id "gene-CDV56_102057"; gene_name "spt4";
+NW_020798237.1	RefSeq	exon	12778	12975	.	-	.	transcript_id "rna-XM_026755676.1"; gene_id "gene-CDV56_102057"; gene_name "spt4";
+NW_020798237.1	RefSeq	exon	13038	13121	.	-	.	transcript_id "rna-XM_026755676.1"; gene_id "gene-CDV56_102057"; gene_name "spt4";
+NW_020798237.1	RefSeq	CDS	12573	12606	.	-	1	transcript_id "rna-XM_026755676.1"; gene_id "gene-CDV56_102057"; gene_name "spt4";
+NW_020798237.1	RefSeq	CDS	12662	12714	.	-	0	transcript_id "rna-XM_026755676.1"; gene_id "gene-CDV56_102057"; gene_name "spt4";
+NW_020798237.1	RefSeq	CDS	12778	12975	.	-	0	transcript_id "rna-XM_026755676.1"; gene_id "gene-CDV56_102057"; gene_name "spt4";
+NW_020798237.1	RefSeq	CDS	13038	13121	.	-	0	transcript_id "rna-XM_026755676.1"; gene_id "gene-CDV56_102057"; gene_name "spt4";
+NW_020798240.1	RefSeq	transcript	58131	58654	.	+	.	transcript_id "rna-XM_026759924.1"; gene_id "gene-CDV56_106305"; gene_name "ATG3"
+NW_020798240.1	RefSeq	exon	58131	58654	.	+	.	transcript_id "rna-XM_026759924.1"; gene_id "gene-CDV56_106305"; gene_name "ATG3";
+NW_020798240.1	RefSeq	CDS	58131	58654	.	+	0	transcript_id "rna-XM_026759924.1"; gene_id "gene-CDV56_106305"; gene_name "ATG3";
+NW_020798244.1	RefSeq	transcript	1143	2582	.	-	.	transcript_id "rna-XM_026753974.1"; gene_id "gene-CDV56_100355"
+NW_020798244.1	RefSeq	exon	1143	2582	.	-	.	transcript_id "rna-XM_026753974.1"; gene_id "gene-CDV56_100355";
+NW_020798244.1	RefSeq	CDS	1143	2582	.	-	0	transcript_id "rna-XM_026753974.1"; gene_id "gene-CDV56_100355";
+NW_020798050.1	RefSeq	transcript	56774	58124	.	-	.	transcript_id "rna-XM_026759831.1"; gene_id "gene-CDV56_106212"
+NW_020798050.1	RefSeq	exon	56774	57433	.	-	.	transcript_id "rna-XM_026759831.1"; gene_id "gene-CDV56_106212";
+NW_020798050.1	RefSeq	exon	57496	57990	.	-	.	transcript_id "rna-XM_026759831.1"; gene_id "gene-CDV56_106212";
+NW_020798050.1	RefSeq	exon	58047	58124	.	-	.	transcript_id "rna-XM_026759831.1"; gene_id "gene-CDV56_106212";
+NW_020798050.1	RefSeq	CDS	56774	57433	.	-	0	transcript_id "rna-XM_026759831.1"; gene_id "gene-CDV56_106212";
+NW_020798050.1	RefSeq	CDS	57496	57990	.	-	0	transcript_id "rna-XM_026759831.1"; gene_id "gene-CDV56_106212";
+NW_020798050.1	RefSeq	CDS	58047	58124	.	-	0	transcript_id "rna-XM_026759831.1"; gene_id "gene-CDV56_106212";
+NW_020798251.1	RefSeq	transcript	27443	30476	.	-	.	transcript_id "rna-XM_026757445.1"; gene_id "gene-CDV56_103826"
+NW_020798251.1	RefSeq	exon	27443	30059	.	-	.	transcript_id "rna-XM_026757445.1"; gene_id "gene-CDV56_103826";
+NW_020798251.1	RefSeq	exon	30135	30389	.	-	.	transcript_id "rna-XM_026757445.1"; gene_id "gene-CDV56_103826";
+NW_020798251.1	RefSeq	exon	30460	30476	.	-	.	transcript_id "rna-XM_026757445.1"; gene_id "gene-CDV56_103826";
+NW_020798251.1	RefSeq	CDS	27443	30059	.	-	1	transcript_id "rna-XM_026757445.1"; gene_id "gene-CDV56_103826";
+NW_020798251.1	RefSeq	CDS	30135	30389	.	-	1	transcript_id "rna-XM_026757445.1"; gene_id "gene-CDV56_103826";
+NW_020798251.1	RefSeq	CDS	30460	30476	.	-	0	transcript_id "rna-XM_026757445.1"; gene_id "gene-CDV56_103826";
+NW_020798251.1	RefSeq	transcript	42255	43949	.	-	.	transcript_id "rna-XM_026758766.1"; gene_id "gene-CDV56_105147"
+NW_020798251.1	RefSeq	exon	42255	43617	.	-	.	transcript_id "rna-XM_026758766.1"; gene_id "gene-CDV56_105147";
+NW_020798251.1	RefSeq	exon	43684	43949	.	-	.	transcript_id "rna-XM_026758766.1"; gene_id "gene-CDV56_105147";
+NW_020798251.1	RefSeq	CDS	42255	43617	.	-	1	transcript_id "rna-XM_026758766.1"; gene_id "gene-CDV56_105147";
+NW_020798251.1	RefSeq	CDS	43684	43949	.	-	0	transcript_id "rna-XM_026758766.1"; gene_id "gene-CDV56_105147";
+NW_020798251.1	RefSeq	transcript	51383	53524	.	+	.	transcript_id "rna-XM_026759463.1"; gene_id "gene-CDV56_105844"
+NW_020798251.1	RefSeq	exon	51383	53524	.	+	.	transcript_id "rna-XM_026759463.1"; gene_id "gene-CDV56_105844";
+NW_020798251.1	RefSeq	CDS	51383	53524	.	+	0	transcript_id "rna-XM_026759463.1"; gene_id "gene-CDV56_105844";
+NW_020798252.1	RefSeq	transcript	8415	11976	.	+	.	transcript_id "rna-XM_026755102.1"; gene_id "gene-CDV56_101483"; gene_name "hir1"
+NW_020798252.1	RefSeq	exon	8415	8451	.	+	.	transcript_id "rna-XM_026755102.1"; gene_id "gene-CDV56_101483"; gene_name "hir1";
+NW_020798252.1	RefSeq	exon	8571	8645	.	+	.	transcript_id "rna-XM_026755102.1"; gene_id "gene-CDV56_101483"; gene_name "hir1";
+NW_020798252.1	RefSeq	exon	8738	8959	.	+	.	transcript_id "rna-XM_026755102.1"; gene_id "gene-CDV56_101483"; gene_name "hir1";
+NW_020798252.1	RefSeq	exon	9027	11786	.	+	.	transcript_id "rna-XM_026755102.1"; gene_id "gene-CDV56_101483"; gene_name "hir1";
+NW_020798252.1	RefSeq	exon	11879	11976	.	+	.	transcript_id "rna-XM_026755102.1"; gene_id "gene-CDV56_101483"; gene_name "hir1";
+NW_020798252.1	RefSeq	CDS	8415	8451	.	+	0	transcript_id "rna-XM_026755102.1"; gene_id "gene-CDV56_101483"; gene_name "hir1";
+NW_020798252.1	RefSeq	CDS	8571	8645	.	+	2	transcript_id "rna-XM_026755102.1"; gene_id "gene-CDV56_101483"; gene_name "hir1";
+NW_020798252.1	RefSeq	CDS	8738	8959	.	+	2	transcript_id "rna-XM_026755102.1"; gene_id "gene-CDV56_101483"; gene_name "hir1";
+NW_020798252.1	RefSeq	CDS	9027	11786	.	+	2	transcript_id "rna-XM_026755102.1"; gene_id "gene-CDV56_101483"; gene_name "hir1";
+NW_020798252.1	RefSeq	CDS	11879	11976	.	+	2	transcript_id "rna-XM_026755102.1"; gene_id "gene-CDV56_101483"; gene_name "hir1";
+NW_020798252.1	RefSeq	transcript	14869	15716	.	+	.	transcript_id "rna-XM_026755990.1"; gene_id "gene-CDV56_102371"
+NW_020798252.1	RefSeq	exon	14869	14882	.	+	.	transcript_id "rna-XM_026755990.1"; gene_id "gene-CDV56_102371";
+NW_020798252.1	RefSeq	exon	15092	15232	.	+	.	transcript_id "rna-XM_026755990.1"; gene_id "gene-CDV56_102371";
+NW_020798252.1	RefSeq	exon	15326	15716	.	+	.	transcript_id "rna-XM_026755990.1"; gene_id "gene-CDV56_102371";
+NW_020798252.1	RefSeq	CDS	14869	14882	.	+	0	transcript_id "rna-XM_026755990.1"; gene_id "gene-CDV56_102371";
+NW_020798252.1	RefSeq	CDS	15092	15232	.	+	1	transcript_id "rna-XM_026755990.1"; gene_id "gene-CDV56_102371";
+NW_020798252.1	RefSeq	CDS	15326	15716	.	+	1	transcript_id "rna-XM_026755990.1"; gene_id "gene-CDV56_102371";
+NW_020798252.1	RefSeq	transcript	47425	48743	.	+	.	transcript_id "rna-XM_026759180.1"; gene_id "gene-CDV56_105561"
+NW_020798252.1	RefSeq	exon	47425	47432	.	+	.	transcript_id "rna-XM_026759180.1"; gene_id "gene-CDV56_105561";
+NW_020798252.1	RefSeq	exon	47491	47530	.	+	.	transcript_id "rna-XM_026759180.1"; gene_id "gene-CDV56_105561";
+NW_020798252.1	RefSeq	exon	47618	48087	.	+	.	transcript_id "rna-XM_026759180.1"; gene_id "gene-CDV56_105561";
+NW_020798252.1	RefSeq	exon	48164	48743	.	+	.	transcript_id "rna-XM_026759180.1"; gene_id "gene-CDV56_105561";
+NW_020798252.1	RefSeq	CDS	47425	47432	.	+	0	transcript_id "rna-XM_026759180.1"; gene_id "gene-CDV56_105561";
+NW_020798252.1	RefSeq	CDS	47491	47530	.	+	1	transcript_id "rna-XM_026759180.1"; gene_id "gene-CDV56_105561";
+NW_020798252.1	RefSeq	CDS	47618	48087	.	+	0	transcript_id "rna-XM_026759180.1"; gene_id "gene-CDV56_105561";
+NW_020798252.1	RefSeq	CDS	48164	48743	.	+	1	transcript_id "rna-XM_026759180.1"; gene_id "gene-CDV56_105561";
+NW_020798253.1	RefSeq	transcript	47677	48842	.	-	.	transcript_id "rna-XM_026759197.1"; gene_id "gene-CDV56_105578"
+NW_020798253.1	RefSeq	exon	47677	47913	.	-	.	transcript_id "rna-XM_026759197.1"; gene_id "gene-CDV56_105578";
+NW_020798253.1	RefSeq	exon	47979	48131	.	-	.	transcript_id "rna-XM_026759197.1"; gene_id "gene-CDV56_105578";
+NW_020798253.1	RefSeq	exon	48203	48409	.	-	.	transcript_id "rna-XM_026759197.1"; gene_id "gene-CDV56_105578";
+NW_020798253.1	RefSeq	exon	48462	48842	.	-	.	transcript_id "rna-XM_026759197.1"; gene_id "gene-CDV56_105578";
+NW_020798253.1	RefSeq	CDS	47677	47913	.	-	0	transcript_id "rna-XM_026759197.1"; gene_id "gene-CDV56_105578";
+NW_020798253.1	RefSeq	CDS	47979	48131	.	-	0	transcript_id "rna-XM_026759197.1"; gene_id "gene-CDV56_105578";
+NW_020798253.1	RefSeq	CDS	48203	48409	.	-	0	transcript_id "rna-XM_026759197.1"; gene_id "gene-CDV56_105578";
+NW_020798253.1	RefSeq	CDS	48462	48842	.	-	0	transcript_id "rna-XM_026759197.1"; gene_id "gene-CDV56_105578";
+NW_020798255.1	RefSeq	transcript	15356	18157	.	+	.	transcript_id "rna-XM_026756052.1"; gene_id "gene-CDV56_102433"
+NW_020798255.1	RefSeq	exon	15356	15643	.	+	.	transcript_id "rna-XM_026756052.1"; gene_id "gene-CDV56_102433";
+NW_020798255.1	RefSeq	exon	15704	18157	.	+	.	transcript_id "rna-XM_026756052.1"; gene_id "gene-CDV56_102433";
+NW_020798255.1	RefSeq	CDS	15356	15643	.	+	0	transcript_id "rna-XM_026756052.1"; gene_id "gene-CDV56_102433";
+NW_020798255.1	RefSeq	CDS	15704	18157	.	+	0	transcript_id "rna-XM_026756052.1"; gene_id "gene-CDV56_102433";
+NW_020798069.1	RefSeq	transcript	94018	96493	.	+	.	transcript_id "rna-XM_026761608.1"; gene_id "gene-CDV56_107989"; gene_name "SDA1"
+NW_020798069.1	RefSeq	exon	94018	94064	.	+	.	transcript_id "rna-XM_026761608.1"; gene_id "gene-CDV56_107989"; gene_name "SDA1";
+NW_020798069.1	RefSeq	exon	94151	94186	.	+	.	transcript_id "rna-XM_026761608.1"; gene_id "gene-CDV56_107989"; gene_name "SDA1";
+NW_020798069.1	RefSeq	exon	94262	94549	.	+	.	transcript_id "rna-XM_026761608.1"; gene_id "gene-CDV56_107989"; gene_name "SDA1";
+NW_020798069.1	RefSeq	exon	94621	96493	.	+	.	transcript_id "rna-XM_026761608.1"; gene_id "gene-CDV56_107989"; gene_name "SDA1";
+NW_020798069.1	RefSeq	CDS	94018	94064	.	+	0	transcript_id "rna-XM_026761608.1"; gene_id "gene-CDV56_107989"; gene_name "SDA1";
+NW_020798069.1	RefSeq	CDS	94151	94186	.	+	1	transcript_id "rna-XM_026761608.1"; gene_id "gene-CDV56_107989"; gene_name "SDA1";
+NW_020798069.1	RefSeq	CDS	94262	94549	.	+	1	transcript_id "rna-XM_026761608.1"; gene_id "gene-CDV56_107989"; gene_name "SDA1";
+NW_020798069.1	RefSeq	CDS	94621	96493	.	+	1	transcript_id "rna-XM_026761608.1"; gene_id "gene-CDV56_107989"; gene_name "SDA1";
+NW_020798263.1	RefSeq	transcript	31748	33104	.	-	.	transcript_id "rna-XM_026757864.1"; gene_id "gene-CDV56_104245"
+NW_020798263.1	RefSeq	exon	31748	32334	.	-	.	transcript_id "rna-XM_026757864.1"; gene_id "gene-CDV56_104245";
+NW_020798263.1	RefSeq	exon	32391	32543	.	-	.	transcript_id "rna-XM_026757864.1"; gene_id "gene-CDV56_104245";
+NW_020798263.1	RefSeq	exon	32705	32961	.	-	.	transcript_id "rna-XM_026757864.1"; gene_id "gene-CDV56_104245";
+NW_020798263.1	RefSeq	exon	33061	33104	.	-	.	transcript_id "rna-XM_026757864.1"; gene_id "gene-CDV56_104245";
+NW_020798263.1	RefSeq	CDS	31748	32334	.	-	2	transcript_id "rna-XM_026757864.1"; gene_id "gene-CDV56_104245";
+NW_020798263.1	RefSeq	CDS	32391	32543	.	-	2	transcript_id "rna-XM_026757864.1"; gene_id "gene-CDV56_104245";
+NW_020798263.1	RefSeq	CDS	32705	32961	.	-	1	transcript_id "rna-XM_026757864.1"; gene_id "gene-CDV56_104245";
+NW_020798263.1	RefSeq	CDS	33061	33104	.	-	0	transcript_id "rna-XM_026757864.1"; gene_id "gene-CDV56_104245";
+NW_020798070.1	RefSeq	transcript	120003	121360	.	+	.	transcript_id "rna-XM_026762297.1"; gene_id "gene-CDV56_108678"; gene_name "dph1"
+NW_020798070.1	RefSeq	exon	120003	120138	.	+	.	transcript_id "rna-XM_026762297.1"; gene_id "gene-CDV56_108678"; gene_name "dph1";
+NW_020798070.1	RefSeq	exon	120201	121360	.	+	.	transcript_id "rna-XM_026762297.1"; gene_id "gene-CDV56_108678"; gene_name "dph1";
+NW_020798070.1	RefSeq	CDS	120003	120138	.	+	0	transcript_id "rna-XM_026762297.1"; gene_id "gene-CDV56_108678"; gene_name "dph1";
+NW_020798070.1	RefSeq	CDS	120201	121360	.	+	2	transcript_id "rna-XM_026762297.1"; gene_id "gene-CDV56_108678"; gene_name "dph1";
+NW_020798070.1	RefSeq	transcript	165193	166137	.	+	.	transcript_id "rna-XM_026762909.1"; gene_id "gene-CDV56_109290"
+NW_020798070.1	RefSeq	exon	165193	165395	.	+	.	transcript_id "rna-XM_026762909.1"; gene_id "gene-CDV56_109290";
+NW_020798070.1	RefSeq	exon	165447	165516	.	+	.	transcript_id "rna-XM_026762909.1"; gene_id "gene-CDV56_109290";
+NW_020798070.1	RefSeq	exon	165588	166029	.	+	.	transcript_id "rna-XM_026762909.1"; gene_id "gene-CDV56_109290";
+NW_020798070.1	RefSeq	exon	166088	166137	.	+	.	transcript_id "rna-XM_026762909.1"; gene_id "gene-CDV56_109290";
+NW_020798070.1	RefSeq	CDS	165193	165395	.	+	0	transcript_id "rna-XM_026762909.1"; gene_id "gene-CDV56_109290";
+NW_020798070.1	RefSeq	CDS	165447	165516	.	+	1	transcript_id "rna-XM_026762909.1"; gene_id "gene-CDV56_109290";
+NW_020798070.1	RefSeq	CDS	165588	166029	.	+	0	transcript_id "rna-XM_026762909.1"; gene_id "gene-CDV56_109290";
+NW_020798070.1	RefSeq	CDS	166088	166137	.	+	2	transcript_id "rna-XM_026762909.1"; gene_id "gene-CDV56_109290";
+NW_020798270.1	RefSeq	transcript	18306	19158	.	+	.	transcript_id "rna-XM_026756431.1"; gene_id "gene-CDV56_102812"
+NW_020798270.1	RefSeq	exon	18306	18775	.	+	.	transcript_id "rna-XM_026756431.1"; gene_id "gene-CDV56_102812";
+NW_020798270.1	RefSeq	exon	18846	19158	.	+	.	transcript_id "rna-XM_026756431.1"; gene_id "gene-CDV56_102812";
+NW_020798270.1	RefSeq	CDS	18306	18775	.	+	0	transcript_id "rna-XM_026756431.1"; gene_id "gene-CDV56_102812";
+NW_020798270.1	RefSeq	CDS	18846	19158	.	+	1	transcript_id "rna-XM_026756431.1"; gene_id "gene-CDV56_102812";
+NW_020798272.1	RefSeq	transcript	46051	46695	.	-	.	transcript_id "rna-XM_026759072.1"; gene_id "gene-CDV56_105453"
+NW_020798272.1	RefSeq	exon	46051	46454	.	-	.	transcript_id "rna-XM_026759072.1"; gene_id "gene-CDV56_105453";
+NW_020798272.1	RefSeq	exon	46527	46695	.	-	.	transcript_id "rna-XM_026759072.1"; gene_id "gene-CDV56_105453";
+NW_020798272.1	RefSeq	CDS	46051	46454	.	-	2	transcript_id "rna-XM_026759072.1"; gene_id "gene-CDV56_105453";
+NW_020798272.1	RefSeq	CDS	46527	46695	.	-	0	transcript_id "rna-XM_026759072.1"; gene_id "gene-CDV56_105453";
+NW_020798273.1	RefSeq	transcript	31929	32873	.	-	.	transcript_id "rna-XM_026757876.1"; gene_id "gene-CDV56_104257"; gene_name "coq4"
+NW_020798273.1	RefSeq	exon	31929	32575	.	-	.	transcript_id "rna-XM_026757876.1"; gene_id "gene-CDV56_104257"; gene_name "coq4";
+NW_020798273.1	RefSeq	exon	32663	32873	.	-	.	transcript_id "rna-XM_026757876.1"; gene_id "gene-CDV56_104257"; gene_name "coq4";
+NW_020798273.1	RefSeq	CDS	31929	32575	.	-	2	transcript_id "rna-XM_026757876.1"; gene_id "gene-CDV56_104257"; gene_name "coq4";
+NW_020798273.1	RefSeq	CDS	32663	32873	.	-	0	transcript_id "rna-XM_026757876.1"; gene_id "gene-CDV56_104257"; gene_name "coq4";
+NW_020798273.1	RefSeq	transcript	41510	42717	.	+	.	transcript_id "rna-XM_026758710.1"; gene_id "gene-CDV56_105091"
+NW_020798273.1	RefSeq	exon	41510	41756	.	+	.	transcript_id "rna-XM_026758710.1"; gene_id "gene-CDV56_105091";
+NW_020798273.1	RefSeq	exon	41845	42357	.	+	.	transcript_id "rna-XM_026758710.1"; gene_id "gene-CDV56_105091";
+NW_020798273.1	RefSeq	exon	42420	42525	.	+	.	transcript_id "rna-XM_026758710.1"; gene_id "gene-CDV56_105091";
+NW_020798273.1	RefSeq	exon	42615	42717	.	+	.	transcript_id "rna-XM_026758710.1"; gene_id "gene-CDV56_105091";
+NW_020798273.1	RefSeq	CDS	41510	41756	.	+	0	transcript_id "rna-XM_026758710.1"; gene_id "gene-CDV56_105091";
+NW_020798273.1	RefSeq	CDS	41845	42357	.	+	2	transcript_id "rna-XM_026758710.1"; gene_id "gene-CDV56_105091";
+NW_020798273.1	RefSeq	CDS	42420	42525	.	+	2	transcript_id "rna-XM_026758710.1"; gene_id "gene-CDV56_105091";
+NW_020798273.1	RefSeq	CDS	42615	42717	.	+	1	transcript_id "rna-XM_026758710.1"; gene_id "gene-CDV56_105091";
+NW_020798289.1	RefSeq	transcript	15679	17448	.	+	.	transcript_id "rna-XM_026756092.1"; gene_id "gene-CDV56_102473"
+NW_020798289.1	RefSeq	exon	15679	17448	.	+	.	transcript_id "rna-XM_026756092.1"; gene_id "gene-CDV56_102473";
+NW_020798289.1	RefSeq	CDS	15679	17448	.	+	0	transcript_id "rna-XM_026756092.1"; gene_id "gene-CDV56_102473";
+NW_020798072.1	RefSeq	transcript	104618	106193	.	+	.	transcript_id "rna-XM_026761929.1"; gene_id "gene-CDV56_108310"
+NW_020798072.1	RefSeq	exon	104618	104926	.	+	.	transcript_id "rna-XM_026761929.1"; gene_id "gene-CDV56_108310";
+NW_020798072.1	RefSeq	exon	105072	106193	.	+	.	transcript_id "rna-XM_026761929.1"; gene_id "gene-CDV56_108310";
+NW_020798072.1	RefSeq	CDS	104618	104926	.	+	0	transcript_id "rna-XM_026761929.1"; gene_id "gene-CDV56_108310";
+NW_020798072.1	RefSeq	CDS	105072	106193	.	+	0	transcript_id "rna-XM_026761929.1"; gene_id "gene-CDV56_108310";
+NW_020798072.1	RefSeq	transcript	171599	173006	.	-	.	transcript_id "rna-XM_026762961.1"; gene_id "gene-CDV56_109342"
+NW_020798072.1	RefSeq	exon	171599	172483	.	-	.	transcript_id "rna-XM_026762961.1"; gene_id "gene-CDV56_109342";
+NW_020798072.1	RefSeq	exon	172542	172572	.	-	.	transcript_id "rna-XM_026762961.1"; gene_id "gene-CDV56_109342";
+NW_020798072.1	RefSeq	exon	172690	172749	.	-	.	transcript_id "rna-XM_026762961.1"; gene_id "gene-CDV56_109342";
+NW_020798072.1	RefSeq	exon	172807	172846	.	-	.	transcript_id "rna-XM_026762961.1"; gene_id "gene-CDV56_109342";
+NW_020798072.1	RefSeq	exon	172916	173006	.	-	.	transcript_id "rna-XM_026762961.1"; gene_id "gene-CDV56_109342";
+NW_020798072.1	RefSeq	CDS	171599	172483	.	-	0	transcript_id "rna-XM_026762961.1"; gene_id "gene-CDV56_109342";
+NW_020798072.1	RefSeq	CDS	172542	172572	.	-	1	transcript_id "rna-XM_026762961.1"; gene_id "gene-CDV56_109342";
+NW_020798072.1	RefSeq	CDS	172690	172749	.	-	1	transcript_id "rna-XM_026762961.1"; gene_id "gene-CDV56_109342";
+NW_020798072.1	RefSeq	CDS	172807	172846	.	-	2	transcript_id "rna-XM_026762961.1"; gene_id "gene-CDV56_109342";
+NW_020798072.1	RefSeq	CDS	172916	173006	.	-	0	transcript_id "rna-XM_026762961.1"; gene_id "gene-CDV56_109342";
+NW_020798073.1	RefSeq	transcript	111763	120641	.	-	.	transcript_id "rna-XM_026762104.1"; gene_id "gene-CDV56_108485"
+NW_020798073.1	RefSeq	exon	111763	112518	.	-	.	transcript_id "rna-XM_026762104.1"; gene_id "gene-CDV56_108485";
+NW_020798073.1	RefSeq	exon	113286	113627	.	-	.	transcript_id "rna-XM_026762104.1"; gene_id "gene-CDV56_108485";
+NW_020798073.1	RefSeq	exon	113688	119682	.	-	.	transcript_id "rna-XM_026762104.1"; gene_id "gene-CDV56_108485";
+NW_020798073.1	RefSeq	exon	119739	119923	.	-	.	transcript_id "rna-XM_026762104.1"; gene_id "gene-CDV56_108485";
+NW_020798073.1	RefSeq	exon	119986	120129	.	-	.	transcript_id "rna-XM_026762104.1"; gene_id "gene-CDV56_108485";
+NW_020798073.1	RefSeq	exon	120189	120641	.	-	.	transcript_id "rna-XM_026762104.1"; gene_id "gene-CDV56_108485";
+NW_020798073.1	RefSeq	CDS	111763	112518	.	-	0	transcript_id "rna-XM_026762104.1"; gene_id "gene-CDV56_108485";
+NW_020798073.1	RefSeq	CDS	113286	113627	.	-	0	transcript_id "rna-XM_026762104.1"; gene_id "gene-CDV56_108485";
+NW_020798073.1	RefSeq	CDS	113688	119682	.	-	1	transcript_id "rna-XM_026762104.1"; gene_id "gene-CDV56_108485";
+NW_020798073.1	RefSeq	CDS	119739	119923	.	-	0	transcript_id "rna-XM_026762104.1"; gene_id "gene-CDV56_108485";
+NW_020798073.1	RefSeq	CDS	119986	120129	.	-	0	transcript_id "rna-XM_026762104.1"; gene_id "gene-CDV56_108485";
+NW_020798073.1	RefSeq	CDS	120189	120641	.	-	0	transcript_id "rna-XM_026762104.1"; gene_id "gene-CDV56_108485";
+NW_020798302.1	RefSeq	transcript	2433	3393	.	+	.	transcript_id "rna-XM_026754168.1"; gene_id "gene-CDV56_100549"; gene_name "tma22"
+NW_020798302.1	RefSeq	exon	2433	2640	.	+	.	transcript_id "rna-XM_026754168.1"; gene_id "gene-CDV56_100549"; gene_name "tma22";
+NW_020798302.1	RefSeq	exon	2765	3393	.	+	.	transcript_id "rna-XM_026754168.1"; gene_id "gene-CDV56_100549"; gene_name "tma22";
+NW_020798302.1	RefSeq	CDS	2433	2640	.	+	0	transcript_id "rna-XM_026754168.1"; gene_id "gene-CDV56_100549"; gene_name "tma22";
+NW_020798302.1	RefSeq	CDS	2765	3393	.	+	2	transcript_id "rna-XM_026754168.1"; gene_id "gene-CDV56_100549"; gene_name "tma22";
+NW_020798302.1	RefSeq	transcript	15355	18108	.	-	.	transcript_id "rna-XM_026756051.1"; gene_id "gene-CDV56_102432"
+NW_020798302.1	RefSeq	exon	15355	15864	.	-	.	transcript_id "rna-XM_026756051.1"; gene_id "gene-CDV56_102432";
+NW_020798302.1	RefSeq	exon	15928	18108	.	-	.	transcript_id "rna-XM_026756051.1"; gene_id "gene-CDV56_102432";
+NW_020798302.1	RefSeq	CDS	15355	15864	.	-	0	transcript_id "rna-XM_026756051.1"; gene_id "gene-CDV56_102432";
+NW_020798302.1	RefSeq	CDS	15928	18108	.	-	0	transcript_id "rna-XM_026756051.1"; gene_id "gene-CDV56_102432";
+NW_020798307.1	RefSeq	transcript	18322	20796	.	-	.	transcript_id "rna-XM_026756434.1"; gene_id "gene-CDV56_102815"; gene_name "dbp7"
+NW_020798307.1	RefSeq	exon	18322	20796	.	-	.	transcript_id "rna-XM_026756434.1"; gene_id "gene-CDV56_102815"; gene_name "dbp7";
+NW_020798307.1	RefSeq	CDS	18322	20796	.	-	0	transcript_id "rna-XM_026756434.1"; gene_id "gene-CDV56_102815"; gene_name "dbp7";
+NW_020798308.1	RefSeq	transcript	12686	13600	.	+	.	transcript_id "rna-XM_026755692.1"; gene_id "gene-CDV56_102073"; gene_name "GAR1_1"
+NW_020798308.1	RefSeq	exon	12686	12761	.	+	.	transcript_id "rna-XM_026755692.1"; gene_id "gene-CDV56_102073"; gene_name "GAR1_1";
+NW_020798308.1	RefSeq	exon	12831	12878	.	+	.	transcript_id "rna-XM_026755692.1"; gene_id "gene-CDV56_102073"; gene_name "GAR1_1";
+NW_020798308.1	RefSeq	exon	12937	13037	.	+	.	transcript_id "rna-XM_026755692.1"; gene_id "gene-CDV56_102073"; gene_name "GAR1_1";
+NW_020798308.1	RefSeq	exon	13100	13245	.	+	.	transcript_id "rna-XM_026755692.1"; gene_id "gene-CDV56_102073"; gene_name "GAR1_1";
+NW_020798308.1	RefSeq	exon	13302	13330	.	+	.	transcript_id "rna-XM_026755692.1"; gene_id "gene-CDV56_102073"; gene_name "GAR1_1";
+NW_020798308.1	RefSeq	exon	13383	13600	.	+	.	transcript_id "rna-XM_026755692.1"; gene_id "gene-CDV56_102073"; gene_name "GAR1_1";
+NW_020798308.1	RefSeq	CDS	12686	12761	.	+	0	transcript_id "rna-XM_026755692.1"; gene_id "gene-CDV56_102073"; gene_name "GAR1_1";
+NW_020798308.1	RefSeq	CDS	12831	12878	.	+	2	transcript_id "rna-XM_026755692.1"; gene_id "gene-CDV56_102073"; gene_name "GAR1_1";
+NW_020798308.1	RefSeq	CDS	12937	13037	.	+	2	transcript_id "rna-XM_026755692.1"; gene_id "gene-CDV56_102073"; gene_name "GAR1_1";
+NW_020798308.1	RefSeq	CDS	13100	13245	.	+	0	transcript_id "rna-XM_026755692.1"; gene_id "gene-CDV56_102073"; gene_name "GAR1_1";
+NW_020798308.1	RefSeq	CDS	13302	13330	.	+	1	transcript_id "rna-XM_026755692.1"; gene_id "gene-CDV56_102073"; gene_name "GAR1_1";
+NW_020798308.1	RefSeq	CDS	13383	13600	.	+	2	transcript_id "rna-XM_026755692.1"; gene_id "gene-CDV56_102073"; gene_name "GAR1_1";
+NW_020798310.1	RefSeq	transcript	18792	20153	.	+	.	transcript_id "rna-XM_026756487.1"; gene_id "gene-CDV56_102868"; gene_name "PRP46"
+NW_020798310.1	RefSeq	exon	18792	20153	.	+	.	transcript_id "rna-XM_026756487.1"; gene_id "gene-CDV56_102868"; gene_name "PRP46";
+NW_020798310.1	RefSeq	CDS	18792	20153	.	+	0	transcript_id "rna-XM_026756487.1"; gene_id "gene-CDV56_102868"; gene_name "PRP46";
+NW_020798075.1	RefSeq	transcript	8084	9725	.	+	.	transcript_id "rna-XM_026755052.1"; gene_id "gene-CDV56_101433"; gene_name "UBA4"
+NW_020798075.1	RefSeq	exon	8084	8333	.	+	.	transcript_id "rna-XM_026755052.1"; gene_id "gene-CDV56_101433"; gene_name "UBA4";
+NW_020798075.1	RefSeq	exon	8424	8637	.	+	.	transcript_id "rna-XM_026755052.1"; gene_id "gene-CDV56_101433"; gene_name "UBA4";
+NW_020798075.1	RefSeq	exon	8702	9725	.	+	.	transcript_id "rna-XM_026755052.1"; gene_id "gene-CDV56_101433"; gene_name "UBA4";
+NW_020798075.1	RefSeq	CDS	8084	8333	.	+	0	transcript_id "rna-XM_026755052.1"; gene_id "gene-CDV56_101433"; gene_name "UBA4";
+NW_020798075.1	RefSeq	CDS	8424	8637	.	+	2	transcript_id "rna-XM_026755052.1"; gene_id "gene-CDV56_101433"; gene_name "UBA4";
+NW_020798075.1	RefSeq	CDS	8702	9725	.	+	1	transcript_id "rna-XM_026755052.1"; gene_id "gene-CDV56_101433"; gene_name "UBA4";
+NW_020798335.1	RefSeq	transcript	16317	19276	.	+	.	transcript_id "rna-XM_026756178.1"; gene_id "gene-CDV56_102559"; gene_name "MCM2"
+NW_020798335.1	RefSeq	exon	16317	16321	.	+	.	transcript_id "rna-XM_026756178.1"; gene_id "gene-CDV56_102559"; gene_name "MCM2";
+NW_020798335.1	RefSeq	exon	16410	16525	.	+	.	transcript_id "rna-XM_026756178.1"; gene_id "gene-CDV56_102559"; gene_name "MCM2";
+NW_020798335.1	RefSeq	exon	16585	18884	.	+	.	transcript_id "rna-XM_026756178.1"; gene_id "gene-CDV56_102559"; gene_name "MCM2";
+NW_020798335.1	RefSeq	exon	18938	19107	.	+	.	transcript_id "rna-XM_026756178.1"; gene_id "gene-CDV56_102559"; gene_name "MCM2";
+NW_020798335.1	RefSeq	exon	19177	19276	.	+	.	transcript_id "rna-XM_026756178.1"; gene_id "gene-CDV56_102559"; gene_name "MCM2";
+NW_020798335.1	RefSeq	CDS	16317	16321	.	+	0	transcript_id "rna-XM_026756178.1"; gene_id "gene-CDV56_102559"; gene_name "MCM2";
+NW_020798335.1	RefSeq	CDS	16410	16525	.	+	1	transcript_id "rna-XM_026756178.1"; gene_id "gene-CDV56_102559"; gene_name "MCM2";
+NW_020798335.1	RefSeq	CDS	16585	18884	.	+	2	transcript_id "rna-XM_026756178.1"; gene_id "gene-CDV56_102559"; gene_name "MCM2";
+NW_020798335.1	RefSeq	CDS	18938	19107	.	+	0	transcript_id "rna-XM_026756178.1"; gene_id "gene-CDV56_102559"; gene_name "MCM2";
+NW_020798335.1	RefSeq	CDS	19177	19276	.	+	1	transcript_id "rna-XM_026756178.1"; gene_id "gene-CDV56_102559"; gene_name "MCM2";
+NW_020798077.1	RefSeq	transcript	43059	44674	.	+	.	transcript_id "rna-XM_026758833.1"; gene_id "gene-CDV56_105214"
+NW_020798077.1	RefSeq	exon	43059	43436	.	+	.	transcript_id "rna-XM_026758833.1"; gene_id "gene-CDV56_105214";
+NW_020798077.1	RefSeq	exon	43495	43739	.	+	.	transcript_id "rna-XM_026758833.1"; gene_id "gene-CDV56_105214";
+NW_020798077.1	RefSeq	exon	43801	44674	.	+	.	transcript_id "rna-XM_026758833.1"; gene_id "gene-CDV56_105214";
+NW_020798077.1	RefSeq	CDS	43059	43436	.	+	0	transcript_id "rna-XM_026758833.1"; gene_id "gene-CDV56_105214";
+NW_020798077.1	RefSeq	CDS	43495	43739	.	+	0	transcript_id "rna-XM_026758833.1"; gene_id "gene-CDV56_105214";
+NW_020798077.1	RefSeq	CDS	43801	44674	.	+	1	transcript_id "rna-XM_026758833.1"; gene_id "gene-CDV56_105214";
+NW_020798346.1	RefSeq	transcript	22331	24588	.	+	.	transcript_id "rna-XM_026756901.1"; gene_id "gene-CDV56_103282"
+NW_020798346.1	RefSeq	exon	22331	22357	.	+	.	transcript_id "rna-XM_026756901.1"; gene_id "gene-CDV56_103282";
+NW_020798346.1	RefSeq	exon	22407	22461	.	+	.	transcript_id "rna-XM_026756901.1"; gene_id "gene-CDV56_103282";
+NW_020798346.1	RefSeq	exon	22526	22764	.	+	.	transcript_id "rna-XM_026756901.1"; gene_id "gene-CDV56_103282";
+NW_020798346.1	RefSeq	exon	22823	22929	.	+	.	transcript_id "rna-XM_026756901.1"; gene_id "gene-CDV56_103282";
+NW_020798346.1	RefSeq	exon	22987	23221	.	+	.	transcript_id "rna-XM_026756901.1"; gene_id "gene-CDV56_103282";
+NW_020798346.1	RefSeq	exon	23266	23359	.	+	.	transcript_id "rna-XM_026756901.1"; gene_id "gene-CDV56_103282";
+NW_020798346.1	RefSeq	exon	23418	23932	.	+	.	transcript_id "rna-XM_026756901.1"; gene_id "gene-CDV56_103282";
+NW_020798346.1	RefSeq	exon	23985	24269	.	+	.	transcript_id "rna-XM_026756901.1"; gene_id "gene-CDV56_103282";
+NW_020798346.1	RefSeq	exon	24330	24447	.	+	.	transcript_id "rna-XM_026756901.1"; gene_id "gene-CDV56_103282";
+NW_020798346.1	RefSeq	exon	24506	24588	.	+	.	transcript_id "rna-XM_026756901.1"; gene_id "gene-CDV56_103282";
+NW_020798346.1	RefSeq	CDS	22331	22357	.	+	0	transcript_id "rna-XM_026756901.1"; gene_id "gene-CDV56_103282";
+NW_020798346.1	RefSeq	CDS	22407	22461	.	+	0	transcript_id "rna-XM_026756901.1"; gene_id "gene-CDV56_103282";
+NW_020798346.1	RefSeq	CDS	22526	22764	.	+	2	transcript_id "rna-XM_026756901.1"; gene_id "gene-CDV56_103282";
+NW_020798346.1	RefSeq	CDS	22823	22929	.	+	0	transcript_id "rna-XM_026756901.1"; gene_id "gene-CDV56_103282";
+NW_020798346.1	RefSeq	CDS	22987	23221	.	+	1	transcript_id "rna-XM_026756901.1"; gene_id "gene-CDV56_103282";
+NW_020798346.1	RefSeq	CDS	23266	23359	.	+	0	transcript_id "rna-XM_026756901.1"; gene_id "gene-CDV56_103282";
+NW_020798346.1	RefSeq	CDS	23418	23932	.	+	2	transcript_id "rna-XM_026756901.1"; gene_id "gene-CDV56_103282";
+NW_020798346.1	RefSeq	CDS	23985	24269	.	+	0	transcript_id "rna-XM_026756901.1"; gene_id "gene-CDV56_103282";
+NW_020798346.1	RefSeq	CDS	24330	24447	.	+	0	transcript_id "rna-XM_026756901.1"; gene_id "gene-CDV56_103282";
+NW_020798346.1	RefSeq	CDS	24506	24588	.	+	2	transcript_id "rna-XM_026756901.1"; gene_id "gene-CDV56_103282";
+NW_020798051.1	RefSeq	transcript	11106	12617	.	+	.	transcript_id "rna-XM_026755469.1"; gene_id "gene-CDV56_101850"
+NW_020798051.1	RefSeq	exon	11106	11352	.	+	.	transcript_id "rna-XM_026755469.1"; gene_id "gene-CDV56_101850";
+NW_020798051.1	RefSeq	exon	11449	12617	.	+	.	transcript_id "rna-XM_026755469.1"; gene_id "gene-CDV56_101850";
+NW_020798051.1	RefSeq	CDS	11106	11352	.	+	0	transcript_id "rna-XM_026755469.1"; gene_id "gene-CDV56_101850";
+NW_020798051.1	RefSeq	CDS	11449	12617	.	+	2	transcript_id "rna-XM_026755469.1"; gene_id "gene-CDV56_101850";
+NW_020798051.1	RefSeq	transcript	124950	126542	.	-	.	transcript_id "rna-XM_026762406.1"; gene_id "gene-CDV56_108787"
+NW_020798051.1	RefSeq	exon	124950	125821	.	-	.	transcript_id "rna-XM_026762406.1"; gene_id "gene-CDV56_108787";
+NW_020798051.1	RefSeq	exon	125909	126542	.	-	.	transcript_id "rna-XM_026762406.1"; gene_id "gene-CDV56_108787";
+NW_020798051.1	RefSeq	CDS	124950	125821	.	-	2	transcript_id "rna-XM_026762406.1"; gene_id "gene-CDV56_108787";
+NW_020798051.1	RefSeq	CDS	125909	126542	.	-	0	transcript_id "rna-XM_026762406.1"; gene_id "gene-CDV56_108787";
+NW_020798352.1	RefSeq	transcript	9439	10392	.	-	.	transcript_id "rna-XM_026755252.1"; gene_id "gene-CDV56_101633"
+NW_020798352.1	RefSeq	exon	9439	10227	.	-	.	transcript_id "rna-XM_026755252.1"; gene_id "gene-CDV56_101633";
+NW_020798352.1	RefSeq	exon	10297	10392	.	-	.	transcript_id "rna-XM_026755252.1"; gene_id "gene-CDV56_101633";
+NW_020798352.1	RefSeq	CDS	9439	10227	.	-	0	transcript_id "rna-XM_026755252.1"; gene_id "gene-CDV56_101633";
+NW_020798352.1	RefSeq	CDS	10297	10392	.	-	0	transcript_id "rna-XM_026755252.1"; gene_id "gene-CDV56_101633";
+NW_020798363.1	RefSeq	transcript	13054	14960	.	+	.	transcript_id "rna-XM_026755745.1"; gene_id "gene-CDV56_102126"
+NW_020798363.1	RefSeq	exon	13054	13577	.	+	.	transcript_id "rna-XM_026755745.1"; gene_id "gene-CDV56_102126";
+NW_020798363.1	RefSeq	exon	13642	13797	.	+	.	transcript_id "rna-XM_026755745.1"; gene_id "gene-CDV56_102126";
+NW_020798363.1	RefSeq	exon	13854	13928	.	+	.	transcript_id "rna-XM_026755745.1"; gene_id "gene-CDV56_102126";
+NW_020798363.1	RefSeq	exon	13991	14118	.	+	.	transcript_id "rna-XM_026755745.1"; gene_id "gene-CDV56_102126";
+NW_020798363.1	RefSeq	exon	14173	14290	.	+	.	transcript_id "rna-XM_026755745.1"; gene_id "gene-CDV56_102126";
+NW_020798363.1	RefSeq	exon	14343	14621	.	+	.	transcript_id "rna-XM_026755745.1"; gene_id "gene-CDV56_102126";
+NW_020798363.1	RefSeq	exon	14681	14960	.	+	.	transcript_id "rna-XM_026755745.1"; gene_id "gene-CDV56_102126";
+NW_020798363.1	RefSeq	CDS	13054	13577	.	+	0	transcript_id "rna-XM_026755745.1"; gene_id "gene-CDV56_102126";
+NW_020798363.1	RefSeq	CDS	13642	13797	.	+	1	transcript_id "rna-XM_026755745.1"; gene_id "gene-CDV56_102126";
+NW_020798363.1	RefSeq	CDS	13854	13928	.	+	1	transcript_id "rna-XM_026755745.1"; gene_id "gene-CDV56_102126";
+NW_020798363.1	RefSeq	CDS	13991	14118	.	+	1	transcript_id "rna-XM_026755745.1"; gene_id "gene-CDV56_102126";
+NW_020798363.1	RefSeq	CDS	14173	14290	.	+	2	transcript_id "rna-XM_026755745.1"; gene_id "gene-CDV56_102126";
+NW_020798363.1	RefSeq	CDS	14343	14621	.	+	1	transcript_id "rna-XM_026755745.1"; gene_id "gene-CDV56_102126";
+NW_020798363.1	RefSeq	CDS	14681	14960	.	+	1	transcript_id "rna-XM_026755745.1"; gene_id "gene-CDV56_102126";
+NW_020798081.1	RefSeq	transcript	115488	117660	.	+	.	transcript_id "rna-XM_026762203.1"; gene_id "gene-CDV56_108584"; gene_name "nop7"
+NW_020798081.1	RefSeq	exon	115488	115509	.	+	.	transcript_id "rna-XM_026762203.1"; gene_id "gene-CDV56_108584"; gene_name "nop7";
+NW_020798081.1	RefSeq	exon	115571	115669	.	+	.	transcript_id "rna-XM_026762203.1"; gene_id "gene-CDV56_108584"; gene_name "nop7";
+NW_020798081.1	RefSeq	exon	115751	117660	.	+	.	transcript_id "rna-XM_026762203.1"; gene_id "gene-CDV56_108584"; gene_name "nop7";
+NW_020798081.1	RefSeq	CDS	115488	115509	.	+	0	transcript_id "rna-XM_026762203.1"; gene_id "gene-CDV56_108584"; gene_name "nop7";
+NW_020798081.1	RefSeq	CDS	115571	115669	.	+	2	transcript_id "rna-XM_026762203.1"; gene_id "gene-CDV56_108584"; gene_name "nop7";
+NW_020798081.1	RefSeq	CDS	115751	117660	.	+	2	transcript_id "rna-XM_026762203.1"; gene_id "gene-CDV56_108584"; gene_name "nop7";
+NW_020798370.1	RefSeq	transcript	20442	21413	.	-	.	transcript_id "rna-XM_026756678.1"; gene_id "gene-CDV56_103059"; gene_name "dph5"
+NW_020798370.1	RefSeq	exon	20442	21039	.	-	.	transcript_id "rna-XM_026756678.1"; gene_id "gene-CDV56_103059"; gene_name "dph5";
+NW_020798370.1	RefSeq	exon	21090	21214	.	-	.	transcript_id "rna-XM_026756678.1"; gene_id "gene-CDV56_103059"; gene_name "dph5";
+NW_020798370.1	RefSeq	exon	21279	21413	.	-	.	transcript_id "rna-XM_026756678.1"; gene_id "gene-CDV56_103059"; gene_name "dph5";
+NW_020798370.1	RefSeq	CDS	20442	21039	.	-	1	transcript_id "rna-XM_026756678.1"; gene_id "gene-CDV56_103059"; gene_name "dph5";
+NW_020798370.1	RefSeq	CDS	21090	21214	.	-	0	transcript_id "rna-XM_026756678.1"; gene_id "gene-CDV56_103059"; gene_name "dph5";
+NW_020798370.1	RefSeq	CDS	21279	21413	.	-	0	transcript_id "rna-XM_026756678.1"; gene_id "gene-CDV56_103059"; gene_name "dph5";
+NW_020798376.1	RefSeq	transcript	5894	7471	.	+	.	transcript_id "rna-XM_026754716.1"; gene_id "gene-CDV56_101097"
+NW_020798376.1	RefSeq	exon	5894	6138	.	+	.	transcript_id "rna-XM_026754716.1"; gene_id "gene-CDV56_101097";
+NW_020798376.1	RefSeq	exon	6255	6435	.	+	.	transcript_id "rna-XM_026754716.1"; gene_id "gene-CDV56_101097";
+NW_020798376.1	RefSeq	exon	6491	7471	.	+	.	transcript_id "rna-XM_026754716.1"; gene_id "gene-CDV56_101097";
+NW_020798376.1	RefSeq	CDS	5894	6138	.	+	0	transcript_id "rna-XM_026754716.1"; gene_id "gene-CDV56_101097";
+NW_020798376.1	RefSeq	CDS	6255	6435	.	+	1	transcript_id "rna-XM_026754716.1"; gene_id "gene-CDV56_101097";
+NW_020798376.1	RefSeq	CDS	6491	7471	.	+	0	transcript_id "rna-XM_026754716.1"; gene_id "gene-CDV56_101097";
+NW_020798082.1	RefSeq	transcript	128929	129666	.	+	.	transcript_id "rna-XM_026762474.1"; gene_id "gene-CDV56_108855"
+NW_020798082.1	RefSeq	exon	128929	129666	.	+	.	transcript_id "rna-XM_026762474.1"; gene_id "gene-CDV56_108855";
+NW_020798082.1	RefSeq	CDS	128929	129666	.	+	0	transcript_id "rna-XM_026762474.1"; gene_id "gene-CDV56_108855";
+NW_020798381.1	RefSeq	transcript	13661	14896	.	-	.	transcript_id "rna-XM_026755827.1"; gene_id "gene-CDV56_102208"
+NW_020798381.1	RefSeq	exon	13661	14896	.	-	.	transcript_id "rna-XM_026755827.1"; gene_id "gene-CDV56_102208";
+NW_020798381.1	RefSeq	CDS	13661	14896	.	-	0	transcript_id "rna-XM_026755827.1"; gene_id "gene-CDV56_102208";
+NW_020798085.1	RefSeq	transcript	1805	2461	.	+	.	transcript_id "rna-XM_026754085.1"; gene_id "gene-CDV56_100466"
+NW_020798085.1	RefSeq	exon	1805	2461	.	+	.	transcript_id "rna-XM_026754085.1"; gene_id "gene-CDV56_100466";
+NW_020798085.1	RefSeq	CDS	1805	2461	.	+	0	transcript_id "rna-XM_026754085.1"; gene_id "gene-CDV56_100466";
+NW_020798411.1	RefSeq	transcript	6040	8160	.	-	.	transcript_id "rna-XM_026754735.1"; gene_id "gene-CDV56_101116"
+NW_020798411.1	RefSeq	exon	6040	8160	.	-	.	transcript_id "rna-XM_026754735.1"; gene_id "gene-CDV56_101116";
+NW_020798411.1	RefSeq	CDS	6040	8160	.	-	0	transcript_id "rna-XM_026754735.1"; gene_id "gene-CDV56_101116";
+NW_020798086.1	RefSeq	transcript	49948	51519	.	-	.	transcript_id "rna-XM_026759368.1"; gene_id "gene-CDV56_105749"; gene_name "cox15"
+NW_020798086.1	RefSeq	exon	49948	51519	.	-	.	transcript_id "rna-XM_026759368.1"; gene_id "gene-CDV56_105749"; gene_name "cox15";
+NW_020798086.1	RefSeq	CDS	49948	51519	.	-	0	transcript_id "rna-XM_026759368.1"; gene_id "gene-CDV56_105749"; gene_name "cox15";
+NW_020798433.1	RefSeq	transcript	17539	18582	.	+	.	transcript_id "rna-XM_026756324.1"; gene_id "gene-CDV56_102705"; gene_name "DRE2"
+NW_020798433.1	RefSeq	exon	17539	18097	.	+	.	transcript_id "rna-XM_026756324.1"; gene_id "gene-CDV56_102705"; gene_name "DRE2";
+NW_020798433.1	RefSeq	exon	18208	18437	.	+	.	transcript_id "rna-XM_026756324.1"; gene_id "gene-CDV56_102705"; gene_name "DRE2";
+NW_020798433.1	RefSeq	exon	18505	18582	.	+	.	transcript_id "rna-XM_026756324.1"; gene_id "gene-CDV56_102705"; gene_name "DRE2";
+NW_020798433.1	RefSeq	CDS	17539	18097	.	+	0	transcript_id "rna-XM_026756324.1"; gene_id "gene-CDV56_102705"; gene_name "DRE2";
+NW_020798433.1	RefSeq	CDS	18208	18437	.	+	2	transcript_id "rna-XM_026756324.1"; gene_id "gene-CDV56_102705"; gene_name "DRE2";
+NW_020798433.1	RefSeq	CDS	18505	18582	.	+	0	transcript_id "rna-XM_026756324.1"; gene_id "gene-CDV56_102705"; gene_name "DRE2";
+NW_020798088.1	RefSeq	transcript	82578	84569	.	+	.	transcript_id "rna-XM_026761192.1"; gene_id "gene-CDV56_107573"; gene_name "agm1"
+NW_020798088.1	RefSeq	exon	82578	82670	.	+	.	transcript_id "rna-XM_026761192.1"; gene_id "gene-CDV56_107573"; gene_name "agm1";
+NW_020798088.1	RefSeq	exon	82736	82749	.	+	.	transcript_id "rna-XM_026761192.1"; gene_id "gene-CDV56_107573"; gene_name "agm1";
+NW_020798088.1	RefSeq	exon	82846	82990	.	+	.	transcript_id "rna-XM_026761192.1"; gene_id "gene-CDV56_107573"; gene_name "agm1";
+NW_020798088.1	RefSeq	exon	83060	83074	.	+	.	transcript_id "rna-XM_026761192.1"; gene_id "gene-CDV56_107573"; gene_name "agm1";
+NW_020798088.1	RefSeq	exon	83133	83633	.	+	.	transcript_id "rna-XM_026761192.1"; gene_id "gene-CDV56_107573"; gene_name "agm1";
+NW_020798088.1	RefSeq	exon	83688	84569	.	+	.	transcript_id "rna-XM_026761192.1"; gene_id "gene-CDV56_107573"; gene_name "agm1";
+NW_020798088.1	RefSeq	CDS	82578	82670	.	+	0	transcript_id "rna-XM_026761192.1"; gene_id "gene-CDV56_107573"; gene_name "agm1";
+NW_020798088.1	RefSeq	CDS	82736	82749	.	+	0	transcript_id "rna-XM_026761192.1"; gene_id "gene-CDV56_107573"; gene_name "agm1";
+NW_020798088.1	RefSeq	CDS	82846	82990	.	+	1	transcript_id "rna-XM_026761192.1"; gene_id "gene-CDV56_107573"; gene_name "agm1";
+NW_020798088.1	RefSeq	CDS	83060	83074	.	+	0	transcript_id "rna-XM_026761192.1"; gene_id "gene-CDV56_107573"; gene_name "agm1";
+NW_020798088.1	RefSeq	CDS	83133	83633	.	+	0	transcript_id "rna-XM_026761192.1"; gene_id "gene-CDV56_107573"; gene_name "agm1";
+NW_020798088.1	RefSeq	CDS	83688	84569	.	+	0	transcript_id "rna-XM_026761192.1"; gene_id "gene-CDV56_107573"; gene_name "agm1";
+NW_020798447.1	RefSeq	transcript	10216	13703	.	+	.	transcript_id "rna-XM_026755354.1"; gene_id "gene-CDV56_101735"
+NW_020798447.1	RefSeq	exon	10216	10974	.	+	.	transcript_id "rna-XM_026755354.1"; gene_id "gene-CDV56_101735";
+NW_020798447.1	RefSeq	exon	11027	12141	.	+	.	transcript_id "rna-XM_026755354.1"; gene_id "gene-CDV56_101735";
+NW_020798447.1	RefSeq	exon	12191	12737	.	+	.	transcript_id "rna-XM_026755354.1"; gene_id "gene-CDV56_101735";
+NW_020798447.1	RefSeq	exon	12798	13703	.	+	.	transcript_id "rna-XM_026755354.1"; gene_id "gene-CDV56_101735";
+NW_020798447.1	RefSeq	CDS	10216	10974	.	+	0	transcript_id "rna-XM_026755354.1"; gene_id "gene-CDV56_101735";
+NW_020798447.1	RefSeq	CDS	11027	12141	.	+	0	transcript_id "rna-XM_026755354.1"; gene_id "gene-CDV56_101735";
+NW_020798447.1	RefSeq	CDS	12191	12737	.	+	1	transcript_id "rna-XM_026755354.1"; gene_id "gene-CDV56_101735";
+NW_020798447.1	RefSeq	CDS	12798	13703	.	+	0	transcript_id "rna-XM_026755354.1"; gene_id "gene-CDV56_101735";
+NW_020798052.1	RefSeq	transcript	130262	130973	.	-	.	transcript_id "rna-XM_026762490.1"; gene_id "gene-CDV56_108871"
+NW_020798052.1	RefSeq	exon	130262	130435	.	-	.	transcript_id "rna-XM_026762490.1"; gene_id "gene-CDV56_108871";
+NW_020798052.1	RefSeq	exon	130518	130878	.	-	.	transcript_id "rna-XM_026762490.1"; gene_id "gene-CDV56_108871";
+NW_020798052.1	RefSeq	exon	130942	130973	.	-	.	transcript_id "rna-XM_026762490.1"; gene_id "gene-CDV56_108871";
+NW_020798052.1	RefSeq	CDS	130262	130435	.	-	0	transcript_id "rna-XM_026762490.1"; gene_id "gene-CDV56_108871";
+NW_020798052.1	RefSeq	CDS	130518	130878	.	-	1	transcript_id "rna-XM_026762490.1"; gene_id "gene-CDV56_108871";
+NW_020798052.1	RefSeq	CDS	130942	130973	.	-	0	transcript_id "rna-XM_026762490.1"; gene_id "gene-CDV56_108871";
+NW_020798090.1	RefSeq	transcript	34380	37680	.	-	.	transcript_id "rna-XM_026758121.1"; gene_id "gene-CDV56_104502"
+NW_020798090.1	RefSeq	exon	34380	34967	.	-	.	transcript_id "rna-XM_026758121.1"; gene_id "gene-CDV56_104502";
+NW_020798090.1	RefSeq	exon	35033	36225	.	-	.	transcript_id "rna-XM_026758121.1"; gene_id "gene-CDV56_104502";
+NW_020798090.1	RefSeq	exon	36286	36357	.	-	.	transcript_id "rna-XM_026758121.1"; gene_id "gene-CDV56_104502";
+NW_020798090.1	RefSeq	exon	36411	37283	.	-	.	transcript_id "rna-XM_026758121.1"; gene_id "gene-CDV56_104502";
+NW_020798090.1	RefSeq	exon	37335	37680	.	-	.	transcript_id "rna-XM_026758121.1"; gene_id "gene-CDV56_104502";
+NW_020798090.1	RefSeq	CDS	34380	34967	.	-	0	transcript_id "rna-XM_026758121.1"; gene_id "gene-CDV56_104502";
+NW_020798090.1	RefSeq	CDS	35033	36225	.	-	2	transcript_id "rna-XM_026758121.1"; gene_id "gene-CDV56_104502";
+NW_020798090.1	RefSeq	CDS	36286	36357	.	-	2	transcript_id "rna-XM_026758121.1"; gene_id "gene-CDV56_104502";
+NW_020798090.1	RefSeq	CDS	36411	37283	.	-	2	transcript_id "rna-XM_026758121.1"; gene_id "gene-CDV56_104502";
+NW_020798090.1	RefSeq	CDS	37335	37680	.	-	0	transcript_id "rna-XM_026758121.1"; gene_id "gene-CDV56_104502";
+NW_020798090.1	RefSeq	transcript	98220	100992	.	+	.	transcript_id "rna-XM_026761748.1"; gene_id "gene-CDV56_108129"
+NW_020798090.1	RefSeq	exon	98220	98286	.	+	.	transcript_id "rna-XM_026761748.1"; gene_id "gene-CDV56_108129";
+NW_020798090.1	RefSeq	exon	98388	98455	.	+	.	transcript_id "rna-XM_026761748.1"; gene_id "gene-CDV56_108129";
+NW_020798090.1	RefSeq	exon	98542	98985	.	+	.	transcript_id "rna-XM_026761748.1"; gene_id "gene-CDV56_108129";
+NW_020798090.1	RefSeq	exon	99039	99497	.	+	.	transcript_id "rna-XM_026761748.1"; gene_id "gene-CDV56_108129";
+NW_020798090.1	RefSeq	exon	99556	99813	.	+	.	transcript_id "rna-XM_026761748.1"; gene_id "gene-CDV56_108129";
+NW_020798090.1	RefSeq	exon	99888	99986	.	+	.	transcript_id "rna-XM_026761748.1"; gene_id "gene-CDV56_108129";
+NW_020798090.1	RefSeq	exon	100051	100992	.	+	.	transcript_id "rna-XM_026761748.1"; gene_id "gene-CDV56_108129";
+NW_020798090.1	RefSeq	CDS	98220	98286	.	+	0	transcript_id "rna-XM_026761748.1"; gene_id "gene-CDV56_108129";
+NW_020798090.1	RefSeq	CDS	98388	98455	.	+	2	transcript_id "rna-XM_026761748.1"; gene_id "gene-CDV56_108129";
+NW_020798090.1	RefSeq	CDS	98542	98985	.	+	0	transcript_id "rna-XM_026761748.1"; gene_id "gene-CDV56_108129";
+NW_020798090.1	RefSeq	CDS	99039	99497	.	+	0	transcript_id "rna-XM_026761748.1"; gene_id "gene-CDV56_108129";
+NW_020798090.1	RefSeq	CDS	99556	99813	.	+	0	transcript_id "rna-XM_026761748.1"; gene_id "gene-CDV56_108129";
+NW_020798090.1	RefSeq	CDS	99888	99986	.	+	0	transcript_id "rna-XM_026761748.1"; gene_id "gene-CDV56_108129";
+NW_020798090.1	RefSeq	CDS	100051	100992	.	+	0	transcript_id "rna-XM_026761748.1"; gene_id "gene-CDV56_108129";
+NW_020798460.1	RefSeq	transcript	638	1905	.	-	.	transcript_id "rna-XM_026753823.1"; gene_id "gene-CDV56_100204"
+NW_020798460.1	RefSeq	exon	638	1070	.	-	.	transcript_id "rna-XM_026753823.1"; gene_id "gene-CDV56_100204";
+NW_020798460.1	RefSeq	exon	1139	1689	.	-	.	transcript_id "rna-XM_026753823.1"; gene_id "gene-CDV56_100204";
+NW_020798460.1	RefSeq	exon	1762	1779	.	-	.	transcript_id "rna-XM_026753823.1"; gene_id "gene-CDV56_100204";
+NW_020798460.1	RefSeq	exon	1849	1905	.	-	.	transcript_id "rna-XM_026753823.1"; gene_id "gene-CDV56_100204";
+NW_020798460.1	RefSeq	CDS	638	1070	.	-	1	transcript_id "rna-XM_026753823.1"; gene_id "gene-CDV56_100204";
+NW_020798460.1	RefSeq	CDS	1139	1689	.	-	0	transcript_id "rna-XM_026753823.1"; gene_id "gene-CDV56_100204";
+NW_020798460.1	RefSeq	CDS	1762	1779	.	-	0	transcript_id "rna-XM_026753823.1"; gene_id "gene-CDV56_100204";
+NW_020798460.1	RefSeq	CDS	1849	1905	.	-	0	transcript_id "rna-XM_026753823.1"; gene_id "gene-CDV56_100204";
+NW_020798092.1	RefSeq	transcript	75021	75764	.	+	.	transcript_id "rna-XM_026760847.1"; gene_id "gene-CDV56_107228"
+NW_020798092.1	RefSeq	exon	75021	75764	.	+	.	transcript_id "rna-XM_026760847.1"; gene_id "gene-CDV56_107228";
+NW_020798092.1	RefSeq	CDS	75021	75764	.	+	0	transcript_id "rna-XM_026760847.1"; gene_id "gene-CDV56_107228";
+NW_020798480.1	RefSeq	transcript	7596	10359	.	-	.	transcript_id "rna-XM_026754980.1"; gene_id "gene-CDV56_101361"
+NW_020798480.1	RefSeq	exon	7596	9866	.	-	.	transcript_id "rna-XM_026754980.1"; gene_id "gene-CDV56_101361";
+NW_020798480.1	RefSeq	exon	9922	10359	.	-	.	transcript_id "rna-XM_026754980.1"; gene_id "gene-CDV56_101361";
+NW_020798480.1	RefSeq	CDS	7596	9866	.	-	0	transcript_id "rna-XM_026754980.1"; gene_id "gene-CDV56_101361";
+NW_020798480.1	RefSeq	CDS	9922	10359	.	-	0	transcript_id "rna-XM_026754980.1"; gene_id "gene-CDV56_101361";
+NW_020798093.1	RefSeq	transcript	67602	68649	.	-	.	transcript_id "rna-XM_026760484.1"; gene_id "gene-CDV56_106865"
+NW_020798093.1	RefSeq	exon	67602	68488	.	-	.	transcript_id "rna-XM_026760484.1"; gene_id "gene-CDV56_106865";
+NW_020798093.1	RefSeq	exon	68574	68649	.	-	.	transcript_id "rna-XM_026760484.1"; gene_id "gene-CDV56_106865";
+NW_020798093.1	RefSeq	CDS	67602	68488	.	-	2	transcript_id "rna-XM_026760484.1"; gene_id "gene-CDV56_106865";
+NW_020798093.1	RefSeq	CDS	68574	68649	.	-	0	transcript_id "rna-XM_026760484.1"; gene_id "gene-CDV56_106865";
+NW_020798093.1	RefSeq	transcript	113493	114704	.	+	.	transcript_id "rna-XM_026762148.1"; gene_id "gene-CDV56_108529"
+NW_020798093.1	RefSeq	exon	113493	114704	.	+	.	transcript_id "rna-XM_026762148.1"; gene_id "gene-CDV56_108529";
+NW_020798093.1	RefSeq	CDS	113493	114704	.	+	0	transcript_id "rna-XM_026762148.1"; gene_id "gene-CDV56_108529";
+NW_020798093.1	RefSeq	transcript	126732	128576	.	-	.	transcript_id "rna-XM_026762436.1"; gene_id "gene-CDV56_108817"
+NW_020798093.1	RefSeq	exon	126732	128269	.	-	.	transcript_id "rna-XM_026762436.1"; gene_id "gene-CDV56_108817";
+NW_020798093.1	RefSeq	exon	128355	128388	.	-	.	transcript_id "rna-XM_026762436.1"; gene_id "gene-CDV56_108817";
+NW_020798093.1	RefSeq	exon	128535	128576	.	-	.	transcript_id "rna-XM_026762436.1"; gene_id "gene-CDV56_108817";
+NW_020798093.1	RefSeq	CDS	126732	128269	.	-	2	transcript_id "rna-XM_026762436.1"; gene_id "gene-CDV56_108817";
+NW_020798093.1	RefSeq	CDS	128355	128388	.	-	0	transcript_id "rna-XM_026762436.1"; gene_id "gene-CDV56_108817";
+NW_020798093.1	RefSeq	CDS	128535	128576	.	-	0	transcript_id "rna-XM_026762436.1"; gene_id "gene-CDV56_108817";
+NW_020798095.1	RefSeq	transcript	99515	100298	.	-	.	transcript_id "rna-XM_026761791.1"; gene_id "gene-CDV56_108172"; gene_name "NOP16"
+NW_020798095.1	RefSeq	exon	99515	100103	.	-	.	transcript_id "rna-XM_026761791.1"; gene_id "gene-CDV56_108172"; gene_name "NOP16";
+NW_020798095.1	RefSeq	exon	100168	100298	.	-	.	transcript_id "rna-XM_026761791.1"; gene_id "gene-CDV56_108172"; gene_name "NOP16";
+NW_020798095.1	RefSeq	CDS	99515	100103	.	-	1	transcript_id "rna-XM_026761791.1"; gene_id "gene-CDV56_108172"; gene_name "NOP16";
+NW_020798095.1	RefSeq	CDS	100168	100298	.	-	0	transcript_id "rna-XM_026761791.1"; gene_id "gene-CDV56_108172"; gene_name "NOP16";
+NW_020798527.1	RefSeq	transcript	1693	2759	.	-	.	transcript_id "rna-XM_026754074.1"; gene_id "gene-CDV56_100455"; gene_name "CWC15"
+NW_020798527.1	RefSeq	exon	1693	1710	.	-	.	transcript_id "rna-XM_026754074.1"; gene_id "gene-CDV56_100455"; gene_name "CWC15";
+NW_020798527.1	RefSeq	exon	1763	1798	.	-	.	transcript_id "rna-XM_026754074.1"; gene_id "gene-CDV56_100455"; gene_name "CWC15";
+NW_020798527.1	RefSeq	exon	1847	2017	.	-	.	transcript_id "rna-XM_026754074.1"; gene_id "gene-CDV56_100455"; gene_name "CWC15";
+NW_020798527.1	RefSeq	exon	2070	2151	.	-	.	transcript_id "rna-XM_026754074.1"; gene_id "gene-CDV56_100455"; gene_name "CWC15";
+NW_020798527.1	RefSeq	exon	2205	2481	.	-	.	transcript_id "rna-XM_026754074.1"; gene_id "gene-CDV56_100455"; gene_name "CWC15";
+NW_020798527.1	RefSeq	exon	2540	2616	.	-	.	transcript_id "rna-XM_026754074.1"; gene_id "gene-CDV56_100455"; gene_name "CWC15";
+NW_020798527.1	RefSeq	exon	2673	2688	.	-	.	transcript_id "rna-XM_026754074.1"; gene_id "gene-CDV56_100455"; gene_name "CWC15";
+NW_020798527.1	RefSeq	exon	2750	2759	.	-	.	transcript_id "rna-XM_026754074.1"; gene_id "gene-CDV56_100455"; gene_name "CWC15";
+NW_020798527.1	RefSeq	CDS	1693	1710	.	-	0	transcript_id "rna-XM_026754074.1"; gene_id "gene-CDV56_100455"; gene_name "CWC15";
+NW_020798527.1	RefSeq	CDS	1763	1798	.	-	0	transcript_id "rna-XM_026754074.1"; gene_id "gene-CDV56_100455"; gene_name "CWC15";
+NW_020798527.1	RefSeq	CDS	1847	2017	.	-	0	transcript_id "rna-XM_026754074.1"; gene_id "gene-CDV56_100455"; gene_name "CWC15";
+NW_020798527.1	RefSeq	CDS	2070	2151	.	-	1	transcript_id "rna-XM_026754074.1"; gene_id "gene-CDV56_100455"; gene_name "CWC15";
+NW_020798527.1	RefSeq	CDS	2205	2481	.	-	2	transcript_id "rna-XM_026754074.1"; gene_id "gene-CDV56_100455"; gene_name "CWC15";
+NW_020798527.1	RefSeq	CDS	2540	2616	.	-	1	transcript_id "rna-XM_026754074.1"; gene_id "gene-CDV56_100455"; gene_name "CWC15";
+NW_020798527.1	RefSeq	CDS	2673	2688	.	-	2	transcript_id "rna-XM_026754074.1"; gene_id "gene-CDV56_100455"; gene_name "CWC15";
+NW_020798527.1	RefSeq	CDS	2750	2759	.	-	0	transcript_id "rna-XM_026754074.1"; gene_id "gene-CDV56_100455"; gene_name "CWC15";
+NW_020798527.1	RefSeq	transcript	3018	4007	.	+	.	transcript_id "rna-XM_026754260.1"; gene_id "gene-CDV56_100641"
+NW_020798527.1	RefSeq	exon	3018	3181	.	+	.	transcript_id "rna-XM_026754260.1"; gene_id "gene-CDV56_100641";
+NW_020798527.1	RefSeq	exon	3237	3356	.	+	.	transcript_id "rna-XM_026754260.1"; gene_id "gene-CDV56_100641";
+NW_020798527.1	RefSeq	exon	3413	4007	.	+	.	transcript_id "rna-XM_026754260.1"; gene_id "gene-CDV56_100641";
+NW_020798527.1	RefSeq	CDS	3018	3181	.	+	0	transcript_id "rna-XM_026754260.1"; gene_id "gene-CDV56_100641";
+NW_020798527.1	RefSeq	CDS	3237	3356	.	+	1	transcript_id "rna-XM_026754260.1"; gene_id "gene-CDV56_100641";
+NW_020798527.1	RefSeq	CDS	3413	4007	.	+	1	transcript_id "rna-XM_026754260.1"; gene_id "gene-CDV56_100641";
+NW_020798053.1	RefSeq	transcript	168056	170112	.	+	.	transcript_id "rna-XM_026762931.1"; gene_id "gene-CDV56_109312"
+NW_020798053.1	RefSeq	exon	168056	168356	.	+	.	transcript_id "rna-XM_026762931.1"; gene_id "gene-CDV56_109312";
+NW_020798053.1	RefSeq	exon	168434	169952	.	+	.	transcript_id "rna-XM_026762931.1"; gene_id "gene-CDV56_109312";
+NW_020798053.1	RefSeq	exon	170013	170112	.	+	.	transcript_id "rna-XM_026762931.1"; gene_id "gene-CDV56_109312";
+NW_020798053.1	RefSeq	CDS	168056	168356	.	+	0	transcript_id "rna-XM_026762931.1"; gene_id "gene-CDV56_109312";
+NW_020798053.1	RefSeq	CDS	168434	169952	.	+	2	transcript_id "rna-XM_026762931.1"; gene_id "gene-CDV56_109312";
+NW_020798053.1	RefSeq	CDS	170013	170112	.	+	1	transcript_id "rna-XM_026762931.1"; gene_id "gene-CDV56_109312";
+NW_020798100.1	RefSeq	transcript	73329	75364	.	-	.	transcript_id "rna-XM_026760764.1"; gene_id "gene-CDV56_107145"
+NW_020798100.1	RefSeq	exon	73329	73480	.	-	.	transcript_id "rna-XM_026760764.1"; gene_id "gene-CDV56_107145";
+NW_020798100.1	RefSeq	exon	73539	74388	.	-	.	transcript_id "rna-XM_026760764.1"; gene_id "gene-CDV56_107145";
+NW_020798100.1	RefSeq	exon	74452	74955	.	-	.	transcript_id "rna-XM_026760764.1"; gene_id "gene-CDV56_107145";
+NW_020798100.1	RefSeq	exon	75011	75364	.	-	.	transcript_id "rna-XM_026760764.1"; gene_id "gene-CDV56_107145";
+NW_020798100.1	RefSeq	CDS	73329	73480	.	-	2	transcript_id "rna-XM_026760764.1"; gene_id "gene-CDV56_107145";
+NW_020798100.1	RefSeq	CDS	73539	74388	.	-	0	transcript_id "rna-XM_026760764.1"; gene_id "gene-CDV56_107145";
+NW_020798100.1	RefSeq	CDS	74452	74955	.	-	0	transcript_id "rna-XM_026760764.1"; gene_id "gene-CDV56_107145";
+NW_020798100.1	RefSeq	CDS	75011	75364	.	-	0	transcript_id "rna-XM_026760764.1"; gene_id "gene-CDV56_107145";
+NW_020798566.1	RefSeq	transcript	4091	6632	.	-	.	transcript_id "rna-XM_026754439.1"; gene_id "gene-CDV56_100820"
+NW_020798566.1	RefSeq	exon	4091	4542	.	-	.	transcript_id "rna-XM_026754439.1"; gene_id "gene-CDV56_100820";
+NW_020798566.1	RefSeq	exon	4604	4722	.	-	.	transcript_id "rna-XM_026754439.1"; gene_id "gene-CDV56_100820";
+NW_020798566.1	RefSeq	exon	4774	4889	.	-	.	transcript_id "rna-XM_026754439.1"; gene_id "gene-CDV56_100820";
+NW_020798566.1	RefSeq	exon	4958	5038	.	-	.	transcript_id "rna-XM_026754439.1"; gene_id "gene-CDV56_100820";
+NW_020798566.1	RefSeq	exon	5085	5347	.	-	.	transcript_id "rna-XM_026754439.1"; gene_id "gene-CDV56_100820";
+NW_020798566.1	RefSeq	exon	6098	6522	.	-	.	transcript_id "rna-XM_026754439.1"; gene_id "gene-CDV56_100820";
+NW_020798566.1	RefSeq	exon	6580	6632	.	-	.	transcript_id "rna-XM_026754439.1"; gene_id "gene-CDV56_100820";
+NW_020798566.1	RefSeq	CDS	4091	4542	.	-	2	transcript_id "rna-XM_026754439.1"; gene_id "gene-CDV56_100820";
+NW_020798566.1	RefSeq	CDS	4604	4722	.	-	1	transcript_id "rna-XM_026754439.1"; gene_id "gene-CDV56_100820";
+NW_020798566.1	RefSeq	CDS	4774	4889	.	-	0	transcript_id "rna-XM_026754439.1"; gene_id "gene-CDV56_100820";
+NW_020798566.1	RefSeq	CDS	4958	5038	.	-	0	transcript_id "rna-XM_026754439.1"; gene_id "gene-CDV56_100820";
+NW_020798566.1	RefSeq	CDS	5085	5347	.	-	2	transcript_id "rna-XM_026754439.1"; gene_id "gene-CDV56_100820";
+NW_020798566.1	RefSeq	CDS	6098	6522	.	-	1	transcript_id "rna-XM_026754439.1"; gene_id "gene-CDV56_100820";
+NW_020798566.1	RefSeq	CDS	6580	6632	.	-	0	transcript_id "rna-XM_026754439.1"; gene_id "gene-CDV56_100820";
+NW_020798105.1	RefSeq	transcript	102594	104874	.	-	.	transcript_id "rna-XM_026761870.1"; gene_id "gene-CDV56_108251"
+NW_020798105.1	RefSeq	exon	102594	102757	.	-	.	transcript_id "rna-XM_026761870.1"; gene_id "gene-CDV56_108251";
+NW_020798105.1	RefSeq	exon	102817	103625	.	-	.	transcript_id "rna-XM_026761870.1"; gene_id "gene-CDV56_108251";
+NW_020798105.1	RefSeq	exon	103680	103921	.	-	.	transcript_id "rna-XM_026761870.1"; gene_id "gene-CDV56_108251";
+NW_020798105.1	RefSeq	exon	103978	104244	.	-	.	transcript_id "rna-XM_026761870.1"; gene_id "gene-CDV56_108251";
+NW_020798105.1	RefSeq	exon	104306	104435	.	-	.	transcript_id "rna-XM_026761870.1"; gene_id "gene-CDV56_108251";
+NW_020798105.1	RefSeq	exon	104498	104574	.	-	.	transcript_id "rna-XM_026761870.1"; gene_id "gene-CDV56_108251";
+NW_020798105.1	RefSeq	exon	104631	104650	.	-	.	transcript_id "rna-XM_026761870.1"; gene_id "gene-CDV56_108251";
+NW_020798105.1	RefSeq	exon	104719	104759	.	-	.	transcript_id "rna-XM_026761870.1"; gene_id "gene-CDV56_108251";
+NW_020798105.1	RefSeq	exon	104822	104874	.	-	.	transcript_id "rna-XM_026761870.1"; gene_id "gene-CDV56_108251";
+NW_020798105.1	RefSeq	CDS	102594	102757	.	-	2	transcript_id "rna-XM_026761870.1"; gene_id "gene-CDV56_108251";
+NW_020798105.1	RefSeq	CDS	102817	103625	.	-	1	transcript_id "rna-XM_026761870.1"; gene_id "gene-CDV56_108251";
+NW_020798105.1	RefSeq	CDS	103680	103921	.	-	0	transcript_id "rna-XM_026761870.1"; gene_id "gene-CDV56_108251";
+NW_020798105.1	RefSeq	CDS	103978	104244	.	-	0	transcript_id "rna-XM_026761870.1"; gene_id "gene-CDV56_108251";
+NW_020798105.1	RefSeq	CDS	104306	104435	.	-	1	transcript_id "rna-XM_026761870.1"; gene_id "gene-CDV56_108251";
+NW_020798105.1	RefSeq	CDS	104498	104574	.	-	0	transcript_id "rna-XM_026761870.1"; gene_id "gene-CDV56_108251";
+NW_020798105.1	RefSeq	CDS	104631	104650	.	-	2	transcript_id "rna-XM_026761870.1"; gene_id "gene-CDV56_108251";
+NW_020798105.1	RefSeq	CDS	104719	104759	.	-	1	transcript_id "rna-XM_026761870.1"; gene_id "gene-CDV56_108251";
+NW_020798105.1	RefSeq	CDS	104822	104874	.	-	0	transcript_id "rna-XM_026761870.1"; gene_id "gene-CDV56_108251";
+NW_020798108.1	RefSeq	transcript	79903	81870	.	-	.	transcript_id "rna-XM_026761076.1"; gene_id "gene-CDV56_107457"
+NW_020798108.1	RefSeq	exon	79903	80407	.	-	.	transcript_id "rna-XM_026761076.1"; gene_id "gene-CDV56_107457";
+NW_020798108.1	RefSeq	exon	80466	81605	.	-	.	transcript_id "rna-XM_026761076.1"; gene_id "gene-CDV56_107457";
+NW_020798108.1	RefSeq	exon	81680	81870	.	-	.	transcript_id "rna-XM_026761076.1"; gene_id "gene-CDV56_107457";
+NW_020798108.1	RefSeq	CDS	79903	80407	.	-	1	transcript_id "rna-XM_026761076.1"; gene_id "gene-CDV56_107457";
+NW_020798108.1	RefSeq	CDS	80466	81605	.	-	1	transcript_id "rna-XM_026761076.1"; gene_id "gene-CDV56_107457";
+NW_020798108.1	RefSeq	CDS	81680	81870	.	-	0	transcript_id "rna-XM_026761076.1"; gene_id "gene-CDV56_107457";
+NW_020798110.1	RefSeq	transcript	45572	47006	.	+	.	transcript_id "rna-XM_026759039.1"; gene_id "gene-CDV56_105420"
+NW_020798110.1	RefSeq	exon	45572	46049	.	+	.	transcript_id "rna-XM_026759039.1"; gene_id "gene-CDV56_105420";
+NW_020798110.1	RefSeq	exon	46141	47006	.	+	.	transcript_id "rna-XM_026759039.1"; gene_id "gene-CDV56_105420";
+NW_020798110.1	RefSeq	CDS	45572	46049	.	+	0	transcript_id "rna-XM_026759039.1"; gene_id "gene-CDV56_105420";
+NW_020798110.1	RefSeq	CDS	46141	47006	.	+	2	transcript_id "rna-XM_026759039.1"; gene_id "gene-CDV56_105420";
+NW_020798660.1	RefSeq	transcript	835	1742	.	-	.	transcript_id "rna-XM_026753896.1"; gene_id "gene-CDV56_100277"
+NW_020798660.1	RefSeq	exon	835	1029	.	-	.	transcript_id "rna-XM_026753896.1"; gene_id "gene-CDV56_100277";
+NW_020798660.1	RefSeq	exon	1093	1428	.	-	.	transcript_id "rna-XM_026753896.1"; gene_id "gene-CDV56_100277";
+NW_020798660.1	RefSeq	exon	1513	1742	.	-	.	transcript_id "rna-XM_026753896.1"; gene_id "gene-CDV56_100277";
+NW_020798660.1	RefSeq	CDS	835	1029	.	-	1	transcript_id "rna-XM_026753896.1"; gene_id "gene-CDV56_100277";
+NW_020798660.1	RefSeq	CDS	1093	1428	.	-	1	transcript_id "rna-XM_026753896.1"; gene_id "gene-CDV56_100277";
+NW_020798660.1	RefSeq	CDS	1513	1742	.	-	0	transcript_id "rna-XM_026753896.1"; gene_id "gene-CDV56_100277";
+NW_020798666.1	RefSeq	transcript	648	2393	.	-	.	transcript_id "rna-XM_026753828.1"; gene_id "gene-CDV56_100209"
+NW_020798666.1	RefSeq	exon	648	2393	.	-	.	transcript_id "rna-XM_026753828.1"; gene_id "gene-CDV56_100209";
+NW_020798666.1	RefSeq	CDS	648	2393	.	-	0	transcript_id "rna-XM_026753828.1"; gene_id "gene-CDV56_100209";
+NW_020798112.1	RefSeq	transcript	47230	48829	.	-	.	transcript_id "rna-XM_026759161.1"; gene_id "gene-CDV56_105542"
+NW_020798112.1	RefSeq	exon	47230	47838	.	-	.	transcript_id "rna-XM_026759161.1"; gene_id "gene-CDV56_105542";
+NW_020798112.1	RefSeq	exon	47894	48829	.	-	.	transcript_id "rna-XM_026759161.1"; gene_id "gene-CDV56_105542";
+NW_020798112.1	RefSeq	CDS	47230	47838	.	-	0	transcript_id "rna-XM_026759161.1"; gene_id "gene-CDV56_105542";
+NW_020798112.1	RefSeq	CDS	47894	48829	.	-	0	transcript_id "rna-XM_026759161.1"; gene_id "gene-CDV56_105542";
+NW_020798112.1	RefSeq	transcript	57006	60067	.	-	.	transcript_id "rna-XM_026759844.1"; gene_id "gene-CDV56_106225"
+NW_020798112.1	RefSeq	exon	57006	59731	.	-	.	transcript_id "rna-XM_026759844.1"; gene_id "gene-CDV56_106225";
+NW_020798112.1	RefSeq	exon	59804	59831	.	-	.	transcript_id "rna-XM_026759844.1"; gene_id "gene-CDV56_106225";
+NW_020798112.1	RefSeq	exon	59894	60067	.	-	.	transcript_id "rna-XM_026759844.1"; gene_id "gene-CDV56_106225";
+NW_020798112.1	RefSeq	CDS	57006	59731	.	-	2	transcript_id "rna-XM_026759844.1"; gene_id "gene-CDV56_106225";
+NW_020798112.1	RefSeq	CDS	59804	59831	.	-	0	transcript_id "rna-XM_026759844.1"; gene_id "gene-CDV56_106225";
+NW_020798112.1	RefSeq	CDS	59894	60067	.	-	0	transcript_id "rna-XM_026759844.1"; gene_id "gene-CDV56_106225";
+NW_020798112.1	RefSeq	transcript	67173	69141	.	+	.	transcript_id "rna-XM_026760457.1"; gene_id "gene-CDV56_106838"
+NW_020798112.1	RefSeq	exon	67173	67544	.	+	.	transcript_id "rna-XM_026760457.1"; gene_id "gene-CDV56_106838";
+NW_020798112.1	RefSeq	exon	67660	69141	.	+	.	transcript_id "rna-XM_026760457.1"; gene_id "gene-CDV56_106838";
+NW_020798112.1	RefSeq	CDS	67173	67544	.	+	0	transcript_id "rna-XM_026760457.1"; gene_id "gene-CDV56_106838";
+NW_020798112.1	RefSeq	CDS	67660	69141	.	+	0	transcript_id "rna-XM_026760457.1"; gene_id "gene-CDV56_106838";
+NW_020798112.1	RefSeq	transcript	96092	98000	.	+	.	transcript_id "rna-XM_026761680.1"; gene_id "gene-CDV56_108061"; gene_name "SWC4"
+NW_020798112.1	RefSeq	exon	96092	96185	.	+	.	transcript_id "rna-XM_026761680.1"; gene_id "gene-CDV56_108061"; gene_name "SWC4";
+NW_020798112.1	RefSeq	exon	96243	96360	.	+	.	transcript_id "rna-XM_026761680.1"; gene_id "gene-CDV56_108061"; gene_name "SWC4";
+NW_020798112.1	RefSeq	exon	96422	98000	.	+	.	transcript_id "rna-XM_026761680.1"; gene_id "gene-CDV56_108061"; gene_name "SWC4";
+NW_020798112.1	RefSeq	CDS	96092	96185	.	+	0	transcript_id "rna-XM_026761680.1"; gene_id "gene-CDV56_108061"; gene_name "SWC4";
+NW_020798112.1	RefSeq	CDS	96243	96360	.	+	2	transcript_id "rna-XM_026761680.1"; gene_id "gene-CDV56_108061"; gene_name "SWC4";
+NW_020798112.1	RefSeq	CDS	96422	98000	.	+	1	transcript_id "rna-XM_026761680.1"; gene_id "gene-CDV56_108061"; gene_name "SWC4";
+NW_020798114.1	RefSeq	transcript	37547	39773	.	-	.	transcript_id "rna-XM_026758387.1"; gene_id "gene-CDV56_104768"
+NW_020798114.1	RefSeq	exon	37547	39489	.	-	.	transcript_id "rna-XM_026758387.1"; gene_id "gene-CDV56_104768";
+NW_020798114.1	RefSeq	exon	39557	39773	.	-	.	transcript_id "rna-XM_026758387.1"; gene_id "gene-CDV56_104768";
+NW_020798114.1	RefSeq	CDS	37547	39489	.	-	2	transcript_id "rna-XM_026758387.1"; gene_id "gene-CDV56_104768";
+NW_020798114.1	RefSeq	CDS	39557	39773	.	-	0	transcript_id "rna-XM_026758387.1"; gene_id "gene-CDV56_104768";
+NW_020798117.1	RefSeq	transcript	77745	83635	.	-	.	transcript_id "rna-XM_026760982.1"; gene_id "gene-CDV56_107363"
+NW_020798117.1	RefSeq	exon	77745	78125	.	-	.	transcript_id "rna-XM_026760982.1"; gene_id "gene-CDV56_107363";
+NW_020798117.1	RefSeq	exon	78179	78577	.	-	.	transcript_id "rna-XM_026760982.1"; gene_id "gene-CDV56_107363";
+NW_020798117.1	RefSeq	exon	78626	79126	.	-	.	transcript_id "rna-XM_026760982.1"; gene_id "gene-CDV56_107363";
+NW_020798117.1	RefSeq	exon	79179	79514	.	-	.	transcript_id "rna-XM_026760982.1"; gene_id "gene-CDV56_107363";
+NW_020798117.1	RefSeq	exon	79568	79801	.	-	.	transcript_id "rna-XM_026760982.1"; gene_id "gene-CDV56_107363";
+NW_020798117.1	RefSeq	exon	79852	80463	.	-	.	transcript_id "rna-XM_026760982.1"; gene_id "gene-CDV56_107363";
+NW_020798117.1	RefSeq	exon	80523	80819	.	-	.	transcript_id "rna-XM_026760982.1"; gene_id "gene-CDV56_107363";
+NW_020798117.1	RefSeq	exon	80893	80961	.	-	.	transcript_id "rna-XM_026760982.1"; gene_id "gene-CDV56_107363";
+NW_020798117.1	RefSeq	exon	81530	82681	.	-	.	transcript_id "rna-XM_026760982.1"; gene_id "gene-CDV56_107363";
+NW_020798117.1	RefSeq	exon	82763	83635	.	-	.	transcript_id "rna-XM_026760982.1"; gene_id "gene-CDV56_107363";
+NW_020798117.1	RefSeq	CDS	77745	78125	.	-	0	transcript_id "rna-XM_026760982.1"; gene_id "gene-CDV56_107363";
+NW_020798117.1	RefSeq	CDS	78179	78577	.	-	0	transcript_id "rna-XM_026760982.1"; gene_id "gene-CDV56_107363";
+NW_020798117.1	RefSeq	CDS	78626	79126	.	-	0	transcript_id "rna-XM_026760982.1"; gene_id "gene-CDV56_107363";
+NW_020798117.1	RefSeq	CDS	79179	79514	.	-	0	transcript_id "rna-XM_026760982.1"; gene_id "gene-CDV56_107363";
+NW_020798117.1	RefSeq	CDS	79568	79801	.	-	0	transcript_id "rna-XM_026760982.1"; gene_id "gene-CDV56_107363";
+NW_020798117.1	RefSeq	CDS	79852	80463	.	-	0	transcript_id "rna-XM_026760982.1"; gene_id "gene-CDV56_107363";
+NW_020798117.1	RefSeq	CDS	80523	80819	.	-	0	transcript_id "rna-XM_026760982.1"; gene_id "gene-CDV56_107363";
+NW_020798117.1	RefSeq	CDS	80893	80961	.	-	0	transcript_id "rna-XM_026760982.1"; gene_id "gene-CDV56_107363";
+NW_020798117.1	RefSeq	CDS	81530	82681	.	-	0	transcript_id "rna-XM_026760982.1"; gene_id "gene-CDV56_107363";
+NW_020798117.1	RefSeq	CDS	82763	83635	.	-	0	transcript_id "rna-XM_026760982.1"; gene_id "gene-CDV56_107363";
+NW_020798119.1	RefSeq	transcript	28293	30624	.	+	.	transcript_id "rna-XM_026757518.1"; gene_id "gene-CDV56_103899"; gene_name "cog6"
+NW_020798119.1	RefSeq	exon	28293	28589	.	+	.	transcript_id "rna-XM_026757518.1"; gene_id "gene-CDV56_103899"; gene_name "cog6";
+NW_020798119.1	RefSeq	exon	28726	30624	.	+	.	transcript_id "rna-XM_026757518.1"; gene_id "gene-CDV56_103899"; gene_name "cog6";
+NW_020798119.1	RefSeq	CDS	28293	28589	.	+	0	transcript_id "rna-XM_026757518.1"; gene_id "gene-CDV56_103899"; gene_name "cog6";
+NW_020798119.1	RefSeq	CDS	28726	30624	.	+	0	transcript_id "rna-XM_026757518.1"; gene_id "gene-CDV56_103899"; gene_name "cog6";
+NW_020798122.1	RefSeq	transcript	108698	110006	.	+	.	transcript_id "rna-XM_026762028.1"; gene_id "gene-CDV56_108409"
+NW_020798122.1	RefSeq	exon	108698	109927	.	+	.	transcript_id "rna-XM_026762028.1"; gene_id "gene-CDV56_108409";
+NW_020798122.1	RefSeq	exon	109977	110006	.	+	.	transcript_id "rna-XM_026762028.1"; gene_id "gene-CDV56_108409";
+NW_020798122.1	RefSeq	CDS	108698	109927	.	+	0	transcript_id "rna-XM_026762028.1"; gene_id "gene-CDV56_108409";
+NW_020798122.1	RefSeq	CDS	109977	110006	.	+	0	transcript_id "rna-XM_026762028.1"; gene_id "gene-CDV56_108409";
+NW_020798128.1	RefSeq	transcript	54529	55461	.	-	.	transcript_id "rna-XM_026759687.1"; gene_id "gene-CDV56_106068"
+NW_020798128.1	RefSeq	exon	54529	55208	.	-	.	transcript_id "rna-XM_026759687.1"; gene_id "gene-CDV56_106068";
+NW_020798128.1	RefSeq	exon	55262	55389	.	-	.	transcript_id "rna-XM_026759687.1"; gene_id "gene-CDV56_106068";
+NW_020798128.1	RefSeq	exon	55439	55461	.	-	.	transcript_id "rna-XM_026759687.1"; gene_id "gene-CDV56_106068";
+NW_020798128.1	RefSeq	CDS	54529	55208	.	-	2	transcript_id "rna-XM_026759687.1"; gene_id "gene-CDV56_106068";
+NW_020798128.1	RefSeq	CDS	55262	55389	.	-	1	transcript_id "rna-XM_026759687.1"; gene_id "gene-CDV56_106068";
+NW_020798128.1	RefSeq	CDS	55439	55461	.	-	0	transcript_id "rna-XM_026759687.1"; gene_id "gene-CDV56_106068";
+NW_020798056.1	RefSeq	transcript	245640	248191	.	+	.	transcript_id "rna-XM_026763237.1"; gene_id "gene-CDV56_109618"
+NW_020798056.1	RefSeq	exon	245640	245854	.	+	.	transcript_id "rna-XM_026763237.1"; gene_id "gene-CDV56_109618";
+NW_020798056.1	RefSeq	exon	245929	246268	.	+	.	transcript_id "rna-XM_026763237.1"; gene_id "gene-CDV56_109618";
+NW_020798056.1	RefSeq	exon	246322	247347	.	+	.	transcript_id "rna-XM_026763237.1"; gene_id "gene-CDV56_109618";
+NW_020798056.1	RefSeq	exon	247409	248191	.	+	.	transcript_id "rna-XM_026763237.1"; gene_id "gene-CDV56_109618";
+NW_020798056.1	RefSeq	CDS	245640	245854	.	+	0	transcript_id "rna-XM_026763237.1"; gene_id "gene-CDV56_109618";
+NW_020798056.1	RefSeq	CDS	245929	246268	.	+	1	transcript_id "rna-XM_026763237.1"; gene_id "gene-CDV56_109618";
+NW_020798056.1	RefSeq	CDS	246322	247347	.	+	0	transcript_id "rna-XM_026763237.1"; gene_id "gene-CDV56_109618";
+NW_020798056.1	RefSeq	CDS	247409	248191	.	+	0	transcript_id "rna-XM_026763237.1"; gene_id "gene-CDV56_109618";
+NW_020798130.1	RefSeq	transcript	17723	18978	.	-	.	transcript_id "rna-XM_026756354.1"; gene_id "gene-CDV56_102735"
+NW_020798130.1	RefSeq	exon	17723	18340	.	-	.	transcript_id "rna-XM_026756354.1"; gene_id "gene-CDV56_102735";
+NW_020798130.1	RefSeq	exon	18424	18978	.	-	.	transcript_id "rna-XM_026756354.1"; gene_id "gene-CDV56_102735";
+NW_020798130.1	RefSeq	CDS	17723	18340	.	-	0	transcript_id "rna-XM_026756354.1"; gene_id "gene-CDV56_102735";
+NW_020798130.1	RefSeq	CDS	18424	18978	.	-	0	transcript_id "rna-XM_026756354.1"; gene_id "gene-CDV56_102735";
+NW_020798132.1	RefSeq	transcript	85923	88076	.	-	.	transcript_id "rna-XM_026761331.1"; gene_id "gene-CDV56_107712"
+NW_020798132.1	RefSeq	exon	85923	88076	.	-	.	transcript_id "rna-XM_026761331.1"; gene_id "gene-CDV56_107712";
+NW_020798132.1	RefSeq	CDS	85923	88076	.	-	0	transcript_id "rna-XM_026761331.1"; gene_id "gene-CDV56_107712";
+NW_020798135.1	RefSeq	transcript	27412	31897	.	-	.	transcript_id "rna-XM_026757442.1"; gene_id "gene-CDV56_103823"
+NW_020798135.1	RefSeq	exon	27412	29736	.	-	.	transcript_id "rna-XM_026757442.1"; gene_id "gene-CDV56_103823";
+NW_020798135.1	RefSeq	exon	30158	30572	.	-	.	transcript_id "rna-XM_026757442.1"; gene_id "gene-CDV56_103823";
+NW_020798135.1	RefSeq	exon	30643	30874	.	-	.	transcript_id "rna-XM_026757442.1"; gene_id "gene-CDV56_103823";
+NW_020798135.1	RefSeq	exon	30928	30969	.	-	.	transcript_id "rna-XM_026757442.1"; gene_id "gene-CDV56_103823";
+NW_020798135.1	RefSeq	exon	31020	31133	.	-	.	transcript_id "rna-XM_026757442.1"; gene_id "gene-CDV56_103823";
+NW_020798135.1	RefSeq	exon	31189	31231	.	-	.	transcript_id "rna-XM_026757442.1"; gene_id "gene-CDV56_103823";
+NW_020798135.1	RefSeq	exon	31285	31429	.	-	.	transcript_id "rna-XM_026757442.1"; gene_id "gene-CDV56_103823";
+NW_020798135.1	RefSeq	exon	31515	31642	.	-	.	transcript_id "rna-XM_026757442.1"; gene_id "gene-CDV56_103823";
+NW_020798135.1	RefSeq	exon	31727	31897	.	-	.	transcript_id "rna-XM_026757442.1"; gene_id "gene-CDV56_103823";
+NW_020798135.1	RefSeq	CDS	27412	29736	.	-	0	transcript_id "rna-XM_026757442.1"; gene_id "gene-CDV56_103823";
+NW_020798135.1	RefSeq	CDS	30158	30572	.	-	1	transcript_id "rna-XM_026757442.1"; gene_id "gene-CDV56_103823";
+NW_020798135.1	RefSeq	CDS	30643	30874	.	-	2	transcript_id "rna-XM_026757442.1"; gene_id "gene-CDV56_103823";
+NW_020798135.1	RefSeq	CDS	30928	30969	.	-	2	transcript_id "rna-XM_026757442.1"; gene_id "gene-CDV56_103823";
+NW_020798135.1	RefSeq	CDS	31020	31133	.	-	2	transcript_id "rna-XM_026757442.1"; gene_id "gene-CDV56_103823";
+NW_020798135.1	RefSeq	CDS	31189	31231	.	-	0	transcript_id "rna-XM_026757442.1"; gene_id "gene-CDV56_103823";
+NW_020798135.1	RefSeq	CDS	31285	31429	.	-	1	transcript_id "rna-XM_026757442.1"; gene_id "gene-CDV56_103823";
+NW_020798135.1	RefSeq	CDS	31515	31642	.	-	0	transcript_id "rna-XM_026757442.1"; gene_id "gene-CDV56_103823";
+NW_020798135.1	RefSeq	CDS	31727	31897	.	-	0	transcript_id "rna-XM_026757442.1"; gene_id "gene-CDV56_103823";
+NW_020798135.1	RefSeq	transcript	44024	45112	.	-	.	transcript_id "rna-XM_026758911.1"; gene_id "gene-CDV56_105292"; gene_name "LIA1"
+NW_020798135.1	RefSeq	exon	44024	44540	.	-	.	transcript_id "rna-XM_026758911.1"; gene_id "gene-CDV56_105292"; gene_name "LIA1";
+NW_020798135.1	RefSeq	exon	44622	45112	.	-	.	transcript_id "rna-XM_026758911.1"; gene_id "gene-CDV56_105292"; gene_name "LIA1";
+NW_020798135.1	RefSeq	CDS	44024	44540	.	-	1	transcript_id "rna-XM_026758911.1"; gene_id "gene-CDV56_105292"; gene_name "LIA1";
+NW_020798135.1	RefSeq	CDS	44622	45112	.	-	0	transcript_id "rna-XM_026758911.1"; gene_id "gene-CDV56_105292"; gene_name "LIA1";
+NW_020798136.1	RefSeq	transcript	39990	41012	.	-	.	transcript_id "rna-XM_026758597.1"; gene_id "gene-CDV56_104978"; gene_name "cwc26"
+NW_020798136.1	RefSeq	exon	39990	41012	.	-	.	transcript_id "rna-XM_026758597.1"; gene_id "gene-CDV56_104978"; gene_name "cwc26";
+NW_020798136.1	RefSeq	CDS	39990	41012	.	-	0	transcript_id "rna-XM_026758597.1"; gene_id "gene-CDV56_104978"; gene_name "cwc26";

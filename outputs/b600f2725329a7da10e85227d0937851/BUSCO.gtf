@@ -1,0 +1,615 @@
+JAJGBW010000001.1	Genbank	transcript	109688	110851	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000051-T1_mrna"; gene_id "gene-HRR86_000051"; gene_name "RRP42"
+JAJGBW010000001.1	Genbank	exon	109688	110851	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000051-T1_mrna"; gene_id "gene-HRR86_000051"; gene_name "RRP42";
+JAJGBW010000001.1	Genbank	CDS	109688	110851	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000051-T1_mrna"; gene_id "gene-HRR86_000051"; gene_name "RRP42";
+JAJGBW010000001.1	Genbank	transcript	343363	344592	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000142-T1_mrna"; gene_id "gene-HRR86_000142"; gene_name "COQ4"
+JAJGBW010000001.1	Genbank	exon	343363	344592	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000142-T1_mrna"; gene_id "gene-HRR86_000142"; gene_name "COQ4";
+JAJGBW010000001.1	Genbank	CDS	343363	344304	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000142-T1_mrna"; gene_id "gene-HRR86_000142"; gene_name "COQ4";
+JAJGBW010000001.1	Genbank	transcript	673106	677722	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000241-T1_mrna"; gene_id "gene-HRR86_000241"; gene_name "DIP2"
+JAJGBW010000001.1	Genbank	exon	673106	677633	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000241-T1_mrna"; gene_id "gene-HRR86_000241"; gene_name "DIP2";
+JAJGBW010000001.1	Genbank	exon	677690	677722	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000241-T1_mrna"; gene_id "gene-HRR86_000241"; gene_name "DIP2";
+JAJGBW010000001.1	Genbank	CDS	674735	677633	.	-	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000241-T1_mrna"; gene_id "gene-HRR86_000241"; gene_name "DIP2";
+JAJGBW010000001.1	Genbank	CDS	677690	677706	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000241-T1_mrna"; gene_id "gene-HRR86_000241"; gene_name "DIP2";
+JAJGBW010000001.1	Genbank	transcript	925041	928371	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000331-T1_mrna"; gene_id "gene-HRR86_000331"; gene_name "ENP1"
+JAJGBW010000001.1	Genbank	exon	925041	928371	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000331-T1_mrna"; gene_id "gene-HRR86_000331"; gene_name "ENP1";
+JAJGBW010000001.1	Genbank	CDS	926471	928054	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000331-T1_mrna"; gene_id "gene-HRR86_000331"; gene_name "ENP1";
+JAJGBW010000001.1	Genbank	transcript	1099137	1100482	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000391-T1_mrna"; gene_id "gene-HRR86_000391"
+JAJGBW010000001.1	Genbank	exon	1099137	1100482	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000391-T1_mrna"; gene_id "gene-HRR86_000391";
+JAJGBW010000001.1	Genbank	CDS	1099595	1100473	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000391-T1_mrna"; gene_id "gene-HRR86_000391";
+JAJGBW010000001.1	Genbank	transcript	1251057	1253781	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000446-T1_mrna"; gene_id "gene-HRR86_000446"; gene_name "SRP68"
+JAJGBW010000001.1	Genbank	exon	1251057	1251322	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000446-T1_mrna"; gene_id "gene-HRR86_000446"; gene_name "SRP68";
+JAJGBW010000001.1	Genbank	exon	1251378	1253781	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000446-T1_mrna"; gene_id "gene-HRR86_000446"; gene_name "SRP68";
+JAJGBW010000001.1	Genbank	CDS	1251135	1251322	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000446-T1_mrna"; gene_id "gene-HRR86_000446"; gene_name "SRP68";
+JAJGBW010000001.1	Genbank	CDS	1251378	1253127	.	+	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000446-T1_mrna"; gene_id "gene-HRR86_000446"; gene_name "SRP68";
+JAJGBW010000001.1	Genbank	transcript	1603040	1606661	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000559-T1_mrna"; gene_id "gene-HRR86_000559"; gene_name "ctf18"
+JAJGBW010000001.1	Genbank	exon	1603040	1603916	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000559-T1_mrna"; gene_id "gene-HRR86_000559"; gene_name "ctf18";
+JAJGBW010000001.1	Genbank	exon	1603972	1606661	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000559-T1_mrna"; gene_id "gene-HRR86_000559"; gene_name "ctf18";
+JAJGBW010000001.1	Genbank	CDS	1603487	1603916	.	-	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000559-T1_mrna"; gene_id "gene-HRR86_000559"; gene_name "ctf18";
+JAJGBW010000001.1	Genbank	CDS	1603972	1606394	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000559-T1_mrna"; gene_id "gene-HRR86_000559"; gene_name "ctf18";
+JAJGBW010000001.1	Genbank	transcript	2177531	2180637	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000740-T1_mrna"; gene_id "gene-HRR86_000740"; gene_name "DPB2"
+JAJGBW010000001.1	Genbank	exon	2177531	2180637	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000740-T1_mrna"; gene_id "gene-HRR86_000740"; gene_name "DPB2";
+JAJGBW010000001.1	Genbank	CDS	2177760	2180363	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000740-T1_mrna"; gene_id "gene-HRR86_000740"; gene_name "DPB2";
+JAJGBW010000001.1	Genbank	transcript	2266251	2269774	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000770-T1_mrna"; gene_id "gene-HRR86_000770"; gene_name "CDC54"
+JAJGBW010000001.1	Genbank	exon	2266251	2266608	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000770-T1_mrna"; gene_id "gene-HRR86_000770"; gene_name "CDC54";
+JAJGBW010000001.1	Genbank	exon	2266662	2268808	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000770-T1_mrna"; gene_id "gene-HRR86_000770"; gene_name "CDC54";
+JAJGBW010000001.1	Genbank	exon	2268895	2269774	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000770-T1_mrna"; gene_id "gene-HRR86_000770"; gene_name "CDC54";
+JAJGBW010000001.1	Genbank	CDS	2266314	2266608	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000770-T1_mrna"; gene_id "gene-HRR86_000770"; gene_name "CDC54";
+JAJGBW010000001.1	Genbank	CDS	2266662	2268808	.	+	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000770-T1_mrna"; gene_id "gene-HRR86_000770"; gene_name "CDC54";
+JAJGBW010000001.1	Genbank	CDS	2268895	2269482	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000770-T1_mrna"; gene_id "gene-HRR86_000770"; gene_name "CDC54";
+JAJGBW010000001.1	Genbank	transcript	2299855	2302637	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000786-T1_mrna"; gene_id "gene-HRR86_000786"; gene_name "DPH1"
+JAJGBW010000001.1	Genbank	exon	2299855	2300029	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000786-T1_mrna"; gene_id "gene-HRR86_000786"; gene_name "DPH1";
+JAJGBW010000001.1	Genbank	exon	2300086	2301230	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000786-T1_mrna"; gene_id "gene-HRR86_000786"; gene_name "DPH1";
+JAJGBW010000001.1	Genbank	exon	2301694	2301702	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000786-T1_mrna"; gene_id "gene-HRR86_000786"; gene_name "DPH1";
+JAJGBW010000001.1	Genbank	exon	2301750	2302637	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000786-T1_mrna"; gene_id "gene-HRR86_000786"; gene_name "DPH1";
+JAJGBW010000001.1	Genbank	CDS	2299855	2300029	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000786-T1_mrna"; gene_id "gene-HRR86_000786"; gene_name "DPH1";
+JAJGBW010000001.1	Genbank	CDS	2300086	2301230	.	+	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000786-T1_mrna"; gene_id "gene-HRR86_000786"; gene_name "DPH1";
+JAJGBW010000001.1	Genbank	CDS	2301694	2301702	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000786-T1_mrna"; gene_id "gene-HRR86_000786"; gene_name "DPH1";
+JAJGBW010000001.1	Genbank	CDS	2301750	2302637	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000786-T1_mrna"; gene_id "gene-HRR86_000786"; gene_name "DPH1";
+JAJGBW010000001.1	Genbank	transcript	2454697	2456858	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000840-T1_mrna"; gene_id "gene-HRR86_000840"; gene_name "TFB1"
+JAJGBW010000001.1	Genbank	exon	2454697	2456858	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000840-T1_mrna"; gene_id "gene-HRR86_000840"; gene_name "TFB1";
+JAJGBW010000001.1	Genbank	CDS	2454813	2456672	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000840-T1_mrna"; gene_id "gene-HRR86_000840"; gene_name "TFB1";
+JAJGBW010000001.1	Genbank	transcript	2540942	2541727	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000862-T1_mrna"; gene_id "gene-HRR86_000862"; gene_name "NSA2"
+JAJGBW010000001.1	Genbank	exon	2540942	2541727	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000862-T1_mrna"; gene_id "gene-HRR86_000862"; gene_name "NSA2";
+JAJGBW010000001.1	Genbank	CDS	2540942	2541727	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_000862-T1_mrna"; gene_id "gene-HRR86_000862"; gene_name "NSA2";
+JAJGBW010000010.1	Genbank	transcript	349107	351806	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004839-T1_mrna"; gene_id "gene-HRR86_004839"; gene_name "COX15_1"
+JAJGBW010000010.1	Genbank	exon	349107	349780	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004839-T1_mrna"; gene_id "gene-HRR86_004839"; gene_name "COX15_1";
+JAJGBW010000010.1	Genbank	exon	349886	351806	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004839-T1_mrna"; gene_id "gene-HRR86_004839"; gene_name "COX15_1";
+JAJGBW010000010.1	Genbank	CDS	349197	349780	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004839-T1_mrna"; gene_id "gene-HRR86_004839"; gene_name "COX15_1";
+JAJGBW010000010.1	Genbank	CDS	349886	351191	.	+	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004839-T1_mrna"; gene_id "gene-HRR86_004839"; gene_name "COX15_1";
+JAJGBW010000010.1	Genbank	transcript	387101	390193	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004856-T1_mrna"; gene_id "gene-HRR86_004856"; gene_name "HAT1"
+JAJGBW010000010.1	Genbank	exon	387101	389971	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004856-T1_mrna"; gene_id "gene-HRR86_004856"; gene_name "HAT1";
+JAJGBW010000010.1	Genbank	exon	390023	390193	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004856-T1_mrna"; gene_id "gene-HRR86_004856"; gene_name "HAT1";
+JAJGBW010000010.1	Genbank	CDS	388482	389971	.	-	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004856-T1_mrna"; gene_id "gene-HRR86_004856"; gene_name "HAT1";
+JAJGBW010000010.1	Genbank	CDS	390023	390047	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004856-T1_mrna"; gene_id "gene-HRR86_004856"; gene_name "HAT1";
+JAJGBW010000010.1	Genbank	transcript	546797	548980	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004909-T1_mrna"; gene_id "gene-HRR86_004909"
+JAJGBW010000010.1	Genbank	exon	546797	548980	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004909-T1_mrna"; gene_id "gene-HRR86_004909";
+JAJGBW010000010.1	Genbank	CDS	546797	548980	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004909-T1_mrna"; gene_id "gene-HRR86_004909";
+JAJGBW010000011.1	Genbank	transcript	617011	619581	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005271-T1_mrna"; gene_id "gene-HRR86_005271"; gene_name "SEC10"
+JAJGBW010000011.1	Genbank	exon	617011	619581	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005271-T1_mrna"; gene_id "gene-HRR86_005271"; gene_name "SEC10";
+JAJGBW010000011.1	Genbank	CDS	617011	619581	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005271-T1_mrna"; gene_id "gene-HRR86_005271"; gene_name "SEC10";
+JAJGBW010000011.1	Genbank	transcript	758228	759328	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005335-T1_mrna"; gene_id "gene-HRR86_005335"
+JAJGBW010000011.1	Genbank	exon	758228	759328	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005335-T1_mrna"; gene_id "gene-HRR86_005335";
+JAJGBW010000011.1	Genbank	CDS	758228	759328	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005335-T1_mrna"; gene_id "gene-HRR86_005335";
+JAJGBW010000012.1	Genbank	transcript	89312	90463	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005374-T1_mrna"; gene_id "gene-HRR86_005374"; gene_name "CWC26"
+JAJGBW010000012.1	Genbank	exon	89312	90463	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005374-T1_mrna"; gene_id "gene-HRR86_005374"; gene_name "CWC26";
+JAJGBW010000012.1	Genbank	CDS	89312	90463	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005374-T1_mrna"; gene_id "gene-HRR86_005374"; gene_name "CWC26";
+JAJGBW010000012.1	Genbank	transcript	140821	143127	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005386-T1_mrna"; gene_id "gene-HRR86_005386"; gene_name "SDA1"
+JAJGBW010000012.1	Genbank	exon	140821	143127	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005386-T1_mrna"; gene_id "gene-HRR86_005386"; gene_name "SDA1";
+JAJGBW010000012.1	Genbank	CDS	140821	143127	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005386-T1_mrna"; gene_id "gene-HRR86_005386"; gene_name "SDA1";
+JAJGBW010000012.1	Genbank	transcript	527564	528927	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005527-T1_mrna"; gene_id "gene-HRR86_005527"
+JAJGBW010000012.1	Genbank	exon	527564	528927	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005527-T1_mrna"; gene_id "gene-HRR86_005527";
+JAJGBW010000012.1	Genbank	CDS	527627	528844	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005527-T1_mrna"; gene_id "gene-HRR86_005527";
+JAJGBW010000013.1	Genbank	transcript	150086	151702	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005648-T1_mrna"; gene_id "gene-HRR86_005648"; gene_name "RRP45"
+JAJGBW010000013.1	Genbank	exon	150086	151094	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005648-T1_mrna"; gene_id "gene-HRR86_005648"; gene_name "RRP45";
+JAJGBW010000013.1	Genbank	exon	151147	151266	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005648-T1_mrna"; gene_id "gene-HRR86_005648"; gene_name "RRP45";
+JAJGBW010000013.1	Genbank	exon	151319	151702	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005648-T1_mrna"; gene_id "gene-HRR86_005648"; gene_name "RRP45";
+JAJGBW010000013.1	Genbank	CDS	150503	151094	.	-	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005648-T1_mrna"; gene_id "gene-HRR86_005648"; gene_name "RRP45";
+JAJGBW010000013.1	Genbank	CDS	151147	151266	.	-	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005648-T1_mrna"; gene_id "gene-HRR86_005648"; gene_name "RRP45";
+JAJGBW010000013.1	Genbank	CDS	151319	151482	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005648-T1_mrna"; gene_id "gene-HRR86_005648"; gene_name "RRP45";
+JAJGBW010000013.1	Genbank	transcript	151967	152815	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005649-T1_mrna"; gene_id "gene-HRR86_005649"; gene_name "CWC15"
+JAJGBW010000013.1	Genbank	exon	151967	151976	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005649-T1_mrna"; gene_id "gene-HRR86_005649"; gene_name "CWC15";
+JAJGBW010000013.1	Genbank	exon	152032	152131	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005649-T1_mrna"; gene_id "gene-HRR86_005649"; gene_name "CWC15";
+JAJGBW010000013.1	Genbank	exon	152181	152745	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005649-T1_mrna"; gene_id "gene-HRR86_005649"; gene_name "CWC15";
+JAJGBW010000013.1	Genbank	exon	152798	152815	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005649-T1_mrna"; gene_id "gene-HRR86_005649"; gene_name "CWC15";
+JAJGBW010000013.1	Genbank	CDS	151967	151976	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005649-T1_mrna"; gene_id "gene-HRR86_005649"; gene_name "CWC15";
+JAJGBW010000013.1	Genbank	CDS	152032	152131	.	+	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005649-T1_mrna"; gene_id "gene-HRR86_005649"; gene_name "CWC15";
+JAJGBW010000013.1	Genbank	CDS	152181	152745	.	+	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005649-T1_mrna"; gene_id "gene-HRR86_005649"; gene_name "CWC15";
+JAJGBW010000013.1	Genbank	CDS	152798	152815	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005649-T1_mrna"; gene_id "gene-HRR86_005649"; gene_name "CWC15";
+JAJGBW010000014.1	Genbank	transcript	163820	165243	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005892-T1_mrna"; gene_id "gene-HRR86_005892"; gene_name "DOM34"
+JAJGBW010000014.1	Genbank	exon	163820	163973	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005892-T1_mrna"; gene_id "gene-HRR86_005892"; gene_name "DOM34";
+JAJGBW010000014.1	Genbank	exon	164034	165243	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005892-T1_mrna"; gene_id "gene-HRR86_005892"; gene_name "DOM34";
+JAJGBW010000014.1	Genbank	CDS	163896	163973	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005892-T1_mrna"; gene_id "gene-HRR86_005892"; gene_name "DOM34";
+JAJGBW010000014.1	Genbank	CDS	164034	165209	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_005892-T1_mrna"; gene_id "gene-HRR86_005892"; gene_name "DOM34";
+JAJGBW010000015.1	Genbank	transcript	9003	11143	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006073-T1_mrna"; gene_id "gene-HRR86_006073"; gene_name "GCN3"
+JAJGBW010000015.1	Genbank	exon	9003	9173	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006073-T1_mrna"; gene_id "gene-HRR86_006073"; gene_name "GCN3";
+JAJGBW010000015.1	Genbank	exon	9379	11143	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006073-T1_mrna"; gene_id "gene-HRR86_006073"; gene_name "GCN3";
+JAJGBW010000015.1	Genbank	CDS	9164	9173	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006073-T1_mrna"; gene_id "gene-HRR86_006073"; gene_name "GCN3";
+JAJGBW010000015.1	Genbank	CDS	9379	10445	.	+	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006073-T1_mrna"; gene_id "gene-HRR86_006073"; gene_name "GCN3";
+JAJGBW010000015.1	Genbank	transcript	85947	87270	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006108-T1_mrna"; gene_id "gene-HRR86_006108"; gene_name "ebp2"
+JAJGBW010000015.1	Genbank	exon	85947	86826	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006108-T1_mrna"; gene_id "gene-HRR86_006108"; gene_name "ebp2";
+JAJGBW010000015.1	Genbank	exon	86978	87270	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006108-T1_mrna"; gene_id "gene-HRR86_006108"; gene_name "ebp2";
+JAJGBW010000015.1	Genbank	CDS	85947	86826	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006108-T1_mrna"; gene_id "gene-HRR86_006108"; gene_name "ebp2";
+JAJGBW010000015.1	Genbank	CDS	86978	87270	.	+	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006108-T1_mrna"; gene_id "gene-HRR86_006108"; gene_name "ebp2";
+JAJGBW010000016.1	Genbank	transcript	344536	346661	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006445-T1_mrna"; gene_id "gene-HRR86_006445"; gene_name "RAM1"
+JAJGBW010000016.1	Genbank	exon	344536	345077	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006445-T1_mrna"; gene_id "gene-HRR86_006445"; gene_name "RAM1";
+JAJGBW010000016.1	Genbank	exon	345130	345888	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006445-T1_mrna"; gene_id "gene-HRR86_006445"; gene_name "RAM1";
+JAJGBW010000016.1	Genbank	exon	345965	346661	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006445-T1_mrna"; gene_id "gene-HRR86_006445"; gene_name "RAM1";
+JAJGBW010000016.1	Genbank	CDS	344795	345077	.	-	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006445-T1_mrna"; gene_id "gene-HRR86_006445"; gene_name "RAM1";
+JAJGBW010000016.1	Genbank	CDS	345130	345888	.	-	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006445-T1_mrna"; gene_id "gene-HRR86_006445"; gene_name "RAM1";
+JAJGBW010000016.1	Genbank	CDS	345965	346311	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006445-T1_mrna"; gene_id "gene-HRR86_006445"; gene_name "RAM1";
+JAJGBW010000016.1	Genbank	transcript	398261	399954	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006468-T1_mrna"; gene_id "gene-HRR86_006468"; gene_name "CSN12"
+JAJGBW010000016.1	Genbank	exon	398261	398344	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006468-T1_mrna"; gene_id "gene-HRR86_006468"; gene_name "CSN12";
+JAJGBW010000016.1	Genbank	exon	398650	399954	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006468-T1_mrna"; gene_id "gene-HRR86_006468"; gene_name "CSN12";
+JAJGBW010000016.1	Genbank	CDS	398261	398344	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006468-T1_mrna"; gene_id "gene-HRR86_006468"; gene_name "CSN12";
+JAJGBW010000016.1	Genbank	CDS	398650	399954	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006468-T1_mrna"; gene_id "gene-HRR86_006468"; gene_name "CSN12";
+JAJGBW010000016.1	Genbank	transcript	470521	471636	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006496-T1_mrna"; gene_id "gene-HRR86_006496"; gene_name "rrp4"
+JAJGBW010000016.1	Genbank	exon	470521	471373	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006496-T1_mrna"; gene_id "gene-HRR86_006496"; gene_name "rrp4";
+JAJGBW010000016.1	Genbank	exon	471428	471636	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006496-T1_mrna"; gene_id "gene-HRR86_006496"; gene_name "rrp4";
+JAJGBW010000016.1	Genbank	CDS	470521	471373	.	-	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006496-T1_mrna"; gene_id "gene-HRR86_006496"; gene_name "rrp4";
+JAJGBW010000016.1	Genbank	CDS	471428	471636	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006496-T1_mrna"; gene_id "gene-HRR86_006496"; gene_name "rrp4";
+JAJGBW010000016.1	Genbank	transcript	472019	473297	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006497-T1_mrna"; gene_id "gene-HRR86_006497"; gene_name "TSR3"
+JAJGBW010000016.1	Genbank	exon	472019	472266	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006497-T1_mrna"; gene_id "gene-HRR86_006497"; gene_name "TSR3";
+JAJGBW010000016.1	Genbank	exon	472349	473297	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006497-T1_mrna"; gene_id "gene-HRR86_006497"; gene_name "TSR3";
+JAJGBW010000016.1	Genbank	CDS	472019	472266	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006497-T1_mrna"; gene_id "gene-HRR86_006497"; gene_name "TSR3";
+JAJGBW010000016.1	Genbank	CDS	472349	473297	.	+	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006497-T1_mrna"; gene_id "gene-HRR86_006497"; gene_name "TSR3";
+JAJGBW010000017.1	Genbank	transcript	226104	227431	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006627-T1_mrna"; gene_id "gene-HRR86_006627"
+JAJGBW010000017.1	Genbank	exon	226104	227348	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006627-T1_mrna"; gene_id "gene-HRR86_006627";
+JAJGBW010000017.1	Genbank	exon	227402	227431	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006627-T1_mrna"; gene_id "gene-HRR86_006627";
+JAJGBW010000017.1	Genbank	CDS	226104	227348	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006627-T1_mrna"; gene_id "gene-HRR86_006627";
+JAJGBW010000017.1	Genbank	CDS	227402	227431	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006627-T1_mrna"; gene_id "gene-HRR86_006627";
+JAJGBW010000017.1	Genbank	transcript	234688	236258	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006631-T1_mrna"; gene_id "gene-HRR86_006631"
+JAJGBW010000017.1	Genbank	exon	234688	234790	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006631-T1_mrna"; gene_id "gene-HRR86_006631";
+JAJGBW010000017.1	Genbank	exon	234847	234947	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006631-T1_mrna"; gene_id "gene-HRR86_006631";
+JAJGBW010000017.1	Genbank	exon	234999	236258	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006631-T1_mrna"; gene_id "gene-HRR86_006631";
+JAJGBW010000017.1	Genbank	CDS	234688	234790	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006631-T1_mrna"; gene_id "gene-HRR86_006631";
+JAJGBW010000017.1	Genbank	CDS	234847	234947	.	+	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006631-T1_mrna"; gene_id "gene-HRR86_006631";
+JAJGBW010000017.1	Genbank	CDS	234999	236258	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006631-T1_mrna"; gene_id "gene-HRR86_006631";
+JAJGBW010000017.1	Genbank	transcript	278305	281063	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006652-T1_mrna"; gene_id "gene-HRR86_006652"; gene_name "PCM1"
+JAJGBW010000017.1	Genbank	exon	278305	279476	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006652-T1_mrna"; gene_id "gene-HRR86_006652"; gene_name "PCM1";
+JAJGBW010000017.1	Genbank	exon	279534	280055	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006652-T1_mrna"; gene_id "gene-HRR86_006652"; gene_name "PCM1";
+JAJGBW010000017.1	Genbank	exon	280111	280125	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006652-T1_mrna"; gene_id "gene-HRR86_006652"; gene_name "PCM1";
+JAJGBW010000017.1	Genbank	exon	280179	280323	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006652-T1_mrna"; gene_id "gene-HRR86_006652"; gene_name "PCM1";
+JAJGBW010000017.1	Genbank	exon	280425	280438	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006652-T1_mrna"; gene_id "gene-HRR86_006652"; gene_name "PCM1";
+JAJGBW010000017.1	Genbank	exon	280498	281063	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006652-T1_mrna"; gene_id "gene-HRR86_006652"; gene_name "PCM1";
+JAJGBW010000017.1	Genbank	CDS	278616	279476	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006652-T1_mrna"; gene_id "gene-HRR86_006652"; gene_name "PCM1";
+JAJGBW010000017.1	Genbank	CDS	279534	280055	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006652-T1_mrna"; gene_id "gene-HRR86_006652"; gene_name "PCM1";
+JAJGBW010000017.1	Genbank	CDS	280111	280125	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006652-T1_mrna"; gene_id "gene-HRR86_006652"; gene_name "PCM1";
+JAJGBW010000017.1	Genbank	CDS	280179	280323	.	-	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006652-T1_mrna"; gene_id "gene-HRR86_006652"; gene_name "PCM1";
+JAJGBW010000017.1	Genbank	CDS	280425	280438	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006652-T1_mrna"; gene_id "gene-HRR86_006652"; gene_name "PCM1";
+JAJGBW010000017.1	Genbank	CDS	280498	280644	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006652-T1_mrna"; gene_id "gene-HRR86_006652"; gene_name "PCM1";
+JAJGBW010000017.1	Genbank	transcript	340586	341229	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006677-T1_mrna"; gene_id "gene-HRR86_006677"; gene_name "naa20"
+JAJGBW010000017.1	Genbank	exon	340586	340788	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006677-T1_mrna"; gene_id "gene-HRR86_006677"; gene_name "naa20";
+JAJGBW010000017.1	Genbank	exon	340863	341229	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006677-T1_mrna"; gene_id "gene-HRR86_006677"; gene_name "naa20";
+JAJGBW010000017.1	Genbank	CDS	340586	340788	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006677-T1_mrna"; gene_id "gene-HRR86_006677"; gene_name "naa20";
+JAJGBW010000017.1	Genbank	CDS	340863	341229	.	+	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006677-T1_mrna"; gene_id "gene-HRR86_006677"; gene_name "naa20";
+JAJGBW010000017.1	Genbank	transcript	460379	461416	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006721-T1_mrna"; gene_id "gene-HRR86_006721"
+JAJGBW010000017.1	Genbank	exon	460379	461416	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006721-T1_mrna"; gene_id "gene-HRR86_006721";
+JAJGBW010000017.1	Genbank	CDS	460379	461416	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006721-T1_mrna"; gene_id "gene-HRR86_006721";
+JAJGBW010000017.1	Genbank	transcript	481702	484734	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006731-T1_mrna"; gene_id "gene-HRR86_006731"; gene_name "NOP14"
+JAJGBW010000017.1	Genbank	exon	481702	484734	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006731-T1_mrna"; gene_id "gene-HRR86_006731"; gene_name "NOP14";
+JAJGBW010000017.1	Genbank	CDS	481753	484515	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006731-T1_mrna"; gene_id "gene-HRR86_006731"; gene_name "NOP14";
+JAJGBW010000018.1	Genbank	transcript	26921	28103	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006770-T1_mrna"; gene_id "gene-HRR86_006770"; gene_name "TMA46"
+JAJGBW010000018.1	Genbank	exon	26921	27425	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006770-T1_mrna"; gene_id "gene-HRR86_006770"; gene_name "TMA46";
+JAJGBW010000018.1	Genbank	exon	27484	28103	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006770-T1_mrna"; gene_id "gene-HRR86_006770"; gene_name "TMA46";
+JAJGBW010000018.1	Genbank	CDS	26921	27425	.	-	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006770-T1_mrna"; gene_id "gene-HRR86_006770"; gene_name "TMA46";
+JAJGBW010000018.1	Genbank	CDS	27484	28103	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006770-T1_mrna"; gene_id "gene-HRR86_006770"; gene_name "TMA46";
+JAJGBW010000018.1	Genbank	transcript	282861	284177	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006866-T1_mrna"; gene_id "gene-HRR86_006866"; gene_name "PRP46"
+JAJGBW010000018.1	Genbank	exon	282861	284177	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006866-T1_mrna"; gene_id "gene-HRR86_006866"; gene_name "PRP46";
+JAJGBW010000018.1	Genbank	CDS	282861	284177	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006866-T1_mrna"; gene_id "gene-HRR86_006866"; gene_name "PRP46";
+JAJGBW010000018.1	Genbank	transcript	532589	533584	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006941-T1_mrna"; gene_id "gene-HRR86_006941"; gene_name "LIA1"
+JAJGBW010000018.1	Genbank	exon	532589	533584	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006941-T1_mrna"; gene_id "gene-HRR86_006941"; gene_name "LIA1";
+JAJGBW010000018.1	Genbank	CDS	532589	533584	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006941-T1_mrna"; gene_id "gene-HRR86_006941"; gene_name "LIA1";
+JAJGBW010000019.1	Genbank	transcript	15273	17693	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006962-T1_mrna"; gene_id "gene-HRR86_006962"; gene_name "SWC4"
+JAJGBW010000019.1	Genbank	exon	15273	17693	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006962-T1_mrna"; gene_id "gene-HRR86_006962"; gene_name "SWC4";
+JAJGBW010000019.1	Genbank	CDS	15273	17693	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_006962-T1_mrna"; gene_id "gene-HRR86_006962"; gene_name "SWC4";
+JAJGBW010000019.1	Genbank	transcript	179631	181463	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007027-T1_mrna"; gene_id "gene-HRR86_007027"; gene_name "TMA20"
+JAJGBW010000019.1	Genbank	exon	179631	179721	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007027-T1_mrna"; gene_id "gene-HRR86_007027"; gene_name "TMA20";
+JAJGBW010000019.1	Genbank	exon	179779	179919	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007027-T1_mrna"; gene_id "gene-HRR86_007027"; gene_name "TMA20";
+JAJGBW010000019.1	Genbank	exon	180123	181463	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007027-T1_mrna"; gene_id "gene-HRR86_007027"; gene_name "TMA20";
+JAJGBW010000019.1	Genbank	CDS	179708	179721	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007027-T1_mrna"; gene_id "gene-HRR86_007027"; gene_name "TMA20";
+JAJGBW010000019.1	Genbank	CDS	179779	179919	.	+	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007027-T1_mrna"; gene_id "gene-HRR86_007027"; gene_name "TMA20";
+JAJGBW010000019.1	Genbank	CDS	180123	180510	.	+	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007027-T1_mrna"; gene_id "gene-HRR86_007027"; gene_name "TMA20";
+JAJGBW010000019.1	Genbank	transcript	289732	291281	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007072-T1_mrna"; gene_id "gene-HRR86_007072"
+JAJGBW010000019.1	Genbank	exon	289732	291281	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007072-T1_mrna"; gene_id "gene-HRR86_007072";
+JAJGBW010000019.1	Genbank	CDS	289934	291061	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007072-T1_mrna"; gene_id "gene-HRR86_007072";
+JAJGBW010000019.1	Genbank	transcript	406483	407367	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007121-T1_mrna"; gene_id "gene-HRR86_007121"; gene_name "GIR2"
+JAJGBW010000019.1	Genbank	exon	406483	407153	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007121-T1_mrna"; gene_id "gene-HRR86_007121"; gene_name "GIR2";
+JAJGBW010000019.1	Genbank	exon	407301	407367	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007121-T1_mrna"; gene_id "gene-HRR86_007121"; gene_name "GIR2";
+JAJGBW010000019.1	Genbank	CDS	406483	407153	.	-	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007121-T1_mrna"; gene_id "gene-HRR86_007121"; gene_name "GIR2";
+JAJGBW010000019.1	Genbank	CDS	407301	407367	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007121-T1_mrna"; gene_id "gene-HRR86_007121"; gene_name "GIR2";
+JAJGBW010000019.1	Genbank	transcript	502874	503611	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007146-T1_mrna"; gene_id "gene-HRR86_007146"; gene_name "RRP40"
+JAJGBW010000019.1	Genbank	exon	502874	503611	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007146-T1_mrna"; gene_id "gene-HRR86_007146"; gene_name "RRP40";
+JAJGBW010000019.1	Genbank	CDS	502874	503611	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007146-T1_mrna"; gene_id "gene-HRR86_007146"; gene_name "RRP40";
+JAJGBW010000002.1	Genbank	transcript	195685	196803	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001007-T1_mrna"; gene_id "gene-HRR86_001007"
+JAJGBW010000002.1	Genbank	exon	195685	196803	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001007-T1_mrna"; gene_id "gene-HRR86_001007";
+JAJGBW010000002.1	Genbank	CDS	195685	196803	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001007-T1_mrna"; gene_id "gene-HRR86_001007";
+JAJGBW010000002.1	Genbank	transcript	209906	211729	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001012-T1_mrna"; gene_id "gene-HRR86_001012"
+JAJGBW010000002.1	Genbank	exon	209906	211729	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001012-T1_mrna"; gene_id "gene-HRR86_001012";
+JAJGBW010000002.1	Genbank	CDS	209906	211729	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001012-T1_mrna"; gene_id "gene-HRR86_001012";
+JAJGBW010000002.1	Genbank	transcript	416548	417741	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001080-T1_mrna"; gene_id "gene-HRR86_001080"
+JAJGBW010000002.1	Genbank	exon	416548	417741	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001080-T1_mrna"; gene_id "gene-HRR86_001080";
+JAJGBW010000002.1	Genbank	CDS	416548	417741	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001080-T1_mrna"; gene_id "gene-HRR86_001080";
+JAJGBW010000002.1	Genbank	transcript	502526	505123	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001112-T1_mrna"; gene_id "gene-HRR86_001112"; gene_name "DBP6"
+JAJGBW010000002.1	Genbank	exon	502526	505123	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001112-T1_mrna"; gene_id "gene-HRR86_001112"; gene_name "DBP6";
+JAJGBW010000002.1	Genbank	CDS	502634	505066	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001112-T1_mrna"; gene_id "gene-HRR86_001112"; gene_name "DBP6";
+JAJGBW010000002.1	Genbank	transcript	554247	556508	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001131-T1_mrna"; gene_id "gene-HRR86_001131"; gene_name "TRM61"
+JAJGBW010000002.1	Genbank	exon	554247	556508	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001131-T1_mrna"; gene_id "gene-HRR86_001131"; gene_name "TRM61";
+JAJGBW010000002.1	Genbank	CDS	554571	556145	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001131-T1_mrna"; gene_id "gene-HRR86_001131"; gene_name "TRM61";
+JAJGBW010000002.1	Genbank	transcript	888037	891253	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001264-T1_mrna"; gene_id "gene-HRR86_001264"; gene_name "cbc1"
+JAJGBW010000002.1	Genbank	exon	888037	888297	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001264-T1_mrna"; gene_id "gene-HRR86_001264"; gene_name "cbc1";
+JAJGBW010000002.1	Genbank	exon	888348	888442	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001264-T1_mrna"; gene_id "gene-HRR86_001264"; gene_name "cbc1";
+JAJGBW010000002.1	Genbank	exon	888502	888608	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001264-T1_mrna"; gene_id "gene-HRR86_001264"; gene_name "cbc1";
+JAJGBW010000002.1	Genbank	exon	888658	888925	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001264-T1_mrna"; gene_id "gene-HRR86_001264"; gene_name "cbc1";
+JAJGBW010000002.1	Genbank	exon	888977	889869	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001264-T1_mrna"; gene_id "gene-HRR86_001264"; gene_name "cbc1";
+JAJGBW010000002.1	Genbank	exon	889926	891253	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001264-T1_mrna"; gene_id "gene-HRR86_001264"; gene_name "cbc1";
+JAJGBW010000002.1	Genbank	CDS	888216	888297	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001264-T1_mrna"; gene_id "gene-HRR86_001264"; gene_name "cbc1";
+JAJGBW010000002.1	Genbank	CDS	888348	888442	.	+	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001264-T1_mrna"; gene_id "gene-HRR86_001264"; gene_name "cbc1";
+JAJGBW010000002.1	Genbank	CDS	888502	888608	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001264-T1_mrna"; gene_id "gene-HRR86_001264"; gene_name "cbc1";
+JAJGBW010000002.1	Genbank	CDS	888658	888925	.	+	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001264-T1_mrna"; gene_id "gene-HRR86_001264"; gene_name "cbc1";
+JAJGBW010000002.1	Genbank	CDS	888977	889869	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001264-T1_mrna"; gene_id "gene-HRR86_001264"; gene_name "cbc1";
+JAJGBW010000002.1	Genbank	CDS	889926	891042	.	+	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001264-T1_mrna"; gene_id "gene-HRR86_001264"; gene_name "cbc1";
+JAJGBW010000002.1	Genbank	transcript	908640	909050	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001271-T1_mrna"; gene_id "gene-HRR86_001271"; gene_name "SPT4"
+JAJGBW010000002.1	Genbank	exon	908640	908702	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001271-T1_mrna"; gene_id "gene-HRR86_001271"; gene_name "SPT4";
+JAJGBW010000002.1	Genbank	exon	908760	909050	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001271-T1_mrna"; gene_id "gene-HRR86_001271"; gene_name "SPT4";
+JAJGBW010000002.1	Genbank	CDS	908640	908702	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001271-T1_mrna"; gene_id "gene-HRR86_001271"; gene_name "SPT4";
+JAJGBW010000002.1	Genbank	CDS	908760	909050	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001271-T1_mrna"; gene_id "gene-HRR86_001271"; gene_name "SPT4";
+JAJGBW010000002.1	Genbank	transcript	1060084	1061465	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001320-T1_mrna"; gene_id "gene-HRR86_001320"; gene_name "FYV10"
+JAJGBW010000002.1	Genbank	exon	1060084	1060137	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001320-T1_mrna"; gene_id "gene-HRR86_001320"; gene_name "FYV10";
+JAJGBW010000002.1	Genbank	exon	1060203	1061465	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001320-T1_mrna"; gene_id "gene-HRR86_001320"; gene_name "FYV10";
+JAJGBW010000002.1	Genbank	CDS	1060084	1060137	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001320-T1_mrna"; gene_id "gene-HRR86_001320"; gene_name "FYV10";
+JAJGBW010000002.1	Genbank	CDS	1060203	1061465	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001320-T1_mrna"; gene_id "gene-HRR86_001320"; gene_name "FYV10";
+JAJGBW010000002.1	Genbank	transcript	1166161	1169341	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001362-T1_mrna"; gene_id "gene-HRR86_001362"; gene_name "GCD7"
+JAJGBW010000002.1	Genbank	exon	1166161	1168913	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001362-T1_mrna"; gene_id "gene-HRR86_001362"; gene_name "GCD7";
+JAJGBW010000002.1	Genbank	exon	1168969	1169341	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001362-T1_mrna"; gene_id "gene-HRR86_001362"; gene_name "GCD7";
+JAJGBW010000002.1	Genbank	CDS	1167596	1168913	.	-	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001362-T1_mrna"; gene_id "gene-HRR86_001362"; gene_name "GCD7";
+JAJGBW010000002.1	Genbank	CDS	1168969	1169066	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001362-T1_mrna"; gene_id "gene-HRR86_001362"; gene_name "GCD7";
+JAJGBW010000002.1	Genbank	transcript	1192911	1193990	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001373-T1_mrna"; gene_id "gene-HRR86_001373"
+JAJGBW010000002.1	Genbank	exon	1192911	1193834	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001373-T1_mrna"; gene_id "gene-HRR86_001373";
+JAJGBW010000002.1	Genbank	exon	1193892	1193990	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001373-T1_mrna"; gene_id "gene-HRR86_001373";
+JAJGBW010000002.1	Genbank	CDS	1192911	1193834	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001373-T1_mrna"; gene_id "gene-HRR86_001373";
+JAJGBW010000002.1	Genbank	CDS	1193892	1193990	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001373-T1_mrna"; gene_id "gene-HRR86_001373";
+JAJGBW010000002.1	Genbank	transcript	1223986	1226502	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001384-T1_mrna"; gene_id "gene-HRR86_001384"; gene_name "UTP25"
+JAJGBW010000002.1	Genbank	exon	1223986	1224205	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001384-T1_mrna"; gene_id "gene-HRR86_001384"; gene_name "UTP25";
+JAJGBW010000002.1	Genbank	exon	1224257	1226502	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001384-T1_mrna"; gene_id "gene-HRR86_001384"; gene_name "UTP25";
+JAJGBW010000002.1	Genbank	CDS	1224084	1224205	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001384-T1_mrna"; gene_id "gene-HRR86_001384"; gene_name "UTP25";
+JAJGBW010000002.1	Genbank	CDS	1224257	1226366	.	+	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001384-T1_mrna"; gene_id "gene-HRR86_001384"; gene_name "UTP25";
+JAJGBW010000002.1	Genbank	transcript	1504999	1506448	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001467-T1_mrna"; gene_id "gene-HRR86_001467"
+JAJGBW010000002.1	Genbank	exon	1504999	1505064	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001467-T1_mrna"; gene_id "gene-HRR86_001467";
+JAJGBW010000002.1	Genbank	exon	1505145	1505518	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001467-T1_mrna"; gene_id "gene-HRR86_001467";
+JAJGBW010000002.1	Genbank	exon	1505637	1506448	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001467-T1_mrna"; gene_id "gene-HRR86_001467";
+JAJGBW010000002.1	Genbank	CDS	1505018	1505064	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001467-T1_mrna"; gene_id "gene-HRR86_001467";
+JAJGBW010000002.1	Genbank	CDS	1505145	1505518	.	+	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001467-T1_mrna"; gene_id "gene-HRR86_001467";
+JAJGBW010000002.1	Genbank	CDS	1505637	1506253	.	+	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001467-T1_mrna"; gene_id "gene-HRR86_001467";
+JAJGBW010000020.1	Genbank	transcript	66748	69361	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007188-T1_mrna"; gene_id "gene-HRR86_007188"; gene_name "COG6"
+JAJGBW010000020.1	Genbank	exon	66748	68780	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007188-T1_mrna"; gene_id "gene-HRR86_007188"; gene_name "COG6";
+JAJGBW010000020.1	Genbank	exon	68954	69361	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007188-T1_mrna"; gene_id "gene-HRR86_007188"; gene_name "COG6";
+JAJGBW010000020.1	Genbank	CDS	66885	68780	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007188-T1_mrna"; gene_id "gene-HRR86_007188"; gene_name "COG6";
+JAJGBW010000020.1	Genbank	CDS	68954	69280	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007188-T1_mrna"; gene_id "gene-HRR86_007188"; gene_name "COG6";
+JAJGBW010000020.1	Genbank	transcript	185323	187620	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007229-T1_mrna"; gene_id "gene-HRR86_007229"; gene_name "ATG7"
+JAJGBW010000020.1	Genbank	exon	185323	187620	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007229-T1_mrna"; gene_id "gene-HRR86_007229"; gene_name "ATG7";
+JAJGBW010000020.1	Genbank	CDS	185323	187620	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007229-T1_mrna"; gene_id "gene-HRR86_007229"; gene_name "ATG7";
+JAJGBW010000020.1	Genbank	transcript	200095	202275	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007235-T1_mrna"; gene_id "gene-HRR86_007235"; gene_name "ENP2"
+JAJGBW010000020.1	Genbank	exon	200095	202275	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007235-T1_mrna"; gene_id "gene-HRR86_007235"; gene_name "ENP2";
+JAJGBW010000020.1	Genbank	CDS	200095	202275	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007235-T1_mrna"; gene_id "gene-HRR86_007235"; gene_name "ENP2";
+JAJGBW010000020.1	Genbank	transcript	445470	446237	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007312-T1_mrna"; gene_id "gene-HRR86_007312"; gene_name "dot2"
+JAJGBW010000020.1	Genbank	exon	445470	446237	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007312-T1_mrna"; gene_id "gene-HRR86_007312"; gene_name "dot2";
+JAJGBW010000020.1	Genbank	CDS	445470	446237	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007312-T1_mrna"; gene_id "gene-HRR86_007312"; gene_name "dot2";
+JAJGBW010000021.1	Genbank	transcript	184832	188855	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007424-T1_mrna"; gene_id "gene-HRR86_007424"; gene_name "HIR1"
+JAJGBW010000021.1	Genbank	exon	184832	185011	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007424-T1_mrna"; gene_id "gene-HRR86_007424"; gene_name "HIR1";
+JAJGBW010000021.1	Genbank	exon	185120	185194	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007424-T1_mrna"; gene_id "gene-HRR86_007424"; gene_name "HIR1";
+JAJGBW010000021.1	Genbank	exon	185269	185484	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007424-T1_mrna"; gene_id "gene-HRR86_007424"; gene_name "HIR1";
+JAJGBW010000021.1	Genbank	exon	185539	188364	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007424-T1_mrna"; gene_id "gene-HRR86_007424"; gene_name "HIR1";
+JAJGBW010000021.1	Genbank	exon	188492	188855	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007424-T1_mrna"; gene_id "gene-HRR86_007424"; gene_name "HIR1";
+JAJGBW010000021.1	Genbank	CDS	184975	185011	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007424-T1_mrna"; gene_id "gene-HRR86_007424"; gene_name "HIR1";
+JAJGBW010000021.1	Genbank	CDS	185120	185194	.	+	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007424-T1_mrna"; gene_id "gene-HRR86_007424"; gene_name "HIR1";
+JAJGBW010000021.1	Genbank	CDS	185269	185484	.	+	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007424-T1_mrna"; gene_id "gene-HRR86_007424"; gene_name "HIR1";
+JAJGBW010000021.1	Genbank	CDS	185539	188364	.	+	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007424-T1_mrna"; gene_id "gene-HRR86_007424"; gene_name "HIR1";
+JAJGBW010000021.1	Genbank	CDS	188492	188610	.	+	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007424-T1_mrna"; gene_id "gene-HRR86_007424"; gene_name "HIR1";
+JAJGBW010000021.1	Genbank	transcript	274327	276233	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007457-T1_mrna"; gene_id "gene-HRR86_007457"; gene_name "PSF1"
+JAJGBW010000021.1	Genbank	exon	274327	274744	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007457-T1_mrna"; gene_id "gene-HRR86_007457"; gene_name "PSF1";
+JAJGBW010000021.1	Genbank	exon	274850	276233	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007457-T1_mrna"; gene_id "gene-HRR86_007457"; gene_name "PSF1";
+JAJGBW010000021.1	Genbank	CDS	274718	274744	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007457-T1_mrna"; gene_id "gene-HRR86_007457"; gene_name "PSF1";
+JAJGBW010000021.1	Genbank	CDS	274850	275551	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007457-T1_mrna"; gene_id "gene-HRR86_007457"; gene_name "PSF1";
+JAJGBW010000021.1	Genbank	transcript	504285	505394	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007553-T1_mrna"; gene_id "gene-HRR86_007553"; gene_name "DRE2"
+JAJGBW010000021.1	Genbank	exon	504285	504388	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007553-T1_mrna"; gene_id "gene-HRR86_007553"; gene_name "DRE2";
+JAJGBW010000021.1	Genbank	exon	504444	504653	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007553-T1_mrna"; gene_id "gene-HRR86_007553"; gene_name "DRE2";
+JAJGBW010000021.1	Genbank	exon	504704	504902	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007553-T1_mrna"; gene_id "gene-HRR86_007553"; gene_name "DRE2";
+JAJGBW010000021.1	Genbank	exon	504960	505394	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007553-T1_mrna"; gene_id "gene-HRR86_007553"; gene_name "DRE2";
+JAJGBW010000021.1	Genbank	CDS	504294	504388	.	-	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007553-T1_mrna"; gene_id "gene-HRR86_007553"; gene_name "DRE2";
+JAJGBW010000021.1	Genbank	CDS	504444	504653	.	-	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007553-T1_mrna"; gene_id "gene-HRR86_007553"; gene_name "DRE2";
+JAJGBW010000021.1	Genbank	CDS	504704	504902	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007553-T1_mrna"; gene_id "gene-HRR86_007553"; gene_name "DRE2";
+JAJGBW010000021.1	Genbank	CDS	504960	505394	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007553-T1_mrna"; gene_id "gene-HRR86_007553"; gene_name "DRE2";
+JAJGBW010000022.1	Genbank	transcript	267955	270030	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007651-T1_mrna"; gene_id "gene-HRR86_007651"; gene_name "RRN3"
+JAJGBW010000022.1	Genbank	exon	267955	270030	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007651-T1_mrna"; gene_id "gene-HRR86_007651"; gene_name "RRN3";
+JAJGBW010000022.1	Genbank	CDS	267955	270030	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007651-T1_mrna"; gene_id "gene-HRR86_007651"; gene_name "RRN3";
+JAJGBW010000022.1	Genbank	transcript	318475	319503	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007671-T1_mrna"; gene_id "gene-HRR86_007671"; gene_name "BCP1"
+JAJGBW010000022.1	Genbank	exon	318475	318616	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007671-T1_mrna"; gene_id "gene-HRR86_007671"; gene_name "BCP1";
+JAJGBW010000022.1	Genbank	exon	318670	318906	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007671-T1_mrna"; gene_id "gene-HRR86_007671"; gene_name "BCP1";
+JAJGBW010000022.1	Genbank	exon	318955	319503	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007671-T1_mrna"; gene_id "gene-HRR86_007671"; gene_name "BCP1";
+JAJGBW010000022.1	Genbank	CDS	318536	318616	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007671-T1_mrna"; gene_id "gene-HRR86_007671"; gene_name "BCP1";
+JAJGBW010000022.1	Genbank	CDS	318670	318906	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007671-T1_mrna"; gene_id "gene-HRR86_007671"; gene_name "BCP1";
+JAJGBW010000022.1	Genbank	CDS	318955	319503	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007671-T1_mrna"; gene_id "gene-HRR86_007671"; gene_name "BCP1";
+JAJGBW010000022.1	Genbank	transcript	368177	368911	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007691-T1_mrna"; gene_id "gene-HRR86_007691"
+JAJGBW010000022.1	Genbank	exon	368177	368911	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007691-T1_mrna"; gene_id "gene-HRR86_007691";
+JAJGBW010000022.1	Genbank	CDS	368177	368911	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007691-T1_mrna"; gene_id "gene-HRR86_007691";
+JAJGBW010000023.1	Genbank	transcript	382481	383591	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007888-T1_mrna"; gene_id "gene-HRR86_007888"; gene_name "MED6"
+JAJGBW010000023.1	Genbank	exon	382481	383038	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007888-T1_mrna"; gene_id "gene-HRR86_007888"; gene_name "MED6";
+JAJGBW010000023.1	Genbank	exon	383095	383450	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007888-T1_mrna"; gene_id "gene-HRR86_007888"; gene_name "MED6";
+JAJGBW010000023.1	Genbank	exon	383501	383591	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007888-T1_mrna"; gene_id "gene-HRR86_007888"; gene_name "MED6";
+JAJGBW010000023.1	Genbank	CDS	382481	383038	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007888-T1_mrna"; gene_id "gene-HRR86_007888"; gene_name "MED6";
+JAJGBW010000023.1	Genbank	CDS	383095	383450	.	-	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007888-T1_mrna"; gene_id "gene-HRR86_007888"; gene_name "MED6";
+JAJGBW010000023.1	Genbank	CDS	383501	383591	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_007888-T1_mrna"; gene_id "gene-HRR86_007888"; gene_name "MED6";
+JAJGBW010000025.1	Genbank	transcript	5200	7295	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008084-T2_mrna"; gene_id "gene-HRR86_008084"; gene_name "TRM6"
+JAJGBW010000025.1	Genbank	exon	5200	5397	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008084-T2_mrna"; gene_id "gene-HRR86_008084"; gene_name "TRM6";
+JAJGBW010000025.1	Genbank	exon	5485	7295	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008084-T2_mrna"; gene_id "gene-HRR86_008084"; gene_name "TRM6";
+JAJGBW010000025.1	Genbank	CDS	5309	5397	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008084-T2_mrna"; gene_id "gene-HRR86_008084"; gene_name "TRM6";
+JAJGBW010000025.1	Genbank	CDS	5485	7207	.	+	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008084-T2_mrna"; gene_id "gene-HRR86_008084"; gene_name "TRM6";
+JAJGBW010000025.1	Genbank	transcript	24614	28279	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008091-T1_mrna"; gene_id "gene-HRR86_008091"; gene_name "PWP2"
+JAJGBW010000025.1	Genbank	exon	24614	28006	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008091-T1_mrna"; gene_id "gene-HRR86_008091"; gene_name "PWP2";
+JAJGBW010000025.1	Genbank	exon	28055	28167	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008091-T1_mrna"; gene_id "gene-HRR86_008091"; gene_name "PWP2";
+JAJGBW010000025.1	Genbank	exon	28220	28279	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008091-T1_mrna"; gene_id "gene-HRR86_008091"; gene_name "PWP2";
+JAJGBW010000025.1	Genbank	CDS	25465	28006	.	-	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008091-T1_mrna"; gene_id "gene-HRR86_008091"; gene_name "PWP2";
+JAJGBW010000025.1	Genbank	CDS	28055	28167	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008091-T1_mrna"; gene_id "gene-HRR86_008091"; gene_name "PWP2";
+JAJGBW010000025.1	Genbank	CDS	28220	28237	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008091-T1_mrna"; gene_id "gene-HRR86_008091"; gene_name "PWP2";
+JAJGBW010000026.1	Genbank	transcript	19087	19653	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008221-T1_mrna"; gene_id "gene-HRR86_008221"; gene_name "imp3"
+JAJGBW010000026.1	Genbank	exon	19087	19653	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008221-T1_mrna"; gene_id "gene-HRR86_008221"; gene_name "imp3";
+JAJGBW010000026.1	Genbank	CDS	19087	19653	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008221-T1_mrna"; gene_id "gene-HRR86_008221"; gene_name "imp3";
+JAJGBW010000027.1	Genbank	transcript	195210	199224	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008425-T1_mrna"; gene_id "gene-HRR86_008425"; gene_name "GPD1"
+JAJGBW010000027.1	Genbank	exon	195210	197444	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008425-T1_mrna"; gene_id "gene-HRR86_008425"; gene_name "GPD1";
+JAJGBW010000027.1	Genbank	exon	197762	199224	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008425-T1_mrna"; gene_id "gene-HRR86_008425"; gene_name "GPD1";
+JAJGBW010000027.1	Genbank	CDS	195608	197444	.	-	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008425-T1_mrna"; gene_id "gene-HRR86_008425"; gene_name "GPD1";
+JAJGBW010000027.1	Genbank	CDS	197762	198894	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008425-T1_mrna"; gene_id "gene-HRR86_008425"; gene_name "GPD1";
+JAJGBW010000027.1	Genbank	transcript	276951	278480	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008446-T1_mrna"; gene_id "gene-HRR86_008446"; gene_name "cdc1"
+JAJGBW010000027.1	Genbank	exon	276951	278480	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008446-T1_mrna"; gene_id "gene-HRR86_008446"; gene_name "cdc1";
+JAJGBW010000027.1	Genbank	CDS	276951	278480	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008446-T1_mrna"; gene_id "gene-HRR86_008446"; gene_name "cdc1";
+JAJGBW010000027.1	Genbank	transcript	321804	322625	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008464-T1_mrna"; gene_id "gene-HRR86_008464"; gene_name "BUD23"
+JAJGBW010000027.1	Genbank	exon	321804	322625	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008464-T1_mrna"; gene_id "gene-HRR86_008464"; gene_name "BUD23";
+JAJGBW010000027.1	Genbank	CDS	321804	322625	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008464-T1_mrna"; gene_id "gene-HRR86_008464"; gene_name "BUD23";
+JAJGBW010000028.1	Genbank	transcript	81893	84710	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008501-T1_mrna"; gene_id "gene-HRR86_008501"; gene_name "srp72"
+JAJGBW010000028.1	Genbank	exon	81893	84710	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008501-T1_mrna"; gene_id "gene-HRR86_008501"; gene_name "srp72";
+JAJGBW010000028.1	Genbank	CDS	82565	84511	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008501-T1_mrna"; gene_id "gene-HRR86_008501"; gene_name "srp72";
+JAJGBW010000029.1	Genbank	transcript	264793	266985	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008693-T1_mrna"; gene_id "gene-HRR86_008693"; gene_name "MPP10"
+JAJGBW010000029.1	Genbank	exon	264793	266985	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008693-T1_mrna"; gene_id "gene-HRR86_008693"; gene_name "MPP10";
+JAJGBW010000029.1	Genbank	CDS	264793	266985	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008693-T1_mrna"; gene_id "gene-HRR86_008693"; gene_name "MPP10";
+JAJGBW010000003.1	Genbank	transcript	568027	569121	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001750-T1_mrna"; gene_id "gene-HRR86_001750"; gene_name "CAB2"
+JAJGBW010000003.1	Genbank	exon	568027	569121	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001750-T1_mrna"; gene_id "gene-HRR86_001750"; gene_name "CAB2";
+JAJGBW010000003.1	Genbank	CDS	568027	569121	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001750-T1_mrna"; gene_id "gene-HRR86_001750"; gene_name "CAB2";
+JAJGBW010000003.1	Genbank	transcript	631099	633537	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001773-T1_mrna"; gene_id "gene-HRR86_001773"; gene_name "ERB1"
+JAJGBW010000003.1	Genbank	exon	631099	633537	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001773-T1_mrna"; gene_id "gene-HRR86_001773"; gene_name "ERB1";
+JAJGBW010000003.1	Genbank	CDS	631135	633498	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001773-T1_mrna"; gene_id "gene-HRR86_001773"; gene_name "ERB1";
+JAJGBW010000003.1	Genbank	transcript	786782	789121	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001836-T1_mrna"; gene_id "gene-HRR86_001836"
+JAJGBW010000003.1	Genbank	exon	786782	787358	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001836-T1_mrna"; gene_id "gene-HRR86_001836";
+JAJGBW010000003.1	Genbank	exon	787433	789121	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001836-T1_mrna"; gene_id "gene-HRR86_001836";
+JAJGBW010000003.1	Genbank	CDS	787448	788650	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001836-T1_mrna"; gene_id "gene-HRR86_001836";
+JAJGBW010000003.1	Genbank	transcript	1090937	1092748	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001943-T1_mrna"; gene_id "gene-HRR86_001943"; gene_name "cwf16"
+JAJGBW010000003.1	Genbank	exon	1090937	1092748	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001943-T1_mrna"; gene_id "gene-HRR86_001943"; gene_name "cwf16";
+JAJGBW010000003.1	Genbank	CDS	1091030	1091932	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001943-T1_mrna"; gene_id "gene-HRR86_001943"; gene_name "cwf16";
+JAJGBW010000003.1	Genbank	transcript	1134353	1137648	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001959-T1_mrna"; gene_id "gene-HRR86_001959"
+JAJGBW010000003.1	Genbank	exon	1134353	1134816	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001959-T1_mrna"; gene_id "gene-HRR86_001959";
+JAJGBW010000003.1	Genbank	exon	1134916	1137648	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001959-T1_mrna"; gene_id "gene-HRR86_001959";
+JAJGBW010000003.1	Genbank	CDS	1134608	1134816	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001959-T1_mrna"; gene_id "gene-HRR86_001959";
+JAJGBW010000003.1	Genbank	CDS	1134916	1136101	.	+	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_001959-T1_mrna"; gene_id "gene-HRR86_001959";
+JAJGBW010000003.1	Genbank	transcript	1260006	1261789	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002011-T1_mrna"; gene_id "gene-HRR86_002011"; gene_name "ALG7"
+JAJGBW010000003.1	Genbank	exon	1260006	1261299	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002011-T1_mrna"; gene_id "gene-HRR86_002011"; gene_name "ALG7";
+JAJGBW010000003.1	Genbank	exon	1261353	1261789	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002011-T1_mrna"; gene_id "gene-HRR86_002011"; gene_name "ALG7";
+JAJGBW010000003.1	Genbank	CDS	1260081	1261299	.	-	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002011-T1_mrna"; gene_id "gene-HRR86_002011"; gene_name "ALG7";
+JAJGBW010000003.1	Genbank	CDS	1261353	1261633	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002011-T1_mrna"; gene_id "gene-HRR86_002011"; gene_name "ALG7";
+JAJGBW010000003.1	Genbank	transcript	1321485	1322327	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002029-T1_mrna"; gene_id "gene-HRR86_002029"
+JAJGBW010000003.1	Genbank	exon	1321485	1322327	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002029-T1_mrna"; gene_id "gene-HRR86_002029";
+JAJGBW010000003.1	Genbank	CDS	1321485	1322327	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002029-T1_mrna"; gene_id "gene-HRR86_002029";
+JAJGBW010000003.1	Genbank	transcript	1407400	1408389	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002064-T1_mrna"; gene_id "gene-HRR86_002064"; gene_name "SHY1"
+JAJGBW010000003.1	Genbank	exon	1407400	1408235	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002064-T1_mrna"; gene_id "gene-HRR86_002064"; gene_name "SHY1";
+JAJGBW010000003.1	Genbank	exon	1408290	1408389	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002064-T1_mrna"; gene_id "gene-HRR86_002064"; gene_name "SHY1";
+JAJGBW010000003.1	Genbank	CDS	1407400	1408235	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002064-T1_mrna"; gene_id "gene-HRR86_002064"; gene_name "SHY1";
+JAJGBW010000003.1	Genbank	CDS	1408290	1408389	.	+	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002064-T1_mrna"; gene_id "gene-HRR86_002064"; gene_name "SHY1";
+JAJGBW010000003.1	Genbank	transcript	1416463	1417221	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002069-T1_mrna"; gene_id "gene-HRR86_002069"; gene_name "ISY1"
+JAJGBW010000003.1	Genbank	exon	1416463	1417221	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002069-T1_mrna"; gene_id "gene-HRR86_002069"; gene_name "ISY1";
+JAJGBW010000003.1	Genbank	CDS	1416463	1417221	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002069-T1_mrna"; gene_id "gene-HRR86_002069"; gene_name "ISY1";
+JAJGBW010000003.1	Genbank	transcript	1490484	1491621	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002100-T1_mrna"; gene_id "gene-HRR86_002100"; gene_name "KRR1"
+JAJGBW010000003.1	Genbank	exon	1490484	1491164	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002100-T1_mrna"; gene_id "gene-HRR86_002100"; gene_name "KRR1";
+JAJGBW010000003.1	Genbank	exon	1491215	1491487	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002100-T1_mrna"; gene_id "gene-HRR86_002100"; gene_name "KRR1";
+JAJGBW010000003.1	Genbank	exon	1491562	1491621	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002100-T1_mrna"; gene_id "gene-HRR86_002100"; gene_name "KRR1";
+JAJGBW010000003.1	Genbank	CDS	1490484	1491164	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002100-T1_mrna"; gene_id "gene-HRR86_002100"; gene_name "KRR1";
+JAJGBW010000003.1	Genbank	CDS	1491215	1491487	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002100-T1_mrna"; gene_id "gene-HRR86_002100"; gene_name "KRR1";
+JAJGBW010000003.1	Genbank	CDS	1491562	1491621	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002100-T1_mrna"; gene_id "gene-HRR86_002100"; gene_name "KRR1";
+JAJGBW010000030.1	Genbank	transcript	85977	87166	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008744-T1_mrna"; gene_id "gene-HRR86_008744"; gene_name "ATG3"
+JAJGBW010000030.1	Genbank	exon	85977	86559	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008744-T1_mrna"; gene_id "gene-HRR86_008744"; gene_name "ATG3";
+JAJGBW010000030.1	Genbank	exon	86631	87166	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008744-T1_mrna"; gene_id "gene-HRR86_008744"; gene_name "ATG3";
+JAJGBW010000030.1	Genbank	CDS	85977	86559	.	-	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008744-T1_mrna"; gene_id "gene-HRR86_008744"; gene_name "ATG3";
+JAJGBW010000030.1	Genbank	CDS	86631	87166	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008744-T1_mrna"; gene_id "gene-HRR86_008744"; gene_name "ATG3";
+JAJGBW010000031.1	Genbank	transcript	208455	210254	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008902-T1_mrna"; gene_id "gene-HRR86_008902"; gene_name "COG5"
+JAJGBW010000031.1	Genbank	exon	208455	210254	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008902-T1_mrna"; gene_id "gene-HRR86_008902"; gene_name "COG5";
+JAJGBW010000031.1	Genbank	CDS	208665	210155	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008902-T1_mrna"; gene_id "gene-HRR86_008902"; gene_name "COG5";
+JAJGBW010000032.1	Genbank	transcript	158700	159815	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008984-T1_mrna"; gene_id "gene-HRR86_008984"; gene_name "GAR1_2"
+JAJGBW010000032.1	Genbank	exon	158700	159156	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008984-T1_mrna"; gene_id "gene-HRR86_008984"; gene_name "GAR1_2";
+JAJGBW010000032.1	Genbank	exon	159208	159353	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008984-T1_mrna"; gene_id "gene-HRR86_008984"; gene_name "GAR1_2";
+JAJGBW010000032.1	Genbank	exon	159407	159507	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008984-T1_mrna"; gene_id "gene-HRR86_008984"; gene_name "GAR1_2";
+JAJGBW010000032.1	Genbank	exon	159566	159815	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008984-T1_mrna"; gene_id "gene-HRR86_008984"; gene_name "GAR1_2";
+JAJGBW010000032.1	Genbank	CDS	158904	159156	.	-	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008984-T1_mrna"; gene_id "gene-HRR86_008984"; gene_name "GAR1_2";
+JAJGBW010000032.1	Genbank	CDS	159208	159353	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008984-T1_mrna"; gene_id "gene-HRR86_008984"; gene_name "GAR1_2";
+JAJGBW010000032.1	Genbank	CDS	159407	159505	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_008984-T1_mrna"; gene_id "gene-HRR86_008984"; gene_name "GAR1_2";
+JAJGBW010000033.1	Genbank	transcript	202144	202854	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009097-T1_mrna"; gene_id "gene-HRR86_009097"; gene_name "sap62"
+JAJGBW010000033.1	Genbank	exon	202144	202854	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009097-T1_mrna"; gene_id "gene-HRR86_009097"; gene_name "sap62";
+JAJGBW010000033.1	Genbank	CDS	202144	202854	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009097-T1_mrna"; gene_id "gene-HRR86_009097"; gene_name "sap62";
+JAJGBW010000033.1	Genbank	transcript	217950	220032	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009103-T1_mrna"; gene_id "gene-HRR86_009103"
+JAJGBW010000033.1	Genbank	exon	217950	219166	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009103-T1_mrna"; gene_id "gene-HRR86_009103";
+JAJGBW010000033.1	Genbank	exon	219219	219688	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009103-T1_mrna"; gene_id "gene-HRR86_009103";
+JAJGBW010000033.1	Genbank	exon	219753	219792	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009103-T1_mrna"; gene_id "gene-HRR86_009103";
+JAJGBW010000033.1	Genbank	exon	219863	220032	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009103-T1_mrna"; gene_id "gene-HRR86_009103";
+JAJGBW010000033.1	Genbank	CDS	218584	219166	.	-	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009103-T1_mrna"; gene_id "gene-HRR86_009103";
+JAJGBW010000033.1	Genbank	CDS	219219	219688	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009103-T1_mrna"; gene_id "gene-HRR86_009103";
+JAJGBW010000033.1	Genbank	CDS	219753	219792	.	-	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009103-T1_mrna"; gene_id "gene-HRR86_009103";
+JAJGBW010000033.1	Genbank	CDS	219863	220032	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009103-T1_mrna"; gene_id "gene-HRR86_009103";
+JAJGBW010000035.1	Genbank	transcript	164037	165845	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009256-T1_mrna"; gene_id "gene-HRR86_009256"; gene_name "FRS1"
+JAJGBW010000035.1	Genbank	exon	164037	165845	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009256-T1_mrna"; gene_id "gene-HRR86_009256"; gene_name "FRS1";
+JAJGBW010000035.1	Genbank	CDS	164037	165845	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009256-T1_mrna"; gene_id "gene-HRR86_009256"; gene_name "FRS1";
+JAJGBW010000036.1	Genbank	transcript	75244	76929	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009302-T1_mrna"; gene_id "gene-HRR86_009302"
+JAJGBW010000036.1	Genbank	exon	75244	76929	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009302-T1_mrna"; gene_id "gene-HRR86_009302";
+JAJGBW010000036.1	Genbank	CDS	75244	76929	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009302-T1_mrna"; gene_id "gene-HRR86_009302";
+JAJGBW010000037.1	Genbank	transcript	100532	102443	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009375-T1_mrna"; gene_id "gene-HRR86_009375"; gene_name "UTP18"
+JAJGBW010000037.1	Genbank	exon	100532	102063	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009375-T1_mrna"; gene_id "gene-HRR86_009375"; gene_name "UTP18";
+JAJGBW010000037.1	Genbank	exon	102110	102443	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009375-T1_mrna"; gene_id "gene-HRR86_009375"; gene_name "UTP18";
+JAJGBW010000037.1	Genbank	CDS	100537	102063	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009375-T1_mrna"; gene_id "gene-HRR86_009375"; gene_name "UTP18";
+JAJGBW010000037.1	Genbank	CDS	102110	102364	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009375-T1_mrna"; gene_id "gene-HRR86_009375"; gene_name "UTP18";
+JAJGBW010000038.1	Genbank	transcript	64335	66981	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009415-T1_mrna"; gene_id "gene-HRR86_009415"; gene_name "DBP7"
+JAJGBW010000038.1	Genbank	exon	64335	66981	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009415-T1_mrna"; gene_id "gene-HRR86_009415"; gene_name "DBP7";
+JAJGBW010000038.1	Genbank	CDS	64389	66884	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009415-T1_mrna"; gene_id "gene-HRR86_009415"; gene_name "DBP7";
+JAJGBW010000004.1	Genbank	transcript	176006	176923	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002190-T1_mrna"; gene_id "gene-HRR86_002190"; gene_name "rpc25"
+JAJGBW010000004.1	Genbank	exon	176006	176050	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002190-T1_mrna"; gene_id "gene-HRR86_002190"; gene_name "rpc25";
+JAJGBW010000004.1	Genbank	exon	176104	176276	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002190-T1_mrna"; gene_id "gene-HRR86_002190"; gene_name "rpc25";
+JAJGBW010000004.1	Genbank	exon	176468	176705	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002190-T1_mrna"; gene_id "gene-HRR86_002190"; gene_name "rpc25";
+JAJGBW010000004.1	Genbank	exon	176761	176865	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002190-T1_mrna"; gene_id "gene-HRR86_002190"; gene_name "rpc25";
+JAJGBW010000004.1	Genbank	exon	176912	176923	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002190-T1_mrna"; gene_id "gene-HRR86_002190"; gene_name "rpc25";
+JAJGBW010000004.1	Genbank	CDS	176006	176050	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002190-T1_mrna"; gene_id "gene-HRR86_002190"; gene_name "rpc25";
+JAJGBW010000004.1	Genbank	CDS	176104	176276	.	-	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002190-T1_mrna"; gene_id "gene-HRR86_002190"; gene_name "rpc25";
+JAJGBW010000004.1	Genbank	CDS	176468	176705	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002190-T1_mrna"; gene_id "gene-HRR86_002190"; gene_name "rpc25";
+JAJGBW010000004.1	Genbank	CDS	176761	176865	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002190-T1_mrna"; gene_id "gene-HRR86_002190"; gene_name "rpc25";
+JAJGBW010000004.1	Genbank	CDS	176912	176923	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002190-T1_mrna"; gene_id "gene-HRR86_002190"; gene_name "rpc25";
+JAJGBW010000004.1	Genbank	transcript	210179	211406	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002200-T1_mrna"; gene_id "gene-HRR86_002200"; gene_name "TMA22"
+JAJGBW010000004.1	Genbank	exon	210179	210359	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002200-T1_mrna"; gene_id "gene-HRR86_002200"; gene_name "TMA22";
+JAJGBW010000004.1	Genbank	exon	210417	210436	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002200-T1_mrna"; gene_id "gene-HRR86_002200"; gene_name "TMA22";
+JAJGBW010000004.1	Genbank	exon	210499	210586	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002200-T1_mrna"; gene_id "gene-HRR86_002200"; gene_name "TMA22";
+JAJGBW010000004.1	Genbank	exon	210645	211406	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002200-T1_mrna"; gene_id "gene-HRR86_002200"; gene_name "TMA22";
+JAJGBW010000004.1	Genbank	CDS	210299	210359	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002200-T1_mrna"; gene_id "gene-HRR86_002200"; gene_name "TMA22";
+JAJGBW010000004.1	Genbank	CDS	210417	210436	.	+	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002200-T1_mrna"; gene_id "gene-HRR86_002200"; gene_name "TMA22";
+JAJGBW010000004.1	Genbank	CDS	210499	210586	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002200-T1_mrna"; gene_id "gene-HRR86_002200"; gene_name "TMA22";
+JAJGBW010000004.1	Genbank	CDS	210645	211051	.	+	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002200-T1_mrna"; gene_id "gene-HRR86_002200"; gene_name "TMA22";
+JAJGBW010000004.1	Genbank	transcript	354810	356689	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002245-T2_mrna"; gene_id "gene-HRR86_002245"
+JAJGBW010000004.1	Genbank	exon	354810	354995	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002245-T2_mrna"; gene_id "gene-HRR86_002245";
+JAJGBW010000004.1	Genbank	exon	355121	355154	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002245-T2_mrna"; gene_id "gene-HRR86_002245";
+JAJGBW010000004.1	Genbank	exon	355206	356689	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002245-T2_mrna"; gene_id "gene-HRR86_002245";
+JAJGBW010000004.1	Genbank	CDS	354951	354995	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002245-T2_mrna"; gene_id "gene-HRR86_002245";
+JAJGBW010000004.1	Genbank	CDS	355121	355154	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002245-T2_mrna"; gene_id "gene-HRR86_002245";
+JAJGBW010000004.1	Genbank	CDS	355206	356689	.	+	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002245-T2_mrna"; gene_id "gene-HRR86_002245";
+JAJGBW010000004.1	Genbank	transcript	896614	897690	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002439-T1_mrna"; gene_id "gene-HRR86_002439"; gene_name "RPP1"
+JAJGBW010000004.1	Genbank	exon	896614	897690	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002439-T1_mrna"; gene_id "gene-HRR86_002439"; gene_name "RPP1";
+JAJGBW010000004.1	Genbank	CDS	896614	897690	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002439-T1_mrna"; gene_id "gene-HRR86_002439"; gene_name "RPP1";
+JAJGBW010000004.1	Genbank	transcript	1050331	1055013	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002494-T1_mrna"; gene_id "gene-HRR86_002494"; gene_name "VPS11"
+JAJGBW010000004.1	Genbank	exon	1050331	1053705	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002494-T1_mrna"; gene_id "gene-HRR86_002494"; gene_name "VPS11";
+JAJGBW010000004.1	Genbank	exon	1053756	1054391	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002494-T1_mrna"; gene_id "gene-HRR86_002494"; gene_name "VPS11";
+JAJGBW010000004.1	Genbank	exon	1054439	1054741	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002494-T1_mrna"; gene_id "gene-HRR86_002494"; gene_name "VPS11";
+JAJGBW010000004.1	Genbank	exon	1054792	1055013	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002494-T1_mrna"; gene_id "gene-HRR86_002494"; gene_name "VPS11";
+JAJGBW010000004.1	Genbank	CDS	1051795	1053705	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002494-T1_mrna"; gene_id "gene-HRR86_002494"; gene_name "VPS11";
+JAJGBW010000004.1	Genbank	CDS	1053756	1054391	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002494-T1_mrna"; gene_id "gene-HRR86_002494"; gene_name "VPS11";
+JAJGBW010000004.1	Genbank	CDS	1054439	1054741	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002494-T1_mrna"; gene_id "gene-HRR86_002494"; gene_name "VPS11";
+JAJGBW010000004.1	Genbank	CDS	1054792	1054881	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002494-T1_mrna"; gene_id "gene-HRR86_002494"; gene_name "VPS11";
+JAJGBW010000004.1	Genbank	transcript	1162048	1166052	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002545-T1_mrna"; gene_id "gene-HRR86_002545"; gene_name "MAK21"
+JAJGBW010000004.1	Genbank	exon	1162048	1166052	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002545-T1_mrna"; gene_id "gene-HRR86_002545"; gene_name "MAK21";
+JAJGBW010000004.1	Genbank	CDS	1162154	1165327	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002545-T1_mrna"; gene_id "gene-HRR86_002545"; gene_name "MAK21";
+JAJGBW010000004.1	Genbank	transcript	1210402	1212313	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002566-T1_mrna"; gene_id "gene-HRR86_002566"; gene_name "PWP1"
+JAJGBW010000004.1	Genbank	exon	1210402	1212313	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002566-T1_mrna"; gene_id "gene-HRR86_002566"; gene_name "PWP1";
+JAJGBW010000004.1	Genbank	CDS	1210649	1212313	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002566-T1_mrna"; gene_id "gene-HRR86_002566"; gene_name "PWP1";
+JAJGBW010000042.1	Genbank	transcript	8009	10770	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009529-T2_mrna"; gene_id "gene-HRR86_009529"; gene_name "MAK10"
+JAJGBW010000042.1	Genbank	exon	8009	9918	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009529-T2_mrna"; gene_id "gene-HRR86_009529"; gene_name "MAK10";
+JAJGBW010000042.1	Genbank	exon	9971	10204	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009529-T2_mrna"; gene_id "gene-HRR86_009529"; gene_name "MAK10";
+JAJGBW010000042.1	Genbank	exon	10258	10386	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009529-T2_mrna"; gene_id "gene-HRR86_009529"; gene_name "MAK10";
+JAJGBW010000042.1	Genbank	exon	10437	10770	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009529-T2_mrna"; gene_id "gene-HRR86_009529"; gene_name "MAK10";
+JAJGBW010000042.1	Genbank	CDS	8215	9918	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009529-T2_mrna"; gene_id "gene-HRR86_009529"; gene_name "MAK10";
+JAJGBW010000042.1	Genbank	CDS	9971	10204	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009529-T2_mrna"; gene_id "gene-HRR86_009529"; gene_name "MAK10";
+JAJGBW010000042.1	Genbank	CDS	10258	10386	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009529-T2_mrna"; gene_id "gene-HRR86_009529"; gene_name "MAK10";
+JAJGBW010000042.1	Genbank	CDS	10437	10628	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_009529-T2_mrna"; gene_id "gene-HRR86_009529"; gene_name "MAK10";
+JAJGBW010000005.1	Genbank	transcript	396894	398918	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002790-T1_mrna"; gene_id "gene-HRR86_002790"; gene_name "NOP7"
+JAJGBW010000005.1	Genbank	exon	396894	398918	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002790-T1_mrna"; gene_id "gene-HRR86_002790"; gene_name "NOP7";
+JAJGBW010000005.1	Genbank	CDS	396894	398918	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002790-T1_mrna"; gene_id "gene-HRR86_002790"; gene_name "NOP7";
+JAJGBW010000005.1	Genbank	transcript	513659	515284	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002837-T1_mrna"; gene_id "gene-HRR86_002837"
+JAJGBW010000005.1	Genbank	exon	513659	514488	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002837-T1_mrna"; gene_id "gene-HRR86_002837";
+JAJGBW010000005.1	Genbank	exon	514556	515284	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002837-T1_mrna"; gene_id "gene-HRR86_002837";
+JAJGBW010000005.1	Genbank	CDS	513659	514488	.	-	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002837-T1_mrna"; gene_id "gene-HRR86_002837";
+JAJGBW010000005.1	Genbank	CDS	514556	515204	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002837-T1_mrna"; gene_id "gene-HRR86_002837";
+JAJGBW010000005.1	Genbank	transcript	585216	587071	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002865-T1_mrna"; gene_id "gene-HRR86_002865"; gene_name "RSA4"
+JAJGBW010000005.1	Genbank	exon	585216	586728	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002865-T1_mrna"; gene_id "gene-HRR86_002865"; gene_name "RSA4";
+JAJGBW010000005.1	Genbank	exon	586791	587071	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002865-T1_mrna"; gene_id "gene-HRR86_002865"; gene_name "RSA4";
+JAJGBW010000005.1	Genbank	CDS	585376	586728	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002865-T1_mrna"; gene_id "gene-HRR86_002865"; gene_name "RSA4";
+JAJGBW010000005.1	Genbank	CDS	586791	587015	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002865-T1_mrna"; gene_id "gene-HRR86_002865"; gene_name "RSA4";
+JAJGBW010000005.1	Genbank	transcript	654803	656792	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002895-T1_mrna"; gene_id "gene-HRR86_002895"
+JAJGBW010000005.1	Genbank	exon	654803	655167	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002895-T1_mrna"; gene_id "gene-HRR86_002895";
+JAJGBW010000005.1	Genbank	exon	655304	656792	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002895-T1_mrna"; gene_id "gene-HRR86_002895";
+JAJGBW010000005.1	Genbank	CDS	654906	655167	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002895-T1_mrna"; gene_id "gene-HRR86_002895";
+JAJGBW010000005.1	Genbank	CDS	655304	656490	.	+	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002895-T1_mrna"; gene_id "gene-HRR86_002895";
+JAJGBW010000005.1	Genbank	transcript	662087	663917	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002897-T1_mrna"; gene_id "gene-HRR86_002897"; gene_name "MAK11"
+JAJGBW010000005.1	Genbank	exon	662087	663917	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002897-T1_mrna"; gene_id "gene-HRR86_002897"; gene_name "MAK11";
+JAJGBW010000005.1	Genbank	CDS	662368	663861	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_002897-T1_mrna"; gene_id "gene-HRR86_002897"; gene_name "MAK11";
+JAJGBW010000005.1	Genbank	transcript	1068330	1070410	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003028-T1_mrna"; gene_id "gene-HRR86_003028"; gene_name "RRP9"
+JAJGBW010000005.1	Genbank	exon	1068330	1070410	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003028-T1_mrna"; gene_id "gene-HRR86_003028"; gene_name "RRP9";
+JAJGBW010000005.1	Genbank	CDS	1068527	1070311	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003028-T1_mrna"; gene_id "gene-HRR86_003028"; gene_name "RRP9";
+JAJGBW010000005.1	Genbank	transcript	1075080	1077893	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003032-T1_mrna"; gene_id "gene-HRR86_003032"; gene_name "utp13"
+JAJGBW010000005.1	Genbank	exon	1075080	1077893	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003032-T1_mrna"; gene_id "gene-HRR86_003032"; gene_name "utp13";
+JAJGBW010000005.1	Genbank	CDS	1075080	1077893	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003032-T1_mrna"; gene_id "gene-HRR86_003032"; gene_name "utp13";
+JAJGBW010000005.1	Genbank	transcript	1291355	1292293	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003115-T1_mrna"; gene_id "gene-HRR86_003115"; gene_name "oca3"
+JAJGBW010000005.1	Genbank	exon	1291355	1292293	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003115-T1_mrna"; gene_id "gene-HRR86_003115"; gene_name "oca3";
+JAJGBW010000005.1	Genbank	CDS	1291355	1292293	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003115-T1_mrna"; gene_id "gene-HRR86_003115"; gene_name "oca3";
+JAJGBW010000006.1	Genbank	transcript	226208	227109	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003215-T1_mrna"; gene_id "gene-HRR86_003215"; gene_name "COX11"
+JAJGBW010000006.1	Genbank	exon	226208	226413	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003215-T1_mrna"; gene_id "gene-HRR86_003215"; gene_name "COX11";
+JAJGBW010000006.1	Genbank	exon	226477	226546	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003215-T1_mrna"; gene_id "gene-HRR86_003215"; gene_name "COX11";
+JAJGBW010000006.1	Genbank	exon	226606	227109	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003215-T1_mrna"; gene_id "gene-HRR86_003215"; gene_name "COX11";
+JAJGBW010000006.1	Genbank	CDS	226208	226413	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003215-T1_mrna"; gene_id "gene-HRR86_003215"; gene_name "COX11";
+JAJGBW010000006.1	Genbank	CDS	226477	226546	.	+	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003215-T1_mrna"; gene_id "gene-HRR86_003215"; gene_name "COX11";
+JAJGBW010000006.1	Genbank	CDS	226606	227109	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003215-T1_mrna"; gene_id "gene-HRR86_003215"; gene_name "COX11";
+JAJGBW010000006.1	Genbank	transcript	402559	403552	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003283-T1_mrna"; gene_id "gene-HRR86_003283"; gene_name "DPH5"
+JAJGBW010000006.1	Genbank	exon	402559	402693	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003283-T1_mrna"; gene_id "gene-HRR86_003283"; gene_name "DPH5";
+JAJGBW010000006.1	Genbank	exon	402778	402902	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003283-T1_mrna"; gene_id "gene-HRR86_003283"; gene_name "DPH5";
+JAJGBW010000006.1	Genbank	exon	402958	403552	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003283-T1_mrna"; gene_id "gene-HRR86_003283"; gene_name "DPH5";
+JAJGBW010000006.1	Genbank	CDS	402559	402693	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003283-T1_mrna"; gene_id "gene-HRR86_003283"; gene_name "DPH5";
+JAJGBW010000006.1	Genbank	CDS	402778	402902	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003283-T1_mrna"; gene_id "gene-HRR86_003283"; gene_name "DPH5";
+JAJGBW010000006.1	Genbank	CDS	402958	403552	.	+	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003283-T1_mrna"; gene_id "gene-HRR86_003283"; gene_name "DPH5";
+JAJGBW010000006.1	Genbank	transcript	434012	438065	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003299-T1_mrna"; gene_id "gene-HRR86_003299"
+JAJGBW010000006.1	Genbank	exon	434012	438065	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003299-T1_mrna"; gene_id "gene-HRR86_003299";
+JAJGBW010000006.1	Genbank	CDS	434121	435953	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003299-T1_mrna"; gene_id "gene-HRR86_003299";
+JAJGBW010000006.1	Genbank	transcript	515075	517030	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003322-T1_mrna"; gene_id "gene-HRR86_003322"; gene_name "SPB4"
+JAJGBW010000006.1	Genbank	exon	515075	517030	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003322-T1_mrna"; gene_id "gene-HRR86_003322"; gene_name "SPB4";
+JAJGBW010000006.1	Genbank	CDS	515075	517030	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003322-T1_mrna"; gene_id "gene-HRR86_003322"; gene_name "SPB4";
+JAJGBW010000006.1	Genbank	transcript	698048	699815	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003387-T1_mrna"; gene_id "gene-HRR86_003387"; gene_name "ETF1"
+JAJGBW010000006.1	Genbank	exon	698048	698771	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003387-T1_mrna"; gene_id "gene-HRR86_003387"; gene_name "ETF1";
+JAJGBW010000006.1	Genbank	exon	698956	699815	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003387-T1_mrna"; gene_id "gene-HRR86_003387"; gene_name "ETF1";
+JAJGBW010000006.1	Genbank	CDS	698294	698771	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003387-T1_mrna"; gene_id "gene-HRR86_003387"; gene_name "ETF1";
+JAJGBW010000006.1	Genbank	CDS	698956	699530	.	+	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003387-T1_mrna"; gene_id "gene-HRR86_003387"; gene_name "ETF1";
+JAJGBW010000006.1	Genbank	transcript	1057613	1059409	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003526-T1_mrna"; gene_id "gene-HRR86_003526"; gene_name "prp3"
+JAJGBW010000006.1	Genbank	exon	1057613	1059409	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003526-T1_mrna"; gene_id "gene-HRR86_003526"; gene_name "prp3";
+JAJGBW010000006.1	Genbank	CDS	1057613	1059409	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003526-T1_mrna"; gene_id "gene-HRR86_003526"; gene_name "prp3";
+JAJGBW010000006.1	Genbank	transcript	1170522	1172702	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003569-T1_mrna"; gene_id "gene-HRR86_003569"
+JAJGBW010000006.1	Genbank	exon	1170522	1172702	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003569-T1_mrna"; gene_id "gene-HRR86_003569";
+JAJGBW010000006.1	Genbank	CDS	1171889	1172542	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003569-T1_mrna"; gene_id "gene-HRR86_003569";
+JAJGBW010000007.1	Genbank	transcript	302708	304152	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003724-T1_mrna"; gene_id "gene-HRR86_003724"; gene_name "cyp6"
+JAJGBW010000007.1	Genbank	exon	302708	302787	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003724-T1_mrna"; gene_id "gene-HRR86_003724"; gene_name "cyp6";
+JAJGBW010000007.1	Genbank	exon	302835	304152	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003724-T1_mrna"; gene_id "gene-HRR86_003724"; gene_name "cyp6";
+JAJGBW010000007.1	Genbank	CDS	302708	302787	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003724-T1_mrna"; gene_id "gene-HRR86_003724"; gene_name "cyp6";
+JAJGBW010000007.1	Genbank	CDS	302835	304152	.	+	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003724-T1_mrna"; gene_id "gene-HRR86_003724"; gene_name "cyp6";
+JAJGBW010000007.1	Genbank	transcript	517563	518370	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003791-T1_mrna"; gene_id "gene-HRR86_003791"
+JAJGBW010000007.1	Genbank	exon	517563	517835	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003791-T1_mrna"; gene_id "gene-HRR86_003791";
+JAJGBW010000007.1	Genbank	exon	517901	518065	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003791-T1_mrna"; gene_id "gene-HRR86_003791";
+JAJGBW010000007.1	Genbank	exon	518116	518206	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003791-T1_mrna"; gene_id "gene-HRR86_003791";
+JAJGBW010000007.1	Genbank	exon	518267	518370	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003791-T1_mrna"; gene_id "gene-HRR86_003791";
+JAJGBW010000007.1	Genbank	CDS	517563	517835	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003791-T1_mrna"; gene_id "gene-HRR86_003791";
+JAJGBW010000007.1	Genbank	CDS	517901	518065	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003791-T1_mrna"; gene_id "gene-HRR86_003791";
+JAJGBW010000007.1	Genbank	CDS	518116	518206	.	-	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003791-T1_mrna"; gene_id "gene-HRR86_003791";
+JAJGBW010000007.1	Genbank	CDS	518267	518370	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003791-T1_mrna"; gene_id "gene-HRR86_003791";
+JAJGBW010000007.1	Genbank	transcript	677131	682034	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003841-T1_mrna"; gene_id "gene-HRR86_003841"; gene_name "COG3"
+JAJGBW010000007.1	Genbank	exon	677131	677390	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003841-T1_mrna"; gene_id "gene-HRR86_003841"; gene_name "COG3";
+JAJGBW010000007.1	Genbank	exon	677447	682034	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003841-T1_mrna"; gene_id "gene-HRR86_003841"; gene_name "COG3";
+JAJGBW010000007.1	Genbank	CDS	677251	677390	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003841-T1_mrna"; gene_id "gene-HRR86_003841"; gene_name "COG3";
+JAJGBW010000007.1	Genbank	CDS	677447	679634	.	+	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003841-T1_mrna"; gene_id "gene-HRR86_003841"; gene_name "COG3";
+JAJGBW010000007.1	Genbank	transcript	985925	987691	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003948-T1_mrna"; gene_id "gene-HRR86_003948"; gene_name "MSW1"
+JAJGBW010000007.1	Genbank	exon	985925	986386	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003948-T1_mrna"; gene_id "gene-HRR86_003948"; gene_name "MSW1";
+JAJGBW010000007.1	Genbank	exon	986450	986530	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003948-T1_mrna"; gene_id "gene-HRR86_003948"; gene_name "MSW1";
+JAJGBW010000007.1	Genbank	exon	986598	986713	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003948-T1_mrna"; gene_id "gene-HRR86_003948"; gene_name "MSW1";
+JAJGBW010000007.1	Genbank	exon	986775	986911	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003948-T1_mrna"; gene_id "gene-HRR86_003948"; gene_name "MSW1";
+JAJGBW010000007.1	Genbank	exon	986976	987691	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003948-T1_mrna"; gene_id "gene-HRR86_003948"; gene_name "MSW1";
+JAJGBW010000007.1	Genbank	CDS	985925	986386	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003948-T1_mrna"; gene_id "gene-HRR86_003948"; gene_name "MSW1";
+JAJGBW010000007.1	Genbank	CDS	986450	986530	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003948-T1_mrna"; gene_id "gene-HRR86_003948"; gene_name "MSW1";
+JAJGBW010000007.1	Genbank	CDS	986598	986713	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003948-T1_mrna"; gene_id "gene-HRR86_003948"; gene_name "MSW1";
+JAJGBW010000007.1	Genbank	CDS	986775	986911	.	+	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003948-T1_mrna"; gene_id "gene-HRR86_003948"; gene_name "MSW1";
+JAJGBW010000007.1	Genbank	CDS	986976	987691	.	+	2	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003948-T1_mrna"; gene_id "gene-HRR86_003948"; gene_name "MSW1";
+JAJGBW010000007.1	Genbank	transcript	1006754	1007335	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003958-T1_mrna"; gene_id "gene-HRR86_003958"; gene_name "FAP7"
+JAJGBW010000007.1	Genbank	exon	1006754	1007335	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003958-T1_mrna"; gene_id "gene-HRR86_003958"; gene_name "FAP7";
+JAJGBW010000007.1	Genbank	CDS	1006754	1007335	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_003958-T1_mrna"; gene_id "gene-HRR86_003958"; gene_name "FAP7";
+JAJGBW010000008.1	Genbank	transcript	249272	251338	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004078-T1_mrna"; gene_id "gene-HRR86_004078"
+JAJGBW010000008.1	Genbank	exon	249272	251338	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004078-T1_mrna"; gene_id "gene-HRR86_004078";
+JAJGBW010000008.1	Genbank	CDS	249272	251338	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004078-T1_mrna"; gene_id "gene-HRR86_004078";
+JAJGBW010000008.1	Genbank	transcript	275720	276921	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004090-T1_mrna"; gene_id "gene-HRR86_004090"; gene_name "NOP16"
+JAJGBW010000008.1	Genbank	exon	275720	275923	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004090-T1_mrna"; gene_id "gene-HRR86_004090"; gene_name "NOP16";
+JAJGBW010000008.1	Genbank	exon	275998	276921	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004090-T1_mrna"; gene_id "gene-HRR86_004090"; gene_name "NOP16";
+JAJGBW010000008.1	Genbank	CDS	275796	275923	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004090-T1_mrna"; gene_id "gene-HRR86_004090"; gene_name "NOP16";
+JAJGBW010000008.1	Genbank	CDS	275998	276565	.	+	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004090-T1_mrna"; gene_id "gene-HRR86_004090"; gene_name "NOP16";
+JAJGBW010000008.1	Genbank	transcript	319544	321935	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004105-T1_mrna"; gene_id "gene-HRR86_004105"; gene_name "MCM2"
+JAJGBW010000008.1	Genbank	exon	319544	319753	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004105-T1_mrna"; gene_id "gene-HRR86_004105"; gene_name "MCM2";
+JAJGBW010000008.1	Genbank	exon	319807	319976	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004105-T1_mrna"; gene_id "gene-HRR86_004105"; gene_name "MCM2";
+JAJGBW010000008.1	Genbank	exon	320027	321935	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004105-T1_mrna"; gene_id "gene-HRR86_004105"; gene_name "MCM2";
+JAJGBW010000008.1	Genbank	CDS	319675	319753	.	-	1	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004105-T1_mrna"; gene_id "gene-HRR86_004105"; gene_name "MCM2";
+JAJGBW010000008.1	Genbank	CDS	319807	319976	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004105-T1_mrna"; gene_id "gene-HRR86_004105"; gene_name "MCM2";
+JAJGBW010000008.1	Genbank	CDS	320027	321862	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004105-T1_mrna"; gene_id "gene-HRR86_004105"; gene_name "MCM2";
+JAJGBW010000009.1	Genbank	transcript	173875	176199	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004423-T1_mrna"; gene_id "gene-HRR86_004423"; gene_name "ESF1"
+JAJGBW010000009.1	Genbank	exon	173875	176199	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004423-T1_mrna"; gene_id "gene-HRR86_004423"; gene_name "ESF1";
+JAJGBW010000009.1	Genbank	CDS	173923	176199	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004423-T1_mrna"; gene_id "gene-HRR86_004423"; gene_name "ESF1";
+JAJGBW010000009.1	Genbank	transcript	302135	302881	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004467-T1_mrna"; gene_id "gene-HRR86_004467"; gene_name "MRT4"
+JAJGBW010000009.1	Genbank	exon	302135	302881	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004467-T1_mrna"; gene_id "gene-HRR86_004467"; gene_name "MRT4";
+JAJGBW010000009.1	Genbank	CDS	302135	302881	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004467-T1_mrna"; gene_id "gene-HRR86_004467"; gene_name "MRT4";
+JAJGBW010000009.1	Genbank	transcript	325015	325897	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004478-T1_mrna"; gene_id "gene-HRR86_004478"; gene_name "MRPL51"
+JAJGBW010000009.1	Genbank	exon	325015	325277	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004478-T1_mrna"; gene_id "gene-HRR86_004478"; gene_name "MRPL51";
+JAJGBW010000009.1	Genbank	exon	325471	325897	.	+	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004478-T1_mrna"; gene_id "gene-HRR86_004478"; gene_name "MRPL51";
+JAJGBW010000009.1	Genbank	CDS	325239	325277	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004478-T1_mrna"; gene_id "gene-HRR86_004478"; gene_name "MRPL51";
+JAJGBW010000009.1	Genbank	CDS	325471	325851	.	+	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004478-T1_mrna"; gene_id "gene-HRR86_004478"; gene_name "MRPL51";
+JAJGBW010000009.1	Genbank	transcript	837812	839185	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004663-T1_mrna"; gene_id "gene-HRR86_004663"
+JAJGBW010000009.1	Genbank	exon	837812	839185	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004663-T1_mrna"; gene_id "gene-HRR86_004663";
+JAJGBW010000009.1	Genbank	CDS	837812	839185	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004663-T1_mrna"; gene_id "gene-HRR86_004663";
+JAJGBW010000009.1	Genbank	transcript	896661	897845	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004685-T1_mrna"; gene_id "gene-HRR86_004685"; gene_name "GCV1"
+JAJGBW010000009.1	Genbank	exon	896661	897845	.	-	.	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004685-T1_mrna"; gene_id "gene-HRR86_004685"; gene_name "GCV1";
+JAJGBW010000009.1	Genbank	CDS	896661	897845	.	-	0	transcript_id "rna-gnl|WGS:JAJGBW|HRR86_004685-T1_mrna"; gene_id "gene-HRR86_004685"; gene_name "GCV1";
