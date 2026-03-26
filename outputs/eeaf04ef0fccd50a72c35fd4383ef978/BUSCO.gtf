@@ -1,0 +1,542 @@
+NC_013038.1	RefSeq	transcript	39246	39794	.	+	.	transcript_id "rna-XM_002506977.1"; gene_id "gene-MICPUN_77463"
+NC_013038.1	RefSeq	exon	39246	39794	.	+	.	transcript_id "rna-XM_002506977.1"; gene_id "gene-MICPUN_77463";
+NC_013038.1	RefSeq	CDS	39246	39794	.	+	0	transcript_id "rna-XM_002506977.1"; gene_id "gene-MICPUN_77463";
+NC_013038.1	RefSeq	transcript	563880	565274	.	+	.	transcript_id "rna-XM_002507081.1"; gene_id "gene-MICPUN_113286"; gene_name "UTP18"
+NC_013038.1	RefSeq	exon	563880	565274	.	+	.	transcript_id "rna-XM_002507081.1"; gene_id "gene-MICPUN_113286"; gene_name "UTP18";
+NC_013038.1	RefSeq	CDS	563880	565274	.	+	0	transcript_id "rna-XM_002507081.1"; gene_id "gene-MICPUN_113286"; gene_name "UTP18";
+NC_013038.1	RefSeq	transcript	579858	581260	.	-	.	transcript_id "rna-XM_002507481.1"; gene_id "gene-MICPUN_55025"; gene_name "CYP59"
+NC_013038.1	RefSeq	exon	579858	581260	.	-	.	transcript_id "rna-XM_002507481.1"; gene_id "gene-MICPUN_55025"; gene_name "CYP59";
+NC_013038.1	RefSeq	CDS	580143	581234	.	-	0	transcript_id "rna-XM_002507481.1"; gene_id "gene-MICPUN_55025"; gene_name "CYP59";
+NC_013038.1	RefSeq	transcript	879613	880554	.	-	.	transcript_id "rna-XM_002507521.1"; gene_id "gene-MICPUN_113390"
+NC_013038.1	RefSeq	exon	879613	880413	.	-	.	transcript_id "rna-XM_002507521.1"; gene_id "gene-MICPUN_113390";
+NC_013038.1	RefSeq	exon	880501	880554	.	-	.	transcript_id "rna-XM_002507521.1"; gene_id "gene-MICPUN_113390";
+NC_013038.1	RefSeq	CDS	879613	880413	.	-	0	transcript_id "rna-XM_002507521.1"; gene_id "gene-MICPUN_113390";
+NC_013038.1	RefSeq	CDS	880501	880554	.	-	0	transcript_id "rna-XM_002507521.1"; gene_id "gene-MICPUN_113390";
+NC_013038.1	RefSeq	transcript	883842	887117	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1"
+NC_013038.1	RefSeq	exon	883842	884090	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	exon	884142	884205	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	exon	884295	884337	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	exon	884410	884567	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	exon	884635	884667	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	exon	884734	884793	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	exon	884848	884867	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	exon	884927	884969	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	exon	885032	885066	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	exon	885123	885172	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	exon	885249	885322	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	exon	885390	885451	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	exon	885505	885553	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	exon	885649	885683	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	exon	885789	885839	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	exon	885899	885998	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	exon	886057	886088	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	exon	886149	886303	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	exon	886374	886434	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	exon	886499	886568	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	exon	886626	886699	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	exon	886775	886846	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	exon	886914	887117	.	-	.	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	CDS	883842	884090	.	-	0	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	CDS	884142	884205	.	-	1	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	CDS	884295	884337	.	-	2	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	CDS	884410	884567	.	-	1	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	CDS	884635	884667	.	-	1	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	CDS	884734	884793	.	-	1	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	CDS	884848	884867	.	-	0	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	CDS	884927	884969	.	-	1	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	CDS	885032	885066	.	-	0	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	CDS	885123	885172	.	-	2	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	CDS	885249	885322	.	-	1	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	CDS	885390	885451	.	-	0	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	CDS	885505	885553	.	-	1	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	CDS	885649	885683	.	-	0	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	CDS	885789	885839	.	-	0	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	CDS	885899	885998	.	-	1	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	CDS	886057	886088	.	-	0	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	CDS	886149	886303	.	-	2	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	CDS	886374	886434	.	-	0	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	CDS	886499	886568	.	-	1	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	CDS	886626	886699	.	-	0	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	CDS	886775	886846	.	-	0	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	CDS	886914	887117	.	-	0	transcript_id "rna-XM_002507522.1"; gene_id "gene-MICPUN_107319"; gene_name "BOP1";
+NC_013038.1	RefSeq	transcript	1048133	1049271	.	-	.	transcript_id "rna-XM_002507558.1"; gene_id "gene-MICPUN_112705"
+NC_013038.1	RefSeq	exon	1048133	1048559	.	-	.	transcript_id "rna-XM_002507558.1"; gene_id "gene-MICPUN_112705";
+NC_013038.1	RefSeq	exon	1048640	1048806	.	-	.	transcript_id "rna-XM_002507558.1"; gene_id "gene-MICPUN_112705";
+NC_013038.1	RefSeq	exon	1048908	1049271	.	-	.	transcript_id "rna-XM_002507558.1"; gene_id "gene-MICPUN_112705";
+NC_013038.1	RefSeq	CDS	1048218	1048559	.	-	0	transcript_id "rna-XM_002507558.1"; gene_id "gene-MICPUN_112705";
+NC_013038.1	RefSeq	CDS	1048640	1048806	.	-	2	transcript_id "rna-XM_002507558.1"; gene_id "gene-MICPUN_112705";
+NC_013038.1	RefSeq	CDS	1048908	1049271	.	-	0	transcript_id "rna-XM_002507558.1"; gene_id "gene-MICPUN_112705";
+NC_013038.1	RefSeq	transcript	1114707	1115798	.	-	.	transcript_id "rna-XM_002507570.1"; gene_id "gene-MICPUN_51571"
+NC_013038.1	RefSeq	exon	1114707	1115168	.	-	.	transcript_id "rna-XM_002507570.1"; gene_id "gene-MICPUN_51571";
+NC_013038.1	RefSeq	exon	1115231	1115390	.	-	.	transcript_id "rna-XM_002507570.1"; gene_id "gene-MICPUN_51571";
+NC_013038.1	RefSeq	exon	1115498	1115798	.	-	.	transcript_id "rna-XM_002507570.1"; gene_id "gene-MICPUN_51571";
+NC_013038.1	RefSeq	CDS	1114707	1115168	.	-	0	transcript_id "rna-XM_002507570.1"; gene_id "gene-MICPUN_51571";
+NC_013038.1	RefSeq	CDS	1115231	1115390	.	-	1	transcript_id "rna-XM_002507570.1"; gene_id "gene-MICPUN_51571";
+NC_013038.1	RefSeq	CDS	1115498	1115523	.	-	0	transcript_id "rna-XM_002507570.1"; gene_id "gene-MICPUN_51571";
+NC_013038.1	RefSeq	transcript	1435959	1436846	.	+	.	transcript_id "rna-XM_002507225.1"; gene_id "gene-MICPUN_93153"
+NC_013038.1	RefSeq	exon	1435959	1436846	.	+	.	transcript_id "rna-XM_002507225.1"; gene_id "gene-MICPUN_93153";
+NC_013038.1	RefSeq	CDS	1435959	1436846	.	+	0	transcript_id "rna-XM_002507225.1"; gene_id "gene-MICPUN_93153";
+NC_013038.1	RefSeq	transcript	1488462	1490751	.	+	.	transcript_id "rna-XM_002507238.1"; gene_id "gene-MICPUN_114077"
+NC_013038.1	RefSeq	exon	1488462	1488500	.	+	.	transcript_id "rna-XM_002507238.1"; gene_id "gene-MICPUN_114077";
+NC_013038.1	RefSeq	exon	1488561	1490751	.	+	.	transcript_id "rna-XM_002507238.1"; gene_id "gene-MICPUN_114077";
+NC_013038.1	RefSeq	CDS	1488462	1488500	.	+	0	transcript_id "rna-XM_002507238.1"; gene_id "gene-MICPUN_114077";
+NC_013038.1	RefSeq	CDS	1488561	1489229	.	+	0	transcript_id "rna-XM_002507238.1"; gene_id "gene-MICPUN_114077";
+NC_013038.1	RefSeq	transcript	1662501	1664134	.	-	.	transcript_id "rna-XM_002507665.1"; gene_id "gene-MICPUN_55459"
+NC_013038.1	RefSeq	exon	1662501	1664134	.	-	.	transcript_id "rna-XM_002507665.1"; gene_id "gene-MICPUN_55459";
+NC_013038.1	RefSeq	CDS	1662560	1664134	.	-	0	transcript_id "rna-XM_002507665.1"; gene_id "gene-MICPUN_55459";
+NC_013038.1	RefSeq	transcript	1771365	1772936	.	-	.	transcript_id "rna-XM_002507683.1"; gene_id "gene-MICPUN_107371"; gene_name "HEL1"
+NC_013038.1	RefSeq	exon	1771365	1772936	.	-	.	transcript_id "rna-XM_002507683.1"; gene_id "gene-MICPUN_107371"; gene_name "HEL1";
+NC_013038.1	RefSeq	CDS	1771365	1772936	.	-	0	transcript_id "rna-XM_002507683.1"; gene_id "gene-MICPUN_107371"; gene_name "HEL1";
+NC_013039.1	RefSeq	transcript	16981	17788	.	+	.	transcript_id "rna-XM_002499334.1"; gene_id "gene-MICPUN_107842"
+NC_013039.1	RefSeq	exon	16981	17788	.	+	.	transcript_id "rna-XM_002499334.1"; gene_id "gene-MICPUN_107842";
+NC_013039.1	RefSeq	CDS	16997	17701	.	+	0	transcript_id "rna-XM_002499334.1"; gene_id "gene-MICPUN_107842";
+NC_013039.1	RefSeq	transcript	175924	176586	.	+	.	transcript_id "rna-XM_002499373.1"; gene_id "gene-MICPUN_72212"
+NC_013039.1	RefSeq	exon	175924	176586	.	+	.	transcript_id "rna-XM_002499373.1"; gene_id "gene-MICPUN_72212";
+NC_013039.1	RefSeq	CDS	175924	176586	.	+	0	transcript_id "rna-XM_002499373.1"; gene_id "gene-MICPUN_72212";
+NC_013039.1	RefSeq	transcript	500780	501426	.	-	.	transcript_id "rna-XM_002499930.1"; gene_id "gene-MICPUN_93520"
+NC_013039.1	RefSeq	exon	500780	501150	.	-	.	transcript_id "rna-XM_002499930.1"; gene_id "gene-MICPUN_93520";
+NC_013039.1	RefSeq	exon	501301	501426	.	-	.	transcript_id "rna-XM_002499930.1"; gene_id "gene-MICPUN_93520";
+NC_013039.1	RefSeq	CDS	500905	501150	.	-	0	transcript_id "rna-XM_002499930.1"; gene_id "gene-MICPUN_93520";
+NC_013039.1	RefSeq	CDS	501301	501411	.	-	0	transcript_id "rna-XM_002499930.1"; gene_id "gene-MICPUN_93520";
+NC_013039.1	RefSeq	transcript	832546	835391	.	+	.	transcript_id "rna-XM_002499537.1"; gene_id "gene-MICPUN_56144"
+NC_013039.1	RefSeq	exon	832546	833501	.	+	.	transcript_id "rna-XM_002499537.1"; gene_id "gene-MICPUN_56144";
+NC_013039.1	RefSeq	exon	833688	835391	.	+	.	transcript_id "rna-XM_002499537.1"; gene_id "gene-MICPUN_56144";
+NC_013039.1	RefSeq	CDS	832546	833501	.	+	0	transcript_id "rna-XM_002499537.1"; gene_id "gene-MICPUN_56144";
+NC_013039.1	RefSeq	CDS	833688	835353	.	+	1	transcript_id "rna-XM_002499537.1"; gene_id "gene-MICPUN_56144";
+NC_013039.1	RefSeq	transcript	865182	868074	.	-	.	transcript_id "rna-XM_002500030.1"; gene_id "gene-MICPUN_106763"
+NC_013039.1	RefSeq	exon	865182	868074	.	-	.	transcript_id "rna-XM_002500030.1"; gene_id "gene-MICPUN_106763";
+NC_013039.1	RefSeq	CDS	865222	868074	.	-	0	transcript_id "rna-XM_002500030.1"; gene_id "gene-MICPUN_106763";
+NC_013039.1	RefSeq	transcript	1140149	1141151	.	+	.	transcript_id "rna-XM_002499619.1"; gene_id "gene-MICPUN_113808"
+NC_013039.1	RefSeq	exon	1140149	1141151	.	+	.	transcript_id "rna-XM_002499619.1"; gene_id "gene-MICPUN_113808";
+NC_013039.1	RefSeq	CDS	1140159	1141085	.	+	0	transcript_id "rna-XM_002499619.1"; gene_id "gene-MICPUN_113808";
+NC_013039.1	RefSeq	transcript	1313610	1314332	.	-	.	transcript_id "rna-XM_002500145.1"; gene_id "gene-MICPUN_78358"
+NC_013039.1	RefSeq	exon	1313610	1314068	.	-	.	transcript_id "rna-XM_002500145.1"; gene_id "gene-MICPUN_78358";
+NC_013039.1	RefSeq	exon	1314234	1314332	.	-	.	transcript_id "rna-XM_002500145.1"; gene_id "gene-MICPUN_78358";
+NC_013039.1	RefSeq	CDS	1313610	1314068	.	-	0	transcript_id "rna-XM_002500145.1"; gene_id "gene-MICPUN_78358";
+NC_013039.1	RefSeq	CDS	1314234	1314332	.	-	0	transcript_id "rna-XM_002500145.1"; gene_id "gene-MICPUN_78358";
+NC_013039.1	RefSeq	transcript	1608074	1610854	.	-	.	transcript_id "rna-XM_002500216.1"; gene_id "gene-MICPUN_55769"
+NC_013039.1	RefSeq	exon	1608074	1608105	.	-	.	transcript_id "rna-XM_002500216.1"; gene_id "gene-MICPUN_55769";
+NC_013039.1	RefSeq	exon	1608170	1608289	.	-	.	transcript_id "rna-XM_002500216.1"; gene_id "gene-MICPUN_55769";
+NC_013039.1	RefSeq	exon	1608351	1608575	.	-	.	transcript_id "rna-XM_002500216.1"; gene_id "gene-MICPUN_55769";
+NC_013039.1	RefSeq	exon	1608638	1608822	.	-	.	transcript_id "rna-XM_002500216.1"; gene_id "gene-MICPUN_55769";
+NC_013039.1	RefSeq	exon	1608888	1609023	.	-	.	transcript_id "rna-XM_002500216.1"; gene_id "gene-MICPUN_55769";
+NC_013039.1	RefSeq	exon	1609096	1609422	.	-	.	transcript_id "rna-XM_002500216.1"; gene_id "gene-MICPUN_55769";
+NC_013039.1	RefSeq	exon	1609466	1609747	.	-	.	transcript_id "rna-XM_002500216.1"; gene_id "gene-MICPUN_55769";
+NC_013039.1	RefSeq	exon	1609815	1610066	.	-	.	transcript_id "rna-XM_002500216.1"; gene_id "gene-MICPUN_55769";
+NC_013039.1	RefSeq	exon	1610141	1610198	.	-	.	transcript_id "rna-XM_002500216.1"; gene_id "gene-MICPUN_55769";
+NC_013039.1	RefSeq	exon	1610315	1610700	.	-	.	transcript_id "rna-XM_002500216.1"; gene_id "gene-MICPUN_55769";
+NC_013039.1	RefSeq	exon	1610788	1610854	.	-	.	transcript_id "rna-XM_002500216.1"; gene_id "gene-MICPUN_55769";
+NC_013039.1	RefSeq	CDS	1609184	1609422	.	-	2	transcript_id "rna-XM_002500216.1"; gene_id "gene-MICPUN_55769";
+NC_013039.1	RefSeq	CDS	1609466	1609747	.	-	2	transcript_id "rna-XM_002500216.1"; gene_id "gene-MICPUN_55769";
+NC_013039.1	RefSeq	CDS	1609815	1610066	.	-	2	transcript_id "rna-XM_002500216.1"; gene_id "gene-MICPUN_55769";
+NC_013039.1	RefSeq	CDS	1610141	1610198	.	-	0	transcript_id "rna-XM_002500216.1"; gene_id "gene-MICPUN_55769";
+NC_013039.1	RefSeq	CDS	1610315	1610700	.	-	2	transcript_id "rna-XM_002500216.1"; gene_id "gene-MICPUN_55769";
+NC_013039.1	RefSeq	CDS	1610788	1610854	.	-	0	transcript_id "rna-XM_002500216.1"; gene_id "gene-MICPUN_55769";
+NC_013040.1	RefSeq	transcript	734863	735816	.	+	.	transcript_id "rna-XM_002500476.1"; gene_id "gene-MICPUN_71596"
+NC_013040.1	RefSeq	exon	734863	735075	.	+	.	transcript_id "rna-XM_002500476.1"; gene_id "gene-MICPUN_71596";
+NC_013040.1	RefSeq	exon	735229	735816	.	+	.	transcript_id "rna-XM_002500476.1"; gene_id "gene-MICPUN_71596";
+NC_013040.1	RefSeq	CDS	734863	735075	.	+	0	transcript_id "rna-XM_002500476.1"; gene_id "gene-MICPUN_71596";
+NC_013040.1	RefSeq	CDS	735229	735816	.	+	0	transcript_id "rna-XM_002500476.1"; gene_id "gene-MICPUN_71596";
+NC_013040.1	RefSeq	transcript	1066437	1066835	.	-	.	transcript_id "rna-XM_002500982.1"; gene_id "gene-MICPUN_80305"
+NC_013040.1	RefSeq	exon	1066437	1066835	.	-	.	transcript_id "rna-XM_002500982.1"; gene_id "gene-MICPUN_80305";
+NC_013040.1	RefSeq	CDS	1066437	1066835	.	-	0	transcript_id "rna-XM_002500982.1"; gene_id "gene-MICPUN_80305";
+NC_013040.1	RefSeq	transcript	1269884	1271986	.	+	.	transcript_id "rna-XM_002500610.1"; gene_id "gene-MICPUN_66092"
+NC_013040.1	RefSeq	exon	1269884	1271542	.	+	.	transcript_id "rna-XM_002500610.1"; gene_id "gene-MICPUN_66092";
+NC_013040.1	RefSeq	exon	1271639	1271986	.	+	.	transcript_id "rna-XM_002500610.1"; gene_id "gene-MICPUN_66092";
+NC_013040.1	RefSeq	CDS	1269884	1271542	.	+	0	transcript_id "rna-XM_002500610.1"; gene_id "gene-MICPUN_66092";
+NC_013040.1	RefSeq	CDS	1271639	1271986	.	+	0	transcript_id "rna-XM_002500610.1"; gene_id "gene-MICPUN_66092";
+NC_013040.1	RefSeq	transcript	1402764	1404939	.	-	.	transcript_id "rna-XM_002501071.1"; gene_id "gene-MICPUN_57307"
+NC_013040.1	RefSeq	exon	1402764	1404584	.	-	.	transcript_id "rna-XM_002501071.1"; gene_id "gene-MICPUN_57307";
+NC_013040.1	RefSeq	exon	1404763	1404939	.	-	.	transcript_id "rna-XM_002501071.1"; gene_id "gene-MICPUN_57307";
+NC_013040.1	RefSeq	CDS	1402764	1404584	.	-	0	transcript_id "rna-XM_002501071.1"; gene_id "gene-MICPUN_57307";
+NC_013040.1	RefSeq	CDS	1404763	1404939	.	-	0	transcript_id "rna-XM_002501071.1"; gene_id "gene-MICPUN_57307";
+NC_013041.1	RefSeq	transcript	98138	99583	.	+	.	transcript_id "rna-XM_002501171.1"; gene_id "gene-MICPUN_80958"
+NC_013041.1	RefSeq	exon	98138	98920	.	+	.	transcript_id "rna-XM_002501171.1"; gene_id "gene-MICPUN_80958";
+NC_013041.1	RefSeq	exon	99011	99583	.	+	.	transcript_id "rna-XM_002501171.1"; gene_id "gene-MICPUN_80958";
+NC_013041.1	RefSeq	CDS	98138	98920	.	+	0	transcript_id "rna-XM_002501171.1"; gene_id "gene-MICPUN_80958";
+NC_013041.1	RefSeq	CDS	99011	99580	.	+	0	transcript_id "rna-XM_002501171.1"; gene_id "gene-MICPUN_80958";
+NC_013041.1	RefSeq	transcript	346984	347835	.	+	.	transcript_id "rna-XM_002501232.1"; gene_id "gene-MICPUN_80796"
+NC_013041.1	RefSeq	exon	346984	347835	.	+	.	transcript_id "rna-XM_002501232.1"; gene_id "gene-MICPUN_80796";
+NC_013041.1	RefSeq	CDS	346984	347835	.	+	0	transcript_id "rna-XM_002501232.1"; gene_id "gene-MICPUN_80796";
+NC_013041.1	RefSeq	transcript	824613	825485	.	+	.	transcript_id "rna-XM_002501346.1"; gene_id "gene-MICPUN_80638"
+NC_013041.1	RefSeq	exon	824613	825485	.	+	.	transcript_id "rna-XM_002501346.1"; gene_id "gene-MICPUN_80638";
+NC_013041.1	RefSeq	CDS	824613	825485	.	+	0	transcript_id "rna-XM_002501346.1"; gene_id "gene-MICPUN_80638";
+NC_013041.1	RefSeq	transcript	1002527	1003069	.	-	.	transcript_id "rna-XM_002501777.1"; gene_id "gene-MICPUN_81292"
+NC_013041.1	RefSeq	exon	1002527	1003069	.	-	.	transcript_id "rna-XM_002501777.1"; gene_id "gene-MICPUN_81292";
+NC_013041.1	RefSeq	CDS	1002527	1003069	.	-	0	transcript_id "rna-XM_002501777.1"; gene_id "gene-MICPUN_81292";
+NC_013041.1	RefSeq	transcript	1350359	1350966	.	-	.	transcript_id "rna-XM_002501865.1"; gene_id "gene-MICPUN_108153"; gene_name "NAT"
+NC_013041.1	RefSeq	exon	1350359	1350966	.	-	.	transcript_id "rna-XM_002501865.1"; gene_id "gene-MICPUN_108153"; gene_name "NAT";
+NC_013041.1	RefSeq	CDS	1350405	1350941	.	-	0	transcript_id "rna-XM_002501865.1"; gene_id "gene-MICPUN_108153"; gene_name "NAT";
+NC_013042.1	RefSeq	transcript	8490	9552	.	+	.	transcript_id "rna-XM_002501931.1"; gene_id "gene-MICPUN_108192"
+NC_013042.1	RefSeq	exon	8490	9552	.	+	.	transcript_id "rna-XM_002501931.1"; gene_id "gene-MICPUN_108192";
+NC_013042.1	RefSeq	CDS	8589	9494	.	+	0	transcript_id "rna-XM_002501931.1"; gene_id "gene-MICPUN_108192";
+NC_013042.1	RefSeq	transcript	247093	248580	.	+	.	transcript_id "rna-XM_002501983.1"; gene_id "gene-MICPUN_81470"
+NC_013042.1	RefSeq	exon	247093	248580	.	+	.	transcript_id "rna-XM_002501983.1"; gene_id "gene-MICPUN_81470";
+NC_013042.1	RefSeq	CDS	247093	248580	.	+	0	transcript_id "rna-XM_002501983.1"; gene_id "gene-MICPUN_81470";
+NC_013042.1	RefSeq	transcript	255906	257591	.	-	.	transcript_id "rna-XM_002502364.1"; gene_id "gene-MICPUN_82193"
+NC_013042.1	RefSeq	exon	255906	256071	.	-	.	transcript_id "rna-XM_002502364.1"; gene_id "gene-MICPUN_82193";
+NC_013042.1	RefSeq	exon	256141	257591	.	-	.	transcript_id "rna-XM_002502364.1"; gene_id "gene-MICPUN_82193";
+NC_013042.1	RefSeq	CDS	255906	256071	.	-	1	transcript_id "rna-XM_002502364.1"; gene_id "gene-MICPUN_82193";
+NC_013042.1	RefSeq	CDS	256141	257591	.	-	0	transcript_id "rna-XM_002502364.1"; gene_id "gene-MICPUN_82193";
+NC_013042.1	RefSeq	transcript	342707	344131	.	-	.	transcript_id "rna-XM_002502385.1"; gene_id "gene-MICPUN_81968"
+NC_013042.1	RefSeq	exon	342707	343096	.	-	.	transcript_id "rna-XM_002502385.1"; gene_id "gene-MICPUN_81968";
+NC_013042.1	RefSeq	exon	343205	344131	.	-	.	transcript_id "rna-XM_002502385.1"; gene_id "gene-MICPUN_81968";
+NC_013042.1	RefSeq	CDS	342707	343096	.	-	0	transcript_id "rna-XM_002502385.1"; gene_id "gene-MICPUN_81968";
+NC_013042.1	RefSeq	CDS	343205	344131	.	-	0	transcript_id "rna-XM_002502385.1"; gene_id "gene-MICPUN_81968";
+NC_013042.1	RefSeq	transcript	409545	410713	.	-	.	transcript_id "rna-XM_002502406.1"; gene_id "gene-MICPUN_108235"
+NC_013042.1	RefSeq	exon	409545	410713	.	-	.	transcript_id "rna-XM_002502406.1"; gene_id "gene-MICPUN_108235";
+NC_013042.1	RefSeq	CDS	409599	410666	.	-	0	transcript_id "rna-XM_002502406.1"; gene_id "gene-MICPUN_108235";
+NC_013042.1	RefSeq	transcript	686716	687804	.	-	.	transcript_id "rna-XM_002502468.1"; gene_id "gene-MICPUN_108266"
+NC_013042.1	RefSeq	exon	686716	687804	.	-	.	transcript_id "rna-XM_002502468.1"; gene_id "gene-MICPUN_108266";
+NC_013042.1	RefSeq	CDS	686749	687804	.	-	0	transcript_id "rna-XM_002502468.1"; gene_id "gene-MICPUN_108266";
+NC_013042.1	RefSeq	transcript	769223	772814	.	-	.	transcript_id "rna-XM_002502487.1"; gene_id "gene-MICPUN_58625"
+NC_013042.1	RefSeq	exon	769223	772814	.	-	.	transcript_id "rna-XM_002502487.1"; gene_id "gene-MICPUN_58625";
+NC_013042.1	RefSeq	CDS	769374	772814	.	-	0	transcript_id "rna-XM_002502487.1"; gene_id "gene-MICPUN_58625";
+NC_013042.1	RefSeq	transcript	884046	885131	.	+	.	transcript_id "rna-XM_002502140.1"; gene_id "gene-MICPUN_58686"
+NC_013042.1	RefSeq	exon	884046	884291	.	+	.	transcript_id "rna-XM_002502140.1"; gene_id "gene-MICPUN_58686";
+NC_013042.1	RefSeq	exon	884379	885131	.	+	.	transcript_id "rna-XM_002502140.1"; gene_id "gene-MICPUN_58686";
+NC_013042.1	RefSeq	CDS	884046	884291	.	+	0	transcript_id "rna-XM_002502140.1"; gene_id "gene-MICPUN_58686";
+NC_013042.1	RefSeq	CDS	884379	885131	.	+	0	transcript_id "rna-XM_002502140.1"; gene_id "gene-MICPUN_58686";
+NC_013042.1	RefSeq	transcript	1132990	1134186	.	-	.	transcript_id "rna-XM_002502586.1"; gene_id "gene-MICPUN_82051"
+NC_013042.1	RefSeq	exon	1132990	1133143	.	-	.	transcript_id "rna-XM_002502586.1"; gene_id "gene-MICPUN_82051";
+NC_013042.1	RefSeq	exon	1133183	1133403	.	-	.	transcript_id "rna-XM_002502586.1"; gene_id "gene-MICPUN_82051";
+NC_013042.1	RefSeq	exon	1133446	1133793	.	-	.	transcript_id "rna-XM_002502586.1"; gene_id "gene-MICPUN_82051";
+NC_013042.1	RefSeq	exon	1133872	1134186	.	-	.	transcript_id "rna-XM_002502586.1"; gene_id "gene-MICPUN_82051";
+NC_013042.1	RefSeq	CDS	1132990	1133143	.	-	1	transcript_id "rna-XM_002502586.1"; gene_id "gene-MICPUN_82051";
+NC_013042.1	RefSeq	CDS	1133183	1133403	.	-	0	transcript_id "rna-XM_002502586.1"; gene_id "gene-MICPUN_82051";
+NC_013042.1	RefSeq	CDS	1133446	1133793	.	-	0	transcript_id "rna-XM_002502586.1"; gene_id "gene-MICPUN_82051";
+NC_013042.1	RefSeq	CDS	1133872	1134186	.	-	0	transcript_id "rna-XM_002502586.1"; gene_id "gene-MICPUN_82051";
+NC_013042.1	RefSeq	transcript	1214855	1218139	.	+	.	transcript_id "rna-XM_002502232.1"; gene_id "gene-MICPUN_82167"
+NC_013042.1	RefSeq	exon	1214855	1215616	.	+	.	transcript_id "rna-XM_002502232.1"; gene_id "gene-MICPUN_82167";
+NC_013042.1	RefSeq	exon	1216046	1216649	.	+	.	transcript_id "rna-XM_002502232.1"; gene_id "gene-MICPUN_82167";
+NC_013042.1	RefSeq	exon	1216998	1217223	.	+	.	transcript_id "rna-XM_002502232.1"; gene_id "gene-MICPUN_82167";
+NC_013042.1	RefSeq	exon	1217605	1217839	.	+	.	transcript_id "rna-XM_002502232.1"; gene_id "gene-MICPUN_82167";
+NC_013042.1	RefSeq	exon	1217879	1218139	.	+	.	transcript_id "rna-XM_002502232.1"; gene_id "gene-MICPUN_82167";
+NC_013042.1	RefSeq	CDS	1214855	1215616	.	+	0	transcript_id "rna-XM_002502232.1"; gene_id "gene-MICPUN_82167";
+NC_013042.1	RefSeq	CDS	1216046	1216649	.	+	0	transcript_id "rna-XM_002502232.1"; gene_id "gene-MICPUN_82167";
+NC_013042.1	RefSeq	CDS	1216998	1217223	.	+	2	transcript_id "rna-XM_002502232.1"; gene_id "gene-MICPUN_82167";
+NC_013042.1	RefSeq	CDS	1217605	1217839	.	+	1	transcript_id "rna-XM_002502232.1"; gene_id "gene-MICPUN_82167";
+NC_013042.1	RefSeq	CDS	1217879	1218139	.	+	0	transcript_id "rna-XM_002502232.1"; gene_id "gene-MICPUN_82167";
+NC_013043.1	RefSeq	transcript	163480	165636	.	-	.	transcript_id "rna-XM_002503064.1"; gene_id "gene-MICPUN_82627"
+NC_013043.1	RefSeq	exon	163480	164568	.	-	.	transcript_id "rna-XM_002503064.1"; gene_id "gene-MICPUN_82627";
+NC_013043.1	RefSeq	exon	164620	164802	.	-	.	transcript_id "rna-XM_002503064.1"; gene_id "gene-MICPUN_82627";
+NC_013043.1	RefSeq	exon	164977	165636	.	-	.	transcript_id "rna-XM_002503064.1"; gene_id "gene-MICPUN_82627";
+NC_013043.1	RefSeq	CDS	163480	164568	.	-	0	transcript_id "rna-XM_002503064.1"; gene_id "gene-MICPUN_82627";
+NC_013043.1	RefSeq	CDS	164620	164802	.	-	0	transcript_id "rna-XM_002503064.1"; gene_id "gene-MICPUN_82627";
+NC_013043.1	RefSeq	CDS	164977	165636	.	-	0	transcript_id "rna-XM_002503064.1"; gene_id "gene-MICPUN_82627";
+NC_013043.1	RefSeq	transcript	217525	218091	.	+	.	transcript_id "rna-XM_002502727.1"; gene_id "gene-MICPUN_71821"
+NC_013043.1	RefSeq	exon	217525	218091	.	+	.	transcript_id "rna-XM_002502727.1"; gene_id "gene-MICPUN_71821";
+NC_013043.1	RefSeq	CDS	217525	218091	.	+	0	transcript_id "rna-XM_002502727.1"; gene_id "gene-MICPUN_71821";
+NC_013043.1	RefSeq	transcript	305487	306741	.	-	.	transcript_id "rna-XM_002503104.1"; gene_id "gene-MICPUN_59166"
+NC_013043.1	RefSeq	exon	305487	306741	.	-	.	transcript_id "rna-XM_002503104.1"; gene_id "gene-MICPUN_59166";
+NC_013043.1	RefSeq	CDS	305545	306741	.	-	0	transcript_id "rna-XM_002503104.1"; gene_id "gene-MICPUN_59166";
+NC_013043.1	RefSeq	transcript	312264	313789	.	-	.	transcript_id "rna-XM_002503106.1"; gene_id "gene-MICPUN_83030"
+NC_013043.1	RefSeq	exon	312264	312968	.	-	.	transcript_id "rna-XM_002503106.1"; gene_id "gene-MICPUN_83030";
+NC_013043.1	RefSeq	exon	313271	313789	.	-	.	transcript_id "rna-XM_002503106.1"; gene_id "gene-MICPUN_83030";
+NC_013043.1	RefSeq	CDS	312264	312968	.	-	0	transcript_id "rna-XM_002503106.1"; gene_id "gene-MICPUN_83030";
+NC_013043.1	RefSeq	CDS	313271	313789	.	-	0	transcript_id "rna-XM_002503106.1"; gene_id "gene-MICPUN_83030";
+NC_013043.1	RefSeq	transcript	353775	354708	.	-	.	transcript_id "rna-XM_002503116.1"; gene_id "gene-MICPUN_59189"
+NC_013043.1	RefSeq	exon	353775	353784	.	-	.	transcript_id "rna-XM_002503116.1"; gene_id "gene-MICPUN_59189";
+NC_013043.1	RefSeq	exon	353900	354708	.	-	.	transcript_id "rna-XM_002503116.1"; gene_id "gene-MICPUN_59189";
+NC_013043.1	RefSeq	CDS	353775	353784	.	-	1	transcript_id "rna-XM_002503116.1"; gene_id "gene-MICPUN_59189";
+NC_013043.1	RefSeq	CDS	353900	354708	.	-	0	transcript_id "rna-XM_002503116.1"; gene_id "gene-MICPUN_59189";
+NC_013043.1	RefSeq	transcript	388417	389982	.	+	.	transcript_id "rna-XM_002502767.1"; gene_id "gene-MICPUN_59207"
+NC_013043.1	RefSeq	exon	388417	389982	.	+	.	transcript_id "rna-XM_002502767.1"; gene_id "gene-MICPUN_59207";
+NC_013043.1	RefSeq	CDS	388417	389982	.	+	0	transcript_id "rna-XM_002502767.1"; gene_id "gene-MICPUN_59207";
+NC_013043.1	RefSeq	transcript	749202	750528	.	+	.	transcript_id "rna-XM_002502850.1"; gene_id "gene-MICPUN_59380"
+NC_013043.1	RefSeq	exon	749202	749430	.	+	.	transcript_id "rna-XM_002502850.1"; gene_id "gene-MICPUN_59380";
+NC_013043.1	RefSeq	exon	749558	750528	.	+	.	transcript_id "rna-XM_002502850.1"; gene_id "gene-MICPUN_59380";
+NC_013043.1	RefSeq	CDS	749202	749430	.	+	0	transcript_id "rna-XM_002502850.1"; gene_id "gene-MICPUN_59380";
+NC_013043.1	RefSeq	CDS	749558	750456	.	+	2	transcript_id "rna-XM_002502850.1"; gene_id "gene-MICPUN_59380";
+NC_013043.1	RefSeq	transcript	1131986	1133236	.	+	.	transcript_id "rna-XM_002502946.1"; gene_id "gene-MICPUN_59572"
+NC_013043.1	RefSeq	exon	1131986	1133236	.	+	.	transcript_id "rna-XM_002502946.1"; gene_id "gene-MICPUN_59572";
+NC_013043.1	RefSeq	CDS	1131986	1133236	.	+	0	transcript_id "rna-XM_002502946.1"; gene_id "gene-MICPUN_59572";
+NC_013043.1	RefSeq	transcript	1335910	1336729	.	+	.	transcript_id "rna-XM_002503003.1"; gene_id "gene-MICPUN_108524"
+NC_013043.1	RefSeq	exon	1335910	1336729	.	+	.	transcript_id "rna-XM_002503003.1"; gene_id "gene-MICPUN_108524";
+NC_013043.1	RefSeq	CDS	1335949	1336716	.	+	0	transcript_id "rna-XM_002503003.1"; gene_id "gene-MICPUN_108524";
+NC_013043.1	RefSeq	transcript	1393641	1394666	.	+	.	transcript_id "rna-XM_002503012.1"; gene_id "gene-MICPUN_82666"
+NC_013043.1	RefSeq	exon	1393641	1394108	.	+	.	transcript_id "rna-XM_002503012.1"; gene_id "gene-MICPUN_82666";
+NC_013043.1	RefSeq	exon	1394412	1394666	.	+	.	transcript_id "rna-XM_002503012.1"; gene_id "gene-MICPUN_82666";
+NC_013043.1	RefSeq	CDS	1393641	1394108	.	+	0	transcript_id "rna-XM_002503012.1"; gene_id "gene-MICPUN_82666";
+NC_013043.1	RefSeq	CDS	1394412	1394666	.	+	0	transcript_id "rna-XM_002503012.1"; gene_id "gene-MICPUN_82666";
+NC_013043.1	RefSeq	transcript	1402985	1405672	.	+	.	transcript_id "rna-XM_002503015.1"; gene_id "gene-MICPUN_83206"
+NC_013043.1	RefSeq	exon	1402985	1404028	.	+	.	transcript_id "rna-XM_002503015.1"; gene_id "gene-MICPUN_83206";
+NC_013043.1	RefSeq	exon	1404092	1405672	.	+	.	transcript_id "rna-XM_002503015.1"; gene_id "gene-MICPUN_83206";
+NC_013043.1	RefSeq	CDS	1402985	1404028	.	+	0	transcript_id "rna-XM_002503015.1"; gene_id "gene-MICPUN_83206";
+NC_013043.1	RefSeq	CDS	1404092	1405672	.	+	0	transcript_id "rna-XM_002503015.1"; gene_id "gene-MICPUN_83206";
+NC_013044.1	RefSeq	transcript	128865	131831	.	+	.	transcript_id "rna-XM_002503399.1"; gene_id "gene-MICPUN_101294"
+NC_013044.1	RefSeq	exon	128865	131831	.	+	.	transcript_id "rna-XM_002503399.1"; gene_id "gene-MICPUN_101294";
+NC_013044.1	RefSeq	CDS	128865	131831	.	+	0	transcript_id "rna-XM_002503399.1"; gene_id "gene-MICPUN_101294";
+NC_013044.1	RefSeq	transcript	147837	148547	.	+	.	transcript_id "rna-XM_002503404.1"; gene_id "gene-MICPUN_59781"; gene_name "APC10"
+NC_013044.1	RefSeq	exon	147837	147867	.	+	.	transcript_id "rna-XM_002503404.1"; gene_id "gene-MICPUN_59781"; gene_name "APC10";
+NC_013044.1	RefSeq	exon	147982	148547	.	+	.	transcript_id "rna-XM_002503404.1"; gene_id "gene-MICPUN_59781"; gene_name "APC10";
+NC_013044.1	RefSeq	CDS	147837	147867	.	+	0	transcript_id "rna-XM_002503404.1"; gene_id "gene-MICPUN_59781"; gene_name "APC10";
+NC_013044.1	RefSeq	CDS	147982	148547	.	+	2	transcript_id "rna-XM_002503404.1"; gene_id "gene-MICPUN_59781"; gene_name "APC10";
+NC_013044.1	RefSeq	transcript	192588	194281	.	-	.	transcript_id "rna-XM_002503772.1"; gene_id "gene-MICPUN_59804"; gene_name "GCST"
+NC_013044.1	RefSeq	exon	192588	193739	.	-	.	transcript_id "rna-XM_002503772.1"; gene_id "gene-MICPUN_59804"; gene_name "GCST";
+NC_013044.1	RefSeq	exon	194117	194281	.	-	.	transcript_id "rna-XM_002503772.1"; gene_id "gene-MICPUN_59804"; gene_name "GCST";
+NC_013044.1	RefSeq	CDS	192666	193739	.	-	0	transcript_id "rna-XM_002503772.1"; gene_id "gene-MICPUN_59804"; gene_name "GCST";
+NC_013044.1	RefSeq	CDS	194117	194281	.	-	0	transcript_id "rna-XM_002503772.1"; gene_id "gene-MICPUN_59804"; gene_name "GCST";
+NC_013044.1	RefSeq	transcript	393051	393977	.	-	.	transcript_id "rna-XM_002503818.1"; gene_id "gene-MICPUN_83748"
+NC_013044.1	RefSeq	exon	393051	393977	.	-	.	transcript_id "rna-XM_002503818.1"; gene_id "gene-MICPUN_83748";
+NC_013044.1	RefSeq	CDS	393051	393977	.	-	0	transcript_id "rna-XM_002503818.1"; gene_id "gene-MICPUN_83748";
+NC_013044.1	RefSeq	transcript	625952	627616	.	-	.	transcript_id "rna-XM_002503879.1"; gene_id "gene-MICPUN_60028"
+NC_013044.1	RefSeq	exon	625952	627616	.	-	.	transcript_id "rna-XM_002503879.1"; gene_id "gene-MICPUN_60028";
+NC_013044.1	RefSeq	CDS	625952	627616	.	-	0	transcript_id "rna-XM_002503879.1"; gene_id "gene-MICPUN_60028";
+NC_013044.1	RefSeq	transcript	652727	653890	.	-	.	transcript_id "rna-XM_002503887.1"; gene_id "gene-MICPUN_60043"
+NC_013044.1	RefSeq	exon	652727	653680	.	-	.	transcript_id "rna-XM_002503887.1"; gene_id "gene-MICPUN_60043";
+NC_013044.1	RefSeq	exon	653798	653890	.	-	.	transcript_id "rna-XM_002503887.1"; gene_id "gene-MICPUN_60043";
+NC_013044.1	RefSeq	CDS	652727	653680	.	-	0	transcript_id "rna-XM_002503887.1"; gene_id "gene-MICPUN_60043";
+NC_013044.1	RefSeq	CDS	653798	653890	.	-	0	transcript_id "rna-XM_002503887.1"; gene_id "gene-MICPUN_60043";
+NC_013044.1	RefSeq	transcript	655156	656721	.	-	.	transcript_id "rna-XM_002503888.1"; gene_id "gene-MICPUN_60045"
+NC_013044.1	RefSeq	exon	655156	656721	.	-	.	transcript_id "rna-XM_002503888.1"; gene_id "gene-MICPUN_60045";
+NC_013044.1	RefSeq	CDS	655156	656721	.	-	0	transcript_id "rna-XM_002503888.1"; gene_id "gene-MICPUN_60045";
+NC_013044.1	RefSeq	transcript	690509	691785	.	+	.	transcript_id "rna-XM_002503549.1"; gene_id "gene-MICPUN_83398"
+NC_013044.1	RefSeq	exon	690509	690613	.	+	.	transcript_id "rna-XM_002503549.1"; gene_id "gene-MICPUN_83398";
+NC_013044.1	RefSeq	exon	690694	691785	.	+	.	transcript_id "rna-XM_002503549.1"; gene_id "gene-MICPUN_83398";
+NC_013044.1	RefSeq	CDS	690509	690613	.	+	0	transcript_id "rna-XM_002503549.1"; gene_id "gene-MICPUN_83398";
+NC_013044.1	RefSeq	CDS	690694	691785	.	+	0	transcript_id "rna-XM_002503549.1"; gene_id "gene-MICPUN_83398";
+NC_013044.1	RefSeq	transcript	751091	752814	.	+	.	transcript_id "rna-XM_002503565.1"; gene_id "gene-MICPUN_60091"
+NC_013044.1	RefSeq	exon	751091	752725	.	+	.	transcript_id "rna-XM_002503565.1"; gene_id "gene-MICPUN_60091";
+NC_013044.1	RefSeq	exon	752788	752814	.	+	.	transcript_id "rna-XM_002503565.1"; gene_id "gene-MICPUN_60091";
+NC_013044.1	RefSeq	CDS	751091	752725	.	+	0	transcript_id "rna-XM_002503565.1"; gene_id "gene-MICPUN_60091";
+NC_013044.1	RefSeq	CDS	752788	752814	.	+	0	transcript_id "rna-XM_002503565.1"; gene_id "gene-MICPUN_60091";
+NC_013044.1	RefSeq	transcript	867533	868555	.	+	.	transcript_id "rna-XM_002503597.1"; gene_id "gene-MICPUN_60156"
+NC_013044.1	RefSeq	exon	867533	868555	.	+	.	transcript_id "rna-XM_002503597.1"; gene_id "gene-MICPUN_60156";
+NC_013044.1	RefSeq	CDS	867533	868555	.	+	0	transcript_id "rna-XM_002503597.1"; gene_id "gene-MICPUN_60156";
+NC_013044.1	RefSeq	transcript	945056	946567	.	+	.	transcript_id "rna-XM_002503612.1"; gene_id "gene-MICPUN_60189"
+NC_013044.1	RefSeq	exon	945056	946567	.	+	.	transcript_id "rna-XM_002503612.1"; gene_id "gene-MICPUN_60189";
+NC_013044.1	RefSeq	CDS	945056	946567	.	+	0	transcript_id "rna-XM_002503612.1"; gene_id "gene-MICPUN_60189";
+NC_013044.1	RefSeq	transcript	1148698	1150143	.	+	.	transcript_id "rna-XM_002503656.1"; gene_id "gene-MICPUN_60290"
+NC_013044.1	RefSeq	exon	1148698	1150143	.	+	.	transcript_id "rna-XM_002503656.1"; gene_id "gene-MICPUN_60290";
+NC_013044.1	RefSeq	CDS	1148698	1150143	.	+	0	transcript_id "rna-XM_002503656.1"; gene_id "gene-MICPUN_60290";
+NC_013044.1	RefSeq	transcript	1180508	1181173	.	-	.	transcript_id "rna-XM_002504021.1"; gene_id "gene-MICPUN_60312"
+NC_013044.1	RefSeq	exon	1180508	1181173	.	-	.	transcript_id "rna-XM_002504021.1"; gene_id "gene-MICPUN_60312";
+NC_013044.1	RefSeq	CDS	1180508	1181173	.	-	0	transcript_id "rna-XM_002504021.1"; gene_id "gene-MICPUN_60312";
+NC_013045.1	RefSeq	transcript	153330	155621	.	+	.	transcript_id "rna-XM_002507776.1"; gene_id "gene-MICPUN_60505"
+NC_013045.1	RefSeq	exon	153330	155621	.	+	.	transcript_id "rna-XM_002507776.1"; gene_id "gene-MICPUN_60505";
+NC_013045.1	RefSeq	CDS	153330	155621	.	+	0	transcript_id "rna-XM_002507776.1"; gene_id "gene-MICPUN_60505";
+NC_013045.1	RefSeq	transcript	192152	193805	.	-	.	transcript_id "rna-XM_002508070.1"; gene_id "gene-MICPUN_108728"
+NC_013045.1	RefSeq	exon	192152	193353	.	-	.	transcript_id "rna-XM_002508070.1"; gene_id "gene-MICPUN_108728";
+NC_013045.1	RefSeq	exon	193574	193805	.	-	.	transcript_id "rna-XM_002508070.1"; gene_id "gene-MICPUN_108728";
+NC_013045.1	RefSeq	CDS	192235	193353	.	-	0	transcript_id "rna-XM_002508070.1"; gene_id "gene-MICPUN_108728";
+NC_013045.1	RefSeq	CDS	193574	193624	.	-	0	transcript_id "rna-XM_002508070.1"; gene_id "gene-MICPUN_108728";
+NC_013045.1	RefSeq	transcript	213453	214616	.	-	.	transcript_id "rna-XM_002508073.1"; gene_id "gene-MICPUN_60529"
+NC_013045.1	RefSeq	exon	213453	214393	.	-	.	transcript_id "rna-XM_002508073.1"; gene_id "gene-MICPUN_60529";
+NC_013045.1	RefSeq	exon	214556	214616	.	-	.	transcript_id "rna-XM_002508073.1"; gene_id "gene-MICPUN_60529";
+NC_013045.1	RefSeq	CDS	213506	214393	.	-	0	transcript_id "rna-XM_002508073.1"; gene_id "gene-MICPUN_60529";
+NC_013045.1	RefSeq	CDS	214556	214594	.	-	0	transcript_id "rna-XM_002508073.1"; gene_id "gene-MICPUN_60529";
+NC_013045.1	RefSeq	transcript	269768	272377	.	+	.	transcript_id "rna-XM_002507797.1"; gene_id "gene-MICPUN_60552"; gene_name "PRP3"
+NC_013045.1	RefSeq	exon	269768	270400	.	+	.	transcript_id "rna-XM_002507797.1"; gene_id "gene-MICPUN_60552"; gene_name "PRP3";
+NC_013045.1	RefSeq	exon	270887	271697	.	+	.	transcript_id "rna-XM_002507797.1"; gene_id "gene-MICPUN_60552"; gene_name "PRP3";
+NC_013045.1	RefSeq	exon	271935	272377	.	+	.	transcript_id "rna-XM_002507797.1"; gene_id "gene-MICPUN_60552"; gene_name "PRP3";
+NC_013045.1	RefSeq	CDS	269768	270400	.	+	0	transcript_id "rna-XM_002507797.1"; gene_id "gene-MICPUN_60552"; gene_name "PRP3";
+NC_013045.1	RefSeq	CDS	270887	271697	.	+	0	transcript_id "rna-XM_002507797.1"; gene_id "gene-MICPUN_60552"; gene_name "PRP3";
+NC_013045.1	RefSeq	CDS	271935	272281	.	+	2	transcript_id "rna-XM_002507797.1"; gene_id "gene-MICPUN_60552"; gene_name "PRP3";
+NC_013045.1	RefSeq	transcript	730219	730947	.	-	.	transcript_id "rna-XM_002508185.1"; gene_id "gene-MICPUN_84407"
+NC_013045.1	RefSeq	exon	730219	730947	.	-	.	transcript_id "rna-XM_002508185.1"; gene_id "gene-MICPUN_84407";
+NC_013045.1	RefSeq	CDS	730219	730947	.	-	0	transcript_id "rna-XM_002508185.1"; gene_id "gene-MICPUN_84407";
+NC_013045.1	RefSeq	transcript	731606	732805	.	+	.	transcript_id "rna-XM_002507891.1"; gene_id "gene-MICPUN_84125"
+NC_013045.1	RefSeq	exon	731606	732805	.	+	.	transcript_id "rna-XM_002507891.1"; gene_id "gene-MICPUN_84125";
+NC_013045.1	RefSeq	CDS	731606	732805	.	+	0	transcript_id "rna-XM_002507891.1"; gene_id "gene-MICPUN_84125";
+NC_013045.1	RefSeq	transcript	919587	920421	.	-	.	transcript_id "rna-XM_002508227.1"; gene_id "gene-MICPUN_97779"
+NC_013045.1	RefSeq	exon	919587	920145	.	-	.	transcript_id "rna-XM_002508227.1"; gene_id "gene-MICPUN_97779";
+NC_013045.1	RefSeq	exon	920291	920421	.	-	.	transcript_id "rna-XM_002508227.1"; gene_id "gene-MICPUN_97779";
+NC_013045.1	RefSeq	CDS	919587	920145	.	-	1	transcript_id "rna-XM_002508227.1"; gene_id "gene-MICPUN_97779";
+NC_013045.1	RefSeq	CDS	920291	920421	.	-	0	transcript_id "rna-XM_002508227.1"; gene_id "gene-MICPUN_97779";
+NC_013045.1	RefSeq	transcript	1013790	1015709	.	-	.	transcript_id "rna-XM_002508249.1"; gene_id "gene-MICPUN_101999"
+NC_013045.1	RefSeq	exon	1013790	1015709	.	-	.	transcript_id "rna-XM_002508249.1"; gene_id "gene-MICPUN_101999";
+NC_013045.1	RefSeq	CDS	1013790	1015709	.	-	0	transcript_id "rna-XM_002508249.1"; gene_id "gene-MICPUN_101999";
+NC_013046.1	RefSeq	transcript	235307	237520	.	+	.	transcript_id "rna-XM_002504140.1"; gene_id "gene-MICPUN_107394"; gene_name "APG7"
+NC_013046.1	RefSeq	exon	235307	237520	.	+	.	transcript_id "rna-XM_002504140.1"; gene_id "gene-MICPUN_107394"; gene_name "APG7";
+NC_013046.1	RefSeq	CDS	235307	237520	.	+	0	transcript_id "rna-XM_002504140.1"; gene_id "gene-MICPUN_107394"; gene_name "APG7";
+NC_013046.1	RefSeq	transcript	323852	324916	.	+	.	transcript_id "rna-XM_002504167.1"; gene_id "gene-MICPUN_107400"; gene_name "XAB1"
+NC_013046.1	RefSeq	exon	323852	324916	.	+	.	transcript_id "rna-XM_002504167.1"; gene_id "gene-MICPUN_107400"; gene_name "XAB1";
+NC_013046.1	RefSeq	CDS	323852	324916	.	+	0	transcript_id "rna-XM_002504167.1"; gene_id "gene-MICPUN_107400"; gene_name "XAB1";
+NC_013046.1	RefSeq	transcript	410057	413380	.	+	.	transcript_id "rna-XM_002504192.1"; gene_id "gene-MICPUN_107413"; gene_name "PWP2"
+NC_013046.1	RefSeq	exon	410057	410301	.	+	.	transcript_id "rna-XM_002504192.1"; gene_id "gene-MICPUN_107413"; gene_name "PWP2";
+NC_013046.1	RefSeq	exon	410630	411735	.	+	.	transcript_id "rna-XM_002504192.1"; gene_id "gene-MICPUN_107413"; gene_name "PWP2";
+NC_013046.1	RefSeq	exon	412017	413380	.	+	.	transcript_id "rna-XM_002504192.1"; gene_id "gene-MICPUN_107413"; gene_name "PWP2";
+NC_013046.1	RefSeq	CDS	410057	410301	.	+	0	transcript_id "rna-XM_002504192.1"; gene_id "gene-MICPUN_107413"; gene_name "PWP2";
+NC_013046.1	RefSeq	CDS	410630	411735	.	+	1	transcript_id "rna-XM_002504192.1"; gene_id "gene-MICPUN_107413"; gene_name "PWP2";
+NC_013046.1	RefSeq	CDS	412017	413380	.	+	2	transcript_id "rna-XM_002504192.1"; gene_id "gene-MICPUN_107413"; gene_name "PWP2";
+NC_013046.1	RefSeq	transcript	438584	439375	.	+	.	transcript_id "rna-XM_002504197.1"; gene_id "gene-MICPUN_107421"
+NC_013046.1	RefSeq	exon	438584	438710	.	+	.	transcript_id "rna-XM_002504197.1"; gene_id "gene-MICPUN_107421";
+NC_013046.1	RefSeq	exon	438927	439375	.	+	.	transcript_id "rna-XM_002504197.1"; gene_id "gene-MICPUN_107421";
+NC_013046.1	RefSeq	CDS	438584	438710	.	+	0	transcript_id "rna-XM_002504197.1"; gene_id "gene-MICPUN_107421";
+NC_013046.1	RefSeq	CDS	438927	439375	.	+	2	transcript_id "rna-XM_002504197.1"; gene_id "gene-MICPUN_107421";
+NC_013046.1	RefSeq	transcript	441580	443664	.	-	.	transcript_id "rna-XM_002504502.1"; gene_id "gene-MICPUN_61240"; gene_name "SRP72"
+NC_013046.1	RefSeq	exon	441580	443664	.	-	.	transcript_id "rna-XM_002504502.1"; gene_id "gene-MICPUN_61240"; gene_name "SRP72";
+NC_013046.1	RefSeq	CDS	441580	443664	.	-	0	transcript_id "rna-XM_002504502.1"; gene_id "gene-MICPUN_61240"; gene_name "SRP72";
+NC_013046.1	RefSeq	transcript	764159	765279	.	-	.	transcript_id "rna-XM_002504597.1"; gene_id "gene-MICPUN_61417"
+NC_013046.1	RefSeq	exon	764159	765279	.	-	.	transcript_id "rna-XM_002504597.1"; gene_id "gene-MICPUN_61417";
+NC_013046.1	RefSeq	CDS	764262	765182	.	-	0	transcript_id "rna-XM_002504597.1"; gene_id "gene-MICPUN_61417";
+NC_013046.1	RefSeq	transcript	882672	885138	.	+	.	transcript_id "rna-XM_002504303.1"; gene_id "gene-MICPUN_65684"
+NC_013046.1	RefSeq	exon	882672	883428	.	+	.	transcript_id "rna-XM_002504303.1"; gene_id "gene-MICPUN_65684";
+NC_013046.1	RefSeq	exon	883561	883706	.	+	.	transcript_id "rna-XM_002504303.1"; gene_id "gene-MICPUN_65684";
+NC_013046.1	RefSeq	exon	884307	885138	.	+	.	transcript_id "rna-XM_002504303.1"; gene_id "gene-MICPUN_65684";
+NC_013046.1	RefSeq	CDS	882672	883428	.	+	0	transcript_id "rna-XM_002504303.1"; gene_id "gene-MICPUN_65684";
+NC_013046.1	RefSeq	CDS	883561	883706	.	+	2	transcript_id "rna-XM_002504303.1"; gene_id "gene-MICPUN_65684";
+NC_013046.1	RefSeq	CDS	884307	885138	.	+	0	transcript_id "rna-XM_002504303.1"; gene_id "gene-MICPUN_65684";
+NC_013046.1	RefSeq	transcript	982156	984900	.	+	.	transcript_id "rna-XM_002504327.1"; gene_id "gene-MICPUN_61525"
+NC_013046.1	RefSeq	exon	982156	984900	.	+	.	transcript_id "rna-XM_002504327.1"; gene_id "gene-MICPUN_61525";
+NC_013046.1	RefSeq	CDS	982156	984900	.	+	0	transcript_id "rna-XM_002504327.1"; gene_id "gene-MICPUN_61525";
+NC_013047.1	RefSeq	transcript	339633	341078	.	+	.	transcript_id "rna-XM_002508386.1"; gene_id "gene-MICPUN_61815"
+NC_013047.1	RefSeq	exon	339633	339921	.	+	.	transcript_id "rna-XM_002508386.1"; gene_id "gene-MICPUN_61815";
+NC_013047.1	RefSeq	exon	340061	341078	.	+	.	transcript_id "rna-XM_002508386.1"; gene_id "gene-MICPUN_61815";
+NC_013047.1	RefSeq	CDS	339633	339921	.	+	0	transcript_id "rna-XM_002508386.1"; gene_id "gene-MICPUN_61815";
+NC_013047.1	RefSeq	CDS	340061	340977	.	+	2	transcript_id "rna-XM_002508386.1"; gene_id "gene-MICPUN_61815";
+NC_013047.1	RefSeq	transcript	487477	487704	.	+	.	transcript_id "rna-XM_002508420.1"; gene_id "gene-MICPUN_74512"
+NC_013047.1	RefSeq	exon	487477	487704	.	+	.	transcript_id "rna-XM_002508420.1"; gene_id "gene-MICPUN_74512";
+NC_013047.1	RefSeq	CDS	487477	487704	.	+	0	transcript_id "rna-XM_002508420.1"; gene_id "gene-MICPUN_74512";
+NC_013047.1	RefSeq	transcript	493500	495076	.	-	.	transcript_id "rna-XM_002508693.1"; gene_id "gene-MICPUN_66594"
+NC_013047.1	RefSeq	exon	493500	494099	.	-	.	transcript_id "rna-XM_002508693.1"; gene_id "gene-MICPUN_66594";
+NC_013047.1	RefSeq	exon	494172	494814	.	-	.	transcript_id "rna-XM_002508693.1"; gene_id "gene-MICPUN_66594";
+NC_013047.1	RefSeq	exon	494961	495076	.	-	.	transcript_id "rna-XM_002508693.1"; gene_id "gene-MICPUN_66594";
+NC_013047.1	RefSeq	CDS	493500	494099	.	-	0	transcript_id "rna-XM_002508693.1"; gene_id "gene-MICPUN_66594";
+NC_013047.1	RefSeq	CDS	494172	494814	.	-	1	transcript_id "rna-XM_002508693.1"; gene_id "gene-MICPUN_66594";
+NC_013047.1	RefSeq	CDS	494961	495076	.	-	0	transcript_id "rna-XM_002508693.1"; gene_id "gene-MICPUN_66594";
+NC_013047.1	RefSeq	transcript	998708	999493	.	-	.	transcript_id "rna-XM_002508822.1"; gene_id "gene-MICPUN_85635"
+NC_013047.1	RefSeq	exon	998708	999493	.	-	.	transcript_id "rna-XM_002508822.1"; gene_id "gene-MICPUN_85635";
+NC_013047.1	RefSeq	CDS	998708	999493	.	-	0	transcript_id "rna-XM_002508822.1"; gene_id "gene-MICPUN_85635";
+NC_013048.1	RefSeq	transcript	396715	397449	.	-	.	transcript_id "rna-XM_002505135.1"; gene_id "gene-MICPUN_62422"
+NC_013048.1	RefSeq	exon	396715	397449	.	-	.	transcript_id "rna-XM_002505135.1"; gene_id "gene-MICPUN_62422";
+NC_013048.1	RefSeq	CDS	396802	397449	.	-	0	transcript_id "rna-XM_002505135.1"; gene_id "gene-MICPUN_62422";
+NC_013048.1	RefSeq	transcript	402609	403625	.	+	.	transcript_id "rna-XM_002504831.1"; gene_id "gene-MICPUN_95428"
+NC_013048.1	RefSeq	exon	402609	402661	.	+	.	transcript_id "rna-XM_002504831.1"; gene_id "gene-MICPUN_95428";
+NC_013048.1	RefSeq	exon	402828	403625	.	+	.	transcript_id "rna-XM_002504831.1"; gene_id "gene-MICPUN_95428";
+NC_013048.1	RefSeq	CDS	402635	402661	.	+	0	transcript_id "rna-XM_002504831.1"; gene_id "gene-MICPUN_95428";
+NC_013048.1	RefSeq	CDS	402828	403625	.	+	0	transcript_id "rna-XM_002504831.1"; gene_id "gene-MICPUN_95428";
+NC_013048.1	RefSeq	transcript	506900	508267	.	-	.	transcript_id "rna-XM_002505166.1"; gene_id "gene-MICPUN_86679"
+NC_013048.1	RefSeq	exon	506900	508267	.	-	.	transcript_id "rna-XM_002505166.1"; gene_id "gene-MICPUN_86679";
+NC_013048.1	RefSeq	CDS	506900	508267	.	-	0	transcript_id "rna-XM_002505166.1"; gene_id "gene-MICPUN_86679";
+NC_013048.1	RefSeq	transcript	568521	570068	.	-	.	transcript_id "rna-XM_002505185.1"; gene_id "gene-MICPUN_86102"
+NC_013048.1	RefSeq	exon	568521	569750	.	-	.	transcript_id "rna-XM_002505185.1"; gene_id "gene-MICPUN_86102";
+NC_013048.1	RefSeq	exon	569868	570068	.	-	.	transcript_id "rna-XM_002505185.1"; gene_id "gene-MICPUN_86102";
+NC_013048.1	RefSeq	CDS	568521	569750	.	-	0	transcript_id "rna-XM_002505185.1"; gene_id "gene-MICPUN_86102";
+NC_013048.1	RefSeq	CDS	569868	570068	.	-	0	transcript_id "rna-XM_002505185.1"; gene_id "gene-MICPUN_86102";
+NC_013048.1	RefSeq	transcript	642288	643238	.	+	.	transcript_id "rna-XM_002504902.1"; gene_id "gene-MICPUN_62565"
+NC_013048.1	RefSeq	exon	642288	642325	.	+	.	transcript_id "rna-XM_002504902.1"; gene_id "gene-MICPUN_62565";
+NC_013048.1	RefSeq	exon	642494	643238	.	+	.	transcript_id "rna-XM_002504902.1"; gene_id "gene-MICPUN_62565";
+NC_013048.1	RefSeq	CDS	642288	642325	.	+	0	transcript_id "rna-XM_002504902.1"; gene_id "gene-MICPUN_62565";
+NC_013048.1	RefSeq	CDS	642494	643238	.	+	1	transcript_id "rna-XM_002504902.1"; gene_id "gene-MICPUN_62565";
+NC_013048.1	RefSeq	transcript	735506	737716	.	+	.	transcript_id "rna-XM_002504924.1"; gene_id "gene-MICPUN_86194"
+NC_013048.1	RefSeq	exon	735506	735644	.	+	.	transcript_id "rna-XM_002504924.1"; gene_id "gene-MICPUN_86194";
+NC_013048.1	RefSeq	exon	735783	737716	.	+	.	transcript_id "rna-XM_002504924.1"; gene_id "gene-MICPUN_86194";
+NC_013048.1	RefSeq	CDS	735506	735644	.	+	0	transcript_id "rna-XM_002504924.1"; gene_id "gene-MICPUN_86194";
+NC_013048.1	RefSeq	CDS	735783	737716	.	+	2	transcript_id "rna-XM_002504924.1"; gene_id "gene-MICPUN_86194";
+NC_013048.1	RefSeq	transcript	1035492	1036388	.	-	.	transcript_id "rna-XM_002505300.1"; gene_id "gene-MICPUN_103248"
+NC_013048.1	RefSeq	exon	1035492	1036388	.	-	.	transcript_id "rna-XM_002505300.1"; gene_id "gene-MICPUN_103248";
+NC_013048.1	RefSeq	CDS	1035492	1036388	.	-	0	transcript_id "rna-XM_002505300.1"; gene_id "gene-MICPUN_103248";
+NC_013049.1	RefSeq	transcript	12338	14148	.	-	.	transcript_id "rna-XM_002509123.1"; gene_id "gene-MICPUN_107179"
+NC_013049.1	RefSeq	exon	12338	13950	.	-	.	transcript_id "rna-XM_002509123.1"; gene_id "gene-MICPUN_107179";
+NC_013049.1	RefSeq	exon	14097	14148	.	-	.	transcript_id "rna-XM_002509123.1"; gene_id "gene-MICPUN_107179";
+NC_013049.1	RefSeq	CDS	12443	13950	.	-	2	transcript_id "rna-XM_002509123.1"; gene_id "gene-MICPUN_107179";
+NC_013049.1	RefSeq	CDS	14097	14148	.	-	0	transcript_id "rna-XM_002509123.1"; gene_id "gene-MICPUN_107179";
+NC_013049.1	RefSeq	transcript	185229	186443	.	+	.	transcript_id "rna-XM_002508912.1"; gene_id "gene-MICPUN_98183"
+NC_013049.1	RefSeq	exon	185229	185948	.	+	.	transcript_id "rna-XM_002508912.1"; gene_id "gene-MICPUN_98183";
+NC_013049.1	RefSeq	exon	185985	186443	.	+	.	transcript_id "rna-XM_002508912.1"; gene_id "gene-MICPUN_98183";
+NC_013049.1	RefSeq	CDS	185229	185948	.	+	0	transcript_id "rna-XM_002508912.1"; gene_id "gene-MICPUN_98183";
+NC_013049.1	RefSeq	CDS	185985	186443	.	+	0	transcript_id "rna-XM_002508912.1"; gene_id "gene-MICPUN_98183";
+NC_013049.1	RefSeq	transcript	596492	599116	.	-	.	transcript_id "rna-XM_002509252.1"; gene_id "gene-MICPUN_96683"; gene_name "APC2"
+NC_013049.1	RefSeq	exon	596492	599116	.	-	.	transcript_id "rna-XM_002509252.1"; gene_id "gene-MICPUN_96683"; gene_name "APC2";
+NC_013049.1	RefSeq	CDS	596492	599116	.	-	0	transcript_id "rna-XM_002509252.1"; gene_id "gene-MICPUN_96683"; gene_name "APC2";
+NC_013049.1	RefSeq	transcript	636336	637823	.	+	.	transcript_id "rna-XM_002509019.1"; gene_id "gene-MICPUN_113992"; gene_name "CNX5"
+NC_013049.1	RefSeq	exon	636336	637288	.	+	.	transcript_id "rna-XM_002509019.1"; gene_id "gene-MICPUN_113992"; gene_name "CNX5";
+NC_013049.1	RefSeq	exon	637403	637823	.	+	.	transcript_id "rna-XM_002509019.1"; gene_id "gene-MICPUN_113992"; gene_name "CNX5";
+NC_013049.1	RefSeq	CDS	636336	637288	.	+	0	transcript_id "rna-XM_002509019.1"; gene_id "gene-MICPUN_113992"; gene_name "CNX5";
+NC_013049.1	RefSeq	CDS	637403	637736	.	+	1	transcript_id "rna-XM_002509019.1"; gene_id "gene-MICPUN_113992"; gene_name "CNX5";
+NC_013049.1	RefSeq	transcript	706226	708727	.	+	.	transcript_id "rna-XM_002509035.1"; gene_id "gene-MICPUN_86840"
+NC_013049.1	RefSeq	exon	706226	708727	.	+	.	transcript_id "rna-XM_002509035.1"; gene_id "gene-MICPUN_86840";
+NC_013049.1	RefSeq	CDS	706226	708727	.	+	0	transcript_id "rna-XM_002509035.1"; gene_id "gene-MICPUN_86840";
+NC_013049.1	RefSeq	transcript	831406	831903	.	-	.	transcript_id "rna-XM_002509312.1"; gene_id "gene-MICPUN_113535"
+NC_013049.1	RefSeq	exon	831406	831903	.	-	.	transcript_id "rna-XM_002509312.1"; gene_id "gene-MICPUN_113535";
+NC_013049.1	RefSeq	CDS	831406	831903	.	-	0	transcript_id "rna-XM_002509312.1"; gene_id "gene-MICPUN_113535";
+NC_013049.1	RefSeq	transcript	956475	957278	.	+	.	transcript_id "rna-XM_002509088.1"; gene_id "gene-MICPUN_87026"
+NC_013049.1	RefSeq	exon	956475	957278	.	+	.	transcript_id "rna-XM_002509088.1"; gene_id "gene-MICPUN_87026";
+NC_013049.1	RefSeq	CDS	956475	957278	.	+	0	transcript_id "rna-XM_002509088.1"; gene_id "gene-MICPUN_87026";
+NC_013050.1	RefSeq	transcript	49856	51049	.	-	.	transcript_id "rna-XM_002505593.1"; gene_id "gene-MICPUN_63373"
+NC_013050.1	RefSeq	exon	49856	50591	.	-	.	transcript_id "rna-XM_002505593.1"; gene_id "gene-MICPUN_63373";
+NC_013050.1	RefSeq	exon	50731	50828	.	-	.	transcript_id "rna-XM_002505593.1"; gene_id "gene-MICPUN_63373";
+NC_013050.1	RefSeq	exon	50954	51049	.	-	.	transcript_id "rna-XM_002505593.1"; gene_id "gene-MICPUN_63373";
+NC_013050.1	RefSeq	CDS	49967	50591	.	-	1	transcript_id "rna-XM_002505593.1"; gene_id "gene-MICPUN_63373";
+NC_013050.1	RefSeq	CDS	50731	50828	.	-	0	transcript_id "rna-XM_002505593.1"; gene_id "gene-MICPUN_63373";
+NC_013050.1	RefSeq	CDS	50954	51019	.	-	0	transcript_id "rna-XM_002505593.1"; gene_id "gene-MICPUN_63373";
+NC_013050.1	RefSeq	transcript	437398	440479	.	+	.	transcript_id "rna-XM_002505442.1"; gene_id "gene-MICPUN_65501"
+NC_013050.1	RefSeq	exon	437398	438128	.	+	.	transcript_id "rna-XM_002505442.1"; gene_id "gene-MICPUN_65501";
+NC_013050.1	RefSeq	exon	438192	439878	.	+	.	transcript_id "rna-XM_002505442.1"; gene_id "gene-MICPUN_65501";
+NC_013050.1	RefSeq	exon	440047	440479	.	+	.	transcript_id "rna-XM_002505442.1"; gene_id "gene-MICPUN_65501";
+NC_013050.1	RefSeq	CDS	437398	438128	.	+	0	transcript_id "rna-XM_002505442.1"; gene_id "gene-MICPUN_65501";
+NC_013050.1	RefSeq	CDS	438192	439878	.	+	1	transcript_id "rna-XM_002505442.1"; gene_id "gene-MICPUN_65501";
+NC_013050.1	RefSeq	CDS	440047	440479	.	+	0	transcript_id "rna-XM_002505442.1"; gene_id "gene-MICPUN_65501";
+NC_013050.1	RefSeq	transcript	451630	453465	.	+	.	transcript_id "rna-XM_002505445.1"; gene_id "gene-MICPUN_67382"
+NC_013050.1	RefSeq	exon	451630	452841	.	+	.	transcript_id "rna-XM_002505445.1"; gene_id "gene-MICPUN_67382";
+NC_013050.1	RefSeq	exon	453091	453465	.	+	.	transcript_id "rna-XM_002505445.1"; gene_id "gene-MICPUN_67382";
+NC_013050.1	RefSeq	CDS	451630	452841	.	+	0	transcript_id "rna-XM_002505445.1"; gene_id "gene-MICPUN_67382";
+NC_013050.1	RefSeq	CDS	453091	453465	.	+	0	transcript_id "rna-XM_002505445.1"; gene_id "gene-MICPUN_67382";
+NC_013050.1	RefSeq	transcript	485161	485814	.	-	.	transcript_id "rna-XM_002505696.1"; gene_id "gene-MICPUN_63601"
+NC_013050.1	RefSeq	exon	485161	485814	.	-	.	transcript_id "rna-XM_002505696.1"; gene_id "gene-MICPUN_63601";
+NC_013050.1	RefSeq	CDS	485209	485814	.	-	0	transcript_id "rna-XM_002505696.1"; gene_id "gene-MICPUN_63601";
+NC_013050.1	RefSeq	transcript	516314	516874	.	-	.	transcript_id "rna-XM_002505708.1"; gene_id "gene-MICPUN_103809"
+NC_013050.1	RefSeq	exon	516314	516874	.	-	.	transcript_id "rna-XM_002505708.1"; gene_id "gene-MICPUN_103809";
+NC_013050.1	RefSeq	CDS	516314	516874	.	-	0	transcript_id "rna-XM_002505708.1"; gene_id "gene-MICPUN_103809";
+NC_013050.1	RefSeq	transcript	664924	668430	.	+	.	transcript_id "rna-XM_002505503.1"; gene_id "gene-MICPUN_95766"
+NC_013050.1	RefSeq	exon	664924	665087	.	+	.	transcript_id "rna-XM_002505503.1"; gene_id "gene-MICPUN_95766";
+NC_013050.1	RefSeq	exon	665871	666853	.	+	.	transcript_id "rna-XM_002505503.1"; gene_id "gene-MICPUN_95766";
+NC_013050.1	RefSeq	exon	666986	668430	.	+	.	transcript_id "rna-XM_002505503.1"; gene_id "gene-MICPUN_95766";
+NC_013050.1	RefSeq	CDS	664924	665087	.	+	0	transcript_id "rna-XM_002505503.1"; gene_id "gene-MICPUN_95766";
+NC_013050.1	RefSeq	CDS	665871	666853	.	+	1	transcript_id "rna-XM_002505503.1"; gene_id "gene-MICPUN_95766";
+NC_013050.1	RefSeq	CDS	666986	668292	.	+	2	transcript_id "rna-XM_002505503.1"; gene_id "gene-MICPUN_95766";
+NC_013050.1	RefSeq	transcript	873242	874115	.	-	.	transcript_id "rna-XM_002505789.1"; gene_id "gene-MICPUN_109412"
+NC_013050.1	RefSeq	exon	873242	874115	.	-	.	transcript_id "rna-XM_002505789.1"; gene_id "gene-MICPUN_109412";
+NC_013050.1	RefSeq	CDS	873392	873943	.	-	0	transcript_id "rna-XM_002505789.1"; gene_id "gene-MICPUN_109412";
+NC_013050.1	RefSeq	transcript	978946	980283	.	-	.	transcript_id "rna-XM_002505815.1"; gene_id "gene-MICPUN_67596"
+NC_013050.1	RefSeq	exon	978946	980283	.	-	.	transcript_id "rna-XM_002505815.1"; gene_id "gene-MICPUN_67596";
+NC_013050.1	RefSeq	CDS	978946	980283	.	-	0	transcript_id "rna-XM_002505815.1"; gene_id "gene-MICPUN_67596";
+NC_013050.1	RefSeq	transcript	997863	1002644	.	+	.	transcript_id "rna-XM_002505580.1"; gene_id "gene-MICPUN_87736"
+NC_013050.1	RefSeq	exon	997863	998174	.	+	.	transcript_id "rna-XM_002505580.1"; gene_id "gene-MICPUN_87736";
+NC_013050.1	RefSeq	exon	1001094	1002644	.	+	.	transcript_id "rna-XM_002505580.1"; gene_id "gene-MICPUN_87736";
+NC_013050.1	RefSeq	CDS	997863	998174	.	+	0	transcript_id "rna-XM_002505580.1"; gene_id "gene-MICPUN_87736";
+NC_013050.1	RefSeq	CDS	1001094	1002644	.	+	0	transcript_id "rna-XM_002505580.1"; gene_id "gene-MICPUN_87736";
+NC_013051.1	RefSeq	transcript	47492	50347	.	-	.	transcript_id "rna-XM_002506034.1"; gene_id "gene-MICPUN_103981"
+NC_013051.1	RefSeq	exon	47492	50347	.	-	.	transcript_id "rna-XM_002506034.1"; gene_id "gene-MICPUN_103981";
+NC_013051.1	RefSeq	CDS	47492	50347	.	-	0	transcript_id "rna-XM_002506034.1"; gene_id "gene-MICPUN_103981";
+NC_013051.1	RefSeq	transcript	125791	126480	.	+	.	transcript_id "rna-XM_002505850.1"; gene_id "gene-MICPUN_88301"
+NC_013051.1	RefSeq	exon	125791	126480	.	+	.	transcript_id "rna-XM_002505850.1"; gene_id "gene-MICPUN_88301";
+NC_013051.1	RefSeq	CDS	125791	126480	.	+	0	transcript_id "rna-XM_002505850.1"; gene_id "gene-MICPUN_88301";
+NC_013051.1	RefSeq	transcript	505475	509081	.	-	.	transcript_id "rna-XM_002506154.1"; gene_id "gene-MICPUN_106505"
+NC_013051.1	RefSeq	exon	505475	508933	.	-	.	transcript_id "rna-XM_002506154.1"; gene_id "gene-MICPUN_106505";
+NC_013051.1	RefSeq	exon	509046	509081	.	-	.	transcript_id "rna-XM_002506154.1"; gene_id "gene-MICPUN_106505";
+NC_013051.1	RefSeq	CDS	505475	508933	.	-	0	transcript_id "rna-XM_002506154.1"; gene_id "gene-MICPUN_106505";
+NC_013051.1	RefSeq	CDS	509046	509081	.	-	0	transcript_id "rna-XM_002506154.1"; gene_id "gene-MICPUN_106505";
+NC_013051.1	RefSeq	transcript	714197	715381	.	-	.	transcript_id "rna-XM_002506202.1"; gene_id "gene-MICPUN_88116"
+NC_013051.1	RefSeq	exon	714197	715381	.	-	.	transcript_id "rna-XM_002506202.1"; gene_id "gene-MICPUN_88116";
+NC_013051.1	RefSeq	CDS	714197	715381	.	-	0	transcript_id "rna-XM_002506202.1"; gene_id "gene-MICPUN_88116";
+NC_013052.1	RefSeq	transcript	4168	6858	.	+	.	transcript_id "rna-XM_002506229.1"; gene_id "gene-MICPUN_104231"
+NC_013052.1	RefSeq	exon	4168	6858	.	+	.	transcript_id "rna-XM_002506229.1"; gene_id "gene-MICPUN_104231";
+NC_013052.1	RefSeq	CDS	4168	6858	.	+	0	transcript_id "rna-XM_002506229.1"; gene_id "gene-MICPUN_104231";
+NC_013052.1	RefSeq	transcript	137601	138543	.	+	.	transcript_id "rna-XM_002506266.1"; gene_id "gene-MICPUN_109541"
+NC_013052.1	RefSeq	exon	137601	138543	.	+	.	transcript_id "rna-XM_002506266.1"; gene_id "gene-MICPUN_109541";
+NC_013052.1	RefSeq	CDS	137658	138518	.	+	0	transcript_id "rna-XM_002506266.1"; gene_id "gene-MICPUN_109541";
+NC_013052.1	RefSeq	transcript	302440	303479	.	-	.	transcript_id "rna-XM_002506487.1"; gene_id "gene-MICPUN_88722"
+NC_013052.1	RefSeq	exon	302440	303060	.	-	.	transcript_id "rna-XM_002506487.1"; gene_id "gene-MICPUN_88722";
+NC_013052.1	RefSeq	exon	303240	303479	.	-	.	transcript_id "rna-XM_002506487.1"; gene_id "gene-MICPUN_88722";
+NC_013052.1	RefSeq	CDS	302440	303060	.	-	0	transcript_id "rna-XM_002506487.1"; gene_id "gene-MICPUN_88722";
+NC_013052.1	RefSeq	CDS	303240	303479	.	-	0	transcript_id "rna-XM_002506487.1"; gene_id "gene-MICPUN_88722";
+NC_013052.1	RefSeq	transcript	425076	426845	.	+	.	transcript_id "rna-XM_002506339.1"; gene_id "gene-MICPUN_104371"
+NC_013052.1	RefSeq	exon	425076	426845	.	+	.	transcript_id "rna-XM_002506339.1"; gene_id "gene-MICPUN_104371";
+NC_013052.1	RefSeq	CDS	425076	426845	.	+	0	transcript_id "rna-XM_002506339.1"; gene_id "gene-MICPUN_104371";
+NC_013053.1	RefSeq	transcript	3348	4637	.	+	.	transcript_id "rna-XM_002506587.1"; gene_id "gene-MICPUN_89023"
+NC_013053.1	RefSeq	exon	3348	4637	.	+	.	transcript_id "rna-XM_002506587.1"; gene_id "gene-MICPUN_89023";
+NC_013053.1	RefSeq	CDS	3348	4634	.	+	0	transcript_id "rna-XM_002506587.1"; gene_id "gene-MICPUN_89023";
+NC_013053.1	RefSeq	transcript	44674	46848	.	+	.	transcript_id "rna-XM_002506598.1"; gene_id "gene-MICPUN_104488"
+NC_013053.1	RefSeq	exon	44674	46848	.	+	.	transcript_id "rna-XM_002506598.1"; gene_id "gene-MICPUN_104488";
+NC_013053.1	RefSeq	CDS	44674	46848	.	+	0	transcript_id "rna-XM_002506598.1"; gene_id "gene-MICPUN_104488";
+NC_013053.1	RefSeq	transcript	136109	137804	.	+	.	transcript_id "rna-XM_002506620.1"; gene_id "gene-MICPUN_104523"
+NC_013053.1	RefSeq	exon	136109	136254	.	+	.	transcript_id "rna-XM_002506620.1"; gene_id "gene-MICPUN_104523";
+NC_013053.1	RefSeq	exon	136451	137804	.	+	.	transcript_id "rna-XM_002506620.1"; gene_id "gene-MICPUN_104523";
+NC_013053.1	RefSeq	CDS	136109	136254	.	+	0	transcript_id "rna-XM_002506620.1"; gene_id "gene-MICPUN_104523";
+NC_013053.1	RefSeq	CDS	136451	137804	.	+	1	transcript_id "rna-XM_002506620.1"; gene_id "gene-MICPUN_104523";
+NC_013053.1	RefSeq	transcript	468583	469053	.	-	.	transcript_id "rna-XM_002506853.1"; gene_id "gene-MICPUN_70252"
+NC_013053.1	RefSeq	exon	468583	469053	.	-	.	transcript_id "rna-XM_002506853.1"; gene_id "gene-MICPUN_70252";
+NC_013053.1	RefSeq	CDS	468583	469053	.	-	0	transcript_id "rna-XM_002506853.1"; gene_id "gene-MICPUN_70252";
