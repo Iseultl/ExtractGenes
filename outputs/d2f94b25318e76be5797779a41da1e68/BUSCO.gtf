@@ -1,0 +1,807 @@
+JALMLP020000003.1	Genbank	transcript	52460	54354	.	-	.	transcript_id "rna-g81.t1_mrna"; gene_id "gene-MP843_008767"; gene_name "SPB4"
+JALMLP020000003.1	Genbank	exon	52460	54139	.	-	.	transcript_id "rna-g81.t1_mrna"; gene_id "gene-MP843_008767"; gene_name "SPB4";
+JALMLP020000003.1	Genbank	exon	54187	54354	.	-	.	transcript_id "rna-g81.t1_mrna"; gene_id "gene-MP843_008767"; gene_name "SPB4";
+JALMLP020000003.1	Genbank	CDS	52460	54139	.	-	0	transcript_id "rna-g81.t1_mrna"; gene_id "gene-MP843_008767"; gene_name "SPB4";
+JALMLP020000003.1	Genbank	CDS	54187	54354	.	-	0	transcript_id "rna-g81.t1_mrna"; gene_id "gene-MP843_008767"; gene_name "SPB4";
+JALMLP020000004.1	Genbank	transcript	41294	43707	.	+	.	transcript_id "rna-g113.t1_mrna"; gene_id "gene-MP843_010870"; gene_name "DPB2"
+JALMLP020000004.1	Genbank	exon	41294	42018	.	+	.	transcript_id "rna-g113.t1_mrna"; gene_id "gene-MP843_010870"; gene_name "DPB2";
+JALMLP020000004.1	Genbank	exon	42069	43707	.	+	.	transcript_id "rna-g113.t1_mrna"; gene_id "gene-MP843_010870"; gene_name "DPB2";
+JALMLP020000004.1	Genbank	CDS	41294	42018	.	+	0	transcript_id "rna-g113.t1_mrna"; gene_id "gene-MP843_010870"; gene_name "DPB2";
+JALMLP020000004.1	Genbank	CDS	42069	43707	.	+	1	transcript_id "rna-g113.t1_mrna"; gene_id "gene-MP843_010870"; gene_name "DPB2";
+JALMLP020000011.1	Genbank	transcript	10240	12269	.	+	.	transcript_id "rna-g272.t1_mrna"; gene_id "gene-MP843_000719"
+JALMLP020000011.1	Genbank	exon	10240	10504	.	+	.	transcript_id "rna-g272.t1_mrna"; gene_id "gene-MP843_000719";
+JALMLP020000011.1	Genbank	exon	10550	12068	.	+	.	transcript_id "rna-g272.t1_mrna"; gene_id "gene-MP843_000719";
+JALMLP020000011.1	Genbank	exon	12120	12163	.	+	.	transcript_id "rna-g272.t1_mrna"; gene_id "gene-MP843_000719";
+JALMLP020000011.1	Genbank	exon	12214	12269	.	+	.	transcript_id "rna-g272.t1_mrna"; gene_id "gene-MP843_000719";
+JALMLP020000011.1	Genbank	CDS	10240	10504	.	+	0	transcript_id "rna-g272.t1_mrna"; gene_id "gene-MP843_000719";
+JALMLP020000011.1	Genbank	CDS	10550	12068	.	+	2	transcript_id "rna-g272.t1_mrna"; gene_id "gene-MP843_000719";
+JALMLP020000011.1	Genbank	CDS	12120	12163	.	+	1	transcript_id "rna-g272.t1_mrna"; gene_id "gene-MP843_000719";
+JALMLP020000011.1	Genbank	CDS	12214	12269	.	+	2	transcript_id "rna-g272.t1_mrna"; gene_id "gene-MP843_000719";
+JALMLP020000014.1	Genbank	transcript	52267	53175	.	-	.	transcript_id "rna-g357.t1_mrna"; gene_id "gene-MP843_002595"; gene_name "COQ4"
+JALMLP020000014.1	Genbank	exon	52267	52904	.	-	.	transcript_id "rna-g357.t1_mrna"; gene_id "gene-MP843_002595"; gene_name "COQ4";
+JALMLP020000014.1	Genbank	exon	52986	53175	.	-	.	transcript_id "rna-g357.t1_mrna"; gene_id "gene-MP843_002595"; gene_name "COQ4";
+JALMLP020000014.1	Genbank	CDS	52267	52904	.	-	2	transcript_id "rna-g357.t1_mrna"; gene_id "gene-MP843_002595"; gene_name "COQ4";
+JALMLP020000014.1	Genbank	CDS	52986	53175	.	-	0	transcript_id "rna-g357.t1_mrna"; gene_id "gene-MP843_002595"; gene_name "COQ4";
+JALMLP020000017.1	Genbank	transcript	60296	61679	.	+	.	transcript_id "rna-g459.t1_mrna"; gene_id "gene-MP843_004622"
+JALMLP020000017.1	Genbank	exon	60296	60302	.	+	.	transcript_id "rna-g459.t1_mrna"; gene_id "gene-MP843_004622";
+JALMLP020000017.1	Genbank	exon	60358	60391	.	+	.	transcript_id "rna-g459.t1_mrna"; gene_id "gene-MP843_004622";
+JALMLP020000017.1	Genbank	exon	60461	61679	.	+	.	transcript_id "rna-g459.t1_mrna"; gene_id "gene-MP843_004622";
+JALMLP020000017.1	Genbank	CDS	60296	60302	.	+	0	transcript_id "rna-g459.t1_mrna"; gene_id "gene-MP843_004622";
+JALMLP020000017.1	Genbank	CDS	60358	60391	.	+	2	transcript_id "rna-g459.t1_mrna"; gene_id "gene-MP843_004622";
+JALMLP020000017.1	Genbank	CDS	60461	61679	.	+	1	transcript_id "rna-g459.t1_mrna"; gene_id "gene-MP843_004622";
+JALMLP020000020.1	Genbank	transcript	13874	15805	.	-	.	transcript_id "rna-g506.t1_mrna"; gene_id "gene-MP843_005900"
+JALMLP020000020.1	Genbank	exon	13874	13959	.	-	.	transcript_id "rna-g506.t1_mrna"; gene_id "gene-MP843_005900";
+JALMLP020000020.1	Genbank	exon	14018	15601	.	-	.	transcript_id "rna-g506.t1_mrna"; gene_id "gene-MP843_005900";
+JALMLP020000020.1	Genbank	exon	15651	15702	.	-	.	transcript_id "rna-g506.t1_mrna"; gene_id "gene-MP843_005900";
+JALMLP020000020.1	Genbank	exon	15752	15805	.	-	.	transcript_id "rna-g506.t1_mrna"; gene_id "gene-MP843_005900";
+JALMLP020000020.1	Genbank	CDS	13874	13959	.	-	2	transcript_id "rna-g506.t1_mrna"; gene_id "gene-MP843_005900";
+JALMLP020000020.1	Genbank	CDS	14018	15601	.	-	2	transcript_id "rna-g506.t1_mrna"; gene_id "gene-MP843_005900";
+JALMLP020000020.1	Genbank	CDS	15651	15702	.	-	0	transcript_id "rna-g506.t1_mrna"; gene_id "gene-MP843_005900";
+JALMLP020000020.1	Genbank	CDS	15752	15805	.	-	0	transcript_id "rna-g506.t1_mrna"; gene_id "gene-MP843_005900";
+JALMLP020000020.1	Genbank	transcript	29115	30355	.	-	.	transcript_id "rna-g510.t1_mrna"; gene_id "gene-MP843_005904"; gene_name "cyp6"
+JALMLP020000020.1	Genbank	exon	29115	30210	.	-	.	transcript_id "rna-g510.t1_mrna"; gene_id "gene-MP843_005904"; gene_name "cyp6";
+JALMLP020000020.1	Genbank	exon	30276	30355	.	-	.	transcript_id "rna-g510.t1_mrna"; gene_id "gene-MP843_005904"; gene_name "cyp6";
+JALMLP020000020.1	Genbank	CDS	29115	30210	.	-	1	transcript_id "rna-g510.t1_mrna"; gene_id "gene-MP843_005904"; gene_name "cyp6";
+JALMLP020000020.1	Genbank	CDS	30276	30355	.	-	0	transcript_id "rna-g510.t1_mrna"; gene_id "gene-MP843_005904"; gene_name "cyp6";
+JALMLP020000021.1	Genbank	transcript	8699	9807	.	+	.	transcript_id "rna-g522.t1_mrna"; gene_id "gene-MP843_006266"; gene_name "GCN3"
+JALMLP020000021.1	Genbank	exon	8699	8754	.	+	.	transcript_id "rna-g522.t1_mrna"; gene_id "gene-MP843_006266"; gene_name "GCN3";
+JALMLP020000021.1	Genbank	exon	8802	9666	.	+	.	transcript_id "rna-g522.t1_mrna"; gene_id "gene-MP843_006266"; gene_name "GCN3";
+JALMLP020000021.1	Genbank	exon	9718	9807	.	+	.	transcript_id "rna-g522.t1_mrna"; gene_id "gene-MP843_006266"; gene_name "GCN3";
+JALMLP020000021.1	Genbank	CDS	8699	8754	.	+	0	transcript_id "rna-g522.t1_mrna"; gene_id "gene-MP843_006266"; gene_name "GCN3";
+JALMLP020000021.1	Genbank	CDS	8802	9666	.	+	1	transcript_id "rna-g522.t1_mrna"; gene_id "gene-MP843_006266"; gene_name "GCN3";
+JALMLP020000021.1	Genbank	CDS	9718	9807	.	+	0	transcript_id "rna-g522.t1_mrna"; gene_id "gene-MP843_006266"; gene_name "GCN3";
+JALMLP020000021.1	Genbank	transcript	61063	62714	.	-	.	transcript_id "rna-g536.t1_mrna"; gene_id "gene-MP843_006280"; gene_name "PCM1"
+JALMLP020000021.1	Genbank	exon	61063	61911	.	-	.	transcript_id "rna-g536.t1_mrna"; gene_id "gene-MP843_006280"; gene_name "PCM1";
+JALMLP020000021.1	Genbank	exon	61959	62714	.	-	.	transcript_id "rna-g536.t1_mrna"; gene_id "gene-MP843_006280"; gene_name "PCM1";
+JALMLP020000021.1	Genbank	CDS	61063	61911	.	-	0	transcript_id "rna-g536.t1_mrna"; gene_id "gene-MP843_006280"; gene_name "PCM1";
+JALMLP020000021.1	Genbank	CDS	61959	62714	.	-	0	transcript_id "rna-g536.t1_mrna"; gene_id "gene-MP843_006280"; gene_name "PCM1";
+JALMLP020000025.1	Genbank	transcript	37993	39069	.	+	.	transcript_id "rna-g616.t1_mrna"; gene_id "gene-MP843_007636"; gene_name "rrp4"
+JALMLP020000025.1	Genbank	exon	37993	38192	.	+	.	transcript_id "rna-g616.t1_mrna"; gene_id "gene-MP843_007636"; gene_name "rrp4";
+JALMLP020000025.1	Genbank	exon	38250	39069	.	+	.	transcript_id "rna-g616.t1_mrna"; gene_id "gene-MP843_007636"; gene_name "rrp4";
+JALMLP020000025.1	Genbank	CDS	37993	38192	.	+	0	transcript_id "rna-g616.t1_mrna"; gene_id "gene-MP843_007636"; gene_name "rrp4";
+JALMLP020000025.1	Genbank	CDS	38250	39069	.	+	1	transcript_id "rna-g616.t1_mrna"; gene_id "gene-MP843_007636"; gene_name "rrp4";
+JALMLP020000026.1	Genbank	transcript	7502	8890	.	+	.	transcript_id "rna-g628.t1_mrna"; gene_id "gene-MP843_007923"
+JALMLP020000026.1	Genbank	exon	7502	7604	.	+	.	transcript_id "rna-g628.t1_mrna"; gene_id "gene-MP843_007923";
+JALMLP020000026.1	Genbank	exon	7651	7751	.	+	.	transcript_id "rna-g628.t1_mrna"; gene_id "gene-MP843_007923";
+JALMLP020000026.1	Genbank	exon	7799	7926	.	+	.	transcript_id "rna-g628.t1_mrna"; gene_id "gene-MP843_007923";
+JALMLP020000026.1	Genbank	exon	7972	8890	.	+	.	transcript_id "rna-g628.t1_mrna"; gene_id "gene-MP843_007923";
+JALMLP020000026.1	Genbank	CDS	7502	7604	.	+	0	transcript_id "rna-g628.t1_mrna"; gene_id "gene-MP843_007923";
+JALMLP020000026.1	Genbank	CDS	7651	7751	.	+	2	transcript_id "rna-g628.t1_mrna"; gene_id "gene-MP843_007923";
+JALMLP020000026.1	Genbank	CDS	7799	7926	.	+	0	transcript_id "rna-g628.t1_mrna"; gene_id "gene-MP843_007923";
+JALMLP020000026.1	Genbank	CDS	7972	8890	.	+	1	transcript_id "rna-g628.t1_mrna"; gene_id "gene-MP843_007923";
+JALMLP020000027.1	Genbank	transcript	46397	47215	.	+	.	transcript_id "rna-g660.t1_mrna"; gene_id "gene-MP843_008221"; gene_name "cwf16"
+JALMLP020000027.1	Genbank	exon	46397	47215	.	+	.	transcript_id "rna-g660.t1_mrna"; gene_id "gene-MP843_008221"; gene_name "cwf16";
+JALMLP020000027.1	Genbank	CDS	46397	47215	.	+	0	transcript_id "rna-g660.t1_mrna"; gene_id "gene-MP843_008221"; gene_name "cwf16";
+JALMLP020000030.1	Genbank	transcript	50088	50850	.	+	.	transcript_id "rna-g721.t1_mrna"; gene_id "gene-MP843_009059"; gene_name "MRT4"
+JALMLP020000030.1	Genbank	exon	50088	50275	.	+	.	transcript_id "rna-g721.t1_mrna"; gene_id "gene-MP843_009059"; gene_name "MRT4";
+JALMLP020000030.1	Genbank	exon	50334	50850	.	+	.	transcript_id "rna-g721.t1_mrna"; gene_id "gene-MP843_009059"; gene_name "MRT4";
+JALMLP020000030.1	Genbank	CDS	50088	50275	.	+	0	transcript_id "rna-g721.t1_mrna"; gene_id "gene-MP843_009059"; gene_name "MRT4";
+JALMLP020000030.1	Genbank	CDS	50334	50850	.	+	1	transcript_id "rna-g721.t1_mrna"; gene_id "gene-MP843_009059"; gene_name "MRT4";
+JALMLP020000030.1	Genbank	transcript	53141	54007	.	+	.	transcript_id "rna-g723.t1_mrna"; gene_id "gene-MP843_009061"; gene_name "MRPL51"
+JALMLP020000030.1	Genbank	exon	53141	53179	.	+	.	transcript_id "rna-g723.t1_mrna"; gene_id "gene-MP843_009061"; gene_name "MRPL51";
+JALMLP020000030.1	Genbank	exon	53231	53316	.	+	.	transcript_id "rna-g723.t1_mrna"; gene_id "gene-MP843_009061"; gene_name "MRPL51";
+JALMLP020000030.1	Genbank	exon	53372	53622	.	+	.	transcript_id "rna-g723.t1_mrna"; gene_id "gene-MP843_009061"; gene_name "MRPL51";
+JALMLP020000030.1	Genbank	exon	53806	53873	.	+	.	transcript_id "rna-g723.t1_mrna"; gene_id "gene-MP843_009061"; gene_name "MRPL51";
+JALMLP020000030.1	Genbank	exon	53918	54007	.	+	.	transcript_id "rna-g723.t1_mrna"; gene_id "gene-MP843_009061"; gene_name "MRPL51";
+JALMLP020000030.1	Genbank	CDS	53141	53179	.	+	0	transcript_id "rna-g723.t1_mrna"; gene_id "gene-MP843_009061"; gene_name "MRPL51";
+JALMLP020000030.1	Genbank	CDS	53231	53316	.	+	0	transcript_id "rna-g723.t1_mrna"; gene_id "gene-MP843_009061"; gene_name "MRPL51";
+JALMLP020000030.1	Genbank	CDS	53372	53622	.	+	1	transcript_id "rna-g723.t1_mrna"; gene_id "gene-MP843_009061"; gene_name "MRPL51";
+JALMLP020000030.1	Genbank	CDS	53806	53873	.	+	2	transcript_id "rna-g723.t1_mrna"; gene_id "gene-MP843_009061"; gene_name "MRPL51";
+JALMLP020000030.1	Genbank	CDS	53918	54007	.	+	0	transcript_id "rna-g723.t1_mrna"; gene_id "gene-MP843_009061"; gene_name "MRPL51";
+JALMLP020000034.1	Genbank	transcript	17788	20463	.	+	.	transcript_id "rna-g795.t1_mrna"; gene_id "gene-MP843_009906"; gene_name "DBP7"
+JALMLP020000034.1	Genbank	exon	17788	20463	.	+	.	transcript_id "rna-g795.t1_mrna"; gene_id "gene-MP843_009906"; gene_name "DBP7";
+JALMLP020000034.1	Genbank	CDS	17788	20463	.	+	0	transcript_id "rna-g795.t1_mrna"; gene_id "gene-MP843_009906"; gene_name "DBP7";
+JALMLP020000052.1	Genbank	transcript	1985	3736	.	+	.	transcript_id "rna-g1127.t1_mrna"; gene_id "gene-MP843_013061"; gene_name "RAM1"
+JALMLP020000052.1	Genbank	exon	1985	2736	.	+	.	transcript_id "rna-g1127.t1_mrna"; gene_id "gene-MP843_013061"; gene_name "RAM1";
+JALMLP020000052.1	Genbank	exon	2783	2907	.	+	.	transcript_id "rna-g1127.t1_mrna"; gene_id "gene-MP843_013061"; gene_name "RAM1";
+JALMLP020000052.1	Genbank	exon	2958	3075	.	+	.	transcript_id "rna-g1127.t1_mrna"; gene_id "gene-MP843_013061"; gene_name "RAM1";
+JALMLP020000052.1	Genbank	exon	3130	3417	.	+	.	transcript_id "rna-g1127.t1_mrna"; gene_id "gene-MP843_013061"; gene_name "RAM1";
+JALMLP020000052.1	Genbank	exon	3475	3736	.	+	.	transcript_id "rna-g1127.t1_mrna"; gene_id "gene-MP843_013061"; gene_name "RAM1";
+JALMLP020000052.1	Genbank	CDS	1985	2736	.	+	0	transcript_id "rna-g1127.t1_mrna"; gene_id "gene-MP843_013061"; gene_name "RAM1";
+JALMLP020000052.1	Genbank	CDS	2783	2907	.	+	1	transcript_id "rna-g1127.t1_mrna"; gene_id "gene-MP843_013061"; gene_name "RAM1";
+JALMLP020000052.1	Genbank	CDS	2958	3075	.	+	2	transcript_id "rna-g1127.t1_mrna"; gene_id "gene-MP843_013061"; gene_name "RAM1";
+JALMLP020000052.1	Genbank	CDS	3130	3417	.	+	1	transcript_id "rna-g1127.t1_mrna"; gene_id "gene-MP843_013061"; gene_name "RAM1";
+JALMLP020000052.1	Genbank	CDS	3475	3736	.	+	1	transcript_id "rna-g1127.t1_mrna"; gene_id "gene-MP843_013061"; gene_name "RAM1";
+JALMLP020000060.1	Genbank	transcript	19673	22128	.	+	.	transcript_id "rna-g1279.t1_mrna"; gene_id "gene-MP843_014259"; gene_name "COG3"
+JALMLP020000060.1	Genbank	exon	19673	19783	.	+	.	transcript_id "rna-g1279.t1_mrna"; gene_id "gene-MP843_014259"; gene_name "COG3";
+JALMLP020000060.1	Genbank	exon	19829	20097	.	+	.	transcript_id "rna-g1279.t1_mrna"; gene_id "gene-MP843_014259"; gene_name "COG3";
+JALMLP020000060.1	Genbank	exon	20150	20489	.	+	.	transcript_id "rna-g1279.t1_mrna"; gene_id "gene-MP843_014259"; gene_name "COG3";
+JALMLP020000060.1	Genbank	exon	20555	21565	.	+	.	transcript_id "rna-g1279.t1_mrna"; gene_id "gene-MP843_014259"; gene_name "COG3";
+JALMLP020000060.1	Genbank	exon	21616	22128	.	+	.	transcript_id "rna-g1279.t1_mrna"; gene_id "gene-MP843_014259"; gene_name "COG3";
+JALMLP020000060.1	Genbank	CDS	19673	19783	.	+	0	transcript_id "rna-g1279.t1_mrna"; gene_id "gene-MP843_014259"; gene_name "COG3";
+JALMLP020000060.1	Genbank	CDS	19829	20097	.	+	0	transcript_id "rna-g1279.t1_mrna"; gene_id "gene-MP843_014259"; gene_name "COG3";
+JALMLP020000060.1	Genbank	CDS	20150	20489	.	+	1	transcript_id "rna-g1279.t1_mrna"; gene_id "gene-MP843_014259"; gene_name "COG3";
+JALMLP020000060.1	Genbank	CDS	20555	21565	.	+	0	transcript_id "rna-g1279.t1_mrna"; gene_id "gene-MP843_014259"; gene_name "COG3";
+JALMLP020000060.1	Genbank	CDS	21616	22128	.	+	0	transcript_id "rna-g1279.t1_mrna"; gene_id "gene-MP843_014259"; gene_name "COG3";
+JALMLP020000065.1	Genbank	transcript	27042	28510	.	+	.	transcript_id "rna-g1368.t1_mrna"; gene_id "gene-MP843_014916"; gene_name "TMA46"
+JALMLP020000065.1	Genbank	exon	27042	27673	.	+	.	transcript_id "rna-g1368.t1_mrna"; gene_id "gene-MP843_014916"; gene_name "TMA46";
+JALMLP020000065.1	Genbank	exon	27726	28138	.	+	.	transcript_id "rna-g1368.t1_mrna"; gene_id "gene-MP843_014916"; gene_name "TMA46";
+JALMLP020000065.1	Genbank	exon	28268	28303	.	+	.	transcript_id "rna-g1368.t1_mrna"; gene_id "gene-MP843_014916"; gene_name "TMA46";
+JALMLP020000065.1	Genbank	exon	28353	28510	.	+	.	transcript_id "rna-g1368.t1_mrna"; gene_id "gene-MP843_014916"; gene_name "TMA46";
+JALMLP020000065.1	Genbank	CDS	27042	27673	.	+	0	transcript_id "rna-g1368.t1_mrna"; gene_id "gene-MP843_014916"; gene_name "TMA46";
+JALMLP020000065.1	Genbank	CDS	27726	28138	.	+	1	transcript_id "rna-g1368.t1_mrna"; gene_id "gene-MP843_014916"; gene_name "TMA46";
+JALMLP020000065.1	Genbank	CDS	28268	28303	.	+	2	transcript_id "rna-g1368.t1_mrna"; gene_id "gene-MP843_014916"; gene_name "TMA46";
+JALMLP020000065.1	Genbank	CDS	28353	28510	.	+	2	transcript_id "rna-g1368.t1_mrna"; gene_id "gene-MP843_014916"; gene_name "TMA46";
+JALMLP020000082.1	Genbank	transcript	8259	9288	.	+	.	transcript_id "rna-g1634.t1_mrna"; gene_id "gene-MP843_016552"; gene_name "ETF1"
+JALMLP020000082.1	Genbank	exon	8259	8483	.	+	.	transcript_id "rna-g1634.t1_mrna"; gene_id "gene-MP843_016552"; gene_name "ETF1";
+JALMLP020000082.1	Genbank	exon	8533	9288	.	+	.	transcript_id "rna-g1634.t1_mrna"; gene_id "gene-MP843_016552"; gene_name "ETF1";
+JALMLP020000082.1	Genbank	CDS	8259	8483	.	+	0	transcript_id "rna-g1634.t1_mrna"; gene_id "gene-MP843_016552"; gene_name "ETF1";
+JALMLP020000082.1	Genbank	CDS	8533	9288	.	+	0	transcript_id "rna-g1634.t1_mrna"; gene_id "gene-MP843_016552"; gene_name "ETF1";
+JALMLP020000082.1	Genbank	transcript	41183	42266	.	-	.	transcript_id "rna-g1646.t1_mrna"; gene_id "gene-MP843_016564"; gene_name "KRR1"
+JALMLP020000082.1	Genbank	exon	41183	42154	.	-	.	transcript_id "rna-g1646.t1_mrna"; gene_id "gene-MP843_016564"; gene_name "KRR1";
+JALMLP020000082.1	Genbank	exon	42207	42266	.	-	.	transcript_id "rna-g1646.t1_mrna"; gene_id "gene-MP843_016564"; gene_name "KRR1";
+JALMLP020000082.1	Genbank	CDS	41183	42154	.	-	0	transcript_id "rna-g1646.t1_mrna"; gene_id "gene-MP843_016564"; gene_name "KRR1";
+JALMLP020000082.1	Genbank	CDS	42207	42266	.	-	0	transcript_id "rna-g1646.t1_mrna"; gene_id "gene-MP843_016564"; gene_name "KRR1";
+JALMLP020000084.1	Genbank	transcript	30241	31997	.	+	.	transcript_id "rna-g1681.t1_mrna"; gene_id "gene-MP843_016730"; gene_name "CSN12"
+JALMLP020000084.1	Genbank	exon	30241	30549	.	+	.	transcript_id "rna-g1681.t1_mrna"; gene_id "gene-MP843_016730"; gene_name "CSN12";
+JALMLP020000084.1	Genbank	exon	30652	30935	.	+	.	transcript_id "rna-g1681.t1_mrna"; gene_id "gene-MP843_016730"; gene_name "CSN12";
+JALMLP020000084.1	Genbank	exon	30980	31205	.	+	.	transcript_id "rna-g1681.t1_mrna"; gene_id "gene-MP843_016730"; gene_name "CSN12";
+JALMLP020000084.1	Genbank	exon	31251	31312	.	+	.	transcript_id "rna-g1681.t1_mrna"; gene_id "gene-MP843_016730"; gene_name "CSN12";
+JALMLP020000084.1	Genbank	exon	31363	31774	.	+	.	transcript_id "rna-g1681.t1_mrna"; gene_id "gene-MP843_016730"; gene_name "CSN12";
+JALMLP020000084.1	Genbank	exon	31914	31997	.	+	.	transcript_id "rna-g1681.t1_mrna"; gene_id "gene-MP843_016730"; gene_name "CSN12";
+JALMLP020000084.1	Genbank	CDS	30241	30549	.	+	0	transcript_id "rna-g1681.t1_mrna"; gene_id "gene-MP843_016730"; gene_name "CSN12";
+JALMLP020000084.1	Genbank	CDS	30652	30935	.	+	0	transcript_id "rna-g1681.t1_mrna"; gene_id "gene-MP843_016730"; gene_name "CSN12";
+JALMLP020000084.1	Genbank	CDS	30980	31205	.	+	1	transcript_id "rna-g1681.t1_mrna"; gene_id "gene-MP843_016730"; gene_name "CSN12";
+JALMLP020000084.1	Genbank	CDS	31251	31312	.	+	0	transcript_id "rna-g1681.t1_mrna"; gene_id "gene-MP843_016730"; gene_name "CSN12";
+JALMLP020000084.1	Genbank	CDS	31363	31774	.	+	1	transcript_id "rna-g1681.t1_mrna"; gene_id "gene-MP843_016730"; gene_name "CSN12";
+JALMLP020000084.1	Genbank	CDS	31914	31997	.	+	0	transcript_id "rna-g1681.t1_mrna"; gene_id "gene-MP843_016730"; gene_name "CSN12";
+JALMLP020000086.1	Genbank	transcript	42126	43166	.	+	.	transcript_id "rna-g1725.t1_mrna"; gene_id "gene-MP843_016885"; gene_name "RPP1"
+JALMLP020000086.1	Genbank	exon	42126	43166	.	+	.	transcript_id "rna-g1725.t1_mrna"; gene_id "gene-MP843_016885"; gene_name "RPP1";
+JALMLP020000086.1	Genbank	CDS	42126	43166	.	+	0	transcript_id "rna-g1725.t1_mrna"; gene_id "gene-MP843_016885"; gene_name "RPP1";
+JALMLP020000090.1	Genbank	transcript	18704	19985	.	+	.	transcript_id "rna-g1792.t1_mrna"; gene_id "gene-MP843_017210"
+JALMLP020000090.1	Genbank	exon	18704	18799	.	+	.	transcript_id "rna-g1792.t1_mrna"; gene_id "gene-MP843_017210";
+JALMLP020000090.1	Genbank	exon	18850	19298	.	+	.	transcript_id "rna-g1792.t1_mrna"; gene_id "gene-MP843_017210";
+JALMLP020000090.1	Genbank	exon	19346	19985	.	+	.	transcript_id "rna-g1792.t1_mrna"; gene_id "gene-MP843_017210";
+JALMLP020000090.1	Genbank	CDS	18704	18799	.	+	0	transcript_id "rna-g1792.t1_mrna"; gene_id "gene-MP843_017210";
+JALMLP020000090.1	Genbank	CDS	18850	19298	.	+	0	transcript_id "rna-g1792.t1_mrna"; gene_id "gene-MP843_017210";
+JALMLP020000090.1	Genbank	CDS	19346	19985	.	+	1	transcript_id "rna-g1792.t1_mrna"; gene_id "gene-MP843_017210";
+JALMLP020000091.1	Genbank	transcript	46437	49250	.	-	.	transcript_id "rna-g1823.t1_mrna"; gene_id "gene-MP843_017292"; gene_name "utp13"
+JALMLP020000091.1	Genbank	exon	46437	48952	.	-	.	transcript_id "rna-g1823.t1_mrna"; gene_id "gene-MP843_017292"; gene_name "utp13";
+JALMLP020000091.1	Genbank	exon	48999	49026	.	-	.	transcript_id "rna-g1823.t1_mrna"; gene_id "gene-MP843_017292"; gene_name "utp13";
+JALMLP020000091.1	Genbank	exon	49074	49250	.	-	.	transcript_id "rna-g1823.t1_mrna"; gene_id "gene-MP843_017292"; gene_name "utp13";
+JALMLP020000091.1	Genbank	CDS	46437	48952	.	-	2	transcript_id "rna-g1823.t1_mrna"; gene_id "gene-MP843_017292"; gene_name "utp13";
+JALMLP020000091.1	Genbank	CDS	48999	49026	.	-	0	transcript_id "rna-g1823.t1_mrna"; gene_id "gene-MP843_017292"; gene_name "utp13";
+JALMLP020000091.1	Genbank	CDS	49074	49250	.	-	0	transcript_id "rna-g1823.t1_mrna"; gene_id "gene-MP843_017292"; gene_name "utp13";
+JALMLP020000099.1	Genbank	transcript	12826	13583	.	+	.	transcript_id "rna-g1917.t1_mrna"; gene_id "gene-MP843_000057"; gene_name "RRP40"
+JALMLP020000099.1	Genbank	exon	12826	12999	.	+	.	transcript_id "rna-g1917.t1_mrna"; gene_id "gene-MP843_000057"; gene_name "RRP40";
+JALMLP020000099.1	Genbank	exon	13047	13583	.	+	.	transcript_id "rna-g1917.t1_mrna"; gene_id "gene-MP843_000057"; gene_name "RRP40";
+JALMLP020000099.1	Genbank	CDS	12826	12999	.	+	0	transcript_id "rna-g1917.t1_mrna"; gene_id "gene-MP843_000057"; gene_name "RRP40";
+JALMLP020000099.1	Genbank	CDS	13047	13583	.	+	0	transcript_id "rna-g1917.t1_mrna"; gene_id "gene-MP843_000057"; gene_name "RRP40";
+JALMLP020000105.1	Genbank	transcript	31909	33494	.	-	.	transcript_id "rna-g2013.t1_mrna"; gene_id "gene-MP843_000496"; gene_name "GCD7"
+JALMLP020000105.1	Genbank	exon	31909	32014	.	-	.	transcript_id "rna-g2013.t1_mrna"; gene_id "gene-MP843_000496"; gene_name "GCD7";
+JALMLP020000105.1	Genbank	exon	32067	33347	.	-	.	transcript_id "rna-g2013.t1_mrna"; gene_id "gene-MP843_000496"; gene_name "GCD7";
+JALMLP020000105.1	Genbank	exon	33397	33494	.	-	.	transcript_id "rna-g2013.t1_mrna"; gene_id "gene-MP843_000496"; gene_name "GCD7";
+JALMLP020000105.1	Genbank	CDS	31909	32014	.	-	1	transcript_id "rna-g2013.t1_mrna"; gene_id "gene-MP843_000496"; gene_name "GCD7";
+JALMLP020000105.1	Genbank	CDS	32067	33347	.	-	1	transcript_id "rna-g2013.t1_mrna"; gene_id "gene-MP843_000496"; gene_name "GCD7";
+JALMLP020000105.1	Genbank	CDS	33397	33494	.	-	0	transcript_id "rna-g2013.t1_mrna"; gene_id "gene-MP843_000496"; gene_name "GCD7";
+JALMLP020000107.1	Genbank	transcript	19064	20672	.	+	.	transcript_id "rna-g2039.t1_mrna"; gene_id "gene-MP843_000615"
+JALMLP020000107.1	Genbank	exon	19064	19136	.	+	.	transcript_id "rna-g2039.t1_mrna"; gene_id "gene-MP843_000615";
+JALMLP020000107.1	Genbank	exon	19189	20672	.	+	.	transcript_id "rna-g2039.t1_mrna"; gene_id "gene-MP843_000615";
+JALMLP020000107.1	Genbank	CDS	19064	19136	.	+	0	transcript_id "rna-g2039.t1_mrna"; gene_id "gene-MP843_000615";
+JALMLP020000107.1	Genbank	CDS	19189	20672	.	+	2	transcript_id "rna-g2039.t1_mrna"; gene_id "gene-MP843_000615";
+JALMLP020000111.1	Genbank	transcript	39223	39991	.	-	.	transcript_id "rna-g2102.t1_mrna"; gene_id "gene-MP843_000871"
+JALMLP020000111.1	Genbank	exon	39223	39781	.	-	.	transcript_id "rna-g2102.t1_mrna"; gene_id "gene-MP843_000871";
+JALMLP020000111.1	Genbank	exon	39834	39991	.	-	.	transcript_id "rna-g2102.t1_mrna"; gene_id "gene-MP843_000871";
+JALMLP020000111.1	Genbank	CDS	39223	39781	.	-	1	transcript_id "rna-g2102.t1_mrna"; gene_id "gene-MP843_000871";
+JALMLP020000111.1	Genbank	CDS	39834	39991	.	-	0	transcript_id "rna-g2102.t1_mrna"; gene_id "gene-MP843_000871";
+JALMLP020000121.1	Genbank	transcript	18706	20652	.	-	.	transcript_id "rna-g2251.t1_mrna"; gene_id "gene-MP843_001526"; gene_name "RSA4"
+JALMLP020000121.1	Genbank	exon	18706	18812	.	-	.	transcript_id "rna-g2251.t1_mrna"; gene_id "gene-MP843_001526"; gene_name "RSA4";
+JALMLP020000121.1	Genbank	exon	18880	20107	.	-	.	transcript_id "rna-g2251.t1_mrna"; gene_id "gene-MP843_001526"; gene_name "RSA4";
+JALMLP020000121.1	Genbank	exon	20162	20456	.	-	.	transcript_id "rna-g2251.t1_mrna"; gene_id "gene-MP843_001526"; gene_name "RSA4";
+JALMLP020000121.1	Genbank	exon	20501	20652	.	-	.	transcript_id "rna-g2251.t1_mrna"; gene_id "gene-MP843_001526"; gene_name "RSA4";
+JALMLP020000121.1	Genbank	CDS	18706	18812	.	-	2	transcript_id "rna-g2251.t1_mrna"; gene_id "gene-MP843_001526"; gene_name "RSA4";
+JALMLP020000121.1	Genbank	CDS	18880	20107	.	-	0	transcript_id "rna-g2251.t1_mrna"; gene_id "gene-MP843_001526"; gene_name "RSA4";
+JALMLP020000121.1	Genbank	CDS	20162	20456	.	-	1	transcript_id "rna-g2251.t1_mrna"; gene_id "gene-MP843_001526"; gene_name "RSA4";
+JALMLP020000121.1	Genbank	CDS	20501	20652	.	-	0	transcript_id "rna-g2251.t1_mrna"; gene_id "gene-MP843_001526"; gene_name "RSA4";
+JALMLP020000123.1	Genbank	transcript	29078	30862	.	-	.	transcript_id "rna-g2282.t1_mrna"; gene_id "gene-MP843_001642"; gene_name "PWP1"
+JALMLP020000123.1	Genbank	exon	29078	29266	.	-	.	transcript_id "rna-g2282.t1_mrna"; gene_id "gene-MP843_001642"; gene_name "PWP1";
+JALMLP020000123.1	Genbank	exon	29346	30570	.	-	.	transcript_id "rna-g2282.t1_mrna"; gene_id "gene-MP843_001642"; gene_name "PWP1";
+JALMLP020000123.1	Genbank	exon	30618	30862	.	-	.	transcript_id "rna-g2282.t1_mrna"; gene_id "gene-MP843_001642"; gene_name "PWP1";
+JALMLP020000123.1	Genbank	CDS	29078	29266	.	-	0	transcript_id "rna-g2282.t1_mrna"; gene_id "gene-MP843_001642"; gene_name "PWP1";
+JALMLP020000123.1	Genbank	CDS	29346	30570	.	-	1	transcript_id "rna-g2282.t1_mrna"; gene_id "gene-MP843_001642"; gene_name "PWP1";
+JALMLP020000123.1	Genbank	CDS	30618	30862	.	-	0	transcript_id "rna-g2282.t1_mrna"; gene_id "gene-MP843_001642"; gene_name "PWP1";
+JALMLP020000126.1	Genbank	transcript	32871	33848	.	+	.	transcript_id "rna-g2328.t1_mrna"; gene_id "gene-MP843_001812"; gene_name "CWC26"
+JALMLP020000126.1	Genbank	exon	32871	33848	.	+	.	transcript_id "rna-g2328.t1_mrna"; gene_id "gene-MP843_001812"; gene_name "CWC26";
+JALMLP020000126.1	Genbank	CDS	32871	33848	.	+	0	transcript_id "rna-g2328.t1_mrna"; gene_id "gene-MP843_001812"; gene_name "CWC26";
+JALMLP020000128.1	Genbank	transcript	25404	26524	.	+	.	transcript_id "rna-g2351.t1_mrna"; gene_id "gene-MP843_001922"; gene_name "oca3"
+JALMLP020000128.1	Genbank	exon	25404	25772	.	+	.	transcript_id "rna-g2351.t1_mrna"; gene_id "gene-MP843_001922"; gene_name "oca3";
+JALMLP020000128.1	Genbank	exon	25817	26023	.	+	.	transcript_id "rna-g2351.t1_mrna"; gene_id "gene-MP843_001922"; gene_name "oca3";
+JALMLP020000128.1	Genbank	exon	26071	26220	.	+	.	transcript_id "rna-g2351.t1_mrna"; gene_id "gene-MP843_001922"; gene_name "oca3";
+JALMLP020000128.1	Genbank	exon	26282	26524	.	+	.	transcript_id "rna-g2351.t1_mrna"; gene_id "gene-MP843_001922"; gene_name "oca3";
+JALMLP020000128.1	Genbank	CDS	25404	25772	.	+	0	transcript_id "rna-g2351.t1_mrna"; gene_id "gene-MP843_001922"; gene_name "oca3";
+JALMLP020000128.1	Genbank	CDS	25817	26023	.	+	0	transcript_id "rna-g2351.t1_mrna"; gene_id "gene-MP843_001922"; gene_name "oca3";
+JALMLP020000128.1	Genbank	CDS	26071	26220	.	+	0	transcript_id "rna-g2351.t1_mrna"; gene_id "gene-MP843_001922"; gene_name "oca3";
+JALMLP020000128.1	Genbank	CDS	26282	26524	.	+	0	transcript_id "rna-g2351.t1_mrna"; gene_id "gene-MP843_001922"; gene_name "oca3";
+JALMLP020000132.1	Genbank	transcript	25429	26118	.	-	.	transcript_id "rna-g2415.t1_mrna"; gene_id "gene-MP843_002161"
+JALMLP020000132.1	Genbank	exon	25429	26118	.	-	.	transcript_id "rna-g2415.t1_mrna"; gene_id "gene-MP843_002161";
+JALMLP020000132.1	Genbank	CDS	25429	26118	.	-	0	transcript_id "rna-g2415.t1_mrna"; gene_id "gene-MP843_002161";
+JALMLP020000135.1	Genbank	transcript	2983	4425	.	-	.	transcript_id "rna-g2457.t1_mrna"; gene_id "gene-MP843_002357"; gene_name "PRP46"
+JALMLP020000135.1	Genbank	exon	2983	3233	.	-	.	transcript_id "rna-g2457.t1_mrna"; gene_id "gene-MP843_002357"; gene_name "PRP46";
+JALMLP020000135.1	Genbank	exon	3282	4425	.	-	.	transcript_id "rna-g2457.t1_mrna"; gene_id "gene-MP843_002357"; gene_name "PRP46";
+JALMLP020000135.1	Genbank	CDS	2983	3233	.	-	2	transcript_id "rna-g2457.t1_mrna"; gene_id "gene-MP843_002357"; gene_name "PRP46";
+JALMLP020000135.1	Genbank	CDS	3282	4425	.	-	0	transcript_id "rna-g2457.t1_mrna"; gene_id "gene-MP843_002357"; gene_name "PRP46";
+JALMLP020000139.1	Genbank	transcript	17283	18099	.	-	.	transcript_id "rna-g2516.t1_mrna"; gene_id "gene-MP843_002608"; gene_name "dot2"
+JALMLP020000139.1	Genbank	exon	17283	17598	.	-	.	transcript_id "rna-g2516.t1_mrna"; gene_id "gene-MP843_002608"; gene_name "dot2";
+JALMLP020000139.1	Genbank	exon	17645	18099	.	-	.	transcript_id "rna-g2516.t1_mrna"; gene_id "gene-MP843_002608"; gene_name "dot2";
+JALMLP020000139.1	Genbank	CDS	17283	17598	.	-	1	transcript_id "rna-g2516.t1_mrna"; gene_id "gene-MP843_002608"; gene_name "dot2";
+JALMLP020000139.1	Genbank	CDS	17645	18099	.	-	0	transcript_id "rna-g2516.t1_mrna"; gene_id "gene-MP843_002608"; gene_name "dot2";
+JALMLP020000145.1	Genbank	transcript	10232	13130	.	-	.	transcript_id "rna-g2605.t1_mrna"; gene_id "gene-MP843_002931"; gene_name "ctf18"
+JALMLP020000145.1	Genbank	exon	10232	10625	.	-	.	transcript_id "rna-g2605.t1_mrna"; gene_id "gene-MP843_002931"; gene_name "ctf18";
+JALMLP020000145.1	Genbank	exon	10675	13130	.	-	.	transcript_id "rna-g2605.t1_mrna"; gene_id "gene-MP843_002931"; gene_name "ctf18";
+JALMLP020000145.1	Genbank	CDS	10232	10625	.	-	1	transcript_id "rna-g2605.t1_mrna"; gene_id "gene-MP843_002931"; gene_name "ctf18";
+JALMLP020000145.1	Genbank	CDS	10675	13130	.	-	0	transcript_id "rna-g2605.t1_mrna"; gene_id "gene-MP843_002931"; gene_name "ctf18";
+JALMLP020000153.1	Genbank	transcript	33797	34917	.	-	.	transcript_id "rna-g2737.t1_mrna"; gene_id "gene-MP843_003404"; gene_name "SHY1"
+JALMLP020000153.1	Genbank	exon	33797	33899	.	-	.	transcript_id "rna-g2737.t1_mrna"; gene_id "gene-MP843_003404"; gene_name "SHY1";
+JALMLP020000153.1	Genbank	exon	33952	34057	.	-	.	transcript_id "rna-g2737.t1_mrna"; gene_id "gene-MP843_003404"; gene_name "SHY1";
+JALMLP020000153.1	Genbank	exon	34108	34626	.	-	.	transcript_id "rna-g2737.t1_mrna"; gene_id "gene-MP843_003404"; gene_name "SHY1";
+JALMLP020000153.1	Genbank	exon	34677	34917	.	-	.	transcript_id "rna-g2737.t1_mrna"; gene_id "gene-MP843_003404"; gene_name "SHY1";
+JALMLP020000153.1	Genbank	CDS	33797	33899	.	-	1	transcript_id "rna-g2737.t1_mrna"; gene_id "gene-MP843_003404"; gene_name "SHY1";
+JALMLP020000153.1	Genbank	CDS	33952	34057	.	-	2	transcript_id "rna-g2737.t1_mrna"; gene_id "gene-MP843_003404"; gene_name "SHY1";
+JALMLP020000153.1	Genbank	CDS	34108	34626	.	-	2	transcript_id "rna-g2737.t1_mrna"; gene_id "gene-MP843_003404"; gene_name "SHY1";
+JALMLP020000153.1	Genbank	CDS	34677	34917	.	-	0	transcript_id "rna-g2737.t1_mrna"; gene_id "gene-MP843_003404"; gene_name "SHY1";
+JALMLP020000158.1	Genbank	transcript	5266	6342	.	+	.	transcript_id "rna-g2799.t1_mrna"; gene_id "gene-MP843_003660"
+JALMLP020000158.1	Genbank	exon	5266	5309	.	+	.	transcript_id "rna-g2799.t1_mrna"; gene_id "gene-MP843_003660";
+JALMLP020000158.1	Genbank	exon	5356	5649	.	+	.	transcript_id "rna-g2799.t1_mrna"; gene_id "gene-MP843_003660";
+JALMLP020000158.1	Genbank	exon	5700	6342	.	+	.	transcript_id "rna-g2799.t1_mrna"; gene_id "gene-MP843_003660";
+JALMLP020000158.1	Genbank	CDS	5266	5309	.	+	0	transcript_id "rna-g2799.t1_mrna"; gene_id "gene-MP843_003660";
+JALMLP020000158.1	Genbank	CDS	5356	5649	.	+	1	transcript_id "rna-g2799.t1_mrna"; gene_id "gene-MP843_003660";
+JALMLP020000158.1	Genbank	CDS	5700	6342	.	+	1	transcript_id "rna-g2799.t1_mrna"; gene_id "gene-MP843_003660";
+JALMLP020000174.1	Genbank	transcript	24075	26277	.	-	.	transcript_id "rna-g3037.t1_mrna"; gene_id "gene-MP843_004416"; gene_name "UTP25"
+JALMLP020000174.1	Genbank	exon	24075	25371	.	-	.	transcript_id "rna-g3037.t1_mrna"; gene_id "gene-MP843_004416"; gene_name "UTP25";
+JALMLP020000174.1	Genbank	exon	25422	26126	.	-	.	transcript_id "rna-g3037.t1_mrna"; gene_id "gene-MP843_004416"; gene_name "UTP25";
+JALMLP020000174.1	Genbank	exon	26177	26277	.	-	.	transcript_id "rna-g3037.t1_mrna"; gene_id "gene-MP843_004416"; gene_name "UTP25";
+JALMLP020000174.1	Genbank	CDS	24075	25371	.	-	1	transcript_id "rna-g3037.t1_mrna"; gene_id "gene-MP843_004416"; gene_name "UTP25";
+JALMLP020000174.1	Genbank	CDS	25422	26126	.	-	1	transcript_id "rna-g3037.t1_mrna"; gene_id "gene-MP843_004416"; gene_name "UTP25";
+JALMLP020000174.1	Genbank	CDS	26177	26277	.	-	0	transcript_id "rna-g3037.t1_mrna"; gene_id "gene-MP843_004416"; gene_name "UTP25";
+JALMLP020000174.1	Genbank	transcript	28382	29503	.	+	.	transcript_id "rna-g3038.t1_mrna"; gene_id "gene-MP843_004417"
+JALMLP020000174.1	Genbank	exon	28382	28489	.	+	.	transcript_id "rna-g3038.t1_mrna"; gene_id "gene-MP843_004417";
+JALMLP020000174.1	Genbank	exon	28538	29503	.	+	.	transcript_id "rna-g3038.t1_mrna"; gene_id "gene-MP843_004417";
+JALMLP020000174.1	Genbank	CDS	28382	28489	.	+	0	transcript_id "rna-g3038.t1_mrna"; gene_id "gene-MP843_004417";
+JALMLP020000174.1	Genbank	CDS	28538	29503	.	+	0	transcript_id "rna-g3038.t1_mrna"; gene_id "gene-MP843_004417";
+JALMLP020000176.1	Genbank	transcript	9340	10227	.	+	.	transcript_id "rna-g3063.t1_mrna"; gene_id "gene-MP843_004507"; gene_name "NSA2"
+JALMLP020000176.1	Genbank	exon	9340	9342	.	+	.	transcript_id "rna-g3063.t1_mrna"; gene_id "gene-MP843_004507"; gene_name "NSA2";
+JALMLP020000176.1	Genbank	exon	9392	9876	.	+	.	transcript_id "rna-g3063.t1_mrna"; gene_id "gene-MP843_004507"; gene_name "NSA2";
+JALMLP020000176.1	Genbank	exon	9930	10227	.	+	.	transcript_id "rna-g3063.t1_mrna"; gene_id "gene-MP843_004507"; gene_name "NSA2";
+JALMLP020000176.1	Genbank	CDS	9340	9342	.	+	0	transcript_id "rna-g3063.t1_mrna"; gene_id "gene-MP843_004507"; gene_name "NSA2";
+JALMLP020000176.1	Genbank	CDS	9392	9876	.	+	0	transcript_id "rna-g3063.t1_mrna"; gene_id "gene-MP843_004507"; gene_name "NSA2";
+JALMLP020000176.1	Genbank	CDS	9930	10227	.	+	1	transcript_id "rna-g3063.t1_mrna"; gene_id "gene-MP843_004507"; gene_name "NSA2";
+JALMLP020000180.1	Genbank	transcript	25842	27429	.	-	.	transcript_id "rna-g3139.t1_mrna"; gene_id "gene-MP843_004726"; gene_name "prp3"
+JALMLP020000180.1	Genbank	exon	25842	25866	.	-	.	transcript_id "rna-g3139.t1_mrna"; gene_id "gene-MP843_004726"; gene_name "prp3";
+JALMLP020000180.1	Genbank	exon	25913	27429	.	-	.	transcript_id "rna-g3139.t1_mrna"; gene_id "gene-MP843_004726"; gene_name "prp3";
+JALMLP020000180.1	Genbank	CDS	25842	25866	.	-	1	transcript_id "rna-g3139.t1_mrna"; gene_id "gene-MP843_004726"; gene_name "prp3";
+JALMLP020000180.1	Genbank	CDS	25913	27429	.	-	0	transcript_id "rna-g3139.t1_mrna"; gene_id "gene-MP843_004726"; gene_name "prp3";
+JALMLP020000183.1	Genbank	transcript	29993	31655	.	+	.	transcript_id "rna-g3168.t1_mrna"; gene_id "gene-MP843_004836"; gene_name "HAT1"
+JALMLP020000183.1	Genbank	exon	29993	30014	.	+	.	transcript_id "rna-g3168.t1_mrna"; gene_id "gene-MP843_004836"; gene_name "HAT1";
+JALMLP020000183.1	Genbank	exon	30192	30467	.	+	.	transcript_id "rna-g3168.t1_mrna"; gene_id "gene-MP843_004836"; gene_name "HAT1";
+JALMLP020000183.1	Genbank	exon	30514	31655	.	+	.	transcript_id "rna-g3168.t1_mrna"; gene_id "gene-MP843_004836"; gene_name "HAT1";
+JALMLP020000183.1	Genbank	CDS	29993	30014	.	+	0	transcript_id "rna-g3168.t1_mrna"; gene_id "gene-MP843_004836"; gene_name "HAT1";
+JALMLP020000183.1	Genbank	CDS	30192	30467	.	+	2	transcript_id "rna-g3168.t1_mrna"; gene_id "gene-MP843_004836"; gene_name "HAT1";
+JALMLP020000183.1	Genbank	CDS	30514	31655	.	+	2	transcript_id "rna-g3168.t1_mrna"; gene_id "gene-MP843_004836"; gene_name "HAT1";
+JALMLP020000186.1	Genbank	transcript	4104	6614	.	-	.	transcript_id "rna-g3199.t1_mrna"; gene_id "gene-MP843_004956"; gene_name "DBP6"
+JALMLP020000186.1	Genbank	exon	4104	6614	.	-	.	transcript_id "rna-g3199.t1_mrna"; gene_id "gene-MP843_004956"; gene_name "DBP6";
+JALMLP020000186.1	Genbank	CDS	4104	6614	.	-	0	transcript_id "rna-g3199.t1_mrna"; gene_id "gene-MP843_004956"; gene_name "DBP6";
+JALMLP020000195.1	Genbank	transcript	31088	33834	.	-	.	transcript_id "rna-g3327.t1_mrna"; gene_id "gene-MP843_005371"; gene_name "PWP2"
+JALMLP020000195.1	Genbank	exon	31088	33602	.	-	.	transcript_id "rna-g3327.t1_mrna"; gene_id "gene-MP843_005371"; gene_name "PWP2";
+JALMLP020000195.1	Genbank	exon	33653	33765	.	-	.	transcript_id "rna-g3327.t1_mrna"; gene_id "gene-MP843_005371"; gene_name "PWP2";
+JALMLP020000195.1	Genbank	exon	33817	33834	.	-	.	transcript_id "rna-g3327.t1_mrna"; gene_id "gene-MP843_005371"; gene_name "PWP2";
+JALMLP020000195.1	Genbank	CDS	31088	33602	.	-	1	transcript_id "rna-g3327.t1_mrna"; gene_id "gene-MP843_005371"; gene_name "PWP2";
+JALMLP020000195.1	Genbank	CDS	33653	33765	.	-	0	transcript_id "rna-g3327.t1_mrna"; gene_id "gene-MP843_005371"; gene_name "PWP2";
+JALMLP020000195.1	Genbank	CDS	33817	33834	.	-	0	transcript_id "rna-g3327.t1_mrna"; gene_id "gene-MP843_005371"; gene_name "PWP2";
+JALMLP020000196.1	Genbank	transcript	4508	6556	.	-	.	transcript_id "rna-g3334.t1_mrna"; gene_id "gene-MP843_005411"; gene_name "NOP7"
+JALMLP020000196.1	Genbank	exon	4508	6556	.	-	.	transcript_id "rna-g3334.t1_mrna"; gene_id "gene-MP843_005411"; gene_name "NOP7";
+JALMLP020000196.1	Genbank	CDS	4508	6556	.	-	0	transcript_id "rna-g3334.t1_mrna"; gene_id "gene-MP843_005411"; gene_name "NOP7";
+JALMLP020000211.1	Genbank	transcript	28663	30051	.	-	.	transcript_id "rna-g3532.t1_mrna"; gene_id "gene-MP843_006065"; gene_name "DPH1"
+JALMLP020000211.1	Genbank	exon	28663	29831	.	-	.	transcript_id "rna-g3532.t1_mrna"; gene_id "gene-MP843_006065"; gene_name "DPH1";
+JALMLP020000211.1	Genbank	exon	29880	30051	.	-	.	transcript_id "rna-g3532.t1_mrna"; gene_id "gene-MP843_006065"; gene_name "DPH1";
+JALMLP020000211.1	Genbank	CDS	28663	29831	.	-	2	transcript_id "rna-g3532.t1_mrna"; gene_id "gene-MP843_006065"; gene_name "DPH1";
+JALMLP020000211.1	Genbank	CDS	29880	30051	.	-	0	transcript_id "rna-g3532.t1_mrna"; gene_id "gene-MP843_006065"; gene_name "DPH1";
+JALMLP020000224.1	Genbank	transcript	13156	13934	.	-	.	transcript_id "rna-g3685.t1_mrna"; gene_id "gene-MP843_006523"
+JALMLP020000224.1	Genbank	exon	13156	13779	.	-	.	transcript_id "rna-g3685.t1_mrna"; gene_id "gene-MP843_006523";
+JALMLP020000224.1	Genbank	exon	13839	13934	.	-	.	transcript_id "rna-g3685.t1_mrna"; gene_id "gene-MP843_006523";
+JALMLP020000224.1	Genbank	CDS	13156	13779	.	-	0	transcript_id "rna-g3685.t1_mrna"; gene_id "gene-MP843_006523";
+JALMLP020000224.1	Genbank	CDS	13839	13934	.	-	0	transcript_id "rna-g3685.t1_mrna"; gene_id "gene-MP843_006523";
+JALMLP020000233.1	Genbank	transcript	883	2258	.	+	.	transcript_id "rna-g3786.t1_mrna"; gene_id "gene-MP843_006852"
+JALMLP020000233.1	Genbank	exon	883	1152	.	+	.	transcript_id "rna-g3786.t1_mrna"; gene_id "gene-MP843_006852";
+JALMLP020000233.1	Genbank	exon	1203	2258	.	+	.	transcript_id "rna-g3786.t1_mrna"; gene_id "gene-MP843_006852";
+JALMLP020000233.1	Genbank	CDS	883	1152	.	+	0	transcript_id "rna-g3786.t1_mrna"; gene_id "gene-MP843_006852";
+JALMLP020000233.1	Genbank	CDS	1203	2258	.	+	0	transcript_id "rna-g3786.t1_mrna"; gene_id "gene-MP843_006852";
+JALMLP020000247.1	Genbank	transcript	23325	25884	.	-	.	transcript_id "rna-g3952.t1_mrna"; gene_id "gene-MP843_007342"; gene_name "cbc1"
+JALMLP020000247.1	Genbank	exon	23325	24106	.	-	.	transcript_id "rna-g3952.t1_mrna"; gene_id "gene-MP843_007342"; gene_name "cbc1";
+JALMLP020000247.1	Genbank	exon	24156	25230	.	-	.	transcript_id "rna-g3952.t1_mrna"; gene_id "gene-MP843_007342"; gene_name "cbc1";
+JALMLP020000247.1	Genbank	exon	25285	25754	.	-	.	transcript_id "rna-g3952.t1_mrna"; gene_id "gene-MP843_007342"; gene_name "cbc1";
+JALMLP020000247.1	Genbank	exon	25812	25884	.	-	.	transcript_id "rna-g3952.t1_mrna"; gene_id "gene-MP843_007342"; gene_name "cbc1";
+JALMLP020000247.1	Genbank	CDS	23325	24106	.	-	2	transcript_id "rna-g3952.t1_mrna"; gene_id "gene-MP843_007342"; gene_name "cbc1";
+JALMLP020000247.1	Genbank	CDS	24156	25230	.	-	0	transcript_id "rna-g3952.t1_mrna"; gene_id "gene-MP843_007342"; gene_name "cbc1";
+JALMLP020000247.1	Genbank	CDS	25285	25754	.	-	2	transcript_id "rna-g3952.t1_mrna"; gene_id "gene-MP843_007342"; gene_name "cbc1";
+JALMLP020000247.1	Genbank	CDS	25812	25884	.	-	0	transcript_id "rna-g3952.t1_mrna"; gene_id "gene-MP843_007342"; gene_name "cbc1";
+JALMLP020000252.1	Genbank	transcript	1075	2047	.	+	.	transcript_id "rna-g4007.t1_mrna"; gene_id "gene-MP843_007480"
+JALMLP020000252.1	Genbank	exon	1075	1098	.	+	.	transcript_id "rna-g4007.t1_mrna"; gene_id "gene-MP843_007480";
+JALMLP020000252.1	Genbank	exon	1149	1185	.	+	.	transcript_id "rna-g4007.t1_mrna"; gene_id "gene-MP843_007480";
+JALMLP020000252.1	Genbank	exon	1395	1527	.	+	.	transcript_id "rna-g4007.t1_mrna"; gene_id "gene-MP843_007480";
+JALMLP020000252.1	Genbank	exon	1582	2047	.	+	.	transcript_id "rna-g4007.t1_mrna"; gene_id "gene-MP843_007480";
+JALMLP020000252.1	Genbank	CDS	1075	1098	.	+	0	transcript_id "rna-g4007.t1_mrna"; gene_id "gene-MP843_007480";
+JALMLP020000252.1	Genbank	CDS	1149	1185	.	+	0	transcript_id "rna-g4007.t1_mrna"; gene_id "gene-MP843_007480";
+JALMLP020000252.1	Genbank	CDS	1395	1527	.	+	2	transcript_id "rna-g4007.t1_mrna"; gene_id "gene-MP843_007480";
+JALMLP020000252.1	Genbank	CDS	1582	2047	.	+	1	transcript_id "rna-g4007.t1_mrna"; gene_id "gene-MP843_007480";
+JALMLP020000253.1	Genbank	transcript	18120	20114	.	-	.	transcript_id "rna-g4020.t1_mrna"; gene_id "gene-MP843_007512"; gene_name "srp72"
+JALMLP020000253.1	Genbank	exon	18120	19317	.	-	.	transcript_id "rna-g4020.t1_mrna"; gene_id "gene-MP843_007512"; gene_name "srp72";
+JALMLP020000253.1	Genbank	exon	19366	20114	.	-	.	transcript_id "rna-g4020.t1_mrna"; gene_id "gene-MP843_007512"; gene_name "srp72";
+JALMLP020000253.1	Genbank	CDS	18120	19317	.	-	1	transcript_id "rna-g4020.t1_mrna"; gene_id "gene-MP843_007512"; gene_name "srp72";
+JALMLP020000253.1	Genbank	CDS	19366	20114	.	-	0	transcript_id "rna-g4020.t1_mrna"; gene_id "gene-MP843_007512"; gene_name "srp72";
+JALMLP020000254.1	Genbank	transcript	27231	28720	.	+	.	transcript_id "rna-g4035.t1_mrna"; gene_id "gene-MP843_007550"
+JALMLP020000254.1	Genbank	exon	27231	27900	.	+	.	transcript_id "rna-g4035.t1_mrna"; gene_id "gene-MP843_007550";
+JALMLP020000254.1	Genbank	exon	27948	28720	.	+	.	transcript_id "rna-g4035.t1_mrna"; gene_id "gene-MP843_007550";
+JALMLP020000254.1	Genbank	CDS	27231	27900	.	+	0	transcript_id "rna-g4035.t1_mrna"; gene_id "gene-MP843_007550";
+JALMLP020000254.1	Genbank	CDS	27948	28720	.	+	2	transcript_id "rna-g4035.t1_mrna"; gene_id "gene-MP843_007550";
+JALMLP020000256.1	Genbank	transcript	25754	29012	.	+	.	transcript_id "rna-g4056.t1_mrna"; gene_id "gene-MP843_007600"; gene_name "CDC54"
+JALMLP020000256.1	Genbank	exon	25754	26084	.	+	.	transcript_id "rna-g4056.t1_mrna"; gene_id "gene-MP843_007600"; gene_name "CDC54";
+JALMLP020000256.1	Genbank	exon	26134	27042	.	+	.	transcript_id "rna-g4056.t1_mrna"; gene_id "gene-MP843_007600"; gene_name "CDC54";
+JALMLP020000256.1	Genbank	exon	27090	28357	.	+	.	transcript_id "rna-g4056.t1_mrna"; gene_id "gene-MP843_007600"; gene_name "CDC54";
+JALMLP020000256.1	Genbank	exon	28407	29012	.	+	.	transcript_id "rna-g4056.t1_mrna"; gene_id "gene-MP843_007600"; gene_name "CDC54";
+JALMLP020000256.1	Genbank	CDS	25754	26084	.	+	0	transcript_id "rna-g4056.t1_mrna"; gene_id "gene-MP843_007600"; gene_name "CDC54";
+JALMLP020000256.1	Genbank	CDS	26134	27042	.	+	2	transcript_id "rna-g4056.t1_mrna"; gene_id "gene-MP843_007600"; gene_name "CDC54";
+JALMLP020000256.1	Genbank	CDS	27090	28357	.	+	2	transcript_id "rna-g4056.t1_mrna"; gene_id "gene-MP843_007600"; gene_name "CDC54";
+JALMLP020000256.1	Genbank	CDS	28407	29012	.	+	0	transcript_id "rna-g4056.t1_mrna"; gene_id "gene-MP843_007600"; gene_name "CDC54";
+JALMLP020000260.1	Genbank	transcript	15295	16814	.	+	.	transcript_id "rna-g4097.t1_mrna"; gene_id "gene-MP843_007743"; gene_name "ENP1"
+JALMLP020000260.1	Genbank	exon	15295	15890	.	+	.	transcript_id "rna-g4097.t1_mrna"; gene_id "gene-MP843_007743"; gene_name "ENP1";
+JALMLP020000260.1	Genbank	exon	15941	16814	.	+	.	transcript_id "rna-g4097.t1_mrna"; gene_id "gene-MP843_007743"; gene_name "ENP1";
+JALMLP020000260.1	Genbank	CDS	15295	15890	.	+	0	transcript_id "rna-g4097.t1_mrna"; gene_id "gene-MP843_007743"; gene_name "ENP1";
+JALMLP020000260.1	Genbank	CDS	15941	16814	.	+	1	transcript_id "rna-g4097.t1_mrna"; gene_id "gene-MP843_007743"; gene_name "ENP1";
+JALMLP020000278.1	Genbank	transcript	19470	20668	.	-	.	transcript_id "rna-g4289.t1_mrna"; gene_id "gene-MP843_008257"; gene_name "DOM34"
+JALMLP020000278.1	Genbank	exon	19470	20537	.	-	.	transcript_id "rna-g4289.t1_mrna"; gene_id "gene-MP843_008257"; gene_name "DOM34";
+JALMLP020000278.1	Genbank	exon	20591	20668	.	-	.	transcript_id "rna-g4289.t1_mrna"; gene_id "gene-MP843_008257"; gene_name "DOM34";
+JALMLP020000278.1	Genbank	CDS	19470	20537	.	-	0	transcript_id "rna-g4289.t1_mrna"; gene_id "gene-MP843_008257"; gene_name "DOM34";
+JALMLP020000278.1	Genbank	CDS	20591	20668	.	-	0	transcript_id "rna-g4289.t1_mrna"; gene_id "gene-MP843_008257"; gene_name "DOM34";
+JALMLP020000283.1	Genbank	transcript	9826	10551	.	+	.	transcript_id "rna-g4344.t1_mrna"; gene_id "gene-MP843_008393"; gene_name "sap62"
+JALMLP020000283.1	Genbank	exon	9826	10551	.	+	.	transcript_id "rna-g4344.t1_mrna"; gene_id "gene-MP843_008393"; gene_name "sap62";
+JALMLP020000283.1	Genbank	CDS	9826	10551	.	+	0	transcript_id "rna-g4344.t1_mrna"; gene_id "gene-MP843_008393"; gene_name "sap62";
+JALMLP020000285.1	Genbank	transcript	7886	11117	.	+	.	transcript_id "rna-g4365.t1_mrna"; gene_id "gene-MP843_008447"; gene_name "VPS11"
+JALMLP020000285.1	Genbank	exon	7886	7900	.	+	.	transcript_id "rna-g4365.t1_mrna"; gene_id "gene-MP843_008447"; gene_name "VPS11";
+JALMLP020000285.1	Genbank	exon	7951	8136	.	+	.	transcript_id "rna-g4365.t1_mrna"; gene_id "gene-MP843_008447"; gene_name "VPS11";
+JALMLP020000285.1	Genbank	exon	8198	8206	.	+	.	transcript_id "rna-g4365.t1_mrna"; gene_id "gene-MP843_008447"; gene_name "VPS11";
+JALMLP020000285.1	Genbank	exon	8253	8372	.	+	.	transcript_id "rna-g4365.t1_mrna"; gene_id "gene-MP843_008447"; gene_name "VPS11";
+JALMLP020000285.1	Genbank	exon	8428	9069	.	+	.	transcript_id "rna-g4365.t1_mrna"; gene_id "gene-MP843_008447"; gene_name "VPS11";
+JALMLP020000285.1	Genbank	exon	9124	9357	.	+	.	transcript_id "rna-g4365.t1_mrna"; gene_id "gene-MP843_008447"; gene_name "VPS11";
+JALMLP020000285.1	Genbank	exon	9407	9742	.	+	.	transcript_id "rna-g4365.t1_mrna"; gene_id "gene-MP843_008447"; gene_name "VPS11";
+JALMLP020000285.1	Genbank	exon	9792	11117	.	+	.	transcript_id "rna-g4365.t1_mrna"; gene_id "gene-MP843_008447"; gene_name "VPS11";
+JALMLP020000285.1	Genbank	CDS	7886	7900	.	+	0	transcript_id "rna-g4365.t1_mrna"; gene_id "gene-MP843_008447"; gene_name "VPS11";
+JALMLP020000285.1	Genbank	CDS	7951	8136	.	+	0	transcript_id "rna-g4365.t1_mrna"; gene_id "gene-MP843_008447"; gene_name "VPS11";
+JALMLP020000285.1	Genbank	CDS	8198	8206	.	+	0	transcript_id "rna-g4365.t1_mrna"; gene_id "gene-MP843_008447"; gene_name "VPS11";
+JALMLP020000285.1	Genbank	CDS	8253	8372	.	+	0	transcript_id "rna-g4365.t1_mrna"; gene_id "gene-MP843_008447"; gene_name "VPS11";
+JALMLP020000285.1	Genbank	CDS	8428	9069	.	+	0	transcript_id "rna-g4365.t1_mrna"; gene_id "gene-MP843_008447"; gene_name "VPS11";
+JALMLP020000285.1	Genbank	CDS	9124	9357	.	+	0	transcript_id "rna-g4365.t1_mrna"; gene_id "gene-MP843_008447"; gene_name "VPS11";
+JALMLP020000285.1	Genbank	CDS	9407	9742	.	+	0	transcript_id "rna-g4365.t1_mrna"; gene_id "gene-MP843_008447"; gene_name "VPS11";
+JALMLP020000285.1	Genbank	CDS	9792	11117	.	+	0	transcript_id "rna-g4365.t1_mrna"; gene_id "gene-MP843_008447"; gene_name "VPS11";
+JALMLP020000290.1	Genbank	transcript	17329	18711	.	-	.	transcript_id "rna-g4418.t1_mrna"; gene_id "gene-MP843_008581"; gene_name "FYV10"
+JALMLP020000290.1	Genbank	exon	17329	17781	.	-	.	transcript_id "rna-g4418.t1_mrna"; gene_id "gene-MP843_008581"; gene_name "FYV10";
+JALMLP020000290.1	Genbank	exon	17829	18023	.	-	.	transcript_id "rna-g4418.t1_mrna"; gene_id "gene-MP843_008581"; gene_name "FYV10";
+JALMLP020000290.1	Genbank	exon	18075	18614	.	-	.	transcript_id "rna-g4418.t1_mrna"; gene_id "gene-MP843_008581"; gene_name "FYV10";
+JALMLP020000290.1	Genbank	exon	18661	18711	.	-	.	transcript_id "rna-g4418.t1_mrna"; gene_id "gene-MP843_008581"; gene_name "FYV10";
+JALMLP020000290.1	Genbank	CDS	17329	17781	.	-	0	transcript_id "rna-g4418.t1_mrna"; gene_id "gene-MP843_008581"; gene_name "FYV10";
+JALMLP020000290.1	Genbank	CDS	17829	18023	.	-	0	transcript_id "rna-g4418.t1_mrna"; gene_id "gene-MP843_008581"; gene_name "FYV10";
+JALMLP020000290.1	Genbank	CDS	18075	18614	.	-	0	transcript_id "rna-g4418.t1_mrna"; gene_id "gene-MP843_008581"; gene_name "FYV10";
+JALMLP020000290.1	Genbank	CDS	18661	18711	.	-	0	transcript_id "rna-g4418.t1_mrna"; gene_id "gene-MP843_008581"; gene_name "FYV10";
+JALMLP020000296.1	Genbank	transcript	5978	7468	.	+	.	transcript_id "rna-g4482.t1_mrna"; gene_id "gene-MP843_008731"; gene_name "ALG7_1"
+JALMLP020000296.1	Genbank	exon	5978	6424	.	+	.	transcript_id "rna-g4482.t1_mrna"; gene_id "gene-MP843_008731"; gene_name "ALG7_1";
+JALMLP020000296.1	Genbank	exon	6506	7468	.	+	.	transcript_id "rna-g4482.t1_mrna"; gene_id "gene-MP843_008731"; gene_name "ALG7_1";
+JALMLP020000296.1	Genbank	CDS	5978	6424	.	+	0	transcript_id "rna-g4482.t1_mrna"; gene_id "gene-MP843_008731"; gene_name "ALG7_1";
+JALMLP020000296.1	Genbank	CDS	6506	7468	.	+	0	transcript_id "rna-g4482.t1_mrna"; gene_id "gene-MP843_008731"; gene_name "ALG7_1";
+JALMLP020000341.1	Genbank	transcript	11998	13719	.	+	.	transcript_id "rna-g4886.t1_mrna"; gene_id "gene-MP843_009797"; gene_name "RRP9"
+JALMLP020000341.1	Genbank	exon	11998	13719	.	+	.	transcript_id "rna-g4886.t1_mrna"; gene_id "gene-MP843_009797"; gene_name "RRP9";
+JALMLP020000341.1	Genbank	CDS	11998	13719	.	+	0	transcript_id "rna-g4886.t1_mrna"; gene_id "gene-MP843_009797"; gene_name "RRP9";
+JALMLP020000350.1	Genbank	transcript	15049	16566	.	+	.	transcript_id "rna-g4982.t1_mrna"; gene_id "gene-MP843_009993"; gene_name "SWC4"
+JALMLP020000350.1	Genbank	exon	15049	16566	.	+	.	transcript_id "rna-g4982.t1_mrna"; gene_id "gene-MP843_009993"; gene_name "SWC4";
+JALMLP020000350.1	Genbank	CDS	15049	16566	.	+	0	transcript_id "rna-g4982.t1_mrna"; gene_id "gene-MP843_009993"; gene_name "SWC4";
+JALMLP020000352.1	Genbank	transcript	15794	18739	.	-	.	transcript_id "rna-g4995.t1_mrna"; gene_id "gene-MP843_010026"; gene_name "DIP2"
+JALMLP020000352.1	Genbank	exon	15794	18662	.	-	.	transcript_id "rna-g4995.t1_mrna"; gene_id "gene-MP843_010026"; gene_name "DIP2";
+JALMLP020000352.1	Genbank	exon	18723	18739	.	-	.	transcript_id "rna-g4995.t1_mrna"; gene_id "gene-MP843_010026"; gene_name "DIP2";
+JALMLP020000352.1	Genbank	CDS	15794	18662	.	-	1	transcript_id "rna-g4995.t1_mrna"; gene_id "gene-MP843_010026"; gene_name "DIP2";
+JALMLP020000352.1	Genbank	CDS	18723	18739	.	-	0	transcript_id "rna-g4995.t1_mrna"; gene_id "gene-MP843_010026"; gene_name "DIP2";
+JALMLP020000360.1	Genbank	transcript	1233	3221	.	+	.	transcript_id "rna-g5064.t1_mrna"; gene_id "gene-MP843_010185"; gene_name "TFB1"
+JALMLP020000360.1	Genbank	exon	1233	1380	.	+	.	transcript_id "rna-g5064.t1_mrna"; gene_id "gene-MP843_010185"; gene_name "TFB1";
+JALMLP020000360.1	Genbank	exon	1429	3221	.	+	.	transcript_id "rna-g5064.t1_mrna"; gene_id "gene-MP843_010185"; gene_name "TFB1";
+JALMLP020000360.1	Genbank	CDS	1233	1380	.	+	0	transcript_id "rna-g5064.t1_mrna"; gene_id "gene-MP843_010185"; gene_name "TFB1";
+JALMLP020000360.1	Genbank	CDS	1429	3221	.	+	2	transcript_id "rna-g5064.t1_mrna"; gene_id "gene-MP843_010185"; gene_name "TFB1";
+JALMLP020000397.1	Genbank	transcript	3040	5413	.	-	.	transcript_id "rna-g5414.t1_mrna"; gene_id "gene-MP843_010915"; gene_name "ERB1"
+JALMLP020000397.1	Genbank	exon	3040	4671	.	-	.	transcript_id "rna-g5414.t1_mrna"; gene_id "gene-MP843_010915"; gene_name "ERB1";
+JALMLP020000397.1	Genbank	exon	4727	5413	.	-	.	transcript_id "rna-g5414.t1_mrna"; gene_id "gene-MP843_010915"; gene_name "ERB1";
+JALMLP020000397.1	Genbank	CDS	3040	4671	.	-	0	transcript_id "rna-g5414.t1_mrna"; gene_id "gene-MP843_010915"; gene_name "ERB1";
+JALMLP020000397.1	Genbank	CDS	4727	5413	.	-	0	transcript_id "rna-g5414.t1_mrna"; gene_id "gene-MP843_010915"; gene_name "ERB1";
+JALMLP020000402.1	Genbank	transcript	17163	20514	.	+	.	transcript_id "rna-g5471.t1_mrna"; gene_id "gene-MP843_011018"; gene_name "MAK21"
+JALMLP020000402.1	Genbank	exon	17163	17894	.	+	.	transcript_id "rna-g5471.t1_mrna"; gene_id "gene-MP843_011018"; gene_name "MAK21";
+JALMLP020000402.1	Genbank	exon	17939	19110	.	+	.	transcript_id "rna-g5471.t1_mrna"; gene_id "gene-MP843_011018"; gene_name "MAK21";
+JALMLP020000402.1	Genbank	exon	19158	19686	.	+	.	transcript_id "rna-g5471.t1_mrna"; gene_id "gene-MP843_011018"; gene_name "MAK21";
+JALMLP020000402.1	Genbank	exon	19735	20514	.	+	.	transcript_id "rna-g5471.t1_mrna"; gene_id "gene-MP843_011018"; gene_name "MAK21";
+JALMLP020000402.1	Genbank	CDS	17163	17894	.	+	0	transcript_id "rna-g5471.t1_mrna"; gene_id "gene-MP843_011018"; gene_name "MAK21";
+JALMLP020000402.1	Genbank	CDS	17939	19110	.	+	0	transcript_id "rna-g5471.t1_mrna"; gene_id "gene-MP843_011018"; gene_name "MAK21";
+JALMLP020000402.1	Genbank	CDS	19158	19686	.	+	1	transcript_id "rna-g5471.t1_mrna"; gene_id "gene-MP843_011018"; gene_name "MAK21";
+JALMLP020000402.1	Genbank	CDS	19735	20514	.	+	0	transcript_id "rna-g5471.t1_mrna"; gene_id "gene-MP843_011018"; gene_name "MAK21";
+JALMLP020000409.1	Genbank	transcript	6322	6960	.	+	.	transcript_id "rna-g5533.t1_mrna"; gene_id "gene-MP843_011146"; gene_name "FAP7"
+JALMLP020000409.1	Genbank	exon	6322	6507	.	+	.	transcript_id "rna-g5533.t1_mrna"; gene_id "gene-MP843_011146"; gene_name "FAP7";
+JALMLP020000409.1	Genbank	exon	6557	6702	.	+	.	transcript_id "rna-g5533.t1_mrna"; gene_id "gene-MP843_011146"; gene_name "FAP7";
+JALMLP020000409.1	Genbank	exon	6759	6960	.	+	.	transcript_id "rna-g5533.t1_mrna"; gene_id "gene-MP843_011146"; gene_name "FAP7";
+JALMLP020000409.1	Genbank	CDS	6322	6507	.	+	0	transcript_id "rna-g5533.t1_mrna"; gene_id "gene-MP843_011146"; gene_name "FAP7";
+JALMLP020000409.1	Genbank	CDS	6557	6702	.	+	0	transcript_id "rna-g5533.t1_mrna"; gene_id "gene-MP843_011146"; gene_name "FAP7";
+JALMLP020000409.1	Genbank	CDS	6759	6960	.	+	1	transcript_id "rna-g5533.t1_mrna"; gene_id "gene-MP843_011146"; gene_name "FAP7";
+JALMLP020000445.1	Genbank	transcript	10286	12103	.	+	.	transcript_id "rna-g5855.t1_mrna"; gene_id "gene-MP843_011761"; gene_name "UTP18"
+JALMLP020000445.1	Genbank	exon	10286	10516	.	+	.	transcript_id "rna-g5855.t1_mrna"; gene_id "gene-MP843_011761"; gene_name "UTP18";
+JALMLP020000445.1	Genbank	exon	10637	12103	.	+	.	transcript_id "rna-g5855.t1_mrna"; gene_id "gene-MP843_011761"; gene_name "UTP18";
+JALMLP020000445.1	Genbank	CDS	10286	10516	.	+	0	transcript_id "rna-g5855.t1_mrna"; gene_id "gene-MP843_011761"; gene_name "UTP18";
+JALMLP020000445.1	Genbank	CDS	10637	12103	.	+	0	transcript_id "rna-g5855.t1_mrna"; gene_id "gene-MP843_011761"; gene_name "UTP18";
+JALMLP020000446.1	Genbank	transcript	24042	25796	.	-	.	transcript_id "rna-g5869.t1_mrna"; gene_id "gene-MP843_011797"; gene_name "ENP2"
+JALMLP020000446.1	Genbank	exon	24042	25796	.	-	.	transcript_id "rna-g5869.t1_mrna"; gene_id "gene-MP843_011797"; gene_name "ENP2";
+JALMLP020000446.1	Genbank	CDS	24042	25796	.	-	0	transcript_id "rna-g5869.t1_mrna"; gene_id "gene-MP843_011797"; gene_name "ENP2";
+JALMLP020000457.1	Genbank	transcript	5860	7838	.	-	.	transcript_id "rna-g5965.t1_mrna"; gene_id "gene-MP843_011981"
+JALMLP020000457.1	Genbank	exon	5860	5928	.	-	.	transcript_id "rna-g5965.t1_mrna"; gene_id "gene-MP843_011981";
+JALMLP020000457.1	Genbank	exon	5974	6522	.	-	.	transcript_id "rna-g5965.t1_mrna"; gene_id "gene-MP843_011981";
+JALMLP020000457.1	Genbank	exon	6573	7055	.	-	.	transcript_id "rna-g5965.t1_mrna"; gene_id "gene-MP843_011981";
+JALMLP020000457.1	Genbank	exon	7110	7838	.	-	.	transcript_id "rna-g5965.t1_mrna"; gene_id "gene-MP843_011981";
+JALMLP020000457.1	Genbank	CDS	5860	5928	.	-	0	transcript_id "rna-g5965.t1_mrna"; gene_id "gene-MP843_011981";
+JALMLP020000457.1	Genbank	CDS	5974	6522	.	-	0	transcript_id "rna-g5965.t1_mrna"; gene_id "gene-MP843_011981";
+JALMLP020000457.1	Genbank	CDS	6573	7055	.	-	0	transcript_id "rna-g5965.t1_mrna"; gene_id "gene-MP843_011981";
+JALMLP020000457.1	Genbank	CDS	7110	7838	.	-	0	transcript_id "rna-g5965.t1_mrna"; gene_id "gene-MP843_011981";
+JALMLP020000461.1	Genbank	transcript	2187	3276	.	-	.	transcript_id "rna-g5999.t1_mrna"; gene_id "gene-MP843_012040"
+JALMLP020000461.1	Genbank	exon	2187	2972	.	-	.	transcript_id "rna-g5999.t1_mrna"; gene_id "gene-MP843_012040";
+JALMLP020000461.1	Genbank	exon	3025	3122	.	-	.	transcript_id "rna-g5999.t1_mrna"; gene_id "gene-MP843_012040";
+JALMLP020000461.1	Genbank	exon	3171	3276	.	-	.	transcript_id "rna-g5999.t1_mrna"; gene_id "gene-MP843_012040";
+JALMLP020000461.1	Genbank	CDS	2187	2972	.	-	0	transcript_id "rna-g5999.t1_mrna"; gene_id "gene-MP843_012040";
+JALMLP020000461.1	Genbank	CDS	3025	3122	.	-	2	transcript_id "rna-g5999.t1_mrna"; gene_id "gene-MP843_012040";
+JALMLP020000461.1	Genbank	CDS	3171	3276	.	-	0	transcript_id "rna-g5999.t1_mrna"; gene_id "gene-MP843_012040";
+JALMLP020000527.1	Genbank	transcript	433	1384	.	+	.	transcript_id "rna-g6516.t1_mrna"; gene_id "gene-MP843_013104"; gene_name "RRP45"
+JALMLP020000527.1	Genbank	exon	433	596	.	+	.	transcript_id "rna-g6516.t1_mrna"; gene_id "gene-MP843_013104"; gene_name "RRP45";
+JALMLP020000527.1	Genbank	exon	655	1384	.	+	.	transcript_id "rna-g6516.t1_mrna"; gene_id "gene-MP843_013104"; gene_name "RRP45";
+JALMLP020000527.1	Genbank	CDS	433	596	.	+	0	transcript_id "rna-g6516.t1_mrna"; gene_id "gene-MP843_013104"; gene_name "RRP45";
+JALMLP020000527.1	Genbank	CDS	655	1384	.	+	1	transcript_id "rna-g6516.t1_mrna"; gene_id "gene-MP843_013104"; gene_name "RRP45";
+JALMLP020000547.1	Genbank	transcript	4764	5908	.	-	.	transcript_id "rna-g6674.t1_mrna"; gene_id "gene-MP843_013421"; gene_name "RRP42"
+JALMLP020000547.1	Genbank	exon	4764	5366	.	-	.	transcript_id "rna-g6674.t1_mrna"; gene_id "gene-MP843_013421"; gene_name "RRP42";
+JALMLP020000547.1	Genbank	exon	5423	5908	.	-	.	transcript_id "rna-g6674.t1_mrna"; gene_id "gene-MP843_013421"; gene_name "RRP42";
+JALMLP020000547.1	Genbank	CDS	4764	5366	.	-	0	transcript_id "rna-g6674.t1_mrna"; gene_id "gene-MP843_013421"; gene_name "RRP42";
+JALMLP020000547.1	Genbank	CDS	5423	5908	.	-	0	transcript_id "rna-g6674.t1_mrna"; gene_id "gene-MP843_013421"; gene_name "RRP42";
+JALMLP020000548.1	Genbank	transcript	20283	22937	.	+	.	transcript_id "rna-g6686.t1_mrna"; gene_id "gene-MP843_013437"; gene_name "MCM2"
+JALMLP020000548.1	Genbank	exon	20283	20287	.	+	.	transcript_id "rna-g6686.t1_mrna"; gene_id "gene-MP843_013437"; gene_name "MCM2";
+JALMLP020000548.1	Genbank	exon	20349	22680	.	+	.	transcript_id "rna-g6686.t1_mrna"; gene_id "gene-MP843_013437"; gene_name "MCM2";
+JALMLP020000548.1	Genbank	exon	22734	22937	.	+	.	transcript_id "rna-g6686.t1_mrna"; gene_id "gene-MP843_013437"; gene_name "MCM2";
+JALMLP020000548.1	Genbank	CDS	20283	20287	.	+	0	transcript_id "rna-g6686.t1_mrna"; gene_id "gene-MP843_013437"; gene_name "MCM2";
+JALMLP020000548.1	Genbank	CDS	20349	22680	.	+	1	transcript_id "rna-g6686.t1_mrna"; gene_id "gene-MP843_013437"; gene_name "MCM2";
+JALMLP020000548.1	Genbank	CDS	22734	22937	.	+	0	transcript_id "rna-g6686.t1_mrna"; gene_id "gene-MP843_013437"; gene_name "MCM2";
+JALMLP020000570.1	Genbank	transcript	5466	8066	.	+	.	transcript_id "rna-g6863.t1_mrna"; gene_id "gene-MP843_013747"; gene_name "SEC10"
+JALMLP020000570.1	Genbank	exon	5466	5688	.	+	.	transcript_id "rna-g6863.t1_mrna"; gene_id "gene-MP843_013747"; gene_name "SEC10";
+JALMLP020000570.1	Genbank	exon	5734	8066	.	+	.	transcript_id "rna-g6863.t1_mrna"; gene_id "gene-MP843_013747"; gene_name "SEC10";
+JALMLP020000570.1	Genbank	CDS	5466	5688	.	+	0	transcript_id "rna-g6863.t1_mrna"; gene_id "gene-MP843_013747"; gene_name "SEC10";
+JALMLP020000570.1	Genbank	CDS	5734	8066	.	+	2	transcript_id "rna-g6863.t1_mrna"; gene_id "gene-MP843_013747"; gene_name "SEC10";
+JALMLP020000589.1	Genbank	transcript	12702	15281	.	+	.	transcript_id "rna-g7033.t1_mrna"; gene_id "gene-MP843_014037"; gene_name "MAK10"
+JALMLP020000589.1	Genbank	exon	12702	12735	.	+	.	transcript_id "rna-g7033.t1_mrna"; gene_id "gene-MP843_014037"; gene_name "MAK10";
+JALMLP020000589.1	Genbank	exon	12784	12924	.	+	.	transcript_id "rna-g7033.t1_mrna"; gene_id "gene-MP843_014037"; gene_name "MAK10";
+JALMLP020000589.1	Genbank	exon	12975	13042	.	+	.	transcript_id "rna-g7033.t1_mrna"; gene_id "gene-MP843_014037"; gene_name "MAK10";
+JALMLP020000589.1	Genbank	exon	13090	13218	.	+	.	transcript_id "rna-g7033.t1_mrna"; gene_id "gene-MP843_014037"; gene_name "MAK10";
+JALMLP020000589.1	Genbank	exon	13270	13500	.	+	.	transcript_id "rna-g7033.t1_mrna"; gene_id "gene-MP843_014037"; gene_name "MAK10";
+JALMLP020000589.1	Genbank	exon	13555	14007	.	+	.	transcript_id "rna-g7033.t1_mrna"; gene_id "gene-MP843_014037"; gene_name "MAK10";
+JALMLP020000589.1	Genbank	exon	14055	15281	.	+	.	transcript_id "rna-g7033.t1_mrna"; gene_id "gene-MP843_014037"; gene_name "MAK10";
+JALMLP020000589.1	Genbank	CDS	12702	12735	.	+	0	transcript_id "rna-g7033.t1_mrna"; gene_id "gene-MP843_014037"; gene_name "MAK10";
+JALMLP020000589.1	Genbank	CDS	12784	12924	.	+	2	transcript_id "rna-g7033.t1_mrna"; gene_id "gene-MP843_014037"; gene_name "MAK10";
+JALMLP020000589.1	Genbank	CDS	12975	13042	.	+	2	transcript_id "rna-g7033.t1_mrna"; gene_id "gene-MP843_014037"; gene_name "MAK10";
+JALMLP020000589.1	Genbank	CDS	13090	13218	.	+	0	transcript_id "rna-g7033.t1_mrna"; gene_id "gene-MP843_014037"; gene_name "MAK10";
+JALMLP020000589.1	Genbank	CDS	13270	13500	.	+	0	transcript_id "rna-g7033.t1_mrna"; gene_id "gene-MP843_014037"; gene_name "MAK10";
+JALMLP020000589.1	Genbank	CDS	13555	14007	.	+	0	transcript_id "rna-g7033.t1_mrna"; gene_id "gene-MP843_014037"; gene_name "MAK10";
+JALMLP020000589.1	Genbank	CDS	14055	15281	.	+	0	transcript_id "rna-g7033.t1_mrna"; gene_id "gene-MP843_014037"; gene_name "MAK10";
+JALMLP020000597.1	Genbank	transcript	10901	11521	.	+	.	transcript_id "rna-g7085.t1_mrna"; gene_id "gene-MP843_014175"; gene_name "imp3"
+JALMLP020000597.1	Genbank	exon	10901	11056	.	+	.	transcript_id "rna-g7085.t1_mrna"; gene_id "gene-MP843_014175"; gene_name "imp3";
+JALMLP020000597.1	Genbank	exon	11117	11521	.	+	.	transcript_id "rna-g7085.t1_mrna"; gene_id "gene-MP843_014175"; gene_name "imp3";
+JALMLP020000597.1	Genbank	CDS	10901	11056	.	+	0	transcript_id "rna-g7085.t1_mrna"; gene_id "gene-MP843_014175"; gene_name "imp3";
+JALMLP020000597.1	Genbank	CDS	11117	11521	.	+	0	transcript_id "rna-g7085.t1_mrna"; gene_id "gene-MP843_014175"; gene_name "imp3";
+JALMLP020000610.1	Genbank	transcript	10359	11906	.	-	.	transcript_id "rna-g7182.t1_mrna"; gene_id "gene-MP843_014349"
+JALMLP020000610.1	Genbank	exon	10359	10439	.	-	.	transcript_id "rna-g7182.t1_mrna"; gene_id "gene-MP843_014349";
+JALMLP020000610.1	Genbank	exon	10507	11544	.	-	.	transcript_id "rna-g7182.t1_mrna"; gene_id "gene-MP843_014349";
+JALMLP020000610.1	Genbank	exon	11598	11906	.	-	.	transcript_id "rna-g7182.t1_mrna"; gene_id "gene-MP843_014349";
+JALMLP020000610.1	Genbank	CDS	10359	10439	.	-	0	transcript_id "rna-g7182.t1_mrna"; gene_id "gene-MP843_014349";
+JALMLP020000610.1	Genbank	CDS	10507	11544	.	-	0	transcript_id "rna-g7182.t1_mrna"; gene_id "gene-MP843_014349";
+JALMLP020000610.1	Genbank	CDS	11598	11906	.	-	0	transcript_id "rna-g7182.t1_mrna"; gene_id "gene-MP843_014349";
+JALMLP020000625.1	Genbank	transcript	17204	18194	.	+	.	transcript_id "rna-g7293.t1_mrna"; gene_id "gene-MP843_014560"; gene_name "TMA22"
+JALMLP020000625.1	Genbank	exon	17204	17273	.	+	.	transcript_id "rna-g7293.t1_mrna"; gene_id "gene-MP843_014560"; gene_name "TMA22";
+JALMLP020000625.1	Genbank	exon	17336	17355	.	+	.	transcript_id "rna-g7293.t1_mrna"; gene_id "gene-MP843_014560"; gene_name "TMA22";
+JALMLP020000625.1	Genbank	exon	17407	17494	.	+	.	transcript_id "rna-g7293.t1_mrna"; gene_id "gene-MP843_014560"; gene_name "TMA22";
+JALMLP020000625.1	Genbank	exon	17575	17735	.	+	.	transcript_id "rna-g7293.t1_mrna"; gene_id "gene-MP843_014560"; gene_name "TMA22";
+JALMLP020000625.1	Genbank	exon	17949	18194	.	+	.	transcript_id "rna-g7293.t1_mrna"; gene_id "gene-MP843_014560"; gene_name "TMA22";
+JALMLP020000625.1	Genbank	CDS	17204	17273	.	+	0	transcript_id "rna-g7293.t1_mrna"; gene_id "gene-MP843_014560"; gene_name "TMA22";
+JALMLP020000625.1	Genbank	CDS	17336	17355	.	+	2	transcript_id "rna-g7293.t1_mrna"; gene_id "gene-MP843_014560"; gene_name "TMA22";
+JALMLP020000625.1	Genbank	CDS	17407	17494	.	+	0	transcript_id "rna-g7293.t1_mrna"; gene_id "gene-MP843_014560"; gene_name "TMA22";
+JALMLP020000625.1	Genbank	CDS	17575	17735	.	+	2	transcript_id "rna-g7293.t1_mrna"; gene_id "gene-MP843_014560"; gene_name "TMA22";
+JALMLP020000625.1	Genbank	CDS	17949	18194	.	+	0	transcript_id "rna-g7293.t1_mrna"; gene_id "gene-MP843_014560"; gene_name "TMA22";
+JALMLP020000719.1	Genbank	transcript	11344	12523	.	-	.	transcript_id "rna-g7966.t1_mrna"; gene_id "gene-MP843_015734"; gene_name "ATG3"
+JALMLP020000719.1	Genbank	exon	11344	11397	.	-	.	transcript_id "rna-g7966.t1_mrna"; gene_id "gene-MP843_015734"; gene_name "ATG3";
+JALMLP020000719.1	Genbank	exon	11444	11948	.	-	.	transcript_id "rna-g7966.t1_mrna"; gene_id "gene-MP843_015734"; gene_name "ATG3";
+JALMLP020000719.1	Genbank	exon	12000	12523	.	-	.	transcript_id "rna-g7966.t1_mrna"; gene_id "gene-MP843_015734"; gene_name "ATG3";
+JALMLP020000719.1	Genbank	CDS	11344	11397	.	-	0	transcript_id "rna-g7966.t1_mrna"; gene_id "gene-MP843_015734"; gene_name "ATG3";
+JALMLP020000719.1	Genbank	CDS	11444	11948	.	-	1	transcript_id "rna-g7966.t1_mrna"; gene_id "gene-MP843_015734"; gene_name "ATG3";
+JALMLP020000719.1	Genbank	CDS	12000	12523	.	-	0	transcript_id "rna-g7966.t1_mrna"; gene_id "gene-MP843_015734"; gene_name "ATG3";
+JALMLP020000726.1	Genbank	transcript	12492	13379	.	-	.	transcript_id "rna-g8003.t1_mrna"; gene_id "gene-MP843_015800"
+JALMLP020000726.1	Genbank	exon	12492	13379	.	-	.	transcript_id "rna-g8003.t1_mrna"; gene_id "gene-MP843_015800";
+JALMLP020000726.1	Genbank	CDS	12492	13379	.	-	0	transcript_id "rna-g8003.t1_mrna"; gene_id "gene-MP843_015800";
+JALMLP020000746.1	Genbank	transcript	7818	8729	.	-	.	transcript_id "rna-g8138.t1_mrna"; gene_id "gene-MP843_015964"; gene_name "DRE2"
+JALMLP020000746.1	Genbank	exon	7818	8125	.	-	.	transcript_id "rna-g8138.t1_mrna"; gene_id "gene-MP843_015964"; gene_name "DRE2";
+JALMLP020000746.1	Genbank	exon	8177	8729	.	-	.	transcript_id "rna-g8138.t1_mrna"; gene_id "gene-MP843_015964"; gene_name "DRE2";
+JALMLP020000746.1	Genbank	CDS	7818	8125	.	-	2	transcript_id "rna-g8138.t1_mrna"; gene_id "gene-MP843_015964"; gene_name "DRE2";
+JALMLP020000746.1	Genbank	CDS	8177	8729	.	-	0	transcript_id "rna-g8138.t1_mrna"; gene_id "gene-MP843_015964"; gene_name "DRE2";
+JALMLP020000761.1	Genbank	transcript	5078	6611	.	+	.	transcript_id "rna-g8243.t1_mrna"; gene_id "gene-MP843_016087"; gene_name "MSW1"
+JALMLP020000761.1	Genbank	exon	5078	5354	.	+	.	transcript_id "rna-g8243.t1_mrna"; gene_id "gene-MP843_016087"; gene_name "MSW1";
+JALMLP020000761.1	Genbank	exon	5446	5558	.	+	.	transcript_id "rna-g8243.t1_mrna"; gene_id "gene-MP843_016087"; gene_name "MSW1";
+JALMLP020000761.1	Genbank	exon	5669	5749	.	+	.	transcript_id "rna-g8243.t1_mrna"; gene_id "gene-MP843_016087"; gene_name "MSW1";
+JALMLP020000761.1	Genbank	exon	5823	5938	.	+	.	transcript_id "rna-g8243.t1_mrna"; gene_id "gene-MP843_016087"; gene_name "MSW1";
+JALMLP020000761.1	Genbank	exon	5988	6106	.	+	.	transcript_id "rna-g8243.t1_mrna"; gene_id "gene-MP843_016087"; gene_name "MSW1";
+JALMLP020000761.1	Genbank	exon	6157	6611	.	+	.	transcript_id "rna-g8243.t1_mrna"; gene_id "gene-MP843_016087"; gene_name "MSW1";
+JALMLP020000761.1	Genbank	CDS	5078	5354	.	+	0	transcript_id "rna-g8243.t1_mrna"; gene_id "gene-MP843_016087"; gene_name "MSW1";
+JALMLP020000761.1	Genbank	CDS	5446	5558	.	+	2	transcript_id "rna-g8243.t1_mrna"; gene_id "gene-MP843_016087"; gene_name "MSW1";
+JALMLP020000761.1	Genbank	CDS	5669	5749	.	+	0	transcript_id "rna-g8243.t1_mrna"; gene_id "gene-MP843_016087"; gene_name "MSW1";
+JALMLP020000761.1	Genbank	CDS	5823	5938	.	+	0	transcript_id "rna-g8243.t1_mrna"; gene_id "gene-MP843_016087"; gene_name "MSW1";
+JALMLP020000761.1	Genbank	CDS	5988	6106	.	+	1	transcript_id "rna-g8243.t1_mrna"; gene_id "gene-MP843_016087"; gene_name "MSW1";
+JALMLP020000761.1	Genbank	CDS	6157	6611	.	+	2	transcript_id "rna-g8243.t1_mrna"; gene_id "gene-MP843_016087"; gene_name "MSW1";
+JALMLP020000769.1	Genbank	transcript	3981	5180	.	-	.	transcript_id "rna-g8292.t1_mrna"; gene_id "gene-MP843_016153"
+JALMLP020000769.1	Genbank	exon	3981	5071	.	-	.	transcript_id "rna-g8292.t1_mrna"; gene_id "gene-MP843_016153";
+JALMLP020000769.1	Genbank	exon	5120	5180	.	-	.	transcript_id "rna-g8292.t1_mrna"; gene_id "gene-MP843_016153";
+JALMLP020000769.1	Genbank	CDS	3981	5071	.	-	2	transcript_id "rna-g8292.t1_mrna"; gene_id "gene-MP843_016153";
+JALMLP020000769.1	Genbank	CDS	5120	5180	.	-	0	transcript_id "rna-g8292.t1_mrna"; gene_id "gene-MP843_016153";
+JALMLP020000790.1	Genbank	transcript	11079	11569	.	+	.	transcript_id "rna-g8412.t1_mrna"; gene_id "gene-MP843_016303"; gene_name "SPT4"
+JALMLP020000790.1	Genbank	exon	11079	11159	.	+	.	transcript_id "rna-g8412.t1_mrna"; gene_id "gene-MP843_016303"; gene_name "SPT4";
+JALMLP020000790.1	Genbank	exon	11232	11485	.	+	.	transcript_id "rna-g8412.t1_mrna"; gene_id "gene-MP843_016303"; gene_name "SPT4";
+JALMLP020000790.1	Genbank	exon	11539	11569	.	+	.	transcript_id "rna-g8412.t1_mrna"; gene_id "gene-MP843_016303"; gene_name "SPT4";
+JALMLP020000790.1	Genbank	CDS	11079	11159	.	+	0	transcript_id "rna-g8412.t1_mrna"; gene_id "gene-MP843_016303"; gene_name "SPT4";
+JALMLP020000790.1	Genbank	CDS	11232	11485	.	+	0	transcript_id "rna-g8412.t1_mrna"; gene_id "gene-MP843_016303"; gene_name "SPT4";
+JALMLP020000790.1	Genbank	CDS	11539	11569	.	+	1	transcript_id "rna-g8412.t1_mrna"; gene_id "gene-MP843_016303"; gene_name "SPT4";
+JALMLP020000800.1	Genbank	transcript	7732	9799	.	+	.	transcript_id "rna-g8466.t1_mrna"; gene_id "gene-MP843_016396"; gene_name "RRN3"
+JALMLP020000800.1	Genbank	exon	7732	8314	.	+	.	transcript_id "rna-g8466.t1_mrna"; gene_id "gene-MP843_016396"; gene_name "RRN3";
+JALMLP020000800.1	Genbank	exon	8373	9799	.	+	.	transcript_id "rna-g8466.t1_mrna"; gene_id "gene-MP843_016396"; gene_name "RRN3";
+JALMLP020000800.1	Genbank	CDS	7732	8314	.	+	0	transcript_id "rna-g8466.t1_mrna"; gene_id "gene-MP843_016396"; gene_name "RRN3";
+JALMLP020000800.1	Genbank	CDS	8373	9799	.	+	2	transcript_id "rna-g8466.t1_mrna"; gene_id "gene-MP843_016396"; gene_name "RRN3";
+JALMLP020000803.1	Genbank	transcript	8537	9409	.	-	.	transcript_id "rna-g8489.t1_mrna"; gene_id "gene-MP843_016434"; gene_name "COX11"
+JALMLP020000803.1	Genbank	exon	8537	8580	.	-	.	transcript_id "rna-g8489.t1_mrna"; gene_id "gene-MP843_016434"; gene_name "COX11";
+JALMLP020000803.1	Genbank	exon	8631	9084	.	-	.	transcript_id "rna-g8489.t1_mrna"; gene_id "gene-MP843_016434"; gene_name "COX11";
+JALMLP020000803.1	Genbank	exon	9134	9409	.	-	.	transcript_id "rna-g8489.t1_mrna"; gene_id "gene-MP843_016434"; gene_name "COX11";
+JALMLP020000803.1	Genbank	CDS	8537	8580	.	-	2	transcript_id "rna-g8489.t1_mrna"; gene_id "gene-MP843_016434"; gene_name "COX11";
+JALMLP020000803.1	Genbank	CDS	8631	9084	.	-	0	transcript_id "rna-g8489.t1_mrna"; gene_id "gene-MP843_016434"; gene_name "COX11";
+JALMLP020000803.1	Genbank	CDS	9134	9409	.	-	0	transcript_id "rna-g8489.t1_mrna"; gene_id "gene-MP843_016434"; gene_name "COX11";
+JALMLP020000804.1	Genbank	transcript	7792	8716	.	-	.	transcript_id "rna-g8495.t1_mrna"; gene_id "gene-MP843_016440"; gene_name "DPH5"
+JALMLP020000804.1	Genbank	exon	7792	8529	.	-	.	transcript_id "rna-g8495.t1_mrna"; gene_id "gene-MP843_016440"; gene_name "DPH5";
+JALMLP020000804.1	Genbank	exon	8582	8716	.	-	.	transcript_id "rna-g8495.t1_mrna"; gene_id "gene-MP843_016440"; gene_name "DPH5";
+JALMLP020000804.1	Genbank	CDS	7792	8529	.	-	0	transcript_id "rna-g8495.t1_mrna"; gene_id "gene-MP843_016440"; gene_name "DPH5";
+JALMLP020000804.1	Genbank	CDS	8582	8716	.	-	0	transcript_id "rna-g8495.t1_mrna"; gene_id "gene-MP843_016440"; gene_name "DPH5";
+JALMLP020000804.1	Genbank	transcript	11541	12245	.	-	.	transcript_id "rna-g8496.t1_mrna"; gene_id "gene-MP843_016441"; gene_name "SNU23"
+JALMLP020000804.1	Genbank	exon	11541	12245	.	-	.	transcript_id "rna-g8496.t1_mrna"; gene_id "gene-MP843_016441"; gene_name "SNU23";
+JALMLP020000804.1	Genbank	CDS	11541	12245	.	-	0	transcript_id "rna-g8496.t1_mrna"; gene_id "gene-MP843_016441"; gene_name "SNU23";
+JALMLP020000816.1	Genbank	transcript	11410	12258	.	-	.	transcript_id "rna-g8566.t1_mrna"; gene_id "gene-MP843_016522"; gene_name "ISY1"
+JALMLP020000816.1	Genbank	exon	11410	11770	.	-	.	transcript_id "rna-g8566.t1_mrna"; gene_id "gene-MP843_016522"; gene_name "ISY1";
+JALMLP020000816.1	Genbank	exon	11828	12201	.	-	.	transcript_id "rna-g8566.t1_mrna"; gene_id "gene-MP843_016522"; gene_name "ISY1";
+JALMLP020000816.1	Genbank	exon	12256	12258	.	-	.	transcript_id "rna-g8566.t1_mrna"; gene_id "gene-MP843_016522"; gene_name "ISY1";
+JALMLP020000816.1	Genbank	CDS	11410	11770	.	-	1	transcript_id "rna-g8566.t1_mrna"; gene_id "gene-MP843_016522"; gene_name "ISY1";
+JALMLP020000816.1	Genbank	CDS	11828	12201	.	-	0	transcript_id "rna-g8566.t1_mrna"; gene_id "gene-MP843_016522"; gene_name "ISY1";
+JALMLP020000816.1	Genbank	CDS	12256	12258	.	-	0	transcript_id "rna-g8566.t1_mrna"; gene_id "gene-MP843_016522"; gene_name "ISY1";
+JALMLP020000861.1	Genbank	transcript	1931	3125	.	-	.	transcript_id "rna-g8849.t1_mrna"; gene_id "gene-MP843_016896"
+JALMLP020000861.1	Genbank	exon	1931	2495	.	-	.	transcript_id "rna-g8849.t1_mrna"; gene_id "gene-MP843_016896";
+JALMLP020000861.1	Genbank	exon	2544	3022	.	-	.	transcript_id "rna-g8849.t1_mrna"; gene_id "gene-MP843_016896";
+JALMLP020000861.1	Genbank	exon	3069	3125	.	-	.	transcript_id "rna-g8849.t1_mrna"; gene_id "gene-MP843_016896";
+JALMLP020000861.1	Genbank	CDS	1931	2495	.	-	1	transcript_id "rna-g8849.t1_mrna"; gene_id "gene-MP843_016896";
+JALMLP020000861.1	Genbank	CDS	2544	3022	.	-	0	transcript_id "rna-g8849.t1_mrna"; gene_id "gene-MP843_016896";
+JALMLP020000861.1	Genbank	CDS	3069	3125	.	-	0	transcript_id "rna-g8849.t1_mrna"; gene_id "gene-MP843_016896";
+JALMLP020000864.1	Genbank	transcript	786	1803	.	+	.	transcript_id "rna-g8866.t1_mrna"; gene_id "gene-MP843_016913"; gene_name "MED6"
+JALMLP020000864.1	Genbank	exon	786	1217	.	+	.	transcript_id "rna-g8866.t1_mrna"; gene_id "gene-MP843_016913"; gene_name "MED6";
+JALMLP020000864.1	Genbank	exon	1267	1803	.	+	.	transcript_id "rna-g8866.t1_mrna"; gene_id "gene-MP843_016913"; gene_name "MED6";
+JALMLP020000864.1	Genbank	CDS	786	1217	.	+	0	transcript_id "rna-g8866.t1_mrna"; gene_id "gene-MP843_016913"; gene_name "MED6";
+JALMLP020000864.1	Genbank	CDS	1267	1803	.	+	0	transcript_id "rna-g8866.t1_mrna"; gene_id "gene-MP843_016913"; gene_name "MED6";
+JALMLP020000871.1	Genbank	transcript	395	2185	.	+	.	transcript_id "rna-g8910.t1_mrna"; gene_id "gene-MP843_016975"; gene_name "cdc1"
+JALMLP020000871.1	Genbank	exon	395	438	.	+	.	transcript_id "rna-g8910.t1_mrna"; gene_id "gene-MP843_016975"; gene_name "cdc1";
+JALMLP020000871.1	Genbank	exon	485	1743	.	+	.	transcript_id "rna-g8910.t1_mrna"; gene_id "gene-MP843_016975"; gene_name "cdc1";
+JALMLP020000871.1	Genbank	exon	1965	2185	.	+	.	transcript_id "rna-g8910.t1_mrna"; gene_id "gene-MP843_016975"; gene_name "cdc1";
+JALMLP020000871.1	Genbank	CDS	395	438	.	+	0	transcript_id "rna-g8910.t1_mrna"; gene_id "gene-MP843_016975"; gene_name "cdc1";
+JALMLP020000871.1	Genbank	CDS	485	1743	.	+	1	transcript_id "rna-g8910.t1_mrna"; gene_id "gene-MP843_016975"; gene_name "cdc1";
+JALMLP020000871.1	Genbank	CDS	1965	2185	.	+	2	transcript_id "rna-g8910.t1_mrna"; gene_id "gene-MP843_016975"; gene_name "cdc1";
+JALMLP020000893.1	Genbank	transcript	12396	13907	.	+	.	transcript_id "rna-g9049.t1_mrna"; gene_id "gene-MP843_017170"
+JALMLP020000893.1	Genbank	exon	12396	12609	.	+	.	transcript_id "rna-g9049.t1_mrna"; gene_id "gene-MP843_017170";
+JALMLP020000893.1	Genbank	exon	12660	12873	.	+	.	transcript_id "rna-g9049.t1_mrna"; gene_id "gene-MP843_017170";
+JALMLP020000893.1	Genbank	exon	12929	13907	.	+	.	transcript_id "rna-g9049.t1_mrna"; gene_id "gene-MP843_017170";
+JALMLP020000893.1	Genbank	CDS	12396	12609	.	+	0	transcript_id "rna-g9049.t1_mrna"; gene_id "gene-MP843_017170";
+JALMLP020000893.1	Genbank	CDS	12660	12873	.	+	2	transcript_id "rna-g9049.t1_mrna"; gene_id "gene-MP843_017170";
+JALMLP020000893.1	Genbank	CDS	12929	13907	.	+	1	transcript_id "rna-g9049.t1_mrna"; gene_id "gene-MP843_017170";
+JALMLP020000960.1	Genbank	transcript	7392	8117	.	+	.	transcript_id "rna-g9421.t1_mrna"; gene_id "gene-MP843_017642"; gene_name "GIR2"
+JALMLP020000960.1	Genbank	exon	7392	7458	.	+	.	transcript_id "rna-g9421.t1_mrna"; gene_id "gene-MP843_017642"; gene_name "GIR2";
+JALMLP020000960.1	Genbank	exon	7516	8117	.	+	.	transcript_id "rna-g9421.t1_mrna"; gene_id "gene-MP843_017642"; gene_name "GIR2";
+JALMLP020000960.1	Genbank	CDS	7392	7458	.	+	0	transcript_id "rna-g9421.t1_mrna"; gene_id "gene-MP843_017642"; gene_name "GIR2";
+JALMLP020000960.1	Genbank	CDS	7516	8117	.	+	2	transcript_id "rna-g9421.t1_mrna"; gene_id "gene-MP843_017642"; gene_name "GIR2";
+JALMLP020000981.1	Genbank	transcript	3762	6027	.	+	.	transcript_id "rna-g9548.t1_mrna"; gene_id "gene-MP843_017780"; gene_name "MPP10"
+JALMLP020000981.1	Genbank	exon	3762	4284	.	+	.	transcript_id "rna-g9548.t1_mrna"; gene_id "gene-MP843_017780"; gene_name "MPP10";
+JALMLP020000981.1	Genbank	exon	4337	6027	.	+	.	transcript_id "rna-g9548.t1_mrna"; gene_id "gene-MP843_017780"; gene_name "MPP10";
+JALMLP020000981.1	Genbank	CDS	3762	4284	.	+	0	transcript_id "rna-g9548.t1_mrna"; gene_id "gene-MP843_017780"; gene_name "MPP10";
+JALMLP020000981.1	Genbank	CDS	4337	6027	.	+	2	transcript_id "rna-g9548.t1_mrna"; gene_id "gene-MP843_017780"; gene_name "MPP10";
+JALMLP020000991.1	Genbank	transcript	3188	5212	.	-	.	transcript_id "rna-g9600.t1_mrna"; gene_id "gene-MP843_000106"
+JALMLP020000991.1	Genbank	exon	3188	5212	.	-	.	transcript_id "rna-g9600.t1_mrna"; gene_id "gene-MP843_000106";
+JALMLP020000991.1	Genbank	CDS	3188	5212	.	-	0	transcript_id "rna-g9600.t1_mrna"; gene_id "gene-MP843_000106";
+JALMLP020001005.1	Genbank	transcript	2134	4070	.	-	.	transcript_id "rna-g9688.t1_mrna"; gene_id "gene-MP843_000221"; gene_name "FRS1"
+JALMLP020001005.1	Genbank	exon	2134	2179	.	-	.	transcript_id "rna-g9688.t1_mrna"; gene_id "gene-MP843_000221"; gene_name "FRS1";
+JALMLP020001005.1	Genbank	exon	2232	3962	.	-	.	transcript_id "rna-g9688.t1_mrna"; gene_id "gene-MP843_000221"; gene_name "FRS1";
+JALMLP020001005.1	Genbank	exon	4018	4070	.	-	.	transcript_id "rna-g9688.t1_mrna"; gene_id "gene-MP843_000221"; gene_name "FRS1";
+JALMLP020001005.1	Genbank	CDS	2134	2179	.	-	1	transcript_id "rna-g9688.t1_mrna"; gene_id "gene-MP843_000221"; gene_name "FRS1";
+JALMLP020001005.1	Genbank	CDS	2232	3962	.	-	1	transcript_id "rna-g9688.t1_mrna"; gene_id "gene-MP843_000221"; gene_name "FRS1";
+JALMLP020001005.1	Genbank	CDS	4018	4070	.	-	0	transcript_id "rna-g9688.t1_mrna"; gene_id "gene-MP843_000221"; gene_name "FRS1";
+JALMLP020001058.1	Genbank	transcript	3638	4996	.	-	.	transcript_id "rna-g9973.t1_mrna"; gene_id "gene-MP843_000572"; gene_name "GCV1"
+JALMLP020001058.1	Genbank	exon	3638	4996	.	-	.	transcript_id "rna-g9973.t1_mrna"; gene_id "gene-MP843_000572"; gene_name "GCV1";
+JALMLP020001058.1	Genbank	CDS	3638	4996	.	-	0	transcript_id "rna-g9973.t1_mrna"; gene_id "gene-MP843_000572"; gene_name "GCV1";
+JALMLP020001060.1	Genbank	transcript	9525	10540	.	+	.	transcript_id "rna-g9982.t1_mrna"; gene_id "gene-MP843_000581"; gene_name "LIA1"
+JALMLP020001060.1	Genbank	exon	9525	9994	.	+	.	transcript_id "rna-g9982.t1_mrna"; gene_id "gene-MP843_000581"; gene_name "LIA1";
+JALMLP020001060.1	Genbank	exon	10042	10540	.	+	.	transcript_id "rna-g9982.t1_mrna"; gene_id "gene-MP843_000581"; gene_name "LIA1";
+JALMLP020001060.1	Genbank	CDS	9525	9994	.	+	0	transcript_id "rna-g9982.t1_mrna"; gene_id "gene-MP843_000581"; gene_name "LIA1";
+JALMLP020001060.1	Genbank	CDS	10042	10540	.	+	1	transcript_id "rna-g9982.t1_mrna"; gene_id "gene-MP843_000581"; gene_name "LIA1";
+JALMLP020001064.1	Genbank	transcript	12394	14463	.	-	.	transcript_id "rna-g10005.t1_mrna"; gene_id "gene-MP843_000604"; gene_name "ESF1"
+JALMLP020001064.1	Genbank	exon	12394	14463	.	-	.	transcript_id "rna-g10005.t1_mrna"; gene_id "gene-MP843_000604"; gene_name "ESF1";
+JALMLP020001064.1	Genbank	CDS	12394	14463	.	-	0	transcript_id "rna-g10005.t1_mrna"; gene_id "gene-MP843_000604"; gene_name "ESF1";
+JALMLP020001075.1	Genbank	transcript	12334	13476	.	-	.	transcript_id "rna-g10053.t1_mrna"; gene_id "gene-MP843_000680"; gene_name "CAB2"
+JALMLP020001075.1	Genbank	exon	12334	13476	.	-	.	transcript_id "rna-g10053.t1_mrna"; gene_id "gene-MP843_000680"; gene_name "CAB2";
+JALMLP020001075.1	Genbank	CDS	12334	13476	.	-	0	transcript_id "rna-g10053.t1_mrna"; gene_id "gene-MP843_000680"; gene_name "CAB2";
+JALMLP020001093.1	Genbank	transcript	8504	10643	.	-	.	transcript_id "rna-g10139.t1_mrna"; gene_id "gene-MP843_000811"; gene_name "COG6"
+JALMLP020001093.1	Genbank	exon	8504	10306	.	-	.	transcript_id "rna-g10139.t1_mrna"; gene_id "gene-MP843_000811"; gene_name "COG6";
+JALMLP020001093.1	Genbank	exon	10362	10643	.	-	.	transcript_id "rna-g10139.t1_mrna"; gene_id "gene-MP843_000811"; gene_name "COG6";
+JALMLP020001093.1	Genbank	CDS	8504	10306	.	-	0	transcript_id "rna-g10139.t1_mrna"; gene_id "gene-MP843_000811"; gene_name "COG6";
+JALMLP020001093.1	Genbank	CDS	10362	10643	.	-	0	transcript_id "rna-g10139.t1_mrna"; gene_id "gene-MP843_000811"; gene_name "COG6";
+JALMLP020001121.1	Genbank	transcript	3470	5206	.	+	.	transcript_id "rna-g10282.t1_mrna"; gene_id "gene-MP843_000991"
+JALMLP020001121.1	Genbank	exon	3470	3573	.	+	.	transcript_id "rna-g10282.t1_mrna"; gene_id "gene-MP843_000991";
+JALMLP020001121.1	Genbank	exon	3626	3716	.	+	.	transcript_id "rna-g10282.t1_mrna"; gene_id "gene-MP843_000991";
+JALMLP020001121.1	Genbank	exon	3771	3935	.	+	.	transcript_id "rna-g10282.t1_mrna"; gene_id "gene-MP843_000991";
+JALMLP020001121.1	Genbank	exon	3983	5089	.	+	.	transcript_id "rna-g10282.t1_mrna"; gene_id "gene-MP843_000991";
+JALMLP020001121.1	Genbank	exon	5174	5206	.	+	.	transcript_id "rna-g10282.t1_mrna"; gene_id "gene-MP843_000991";
+JALMLP020001121.1	Genbank	CDS	3470	3573	.	+	0	transcript_id "rna-g10282.t1_mrna"; gene_id "gene-MP843_000991";
+JALMLP020001121.1	Genbank	CDS	3626	3716	.	+	1	transcript_id "rna-g10282.t1_mrna"; gene_id "gene-MP843_000991";
+JALMLP020001121.1	Genbank	CDS	3771	3935	.	+	0	transcript_id "rna-g10282.t1_mrna"; gene_id "gene-MP843_000991";
+JALMLP020001121.1	Genbank	CDS	3983	5089	.	+	0	transcript_id "rna-g10282.t1_mrna"; gene_id "gene-MP843_000991";
+JALMLP020001121.1	Genbank	CDS	5174	5206	.	+	0	transcript_id "rna-g10282.t1_mrna"; gene_id "gene-MP843_000991";
+JALMLP020001142.1	Genbank	transcript	6295	7352	.	+	.	transcript_id "rna-g10395.t1_mrna"; gene_id "gene-MP843_001141"
+JALMLP020001142.1	Genbank	exon	6295	6978	.	+	.	transcript_id "rna-g10395.t1_mrna"; gene_id "gene-MP843_001141";
+JALMLP020001142.1	Genbank	exon	7029	7352	.	+	.	transcript_id "rna-g10395.t1_mrna"; gene_id "gene-MP843_001141";
+JALMLP020001142.1	Genbank	CDS	6295	6978	.	+	0	transcript_id "rna-g10395.t1_mrna"; gene_id "gene-MP843_001141";
+JALMLP020001142.1	Genbank	CDS	7029	7352	.	+	0	transcript_id "rna-g10395.t1_mrna"; gene_id "gene-MP843_001141";
+JALMLP020001144.1	Genbank	transcript	3692	5956	.	-	.	transcript_id "rna-g10403.t1_mrna"; gene_id "gene-MP843_001164"; gene_name "ATG7"
+JALMLP020001144.1	Genbank	exon	3692	4177	.	-	.	transcript_id "rna-g10403.t1_mrna"; gene_id "gene-MP843_001164"; gene_name "ATG7";
+JALMLP020001144.1	Genbank	exon	4230	5531	.	-	.	transcript_id "rna-g10403.t1_mrna"; gene_id "gene-MP843_001164"; gene_name "ATG7";
+JALMLP020001144.1	Genbank	exon	5580	5688	.	-	.	transcript_id "rna-g10403.t1_mrna"; gene_id "gene-MP843_001164"; gene_name "ATG7";
+JALMLP020001144.1	Genbank	exon	5733	5956	.	-	.	transcript_id "rna-g10403.t1_mrna"; gene_id "gene-MP843_001164"; gene_name "ATG7";
+JALMLP020001144.1	Genbank	CDS	3692	4177	.	-	0	transcript_id "rna-g10403.t1_mrna"; gene_id "gene-MP843_001164"; gene_name "ATG7";
+JALMLP020001144.1	Genbank	CDS	4230	5531	.	-	0	transcript_id "rna-g10403.t1_mrna"; gene_id "gene-MP843_001164"; gene_name "ATG7";
+JALMLP020001144.1	Genbank	CDS	5580	5688	.	-	1	transcript_id "rna-g10403.t1_mrna"; gene_id "gene-MP843_001164"; gene_name "ATG7";
+JALMLP020001144.1	Genbank	CDS	5733	5956	.	-	0	transcript_id "rna-g10403.t1_mrna"; gene_id "gene-MP843_001164"; gene_name "ATG7";
+JALMLP020001145.1	Genbank	transcript	10025	11755	.	+	.	transcript_id "rna-g10409.t1_mrna"; gene_id "gene-MP843_001170"; gene_name "TRM61"
+JALMLP020001145.1	Genbank	exon	10025	11755	.	+	.	transcript_id "rna-g10409.t1_mrna"; gene_id "gene-MP843_001170"; gene_name "TRM61";
+JALMLP020001145.1	Genbank	CDS	10025	11755	.	+	0	transcript_id "rna-g10409.t1_mrna"; gene_id "gene-MP843_001170"; gene_name "TRM61";
+JALMLP020001170.1	Genbank	transcript	4175	7578	.	+	.	transcript_id "rna-g10536.t1_mrna"; gene_id "gene-MP843_001326"; gene_name "HIR1"
+JALMLP020001170.1	Genbank	exon	4175	4211	.	+	.	transcript_id "rna-g10536.t1_mrna"; gene_id "gene-MP843_001326"; gene_name "HIR1";
+JALMLP020001170.1	Genbank	exon	4305	4379	.	+	.	transcript_id "rna-g10536.t1_mrna"; gene_id "gene-MP843_001326"; gene_name "HIR1";
+JALMLP020001170.1	Genbank	exon	4432	4650	.	+	.	transcript_id "rna-g10536.t1_mrna"; gene_id "gene-MP843_001326"; gene_name "HIR1";
+JALMLP020001170.1	Genbank	exon	4706	7450	.	+	.	transcript_id "rna-g10536.t1_mrna"; gene_id "gene-MP843_001326"; gene_name "HIR1";
+JALMLP020001170.1	Genbank	exon	7499	7578	.	+	.	transcript_id "rna-g10536.t1_mrna"; gene_id "gene-MP843_001326"; gene_name "HIR1";
+JALMLP020001170.1	Genbank	CDS	4175	4211	.	+	0	transcript_id "rna-g10536.t1_mrna"; gene_id "gene-MP843_001326"; gene_name "HIR1";
+JALMLP020001170.1	Genbank	CDS	4305	4379	.	+	2	transcript_id "rna-g10536.t1_mrna"; gene_id "gene-MP843_001326"; gene_name "HIR1";
+JALMLP020001170.1	Genbank	CDS	4432	4650	.	+	2	transcript_id "rna-g10536.t1_mrna"; gene_id "gene-MP843_001326"; gene_name "HIR1";
+JALMLP020001170.1	Genbank	CDS	4706	7450	.	+	2	transcript_id "rna-g10536.t1_mrna"; gene_id "gene-MP843_001326"; gene_name "HIR1";
+JALMLP020001170.1	Genbank	CDS	7499	7578	.	+	2	transcript_id "rna-g10536.t1_mrna"; gene_id "gene-MP843_001326"; gene_name "HIR1";
+JALMLP020001192.1	Genbank	transcript	9414	10997	.	+	.	transcript_id "rna-g10667.t1_mrna"; gene_id "gene-MP843_001505"; gene_name "COX15"
+JALMLP020001192.1	Genbank	exon	9414	9799	.	+	.	transcript_id "rna-g10667.t1_mrna"; gene_id "gene-MP843_001505"; gene_name "COX15";
+JALMLP020001192.1	Genbank	exon	9851	10997	.	+	.	transcript_id "rna-g10667.t1_mrna"; gene_id "gene-MP843_001505"; gene_name "COX15";
+JALMLP020001192.1	Genbank	CDS	9414	9799	.	+	0	transcript_id "rna-g10667.t1_mrna"; gene_id "gene-MP843_001505"; gene_name "COX15";
+JALMLP020001192.1	Genbank	CDS	9851	10997	.	+	1	transcript_id "rna-g10667.t1_mrna"; gene_id "gene-MP843_001505"; gene_name "COX15";
+JALMLP020001194.1	Genbank	transcript	3875	4500	.	+	.	transcript_id "rna-g10674.t1_mrna"; gene_id "gene-MP843_001512"; gene_name "naa20"
+JALMLP020001194.1	Genbank	exon	3875	4043	.	+	.	transcript_id "rna-g10674.t1_mrna"; gene_id "gene-MP843_001512"; gene_name "naa20";
+JALMLP020001194.1	Genbank	exon	4094	4500	.	+	.	transcript_id "rna-g10674.t1_mrna"; gene_id "gene-MP843_001512"; gene_name "naa20";
+JALMLP020001194.1	Genbank	CDS	3875	4043	.	+	0	transcript_id "rna-g10674.t1_mrna"; gene_id "gene-MP843_001512"; gene_name "naa20";
+JALMLP020001194.1	Genbank	CDS	4094	4500	.	+	2	transcript_id "rna-g10674.t1_mrna"; gene_id "gene-MP843_001512"; gene_name "naa20";
+JALMLP020001201.1	Genbank	transcript	9434	10744	.	-	.	transcript_id "rna-g10708.t1_mrna"; gene_id "gene-MP843_001558"; gene_name "COG5"
+JALMLP020001201.1	Genbank	exon	9434	10744	.	-	.	transcript_id "rna-g10708.t1_mrna"; gene_id "gene-MP843_001558"; gene_name "COG5";
+JALMLP020001201.1	Genbank	CDS	9434	10744	.	-	0	transcript_id "rna-g10708.t1_mrna"; gene_id "gene-MP843_001558"; gene_name "COG5";
+JALMLP020001205.1	Genbank	transcript	9894	11802	.	-	.	transcript_id "rna-g10728.t1_mrna"; gene_id "gene-MP843_001578"; gene_name "TRM6"
+JALMLP020001205.1	Genbank	exon	9894	11673	.	-	.	transcript_id "rna-g10728.t1_mrna"; gene_id "gene-MP843_001578"; gene_name "TRM6";
+JALMLP020001205.1	Genbank	exon	11717	11802	.	-	.	transcript_id "rna-g10728.t1_mrna"; gene_id "gene-MP843_001578"; gene_name "TRM6";
+JALMLP020001205.1	Genbank	CDS	9894	11673	.	-	1	transcript_id "rna-g10728.t1_mrna"; gene_id "gene-MP843_001578"; gene_name "TRM6";
+JALMLP020001205.1	Genbank	CDS	11717	11802	.	-	0	transcript_id "rna-g10728.t1_mrna"; gene_id "gene-MP843_001578"; gene_name "TRM6";
+JALMLP020001220.1	Genbank	transcript	2433	3186	.	-	.	transcript_id "rna-g10811.t1_mrna"; gene_id "gene-MP843_001674"; gene_name "GAR1_1"
+JALMLP020001220.1	Genbank	exon	2433	2825	.	-	.	transcript_id "rna-g10811.t1_mrna"; gene_id "gene-MP843_001674"; gene_name "GAR1_1";
+JALMLP020001220.1	Genbank	exon	2899	3047	.	-	.	transcript_id "rna-g10811.t1_mrna"; gene_id "gene-MP843_001674"; gene_name "GAR1_1";
+JALMLP020001220.1	Genbank	exon	3099	3186	.	-	.	transcript_id "rna-g10811.t1_mrna"; gene_id "gene-MP843_001674"; gene_name "GAR1_1";
+JALMLP020001220.1	Genbank	CDS	2433	2825	.	-	0	transcript_id "rna-g10811.t1_mrna"; gene_id "gene-MP843_001674"; gene_name "GAR1_1";
+JALMLP020001220.1	Genbank	CDS	2899	3047	.	-	2	transcript_id "rna-g10811.t1_mrna"; gene_id "gene-MP843_001674"; gene_name "GAR1_1";
+JALMLP020001220.1	Genbank	CDS	3099	3186	.	-	0	transcript_id "rna-g10811.t1_mrna"; gene_id "gene-MP843_001674"; gene_name "GAR1_1";
+JALMLP020001263.1	Genbank	transcript	2817	3718	.	-	.	transcript_id "rna-g10993.t1_mrna"; gene_id "gene-MP843_001931"; gene_name "PSF1"
+JALMLP020001263.1	Genbank	exon	2817	2910	.	-	.	transcript_id "rna-g10993.t1_mrna"; gene_id "gene-MP843_001931"; gene_name "PSF1";
+JALMLP020001263.1	Genbank	exon	2966	3474	.	-	.	transcript_id "rna-g10993.t1_mrna"; gene_id "gene-MP843_001931"; gene_name "PSF1";
+JALMLP020001263.1	Genbank	exon	3528	3538	.	-	.	transcript_id "rna-g10993.t1_mrna"; gene_id "gene-MP843_001931"; gene_name "PSF1";
+JALMLP020001263.1	Genbank	exon	3594	3634	.	-	.	transcript_id "rna-g10993.t1_mrna"; gene_id "gene-MP843_001931"; gene_name "PSF1";
+JALMLP020001263.1	Genbank	exon	3687	3718	.	-	.	transcript_id "rna-g10993.t1_mrna"; gene_id "gene-MP843_001931"; gene_name "PSF1";
+JALMLP020001263.1	Genbank	CDS	2817	2910	.	-	1	transcript_id "rna-g10993.t1_mrna"; gene_id "gene-MP843_001931"; gene_name "PSF1";
+JALMLP020001263.1	Genbank	CDS	2966	3474	.	-	0	transcript_id "rna-g10993.t1_mrna"; gene_id "gene-MP843_001931"; gene_name "PSF1";
+JALMLP020001263.1	Genbank	CDS	3528	3538	.	-	2	transcript_id "rna-g10993.t1_mrna"; gene_id "gene-MP843_001931"; gene_name "PSF1";
+JALMLP020001263.1	Genbank	CDS	3594	3634	.	-	1	transcript_id "rna-g10993.t1_mrna"; gene_id "gene-MP843_001931"; gene_name "PSF1";
+JALMLP020001263.1	Genbank	CDS	3687	3718	.	-	0	transcript_id "rna-g10993.t1_mrna"; gene_id "gene-MP843_001931"; gene_name "PSF1";
+JALMLP020001266.1	Genbank	transcript	3840	6203	.	-	.	transcript_id "rna-g11004.t1_mrna"; gene_id "gene-MP843_001942"; gene_name "SDA1_15"
+JALMLP020001266.1	Genbank	exon	3840	6030	.	-	.	transcript_id "rna-g11004.t1_mrna"; gene_id "gene-MP843_001942"; gene_name "SDA1_15";
+JALMLP020001266.1	Genbank	exon	6077	6112	.	-	.	transcript_id "rna-g11004.t1_mrna"; gene_id "gene-MP843_001942"; gene_name "SDA1_15";
+JALMLP020001266.1	Genbank	exon	6157	6203	.	-	.	transcript_id "rna-g11004.t1_mrna"; gene_id "gene-MP843_001942"; gene_name "SDA1_15";
+JALMLP020001266.1	Genbank	CDS	3840	6030	.	-	1	transcript_id "rna-g11004.t1_mrna"; gene_id "gene-MP843_001942"; gene_name "SDA1_15";
+JALMLP020001266.1	Genbank	CDS	6077	6112	.	-	1	transcript_id "rna-g11004.t1_mrna"; gene_id "gene-MP843_001942"; gene_name "SDA1_15";
+JALMLP020001266.1	Genbank	CDS	6157	6203	.	-	0	transcript_id "rna-g11004.t1_mrna"; gene_id "gene-MP843_001942"; gene_name "SDA1_15";
+JALMLP020001280.1	Genbank	transcript	5471	8229	.	-	.	transcript_id "rna-g11068.t1_mrna"; gene_id "gene-MP843_002040"; gene_name "NOP14"
+JALMLP020001280.1	Genbank	exon	5471	5875	.	-	.	transcript_id "rna-g11068.t1_mrna"; gene_id "gene-MP843_002040"; gene_name "NOP14";
+JALMLP020001280.1	Genbank	exon	5922	7898	.	-	.	transcript_id "rna-g11068.t1_mrna"; gene_id "gene-MP843_002040"; gene_name "NOP14";
+JALMLP020001280.1	Genbank	exon	7948	8229	.	-	.	transcript_id "rna-g11068.t1_mrna"; gene_id "gene-MP843_002040"; gene_name "NOP14";
+JALMLP020001280.1	Genbank	CDS	5471	5875	.	-	0	transcript_id "rna-g11068.t1_mrna"; gene_id "gene-MP843_002040"; gene_name "NOP14";
+JALMLP020001280.1	Genbank	CDS	5922	7898	.	-	0	transcript_id "rna-g11068.t1_mrna"; gene_id "gene-MP843_002040"; gene_name "NOP14";
+JALMLP020001280.1	Genbank	CDS	7948	8229	.	-	0	transcript_id "rna-g11068.t1_mrna"; gene_id "gene-MP843_002040"; gene_name "NOP14";
+JALMLP020001306.1	Genbank	transcript	6314	8272	.	+	.	transcript_id "rna-g11172.t1_mrna"; gene_id "gene-MP843_002193"; gene_name "SRP68"
+JALMLP020001306.1	Genbank	exon	6314	6504	.	+	.	transcript_id "rna-g11172.t1_mrna"; gene_id "gene-MP843_002193"; gene_name "SRP68";
+JALMLP020001306.1	Genbank	exon	6557	7687	.	+	.	transcript_id "rna-g11172.t1_mrna"; gene_id "gene-MP843_002193"; gene_name "SRP68";
+JALMLP020001306.1	Genbank	exon	7744	8272	.	+	.	transcript_id "rna-g11172.t1_mrna"; gene_id "gene-MP843_002193"; gene_name "SRP68";
+JALMLP020001306.1	Genbank	CDS	6314	6504	.	+	0	transcript_id "rna-g11172.t1_mrna"; gene_id "gene-MP843_002193"; gene_name "SRP68";
+JALMLP020001306.1	Genbank	CDS	6557	7687	.	+	1	transcript_id "rna-g11172.t1_mrna"; gene_id "gene-MP843_002193"; gene_name "SRP68";
+JALMLP020001306.1	Genbank	CDS	7744	8272	.	+	1	transcript_id "rna-g11172.t1_mrna"; gene_id "gene-MP843_002193"; gene_name "SRP68";
+JALMLP020001335.1	Genbank	transcript	6257	7043	.	+	.	transcript_id "rna-g11318.t1_mrna"; gene_id "gene-MP843_002383"; gene_name "TMA20"
+JALMLP020001335.1	Genbank	exon	6257	6270	.	+	.	transcript_id "rna-g11318.t1_mrna"; gene_id "gene-MP843_002383"; gene_name "TMA20";
+JALMLP020001335.1	Genbank	exon	6335	6475	.	+	.	transcript_id "rna-g11318.t1_mrna"; gene_id "gene-MP843_002383"; gene_name "TMA20";
+JALMLP020001335.1	Genbank	exon	6569	7043	.	+	.	transcript_id "rna-g11318.t1_mrna"; gene_id "gene-MP843_002383"; gene_name "TMA20";
+JALMLP020001335.1	Genbank	CDS	6257	6270	.	+	0	transcript_id "rna-g11318.t1_mrna"; gene_id "gene-MP843_002383"; gene_name "TMA20";
+JALMLP020001335.1	Genbank	CDS	6335	6475	.	+	1	transcript_id "rna-g11318.t1_mrna"; gene_id "gene-MP843_002383"; gene_name "TMA20";
+JALMLP020001335.1	Genbank	CDS	6569	7043	.	+	1	transcript_id "rna-g11318.t1_mrna"; gene_id "gene-MP843_002383"; gene_name "TMA20";
+JALMLP020001486.1	Genbank	transcript	6349	9001	.	+	.	transcript_id "rna-g11928.t1_mrna"; gene_id "gene-MP843_003217"
+JALMLP020001486.1	Genbank	exon	6349	8010	.	+	.	transcript_id "rna-g11928.t1_mrna"; gene_id "gene-MP843_003217";
+JALMLP020001486.1	Genbank	exon	8060	9001	.	+	.	transcript_id "rna-g11928.t1_mrna"; gene_id "gene-MP843_003217";
+JALMLP020001486.1	Genbank	CDS	6349	8010	.	+	0	transcript_id "rna-g11928.t1_mrna"; gene_id "gene-MP843_003217";
+JALMLP020001486.1	Genbank	CDS	8060	9001	.	+	0	transcript_id "rna-g11928.t1_mrna"; gene_id "gene-MP843_003217";
+JALMLP020001519.1	Genbank	transcript	8934	9863	.	-	.	transcript_id "rna-g12069.t1_mrna"; gene_id "gene-MP843_003410"; gene_name "BCP1"
+JALMLP020001519.1	Genbank	exon	8934	9737	.	-	.	transcript_id "rna-g12069.t1_mrna"; gene_id "gene-MP843_003410"; gene_name "BCP1";
+JALMLP020001519.1	Genbank	exon	9783	9863	.	-	.	transcript_id "rna-g12069.t1_mrna"; gene_id "gene-MP843_003410"; gene_name "BCP1";
+JALMLP020001519.1	Genbank	CDS	8934	9737	.	-	0	transcript_id "rna-g12069.t1_mrna"; gene_id "gene-MP843_003410"; gene_name "BCP1";
+JALMLP020001519.1	Genbank	CDS	9783	9863	.	-	0	transcript_id "rna-g12069.t1_mrna"; gene_id "gene-MP843_003410"; gene_name "BCP1";
+JALMLP020001567.1	Genbank	transcript	5263	6687	.	-	.	transcript_id "rna-g12259.t1_mrna"; gene_id "gene-MP843_003680"; gene_name "MAK11"
+JALMLP020001567.1	Genbank	exon	5263	6687	.	-	.	transcript_id "rna-g12259.t1_mrna"; gene_id "gene-MP843_003680"; gene_name "MAK11";
+JALMLP020001567.1	Genbank	CDS	5263	6687	.	-	0	transcript_id "rna-g12259.t1_mrna"; gene_id "gene-MP843_003680"; gene_name "MAK11";
+JALMLP020001602.1	Genbank	transcript	4220	5100	.	+	.	transcript_id "rna-g12390.t1_mrna"; gene_id "gene-MP843_003857"; gene_name "BUD23"
+JALMLP020001602.1	Genbank	exon	4220	4242	.	+	.	transcript_id "rna-g12390.t1_mrna"; gene_id "gene-MP843_003857"; gene_name "BUD23";
+JALMLP020001602.1	Genbank	exon	4290	5100	.	+	.	transcript_id "rna-g12390.t1_mrna"; gene_id "gene-MP843_003857"; gene_name "BUD23";
+JALMLP020001602.1	Genbank	CDS	4220	4242	.	+	0	transcript_id "rna-g12390.t1_mrna"; gene_id "gene-MP843_003857"; gene_name "BUD23";
+JALMLP020001602.1	Genbank	CDS	4290	5100	.	+	1	transcript_id "rna-g12390.t1_mrna"; gene_id "gene-MP843_003857"; gene_name "BUD23";
+JALMLP020001615.1	Genbank	transcript	6510	7691	.	+	.	transcript_id "rna-g12426.t1_mrna"; gene_id "gene-MP843_003916"; gene_name "TSR3"
+JALMLP020001615.1	Genbank	exon	6510	7691	.	+	.	transcript_id "rna-g12426.t1_mrna"; gene_id "gene-MP843_003916"; gene_name "TSR3";
+JALMLP020001615.1	Genbank	CDS	6510	7691	.	+	0	transcript_id "rna-g12426.t1_mrna"; gene_id "gene-MP843_003916"; gene_name "TSR3";
+JALMLP020001674.1	Genbank	transcript	3566	4291	.	-	.	transcript_id "rna-g12640.t1_mrna"; gene_id "gene-MP843_004232"; gene_name "NOP16"
+JALMLP020001674.1	Genbank	exon	3566	4130	.	-	.	transcript_id "rna-g12640.t1_mrna"; gene_id "gene-MP843_004232"; gene_name "NOP16";
+JALMLP020001674.1	Genbank	exon	4179	4291	.	-	.	transcript_id "rna-g12640.t1_mrna"; gene_id "gene-MP843_004232"; gene_name "NOP16";
+JALMLP020001674.1	Genbank	CDS	3566	4130	.	-	1	transcript_id "rna-g12640.t1_mrna"; gene_id "gene-MP843_004232"; gene_name "NOP16";
+JALMLP020001674.1	Genbank	CDS	4179	4291	.	-	0	transcript_id "rna-g12640.t1_mrna"; gene_id "gene-MP843_004232"; gene_name "NOP16";
+JALMLP020001769.1	Genbank	transcript	1365	2614	.	-	.	transcript_id "rna-g12938.t1_mrna"; gene_id "gene-MP843_004700"; gene_name "ebp2"
+JALMLP020001769.1	Genbank	exon	1365	1642	.	-	.	transcript_id "rna-g12938.t1_mrna"; gene_id "gene-MP843_004700"; gene_name "ebp2";
+JALMLP020001769.1	Genbank	exon	1695	2310	.	-	.	transcript_id "rna-g12938.t1_mrna"; gene_id "gene-MP843_004700"; gene_name "ebp2";
+JALMLP020001769.1	Genbank	exon	2357	2614	.	-	.	transcript_id "rna-g12938.t1_mrna"; gene_id "gene-MP843_004700"; gene_name "ebp2";
+JALMLP020001769.1	Genbank	CDS	1365	1642	.	-	2	transcript_id "rna-g12938.t1_mrna"; gene_id "gene-MP843_004700"; gene_name "ebp2";
+JALMLP020001769.1	Genbank	CDS	1695	2310	.	-	0	transcript_id "rna-g12938.t1_mrna"; gene_id "gene-MP843_004700"; gene_name "ebp2";
+JALMLP020001769.1	Genbank	CDS	2357	2614	.	-	0	transcript_id "rna-g12938.t1_mrna"; gene_id "gene-MP843_004700"; gene_name "ebp2";
+JALMLP020002122.1	Genbank	transcript	3154	4482	.	+	.	transcript_id "rna-g13939.t1_mrna"; gene_id "gene-MP843_006205"
+JALMLP020002122.1	Genbank	exon	3154	4371	.	+	.	transcript_id "rna-g13939.t1_mrna"; gene_id "gene-MP843_006205";
+JALMLP020002122.1	Genbank	exon	4423	4482	.	+	.	transcript_id "rna-g13939.t1_mrna"; gene_id "gene-MP843_006205";
+JALMLP020002122.1	Genbank	CDS	3154	4371	.	+	0	transcript_id "rna-g13939.t1_mrna"; gene_id "gene-MP843_006205";
+JALMLP020002122.1	Genbank	CDS	4423	4482	.	+	0	transcript_id "rna-g13939.t1_mrna"; gene_id "gene-MP843_006205";
+JALMLP020002244.1	Genbank	transcript	4740	5048	.	-	.	transcript_id "rna-g14225.t1_mrna"; gene_id "gene-MP843_006663"; gene_name "rpc25"
+JALMLP020002244.1	Genbank	exon	4740	5048	.	-	.	transcript_id "rna-g14225.t1_mrna"; gene_id "gene-MP843_006663"; gene_name "rpc25";
+JALMLP020002244.1	Genbank	CDS	4740	5048	.	-	0	transcript_id "rna-g14225.t1_mrna"; gene_id "gene-MP843_006663"; gene_name "rpc25";
+JALMLP020002280.1	Genbank	transcript	1041	2468	.	+	.	transcript_id "rna-g14309.t1_mrna"; gene_id "gene-MP843_006786"
+JALMLP020002280.1	Genbank	exon	1041	1321	.	+	.	transcript_id "rna-g14309.t1_mrna"; gene_id "gene-MP843_006786";
+JALMLP020002280.1	Genbank	exon	1370	2468	.	+	.	transcript_id "rna-g14309.t1_mrna"; gene_id "gene-MP843_006786";
+JALMLP020002280.1	Genbank	CDS	1041	1321	.	+	0	transcript_id "rna-g14309.t1_mrna"; gene_id "gene-MP843_006786";
+JALMLP020002280.1	Genbank	CDS	1370	2468	.	+	1	transcript_id "rna-g14309.t1_mrna"; gene_id "gene-MP843_006786";
+JALMLP020002973.1	Genbank	transcript	1640	2660	.	-	.	transcript_id "rna-g15516.t1_mrna"; gene_id "gene-MP843_008944"; gene_name "CWC15"
+JALMLP020002973.1	Genbank	exon	1640	1655	.	-	.	transcript_id "rna-g15516.t1_mrna"; gene_id "gene-MP843_008944"; gene_name "CWC15";
+JALMLP020002973.1	Genbank	exon	1702	1812	.	-	.	transcript_id "rna-g15516.t1_mrna"; gene_id "gene-MP843_008944"; gene_name "CWC15";
+JALMLP020002973.1	Genbank	exon	1866	1966	.	-	.	transcript_id "rna-g15516.t1_mrna"; gene_id "gene-MP843_008944"; gene_name "CWC15";
+JALMLP020002973.1	Genbank	exon	2016	2100	.	-	.	transcript_id "rna-g15516.t1_mrna"; gene_id "gene-MP843_008944"; gene_name "CWC15";
+JALMLP020002973.1	Genbank	exon	2150	2401	.	-	.	transcript_id "rna-g15516.t1_mrna"; gene_id "gene-MP843_008944"; gene_name "CWC15";
+JALMLP020002973.1	Genbank	exon	2449	2525	.	-	.	transcript_id "rna-g15516.t1_mrna"; gene_id "gene-MP843_008944"; gene_name "CWC15";
+JALMLP020002973.1	Genbank	exon	2574	2596	.	-	.	transcript_id "rna-g15516.t1_mrna"; gene_id "gene-MP843_008944"; gene_name "CWC15";
+JALMLP020002973.1	Genbank	exon	2651	2660	.	-	.	transcript_id "rna-g15516.t1_mrna"; gene_id "gene-MP843_008944"; gene_name "CWC15";
+JALMLP020002973.1	Genbank	CDS	1640	1655	.	-	1	transcript_id "rna-g15516.t1_mrna"; gene_id "gene-MP843_008944"; gene_name "CWC15";
+JALMLP020002973.1	Genbank	CDS	1702	1812	.	-	1	transcript_id "rna-g15516.t1_mrna"; gene_id "gene-MP843_008944"; gene_name "CWC15";
+JALMLP020002973.1	Genbank	CDS	1866	1966	.	-	0	transcript_id "rna-g15516.t1_mrna"; gene_id "gene-MP843_008944"; gene_name "CWC15";
+JALMLP020002973.1	Genbank	CDS	2016	2100	.	-	1	transcript_id "rna-g15516.t1_mrna"; gene_id "gene-MP843_008944"; gene_name "CWC15";
+JALMLP020002973.1	Genbank	CDS	2150	2401	.	-	1	transcript_id "rna-g15516.t1_mrna"; gene_id "gene-MP843_008944"; gene_name "CWC15";
+JALMLP020002973.1	Genbank	CDS	2449	2525	.	-	0	transcript_id "rna-g15516.t1_mrna"; gene_id "gene-MP843_008944"; gene_name "CWC15";
+JALMLP020002973.1	Genbank	CDS	2574	2596	.	-	2	transcript_id "rna-g15516.t1_mrna"; gene_id "gene-MP843_008944"; gene_name "CWC15";
+JALMLP020002973.1	Genbank	CDS	2651	2660	.	-	0	transcript_id "rna-g15516.t1_mrna"; gene_id "gene-MP843_008944"; gene_name "CWC15";
