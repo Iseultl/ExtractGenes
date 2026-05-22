@@ -1,0 +1,978 @@
+WIPG01000001.1	Genbank	transcript	626603	628414	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000178-T1_mrna"; gene_id "gene-TWF192_000178"
+WIPG01000001.1	Genbank	exon	626603	626754	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000178-T1_mrna"; gene_id "gene-TWF192_000178";
+WIPG01000001.1	Genbank	exon	626812	628078	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000178-T1_mrna"; gene_id "gene-TWF192_000178";
+WIPG01000001.1	Genbank	exon	628138	628414	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000178-T1_mrna"; gene_id "gene-TWF192_000178";
+WIPG01000001.1	Genbank	CDS	626603	626754	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_000178-T1_mrna"; gene_id "gene-TWF192_000178";
+WIPG01000001.1	Genbank	CDS	626812	628078	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_000178-T1_mrna"; gene_id "gene-TWF192_000178";
+WIPG01000001.1	Genbank	CDS	628138	628362	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_000178-T1_mrna"; gene_id "gene-TWF192_000178";
+WIPG01000001.1	Genbank	transcript	639158	640899	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000181-T1_mrna"; gene_id "gene-TWF192_000181"; gene_name "MCM4"
+WIPG01000001.1	Genbank	exon	639158	640119	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000181-T1_mrna"; gene_id "gene-TWF192_000181"; gene_name "MCM4";
+WIPG01000001.1	Genbank	exon	640188	640899	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000181-T1_mrna"; gene_id "gene-TWF192_000181"; gene_name "MCM4";
+WIPG01000001.1	Genbank	CDS	639160	640119	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_000181-T1_mrna"; gene_id "gene-TWF192_000181"; gene_name "MCM4";
+WIPG01000001.1	Genbank	CDS	640188	640775	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_000181-T1_mrna"; gene_id "gene-TWF192_000181"; gene_name "MCM4";
+WIPG01000010.1	Genbank	transcript	39581	41235	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000327-T1_mrna"; gene_id "gene-TWF192_000327"; gene_name "FRS1_1"
+WIPG01000010.1	Genbank	exon	39581	40457	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000327-T1_mrna"; gene_id "gene-TWF192_000327"; gene_name "FRS1_1";
+WIPG01000010.1	Genbank	exon	40520	40770	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000327-T1_mrna"; gene_id "gene-TWF192_000327"; gene_name "FRS1_1";
+WIPG01000010.1	Genbank	exon	40836	41235	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000327-T1_mrna"; gene_id "gene-TWF192_000327"; gene_name "FRS1_1";
+WIPG01000010.1	Genbank	CDS	39581	40457	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_000327-T1_mrna"; gene_id "gene-TWF192_000327"; gene_name "FRS1_1";
+WIPG01000010.1	Genbank	CDS	40520	40770	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_000327-T1_mrna"; gene_id "gene-TWF192_000327"; gene_name "FRS1_1";
+WIPG01000010.1	Genbank	CDS	40836	41225	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_000327-T1_mrna"; gene_id "gene-TWF192_000327"; gene_name "FRS1_1";
+WIPG01000010.1	Genbank	transcript	254944	256651	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000395-T1_mrna"; gene_id "gene-TWF192_000395"; gene_name "TRM61"
+WIPG01000010.1	Genbank	exon	254944	256651	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000395-T1_mrna"; gene_id "gene-TWF192_000395"; gene_name "TRM61";
+WIPG01000010.1	Genbank	CDS	254944	256644	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_000395-T1_mrna"; gene_id "gene-TWF192_000395"; gene_name "TRM61";
+WIPG01000101.1	Genbank	transcript	40480	42124	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000581-T1_mrna"; gene_id "gene-TWF192_000581"; gene_name "CSN12"
+WIPG01000101.1	Genbank	exon	40480	40942	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000581-T1_mrna"; gene_id "gene-TWF192_000581"; gene_name "CSN12";
+WIPG01000101.1	Genbank	exon	41025	41312	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000581-T1_mrna"; gene_id "gene-TWF192_000581"; gene_name "CSN12";
+WIPG01000101.1	Genbank	exon	41403	41600	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000581-T1_mrna"; gene_id "gene-TWF192_000581"; gene_name "CSN12";
+WIPG01000101.1	Genbank	exon	41715	42014	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000581-T1_mrna"; gene_id "gene-TWF192_000581"; gene_name "CSN12";
+WIPG01000101.1	Genbank	exon	42076	42124	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000581-T1_mrna"; gene_id "gene-TWF192_000581"; gene_name "CSN12";
+WIPG01000101.1	Genbank	CDS	40480	40942	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_000581-T1_mrna"; gene_id "gene-TWF192_000581"; gene_name "CSN12";
+WIPG01000101.1	Genbank	CDS	41025	41312	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_000581-T1_mrna"; gene_id "gene-TWF192_000581"; gene_name "CSN12";
+WIPG01000101.1	Genbank	CDS	41403	41600	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_000581-T1_mrna"; gene_id "gene-TWF192_000581"; gene_name "CSN12";
+WIPG01000101.1	Genbank	CDS	41715	42014	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_000581-T1_mrna"; gene_id "gene-TWF192_000581"; gene_name "CSN12";
+WIPG01000101.1	Genbank	CDS	42076	42089	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_000581-T1_mrna"; gene_id "gene-TWF192_000581"; gene_name "CSN12";
+WIPG01000101.1	Genbank	transcript	55805	56786	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000588-T1_mrna"; gene_id "gene-TWF192_000588"
+WIPG01000101.1	Genbank	exon	55805	55877	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000588-T1_mrna"; gene_id "gene-TWF192_000588";
+WIPG01000101.1	Genbank	exon	55957	56786	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000588-T1_mrna"; gene_id "gene-TWF192_000588";
+WIPG01000101.1	Genbank	CDS	55874	55877	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_000588-T1_mrna"; gene_id "gene-TWF192_000588";
+WIPG01000101.1	Genbank	CDS	55957	56702	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_000588-T1_mrna"; gene_id "gene-TWF192_000588";
+WIPG01000102.1	Genbank	transcript	71317	74775	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000634-T1_mrna"; gene_id "gene-TWF192_000634"
+WIPG01000102.1	Genbank	exon	71317	71441	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000634-T1_mrna"; gene_id "gene-TWF192_000634";
+WIPG01000102.1	Genbank	exon	71510	71759	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000634-T1_mrna"; gene_id "gene-TWF192_000634";
+WIPG01000102.1	Genbank	exon	71819	72709	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000634-T1_mrna"; gene_id "gene-TWF192_000634";
+WIPG01000102.1	Genbank	exon	72794	73132	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000634-T1_mrna"; gene_id "gene-TWF192_000634";
+WIPG01000102.1	Genbank	exon	73192	73425	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000634-T1_mrna"; gene_id "gene-TWF192_000634";
+WIPG01000102.1	Genbank	exon	73493	74140	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000634-T1_mrna"; gene_id "gene-TWF192_000634";
+WIPG01000102.1	Genbank	exon	74216	74332	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000634-T1_mrna"; gene_id "gene-TWF192_000634";
+WIPG01000102.1	Genbank	exon	74388	74564	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000634-T1_mrna"; gene_id "gene-TWF192_000634";
+WIPG01000102.1	Genbank	exon	74634	74699	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000634-T1_mrna"; gene_id "gene-TWF192_000634";
+WIPG01000102.1	Genbank	exon	74761	74775	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000634-T1_mrna"; gene_id "gene-TWF192_000634";
+WIPG01000102.1	Genbank	CDS	71317	71441	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_000634-T1_mrna"; gene_id "gene-TWF192_000634";
+WIPG01000102.1	Genbank	CDS	71510	71759	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_000634-T1_mrna"; gene_id "gene-TWF192_000634";
+WIPG01000102.1	Genbank	CDS	71819	72709	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_000634-T1_mrna"; gene_id "gene-TWF192_000634";
+WIPG01000102.1	Genbank	CDS	72794	73132	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_000634-T1_mrna"; gene_id "gene-TWF192_000634";
+WIPG01000102.1	Genbank	CDS	73192	73425	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_000634-T1_mrna"; gene_id "gene-TWF192_000634";
+WIPG01000102.1	Genbank	CDS	73493	74140	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_000634-T1_mrna"; gene_id "gene-TWF192_000634";
+WIPG01000102.1	Genbank	CDS	74216	74332	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_000634-T1_mrna"; gene_id "gene-TWF192_000634";
+WIPG01000102.1	Genbank	CDS	74388	74564	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_000634-T1_mrna"; gene_id "gene-TWF192_000634";
+WIPG01000102.1	Genbank	CDS	74634	74699	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_000634-T1_mrna"; gene_id "gene-TWF192_000634";
+WIPG01000102.1	Genbank	CDS	74761	74775	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_000634-T1_mrna"; gene_id "gene-TWF192_000634";
+WIPG01000102.1	Genbank	transcript	90985	93634	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000642-T1_mrna"; gene_id "gene-TWF192_000642"; gene_name "MCM2"
+WIPG01000102.1	Genbank	exon	90985	91211	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000642-T1_mrna"; gene_id "gene-TWF192_000642"; gene_name "MCM2";
+WIPG01000102.1	Genbank	exon	91286	92044	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000642-T1_mrna"; gene_id "gene-TWF192_000642"; gene_name "MCM2";
+WIPG01000102.1	Genbank	exon	92309	92842	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000642-T1_mrna"; gene_id "gene-TWF192_000642"; gene_name "MCM2";
+WIPG01000102.1	Genbank	exon	92905	93379	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000642-T1_mrna"; gene_id "gene-TWF192_000642"; gene_name "MCM2";
+WIPG01000102.1	Genbank	exon	93434	93634	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000642-T1_mrna"; gene_id "gene-TWF192_000642"; gene_name "MCM2";
+WIPG01000102.1	Genbank	CDS	90985	91211	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_000642-T1_mrna"; gene_id "gene-TWF192_000642"; gene_name "MCM2";
+WIPG01000102.1	Genbank	CDS	91286	92044	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_000642-T1_mrna"; gene_id "gene-TWF192_000642"; gene_name "MCM2";
+WIPG01000102.1	Genbank	CDS	92309	92842	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_000642-T1_mrna"; gene_id "gene-TWF192_000642"; gene_name "MCM2";
+WIPG01000102.1	Genbank	CDS	92905	93379	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_000642-T1_mrna"; gene_id "gene-TWF192_000642"; gene_name "MCM2";
+WIPG01000102.1	Genbank	CDS	93434	93634	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_000642-T1_mrna"; gene_id "gene-TWF192_000642"; gene_name "MCM2";
+WIPG01000109.1	Genbank	transcript	23073	24021	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000796-T1_mrna"; gene_id "gene-TWF192_000796"; gene_name "DPH5"
+WIPG01000109.1	Genbank	exon	23073	23271	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000796-T1_mrna"; gene_id "gene-TWF192_000796"; gene_name "DPH5";
+WIPG01000109.1	Genbank	exon	23346	24021	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000796-T1_mrna"; gene_id "gene-TWF192_000796"; gene_name "DPH5";
+WIPG01000109.1	Genbank	CDS	23137	23271	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_000796-T1_mrna"; gene_id "gene-TWF192_000796"; gene_name "DPH5";
+WIPG01000109.1	Genbank	CDS	23346	23897	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_000796-T1_mrna"; gene_id "gene-TWF192_000796"; gene_name "DPH5";
+WIPG01000109.1	Genbank	transcript	42448	43391	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000805-T1_mrna"; gene_id "gene-TWF192_000805"; gene_name "SNU23"
+WIPG01000109.1	Genbank	exon	42448	42559	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000805-T1_mrna"; gene_id "gene-TWF192_000805"; gene_name "SNU23";
+WIPG01000109.1	Genbank	exon	42620	43391	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_000805-T1_mrna"; gene_id "gene-TWF192_000805"; gene_name "SNU23";
+WIPG01000109.1	Genbank	CDS	42448	42559	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_000805-T1_mrna"; gene_id "gene-TWF192_000805"; gene_name "SNU23";
+WIPG01000109.1	Genbank	CDS	42620	43350	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_000805-T1_mrna"; gene_id "gene-TWF192_000805"; gene_name "SNU23";
+WIPG01000113.1	Genbank	transcript	34378	37042	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001148-T1_mrna"; gene_id "gene-TWF192_001148"; gene_name "DBP7"
+WIPG01000113.1	Genbank	exon	34378	37042	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001148-T1_mrna"; gene_id "gene-TWF192_001148"; gene_name "DBP7";
+WIPG01000113.1	Genbank	CDS	34378	36705	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_001148-T1_mrna"; gene_id "gene-TWF192_001148"; gene_name "DBP7";
+WIPG01000113.1	Genbank	transcript	45078	48565	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001152-T1_mrna"; gene_id "gene-TWF192_001152"; gene_name "HIR1"
+WIPG01000113.1	Genbank	exon	45078	45163	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001152-T1_mrna"; gene_id "gene-TWF192_001152"; gene_name "HIR1";
+WIPG01000113.1	Genbank	exon	45225	47981	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001152-T1_mrna"; gene_id "gene-TWF192_001152"; gene_name "HIR1";
+WIPG01000113.1	Genbank	exon	48093	48191	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001152-T1_mrna"; gene_id "gene-TWF192_001152"; gene_name "HIR1";
+WIPG01000113.1	Genbank	exon	48257	48565	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001152-T1_mrna"; gene_id "gene-TWF192_001152"; gene_name "HIR1";
+WIPG01000113.1	Genbank	CDS	45078	45163	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_001152-T1_mrna"; gene_id "gene-TWF192_001152"; gene_name "HIR1";
+WIPG01000113.1	Genbank	CDS	45225	47981	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_001152-T1_mrna"; gene_id "gene-TWF192_001152"; gene_name "HIR1";
+WIPG01000113.1	Genbank	CDS	48093	48108	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_001152-T1_mrna"; gene_id "gene-TWF192_001152"; gene_name "HIR1";
+WIPG01000113.1	Genbank	transcript	60590	62112	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001158-T1_mrna"; gene_id "gene-TWF192_001158"; gene_name "GCN3"
+WIPG01000113.1	Genbank	exon	60590	60611	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001158-T1_mrna"; gene_id "gene-TWF192_001158"; gene_name "GCN3";
+WIPG01000113.1	Genbank	exon	60737	60839	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001158-T1_mrna"; gene_id "gene-TWF192_001158"; gene_name "GCN3";
+WIPG01000113.1	Genbank	exon	60922	60968	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001158-T1_mrna"; gene_id "gene-TWF192_001158"; gene_name "GCN3";
+WIPG01000113.1	Genbank	exon	61051	61608	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001158-T1_mrna"; gene_id "gene-TWF192_001158"; gene_name "GCN3";
+WIPG01000113.1	Genbank	exon	61665	61766	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001158-T1_mrna"; gene_id "gene-TWF192_001158"; gene_name "GCN3";
+WIPG01000113.1	Genbank	exon	61833	62016	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001158-T1_mrna"; gene_id "gene-TWF192_001158"; gene_name "GCN3";
+WIPG01000113.1	Genbank	exon	62076	62112	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001158-T1_mrna"; gene_id "gene-TWF192_001158"; gene_name "GCN3";
+WIPG01000113.1	Genbank	CDS	60590	60611	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_001158-T1_mrna"; gene_id "gene-TWF192_001158"; gene_name "GCN3";
+WIPG01000113.1	Genbank	CDS	60737	60839	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_001158-T1_mrna"; gene_id "gene-TWF192_001158"; gene_name "GCN3";
+WIPG01000113.1	Genbank	CDS	60922	60968	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_001158-T1_mrna"; gene_id "gene-TWF192_001158"; gene_name "GCN3";
+WIPG01000113.1	Genbank	CDS	61051	61608	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_001158-T1_mrna"; gene_id "gene-TWF192_001158"; gene_name "GCN3";
+WIPG01000113.1	Genbank	CDS	61665	61766	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_001158-T1_mrna"; gene_id "gene-TWF192_001158"; gene_name "GCN3";
+WIPG01000113.1	Genbank	CDS	61833	62016	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_001158-T1_mrna"; gene_id "gene-TWF192_001158"; gene_name "GCN3";
+WIPG01000113.1	Genbank	CDS	62076	62112	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_001158-T1_mrna"; gene_id "gene-TWF192_001158"; gene_name "GCN3";
+WIPG01000116.1	Genbank	transcript	7471	9569	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001228-T1_mrna"; gene_id "gene-TWF192_001228"
+WIPG01000116.1	Genbank	exon	7471	8707	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001228-T1_mrna"; gene_id "gene-TWF192_001228";
+WIPG01000116.1	Genbank	exon	8771	9394	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001228-T1_mrna"; gene_id "gene-TWF192_001228";
+WIPG01000116.1	Genbank	exon	9459	9569	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001228-T1_mrna"; gene_id "gene-TWF192_001228";
+WIPG01000116.1	Genbank	CDS	7511	8707	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_001228-T1_mrna"; gene_id "gene-TWF192_001228";
+WIPG01000116.1	Genbank	CDS	8771	9394	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_001228-T1_mrna"; gene_id "gene-TWF192_001228";
+WIPG01000116.1	Genbank	CDS	9459	9569	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_001228-T1_mrna"; gene_id "gene-TWF192_001228";
+WIPG01000012.1	Genbank	transcript	513252	514259	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001469-T1_mrna"; gene_id "gene-TWF192_001469"; gene_name "COQ4"
+WIPG01000012.1	Genbank	exon	513252	514259	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001469-T1_mrna"; gene_id "gene-TWF192_001469"; gene_name "COQ4";
+WIPG01000012.1	Genbank	CDS	513252	514259	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_001469-T1_mrna"; gene_id "gene-TWF192_001469"; gene_name "COQ4";
+WIPG01000012.1	Genbank	transcript	630665	633072	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001508-T1_mrna"; gene_id "gene-TWF192_001508"; gene_name "NOP7"
+WIPG01000012.1	Genbank	exon	630665	630686	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001508-T1_mrna"; gene_id "gene-TWF192_001508"; gene_name "NOP7";
+WIPG01000012.1	Genbank	exon	630760	630858	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001508-T1_mrna"; gene_id "gene-TWF192_001508"; gene_name "NOP7";
+WIPG01000012.1	Genbank	exon	630940	631013	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001508-T1_mrna"; gene_id "gene-TWF192_001508"; gene_name "NOP7";
+WIPG01000012.1	Genbank	exon	631090	633072	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001508-T1_mrna"; gene_id "gene-TWF192_001508"; gene_name "NOP7";
+WIPG01000012.1	Genbank	CDS	630665	630686	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_001508-T1_mrna"; gene_id "gene-TWF192_001508"; gene_name "NOP7";
+WIPG01000012.1	Genbank	CDS	630760	630858	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_001508-T1_mrna"; gene_id "gene-TWF192_001508"; gene_name "NOP7";
+WIPG01000012.1	Genbank	CDS	630940	631013	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_001508-T1_mrna"; gene_id "gene-TWF192_001508"; gene_name "NOP7";
+WIPG01000012.1	Genbank	CDS	631090	632910	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_001508-T1_mrna"; gene_id "gene-TWF192_001508"; gene_name "NOP7";
+WIPG01000120.1	Genbank	transcript	13331	14745	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001521-T1_mrna"; gene_id "gene-TWF192_001521"; gene_name "HAT1"
+WIPG01000120.1	Genbank	exon	13331	14352	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001521-T1_mrna"; gene_id "gene-TWF192_001521"; gene_name "HAT1";
+WIPG01000120.1	Genbank	exon	14411	14745	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001521-T1_mrna"; gene_id "gene-TWF192_001521"; gene_name "HAT1";
+WIPG01000120.1	Genbank	CDS	13331	14352	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_001521-T1_mrna"; gene_id "gene-TWF192_001521"; gene_name "HAT1";
+WIPG01000120.1	Genbank	CDS	14411	14726	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_001521-T1_mrna"; gene_id "gene-TWF192_001521"; gene_name "HAT1";
+WIPG01000125.1	Genbank	transcript	47749	49791	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001667-T1_mrna"; gene_id "gene-TWF192_001667"
+WIPG01000125.1	Genbank	exon	47749	48298	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001667-T1_mrna"; gene_id "gene-TWF192_001667";
+WIPG01000125.1	Genbank	exon	48352	48446	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001667-T1_mrna"; gene_id "gene-TWF192_001667";
+WIPG01000125.1	Genbank	exon	48499	49480	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001667-T1_mrna"; gene_id "gene-TWF192_001667";
+WIPG01000125.1	Genbank	exon	49545	49791	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001667-T1_mrna"; gene_id "gene-TWF192_001667";
+WIPG01000125.1	Genbank	CDS	47761	48298	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_001667-T1_mrna"; gene_id "gene-TWF192_001667";
+WIPG01000125.1	Genbank	CDS	48352	48446	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_001667-T1_mrna"; gene_id "gene-TWF192_001667";
+WIPG01000125.1	Genbank	CDS	48499	49480	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_001667-T1_mrna"; gene_id "gene-TWF192_001667";
+WIPG01000125.1	Genbank	CDS	49545	49738	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_001667-T1_mrna"; gene_id "gene-TWF192_001667";
+WIPG01000126.1	Genbank	transcript	10832	11735	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001682-T1_mrna"; gene_id "gene-TWF192_001682"
+WIPG01000126.1	Genbank	exon	10832	11735	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001682-T1_mrna"; gene_id "gene-TWF192_001682";
+WIPG01000126.1	Genbank	CDS	10854	11735	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_001682-T1_mrna"; gene_id "gene-TWF192_001682";
+WIPG01000130.1	Genbank	transcript	41795	43149	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001974-T1_mrna"; gene_id "gene-TWF192_001974"; gene_name "FYV10"
+WIPG01000130.1	Genbank	exon	41795	42220	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001974-T1_mrna"; gene_id "gene-TWF192_001974"; gene_name "FYV10";
+WIPG01000130.1	Genbank	exon	42281	42997	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001974-T1_mrna"; gene_id "gene-TWF192_001974"; gene_name "FYV10";
+WIPG01000130.1	Genbank	exon	43082	43149	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_001974-T1_mrna"; gene_id "gene-TWF192_001974"; gene_name "FYV10";
+WIPG01000130.1	Genbank	CDS	41795	42220	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_001974-T1_mrna"; gene_id "gene-TWF192_001974"; gene_name "FYV10";
+WIPG01000130.1	Genbank	CDS	42281	42997	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_001974-T1_mrna"; gene_id "gene-TWF192_001974"; gene_name "FYV10";
+WIPG01000130.1	Genbank	CDS	43082	43132	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_001974-T1_mrna"; gene_id "gene-TWF192_001974"; gene_name "FYV10";
+WIPG01000135.1	Genbank	transcript	5669	7526	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002079-T1_mrna"; gene_id "gene-TWF192_002079"
+WIPG01000135.1	Genbank	exon	5669	6595	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002079-T1_mrna"; gene_id "gene-TWF192_002079";
+WIPG01000135.1	Genbank	exon	6653	7526	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002079-T1_mrna"; gene_id "gene-TWF192_002079";
+WIPG01000135.1	Genbank	CDS	5669	6595	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002079-T1_mrna"; gene_id "gene-TWF192_002079";
+WIPG01000135.1	Genbank	CDS	6653	7471	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002079-T1_mrna"; gene_id "gene-TWF192_002079";
+WIPG01000014.1	Genbank	transcript	244727	246230	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002254-T1_mrna"; gene_id "gene-TWF192_002254"; gene_name "KRR1"
+WIPG01000014.1	Genbank	exon	244727	244786	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002254-T1_mrna"; gene_id "gene-TWF192_002254"; gene_name "KRR1";
+WIPG01000014.1	Genbank	exon	244866	245138	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002254-T1_mrna"; gene_id "gene-TWF192_002254"; gene_name "KRR1";
+WIPG01000014.1	Genbank	exon	245197	245463	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002254-T1_mrna"; gene_id "gene-TWF192_002254"; gene_name "KRR1";
+WIPG01000014.1	Genbank	exon	245518	245664	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002254-T1_mrna"; gene_id "gene-TWF192_002254"; gene_name "KRR1";
+WIPG01000014.1	Genbank	exon	245720	246230	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002254-T1_mrna"; gene_id "gene-TWF192_002254"; gene_name "KRR1";
+WIPG01000014.1	Genbank	CDS	244727	244786	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002254-T1_mrna"; gene_id "gene-TWF192_002254"; gene_name "KRR1";
+WIPG01000014.1	Genbank	CDS	244866	245138	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002254-T1_mrna"; gene_id "gene-TWF192_002254"; gene_name "KRR1";
+WIPG01000014.1	Genbank	CDS	245197	245463	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002254-T1_mrna"; gene_id "gene-TWF192_002254"; gene_name "KRR1";
+WIPG01000014.1	Genbank	CDS	245518	245664	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002254-T1_mrna"; gene_id "gene-TWF192_002254"; gene_name "KRR1";
+WIPG01000014.1	Genbank	CDS	245720	246031	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002254-T1_mrna"; gene_id "gene-TWF192_002254"; gene_name "KRR1";
+WIPG01000014.1	Genbank	transcript	452796	456083	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325"
+WIPG01000014.1	Genbank	exon	452796	453053	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	exon	453159	453284	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	exon	453347	453414	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	exon	453476	453601	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	exon	453658	453903	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	exon	453971	454426	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	exon	454485	454742	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	exon	454796	454894	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	exon	454949	455139	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	exon	455202	455415	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	exon	455472	455639	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	exon	455697	455819	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	exon	455886	456083	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	CDS	453023	453053	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	CDS	453159	453284	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	CDS	453347	453414	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	CDS	453476	453601	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	CDS	453658	453903	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	CDS	453971	454426	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	CDS	454485	454742	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	CDS	454796	454894	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	CDS	454949	455139	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	CDS	455202	455415	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	CDS	455472	455639	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	CDS	455697	455819	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000014.1	Genbank	CDS	455886	456083	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002325-T1_mrna"; gene_id "gene-TWF192_002325";
+WIPG01000142.1	Genbank	transcript	45367	47058	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002437-T1_mrna"; gene_id "gene-TWF192_002437"
+WIPG01000142.1	Genbank	exon	45367	45509	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002437-T1_mrna"; gene_id "gene-TWF192_002437";
+WIPG01000142.1	Genbank	exon	45890	46030	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002437-T1_mrna"; gene_id "gene-TWF192_002437";
+WIPG01000142.1	Genbank	exon	46094	47058	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002437-T1_mrna"; gene_id "gene-TWF192_002437";
+WIPG01000142.1	Genbank	CDS	45941	46030	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002437-T1_mrna"; gene_id "gene-TWF192_002437";
+WIPG01000142.1	Genbank	CDS	46094	46906	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002437-T1_mrna"; gene_id "gene-TWF192_002437";
+WIPG01000015.1	Genbank	transcript	164919	167917	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002621-T1_mrna"; gene_id "gene-TWF192_002621"; gene_name "SEC10"
+WIPG01000015.1	Genbank	exon	164919	166144	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002621-T1_mrna"; gene_id "gene-TWF192_002621"; gene_name "SEC10";
+WIPG01000015.1	Genbank	exon	166205	166501	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002621-T1_mrna"; gene_id "gene-TWF192_002621"; gene_name "SEC10";
+WIPG01000015.1	Genbank	exon	166564	166738	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002621-T1_mrna"; gene_id "gene-TWF192_002621"; gene_name "SEC10";
+WIPG01000015.1	Genbank	exon	166791	167454	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002621-T1_mrna"; gene_id "gene-TWF192_002621"; gene_name "SEC10";
+WIPG01000015.1	Genbank	exon	167535	167619	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002621-T1_mrna"; gene_id "gene-TWF192_002621"; gene_name "SEC10";
+WIPG01000015.1	Genbank	exon	167740	167917	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002621-T1_mrna"; gene_id "gene-TWF192_002621"; gene_name "SEC10";
+WIPG01000015.1	Genbank	CDS	164966	166144	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002621-T1_mrna"; gene_id "gene-TWF192_002621"; gene_name "SEC10";
+WIPG01000015.1	Genbank	CDS	166205	166501	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002621-T1_mrna"; gene_id "gene-TWF192_002621"; gene_name "SEC10";
+WIPG01000015.1	Genbank	CDS	166564	166738	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_002621-T1_mrna"; gene_id "gene-TWF192_002621"; gene_name "SEC10";
+WIPG01000015.1	Genbank	CDS	166791	167454	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_002621-T1_mrna"; gene_id "gene-TWF192_002621"; gene_name "SEC10";
+WIPG01000015.1	Genbank	CDS	167535	167619	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002621-T1_mrna"; gene_id "gene-TWF192_002621"; gene_name "SEC10";
+WIPG01000015.1	Genbank	CDS	167740	167811	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002621-T1_mrna"; gene_id "gene-TWF192_002621"; gene_name "SEC10";
+WIPG01000015.1	Genbank	transcript	231438	233070	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002644-T1_mrna"; gene_id "gene-TWF192_002644"
+WIPG01000015.1	Genbank	exon	231438	231639	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002644-T1_mrna"; gene_id "gene-TWF192_002644";
+WIPG01000015.1	Genbank	exon	231734	231861	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002644-T1_mrna"; gene_id "gene-TWF192_002644";
+WIPG01000015.1	Genbank	exon	231932	233070	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002644-T1_mrna"; gene_id "gene-TWF192_002644";
+WIPG01000015.1	Genbank	CDS	231445	231639	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002644-T1_mrna"; gene_id "gene-TWF192_002644";
+WIPG01000015.1	Genbank	CDS	231734	231861	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002644-T1_mrna"; gene_id "gene-TWF192_002644";
+WIPG01000015.1	Genbank	CDS	231932	233033	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_002644-T1_mrna"; gene_id "gene-TWF192_002644";
+WIPG01000015.1	Genbank	transcript	334764	335647	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002685-T1_mrna"; gene_id "gene-TWF192_002685"; gene_name "SLD5"
+WIPG01000015.1	Genbank	exon	334764	334965	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002685-T1_mrna"; gene_id "gene-TWF192_002685"; gene_name "SLD5";
+WIPG01000015.1	Genbank	exon	335097	335225	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002685-T1_mrna"; gene_id "gene-TWF192_002685"; gene_name "SLD5";
+WIPG01000015.1	Genbank	exon	335291	335647	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002685-T1_mrna"; gene_id "gene-TWF192_002685"; gene_name "SLD5";
+WIPG01000015.1	Genbank	CDS	334795	334965	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002685-T1_mrna"; gene_id "gene-TWF192_002685"; gene_name "SLD5";
+WIPG01000015.1	Genbank	CDS	335097	335225	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002685-T1_mrna"; gene_id "gene-TWF192_002685"; gene_name "SLD5";
+WIPG01000015.1	Genbank	CDS	335291	335647	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002685-T1_mrna"; gene_id "gene-TWF192_002685"; gene_name "SLD5";
+WIPG01000015.1	Genbank	transcript	379430	380707	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002696-T1_mrna"; gene_id "gene-TWF192_002696"; gene_name "DOM34"
+WIPG01000015.1	Genbank	exon	379430	380181	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002696-T1_mrna"; gene_id "gene-TWF192_002696"; gene_name "DOM34";
+WIPG01000015.1	Genbank	exon	380259	380707	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002696-T1_mrna"; gene_id "gene-TWF192_002696"; gene_name "DOM34";
+WIPG01000015.1	Genbank	CDS	379430	380181	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_002696-T1_mrna"; gene_id "gene-TWF192_002696"; gene_name "DOM34";
+WIPG01000015.1	Genbank	CDS	380259	380691	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002696-T1_mrna"; gene_id "gene-TWF192_002696"; gene_name "DOM34";
+WIPG01000155.1	Genbank	transcript	48457	49689	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002844-T1_mrna"; gene_id "gene-TWF192_002844"; gene_name "ATG3"
+WIPG01000155.1	Genbank	exon	48457	48540	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002844-T1_mrna"; gene_id "gene-TWF192_002844"; gene_name "ATG3";
+WIPG01000155.1	Genbank	exon	48600	49050	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002844-T1_mrna"; gene_id "gene-TWF192_002844"; gene_name "ATG3";
+WIPG01000155.1	Genbank	exon	49137	49689	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_002844-T1_mrna"; gene_id "gene-TWF192_002844"; gene_name "ATG3";
+WIPG01000155.1	Genbank	CDS	48457	48540	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002844-T1_mrna"; gene_id "gene-TWF192_002844"; gene_name "ATG3";
+WIPG01000155.1	Genbank	CDS	48600	49050	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_002844-T1_mrna"; gene_id "gene-TWF192_002844"; gene_name "ATG3";
+WIPG01000155.1	Genbank	CDS	49137	49642	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_002844-T1_mrna"; gene_id "gene-TWF192_002844"; gene_name "ATG3";
+WIPG01000017.1	Genbank	transcript	117812	119026	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003214-T1_mrna"; gene_id "gene-TWF192_003214"
+WIPG01000017.1	Genbank	exon	117812	119026	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003214-T1_mrna"; gene_id "gene-TWF192_003214";
+WIPG01000017.1	Genbank	CDS	117812	119026	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_003214-T1_mrna"; gene_id "gene-TWF192_003214";
+WIPG01000173.1	Genbank	transcript	9125	11356	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003374-T1_mrna"; gene_id "gene-TWF192_003374"
+WIPG01000173.1	Genbank	exon	9125	9620	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003374-T1_mrna"; gene_id "gene-TWF192_003374";
+WIPG01000173.1	Genbank	exon	9748	9921	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003374-T1_mrna"; gene_id "gene-TWF192_003374";
+WIPG01000173.1	Genbank	exon	10004	10163	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003374-T1_mrna"; gene_id "gene-TWF192_003374";
+WIPG01000173.1	Genbank	exon	10288	10478	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003374-T1_mrna"; gene_id "gene-TWF192_003374";
+WIPG01000173.1	Genbank	exon	10587	10925	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003374-T1_mrna"; gene_id "gene-TWF192_003374";
+WIPG01000173.1	Genbank	exon	11076	11356	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003374-T1_mrna"; gene_id "gene-TWF192_003374";
+WIPG01000173.1	Genbank	CDS	9125	9620	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_003374-T1_mrna"; gene_id "gene-TWF192_003374";
+WIPG01000173.1	Genbank	CDS	9748	9921	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_003374-T1_mrna"; gene_id "gene-TWF192_003374";
+WIPG01000173.1	Genbank	CDS	10004	10163	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_003374-T1_mrna"; gene_id "gene-TWF192_003374";
+WIPG01000173.1	Genbank	CDS	10288	10478	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_003374-T1_mrna"; gene_id "gene-TWF192_003374";
+WIPG01000173.1	Genbank	CDS	10587	10925	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_003374-T1_mrna"; gene_id "gene-TWF192_003374";
+WIPG01000173.1	Genbank	CDS	11076	11356	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_003374-T1_mrna"; gene_id "gene-TWF192_003374";
+WIPG01000174.1	Genbank	transcript	5399	6019	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003387-T1_mrna"; gene_id "gene-TWF192_003387"; gene_name "MRPL51"
+WIPG01000174.1	Genbank	exon	5399	5585	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003387-T1_mrna"; gene_id "gene-TWF192_003387"; gene_name "MRPL51";
+WIPG01000174.1	Genbank	exon	5645	5751	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003387-T1_mrna"; gene_id "gene-TWF192_003387"; gene_name "MRPL51";
+WIPG01000174.1	Genbank	exon	5826	6019	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003387-T1_mrna"; gene_id "gene-TWF192_003387"; gene_name "MRPL51";
+WIPG01000174.1	Genbank	CDS	5464	5585	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_003387-T1_mrna"; gene_id "gene-TWF192_003387"; gene_name "MRPL51";
+WIPG01000174.1	Genbank	CDS	5645	5751	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_003387-T1_mrna"; gene_id "gene-TWF192_003387"; gene_name "MRPL51";
+WIPG01000174.1	Genbank	CDS	5826	6019	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_003387-T1_mrna"; gene_id "gene-TWF192_003387"; gene_name "MRPL51";
+WIPG01000018.1	Genbank	transcript	267948	270889	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003521-T1_mrna"; gene_id "gene-TWF192_003521"; gene_name "NOP14"
+WIPG01000018.1	Genbank	exon	267948	268757	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003521-T1_mrna"; gene_id "gene-TWF192_003521"; gene_name "NOP14";
+WIPG01000018.1	Genbank	exon	268815	269183	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003521-T1_mrna"; gene_id "gene-TWF192_003521"; gene_name "NOP14";
+WIPG01000018.1	Genbank	exon	269240	270553	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003521-T1_mrna"; gene_id "gene-TWF192_003521"; gene_name "NOP14";
+WIPG01000018.1	Genbank	exon	270614	270889	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003521-T1_mrna"; gene_id "gene-TWF192_003521"; gene_name "NOP14";
+WIPG01000018.1	Genbank	CDS	267948	268757	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_003521-T1_mrna"; gene_id "gene-TWF192_003521"; gene_name "NOP14";
+WIPG01000018.1	Genbank	CDS	268815	269183	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_003521-T1_mrna"; gene_id "gene-TWF192_003521"; gene_name "NOP14";
+WIPG01000018.1	Genbank	CDS	269240	270553	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_003521-T1_mrna"; gene_id "gene-TWF192_003521"; gene_name "NOP14";
+WIPG01000018.1	Genbank	CDS	270614	270889	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_003521-T1_mrna"; gene_id "gene-TWF192_003521"; gene_name "NOP14";
+WIPG01000018.1	Genbank	transcript	271126	272303	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003522-T1_mrna"; gene_id "gene-TWF192_003522"
+WIPG01000018.1	Genbank	exon	271126	271204	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003522-T1_mrna"; gene_id "gene-TWF192_003522";
+WIPG01000018.1	Genbank	exon	271261	271319	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003522-T1_mrna"; gene_id "gene-TWF192_003522";
+WIPG01000018.1	Genbank	exon	271386	271496	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003522-T1_mrna"; gene_id "gene-TWF192_003522";
+WIPG01000018.1	Genbank	exon	271560	272303	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003522-T1_mrna"; gene_id "gene-TWF192_003522";
+WIPG01000018.1	Genbank	CDS	271126	271204	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_003522-T1_mrna"; gene_id "gene-TWF192_003522";
+WIPG01000018.1	Genbank	CDS	271261	271319	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_003522-T1_mrna"; gene_id "gene-TWF192_003522";
+WIPG01000018.1	Genbank	CDS	271386	271496	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_003522-T1_mrna"; gene_id "gene-TWF192_003522";
+WIPG01000018.1	Genbank	CDS	271560	272303	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_003522-T1_mrna"; gene_id "gene-TWF192_003522";
+WIPG01000018.1	Genbank	transcript	286276	288864	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003527-T1_mrna"; gene_id "gene-TWF192_003527"
+WIPG01000018.1	Genbank	exon	286276	286691	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003527-T1_mrna"; gene_id "gene-TWF192_003527";
+WIPG01000018.1	Genbank	exon	286751	287045	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003527-T1_mrna"; gene_id "gene-TWF192_003527";
+WIPG01000018.1	Genbank	exon	287108	288228	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003527-T1_mrna"; gene_id "gene-TWF192_003527";
+WIPG01000018.1	Genbank	exon	288287	288864	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003527-T1_mrna"; gene_id "gene-TWF192_003527";
+WIPG01000018.1	Genbank	CDS	286488	286691	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_003527-T1_mrna"; gene_id "gene-TWF192_003527";
+WIPG01000018.1	Genbank	CDS	286751	287045	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_003527-T1_mrna"; gene_id "gene-TWF192_003527";
+WIPG01000018.1	Genbank	CDS	287108	288228	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_003527-T1_mrna"; gene_id "gene-TWF192_003527";
+WIPG01000018.1	Genbank	CDS	288287	288670	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_003527-T1_mrna"; gene_id "gene-TWF192_003527";
+WIPG01000182.1	Genbank	transcript	7757	9201	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003614-T1_mrna"; gene_id "gene-TWF192_003614"; gene_name "DPH1"
+WIPG01000182.1	Genbank	exon	7757	8928	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003614-T1_mrna"; gene_id "gene-TWF192_003614"; gene_name "DPH1";
+WIPG01000182.1	Genbank	exon	9009	9201	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003614-T1_mrna"; gene_id "gene-TWF192_003614"; gene_name "DPH1";
+WIPG01000182.1	Genbank	CDS	7757	8928	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_003614-T1_mrna"; gene_id "gene-TWF192_003614"; gene_name "DPH1";
+WIPG01000182.1	Genbank	CDS	9009	9201	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_003614-T1_mrna"; gene_id "gene-TWF192_003614"; gene_name "DPH1";
+WIPG01000187.1	Genbank	transcript	11687	13588	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003660-T1_mrna"; gene_id "gene-TWF192_003660"; gene_name "SPB4"
+WIPG01000187.1	Genbank	exon	11687	13588	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003660-T1_mrna"; gene_id "gene-TWF192_003660"; gene_name "SPB4";
+WIPG01000187.1	Genbank	CDS	11687	13588	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_003660-T1_mrna"; gene_id "gene-TWF192_003660"; gene_name "SPB4";
+WIPG01000019.1	Genbank	transcript	458852	460393	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003836-T1_mrna"; gene_id "gene-TWF192_003836"
+WIPG01000019.1	Genbank	exon	458852	460393	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003836-T1_mrna"; gene_id "gene-TWF192_003836";
+WIPG01000019.1	Genbank	CDS	458852	460393	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_003836-T1_mrna"; gene_id "gene-TWF192_003836";
+WIPG01000002.1	Genbank	transcript	222172	223494	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003978-T1_mrna"; gene_id "gene-TWF192_003978"
+WIPG01000002.1	Genbank	exon	222172	222228	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003978-T1_mrna"; gene_id "gene-TWF192_003978";
+WIPG01000002.1	Genbank	exon	222303	222320	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003978-T1_mrna"; gene_id "gene-TWF192_003978";
+WIPG01000002.1	Genbank	exon	222402	222648	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003978-T1_mrna"; gene_id "gene-TWF192_003978";
+WIPG01000002.1	Genbank	exon	222722	222973	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003978-T1_mrna"; gene_id "gene-TWF192_003978";
+WIPG01000002.1	Genbank	exon	223037	223494	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_003978-T1_mrna"; gene_id "gene-TWF192_003978";
+WIPG01000002.1	Genbank	CDS	222172	222228	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_003978-T1_mrna"; gene_id "gene-TWF192_003978";
+WIPG01000002.1	Genbank	CDS	222303	222320	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_003978-T1_mrna"; gene_id "gene-TWF192_003978";
+WIPG01000002.1	Genbank	CDS	222402	222648	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_003978-T1_mrna"; gene_id "gene-TWF192_003978";
+WIPG01000002.1	Genbank	CDS	222722	222973	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_003978-T1_mrna"; gene_id "gene-TWF192_003978";
+WIPG01000002.1	Genbank	CDS	223037	223494	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_003978-T1_mrna"; gene_id "gene-TWF192_003978";
+WIPG01000002.1	Genbank	transcript	749799	751346	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004124-T1_mrna"; gene_id "gene-TWF192_004124"; gene_name "TSR3"
+WIPG01000002.1	Genbank	exon	749799	750572	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004124-T1_mrna"; gene_id "gene-TWF192_004124"; gene_name "TSR3";
+WIPG01000002.1	Genbank	exon	750646	750685	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004124-T1_mrna"; gene_id "gene-TWF192_004124"; gene_name "TSR3";
+WIPG01000002.1	Genbank	exon	750752	750848	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004124-T1_mrna"; gene_id "gene-TWF192_004124"; gene_name "TSR3";
+WIPG01000002.1	Genbank	exon	750909	751073	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004124-T1_mrna"; gene_id "gene-TWF192_004124"; gene_name "TSR3";
+WIPG01000002.1	Genbank	exon	751150	751346	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004124-T1_mrna"; gene_id "gene-TWF192_004124"; gene_name "TSR3";
+WIPG01000002.1	Genbank	CDS	749803	750572	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_004124-T1_mrna"; gene_id "gene-TWF192_004124"; gene_name "TSR3";
+WIPG01000002.1	Genbank	CDS	750646	750685	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004124-T1_mrna"; gene_id "gene-TWF192_004124"; gene_name "TSR3";
+WIPG01000002.1	Genbank	CDS	750752	750848	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_004124-T1_mrna"; gene_id "gene-TWF192_004124"; gene_name "TSR3";
+WIPG01000002.1	Genbank	CDS	750909	751073	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_004124-T1_mrna"; gene_id "gene-TWF192_004124"; gene_name "TSR3";
+WIPG01000002.1	Genbank	CDS	751150	751208	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004124-T1_mrna"; gene_id "gene-TWF192_004124"; gene_name "TSR3";
+WIPG01000002.1	Genbank	transcript	875209	879750	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004162-T1_mrna"; gene_id "gene-TWF192_004162"; gene_name "COG3"
+WIPG01000002.1	Genbank	exon	875209	875396	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004162-T1_mrna"; gene_id "gene-TWF192_004162"; gene_name "COG3";
+WIPG01000002.1	Genbank	exon	875467	876002	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004162-T1_mrna"; gene_id "gene-TWF192_004162"; gene_name "COG3";
+WIPG01000002.1	Genbank	exon	876291	876550	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004162-T1_mrna"; gene_id "gene-TWF192_004162"; gene_name "COG3";
+WIPG01000002.1	Genbank	exon	877010	877387	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004162-T1_mrna"; gene_id "gene-TWF192_004162"; gene_name "COG3";
+WIPG01000002.1	Genbank	exon	877445	877756	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004162-T1_mrna"; gene_id "gene-TWF192_004162"; gene_name "COG3";
+WIPG01000002.1	Genbank	exon	877810	878150	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004162-T1_mrna"; gene_id "gene-TWF192_004162"; gene_name "COG3";
+WIPG01000002.1	Genbank	exon	878200	878333	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004162-T1_mrna"; gene_id "gene-TWF192_004162"; gene_name "COG3";
+WIPG01000002.1	Genbank	exon	878394	878854	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004162-T1_mrna"; gene_id "gene-TWF192_004162"; gene_name "COG3";
+WIPG01000002.1	Genbank	exon	878920	879256	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004162-T1_mrna"; gene_id "gene-TWF192_004162"; gene_name "COG3";
+WIPG01000002.1	Genbank	exon	879314	879546	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004162-T1_mrna"; gene_id "gene-TWF192_004162"; gene_name "COG3";
+WIPG01000002.1	Genbank	exon	879626	879750	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004162-T1_mrna"; gene_id "gene-TWF192_004162"; gene_name "COG3";
+WIPG01000002.1	Genbank	CDS	875353	875396	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_004162-T1_mrna"; gene_id "gene-TWF192_004162"; gene_name "COG3";
+WIPG01000002.1	Genbank	CDS	875467	876002	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_004162-T1_mrna"; gene_id "gene-TWF192_004162"; gene_name "COG3";
+WIPG01000002.1	Genbank	CDS	876291	876550	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004162-T1_mrna"; gene_id "gene-TWF192_004162"; gene_name "COG3";
+WIPG01000002.1	Genbank	CDS	877010	877387	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004162-T1_mrna"; gene_id "gene-TWF192_004162"; gene_name "COG3";
+WIPG01000002.1	Genbank	CDS	877445	877756	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004162-T1_mrna"; gene_id "gene-TWF192_004162"; gene_name "COG3";
+WIPG01000002.1	Genbank	CDS	877810	878150	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_004162-T1_mrna"; gene_id "gene-TWF192_004162"; gene_name "COG3";
+WIPG01000002.1	Genbank	CDS	878200	878333	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_004162-T1_mrna"; gene_id "gene-TWF192_004162"; gene_name "COG3";
+WIPG01000002.1	Genbank	CDS	878394	878854	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004162-T1_mrna"; gene_id "gene-TWF192_004162"; gene_name "COG3";
+WIPG01000002.1	Genbank	CDS	878920	879256	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_004162-T1_mrna"; gene_id "gene-TWF192_004162"; gene_name "COG3";
+WIPG01000002.1	Genbank	CDS	879314	879546	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004162-T1_mrna"; gene_id "gene-TWF192_004162"; gene_name "COG3";
+WIPG01000002.1	Genbank	CDS	879626	879730	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004162-T1_mrna"; gene_id "gene-TWF192_004162"; gene_name "COG3";
+WIPG01000021.1	Genbank	transcript	27086	28739	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004371-T1_mrna"; gene_id "gene-TWF192_004371"; gene_name "COX15"
+WIPG01000021.1	Genbank	exon	27086	28211	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004371-T1_mrna"; gene_id "gene-TWF192_004371"; gene_name "COX15";
+WIPG01000021.1	Genbank	exon	28290	28739	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004371-T1_mrna"; gene_id "gene-TWF192_004371"; gene_name "COX15";
+WIPG01000021.1	Genbank	CDS	27086	28211	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_004371-T1_mrna"; gene_id "gene-TWF192_004371"; gene_name "COX15";
+WIPG01000021.1	Genbank	CDS	28290	28723	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004371-T1_mrna"; gene_id "gene-TWF192_004371"; gene_name "COX15";
+WIPG01000021.1	Genbank	transcript	339867	341826	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004472-T1_mrna"; gene_id "gene-TWF192_004472"
+WIPG01000021.1	Genbank	exon	339867	340219	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004472-T1_mrna"; gene_id "gene-TWF192_004472";
+WIPG01000021.1	Genbank	exon	340292	340365	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004472-T1_mrna"; gene_id "gene-TWF192_004472";
+WIPG01000021.1	Genbank	exon	340428	340507	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004472-T1_mrna"; gene_id "gene-TWF192_004472";
+WIPG01000021.1	Genbank	exon	340597	341826	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004472-T1_mrna"; gene_id "gene-TWF192_004472";
+WIPG01000021.1	Genbank	CDS	339891	340219	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004472-T1_mrna"; gene_id "gene-TWF192_004472";
+WIPG01000021.1	Genbank	CDS	340292	340365	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_004472-T1_mrna"; gene_id "gene-TWF192_004472";
+WIPG01000021.1	Genbank	CDS	340428	340507	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_004472-T1_mrna"; gene_id "gene-TWF192_004472";
+WIPG01000021.1	Genbank	CDS	340597	341826	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004472-T1_mrna"; gene_id "gene-TWF192_004472";
+WIPG01000021.1	Genbank	transcript	348628	350106	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004475-T1_mrna"; gene_id "gene-TWF192_004475"
+WIPG01000021.1	Genbank	exon	348628	348818	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004475-T1_mrna"; gene_id "gene-TWF192_004475";
+WIPG01000021.1	Genbank	exon	348877	350106	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004475-T1_mrna"; gene_id "gene-TWF192_004475";
+WIPG01000021.1	Genbank	CDS	348789	348818	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004475-T1_mrna"; gene_id "gene-TWF192_004475";
+WIPG01000021.1	Genbank	CDS	348877	350106	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004475-T1_mrna"; gene_id "gene-TWF192_004475";
+WIPG01000213.1	Genbank	transcript	15759	16498	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_011539-T1_mrna"; gene_id "gene-TWF192_011539"
+WIPG01000213.1	Genbank	exon	15759	15794	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_011539-T1_mrna"; gene_id "gene-TWF192_011539";
+WIPG01000213.1	Genbank	exon	15854	16351	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_011539-T1_mrna"; gene_id "gene-TWF192_011539";
+WIPG01000213.1	Genbank	exon	16409	16498	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_011539-T1_mrna"; gene_id "gene-TWF192_011539";
+WIPG01000213.1	Genbank	CDS	15866	16351	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_011539-T1_mrna"; gene_id "gene-TWF192_011539";
+WIPG01000213.1	Genbank	CDS	16409	16492	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_011539-T1_mrna"; gene_id "gene-TWF192_011539";
+WIPG01000022.1	Genbank	transcript	455415	457122	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004659-T1_mrna"; gene_id "gene-TWF192_004659"
+WIPG01000022.1	Genbank	exon	455415	457122	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004659-T1_mrna"; gene_id "gene-TWF192_004659";
+WIPG01000022.1	Genbank	CDS	455530	457122	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004659-T1_mrna"; gene_id "gene-TWF192_004659";
+WIPG01000023.1	Genbank	transcript	33572	34502	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004694-T1_mrna"; gene_id "gene-TWF192_004694"; gene_name "TMA22"
+WIPG01000023.1	Genbank	exon	33572	33677	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004694-T1_mrna"; gene_id "gene-TWF192_004694"; gene_name "TMA22";
+WIPG01000023.1	Genbank	exon	33759	33778	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004694-T1_mrna"; gene_id "gene-TWF192_004694"; gene_name "TMA22";
+WIPG01000023.1	Genbank	exon	33883	33970	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004694-T1_mrna"; gene_id "gene-TWF192_004694"; gene_name "TMA22";
+WIPG01000023.1	Genbank	exon	34087	34502	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004694-T1_mrna"; gene_id "gene-TWF192_004694"; gene_name "TMA22";
+WIPG01000023.1	Genbank	CDS	33572	33677	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004694-T1_mrna"; gene_id "gene-TWF192_004694"; gene_name "TMA22";
+WIPG01000023.1	Genbank	CDS	33759	33778	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_004694-T1_mrna"; gene_id "gene-TWF192_004694"; gene_name "TMA22";
+WIPG01000023.1	Genbank	CDS	33883	33970	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004694-T1_mrna"; gene_id "gene-TWF192_004694"; gene_name "TMA22";
+WIPG01000023.1	Genbank	CDS	34087	34502	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_004694-T1_mrna"; gene_id "gene-TWF192_004694"; gene_name "TMA22";
+WIPG01000023.1	Genbank	transcript	42443	43918	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004698-T1_mrna"; gene_id "gene-TWF192_004698"
+WIPG01000023.1	Genbank	exon	42443	43018	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004698-T1_mrna"; gene_id "gene-TWF192_004698";
+WIPG01000023.1	Genbank	exon	43150	43433	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004698-T1_mrna"; gene_id "gene-TWF192_004698";
+WIPG01000023.1	Genbank	exon	43540	43586	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004698-T1_mrna"; gene_id "gene-TWF192_004698";
+WIPG01000023.1	Genbank	exon	43694	43732	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004698-T1_mrna"; gene_id "gene-TWF192_004698";
+WIPG01000023.1	Genbank	exon	43830	43918	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004698-T1_mrna"; gene_id "gene-TWF192_004698";
+WIPG01000023.1	Genbank	CDS	42443	43018	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004698-T1_mrna"; gene_id "gene-TWF192_004698";
+WIPG01000023.1	Genbank	CDS	43150	43433	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_004698-T1_mrna"; gene_id "gene-TWF192_004698";
+WIPG01000023.1	Genbank	CDS	43540	43586	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_004698-T1_mrna"; gene_id "gene-TWF192_004698";
+WIPG01000023.1	Genbank	CDS	43694	43732	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_004698-T1_mrna"; gene_id "gene-TWF192_004698";
+WIPG01000023.1	Genbank	CDS	43830	43918	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004698-T1_mrna"; gene_id "gene-TWF192_004698";
+WIPG01000023.1	Genbank	transcript	47876	48773	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004700-T1_mrna"; gene_id "gene-TWF192_004700"; gene_name "RPB7"
+WIPG01000023.1	Genbank	exon	47876	47889	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004700-T1_mrna"; gene_id "gene-TWF192_004700"; gene_name "RPB7";
+WIPG01000023.1	Genbank	exon	47946	47956	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004700-T1_mrna"; gene_id "gene-TWF192_004700"; gene_name "RPB7";
+WIPG01000023.1	Genbank	exon	48028	48186	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004700-T1_mrna"; gene_id "gene-TWF192_004700"; gene_name "RPB7";
+WIPG01000023.1	Genbank	exon	48277	48357	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004700-T1_mrna"; gene_id "gene-TWF192_004700"; gene_name "RPB7";
+WIPG01000023.1	Genbank	exon	48453	48773	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004700-T1_mrna"; gene_id "gene-TWF192_004700"; gene_name "RPB7";
+WIPG01000023.1	Genbank	CDS	47880	47889	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_004700-T1_mrna"; gene_id "gene-TWF192_004700"; gene_name "RPB7";
+WIPG01000023.1	Genbank	CDS	47946	47956	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004700-T1_mrna"; gene_id "gene-TWF192_004700"; gene_name "RPB7";
+WIPG01000023.1	Genbank	CDS	48028	48186	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004700-T1_mrna"; gene_id "gene-TWF192_004700"; gene_name "RPB7";
+WIPG01000023.1	Genbank	CDS	48277	48357	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004700-T1_mrna"; gene_id "gene-TWF192_004700"; gene_name "RPB7";
+WIPG01000023.1	Genbank	CDS	48453	48701	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004700-T1_mrna"; gene_id "gene-TWF192_004700"; gene_name "RPB7";
+WIPG01000023.1	Genbank	transcript	152076	154341	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004736-T1_mrna"; gene_id "gene-TWF192_004736"
+WIPG01000023.1	Genbank	exon	152076	152416	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004736-T1_mrna"; gene_id "gene-TWF192_004736";
+WIPG01000023.1	Genbank	exon	152516	153688	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004736-T1_mrna"; gene_id "gene-TWF192_004736";
+WIPG01000023.1	Genbank	exon	153750	153914	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004736-T1_mrna"; gene_id "gene-TWF192_004736";
+WIPG01000023.1	Genbank	exon	153983	154073	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004736-T1_mrna"; gene_id "gene-TWF192_004736";
+WIPG01000023.1	Genbank	exon	154138	154197	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004736-T1_mrna"; gene_id "gene-TWF192_004736";
+WIPG01000023.1	Genbank	exon	154301	154341	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004736-T1_mrna"; gene_id "gene-TWF192_004736";
+WIPG01000023.1	Genbank	CDS	152303	152416	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004736-T1_mrna"; gene_id "gene-TWF192_004736";
+WIPG01000023.1	Genbank	CDS	152516	153688	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004736-T1_mrna"; gene_id "gene-TWF192_004736";
+WIPG01000023.1	Genbank	CDS	153750	153914	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004736-T1_mrna"; gene_id "gene-TWF192_004736";
+WIPG01000023.1	Genbank	CDS	153983	154073	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_004736-T1_mrna"; gene_id "gene-TWF192_004736";
+WIPG01000023.1	Genbank	CDS	154138	154197	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_004736-T1_mrna"; gene_id "gene-TWF192_004736";
+WIPG01000023.1	Genbank	CDS	154301	154341	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004736-T1_mrna"; gene_id "gene-TWF192_004736";
+WIPG01000024.1	Genbank	transcript	234212	235755	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004909-T1_mrna"; gene_id "gene-TWF192_004909"
+WIPG01000024.1	Genbank	exon	234212	234477	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004909-T1_mrna"; gene_id "gene-TWF192_004909";
+WIPG01000024.1	Genbank	exon	234543	234900	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004909-T1_mrna"; gene_id "gene-TWF192_004909";
+WIPG01000024.1	Genbank	exon	234965	235239	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004909-T1_mrna"; gene_id "gene-TWF192_004909";
+WIPG01000024.1	Genbank	exon	235297	235755	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004909-T1_mrna"; gene_id "gene-TWF192_004909";
+WIPG01000024.1	Genbank	CDS	234264	234477	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004909-T1_mrna"; gene_id "gene-TWF192_004909";
+WIPG01000024.1	Genbank	CDS	234543	234900	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_004909-T1_mrna"; gene_id "gene-TWF192_004909";
+WIPG01000024.1	Genbank	CDS	234965	235239	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_004909-T1_mrna"; gene_id "gene-TWF192_004909";
+WIPG01000024.1	Genbank	CDS	235297	235709	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_004909-T1_mrna"; gene_id "gene-TWF192_004909";
+WIPG01000024.1	Genbank	transcript	243277	245398	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004914-T1_mrna"; gene_id "gene-TWF192_004914"; gene_name "RRP9"
+WIPG01000024.1	Genbank	exon	243277	243666	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004914-T1_mrna"; gene_id "gene-TWF192_004914"; gene_name "RRP9";
+WIPG01000024.1	Genbank	exon	243933	244809	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004914-T1_mrna"; gene_id "gene-TWF192_004914"; gene_name "RRP9";
+WIPG01000024.1	Genbank	exon	244873	245398	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004914-T1_mrna"; gene_id "gene-TWF192_004914"; gene_name "RRP9";
+WIPG01000024.1	Genbank	CDS	243381	243666	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004914-T1_mrna"; gene_id "gene-TWF192_004914"; gene_name "RRP9";
+WIPG01000024.1	Genbank	CDS	243933	244809	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_004914-T1_mrna"; gene_id "gene-TWF192_004914"; gene_name "RRP9";
+WIPG01000024.1	Genbank	CDS	244873	245398	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_004914-T1_mrna"; gene_id "gene-TWF192_004914"; gene_name "RRP9";
+WIPG01000024.1	Genbank	transcript	401463	403486	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004958-T1_mrna"; gene_id "gene-TWF192_004958"
+WIPG01000024.1	Genbank	exon	401463	401519	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004958-T1_mrna"; gene_id "gene-TWF192_004958";
+WIPG01000024.1	Genbank	exon	401605	401769	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004958-T1_mrna"; gene_id "gene-TWF192_004958";
+WIPG01000024.1	Genbank	exon	401845	402555	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004958-T1_mrna"; gene_id "gene-TWF192_004958";
+WIPG01000024.1	Genbank	exon	402625	403486	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004958-T1_mrna"; gene_id "gene-TWF192_004958";
+WIPG01000024.1	Genbank	CDS	401463	401519	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004958-T1_mrna"; gene_id "gene-TWF192_004958";
+WIPG01000024.1	Genbank	CDS	401605	401769	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004958-T1_mrna"; gene_id "gene-TWF192_004958";
+WIPG01000024.1	Genbank	CDS	401845	402555	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004958-T1_mrna"; gene_id "gene-TWF192_004958";
+WIPG01000024.1	Genbank	CDS	402625	403245	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004958-T1_mrna"; gene_id "gene-TWF192_004958";
+WIPG01000024.1	Genbank	transcript	421919	424769	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004965-T1_mrna"; gene_id "gene-TWF192_004965"; gene_name "RSM23"
+WIPG01000024.1	Genbank	exon	421919	423749	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004965-T1_mrna"; gene_id "gene-TWF192_004965"; gene_name "RSM23";
+WIPG01000024.1	Genbank	exon	423827	423974	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004965-T1_mrna"; gene_id "gene-TWF192_004965"; gene_name "RSM23";
+WIPG01000024.1	Genbank	exon	424048	424769	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_004965-T1_mrna"; gene_id "gene-TWF192_004965"; gene_name "RSM23";
+WIPG01000024.1	Genbank	CDS	422281	423749	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004965-T1_mrna"; gene_id "gene-TWF192_004965"; gene_name "RSM23";
+WIPG01000024.1	Genbank	CDS	423827	423974	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_004965-T1_mrna"; gene_id "gene-TWF192_004965"; gene_name "RSM23";
+WIPG01000024.1	Genbank	CDS	424048	424644	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_004965-T1_mrna"; gene_id "gene-TWF192_004965"; gene_name "RSM23";
+WIPG01000025.1	Genbank	transcript	236767	240123	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005040-T1_mrna"; gene_id "gene-TWF192_005040"
+WIPG01000025.1	Genbank	exon	236767	236884	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005040-T1_mrna"; gene_id "gene-TWF192_005040";
+WIPG01000025.1	Genbank	exon	236951	240123	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005040-T1_mrna"; gene_id "gene-TWF192_005040";
+WIPG01000025.1	Genbank	CDS	236767	236884	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_005040-T1_mrna"; gene_id "gene-TWF192_005040";
+WIPG01000025.1	Genbank	CDS	236951	238941	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_005040-T1_mrna"; gene_id "gene-TWF192_005040";
+WIPG01000028.1	Genbank	transcript	63101	65222	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005395-T1_mrna"; gene_id "gene-TWF192_005395"; gene_name "ESF1"
+WIPG01000028.1	Genbank	exon	63101	65080	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005395-T1_mrna"; gene_id "gene-TWF192_005395"; gene_name "ESF1";
+WIPG01000028.1	Genbank	exon	65144	65222	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005395-T1_mrna"; gene_id "gene-TWF192_005395"; gene_name "ESF1";
+WIPG01000028.1	Genbank	CDS	63111	65080	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_005395-T1_mrna"; gene_id "gene-TWF192_005395"; gene_name "ESF1";
+WIPG01000028.1	Genbank	CDS	65144	65222	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_005395-T1_mrna"; gene_id "gene-TWF192_005395"; gene_name "ESF1";
+WIPG01000028.1	Genbank	transcript	276311	277901	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005459-T1_mrna"; gene_id "gene-TWF192_005459"; gene_name "EBP2"
+WIPG01000028.1	Genbank	exon	276311	276730	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005459-T1_mrna"; gene_id "gene-TWF192_005459"; gene_name "EBP2";
+WIPG01000028.1	Genbank	exon	276795	277901	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005459-T1_mrna"; gene_id "gene-TWF192_005459"; gene_name "EBP2";
+WIPG01000028.1	Genbank	CDS	276426	276730	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_005459-T1_mrna"; gene_id "gene-TWF192_005459"; gene_name "EBP2";
+WIPG01000028.1	Genbank	CDS	276795	277746	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_005459-T1_mrna"; gene_id "gene-TWF192_005459"; gene_name "EBP2";
+WIPG01000028.1	Genbank	transcript	389917	390780	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005491-T1_mrna"; gene_id "gene-TWF192_005491"; gene_name "MRT4"
+WIPG01000028.1	Genbank	exon	389917	389980	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005491-T1_mrna"; gene_id "gene-TWF192_005491"; gene_name "MRT4";
+WIPG01000028.1	Genbank	exon	390043	390504	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005491-T1_mrna"; gene_id "gene-TWF192_005491"; gene_name "MRT4";
+WIPG01000028.1	Genbank	exon	390590	390780	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005491-T1_mrna"; gene_id "gene-TWF192_005491"; gene_name "MRT4";
+WIPG01000028.1	Genbank	CDS	389917	389980	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_005491-T1_mrna"; gene_id "gene-TWF192_005491"; gene_name "MRT4";
+WIPG01000028.1	Genbank	CDS	390043	390504	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_005491-T1_mrna"; gene_id "gene-TWF192_005491"; gene_name "MRT4";
+WIPG01000028.1	Genbank	CDS	390590	390780	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_005491-T1_mrna"; gene_id "gene-TWF192_005491"; gene_name "MRT4";
+WIPG01000029.1	Genbank	transcript	302534	304639	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005605-T1_mrna"; gene_id "gene-TWF192_005605"; gene_name "DBP6"
+WIPG01000029.1	Genbank	exon	302534	304639	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005605-T1_mrna"; gene_id "gene-TWF192_005605"; gene_name "DBP6";
+WIPG01000029.1	Genbank	CDS	302534	304540	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_005605-T1_mrna"; gene_id "gene-TWF192_005605"; gene_name "DBP6";
+WIPG01000003.1	Genbank	transcript	388030	389133	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005795-T1_mrna"; gene_id "gene-TWF192_005795"
+WIPG01000003.1	Genbank	exon	388030	388670	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005795-T1_mrna"; gene_id "gene-TWF192_005795";
+WIPG01000003.1	Genbank	exon	388742	388861	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005795-T1_mrna"; gene_id "gene-TWF192_005795";
+WIPG01000003.1	Genbank	exon	388962	389133	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005795-T1_mrna"; gene_id "gene-TWF192_005795";
+WIPG01000003.1	Genbank	CDS	388058	388670	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_005795-T1_mrna"; gene_id "gene-TWF192_005795";
+WIPG01000003.1	Genbank	CDS	388742	388779	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_005795-T1_mrna"; gene_id "gene-TWF192_005795";
+WIPG01000003.1	Genbank	transcript	395269	396764	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005798-T1_mrna"; gene_id "gene-TWF192_005798"; gene_name "CWC15"
+WIPG01000003.1	Genbank	exon	395269	395410	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005798-T1_mrna"; gene_id "gene-TWF192_005798"; gene_name "CWC15";
+WIPG01000003.1	Genbank	exon	395480	395556	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005798-T1_mrna"; gene_id "gene-TWF192_005798"; gene_name "CWC15";
+WIPG01000003.1	Genbank	exon	395667	396288	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005798-T1_mrna"; gene_id "gene-TWF192_005798"; gene_name "CWC15";
+WIPG01000003.1	Genbank	exon	396381	396764	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_005798-T1_mrna"; gene_id "gene-TWF192_005798"; gene_name "CWC15";
+WIPG01000003.1	Genbank	CDS	395378	395410	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_005798-T1_mrna"; gene_id "gene-TWF192_005798"; gene_name "CWC15";
+WIPG01000003.1	Genbank	CDS	395480	395556	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_005798-T1_mrna"; gene_id "gene-TWF192_005798"; gene_name "CWC15";
+WIPG01000003.1	Genbank	CDS	395667	396288	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_005798-T1_mrna"; gene_id "gene-TWF192_005798"; gene_name "CWC15";
+WIPG01000003.1	Genbank	CDS	396381	396398	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_005798-T1_mrna"; gene_id "gene-TWF192_005798"; gene_name "CWC15";
+WIPG01000030.1	Genbank	transcript	251488	254433	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006061-T1_mrna"; gene_id "gene-TWF192_006061"; gene_name "UTP13"
+WIPG01000030.1	Genbank	exon	251488	252151	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006061-T1_mrna"; gene_id "gene-TWF192_006061"; gene_name "UTP13";
+WIPG01000030.1	Genbank	exon	252208	253353	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006061-T1_mrna"; gene_id "gene-TWF192_006061"; gene_name "UTP13";
+WIPG01000030.1	Genbank	exon	253413	254109	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006061-T1_mrna"; gene_id "gene-TWF192_006061"; gene_name "UTP13";
+WIPG01000030.1	Genbank	exon	254163	254190	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006061-T1_mrna"; gene_id "gene-TWF192_006061"; gene_name "UTP13";
+WIPG01000030.1	Genbank	exon	254260	254433	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006061-T1_mrna"; gene_id "gene-TWF192_006061"; gene_name "UTP13";
+WIPG01000030.1	Genbank	CDS	251488	252151	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_006061-T1_mrna"; gene_id "gene-TWF192_006061"; gene_name "UTP13";
+WIPG01000030.1	Genbank	CDS	252208	253353	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_006061-T1_mrna"; gene_id "gene-TWF192_006061"; gene_name "UTP13";
+WIPG01000030.1	Genbank	CDS	253413	254109	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_006061-T1_mrna"; gene_id "gene-TWF192_006061"; gene_name "UTP13";
+WIPG01000030.1	Genbank	CDS	254163	254190	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_006061-T1_mrna"; gene_id "gene-TWF192_006061"; gene_name "UTP13";
+WIPG01000030.1	Genbank	CDS	254260	254433	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_006061-T1_mrna"; gene_id "gene-TWF192_006061"; gene_name "UTP13";
+WIPG01000030.1	Genbank	transcript	297389	299245	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006078-T1_mrna"; gene_id "gene-TWF192_006078"
+WIPG01000030.1	Genbank	exon	297389	297396	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006078-T1_mrna"; gene_id "gene-TWF192_006078";
+WIPG01000030.1	Genbank	exon	297468	297636	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006078-T1_mrna"; gene_id "gene-TWF192_006078";
+WIPG01000030.1	Genbank	exon	297715	297766	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006078-T1_mrna"; gene_id "gene-TWF192_006078";
+WIPG01000030.1	Genbank	exon	297876	297955	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006078-T1_mrna"; gene_id "gene-TWF192_006078";
+WIPG01000030.1	Genbank	exon	298025	298880	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006078-T1_mrna"; gene_id "gene-TWF192_006078";
+WIPG01000030.1	Genbank	exon	298954	299055	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006078-T1_mrna"; gene_id "gene-TWF192_006078";
+WIPG01000030.1	Genbank	exon	299112	299245	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006078-T1_mrna"; gene_id "gene-TWF192_006078";
+WIPG01000030.1	Genbank	CDS	297389	297396	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_006078-T1_mrna"; gene_id "gene-TWF192_006078";
+WIPG01000030.1	Genbank	CDS	297468	297636	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_006078-T1_mrna"; gene_id "gene-TWF192_006078";
+WIPG01000030.1	Genbank	CDS	297715	297766	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_006078-T1_mrna"; gene_id "gene-TWF192_006078";
+WIPG01000030.1	Genbank	CDS	297876	297955	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_006078-T1_mrna"; gene_id "gene-TWF192_006078";
+WIPG01000030.1	Genbank	CDS	298025	298880	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_006078-T1_mrna"; gene_id "gene-TWF192_006078";
+WIPG01000030.1	Genbank	CDS	298954	299055	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_006078-T1_mrna"; gene_id "gene-TWF192_006078";
+WIPG01000030.1	Genbank	CDS	299112	299245	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_006078-T1_mrna"; gene_id "gene-TWF192_006078";
+WIPG01000031.1	Genbank	transcript	120081	121162	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006147-T1_mrna"; gene_id "gene-TWF192_006147"
+WIPG01000031.1	Genbank	exon	120081	120436	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006147-T1_mrna"; gene_id "gene-TWF192_006147";
+WIPG01000031.1	Genbank	exon	120526	120894	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006147-T1_mrna"; gene_id "gene-TWF192_006147";
+WIPG01000031.1	Genbank	exon	120962	121162	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006147-T1_mrna"; gene_id "gene-TWF192_006147";
+WIPG01000031.1	Genbank	CDS	120086	120436	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_006147-T1_mrna"; gene_id "gene-TWF192_006147";
+WIPG01000031.1	Genbank	CDS	120526	120894	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_006147-T1_mrna"; gene_id "gene-TWF192_006147";
+WIPG01000031.1	Genbank	CDS	120962	121162	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_006147-T1_mrna"; gene_id "gene-TWF192_006147";
+WIPG01000033.1	Genbank	transcript	138656	139361	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006397-T1_mrna"; gene_id "gene-TWF192_006397"; gene_name "NAA20"
+WIPG01000033.1	Genbank	exon	138656	138833	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006397-T1_mrna"; gene_id "gene-TWF192_006397"; gene_name "NAA20";
+WIPG01000033.1	Genbank	exon	138898	139361	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006397-T1_mrna"; gene_id "gene-TWF192_006397"; gene_name "NAA20";
+WIPG01000033.1	Genbank	CDS	138742	138833	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_006397-T1_mrna"; gene_id "gene-TWF192_006397"; gene_name "NAA20";
+WIPG01000033.1	Genbank	CDS	138898	139345	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_006397-T1_mrna"; gene_id "gene-TWF192_006397"; gene_name "NAA20";
+WIPG01000033.1	Genbank	transcript	306650	310137	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006451-T1_mrna"; gene_id "gene-TWF192_006451"
+WIPG01000033.1	Genbank	exon	306650	307276	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006451-T1_mrna"; gene_id "gene-TWF192_006451";
+WIPG01000033.1	Genbank	exon	307352	310137	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006451-T1_mrna"; gene_id "gene-TWF192_006451";
+WIPG01000033.1	Genbank	CDS	306770	307276	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_006451-T1_mrna"; gene_id "gene-TWF192_006451";
+WIPG01000033.1	Genbank	CDS	307352	309937	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_006451-T1_mrna"; gene_id "gene-TWF192_006451";
+WIPG01000035.1	Genbank	transcript	270490	272198	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006642-T1_mrna"; gene_id "gene-TWF192_006642"; gene_name "UBA4"
+WIPG01000035.1	Genbank	exon	270490	270792	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006642-T1_mrna"; gene_id "gene-TWF192_006642"; gene_name "UBA4";
+WIPG01000035.1	Genbank	exon	270877	271872	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006642-T1_mrna"; gene_id "gene-TWF192_006642"; gene_name "UBA4";
+WIPG01000035.1	Genbank	exon	271927	272198	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006642-T1_mrna"; gene_id "gene-TWF192_006642"; gene_name "UBA4";
+WIPG01000035.1	Genbank	CDS	270522	270792	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_006642-T1_mrna"; gene_id "gene-TWF192_006642"; gene_name "UBA4";
+WIPG01000035.1	Genbank	CDS	270877	271872	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_006642-T1_mrna"; gene_id "gene-TWF192_006642"; gene_name "UBA4";
+WIPG01000035.1	Genbank	CDS	271927	272198	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_006642-T1_mrna"; gene_id "gene-TWF192_006642"; gene_name "UBA4";
+WIPG01000036.1	Genbank	transcript	106827	109420	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006699-T1_mrna"; gene_id "gene-TWF192_006699"; gene_name "DPB2"
+WIPG01000036.1	Genbank	exon	106827	107704	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006699-T1_mrna"; gene_id "gene-TWF192_006699"; gene_name "DPB2";
+WIPG01000036.1	Genbank	exon	107819	109076	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006699-T1_mrna"; gene_id "gene-TWF192_006699"; gene_name "DPB2";
+WIPG01000036.1	Genbank	exon	109136	109420	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006699-T1_mrna"; gene_id "gene-TWF192_006699"; gene_name "DPB2";
+WIPG01000036.1	Genbank	CDS	106827	107704	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_006699-T1_mrna"; gene_id "gene-TWF192_006699"; gene_name "DPB2";
+WIPG01000036.1	Genbank	CDS	107819	109076	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_006699-T1_mrna"; gene_id "gene-TWF192_006699"; gene_name "DPB2";
+WIPG01000036.1	Genbank	CDS	109136	109420	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_006699-T1_mrna"; gene_id "gene-TWF192_006699"; gene_name "DPB2";
+WIPG01000037.1	Genbank	transcript	166982	167798	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006798-T1_mrna"; gene_id "gene-TWF192_006798"
+WIPG01000037.1	Genbank	exon	166982	167798	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_006798-T1_mrna"; gene_id "gene-TWF192_006798";
+WIPG01000037.1	Genbank	CDS	166982	167743	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_006798-T1_mrna"; gene_id "gene-TWF192_006798";
+WIPG01000004.1	Genbank	transcript	524192	529187	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007137-T1_mrna"; gene_id "gene-TWF192_007137"
+WIPG01000004.1	Genbank	exon	524192	526400	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007137-T1_mrna"; gene_id "gene-TWF192_007137";
+WIPG01000004.1	Genbank	exon	526460	528138	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007137-T1_mrna"; gene_id "gene-TWF192_007137";
+WIPG01000004.1	Genbank	exon	528214	529187	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007137-T1_mrna"; gene_id "gene-TWF192_007137";
+WIPG01000004.1	Genbank	CDS	524202	526400	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_007137-T1_mrna"; gene_id "gene-TWF192_007137";
+WIPG01000004.1	Genbank	CDS	526460	528138	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_007137-T1_mrna"; gene_id "gene-TWF192_007137";
+WIPG01000004.1	Genbank	CDS	528214	529168	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_007137-T1_mrna"; gene_id "gene-TWF192_007137";
+WIPG01000040.1	Genbank	transcript	208550	209491	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007312-T1_mrna"; gene_id "gene-TWF192_007312"; gene_name "COX11"
+WIPG01000040.1	Genbank	exon	208550	208623	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007312-T1_mrna"; gene_id "gene-TWF192_007312"; gene_name "COX11";
+WIPG01000040.1	Genbank	exon	208686	209193	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007312-T1_mrna"; gene_id "gene-TWF192_007312"; gene_name "COX11";
+WIPG01000040.1	Genbank	exon	209258	209491	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007312-T1_mrna"; gene_id "gene-TWF192_007312"; gene_name "COX11";
+WIPG01000040.1	Genbank	CDS	208568	208623	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_007312-T1_mrna"; gene_id "gene-TWF192_007312"; gene_name "COX11";
+WIPG01000040.1	Genbank	CDS	208686	209193	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_007312-T1_mrna"; gene_id "gene-TWF192_007312"; gene_name "COX11";
+WIPG01000040.1	Genbank	CDS	209258	209491	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_007312-T1_mrna"; gene_id "gene-TWF192_007312"; gene_name "COX11";
+WIPG01000041.1	Genbank	transcript	30645	31325	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007348-T1_mrna"; gene_id "gene-TWF192_007348"; gene_name "IMP3"
+WIPG01000041.1	Genbank	exon	30645	30818	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007348-T1_mrna"; gene_id "gene-TWF192_007348"; gene_name "IMP3";
+WIPG01000041.1	Genbank	exon	30890	31235	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007348-T1_mrna"; gene_id "gene-TWF192_007348"; gene_name "IMP3";
+WIPG01000041.1	Genbank	exon	31294	31325	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007348-T1_mrna"; gene_id "gene-TWF192_007348"; gene_name "IMP3";
+WIPG01000041.1	Genbank	CDS	30645	30818	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_007348-T1_mrna"; gene_id "gene-TWF192_007348"; gene_name "IMP3";
+WIPG01000041.1	Genbank	CDS	30890	31235	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_007348-T1_mrna"; gene_id "gene-TWF192_007348"; gene_name "IMP3";
+WIPG01000041.1	Genbank	CDS	31294	31325	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_007348-T1_mrna"; gene_id "gene-TWF192_007348"; gene_name "IMP3";
+WIPG01000042.1	Genbank	transcript	10477	11529	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007434-T1_mrna"; gene_id "gene-TWF192_007434"; gene_name "GAR1"
+WIPG01000042.1	Genbank	exon	10477	10820	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007434-T1_mrna"; gene_id "gene-TWF192_007434"; gene_name "GAR1";
+WIPG01000042.1	Genbank	exon	10891	11036	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007434-T1_mrna"; gene_id "gene-TWF192_007434"; gene_name "GAR1";
+WIPG01000042.1	Genbank	exon	11132	11232	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007434-T1_mrna"; gene_id "gene-TWF192_007434"; gene_name "GAR1";
+WIPG01000042.1	Genbank	exon	11301	11351	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007434-T1_mrna"; gene_id "gene-TWF192_007434"; gene_name "GAR1";
+WIPG01000042.1	Genbank	exon	11418	11529	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007434-T1_mrna"; gene_id "gene-TWF192_007434"; gene_name "GAR1";
+WIPG01000042.1	Genbank	CDS	10556	10820	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_007434-T1_mrna"; gene_id "gene-TWF192_007434"; gene_name "GAR1";
+WIPG01000042.1	Genbank	CDS	10891	11036	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_007434-T1_mrna"; gene_id "gene-TWF192_007434"; gene_name "GAR1";
+WIPG01000042.1	Genbank	CDS	11132	11232	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_007434-T1_mrna"; gene_id "gene-TWF192_007434"; gene_name "GAR1";
+WIPG01000042.1	Genbank	CDS	11301	11351	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_007434-T1_mrna"; gene_id "gene-TWF192_007434"; gene_name "GAR1";
+WIPG01000042.1	Genbank	CDS	11418	11529	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_007434-T1_mrna"; gene_id "gene-TWF192_007434"; gene_name "GAR1";
+WIPG01000042.1	Genbank	transcript	12258	13560	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007435-T1_mrna"; gene_id "gene-TWF192_007435"
+WIPG01000042.1	Genbank	exon	12258	12569	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007435-T1_mrna"; gene_id "gene-TWF192_007435";
+WIPG01000042.1	Genbank	exon	12644	13560	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007435-T1_mrna"; gene_id "gene-TWF192_007435";
+WIPG01000042.1	Genbank	CDS	12258	12569	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_007435-T1_mrna"; gene_id "gene-TWF192_007435";
+WIPG01000042.1	Genbank	CDS	12644	13507	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_007435-T1_mrna"; gene_id "gene-TWF192_007435";
+WIPG01000042.1	Genbank	transcript	89925	91504	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007466-T1_mrna"; gene_id "gene-TWF192_007466"; gene_name "GCV1"
+WIPG01000042.1	Genbank	exon	89925	91001	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007466-T1_mrna"; gene_id "gene-TWF192_007466"; gene_name "GCV1";
+WIPG01000042.1	Genbank	exon	91081	91504	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007466-T1_mrna"; gene_id "gene-TWF192_007466"; gene_name "GCV1";
+WIPG01000042.1	Genbank	CDS	89925	91001	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_007466-T1_mrna"; gene_id "gene-TWF192_007466"; gene_name "GCV1";
+WIPG01000042.1	Genbank	CDS	91081	91446	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_007466-T1_mrna"; gene_id "gene-TWF192_007466"; gene_name "GCV1";
+WIPG01000042.1	Genbank	transcript	97758	101311	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007469-T1_mrna"; gene_id "gene-TWF192_007469"
+WIPG01000042.1	Genbank	exon	97758	100313	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007469-T1_mrna"; gene_id "gene-TWF192_007469";
+WIPG01000042.1	Genbank	exon	100389	101311	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007469-T1_mrna"; gene_id "gene-TWF192_007469";
+WIPG01000042.1	Genbank	CDS	97812	100313	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_007469-T1_mrna"; gene_id "gene-TWF192_007469";
+WIPG01000042.1	Genbank	CDS	100389	101282	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_007469-T1_mrna"; gene_id "gene-TWF192_007469";
+WIPG01000043.1	Genbank	transcript	58751	61514	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007544-T1_mrna"; gene_id "gene-TWF192_007544"; gene_name "SDA1"
+WIPG01000043.1	Genbank	exon	58751	58914	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007544-T1_mrna"; gene_id "gene-TWF192_007544"; gene_name "SDA1";
+WIPG01000043.1	Genbank	exon	58980	59015	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007544-T1_mrna"; gene_id "gene-TWF192_007544"; gene_name "SDA1";
+WIPG01000043.1	Genbank	exon	59098	59376	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007544-T1_mrna"; gene_id "gene-TWF192_007544"; gene_name "SDA1";
+WIPG01000043.1	Genbank	exon	59436	59919	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007544-T1_mrna"; gene_id "gene-TWF192_007544"; gene_name "SDA1";
+WIPG01000043.1	Genbank	exon	59969	60186	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007544-T1_mrna"; gene_id "gene-TWF192_007544"; gene_name "SDA1";
+WIPG01000043.1	Genbank	exon	60236	60983	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007544-T1_mrna"; gene_id "gene-TWF192_007544"; gene_name "SDA1";
+WIPG01000043.1	Genbank	exon	61039	61127	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007544-T1_mrna"; gene_id "gene-TWF192_007544"; gene_name "SDA1";
+WIPG01000043.1	Genbank	exon	61186	61514	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_007544-T1_mrna"; gene_id "gene-TWF192_007544"; gene_name "SDA1";
+WIPG01000043.1	Genbank	CDS	58871	58914	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_007544-T1_mrna"; gene_id "gene-TWF192_007544"; gene_name "SDA1";
+WIPG01000043.1	Genbank	CDS	58980	59015	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_007544-T1_mrna"; gene_id "gene-TWF192_007544"; gene_name "SDA1";
+WIPG01000043.1	Genbank	CDS	59098	59376	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_007544-T1_mrna"; gene_id "gene-TWF192_007544"; gene_name "SDA1";
+WIPG01000043.1	Genbank	CDS	59436	59919	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_007544-T1_mrna"; gene_id "gene-TWF192_007544"; gene_name "SDA1";
+WIPG01000043.1	Genbank	CDS	59969	60186	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_007544-T1_mrna"; gene_id "gene-TWF192_007544"; gene_name "SDA1";
+WIPG01000043.1	Genbank	CDS	60236	60983	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_007544-T1_mrna"; gene_id "gene-TWF192_007544"; gene_name "SDA1";
+WIPG01000043.1	Genbank	CDS	61039	61127	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_007544-T1_mrna"; gene_id "gene-TWF192_007544"; gene_name "SDA1";
+WIPG01000043.1	Genbank	CDS	61186	61483	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_007544-T1_mrna"; gene_id "gene-TWF192_007544"; gene_name "SDA1";
+WIPG01000049.1	Genbank	transcript	170593	173398	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008012-T1_mrna"; gene_id "gene-TWF192_008012"; gene_name "ATG7"
+WIPG01000049.1	Genbank	exon	170593	171088	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008012-T1_mrna"; gene_id "gene-TWF192_008012"; gene_name "ATG7";
+WIPG01000049.1	Genbank	exon	171151	171266	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008012-T1_mrna"; gene_id "gene-TWF192_008012"; gene_name "ATG7";
+WIPG01000049.1	Genbank	exon	171335	172684	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008012-T1_mrna"; gene_id "gene-TWF192_008012"; gene_name "ATG7";
+WIPG01000049.1	Genbank	exon	172747	172855	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008012-T1_mrna"; gene_id "gene-TWF192_008012"; gene_name "ATG7";
+WIPG01000049.1	Genbank	exon	172918	173398	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008012-T1_mrna"; gene_id "gene-TWF192_008012"; gene_name "ATG7";
+WIPG01000049.1	Genbank	CDS	170758	171088	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_008012-T1_mrna"; gene_id "gene-TWF192_008012"; gene_name "ATG7";
+WIPG01000049.1	Genbank	CDS	171151	171266	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008012-T1_mrna"; gene_id "gene-TWF192_008012"; gene_name "ATG7";
+WIPG01000049.1	Genbank	CDS	171335	172684	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008012-T1_mrna"; gene_id "gene-TWF192_008012"; gene_name "ATG7";
+WIPG01000049.1	Genbank	CDS	172747	172855	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_008012-T1_mrna"; gene_id "gene-TWF192_008012"; gene_name "ATG7";
+WIPG01000049.1	Genbank	CDS	172918	173108	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008012-T1_mrna"; gene_id "gene-TWF192_008012"; gene_name "ATG7";
+WIPG01000005.1	Genbank	transcript	51650	53288	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008051-T1_mrna"; gene_id "gene-TWF192_008051"; gene_name "ALG7"
+WIPG01000005.1	Genbank	exon	51650	52407	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008051-T1_mrna"; gene_id "gene-TWF192_008051"; gene_name "ALG7";
+WIPG01000005.1	Genbank	exon	52477	52690	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008051-T1_mrna"; gene_id "gene-TWF192_008051"; gene_name "ALG7";
+WIPG01000005.1	Genbank	exon	52779	52956	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008051-T1_mrna"; gene_id "gene-TWF192_008051"; gene_name "ALG7";
+WIPG01000005.1	Genbank	exon	53038	53288	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008051-T1_mrna"; gene_id "gene-TWF192_008051"; gene_name "ALG7";
+WIPG01000005.1	Genbank	CDS	51650	52407	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_008051-T1_mrna"; gene_id "gene-TWF192_008051"; gene_name "ALG7";
+WIPG01000005.1	Genbank	CDS	52477	52690	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008051-T1_mrna"; gene_id "gene-TWF192_008051"; gene_name "ALG7";
+WIPG01000005.1	Genbank	CDS	52779	52956	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_008051-T1_mrna"; gene_id "gene-TWF192_008051"; gene_name "ALG7";
+WIPG01000005.1	Genbank	CDS	53038	53288	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008051-T1_mrna"; gene_id "gene-TWF192_008051"; gene_name "ALG7";
+WIPG01000005.1	Genbank	transcript	146661	147549	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008081-T1_mrna"; gene_id "gene-TWF192_008081"; gene_name "FAP7"
+WIPG01000005.1	Genbank	exon	146661	146851	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008081-T1_mrna"; gene_id "gene-TWF192_008081"; gene_name "FAP7";
+WIPG01000005.1	Genbank	exon	146921	146931	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008081-T1_mrna"; gene_id "gene-TWF192_008081"; gene_name "FAP7";
+WIPG01000005.1	Genbank	exon	147007	147152	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008081-T1_mrna"; gene_id "gene-TWF192_008081"; gene_name "FAP7";
+WIPG01000005.1	Genbank	exon	147262	147398	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008081-T1_mrna"; gene_id "gene-TWF192_008081"; gene_name "FAP7";
+WIPG01000005.1	Genbank	exon	147504	147549	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008081-T1_mrna"; gene_id "gene-TWF192_008081"; gene_name "FAP7";
+WIPG01000005.1	Genbank	CDS	146661	146851	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_008081-T1_mrna"; gene_id "gene-TWF192_008081"; gene_name "FAP7";
+WIPG01000005.1	Genbank	CDS	146921	146931	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_008081-T1_mrna"; gene_id "gene-TWF192_008081"; gene_name "FAP7";
+WIPG01000005.1	Genbank	CDS	147007	147152	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008081-T1_mrna"; gene_id "gene-TWF192_008081"; gene_name "FAP7";
+WIPG01000005.1	Genbank	CDS	147262	147398	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_008081-T1_mrna"; gene_id "gene-TWF192_008081"; gene_name "FAP7";
+WIPG01000005.1	Genbank	CDS	147504	147549	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008081-T1_mrna"; gene_id "gene-TWF192_008081"; gene_name "FAP7";
+WIPG01000005.1	Genbank	transcript	281739	282952	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008126-T1_mrna"; gene_id "gene-TWF192_008126"
+WIPG01000005.1	Genbank	exon	281739	281922	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008126-T1_mrna"; gene_id "gene-TWF192_008126";
+WIPG01000005.1	Genbank	exon	281996	282779	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008126-T1_mrna"; gene_id "gene-TWF192_008126";
+WIPG01000005.1	Genbank	exon	282858	282952	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008126-T1_mrna"; gene_id "gene-TWF192_008126";
+WIPG01000005.1	Genbank	CDS	281749	281922	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008126-T1_mrna"; gene_id "gene-TWF192_008126";
+WIPG01000005.1	Genbank	CDS	281996	282779	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_008126-T1_mrna"; gene_id "gene-TWF192_008126";
+WIPG01000005.1	Genbank	CDS	282858	282901	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008126-T1_mrna"; gene_id "gene-TWF192_008126";
+WIPG01000005.1	Genbank	transcript	291450	293083	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008130-T1_mrna"; gene_id "gene-TWF192_008130"; gene_name "MSW1"
+WIPG01000005.1	Genbank	exon	291450	291500	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008130-T1_mrna"; gene_id "gene-TWF192_008130"; gene_name "MSW1";
+WIPG01000005.1	Genbank	exon	291555	291895	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008130-T1_mrna"; gene_id "gene-TWF192_008130"; gene_name "MSW1";
+WIPG01000005.1	Genbank	exon	292191	292280	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008130-T1_mrna"; gene_id "gene-TWF192_008130"; gene_name "MSW1";
+WIPG01000005.1	Genbank	exon	292366	292484	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008130-T1_mrna"; gene_id "gene-TWF192_008130"; gene_name "MSW1";
+WIPG01000005.1	Genbank	exon	292601	293083	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008130-T1_mrna"; gene_id "gene-TWF192_008130"; gene_name "MSW1";
+WIPG01000005.1	Genbank	CDS	291450	291500	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008130-T1_mrna"; gene_id "gene-TWF192_008130"; gene_name "MSW1";
+WIPG01000005.1	Genbank	CDS	291555	291895	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008130-T1_mrna"; gene_id "gene-TWF192_008130"; gene_name "MSW1";
+WIPG01000005.1	Genbank	CDS	292191	292280	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_008130-T1_mrna"; gene_id "gene-TWF192_008130"; gene_name "MSW1";
+WIPG01000005.1	Genbank	CDS	292366	292484	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_008130-T1_mrna"; gene_id "gene-TWF192_008130"; gene_name "MSW1";
+WIPG01000005.1	Genbank	CDS	292601	293073	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_008130-T1_mrna"; gene_id "gene-TWF192_008130"; gene_name "MSW1";
+WIPG01000005.1	Genbank	transcript	356808	358853	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008150-T1_mrna"; gene_id "gene-TWF192_008150"; gene_name "EIF2B2"
+WIPG01000005.1	Genbank	exon	356808	357100	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008150-T1_mrna"; gene_id "gene-TWF192_008150"; gene_name "EIF2B2";
+WIPG01000005.1	Genbank	exon	357172	358479	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008150-T1_mrna"; gene_id "gene-TWF192_008150"; gene_name "EIF2B2";
+WIPG01000005.1	Genbank	exon	358557	358853	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008150-T1_mrna"; gene_id "gene-TWF192_008150"; gene_name "EIF2B2";
+WIPG01000005.1	Genbank	CDS	357006	357100	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008150-T1_mrna"; gene_id "gene-TWF192_008150"; gene_name "EIF2B2";
+WIPG01000005.1	Genbank	CDS	357172	358479	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_008150-T1_mrna"; gene_id "gene-TWF192_008150"; gene_name "EIF2B2";
+WIPG01000005.1	Genbank	CDS	358557	358632	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_008150-T1_mrna"; gene_id "gene-TWF192_008150"; gene_name "EIF2B2";
+WIPG01000005.1	Genbank	transcript	440960	442173	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008175-T1_mrna"; gene_id "gene-TWF192_008175"; gene_name "DRE2"
+WIPG01000005.1	Genbank	exon	440960	441669	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008175-T1_mrna"; gene_id "gene-TWF192_008175"; gene_name "DRE2";
+WIPG01000005.1	Genbank	exon	441753	442011	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008175-T1_mrna"; gene_id "gene-TWF192_008175"; gene_name "DRE2";
+WIPG01000005.1	Genbank	exon	442089	442173	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008175-T1_mrna"; gene_id "gene-TWF192_008175"; gene_name "DRE2";
+WIPG01000005.1	Genbank	CDS	440967	441669	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008175-T1_mrna"; gene_id "gene-TWF192_008175"; gene_name "DRE2";
+WIPG01000005.1	Genbank	CDS	441753	442011	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_008175-T1_mrna"; gene_id "gene-TWF192_008175"; gene_name "DRE2";
+WIPG01000005.1	Genbank	CDS	442089	442173	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_008175-T1_mrna"; gene_id "gene-TWF192_008175"; gene_name "DRE2";
+WIPG01000005.1	Genbank	transcript	479289	480404	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008183-T1_mrna"; gene_id "gene-TWF192_008183"
+WIPG01000005.1	Genbank	exon	479289	479318	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008183-T1_mrna"; gene_id "gene-TWF192_008183";
+WIPG01000005.1	Genbank	exon	479390	480053	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008183-T1_mrna"; gene_id "gene-TWF192_008183";
+WIPG01000005.1	Genbank	exon	480121	480257	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008183-T1_mrna"; gene_id "gene-TWF192_008183";
+WIPG01000005.1	Genbank	exon	480328	480404	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008183-T1_mrna"; gene_id "gene-TWF192_008183";
+WIPG01000005.1	Genbank	CDS	479289	479318	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008183-T1_mrna"; gene_id "gene-TWF192_008183";
+WIPG01000005.1	Genbank	CDS	479390	480053	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008183-T1_mrna"; gene_id "gene-TWF192_008183";
+WIPG01000005.1	Genbank	CDS	480121	480161	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_008183-T1_mrna"; gene_id "gene-TWF192_008183";
+WIPG01000005.1	Genbank	transcript	518094	519106	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008201-T1_mrna"; gene_id "gene-TWF192_008201"
+WIPG01000005.1	Genbank	exon	518094	518163	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008201-T1_mrna"; gene_id "gene-TWF192_008201";
+WIPG01000005.1	Genbank	exon	518232	518312	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008201-T1_mrna"; gene_id "gene-TWF192_008201";
+WIPG01000005.1	Genbank	exon	518383	519106	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008201-T1_mrna"; gene_id "gene-TWF192_008201";
+WIPG01000005.1	Genbank	CDS	518094	518163	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008201-T1_mrna"; gene_id "gene-TWF192_008201";
+WIPG01000005.1	Genbank	CDS	518232	518312	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_008201-T1_mrna"; gene_id "gene-TWF192_008201";
+WIPG01000005.1	Genbank	CDS	518383	518954	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_008201-T1_mrna"; gene_id "gene-TWF192_008201";
+WIPG01000005.1	Genbank	transcript	568681	570073	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008216-T1_mrna"; gene_id "gene-TWF192_008216"
+WIPG01000005.1	Genbank	exon	568681	568918	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008216-T1_mrna"; gene_id "gene-TWF192_008216";
+WIPG01000005.1	Genbank	exon	569020	569169	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008216-T1_mrna"; gene_id "gene-TWF192_008216";
+WIPG01000005.1	Genbank	exon	569225	569570	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008216-T1_mrna"; gene_id "gene-TWF192_008216";
+WIPG01000005.1	Genbank	exon	569627	570073	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008216-T1_mrna"; gene_id "gene-TWF192_008216";
+WIPG01000005.1	Genbank	CDS	568719	568918	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008216-T1_mrna"; gene_id "gene-TWF192_008216";
+WIPG01000005.1	Genbank	CDS	569020	569169	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_008216-T1_mrna"; gene_id "gene-TWF192_008216";
+WIPG01000005.1	Genbank	CDS	569225	569570	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_008216-T1_mrna"; gene_id "gene-TWF192_008216";
+WIPG01000005.1	Genbank	CDS	569627	570073	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008216-T1_mrna"; gene_id "gene-TWF192_008216";
+WIPG01000005.1	Genbank	transcript	581359	583003	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008221-T1_mrna"; gene_id "gene-TWF192_008221"
+WIPG01000005.1	Genbank	exon	581359	582242	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008221-T1_mrna"; gene_id "gene-TWF192_008221";
+WIPG01000005.1	Genbank	exon	582314	583003	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008221-T1_mrna"; gene_id "gene-TWF192_008221";
+WIPG01000005.1	Genbank	CDS	581672	582242	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_008221-T1_mrna"; gene_id "gene-TWF192_008221";
+WIPG01000005.1	Genbank	CDS	582314	582807	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008221-T1_mrna"; gene_id "gene-TWF192_008221";
+WIPG01000005.1	Genbank	transcript	609863	610727	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008232-T1_mrna"; gene_id "gene-TWF192_008232"; gene_name "TMA20"
+WIPG01000005.1	Genbank	exon	609863	610155	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008232-T1_mrna"; gene_id "gene-TWF192_008232"; gene_name "TMA20";
+WIPG01000005.1	Genbank	exon	610215	610312	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008232-T1_mrna"; gene_id "gene-TWF192_008232"; gene_name "TMA20";
+WIPG01000005.1	Genbank	exon	610409	610560	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008232-T1_mrna"; gene_id "gene-TWF192_008232"; gene_name "TMA20";
+WIPG01000005.1	Genbank	exon	610614	610727	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008232-T1_mrna"; gene_id "gene-TWF192_008232"; gene_name "TMA20";
+WIPG01000005.1	Genbank	CDS	609863	610155	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_008232-T1_mrna"; gene_id "gene-TWF192_008232"; gene_name "TMA20";
+WIPG01000005.1	Genbank	CDS	610215	610312	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_008232-T1_mrna"; gene_id "gene-TWF192_008232"; gene_name "TMA20";
+WIPG01000005.1	Genbank	CDS	610409	610560	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008232-T1_mrna"; gene_id "gene-TWF192_008232"; gene_name "TMA20";
+WIPG01000005.1	Genbank	CDS	610614	610727	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008232-T1_mrna"; gene_id "gene-TWF192_008232"; gene_name "TMA20";
+WIPG01000005.1	Genbank	transcript	786987	787732	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008284-T1_mrna"; gene_id "gene-TWF192_008284"; gene_name "NOP16"
+WIPG01000005.1	Genbank	exon	786987	787461	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008284-T1_mrna"; gene_id "gene-TWF192_008284"; gene_name "NOP16";
+WIPG01000005.1	Genbank	exon	787551	787732	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008284-T1_mrna"; gene_id "gene-TWF192_008284"; gene_name "NOP16";
+WIPG01000005.1	Genbank	CDS	786987	787461	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_008284-T1_mrna"; gene_id "gene-TWF192_008284"; gene_name "NOP16";
+WIPG01000005.1	Genbank	CDS	787551	787696	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008284-T1_mrna"; gene_id "gene-TWF192_008284"; gene_name "NOP16";
+WIPG01000005.1	Genbank	transcript	788083	789658	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008285-T1_mrna"; gene_id "gene-TWF192_008285"; gene_name "SWC4"
+WIPG01000005.1	Genbank	exon	788083	788660	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008285-T1_mrna"; gene_id "gene-TWF192_008285"; gene_name "SWC4";
+WIPG01000005.1	Genbank	exon	788742	789658	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008285-T1_mrna"; gene_id "gene-TWF192_008285"; gene_name "SWC4";
+WIPG01000005.1	Genbank	CDS	788083	788660	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008285-T1_mrna"; gene_id "gene-TWF192_008285"; gene_name "SWC4";
+WIPG01000005.1	Genbank	CDS	788742	789612	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_008285-T1_mrna"; gene_id "gene-TWF192_008285"; gene_name "SWC4";
+WIPG01000050.1	Genbank	transcript	21758	24835	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008303-T1_mrna"; gene_id "gene-TWF192_008303"
+WIPG01000050.1	Genbank	exon	21758	22114	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008303-T1_mrna"; gene_id "gene-TWF192_008303";
+WIPG01000050.1	Genbank	exon	22180	24549	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008303-T1_mrna"; gene_id "gene-TWF192_008303";
+WIPG01000050.1	Genbank	exon	24620	24732	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008303-T1_mrna"; gene_id "gene-TWF192_008303";
+WIPG01000050.1	Genbank	exon	24818	24835	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008303-T1_mrna"; gene_id "gene-TWF192_008303";
+WIPG01000050.1	Genbank	CDS	21907	22114	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_008303-T1_mrna"; gene_id "gene-TWF192_008303";
+WIPG01000050.1	Genbank	CDS	22180	24549	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_008303-T1_mrna"; gene_id "gene-TWF192_008303";
+WIPG01000050.1	Genbank	CDS	24620	24732	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008303-T1_mrna"; gene_id "gene-TWF192_008303";
+WIPG01000050.1	Genbank	CDS	24818	24835	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008303-T1_mrna"; gene_id "gene-TWF192_008303";
+WIPG01000053.1	Genbank	transcript	190767	191674	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008547-T1_mrna"; gene_id "gene-TWF192_008547"
+WIPG01000053.1	Genbank	exon	190767	191674	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008547-T1_mrna"; gene_id "gene-TWF192_008547";
+WIPG01000053.1	Genbank	CDS	190767	191627	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008547-T1_mrna"; gene_id "gene-TWF192_008547";
+WIPG01000054.1	Genbank	transcript	64174	66716	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008573-T1_mrna"; gene_id "gene-TWF192_008573"; gene_name "ERB1"
+WIPG01000054.1	Genbank	exon	64174	64927	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008573-T1_mrna"; gene_id "gene-TWF192_008573"; gene_name "ERB1";
+WIPG01000054.1	Genbank	exon	64981	65750	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008573-T1_mrna"; gene_id "gene-TWF192_008573"; gene_name "ERB1";
+WIPG01000054.1	Genbank	exon	65813	66066	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008573-T1_mrna"; gene_id "gene-TWF192_008573"; gene_name "ERB1";
+WIPG01000054.1	Genbank	exon	66130	66716	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008573-T1_mrna"; gene_id "gene-TWF192_008573"; gene_name "ERB1";
+WIPG01000054.1	Genbank	CDS	64256	64927	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008573-T1_mrna"; gene_id "gene-TWF192_008573"; gene_name "ERB1";
+WIPG01000054.1	Genbank	CDS	64981	65750	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008573-T1_mrna"; gene_id "gene-TWF192_008573"; gene_name "ERB1";
+WIPG01000054.1	Genbank	CDS	65813	66066	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_008573-T1_mrna"; gene_id "gene-TWF192_008573"; gene_name "ERB1";
+WIPG01000054.1	Genbank	CDS	66130	66716	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_008573-T1_mrna"; gene_id "gene-TWF192_008573"; gene_name "ERB1";
+WIPG01000054.1	Genbank	transcript	153131	154848	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008599-T1_mrna"; gene_id "gene-TWF192_008599"
+WIPG01000054.1	Genbank	exon	153131	154418	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008599-T1_mrna"; gene_id "gene-TWF192_008599";
+WIPG01000054.1	Genbank	exon	154477	154765	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008599-T1_mrna"; gene_id "gene-TWF192_008599";
+WIPG01000054.1	Genbank	exon	154830	154848	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008599-T1_mrna"; gene_id "gene-TWF192_008599";
+WIPG01000054.1	Genbank	CDS	153131	154418	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_008599-T1_mrna"; gene_id "gene-TWF192_008599";
+WIPG01000054.1	Genbank	CDS	154477	154765	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_008599-T1_mrna"; gene_id "gene-TWF192_008599";
+WIPG01000054.1	Genbank	CDS	154830	154848	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008599-T1_mrna"; gene_id "gene-TWF192_008599";
+WIPG01000055.1	Genbank	transcript	107337	108706	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008661-T1_mrna"; gene_id "gene-TWF192_008661"; gene_name "RRP4"
+WIPG01000055.1	Genbank	exon	107337	108382	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008661-T1_mrna"; gene_id "gene-TWF192_008661"; gene_name "RRP4";
+WIPG01000055.1	Genbank	exon	108505	108706	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008661-T1_mrna"; gene_id "gene-TWF192_008661"; gene_name "RRP4";
+WIPG01000055.1	Genbank	CDS	107530	108382	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_008661-T1_mrna"; gene_id "gene-TWF192_008661"; gene_name "RRP4";
+WIPG01000055.1	Genbank	CDS	108505	108704	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008661-T1_mrna"; gene_id "gene-TWF192_008661"; gene_name "RRP4";
+WIPG01000056.1	Genbank	transcript	85386	86526	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008715-T1_mrna"; gene_id "gene-TWF192_008715"; gene_name "MED6"
+WIPG01000056.1	Genbank	exon	85386	85970	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008715-T1_mrna"; gene_id "gene-TWF192_008715"; gene_name "MED6";
+WIPG01000056.1	Genbank	exon	86037	86347	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008715-T1_mrna"; gene_id "gene-TWF192_008715"; gene_name "MED6";
+WIPG01000056.1	Genbank	exon	86433	86526	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008715-T1_mrna"; gene_id "gene-TWF192_008715"; gene_name "MED6";
+WIPG01000056.1	Genbank	CDS	85386	85970	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008715-T1_mrna"; gene_id "gene-TWF192_008715"; gene_name "MED6";
+WIPG01000056.1	Genbank	CDS	86037	86347	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_008715-T1_mrna"; gene_id "gene-TWF192_008715"; gene_name "MED6";
+WIPG01000056.1	Genbank	CDS	86433	86526	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008715-T1_mrna"; gene_id "gene-TWF192_008715"; gene_name "MED6";
+WIPG01000056.1	Genbank	transcript	111731	112698	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008721-T1_mrna"; gene_id "gene-TWF192_008721"; gene_name "DOC1"
+WIPG01000056.1	Genbank	exon	111731	111835	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008721-T1_mrna"; gene_id "gene-TWF192_008721"; gene_name "DOC1";
+WIPG01000056.1	Genbank	exon	111895	112205	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008721-T1_mrna"; gene_id "gene-TWF192_008721"; gene_name "DOC1";
+WIPG01000056.1	Genbank	exon	112265	112489	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008721-T1_mrna"; gene_id "gene-TWF192_008721"; gene_name "DOC1";
+WIPG01000056.1	Genbank	exon	112544	112698	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_008721-T1_mrna"; gene_id "gene-TWF192_008721"; gene_name "DOC1";
+WIPG01000056.1	Genbank	CDS	111953	112205	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_008721-T1_mrna"; gene_id "gene-TWF192_008721"; gene_name "DOC1";
+WIPG01000056.1	Genbank	CDS	112265	112489	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_008721-T1_mrna"; gene_id "gene-TWF192_008721"; gene_name "DOC1";
+WIPG01000056.1	Genbank	CDS	112544	112698	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_008721-T1_mrna"; gene_id "gene-TWF192_008721"; gene_name "DOC1";
+WIPG01000006.1	Genbank	transcript	326661	327204	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009001-T1_mrna"; gene_id "gene-TWF192_009001"; gene_name "SPT4"
+WIPG01000006.1	Genbank	exon	326661	326778	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009001-T1_mrna"; gene_id "gene-TWF192_009001"; gene_name "SPT4";
+WIPG01000006.1	Genbank	exon	326854	327051	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009001-T1_mrna"; gene_id "gene-TWF192_009001"; gene_name "SPT4";
+WIPG01000006.1	Genbank	exon	327121	327204	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009001-T1_mrna"; gene_id "gene-TWF192_009001"; gene_name "SPT4";
+WIPG01000006.1	Genbank	CDS	326677	326778	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009001-T1_mrna"; gene_id "gene-TWF192_009001"; gene_name "SPT4";
+WIPG01000006.1	Genbank	CDS	326854	327051	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009001-T1_mrna"; gene_id "gene-TWF192_009001"; gene_name "SPT4";
+WIPG01000006.1	Genbank	CDS	327121	327204	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009001-T1_mrna"; gene_id "gene-TWF192_009001"; gene_name "SPT4";
+WIPG01000060.1	Genbank	transcript	153579	155105	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009196-T1_mrna"; gene_id "gene-TWF192_009196"; gene_name "UTP25"
+WIPG01000060.1	Genbank	exon	153579	153742	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009196-T1_mrna"; gene_id "gene-TWF192_009196"; gene_name "UTP25";
+WIPG01000060.1	Genbank	exon	153809	155105	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009196-T1_mrna"; gene_id "gene-TWF192_009196"; gene_name "UTP25";
+WIPG01000060.1	Genbank	CDS	153579	153742	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009196-T1_mrna"; gene_id "gene-TWF192_009196"; gene_name "UTP25";
+WIPG01000060.1	Genbank	CDS	153809	155105	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_009196-T1_mrna"; gene_id "gene-TWF192_009196"; gene_name "UTP25";
+WIPG01000060.1	Genbank	transcript	169702	171233	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009203-T1_mrna"; gene_id "gene-TWF192_009203"
+WIPG01000060.1	Genbank	exon	169702	170026	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009203-T1_mrna"; gene_id "gene-TWF192_009203";
+WIPG01000060.1	Genbank	exon	170086	170222	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009203-T1_mrna"; gene_id "gene-TWF192_009203";
+WIPG01000060.1	Genbank	exon	170286	170533	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009203-T1_mrna"; gene_id "gene-TWF192_009203";
+WIPG01000060.1	Genbank	exon	170614	170693	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009203-T1_mrna"; gene_id "gene-TWF192_009203";
+WIPG01000060.1	Genbank	exon	170765	170914	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009203-T1_mrna"; gene_id "gene-TWF192_009203";
+WIPG01000060.1	Genbank	exon	170988	171233	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009203-T1_mrna"; gene_id "gene-TWF192_009203";
+WIPG01000060.1	Genbank	CDS	169775	170026	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009203-T1_mrna"; gene_id "gene-TWF192_009203";
+WIPG01000060.1	Genbank	CDS	170086	170222	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_009203-T1_mrna"; gene_id "gene-TWF192_009203";
+WIPG01000060.1	Genbank	CDS	170286	170533	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_009203-T1_mrna"; gene_id "gene-TWF192_009203";
+WIPG01000060.1	Genbank	CDS	170614	170693	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009203-T1_mrna"; gene_id "gene-TWF192_009203";
+WIPG01000060.1	Genbank	CDS	170765	170914	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009203-T1_mrna"; gene_id "gene-TWF192_009203";
+WIPG01000060.1	Genbank	CDS	170988	171077	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009203-T1_mrna"; gene_id "gene-TWF192_009203";
+WIPG01000060.1	Genbank	transcript	181697	183458	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009210-T1_mrna"; gene_id "gene-TWF192_009210"; gene_name "MPP10"
+WIPG01000060.1	Genbank	exon	181697	183458	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009210-T1_mrna"; gene_id "gene-TWF192_009210"; gene_name "MPP10";
+WIPG01000060.1	Genbank	CDS	181697	183451	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009210-T1_mrna"; gene_id "gene-TWF192_009210"; gene_name "MPP10";
+WIPG01000061.1	Genbank	transcript	8724	10335	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009215-T1_mrna"; gene_id "gene-TWF192_009215"; gene_name "CYP6"
+WIPG01000061.1	Genbank	exon	8724	9064	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009215-T1_mrna"; gene_id "gene-TWF192_009215"; gene_name "CYP6";
+WIPG01000061.1	Genbank	exon	9123	10335	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009215-T1_mrna"; gene_id "gene-TWF192_009215"; gene_name "CYP6";
+WIPG01000061.1	Genbank	CDS	8724	9064	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_009215-T1_mrna"; gene_id "gene-TWF192_009215"; gene_name "CYP6";
+WIPG01000061.1	Genbank	CDS	9123	10227	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009215-T1_mrna"; gene_id "gene-TWF192_009215"; gene_name "CYP6";
+WIPG01000062.1	Genbank	transcript	163994	165242	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009307-T1_mrna"; gene_id "gene-TWF192_009307"; gene_name "LIA1"
+WIPG01000062.1	Genbank	exon	163994	164579	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009307-T1_mrna"; gene_id "gene-TWF192_009307"; gene_name "LIA1";
+WIPG01000062.1	Genbank	exon	164657	165242	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009307-T1_mrna"; gene_id "gene-TWF192_009307"; gene_name "LIA1";
+WIPG01000062.1	Genbank	CDS	164099	164579	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_009307-T1_mrna"; gene_id "gene-TWF192_009307"; gene_name "LIA1";
+WIPG01000062.1	Genbank	CDS	164657	165090	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009307-T1_mrna"; gene_id "gene-TWF192_009307"; gene_name "LIA1";
+WIPG01000064.1	Genbank	transcript	103071	105918	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009399-T1_mrna"; gene_id "gene-TWF192_009399"
+WIPG01000064.1	Genbank	exon	103071	104085	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009399-T1_mrna"; gene_id "gene-TWF192_009399";
+WIPG01000064.1	Genbank	exon	104159	104832	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009399-T1_mrna"; gene_id "gene-TWF192_009399";
+WIPG01000064.1	Genbank	exon	104887	105346	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009399-T1_mrna"; gene_id "gene-TWF192_009399";
+WIPG01000064.1	Genbank	exon	105424	105530	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009399-T1_mrna"; gene_id "gene-TWF192_009399";
+WIPG01000064.1	Genbank	exon	105586	105677	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009399-T1_mrna"; gene_id "gene-TWF192_009399";
+WIPG01000064.1	Genbank	exon	105770	105918	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009399-T1_mrna"; gene_id "gene-TWF192_009399";
+WIPG01000064.1	Genbank	CDS	103071	104085	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_009399-T1_mrna"; gene_id "gene-TWF192_009399";
+WIPG01000064.1	Genbank	CDS	104159	104832	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009399-T1_mrna"; gene_id "gene-TWF192_009399";
+WIPG01000064.1	Genbank	CDS	104887	105346	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_009399-T1_mrna"; gene_id "gene-TWF192_009399";
+WIPG01000064.1	Genbank	CDS	105424	105530	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009399-T1_mrna"; gene_id "gene-TWF192_009399";
+WIPG01000064.1	Genbank	CDS	105586	105677	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_009399-T1_mrna"; gene_id "gene-TWF192_009399";
+WIPG01000064.1	Genbank	CDS	105770	105902	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009399-T1_mrna"; gene_id "gene-TWF192_009399";
+WIPG01000067.1	Genbank	transcript	153598	157452	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009570-T1_mrna"; gene_id "gene-TWF192_009570"
+WIPG01000067.1	Genbank	exon	153598	154072	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009570-T1_mrna"; gene_id "gene-TWF192_009570";
+WIPG01000067.1	Genbank	exon	154173	157014	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009570-T1_mrna"; gene_id "gene-TWF192_009570";
+WIPG01000067.1	Genbank	exon	157145	157452	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009570-T1_mrna"; gene_id "gene-TWF192_009570";
+WIPG01000067.1	Genbank	CDS	153598	154072	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_009570-T1_mrna"; gene_id "gene-TWF192_009570";
+WIPG01000067.1	Genbank	CDS	154173	157014	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_009570-T1_mrna"; gene_id "gene-TWF192_009570";
+WIPG01000067.1	Genbank	CDS	157145	157442	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009570-T1_mrna"; gene_id "gene-TWF192_009570";
+WIPG01000068.1	Genbank	transcript	62430	64897	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009592-T1_mrna"; gene_id "gene-TWF192_009592"; gene_name "SRP72"
+WIPG01000068.1	Genbank	exon	62430	63020	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009592-T1_mrna"; gene_id "gene-TWF192_009592"; gene_name "SRP72";
+WIPG01000068.1	Genbank	exon	63135	63732	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009592-T1_mrna"; gene_id "gene-TWF192_009592"; gene_name "SRP72";
+WIPG01000068.1	Genbank	exon	63791	63935	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009592-T1_mrna"; gene_id "gene-TWF192_009592"; gene_name "SRP72";
+WIPG01000068.1	Genbank	exon	63997	64270	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009592-T1_mrna"; gene_id "gene-TWF192_009592"; gene_name "SRP72";
+WIPG01000068.1	Genbank	exon	64368	64897	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009592-T1_mrna"; gene_id "gene-TWF192_009592"; gene_name "SRP72";
+WIPG01000068.1	Genbank	CDS	62442	63020	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009592-T1_mrna"; gene_id "gene-TWF192_009592"; gene_name "SRP72";
+WIPG01000068.1	Genbank	CDS	63135	63732	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_009592-T1_mrna"; gene_id "gene-TWF192_009592"; gene_name "SRP72";
+WIPG01000068.1	Genbank	CDS	63791	63935	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_009592-T1_mrna"; gene_id "gene-TWF192_009592"; gene_name "SRP72";
+WIPG01000068.1	Genbank	CDS	63997	64270	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009592-T1_mrna"; gene_id "gene-TWF192_009592"; gene_name "SRP72";
+WIPG01000068.1	Genbank	CDS	64368	64709	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009592-T1_mrna"; gene_id "gene-TWF192_009592"; gene_name "SRP72";
+WIPG01000068.1	Genbank	transcript	79497	81587	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009598-T1_mrna"; gene_id "gene-TWF192_009598"
+WIPG01000068.1	Genbank	exon	79497	79942	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009598-T1_mrna"; gene_id "gene-TWF192_009598";
+WIPG01000068.1	Genbank	exon	79998	81587	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009598-T1_mrna"; gene_id "gene-TWF192_009598";
+WIPG01000068.1	Genbank	CDS	79508	79942	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009598-T1_mrna"; gene_id "gene-TWF192_009598";
+WIPG01000068.1	Genbank	CDS	79998	81587	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009598-T1_mrna"; gene_id "gene-TWF192_009598";
+WIPG01000069.1	Genbank	transcript	138526	140734	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009667-T1_mrna"; gene_id "gene-TWF192_009667"
+WIPG01000069.1	Genbank	exon	138526	138784	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009667-T1_mrna"; gene_id "gene-TWF192_009667";
+WIPG01000069.1	Genbank	exon	138849	139133	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009667-T1_mrna"; gene_id "gene-TWF192_009667";
+WIPG01000069.1	Genbank	exon	139192	140142	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009667-T1_mrna"; gene_id "gene-TWF192_009667";
+WIPG01000069.1	Genbank	exon	140241	140473	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009667-T1_mrna"; gene_id "gene-TWF192_009667";
+WIPG01000069.1	Genbank	exon	140578	140641	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009667-T1_mrna"; gene_id "gene-TWF192_009667";
+WIPG01000069.1	Genbank	exon	140704	140734	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009667-T1_mrna"; gene_id "gene-TWF192_009667";
+WIPG01000069.1	Genbank	CDS	138584	138784	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009667-T1_mrna"; gene_id "gene-TWF192_009667";
+WIPG01000069.1	Genbank	CDS	138849	139133	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009667-T1_mrna"; gene_id "gene-TWF192_009667";
+WIPG01000069.1	Genbank	CDS	139192	140142	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009667-T1_mrna"; gene_id "gene-TWF192_009667";
+WIPG01000069.1	Genbank	CDS	140241	140473	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_009667-T1_mrna"; gene_id "gene-TWF192_009667";
+WIPG01000069.1	Genbank	CDS	140578	140641	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009667-T1_mrna"; gene_id "gene-TWF192_009667";
+WIPG01000069.1	Genbank	CDS	140704	140730	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009667-T1_mrna"; gene_id "gene-TWF192_009667";
+WIPG01000007.1	Genbank	transcript	90716	91873	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009709-T1_mrna"; gene_id "gene-TWF192_009709"; gene_name "BCP1"
+WIPG01000007.1	Genbank	exon	90716	91072	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009709-T1_mrna"; gene_id "gene-TWF192_009709"; gene_name "BCP1";
+WIPG01000007.1	Genbank	exon	91155	91391	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009709-T1_mrna"; gene_id "gene-TWF192_009709"; gene_name "BCP1";
+WIPG01000007.1	Genbank	exon	91472	91873	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009709-T1_mrna"; gene_id "gene-TWF192_009709"; gene_name "BCP1";
+WIPG01000007.1	Genbank	CDS	90716	91072	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009709-T1_mrna"; gene_id "gene-TWF192_009709"; gene_name "BCP1";
+WIPG01000007.1	Genbank	CDS	91155	91391	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009709-T1_mrna"; gene_id "gene-TWF192_009709"; gene_name "BCP1";
+WIPG01000007.1	Genbank	CDS	91472	91873	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009709-T1_mrna"; gene_id "gene-TWF192_009709"; gene_name "BCP1";
+WIPG01000071.1	Genbank	transcript	62113	64468	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009997-T1_mrna"; gene_id "gene-TWF192_009997"; gene_name "TRM6"
+WIPG01000071.1	Genbank	exon	62113	62272	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009997-T1_mrna"; gene_id "gene-TWF192_009997"; gene_name "TRM6";
+WIPG01000071.1	Genbank	exon	62361	62838	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009997-T1_mrna"; gene_id "gene-TWF192_009997"; gene_name "TRM6";
+WIPG01000071.1	Genbank	exon	62993	64468	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_009997-T1_mrna"; gene_id "gene-TWF192_009997"; gene_name "TRM6";
+WIPG01000071.1	Genbank	CDS	62190	62272	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009997-T1_mrna"; gene_id "gene-TWF192_009997"; gene_name "TRM6";
+WIPG01000071.1	Genbank	CDS	62361	62838	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_009997-T1_mrna"; gene_id "gene-TWF192_009997"; gene_name "TRM6";
+WIPG01000071.1	Genbank	CDS	62993	64468	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_009997-T1_mrna"; gene_id "gene-TWF192_009997"; gene_name "TRM6";
+WIPG01000076.1	Genbank	transcript	2960	4821	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010220-T1_mrna"; gene_id "gene-TWF192_010220"; gene_name "PRP46"
+WIPG01000076.1	Genbank	exon	2960	3184	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010220-T1_mrna"; gene_id "gene-TWF192_010220"; gene_name "PRP46";
+WIPG01000076.1	Genbank	exon	3249	4656	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010220-T1_mrna"; gene_id "gene-TWF192_010220"; gene_name "PRP46";
+WIPG01000076.1	Genbank	exon	4753	4821	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010220-T1_mrna"; gene_id "gene-TWF192_010220"; gene_name "PRP46";
+WIPG01000076.1	Genbank	CDS	3156	3184	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_010220-T1_mrna"; gene_id "gene-TWF192_010220"; gene_name "PRP46";
+WIPG01000076.1	Genbank	CDS	3249	4656	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_010220-T1_mrna"; gene_id "gene-TWF192_010220"; gene_name "PRP46";
+WIPG01000076.1	Genbank	CDS	4753	4800	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_010220-T1_mrna"; gene_id "gene-TWF192_010220"; gene_name "PRP46";
+WIPG01000076.1	Genbank	transcript	131079	131897	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010254-T1_mrna"; gene_id "gene-TWF192_010254"; gene_name "PSF1"
+WIPG01000076.1	Genbank	exon	131079	131154	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010254-T1_mrna"; gene_id "gene-TWF192_010254"; gene_name "PSF1";
+WIPG01000076.1	Genbank	exon	131234	131897	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010254-T1_mrna"; gene_id "gene-TWF192_010254"; gene_name "PSF1";
+WIPG01000076.1	Genbank	CDS	131128	131154	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_010254-T1_mrna"; gene_id "gene-TWF192_010254"; gene_name "PSF1";
+WIPG01000076.1	Genbank	CDS	131234	131752	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_010254-T1_mrna"; gene_id "gene-TWF192_010254"; gene_name "PSF1";
+WIPG01000008.1	Genbank	transcript	307646	308713	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010471-T1_mrna"; gene_id "gene-TWF192_010471"; gene_name "NSA2"
+WIPG01000008.1	Genbank	exon	307646	307737	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010471-T1_mrna"; gene_id "gene-TWF192_010471"; gene_name "NSA2";
+WIPG01000008.1	Genbank	exon	307808	308560	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010471-T1_mrna"; gene_id "gene-TWF192_010471"; gene_name "NSA2";
+WIPG01000008.1	Genbank	exon	308631	308641	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010471-T1_mrna"; gene_id "gene-TWF192_010471"; gene_name "NSA2";
+WIPG01000008.1	Genbank	exon	308711	308713	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010471-T1_mrna"; gene_id "gene-TWF192_010471"; gene_name "NSA2";
+WIPG01000008.1	Genbank	CDS	307722	307737	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_010471-T1_mrna"; gene_id "gene-TWF192_010471"; gene_name "NSA2";
+WIPG01000008.1	Genbank	CDS	307808	308560	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_010471-T1_mrna"; gene_id "gene-TWF192_010471"; gene_name "NSA2";
+WIPG01000008.1	Genbank	CDS	308631	308641	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_010471-T1_mrna"; gene_id "gene-TWF192_010471"; gene_name "NSA2";
+WIPG01000008.1	Genbank	CDS	308711	308713	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_010471-T1_mrna"; gene_id "gene-TWF192_010471"; gene_name "NSA2";
+WIPG01000080.1	Genbank	transcript	7121	9478	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010613-T1_mrna"; gene_id "gene-TWF192_010613"; gene_name "TFB1"
+WIPG01000080.1	Genbank	exon	7121	7130	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010613-T1_mrna"; gene_id "gene-TWF192_010613"; gene_name "TFB1";
+WIPG01000080.1	Genbank	exon	7209	8179	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010613-T1_mrna"; gene_id "gene-TWF192_010613"; gene_name "TFB1";
+WIPG01000080.1	Genbank	exon	8245	8354	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010613-T1_mrna"; gene_id "gene-TWF192_010613"; gene_name "TFB1";
+WIPG01000080.1	Genbank	exon	8414	8493	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010613-T1_mrna"; gene_id "gene-TWF192_010613"; gene_name "TFB1";
+WIPG01000080.1	Genbank	exon	8544	9248	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010613-T1_mrna"; gene_id "gene-TWF192_010613"; gene_name "TFB1";
+WIPG01000080.1	Genbank	exon	9306	9478	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010613-T1_mrna"; gene_id "gene-TWF192_010613"; gene_name "TFB1";
+WIPG01000080.1	Genbank	CDS	7387	8179	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_010613-T1_mrna"; gene_id "gene-TWF192_010613"; gene_name "TFB1";
+WIPG01000080.1	Genbank	CDS	8245	8354	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_010613-T1_mrna"; gene_id "gene-TWF192_010613"; gene_name "TFB1";
+WIPG01000080.1	Genbank	CDS	8414	8493	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_010613-T1_mrna"; gene_id "gene-TWF192_010613"; gene_name "TFB1";
+WIPG01000080.1	Genbank	CDS	8544	9248	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_010613-T1_mrna"; gene_id "gene-TWF192_010613"; gene_name "TFB1";
+WIPG01000080.1	Genbank	CDS	9306	9450	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_010613-T1_mrna"; gene_id "gene-TWF192_010613"; gene_name "TFB1";
+WIPG01000080.1	Genbank	transcript	122250	124158	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010650-T1_mrna"; gene_id "gene-TWF192_010650"; gene_name "RAM1"
+WIPG01000080.1	Genbank	exon	122250	122640	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010650-T1_mrna"; gene_id "gene-TWF192_010650"; gene_name "RAM1";
+WIPG01000080.1	Genbank	exon	122718	123512	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010650-T1_mrna"; gene_id "gene-TWF192_010650"; gene_name "RAM1";
+WIPG01000080.1	Genbank	exon	123590	124158	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010650-T1_mrna"; gene_id "gene-TWF192_010650"; gene_name "RAM1";
+WIPG01000080.1	Genbank	CDS	122301	122640	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_010650-T1_mrna"; gene_id "gene-TWF192_010650"; gene_name "RAM1";
+WIPG01000080.1	Genbank	CDS	122718	123512	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_010650-T1_mrna"; gene_id "gene-TWF192_010650"; gene_name "RAM1";
+WIPG01000080.1	Genbank	CDS	123590	124056	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_010650-T1_mrna"; gene_id "gene-TWF192_010650"; gene_name "RAM1";
+WIPG01000081.1	Genbank	transcript	11009	11755	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010659-T1_mrna"; gene_id "gene-TWF192_010659"; gene_name "ISY1"
+WIPG01000081.1	Genbank	exon	11009	11755	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010659-T1_mrna"; gene_id "gene-TWF192_010659"; gene_name "ISY1";
+WIPG01000081.1	Genbank	CDS	11009	11734	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_010659-T1_mrna"; gene_id "gene-TWF192_010659"; gene_name "ISY1";
+WIPG01000081.1	Genbank	transcript	12088	13052	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010660-T1_mrna"; gene_id "gene-TWF192_010660"
+WIPG01000081.1	Genbank	exon	12088	12222	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010660-T1_mrna"; gene_id "gene-TWF192_010660";
+WIPG01000081.1	Genbank	exon	12277	12329	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010660-T1_mrna"; gene_id "gene-TWF192_010660";
+WIPG01000081.1	Genbank	exon	12429	12585	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010660-T1_mrna"; gene_id "gene-TWF192_010660";
+WIPG01000081.1	Genbank	exon	12650	12905	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010660-T1_mrna"; gene_id "gene-TWF192_010660";
+WIPG01000081.1	Genbank	exon	13038	13052	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010660-T1_mrna"; gene_id "gene-TWF192_010660";
+WIPG01000081.1	Genbank	CDS	12110	12222	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_010660-T1_mrna"; gene_id "gene-TWF192_010660";
+WIPG01000081.1	Genbank	CDS	12277	12329	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_010660-T1_mrna"; gene_id "gene-TWF192_010660";
+WIPG01000081.1	Genbank	CDS	12429	12585	.	+	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_010660-T1_mrna"; gene_id "gene-TWF192_010660";
+WIPG01000081.1	Genbank	CDS	12650	12905	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_010660-T1_mrna"; gene_id "gene-TWF192_010660";
+WIPG01000081.1	Genbank	CDS	13038	13052	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_010660-T1_mrna"; gene_id "gene-TWF192_010660";
+WIPG01000081.1	Genbank	transcript	68131	69203	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010682-T1_mrna"; gene_id "gene-TWF192_010682"
+WIPG01000081.1	Genbank	exon	68131	68616	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010682-T1_mrna"; gene_id "gene-TWF192_010682";
+WIPG01000081.1	Genbank	exon	68695	69203	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010682-T1_mrna"; gene_id "gene-TWF192_010682";
+WIPG01000081.1	Genbank	CDS	68131	68616	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_010682-T1_mrna"; gene_id "gene-TWF192_010682";
+WIPG01000081.1	Genbank	CDS	68695	69180	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_010682-T1_mrna"; gene_id "gene-TWF192_010682";
+WIPG01000082.1	Genbank	transcript	22081	23391	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010709-T1_mrna"; gene_id "gene-TWF192_010709"
+WIPG01000082.1	Genbank	exon	22081	23391	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010709-T1_mrna"; gene_id "gene-TWF192_010709";
+WIPG01000082.1	Genbank	CDS	22220	23218	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_010709-T1_mrna"; gene_id "gene-TWF192_010709";
+WIPG01000082.1	Genbank	transcript	46631	48417	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010718-T1_mrna"; gene_id "gene-TWF192_010718"; gene_name "ENP1"
+WIPG01000082.1	Genbank	exon	46631	47111	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010718-T1_mrna"; gene_id "gene-TWF192_010718"; gene_name "ENP1";
+WIPG01000082.1	Genbank	exon	47182	47567	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010718-T1_mrna"; gene_id "gene-TWF192_010718"; gene_name "ENP1";
+WIPG01000082.1	Genbank	exon	47624	48417	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010718-T1_mrna"; gene_id "gene-TWF192_010718"; gene_name "ENP1";
+WIPG01000082.1	Genbank	CDS	46743	47111	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_010718-T1_mrna"; gene_id "gene-TWF192_010718"; gene_name "ENP1";
+WIPG01000082.1	Genbank	CDS	47182	47567	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_010718-T1_mrna"; gene_id "gene-TWF192_010718"; gene_name "ENP1";
+WIPG01000082.1	Genbank	CDS	47624	48230	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_010718-T1_mrna"; gene_id "gene-TWF192_010718"; gene_name "ENP1";
+WIPG01000084.1	Genbank	transcript	32735	34571	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010797-T1_mrna"; gene_id "gene-TWF192_010797"; gene_name "PCM1"
+WIPG01000084.1	Genbank	exon	32735	34084	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010797-T1_mrna"; gene_id "gene-TWF192_010797"; gene_name "PCM1";
+WIPG01000084.1	Genbank	exon	34164	34404	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010797-T1_mrna"; gene_id "gene-TWF192_010797"; gene_name "PCM1";
+WIPG01000084.1	Genbank	exon	34488	34571	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010797-T1_mrna"; gene_id "gene-TWF192_010797"; gene_name "PCM1";
+WIPG01000084.1	Genbank	CDS	32735	34084	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_010797-T1_mrna"; gene_id "gene-TWF192_010797"; gene_name "PCM1";
+WIPG01000084.1	Genbank	CDS	34164	34223	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_010797-T1_mrna"; gene_id "gene-TWF192_010797"; gene_name "PCM1";
+WIPG01000088.1	Genbank	transcript	83475	84403	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010956-T1_mrna"; gene_id "gene-TWF192_010956"
+WIPG01000088.1	Genbank	exon	83475	83545	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010956-T1_mrna"; gene_id "gene-TWF192_010956";
+WIPG01000088.1	Genbank	exon	83605	84403	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_010956-T1_mrna"; gene_id "gene-TWF192_010956";
+WIPG01000088.1	Genbank	CDS	83523	83545	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_010956-T1_mrna"; gene_id "gene-TWF192_010956";
+WIPG01000088.1	Genbank	CDS	83605	84403	.	+	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_010956-T1_mrna"; gene_id "gene-TWF192_010956";
+WIPG01000009.1	Genbank	transcript	698556	701228	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_011183-T1_mrna"; gene_id "gene-TWF192_011183"
+WIPG01000009.1	Genbank	exon	698556	700448	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_011183-T1_mrna"; gene_id "gene-TWF192_011183";
+WIPG01000009.1	Genbank	exon	700515	701228	.	+	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_011183-T1_mrna"; gene_id "gene-TWF192_011183";
+WIPG01000009.1	Genbank	CDS	698556	700448	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_011183-T1_mrna"; gene_id "gene-TWF192_011183";
+WIPG01000009.1	Genbank	CDS	700515	701228	.	+	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_011183-T1_mrna"; gene_id "gene-TWF192_011183";
+WIPG01000090.1	Genbank	transcript	58404	59914	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_011219-T1_mrna"; gene_id "gene-TWF192_011219"; gene_name "ETF1"
+WIPG01000090.1	Genbank	exon	58404	58607	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_011219-T1_mrna"; gene_id "gene-TWF192_011219"; gene_name "ETF1";
+WIPG01000090.1	Genbank	exon	58664	59309	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_011219-T1_mrna"; gene_id "gene-TWF192_011219"; gene_name "ETF1";
+WIPG01000090.1	Genbank	exon	59415	59914	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_011219-T1_mrna"; gene_id "gene-TWF192_011219"; gene_name "ETF1";
+WIPG01000090.1	Genbank	CDS	58513	58607	.	-	2	transcript_id "rna-gnl|WGS:WIPG|TWF192_011219-T1_mrna"; gene_id "gene-TWF192_011219"; gene_name "ETF1";
+WIPG01000090.1	Genbank	CDS	58664	59309	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_011219-T1_mrna"; gene_id "gene-TWF192_011219"; gene_name "ETF1";
+WIPG01000090.1	Genbank	CDS	59415	59714	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_011219-T1_mrna"; gene_id "gene-TWF192_011219"; gene_name "ETF1";
+WIPG01000093.1	Genbank	transcript	47031	49754	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_011318-T1_mrna"; gene_id "gene-TWF192_011318"; gene_name "COG6"
+WIPG01000093.1	Genbank	exon	47031	47747	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_011318-T1_mrna"; gene_id "gene-TWF192_011318"; gene_name "COG6";
+WIPG01000093.1	Genbank	exon	47820	48132	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_011318-T1_mrna"; gene_id "gene-TWF192_011318"; gene_name "COG6";
+WIPG01000093.1	Genbank	exon	48187	48323	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_011318-T1_mrna"; gene_id "gene-TWF192_011318"; gene_name "COG6";
+WIPG01000093.1	Genbank	exon	48376	48718	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_011318-T1_mrna"; gene_id "gene-TWF192_011318"; gene_name "COG6";
+WIPG01000093.1	Genbank	exon	48773	48937	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_011318-T1_mrna"; gene_id "gene-TWF192_011318"; gene_name "COG6";
+WIPG01000093.1	Genbank	exon	48993	49315	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_011318-T1_mrna"; gene_id "gene-TWF192_011318"; gene_name "COG6";
+WIPG01000093.1	Genbank	exon	49377	49754	.	-	.	transcript_id "rna-gnl|WGS:WIPG|TWF192_011318-T1_mrna"; gene_id "gene-TWF192_011318"; gene_name "COG6";
+WIPG01000093.1	Genbank	CDS	47316	47747	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_011318-T1_mrna"; gene_id "gene-TWF192_011318"; gene_name "COG6";
+WIPG01000093.1	Genbank	CDS	47820	48132	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_011318-T1_mrna"; gene_id "gene-TWF192_011318"; gene_name "COG6";
+WIPG01000093.1	Genbank	CDS	48187	48323	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_011318-T1_mrna"; gene_id "gene-TWF192_011318"; gene_name "COG6";
+WIPG01000093.1	Genbank	CDS	48376	48718	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_011318-T1_mrna"; gene_id "gene-TWF192_011318"; gene_name "COG6";
+WIPG01000093.1	Genbank	CDS	48773	48937	.	-	1	transcript_id "rna-gnl|WGS:WIPG|TWF192_011318-T1_mrna"; gene_id "gene-TWF192_011318"; gene_name "COG6";
+WIPG01000093.1	Genbank	CDS	48993	49315	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_011318-T1_mrna"; gene_id "gene-TWF192_011318"; gene_name "COG6";
+WIPG01000093.1	Genbank	CDS	49377	49670	.	-	0	transcript_id "rna-gnl|WGS:WIPG|TWF192_011318-T1_mrna"; gene_id "gene-TWF192_011318"; gene_name "COG6";

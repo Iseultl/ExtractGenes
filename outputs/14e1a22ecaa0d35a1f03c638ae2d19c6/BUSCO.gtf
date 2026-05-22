@@ -1,0 +1,866 @@
+JAPEUI010000001.1	Genbank	transcript	254347	255451	.	+	.	transcript_id "rna-M1824_000077-T1_mrna"; gene_id "gene-M1824_000077"; gene_name "ETF1"
+JAPEUI010000001.1	Genbank	exon	254347	254818	.	+	.	transcript_id "rna-M1824_000077-T1_mrna"; gene_id "gene-M1824_000077"; gene_name "ETF1";
+JAPEUI010000001.1	Genbank	exon	254874	255451	.	+	.	transcript_id "rna-M1824_000077-T1_mrna"; gene_id "gene-M1824_000077"; gene_name "ETF1";
+JAPEUI010000001.1	Genbank	CDS	254347	254818	.	+	0	transcript_id "rna-M1824_000077-T1_mrna"; gene_id "gene-M1824_000077"; gene_name "ETF1";
+JAPEUI010000001.1	Genbank	CDS	254874	255451	.	+	2	transcript_id "rna-M1824_000077-T1_mrna"; gene_id "gene-M1824_000077"; gene_name "ETF1";
+JAPEUI010000010.1	Genbank	transcript	27855	29960	.	+	.	transcript_id "rna-M1824_000139-T1_mrna"; gene_id "gene-M1824_000139"; gene_name "COG6"
+JAPEUI010000010.1	Genbank	exon	27855	29960	.	+	.	transcript_id "rna-M1824_000139-T1_mrna"; gene_id "gene-M1824_000139"; gene_name "COG6";
+JAPEUI010000010.1	Genbank	CDS	27855	29960	.	+	0	transcript_id "rna-M1824_000139-T1_mrna"; gene_id "gene-M1824_000139"; gene_name "COG6";
+JAPEUI010000010.1	Genbank	transcript	78989	80380	.	-	.	transcript_id "rna-M1824_000157-T1_mrna"; gene_id "gene-M1824_000157"
+JAPEUI010000010.1	Genbank	exon	78989	80380	.	-	.	transcript_id "rna-M1824_000157-T1_mrna"; gene_id "gene-M1824_000157";
+JAPEUI010000010.1	Genbank	CDS	78989	80380	.	-	0	transcript_id "rna-M1824_000157-T1_mrna"; gene_id "gene-M1824_000157";
+JAPEUI010000106.1	Genbank	transcript	6376	8554	.	-	.	transcript_id "rna-M1824_000344-T1_mrna"; gene_id "gene-M1824_000344"; gene_name "FRS1"
+JAPEUI010000106.1	Genbank	exon	6376	6457	.	-	.	transcript_id "rna-M1824_000344-T1_mrna"; gene_id "gene-M1824_000344"; gene_name "FRS1";
+JAPEUI010000106.1	Genbank	exon	6510	7391	.	-	.	transcript_id "rna-M1824_000344-T1_mrna"; gene_id "gene-M1824_000344"; gene_name "FRS1";
+JAPEUI010000106.1	Genbank	exon	7453	7961	.	-	.	transcript_id "rna-M1824_000344-T1_mrna"; gene_id "gene-M1824_000344"; gene_name "FRS1";
+JAPEUI010000106.1	Genbank	exon	8014	8143	.	-	.	transcript_id "rna-M1824_000344-T1_mrna"; gene_id "gene-M1824_000344"; gene_name "FRS1";
+JAPEUI010000106.1	Genbank	exon	8197	8273	.	-	.	transcript_id "rna-M1824_000344-T1_mrna"; gene_id "gene-M1824_000344"; gene_name "FRS1";
+JAPEUI010000106.1	Genbank	exon	8323	8342	.	-	.	transcript_id "rna-M1824_000344-T1_mrna"; gene_id "gene-M1824_000344"; gene_name "FRS1";
+JAPEUI010000106.1	Genbank	exon	8398	8438	.	-	.	transcript_id "rna-M1824_000344-T1_mrna"; gene_id "gene-M1824_000344"; gene_name "FRS1";
+JAPEUI010000106.1	Genbank	exon	8502	8554	.	-	.	transcript_id "rna-M1824_000344-T1_mrna"; gene_id "gene-M1824_000344"; gene_name "FRS1";
+JAPEUI010000106.1	Genbank	CDS	6376	6457	.	-	1	transcript_id "rna-M1824_000344-T1_mrna"; gene_id "gene-M1824_000344"; gene_name "FRS1";
+JAPEUI010000106.1	Genbank	CDS	6510	7391	.	-	1	transcript_id "rna-M1824_000344-T1_mrna"; gene_id "gene-M1824_000344"; gene_name "FRS1";
+JAPEUI010000106.1	Genbank	CDS	7453	7961	.	-	0	transcript_id "rna-M1824_000344-T1_mrna"; gene_id "gene-M1824_000344"; gene_name "FRS1";
+JAPEUI010000106.1	Genbank	CDS	8014	8143	.	-	1	transcript_id "rna-M1824_000344-T1_mrna"; gene_id "gene-M1824_000344"; gene_name "FRS1";
+JAPEUI010000106.1	Genbank	CDS	8197	8273	.	-	0	transcript_id "rna-M1824_000344-T1_mrna"; gene_id "gene-M1824_000344"; gene_name "FRS1";
+JAPEUI010000106.1	Genbank	CDS	8323	8342	.	-	2	transcript_id "rna-M1824_000344-T1_mrna"; gene_id "gene-M1824_000344"; gene_name "FRS1";
+JAPEUI010000106.1	Genbank	CDS	8398	8438	.	-	1	transcript_id "rna-M1824_000344-T1_mrna"; gene_id "gene-M1824_000344"; gene_name "FRS1";
+JAPEUI010000106.1	Genbank	CDS	8502	8554	.	-	0	transcript_id "rna-M1824_000344-T1_mrna"; gene_id "gene-M1824_000344"; gene_name "FRS1";
+JAPEUI010000011.1	Genbank	transcript	40535	43012	.	+	.	transcript_id "rna-M1824_000432-T1_mrna"; gene_id "gene-M1824_000432"; gene_name "UTP13"
+JAPEUI010000011.1	Genbank	exon	40535	43012	.	+	.	transcript_id "rna-M1824_000432-T1_mrna"; gene_id "gene-M1824_000432"; gene_name "UTP13";
+JAPEUI010000011.1	Genbank	CDS	40535	43012	.	+	0	transcript_id "rna-M1824_000432-T1_mrna"; gene_id "gene-M1824_000432"; gene_name "UTP13";
+JAPEUI010000011.1	Genbank	transcript	76321	77916	.	-	.	transcript_id "rna-M1824_000445-T1_mrna"; gene_id "gene-M1824_000445"
+JAPEUI010000011.1	Genbank	exon	76321	77916	.	-	.	transcript_id "rna-M1824_000445-T1_mrna"; gene_id "gene-M1824_000445";
+JAPEUI010000011.1	Genbank	CDS	76321	77916	.	-	0	transcript_id "rna-M1824_000445-T1_mrna"; gene_id "gene-M1824_000445";
+JAPEUI010000011.1	Genbank	transcript	191888	193563	.	-	.	transcript_id "rna-M1824_000483-T1_mrna"; gene_id "gene-M1824_000483"
+JAPEUI010000011.1	Genbank	exon	191888	192123	.	-	.	transcript_id "rna-M1824_000483-T1_mrna"; gene_id "gene-M1824_000483";
+JAPEUI010000011.1	Genbank	exon	192178	193057	.	-	.	transcript_id "rna-M1824_000483-T1_mrna"; gene_id "gene-M1824_000483";
+JAPEUI010000011.1	Genbank	exon	193109	193240	.	-	.	transcript_id "rna-M1824_000483-T1_mrna"; gene_id "gene-M1824_000483";
+JAPEUI010000011.1	Genbank	exon	193291	193468	.	-	.	transcript_id "rna-M1824_000483-T1_mrna"; gene_id "gene-M1824_000483";
+JAPEUI010000011.1	Genbank	exon	193538	193563	.	-	.	transcript_id "rna-M1824_000483-T1_mrna"; gene_id "gene-M1824_000483";
+JAPEUI010000011.1	Genbank	CDS	191888	192123	.	-	2	transcript_id "rna-M1824_000483-T1_mrna"; gene_id "gene-M1824_000483";
+JAPEUI010000011.1	Genbank	CDS	192178	193057	.	-	0	transcript_id "rna-M1824_000483-T1_mrna"; gene_id "gene-M1824_000483";
+JAPEUI010000011.1	Genbank	CDS	193109	193240	.	-	0	transcript_id "rna-M1824_000483-T1_mrna"; gene_id "gene-M1824_000483";
+JAPEUI010000011.1	Genbank	CDS	193291	193468	.	-	1	transcript_id "rna-M1824_000483-T1_mrna"; gene_id "gene-M1824_000483";
+JAPEUI010000011.1	Genbank	CDS	193538	193563	.	-	0	transcript_id "rna-M1824_000483-T1_mrna"; gene_id "gene-M1824_000483";
+JAPEUI010000110.1	Genbank	transcript	3501	4609	.	-	.	transcript_id "rna-M1824_000497-T1_mrna"; gene_id "gene-M1824_000497"
+JAPEUI010000110.1	Genbank	exon	3501	4097	.	-	.	transcript_id "rna-M1824_000497-T1_mrna"; gene_id "gene-M1824_000497";
+JAPEUI010000110.1	Genbank	exon	4148	4609	.	-	.	transcript_id "rna-M1824_000497-T1_mrna"; gene_id "gene-M1824_000497";
+JAPEUI010000110.1	Genbank	CDS	3501	4097	.	-	0	transcript_id "rna-M1824_000497-T1_mrna"; gene_id "gene-M1824_000497";
+JAPEUI010000110.1	Genbank	CDS	4148	4609	.	-	0	transcript_id "rna-M1824_000497-T1_mrna"; gene_id "gene-M1824_000497";
+JAPEUI010000112.1	Genbank	transcript	36332	37947	.	+	.	transcript_id "rna-M1824_000546-T1_mrna"; gene_id "gene-M1824_000546"
+JAPEUI010000112.1	Genbank	exon	36332	36556	.	+	.	transcript_id "rna-M1824_000546-T1_mrna"; gene_id "gene-M1824_000546";
+JAPEUI010000112.1	Genbank	exon	36607	37947	.	+	.	transcript_id "rna-M1824_000546-T1_mrna"; gene_id "gene-M1824_000546";
+JAPEUI010000112.1	Genbank	CDS	36332	36556	.	+	0	transcript_id "rna-M1824_000546-T1_mrna"; gene_id "gene-M1824_000546";
+JAPEUI010000112.1	Genbank	CDS	36607	37947	.	+	0	transcript_id "rna-M1824_000546-T1_mrna"; gene_id "gene-M1824_000546";
+JAPEUI010000113.1	Genbank	transcript	26915	29517	.	-	.	transcript_id "rna-M1824_000566-T1_mrna"; gene_id "gene-M1824_000566"; gene_name "SEC10"
+JAPEUI010000113.1	Genbank	exon	26915	27686	.	-	.	transcript_id "rna-M1824_000566-T1_mrna"; gene_id "gene-M1824_000566"; gene_name "SEC10";
+JAPEUI010000113.1	Genbank	exon	27737	29517	.	-	.	transcript_id "rna-M1824_000566-T1_mrna"; gene_id "gene-M1824_000566"; gene_name "SEC10";
+JAPEUI010000113.1	Genbank	CDS	26915	27686	.	-	1	transcript_id "rna-M1824_000566-T1_mrna"; gene_id "gene-M1824_000566"; gene_name "SEC10";
+JAPEUI010000113.1	Genbank	CDS	27737	29517	.	-	0	transcript_id "rna-M1824_000566-T1_mrna"; gene_id "gene-M1824_000566"; gene_name "SEC10";
+JAPEUI010000115.1	Genbank	transcript	4985	6555	.	+	.	transcript_id "rna-M1824_000589-T1_mrna"; gene_id "gene-M1824_000589"
+JAPEUI010000115.1	Genbank	exon	4985	5311	.	+	.	transcript_id "rna-M1824_000589-T1_mrna"; gene_id "gene-M1824_000589";
+JAPEUI010000115.1	Genbank	exon	5374	6417	.	+	.	transcript_id "rna-M1824_000589-T1_mrna"; gene_id "gene-M1824_000589";
+JAPEUI010000115.1	Genbank	exon	6475	6555	.	+	.	transcript_id "rna-M1824_000589-T1_mrna"; gene_id "gene-M1824_000589";
+JAPEUI010000115.1	Genbank	CDS	4985	5311	.	+	0	transcript_id "rna-M1824_000589-T1_mrna"; gene_id "gene-M1824_000589";
+JAPEUI010000115.1	Genbank	CDS	5374	6417	.	+	0	transcript_id "rna-M1824_000589-T1_mrna"; gene_id "gene-M1824_000589";
+JAPEUI010000115.1	Genbank	CDS	6475	6555	.	+	0	transcript_id "rna-M1824_000589-T1_mrna"; gene_id "gene-M1824_000589";
+JAPEUI010000115.1	Genbank	transcript	33473	34456	.	-	.	transcript_id "rna-M1824_000601-T1_mrna"; gene_id "gene-M1824_000601"; gene_name "CWC26"
+JAPEUI010000115.1	Genbank	exon	33473	34456	.	-	.	transcript_id "rna-M1824_000601-T1_mrna"; gene_id "gene-M1824_000601"; gene_name "CWC26";
+JAPEUI010000115.1	Genbank	CDS	33473	34456	.	-	0	transcript_id "rna-M1824_000601-T1_mrna"; gene_id "gene-M1824_000601"; gene_name "CWC26";
+JAPEUI010000119.1	Genbank	transcript	31909	34648	.	-	.	transcript_id "rna-M1824_000672-T1_mrna"; gene_id "gene-M1824_000672"; gene_name "MCM2"
+JAPEUI010000119.1	Genbank	exon	31909	32166	.	-	.	transcript_id "rna-M1824_000672-T1_mrna"; gene_id "gene-M1824_000672"; gene_name "MCM2";
+JAPEUI010000119.1	Genbank	exon	32221	34484	.	-	.	transcript_id "rna-M1824_000672-T1_mrna"; gene_id "gene-M1824_000672"; gene_name "MCM2";
+JAPEUI010000119.1	Genbank	exon	34540	34648	.	-	.	transcript_id "rna-M1824_000672-T1_mrna"; gene_id "gene-M1824_000672"; gene_name "MCM2";
+JAPEUI010000119.1	Genbank	CDS	31909	32166	.	-	0	transcript_id "rna-M1824_000672-T1_mrna"; gene_id "gene-M1824_000672"; gene_name "MCM2";
+JAPEUI010000119.1	Genbank	CDS	32221	34484	.	-	2	transcript_id "rna-M1824_000672-T1_mrna"; gene_id "gene-M1824_000672"; gene_name "MCM2";
+JAPEUI010000119.1	Genbank	CDS	34540	34648	.	-	0	transcript_id "rna-M1824_000672-T1_mrna"; gene_id "gene-M1824_000672"; gene_name "MCM2";
+JAPEUI010000012.1	Genbank	transcript	26006	27013	.	+	.	transcript_id "rna-M1824_000688-T1_mrna"; gene_id "gene-M1824_000688"; gene_name "SHY1"
+JAPEUI010000012.1	Genbank	exon	26006	26288	.	+	.	transcript_id "rna-M1824_000688-T1_mrna"; gene_id "gene-M1824_000688"; gene_name "SHY1";
+JAPEUI010000012.1	Genbank	exon	26342	26854	.	+	.	transcript_id "rna-M1824_000688-T1_mrna"; gene_id "gene-M1824_000688"; gene_name "SHY1";
+JAPEUI010000012.1	Genbank	exon	26904	27013	.	+	.	transcript_id "rna-M1824_000688-T1_mrna"; gene_id "gene-M1824_000688"; gene_name "SHY1";
+JAPEUI010000012.1	Genbank	CDS	26006	26288	.	+	0	transcript_id "rna-M1824_000688-T1_mrna"; gene_id "gene-M1824_000688"; gene_name "SHY1";
+JAPEUI010000012.1	Genbank	CDS	26342	26854	.	+	2	transcript_id "rna-M1824_000688-T1_mrna"; gene_id "gene-M1824_000688"; gene_name "SHY1";
+JAPEUI010000012.1	Genbank	CDS	26904	27013	.	+	2	transcript_id "rna-M1824_000688-T1_mrna"; gene_id "gene-M1824_000688"; gene_name "SHY1";
+JAPEUI010000012.1	Genbank	transcript	134192	135649	.	-	.	transcript_id "rna-M1824_000726-T1_mrna"; gene_id "gene-M1824_000726"
+JAPEUI010000012.1	Genbank	exon	134192	135649	.	-	.	transcript_id "rna-M1824_000726-T1_mrna"; gene_id "gene-M1824_000726";
+JAPEUI010000012.1	Genbank	CDS	134192	135649	.	-	0	transcript_id "rna-M1824_000726-T1_mrna"; gene_id "gene-M1824_000726";
+JAPEUI010000120.1	Genbank	transcript	13552	14332	.	+	.	transcript_id "rna-M1824_000763-T1_mrna"; gene_id "gene-M1824_000763"; gene_name "TMA22"
+JAPEUI010000120.1	Genbank	exon	13552	13605	.	+	.	transcript_id "rna-M1824_000763-T1_mrna"; gene_id "gene-M1824_000763"; gene_name "TMA22";
+JAPEUI010000120.1	Genbank	exon	13769	13856	.	+	.	transcript_id "rna-M1824_000763-T1_mrna"; gene_id "gene-M1824_000763"; gene_name "TMA22";
+JAPEUI010000120.1	Genbank	exon	13917	14332	.	+	.	transcript_id "rna-M1824_000763-T1_mrna"; gene_id "gene-M1824_000763"; gene_name "TMA22";
+JAPEUI010000120.1	Genbank	CDS	13552	13605	.	+	0	transcript_id "rna-M1824_000763-T1_mrna"; gene_id "gene-M1824_000763"; gene_name "TMA22";
+JAPEUI010000120.1	Genbank	CDS	13769	13856	.	+	0	transcript_id "rna-M1824_000763-T1_mrna"; gene_id "gene-M1824_000763"; gene_name "TMA22";
+JAPEUI010000120.1	Genbank	CDS	13917	14332	.	+	2	transcript_id "rna-M1824_000763-T1_mrna"; gene_id "gene-M1824_000763"; gene_name "TMA22";
+JAPEUI010000122.1	Genbank	transcript	17171	18858	.	-	.	transcript_id "rna-M1824_000797-T1_mrna"; gene_id "gene-M1824_000797"; gene_name "RRP9"
+JAPEUI010000122.1	Genbank	exon	17171	18421	.	-	.	transcript_id "rna-M1824_000797-T1_mrna"; gene_id "gene-M1824_000797"; gene_name "RRP9";
+JAPEUI010000122.1	Genbank	exon	18475	18858	.	-	.	transcript_id "rna-M1824_000797-T1_mrna"; gene_id "gene-M1824_000797"; gene_name "RRP9";
+JAPEUI010000122.1	Genbank	CDS	17171	18421	.	-	0	transcript_id "rna-M1824_000797-T1_mrna"; gene_id "gene-M1824_000797"; gene_name "RRP9";
+JAPEUI010000122.1	Genbank	CDS	18475	18858	.	-	0	transcript_id "rna-M1824_000797-T1_mrna"; gene_id "gene-M1824_000797"; gene_name "RRP9";
+JAPEUI010000013.1	Genbank	transcript	31459	33323	.	+	.	transcript_id "rna-M1824_000936-T1_mrna"; gene_id "gene-M1824_000936"
+JAPEUI010000013.1	Genbank	exon	31459	32226	.	+	.	transcript_id "rna-M1824_000936-T1_mrna"; gene_id "gene-M1824_000936";
+JAPEUI010000013.1	Genbank	exon	32280	33323	.	+	.	transcript_id "rna-M1824_000936-T1_mrna"; gene_id "gene-M1824_000936";
+JAPEUI010000013.1	Genbank	CDS	31459	32226	.	+	0	transcript_id "rna-M1824_000936-T1_mrna"; gene_id "gene-M1824_000936";
+JAPEUI010000013.1	Genbank	CDS	32280	33323	.	+	0	transcript_id "rna-M1824_000936-T1_mrna"; gene_id "gene-M1824_000936";
+JAPEUI010000013.1	Genbank	transcript	171511	172396	.	+	.	transcript_id "rna-M1824_000977-T1_mrna"; gene_id "gene-M1824_000977"
+JAPEUI010000013.1	Genbank	exon	171511	171577	.	+	.	transcript_id "rna-M1824_000977-T1_mrna"; gene_id "gene-M1824_000977";
+JAPEUI010000013.1	Genbank	exon	171639	171713	.	+	.	transcript_id "rna-M1824_000977-T1_mrna"; gene_id "gene-M1824_000977";
+JAPEUI010000013.1	Genbank	exon	171846	172396	.	+	.	transcript_id "rna-M1824_000977-T1_mrna"; gene_id "gene-M1824_000977";
+JAPEUI010000013.1	Genbank	CDS	171511	171577	.	+	0	transcript_id "rna-M1824_000977-T1_mrna"; gene_id "gene-M1824_000977";
+JAPEUI010000013.1	Genbank	CDS	171639	171713	.	+	2	transcript_id "rna-M1824_000977-T1_mrna"; gene_id "gene-M1824_000977";
+JAPEUI010000013.1	Genbank	CDS	171846	172396	.	+	2	transcript_id "rna-M1824_000977-T1_mrna"; gene_id "gene-M1824_000977";
+JAPEUI010000013.1	Genbank	transcript	217666	218457	.	+	.	transcript_id "rna-M1824_000991-T1_mrna"; gene_id "gene-M1824_000991"; gene_name "PSF1"
+JAPEUI010000013.1	Genbank	exon	217666	217692	.	+	.	transcript_id "rna-M1824_000991-T1_mrna"; gene_id "gene-M1824_000991"; gene_name "PSF1";
+JAPEUI010000013.1	Genbank	exon	217750	218288	.	+	.	transcript_id "rna-M1824_000991-T1_mrna"; gene_id "gene-M1824_000991"; gene_name "PSF1";
+JAPEUI010000013.1	Genbank	exon	218364	218457	.	+	.	transcript_id "rna-M1824_000991-T1_mrna"; gene_id "gene-M1824_000991"; gene_name "PSF1";
+JAPEUI010000013.1	Genbank	CDS	217666	217692	.	+	0	transcript_id "rna-M1824_000991-T1_mrna"; gene_id "gene-M1824_000991"; gene_name "PSF1";
+JAPEUI010000013.1	Genbank	CDS	217750	218288	.	+	0	transcript_id "rna-M1824_000991-T1_mrna"; gene_id "gene-M1824_000991"; gene_name "PSF1";
+JAPEUI010000013.1	Genbank	CDS	218364	218457	.	+	1	transcript_id "rna-M1824_000991-T1_mrna"; gene_id "gene-M1824_000991"; gene_name "PSF1";
+JAPEUI010000132.1	Genbank	transcript	23470	24303	.	-	.	transcript_id "rna-M1824_001023-T1_mrna"; gene_id "gene-M1824_001023"; gene_name "MRPL51"
+JAPEUI010000132.1	Genbank	exon	23470	23899	.	-	.	transcript_id "rna-M1824_001023-T1_mrna"; gene_id "gene-M1824_001023"; gene_name "MRPL51";
+JAPEUI010000132.1	Genbank	exon	24056	24138	.	-	.	transcript_id "rna-M1824_001023-T1_mrna"; gene_id "gene-M1824_001023"; gene_name "MRPL51";
+JAPEUI010000132.1	Genbank	exon	24265	24303	.	-	.	transcript_id "rna-M1824_001023-T1_mrna"; gene_id "gene-M1824_001023"; gene_name "MRPL51";
+JAPEUI010000132.1	Genbank	CDS	23470	23899	.	-	1	transcript_id "rna-M1824_001023-T1_mrna"; gene_id "gene-M1824_001023"; gene_name "MRPL51";
+JAPEUI010000132.1	Genbank	CDS	24056	24138	.	-	0	transcript_id "rna-M1824_001023-T1_mrna"; gene_id "gene-M1824_001023"; gene_name "MRPL51";
+JAPEUI010000132.1	Genbank	CDS	24265	24303	.	-	0	transcript_id "rna-M1824_001023-T1_mrna"; gene_id "gene-M1824_001023"; gene_name "MRPL51";
+JAPEUI010000133.1	Genbank	transcript	12072	12850	.	+	.	transcript_id "rna-M1824_001033-T1_mrna"; gene_id "gene-M1824_001033"; gene_name "RRP40"
+JAPEUI010000133.1	Genbank	exon	12072	12275	.	+	.	transcript_id "rna-M1824_001033-T1_mrna"; gene_id "gene-M1824_001033"; gene_name "RRP40";
+JAPEUI010000133.1	Genbank	exon	12323	12850	.	+	.	transcript_id "rna-M1824_001033-T1_mrna"; gene_id "gene-M1824_001033"; gene_name "RRP40";
+JAPEUI010000133.1	Genbank	CDS	12072	12275	.	+	0	transcript_id "rna-M1824_001033-T1_mrna"; gene_id "gene-M1824_001033"; gene_name "RRP40";
+JAPEUI010000133.1	Genbank	CDS	12323	12850	.	+	0	transcript_id "rna-M1824_001033-T1_mrna"; gene_id "gene-M1824_001033"; gene_name "RRP40";
+JAPEUI010000138.1	Genbank	transcript	1424	2794	.	+	.	transcript_id "rna-M1824_001101-T1_mrna"; gene_id "gene-M1824_001101"; gene_name "FYV10"
+JAPEUI010000138.1	Genbank	exon	1424	1474	.	+	.	transcript_id "rna-M1824_001101-T1_mrna"; gene_id "gene-M1824_001101"; gene_name "FYV10";
+JAPEUI010000138.1	Genbank	exon	1533	2069	.	+	.	transcript_id "rna-M1824_001101-T1_mrna"; gene_id "gene-M1824_001101"; gene_name "FYV10";
+JAPEUI010000138.1	Genbank	exon	2121	2315	.	+	.	transcript_id "rna-M1824_001101-T1_mrna"; gene_id "gene-M1824_001101"; gene_name "FYV10";
+JAPEUI010000138.1	Genbank	exon	2366	2794	.	+	.	transcript_id "rna-M1824_001101-T1_mrna"; gene_id "gene-M1824_001101"; gene_name "FYV10";
+JAPEUI010000138.1	Genbank	CDS	1424	1474	.	+	0	transcript_id "rna-M1824_001101-T1_mrna"; gene_id "gene-M1824_001101"; gene_name "FYV10";
+JAPEUI010000138.1	Genbank	CDS	1533	2069	.	+	0	transcript_id "rna-M1824_001101-T1_mrna"; gene_id "gene-M1824_001101"; gene_name "FYV10";
+JAPEUI010000138.1	Genbank	CDS	2121	2315	.	+	0	transcript_id "rna-M1824_001101-T1_mrna"; gene_id "gene-M1824_001101"; gene_name "FYV10";
+JAPEUI010000138.1	Genbank	CDS	2366	2794	.	+	0	transcript_id "rna-M1824_001101-T1_mrna"; gene_id "gene-M1824_001101"; gene_name "FYV10";
+JAPEUI010000139.1	Genbank	transcript	29030	29757	.	+	.	transcript_id "rna-M1824_001130-T1_mrna"; gene_id "gene-M1824_001130"; gene_name "NOP16"
+JAPEUI010000139.1	Genbank	exon	29030	29163	.	+	.	transcript_id "rna-M1824_001130-T1_mrna"; gene_id "gene-M1824_001130"; gene_name "NOP16";
+JAPEUI010000139.1	Genbank	exon	29196	29757	.	+	.	transcript_id "rna-M1824_001130-T1_mrna"; gene_id "gene-M1824_001130"; gene_name "NOP16";
+JAPEUI010000139.1	Genbank	CDS	29030	29163	.	+	0	transcript_id "rna-M1824_001130-T1_mrna"; gene_id "gene-M1824_001130"; gene_name "NOP16";
+JAPEUI010000139.1	Genbank	CDS	29196	29757	.	+	1	transcript_id "rna-M1824_001130-T1_mrna"; gene_id "gene-M1824_001130"; gene_name "NOP16";
+JAPEUI010000014.1	Genbank	transcript	6189	8465	.	+	.	transcript_id "rna-M1824_001138-T1_mrna"; gene_id "gene-M1824_001138"; gene_name "SDA1"
+JAPEUI010000014.1	Genbank	exon	6189	6559	.	+	.	transcript_id "rna-M1824_001138-T1_mrna"; gene_id "gene-M1824_001138"; gene_name "SDA1";
+JAPEUI010000014.1	Genbank	exon	6617	8465	.	+	.	transcript_id "rna-M1824_001138-T1_mrna"; gene_id "gene-M1824_001138"; gene_name "SDA1";
+JAPEUI010000014.1	Genbank	CDS	6189	6559	.	+	0	transcript_id "rna-M1824_001138-T1_mrna"; gene_id "gene-M1824_001138"; gene_name "SDA1";
+JAPEUI010000014.1	Genbank	CDS	6617	8465	.	+	1	transcript_id "rna-M1824_001138-T1_mrna"; gene_id "gene-M1824_001138"; gene_name "SDA1";
+JAPEUI010000014.1	Genbank	transcript	17639	18689	.	-	.	transcript_id "rna-M1824_001142-T1_mrna"; gene_id "gene-M1824_001142"
+JAPEUI010000014.1	Genbank	exon	17639	18507	.	-	.	transcript_id "rna-M1824_001142-T1_mrna"; gene_id "gene-M1824_001142";
+JAPEUI010000014.1	Genbank	exon	18575	18614	.	-	.	transcript_id "rna-M1824_001142-T1_mrna"; gene_id "gene-M1824_001142";
+JAPEUI010000014.1	Genbank	exon	18675	18689	.	-	.	transcript_id "rna-M1824_001142-T1_mrna"; gene_id "gene-M1824_001142";
+JAPEUI010000014.1	Genbank	CDS	17639	18507	.	-	2	transcript_id "rna-M1824_001142-T1_mrna"; gene_id "gene-M1824_001142";
+JAPEUI010000014.1	Genbank	CDS	18575	18614	.	-	0	transcript_id "rna-M1824_001142-T1_mrna"; gene_id "gene-M1824_001142";
+JAPEUI010000014.1	Genbank	CDS	18675	18689	.	-	0	transcript_id "rna-M1824_001142-T1_mrna"; gene_id "gene-M1824_001142";
+JAPEUI010000014.1	Genbank	transcript	55721	58171	.	-	.	transcript_id "rna-M1824_001155-T1_mrna"; gene_id "gene-M1824_001155"; gene_name "DBP6"
+JAPEUI010000014.1	Genbank	exon	55721	58171	.	-	.	transcript_id "rna-M1824_001155-T1_mrna"; gene_id "gene-M1824_001155"; gene_name "DBP6";
+JAPEUI010000014.1	Genbank	CDS	55721	58171	.	-	0	transcript_id "rna-M1824_001155-T1_mrna"; gene_id "gene-M1824_001155"; gene_name "DBP6";
+JAPEUI010000140.1	Genbank	transcript	27328	30202	.	+	.	transcript_id "rna-M1824_001227-T1_mrna"; gene_id "gene-M1824_001227"; gene_name "NOP14"
+JAPEUI010000140.1	Genbank	exon	27328	27621	.	+	.	transcript_id "rna-M1824_001227-T1_mrna"; gene_id "gene-M1824_001227"; gene_name "NOP14";
+JAPEUI010000140.1	Genbank	exon	27695	29740	.	+	.	transcript_id "rna-M1824_001227-T1_mrna"; gene_id "gene-M1824_001227"; gene_name "NOP14";
+JAPEUI010000140.1	Genbank	exon	29795	30202	.	+	.	transcript_id "rna-M1824_001227-T1_mrna"; gene_id "gene-M1824_001227"; gene_name "NOP14";
+JAPEUI010000140.1	Genbank	CDS	27328	27621	.	+	0	transcript_id "rna-M1824_001227-T1_mrna"; gene_id "gene-M1824_001227"; gene_name "NOP14";
+JAPEUI010000140.1	Genbank	CDS	27695	29740	.	+	0	transcript_id "rna-M1824_001227-T1_mrna"; gene_id "gene-M1824_001227"; gene_name "NOP14";
+JAPEUI010000140.1	Genbank	CDS	29795	30202	.	+	0	transcript_id "rna-M1824_001227-T1_mrna"; gene_id "gene-M1824_001227"; gene_name "NOP14";
+JAPEUI010000015.1	Genbank	transcript	65444	67627	.	-	.	transcript_id "rna-M1824_001373-T1_mrna"; gene_id "gene-M1824_001373"; gene_name "PES1"
+JAPEUI010000015.1	Genbank	exon	65444	67404	.	-	.	transcript_id "rna-M1824_001373-T1_mrna"; gene_id "gene-M1824_001373"; gene_name "PES1";
+JAPEUI010000015.1	Genbank	exon	67455	67553	.	-	.	transcript_id "rna-M1824_001373-T1_mrna"; gene_id "gene-M1824_001373"; gene_name "PES1";
+JAPEUI010000015.1	Genbank	exon	67606	67627	.	-	.	transcript_id "rna-M1824_001373-T1_mrna"; gene_id "gene-M1824_001373"; gene_name "PES1";
+JAPEUI010000015.1	Genbank	CDS	65444	67404	.	-	2	transcript_id "rna-M1824_001373-T1_mrna"; gene_id "gene-M1824_001373"; gene_name "PES1";
+JAPEUI010000015.1	Genbank	CDS	67455	67553	.	-	2	transcript_id "rna-M1824_001373-T1_mrna"; gene_id "gene-M1824_001373"; gene_name "PES1";
+JAPEUI010000015.1	Genbank	CDS	67606	67627	.	-	0	transcript_id "rna-M1824_001373-T1_mrna"; gene_id "gene-M1824_001373"; gene_name "PES1";
+JAPEUI010000159.1	Genbank	transcript	11392	12248	.	+	.	transcript_id "rna-M1824_001548-T1_mrna"; gene_id "gene-M1824_001548"; gene_name "SLD5"
+JAPEUI010000159.1	Genbank	exon	11392	11565	.	+	.	transcript_id "rna-M1824_001548-T1_mrna"; gene_id "gene-M1824_001548"; gene_name "SLD5";
+JAPEUI010000159.1	Genbank	exon	11671	11799	.	+	.	transcript_id "rna-M1824_001548-T1_mrna"; gene_id "gene-M1824_001548"; gene_name "SLD5";
+JAPEUI010000159.1	Genbank	exon	11892	12248	.	+	.	transcript_id "rna-M1824_001548-T1_mrna"; gene_id "gene-M1824_001548"; gene_name "SLD5";
+JAPEUI010000159.1	Genbank	CDS	11392	11565	.	+	0	transcript_id "rna-M1824_001548-T1_mrna"; gene_id "gene-M1824_001548"; gene_name "SLD5";
+JAPEUI010000159.1	Genbank	CDS	11671	11799	.	+	0	transcript_id "rna-M1824_001548-T1_mrna"; gene_id "gene-M1824_001548"; gene_name "SLD5";
+JAPEUI010000159.1	Genbank	CDS	11892	12248	.	+	0	transcript_id "rna-M1824_001548-T1_mrna"; gene_id "gene-M1824_001548"; gene_name "SLD5";
+JAPEUI010000160.1	Genbank	transcript	9065	10126	.	-	.	transcript_id "rna-M1824_001628-T1_mrna"; gene_id "gene-M1824_001628"; gene_name "DRE2"
+JAPEUI010000160.1	Genbank	exon	9065	10126	.	-	.	transcript_id "rna-M1824_001628-T1_mrna"; gene_id "gene-M1824_001628"; gene_name "DRE2";
+JAPEUI010000160.1	Genbank	CDS	9065	10126	.	-	0	transcript_id "rna-M1824_001628-T1_mrna"; gene_id "gene-M1824_001628"; gene_name "DRE2";
+JAPEUI010000164.1	Genbank	transcript	27323	29314	.	+	.	transcript_id "rna-M1824_001686-T1_mrna"; gene_id "gene-M1824_001686"; gene_name "TRM61"
+JAPEUI010000164.1	Genbank	exon	27323	29314	.	+	.	transcript_id "rna-M1824_001686-T1_mrna"; gene_id "gene-M1824_001686"; gene_name "TRM61";
+JAPEUI010000164.1	Genbank	CDS	27323	29314	.	+	0	transcript_id "rna-M1824_001686-T1_mrna"; gene_id "gene-M1824_001686"; gene_name "TRM61";
+JAPEUI010000165.1	Genbank	transcript	6558	8684	.	+	.	transcript_id "rna-M1824_001690-T1_mrna"; gene_id "gene-M1824_001690"
+JAPEUI010000165.1	Genbank	exon	6558	6575	.	+	.	transcript_id "rna-M1824_001690-T1_mrna"; gene_id "gene-M1824_001690";
+JAPEUI010000165.1	Genbank	exon	6630	6972	.	+	.	transcript_id "rna-M1824_001690-T1_mrna"; gene_id "gene-M1824_001690";
+JAPEUI010000165.1	Genbank	exon	7020	7122	.	+	.	transcript_id "rna-M1824_001690-T1_mrna"; gene_id "gene-M1824_001690";
+JAPEUI010000165.1	Genbank	exon	7178	7412	.	+	.	transcript_id "rna-M1824_001690-T1_mrna"; gene_id "gene-M1824_001690";
+JAPEUI010000165.1	Genbank	exon	7459	7552	.	+	.	transcript_id "rna-M1824_001690-T1_mrna"; gene_id "gene-M1824_001690";
+JAPEUI010000165.1	Genbank	exon	7609	8123	.	+	.	transcript_id "rna-M1824_001690-T1_mrna"; gene_id "gene-M1824_001690";
+JAPEUI010000165.1	Genbank	exon	8177	8461	.	+	.	transcript_id "rna-M1824_001690-T1_mrna"; gene_id "gene-M1824_001690";
+JAPEUI010000165.1	Genbank	exon	8523	8684	.	+	.	transcript_id "rna-M1824_001690-T1_mrna"; gene_id "gene-M1824_001690";
+JAPEUI010000165.1	Genbank	CDS	6558	6575	.	+	0	transcript_id "rna-M1824_001690-T1_mrna"; gene_id "gene-M1824_001690";
+JAPEUI010000165.1	Genbank	CDS	6630	6972	.	+	0	transcript_id "rna-M1824_001690-T1_mrna"; gene_id "gene-M1824_001690";
+JAPEUI010000165.1	Genbank	CDS	7020	7122	.	+	2	transcript_id "rna-M1824_001690-T1_mrna"; gene_id "gene-M1824_001690";
+JAPEUI010000165.1	Genbank	CDS	7178	7412	.	+	1	transcript_id "rna-M1824_001690-T1_mrna"; gene_id "gene-M1824_001690";
+JAPEUI010000165.1	Genbank	CDS	7459	7552	.	+	0	transcript_id "rna-M1824_001690-T1_mrna"; gene_id "gene-M1824_001690";
+JAPEUI010000165.1	Genbank	CDS	7609	8123	.	+	2	transcript_id "rna-M1824_001690-T1_mrna"; gene_id "gene-M1824_001690";
+JAPEUI010000165.1	Genbank	CDS	8177	8461	.	+	0	transcript_id "rna-M1824_001690-T1_mrna"; gene_id "gene-M1824_001690";
+JAPEUI010000165.1	Genbank	CDS	8523	8684	.	+	0	transcript_id "rna-M1824_001690-T1_mrna"; gene_id "gene-M1824_001690";
+JAPEUI010000189.1	Genbank	transcript	54	866	.	+	.	transcript_id "rna-M1824_002063-T1_mrna"; gene_id "gene-M1824_002063"; gene_name "ATG3_2"
+JAPEUI010000189.1	Genbank	exon	54	866	.	+	.	transcript_id "rna-M1824_002063-T1_mrna"; gene_id "gene-M1824_002063"; gene_name "ATG3_2";
+JAPEUI010000189.1	Genbank	CDS	54	866	.	+	0	transcript_id "rna-M1824_002063-T1_mrna"; gene_id "gene-M1824_002063"; gene_name "ATG3_2";
+JAPEUI010000020.1	Genbank	transcript	29114	30299	.	+	.	transcript_id "rna-M1824_002368-T1_mrna"; gene_id "gene-M1824_002368"; gene_name "TSR3"
+JAPEUI010000020.1	Genbank	exon	29114	29352	.	+	.	transcript_id "rna-M1824_002368-T1_mrna"; gene_id "gene-M1824_002368"; gene_name "TSR3";
+JAPEUI010000020.1	Genbank	exon	29402	30299	.	+	.	transcript_id "rna-M1824_002368-T1_mrna"; gene_id "gene-M1824_002368"; gene_name "TSR3";
+JAPEUI010000020.1	Genbank	CDS	29114	29352	.	+	0	transcript_id "rna-M1824_002368-T1_mrna"; gene_id "gene-M1824_002368"; gene_name "TSR3";
+JAPEUI010000020.1	Genbank	CDS	29402	30299	.	+	1	transcript_id "rna-M1824_002368-T1_mrna"; gene_id "gene-M1824_002368"; gene_name "TSR3";
+JAPEUI010000021.1	Genbank	transcript	74202	75586	.	-	.	transcript_id "rna-M1824_002518-T1_mrna"; gene_id "gene-M1824_002518"; gene_name "DOM34"
+JAPEUI010000021.1	Genbank	exon	74202	74930	.	-	.	transcript_id "rna-M1824_002518-T1_mrna"; gene_id "gene-M1824_002518"; gene_name "DOM34";
+JAPEUI010000021.1	Genbank	exon	74987	75451	.	-	.	transcript_id "rna-M1824_002518-T1_mrna"; gene_id "gene-M1824_002518"; gene_name "DOM34";
+JAPEUI010000021.1	Genbank	exon	75509	75586	.	-	.	transcript_id "rna-M1824_002518-T1_mrna"; gene_id "gene-M1824_002518"; gene_name "DOM34";
+JAPEUI010000021.1	Genbank	CDS	74202	74930	.	-	0	transcript_id "rna-M1824_002518-T1_mrna"; gene_id "gene-M1824_002518"; gene_name "DOM34";
+JAPEUI010000021.1	Genbank	CDS	74987	75451	.	-	0	transcript_id "rna-M1824_002518-T1_mrna"; gene_id "gene-M1824_002518"; gene_name "DOM34";
+JAPEUI010000021.1	Genbank	CDS	75509	75586	.	-	0	transcript_id "rna-M1824_002518-T1_mrna"; gene_id "gene-M1824_002518"; gene_name "DOM34";
+JAPEUI010000221.1	Genbank	transcript	9306	10868	.	-	.	transcript_id "rna-M1824_002695-T1_mrna"; gene_id "gene-M1824_002695"; gene_name "CSN12"
+JAPEUI010000221.1	Genbank	exon	9306	9819	.	-	.	transcript_id "rna-M1824_002695-T1_mrna"; gene_id "gene-M1824_002695"; gene_name "CSN12";
+JAPEUI010000221.1	Genbank	exon	9872	9933	.	-	.	transcript_id "rna-M1824_002695-T1_mrna"; gene_id "gene-M1824_002695"; gene_name "CSN12";
+JAPEUI010000221.1	Genbank	exon	9992	10217	.	-	.	transcript_id "rna-M1824_002695-T1_mrna"; gene_id "gene-M1824_002695"; gene_name "CSN12";
+JAPEUI010000221.1	Genbank	exon	10282	10868	.	-	.	transcript_id "rna-M1824_002695-T1_mrna"; gene_id "gene-M1824_002695"; gene_name "CSN12";
+JAPEUI010000221.1	Genbank	CDS	9306	9819	.	-	1	transcript_id "rna-M1824_002695-T1_mrna"; gene_id "gene-M1824_002695"; gene_name "CSN12";
+JAPEUI010000221.1	Genbank	CDS	9872	9933	.	-	0	transcript_id "rna-M1824_002695-T1_mrna"; gene_id "gene-M1824_002695"; gene_name "CSN12";
+JAPEUI010000221.1	Genbank	CDS	9992	10217	.	-	1	transcript_id "rna-M1824_002695-T1_mrna"; gene_id "gene-M1824_002695"; gene_name "CSN12";
+JAPEUI010000221.1	Genbank	CDS	10282	10868	.	-	0	transcript_id "rna-M1824_002695-T1_mrna"; gene_id "gene-M1824_002695"; gene_name "CSN12";
+JAPEUI010000223.1	Genbank	transcript	7277	7852	.	+	.	transcript_id "rna-M1824_002705-T1_mrna"; gene_id "gene-M1824_002705"; gene_name "COQ4"
+JAPEUI010000223.1	Genbank	exon	7277	7852	.	+	.	transcript_id "rna-M1824_002705-T1_mrna"; gene_id "gene-M1824_002705"; gene_name "COQ4";
+JAPEUI010000223.1	Genbank	CDS	7277	7852	.	+	0	transcript_id "rna-M1824_002705-T1_mrna"; gene_id "gene-M1824_002705"; gene_name "COQ4";
+JAPEUI010000023.1	Genbank	transcript	89747	92554	.	-	.	transcript_id "rna-M1824_002763-T1_mrna"; gene_id "gene-M1824_002763"
+JAPEUI010000023.1	Genbank	exon	89747	90229	.	-	.	transcript_id "rna-M1824_002763-T1_mrna"; gene_id "gene-M1824_002763";
+JAPEUI010000023.1	Genbank	exon	90257	90643	.	-	.	transcript_id "rna-M1824_002763-T1_mrna"; gene_id "gene-M1824_002763";
+JAPEUI010000023.1	Genbank	exon	90696	90794	.	-	.	transcript_id "rna-M1824_002763-T1_mrna"; gene_id "gene-M1824_002763";
+JAPEUI010000023.1	Genbank	exon	90848	91105	.	-	.	transcript_id "rna-M1824_002763-T1_mrna"; gene_id "gene-M1824_002763";
+JAPEUI010000023.1	Genbank	exon	91169	91630	.	-	.	transcript_id "rna-M1824_002763-T1_mrna"; gene_id "gene-M1824_002763";
+JAPEUI010000023.1	Genbank	exon	91710	91946	.	-	.	transcript_id "rna-M1824_002763-T1_mrna"; gene_id "gene-M1824_002763";
+JAPEUI010000023.1	Genbank	exon	91997	92125	.	-	.	transcript_id "rna-M1824_002763-T1_mrna"; gene_id "gene-M1824_002763";
+JAPEUI010000023.1	Genbank	exon	92185	92252	.	-	.	transcript_id "rna-M1824_002763-T1_mrna"; gene_id "gene-M1824_002763";
+JAPEUI010000023.1	Genbank	exon	92323	92466	.	-	.	transcript_id "rna-M1824_002763-T1_mrna"; gene_id "gene-M1824_002763";
+JAPEUI010000023.1	Genbank	exon	92521	92554	.	-	.	transcript_id "rna-M1824_002763-T1_mrna"; gene_id "gene-M1824_002763";
+JAPEUI010000023.1	Genbank	CDS	89747	90229	.	-	0	transcript_id "rna-M1824_002763-T1_mrna"; gene_id "gene-M1824_002763";
+JAPEUI010000023.1	Genbank	CDS	90257	90643	.	-	0	transcript_id "rna-M1824_002763-T1_mrna"; gene_id "gene-M1824_002763";
+JAPEUI010000023.1	Genbank	CDS	90696	90794	.	-	0	transcript_id "rna-M1824_002763-T1_mrna"; gene_id "gene-M1824_002763";
+JAPEUI010000023.1	Genbank	CDS	90848	91105	.	-	0	transcript_id "rna-M1824_002763-T1_mrna"; gene_id "gene-M1824_002763";
+JAPEUI010000023.1	Genbank	CDS	91169	91630	.	-	0	transcript_id "rna-M1824_002763-T1_mrna"; gene_id "gene-M1824_002763";
+JAPEUI010000023.1	Genbank	CDS	91710	91946	.	-	0	transcript_id "rna-M1824_002763-T1_mrna"; gene_id "gene-M1824_002763";
+JAPEUI010000023.1	Genbank	CDS	91997	92125	.	-	0	transcript_id "rna-M1824_002763-T1_mrna"; gene_id "gene-M1824_002763";
+JAPEUI010000023.1	Genbank	CDS	92185	92252	.	-	2	transcript_id "rna-M1824_002763-T1_mrna"; gene_id "gene-M1824_002763";
+JAPEUI010000023.1	Genbank	CDS	92323	92466	.	-	2	transcript_id "rna-M1824_002763-T1_mrna"; gene_id "gene-M1824_002763";
+JAPEUI010000023.1	Genbank	CDS	92521	92554	.	-	0	transcript_id "rna-M1824_002763-T1_mrna"; gene_id "gene-M1824_002763";
+JAPEUI010000232.1	Genbank	transcript	3936	6304	.	-	.	transcript_id "rna-M1824_002807-T1_mrna"; gene_id "gene-M1824_002807"; gene_name "ATG7"
+JAPEUI010000232.1	Genbank	exon	3936	4856	.	-	.	transcript_id "rna-M1824_002807-T1_mrna"; gene_id "gene-M1824_002807"; gene_name "ATG7";
+JAPEUI010000232.1	Genbank	exon	4903	5047	.	-	.	transcript_id "rna-M1824_002807-T1_mrna"; gene_id "gene-M1824_002807"; gene_name "ATG7";
+JAPEUI010000232.1	Genbank	exon	5111	5880	.	-	.	transcript_id "rna-M1824_002807-T1_mrna"; gene_id "gene-M1824_002807"; gene_name "ATG7";
+JAPEUI010000232.1	Genbank	exon	5940	6048	.	-	.	transcript_id "rna-M1824_002807-T1_mrna"; gene_id "gene-M1824_002807"; gene_name "ATG7";
+JAPEUI010000232.1	Genbank	exon	6114	6304	.	-	.	transcript_id "rna-M1824_002807-T1_mrna"; gene_id "gene-M1824_002807"; gene_name "ATG7";
+JAPEUI010000232.1	Genbank	CDS	3936	4856	.	-	0	transcript_id "rna-M1824_002807-T1_mrna"; gene_id "gene-M1824_002807"; gene_name "ATG7";
+JAPEUI010000232.1	Genbank	CDS	4903	5047	.	-	1	transcript_id "rna-M1824_002807-T1_mrna"; gene_id "gene-M1824_002807"; gene_name "ATG7";
+JAPEUI010000232.1	Genbank	CDS	5111	5880	.	-	0	transcript_id "rna-M1824_002807-T1_mrna"; gene_id "gene-M1824_002807"; gene_name "ATG7";
+JAPEUI010000232.1	Genbank	CDS	5940	6048	.	-	1	transcript_id "rna-M1824_002807-T1_mrna"; gene_id "gene-M1824_002807"; gene_name "ATG7";
+JAPEUI010000232.1	Genbank	CDS	6114	6304	.	-	0	transcript_id "rna-M1824_002807-T1_mrna"; gene_id "gene-M1824_002807"; gene_name "ATG7";
+JAPEUI010000234.1	Genbank	transcript	5202	6905	.	-	.	transcript_id "rna-M1824_002817-T1_mrna"; gene_id "gene-M1824_002817"; gene_name "HAT1"
+JAPEUI010000234.1	Genbank	exon	5202	6177	.	-	.	transcript_id "rna-M1824_002817-T1_mrna"; gene_id "gene-M1824_002817"; gene_name "HAT1";
+JAPEUI010000234.1	Genbank	exon	6235	6499	.	-	.	transcript_id "rna-M1824_002817-T1_mrna"; gene_id "gene-M1824_002817"; gene_name "HAT1";
+JAPEUI010000234.1	Genbank	exon	6554	6829	.	-	.	transcript_id "rna-M1824_002817-T1_mrna"; gene_id "gene-M1824_002817"; gene_name "HAT1";
+JAPEUI010000234.1	Genbank	exon	6887	6905	.	-	.	transcript_id "rna-M1824_002817-T1_mrna"; gene_id "gene-M1824_002817"; gene_name "HAT1";
+JAPEUI010000234.1	Genbank	CDS	5202	6177	.	-	1	transcript_id "rna-M1824_002817-T1_mrna"; gene_id "gene-M1824_002817"; gene_name "HAT1";
+JAPEUI010000234.1	Genbank	CDS	6235	6499	.	-	2	transcript_id "rna-M1824_002817-T1_mrna"; gene_id "gene-M1824_002817"; gene_name "HAT1";
+JAPEUI010000234.1	Genbank	CDS	6554	6829	.	-	2	transcript_id "rna-M1824_002817-T1_mrna"; gene_id "gene-M1824_002817"; gene_name "HAT1";
+JAPEUI010000234.1	Genbank	CDS	6887	6905	.	-	0	transcript_id "rna-M1824_002817-T1_mrna"; gene_id "gene-M1824_002817"; gene_name "HAT1";
+JAPEUI010000024.1	Genbank	transcript	15359	17113	.	-	.	transcript_id "rna-M1824_002843-T1_mrna"; gene_id "gene-M1824_002843"
+JAPEUI010000024.1	Genbank	exon	15359	17113	.	-	.	transcript_id "rna-M1824_002843-T1_mrna"; gene_id "gene-M1824_002843";
+JAPEUI010000024.1	Genbank	CDS	15359	17113	.	-	0	transcript_id "rna-M1824_002843-T1_mrna"; gene_id "gene-M1824_002843";
+JAPEUI010000025.1	Genbank	transcript	71822	72735	.	-	.	transcript_id "rna-M1824_002965-T1_mrna"; gene_id "gene-M1824_002965"; gene_name "SRRM1"
+JAPEUI010000025.1	Genbank	exon	71822	72196	.	-	.	transcript_id "rna-M1824_002965-T1_mrna"; gene_id "gene-M1824_002965"; gene_name "SRRM1";
+JAPEUI010000025.1	Genbank	exon	72268	72432	.	-	.	transcript_id "rna-M1824_002965-T1_mrna"; gene_id "gene-M1824_002965"; gene_name "SRRM1";
+JAPEUI010000025.1	Genbank	exon	72485	72575	.	-	.	transcript_id "rna-M1824_002965-T1_mrna"; gene_id "gene-M1824_002965"; gene_name "SRRM1";
+JAPEUI010000025.1	Genbank	exon	72632	72735	.	-	.	transcript_id "rna-M1824_002965-T1_mrna"; gene_id "gene-M1824_002965"; gene_name "SRRM1";
+JAPEUI010000025.1	Genbank	CDS	71822	72196	.	-	0	transcript_id "rna-M1824_002965-T1_mrna"; gene_id "gene-M1824_002965"; gene_name "SRRM1";
+JAPEUI010000025.1	Genbank	CDS	72268	72432	.	-	0	transcript_id "rna-M1824_002965-T1_mrna"; gene_id "gene-M1824_002965"; gene_name "SRRM1";
+JAPEUI010000025.1	Genbank	CDS	72485	72575	.	-	1	transcript_id "rna-M1824_002965-T1_mrna"; gene_id "gene-M1824_002965"; gene_name "SRRM1";
+JAPEUI010000025.1	Genbank	CDS	72632	72735	.	-	0	transcript_id "rna-M1824_002965-T1_mrna"; gene_id "gene-M1824_002965"; gene_name "SRRM1";
+JAPEUI010000025.1	Genbank	transcript	87487	89006	.	+	.	transcript_id "rna-M1824_002972-T1_mrna"; gene_id "gene-M1824_002972"
+JAPEUI010000025.1	Genbank	exon	87487	87589	.	+	.	transcript_id "rna-M1824_002972-T1_mrna"; gene_id "gene-M1824_002972";
+JAPEUI010000025.1	Genbank	exon	87639	87739	.	+	.	transcript_id "rna-M1824_002972-T1_mrna"; gene_id "gene-M1824_002972";
+JAPEUI010000025.1	Genbank	exon	87790	87917	.	+	.	transcript_id "rna-M1824_002972-T1_mrna"; gene_id "gene-M1824_002972";
+JAPEUI010000025.1	Genbank	exon	87971	89006	.	+	.	transcript_id "rna-M1824_002972-T1_mrna"; gene_id "gene-M1824_002972";
+JAPEUI010000025.1	Genbank	CDS	87487	87589	.	+	0	transcript_id "rna-M1824_002972-T1_mrna"; gene_id "gene-M1824_002972";
+JAPEUI010000025.1	Genbank	CDS	87639	87739	.	+	2	transcript_id "rna-M1824_002972-T1_mrna"; gene_id "gene-M1824_002972";
+JAPEUI010000025.1	Genbank	CDS	87790	87917	.	+	0	transcript_id "rna-M1824_002972-T1_mrna"; gene_id "gene-M1824_002972";
+JAPEUI010000025.1	Genbank	CDS	87971	89006	.	+	1	transcript_id "rna-M1824_002972-T1_mrna"; gene_id "gene-M1824_002972";
+JAPEUI010000026.1	Genbank	transcript	85648	86362	.	+	.	transcript_id "rna-M1824_003063-T1_mrna"; gene_id "gene-M1824_003063"
+JAPEUI010000026.1	Genbank	exon	85648	85973	.	+	.	transcript_id "rna-M1824_003063-T1_mrna"; gene_id "gene-M1824_003063";
+JAPEUI010000026.1	Genbank	exon	86029	86362	.	+	.	transcript_id "rna-M1824_003063-T1_mrna"; gene_id "gene-M1824_003063";
+JAPEUI010000026.1	Genbank	CDS	85648	85973	.	+	0	transcript_id "rna-M1824_003063-T1_mrna"; gene_id "gene-M1824_003063";
+JAPEUI010000026.1	Genbank	CDS	86029	86362	.	+	1	transcript_id "rna-M1824_003063-T1_mrna"; gene_id "gene-M1824_003063";
+JAPEUI010000026.1	Genbank	transcript	99292	100078	.	-	.	transcript_id "rna-M1824_003067-T1_mrna"; gene_id "gene-M1824_003067"; gene_name "ISY1"
+JAPEUI010000026.1	Genbank	exon	99292	100023	.	-	.	transcript_id "rna-M1824_003067-T1_mrna"; gene_id "gene-M1824_003067"; gene_name "ISY1";
+JAPEUI010000026.1	Genbank	exon	100076	100078	.	-	.	transcript_id "rna-M1824_003067-T1_mrna"; gene_id "gene-M1824_003067"; gene_name "ISY1";
+JAPEUI010000026.1	Genbank	CDS	99292	100023	.	-	0	transcript_id "rna-M1824_003067-T1_mrna"; gene_id "gene-M1824_003067"; gene_name "ISY1";
+JAPEUI010000026.1	Genbank	CDS	100076	100078	.	-	0	transcript_id "rna-M1824_003067-T1_mrna"; gene_id "gene-M1824_003067"; gene_name "ISY1";
+JAPEUI010000027.1	Genbank	transcript	35413	36081	.	+	.	transcript_id "rna-M1824_003137-T1_mrna"; gene_id "gene-M1824_003137"; gene_name "TMA20"
+JAPEUI010000027.1	Genbank	exon	35413	35627	.	+	.	transcript_id "rna-M1824_003137-T1_mrna"; gene_id "gene-M1824_003137"; gene_name "TMA20";
+JAPEUI010000027.1	Genbank	exon	35691	36081	.	+	.	transcript_id "rna-M1824_003137-T1_mrna"; gene_id "gene-M1824_003137"; gene_name "TMA20";
+JAPEUI010000027.1	Genbank	CDS	35413	35627	.	+	0	transcript_id "rna-M1824_003137-T1_mrna"; gene_id "gene-M1824_003137"; gene_name "TMA20";
+JAPEUI010000027.1	Genbank	CDS	35691	36081	.	+	1	transcript_id "rna-M1824_003137-T1_mrna"; gene_id "gene-M1824_003137"; gene_name "TMA20";
+JAPEUI010000027.1	Genbank	transcript	47831	50933	.	-	.	transcript_id "rna-M1824_003142-T1_mrna"; gene_id "gene-M1824_003142"; gene_name "HIR1"
+JAPEUI010000027.1	Genbank	exon	47831	47931	.	-	.	transcript_id "rna-M1824_003142-T1_mrna"; gene_id "gene-M1824_003142"; gene_name "HIR1";
+JAPEUI010000027.1	Genbank	exon	48044	50752	.	-	.	transcript_id "rna-M1824_003142-T1_mrna"; gene_id "gene-M1824_003142"; gene_name "HIR1";
+JAPEUI010000027.1	Genbank	exon	50798	50933	.	-	.	transcript_id "rna-M1824_003142-T1_mrna"; gene_id "gene-M1824_003142"; gene_name "HIR1";
+JAPEUI010000027.1	Genbank	CDS	47831	47931	.	-	2	transcript_id "rna-M1824_003142-T1_mrna"; gene_id "gene-M1824_003142"; gene_name "HIR1";
+JAPEUI010000027.1	Genbank	CDS	48044	50752	.	-	2	transcript_id "rna-M1824_003142-T1_mrna"; gene_id "gene-M1824_003142"; gene_name "HIR1";
+JAPEUI010000027.1	Genbank	CDS	50798	50933	.	-	0	transcript_id "rna-M1824_003142-T1_mrna"; gene_id "gene-M1824_003142"; gene_name "HIR1";
+JAPEUI010000027.1	Genbank	transcript	56213	58424	.	-	.	transcript_id "rna-M1824_003146-T1_mrna"; gene_id "gene-M1824_003146"; gene_name "GCV1"
+JAPEUI010000027.1	Genbank	exon	56213	57236	.	-	.	transcript_id "rna-M1824_003146-T1_mrna"; gene_id "gene-M1824_003146"; gene_name "GCV1";
+JAPEUI010000027.1	Genbank	exon	57290	57679	.	-	.	transcript_id "rna-M1824_003146-T1_mrna"; gene_id "gene-M1824_003146"; gene_name "GCV1";
+JAPEUI010000027.1	Genbank	exon	57907	58424	.	-	.	transcript_id "rna-M1824_003146-T1_mrna"; gene_id "gene-M1824_003146"; gene_name "GCV1";
+JAPEUI010000027.1	Genbank	CDS	56213	57236	.	-	1	transcript_id "rna-M1824_003146-T1_mrna"; gene_id "gene-M1824_003146"; gene_name "GCV1";
+JAPEUI010000027.1	Genbank	CDS	57290	57679	.	-	1	transcript_id "rna-M1824_003146-T1_mrna"; gene_id "gene-M1824_003146"; gene_name "GCV1";
+JAPEUI010000027.1	Genbank	CDS	57907	58424	.	-	0	transcript_id "rna-M1824_003146-T1_mrna"; gene_id "gene-M1824_003146"; gene_name "GCV1";
+JAPEUI010000027.1	Genbank	transcript	69002	70526	.	+	.	transcript_id "rna-M1824_003152-T1_mrna"; gene_id "gene-M1824_003152"; gene_name "PRP46"
+JAPEUI010000027.1	Genbank	exon	69002	70169	.	+	.	transcript_id "rna-M1824_003152-T1_mrna"; gene_id "gene-M1824_003152"; gene_name "PRP46";
+JAPEUI010000027.1	Genbank	exon	70221	70385	.	+	.	transcript_id "rna-M1824_003152-T1_mrna"; gene_id "gene-M1824_003152"; gene_name "PRP46";
+JAPEUI010000027.1	Genbank	exon	70441	70526	.	+	.	transcript_id "rna-M1824_003152-T1_mrna"; gene_id "gene-M1824_003152"; gene_name "PRP46";
+JAPEUI010000027.1	Genbank	CDS	69002	70169	.	+	0	transcript_id "rna-M1824_003152-T1_mrna"; gene_id "gene-M1824_003152"; gene_name "PRP46";
+JAPEUI010000027.1	Genbank	CDS	70221	70385	.	+	2	transcript_id "rna-M1824_003152-T1_mrna"; gene_id "gene-M1824_003152"; gene_name "PRP46";
+JAPEUI010000027.1	Genbank	CDS	70441	70526	.	+	2	transcript_id "rna-M1824_003152-T1_mrna"; gene_id "gene-M1824_003152"; gene_name "PRP46";
+JAPEUI010000027.1	Genbank	transcript	75276	76494	.	+	.	transcript_id "rna-M1824_003155-T1_mrna"; gene_id "gene-M1824_003155"
+JAPEUI010000027.1	Genbank	exon	75276	75292	.	+	.	transcript_id "rna-M1824_003155-T1_mrna"; gene_id "gene-M1824_003155";
+JAPEUI010000027.1	Genbank	exon	75348	75863	.	+	.	transcript_id "rna-M1824_003155-T1_mrna"; gene_id "gene-M1824_003155";
+JAPEUI010000027.1	Genbank	exon	75921	76494	.	+	.	transcript_id "rna-M1824_003155-T1_mrna"; gene_id "gene-M1824_003155";
+JAPEUI010000027.1	Genbank	CDS	75276	75292	.	+	0	transcript_id "rna-M1824_003155-T1_mrna"; gene_id "gene-M1824_003155";
+JAPEUI010000027.1	Genbank	CDS	75348	75863	.	+	1	transcript_id "rna-M1824_003155-T1_mrna"; gene_id "gene-M1824_003155";
+JAPEUI010000027.1	Genbank	CDS	75921	76494	.	+	1	transcript_id "rna-M1824_003155-T1_mrna"; gene_id "gene-M1824_003155";
+JAPEUI010000027.1	Genbank	transcript	135557	136870	.	+	.	transcript_id "rna-M1824_003173-T1_mrna"; gene_id "gene-M1824_003173"
+JAPEUI010000027.1	Genbank	exon	135557	135596	.	+	.	transcript_id "rna-M1824_003173-T1_mrna"; gene_id "gene-M1824_003173";
+JAPEUI010000027.1	Genbank	exon	135679	135838	.	+	.	transcript_id "rna-M1824_003173-T1_mrna"; gene_id "gene-M1824_003173";
+JAPEUI010000027.1	Genbank	exon	135898	136870	.	+	.	transcript_id "rna-M1824_003173-T1_mrna"; gene_id "gene-M1824_003173";
+JAPEUI010000027.1	Genbank	CDS	135557	135596	.	+	0	transcript_id "rna-M1824_003173-T1_mrna"; gene_id "gene-M1824_003173";
+JAPEUI010000027.1	Genbank	CDS	135679	135838	.	+	2	transcript_id "rna-M1824_003173-T1_mrna"; gene_id "gene-M1824_003173";
+JAPEUI010000027.1	Genbank	CDS	135898	136870	.	+	1	transcript_id "rna-M1824_003173-T1_mrna"; gene_id "gene-M1824_003173";
+JAPEUI010000027.1	Genbank	transcript	143639	146329	.	-	.	transcript_id "rna-M1824_003176-T1_mrna"; gene_id "gene-M1824_003176"
+JAPEUI010000027.1	Genbank	exon	143639	144487	.	-	.	transcript_id "rna-M1824_003176-T1_mrna"; gene_id "gene-M1824_003176";
+JAPEUI010000027.1	Genbank	exon	144543	145107	.	-	.	transcript_id "rna-M1824_003176-T1_mrna"; gene_id "gene-M1824_003176";
+JAPEUI010000027.1	Genbank	exon	145164	146329	.	-	.	transcript_id "rna-M1824_003176-T1_mrna"; gene_id "gene-M1824_003176";
+JAPEUI010000027.1	Genbank	CDS	143639	144487	.	-	0	transcript_id "rna-M1824_003176-T1_mrna"; gene_id "gene-M1824_003176";
+JAPEUI010000027.1	Genbank	CDS	144543	145107	.	-	1	transcript_id "rna-M1824_003176-T1_mrna"; gene_id "gene-M1824_003176";
+JAPEUI010000027.1	Genbank	CDS	145164	146329	.	-	0	transcript_id "rna-M1824_003176-T1_mrna"; gene_id "gene-M1824_003176";
+JAPEUI010000270.1	Genbank	transcript	1465	3668	.	+	.	transcript_id "rna-M1824_003192-T1_mrna"; gene_id "gene-M1824_003192"
+JAPEUI010000270.1	Genbank	exon	1465	1902	.	+	.	transcript_id "rna-M1824_003192-T1_mrna"; gene_id "gene-M1824_003192";
+JAPEUI010000270.1	Genbank	exon	1953	3668	.	+	.	transcript_id "rna-M1824_003192-T1_mrna"; gene_id "gene-M1824_003192";
+JAPEUI010000270.1	Genbank	CDS	1465	1902	.	+	0	transcript_id "rna-M1824_003192-T1_mrna"; gene_id "gene-M1824_003192";
+JAPEUI010000270.1	Genbank	CDS	1953	3668	.	+	0	transcript_id "rna-M1824_003192-T1_mrna"; gene_id "gene-M1824_003192";
+JAPEUI010000270.1	Genbank	transcript	6063	7228	.	-	.	transcript_id "rna-M1824_003194-T1_mrna"; gene_id "gene-M1824_003194"
+JAPEUI010000270.1	Genbank	exon	6063	6173	.	-	.	transcript_id "rna-M1824_003194-T1_mrna"; gene_id "gene-M1824_003194";
+JAPEUI010000270.1	Genbank	exon	6250	6322	.	-	.	transcript_id "rna-M1824_003194-T1_mrna"; gene_id "gene-M1824_003194";
+JAPEUI010000270.1	Genbank	exon	6374	6471	.	-	.	transcript_id "rna-M1824_003194-T1_mrna"; gene_id "gene-M1824_003194";
+JAPEUI010000270.1	Genbank	exon	6521	6956	.	-	.	transcript_id "rna-M1824_003194-T1_mrna"; gene_id "gene-M1824_003194";
+JAPEUI010000270.1	Genbank	exon	7012	7088	.	-	.	transcript_id "rna-M1824_003194-T1_mrna"; gene_id "gene-M1824_003194";
+JAPEUI010000270.1	Genbank	exon	7145	7167	.	-	.	transcript_id "rna-M1824_003194-T1_mrna"; gene_id "gene-M1824_003194";
+JAPEUI010000270.1	Genbank	exon	7219	7228	.	-	.	transcript_id "rna-M1824_003194-T1_mrna"; gene_id "gene-M1824_003194";
+JAPEUI010000270.1	Genbank	CDS	6063	6173	.	-	0	transcript_id "rna-M1824_003194-T1_mrna"; gene_id "gene-M1824_003194";
+JAPEUI010000270.1	Genbank	CDS	6250	6322	.	-	1	transcript_id "rna-M1824_003194-T1_mrna"; gene_id "gene-M1824_003194";
+JAPEUI010000270.1	Genbank	CDS	6374	6471	.	-	0	transcript_id "rna-M1824_003194-T1_mrna"; gene_id "gene-M1824_003194";
+JAPEUI010000270.1	Genbank	CDS	6521	6956	.	-	1	transcript_id "rna-M1824_003194-T1_mrna"; gene_id "gene-M1824_003194";
+JAPEUI010000270.1	Genbank	CDS	7012	7088	.	-	0	transcript_id "rna-M1824_003194-T1_mrna"; gene_id "gene-M1824_003194";
+JAPEUI010000270.1	Genbank	CDS	7145	7167	.	-	2	transcript_id "rna-M1824_003194-T1_mrna"; gene_id "gene-M1824_003194";
+JAPEUI010000270.1	Genbank	CDS	7219	7228	.	-	0	transcript_id "rna-M1824_003194-T1_mrna"; gene_id "gene-M1824_003194";
+JAPEUI010000270.1	Genbank	transcript	7490	8507	.	+	.	transcript_id "rna-M1824_003195-T1_mrna"; gene_id "gene-M1824_003195"
+JAPEUI010000270.1	Genbank	exon	7490	7656	.	+	.	transcript_id "rna-M1824_003195-T1_mrna"; gene_id "gene-M1824_003195";
+JAPEUI010000270.1	Genbank	exon	7709	8507	.	+	.	transcript_id "rna-M1824_003195-T1_mrna"; gene_id "gene-M1824_003195";
+JAPEUI010000270.1	Genbank	CDS	7490	7656	.	+	0	transcript_id "rna-M1824_003195-T1_mrna"; gene_id "gene-M1824_003195";
+JAPEUI010000270.1	Genbank	CDS	7709	8507	.	+	1	transcript_id "rna-M1824_003195-T1_mrna"; gene_id "gene-M1824_003195";
+JAPEUI010000276.1	Genbank	transcript	6603	8240	.	+	.	transcript_id "rna-M1824_003210-T1_mrna"; gene_id "gene-M1824_003210"
+JAPEUI010000276.1	Genbank	exon	6603	6853	.	+	.	transcript_id "rna-M1824_003210-T1_mrna"; gene_id "gene-M1824_003210";
+JAPEUI010000276.1	Genbank	exon	7028	8240	.	+	.	transcript_id "rna-M1824_003210-T1_mrna"; gene_id "gene-M1824_003210";
+JAPEUI010000276.1	Genbank	CDS	6603	6853	.	+	0	transcript_id "rna-M1824_003210-T1_mrna"; gene_id "gene-M1824_003210";
+JAPEUI010000276.1	Genbank	CDS	7028	8240	.	+	1	transcript_id "rna-M1824_003210-T1_mrna"; gene_id "gene-M1824_003210";
+JAPEUI010000028.1	Genbank	transcript	32321	33146	.	+	.	transcript_id "rna-M1824_003229-T1_mrna"; gene_id "gene-M1824_003229"
+JAPEUI010000028.1	Genbank	exon	32321	32766	.	+	.	transcript_id "rna-M1824_003229-T1_mrna"; gene_id "gene-M1824_003229";
+JAPEUI010000028.1	Genbank	exon	32822	33146	.	+	.	transcript_id "rna-M1824_003229-T1_mrna"; gene_id "gene-M1824_003229";
+JAPEUI010000028.1	Genbank	CDS	32321	32766	.	+	0	transcript_id "rna-M1824_003229-T1_mrna"; gene_id "gene-M1824_003229";
+JAPEUI010000028.1	Genbank	CDS	32822	33146	.	+	1	transcript_id "rna-M1824_003229-T1_mrna"; gene_id "gene-M1824_003229";
+JAPEUI010000003.1	Genbank	transcript	1650	2703	.	-	.	transcript_id "rna-M1824_003380-T1_mrna"; gene_id "gene-M1824_003380"; gene_name "GCN3"
+JAPEUI010000003.1	Genbank	exon	1650	2598	.	-	.	transcript_id "rna-M1824_003380-T1_mrna"; gene_id "gene-M1824_003380"; gene_name "GCN3";
+JAPEUI010000003.1	Genbank	exon	2657	2703	.	-	.	transcript_id "rna-M1824_003380-T1_mrna"; gene_id "gene-M1824_003380"; gene_name "GCN3";
+JAPEUI010000003.1	Genbank	CDS	1650	2598	.	-	1	transcript_id "rna-M1824_003380-T1_mrna"; gene_id "gene-M1824_003380"; gene_name "GCN3";
+JAPEUI010000003.1	Genbank	CDS	2657	2703	.	-	0	transcript_id "rna-M1824_003380-T1_mrna"; gene_id "gene-M1824_003380"; gene_name "GCN3";
+JAPEUI010000003.1	Genbank	transcript	141033	143435	.	-	.	transcript_id "rna-M1824_003434-T1_mrna"; gene_id "gene-M1824_003434"; gene_name "DBP7"
+JAPEUI010000003.1	Genbank	exon	141033	143435	.	-	.	transcript_id "rna-M1824_003434-T1_mrna"; gene_id "gene-M1824_003434"; gene_name "DBP7";
+JAPEUI010000003.1	Genbank	CDS	141033	143435	.	-	0	transcript_id "rna-M1824_003434-T1_mrna"; gene_id "gene-M1824_003434"; gene_name "DBP7";
+JAPEUI010000003.1	Genbank	transcript	220046	221036	.	+	.	transcript_id "rna-M1824_003459-T1_mrna"; gene_id "gene-M1824_003459"; gene_name "BCP1"
+JAPEUI010000003.1	Genbank	exon	220046	220141	.	+	.	transcript_id "rna-M1824_003459-T1_mrna"; gene_id "gene-M1824_003459"; gene_name "BCP1";
+JAPEUI010000003.1	Genbank	exon	220200	220436	.	+	.	transcript_id "rna-M1824_003459-T1_mrna"; gene_id "gene-M1824_003459"; gene_name "BCP1";
+JAPEUI010000003.1	Genbank	exon	220488	221036	.	+	.	transcript_id "rna-M1824_003459-T1_mrna"; gene_id "gene-M1824_003459"; gene_name "BCP1";
+JAPEUI010000003.1	Genbank	CDS	220046	220141	.	+	0	transcript_id "rna-M1824_003459-T1_mrna"; gene_id "gene-M1824_003459"; gene_name "BCP1";
+JAPEUI010000003.1	Genbank	CDS	220200	220436	.	+	0	transcript_id "rna-M1824_003459-T1_mrna"; gene_id "gene-M1824_003459"; gene_name "BCP1";
+JAPEUI010000003.1	Genbank	CDS	220488	221036	.	+	0	transcript_id "rna-M1824_003459-T1_mrna"; gene_id "gene-M1824_003459"; gene_name "BCP1";
+JAPEUI010000003.1	Genbank	transcript	226945	230240	.	-	.	transcript_id "rna-M1824_003463-T1_mrna"; gene_id "gene-M1824_003463"
+JAPEUI010000003.1	Genbank	exon	226945	227718	.	-	.	transcript_id "rna-M1824_003463-T1_mrna"; gene_id "gene-M1824_003463";
+JAPEUI010000003.1	Genbank	exon	227768	228295	.	-	.	transcript_id "rna-M1824_003463-T1_mrna"; gene_id "gene-M1824_003463";
+JAPEUI010000003.1	Genbank	exon	228346	228681	.	-	.	transcript_id "rna-M1824_003463-T1_mrna"; gene_id "gene-M1824_003463";
+JAPEUI010000003.1	Genbank	exon	228742	228975	.	-	.	transcript_id "rna-M1824_003463-T1_mrna"; gene_id "gene-M1824_003463";
+JAPEUI010000003.1	Genbank	exon	229023	229658	.	-	.	transcript_id "rna-M1824_003463-T1_mrna"; gene_id "gene-M1824_003463";
+JAPEUI010000003.1	Genbank	exon	229711	229830	.	-	.	transcript_id "rna-M1824_003463-T1_mrna"; gene_id "gene-M1824_003463";
+JAPEUI010000003.1	Genbank	exon	229878	230057	.	-	.	transcript_id "rna-M1824_003463-T1_mrna"; gene_id "gene-M1824_003463";
+JAPEUI010000003.1	Genbank	exon	230104	230178	.	-	.	transcript_id "rna-M1824_003463-T1_mrna"; gene_id "gene-M1824_003463";
+JAPEUI010000003.1	Genbank	exon	230226	230240	.	-	.	transcript_id "rna-M1824_003463-T1_mrna"; gene_id "gene-M1824_003463";
+JAPEUI010000003.1	Genbank	CDS	226945	227718	.	-	0	transcript_id "rna-M1824_003463-T1_mrna"; gene_id "gene-M1824_003463";
+JAPEUI010000003.1	Genbank	CDS	227768	228295	.	-	0	transcript_id "rna-M1824_003463-T1_mrna"; gene_id "gene-M1824_003463";
+JAPEUI010000003.1	Genbank	CDS	228346	228681	.	-	0	transcript_id "rna-M1824_003463-T1_mrna"; gene_id "gene-M1824_003463";
+JAPEUI010000003.1	Genbank	CDS	228742	228975	.	-	0	transcript_id "rna-M1824_003463-T1_mrna"; gene_id "gene-M1824_003463";
+JAPEUI010000003.1	Genbank	CDS	229023	229658	.	-	0	transcript_id "rna-M1824_003463-T1_mrna"; gene_id "gene-M1824_003463";
+JAPEUI010000003.1	Genbank	CDS	229711	229830	.	-	0	transcript_id "rna-M1824_003463-T1_mrna"; gene_id "gene-M1824_003463";
+JAPEUI010000003.1	Genbank	CDS	229878	230057	.	-	0	transcript_id "rna-M1824_003463-T1_mrna"; gene_id "gene-M1824_003463";
+JAPEUI010000003.1	Genbank	CDS	230104	230178	.	-	0	transcript_id "rna-M1824_003463-T1_mrna"; gene_id "gene-M1824_003463";
+JAPEUI010000003.1	Genbank	CDS	230226	230240	.	-	0	transcript_id "rna-M1824_003463-T1_mrna"; gene_id "gene-M1824_003463";
+JAPEUI010000030.1	Genbank	transcript	9438	10982	.	-	.	transcript_id "rna-M1824_003506-T1_mrna"; gene_id "gene-M1824_003506"; gene_name "ALG7"
+JAPEUI010000030.1	Genbank	exon	9438	10192	.	-	.	transcript_id "rna-M1824_003506-T1_mrna"; gene_id "gene-M1824_003506"; gene_name "ALG7";
+JAPEUI010000030.1	Genbank	exon	10247	10460	.	-	.	transcript_id "rna-M1824_003506-T1_mrna"; gene_id "gene-M1824_003506"; gene_name "ALG7";
+JAPEUI010000030.1	Genbank	exon	10519	10699	.	-	.	transcript_id "rna-M1824_003506-T1_mrna"; gene_id "gene-M1824_003506"; gene_name "ALG7";
+JAPEUI010000030.1	Genbank	exon	10753	10982	.	-	.	transcript_id "rna-M1824_003506-T1_mrna"; gene_id "gene-M1824_003506"; gene_name "ALG7";
+JAPEUI010000030.1	Genbank	CDS	9438	10192	.	-	2	transcript_id "rna-M1824_003506-T1_mrna"; gene_id "gene-M1824_003506"; gene_name "ALG7";
+JAPEUI010000030.1	Genbank	CDS	10247	10460	.	-	0	transcript_id "rna-M1824_003506-T1_mrna"; gene_id "gene-M1824_003506"; gene_name "ALG7";
+JAPEUI010000030.1	Genbank	CDS	10519	10699	.	-	1	transcript_id "rna-M1824_003506-T1_mrna"; gene_id "gene-M1824_003506"; gene_name "ALG7";
+JAPEUI010000030.1	Genbank	CDS	10753	10982	.	-	0	transcript_id "rna-M1824_003506-T1_mrna"; gene_id "gene-M1824_003506"; gene_name "ALG7";
+JAPEUI010000030.1	Genbank	transcript	87984	89277	.	+	.	transcript_id "rna-M1824_003534-T1_mrna"; gene_id "gene-M1824_003534"; gene_name "KRR1"
+JAPEUI010000030.1	Genbank	exon	87984	88043	.	+	.	transcript_id "rna-M1824_003534-T1_mrna"; gene_id "gene-M1824_003534"; gene_name "KRR1";
+JAPEUI010000030.1	Genbank	exon	88118	88390	.	+	.	transcript_id "rna-M1824_003534-T1_mrna"; gene_id "gene-M1824_003534"; gene_name "KRR1";
+JAPEUI010000030.1	Genbank	exon	88489	89277	.	+	.	transcript_id "rna-M1824_003534-T1_mrna"; gene_id "gene-M1824_003534"; gene_name "KRR1";
+JAPEUI010000030.1	Genbank	CDS	87984	88043	.	+	0	transcript_id "rna-M1824_003534-T1_mrna"; gene_id "gene-M1824_003534"; gene_name "KRR1";
+JAPEUI010000030.1	Genbank	CDS	88118	88390	.	+	0	transcript_id "rna-M1824_003534-T1_mrna"; gene_id "gene-M1824_003534"; gene_name "KRR1";
+JAPEUI010000030.1	Genbank	CDS	88489	89277	.	+	0	transcript_id "rna-M1824_003534-T1_mrna"; gene_id "gene-M1824_003534"; gene_name "KRR1";
+JAPEUI010000309.1	Genbank	transcript	2144	3818	.	+	.	transcript_id "rna-M1824_003589-T1_mrna"; gene_id "gene-M1824_003589"; gene_name "SWC4"
+JAPEUI010000309.1	Genbank	exon	2144	2240	.	+	.	transcript_id "rna-M1824_003589-T1_mrna"; gene_id "gene-M1824_003589"; gene_name "SWC4";
+JAPEUI010000309.1	Genbank	exon	2295	2409	.	+	.	transcript_id "rna-M1824_003589-T1_mrna"; gene_id "gene-M1824_003589"; gene_name "SWC4";
+JAPEUI010000309.1	Genbank	exon	2464	3818	.	+	.	transcript_id "rna-M1824_003589-T1_mrna"; gene_id "gene-M1824_003589"; gene_name "SWC4";
+JAPEUI010000309.1	Genbank	CDS	2144	2240	.	+	0	transcript_id "rna-M1824_003589-T1_mrna"; gene_id "gene-M1824_003589"; gene_name "SWC4";
+JAPEUI010000309.1	Genbank	CDS	2295	2409	.	+	2	transcript_id "rna-M1824_003589-T1_mrna"; gene_id "gene-M1824_003589"; gene_name "SWC4";
+JAPEUI010000309.1	Genbank	CDS	2464	3818	.	+	1	transcript_id "rna-M1824_003589-T1_mrna"; gene_id "gene-M1824_003589"; gene_name "SWC4";
+JAPEUI010000032.1	Genbank	transcript	18122	19667	.	+	.	transcript_id "rna-M1824_003656-T1_mrna"; gene_id "gene-M1824_003656"; gene_name "ENP1"
+JAPEUI010000032.1	Genbank	exon	18122	18475	.	+	.	transcript_id "rna-M1824_003656-T1_mrna"; gene_id "gene-M1824_003656"; gene_name "ENP1";
+JAPEUI010000032.1	Genbank	exon	18528	18769	.	+	.	transcript_id "rna-M1824_003656-T1_mrna"; gene_id "gene-M1824_003656"; gene_name "ENP1";
+JAPEUI010000032.1	Genbank	exon	18818	19667	.	+	.	transcript_id "rna-M1824_003656-T1_mrna"; gene_id "gene-M1824_003656"; gene_name "ENP1";
+JAPEUI010000032.1	Genbank	CDS	18122	18475	.	+	0	transcript_id "rna-M1824_003656-T1_mrna"; gene_id "gene-M1824_003656"; gene_name "ENP1";
+JAPEUI010000032.1	Genbank	CDS	18528	18769	.	+	0	transcript_id "rna-M1824_003656-T1_mrna"; gene_id "gene-M1824_003656"; gene_name "ENP1";
+JAPEUI010000032.1	Genbank	CDS	18818	19667	.	+	1	transcript_id "rna-M1824_003656-T1_mrna"; gene_id "gene-M1824_003656"; gene_name "ENP1";
+JAPEUI010000034.1	Genbank	transcript	11109	13315	.	-	.	transcript_id "rna-M1824_003764-T1_mrna"; gene_id "gene-M1824_003764"; gene_name "SRP72"
+JAPEUI010000034.1	Genbank	exon	11109	12381	.	-	.	transcript_id "rna-M1824_003764-T1_mrna"; gene_id "gene-M1824_003764"; gene_name "SRP72";
+JAPEUI010000034.1	Genbank	exon	12445	12589	.	-	.	transcript_id "rna-M1824_003764-T1_mrna"; gene_id "gene-M1824_003764"; gene_name "SRP72";
+JAPEUI010000034.1	Genbank	exon	12649	12922	.	-	.	transcript_id "rna-M1824_003764-T1_mrna"; gene_id "gene-M1824_003764"; gene_name "SRP72";
+JAPEUI010000034.1	Genbank	exon	12977	13315	.	-	.	transcript_id "rna-M1824_003764-T1_mrna"; gene_id "gene-M1824_003764"; gene_name "SRP72";
+JAPEUI010000034.1	Genbank	CDS	11109	12381	.	-	1	transcript_id "rna-M1824_003764-T1_mrna"; gene_id "gene-M1824_003764"; gene_name "SRP72";
+JAPEUI010000034.1	Genbank	CDS	12445	12589	.	-	2	transcript_id "rna-M1824_003764-T1_mrna"; gene_id "gene-M1824_003764"; gene_name "SRP72";
+JAPEUI010000034.1	Genbank	CDS	12649	12922	.	-	0	transcript_id "rna-M1824_003764-T1_mrna"; gene_id "gene-M1824_003764"; gene_name "SRP72";
+JAPEUI010000034.1	Genbank	CDS	12977	13315	.	-	0	transcript_id "rna-M1824_003764-T1_mrna"; gene_id "gene-M1824_003764"; gene_name "SRP72";
+JAPEUI010000035.1	Genbank	transcript	76566	77946	.	+	.	transcript_id "rna-M1824_003833-T1_mrna"; gene_id "gene-M1824_003833"; gene_name "EBP2"
+JAPEUI010000035.1	Genbank	exon	76566	76796	.	+	.	transcript_id "rna-M1824_003833-T1_mrna"; gene_id "gene-M1824_003833"; gene_name "EBP2";
+JAPEUI010000035.1	Genbank	exon	76855	77946	.	+	.	transcript_id "rna-M1824_003833-T1_mrna"; gene_id "gene-M1824_003833"; gene_name "EBP2";
+JAPEUI010000035.1	Genbank	CDS	76566	76796	.	+	0	transcript_id "rna-M1824_003833-T1_mrna"; gene_id "gene-M1824_003833"; gene_name "EBP2";
+JAPEUI010000035.1	Genbank	CDS	76855	77946	.	+	0	transcript_id "rna-M1824_003833-T1_mrna"; gene_id "gene-M1824_003833"; gene_name "EBP2";
+JAPEUI010000036.1	Genbank	transcript	98502	100111	.	+	.	transcript_id "rna-M1824_003885-T1_mrna"; gene_id "gene-M1824_003885"; gene_name "COX15"
+JAPEUI010000036.1	Genbank	exon	98502	98887	.	+	.	transcript_id "rna-M1824_003885-T1_mrna"; gene_id "gene-M1824_003885"; gene_name "COX15";
+JAPEUI010000036.1	Genbank	exon	98941	100111	.	+	.	transcript_id "rna-M1824_003885-T1_mrna"; gene_id "gene-M1824_003885"; gene_name "COX15";
+JAPEUI010000036.1	Genbank	CDS	98502	98887	.	+	0	transcript_id "rna-M1824_003885-T1_mrna"; gene_id "gene-M1824_003885"; gene_name "COX15";
+JAPEUI010000036.1	Genbank	CDS	98941	100111	.	+	1	transcript_id "rna-M1824_003885-T1_mrna"; gene_id "gene-M1824_003885"; gene_name "COX15";
+JAPEUI010000038.1	Genbank	transcript	79714	80425	.	+	.	transcript_id "rna-M1824_003980-T1_mrna"; gene_id "gene-M1824_003980"
+JAPEUI010000038.1	Genbank	exon	79714	79882	.	+	.	transcript_id "rna-M1824_003980-T1_mrna"; gene_id "gene-M1824_003980";
+JAPEUI010000038.1	Genbank	exon	79966	80197	.	+	.	transcript_id "rna-M1824_003980-T1_mrna"; gene_id "gene-M1824_003980";
+JAPEUI010000038.1	Genbank	exon	80254	80425	.	+	.	transcript_id "rna-M1824_003980-T1_mrna"; gene_id "gene-M1824_003980";
+JAPEUI010000038.1	Genbank	CDS	79714	79882	.	+	0	transcript_id "rna-M1824_003980-T1_mrna"; gene_id "gene-M1824_003980";
+JAPEUI010000038.1	Genbank	CDS	79966	80197	.	+	2	transcript_id "rna-M1824_003980-T1_mrna"; gene_id "gene-M1824_003980";
+JAPEUI010000038.1	Genbank	CDS	80254	80425	.	+	1	transcript_id "rna-M1824_003980-T1_mrna"; gene_id "gene-M1824_003980";
+JAPEUI010000039.1	Genbank	transcript	81314	84204	.	+	.	transcript_id "rna-M1824_004029-T1_mrna"; gene_id "gene-M1824_004029"
+JAPEUI010000039.1	Genbank	exon	81314	81331	.	+	.	transcript_id "rna-M1824_004029-T1_mrna"; gene_id "gene-M1824_004029";
+JAPEUI010000039.1	Genbank	exon	81382	81494	.	+	.	transcript_id "rna-M1824_004029-T1_mrna"; gene_id "gene-M1824_004029";
+JAPEUI010000039.1	Genbank	exon	81548	82312	.	+	.	transcript_id "rna-M1824_004029-T1_mrna"; gene_id "gene-M1824_004029";
+JAPEUI010000039.1	Genbank	exon	82358	83971	.	+	.	transcript_id "rna-M1824_004029-T1_mrna"; gene_id "gene-M1824_004029";
+JAPEUI010000039.1	Genbank	exon	84030	84204	.	+	.	transcript_id "rna-M1824_004029-T1_mrna"; gene_id "gene-M1824_004029";
+JAPEUI010000039.1	Genbank	CDS	81314	81331	.	+	0	transcript_id "rna-M1824_004029-T1_mrna"; gene_id "gene-M1824_004029";
+JAPEUI010000039.1	Genbank	CDS	81382	81494	.	+	0	transcript_id "rna-M1824_004029-T1_mrna"; gene_id "gene-M1824_004029";
+JAPEUI010000039.1	Genbank	CDS	81548	82312	.	+	1	transcript_id "rna-M1824_004029-T1_mrna"; gene_id "gene-M1824_004029";
+JAPEUI010000039.1	Genbank	CDS	82358	83971	.	+	1	transcript_id "rna-M1824_004029-T1_mrna"; gene_id "gene-M1824_004029";
+JAPEUI010000039.1	Genbank	CDS	84030	84204	.	+	1	transcript_id "rna-M1824_004029-T1_mrna"; gene_id "gene-M1824_004029";
+JAPEUI010000004.1	Genbank	transcript	174305	177092	.	+	.	transcript_id "rna-M1824_004101-T1_mrna"; gene_id "gene-M1824_004101"
+JAPEUI010000004.1	Genbank	exon	174305	174371	.	+	.	transcript_id "rna-M1824_004101-T1_mrna"; gene_id "gene-M1824_004101";
+JAPEUI010000004.1	Genbank	exon	174433	174527	.	+	.	transcript_id "rna-M1824_004101-T1_mrna"; gene_id "gene-M1824_004101";
+JAPEUI010000004.1	Genbank	exon	174580	174686	.	+	.	transcript_id "rna-M1824_004101-T1_mrna"; gene_id "gene-M1824_004101";
+JAPEUI010000004.1	Genbank	exon	174744	175011	.	+	.	transcript_id "rna-M1824_004101-T1_mrna"; gene_id "gene-M1824_004101";
+JAPEUI010000004.1	Genbank	exon	175065	175262	.	+	.	transcript_id "rna-M1824_004101-T1_mrna"; gene_id "gene-M1824_004101";
+JAPEUI010000004.1	Genbank	exon	175316	176007	.	+	.	transcript_id "rna-M1824_004101-T1_mrna"; gene_id "gene-M1824_004101";
+JAPEUI010000004.1	Genbank	exon	176058	176239	.	+	.	transcript_id "rna-M1824_004101-T1_mrna"; gene_id "gene-M1824_004101";
+JAPEUI010000004.1	Genbank	exon	176290	177092	.	+	.	transcript_id "rna-M1824_004101-T1_mrna"; gene_id "gene-M1824_004101";
+JAPEUI010000004.1	Genbank	CDS	174305	174371	.	+	0	transcript_id "rna-M1824_004101-T1_mrna"; gene_id "gene-M1824_004101";
+JAPEUI010000004.1	Genbank	CDS	174433	174527	.	+	2	transcript_id "rna-M1824_004101-T1_mrna"; gene_id "gene-M1824_004101";
+JAPEUI010000004.1	Genbank	CDS	174580	174686	.	+	0	transcript_id "rna-M1824_004101-T1_mrna"; gene_id "gene-M1824_004101";
+JAPEUI010000004.1	Genbank	CDS	174744	175011	.	+	1	transcript_id "rna-M1824_004101-T1_mrna"; gene_id "gene-M1824_004101";
+JAPEUI010000004.1	Genbank	CDS	175065	175262	.	+	0	transcript_id "rna-M1824_004101-T1_mrna"; gene_id "gene-M1824_004101";
+JAPEUI010000004.1	Genbank	CDS	175316	176007	.	+	0	transcript_id "rna-M1824_004101-T1_mrna"; gene_id "gene-M1824_004101";
+JAPEUI010000004.1	Genbank	CDS	176058	176239	.	+	1	transcript_id "rna-M1824_004101-T1_mrna"; gene_id "gene-M1824_004101";
+JAPEUI010000004.1	Genbank	CDS	176290	177092	.	+	2	transcript_id "rna-M1824_004101-T1_mrna"; gene_id "gene-M1824_004101";
+JAPEUI010000041.1	Genbank	transcript	77641	79951	.	-	.	transcript_id "rna-M1824_004233-T1_mrna"; gene_id "gene-M1824_004233"
+JAPEUI010000041.1	Genbank	exon	77641	78290	.	-	.	transcript_id "rna-M1824_004233-T1_mrna"; gene_id "gene-M1824_004233";
+JAPEUI010000041.1	Genbank	exon	78358	78395	.	-	.	transcript_id "rna-M1824_004233-T1_mrna"; gene_id "gene-M1824_004233";
+JAPEUI010000041.1	Genbank	exon	78454	78544	.	-	.	transcript_id "rna-M1824_004233-T1_mrna"; gene_id "gene-M1824_004233";
+JAPEUI010000041.1	Genbank	exon	78565	78876	.	-	.	transcript_id "rna-M1824_004233-T1_mrna"; gene_id "gene-M1824_004233";
+JAPEUI010000041.1	Genbank	exon	78940	79261	.	-	.	transcript_id "rna-M1824_004233-T1_mrna"; gene_id "gene-M1824_004233";
+JAPEUI010000041.1	Genbank	exon	79313	79364	.	-	.	transcript_id "rna-M1824_004233-T1_mrna"; gene_id "gene-M1824_004233";
+JAPEUI010000041.1	Genbank	exon	79399	79544	.	-	.	transcript_id "rna-M1824_004233-T1_mrna"; gene_id "gene-M1824_004233";
+JAPEUI010000041.1	Genbank	exon	79599	79699	.	-	.	transcript_id "rna-M1824_004233-T1_mrna"; gene_id "gene-M1824_004233";
+JAPEUI010000041.1	Genbank	exon	79752	79802	.	-	.	transcript_id "rna-M1824_004233-T1_mrna"; gene_id "gene-M1824_004233";
+JAPEUI010000041.1	Genbank	exon	79867	79951	.	-	.	transcript_id "rna-M1824_004233-T1_mrna"; gene_id "gene-M1824_004233";
+JAPEUI010000041.1	Genbank	CDS	77641	78290	.	-	2	transcript_id "rna-M1824_004233-T1_mrna"; gene_id "gene-M1824_004233";
+JAPEUI010000041.1	Genbank	CDS	78358	78395	.	-	1	transcript_id "rna-M1824_004233-T1_mrna"; gene_id "gene-M1824_004233";
+JAPEUI010000041.1	Genbank	CDS	78454	78544	.	-	2	transcript_id "rna-M1824_004233-T1_mrna"; gene_id "gene-M1824_004233";
+JAPEUI010000041.1	Genbank	CDS	78565	78876	.	-	2	transcript_id "rna-M1824_004233-T1_mrna"; gene_id "gene-M1824_004233";
+JAPEUI010000041.1	Genbank	CDS	78940	79261	.	-	0	transcript_id "rna-M1824_004233-T1_mrna"; gene_id "gene-M1824_004233";
+JAPEUI010000041.1	Genbank	CDS	79313	79364	.	-	1	transcript_id "rna-M1824_004233-T1_mrna"; gene_id "gene-M1824_004233";
+JAPEUI010000041.1	Genbank	CDS	79399	79544	.	-	0	transcript_id "rna-M1824_004233-T1_mrna"; gene_id "gene-M1824_004233";
+JAPEUI010000041.1	Genbank	CDS	79599	79699	.	-	2	transcript_id "rna-M1824_004233-T1_mrna"; gene_id "gene-M1824_004233";
+JAPEUI010000041.1	Genbank	CDS	79752	79802	.	-	2	transcript_id "rna-M1824_004233-T1_mrna"; gene_id "gene-M1824_004233";
+JAPEUI010000041.1	Genbank	CDS	79867	79951	.	-	0	transcript_id "rna-M1824_004233-T1_mrna"; gene_id "gene-M1824_004233";
+JAPEUI010000042.1	Genbank	transcript	51308	52249	.	+	.	transcript_id "rna-M1824_004268-T1_mrna"; gene_id "gene-M1824_004268"; gene_name "RPC25"
+JAPEUI010000042.1	Genbank	exon	51308	51319	.	+	.	transcript_id "rna-M1824_004268-T1_mrna"; gene_id "gene-M1824_004268"; gene_name "RPC25";
+JAPEUI010000042.1	Genbank	exon	51378	51476	.	+	.	transcript_id "rna-M1824_004268-T1_mrna"; gene_id "gene-M1824_004268"; gene_name "RPC25";
+JAPEUI010000042.1	Genbank	exon	51533	51629	.	+	.	transcript_id "rna-M1824_004268-T1_mrna"; gene_id "gene-M1824_004268"; gene_name "RPC25";
+JAPEUI010000042.1	Genbank	exon	51684	51770	.	+	.	transcript_id "rna-M1824_004268-T1_mrna"; gene_id "gene-M1824_004268"; gene_name "RPC25";
+JAPEUI010000042.1	Genbank	exon	51820	51883	.	+	.	transcript_id "rna-M1824_004268-T1_mrna"; gene_id "gene-M1824_004268"; gene_name "RPC25";
+JAPEUI010000042.1	Genbank	exon	52012	52249	.	+	.	transcript_id "rna-M1824_004268-T1_mrna"; gene_id "gene-M1824_004268"; gene_name "RPC25";
+JAPEUI010000042.1	Genbank	CDS	51308	51319	.	+	0	transcript_id "rna-M1824_004268-T1_mrna"; gene_id "gene-M1824_004268"; gene_name "RPC25";
+JAPEUI010000042.1	Genbank	CDS	51378	51476	.	+	0	transcript_id "rna-M1824_004268-T1_mrna"; gene_id "gene-M1824_004268"; gene_name "RPC25";
+JAPEUI010000042.1	Genbank	CDS	51533	51629	.	+	0	transcript_id "rna-M1824_004268-T1_mrna"; gene_id "gene-M1824_004268"; gene_name "RPC25";
+JAPEUI010000042.1	Genbank	CDS	51684	51770	.	+	2	transcript_id "rna-M1824_004268-T1_mrna"; gene_id "gene-M1824_004268"; gene_name "RPC25";
+JAPEUI010000042.1	Genbank	CDS	51820	51883	.	+	2	transcript_id "rna-M1824_004268-T1_mrna"; gene_id "gene-M1824_004268"; gene_name "RPC25";
+JAPEUI010000042.1	Genbank	CDS	52012	52249	.	+	1	transcript_id "rna-M1824_004268-T1_mrna"; gene_id "gene-M1824_004268"; gene_name "RPC25";
+JAPEUI010000042.1	Genbank	transcript	106741	108015	.	+	.	transcript_id "rna-M1824_004290-T1_mrna"; gene_id "gene-M1824_004290"
+JAPEUI010000042.1	Genbank	exon	106741	108015	.	+	.	transcript_id "rna-M1824_004290-T1_mrna"; gene_id "gene-M1824_004290";
+JAPEUI010000042.1	Genbank	CDS	106741	108015	.	+	0	transcript_id "rna-M1824_004290-T1_mrna"; gene_id "gene-M1824_004290";
+JAPEUI010000044.1	Genbank	transcript	33929	35873	.	-	.	transcript_id "rna-M1824_004353-T1_mrna"; gene_id "gene-M1824_004353"; gene_name "PCM1"
+JAPEUI010000044.1	Genbank	exon	33929	34789	.	-	.	transcript_id "rna-M1824_004353-T1_mrna"; gene_id "gene-M1824_004353"; gene_name "PCM1";
+JAPEUI010000044.1	Genbank	exon	34845	35354	.	-	.	transcript_id "rna-M1824_004353-T1_mrna"; gene_id "gene-M1824_004353"; gene_name "PCM1";
+JAPEUI010000044.1	Genbank	exon	35413	35427	.	-	.	transcript_id "rna-M1824_004353-T1_mrna"; gene_id "gene-M1824_004353"; gene_name "PCM1";
+JAPEUI010000044.1	Genbank	exon	35497	35778	.	-	.	transcript_id "rna-M1824_004353-T1_mrna"; gene_id "gene-M1824_004353"; gene_name "PCM1";
+JAPEUI010000044.1	Genbank	exon	35790	35873	.	-	.	transcript_id "rna-M1824_004353-T1_mrna"; gene_id "gene-M1824_004353"; gene_name "PCM1";
+JAPEUI010000044.1	Genbank	CDS	33929	34789	.	-	0	transcript_id "rna-M1824_004353-T1_mrna"; gene_id "gene-M1824_004353"; gene_name "PCM1";
+JAPEUI010000044.1	Genbank	CDS	34845	35354	.	-	0	transcript_id "rna-M1824_004353-T1_mrna"; gene_id "gene-M1824_004353"; gene_name "PCM1";
+JAPEUI010000044.1	Genbank	CDS	35413	35427	.	-	0	transcript_id "rna-M1824_004353-T1_mrna"; gene_id "gene-M1824_004353"; gene_name "PCM1";
+JAPEUI010000044.1	Genbank	CDS	35497	35778	.	-	0	transcript_id "rna-M1824_004353-T1_mrna"; gene_id "gene-M1824_004353"; gene_name "PCM1";
+JAPEUI010000044.1	Genbank	CDS	35790	35873	.	-	0	transcript_id "rna-M1824_004353-T1_mrna"; gene_id "gene-M1824_004353"; gene_name "PCM1";
+JAPEUI010000046.1	Genbank	transcript	85304	87325	.	-	.	transcript_id "rna-M1824_004457-T1_mrna"; gene_id "gene-M1824_004457"
+JAPEUI010000046.1	Genbank	exon	85304	85455	.	-	.	transcript_id "rna-M1824_004457-T1_mrna"; gene_id "gene-M1824_004457";
+JAPEUI010000046.1	Genbank	exon	85506	86653	.	-	.	transcript_id "rna-M1824_004457-T1_mrna"; gene_id "gene-M1824_004457";
+JAPEUI010000046.1	Genbank	exon	86704	86933	.	-	.	transcript_id "rna-M1824_004457-T1_mrna"; gene_id "gene-M1824_004457";
+JAPEUI010000046.1	Genbank	exon	86987	87325	.	-	.	transcript_id "rna-M1824_004457-T1_mrna"; gene_id "gene-M1824_004457";
+JAPEUI010000046.1	Genbank	CDS	85304	85455	.	-	2	transcript_id "rna-M1824_004457-T1_mrna"; gene_id "gene-M1824_004457";
+JAPEUI010000046.1	Genbank	CDS	85506	86653	.	-	1	transcript_id "rna-M1824_004457-T1_mrna"; gene_id "gene-M1824_004457";
+JAPEUI010000046.1	Genbank	CDS	86704	86933	.	-	0	transcript_id "rna-M1824_004457-T1_mrna"; gene_id "gene-M1824_004457";
+JAPEUI010000046.1	Genbank	CDS	86987	87325	.	-	0	transcript_id "rna-M1824_004457-T1_mrna"; gene_id "gene-M1824_004457";
+JAPEUI010000047.1	Genbank	transcript	25785	26872	.	-	.	transcript_id "rna-M1824_004471-T1_mrna"; gene_id "gene-M1824_004471"; gene_name "LIA1"
+JAPEUI010000047.1	Genbank	exon	25785	26316	.	-	.	transcript_id "rna-M1824_004471-T1_mrna"; gene_id "gene-M1824_004471"; gene_name "LIA1";
+JAPEUI010000047.1	Genbank	exon	26370	26872	.	-	.	transcript_id "rna-M1824_004471-T1_mrna"; gene_id "gene-M1824_004471"; gene_name "LIA1";
+JAPEUI010000047.1	Genbank	CDS	25785	26316	.	-	1	transcript_id "rna-M1824_004471-T1_mrna"; gene_id "gene-M1824_004471"; gene_name "LIA1";
+JAPEUI010000047.1	Genbank	CDS	26370	26872	.	-	0	transcript_id "rna-M1824_004471-T1_mrna"; gene_id "gene-M1824_004471"; gene_name "LIA1";
+JAPEUI010000048.1	Genbank	transcript	46057	48814	.	-	.	transcript_id "rna-M1824_004525-T1_mrna"; gene_id "gene-M1824_004525"; gene_name "COG3"
+JAPEUI010000048.1	Genbank	exon	46057	46845	.	-	.	transcript_id "rna-M1824_004525-T1_mrna"; gene_id "gene-M1824_004525"; gene_name "COG3";
+JAPEUI010000048.1	Genbank	exon	46892	47926	.	-	.	transcript_id "rna-M1824_004525-T1_mrna"; gene_id "gene-M1824_004525"; gene_name "COG3";
+JAPEUI010000048.1	Genbank	exon	47977	48259	.	-	.	transcript_id "rna-M1824_004525-T1_mrna"; gene_id "gene-M1824_004525"; gene_name "COG3";
+JAPEUI010000048.1	Genbank	exon	48369	48649	.	-	.	transcript_id "rna-M1824_004525-T1_mrna"; gene_id "gene-M1824_004525"; gene_name "COG3";
+JAPEUI010000048.1	Genbank	exon	48704	48814	.	-	.	transcript_id "rna-M1824_004525-T1_mrna"; gene_id "gene-M1824_004525"; gene_name "COG3";
+JAPEUI010000048.1	Genbank	CDS	46057	46845	.	-	0	transcript_id "rna-M1824_004525-T1_mrna"; gene_id "gene-M1824_004525"; gene_name "COG3";
+JAPEUI010000048.1	Genbank	CDS	46892	47926	.	-	0	transcript_id "rna-M1824_004525-T1_mrna"; gene_id "gene-M1824_004525"; gene_name "COG3";
+JAPEUI010000048.1	Genbank	CDS	47977	48259	.	-	1	transcript_id "rna-M1824_004525-T1_mrna"; gene_id "gene-M1824_004525"; gene_name "COG3";
+JAPEUI010000048.1	Genbank	CDS	48369	48649	.	-	0	transcript_id "rna-M1824_004525-T1_mrna"; gene_id "gene-M1824_004525"; gene_name "COG3";
+JAPEUI010000048.1	Genbank	CDS	48704	48814	.	-	0	transcript_id "rna-M1824_004525-T1_mrna"; gene_id "gene-M1824_004525"; gene_name "COG3";
+JAPEUI010000049.1	Genbank	transcript	117113	118860	.	-	.	transcript_id "rna-M1824_004587-T1_mrna"; gene_id "gene-M1824_004587"
+JAPEUI010000049.1	Genbank	exon	117113	118045	.	-	.	transcript_id "rna-M1824_004587-T1_mrna"; gene_id "gene-M1824_004587";
+JAPEUI010000049.1	Genbank	exon	118152	118240	.	-	.	transcript_id "rna-M1824_004587-T1_mrna"; gene_id "gene-M1824_004587";
+JAPEUI010000049.1	Genbank	exon	118296	118713	.	-	.	transcript_id "rna-M1824_004587-T1_mrna"; gene_id "gene-M1824_004587";
+JAPEUI010000049.1	Genbank	exon	118765	118860	.	-	.	transcript_id "rna-M1824_004587-T1_mrna"; gene_id "gene-M1824_004587";
+JAPEUI010000049.1	Genbank	CDS	117113	118045	.	-	0	transcript_id "rna-M1824_004587-T1_mrna"; gene_id "gene-M1824_004587";
+JAPEUI010000049.1	Genbank	CDS	118152	118240	.	-	2	transcript_id "rna-M1824_004587-T1_mrna"; gene_id "gene-M1824_004587";
+JAPEUI010000049.1	Genbank	CDS	118296	118713	.	-	0	transcript_id "rna-M1824_004587-T1_mrna"; gene_id "gene-M1824_004587";
+JAPEUI010000049.1	Genbank	CDS	118765	118860	.	-	0	transcript_id "rna-M1824_004587-T1_mrna"; gene_id "gene-M1824_004587";
+JAPEUI010000005.1	Genbank	transcript	162907	163701	.	-	.	transcript_id "rna-M1824_004636-T1_mrna"; gene_id "gene-M1824_004636"
+JAPEUI010000005.1	Genbank	exon	162907	163701	.	-	.	transcript_id "rna-M1824_004636-T1_mrna"; gene_id "gene-M1824_004636";
+JAPEUI010000005.1	Genbank	CDS	162907	163701	.	-	0	transcript_id "rna-M1824_004636-T1_mrna"; gene_id "gene-M1824_004636";
+JAPEUI010000051.1	Genbank	transcript	105395	106747	.	+	.	transcript_id "rna-M1824_004763-T1_mrna"; gene_id "gene-M1824_004763"
+JAPEUI010000051.1	Genbank	exon	105395	105457	.	+	.	transcript_id "rna-M1824_004763-T1_mrna"; gene_id "gene-M1824_004763";
+JAPEUI010000051.1	Genbank	exon	105512	105529	.	+	.	transcript_id "rna-M1824_004763-T1_mrna"; gene_id "gene-M1824_004763";
+JAPEUI010000051.1	Genbank	exon	105629	106173	.	+	.	transcript_id "rna-M1824_004763-T1_mrna"; gene_id "gene-M1824_004763";
+JAPEUI010000051.1	Genbank	exon	106315	106747	.	+	.	transcript_id "rna-M1824_004763-T1_mrna"; gene_id "gene-M1824_004763";
+JAPEUI010000051.1	Genbank	CDS	105395	105457	.	+	0	transcript_id "rna-M1824_004763-T1_mrna"; gene_id "gene-M1824_004763";
+JAPEUI010000051.1	Genbank	CDS	105512	105529	.	+	0	transcript_id "rna-M1824_004763-T1_mrna"; gene_id "gene-M1824_004763";
+JAPEUI010000051.1	Genbank	CDS	105629	106173	.	+	0	transcript_id "rna-M1824_004763-T1_mrna"; gene_id "gene-M1824_004763";
+JAPEUI010000051.1	Genbank	CDS	106315	106747	.	+	1	transcript_id "rna-M1824_004763-T1_mrna"; gene_id "gene-M1824_004763";
+JAPEUI010000052.1	Genbank	transcript	73609	75402	.	+	.	transcript_id "rna-M1824_004797-T1_mrna"; gene_id "gene-M1824_004797"
+JAPEUI010000052.1	Genbank	exon	73609	73841	.	+	.	transcript_id "rna-M1824_004797-T1_mrna"; gene_id "gene-M1824_004797";
+JAPEUI010000052.1	Genbank	exon	73893	74046	.	+	.	transcript_id "rna-M1824_004797-T1_mrna"; gene_id "gene-M1824_004797";
+JAPEUI010000052.1	Genbank	exon	74105	74830	.	+	.	transcript_id "rna-M1824_004797-T1_mrna"; gene_id "gene-M1824_004797";
+JAPEUI010000052.1	Genbank	exon	74881	75402	.	+	.	transcript_id "rna-M1824_004797-T1_mrna"; gene_id "gene-M1824_004797";
+JAPEUI010000052.1	Genbank	CDS	73609	73841	.	+	0	transcript_id "rna-M1824_004797-T1_mrna"; gene_id "gene-M1824_004797";
+JAPEUI010000052.1	Genbank	CDS	73893	74046	.	+	1	transcript_id "rna-M1824_004797-T1_mrna"; gene_id "gene-M1824_004797";
+JAPEUI010000052.1	Genbank	CDS	74105	74830	.	+	0	transcript_id "rna-M1824_004797-T1_mrna"; gene_id "gene-M1824_004797";
+JAPEUI010000052.1	Genbank	CDS	74881	75402	.	+	0	transcript_id "rna-M1824_004797-T1_mrna"; gene_id "gene-M1824_004797";
+JAPEUI010000052.1	Genbank	transcript	91449	93487	.	-	.	transcript_id "rna-M1824_004803-T1_mrna"; gene_id "gene-M1824_004803"
+JAPEUI010000052.1	Genbank	exon	91449	92920	.	-	.	transcript_id "rna-M1824_004803-T1_mrna"; gene_id "gene-M1824_004803";
+JAPEUI010000052.1	Genbank	exon	92968	93487	.	-	.	transcript_id "rna-M1824_004803-T1_mrna"; gene_id "gene-M1824_004803";
+JAPEUI010000052.1	Genbank	CDS	91449	92920	.	-	2	transcript_id "rna-M1824_004803-T1_mrna"; gene_id "gene-M1824_004803";
+JAPEUI010000052.1	Genbank	CDS	92968	93487	.	-	0	transcript_id "rna-M1824_004803-T1_mrna"; gene_id "gene-M1824_004803";
+JAPEUI010000052.1	Genbank	transcript	101317	102528	.	-	.	transcript_id "rna-M1824_004806-T1_mrna"; gene_id "gene-M1824_004806"
+JAPEUI010000052.1	Genbank	exon	101317	102528	.	-	.	transcript_id "rna-M1824_004806-T1_mrna"; gene_id "gene-M1824_004806";
+JAPEUI010000052.1	Genbank	CDS	101317	102528	.	-	0	transcript_id "rna-M1824_004806-T1_mrna"; gene_id "gene-M1824_004806";
+JAPEUI010000053.1	Genbank	transcript	58746	61310	.	+	.	transcript_id "rna-M1824_004829-T1_mrna"; gene_id "gene-M1824_004829"; gene_name "ERB1"
+JAPEUI010000053.1	Genbank	exon	58746	61310	.	+	.	transcript_id "rna-M1824_004829-T1_mrna"; gene_id "gene-M1824_004829"; gene_name "ERB1";
+JAPEUI010000053.1	Genbank	CDS	58746	61310	.	+	0	transcript_id "rna-M1824_004829-T1_mrna"; gene_id "gene-M1824_004829"; gene_name "ERB1";
+JAPEUI010000053.1	Genbank	transcript	78497	80325	.	+	.	transcript_id "rna-M1824_004837-T1_mrna"; gene_id "gene-M1824_004837"
+JAPEUI010000053.1	Genbank	exon	78497	78936	.	+	.	transcript_id "rna-M1824_004837-T1_mrna"; gene_id "gene-M1824_004837";
+JAPEUI010000053.1	Genbank	exon	79019	79178	.	+	.	transcript_id "rna-M1824_004837-T1_mrna"; gene_id "gene-M1824_004837";
+JAPEUI010000053.1	Genbank	exon	79228	80325	.	+	.	transcript_id "rna-M1824_004837-T1_mrna"; gene_id "gene-M1824_004837";
+JAPEUI010000053.1	Genbank	CDS	78497	78936	.	+	0	transcript_id "rna-M1824_004837-T1_mrna"; gene_id "gene-M1824_004837";
+JAPEUI010000053.1	Genbank	CDS	79019	79178	.	+	1	transcript_id "rna-M1824_004837-T1_mrna"; gene_id "gene-M1824_004837";
+JAPEUI010000053.1	Genbank	CDS	79228	80325	.	+	0	transcript_id "rna-M1824_004837-T1_mrna"; gene_id "gene-M1824_004837";
+JAPEUI010000054.1	Genbank	transcript	36858	38072	.	+	.	transcript_id "rna-M1824_004868-T1_mrna"; gene_id "gene-M1824_004868"
+JAPEUI010000054.1	Genbank	exon	36858	36927	.	+	.	transcript_id "rna-M1824_004868-T1_mrna"; gene_id "gene-M1824_004868";
+JAPEUI010000054.1	Genbank	exon	36990	37029	.	+	.	transcript_id "rna-M1824_004868-T1_mrna"; gene_id "gene-M1824_004868";
+JAPEUI010000054.1	Genbank	exon	37087	37177	.	+	.	transcript_id "rna-M1824_004868-T1_mrna"; gene_id "gene-M1824_004868";
+JAPEUI010000054.1	Genbank	exon	37269	38072	.	+	.	transcript_id "rna-M1824_004868-T1_mrna"; gene_id "gene-M1824_004868";
+JAPEUI010000054.1	Genbank	CDS	36858	36927	.	+	0	transcript_id "rna-M1824_004868-T1_mrna"; gene_id "gene-M1824_004868";
+JAPEUI010000054.1	Genbank	CDS	36990	37029	.	+	2	transcript_id "rna-M1824_004868-T1_mrna"; gene_id "gene-M1824_004868";
+JAPEUI010000054.1	Genbank	CDS	37087	37177	.	+	1	transcript_id "rna-M1824_004868-T1_mrna"; gene_id "gene-M1824_004868";
+JAPEUI010000054.1	Genbank	CDS	37269	38072	.	+	0	transcript_id "rna-M1824_004868-T1_mrna"; gene_id "gene-M1824_004868";
+JAPEUI010000055.1	Genbank	transcript	86459	87236	.	-	.	transcript_id "rna-M1824_004933-T1_mrna"; gene_id "gene-M1824_004933"
+JAPEUI010000055.1	Genbank	exon	86459	87175	.	-	.	transcript_id "rna-M1824_004933-T1_mrna"; gene_id "gene-M1824_004933";
+JAPEUI010000055.1	Genbank	exon	87225	87236	.	-	.	transcript_id "rna-M1824_004933-T1_mrna"; gene_id "gene-M1824_004933";
+JAPEUI010000055.1	Genbank	CDS	86459	87175	.	-	0	transcript_id "rna-M1824_004933-T1_mrna"; gene_id "gene-M1824_004933";
+JAPEUI010000055.1	Genbank	CDS	87225	87236	.	-	0	transcript_id "rna-M1824_004933-T1_mrna"; gene_id "gene-M1824_004933";
+JAPEUI010000056.1	Genbank	transcript	36033	38294	.	+	.	transcript_id "rna-M1824_004958-T1_mrna"; gene_id "gene-M1824_004958"; gene_name "ESF1"
+JAPEUI010000056.1	Genbank	exon	36033	36096	.	+	.	transcript_id "rna-M1824_004958-T1_mrna"; gene_id "gene-M1824_004958"; gene_name "ESF1";
+JAPEUI010000056.1	Genbank	exon	36154	38294	.	+	.	transcript_id "rna-M1824_004958-T1_mrna"; gene_id "gene-M1824_004958"; gene_name "ESF1";
+JAPEUI010000056.1	Genbank	CDS	36033	36096	.	+	0	transcript_id "rna-M1824_004958-T1_mrna"; gene_id "gene-M1824_004958"; gene_name "ESF1";
+JAPEUI010000056.1	Genbank	CDS	36154	38294	.	+	2	transcript_id "rna-M1824_004958-T1_mrna"; gene_id "gene-M1824_004958"; gene_name "ESF1";
+JAPEUI010000058.1	Genbank	transcript	56141	56550	.	+	.	transcript_id "rna-M1824_005035-T1_mrna"; gene_id "gene-M1824_005035"
+JAPEUI010000058.1	Genbank	exon	56141	56451	.	+	.	transcript_id "rna-M1824_005035-T1_mrna"; gene_id "gene-M1824_005035";
+JAPEUI010000058.1	Genbank	exon	56511	56550	.	+	.	transcript_id "rna-M1824_005035-T1_mrna"; gene_id "gene-M1824_005035";
+JAPEUI010000058.1	Genbank	CDS	56141	56451	.	+	0	transcript_id "rna-M1824_005035-T1_mrna"; gene_id "gene-M1824_005035";
+JAPEUI010000058.1	Genbank	CDS	56511	56550	.	+	1	transcript_id "rna-M1824_005035-T1_mrna"; gene_id "gene-M1824_005035";
+JAPEUI010000058.1	Genbank	transcript	89864	91057	.	+	.	transcript_id "rna-M1824_005049-T1_mrna"; gene_id "gene-M1824_005049"
+JAPEUI010000058.1	Genbank	exon	89864	89907	.	+	.	transcript_id "rna-M1824_005049-T1_mrna"; gene_id "gene-M1824_005049";
+JAPEUI010000058.1	Genbank	exon	89964	90181	.	+	.	transcript_id "rna-M1824_005049-T1_mrna"; gene_id "gene-M1824_005049";
+JAPEUI010000058.1	Genbank	exon	90238	90313	.	+	.	transcript_id "rna-M1824_005049-T1_mrna"; gene_id "gene-M1824_005049";
+JAPEUI010000058.1	Genbank	exon	90363	90439	.	+	.	transcript_id "rna-M1824_005049-T1_mrna"; gene_id "gene-M1824_005049";
+JAPEUI010000058.1	Genbank	exon	90489	91057	.	+	.	transcript_id "rna-M1824_005049-T1_mrna"; gene_id "gene-M1824_005049";
+JAPEUI010000058.1	Genbank	CDS	89864	89907	.	+	0	transcript_id "rna-M1824_005049-T1_mrna"; gene_id "gene-M1824_005049";
+JAPEUI010000058.1	Genbank	CDS	89964	90181	.	+	1	transcript_id "rna-M1824_005049-T1_mrna"; gene_id "gene-M1824_005049";
+JAPEUI010000058.1	Genbank	CDS	90238	90313	.	+	2	transcript_id "rna-M1824_005049-T1_mrna"; gene_id "gene-M1824_005049";
+JAPEUI010000058.1	Genbank	CDS	90363	90439	.	+	1	transcript_id "rna-M1824_005049-T1_mrna"; gene_id "gene-M1824_005049";
+JAPEUI010000058.1	Genbank	CDS	90489	91057	.	+	2	transcript_id "rna-M1824_005049-T1_mrna"; gene_id "gene-M1824_005049";
+JAPEUI010000059.1	Genbank	transcript	642	2023	.	-	.	transcript_id "rna-M1824_005060-T1_mrna"; gene_id "gene-M1824_005060"
+JAPEUI010000059.1	Genbank	exon	642	1756	.	-	.	transcript_id "rna-M1824_005060-T1_mrna"; gene_id "gene-M1824_005060";
+JAPEUI010000059.1	Genbank	exon	1822	2023	.	-	.	transcript_id "rna-M1824_005060-T1_mrna"; gene_id "gene-M1824_005060";
+JAPEUI010000059.1	Genbank	CDS	642	1756	.	-	2	transcript_id "rna-M1824_005060-T1_mrna"; gene_id "gene-M1824_005060";
+JAPEUI010000059.1	Genbank	CDS	1822	2023	.	-	0	transcript_id "rna-M1824_005060-T1_mrna"; gene_id "gene-M1824_005060";
+JAPEUI010000059.1	Genbank	transcript	2290	3189	.	+	.	transcript_id "rna-M1824_005061-T1_mrna"; gene_id "gene-M1824_005061"
+JAPEUI010000059.1	Genbank	exon	2290	2312	.	+	.	transcript_id "rna-M1824_005061-T1_mrna"; gene_id "gene-M1824_005061";
+JAPEUI010000059.1	Genbank	exon	2364	3189	.	+	.	transcript_id "rna-M1824_005061-T1_mrna"; gene_id "gene-M1824_005061";
+JAPEUI010000059.1	Genbank	CDS	2290	2312	.	+	0	transcript_id "rna-M1824_005061-T1_mrna"; gene_id "gene-M1824_005061";
+JAPEUI010000059.1	Genbank	CDS	2364	3189	.	+	1	transcript_id "rna-M1824_005061-T1_mrna"; gene_id "gene-M1824_005061";
+JAPEUI010000006.1	Genbank	transcript	93334	95205	.	-	.	transcript_id "rna-M1824_005133-T1_mrna"; gene_id "gene-M1824_005133"
+JAPEUI010000006.1	Genbank	exon	93334	94859	.	-	.	transcript_id "rna-M1824_005133-T1_mrna"; gene_id "gene-M1824_005133";
+JAPEUI010000006.1	Genbank	exon	94932	95205	.	-	.	transcript_id "rna-M1824_005133-T1_mrna"; gene_id "gene-M1824_005133";
+JAPEUI010000006.1	Genbank	CDS	93334	94859	.	-	2	transcript_id "rna-M1824_005133-T1_mrna"; gene_id "gene-M1824_005133";
+JAPEUI010000006.1	Genbank	CDS	94932	95205	.	-	0	transcript_id "rna-M1824_005133-T1_mrna"; gene_id "gene-M1824_005133";
+JAPEUI010000061.1	Genbank	transcript	34006	35110	.	+	.	transcript_id "rna-M1824_005251-T1_mrna"; gene_id "gene-M1824_005251"; gene_name "PRP18"
+JAPEUI010000061.1	Genbank	exon	34006	34856	.	+	.	transcript_id "rna-M1824_005251-T1_mrna"; gene_id "gene-M1824_005251"; gene_name "PRP18";
+JAPEUI010000061.1	Genbank	exon	34921	35110	.	+	.	transcript_id "rna-M1824_005251-T1_mrna"; gene_id "gene-M1824_005251"; gene_name "PRP18";
+JAPEUI010000061.1	Genbank	CDS	34006	34856	.	+	0	transcript_id "rna-M1824_005251-T1_mrna"; gene_id "gene-M1824_005251"; gene_name "PRP18";
+JAPEUI010000061.1	Genbank	CDS	34921	35110	.	+	1	transcript_id "rna-M1824_005251-T1_mrna"; gene_id "gene-M1824_005251"; gene_name "PRP18";
+JAPEUI010000061.1	Genbank	transcript	72055	72854	.	+	.	transcript_id "rna-M1824_005262-T1_mrna"; gene_id "gene-M1824_005262"; gene_name "COX11"
+JAPEUI010000061.1	Genbank	exon	72055	72101	.	+	.	transcript_id "rna-M1824_005262-T1_mrna"; gene_id "gene-M1824_005262"; gene_name "COX11";
+JAPEUI010000061.1	Genbank	exon	72173	72242	.	+	.	transcript_id "rna-M1824_005262-T1_mrna"; gene_id "gene-M1824_005262"; gene_name "COX11";
+JAPEUI010000061.1	Genbank	exon	72348	72854	.	+	.	transcript_id "rna-M1824_005262-T1_mrna"; gene_id "gene-M1824_005262"; gene_name "COX11";
+JAPEUI010000061.1	Genbank	CDS	72055	72101	.	+	0	transcript_id "rna-M1824_005262-T1_mrna"; gene_id "gene-M1824_005262"; gene_name "COX11";
+JAPEUI010000061.1	Genbank	CDS	72173	72242	.	+	1	transcript_id "rna-M1824_005262-T1_mrna"; gene_id "gene-M1824_005262"; gene_name "COX11";
+JAPEUI010000061.1	Genbank	CDS	72348	72854	.	+	0	transcript_id "rna-M1824_005262-T1_mrna"; gene_id "gene-M1824_005262"; gene_name "COX11";
+JAPEUI010000062.1	Genbank	transcript	30984	33437	.	-	.	transcript_id "rna-M1824_005283-T1_mrna"; gene_id "gene-M1824_005283"; gene_name "DPB2"
+JAPEUI010000062.1	Genbank	exon	30984	32667	.	-	.	transcript_id "rna-M1824_005283-T1_mrna"; gene_id "gene-M1824_005283"; gene_name "DPB2";
+JAPEUI010000062.1	Genbank	exon	32722	33437	.	-	.	transcript_id "rna-M1824_005283-T1_mrna"; gene_id "gene-M1824_005283"; gene_name "DPB2";
+JAPEUI010000062.1	Genbank	CDS	30984	32667	.	-	1	transcript_id "rna-M1824_005283-T1_mrna"; gene_id "gene-M1824_005283"; gene_name "DPB2";
+JAPEUI010000062.1	Genbank	CDS	32722	33437	.	-	0	transcript_id "rna-M1824_005283-T1_mrna"; gene_id "gene-M1824_005283"; gene_name "DPB2";
+JAPEUI010000062.1	Genbank	transcript	56189	56814	.	+	.	transcript_id "rna-M1824_005295-T1_mrna"; gene_id "gene-M1824_005295"; gene_name "IMP3"
+JAPEUI010000062.1	Genbank	exon	56189	56655	.	+	.	transcript_id "rna-M1824_005295-T1_mrna"; gene_id "gene-M1824_005295"; gene_name "IMP3";
+JAPEUI010000062.1	Genbank	exon	56718	56814	.	+	.	transcript_id "rna-M1824_005295-T1_mrna"; gene_id "gene-M1824_005295"; gene_name "IMP3";
+JAPEUI010000062.1	Genbank	CDS	56189	56655	.	+	0	transcript_id "rna-M1824_005295-T1_mrna"; gene_id "gene-M1824_005295"; gene_name "IMP3";
+JAPEUI010000062.1	Genbank	CDS	56718	56814	.	+	1	transcript_id "rna-M1824_005295-T1_mrna"; gene_id "gene-M1824_005295"; gene_name "IMP3";
+JAPEUI010000063.1	Genbank	transcript	84532	86030	.	+	.	transcript_id "rna-M1824_005348-T1_mrna"; gene_id "gene-M1824_005348"; gene_name "GCD7"
+JAPEUI010000063.1	Genbank	exon	84532	84629	.	+	.	transcript_id "rna-M1824_005348-T1_mrna"; gene_id "gene-M1824_005348"; gene_name "GCD7";
+JAPEUI010000063.1	Genbank	exon	84683	86030	.	+	.	transcript_id "rna-M1824_005348-T1_mrna"; gene_id "gene-M1824_005348"; gene_name "GCD7";
+JAPEUI010000063.1	Genbank	CDS	84532	84629	.	+	0	transcript_id "rna-M1824_005348-T1_mrna"; gene_id "gene-M1824_005348"; gene_name "GCD7";
+JAPEUI010000063.1	Genbank	CDS	84683	86030	.	+	1	transcript_id "rna-M1824_005348-T1_mrna"; gene_id "gene-M1824_005348"; gene_name "GCD7";
+JAPEUI010000064.1	Genbank	transcript	48072	49931	.	-	.	transcript_id "rna-M1824_005374-T1_mrna"; gene_id "gene-M1824_005374"; gene_name "TRM6"
+JAPEUI010000064.1	Genbank	exon	48072	49779	.	-	.	transcript_id "rna-M1824_005374-T1_mrna"; gene_id "gene-M1824_005374"; gene_name "TRM6";
+JAPEUI010000064.1	Genbank	exon	49843	49931	.	-	.	transcript_id "rna-M1824_005374-T1_mrna"; gene_id "gene-M1824_005374"; gene_name "TRM6";
+JAPEUI010000064.1	Genbank	CDS	48072	49779	.	-	1	transcript_id "rna-M1824_005374-T1_mrna"; gene_id "gene-M1824_005374"; gene_name "TRM6";
+JAPEUI010000064.1	Genbank	CDS	49843	49931	.	-	0	transcript_id "rna-M1824_005374-T1_mrna"; gene_id "gene-M1824_005374"; gene_name "TRM6";
+JAPEUI010000067.1	Genbank	transcript	23536	24351	.	-	.	transcript_id "rna-M1824_005468-T1_mrna"; gene_id "gene-M1824_005468"; gene_name "MRT4"
+JAPEUI010000067.1	Genbank	exon	23536	24058	.	-	.	transcript_id "rna-M1824_005468-T1_mrna"; gene_id "gene-M1824_005468"; gene_name "MRT4";
+JAPEUI010000067.1	Genbank	exon	24161	24351	.	-	.	transcript_id "rna-M1824_005468-T1_mrna"; gene_id "gene-M1824_005468"; gene_name "MRT4";
+JAPEUI010000067.1	Genbank	CDS	23536	24058	.	-	1	transcript_id "rna-M1824_005468-T1_mrna"; gene_id "gene-M1824_005468"; gene_name "MRT4";
+JAPEUI010000067.1	Genbank	CDS	24161	24351	.	-	0	transcript_id "rna-M1824_005468-T1_mrna"; gene_id "gene-M1824_005468"; gene_name "MRT4";
+JAPEUI010000007.1	Genbank	transcript	42433	44482	.	-	.	transcript_id "rna-M1824_005571-T1_mrna"; gene_id "gene-M1824_005571"
+JAPEUI010000007.1	Genbank	exon	42433	44216	.	-	.	transcript_id "rna-M1824_005571-T1_mrna"; gene_id "gene-M1824_005571";
+JAPEUI010000007.1	Genbank	exon	44266	44482	.	-	.	transcript_id "rna-M1824_005571-T1_mrna"; gene_id "gene-M1824_005571";
+JAPEUI010000007.1	Genbank	CDS	42433	44216	.	-	2	transcript_id "rna-M1824_005571-T1_mrna"; gene_id "gene-M1824_005571";
+JAPEUI010000007.1	Genbank	CDS	44266	44482	.	-	0	transcript_id "rna-M1824_005571-T1_mrna"; gene_id "gene-M1824_005571";
+JAPEUI010000070.1	Genbank	transcript	12820	14303	.	+	.	transcript_id "rna-M1824_005648-T1_mrna"; gene_id "gene-M1824_005648"; gene_name "RSM23"
+JAPEUI010000070.1	Genbank	exon	12820	13462	.	+	.	transcript_id "rna-M1824_005648-T1_mrna"; gene_id "gene-M1824_005648"; gene_name "RSM23";
+JAPEUI010000070.1	Genbank	exon	13519	14303	.	+	.	transcript_id "rna-M1824_005648-T1_mrna"; gene_id "gene-M1824_005648"; gene_name "RSM23";
+JAPEUI010000070.1	Genbank	CDS	12820	13462	.	+	0	transcript_id "rna-M1824_005648-T1_mrna"; gene_id "gene-M1824_005648"; gene_name "RSM23";
+JAPEUI010000070.1	Genbank	CDS	13519	14303	.	+	2	transcript_id "rna-M1824_005648-T1_mrna"; gene_id "gene-M1824_005648"; gene_name "RSM23";
+JAPEUI010000070.1	Genbank	transcript	52068	53229	.	+	.	transcript_id "rna-M1824_005660-T1_mrna"; gene_id "gene-M1824_005660"
+JAPEUI010000070.1	Genbank	exon	52068	52442	.	+	.	transcript_id "rna-M1824_005660-T1_mrna"; gene_id "gene-M1824_005660";
+JAPEUI010000070.1	Genbank	exon	52500	52706	.	+	.	transcript_id "rna-M1824_005660-T1_mrna"; gene_id "gene-M1824_005660";
+JAPEUI010000070.1	Genbank	exon	52765	52923	.	+	.	transcript_id "rna-M1824_005660-T1_mrna"; gene_id "gene-M1824_005660";
+JAPEUI010000070.1	Genbank	exon	52981	53229	.	+	.	transcript_id "rna-M1824_005660-T1_mrna"; gene_id "gene-M1824_005660";
+JAPEUI010000070.1	Genbank	CDS	52068	52442	.	+	0	transcript_id "rna-M1824_005660-T1_mrna"; gene_id "gene-M1824_005660";
+JAPEUI010000070.1	Genbank	CDS	52500	52706	.	+	0	transcript_id "rna-M1824_005660-T1_mrna"; gene_id "gene-M1824_005660";
+JAPEUI010000070.1	Genbank	CDS	52765	52923	.	+	0	transcript_id "rna-M1824_005660-T1_mrna"; gene_id "gene-M1824_005660";
+JAPEUI010000070.1	Genbank	CDS	52981	53229	.	+	0	transcript_id "rna-M1824_005660-T1_mrna"; gene_id "gene-M1824_005660";
+JAPEUI010000073.1	Genbank	transcript	15699	16838	.	-	.	transcript_id "rna-M1824_005748-T1_mrna"; gene_id "gene-M1824_005748"
+JAPEUI010000073.1	Genbank	exon	15699	15915	.	-	.	transcript_id "rna-M1824_005748-T1_mrna"; gene_id "gene-M1824_005748";
+JAPEUI010000073.1	Genbank	exon	15969	16681	.	-	.	transcript_id "rna-M1824_005748-T1_mrna"; gene_id "gene-M1824_005748";
+JAPEUI010000073.1	Genbank	exon	16734	16838	.	-	.	transcript_id "rna-M1824_005748-T1_mrna"; gene_id "gene-M1824_005748";
+JAPEUI010000073.1	Genbank	CDS	15699	15915	.	-	1	transcript_id "rna-M1824_005748-T1_mrna"; gene_id "gene-M1824_005748";
+JAPEUI010000073.1	Genbank	CDS	15969	16681	.	-	0	transcript_id "rna-M1824_005748-T1_mrna"; gene_id "gene-M1824_005748";
+JAPEUI010000073.1	Genbank	CDS	16734	16838	.	-	0	transcript_id "rna-M1824_005748-T1_mrna"; gene_id "gene-M1824_005748";
+JAPEUI010000073.1	Genbank	transcript	17054	19337	.	+	.	transcript_id "rna-M1824_005749-T1_mrna"; gene_id "gene-M1824_005749"; gene_name "UTP25"
+JAPEUI010000073.1	Genbank	exon	17054	17184	.	+	.	transcript_id "rna-M1824_005749-T1_mrna"; gene_id "gene-M1824_005749"; gene_name "UTP25";
+JAPEUI010000073.1	Genbank	exon	17250	18383	.	+	.	transcript_id "rna-M1824_005749-T1_mrna"; gene_id "gene-M1824_005749"; gene_name "UTP25";
+JAPEUI010000073.1	Genbank	exon	18431	19337	.	+	.	transcript_id "rna-M1824_005749-T1_mrna"; gene_id "gene-M1824_005749"; gene_name "UTP25";
+JAPEUI010000073.1	Genbank	CDS	17054	17184	.	+	0	transcript_id "rna-M1824_005749-T1_mrna"; gene_id "gene-M1824_005749"; gene_name "UTP25";
+JAPEUI010000073.1	Genbank	CDS	17250	18383	.	+	1	transcript_id "rna-M1824_005749-T1_mrna"; gene_id "gene-M1824_005749"; gene_name "UTP25";
+JAPEUI010000073.1	Genbank	CDS	18431	19337	.	+	1	transcript_id "rna-M1824_005749-T1_mrna"; gene_id "gene-M1824_005749"; gene_name "UTP25";
+JAPEUI010000075.1	Genbank	transcript	51977	52871	.	+	.	transcript_id "rna-M1824_005827-T1_mrna"; gene_id "gene-M1824_005827"
+JAPEUI010000075.1	Genbank	exon	51977	52072	.	+	.	transcript_id "rna-M1824_005827-T1_mrna"; gene_id "gene-M1824_005827";
+JAPEUI010000075.1	Genbank	exon	52137	52871	.	+	.	transcript_id "rna-M1824_005827-T1_mrna"; gene_id "gene-M1824_005827";
+JAPEUI010000075.1	Genbank	CDS	51977	52072	.	+	0	transcript_id "rna-M1824_005827-T1_mrna"; gene_id "gene-M1824_005827";
+JAPEUI010000075.1	Genbank	CDS	52137	52871	.	+	0	transcript_id "rna-M1824_005827-T1_mrna"; gene_id "gene-M1824_005827";
+JAPEUI010000076.1	Genbank	transcript	55798	56608	.	+	.	transcript_id "rna-M1824_005858-T1_mrna"; gene_id "gene-M1824_005858"; gene_name "DOC1"
+JAPEUI010000076.1	Genbank	exon	55798	55966	.	+	.	transcript_id "rna-M1824_005858-T1_mrna"; gene_id "gene-M1824_005858"; gene_name "DOC1";
+JAPEUI010000076.1	Genbank	exon	56043	56608	.	+	.	transcript_id "rna-M1824_005858-T1_mrna"; gene_id "gene-M1824_005858"; gene_name "DOC1";
+JAPEUI010000076.1	Genbank	CDS	55798	55966	.	+	0	transcript_id "rna-M1824_005858-T1_mrna"; gene_id "gene-M1824_005858"; gene_name "DOC1";
+JAPEUI010000076.1	Genbank	CDS	56043	56608	.	+	2	transcript_id "rna-M1824_005858-T1_mrna"; gene_id "gene-M1824_005858"; gene_name "DOC1";
+JAPEUI010000078.1	Genbank	transcript	1023	2001	.	-	.	transcript_id "rna-M1824_005898-T1_mrna"; gene_id "gene-M1824_005898"
+JAPEUI010000078.1	Genbank	exon	1023	1873	.	-	.	transcript_id "rna-M1824_005898-T1_mrna"; gene_id "gene-M1824_005898";
+JAPEUI010000078.1	Genbank	exon	1926	2001	.	-	.	transcript_id "rna-M1824_005898-T1_mrna"; gene_id "gene-M1824_005898";
+JAPEUI010000078.1	Genbank	CDS	1023	1873	.	-	2	transcript_id "rna-M1824_005898-T1_mrna"; gene_id "gene-M1824_005898";
+JAPEUI010000078.1	Genbank	CDS	1926	2001	.	-	0	transcript_id "rna-M1824_005898-T1_mrna"; gene_id "gene-M1824_005898";
+JAPEUI010000008.1	Genbank	transcript	82446	84504	.	+	.	transcript_id "rna-M1824_005978-T1_mrna"; gene_id "gene-M1824_005978"
+JAPEUI010000008.1	Genbank	exon	82446	82672	.	+	.	transcript_id "rna-M1824_005978-T1_mrna"; gene_id "gene-M1824_005978";
+JAPEUI010000008.1	Genbank	exon	82728	83980	.	+	.	transcript_id "rna-M1824_005978-T1_mrna"; gene_id "gene-M1824_005978";
+JAPEUI010000008.1	Genbank	exon	84005	84504	.	+	.	transcript_id "rna-M1824_005978-T1_mrna"; gene_id "gene-M1824_005978";
+JAPEUI010000008.1	Genbank	CDS	82446	82672	.	+	0	transcript_id "rna-M1824_005978-T1_mrna"; gene_id "gene-M1824_005978";
+JAPEUI010000008.1	Genbank	CDS	82728	83980	.	+	1	transcript_id "rna-M1824_005978-T1_mrna"; gene_id "gene-M1824_005978";
+JAPEUI010000008.1	Genbank	CDS	84005	84504	.	+	2	transcript_id "rna-M1824_005978-T1_mrna"; gene_id "gene-M1824_005978";
+JAPEUI010000008.1	Genbank	transcript	130651	132674	.	+	.	transcript_id "rna-M1824_005993-T1_mrna"; gene_id "gene-M1824_005993"; gene_name "GTF2H1"
+JAPEUI010000008.1	Genbank	exon	130651	130795	.	+	.	transcript_id "rna-M1824_005993-T1_mrna"; gene_id "gene-M1824_005993"; gene_name "GTF2H1";
+JAPEUI010000008.1	Genbank	exon	130855	132674	.	+	.	transcript_id "rna-M1824_005993-T1_mrna"; gene_id "gene-M1824_005993"; gene_name "GTF2H1";
+JAPEUI010000008.1	Genbank	CDS	130651	130795	.	+	0	transcript_id "rna-M1824_005993-T1_mrna"; gene_id "gene-M1824_005993"; gene_name "GTF2H1";
+JAPEUI010000008.1	Genbank	CDS	130855	132674	.	+	2	transcript_id "rna-M1824_005993-T1_mrna"; gene_id "gene-M1824_005993"; gene_name "GTF2H1";
+JAPEUI010000080.1	Genbank	transcript	64392	66623	.	-	.	transcript_id "rna-M1824_006066-T1_mrna"; gene_id "gene-M1824_006066"; gene_name "MPP10"
+JAPEUI010000080.1	Genbank	exon	64392	66623	.	-	.	transcript_id "rna-M1824_006066-T1_mrna"; gene_id "gene-M1824_006066"; gene_name "MPP10";
+JAPEUI010000080.1	Genbank	CDS	64392	66623	.	-	0	transcript_id "rna-M1824_006066-T1_mrna"; gene_id "gene-M1824_006066"; gene_name "MPP10";
+JAPEUI010000082.1	Genbank	transcript	43056	43745	.	+	.	transcript_id "rna-M1824_006116-T1_mrna"; gene_id "gene-M1824_006116"
+JAPEUI010000082.1	Genbank	exon	43056	43745	.	+	.	transcript_id "rna-M1824_006116-T1_mrna"; gene_id "gene-M1824_006116";
+JAPEUI010000082.1	Genbank	CDS	43056	43745	.	+	0	transcript_id "rna-M1824_006116-T1_mrna"; gene_id "gene-M1824_006116";
+JAPEUI010000082.1	Genbank	transcript	45669	46646	.	+	.	transcript_id "rna-M1824_006118-T1_mrna"; gene_id "gene-M1824_006118"; gene_name "DPH5"
+JAPEUI010000082.1	Genbank	exon	45669	45803	.	+	.	transcript_id "rna-M1824_006118-T1_mrna"; gene_id "gene-M1824_006118"; gene_name "DPH5";
+JAPEUI010000082.1	Genbank	exon	45868	45992	.	+	.	transcript_id "rna-M1824_006118-T1_mrna"; gene_id "gene-M1824_006118"; gene_name "DPH5";
+JAPEUI010000082.1	Genbank	exon	46049	46646	.	+	.	transcript_id "rna-M1824_006118-T1_mrna"; gene_id "gene-M1824_006118"; gene_name "DPH5";
+JAPEUI010000082.1	Genbank	CDS	45669	45803	.	+	0	transcript_id "rna-M1824_006118-T1_mrna"; gene_id "gene-M1824_006118"; gene_name "DPH5";
+JAPEUI010000082.1	Genbank	CDS	45868	45992	.	+	0	transcript_id "rna-M1824_006118-T1_mrna"; gene_id "gene-M1824_006118"; gene_name "DPH5";
+JAPEUI010000082.1	Genbank	CDS	46049	46646	.	+	1	transcript_id "rna-M1824_006118-T1_mrna"; gene_id "gene-M1824_006118"; gene_name "DPH5";
+JAPEUI010000083.1	Genbank	transcript	32810	33400	.	-	.	transcript_id "rna-M1824_006146-T1_mrna"; gene_id "gene-M1824_006146"; gene_name "FAP7"
+JAPEUI010000083.1	Genbank	exon	32810	33014	.	-	.	transcript_id "rna-M1824_006146-T1_mrna"; gene_id "gene-M1824_006146"; gene_name "FAP7";
+JAPEUI010000083.1	Genbank	exon	33072	33400	.	-	.	transcript_id "rna-M1824_006146-T1_mrna"; gene_id "gene-M1824_006146"; gene_name "FAP7";
+JAPEUI010000083.1	Genbank	CDS	32810	33014	.	-	1	transcript_id "rna-M1824_006146-T1_mrna"; gene_id "gene-M1824_006146"; gene_name "FAP7";
+JAPEUI010000083.1	Genbank	CDS	33072	33400	.	-	0	transcript_id "rna-M1824_006146-T1_mrna"; gene_id "gene-M1824_006146"; gene_name "FAP7";
+JAPEUI010000084.1	Genbank	transcript	62058	63582	.	+	.	transcript_id "rna-M1824_006185-T1_mrna"; gene_id "gene-M1824_006185"; gene_name "UBA4"
+JAPEUI010000084.1	Genbank	exon	62058	62292	.	+	.	transcript_id "rna-M1824_006185-T1_mrna"; gene_id "gene-M1824_006185"; gene_name "UBA4";
+JAPEUI010000084.1	Genbank	exon	62367	62580	.	+	.	transcript_id "rna-M1824_006185-T1_mrna"; gene_id "gene-M1824_006185"; gene_name "UBA4";
+JAPEUI010000084.1	Genbank	exon	62625	63582	.	+	.	transcript_id "rna-M1824_006185-T1_mrna"; gene_id "gene-M1824_006185"; gene_name "UBA4";
+JAPEUI010000084.1	Genbank	CDS	62058	62292	.	+	0	transcript_id "rna-M1824_006185-T1_mrna"; gene_id "gene-M1824_006185"; gene_name "UBA4";
+JAPEUI010000084.1	Genbank	CDS	62367	62580	.	+	2	transcript_id "rna-M1824_006185-T1_mrna"; gene_id "gene-M1824_006185"; gene_name "UBA4";
+JAPEUI010000084.1	Genbank	CDS	62625	63582	.	+	1	transcript_id "rna-M1824_006185-T1_mrna"; gene_id "gene-M1824_006185"; gene_name "UBA4";
+JAPEUI010000085.1	Genbank	transcript	45767	46724	.	+	.	transcript_id "rna-M1824_006211-T1_mrna"; gene_id "gene-M1824_006211"; gene_name "MED6"
+JAPEUI010000085.1	Genbank	exon	45767	46057	.	+	.	transcript_id "rna-M1824_006211-T1_mrna"; gene_id "gene-M1824_006211"; gene_name "MED6";
+JAPEUI010000085.1	Genbank	exon	46146	46724	.	+	.	transcript_id "rna-M1824_006211-T1_mrna"; gene_id "gene-M1824_006211"; gene_name "MED6";
+JAPEUI010000085.1	Genbank	CDS	45767	46057	.	+	0	transcript_id "rna-M1824_006211-T1_mrna"; gene_id "gene-M1824_006211"; gene_name "MED6";
+JAPEUI010000085.1	Genbank	CDS	46146	46724	.	+	0	transcript_id "rna-M1824_006211-T1_mrna"; gene_id "gene-M1824_006211"; gene_name "MED6";
+JAPEUI010000087.1	Genbank	transcript	12165	14278	.	-	.	transcript_id "rna-M1824_006252-T1_mrna"; gene_id "gene-M1824_006252"; gene_name "RAM1"
+JAPEUI010000087.1	Genbank	exon	12165	12528	.	-	.	transcript_id "rna-M1824_006252-T1_mrna"; gene_id "gene-M1824_006252"; gene_name "RAM1";
+JAPEUI010000087.1	Genbank	exon	12576	12857	.	-	.	transcript_id "rna-M1824_006252-T1_mrna"; gene_id "gene-M1824_006252"; gene_name "RAM1";
+JAPEUI010000087.1	Genbank	exon	12930	13047	.	-	.	transcript_id "rna-M1824_006252-T1_mrna"; gene_id "gene-M1824_006252"; gene_name "RAM1";
+JAPEUI010000087.1	Genbank	exon	13109	13236	.	-	.	transcript_id "rna-M1824_006252-T1_mrna"; gene_id "gene-M1824_006252"; gene_name "RAM1";
+JAPEUI010000087.1	Genbank	exon	13287	13361	.	-	.	transcript_id "rna-M1824_006252-T1_mrna"; gene_id "gene-M1824_006252"; gene_name "RAM1";
+JAPEUI010000087.1	Genbank	exon	13413	13568	.	-	.	transcript_id "rna-M1824_006252-T1_mrna"; gene_id "gene-M1824_006252"; gene_name "RAM1";
+JAPEUI010000087.1	Genbank	exon	13680	14278	.	-	.	transcript_id "rna-M1824_006252-T1_mrna"; gene_id "gene-M1824_006252"; gene_name "RAM1";
+JAPEUI010000087.1	Genbank	CDS	12165	12528	.	-	1	transcript_id "rna-M1824_006252-T1_mrna"; gene_id "gene-M1824_006252"; gene_name "RAM1";
+JAPEUI010000087.1	Genbank	CDS	12576	12857	.	-	1	transcript_id "rna-M1824_006252-T1_mrna"; gene_id "gene-M1824_006252"; gene_name "RAM1";
+JAPEUI010000087.1	Genbank	CDS	12930	13047	.	-	2	transcript_id "rna-M1824_006252-T1_mrna"; gene_id "gene-M1824_006252"; gene_name "RAM1";
+JAPEUI010000087.1	Genbank	CDS	13109	13236	.	-	1	transcript_id "rna-M1824_006252-T1_mrna"; gene_id "gene-M1824_006252"; gene_name "RAM1";
+JAPEUI010000087.1	Genbank	CDS	13287	13361	.	-	1	transcript_id "rna-M1824_006252-T1_mrna"; gene_id "gene-M1824_006252"; gene_name "RAM1";
+JAPEUI010000087.1	Genbank	CDS	13413	13568	.	-	1	transcript_id "rna-M1824_006252-T1_mrna"; gene_id "gene-M1824_006252"; gene_name "RAM1";
+JAPEUI010000087.1	Genbank	CDS	13680	14278	.	-	0	transcript_id "rna-M1824_006252-T1_mrna"; gene_id "gene-M1824_006252"; gene_name "RAM1";
+JAPEUI010000089.1	Genbank	transcript	44451	45492	.	-	.	transcript_id "rna-M1824_006307-T1_mrna"; gene_id "gene-M1824_006307"; gene_name "NSA2"
+JAPEUI010000089.1	Genbank	exon	44451	44466	.	-	.	transcript_id "rna-M1824_006307-T1_mrna"; gene_id "gene-M1824_006307"; gene_name "NSA2";
+JAPEUI010000089.1	Genbank	exon	44519	44819	.	-	.	transcript_id "rna-M1824_006307-T1_mrna"; gene_id "gene-M1824_006307"; gene_name "NSA2";
+JAPEUI010000089.1	Genbank	exon	44867	45285	.	-	.	transcript_id "rna-M1824_006307-T1_mrna"; gene_id "gene-M1824_006307"; gene_name "NSA2";
+JAPEUI010000089.1	Genbank	exon	45342	45377	.	-	.	transcript_id "rna-M1824_006307-T1_mrna"; gene_id "gene-M1824_006307"; gene_name "NSA2";
+JAPEUI010000089.1	Genbank	exon	45430	45440	.	-	.	transcript_id "rna-M1824_006307-T1_mrna"; gene_id "gene-M1824_006307"; gene_name "NSA2";
+JAPEUI010000089.1	Genbank	exon	45490	45492	.	-	.	transcript_id "rna-M1824_006307-T1_mrna"; gene_id "gene-M1824_006307"; gene_name "NSA2";
+JAPEUI010000089.1	Genbank	CDS	44451	44466	.	-	1	transcript_id "rna-M1824_006307-T1_mrna"; gene_id "gene-M1824_006307"; gene_name "NSA2";
+JAPEUI010000089.1	Genbank	CDS	44519	44819	.	-	2	transcript_id "rna-M1824_006307-T1_mrna"; gene_id "gene-M1824_006307"; gene_name "NSA2";
+JAPEUI010000089.1	Genbank	CDS	44867	45285	.	-	1	transcript_id "rna-M1824_006307-T1_mrna"; gene_id "gene-M1824_006307"; gene_name "NSA2";
+JAPEUI010000089.1	Genbank	CDS	45342	45377	.	-	1	transcript_id "rna-M1824_006307-T1_mrna"; gene_id "gene-M1824_006307"; gene_name "NSA2";
+JAPEUI010000089.1	Genbank	CDS	45430	45440	.	-	0	transcript_id "rna-M1824_006307-T1_mrna"; gene_id "gene-M1824_006307"; gene_name "NSA2";
+JAPEUI010000089.1	Genbank	CDS	45490	45492	.	-	0	transcript_id "rna-M1824_006307-T1_mrna"; gene_id "gene-M1824_006307"; gene_name "NSA2";
+JAPEUI010000089.1	Genbank	transcript	46748	48292	.	-	.	transcript_id "rna-M1824_006309-T1_mrna"; gene_id "gene-M1824_006309"
+JAPEUI010000089.1	Genbank	exon	46748	48292	.	-	.	transcript_id "rna-M1824_006309-T1_mrna"; gene_id "gene-M1824_006309";
+JAPEUI010000089.1	Genbank	CDS	46748	48292	.	-	0	transcript_id "rna-M1824_006309-T1_mrna"; gene_id "gene-M1824_006309";
+JAPEUI010000009.1	Genbank	transcript	84275	87557	.	+	.	transcript_id "rna-M1824_006345-T1_mrna"; gene_id "gene-M1824_006345"
+JAPEUI010000009.1	Genbank	exon	84275	84596	.	+	.	transcript_id "rna-M1824_006345-T1_mrna"; gene_id "gene-M1824_006345";
+JAPEUI010000009.1	Genbank	exon	84652	85536	.	+	.	transcript_id "rna-M1824_006345-T1_mrna"; gene_id "gene-M1824_006345";
+JAPEUI010000009.1	Genbank	exon	85583	85654	.	+	.	transcript_id "rna-M1824_006345-T1_mrna"; gene_id "gene-M1824_006345";
+JAPEUI010000009.1	Genbank	exon	85710	86905	.	+	.	transcript_id "rna-M1824_006345-T1_mrna"; gene_id "gene-M1824_006345";
+JAPEUI010000009.1	Genbank	exon	86970	87557	.	+	.	transcript_id "rna-M1824_006345-T1_mrna"; gene_id "gene-M1824_006345";
+JAPEUI010000009.1	Genbank	CDS	84275	84596	.	+	0	transcript_id "rna-M1824_006345-T1_mrna"; gene_id "gene-M1824_006345";
+JAPEUI010000009.1	Genbank	CDS	84652	85536	.	+	2	transcript_id "rna-M1824_006345-T1_mrna"; gene_id "gene-M1824_006345";
+JAPEUI010000009.1	Genbank	CDS	85583	85654	.	+	2	transcript_id "rna-M1824_006345-T1_mrna"; gene_id "gene-M1824_006345";
+JAPEUI010000009.1	Genbank	CDS	85710	86905	.	+	2	transcript_id "rna-M1824_006345-T1_mrna"; gene_id "gene-M1824_006345";
+JAPEUI010000009.1	Genbank	CDS	86970	87557	.	+	0	transcript_id "rna-M1824_006345-T1_mrna"; gene_id "gene-M1824_006345";
+JAPEUI010000009.1	Genbank	transcript	139460	141539	.	+	.	transcript_id "rna-M1824_006368-T1_mrna"; gene_id "gene-M1824_006368"; gene_name "SPB4"
+JAPEUI010000009.1	Genbank	exon	139460	139651	.	+	.	transcript_id "rna-M1824_006368-T1_mrna"; gene_id "gene-M1824_006368"; gene_name "SPB4";
+JAPEUI010000009.1	Genbank	exon	139713	139831	.	+	.	transcript_id "rna-M1824_006368-T1_mrna"; gene_id "gene-M1824_006368"; gene_name "SPB4";
+JAPEUI010000009.1	Genbank	exon	139886	140413	.	+	.	transcript_id "rna-M1824_006368-T1_mrna"; gene_id "gene-M1824_006368"; gene_name "SPB4";
+JAPEUI010000009.1	Genbank	exon	140462	141539	.	+	.	transcript_id "rna-M1824_006368-T1_mrna"; gene_id "gene-M1824_006368"; gene_name "SPB4";
+JAPEUI010000009.1	Genbank	CDS	139460	139651	.	+	0	transcript_id "rna-M1824_006368-T1_mrna"; gene_id "gene-M1824_006368"; gene_name "SPB4";
+JAPEUI010000009.1	Genbank	CDS	139713	139831	.	+	0	transcript_id "rna-M1824_006368-T1_mrna"; gene_id "gene-M1824_006368"; gene_name "SPB4";
+JAPEUI010000009.1	Genbank	CDS	139886	140413	.	+	1	transcript_id "rna-M1824_006368-T1_mrna"; gene_id "gene-M1824_006368"; gene_name "SPB4";
+JAPEUI010000009.1	Genbank	CDS	140462	141539	.	+	1	transcript_id "rna-M1824_006368-T1_mrna"; gene_id "gene-M1824_006368"; gene_name "SPB4";
+JAPEUI010000090.1	Genbank	transcript	323	1786	.	-	.	transcript_id "rna-M1824_006420-T1_mrna"; gene_id "gene-M1824_006420"; gene_name "DPH1"
+JAPEUI010000090.1	Genbank	exon	323	1518	.	-	.	transcript_id "rna-M1824_006420-T1_mrna"; gene_id "gene-M1824_006420"; gene_name "DPH1";
+JAPEUI010000090.1	Genbank	exon	1573	1786	.	-	.	transcript_id "rna-M1824_006420-T1_mrna"; gene_id "gene-M1824_006420"; gene_name "DPH1";
+JAPEUI010000090.1	Genbank	CDS	323	1518	.	-	2	transcript_id "rna-M1824_006420-T1_mrna"; gene_id "gene-M1824_006420"; gene_name "DPH1";
+JAPEUI010000090.1	Genbank	CDS	1573	1786	.	-	0	transcript_id "rna-M1824_006420-T1_mrna"; gene_id "gene-M1824_006420"; gene_name "DPH1";
+JAPEUI010000096.1	Genbank	transcript	10775	13762	.	-	.	transcript_id "rna-M1824_006562-T1_mrna"; gene_id "gene-M1824_006562"
+JAPEUI010000096.1	Genbank	exon	10775	13379	.	-	.	transcript_id "rna-M1824_006562-T1_mrna"; gene_id "gene-M1824_006562";
+JAPEUI010000096.1	Genbank	exon	13438	13695	.	-	.	transcript_id "rna-M1824_006562-T1_mrna"; gene_id "gene-M1824_006562";
+JAPEUI010000096.1	Genbank	exon	13746	13762	.	-	.	transcript_id "rna-M1824_006562-T1_mrna"; gene_id "gene-M1824_006562";
+JAPEUI010000096.1	Genbank	CDS	10775	13379	.	-	1	transcript_id "rna-M1824_006562-T1_mrna"; gene_id "gene-M1824_006562";
+JAPEUI010000096.1	Genbank	CDS	13438	13695	.	-	1	transcript_id "rna-M1824_006562-T1_mrna"; gene_id "gene-M1824_006562";
+JAPEUI010000096.1	Genbank	CDS	13746	13762	.	-	0	transcript_id "rna-M1824_006562-T1_mrna"; gene_id "gene-M1824_006562";
+JAPEUI010000098.1	Genbank	transcript	49216	50304	.	-	.	transcript_id "rna-M1824_006623-T1_mrna"; gene_id "gene-M1824_006623"; gene_name "RRP4"
+JAPEUI010000098.1	Genbank	exon	49216	50304	.	-	.	transcript_id "rna-M1824_006623-T1_mrna"; gene_id "gene-M1824_006623"; gene_name "RRP4";
+JAPEUI010000098.1	Genbank	CDS	49216	50304	.	-	0	transcript_id "rna-M1824_006623-T1_mrna"; gene_id "gene-M1824_006623"; gene_name "RRP4";
