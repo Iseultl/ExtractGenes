@@ -1,0 +1,909 @@
+JALBBI010000002.1	Genbank	transcript	154192	156640	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000056-T1_mrna"; gene_id "gene-LOZ07_000056"; gene_name "SDA1"
+JALBBI010000002.1	Genbank	exon	154192	154238	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000056-T1_mrna"; gene_id "gene-LOZ07_000056"; gene_name "SDA1";
+JALBBI010000002.1	Genbank	exon	154308	154343	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000056-T1_mrna"; gene_id "gene-LOZ07_000056"; gene_name "SDA1";
+JALBBI010000002.1	Genbank	exon	154416	154703	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000056-T1_mrna"; gene_id "gene-LOZ07_000056"; gene_name "SDA1";
+JALBBI010000002.1	Genbank	exon	154777	156640	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000056-T1_mrna"; gene_id "gene-LOZ07_000056"; gene_name "SDA1";
+JALBBI010000002.1	Genbank	CDS	154192	154238	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000056-T1_mrna"; gene_id "gene-LOZ07_000056"; gene_name "SDA1";
+JALBBI010000002.1	Genbank	CDS	154308	154343	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000056-T1_mrna"; gene_id "gene-LOZ07_000056"; gene_name "SDA1";
+JALBBI010000002.1	Genbank	CDS	154416	154703	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000056-T1_mrna"; gene_id "gene-LOZ07_000056"; gene_name "SDA1";
+JALBBI010000002.1	Genbank	CDS	154777	156640	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000056-T1_mrna"; gene_id "gene-LOZ07_000056"; gene_name "SDA1";
+JALBBI010000002.1	Genbank	transcript	159350	160236	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000059-T1_mrna"; gene_id "gene-LOZ07_000059"
+JALBBI010000002.1	Genbank	exon	159350	159445	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000059-T1_mrna"; gene_id "gene-LOZ07_000059";
+JALBBI010000002.1	Genbank	exon	159505	160236	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000059-T1_mrna"; gene_id "gene-LOZ07_000059";
+JALBBI010000002.1	Genbank	CDS	159350	159445	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000059-T1_mrna"; gene_id "gene-LOZ07_000059";
+JALBBI010000002.1	Genbank	CDS	159505	160236	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000059-T1_mrna"; gene_id "gene-LOZ07_000059";
+JALBBI010000003.1	Genbank	transcript	34340	35883	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000095-T1_mrna"; gene_id "gene-LOZ07_000095"
+JALBBI010000003.1	Genbank	exon	34340	34518	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000095-T1_mrna"; gene_id "gene-LOZ07_000095";
+JALBBI010000003.1	Genbank	exon	34573	34744	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000095-T1_mrna"; gene_id "gene-LOZ07_000095";
+JALBBI010000003.1	Genbank	exon	34810	35883	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000095-T1_mrna"; gene_id "gene-LOZ07_000095";
+JALBBI010000003.1	Genbank	CDS	34340	34518	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000095-T1_mrna"; gene_id "gene-LOZ07_000095";
+JALBBI010000003.1	Genbank	CDS	34573	34744	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000095-T1_mrna"; gene_id "gene-LOZ07_000095";
+JALBBI010000003.1	Genbank	CDS	34810	35883	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000095-T1_mrna"; gene_id "gene-LOZ07_000095";
+JALBBI010000003.1	Genbank	transcript	37928	40249	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000097-T1_mrna"; gene_id "gene-LOZ07_000097"; gene_name "ERB1"
+JALBBI010000003.1	Genbank	exon	37928	40249	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000097-T1_mrna"; gene_id "gene-LOZ07_000097"; gene_name "ERB1";
+JALBBI010000003.1	Genbank	CDS	37928	40249	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000097-T1_mrna"; gene_id "gene-LOZ07_000097"; gene_name "ERB1";
+JALBBI010000003.1	Genbank	transcript	62036	64306	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000107-T1_mrna"; gene_id "gene-LOZ07_000107"; gene_name "UTP25"
+JALBBI010000003.1	Genbank	exon	62036	62951	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000107-T1_mrna"; gene_id "gene-LOZ07_000107"; gene_name "UTP25";
+JALBBI010000003.1	Genbank	exon	63004	64170	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000107-T1_mrna"; gene_id "gene-LOZ07_000107"; gene_name "UTP25";
+JALBBI010000003.1	Genbank	exon	64221	64306	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000107-T1_mrna"; gene_id "gene-LOZ07_000107"; gene_name "UTP25";
+JALBBI010000003.1	Genbank	CDS	62036	62951	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000107-T1_mrna"; gene_id "gene-LOZ07_000107"; gene_name "UTP25";
+JALBBI010000003.1	Genbank	CDS	63004	64170	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000107-T1_mrna"; gene_id "gene-LOZ07_000107"; gene_name "UTP25";
+JALBBI010000003.1	Genbank	CDS	64221	64306	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000107-T1_mrna"; gene_id "gene-LOZ07_000107"; gene_name "UTP25";
+JALBBI010000003.1	Genbank	transcript	64566	65748	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000108-T1_mrna"; gene_id "gene-LOZ07_000108"
+JALBBI010000003.1	Genbank	exon	64566	64670	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000108-T1_mrna"; gene_id "gene-LOZ07_000108";
+JALBBI010000003.1	Genbank	exon	64728	65440	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000108-T1_mrna"; gene_id "gene-LOZ07_000108";
+JALBBI010000003.1	Genbank	exon	65511	65748	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000108-T1_mrna"; gene_id "gene-LOZ07_000108";
+JALBBI010000003.1	Genbank	CDS	64566	64670	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000108-T1_mrna"; gene_id "gene-LOZ07_000108";
+JALBBI010000003.1	Genbank	CDS	64728	65440	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000108-T1_mrna"; gene_id "gene-LOZ07_000108";
+JALBBI010000003.1	Genbank	CDS	65511	65748	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000108-T1_mrna"; gene_id "gene-LOZ07_000108";
+JALBBI010000003.1	Genbank	transcript	82369	83709	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000116-T1_mrna"; gene_id "gene-LOZ07_000116"; gene_name "GCD7"
+JALBBI010000003.1	Genbank	exon	82369	83551	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000116-T1_mrna"; gene_id "gene-LOZ07_000116"; gene_name "GCD7";
+JALBBI010000003.1	Genbank	exon	83609	83709	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000116-T1_mrna"; gene_id "gene-LOZ07_000116"; gene_name "GCD7";
+JALBBI010000003.1	Genbank	CDS	82369	83551	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000116-T1_mrna"; gene_id "gene-LOZ07_000116"; gene_name "GCD7";
+JALBBI010000003.1	Genbank	CDS	83609	83709	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000116-T1_mrna"; gene_id "gene-LOZ07_000116"; gene_name "GCD7";
+JALBBI010000003.1	Genbank	transcript	127350	128158	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000133-T1_mrna"; gene_id "gene-LOZ07_000133"; gene_name "ARD1"
+JALBBI010000003.1	Genbank	exon	127350	127689	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000133-T1_mrna"; gene_id "gene-LOZ07_000133"; gene_name "ARD1";
+JALBBI010000003.1	Genbank	exon	127752	128158	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000133-T1_mrna"; gene_id "gene-LOZ07_000133"; gene_name "ARD1";
+JALBBI010000003.1	Genbank	CDS	127350	127689	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000133-T1_mrna"; gene_id "gene-LOZ07_000133"; gene_name "ARD1";
+JALBBI010000003.1	Genbank	CDS	127752	128158	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000133-T1_mrna"; gene_id "gene-LOZ07_000133"; gene_name "ARD1";
+JALBBI010000004.1	Genbank	transcript	90829	93010	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000195-T1_mrna"; gene_id "gene-LOZ07_000195"; gene_name "NOP7"
+JALBBI010000004.1	Genbank	exon	90829	92777	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000195-T1_mrna"; gene_id "gene-LOZ07_000195"; gene_name "NOP7";
+JALBBI010000004.1	Genbank	exon	92837	92935	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000195-T1_mrna"; gene_id "gene-LOZ07_000195"; gene_name "NOP7";
+JALBBI010000004.1	Genbank	exon	92989	93010	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000195-T1_mrna"; gene_id "gene-LOZ07_000195"; gene_name "NOP7";
+JALBBI010000004.1	Genbank	CDS	90829	92777	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000195-T1_mrna"; gene_id "gene-LOZ07_000195"; gene_name "NOP7";
+JALBBI010000004.1	Genbank	CDS	92837	92935	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000195-T1_mrna"; gene_id "gene-LOZ07_000195"; gene_name "NOP7";
+JALBBI010000004.1	Genbank	CDS	92989	93010	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000195-T1_mrna"; gene_id "gene-LOZ07_000195"; gene_name "NOP7";
+JALBBI010000006.1	Genbank	transcript	46377	49461	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000319-T1_mrna"; gene_id "gene-LOZ07_000319"; gene_name "CDC54"
+JALBBI010000006.1	Genbank	exon	46377	46524	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000319-T1_mrna"; gene_id "gene-LOZ07_000319"; gene_name "CDC54";
+JALBBI010000006.1	Genbank	exon	46577	47440	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000319-T1_mrna"; gene_id "gene-LOZ07_000319"; gene_name "CDC54";
+JALBBI010000006.1	Genbank	exon	47503	47574	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000319-T1_mrna"; gene_id "gene-LOZ07_000319"; gene_name "CDC54";
+JALBBI010000006.1	Genbank	exon	47633	48825	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000319-T1_mrna"; gene_id "gene-LOZ07_000319"; gene_name "CDC54";
+JALBBI010000006.1	Genbank	exon	48874	49461	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000319-T1_mrna"; gene_id "gene-LOZ07_000319"; gene_name "CDC54";
+JALBBI010000006.1	Genbank	CDS	46377	46524	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000319-T1_mrna"; gene_id "gene-LOZ07_000319"; gene_name "CDC54";
+JALBBI010000006.1	Genbank	CDS	46577	47440	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000319-T1_mrna"; gene_id "gene-LOZ07_000319"; gene_name "CDC54";
+JALBBI010000006.1	Genbank	CDS	47503	47574	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000319-T1_mrna"; gene_id "gene-LOZ07_000319"; gene_name "CDC54";
+JALBBI010000006.1	Genbank	CDS	47633	48825	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000319-T1_mrna"; gene_id "gene-LOZ07_000319"; gene_name "CDC54";
+JALBBI010000006.1	Genbank	CDS	48874	49461	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000319-T1_mrna"; gene_id "gene-LOZ07_000319"; gene_name "CDC54";
+JALBBI010000006.1	Genbank	transcript	102219	104390	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000337-T1_mrna"; gene_id "gene-LOZ07_000337"; gene_name "UTP18"
+JALBBI010000006.1	Genbank	exon	102219	102370	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000337-T1_mrna"; gene_id "gene-LOZ07_000337"; gene_name "UTP18";
+JALBBI010000006.1	Genbank	exon	102420	103305	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000337-T1_mrna"; gene_id "gene-LOZ07_000337"; gene_name "UTP18";
+JALBBI010000006.1	Genbank	exon	103361	103906	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000337-T1_mrna"; gene_id "gene-LOZ07_000337"; gene_name "UTP18";
+JALBBI010000006.1	Genbank	exon	104001	104390	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000337-T1_mrna"; gene_id "gene-LOZ07_000337"; gene_name "UTP18";
+JALBBI010000006.1	Genbank	CDS	102219	102370	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000337-T1_mrna"; gene_id "gene-LOZ07_000337"; gene_name "UTP18";
+JALBBI010000006.1	Genbank	CDS	102420	103305	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000337-T1_mrna"; gene_id "gene-LOZ07_000337"; gene_name "UTP18";
+JALBBI010000006.1	Genbank	CDS	103361	103906	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000337-T1_mrna"; gene_id "gene-LOZ07_000337"; gene_name "UTP18";
+JALBBI010000006.1	Genbank	CDS	104001	104390	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000337-T1_mrna"; gene_id "gene-LOZ07_000337"; gene_name "UTP18";
+JALBBI010000006.1	Genbank	transcript	174460	176520	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000365-T1_mrna"; gene_id "gene-LOZ07_000365"; gene_name "MPP10"
+JALBBI010000006.1	Genbank	exon	174460	176520	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000365-T1_mrna"; gene_id "gene-LOZ07_000365"; gene_name "MPP10";
+JALBBI010000006.1	Genbank	CDS	174460	176520	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000365-T1_mrna"; gene_id "gene-LOZ07_000365"; gene_name "MPP10";
+JALBBI010000010.1	Genbank	transcript	53576	54690	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000558-T1_mrna"; gene_id "gene-LOZ07_000558"; gene_name "GCN3"
+JALBBI010000010.1	Genbank	exon	53576	54581	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000558-T1_mrna"; gene_id "gene-LOZ07_000558"; gene_name "GCN3";
+JALBBI010000010.1	Genbank	exon	54644	54690	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000558-T1_mrna"; gene_id "gene-LOZ07_000558"; gene_name "GCN3";
+JALBBI010000010.1	Genbank	CDS	53576	54581	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000558-T1_mrna"; gene_id "gene-LOZ07_000558"; gene_name "GCN3";
+JALBBI010000010.1	Genbank	CDS	54644	54690	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000558-T1_mrna"; gene_id "gene-LOZ07_000558"; gene_name "GCN3";
+JALBBI010000014.1	Genbank	transcript	51071	53101	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000781-T1_mrna"; gene_id "gene-LOZ07_000781"
+JALBBI010000014.1	Genbank	exon	51071	53101	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000781-T1_mrna"; gene_id "gene-LOZ07_000781";
+JALBBI010000014.1	Genbank	CDS	51071	53101	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000781-T1_mrna"; gene_id "gene-LOZ07_000781";
+JALBBI010000016.1	Genbank	transcript	142846	143767	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000913-T1_mrna"; gene_id "gene-LOZ07_000913"; gene_name "GAR1_1"
+JALBBI010000016.1	Genbank	exon	142846	143075	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000913-T1_mrna"; gene_id "gene-LOZ07_000913"; gene_name "GAR1_1";
+JALBBI010000016.1	Genbank	exon	143132	143160	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000913-T1_mrna"; gene_id "gene-LOZ07_000913"; gene_name "GAR1_1";
+JALBBI010000016.1	Genbank	exon	143217	143362	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000913-T1_mrna"; gene_id "gene-LOZ07_000913"; gene_name "GAR1_1";
+JALBBI010000016.1	Genbank	exon	143421	143521	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000913-T1_mrna"; gene_id "gene-LOZ07_000913"; gene_name "GAR1_1";
+JALBBI010000016.1	Genbank	exon	143578	143625	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000913-T1_mrna"; gene_id "gene-LOZ07_000913"; gene_name "GAR1_1";
+JALBBI010000016.1	Genbank	exon	143692	143767	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000913-T1_mrna"; gene_id "gene-LOZ07_000913"; gene_name "GAR1_1";
+JALBBI010000016.1	Genbank	CDS	142846	143075	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000913-T1_mrna"; gene_id "gene-LOZ07_000913"; gene_name "GAR1_1";
+JALBBI010000016.1	Genbank	CDS	143132	143160	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000913-T1_mrna"; gene_id "gene-LOZ07_000913"; gene_name "GAR1_1";
+JALBBI010000016.1	Genbank	CDS	143217	143362	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000913-T1_mrna"; gene_id "gene-LOZ07_000913"; gene_name "GAR1_1";
+JALBBI010000016.1	Genbank	CDS	143421	143521	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000913-T1_mrna"; gene_id "gene-LOZ07_000913"; gene_name "GAR1_1";
+JALBBI010000016.1	Genbank	CDS	143578	143625	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000913-T1_mrna"; gene_id "gene-LOZ07_000913"; gene_name "GAR1_1";
+JALBBI010000016.1	Genbank	CDS	143692	143767	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_000913-T1_mrna"; gene_id "gene-LOZ07_000913"; gene_name "GAR1_1";
+JALBBI010000018.1	Genbank	transcript	134664	136632	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001004-T1_mrna"; gene_id "gene-LOZ07_001004"; gene_name "SRP68"
+JALBBI010000018.1	Genbank	exon	134664	134854	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001004-T1_mrna"; gene_id "gene-LOZ07_001004"; gene_name "SRP68";
+JALBBI010000018.1	Genbank	exon	134910	136064	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001004-T1_mrna"; gene_id "gene-LOZ07_001004"; gene_name "SRP68";
+JALBBI010000018.1	Genbank	exon	136116	136632	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001004-T1_mrna"; gene_id "gene-LOZ07_001004"; gene_name "SRP68";
+JALBBI010000018.1	Genbank	CDS	134664	134854	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001004-T1_mrna"; gene_id "gene-LOZ07_001004"; gene_name "SRP68";
+JALBBI010000018.1	Genbank	CDS	134910	136064	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001004-T1_mrna"; gene_id "gene-LOZ07_001004"; gene_name "SRP68";
+JALBBI010000018.1	Genbank	CDS	136116	136632	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001004-T1_mrna"; gene_id "gene-LOZ07_001004"; gene_name "SRP68";
+JALBBI010000019.1	Genbank	transcript	71731	73101	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001036-T1_mrna"; gene_id "gene-LOZ07_001036"; gene_name "DPH1"
+JALBBI010000019.1	Genbank	exon	71731	73101	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001036-T1_mrna"; gene_id "gene-LOZ07_001036"; gene_name "DPH1";
+JALBBI010000019.1	Genbank	CDS	71731	73101	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001036-T1_mrna"; gene_id "gene-LOZ07_001036"; gene_name "DPH1";
+JALBBI010000019.1	Genbank	transcript	118177	119095	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001052-T1_mrna"; gene_id "gene-LOZ07_001052"; gene_name "COX11"
+JALBBI010000019.1	Genbank	exon	118177	118364	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001052-T1_mrna"; gene_id "gene-LOZ07_001052"; gene_name "COX11";
+JALBBI010000019.1	Genbank	exon	118417	118486	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001052-T1_mrna"; gene_id "gene-LOZ07_001052"; gene_name "COX11";
+JALBBI010000019.1	Genbank	exon	118545	118986	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001052-T1_mrna"; gene_id "gene-LOZ07_001052"; gene_name "COX11";
+JALBBI010000019.1	Genbank	exon	119046	119095	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001052-T1_mrna"; gene_id "gene-LOZ07_001052"; gene_name "COX11";
+JALBBI010000019.1	Genbank	CDS	118177	118364	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001052-T1_mrna"; gene_id "gene-LOZ07_001052"; gene_name "COX11";
+JALBBI010000019.1	Genbank	CDS	118417	118486	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001052-T1_mrna"; gene_id "gene-LOZ07_001052"; gene_name "COX11";
+JALBBI010000019.1	Genbank	CDS	118545	118986	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001052-T1_mrna"; gene_id "gene-LOZ07_001052"; gene_name "COX11";
+JALBBI010000019.1	Genbank	CDS	119046	119095	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001052-T1_mrna"; gene_id "gene-LOZ07_001052"; gene_name "COX11";
+JALBBI010000020.1	Genbank	transcript	153	831	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001062-T1_mrna"; gene_id "gene-LOZ07_001062"; gene_name "imp3"
+JALBBI010000020.1	Genbank	exon	153	184	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001062-T1_mrna"; gene_id "gene-LOZ07_001062"; gene_name "imp3";
+JALBBI010000020.1	Genbank	exon	245	602	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001062-T1_mrna"; gene_id "gene-LOZ07_001062"; gene_name "imp3";
+JALBBI010000020.1	Genbank	exon	658	831	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001062-T1_mrna"; gene_id "gene-LOZ07_001062"; gene_name "imp3";
+JALBBI010000020.1	Genbank	CDS	153	184	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001062-T1_mrna"; gene_id "gene-LOZ07_001062"; gene_name "imp3";
+JALBBI010000020.1	Genbank	CDS	245	602	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001062-T1_mrna"; gene_id "gene-LOZ07_001062"; gene_name "imp3";
+JALBBI010000020.1	Genbank	CDS	658	831	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001062-T1_mrna"; gene_id "gene-LOZ07_001062"; gene_name "imp3";
+JALBBI010000022.1	Genbank	transcript	81457	82338	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001187-T1_mrna"; gene_id "gene-LOZ07_001187"; gene_name "cwf16"
+JALBBI010000022.1	Genbank	exon	81457	82260	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001187-T1_mrna"; gene_id "gene-LOZ07_001187"; gene_name "cwf16";
+JALBBI010000022.1	Genbank	exon	82318	82338	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001187-T1_mrna"; gene_id "gene-LOZ07_001187"; gene_name "cwf16";
+JALBBI010000022.1	Genbank	CDS	81457	82260	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001187-T1_mrna"; gene_id "gene-LOZ07_001187"; gene_name "cwf16";
+JALBBI010000022.1	Genbank	CDS	82318	82338	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001187-T1_mrna"; gene_id "gene-LOZ07_001187"; gene_name "cwf16";
+JALBBI010000024.1	Genbank	transcript	113222	115905	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001295-T1_mrna"; gene_id "gene-LOZ07_001295"; gene_name "SEC10"
+JALBBI010000024.1	Genbank	exon	113222	113707	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001295-T1_mrna"; gene_id "gene-LOZ07_001295"; gene_name "SEC10";
+JALBBI010000024.1	Genbank	exon	113773	115905	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001295-T1_mrna"; gene_id "gene-LOZ07_001295"; gene_name "SEC10";
+JALBBI010000024.1	Genbank	CDS	113222	113707	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001295-T1_mrna"; gene_id "gene-LOZ07_001295"; gene_name "SEC10";
+JALBBI010000024.1	Genbank	CDS	113773	115905	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001295-T1_mrna"; gene_id "gene-LOZ07_001295"; gene_name "SEC10";
+JALBBI010000025.1	Genbank	transcript	89687	92263	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001339-T1_mrna"; gene_id "gene-LOZ07_001339"; gene_name "MAK10"
+JALBBI010000025.1	Genbank	exon	89687	89812	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001339-T1_mrna"; gene_id "gene-LOZ07_001339"; gene_name "MAK10";
+JALBBI010000025.1	Genbank	exon	89923	90174	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001339-T1_mrna"; gene_id "gene-LOZ07_001339"; gene_name "MAK10";
+JALBBI010000025.1	Genbank	exon	90233	90691	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001339-T1_mrna"; gene_id "gene-LOZ07_001339"; gene_name "MAK10";
+JALBBI010000025.1	Genbank	exon	90754	91011	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001339-T1_mrna"; gene_id "gene-LOZ07_001339"; gene_name "MAK10";
+JALBBI010000025.1	Genbank	exon	91062	91160	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001339-T1_mrna"; gene_id "gene-LOZ07_001339"; gene_name "MAK10";
+JALBBI010000025.1	Genbank	exon	91226	92263	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001339-T1_mrna"; gene_id "gene-LOZ07_001339"; gene_name "MAK10";
+JALBBI010000025.1	Genbank	CDS	89687	89812	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001339-T1_mrna"; gene_id "gene-LOZ07_001339"; gene_name "MAK10";
+JALBBI010000025.1	Genbank	CDS	89923	90174	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001339-T1_mrna"; gene_id "gene-LOZ07_001339"; gene_name "MAK10";
+JALBBI010000025.1	Genbank	CDS	90233	90691	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001339-T1_mrna"; gene_id "gene-LOZ07_001339"; gene_name "MAK10";
+JALBBI010000025.1	Genbank	CDS	90754	91011	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001339-T1_mrna"; gene_id "gene-LOZ07_001339"; gene_name "MAK10";
+JALBBI010000025.1	Genbank	CDS	91062	91160	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001339-T1_mrna"; gene_id "gene-LOZ07_001339"; gene_name "MAK10";
+JALBBI010000025.1	Genbank	CDS	91226	92263	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001339-T1_mrna"; gene_id "gene-LOZ07_001339"; gene_name "MAK10";
+JALBBI010000026.1	Genbank	transcript	27300	28652	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001357-T1_mrna"; gene_id "gene-LOZ07_001357"; gene_name "PRP46"
+JALBBI010000026.1	Genbank	exon	27300	28652	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001357-T1_mrna"; gene_id "gene-LOZ07_001357"; gene_name "PRP46";
+JALBBI010000026.1	Genbank	CDS	27300	28652	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001357-T1_mrna"; gene_id "gene-LOZ07_001357"; gene_name "PRP46";
+JALBBI010000027.1	Genbank	transcript	111	3354	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001397-T1_mrna"; gene_id "gene-LOZ07_001397"; gene_name "VPS11"
+JALBBI010000027.1	Genbank	exon	111	485	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001397-T1_mrna"; gene_id "gene-LOZ07_001397"; gene_name "VPS11";
+JALBBI010000027.1	Genbank	exon	542	940	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001397-T1_mrna"; gene_id "gene-LOZ07_001397"; gene_name "VPS11";
+JALBBI010000027.1	Genbank	exon	993	1499	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001397-T1_mrna"; gene_id "gene-LOZ07_001397"; gene_name "VPS11";
+JALBBI010000027.1	Genbank	exon	1550	1885	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001397-T1_mrna"; gene_id "gene-LOZ07_001397"; gene_name "VPS11";
+JALBBI010000027.1	Genbank	exon	1944	3158	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001397-T1_mrna"; gene_id "gene-LOZ07_001397"; gene_name "VPS11";
+JALBBI010000027.1	Genbank	exon	3220	3291	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001397-T1_mrna"; gene_id "gene-LOZ07_001397"; gene_name "VPS11";
+JALBBI010000027.1	Genbank	exon	3340	3354	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001397-T1_mrna"; gene_id "gene-LOZ07_001397"; gene_name "VPS11";
+JALBBI010000027.1	Genbank	CDS	111	485	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001397-T1_mrna"; gene_id "gene-LOZ07_001397"; gene_name "VPS11";
+JALBBI010000027.1	Genbank	CDS	542	940	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001397-T1_mrna"; gene_id "gene-LOZ07_001397"; gene_name "VPS11";
+JALBBI010000027.1	Genbank	CDS	993	1499	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001397-T1_mrna"; gene_id "gene-LOZ07_001397"; gene_name "VPS11";
+JALBBI010000027.1	Genbank	CDS	1550	1885	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001397-T1_mrna"; gene_id "gene-LOZ07_001397"; gene_name "VPS11";
+JALBBI010000027.1	Genbank	CDS	1944	3158	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001397-T1_mrna"; gene_id "gene-LOZ07_001397"; gene_name "VPS11";
+JALBBI010000027.1	Genbank	CDS	3220	3291	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001397-T1_mrna"; gene_id "gene-LOZ07_001397"; gene_name "VPS11";
+JALBBI010000027.1	Genbank	CDS	3340	3354	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001397-T1_mrna"; gene_id "gene-LOZ07_001397"; gene_name "VPS11";
+JALBBI010000028.1	Genbank	transcript	48152	49396	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001465-T1_mrna"; gene_id "gene-LOZ07_001465"
+JALBBI010000028.1	Genbank	exon	48152	48978	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001465-T1_mrna"; gene_id "gene-LOZ07_001465";
+JALBBI010000028.1	Genbank	exon	49054	49396	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001465-T1_mrna"; gene_id "gene-LOZ07_001465";
+JALBBI010000028.1	Genbank	CDS	48152	48978	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001465-T1_mrna"; gene_id "gene-LOZ07_001465";
+JALBBI010000028.1	Genbank	CDS	49054	49396	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001465-T1_mrna"; gene_id "gene-LOZ07_001465";
+JALBBI010000029.1	Genbank	transcript	93218	95056	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001528-T1_mrna"; gene_id "gene-LOZ07_001528"; gene_name "RAM1"
+JALBBI010000029.1	Genbank	exon	93218	93512	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001528-T1_mrna"; gene_id "gene-LOZ07_001528"; gene_name "RAM1";
+JALBBI010000029.1	Genbank	exon	93596	93874	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001528-T1_mrna"; gene_id "gene-LOZ07_001528"; gene_name "RAM1";
+JALBBI010000029.1	Genbank	exon	93925	94042	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001528-T1_mrna"; gene_id "gene-LOZ07_001528"; gene_name "RAM1";
+JALBBI010000029.1	Genbank	exon	94092	94219	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001528-T1_mrna"; gene_id "gene-LOZ07_001528"; gene_name "RAM1";
+JALBBI010000029.1	Genbank	exon	94274	94348	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001528-T1_mrna"; gene_id "gene-LOZ07_001528"; gene_name "RAM1";
+JALBBI010000029.1	Genbank	exon	94407	94562	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001528-T1_mrna"; gene_id "gene-LOZ07_001528"; gene_name "RAM1";
+JALBBI010000029.1	Genbank	exon	94710	95056	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001528-T1_mrna"; gene_id "gene-LOZ07_001528"; gene_name "RAM1";
+JALBBI010000029.1	Genbank	CDS	93218	93512	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001528-T1_mrna"; gene_id "gene-LOZ07_001528"; gene_name "RAM1";
+JALBBI010000029.1	Genbank	CDS	93596	93874	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001528-T1_mrna"; gene_id "gene-LOZ07_001528"; gene_name "RAM1";
+JALBBI010000029.1	Genbank	CDS	93925	94042	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001528-T1_mrna"; gene_id "gene-LOZ07_001528"; gene_name "RAM1";
+JALBBI010000029.1	Genbank	CDS	94092	94219	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001528-T1_mrna"; gene_id "gene-LOZ07_001528"; gene_name "RAM1";
+JALBBI010000029.1	Genbank	CDS	94274	94348	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001528-T1_mrna"; gene_id "gene-LOZ07_001528"; gene_name "RAM1";
+JALBBI010000029.1	Genbank	CDS	94407	94562	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001528-T1_mrna"; gene_id "gene-LOZ07_001528"; gene_name "RAM1";
+JALBBI010000029.1	Genbank	CDS	94710	95056	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001528-T1_mrna"; gene_id "gene-LOZ07_001528"; gene_name "RAM1";
+JALBBI010000031.1	Genbank	transcript	27130	29889	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001579-T1_mrna"; gene_id "gene-LOZ07_001579"; gene_name "NOP14"
+JALBBI010000031.1	Genbank	exon	27130	27414	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001579-T1_mrna"; gene_id "gene-LOZ07_001579"; gene_name "NOP14";
+JALBBI010000031.1	Genbank	exon	27475	29889	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001579-T1_mrna"; gene_id "gene-LOZ07_001579"; gene_name "NOP14";
+JALBBI010000031.1	Genbank	CDS	27130	27414	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001579-T1_mrna"; gene_id "gene-LOZ07_001579"; gene_name "NOP14";
+JALBBI010000031.1	Genbank	CDS	27475	29889	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001579-T1_mrna"; gene_id "gene-LOZ07_001579"; gene_name "NOP14";
+JALBBI010000031.1	Genbank	transcript	51811	52977	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001589-T1_mrna"; gene_id "gene-LOZ07_001589"
+JALBBI010000031.1	Genbank	exon	51811	51829	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001589-T1_mrna"; gene_id "gene-LOZ07_001589";
+JALBBI010000031.1	Genbank	exon	51885	51895	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001589-T1_mrna"; gene_id "gene-LOZ07_001589";
+JALBBI010000031.1	Genbank	exon	51975	52007	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001589-T1_mrna"; gene_id "gene-LOZ07_001589";
+JALBBI010000031.1	Genbank	exon	52075	52977	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001589-T1_mrna"; gene_id "gene-LOZ07_001589";
+JALBBI010000031.1	Genbank	CDS	51811	51829	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001589-T1_mrna"; gene_id "gene-LOZ07_001589";
+JALBBI010000031.1	Genbank	CDS	51885	51895	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001589-T1_mrna"; gene_id "gene-LOZ07_001589";
+JALBBI010000031.1	Genbank	CDS	51975	52007	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001589-T1_mrna"; gene_id "gene-LOZ07_001589";
+JALBBI010000031.1	Genbank	CDS	52075	52977	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001589-T1_mrna"; gene_id "gene-LOZ07_001589";
+JALBBI010000031.1	Genbank	transcript	75212	76145	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001595-T1_mrna"; gene_id "gene-LOZ07_001595"; gene_name "rpc25"
+JALBBI010000031.1	Genbank	exon	75212	75259	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001595-T1_mrna"; gene_id "gene-LOZ07_001595"; gene_name "rpc25";
+JALBBI010000031.1	Genbank	exon	75320	75500	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001595-T1_mrna"; gene_id "gene-LOZ07_001595"; gene_name "rpc25";
+JALBBI010000031.1	Genbank	exon	75561	75624	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001595-T1_mrna"; gene_id "gene-LOZ07_001595"; gene_name "rpc25";
+JALBBI010000031.1	Genbank	exon	75680	75766	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001595-T1_mrna"; gene_id "gene-LOZ07_001595"; gene_name "rpc25";
+JALBBI010000031.1	Genbank	exon	75830	75926	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001595-T1_mrna"; gene_id "gene-LOZ07_001595"; gene_name "rpc25";
+JALBBI010000031.1	Genbank	exon	75980	76078	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001595-T1_mrna"; gene_id "gene-LOZ07_001595"; gene_name "rpc25";
+JALBBI010000031.1	Genbank	exon	76134	76145	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001595-T1_mrna"; gene_id "gene-LOZ07_001595"; gene_name "rpc25";
+JALBBI010000031.1	Genbank	CDS	75212	75259	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001595-T1_mrna"; gene_id "gene-LOZ07_001595"; gene_name "rpc25";
+JALBBI010000031.1	Genbank	CDS	75320	75500	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001595-T1_mrna"; gene_id "gene-LOZ07_001595"; gene_name "rpc25";
+JALBBI010000031.1	Genbank	CDS	75561	75624	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001595-T1_mrna"; gene_id "gene-LOZ07_001595"; gene_name "rpc25";
+JALBBI010000031.1	Genbank	CDS	75680	75766	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001595-T1_mrna"; gene_id "gene-LOZ07_001595"; gene_name "rpc25";
+JALBBI010000031.1	Genbank	CDS	75830	75926	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001595-T1_mrna"; gene_id "gene-LOZ07_001595"; gene_name "rpc25";
+JALBBI010000031.1	Genbank	CDS	75980	76078	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001595-T1_mrna"; gene_id "gene-LOZ07_001595"; gene_name "rpc25";
+JALBBI010000031.1	Genbank	CDS	76134	76145	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001595-T1_mrna"; gene_id "gene-LOZ07_001595"; gene_name "rpc25";
+JALBBI010000031.1	Genbank	transcript	107218	108887	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001609-T1_mrna"; gene_id "gene-LOZ07_001609"
+JALBBI010000031.1	Genbank	exon	107218	107296	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001609-T1_mrna"; gene_id "gene-LOZ07_001609";
+JALBBI010000031.1	Genbank	exon	107350	108887	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001609-T1_mrna"; gene_id "gene-LOZ07_001609";
+JALBBI010000031.1	Genbank	CDS	107218	107296	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001609-T1_mrna"; gene_id "gene-LOZ07_001609";
+JALBBI010000031.1	Genbank	CDS	107350	108887	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001609-T1_mrna"; gene_id "gene-LOZ07_001609";
+JALBBI010000032.1	Genbank	transcript	11120	12872	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001618-T1_mrna"; gene_id "gene-LOZ07_001618"; gene_name "PWP1"
+JALBBI010000032.1	Genbank	exon	11120	12536	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001618-T1_mrna"; gene_id "gene-LOZ07_001618"; gene_name "PWP1";
+JALBBI010000032.1	Genbank	exon	12610	12872	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001618-T1_mrna"; gene_id "gene-LOZ07_001618"; gene_name "PWP1";
+JALBBI010000032.1	Genbank	CDS	11120	12536	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001618-T1_mrna"; gene_id "gene-LOZ07_001618"; gene_name "PWP1";
+JALBBI010000032.1	Genbank	CDS	12610	12872	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001618-T1_mrna"; gene_id "gene-LOZ07_001618"; gene_name "PWP1";
+JALBBI010000032.1	Genbank	transcript	21249	24360	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001623-T1_mrna"; gene_id "gene-LOZ07_001623"; gene_name "DIP2"
+JALBBI010000032.1	Genbank	exon	21249	21251	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001623-T1_mrna"; gene_id "gene-LOZ07_001623"; gene_name "DIP2";
+JALBBI010000032.1	Genbank	exon	21319	21383	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001623-T1_mrna"; gene_id "gene-LOZ07_001623"; gene_name "DIP2";
+JALBBI010000032.1	Genbank	exon	21448	21702	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001623-T1_mrna"; gene_id "gene-LOZ07_001623"; gene_name "DIP2";
+JALBBI010000032.1	Genbank	exon	21756	24360	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001623-T1_mrna"; gene_id "gene-LOZ07_001623"; gene_name "DIP2";
+JALBBI010000032.1	Genbank	CDS	21249	21251	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001623-T1_mrna"; gene_id "gene-LOZ07_001623"; gene_name "DIP2";
+JALBBI010000032.1	Genbank	CDS	21319	21383	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001623-T1_mrna"; gene_id "gene-LOZ07_001623"; gene_name "DIP2";
+JALBBI010000032.1	Genbank	CDS	21448	21702	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001623-T1_mrna"; gene_id "gene-LOZ07_001623"; gene_name "DIP2";
+JALBBI010000032.1	Genbank	CDS	21756	24360	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001623-T1_mrna"; gene_id "gene-LOZ07_001623"; gene_name "DIP2";
+JALBBI010000033.1	Genbank	transcript	84384	86021	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001687-T1_mrna"; gene_id "gene-LOZ07_001687"; gene_name "ENP1"
+JALBBI010000033.1	Genbank	exon	84384	84773	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001687-T1_mrna"; gene_id "gene-LOZ07_001687"; gene_name "ENP1";
+JALBBI010000033.1	Genbank	exon	84845	85089	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001687-T1_mrna"; gene_id "gene-LOZ07_001687"; gene_name "ENP1";
+JALBBI010000033.1	Genbank	exon	85148	86021	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001687-T1_mrna"; gene_id "gene-LOZ07_001687"; gene_name "ENP1";
+JALBBI010000033.1	Genbank	CDS	84384	84773	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001687-T1_mrna"; gene_id "gene-LOZ07_001687"; gene_name "ENP1";
+JALBBI010000033.1	Genbank	CDS	84845	85089	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001687-T1_mrna"; gene_id "gene-LOZ07_001687"; gene_name "ENP1";
+JALBBI010000033.1	Genbank	CDS	85148	86021	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001687-T1_mrna"; gene_id "gene-LOZ07_001687"; gene_name "ENP1";
+JALBBI010000034.1	Genbank	transcript	7347	8497	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001703-T1_mrna"; gene_id "gene-LOZ07_001703"; gene_name "rrp4"
+JALBBI010000034.1	Genbank	exon	7347	8250	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001703-T1_mrna"; gene_id "gene-LOZ07_001703"; gene_name "rrp4";
+JALBBI010000034.1	Genbank	exon	8307	8497	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001703-T1_mrna"; gene_id "gene-LOZ07_001703"; gene_name "rrp4";
+JALBBI010000034.1	Genbank	CDS	7347	8250	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001703-T1_mrna"; gene_id "gene-LOZ07_001703"; gene_name "rrp4";
+JALBBI010000034.1	Genbank	CDS	8307	8497	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001703-T1_mrna"; gene_id "gene-LOZ07_001703"; gene_name "rrp4";
+JALBBI010000036.1	Genbank	transcript	27323	30329	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001794-T1_mrna"; gene_id "gene-LOZ07_001794"; gene_name "cbc1"
+JALBBI010000036.1	Genbank	exon	27323	28206	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001794-T1_mrna"; gene_id "gene-LOZ07_001794"; gene_name "cbc1";
+JALBBI010000036.1	Genbank	exon	28262	28443	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001794-T1_mrna"; gene_id "gene-LOZ07_001794"; gene_name "cbc1";
+JALBBI010000036.1	Genbank	exon	28498	29390	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001794-T1_mrna"; gene_id "gene-LOZ07_001794"; gene_name "cbc1";
+JALBBI010000036.1	Genbank	exon	29450	29717	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001794-T1_mrna"; gene_id "gene-LOZ07_001794"; gene_name "cbc1";
+JALBBI010000036.1	Genbank	exon	29780	29886	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001794-T1_mrna"; gene_id "gene-LOZ07_001794"; gene_name "cbc1";
+JALBBI010000036.1	Genbank	exon	29974	30068	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001794-T1_mrna"; gene_id "gene-LOZ07_001794"; gene_name "cbc1";
+JALBBI010000036.1	Genbank	exon	30143	30329	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001794-T1_mrna"; gene_id "gene-LOZ07_001794"; gene_name "cbc1";
+JALBBI010000036.1	Genbank	CDS	27323	28206	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001794-T1_mrna"; gene_id "gene-LOZ07_001794"; gene_name "cbc1";
+JALBBI010000036.1	Genbank	CDS	28262	28443	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001794-T1_mrna"; gene_id "gene-LOZ07_001794"; gene_name "cbc1";
+JALBBI010000036.1	Genbank	CDS	28498	29390	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001794-T1_mrna"; gene_id "gene-LOZ07_001794"; gene_name "cbc1";
+JALBBI010000036.1	Genbank	CDS	29450	29717	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001794-T1_mrna"; gene_id "gene-LOZ07_001794"; gene_name "cbc1";
+JALBBI010000036.1	Genbank	CDS	29780	29886	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001794-T1_mrna"; gene_id "gene-LOZ07_001794"; gene_name "cbc1";
+JALBBI010000036.1	Genbank	CDS	29974	30068	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001794-T1_mrna"; gene_id "gene-LOZ07_001794"; gene_name "cbc1";
+JALBBI010000036.1	Genbank	CDS	30143	30329	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001794-T1_mrna"; gene_id "gene-LOZ07_001794"; gene_name "cbc1";
+JALBBI010000036.1	Genbank	transcript	47679	48948	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001800-T1_mrna"; gene_id "gene-LOZ07_001800"
+JALBBI010000036.1	Genbank	exon	47679	48256	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001800-T1_mrna"; gene_id "gene-LOZ07_001800";
+JALBBI010000036.1	Genbank	exon	48313	48465	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001800-T1_mrna"; gene_id "gene-LOZ07_001800";
+JALBBI010000036.1	Genbank	exon	48557	48789	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001800-T1_mrna"; gene_id "gene-LOZ07_001800";
+JALBBI010000036.1	Genbank	exon	48905	48948	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001800-T1_mrna"; gene_id "gene-LOZ07_001800";
+JALBBI010000036.1	Genbank	CDS	47679	48256	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001800-T1_mrna"; gene_id "gene-LOZ07_001800";
+JALBBI010000036.1	Genbank	CDS	48313	48465	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001800-T1_mrna"; gene_id "gene-LOZ07_001800";
+JALBBI010000036.1	Genbank	CDS	48557	48789	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001800-T1_mrna"; gene_id "gene-LOZ07_001800";
+JALBBI010000036.1	Genbank	CDS	48905	48948	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001800-T1_mrna"; gene_id "gene-LOZ07_001800";
+JALBBI010000037.1	Genbank	transcript	84675	86602	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001858-T1_mrna"; gene_id "gene-LOZ07_001858"
+JALBBI010000037.1	Genbank	exon	84675	86200	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001858-T1_mrna"; gene_id "gene-LOZ07_001858";
+JALBBI010000037.1	Genbank	exon	86275	86602	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001858-T1_mrna"; gene_id "gene-LOZ07_001858";
+JALBBI010000037.1	Genbank	CDS	84675	86200	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001858-T1_mrna"; gene_id "gene-LOZ07_001858";
+JALBBI010000037.1	Genbank	CDS	86275	86602	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_001858-T1_mrna"; gene_id "gene-LOZ07_001858";
+JALBBI010000045.1	Genbank	transcript	50905	51700	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002136-T1_mrna"; gene_id "gene-LOZ07_002136"; gene_name "MRT4"
+JALBBI010000045.1	Genbank	exon	50905	51101	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002136-T1_mrna"; gene_id "gene-LOZ07_002136"; gene_name "MRT4";
+JALBBI010000045.1	Genbank	exon	51163	51700	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002136-T1_mrna"; gene_id "gene-LOZ07_002136"; gene_name "MRT4";
+JALBBI010000045.1	Genbank	CDS	50905	51101	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002136-T1_mrna"; gene_id "gene-LOZ07_002136"; gene_name "MRT4";
+JALBBI010000045.1	Genbank	CDS	51163	51700	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002136-T1_mrna"; gene_id "gene-LOZ07_002136"; gene_name "MRT4";
+JALBBI010000045.1	Genbank	transcript	54340	54699	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002138-T1_mrna"; gene_id "gene-LOZ07_002138"; gene_name "MRPL51"
+JALBBI010000045.1	Genbank	exon	54340	54344	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002138-T1_mrna"; gene_id "gene-LOZ07_002138"; gene_name "MRPL51";
+JALBBI010000045.1	Genbank	exon	54408	54699	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002138-T1_mrna"; gene_id "gene-LOZ07_002138"; gene_name "MRPL51";
+JALBBI010000045.1	Genbank	CDS	54340	54344	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002138-T1_mrna"; gene_id "gene-LOZ07_002138"; gene_name "MRPL51";
+JALBBI010000045.1	Genbank	CDS	54408	54699	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002138-T1_mrna"; gene_id "gene-LOZ07_002138"; gene_name "MRPL51";
+JALBBI010000046.1	Genbank	transcript	20153	22138	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002166-T1_mrna"; gene_id "gene-LOZ07_002166"; gene_name "PCM1"
+JALBBI010000046.1	Genbank	exon	20153	20245	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002166-T1_mrna"; gene_id "gene-LOZ07_002166"; gene_name "PCM1";
+JALBBI010000046.1	Genbank	exon	20305	20318	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002166-T1_mrna"; gene_id "gene-LOZ07_002166"; gene_name "PCM1";
+JALBBI010000046.1	Genbank	exon	20416	20560	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002166-T1_mrna"; gene_id "gene-LOZ07_002166"; gene_name "PCM1";
+JALBBI010000046.1	Genbank	exon	20628	20642	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002166-T1_mrna"; gene_id "gene-LOZ07_002166"; gene_name "PCM1";
+JALBBI010000046.1	Genbank	exon	20700	21206	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002166-T1_mrna"; gene_id "gene-LOZ07_002166"; gene_name "PCM1";
+JALBBI010000046.1	Genbank	exon	21269	22138	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002166-T1_mrna"; gene_id "gene-LOZ07_002166"; gene_name "PCM1";
+JALBBI010000046.1	Genbank	CDS	20153	20245	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002166-T1_mrna"; gene_id "gene-LOZ07_002166"; gene_name "PCM1";
+JALBBI010000046.1	Genbank	CDS	20305	20318	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002166-T1_mrna"; gene_id "gene-LOZ07_002166"; gene_name "PCM1";
+JALBBI010000046.1	Genbank	CDS	20416	20560	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002166-T1_mrna"; gene_id "gene-LOZ07_002166"; gene_name "PCM1";
+JALBBI010000046.1	Genbank	CDS	20628	20642	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002166-T1_mrna"; gene_id "gene-LOZ07_002166"; gene_name "PCM1";
+JALBBI010000046.1	Genbank	CDS	20700	21206	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002166-T1_mrna"; gene_id "gene-LOZ07_002166"; gene_name "PCM1";
+JALBBI010000046.1	Genbank	CDS	21269	22138	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002166-T1_mrna"; gene_id "gene-LOZ07_002166"; gene_name "PCM1";
+JALBBI010000046.1	Genbank	transcript	22550	24038	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002167-T1_mrna"; gene_id "gene-LOZ07_002167"; gene_name "RRP3"
+JALBBI010000046.1	Genbank	exon	22550	23643	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002167-T1_mrna"; gene_id "gene-LOZ07_002167"; gene_name "RRP3";
+JALBBI010000046.1	Genbank	exon	23693	24038	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002167-T1_mrna"; gene_id "gene-LOZ07_002167"; gene_name "RRP3";
+JALBBI010000046.1	Genbank	CDS	22550	23643	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002167-T1_mrna"; gene_id "gene-LOZ07_002167"; gene_name "RRP3";
+JALBBI010000046.1	Genbank	CDS	23693	24038	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002167-T1_mrna"; gene_id "gene-LOZ07_002167"; gene_name "RRP3";
+JALBBI010000047.1	Genbank	transcript	56844	57491	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002222-T1_mrna"; gene_id "gene-LOZ07_002222"; gene_name "FAP7"
+JALBBI010000047.1	Genbank	exon	56844	57045	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002222-T1_mrna"; gene_id "gene-LOZ07_002222"; gene_name "FAP7";
+JALBBI010000047.1	Genbank	exon	57110	57258	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002222-T1_mrna"; gene_id "gene-LOZ07_002222"; gene_name "FAP7";
+JALBBI010000047.1	Genbank	exon	57309	57491	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002222-T1_mrna"; gene_id "gene-LOZ07_002222"; gene_name "FAP7";
+JALBBI010000047.1	Genbank	CDS	56844	57045	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002222-T1_mrna"; gene_id "gene-LOZ07_002222"; gene_name "FAP7";
+JALBBI010000047.1	Genbank	CDS	57110	57258	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002222-T1_mrna"; gene_id "gene-LOZ07_002222"; gene_name "FAP7";
+JALBBI010000047.1	Genbank	CDS	57309	57491	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002222-T1_mrna"; gene_id "gene-LOZ07_002222"; gene_name "FAP7";
+JALBBI010000047.1	Genbank	transcript	82660	84048	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002233-T1_mrna"; gene_id "gene-LOZ07_002233"; gene_name "FYV10"
+JALBBI010000047.1	Genbank	exon	82660	82713	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002233-T1_mrna"; gene_id "gene-LOZ07_002233"; gene_name "FYV10";
+JALBBI010000047.1	Genbank	exon	82778	83317	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002233-T1_mrna"; gene_id "gene-LOZ07_002233"; gene_name "FYV10";
+JALBBI010000047.1	Genbank	exon	83373	83558	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002233-T1_mrna"; gene_id "gene-LOZ07_002233"; gene_name "FYV10";
+JALBBI010000047.1	Genbank	exon	83620	84048	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002233-T1_mrna"; gene_id "gene-LOZ07_002233"; gene_name "FYV10";
+JALBBI010000047.1	Genbank	CDS	82660	82713	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002233-T1_mrna"; gene_id "gene-LOZ07_002233"; gene_name "FYV10";
+JALBBI010000047.1	Genbank	CDS	82778	83317	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002233-T1_mrna"; gene_id "gene-LOZ07_002233"; gene_name "FYV10";
+JALBBI010000047.1	Genbank	CDS	83373	83558	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002233-T1_mrna"; gene_id "gene-LOZ07_002233"; gene_name "FYV10";
+JALBBI010000047.1	Genbank	CDS	83620	84048	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002233-T1_mrna"; gene_id "gene-LOZ07_002233"; gene_name "FYV10";
+JALBBI010000048.1	Genbank	transcript	43003	44241	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002255-T1_mrna"; gene_id "gene-LOZ07_002255"; gene_name "CAB2"
+JALBBI010000048.1	Genbank	exon	43003	44241	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002255-T1_mrna"; gene_id "gene-LOZ07_002255"; gene_name "CAB2";
+JALBBI010000048.1	Genbank	CDS	43003	44241	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002255-T1_mrna"; gene_id "gene-LOZ07_002255"; gene_name "CAB2";
+JALBBI010000051.1	Genbank	transcript	15579	17356	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002350-T1_mrna"; gene_id "gene-LOZ07_002350"; gene_name "HAT1"
+JALBBI010000051.1	Genbank	exon	15579	15618	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002350-T1_mrna"; gene_id "gene-LOZ07_002350"; gene_name "HAT1";
+JALBBI010000051.1	Genbank	exon	15673	15951	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002350-T1_mrna"; gene_id "gene-LOZ07_002350"; gene_name "HAT1";
+JALBBI010000051.1	Genbank	exon	16025	16289	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002350-T1_mrna"; gene_id "gene-LOZ07_002350"; gene_name "HAT1";
+JALBBI010000051.1	Genbank	exon	16342	17356	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002350-T1_mrna"; gene_id "gene-LOZ07_002350"; gene_name "HAT1";
+JALBBI010000051.1	Genbank	CDS	15579	15618	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002350-T1_mrna"; gene_id "gene-LOZ07_002350"; gene_name "HAT1";
+JALBBI010000051.1	Genbank	CDS	15673	15951	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002350-T1_mrna"; gene_id "gene-LOZ07_002350"; gene_name "HAT1";
+JALBBI010000051.1	Genbank	CDS	16025	16289	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002350-T1_mrna"; gene_id "gene-LOZ07_002350"; gene_name "HAT1";
+JALBBI010000051.1	Genbank	CDS	16342	17356	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002350-T1_mrna"; gene_id "gene-LOZ07_002350"; gene_name "HAT1";
+JALBBI010000054.1	Genbank	transcript	80203	81261	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002466-T1_mrna"; gene_id "gene-LOZ07_002466"; gene_name "CWC26"
+JALBBI010000054.1	Genbank	exon	80203	81261	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002466-T1_mrna"; gene_id "gene-LOZ07_002466"; gene_name "CWC26";
+JALBBI010000054.1	Genbank	CDS	80203	81261	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002466-T1_mrna"; gene_id "gene-LOZ07_002466"; gene_name "CWC26";
+JALBBI010000055.1	Genbank	transcript	12570	15485	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002473-T1_mrna"; gene_id "gene-LOZ07_002473"; gene_name "PWP2"
+JALBBI010000055.1	Genbank	exon	12570	14382	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002473-T1_mrna"; gene_id "gene-LOZ07_002473"; gene_name "PWP2";
+JALBBI010000055.1	Genbank	exon	14435	14676	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002473-T1_mrna"; gene_id "gene-LOZ07_002473"; gene_name "PWP2";
+JALBBI010000055.1	Genbank	exon	14727	15222	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002473-T1_mrna"; gene_id "gene-LOZ07_002473"; gene_name "PWP2";
+JALBBI010000055.1	Genbank	exon	15292	15404	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002473-T1_mrna"; gene_id "gene-LOZ07_002473"; gene_name "PWP2";
+JALBBI010000055.1	Genbank	exon	15468	15485	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002473-T1_mrna"; gene_id "gene-LOZ07_002473"; gene_name "PWP2";
+JALBBI010000055.1	Genbank	CDS	12570	14382	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002473-T1_mrna"; gene_id "gene-LOZ07_002473"; gene_name "PWP2";
+JALBBI010000055.1	Genbank	CDS	14435	14676	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002473-T1_mrna"; gene_id "gene-LOZ07_002473"; gene_name "PWP2";
+JALBBI010000055.1	Genbank	CDS	14727	15222	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002473-T1_mrna"; gene_id "gene-LOZ07_002473"; gene_name "PWP2";
+JALBBI010000055.1	Genbank	CDS	15292	15404	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002473-T1_mrna"; gene_id "gene-LOZ07_002473"; gene_name "PWP2";
+JALBBI010000055.1	Genbank	CDS	15468	15485	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002473-T1_mrna"; gene_id "gene-LOZ07_002473"; gene_name "PWP2";
+JALBBI010000055.1	Genbank	transcript	47441	48590	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002485-T1_mrna"; gene_id "gene-LOZ07_002485"
+JALBBI010000055.1	Genbank	exon	47441	47633	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002485-T1_mrna"; gene_id "gene-LOZ07_002485";
+JALBBI010000055.1	Genbank	exon	47689	48590	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002485-T1_mrna"; gene_id "gene-LOZ07_002485";
+JALBBI010000055.1	Genbank	CDS	47441	47633	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002485-T1_mrna"; gene_id "gene-LOZ07_002485";
+JALBBI010000055.1	Genbank	CDS	47689	48590	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002485-T1_mrna"; gene_id "gene-LOZ07_002485";
+JALBBI010000057.1	Genbank	transcript	7388	9643	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002529-T1_mrna"; gene_id "gene-LOZ07_002529"; gene_name "FRS1"
+JALBBI010000057.1	Genbank	exon	7388	7551	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002529-T1_mrna"; gene_id "gene-LOZ07_002529"; gene_name "FRS1";
+JALBBI010000057.1	Genbank	exon	7603	8411	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002529-T1_mrna"; gene_id "gene-LOZ07_002529"; gene_name "FRS1";
+JALBBI010000057.1	Genbank	exon	8482	8723	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002529-T1_mrna"; gene_id "gene-LOZ07_002529"; gene_name "FRS1";
+JALBBI010000057.1	Genbank	exon	8774	9040	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002529-T1_mrna"; gene_id "gene-LOZ07_002529"; gene_name "FRS1";
+JALBBI010000057.1	Genbank	exon	9099	9228	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002529-T1_mrna"; gene_id "gene-LOZ07_002529"; gene_name "FRS1";
+JALBBI010000057.1	Genbank	exon	9282	9358	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002529-T1_mrna"; gene_id "gene-LOZ07_002529"; gene_name "FRS1";
+JALBBI010000057.1	Genbank	exon	9409	9428	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002529-T1_mrna"; gene_id "gene-LOZ07_002529"; gene_name "FRS1";
+JALBBI010000057.1	Genbank	exon	9487	9527	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002529-T1_mrna"; gene_id "gene-LOZ07_002529"; gene_name "FRS1";
+JALBBI010000057.1	Genbank	exon	9591	9643	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002529-T1_mrna"; gene_id "gene-LOZ07_002529"; gene_name "FRS1";
+JALBBI010000057.1	Genbank	CDS	7388	7551	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002529-T1_mrna"; gene_id "gene-LOZ07_002529"; gene_name "FRS1";
+JALBBI010000057.1	Genbank	CDS	7603	8411	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002529-T1_mrna"; gene_id "gene-LOZ07_002529"; gene_name "FRS1";
+JALBBI010000057.1	Genbank	CDS	8482	8723	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002529-T1_mrna"; gene_id "gene-LOZ07_002529"; gene_name "FRS1";
+JALBBI010000057.1	Genbank	CDS	8774	9040	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002529-T1_mrna"; gene_id "gene-LOZ07_002529"; gene_name "FRS1";
+JALBBI010000057.1	Genbank	CDS	9099	9228	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002529-T1_mrna"; gene_id "gene-LOZ07_002529"; gene_name "FRS1";
+JALBBI010000057.1	Genbank	CDS	9282	9358	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002529-T1_mrna"; gene_id "gene-LOZ07_002529"; gene_name "FRS1";
+JALBBI010000057.1	Genbank	CDS	9409	9428	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002529-T1_mrna"; gene_id "gene-LOZ07_002529"; gene_name "FRS1";
+JALBBI010000057.1	Genbank	CDS	9487	9527	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002529-T1_mrna"; gene_id "gene-LOZ07_002529"; gene_name "FRS1";
+JALBBI010000057.1	Genbank	CDS	9591	9643	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002529-T1_mrna"; gene_id "gene-LOZ07_002529"; gene_name "FRS1";
+JALBBI010000058.1	Genbank	transcript	42496	44019	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002570-T1_mrna"; gene_id "gene-LOZ07_002570"; gene_name "cyp6"
+JALBBI010000058.1	Genbank	exon	42496	42865	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002570-T1_mrna"; gene_id "gene-LOZ07_002570"; gene_name "cyp6";
+JALBBI010000058.1	Genbank	exon	43024	43111	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002570-T1_mrna"; gene_id "gene-LOZ07_002570"; gene_name "cyp6";
+JALBBI010000058.1	Genbank	exon	43166	43866	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002570-T1_mrna"; gene_id "gene-LOZ07_002570"; gene_name "cyp6";
+JALBBI010000058.1	Genbank	exon	43940	44019	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002570-T1_mrna"; gene_id "gene-LOZ07_002570"; gene_name "cyp6";
+JALBBI010000058.1	Genbank	CDS	42496	42865	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002570-T1_mrna"; gene_id "gene-LOZ07_002570"; gene_name "cyp6";
+JALBBI010000058.1	Genbank	CDS	43024	43111	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002570-T1_mrna"; gene_id "gene-LOZ07_002570"; gene_name "cyp6";
+JALBBI010000058.1	Genbank	CDS	43166	43866	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002570-T1_mrna"; gene_id "gene-LOZ07_002570"; gene_name "cyp6";
+JALBBI010000058.1	Genbank	CDS	43940	44019	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002570-T1_mrna"; gene_id "gene-LOZ07_002570"; gene_name "cyp6";
+JALBBI010000060.1	Genbank	transcript	77907	80069	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002639-T1_mrna"; gene_id "gene-LOZ07_002639"; gene_name "RRN3"
+JALBBI010000060.1	Genbank	exon	77907	79363	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002639-T1_mrna"; gene_id "gene-LOZ07_002639"; gene_name "RRN3";
+JALBBI010000060.1	Genbank	exon	79427	80069	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002639-T1_mrna"; gene_id "gene-LOZ07_002639"; gene_name "RRN3";
+JALBBI010000060.1	Genbank	CDS	77907	79363	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002639-T1_mrna"; gene_id "gene-LOZ07_002639"; gene_name "RRN3";
+JALBBI010000060.1	Genbank	CDS	79427	80069	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002639-T1_mrna"; gene_id "gene-LOZ07_002639"; gene_name "RRN3";
+JALBBI010000062.1	Genbank	transcript	68387	70083	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002688-T1_mrna"; gene_id "gene-LOZ07_002688"; gene_name "COX15"
+JALBBI010000062.1	Genbank	exon	68387	69497	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002688-T1_mrna"; gene_id "gene-LOZ07_002688"; gene_name "COX15";
+JALBBI010000062.1	Genbank	exon	69557	70083	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002688-T1_mrna"; gene_id "gene-LOZ07_002688"; gene_name "COX15";
+JALBBI010000062.1	Genbank	CDS	68387	69497	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002688-T1_mrna"; gene_id "gene-LOZ07_002688"; gene_name "COX15";
+JALBBI010000062.1	Genbank	CDS	69557	70083	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002688-T1_mrna"; gene_id "gene-LOZ07_002688"; gene_name "COX15";
+JALBBI010000066.1	Genbank	transcript	62367	63862	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002789-T1_mrna"; gene_id "gene-LOZ07_002789"
+JALBBI010000066.1	Genbank	exon	62367	63493	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002789-T1_mrna"; gene_id "gene-LOZ07_002789";
+JALBBI010000066.1	Genbank	exon	63592	63862	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002789-T1_mrna"; gene_id "gene-LOZ07_002789";
+JALBBI010000066.1	Genbank	CDS	62367	63493	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002789-T1_mrna"; gene_id "gene-LOZ07_002789";
+JALBBI010000066.1	Genbank	CDS	63592	63862	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002789-T1_mrna"; gene_id "gene-LOZ07_002789";
+JALBBI010000073.1	Genbank	transcript	3381	5296	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002966-T1_mrna"; gene_id "gene-LOZ07_002966"; gene_name "cdc1"
+JALBBI010000073.1	Genbank	exon	3381	3424	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002966-T1_mrna"; gene_id "gene-LOZ07_002966"; gene_name "cdc1";
+JALBBI010000073.1	Genbank	exon	3485	3671	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002966-T1_mrna"; gene_id "gene-LOZ07_002966"; gene_name "cdc1";
+JALBBI010000073.1	Genbank	exon	3766	3897	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002966-T1_mrna"; gene_id "gene-LOZ07_002966"; gene_name "cdc1";
+JALBBI010000073.1	Genbank	exon	3952	4948	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002966-T1_mrna"; gene_id "gene-LOZ07_002966"; gene_name "cdc1";
+JALBBI010000073.1	Genbank	exon	5010	5296	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002966-T1_mrna"; gene_id "gene-LOZ07_002966"; gene_name "cdc1";
+JALBBI010000073.1	Genbank	CDS	3381	3424	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002966-T1_mrna"; gene_id "gene-LOZ07_002966"; gene_name "cdc1";
+JALBBI010000073.1	Genbank	CDS	3485	3671	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002966-T1_mrna"; gene_id "gene-LOZ07_002966"; gene_name "cdc1";
+JALBBI010000073.1	Genbank	CDS	3766	3897	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002966-T1_mrna"; gene_id "gene-LOZ07_002966"; gene_name "cdc1";
+JALBBI010000073.1	Genbank	CDS	3952	4948	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002966-T1_mrna"; gene_id "gene-LOZ07_002966"; gene_name "cdc1";
+JALBBI010000073.1	Genbank	CDS	5010	5296	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002966-T1_mrna"; gene_id "gene-LOZ07_002966"; gene_name "cdc1";
+JALBBI010000073.1	Genbank	transcript	50333	51966	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002987-T1_mrna"; gene_id "gene-LOZ07_002987"
+JALBBI010000073.1	Genbank	exon	50333	51285	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002987-T1_mrna"; gene_id "gene-LOZ07_002987";
+JALBBI010000073.1	Genbank	exon	51342	51966	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002987-T1_mrna"; gene_id "gene-LOZ07_002987";
+JALBBI010000073.1	Genbank	CDS	50333	51285	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002987-T1_mrna"; gene_id "gene-LOZ07_002987";
+JALBBI010000073.1	Genbank	CDS	51342	51966	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_002987-T1_mrna"; gene_id "gene-LOZ07_002987";
+JALBBI010000082.1	Genbank	transcript	50209	51237	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003209-T1_mrna"; gene_id "gene-LOZ07_003209"; gene_name "DRE2"
+JALBBI010000082.1	Genbank	exon	50209	50516	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003209-T1_mrna"; gene_id "gene-LOZ07_003209"; gene_name "DRE2";
+JALBBI010000082.1	Genbank	exon	50595	51237	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003209-T1_mrna"; gene_id "gene-LOZ07_003209"; gene_name "DRE2";
+JALBBI010000082.1	Genbank	CDS	50209	50516	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003209-T1_mrna"; gene_id "gene-LOZ07_003209"; gene_name "DRE2";
+JALBBI010000082.1	Genbank	CDS	50595	51237	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003209-T1_mrna"; gene_id "gene-LOZ07_003209"; gene_name "DRE2";
+JALBBI010000082.1	Genbank	transcript	58028	60414	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003212-T1_mrna"; gene_id "gene-LOZ07_003212"; gene_name "ATG7"
+JALBBI010000082.1	Genbank	exon	58028	58108	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003212-T1_mrna"; gene_id "gene-LOZ07_003212"; gene_name "ATG7";
+JALBBI010000082.1	Genbank	exon	58158	58517	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003212-T1_mrna"; gene_id "gene-LOZ07_003212"; gene_name "ATG7";
+JALBBI010000082.1	Genbank	exon	58571	59029	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003212-T1_mrna"; gene_id "gene-LOZ07_003212"; gene_name "ATG7";
+JALBBI010000082.1	Genbank	exon	59080	59224	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003212-T1_mrna"; gene_id "gene-LOZ07_003212"; gene_name "ATG7";
+JALBBI010000082.1	Genbank	exon	59285	60009	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003212-T1_mrna"; gene_id "gene-LOZ07_003212"; gene_name "ATG7";
+JALBBI010000082.1	Genbank	exon	60067	60175	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003212-T1_mrna"; gene_id "gene-LOZ07_003212"; gene_name "ATG7";
+JALBBI010000082.1	Genbank	exon	60224	60414	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003212-T1_mrna"; gene_id "gene-LOZ07_003212"; gene_name "ATG7";
+JALBBI010000082.1	Genbank	CDS	58028	58108	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003212-T1_mrna"; gene_id "gene-LOZ07_003212"; gene_name "ATG7";
+JALBBI010000082.1	Genbank	CDS	58158	58517	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003212-T1_mrna"; gene_id "gene-LOZ07_003212"; gene_name "ATG7";
+JALBBI010000082.1	Genbank	CDS	58571	59029	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003212-T1_mrna"; gene_id "gene-LOZ07_003212"; gene_name "ATG7";
+JALBBI010000082.1	Genbank	CDS	59080	59224	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003212-T1_mrna"; gene_id "gene-LOZ07_003212"; gene_name "ATG7";
+JALBBI010000082.1	Genbank	CDS	59285	60009	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003212-T1_mrna"; gene_id "gene-LOZ07_003212"; gene_name "ATG7";
+JALBBI010000082.1	Genbank	CDS	60067	60175	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003212-T1_mrna"; gene_id "gene-LOZ07_003212"; gene_name "ATG7";
+JALBBI010000082.1	Genbank	CDS	60224	60414	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003212-T1_mrna"; gene_id "gene-LOZ07_003212"; gene_name "ATG7";
+JALBBI010000085.1	Genbank	transcript	5073	5928	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003261-T1_mrna"; gene_id "gene-LOZ07_003261"; gene_name "ISY1"
+JALBBI010000085.1	Genbank	exon	5073	5075	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003261-T1_mrna"; gene_id "gene-LOZ07_003261"; gene_name "ISY1";
+JALBBI010000085.1	Genbank	exon	5167	5928	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003261-T1_mrna"; gene_id "gene-LOZ07_003261"; gene_name "ISY1";
+JALBBI010000085.1	Genbank	CDS	5073	5075	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003261-T1_mrna"; gene_id "gene-LOZ07_003261"; gene_name "ISY1";
+JALBBI010000085.1	Genbank	CDS	5167	5928	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003261-T1_mrna"; gene_id "gene-LOZ07_003261"; gene_name "ISY1";
+JALBBI010000086.1	Genbank	transcript	8824	11117	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003282-T1_mrna"; gene_id "gene-LOZ07_003282"; gene_name "COG6"
+JALBBI010000086.1	Genbank	exon	8824	10776	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003282-T1_mrna"; gene_id "gene-LOZ07_003282"; gene_name "COG6";
+JALBBI010000086.1	Genbank	exon	10833	11117	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003282-T1_mrna"; gene_id "gene-LOZ07_003282"; gene_name "COG6";
+JALBBI010000086.1	Genbank	CDS	8824	10776	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003282-T1_mrna"; gene_id "gene-LOZ07_003282"; gene_name "COG6";
+JALBBI010000086.1	Genbank	CDS	10833	11117	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003282-T1_mrna"; gene_id "gene-LOZ07_003282"; gene_name "COG6";
+JALBBI010000088.1	Genbank	transcript	38478	39215	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003342-T1_mrna"; gene_id "gene-LOZ07_003342"
+JALBBI010000088.1	Genbank	exon	38478	39215	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003342-T1_mrna"; gene_id "gene-LOZ07_003342";
+JALBBI010000088.1	Genbank	CDS	38478	39215	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003342-T1_mrna"; gene_id "gene-LOZ07_003342";
+JALBBI010000089.1	Genbank	transcript	28574	30774	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003359-T1_mrna"; gene_id "gene-LOZ07_003359"; gene_name "ENP2"
+JALBBI010000089.1	Genbank	exon	28574	30504	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003359-T1_mrna"; gene_id "gene-LOZ07_003359"; gene_name "ENP2";
+JALBBI010000089.1	Genbank	exon	30558	30774	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003359-T1_mrna"; gene_id "gene-LOZ07_003359"; gene_name "ENP2";
+JALBBI010000089.1	Genbank	CDS	28574	30504	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003359-T1_mrna"; gene_id "gene-LOZ07_003359"; gene_name "ENP2";
+JALBBI010000089.1	Genbank	CDS	30558	30774	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003359-T1_mrna"; gene_id "gene-LOZ07_003359"; gene_name "ENP2";
+JALBBI010000093.1	Genbank	transcript	29504	33710	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003451-T1_mrna"; gene_id "gene-LOZ07_003451"; gene_name "MCM2"
+JALBBI010000093.1	Genbank	exon	29504	29508	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003451-T1_mrna"; gene_id "gene-LOZ07_003451"; gene_name "MCM2";
+JALBBI010000093.1	Genbank	exon	29561	29676	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003451-T1_mrna"; gene_id "gene-LOZ07_003451"; gene_name "MCM2";
+JALBBI010000093.1	Genbank	exon	29730	31951	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003451-T1_mrna"; gene_id "gene-LOZ07_003451"; gene_name "MCM2";
+JALBBI010000093.1	Genbank	exon	32001	32170	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003451-T1_mrna"; gene_id "gene-LOZ07_003451"; gene_name "MCM2";
+JALBBI010000093.1	Genbank	exon	32829	33068	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003451-T1_mrna"; gene_id "gene-LOZ07_003451"; gene_name "MCM2";
+JALBBI010000093.1	Genbank	exon	33142	33327	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003451-T1_mrna"; gene_id "gene-LOZ07_003451"; gene_name "MCM2";
+JALBBI010000093.1	Genbank	exon	33383	33710	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003451-T1_mrna"; gene_id "gene-LOZ07_003451"; gene_name "MCM2";
+JALBBI010000093.1	Genbank	CDS	29504	29508	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003451-T1_mrna"; gene_id "gene-LOZ07_003451"; gene_name "MCM2";
+JALBBI010000093.1	Genbank	CDS	29561	29676	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003451-T1_mrna"; gene_id "gene-LOZ07_003451"; gene_name "MCM2";
+JALBBI010000093.1	Genbank	CDS	29730	31951	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003451-T1_mrna"; gene_id "gene-LOZ07_003451"; gene_name "MCM2";
+JALBBI010000093.1	Genbank	CDS	32001	32170	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003451-T1_mrna"; gene_id "gene-LOZ07_003451"; gene_name "MCM2";
+JALBBI010000093.1	Genbank	CDS	32829	33068	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003451-T1_mrna"; gene_id "gene-LOZ07_003451"; gene_name "MCM2";
+JALBBI010000093.1	Genbank	CDS	33142	33327	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003451-T1_mrna"; gene_id "gene-LOZ07_003451"; gene_name "MCM2";
+JALBBI010000093.1	Genbank	CDS	33383	33710	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003451-T1_mrna"; gene_id "gene-LOZ07_003451"; gene_name "MCM2";
+JALBBI010000095.1	Genbank	transcript	13781	14818	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003492-T1_mrna"; gene_id "gene-LOZ07_003492"; gene_name "RRP45"
+JALBBI010000095.1	Genbank	exon	13781	14375	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003492-T1_mrna"; gene_id "gene-LOZ07_003492"; gene_name "RRP45";
+JALBBI010000095.1	Genbank	exon	14477	14596	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003492-T1_mrna"; gene_id "gene-LOZ07_003492"; gene_name "RRP45";
+JALBBI010000095.1	Genbank	exon	14655	14818	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003492-T1_mrna"; gene_id "gene-LOZ07_003492"; gene_name "RRP45";
+JALBBI010000095.1	Genbank	CDS	13781	14375	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003492-T1_mrna"; gene_id "gene-LOZ07_003492"; gene_name "RRP45";
+JALBBI010000095.1	Genbank	CDS	14477	14596	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003492-T1_mrna"; gene_id "gene-LOZ07_003492"; gene_name "RRP45";
+JALBBI010000095.1	Genbank	CDS	14655	14818	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003492-T1_mrna"; gene_id "gene-LOZ07_003492"; gene_name "RRP45";
+JALBBI010000095.1	Genbank	transcript	15068	16171	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003493-T1_mrna"; gene_id "gene-LOZ07_003493"; gene_name "CWC15"
+JALBBI010000095.1	Genbank	exon	15068	15077	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003493-T1_mrna"; gene_id "gene-LOZ07_003493"; gene_name "CWC15";
+JALBBI010000095.1	Genbank	exon	15131	15153	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003493-T1_mrna"; gene_id "gene-LOZ07_003493"; gene_name "CWC15";
+JALBBI010000095.1	Genbank	exon	15211	15287	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003493-T1_mrna"; gene_id "gene-LOZ07_003493"; gene_name "CWC15";
+JALBBI010000095.1	Genbank	exon	15340	15630	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003493-T1_mrna"; gene_id "gene-LOZ07_003493"; gene_name "CWC15";
+JALBBI010000095.1	Genbank	exon	15694	15778	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003493-T1_mrna"; gene_id "gene-LOZ07_003493"; gene_name "CWC15";
+JALBBI010000095.1	Genbank	exon	15829	15999	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003493-T1_mrna"; gene_id "gene-LOZ07_003493"; gene_name "CWC15";
+JALBBI010000095.1	Genbank	exon	16061	16096	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003493-T1_mrna"; gene_id "gene-LOZ07_003493"; gene_name "CWC15";
+JALBBI010000095.1	Genbank	exon	16154	16171	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003493-T1_mrna"; gene_id "gene-LOZ07_003493"; gene_name "CWC15";
+JALBBI010000095.1	Genbank	CDS	15068	15077	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003493-T1_mrna"; gene_id "gene-LOZ07_003493"; gene_name "CWC15";
+JALBBI010000095.1	Genbank	CDS	15131	15153	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003493-T1_mrna"; gene_id "gene-LOZ07_003493"; gene_name "CWC15";
+JALBBI010000095.1	Genbank	CDS	15211	15287	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003493-T1_mrna"; gene_id "gene-LOZ07_003493"; gene_name "CWC15";
+JALBBI010000095.1	Genbank	CDS	15340	15630	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003493-T1_mrna"; gene_id "gene-LOZ07_003493"; gene_name "CWC15";
+JALBBI010000095.1	Genbank	CDS	15694	15778	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003493-T1_mrna"; gene_id "gene-LOZ07_003493"; gene_name "CWC15";
+JALBBI010000095.1	Genbank	CDS	15829	15999	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003493-T1_mrna"; gene_id "gene-LOZ07_003493"; gene_name "CWC15";
+JALBBI010000095.1	Genbank	CDS	16061	16096	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003493-T1_mrna"; gene_id "gene-LOZ07_003493"; gene_name "CWC15";
+JALBBI010000095.1	Genbank	CDS	16154	16171	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003493-T1_mrna"; gene_id "gene-LOZ07_003493"; gene_name "CWC15";
+JALBBI010000098.1	Genbank	transcript	626	7222	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003561-T1_mrna"; gene_id "gene-LOZ07_003561"; gene_name "RPB2"
+JALBBI010000098.1	Genbank	exon	626	788	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003561-T1_mrna"; gene_id "gene-LOZ07_003561"; gene_name "RPB2";
+JALBBI010000098.1	Genbank	exon	905	4676	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003561-T1_mrna"; gene_id "gene-LOZ07_003561"; gene_name "RPB2";
+JALBBI010000098.1	Genbank	exon	5061	5072	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003561-T1_mrna"; gene_id "gene-LOZ07_003561"; gene_name "RPB2";
+JALBBI010000098.1	Genbank	exon	5132	5585	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003561-T1_mrna"; gene_id "gene-LOZ07_003561"; gene_name "RPB2";
+JALBBI010000098.1	Genbank	exon	5639	6153	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003561-T1_mrna"; gene_id "gene-LOZ07_003561"; gene_name "RPB2";
+JALBBI010000098.1	Genbank	exon	6204	6297	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003561-T1_mrna"; gene_id "gene-LOZ07_003561"; gene_name "RPB2";
+JALBBI010000098.1	Genbank	exon	6350	6584	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003561-T1_mrna"; gene_id "gene-LOZ07_003561"; gene_name "RPB2";
+JALBBI010000098.1	Genbank	exon	6644	6750	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003561-T1_mrna"; gene_id "gene-LOZ07_003561"; gene_name "RPB2";
+JALBBI010000098.1	Genbank	exon	6811	7043	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003561-T1_mrna"; gene_id "gene-LOZ07_003561"; gene_name "RPB2";
+JALBBI010000098.1	Genbank	exon	7093	7147	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003561-T1_mrna"; gene_id "gene-LOZ07_003561"; gene_name "RPB2";
+JALBBI010000098.1	Genbank	exon	7196	7222	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003561-T1_mrna"; gene_id "gene-LOZ07_003561"; gene_name "RPB2";
+JALBBI010000098.1	Genbank	CDS	626	788	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003561-T1_mrna"; gene_id "gene-LOZ07_003561"; gene_name "RPB2";
+JALBBI010000098.1	Genbank	CDS	905	4676	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003561-T1_mrna"; gene_id "gene-LOZ07_003561"; gene_name "RPB2";
+JALBBI010000098.1	Genbank	CDS	5061	5072	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003561-T1_mrna"; gene_id "gene-LOZ07_003561"; gene_name "RPB2";
+JALBBI010000098.1	Genbank	CDS	5132	5585	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003561-T1_mrna"; gene_id "gene-LOZ07_003561"; gene_name "RPB2";
+JALBBI010000098.1	Genbank	CDS	5639	6153	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003561-T1_mrna"; gene_id "gene-LOZ07_003561"; gene_name "RPB2";
+JALBBI010000098.1	Genbank	CDS	6204	6297	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003561-T1_mrna"; gene_id "gene-LOZ07_003561"; gene_name "RPB2";
+JALBBI010000098.1	Genbank	CDS	6350	6584	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003561-T1_mrna"; gene_id "gene-LOZ07_003561"; gene_name "RPB2";
+JALBBI010000098.1	Genbank	CDS	6644	6750	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003561-T1_mrna"; gene_id "gene-LOZ07_003561"; gene_name "RPB2";
+JALBBI010000098.1	Genbank	CDS	6811	7043	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003561-T1_mrna"; gene_id "gene-LOZ07_003561"; gene_name "RPB2";
+JALBBI010000098.1	Genbank	CDS	7093	7147	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003561-T1_mrna"; gene_id "gene-LOZ07_003561"; gene_name "RPB2";
+JALBBI010000098.1	Genbank	CDS	7196	7222	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003561-T1_mrna"; gene_id "gene-LOZ07_003561"; gene_name "RPB2";
+JALBBI010000099.1	Genbank	transcript	44901	46091	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003596-T1_mrna"; gene_id "gene-LOZ07_003596"; gene_name "ETF1"
+JALBBI010000099.1	Genbank	exon	44901	45209	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003596-T1_mrna"; gene_id "gene-LOZ07_003596"; gene_name "ETF1";
+JALBBI010000099.1	Genbank	exon	45280	45448	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003596-T1_mrna"; gene_id "gene-LOZ07_003596"; gene_name "ETF1";
+JALBBI010000099.1	Genbank	exon	45517	46091	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003596-T1_mrna"; gene_id "gene-LOZ07_003596"; gene_name "ETF1";
+JALBBI010000099.1	Genbank	CDS	44901	45209	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003596-T1_mrna"; gene_id "gene-LOZ07_003596"; gene_name "ETF1";
+JALBBI010000099.1	Genbank	CDS	45280	45448	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003596-T1_mrna"; gene_id "gene-LOZ07_003596"; gene_name "ETF1";
+JALBBI010000099.1	Genbank	CDS	45517	46091	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003596-T1_mrna"; gene_id "gene-LOZ07_003596"; gene_name "ETF1";
+JALBBI010000099.1	Genbank	transcript	48335	51200	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003597-T1_mrna"; gene_id "gene-LOZ07_003597"; gene_name "ctf18"
+JALBBI010000099.1	Genbank	exon	48335	48773	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003597-T1_mrna"; gene_id "gene-LOZ07_003597"; gene_name "ctf18";
+JALBBI010000099.1	Genbank	exon	48826	51200	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003597-T1_mrna"; gene_id "gene-LOZ07_003597"; gene_name "ctf18";
+JALBBI010000099.1	Genbank	CDS	48335	48773	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003597-T1_mrna"; gene_id "gene-LOZ07_003597"; gene_name "ctf18";
+JALBBI010000099.1	Genbank	CDS	48826	51200	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003597-T1_mrna"; gene_id "gene-LOZ07_003597"; gene_name "ctf18";
+JALBBI010000104.1	Genbank	transcript	2923	3591	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003693-T1_mrna"; gene_id "gene-LOZ07_003693"
+JALBBI010000104.1	Genbank	exon	2923	3591	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003693-T1_mrna"; gene_id "gene-LOZ07_003693";
+JALBBI010000104.1	Genbank	CDS	2923	3591	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003693-T1_mrna"; gene_id "gene-LOZ07_003693";
+JALBBI010000104.1	Genbank	transcript	14998	15962	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003699-T1_mrna"; gene_id "gene-LOZ07_003699"; gene_name "DPH5"
+JALBBI010000104.1	Genbank	exon	14998	15132	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003699-T1_mrna"; gene_id "gene-LOZ07_003699"; gene_name "DPH5";
+JALBBI010000104.1	Genbank	exon	15187	15311	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003699-T1_mrna"; gene_id "gene-LOZ07_003699"; gene_name "DPH5";
+JALBBI010000104.1	Genbank	exon	15365	15962	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003699-T1_mrna"; gene_id "gene-LOZ07_003699"; gene_name "DPH5";
+JALBBI010000104.1	Genbank	CDS	14998	15132	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003699-T1_mrna"; gene_id "gene-LOZ07_003699"; gene_name "DPH5";
+JALBBI010000104.1	Genbank	CDS	15187	15311	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003699-T1_mrna"; gene_id "gene-LOZ07_003699"; gene_name "DPH5";
+JALBBI010000104.1	Genbank	CDS	15365	15962	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003699-T1_mrna"; gene_id "gene-LOZ07_003699"; gene_name "DPH5";
+JALBBI010000104.1	Genbank	transcript	51303	53078	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003712-T1_mrna"; gene_id "gene-LOZ07_003712"; gene_name "prp3"
+JALBBI010000104.1	Genbank	exon	51303	53078	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003712-T1_mrna"; gene_id "gene-LOZ07_003712"; gene_name "prp3";
+JALBBI010000104.1	Genbank	CDS	51303	53078	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003712-T1_mrna"; gene_id "gene-LOZ07_003712"; gene_name "prp3";
+JALBBI010000105.1	Genbank	transcript	29447	30304	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003723-T1_mrna"; gene_id "gene-LOZ07_003723"; gene_name "dot2"
+JALBBI010000105.1	Genbank	exon	29447	29759	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003723-T1_mrna"; gene_id "gene-LOZ07_003723"; gene_name "dot2";
+JALBBI010000105.1	Genbank	exon	29820	30304	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003723-T1_mrna"; gene_id "gene-LOZ07_003723"; gene_name "dot2";
+JALBBI010000105.1	Genbank	CDS	29447	29759	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003723-T1_mrna"; gene_id "gene-LOZ07_003723"; gene_name "dot2";
+JALBBI010000105.1	Genbank	CDS	29820	30304	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003723-T1_mrna"; gene_id "gene-LOZ07_003723"; gene_name "dot2";
+JALBBI010000107.1	Genbank	transcript	17777	18743	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003756-T1_mrna"; gene_id "gene-LOZ07_003756"; gene_name "RPP1"
+JALBBI010000107.1	Genbank	exon	17777	17852	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003756-T1_mrna"; gene_id "gene-LOZ07_003756"; gene_name "RPP1";
+JALBBI010000107.1	Genbank	exon	17908	18743	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003756-T1_mrna"; gene_id "gene-LOZ07_003756"; gene_name "RPP1";
+JALBBI010000107.1	Genbank	CDS	17777	17852	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003756-T1_mrna"; gene_id "gene-LOZ07_003756"; gene_name "RPP1";
+JALBBI010000107.1	Genbank	CDS	17908	18743	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003756-T1_mrna"; gene_id "gene-LOZ07_003756"; gene_name "RPP1";
+JALBBI010000107.1	Genbank	transcript	43936	45147	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003766-T1_mrna"; gene_id "gene-LOZ07_003766"
+JALBBI010000107.1	Genbank	exon	43936	45147	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003766-T1_mrna"; gene_id "gene-LOZ07_003766";
+JALBBI010000107.1	Genbank	CDS	43936	45147	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003766-T1_mrna"; gene_id "gene-LOZ07_003766";
+JALBBI010000112.1	Genbank	transcript	12372	14666	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003860-T1_mrna"; gene_id "gene-LOZ07_003860"; gene_name "DBP6"
+JALBBI010000112.1	Genbank	exon	12372	14666	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003860-T1_mrna"; gene_id "gene-LOZ07_003860"; gene_name "DBP6";
+JALBBI010000112.1	Genbank	CDS	12372	14666	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003860-T1_mrna"; gene_id "gene-LOZ07_003860"; gene_name "DBP6";
+JALBBI010000118.1	Genbank	transcript	47968	49344	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003977-T1_mrna"; gene_id "gene-LOZ07_003977"; gene_name "TMA46"
+JALBBI010000118.1	Genbank	exon	47968	48024	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003977-T1_mrna"; gene_id "gene-LOZ07_003977"; gene_name "TMA46";
+JALBBI010000118.1	Genbank	exon	48083	48100	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003977-T1_mrna"; gene_id "gene-LOZ07_003977"; gene_name "TMA46";
+JALBBI010000118.1	Genbank	exon	48288	48826	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003977-T1_mrna"; gene_id "gene-LOZ07_003977"; gene_name "TMA46";
+JALBBI010000118.1	Genbank	exon	48900	49344	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003977-T1_mrna"; gene_id "gene-LOZ07_003977"; gene_name "TMA46";
+JALBBI010000118.1	Genbank	CDS	47968	48024	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003977-T1_mrna"; gene_id "gene-LOZ07_003977"; gene_name "TMA46";
+JALBBI010000118.1	Genbank	CDS	48083	48100	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003977-T1_mrna"; gene_id "gene-LOZ07_003977"; gene_name "TMA46";
+JALBBI010000118.1	Genbank	CDS	48288	48826	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003977-T1_mrna"; gene_id "gene-LOZ07_003977"; gene_name "TMA46";
+JALBBI010000118.1	Genbank	CDS	48900	49344	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003977-T1_mrna"; gene_id "gene-LOZ07_003977"; gene_name "TMA46";
+JALBBI010000119.1	Genbank	transcript	21316	22385	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003988-T1_mrna"; gene_id "gene-LOZ07_003988"; gene_name "LIA1"
+JALBBI010000119.1	Genbank	exon	21316	21815	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003988-T1_mrna"; gene_id "gene-LOZ07_003988"; gene_name "LIA1";
+JALBBI010000119.1	Genbank	exon	21875	22385	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003988-T1_mrna"; gene_id "gene-LOZ07_003988"; gene_name "LIA1";
+JALBBI010000119.1	Genbank	CDS	21316	21815	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003988-T1_mrna"; gene_id "gene-LOZ07_003988"; gene_name "LIA1";
+JALBBI010000119.1	Genbank	CDS	21875	22385	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003988-T1_mrna"; gene_id "gene-LOZ07_003988"; gene_name "LIA1";
+JALBBI010000119.1	Genbank	transcript	35511	37723	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003993-T1_mrna"; gene_id "gene-LOZ07_003993"; gene_name "ESF1"
+JALBBI010000119.1	Genbank	exon	35511	35583	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003993-T1_mrna"; gene_id "gene-LOZ07_003993"; gene_name "ESF1";
+JALBBI010000119.1	Genbank	exon	35649	37723	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003993-T1_mrna"; gene_id "gene-LOZ07_003993"; gene_name "ESF1";
+JALBBI010000119.1	Genbank	CDS	35511	35583	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003993-T1_mrna"; gene_id "gene-LOZ07_003993"; gene_name "ESF1";
+JALBBI010000119.1	Genbank	CDS	35649	37723	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_003993-T1_mrna"; gene_id "gene-LOZ07_003993"; gene_name "ESF1";
+JALBBI010000121.1	Genbank	transcript	33903	36200	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004027-T1_mrna"; gene_id "gene-LOZ07_004027"; gene_name "DBP7"
+JALBBI010000121.1	Genbank	exon	33903	36200	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004027-T1_mrna"; gene_id "gene-LOZ07_004027"; gene_name "DBP7";
+JALBBI010000121.1	Genbank	CDS	33903	36200	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004027-T1_mrna"; gene_id "gene-LOZ07_004027"; gene_name "DBP7";
+JALBBI010000122.1	Genbank	transcript	11501	13019	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004043-T1_mrna"; gene_id "gene-LOZ07_004043"; gene_name "ALG7"
+JALBBI010000122.1	Genbank	exon	11501	11733	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004043-T1_mrna"; gene_id "gene-LOZ07_004043"; gene_name "ALG7";
+JALBBI010000122.1	Genbank	exon	11790	11970	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004043-T1_mrna"; gene_id "gene-LOZ07_004043"; gene_name "ALG7";
+JALBBI010000122.1	Genbank	exon	12036	13019	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004043-T1_mrna"; gene_id "gene-LOZ07_004043"; gene_name "ALG7";
+JALBBI010000122.1	Genbank	CDS	11501	11733	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004043-T1_mrna"; gene_id "gene-LOZ07_004043"; gene_name "ALG7";
+JALBBI010000122.1	Genbank	CDS	11790	11970	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004043-T1_mrna"; gene_id "gene-LOZ07_004043"; gene_name "ALG7";
+JALBBI010000122.1	Genbank	CDS	12036	13019	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004043-T1_mrna"; gene_id "gene-LOZ07_004043"; gene_name "ALG7";
+JALBBI010000126.1	Genbank	transcript	633	1970	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004118-T1_mrna"; gene_id "gene-LOZ07_004118"; gene_name "DOM34"
+JALBBI010000126.1	Genbank	exon	633	1292	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004118-T1_mrna"; gene_id "gene-LOZ07_004118"; gene_name "DOM34";
+JALBBI010000126.1	Genbank	exon	1352	1840	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004118-T1_mrna"; gene_id "gene-LOZ07_004118"; gene_name "DOM34";
+JALBBI010000126.1	Genbank	exon	1893	1970	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004118-T1_mrna"; gene_id "gene-LOZ07_004118"; gene_name "DOM34";
+JALBBI010000126.1	Genbank	CDS	633	1292	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004118-T1_mrna"; gene_id "gene-LOZ07_004118"; gene_name "DOM34";
+JALBBI010000126.1	Genbank	CDS	1352	1840	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004118-T1_mrna"; gene_id "gene-LOZ07_004118"; gene_name "DOM34";
+JALBBI010000126.1	Genbank	CDS	1893	1970	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004118-T1_mrna"; gene_id "gene-LOZ07_004118"; gene_name "DOM34";
+JALBBI010000127.1	Genbank	transcript	14225	14995	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004143-T1_mrna"; gene_id "gene-LOZ07_004143"; gene_name "NOP16"
+JALBBI010000127.1	Genbank	exon	14225	14352	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004143-T1_mrna"; gene_id "gene-LOZ07_004143"; gene_name "NOP16";
+JALBBI010000127.1	Genbank	exon	14410	14995	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004143-T1_mrna"; gene_id "gene-LOZ07_004143"; gene_name "NOP16";
+JALBBI010000127.1	Genbank	CDS	14225	14352	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004143-T1_mrna"; gene_id "gene-LOZ07_004143"; gene_name "NOP16";
+JALBBI010000127.1	Genbank	CDS	14410	14995	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004143-T1_mrna"; gene_id "gene-LOZ07_004143"; gene_name "NOP16";
+JALBBI010000131.1	Genbank	transcript	13750	14539	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004218-T1_mrna"; gene_id "gene-LOZ07_004218"; gene_name "sap62"
+JALBBI010000131.1	Genbank	exon	13750	14463	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004218-T1_mrna"; gene_id "gene-LOZ07_004218"; gene_name "sap62";
+JALBBI010000131.1	Genbank	exon	14528	14539	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004218-T1_mrna"; gene_id "gene-LOZ07_004218"; gene_name "sap62";
+JALBBI010000131.1	Genbank	CDS	13750	14463	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004218-T1_mrna"; gene_id "gene-LOZ07_004218"; gene_name "sap62";
+JALBBI010000131.1	Genbank	CDS	14528	14539	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004218-T1_mrna"; gene_id "gene-LOZ07_004218"; gene_name "sap62";
+JALBBI010000131.1	Genbank	transcript	29684	30929	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004224-T1_mrna"; gene_id "gene-LOZ07_004224"
+JALBBI010000131.1	Genbank	exon	29684	29726	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004224-T1_mrna"; gene_id "gene-LOZ07_004224";
+JALBBI010000131.1	Genbank	exon	29803	30929	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004224-T1_mrna"; gene_id "gene-LOZ07_004224";
+JALBBI010000131.1	Genbank	CDS	29684	29726	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004224-T1_mrna"; gene_id "gene-LOZ07_004224";
+JALBBI010000131.1	Genbank	CDS	29803	30929	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004224-T1_mrna"; gene_id "gene-LOZ07_004224";
+JALBBI010000131.1	Genbank	transcript	46237	48244	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004232-T1_mrna"; gene_id "gene-LOZ07_004232"; gene_name "TFB1"
+JALBBI010000131.1	Genbank	exon	46237	46387	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004232-T1_mrna"; gene_id "gene-LOZ07_004232"; gene_name "TFB1";
+JALBBI010000131.1	Genbank	exon	46491	48244	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004232-T1_mrna"; gene_id "gene-LOZ07_004232"; gene_name "TFB1";
+JALBBI010000131.1	Genbank	CDS	46237	46387	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004232-T1_mrna"; gene_id "gene-LOZ07_004232"; gene_name "TFB1";
+JALBBI010000131.1	Genbank	CDS	46491	48244	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004232-T1_mrna"; gene_id "gene-LOZ07_004232"; gene_name "TFB1";
+JALBBI010000132.1	Genbank	transcript	41493	42989	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004249-T1_mrna"; gene_id "gene-LOZ07_004249"; gene_name "TRM61"
+JALBBI010000132.1	Genbank	exon	41493	42989	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004249-T1_mrna"; gene_id "gene-LOZ07_004249"; gene_name "TRM61";
+JALBBI010000132.1	Genbank	CDS	41493	42989	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004249-T1_mrna"; gene_id "gene-LOZ07_004249"; gene_name "TRM61";
+JALBBI010000135.1	Genbank	transcript	40871	42280	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004310-T1_mrna"; gene_id "gene-LOZ07_004310"; gene_name "MSW1"
+JALBBI010000135.1	Genbank	exon	40871	41251	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004310-T1_mrna"; gene_id "gene-LOZ07_004310"; gene_name "MSW1";
+JALBBI010000135.1	Genbank	exon	41309	41389	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004310-T1_mrna"; gene_id "gene-LOZ07_004310"; gene_name "MSW1";
+JALBBI010000135.1	Genbank	exon	41461	41576	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004310-T1_mrna"; gene_id "gene-LOZ07_004310"; gene_name "MSW1";
+JALBBI010000135.1	Genbank	exon	41640	41758	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004310-T1_mrna"; gene_id "gene-LOZ07_004310"; gene_name "MSW1";
+JALBBI010000135.1	Genbank	exon	41817	42280	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004310-T1_mrna"; gene_id "gene-LOZ07_004310"; gene_name "MSW1";
+JALBBI010000135.1	Genbank	CDS	40871	41251	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004310-T1_mrna"; gene_id "gene-LOZ07_004310"; gene_name "MSW1";
+JALBBI010000135.1	Genbank	CDS	41309	41389	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004310-T1_mrna"; gene_id "gene-LOZ07_004310"; gene_name "MSW1";
+JALBBI010000135.1	Genbank	CDS	41461	41576	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004310-T1_mrna"; gene_id "gene-LOZ07_004310"; gene_name "MSW1";
+JALBBI010000135.1	Genbank	CDS	41640	41758	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004310-T1_mrna"; gene_id "gene-LOZ07_004310"; gene_name "MSW1";
+JALBBI010000135.1	Genbank	CDS	41817	42280	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004310-T1_mrna"; gene_id "gene-LOZ07_004310"; gene_name "MSW1";
+JALBBI010000137.1	Genbank	transcript	40766	41598	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004344-T1_mrna"; gene_id "gene-LOZ07_004344"; gene_name "SLD5"
+JALBBI010000137.1	Genbank	exon	40766	41338	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004344-T1_mrna"; gene_id "gene-LOZ07_004344"; gene_name "SLD5";
+JALBBI010000137.1	Genbank	exon	41419	41598	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004344-T1_mrna"; gene_id "gene-LOZ07_004344"; gene_name "SLD5";
+JALBBI010000137.1	Genbank	CDS	40766	41338	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004344-T1_mrna"; gene_id "gene-LOZ07_004344"; gene_name "SLD5";
+JALBBI010000137.1	Genbank	CDS	41419	41598	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004344-T1_mrna"; gene_id "gene-LOZ07_004344"; gene_name "SLD5";
+JALBBI010000138.1	Genbank	transcript	19398	20929	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004355-T1_mrna"; gene_id "gene-LOZ07_004355"; gene_name "MAK11"
+JALBBI010000138.1	Genbank	exon	19398	19988	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004355-T1_mrna"; gene_id "gene-LOZ07_004355"; gene_name "MAK11";
+JALBBI010000138.1	Genbank	exon	20048	20929	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004355-T1_mrna"; gene_id "gene-LOZ07_004355"; gene_name "MAK11";
+JALBBI010000138.1	Genbank	CDS	19398	19988	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004355-T1_mrna"; gene_id "gene-LOZ07_004355"; gene_name "MAK11";
+JALBBI010000138.1	Genbank	CDS	20048	20929	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004355-T1_mrna"; gene_id "gene-LOZ07_004355"; gene_name "MAK11";
+JALBBI010000138.1	Genbank	transcript	30808	33778	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004359-T1_mrna"; gene_id "gene-LOZ07_004359"; gene_name "utp13"
+JALBBI010000138.1	Genbank	exon	30808	33540	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004359-T1_mrna"; gene_id "gene-LOZ07_004359"; gene_name "utp13";
+JALBBI010000138.1	Genbank	exon	33605	33778	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004359-T1_mrna"; gene_id "gene-LOZ07_004359"; gene_name "utp13";
+JALBBI010000138.1	Genbank	CDS	30808	33540	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004359-T1_mrna"; gene_id "gene-LOZ07_004359"; gene_name "utp13";
+JALBBI010000138.1	Genbank	CDS	33605	33778	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004359-T1_mrna"; gene_id "gene-LOZ07_004359"; gene_name "utp13";
+JALBBI010000138.1	Genbank	transcript	40382	42254	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004363-T1_mrna"; gene_id "gene-LOZ07_004363"; gene_name "RRP9"
+JALBBI010000138.1	Genbank	exon	40382	40756	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004363-T1_mrna"; gene_id "gene-LOZ07_004363"; gene_name "RRP9";
+JALBBI010000138.1	Genbank	exon	40818	42254	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004363-T1_mrna"; gene_id "gene-LOZ07_004363"; gene_name "RRP9";
+JALBBI010000138.1	Genbank	CDS	40382	40756	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004363-T1_mrna"; gene_id "gene-LOZ07_004363"; gene_name "RRP9";
+JALBBI010000138.1	Genbank	CDS	40818	42254	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004363-T1_mrna"; gene_id "gene-LOZ07_004363"; gene_name "RRP9";
+JALBBI010000140.1	Genbank	transcript	21134	23254	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004392-T1_mrna"; gene_id "gene-LOZ07_004392"; gene_name "srp72"
+JALBBI010000140.1	Genbank	exon	21134	22334	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004392-T1_mrna"; gene_id "gene-LOZ07_004392"; gene_name "srp72";
+JALBBI010000140.1	Genbank	exon	22386	22530	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004392-T1_mrna"; gene_id "gene-LOZ07_004392"; gene_name "srp72";
+JALBBI010000140.1	Genbank	exon	22588	22861	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004392-T1_mrna"; gene_id "gene-LOZ07_004392"; gene_name "srp72";
+JALBBI010000140.1	Genbank	exon	22934	23254	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004392-T1_mrna"; gene_id "gene-LOZ07_004392"; gene_name "srp72";
+JALBBI010000140.1	Genbank	CDS	21134	22334	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004392-T1_mrna"; gene_id "gene-LOZ07_004392"; gene_name "srp72";
+JALBBI010000140.1	Genbank	CDS	22386	22530	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004392-T1_mrna"; gene_id "gene-LOZ07_004392"; gene_name "srp72";
+JALBBI010000140.1	Genbank	CDS	22588	22861	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004392-T1_mrna"; gene_id "gene-LOZ07_004392"; gene_name "srp72";
+JALBBI010000140.1	Genbank	CDS	22934	23254	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004392-T1_mrna"; gene_id "gene-LOZ07_004392"; gene_name "srp72";
+JALBBI010000142.1	Genbank	transcript	17200	18023	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004424-T1_mrna"; gene_id "gene-LOZ07_004424"; gene_name "TMA20"
+JALBBI010000142.1	Genbank	exon	17200	17605	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004424-T1_mrna"; gene_id "gene-LOZ07_004424"; gene_name "TMA20";
+JALBBI010000142.1	Genbank	exon	17673	17813	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004424-T1_mrna"; gene_id "gene-LOZ07_004424"; gene_name "TMA20";
+JALBBI010000142.1	Genbank	exon	18010	18023	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004424-T1_mrna"; gene_id "gene-LOZ07_004424"; gene_name "TMA20";
+JALBBI010000142.1	Genbank	CDS	17200	17605	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004424-T1_mrna"; gene_id "gene-LOZ07_004424"; gene_name "TMA20";
+JALBBI010000142.1	Genbank	CDS	17673	17813	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004424-T1_mrna"; gene_id "gene-LOZ07_004424"; gene_name "TMA20";
+JALBBI010000142.1	Genbank	CDS	18010	18023	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004424-T1_mrna"; gene_id "gene-LOZ07_004424"; gene_name "TMA20";
+JALBBI010000142.1	Genbank	transcript	20462	23963	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004426-T1_mrna"; gene_id "gene-LOZ07_004426"; gene_name "HIR1"
+JALBBI010000142.1	Genbank	exon	20462	20559	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004426-T1_mrna"; gene_id "gene-LOZ07_004426"; gene_name "HIR1";
+JALBBI010000142.1	Genbank	exon	20617	23370	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004426-T1_mrna"; gene_id "gene-LOZ07_004426"; gene_name "HIR1";
+JALBBI010000142.1	Genbank	exon	23435	23656	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004426-T1_mrna"; gene_id "gene-LOZ07_004426"; gene_name "HIR1";
+JALBBI010000142.1	Genbank	exon	23778	23852	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004426-T1_mrna"; gene_id "gene-LOZ07_004426"; gene_name "HIR1";
+JALBBI010000142.1	Genbank	exon	23927	23963	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004426-T1_mrna"; gene_id "gene-LOZ07_004426"; gene_name "HIR1";
+JALBBI010000142.1	Genbank	CDS	20462	20559	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004426-T1_mrna"; gene_id "gene-LOZ07_004426"; gene_name "HIR1";
+JALBBI010000142.1	Genbank	CDS	20617	23370	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004426-T1_mrna"; gene_id "gene-LOZ07_004426"; gene_name "HIR1";
+JALBBI010000142.1	Genbank	CDS	23435	23656	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004426-T1_mrna"; gene_id "gene-LOZ07_004426"; gene_name "HIR1";
+JALBBI010000142.1	Genbank	CDS	23778	23852	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004426-T1_mrna"; gene_id "gene-LOZ07_004426"; gene_name "HIR1";
+JALBBI010000142.1	Genbank	CDS	23927	23963	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004426-T1_mrna"; gene_id "gene-LOZ07_004426"; gene_name "HIR1";
+JALBBI010000143.1	Genbank	transcript	35557	36519	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004436-T1_mrna"; gene_id "gene-LOZ07_004436"; gene_name "BCP1"
+JALBBI010000143.1	Genbank	exon	35557	35622	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004436-T1_mrna"; gene_id "gene-LOZ07_004436"; gene_name "BCP1";
+JALBBI010000143.1	Genbank	exon	35677	35913	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004436-T1_mrna"; gene_id "gene-LOZ07_004436"; gene_name "BCP1";
+JALBBI010000143.1	Genbank	exon	35971	36519	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004436-T1_mrna"; gene_id "gene-LOZ07_004436"; gene_name "BCP1";
+JALBBI010000143.1	Genbank	CDS	35557	35622	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004436-T1_mrna"; gene_id "gene-LOZ07_004436"; gene_name "BCP1";
+JALBBI010000143.1	Genbank	CDS	35677	35913	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004436-T1_mrna"; gene_id "gene-LOZ07_004436"; gene_name "BCP1";
+JALBBI010000143.1	Genbank	CDS	35971	36519	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004436-T1_mrna"; gene_id "gene-LOZ07_004436"; gene_name "BCP1";
+JALBBI010000148.1	Genbank	transcript	20823	22501	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004515-T1_mrna"; gene_id "gene-LOZ07_004515"
+JALBBI010000148.1	Genbank	exon	20823	21214	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004515-T1_mrna"; gene_id "gene-LOZ07_004515";
+JALBBI010000148.1	Genbank	exon	21288	21623	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004515-T1_mrna"; gene_id "gene-LOZ07_004515";
+JALBBI010000148.1	Genbank	exon	21664	22501	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004515-T1_mrna"; gene_id "gene-LOZ07_004515";
+JALBBI010000148.1	Genbank	CDS	20823	21214	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004515-T1_mrna"; gene_id "gene-LOZ07_004515";
+JALBBI010000148.1	Genbank	CDS	21288	21623	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004515-T1_mrna"; gene_id "gene-LOZ07_004515";
+JALBBI010000148.1	Genbank	CDS	21664	22501	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004515-T1_mrna"; gene_id "gene-LOZ07_004515";
+JALBBI010000163.1	Genbank	transcript	11876	12620	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004748-T1_mrna"; gene_id "gene-LOZ07_004748"; gene_name "GIR2"
+JALBBI010000163.1	Genbank	exon	11876	12498	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004748-T1_mrna"; gene_id "gene-LOZ07_004748"; gene_name "GIR2";
+JALBBI010000163.1	Genbank	exon	12554	12620	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004748-T1_mrna"; gene_id "gene-LOZ07_004748"; gene_name "GIR2";
+JALBBI010000163.1	Genbank	CDS	11876	12498	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004748-T1_mrna"; gene_id "gene-LOZ07_004748"; gene_name "GIR2";
+JALBBI010000163.1	Genbank	CDS	12554	12620	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004748-T1_mrna"; gene_id "gene-LOZ07_004748"; gene_name "GIR2";
+JALBBI010000164.1	Genbank	transcript	26392	27439	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004770-T1_mrna"; gene_id "gene-LOZ07_004770"; gene_name "NSA2"
+JALBBI010000164.1	Genbank	exon	26392	26407	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004770-T1_mrna"; gene_id "gene-LOZ07_004770"; gene_name "NSA2";
+JALBBI010000164.1	Genbank	exon	26502	27221	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004770-T1_mrna"; gene_id "gene-LOZ07_004770"; gene_name "NSA2";
+JALBBI010000164.1	Genbank	exon	27280	27315	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004770-T1_mrna"; gene_id "gene-LOZ07_004770"; gene_name "NSA2";
+JALBBI010000164.1	Genbank	exon	27369	27379	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004770-T1_mrna"; gene_id "gene-LOZ07_004770"; gene_name "NSA2";
+JALBBI010000164.1	Genbank	exon	27437	27439	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004770-T1_mrna"; gene_id "gene-LOZ07_004770"; gene_name "NSA2";
+JALBBI010000164.1	Genbank	CDS	26392	26407	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004770-T1_mrna"; gene_id "gene-LOZ07_004770"; gene_name "NSA2";
+JALBBI010000164.1	Genbank	CDS	26502	27221	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004770-T1_mrna"; gene_id "gene-LOZ07_004770"; gene_name "NSA2";
+JALBBI010000164.1	Genbank	CDS	27280	27315	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004770-T1_mrna"; gene_id "gene-LOZ07_004770"; gene_name "NSA2";
+JALBBI010000164.1	Genbank	CDS	27369	27379	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004770-T1_mrna"; gene_id "gene-LOZ07_004770"; gene_name "NSA2";
+JALBBI010000164.1	Genbank	CDS	27437	27439	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004770-T1_mrna"; gene_id "gene-LOZ07_004770"; gene_name "NSA2";
+JALBBI010000164.1	Genbank	transcript	29132	33946	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004772-T1_mrna"; gene_id "gene-LOZ07_004772"
+JALBBI010000164.1	Genbank	exon	29132	31634	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004772-T1_mrna"; gene_id "gene-LOZ07_004772";
+JALBBI010000164.1	Genbank	exon	31713	31732	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004772-T1_mrna"; gene_id "gene-LOZ07_004772";
+JALBBI010000164.1	Genbank	exon	32335	33420	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004772-T1_mrna"; gene_id "gene-LOZ07_004772";
+JALBBI010000164.1	Genbank	exon	33480	33644	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004772-T1_mrna"; gene_id "gene-LOZ07_004772";
+JALBBI010000164.1	Genbank	exon	33703	33793	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004772-T1_mrna"; gene_id "gene-LOZ07_004772";
+JALBBI010000164.1	Genbank	exon	33843	33946	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004772-T1_mrna"; gene_id "gene-LOZ07_004772";
+JALBBI010000164.1	Genbank	CDS	29132	31634	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004772-T1_mrna"; gene_id "gene-LOZ07_004772";
+JALBBI010000164.1	Genbank	CDS	31713	31732	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004772-T1_mrna"; gene_id "gene-LOZ07_004772";
+JALBBI010000164.1	Genbank	CDS	32335	33420	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004772-T1_mrna"; gene_id "gene-LOZ07_004772";
+JALBBI010000164.1	Genbank	CDS	33480	33644	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004772-T1_mrna"; gene_id "gene-LOZ07_004772";
+JALBBI010000164.1	Genbank	CDS	33703	33793	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004772-T1_mrna"; gene_id "gene-LOZ07_004772";
+JALBBI010000164.1	Genbank	CDS	33843	33946	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_004772-T1_mrna"; gene_id "gene-LOZ07_004772";
+JALBBI010000191.1	Genbank	transcript	34288	35451	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005114-T1_mrna"; gene_id "gene-LOZ07_005114"; gene_name "KRR1"
+JALBBI010000191.1	Genbank	exon	34288	35004	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005114-T1_mrna"; gene_id "gene-LOZ07_005114"; gene_name "KRR1";
+JALBBI010000191.1	Genbank	exon	35068	35340	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005114-T1_mrna"; gene_id "gene-LOZ07_005114"; gene_name "KRR1";
+JALBBI010000191.1	Genbank	exon	35392	35451	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005114-T1_mrna"; gene_id "gene-LOZ07_005114"; gene_name "KRR1";
+JALBBI010000191.1	Genbank	CDS	34288	35004	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005114-T1_mrna"; gene_id "gene-LOZ07_005114"; gene_name "KRR1";
+JALBBI010000191.1	Genbank	CDS	35068	35340	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005114-T1_mrna"; gene_id "gene-LOZ07_005114"; gene_name "KRR1";
+JALBBI010000191.1	Genbank	CDS	35392	35451	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005114-T1_mrna"; gene_id "gene-LOZ07_005114"; gene_name "KRR1";
+JALBBI010000199.1	Genbank	transcript	33195	34349	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005207-T1_mrna"; gene_id "gene-LOZ07_005207"; gene_name "MED6"
+JALBBI010000199.1	Genbank	exon	33195	33201	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005207-T1_mrna"; gene_id "gene-LOZ07_005207"; gene_name "MED6";
+JALBBI010000199.1	Genbank	exon	33328	33713	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005207-T1_mrna"; gene_id "gene-LOZ07_005207"; gene_name "MED6";
+JALBBI010000199.1	Genbank	exon	33774	34349	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005207-T1_mrna"; gene_id "gene-LOZ07_005207"; gene_name "MED6";
+JALBBI010000199.1	Genbank	CDS	33195	33201	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005207-T1_mrna"; gene_id "gene-LOZ07_005207"; gene_name "MED6";
+JALBBI010000199.1	Genbank	CDS	33328	33713	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005207-T1_mrna"; gene_id "gene-LOZ07_005207"; gene_name "MED6";
+JALBBI010000199.1	Genbank	CDS	33774	34349	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005207-T1_mrna"; gene_id "gene-LOZ07_005207"; gene_name "MED6";
+JALBBI010000200.1	Genbank	transcript	2233	3678	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005208-T1_mrna"; gene_id "gene-LOZ07_005208"; gene_name "COG5"
+JALBBI010000200.1	Genbank	exon	2233	3678	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005208-T1_mrna"; gene_id "gene-LOZ07_005208"; gene_name "COG5";
+JALBBI010000200.1	Genbank	CDS	2233	3678	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005208-T1_mrna"; gene_id "gene-LOZ07_005208"; gene_name "COG5";
+JALBBI010000204.1	Genbank	transcript	63	1781	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005261-T1_mrna"; gene_id "gene-LOZ07_005261"; gene_name "CSN12"
+JALBBI010000204.1	Genbank	exon	63	141	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005261-T1_mrna"; gene_id "gene-LOZ07_005261"; gene_name "CSN12";
+JALBBI010000204.1	Genbank	exon	215	698	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005261-T1_mrna"; gene_id "gene-LOZ07_005261"; gene_name "CSN12";
+JALBBI010000204.1	Genbank	exon	748	809	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005261-T1_mrna"; gene_id "gene-LOZ07_005261"; gene_name "CSN12";
+JALBBI010000204.1	Genbank	exon	866	1018	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005261-T1_mrna"; gene_id "gene-LOZ07_005261"; gene_name "CSN12";
+JALBBI010000204.1	Genbank	exon	1080	1152	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005261-T1_mrna"; gene_id "gene-LOZ07_005261"; gene_name "CSN12";
+JALBBI010000204.1	Genbank	exon	1216	1781	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005261-T1_mrna"; gene_id "gene-LOZ07_005261"; gene_name "CSN12";
+JALBBI010000204.1	Genbank	CDS	63	141	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005261-T1_mrna"; gene_id "gene-LOZ07_005261"; gene_name "CSN12";
+JALBBI010000204.1	Genbank	CDS	215	698	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005261-T1_mrna"; gene_id "gene-LOZ07_005261"; gene_name "CSN12";
+JALBBI010000204.1	Genbank	CDS	748	809	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005261-T1_mrna"; gene_id "gene-LOZ07_005261"; gene_name "CSN12";
+JALBBI010000204.1	Genbank	CDS	866	1018	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005261-T1_mrna"; gene_id "gene-LOZ07_005261"; gene_name "CSN12";
+JALBBI010000204.1	Genbank	CDS	1080	1152	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005261-T1_mrna"; gene_id "gene-LOZ07_005261"; gene_name "CSN12";
+JALBBI010000204.1	Genbank	CDS	1216	1781	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005261-T1_mrna"; gene_id "gene-LOZ07_005261"; gene_name "CSN12";
+JALBBI010000206.1	Genbank	transcript	28424	30899	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005297-T1_mrna"; gene_id "gene-LOZ07_005297"; gene_name "COG3"
+JALBBI010000206.1	Genbank	exon	28424	29224	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005297-T1_mrna"; gene_id "gene-LOZ07_005297"; gene_name "COG3";
+JALBBI010000206.1	Genbank	exon	29281	30288	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005297-T1_mrna"; gene_id "gene-LOZ07_005297"; gene_name "COG3";
+JALBBI010000206.1	Genbank	exon	30352	30691	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005297-T1_mrna"; gene_id "gene-LOZ07_005297"; gene_name "COG3";
+JALBBI010000206.1	Genbank	exon	30754	30899	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005297-T1_mrna"; gene_id "gene-LOZ07_005297"; gene_name "COG3";
+JALBBI010000206.1	Genbank	CDS	28424	29224	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005297-T1_mrna"; gene_id "gene-LOZ07_005297"; gene_name "COG3";
+JALBBI010000206.1	Genbank	CDS	29281	30288	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005297-T1_mrna"; gene_id "gene-LOZ07_005297"; gene_name "COG3";
+JALBBI010000206.1	Genbank	CDS	30352	30691	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005297-T1_mrna"; gene_id "gene-LOZ07_005297"; gene_name "COG3";
+JALBBI010000206.1	Genbank	CDS	30754	30899	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005297-T1_mrna"; gene_id "gene-LOZ07_005297"; gene_name "COG3";
+JALBBI010000210.1	Genbank	transcript	12072	14152	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005344-T1_mrna"; gene_id "gene-LOZ07_005344"; gene_name "SPB4"
+JALBBI010000210.1	Genbank	exon	12072	13224	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005344-T1_mrna"; gene_id "gene-LOZ07_005344"; gene_name "SPB4";
+JALBBI010000210.1	Genbank	exon	13277	13801	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005344-T1_mrna"; gene_id "gene-LOZ07_005344"; gene_name "SPB4";
+JALBBI010000210.1	Genbank	exon	13866	14152	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005344-T1_mrna"; gene_id "gene-LOZ07_005344"; gene_name "SPB4";
+JALBBI010000210.1	Genbank	CDS	12072	13224	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005344-T1_mrna"; gene_id "gene-LOZ07_005344"; gene_name "SPB4";
+JALBBI010000210.1	Genbank	CDS	13277	13801	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005344-T1_mrna"; gene_id "gene-LOZ07_005344"; gene_name "SPB4";
+JALBBI010000210.1	Genbank	CDS	13866	14152	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005344-T1_mrna"; gene_id "gene-LOZ07_005344"; gene_name "SPB4";
+JALBBI010000212.1	Genbank	transcript	26630	28437	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005374-T1_mrna"; gene_id "gene-LOZ07_005374"
+JALBBI010000212.1	Genbank	exon	26630	27310	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005374-T1_mrna"; gene_id "gene-LOZ07_005374";
+JALBBI010000212.1	Genbank	exon	27361	28437	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005374-T1_mrna"; gene_id "gene-LOZ07_005374";
+JALBBI010000212.1	Genbank	CDS	26630	27310	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005374-T1_mrna"; gene_id "gene-LOZ07_005374";
+JALBBI010000212.1	Genbank	CDS	27361	28437	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005374-T1_mrna"; gene_id "gene-LOZ07_005374";
+JALBBI010000214.1	Genbank	transcript	24312	25964	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005398-T1_mrna"; gene_id "gene-LOZ07_005398"; gene_name "UBA4"
+JALBBI010000214.1	Genbank	exon	24312	24603	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005398-T1_mrna"; gene_id "gene-LOZ07_005398"; gene_name "UBA4";
+JALBBI010000214.1	Genbank	exon	24672	24885	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005398-T1_mrna"; gene_id "gene-LOZ07_005398"; gene_name "UBA4";
+JALBBI010000214.1	Genbank	exon	24950	25964	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005398-T1_mrna"; gene_id "gene-LOZ07_005398"; gene_name "UBA4";
+JALBBI010000214.1	Genbank	CDS	24312	24603	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005398-T1_mrna"; gene_id "gene-LOZ07_005398"; gene_name "UBA4";
+JALBBI010000214.1	Genbank	CDS	24672	24885	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005398-T1_mrna"; gene_id "gene-LOZ07_005398"; gene_name "UBA4";
+JALBBI010000214.1	Genbank	CDS	24950	25964	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005398-T1_mrna"; gene_id "gene-LOZ07_005398"; gene_name "UBA4";
+JALBBI010000219.1	Genbank	transcript	5683	7009	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005443-T1_mrna"; gene_id "gene-LOZ07_005443"
+JALBBI010000219.1	Genbank	exon	5683	6915	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005443-T1_mrna"; gene_id "gene-LOZ07_005443";
+JALBBI010000219.1	Genbank	exon	6980	7009	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005443-T1_mrna"; gene_id "gene-LOZ07_005443";
+JALBBI010000219.1	Genbank	CDS	5683	6915	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005443-T1_mrna"; gene_id "gene-LOZ07_005443";
+JALBBI010000219.1	Genbank	CDS	6980	7009	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005443-T1_mrna"; gene_id "gene-LOZ07_005443";
+JALBBI010000221.1	Genbank	transcript	27215	28513	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005469-T1_mrna"; gene_id "gene-LOZ07_005469"
+JALBBI010000221.1	Genbank	exon	27215	27794	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005469-T1_mrna"; gene_id "gene-LOZ07_005469";
+JALBBI010000221.1	Genbank	exon	27861	28330	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005469-T1_mrna"; gene_id "gene-LOZ07_005469";
+JALBBI010000221.1	Genbank	exon	28414	28453	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005469-T1_mrna"; gene_id "gene-LOZ07_005469";
+JALBBI010000221.1	Genbank	exon	28506	28513	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005469-T1_mrna"; gene_id "gene-LOZ07_005469";
+JALBBI010000221.1	Genbank	CDS	27215	27794	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005469-T1_mrna"; gene_id "gene-LOZ07_005469";
+JALBBI010000221.1	Genbank	CDS	27861	28330	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005469-T1_mrna"; gene_id "gene-LOZ07_005469";
+JALBBI010000221.1	Genbank	CDS	28414	28453	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005469-T1_mrna"; gene_id "gene-LOZ07_005469";
+JALBBI010000221.1	Genbank	CDS	28506	28513	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005469-T1_mrna"; gene_id "gene-LOZ07_005469";
+JALBBI010000225.1	Genbank	transcript	27301	28452	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005516-T1_mrna"; gene_id "gene-LOZ07_005516"
+JALBBI010000225.1	Genbank	exon	27301	28313	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005516-T1_mrna"; gene_id "gene-LOZ07_005516";
+JALBBI010000225.1	Genbank	exon	28380	28452	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005516-T1_mrna"; gene_id "gene-LOZ07_005516";
+JALBBI010000225.1	Genbank	CDS	27301	28313	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005516-T1_mrna"; gene_id "gene-LOZ07_005516";
+JALBBI010000225.1	Genbank	CDS	28380	28452	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005516-T1_mrna"; gene_id "gene-LOZ07_005516";
+JALBBI010000233.1	Genbank	transcript	19139	20300	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005597-T1_mrna"; gene_id "gene-LOZ07_005597"; gene_name "ATG3"
+JALBBI010000233.1	Genbank	exon	19139	19703	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005597-T1_mrna"; gene_id "gene-LOZ07_005597"; gene_name "ATG3";
+JALBBI010000233.1	Genbank	exon	19780	20300	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005597-T1_mrna"; gene_id "gene-LOZ07_005597"; gene_name "ATG3";
+JALBBI010000233.1	Genbank	CDS	19139	19703	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005597-T1_mrna"; gene_id "gene-LOZ07_005597"; gene_name "ATG3";
+JALBBI010000233.1	Genbank	CDS	19780	20300	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005597-T1_mrna"; gene_id "gene-LOZ07_005597"; gene_name "ATG3";
+JALBBI010000236.1	Genbank	transcript	6293	7388	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005619-T1_mrna"; gene_id "gene-LOZ07_005619"; gene_name "SHY1"
+JALBBI010000236.1	Genbank	exon	6293	6395	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005619-T1_mrna"; gene_id "gene-LOZ07_005619"; gene_name "SHY1";
+JALBBI010000236.1	Genbank	exon	6455	6560	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005619-T1_mrna"; gene_id "gene-LOZ07_005619"; gene_name "SHY1";
+JALBBI010000236.1	Genbank	exon	6608	7120	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005619-T1_mrna"; gene_id "gene-LOZ07_005619"; gene_name "SHY1";
+JALBBI010000236.1	Genbank	exon	7178	7388	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005619-T1_mrna"; gene_id "gene-LOZ07_005619"; gene_name "SHY1";
+JALBBI010000236.1	Genbank	CDS	6293	6395	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005619-T1_mrna"; gene_id "gene-LOZ07_005619"; gene_name "SHY1";
+JALBBI010000236.1	Genbank	CDS	6455	6560	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005619-T1_mrna"; gene_id "gene-LOZ07_005619"; gene_name "SHY1";
+JALBBI010000236.1	Genbank	CDS	6608	7120	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005619-T1_mrna"; gene_id "gene-LOZ07_005619"; gene_name "SHY1";
+JALBBI010000236.1	Genbank	CDS	7178	7388	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005619-T1_mrna"; gene_id "gene-LOZ07_005619"; gene_name "SHY1";
+JALBBI010000236.1	Genbank	transcript	17325	18227	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005626-T1_mrna"; gene_id "gene-LOZ07_005626"; gene_name "COQ4"
+JALBBI010000236.1	Genbank	exon	17325	17529	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005626-T1_mrna"; gene_id "gene-LOZ07_005626"; gene_name "COQ4";
+JALBBI010000236.1	Genbank	exon	17584	18227	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005626-T1_mrna"; gene_id "gene-LOZ07_005626"; gene_name "COQ4";
+JALBBI010000236.1	Genbank	CDS	17325	17529	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005626-T1_mrna"; gene_id "gene-LOZ07_005626"; gene_name "COQ4";
+JALBBI010000236.1	Genbank	CDS	17584	18227	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005626-T1_mrna"; gene_id "gene-LOZ07_005626"; gene_name "COQ4";
+JALBBI010000246.1	Genbank	transcript	19815	20606	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005715-T1_mrna"; gene_id "gene-LOZ07_005715"; gene_name "RRP40"
+JALBBI010000246.1	Genbank	exon	19815	20606	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005715-T1_mrna"; gene_id "gene-LOZ07_005715"; gene_name "RRP40";
+JALBBI010000246.1	Genbank	CDS	19815	20606	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005715-T1_mrna"; gene_id "gene-LOZ07_005715"; gene_name "RRP40";
+JALBBI010000249.1	Genbank	transcript	10707	12570	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005737-T1_mrna"; gene_id "gene-LOZ07_005737"; gene_name "TRM6"
+JALBBI010000249.1	Genbank	exon	10707	12393	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005737-T1_mrna"; gene_id "gene-LOZ07_005737"; gene_name "TRM6";
+JALBBI010000249.1	Genbank	exon	12485	12570	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005737-T1_mrna"; gene_id "gene-LOZ07_005737"; gene_name "TRM6";
+JALBBI010000249.1	Genbank	CDS	10707	12393	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005737-T1_mrna"; gene_id "gene-LOZ07_005737"; gene_name "TRM6";
+JALBBI010000249.1	Genbank	CDS	12485	12570	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005737-T1_mrna"; gene_id "gene-LOZ07_005737"; gene_name "TRM6";
+JALBBI010000253.1	Genbank	transcript	10284	11531	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005767-T1_mrna"; gene_id "gene-LOZ07_005767"; gene_name "RRP42"
+JALBBI010000253.1	Genbank	exon	10284	11531	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005767-T1_mrna"; gene_id "gene-LOZ07_005767"; gene_name "RRP42";
+JALBBI010000253.1	Genbank	CDS	10284	11531	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005767-T1_mrna"; gene_id "gene-LOZ07_005767"; gene_name "RRP42";
+JALBBI010000257.1	Genbank	transcript	10583	12409	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005799-T1_mrna"; gene_id "gene-LOZ07_005799"; gene_name "SWC4"
+JALBBI010000257.1	Genbank	exon	10583	12074	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005799-T1_mrna"; gene_id "gene-LOZ07_005799"; gene_name "SWC4";
+JALBBI010000257.1	Genbank	exon	12142	12259	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005799-T1_mrna"; gene_id "gene-LOZ07_005799"; gene_name "SWC4";
+JALBBI010000257.1	Genbank	exon	12313	12409	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005799-T1_mrna"; gene_id "gene-LOZ07_005799"; gene_name "SWC4";
+JALBBI010000257.1	Genbank	CDS	10583	12074	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005799-T1_mrna"; gene_id "gene-LOZ07_005799"; gene_name "SWC4";
+JALBBI010000257.1	Genbank	CDS	12142	12259	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005799-T1_mrna"; gene_id "gene-LOZ07_005799"; gene_name "SWC4";
+JALBBI010000257.1	Genbank	CDS	12313	12409	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005799-T1_mrna"; gene_id "gene-LOZ07_005799"; gene_name "SWC4";
+JALBBI010000271.1	Genbank	transcript	4312	5215	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005913-T1_mrna"; gene_id "gene-LOZ07_005913"; gene_name "BUD23"
+JALBBI010000271.1	Genbank	exon	4312	4334	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005913-T1_mrna"; gene_id "gene-LOZ07_005913"; gene_name "BUD23";
+JALBBI010000271.1	Genbank	exon	4390	5215	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005913-T1_mrna"; gene_id "gene-LOZ07_005913"; gene_name "BUD23";
+JALBBI010000271.1	Genbank	CDS	4312	4334	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005913-T1_mrna"; gene_id "gene-LOZ07_005913"; gene_name "BUD23";
+JALBBI010000271.1	Genbank	CDS	4390	5215	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_005913-T1_mrna"; gene_id "gene-LOZ07_005913"; gene_name "BUD23";
+JALBBI010000285.1	Genbank	transcript	9155	10805	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006015-T1_mrna"; gene_id "gene-LOZ07_006015"; gene_name "RSA4"
+JALBBI010000285.1	Genbank	exon	9155	9398	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006015-T1_mrna"; gene_id "gene-LOZ07_006015"; gene_name "RSA4";
+JALBBI010000285.1	Genbank	exon	9446	10524	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006015-T1_mrna"; gene_id "gene-LOZ07_006015"; gene_name "RSA4";
+JALBBI010000285.1	Genbank	exon	10581	10805	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006015-T1_mrna"; gene_id "gene-LOZ07_006015"; gene_name "RSA4";
+JALBBI010000285.1	Genbank	CDS	9155	9398	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006015-T1_mrna"; gene_id "gene-LOZ07_006015"; gene_name "RSA4";
+JALBBI010000285.1	Genbank	CDS	9446	10524	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006015-T1_mrna"; gene_id "gene-LOZ07_006015"; gene_name "RSA4";
+JALBBI010000285.1	Genbank	CDS	10581	10805	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006015-T1_mrna"; gene_id "gene-LOZ07_006015"; gene_name "RSA4";
+JALBBI010000293.1	Genbank	transcript	113	1341	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006070-T1_mrna"; gene_id "gene-LOZ07_006070"; gene_name "TSR3"
+JALBBI010000293.1	Genbank	exon	113	849	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006070-T1_mrna"; gene_id "gene-LOZ07_006070"; gene_name "TSR3";
+JALBBI010000293.1	Genbank	exon	902	1038	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006070-T1_mrna"; gene_id "gene-LOZ07_006070"; gene_name "TSR3";
+JALBBI010000293.1	Genbank	exon	1097	1341	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006070-T1_mrna"; gene_id "gene-LOZ07_006070"; gene_name "TSR3";
+JALBBI010000293.1	Genbank	CDS	113	849	.	-	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006070-T1_mrna"; gene_id "gene-LOZ07_006070"; gene_name "TSR3";
+JALBBI010000293.1	Genbank	CDS	902	1038	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006070-T1_mrna"; gene_id "gene-LOZ07_006070"; gene_name "TSR3";
+JALBBI010000293.1	Genbank	CDS	1097	1341	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006070-T1_mrna"; gene_id "gene-LOZ07_006070"; gene_name "TSR3";
+JALBBI010000300.1	Genbank	transcript	2889	3737	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006121-T1_mrna"; gene_id "gene-LOZ07_006121"; gene_name "TMA22"
+JALBBI010000300.1	Genbank	exon	2889	2964	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006121-T1_mrna"; gene_id "gene-LOZ07_006121"; gene_name "TMA22";
+JALBBI010000300.1	Genbank	exon	3058	3077	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006121-T1_mrna"; gene_id "gene-LOZ07_006121"; gene_name "TMA22";
+JALBBI010000300.1	Genbank	exon	3171	3258	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006121-T1_mrna"; gene_id "gene-LOZ07_006121"; gene_name "TMA22";
+JALBBI010000300.1	Genbank	exon	3325	3737	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006121-T1_mrna"; gene_id "gene-LOZ07_006121"; gene_name "TMA22";
+JALBBI010000300.1	Genbank	CDS	2889	2964	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006121-T1_mrna"; gene_id "gene-LOZ07_006121"; gene_name "TMA22";
+JALBBI010000300.1	Genbank	CDS	3058	3077	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006121-T1_mrna"; gene_id "gene-LOZ07_006121"; gene_name "TMA22";
+JALBBI010000300.1	Genbank	CDS	3171	3258	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006121-T1_mrna"; gene_id "gene-LOZ07_006121"; gene_name "TMA22";
+JALBBI010000300.1	Genbank	CDS	3325	3737	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006121-T1_mrna"; gene_id "gene-LOZ07_006121"; gene_name "TMA22";
+JALBBI010000325.1	Genbank	transcript	10035	11327	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006260-T1_mrna"; gene_id "gene-LOZ07_006260"; gene_name "ebp2"
+JALBBI010000325.1	Genbank	exon	10035	10196	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006260-T1_mrna"; gene_id "gene-LOZ07_006260"; gene_name "ebp2";
+JALBBI010000325.1	Genbank	exon	10255	10948	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006260-T1_mrna"; gene_id "gene-LOZ07_006260"; gene_name "ebp2";
+JALBBI010000325.1	Genbank	exon	11032	11327	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006260-T1_mrna"; gene_id "gene-LOZ07_006260"; gene_name "ebp2";
+JALBBI010000325.1	Genbank	CDS	10035	10196	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006260-T1_mrna"; gene_id "gene-LOZ07_006260"; gene_name "ebp2";
+JALBBI010000325.1	Genbank	CDS	10255	10948	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006260-T1_mrna"; gene_id "gene-LOZ07_006260"; gene_name "ebp2";
+JALBBI010000325.1	Genbank	CDS	11032	11327	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006260-T1_mrna"; gene_id "gene-LOZ07_006260"; gene_name "ebp2";
+JALBBI010000357.1	Genbank	transcript	7635	9128	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006402-T1_mrna"; gene_id "gene-LOZ07_006402"
+JALBBI010000357.1	Genbank	exon	7635	7737	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006402-T1_mrna"; gene_id "gene-LOZ07_006402";
+JALBBI010000357.1	Genbank	exon	7797	7897	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006402-T1_mrna"; gene_id "gene-LOZ07_006402";
+JALBBI010000357.1	Genbank	exon	8000	8127	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006402-T1_mrna"; gene_id "gene-LOZ07_006402";
+JALBBI010000357.1	Genbank	exon	8189	9128	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006402-T1_mrna"; gene_id "gene-LOZ07_006402";
+JALBBI010000357.1	Genbank	CDS	7635	7737	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006402-T1_mrna"; gene_id "gene-LOZ07_006402";
+JALBBI010000357.1	Genbank	CDS	7797	7897	.	+	2	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006402-T1_mrna"; gene_id "gene-LOZ07_006402";
+JALBBI010000357.1	Genbank	CDS	8000	8127	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006402-T1_mrna"; gene_id "gene-LOZ07_006402";
+JALBBI010000357.1	Genbank	CDS	8189	9128	.	+	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006402-T1_mrna"; gene_id "gene-LOZ07_006402";
+JALBBI010000410.1	Genbank	transcript	233	3570	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006556-T1_mrna"; gene_id "gene-LOZ07_006556"; gene_name "MAK21"
+JALBBI010000410.1	Genbank	exon	233	1096	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006556-T1_mrna"; gene_id "gene-LOZ07_006556"; gene_name "MAK21";
+JALBBI010000410.1	Genbank	exon	1153	1693	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006556-T1_mrna"; gene_id "gene-LOZ07_006556"; gene_name "MAK21";
+JALBBI010000410.1	Genbank	exon	1746	2860	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006556-T1_mrna"; gene_id "gene-LOZ07_006556"; gene_name "MAK21";
+JALBBI010000410.1	Genbank	exon	2923	3570	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006556-T1_mrna"; gene_id "gene-LOZ07_006556"; gene_name "MAK21";
+JALBBI010000410.1	Genbank	CDS	233	1096	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006556-T1_mrna"; gene_id "gene-LOZ07_006556"; gene_name "MAK21";
+JALBBI010000410.1	Genbank	CDS	1153	1693	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006556-T1_mrna"; gene_id "gene-LOZ07_006556"; gene_name "MAK21";
+JALBBI010000410.1	Genbank	CDS	1746	2860	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006556-T1_mrna"; gene_id "gene-LOZ07_006556"; gene_name "MAK21";
+JALBBI010000410.1	Genbank	CDS	2923	3570	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006556-T1_mrna"; gene_id "gene-LOZ07_006556"; gene_name "MAK21";
+JALBBI010000433.1	Genbank	transcript	4591	5831	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006607-T1_mrna"; gene_id "gene-LOZ07_006607"; gene_name "GCV1"
+JALBBI010000433.1	Genbank	exon	4591	5656	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006607-T1_mrna"; gene_id "gene-LOZ07_006607"; gene_name "GCV1";
+JALBBI010000433.1	Genbank	exon	5722	5831	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006607-T1_mrna"; gene_id "gene-LOZ07_006607"; gene_name "GCV1";
+JALBBI010000433.1	Genbank	CDS	4591	5656	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006607-T1_mrna"; gene_id "gene-LOZ07_006607"; gene_name "GCV1";
+JALBBI010000433.1	Genbank	CDS	5722	5831	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006607-T1_mrna"; gene_id "gene-LOZ07_006607"; gene_name "GCV1";
+JALBBI010000449.1	Genbank	transcript	892	2412	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006633-T1_mrna"; gene_id "gene-LOZ07_006633"
+JALBBI010000449.1	Genbank	exon	892	2013	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006633-T1_mrna"; gene_id "gene-LOZ07_006633";
+JALBBI010000449.1	Genbank	exon	2089	2412	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006633-T1_mrna"; gene_id "gene-LOZ07_006633";
+JALBBI010000449.1	Genbank	CDS	892	2013	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006633-T1_mrna"; gene_id "gene-LOZ07_006633";
+JALBBI010000449.1	Genbank	CDS	2089	2412	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006633-T1_mrna"; gene_id "gene-LOZ07_006633";
+JALBBI010000457.1	Genbank	transcript	2947	5142	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006645-T1_mrna"; gene_id "gene-LOZ07_006645"; gene_name "DPB2"
+JALBBI010000457.1	Genbank	exon	2947	5142	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006645-T1_mrna"; gene_id "gene-LOZ07_006645"; gene_name "DPB2";
+JALBBI010000457.1	Genbank	CDS	2947	5142	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006645-T1_mrna"; gene_id "gene-LOZ07_006645"; gene_name "DPB2";
+JALBBI010000494.1	Genbank	transcript	4764	5570	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006692-T1_mrna"; gene_id "gene-LOZ07_006692"; gene_name "oca3"
+JALBBI010000494.1	Genbank	exon	4764	5129	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006692-T1_mrna"; gene_id "gene-LOZ07_006692"; gene_name "oca3";
+JALBBI010000494.1	Genbank	exon	5188	5394	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006692-T1_mrna"; gene_id "gene-LOZ07_006692"; gene_name "oca3";
+JALBBI010000494.1	Genbank	exon	5449	5570	.	+	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006692-T1_mrna"; gene_id "gene-LOZ07_006692"; gene_name "oca3";
+JALBBI010000494.1	Genbank	CDS	4764	5129	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006692-T1_mrna"; gene_id "gene-LOZ07_006692"; gene_name "oca3";
+JALBBI010000494.1	Genbank	CDS	5188	5394	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006692-T1_mrna"; gene_id "gene-LOZ07_006692"; gene_name "oca3";
+JALBBI010000494.1	Genbank	CDS	5449	5570	.	+	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006692-T1_mrna"; gene_id "gene-LOZ07_006692"; gene_name "oca3";
+JALBBI010000498.1	Genbank	transcript	5030	5810	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006701-T1_mrna"; gene_id "gene-LOZ07_006701"; gene_name "PSF1"
+JALBBI010000498.1	Genbank	exon	5030	5123	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006701-T1_mrna"; gene_id "gene-LOZ07_006701"; gene_name "PSF1";
+JALBBI010000498.1	Genbank	exon	5181	5731	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006701-T1_mrna"; gene_id "gene-LOZ07_006701"; gene_name "PSF1";
+JALBBI010000498.1	Genbank	exon	5784	5810	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006701-T1_mrna"; gene_id "gene-LOZ07_006701"; gene_name "PSF1";
+JALBBI010000498.1	Genbank	CDS	5030	5123	.	-	1	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006701-T1_mrna"; gene_id "gene-LOZ07_006701"; gene_name "PSF1";
+JALBBI010000498.1	Genbank	CDS	5181	5731	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006701-T1_mrna"; gene_id "gene-LOZ07_006701"; gene_name "PSF1";
+JALBBI010000498.1	Genbank	CDS	5784	5810	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006701-T1_mrna"; gene_id "gene-LOZ07_006701"; gene_name "PSF1";
+JALBBI010000545.1	Genbank	transcript	619	3603	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006762-T1_mrna"; gene_id "gene-LOZ07_006762"
+JALBBI010000545.1	Genbank	exon	619	2949	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006762-T1_mrna"; gene_id "gene-LOZ07_006762";
+JALBBI010000545.1	Genbank	exon	3022	3603	.	-	.	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006762-T1_mrna"; gene_id "gene-LOZ07_006762";
+JALBBI010000545.1	Genbank	CDS	619	2949	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006762-T1_mrna"; gene_id "gene-LOZ07_006762";
+JALBBI010000545.1	Genbank	CDS	3022	3603	.	-	0	transcript_id "rna-gnl|WGS:JALBBI|LOZ07_006762-T1_mrna"; gene_id "gene-LOZ07_006762";

@@ -1,0 +1,752 @@
+KZ454987.1	Genbank	transcript	52243	55430	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000034-T1_mrna"; gene_id "gene-MVES_000034"; gene_name "MEF2"
+KZ454987.1	Genbank	exon	52243	52246	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000034-T1_mrna"; gene_id "gene-MVES_000034"; gene_name "MEF2";
+KZ454987.1	Genbank	exon	52287	54395	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000034-T1_mrna"; gene_id "gene-MVES_000034"; gene_name "MEF2";
+KZ454987.1	Genbank	exon	54764	54996	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000034-T1_mrna"; gene_id "gene-MVES_000034"; gene_name "MEF2";
+KZ454987.1	Genbank	exon	55023	55430	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000034-T1_mrna"; gene_id "gene-MVES_000034"; gene_name "MEF2";
+KZ454987.1	Genbank	CDS	52243	52246	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_000034-T1_mrna"; gene_id "gene-MVES_000034"; gene_name "MEF2";
+KZ454987.1	Genbank	CDS	52287	54395	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_000034-T1_mrna"; gene_id "gene-MVES_000034"; gene_name "MEF2";
+KZ454987.1	Genbank	CDS	54764	54996	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000034-T1_mrna"; gene_id "gene-MVES_000034"; gene_name "MEF2";
+KZ454987.1	Genbank	CDS	55023	55430	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000034-T1_mrna"; gene_id "gene-MVES_000034"; gene_name "MEF2";
+KZ454987.1	Genbank	transcript	58440	59743	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000037-T1_mrna"; gene_id "gene-MVES_000037"; gene_name "RSM23"
+KZ454987.1	Genbank	exon	58440	59622	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000037-T1_mrna"; gene_id "gene-MVES_000037"; gene_name "RSM23";
+KZ454987.1	Genbank	exon	59652	59743	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000037-T1_mrna"; gene_id "gene-MVES_000037"; gene_name "RSM23";
+KZ454987.1	Genbank	CDS	58440	59622	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_000037-T1_mrna"; gene_id "gene-MVES_000037"; gene_name "RSM23";
+KZ454987.1	Genbank	CDS	59652	59743	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_000037-T1_mrna"; gene_id "gene-MVES_000037"; gene_name "RSM23";
+KZ454987.1	Genbank	transcript	163110	164226	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000097-T1_mrna"; gene_id "gene-MVES_000097"; gene_name "DPH5"
+KZ454987.1	Genbank	exon	163110	163602	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000097-T1_mrna"; gene_id "gene-MVES_000097"; gene_name "DPH5";
+KZ454987.1	Genbank	exon	163633	164054	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000097-T1_mrna"; gene_id "gene-MVES_000097"; gene_name "DPH5";
+KZ454987.1	Genbank	exon	164083	164226	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000097-T1_mrna"; gene_id "gene-MVES_000097"; gene_name "DPH5";
+KZ454987.1	Genbank	CDS	163110	163602	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_000097-T1_mrna"; gene_id "gene-MVES_000097"; gene_name "DPH5";
+KZ454987.1	Genbank	CDS	163633	164054	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000097-T1_mrna"; gene_id "gene-MVES_000097"; gene_name "DPH5";
+KZ454987.1	Genbank	CDS	164083	164226	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000097-T1_mrna"; gene_id "gene-MVES_000097"; gene_name "DPH5";
+KZ454987.1	Genbank	transcript	187537	188868	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000112-T1_mrna"; gene_id "gene-MVES_000112"; gene_name "GCD7"
+KZ454987.1	Genbank	exon	187537	188868	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000112-T1_mrna"; gene_id "gene-MVES_000112"; gene_name "GCD7";
+KZ454987.1	Genbank	CDS	187537	188868	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_000112-T1_mrna"; gene_id "gene-MVES_000112"; gene_name "GCD7";
+KZ454987.1	Genbank	transcript	206729	208909	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000125-T1_mrna"; gene_id "gene-MVES_000125"; gene_name "ATG7"
+KZ454987.1	Genbank	exon	206729	207704	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000125-T1_mrna"; gene_id "gene-MVES_000125"; gene_name "ATG7";
+KZ454987.1	Genbank	exon	207732	208909	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000125-T1_mrna"; gene_id "gene-MVES_000125"; gene_name "ATG7";
+KZ454987.1	Genbank	CDS	206729	207704	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_000125-T1_mrna"; gene_id "gene-MVES_000125"; gene_name "ATG7";
+KZ454987.1	Genbank	CDS	207732	208909	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_000125-T1_mrna"; gene_id "gene-MVES_000125"; gene_name "ATG7";
+KZ454987.1	Genbank	transcript	216378	217634	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000131-T1_mrna"; gene_id "gene-MVES_000131"
+KZ454987.1	Genbank	exon	216378	217634	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000131-T1_mrna"; gene_id "gene-MVES_000131";
+KZ454987.1	Genbank	CDS	216378	217634	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000131-T1_mrna"; gene_id "gene-MVES_000131";
+KZ454987.1	Genbank	transcript	441538	442365	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000243-T1_mrna"; gene_id "gene-MVES_000243"; gene_name "ISY1"
+KZ454987.1	Genbank	exon	441538	442365	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000243-T1_mrna"; gene_id "gene-MVES_000243"; gene_name "ISY1";
+KZ454987.1	Genbank	CDS	441538	442365	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000243-T1_mrna"; gene_id "gene-MVES_000243"; gene_name "ISY1";
+KZ454987.1	Genbank	transcript	517304	518021	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000280-T1_mrna"; gene_id "gene-MVES_000280"
+KZ454987.1	Genbank	exon	517304	517348	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000280-T1_mrna"; gene_id "gene-MVES_000280";
+KZ454987.1	Genbank	exon	517376	517759	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000280-T1_mrna"; gene_id "gene-MVES_000280";
+KZ454987.1	Genbank	exon	517788	518021	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000280-T1_mrna"; gene_id "gene-MVES_000280";
+KZ454987.1	Genbank	CDS	517304	517348	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000280-T1_mrna"; gene_id "gene-MVES_000280";
+KZ454987.1	Genbank	CDS	517376	517759	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000280-T1_mrna"; gene_id "gene-MVES_000280";
+KZ454987.1	Genbank	CDS	517788	518021	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000280-T1_mrna"; gene_id "gene-MVES_000280";
+KZ454987.1	Genbank	transcript	519345	521320	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000282-T1_mrna"; gene_id "gene-MVES_000282"; gene_name "SPB4"
+KZ454987.1	Genbank	exon	519345	521217	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000282-T1_mrna"; gene_id "gene-MVES_000282"; gene_name "SPB4";
+KZ454987.1	Genbank	exon	521244	521320	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000282-T1_mrna"; gene_id "gene-MVES_000282"; gene_name "SPB4";
+KZ454987.1	Genbank	CDS	519345	521217	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_000282-T1_mrna"; gene_id "gene-MVES_000282"; gene_name "SPB4";
+KZ454987.1	Genbank	CDS	521244	521320	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000282-T1_mrna"; gene_id "gene-MVES_000282"; gene_name "SPB4";
+KZ454987.1	Genbank	transcript	557499	558467	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000301-T1_mrna"; gene_id "gene-MVES_000301"; gene_name "GCN3"
+KZ454987.1	Genbank	exon	557499	558467	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000301-T1_mrna"; gene_id "gene-MVES_000301"; gene_name "GCN3";
+KZ454987.1	Genbank	CDS	557499	558467	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_000301-T1_mrna"; gene_id "gene-MVES_000301"; gene_name "GCN3";
+KZ454987.1	Genbank	transcript	562610	563769	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000304-T1_mrna"; gene_id "gene-MVES_000304"
+KZ454987.1	Genbank	exon	562610	563685	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000304-T1_mrna"; gene_id "gene-MVES_000304";
+KZ454987.1	Genbank	exon	563715	563769	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000304-T1_mrna"; gene_id "gene-MVES_000304";
+KZ454987.1	Genbank	CDS	562610	563685	.	-	2	transcript_id "rna-gnl|WGS:PECA|MVES_000304-T1_mrna"; gene_id "gene-MVES_000304";
+KZ454987.1	Genbank	CDS	563715	563769	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000304-T1_mrna"; gene_id "gene-MVES_000304";
+KZ454987.1	Genbank	transcript	603503	606827	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000323-T1_mrna"; gene_id "gene-MVES_000323"
+KZ454987.1	Genbank	exon	603503	606108	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000323-T1_mrna"; gene_id "gene-MVES_000323";
+KZ454987.1	Genbank	exon	606199	606233	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000323-T1_mrna"; gene_id "gene-MVES_000323";
+KZ454987.1	Genbank	exon	606346	606827	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000323-T1_mrna"; gene_id "gene-MVES_000323";
+KZ454987.1	Genbank	CDS	603503	606108	.	-	2	transcript_id "rna-gnl|WGS:PECA|MVES_000323-T1_mrna"; gene_id "gene-MVES_000323";
+KZ454987.1	Genbank	CDS	606199	606233	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_000323-T1_mrna"; gene_id "gene-MVES_000323";
+KZ454987.1	Genbank	CDS	606346	606827	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000323-T1_mrna"; gene_id "gene-MVES_000323";
+KZ454987.1	Genbank	transcript	617235	618182	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000331-T1_mrna"; gene_id "gene-MVES_000331"; gene_name "COQ4"
+KZ454987.1	Genbank	exon	617235	618182	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000331-T1_mrna"; gene_id "gene-MVES_000331"; gene_name "COQ4";
+KZ454987.1	Genbank	CDS	617235	618182	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_000331-T1_mrna"; gene_id "gene-MVES_000331"; gene_name "COQ4";
+KZ454987.1	Genbank	transcript	723456	724146	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000382-T1_mrna"; gene_id "gene-MVES_000382"; gene_name "FAP7"
+KZ454987.1	Genbank	exon	723456	723654	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000382-T1_mrna"; gene_id "gene-MVES_000382"; gene_name "FAP7";
+KZ454987.1	Genbank	exon	723687	724106	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000382-T1_mrna"; gene_id "gene-MVES_000382"; gene_name "FAP7";
+KZ454987.1	Genbank	exon	724136	724146	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000382-T1_mrna"; gene_id "gene-MVES_000382"; gene_name "FAP7";
+KZ454987.1	Genbank	CDS	723456	723654	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_000382-T1_mrna"; gene_id "gene-MVES_000382"; gene_name "FAP7";
+KZ454987.1	Genbank	CDS	723687	724106	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_000382-T1_mrna"; gene_id "gene-MVES_000382"; gene_name "FAP7";
+KZ454987.1	Genbank	CDS	724136	724146	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000382-T1_mrna"; gene_id "gene-MVES_000382"; gene_name "FAP7";
+KZ454987.1	Genbank	transcript	740003	740985	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000389-T1_mrna"; gene_id "gene-MVES_000389"
+KZ454987.1	Genbank	exon	740003	740017	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000389-T1_mrna"; gene_id "gene-MVES_000389";
+KZ454987.1	Genbank	exon	740041	740436	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000389-T1_mrna"; gene_id "gene-MVES_000389";
+KZ454987.1	Genbank	exon	740464	740985	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000389-T1_mrna"; gene_id "gene-MVES_000389";
+KZ454987.1	Genbank	CDS	740003	740017	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000389-T1_mrna"; gene_id "gene-MVES_000389";
+KZ454987.1	Genbank	CDS	740041	740436	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000389-T1_mrna"; gene_id "gene-MVES_000389";
+KZ454987.1	Genbank	CDS	740464	740985	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000389-T1_mrna"; gene_id "gene-MVES_000389";
+KZ454987.1	Genbank	transcript	784893	789509	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000413-T1_mrna"; gene_id "gene-MVES_000413"; gene_name "FUM1"
+KZ454987.1	Genbank	exon	784893	786466	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000413-T1_mrna"; gene_id "gene-MVES_000413"; gene_name "FUM1";
+KZ454987.1	Genbank	exon	786624	787176	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000413-T1_mrna"; gene_id "gene-MVES_000413"; gene_name "FUM1";
+KZ454987.1	Genbank	exon	787238	787436	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000413-T1_mrna"; gene_id "gene-MVES_000413"; gene_name "FUM1";
+KZ454987.1	Genbank	exon	787570	789509	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000413-T1_mrna"; gene_id "gene-MVES_000413"; gene_name "FUM1";
+KZ454987.1	Genbank	CDS	784893	786466	.	-	2	transcript_id "rna-gnl|WGS:PECA|MVES_000413-T1_mrna"; gene_id "gene-MVES_000413"; gene_name "FUM1";
+KZ454987.1	Genbank	CDS	786624	787176	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000413-T1_mrna"; gene_id "gene-MVES_000413"; gene_name "FUM1";
+KZ454987.1	Genbank	CDS	787238	787436	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_000413-T1_mrna"; gene_id "gene-MVES_000413"; gene_name "FUM1";
+KZ454987.1	Genbank	CDS	787570	789509	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000413-T1_mrna"; gene_id "gene-MVES_000413"; gene_name "FUM1";
+KZ454987.1	Genbank	transcript	828523	830410	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000437-T1_mrna"; gene_id "gene-MVES_000437"; gene_name "UTP25"
+KZ454987.1	Genbank	exon	828523	828559	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000437-T1_mrna"; gene_id "gene-MVES_000437"; gene_name "UTP25";
+KZ454987.1	Genbank	exon	828582	830410	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000437-T1_mrna"; gene_id "gene-MVES_000437"; gene_name "UTP25";
+KZ454987.1	Genbank	CDS	828523	828559	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_000437-T1_mrna"; gene_id "gene-MVES_000437"; gene_name "UTP25";
+KZ454987.1	Genbank	CDS	828582	830410	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000437-T1_mrna"; gene_id "gene-MVES_000437"; gene_name "UTP25";
+KZ454987.1	Genbank	transcript	834822	835509	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000440-T1_mrna"; gene_id "gene-MVES_000440"; gene_name "TMA20"
+KZ454987.1	Genbank	exon	834822	835187	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000440-T1_mrna"; gene_id "gene-MVES_000440"; gene_name "TMA20";
+KZ454987.1	Genbank	exon	835318	835509	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000440-T1_mrna"; gene_id "gene-MVES_000440"; gene_name "TMA20";
+KZ454987.1	Genbank	CDS	834822	835187	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000440-T1_mrna"; gene_id "gene-MVES_000440"; gene_name "TMA20";
+KZ454987.1	Genbank	CDS	835318	835509	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000440-T1_mrna"; gene_id "gene-MVES_000440"; gene_name "TMA20";
+KZ454987.1	Genbank	transcript	989936	991578	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000527-T1_mrna"; gene_id "gene-MVES_000527"
+KZ454987.1	Genbank	exon	989936	990012	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000527-T1_mrna"; gene_id "gene-MVES_000527";
+KZ454987.1	Genbank	exon	990040	991554	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000527-T1_mrna"; gene_id "gene-MVES_000527";
+KZ454987.1	Genbank	exon	991575	991578	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000527-T1_mrna"; gene_id "gene-MVES_000527";
+KZ454987.1	Genbank	CDS	989936	990012	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_000527-T1_mrna"; gene_id "gene-MVES_000527";
+KZ454987.1	Genbank	CDS	990040	991554	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_000527-T1_mrna"; gene_id "gene-MVES_000527";
+KZ454987.1	Genbank	CDS	991575	991578	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_000527-T1_mrna"; gene_id "gene-MVES_000527";
+KZ454987.1	Genbank	transcript	1060309	1062828	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000556-T1_mrna"; gene_id "gene-MVES_000556"; gene_name "COG3"
+KZ454987.1	Genbank	exon	1060309	1062828	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000556-T1_mrna"; gene_id "gene-MVES_000556"; gene_name "COG3";
+KZ454987.1	Genbank	CDS	1060309	1062828	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_000556-T1_mrna"; gene_id "gene-MVES_000556"; gene_name "COG3";
+KZ454987.1	Genbank	transcript	1074553	1076468	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000565-T1_mrna"; gene_id "gene-MVES_000565"
+KZ454987.1	Genbank	exon	1074553	1074803	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000565-T1_mrna"; gene_id "gene-MVES_000565";
+KZ454987.1	Genbank	exon	1074881	1075051	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000565-T1_mrna"; gene_id "gene-MVES_000565";
+KZ454987.1	Genbank	exon	1075760	1076468	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000565-T1_mrna"; gene_id "gene-MVES_000565";
+KZ454987.1	Genbank	CDS	1074553	1074803	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_000565-T1_mrna"; gene_id "gene-MVES_000565";
+KZ454987.1	Genbank	CDS	1074881	1075051	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_000565-T1_mrna"; gene_id "gene-MVES_000565";
+KZ454987.1	Genbank	CDS	1075760	1076468	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_000565-T1_mrna"; gene_id "gene-MVES_000565";
+KZ454987.1	Genbank	transcript	1091655	1093289	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000572-T1_mrna"; gene_id "gene-MVES_000572"; gene_name "PCM1"
+KZ454987.1	Genbank	exon	1091655	1093289	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000572-T1_mrna"; gene_id "gene-MVES_000572"; gene_name "PCM1";
+KZ454987.1	Genbank	CDS	1091655	1093289	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000572-T1_mrna"; gene_id "gene-MVES_000572"; gene_name "PCM1";
+KZ454987.1	Genbank	transcript	1093339	1095389	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000573-T1_mrna"; gene_id "gene-MVES_000573"
+KZ454987.1	Genbank	exon	1093339	1094171	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000573-T1_mrna"; gene_id "gene-MVES_000573";
+KZ454987.1	Genbank	exon	1094333	1094646	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000573-T1_mrna"; gene_id "gene-MVES_000573";
+KZ454987.1	Genbank	exon	1094672	1095277	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000573-T1_mrna"; gene_id "gene-MVES_000573";
+KZ454987.1	Genbank	exon	1095319	1095389	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000573-T1_mrna"; gene_id "gene-MVES_000573";
+KZ454987.1	Genbank	CDS	1093339	1094171	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_000573-T1_mrna"; gene_id "gene-MVES_000573";
+KZ454987.1	Genbank	CDS	1094333	1094646	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_000573-T1_mrna"; gene_id "gene-MVES_000573";
+KZ454987.1	Genbank	CDS	1094672	1095277	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_000573-T1_mrna"; gene_id "gene-MVES_000573";
+KZ454987.1	Genbank	CDS	1095319	1095389	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_000573-T1_mrna"; gene_id "gene-MVES_000573";
+KZ454987.1	Genbank	transcript	1159526	1160626	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000608-T1_mrna"; gene_id "gene-MVES_000608"
+KZ454987.1	Genbank	exon	1159526	1160626	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000608-T1_mrna"; gene_id "gene-MVES_000608";
+KZ454987.1	Genbank	CDS	1159526	1160626	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000608-T1_mrna"; gene_id "gene-MVES_000608";
+KZ454987.1	Genbank	transcript	1260231	1260813	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000658-T1_mrna"; gene_id "gene-MVES_000658"; gene_name "NAT3"
+KZ454987.1	Genbank	exon	1260231	1260242	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000658-T1_mrna"; gene_id "gene-MVES_000658"; gene_name "NAT3";
+KZ454987.1	Genbank	exon	1260268	1260813	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000658-T1_mrna"; gene_id "gene-MVES_000658"; gene_name "NAT3";
+KZ454987.1	Genbank	CDS	1260231	1260242	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000658-T1_mrna"; gene_id "gene-MVES_000658"; gene_name "NAT3";
+KZ454987.1	Genbank	CDS	1260268	1260813	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000658-T1_mrna"; gene_id "gene-MVES_000658"; gene_name "NAT3";
+KZ454987.1	Genbank	transcript	1292570	1294715	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000669-T1_mrna"; gene_id "gene-MVES_000669"
+KZ454987.1	Genbank	exon	1292570	1292612	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000669-T1_mrna"; gene_id "gene-MVES_000669";
+KZ454987.1	Genbank	exon	1292652	1293208	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000669-T1_mrna"; gene_id "gene-MVES_000669";
+KZ454987.1	Genbank	exon	1293319	1294149	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000669-T1_mrna"; gene_id "gene-MVES_000669";
+KZ454987.1	Genbank	exon	1294275	1294715	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000669-T1_mrna"; gene_id "gene-MVES_000669";
+KZ454987.1	Genbank	CDS	1292570	1292612	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_000669-T1_mrna"; gene_id "gene-MVES_000669";
+KZ454987.1	Genbank	CDS	1292652	1293208	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_000669-T1_mrna"; gene_id "gene-MVES_000669";
+KZ454987.1	Genbank	CDS	1293319	1294149	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_000669-T1_mrna"; gene_id "gene-MVES_000669";
+KZ454987.1	Genbank	CDS	1294275	1294715	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_000669-T1_mrna"; gene_id "gene-MVES_000669";
+KZ454987.1	Genbank	transcript	1384087	1385325	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000709-T1_mrna"; gene_id "gene-MVES_000709"; gene_name "UBA4"
+KZ454987.1	Genbank	exon	1384087	1384249	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000709-T1_mrna"; gene_id "gene-MVES_000709"; gene_name "UBA4";
+KZ454987.1	Genbank	exon	1384276	1385091	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000709-T1_mrna"; gene_id "gene-MVES_000709"; gene_name "UBA4";
+KZ454987.1	Genbank	exon	1385117	1385325	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000709-T1_mrna"; gene_id "gene-MVES_000709"; gene_name "UBA4";
+KZ454987.1	Genbank	CDS	1384087	1384249	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_000709-T1_mrna"; gene_id "gene-MVES_000709"; gene_name "UBA4";
+KZ454987.1	Genbank	CDS	1384276	1385091	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_000709-T1_mrna"; gene_id "gene-MVES_000709"; gene_name "UBA4";
+KZ454987.1	Genbank	CDS	1385117	1385325	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_000709-T1_mrna"; gene_id "gene-MVES_000709"; gene_name "UBA4";
+KZ454987.1	Genbank	transcript	1442231	1443610	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000737-T1_mrna"; gene_id "gene-MVES_000737"; gene_name "DOM34"
+KZ454987.1	Genbank	exon	1442231	1443610	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000737-T1_mrna"; gene_id "gene-MVES_000737"; gene_name "DOM34";
+KZ454987.1	Genbank	CDS	1442231	1443610	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_000737-T1_mrna"; gene_id "gene-MVES_000737"; gene_name "DOM34";
+KZ454988.1	Genbank	transcript	21882	23498	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000755-T1_mrna"; gene_id "gene-MVES_000755"
+KZ454988.1	Genbank	exon	21882	22761	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000755-T1_mrna"; gene_id "gene-MVES_000755";
+KZ454988.1	Genbank	exon	22788	23125	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000755-T1_mrna"; gene_id "gene-MVES_000755";
+KZ454988.1	Genbank	exon	23154	23464	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000755-T1_mrna"; gene_id "gene-MVES_000755";
+KZ454988.1	Genbank	exon	23492	23498	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000755-T1_mrna"; gene_id "gene-MVES_000755";
+KZ454988.1	Genbank	CDS	21882	22761	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_000755-T1_mrna"; gene_id "gene-MVES_000755";
+KZ454988.1	Genbank	CDS	22788	23125	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000755-T1_mrna"; gene_id "gene-MVES_000755";
+KZ454988.1	Genbank	CDS	23154	23464	.	-	2	transcript_id "rna-gnl|WGS:PECA|MVES_000755-T1_mrna"; gene_id "gene-MVES_000755";
+KZ454988.1	Genbank	CDS	23492	23498	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000755-T1_mrna"; gene_id "gene-MVES_000755";
+KZ454988.1	Genbank	transcript	37740	39860	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000765-T1_mrna"; gene_id "gene-MVES_000765"; gene_name "ESF1"
+KZ454988.1	Genbank	exon	37740	39860	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000765-T1_mrna"; gene_id "gene-MVES_000765"; gene_name "ESF1";
+KZ454988.1	Genbank	CDS	37740	39860	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000765-T1_mrna"; gene_id "gene-MVES_000765"; gene_name "ESF1";
+KZ454988.1	Genbank	transcript	79962	81721	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000785-T1_mrna"; gene_id "gene-MVES_000785"; gene_name "TFB1"
+KZ454988.1	Genbank	exon	79962	79968	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000785-T1_mrna"; gene_id "gene-MVES_000785"; gene_name "TFB1";
+KZ454988.1	Genbank	exon	80001	81721	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000785-T1_mrna"; gene_id "gene-MVES_000785"; gene_name "TFB1";
+KZ454988.1	Genbank	CDS	79962	79968	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_000785-T1_mrna"; gene_id "gene-MVES_000785"; gene_name "TFB1";
+KZ454988.1	Genbank	CDS	80001	81721	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000785-T1_mrna"; gene_id "gene-MVES_000785"; gene_name "TFB1";
+KZ454988.1	Genbank	transcript	107228	108073	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000795-T1_mrna"; gene_id "gene-MVES_000795"
+KZ454988.1	Genbank	exon	107228	107232	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000795-T1_mrna"; gene_id "gene-MVES_000795";
+KZ454988.1	Genbank	exon	107265	107275	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000795-T1_mrna"; gene_id "gene-MVES_000795";
+KZ454988.1	Genbank	exon	107325	107340	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000795-T1_mrna"; gene_id "gene-MVES_000795";
+KZ454988.1	Genbank	exon	107374	107425	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000795-T1_mrna"; gene_id "gene-MVES_000795";
+KZ454988.1	Genbank	exon	107453	107496	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000795-T1_mrna"; gene_id "gene-MVES_000795";
+KZ454988.1	Genbank	exon	107526	108023	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000795-T1_mrna"; gene_id "gene-MVES_000795";
+KZ454988.1	Genbank	exon	108061	108073	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000795-T1_mrna"; gene_id "gene-MVES_000795";
+KZ454988.1	Genbank	CDS	107228	107232	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_000795-T1_mrna"; gene_id "gene-MVES_000795";
+KZ454988.1	Genbank	CDS	107265	107275	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_000795-T1_mrna"; gene_id "gene-MVES_000795";
+KZ454988.1	Genbank	CDS	107325	107340	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_000795-T1_mrna"; gene_id "gene-MVES_000795";
+KZ454988.1	Genbank	CDS	107374	107425	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_000795-T1_mrna"; gene_id "gene-MVES_000795";
+KZ454988.1	Genbank	CDS	107453	107496	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_000795-T1_mrna"; gene_id "gene-MVES_000795";
+KZ454988.1	Genbank	CDS	107526	108023	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_000795-T1_mrna"; gene_id "gene-MVES_000795";
+KZ454988.1	Genbank	CDS	108061	108073	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_000795-T1_mrna"; gene_id "gene-MVES_000795";
+KZ454988.1	Genbank	transcript	329646	330827	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000908-T1_mrna"; gene_id "gene-MVES_000908"; gene_name "MSW1"
+KZ454988.1	Genbank	exon	329646	330827	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000908-T1_mrna"; gene_id "gene-MVES_000908"; gene_name "MSW1";
+KZ454988.1	Genbank	CDS	329646	330827	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000908-T1_mrna"; gene_id "gene-MVES_000908"; gene_name "MSW1";
+KZ454988.1	Genbank	transcript	398305	402193	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000944-T1_mrna"; gene_id "gene-MVES_000944"; gene_name "NOP14"
+KZ454988.1	Genbank	exon	398305	398857	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000944-T1_mrna"; gene_id "gene-MVES_000944"; gene_name "NOP14";
+KZ454988.1	Genbank	exon	399003	401172	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000944-T1_mrna"; gene_id "gene-MVES_000944"; gene_name "NOP14";
+KZ454988.1	Genbank	exon	401197	401248	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000944-T1_mrna"; gene_id "gene-MVES_000944"; gene_name "NOP14";
+KZ454988.1	Genbank	exon	401279	401873	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000944-T1_mrna"; gene_id "gene-MVES_000944"; gene_name "NOP14";
+KZ454988.1	Genbank	exon	401901	402193	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_000944-T1_mrna"; gene_id "gene-MVES_000944"; gene_name "NOP14";
+KZ454988.1	Genbank	CDS	398305	398857	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_000944-T1_mrna"; gene_id "gene-MVES_000944"; gene_name "NOP14";
+KZ454988.1	Genbank	CDS	399003	401172	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_000944-T1_mrna"; gene_id "gene-MVES_000944"; gene_name "NOP14";
+KZ454988.1	Genbank	CDS	401197	401248	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_000944-T1_mrna"; gene_id "gene-MVES_000944"; gene_name "NOP14";
+KZ454988.1	Genbank	CDS	401279	401873	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_000944-T1_mrna"; gene_id "gene-MVES_000944"; gene_name "NOP14";
+KZ454988.1	Genbank	CDS	401901	402193	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_000944-T1_mrna"; gene_id "gene-MVES_000944"; gene_name "NOP14";
+KZ454988.1	Genbank	transcript	409109	411699	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000949-T1_mrna"; gene_id "gene-MVES_000949"
+KZ454988.1	Genbank	exon	409109	410920	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000949-T1_mrna"; gene_id "gene-MVES_000949";
+KZ454988.1	Genbank	exon	411217	411286	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000949-T1_mrna"; gene_id "gene-MVES_000949";
+KZ454988.1	Genbank	exon	411386	411420	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000949-T1_mrna"; gene_id "gene-MVES_000949";
+KZ454988.1	Genbank	exon	411691	411699	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_000949-T1_mrna"; gene_id "gene-MVES_000949";
+KZ454988.1	Genbank	CDS	409109	410920	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000949-T1_mrna"; gene_id "gene-MVES_000949";
+KZ454988.1	Genbank	CDS	411217	411286	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_000949-T1_mrna"; gene_id "gene-MVES_000949";
+KZ454988.1	Genbank	CDS	411386	411420	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000949-T1_mrna"; gene_id "gene-MVES_000949";
+KZ454988.1	Genbank	CDS	411691	411699	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_000949-T1_mrna"; gene_id "gene-MVES_000949";
+KZ454988.1	Genbank	transcript	528776	529625	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001014-T1_mrna"; gene_id "gene-MVES_001014"; gene_name "SLD5"
+KZ454988.1	Genbank	exon	528776	528951	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001014-T1_mrna"; gene_id "gene-MVES_001014"; gene_name "SLD5";
+KZ454988.1	Genbank	exon	528978	529182	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001014-T1_mrna"; gene_id "gene-MVES_001014"; gene_name "SLD5";
+KZ454988.1	Genbank	exon	529209	529625	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001014-T1_mrna"; gene_id "gene-MVES_001014"; gene_name "SLD5";
+KZ454988.1	Genbank	CDS	528776	528951	.	-	2	transcript_id "rna-gnl|WGS:PECA|MVES_001014-T1_mrna"; gene_id "gene-MVES_001014"; gene_name "SLD5";
+KZ454988.1	Genbank	CDS	528978	529182	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001014-T1_mrna"; gene_id "gene-MVES_001014"; gene_name "SLD5";
+KZ454988.1	Genbank	CDS	529209	529625	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001014-T1_mrna"; gene_id "gene-MVES_001014"; gene_name "SLD5";
+KZ454988.1	Genbank	transcript	533354	534952	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001017-T1_mrna"; gene_id "gene-MVES_001017"; gene_name "SWC4"
+KZ454988.1	Genbank	exon	533354	534952	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001017-T1_mrna"; gene_id "gene-MVES_001017"; gene_name "SWC4";
+KZ454988.1	Genbank	CDS	533354	534952	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001017-T1_mrna"; gene_id "gene-MVES_001017"; gene_name "SWC4";
+KZ454988.1	Genbank	transcript	535031	536115	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001018-T1_mrna"; gene_id "gene-MVES_001018"
+KZ454988.1	Genbank	exon	535031	535168	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001018-T1_mrna"; gene_id "gene-MVES_001018";
+KZ454988.1	Genbank	exon	535201	535235	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001018-T1_mrna"; gene_id "gene-MVES_001018";
+KZ454988.1	Genbank	exon	535266	536115	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001018-T1_mrna"; gene_id "gene-MVES_001018";
+KZ454988.1	Genbank	CDS	535031	535168	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_001018-T1_mrna"; gene_id "gene-MVES_001018";
+KZ454988.1	Genbank	CDS	535201	535235	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_001018-T1_mrna"; gene_id "gene-MVES_001018";
+KZ454988.1	Genbank	CDS	535266	536115	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_001018-T1_mrna"; gene_id "gene-MVES_001018";
+KZ454988.1	Genbank	transcript	558658	561734	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001032-T1_mrna"; gene_id "gene-MVES_001032"
+KZ454988.1	Genbank	exon	558658	558666	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001032-T1_mrna"; gene_id "gene-MVES_001032";
+KZ454988.1	Genbank	exon	558692	558731	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001032-T1_mrna"; gene_id "gene-MVES_001032";
+KZ454988.1	Genbank	exon	558757	561734	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001032-T1_mrna"; gene_id "gene-MVES_001032";
+KZ454988.1	Genbank	CDS	558658	558666	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001032-T1_mrna"; gene_id "gene-MVES_001032";
+KZ454988.1	Genbank	CDS	558692	558731	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_001032-T1_mrna"; gene_id "gene-MVES_001032";
+KZ454988.1	Genbank	CDS	558757	561734	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001032-T1_mrna"; gene_id "gene-MVES_001032";
+KZ454988.1	Genbank	transcript	645157	646953	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001072-T1_mrna"; gene_id "gene-MVES_001072"
+KZ454988.1	Genbank	exon	645157	646953	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001072-T1_mrna"; gene_id "gene-MVES_001072";
+KZ454988.1	Genbank	CDS	645157	646953	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_001072-T1_mrna"; gene_id "gene-MVES_001072";
+KZ454988.1	Genbank	transcript	710061	711061	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001104-T1_mrna"; gene_id "gene-MVES_001104"; gene_name "DRE2"
+KZ454988.1	Genbank	exon	710061	710869	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001104-T1_mrna"; gene_id "gene-MVES_001104"; gene_name "DRE2";
+KZ454988.1	Genbank	exon	710902	711061	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001104-T1_mrna"; gene_id "gene-MVES_001104"; gene_name "DRE2";
+KZ454988.1	Genbank	CDS	710061	710869	.	-	2	transcript_id "rna-gnl|WGS:PECA|MVES_001104-T1_mrna"; gene_id "gene-MVES_001104"; gene_name "DRE2";
+KZ454988.1	Genbank	CDS	710902	711061	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001104-T1_mrna"; gene_id "gene-MVES_001104"; gene_name "DRE2";
+KZ454988.1	Genbank	transcript	756646	758769	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001127-T1_mrna"; gene_id "gene-MVES_001127"
+KZ454988.1	Genbank	exon	756646	756656	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001127-T1_mrna"; gene_id "gene-MVES_001127";
+KZ454988.1	Genbank	exon	756683	757610	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001127-T1_mrna"; gene_id "gene-MVES_001127";
+KZ454988.1	Genbank	exon	757637	757811	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001127-T1_mrna"; gene_id "gene-MVES_001127";
+KZ454988.1	Genbank	exon	757841	757887	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001127-T1_mrna"; gene_id "gene-MVES_001127";
+KZ454988.1	Genbank	exon	757915	758668	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001127-T1_mrna"; gene_id "gene-MVES_001127";
+KZ454988.1	Genbank	exon	758696	758769	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001127-T1_mrna"; gene_id "gene-MVES_001127";
+KZ454988.1	Genbank	CDS	756646	756656	.	-	2	transcript_id "rna-gnl|WGS:PECA|MVES_001127-T1_mrna"; gene_id "gene-MVES_001127";
+KZ454988.1	Genbank	CDS	756683	757610	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001127-T1_mrna"; gene_id "gene-MVES_001127";
+KZ454988.1	Genbank	CDS	757637	757811	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_001127-T1_mrna"; gene_id "gene-MVES_001127";
+KZ454988.1	Genbank	CDS	757841	757887	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001127-T1_mrna"; gene_id "gene-MVES_001127";
+KZ454988.1	Genbank	CDS	757915	758668	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_001127-T1_mrna"; gene_id "gene-MVES_001127";
+KZ454988.1	Genbank	CDS	758696	758769	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001127-T1_mrna"; gene_id "gene-MVES_001127";
+KZ454988.1	Genbank	transcript	769040	772102	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001133-T1_mrna"; gene_id "gene-MVES_001133"; gene_name "SEC10"
+KZ454988.1	Genbank	exon	769040	772102	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001133-T1_mrna"; gene_id "gene-MVES_001133"; gene_name "SEC10";
+KZ454988.1	Genbank	CDS	769040	772102	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_001133-T1_mrna"; gene_id "gene-MVES_001133"; gene_name "SEC10";
+KZ454988.1	Genbank	transcript	827840	828697	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001159-T1_mrna"; gene_id "gene-MVES_001159"; gene_name "PSF1"
+KZ454988.1	Genbank	exon	827840	828697	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001159-T1_mrna"; gene_id "gene-MVES_001159"; gene_name "PSF1";
+KZ454988.1	Genbank	CDS	827840	828697	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001159-T1_mrna"; gene_id "gene-MVES_001159"; gene_name "PSF1";
+KZ454988.1	Genbank	transcript	854659	857110	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001174-T1_mrna"; gene_id "gene-MVES_001174"; gene_name "HIR1"
+KZ454988.1	Genbank	exon	854659	854740	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001174-T1_mrna"; gene_id "gene-MVES_001174"; gene_name "HIR1";
+KZ454988.1	Genbank	exon	854809	856900	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001174-T1_mrna"; gene_id "gene-MVES_001174"; gene_name "HIR1";
+KZ454988.1	Genbank	exon	856930	857015	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001174-T1_mrna"; gene_id "gene-MVES_001174"; gene_name "HIR1";
+KZ454988.1	Genbank	exon	857043	857110	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001174-T1_mrna"; gene_id "gene-MVES_001174"; gene_name "HIR1";
+KZ454988.1	Genbank	CDS	854659	854740	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_001174-T1_mrna"; gene_id "gene-MVES_001174"; gene_name "HIR1";
+KZ454988.1	Genbank	CDS	854809	856900	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_001174-T1_mrna"; gene_id "gene-MVES_001174"; gene_name "HIR1";
+KZ454988.1	Genbank	CDS	856930	857015	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_001174-T1_mrna"; gene_id "gene-MVES_001174"; gene_name "HIR1";
+KZ454988.1	Genbank	CDS	857043	857110	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_001174-T1_mrna"; gene_id "gene-MVES_001174"; gene_name "HIR1";
+KZ454988.1	Genbank	transcript	942567	945167	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001222-T1_mrna"; gene_id "gene-MVES_001222"
+KZ454988.1	Genbank	exon	942567	945167	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001222-T1_mrna"; gene_id "gene-MVES_001222";
+KZ454988.1	Genbank	CDS	942567	945167	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_001222-T1_mrna"; gene_id "gene-MVES_001222";
+KZ454988.1	Genbank	transcript	1149743	1151074	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001317-T1_mrna"; gene_id "gene-MVES_001317"; gene_name "HAT1"
+KZ454988.1	Genbank	exon	1149743	1151074	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001317-T1_mrna"; gene_id "gene-MVES_001317"; gene_name "HAT1";
+KZ454988.1	Genbank	CDS	1149743	1151074	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001317-T1_mrna"; gene_id "gene-MVES_001317"; gene_name "HAT1";
+KZ454988.1	Genbank	transcript	1218559	1220925	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001350-T1_mrna"; gene_id "gene-MVES_001350"; gene_name "RAM1"
+KZ454988.1	Genbank	exon	1218559	1218839	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001350-T1_mrna"; gene_id "gene-MVES_001350"; gene_name "RAM1";
+KZ454988.1	Genbank	exon	1218870	1219114	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001350-T1_mrna"; gene_id "gene-MVES_001350"; gene_name "RAM1";
+KZ454988.1	Genbank	exon	1219189	1219406	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001350-T1_mrna"; gene_id "gene-MVES_001350"; gene_name "RAM1";
+KZ454988.1	Genbank	exon	1219543	1220925	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001350-T1_mrna"; gene_id "gene-MVES_001350"; gene_name "RAM1";
+KZ454988.1	Genbank	CDS	1218559	1218839	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_001350-T1_mrna"; gene_id "gene-MVES_001350"; gene_name "RAM1";
+KZ454988.1	Genbank	CDS	1218870	1219114	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_001350-T1_mrna"; gene_id "gene-MVES_001350"; gene_name "RAM1";
+KZ454988.1	Genbank	CDS	1219189	1219406	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_001350-T1_mrna"; gene_id "gene-MVES_001350"; gene_name "RAM1";
+KZ454988.1	Genbank	CDS	1219543	1220925	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_001350-T1_mrna"; gene_id "gene-MVES_001350"; gene_name "RAM1";
+KZ454988.1	Genbank	transcript	1299986	1303572	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001387-T1_mrna"; gene_id "gene-MVES_001387"; gene_name "LYS4"
+KZ454988.1	Genbank	exon	1299986	1301152	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001387-T1_mrna"; gene_id "gene-MVES_001387"; gene_name "LYS4";
+KZ454988.1	Genbank	exon	1301383	1303572	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001387-T1_mrna"; gene_id "gene-MVES_001387"; gene_name "LYS4";
+KZ454988.1	Genbank	CDS	1299986	1301152	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001387-T1_mrna"; gene_id "gene-MVES_001387"; gene_name "LYS4";
+KZ454988.1	Genbank	CDS	1301383	1303572	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001387-T1_mrna"; gene_id "gene-MVES_001387"; gene_name "LYS4";
+KZ454989.1	Genbank	transcript	59408	64630	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001424-T1_mrna"; gene_id "gene-MVES_001424"; gene_name "VPS15"
+KZ454989.1	Genbank	exon	59408	63701	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001424-T1_mrna"; gene_id "gene-MVES_001424"; gene_name "VPS15";
+KZ454989.1	Genbank	exon	63740	63773	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001424-T1_mrna"; gene_id "gene-MVES_001424"; gene_name "VPS15";
+KZ454989.1	Genbank	exon	63881	63912	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001424-T1_mrna"; gene_id "gene-MVES_001424"; gene_name "VPS15";
+KZ454989.1	Genbank	exon	63943	64111	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001424-T1_mrna"; gene_id "gene-MVES_001424"; gene_name "VPS15";
+KZ454989.1	Genbank	exon	64138	64630	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001424-T1_mrna"; gene_id "gene-MVES_001424"; gene_name "VPS15";
+KZ454989.1	Genbank	CDS	59408	63701	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_001424-T1_mrna"; gene_id "gene-MVES_001424"; gene_name "VPS15";
+KZ454989.1	Genbank	CDS	63740	63773	.	-	2	transcript_id "rna-gnl|WGS:PECA|MVES_001424-T1_mrna"; gene_id "gene-MVES_001424"; gene_name "VPS15";
+KZ454989.1	Genbank	CDS	63881	63912	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_001424-T1_mrna"; gene_id "gene-MVES_001424"; gene_name "VPS15";
+KZ454989.1	Genbank	CDS	63943	64111	.	-	2	transcript_id "rna-gnl|WGS:PECA|MVES_001424-T1_mrna"; gene_id "gene-MVES_001424"; gene_name "VPS15";
+KZ454989.1	Genbank	CDS	64138	64630	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001424-T1_mrna"; gene_id "gene-MVES_001424"; gene_name "VPS15";
+KZ454989.1	Genbank	transcript	172662	178241	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001473-T1_mrna"; gene_id "gene-MVES_001473"
+KZ454989.1	Genbank	exon	172662	177456	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001473-T1_mrna"; gene_id "gene-MVES_001473";
+KZ454989.1	Genbank	exon	177785	177971	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001473-T1_mrna"; gene_id "gene-MVES_001473";
+KZ454989.1	Genbank	exon	177998	178241	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001473-T1_mrna"; gene_id "gene-MVES_001473";
+KZ454989.1	Genbank	CDS	172662	177456	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_001473-T1_mrna"; gene_id "gene-MVES_001473";
+KZ454989.1	Genbank	CDS	177785	177971	.	-	2	transcript_id "rna-gnl|WGS:PECA|MVES_001473-T1_mrna"; gene_id "gene-MVES_001473";
+KZ454989.1	Genbank	CDS	177998	178241	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001473-T1_mrna"; gene_id "gene-MVES_001473";
+KZ454989.1	Genbank	transcript	238235	240679	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001499-T1_mrna"; gene_id "gene-MVES_001499"
+KZ454989.1	Genbank	exon	238235	240679	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001499-T1_mrna"; gene_id "gene-MVES_001499";
+KZ454989.1	Genbank	CDS	238235	240679	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_001499-T1_mrna"; gene_id "gene-MVES_001499";
+KZ454989.1	Genbank	transcript	482225	484931	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001630-T1_mrna"; gene_id "gene-MVES_001630"
+KZ454989.1	Genbank	exon	482225	484889	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001630-T1_mrna"; gene_id "gene-MVES_001630";
+KZ454989.1	Genbank	exon	484915	484931	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001630-T1_mrna"; gene_id "gene-MVES_001630";
+KZ454989.1	Genbank	CDS	482225	484889	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_001630-T1_mrna"; gene_id "gene-MVES_001630";
+KZ454989.1	Genbank	CDS	484915	484931	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_001630-T1_mrna"; gene_id "gene-MVES_001630";
+KZ454989.1	Genbank	transcript	543715	544731	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001663-T1_mrna"; gene_id "gene-MVES_001663"
+KZ454989.1	Genbank	exon	543715	544731	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001663-T1_mrna"; gene_id "gene-MVES_001663";
+KZ454989.1	Genbank	CDS	543715	544731	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001663-T1_mrna"; gene_id "gene-MVES_001663";
+KZ454989.1	Genbank	transcript	747209	748093	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001763-T1_mrna"; gene_id "gene-MVES_001763"; gene_name "BCP1"
+KZ454989.1	Genbank	exon	747209	748093	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001763-T1_mrna"; gene_id "gene-MVES_001763"; gene_name "BCP1";
+KZ454989.1	Genbank	CDS	747209	748093	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_001763-T1_mrna"; gene_id "gene-MVES_001763"; gene_name "BCP1";
+KZ454989.1	Genbank	transcript	816969	817967	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001798-T1_mrna"; gene_id "gene-MVES_001798"; gene_name "ETF1"
+KZ454989.1	Genbank	exon	816969	817967	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001798-T1_mrna"; gene_id "gene-MVES_001798"; gene_name "ETF1";
+KZ454989.1	Genbank	CDS	816969	817967	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001798-T1_mrna"; gene_id "gene-MVES_001798"; gene_name "ETF1";
+KZ454989.1	Genbank	transcript	924902	927092	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001847-T1_mrna"; gene_id "gene-MVES_001847"
+KZ454989.1	Genbank	exon	924902	924967	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001847-T1_mrna"; gene_id "gene-MVES_001847";
+KZ454989.1	Genbank	exon	924995	925061	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001847-T1_mrna"; gene_id "gene-MVES_001847";
+KZ454989.1	Genbank	exon	925101	925166	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001847-T1_mrna"; gene_id "gene-MVES_001847";
+KZ454989.1	Genbank	exon	925262	926003	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001847-T1_mrna"; gene_id "gene-MVES_001847";
+KZ454989.1	Genbank	exon	926048	927092	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001847-T1_mrna"; gene_id "gene-MVES_001847";
+KZ454989.1	Genbank	CDS	924902	924967	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_001847-T1_mrna"; gene_id "gene-MVES_001847";
+KZ454989.1	Genbank	CDS	924995	925061	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_001847-T1_mrna"; gene_id "gene-MVES_001847";
+KZ454989.1	Genbank	CDS	925101	925166	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_001847-T1_mrna"; gene_id "gene-MVES_001847";
+KZ454989.1	Genbank	CDS	925262	926003	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_001847-T1_mrna"; gene_id "gene-MVES_001847";
+KZ454989.1	Genbank	CDS	926048	927092	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_001847-T1_mrna"; gene_id "gene-MVES_001847";
+KZ454990.1	Genbank	transcript	26404	29066	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001870-T1_mrna"; gene_id "gene-MVES_001870"
+KZ454990.1	Genbank	exon	26404	26646	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001870-T1_mrna"; gene_id "gene-MVES_001870";
+KZ454990.1	Genbank	exon	26675	27623	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001870-T1_mrna"; gene_id "gene-MVES_001870";
+KZ454990.1	Genbank	exon	27884	28059	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001870-T1_mrna"; gene_id "gene-MVES_001870";
+KZ454990.1	Genbank	exon	28097	28192	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001870-T1_mrna"; gene_id "gene-MVES_001870";
+KZ454990.1	Genbank	exon	28222	28281	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001870-T1_mrna"; gene_id "gene-MVES_001870";
+KZ454990.1	Genbank	exon	28866	29066	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001870-T1_mrna"; gene_id "gene-MVES_001870";
+KZ454990.1	Genbank	CDS	26404	26646	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001870-T1_mrna"; gene_id "gene-MVES_001870";
+KZ454990.1	Genbank	CDS	26675	27623	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_001870-T1_mrna"; gene_id "gene-MVES_001870";
+KZ454990.1	Genbank	CDS	27884	28059	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001870-T1_mrna"; gene_id "gene-MVES_001870";
+KZ454990.1	Genbank	CDS	28097	28192	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001870-T1_mrna"; gene_id "gene-MVES_001870";
+KZ454990.1	Genbank	CDS	28222	28281	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001870-T1_mrna"; gene_id "gene-MVES_001870";
+KZ454990.1	Genbank	CDS	28866	29066	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001870-T1_mrna"; gene_id "gene-MVES_001870";
+KZ454990.1	Genbank	transcript	72797	78280	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001893-T1_mrna"; gene_id "gene-MVES_001893"
+KZ454990.1	Genbank	exon	72797	76450	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001893-T1_mrna"; gene_id "gene-MVES_001893";
+KZ454990.1	Genbank	exon	76816	77666	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001893-T1_mrna"; gene_id "gene-MVES_001893";
+KZ454990.1	Genbank	exon	77828	77894	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001893-T1_mrna"; gene_id "gene-MVES_001893";
+KZ454990.1	Genbank	exon	77948	78280	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001893-T1_mrna"; gene_id "gene-MVES_001893";
+KZ454990.1	Genbank	CDS	72797	76450	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001893-T1_mrna"; gene_id "gene-MVES_001893";
+KZ454990.1	Genbank	CDS	76816	77666	.	-	2	transcript_id "rna-gnl|WGS:PECA|MVES_001893-T1_mrna"; gene_id "gene-MVES_001893";
+KZ454990.1	Genbank	CDS	77828	77894	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001893-T1_mrna"; gene_id "gene-MVES_001893";
+KZ454990.1	Genbank	CDS	77948	78280	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001893-T1_mrna"; gene_id "gene-MVES_001893";
+KZ454990.1	Genbank	transcript	89133	90086	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001898-T1_mrna"; gene_id "gene-MVES_001898"
+KZ454990.1	Genbank	exon	89133	90086	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001898-T1_mrna"; gene_id "gene-MVES_001898";
+KZ454990.1	Genbank	CDS	89133	90086	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001898-T1_mrna"; gene_id "gene-MVES_001898";
+KZ454990.1	Genbank	transcript	92410	95711	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001899-T1_mrna"; gene_id "gene-MVES_001899"; gene_name "DPH1"
+KZ454990.1	Genbank	exon	92410	92609	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001899-T1_mrna"; gene_id "gene-MVES_001899"; gene_name "DPH1";
+KZ454990.1	Genbank	exon	92751	92954	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001899-T1_mrna"; gene_id "gene-MVES_001899"; gene_name "DPH1";
+KZ454990.1	Genbank	exon	93252	93270	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001899-T1_mrna"; gene_id "gene-MVES_001899"; gene_name "DPH1";
+KZ454990.1	Genbank	exon	93717	93780	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001899-T1_mrna"; gene_id "gene-MVES_001899"; gene_name "DPH1";
+KZ454990.1	Genbank	exon	94169	94334	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001899-T1_mrna"; gene_id "gene-MVES_001899"; gene_name "DPH1";
+KZ454990.1	Genbank	exon	94364	95711	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001899-T1_mrna"; gene_id "gene-MVES_001899"; gene_name "DPH1";
+KZ454990.1	Genbank	CDS	92410	92609	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_001899-T1_mrna"; gene_id "gene-MVES_001899"; gene_name "DPH1";
+KZ454990.1	Genbank	CDS	92751	92954	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_001899-T1_mrna"; gene_id "gene-MVES_001899"; gene_name "DPH1";
+KZ454990.1	Genbank	CDS	93252	93270	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_001899-T1_mrna"; gene_id "gene-MVES_001899"; gene_name "DPH1";
+KZ454990.1	Genbank	CDS	93717	93780	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_001899-T1_mrna"; gene_id "gene-MVES_001899"; gene_name "DPH1";
+KZ454990.1	Genbank	CDS	94169	94334	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_001899-T1_mrna"; gene_id "gene-MVES_001899"; gene_name "DPH1";
+KZ454990.1	Genbank	CDS	94364	95711	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_001899-T1_mrna"; gene_id "gene-MVES_001899"; gene_name "DPH1";
+KZ454990.1	Genbank	transcript	158843	159712	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001930-T1_mrna"; gene_id "gene-MVES_001930"; gene_name "SHY1"
+KZ454990.1	Genbank	exon	158843	159712	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001930-T1_mrna"; gene_id "gene-MVES_001930"; gene_name "SHY1";
+KZ454990.1	Genbank	CDS	158843	159712	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_001930-T1_mrna"; gene_id "gene-MVES_001930"; gene_name "SHY1";
+KZ454990.1	Genbank	transcript	253370	255487	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001983-T1_mrna"; gene_id "gene-MVES_001983"
+KZ454990.1	Genbank	exon	253370	253537	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001983-T1_mrna"; gene_id "gene-MVES_001983";
+KZ454990.1	Genbank	exon	253593	254311	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001983-T1_mrna"; gene_id "gene-MVES_001983";
+KZ454990.1	Genbank	exon	254439	254455	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001983-T1_mrna"; gene_id "gene-MVES_001983";
+KZ454990.1	Genbank	exon	254491	254609	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001983-T1_mrna"; gene_id "gene-MVES_001983";
+KZ454990.1	Genbank	exon	254645	255487	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001983-T1_mrna"; gene_id "gene-MVES_001983";
+KZ454990.1	Genbank	CDS	253370	253537	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_001983-T1_mrna"; gene_id "gene-MVES_001983";
+KZ454990.1	Genbank	CDS	253593	254311	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_001983-T1_mrna"; gene_id "gene-MVES_001983";
+KZ454990.1	Genbank	CDS	254439	254455	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_001983-T1_mrna"; gene_id "gene-MVES_001983";
+KZ454990.1	Genbank	CDS	254491	254609	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_001983-T1_mrna"; gene_id "gene-MVES_001983";
+KZ454990.1	Genbank	CDS	254645	255487	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_001983-T1_mrna"; gene_id "gene-MVES_001983";
+KZ454990.1	Genbank	transcript	255547	256620	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001984-T1_mrna"; gene_id "gene-MVES_001984"; gene_name "LIA1"
+KZ454990.1	Genbank	exon	255547	256620	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_001984-T1_mrna"; gene_id "gene-MVES_001984"; gene_name "LIA1";
+KZ454990.1	Genbank	CDS	255547	256620	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_001984-T1_mrna"; gene_id "gene-MVES_001984"; gene_name "LIA1";
+KZ454990.1	Genbank	transcript	256720	257625	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001985-T1_mrna"; gene_id "gene-MVES_001985"; gene_name "MRT4"
+KZ454990.1	Genbank	exon	256720	257625	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_001985-T1_mrna"; gene_id "gene-MVES_001985"; gene_name "MRT4";
+KZ454990.1	Genbank	CDS	256720	257625	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_001985-T1_mrna"; gene_id "gene-MVES_001985"; gene_name "MRT4";
+KZ454990.1	Genbank	transcript	295237	295785	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002005-T1_mrna"; gene_id "gene-MVES_002005"; gene_name "IMP3"
+KZ454990.1	Genbank	exon	295237	295785	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002005-T1_mrna"; gene_id "gene-MVES_002005"; gene_name "IMP3";
+KZ454990.1	Genbank	CDS	295237	295785	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_002005-T1_mrna"; gene_id "gene-MVES_002005"; gene_name "IMP3";
+KZ454990.1	Genbank	transcript	319526	322369	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002019-T1_mrna"; gene_id "gene-MVES_002019"
+KZ454990.1	Genbank	exon	319526	322369	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002019-T1_mrna"; gene_id "gene-MVES_002019";
+KZ454990.1	Genbank	CDS	319526	322369	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002019-T1_mrna"; gene_id "gene-MVES_002019";
+KZ454990.1	Genbank	transcript	322476	322817	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002020-T1_mrna"; gene_id "gene-MVES_002020"; gene_name "SPT4"
+KZ454990.1	Genbank	exon	322476	322589	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002020-T1_mrna"; gene_id "gene-MVES_002020"; gene_name "SPT4";
+KZ454990.1	Genbank	exon	322618	322726	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002020-T1_mrna"; gene_id "gene-MVES_002020"; gene_name "SPT4";
+KZ454990.1	Genbank	exon	322753	322817	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002020-T1_mrna"; gene_id "gene-MVES_002020"; gene_name "SPT4";
+KZ454990.1	Genbank	CDS	322476	322589	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_002020-T1_mrna"; gene_id "gene-MVES_002020"; gene_name "SPT4";
+KZ454990.1	Genbank	CDS	322618	322726	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_002020-T1_mrna"; gene_id "gene-MVES_002020"; gene_name "SPT4";
+KZ454990.1	Genbank	CDS	322753	322817	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_002020-T1_mrna"; gene_id "gene-MVES_002020"; gene_name "SPT4";
+KZ454990.1	Genbank	transcript	355495	357807	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002038-T1_mrna"; gene_id "gene-MVES_002038"; gene_name "COX15"
+KZ454990.1	Genbank	exon	355495	355645	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002038-T1_mrna"; gene_id "gene-MVES_002038"; gene_name "COX15";
+KZ454990.1	Genbank	exon	355675	355979	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002038-T1_mrna"; gene_id "gene-MVES_002038"; gene_name "COX15";
+KZ454990.1	Genbank	exon	356006	356330	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002038-T1_mrna"; gene_id "gene-MVES_002038"; gene_name "COX15";
+KZ454990.1	Genbank	exon	356480	357807	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002038-T1_mrna"; gene_id "gene-MVES_002038"; gene_name "COX15";
+KZ454990.1	Genbank	CDS	355495	355645	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_002038-T1_mrna"; gene_id "gene-MVES_002038"; gene_name "COX15";
+KZ454990.1	Genbank	CDS	355675	355979	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002038-T1_mrna"; gene_id "gene-MVES_002038"; gene_name "COX15";
+KZ454990.1	Genbank	CDS	356006	356330	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_002038-T1_mrna"; gene_id "gene-MVES_002038"; gene_name "COX15";
+KZ454990.1	Genbank	CDS	356480	357807	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002038-T1_mrna"; gene_id "gene-MVES_002038"; gene_name "COX15";
+KZ454990.1	Genbank	transcript	362508	364733	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002041-T1_mrna"; gene_id "gene-MVES_002041"; gene_name "DBP7"
+KZ454990.1	Genbank	exon	362508	364733	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002041-T1_mrna"; gene_id "gene-MVES_002041"; gene_name "DBP7";
+KZ454990.1	Genbank	CDS	362508	364733	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002041-T1_mrna"; gene_id "gene-MVES_002041"; gene_name "DBP7";
+KZ454990.1	Genbank	transcript	364844	367402	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002042-T1_mrna"; gene_id "gene-MVES_002042"; gene_name "SDA1"
+KZ454990.1	Genbank	exon	364844	366889	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002042-T1_mrna"; gene_id "gene-MVES_002042"; gene_name "SDA1";
+KZ454990.1	Genbank	exon	366918	367261	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002042-T1_mrna"; gene_id "gene-MVES_002042"; gene_name "SDA1";
+KZ454990.1	Genbank	exon	367312	367402	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002042-T1_mrna"; gene_id "gene-MVES_002042"; gene_name "SDA1";
+KZ454990.1	Genbank	CDS	364844	366889	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_002042-T1_mrna"; gene_id "gene-MVES_002042"; gene_name "SDA1";
+KZ454990.1	Genbank	CDS	366918	367261	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_002042-T1_mrna"; gene_id "gene-MVES_002042"; gene_name "SDA1";
+KZ454990.1	Genbank	CDS	367312	367402	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_002042-T1_mrna"; gene_id "gene-MVES_002042"; gene_name "SDA1";
+KZ454990.1	Genbank	transcript	387393	388219	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002053-T1_mrna"; gene_id "gene-MVES_002053"
+KZ454990.1	Genbank	exon	387393	387397	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002053-T1_mrna"; gene_id "gene-MVES_002053";
+KZ454990.1	Genbank	exon	387418	388219	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002053-T1_mrna"; gene_id "gene-MVES_002053";
+KZ454990.1	Genbank	CDS	387393	387397	.	-	2	transcript_id "rna-gnl|WGS:PECA|MVES_002053-T1_mrna"; gene_id "gene-MVES_002053";
+KZ454990.1	Genbank	CDS	387418	388219	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002053-T1_mrna"; gene_id "gene-MVES_002053";
+KZ454990.1	Genbank	transcript	405543	406315	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002064-T1_mrna"; gene_id "gene-MVES_002064"; gene_name "DOC1"
+KZ454990.1	Genbank	exon	405543	405745	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002064-T1_mrna"; gene_id "gene-MVES_002064"; gene_name "DOC1";
+KZ454990.1	Genbank	exon	405883	406315	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002064-T1_mrna"; gene_id "gene-MVES_002064"; gene_name "DOC1";
+KZ454990.1	Genbank	CDS	405543	405745	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_002064-T1_mrna"; gene_id "gene-MVES_002064"; gene_name "DOC1";
+KZ454990.1	Genbank	CDS	405883	406315	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_002064-T1_mrna"; gene_id "gene-MVES_002064"; gene_name "DOC1";
+KZ454990.1	Genbank	transcript	516185	517228	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002122-T1_mrna"; gene_id "gene-MVES_002122"
+KZ454990.1	Genbank	exon	516185	516389	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002122-T1_mrna"; gene_id "gene-MVES_002122";
+KZ454990.1	Genbank	exon	516417	517228	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002122-T1_mrna"; gene_id "gene-MVES_002122";
+KZ454990.1	Genbank	CDS	516185	516389	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_002122-T1_mrna"; gene_id "gene-MVES_002122";
+KZ454990.1	Genbank	CDS	516417	517228	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002122-T1_mrna"; gene_id "gene-MVES_002122";
+KZ454990.1	Genbank	transcript	720459	721543	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002228-T1_mrna"; gene_id "gene-MVES_002228"
+KZ454990.1	Genbank	exon	720459	721223	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002228-T1_mrna"; gene_id "gene-MVES_002228";
+KZ454990.1	Genbank	exon	721316	721543	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002228-T1_mrna"; gene_id "gene-MVES_002228";
+KZ454990.1	Genbank	CDS	720459	721223	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_002228-T1_mrna"; gene_id "gene-MVES_002228";
+KZ454990.1	Genbank	CDS	721316	721543	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_002228-T1_mrna"; gene_id "gene-MVES_002228";
+KZ454991.1	Genbank	transcript	8848	10164	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002299-T1_mrna"; gene_id "gene-MVES_002299"
+KZ454991.1	Genbank	exon	8848	10164	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002299-T1_mrna"; gene_id "gene-MVES_002299";
+KZ454991.1	Genbank	CDS	8848	10164	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_002299-T1_mrna"; gene_id "gene-MVES_002299";
+KZ454991.1	Genbank	transcript	67050	68930	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002327-T1_mrna"; gene_id "gene-MVES_002327"
+KZ454991.1	Genbank	exon	67050	68930	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002327-T1_mrna"; gene_id "gene-MVES_002327";
+KZ454991.1	Genbank	CDS	67050	68930	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_002327-T1_mrna"; gene_id "gene-MVES_002327";
+KZ454991.1	Genbank	transcript	210210	210981	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002399-T1_mrna"; gene_id "gene-MVES_002399"
+KZ454991.1	Genbank	exon	210210	210213	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002399-T1_mrna"; gene_id "gene-MVES_002399";
+KZ454991.1	Genbank	exon	210245	210981	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002399-T1_mrna"; gene_id "gene-MVES_002399";
+KZ454991.1	Genbank	CDS	210210	210213	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_002399-T1_mrna"; gene_id "gene-MVES_002399";
+KZ454991.1	Genbank	CDS	210245	210981	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_002399-T1_mrna"; gene_id "gene-MVES_002399";
+KZ454991.1	Genbank	transcript	294191	297665	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002435-T1_mrna"; gene_id "gene-MVES_002435"; gene_name "UTP13"
+KZ454991.1	Genbank	exon	294191	296629	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002435-T1_mrna"; gene_id "gene-MVES_002435"; gene_name "UTP13";
+KZ454991.1	Genbank	exon	296659	296824	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002435-T1_mrna"; gene_id "gene-MVES_002435"; gene_name "UTP13";
+KZ454991.1	Genbank	exon	297095	297178	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002435-T1_mrna"; gene_id "gene-MVES_002435"; gene_name "UTP13";
+KZ454991.1	Genbank	exon	297215	297473	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002435-T1_mrna"; gene_id "gene-MVES_002435"; gene_name "UTP13";
+KZ454991.1	Genbank	exon	297509	297665	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002435-T1_mrna"; gene_id "gene-MVES_002435"; gene_name "UTP13";
+KZ454991.1	Genbank	CDS	294191	296629	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002435-T1_mrna"; gene_id "gene-MVES_002435"; gene_name "UTP13";
+KZ454991.1	Genbank	CDS	296659	296824	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_002435-T1_mrna"; gene_id "gene-MVES_002435"; gene_name "UTP13";
+KZ454991.1	Genbank	CDS	297095	297178	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_002435-T1_mrna"; gene_id "gene-MVES_002435"; gene_name "UTP13";
+KZ454991.1	Genbank	CDS	297215	297473	.	-	2	transcript_id "rna-gnl|WGS:PECA|MVES_002435-T1_mrna"; gene_id "gene-MVES_002435"; gene_name "UTP13";
+KZ454991.1	Genbank	CDS	297509	297665	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002435-T1_mrna"; gene_id "gene-MVES_002435"; gene_name "UTP13";
+KZ454991.1	Genbank	transcript	313532	314383	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002445-T1_mrna"; gene_id "gene-MVES_002445"; gene_name "RRP40"
+KZ454991.1	Genbank	exon	313532	314383	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002445-T1_mrna"; gene_id "gene-MVES_002445"; gene_name "RRP40";
+KZ454991.1	Genbank	CDS	313532	314383	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002445-T1_mrna"; gene_id "gene-MVES_002445"; gene_name "RRP40";
+KZ454991.1	Genbank	transcript	340003	340791	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002459-T1_mrna"; gene_id "gene-MVES_002459"; gene_name "NSA2"
+KZ454991.1	Genbank	exon	340003	340791	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002459-T1_mrna"; gene_id "gene-MVES_002459"; gene_name "NSA2";
+KZ454991.1	Genbank	CDS	340003	340791	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_002459-T1_mrna"; gene_id "gene-MVES_002459"; gene_name "NSA2";
+KZ454991.1	Genbank	transcript	467421	472907	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002524-T1_mrna"; gene_id "gene-MVES_002524"
+KZ454991.1	Genbank	exon	467421	469441	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002524-T1_mrna"; gene_id "gene-MVES_002524";
+KZ454991.1	Genbank	exon	470176	470624	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002524-T1_mrna"; gene_id "gene-MVES_002524";
+KZ454991.1	Genbank	exon	470771	470837	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002524-T1_mrna"; gene_id "gene-MVES_002524";
+KZ454991.1	Genbank	exon	470867	472907	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002524-T1_mrna"; gene_id "gene-MVES_002524";
+KZ454991.1	Genbank	CDS	467421	469441	.	-	2	transcript_id "rna-gnl|WGS:PECA|MVES_002524-T1_mrna"; gene_id "gene-MVES_002524";
+KZ454991.1	Genbank	CDS	470176	470624	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_002524-T1_mrna"; gene_id "gene-MVES_002524";
+KZ454991.1	Genbank	CDS	470771	470837	.	-	2	transcript_id "rna-gnl|WGS:PECA|MVES_002524-T1_mrna"; gene_id "gene-MVES_002524";
+KZ454991.1	Genbank	CDS	470867	472907	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002524-T1_mrna"; gene_id "gene-MVES_002524";
+KZ454991.1	Genbank	transcript	515669	516633	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002552-T1_mrna"; gene_id "gene-MVES_002552"; gene_name "CWC26"
+KZ454991.1	Genbank	exon	515669	516327	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002552-T1_mrna"; gene_id "gene-MVES_002552"; gene_name "CWC26";
+KZ454991.1	Genbank	exon	516357	516633	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002552-T1_mrna"; gene_id "gene-MVES_002552"; gene_name "CWC26";
+KZ454991.1	Genbank	CDS	515669	516327	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_002552-T1_mrna"; gene_id "gene-MVES_002552"; gene_name "CWC26";
+KZ454991.1	Genbank	CDS	516357	516633	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_002552-T1_mrna"; gene_id "gene-MVES_002552"; gene_name "CWC26";
+KZ454991.1	Genbank	transcript	637026	639326	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002614-T1_mrna"; gene_id "gene-MVES_002614"
+KZ454991.1	Genbank	exon	637026	639326	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002614-T1_mrna"; gene_id "gene-MVES_002614";
+KZ454991.1	Genbank	CDS	637026	639326	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002614-T1_mrna"; gene_id "gene-MVES_002614";
+KZ454991.1	Genbank	transcript	775695	777113	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002694-T1_mrna"; gene_id "gene-MVES_002694"; gene_name "PRP46"
+KZ454991.1	Genbank	exon	775695	777113	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002694-T1_mrna"; gene_id "gene-MVES_002694"; gene_name "PRP46";
+KZ454991.1	Genbank	CDS	775695	777113	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_002694-T1_mrna"; gene_id "gene-MVES_002694"; gene_name "PRP46";
+KZ454991.1	Genbank	transcript	781818	784388	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002698-T1_mrna"; gene_id "gene-MVES_002698"; gene_name "ERB1"
+KZ454991.1	Genbank	exon	781818	784388	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002698-T1_mrna"; gene_id "gene-MVES_002698"; gene_name "ERB1";
+KZ454991.1	Genbank	CDS	781818	784388	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_002698-T1_mrna"; gene_id "gene-MVES_002698"; gene_name "ERB1";
+KZ454991.1	Genbank	transcript	822639	823973	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002713-T1_mrna"; gene_id "gene-MVES_002713"
+KZ454991.1	Genbank	exon	822639	823973	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002713-T1_mrna"; gene_id "gene-MVES_002713";
+KZ454991.1	Genbank	CDS	822639	823973	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002713-T1_mrna"; gene_id "gene-MVES_002713";
+KZ454992.1	Genbank	transcript	452	2275	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002726-T1_mrna"; gene_id "gene-MVES_002726"; gene_name "FRS1"
+KZ454992.1	Genbank	exon	452	2275	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002726-T1_mrna"; gene_id "gene-MVES_002726"; gene_name "FRS1";
+KZ454992.1	Genbank	CDS	452	2275	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002726-T1_mrna"; gene_id "gene-MVES_002726"; gene_name "FRS1";
+KZ454992.1	Genbank	transcript	2369	4291	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002727-T1_mrna"; gene_id "gene-MVES_002727"
+KZ454992.1	Genbank	exon	2369	4291	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002727-T1_mrna"; gene_id "gene-MVES_002727";
+KZ454992.1	Genbank	CDS	2369	4291	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002727-T1_mrna"; gene_id "gene-MVES_002727";
+KZ454992.1	Genbank	transcript	5542	10947	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002729-T1_mrna"; gene_id "gene-MVES_002729"; gene_name "FYV10"
+KZ454992.1	Genbank	exon	5542	5545	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002729-T1_mrna"; gene_id "gene-MVES_002729"; gene_name "FYV10";
+KZ454992.1	Genbank	exon	5580	5817	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002729-T1_mrna"; gene_id "gene-MVES_002729"; gene_name "FYV10";
+KZ454992.1	Genbank	exon	5923	6241	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002729-T1_mrna"; gene_id "gene-MVES_002729"; gene_name "FYV10";
+KZ454992.1	Genbank	exon	7607	9031	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002729-T1_mrna"; gene_id "gene-MVES_002729"; gene_name "FYV10";
+KZ454992.1	Genbank	exon	9450	9491	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002729-T1_mrna"; gene_id "gene-MVES_002729"; gene_name "FYV10";
+KZ454992.1	Genbank	exon	9530	9742	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002729-T1_mrna"; gene_id "gene-MVES_002729"; gene_name "FYV10";
+KZ454992.1	Genbank	exon	9774	9938	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002729-T1_mrna"; gene_id "gene-MVES_002729"; gene_name "FYV10";
+KZ454992.1	Genbank	exon	9976	10221	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002729-T1_mrna"; gene_id "gene-MVES_002729"; gene_name "FYV10";
+KZ454992.1	Genbank	exon	10251	10604	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002729-T1_mrna"; gene_id "gene-MVES_002729"; gene_name "FYV10";
+KZ454992.1	Genbank	exon	10639	10947	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002729-T1_mrna"; gene_id "gene-MVES_002729"; gene_name "FYV10";
+KZ454992.1	Genbank	CDS	5542	5545	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_002729-T1_mrna"; gene_id "gene-MVES_002729"; gene_name "FYV10";
+KZ454992.1	Genbank	CDS	5580	5817	.	-	2	transcript_id "rna-gnl|WGS:PECA|MVES_002729-T1_mrna"; gene_id "gene-MVES_002729"; gene_name "FYV10";
+KZ454992.1	Genbank	CDS	5923	6241	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002729-T1_mrna"; gene_id "gene-MVES_002729"; gene_name "FYV10";
+KZ454992.1	Genbank	CDS	7607	9031	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002729-T1_mrna"; gene_id "gene-MVES_002729"; gene_name "FYV10";
+KZ454992.1	Genbank	CDS	9450	9491	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002729-T1_mrna"; gene_id "gene-MVES_002729"; gene_name "FYV10";
+KZ454992.1	Genbank	CDS	9530	9742	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002729-T1_mrna"; gene_id "gene-MVES_002729"; gene_name "FYV10";
+KZ454992.1	Genbank	CDS	9774	9938	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002729-T1_mrna"; gene_id "gene-MVES_002729"; gene_name "FYV10";
+KZ454992.1	Genbank	CDS	9976	10221	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002729-T1_mrna"; gene_id "gene-MVES_002729"; gene_name "FYV10";
+KZ454992.1	Genbank	CDS	10251	10604	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002729-T1_mrna"; gene_id "gene-MVES_002729"; gene_name "FYV10";
+KZ454992.1	Genbank	CDS	10639	10947	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002729-T1_mrna"; gene_id "gene-MVES_002729"; gene_name "FYV10";
+KZ454992.1	Genbank	transcript	27876	29594	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002741-T1_mrna"; gene_id "gene-MVES_002741"; gene_name "FET5"
+KZ454992.1	Genbank	exon	27876	28639	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002741-T1_mrna"; gene_id "gene-MVES_002741"; gene_name "FET5";
+KZ454992.1	Genbank	exon	28716	28744	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002741-T1_mrna"; gene_id "gene-MVES_002741"; gene_name "FET5";
+KZ454992.1	Genbank	exon	28845	28855	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002741-T1_mrna"; gene_id "gene-MVES_002741"; gene_name "FET5";
+KZ454992.1	Genbank	exon	28893	29594	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002741-T1_mrna"; gene_id "gene-MVES_002741"; gene_name "FET5";
+KZ454992.1	Genbank	CDS	27876	28639	.	-	2	transcript_id "rna-gnl|WGS:PECA|MVES_002741-T1_mrna"; gene_id "gene-MVES_002741"; gene_name "FET5";
+KZ454992.1	Genbank	CDS	28716	28744	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_002741-T1_mrna"; gene_id "gene-MVES_002741"; gene_name "FET5";
+KZ454992.1	Genbank	CDS	28845	28855	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002741-T1_mrna"; gene_id "gene-MVES_002741"; gene_name "FET5";
+KZ454992.1	Genbank	CDS	28893	29594	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002741-T1_mrna"; gene_id "gene-MVES_002741"; gene_name "FET5";
+KZ454992.1	Genbank	transcript	125516	126313	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002796-T1_mrna"; gene_id "gene-MVES_002796"
+KZ454992.1	Genbank	exon	125516	126313	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002796-T1_mrna"; gene_id "gene-MVES_002796";
+KZ454992.1	Genbank	CDS	125516	126313	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_002796-T1_mrna"; gene_id "gene-MVES_002796";
+KZ454992.1	Genbank	transcript	146707	147967	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002808-T1_mrna"; gene_id "gene-MVES_002808"; gene_name "TRM61"
+KZ454992.1	Genbank	exon	146707	147879	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002808-T1_mrna"; gene_id "gene-MVES_002808"; gene_name "TRM61";
+KZ454992.1	Genbank	exon	147908	147967	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002808-T1_mrna"; gene_id "gene-MVES_002808"; gene_name "TRM61";
+KZ454992.1	Genbank	CDS	146707	147879	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002808-T1_mrna"; gene_id "gene-MVES_002808"; gene_name "TRM61";
+KZ454992.1	Genbank	CDS	147908	147967	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002808-T1_mrna"; gene_id "gene-MVES_002808"; gene_name "TRM61";
+KZ454992.1	Genbank	transcript	148049	152303	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002809-T1_mrna"; gene_id "gene-MVES_002809"
+KZ454992.1	Genbank	exon	148049	151274	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002809-T1_mrna"; gene_id "gene-MVES_002809";
+KZ454992.1	Genbank	exon	151424	151802	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002809-T1_mrna"; gene_id "gene-MVES_002809";
+KZ454992.1	Genbank	exon	151831	152131	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002809-T1_mrna"; gene_id "gene-MVES_002809";
+KZ454992.1	Genbank	exon	152166	152303	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002809-T1_mrna"; gene_id "gene-MVES_002809";
+KZ454992.1	Genbank	CDS	148049	151274	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_002809-T1_mrna"; gene_id "gene-MVES_002809";
+KZ454992.1	Genbank	CDS	151424	151802	.	-	2	transcript_id "rna-gnl|WGS:PECA|MVES_002809-T1_mrna"; gene_id "gene-MVES_002809";
+KZ454992.1	Genbank	CDS	151831	152131	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002809-T1_mrna"; gene_id "gene-MVES_002809";
+KZ454992.1	Genbank	CDS	152166	152303	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002809-T1_mrna"; gene_id "gene-MVES_002809";
+KZ454992.1	Genbank	transcript	228900	234132	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002840-T1_mrna"; gene_id "gene-MVES_002840"
+KZ454992.1	Genbank	exon	228900	231648	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002840-T1_mrna"; gene_id "gene-MVES_002840";
+KZ454992.1	Genbank	exon	231824	234132	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002840-T1_mrna"; gene_id "gene-MVES_002840";
+KZ454992.1	Genbank	CDS	228900	231648	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_002840-T1_mrna"; gene_id "gene-MVES_002840";
+KZ454992.1	Genbank	CDS	231824	234132	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002840-T1_mrna"; gene_id "gene-MVES_002840";
+KZ454992.1	Genbank	transcript	294013	295023	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002875-T1_mrna"; gene_id "gene-MVES_002875"
+KZ454992.1	Genbank	exon	294013	295023	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002875-T1_mrna"; gene_id "gene-MVES_002875";
+KZ454992.1	Genbank	CDS	294013	295023	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_002875-T1_mrna"; gene_id "gene-MVES_002875";
+KZ454992.1	Genbank	transcript	300853	301528	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002880-T1_mrna"; gene_id "gene-MVES_002880"; gene_name "MED6"
+KZ454992.1	Genbank	exon	300853	301005	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002880-T1_mrna"; gene_id "gene-MVES_002880"; gene_name "MED6";
+KZ454992.1	Genbank	exon	301035	301209	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002880-T1_mrna"; gene_id "gene-MVES_002880"; gene_name "MED6";
+KZ454992.1	Genbank	exon	301239	301528	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002880-T1_mrna"; gene_id "gene-MVES_002880"; gene_name "MED6";
+KZ454992.1	Genbank	CDS	300853	301005	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002880-T1_mrna"; gene_id "gene-MVES_002880"; gene_name "MED6";
+KZ454992.1	Genbank	CDS	301035	301209	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_002880-T1_mrna"; gene_id "gene-MVES_002880"; gene_name "MED6";
+KZ454992.1	Genbank	CDS	301239	301528	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002880-T1_mrna"; gene_id "gene-MVES_002880"; gene_name "MED6";
+KZ454992.1	Genbank	transcript	333003	334575	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002900-T1_mrna"; gene_id "gene-MVES_002900"
+KZ454992.1	Genbank	exon	333003	333035	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002900-T1_mrna"; gene_id "gene-MVES_002900";
+KZ454992.1	Genbank	exon	333079	334575	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_002900-T1_mrna"; gene_id "gene-MVES_002900";
+KZ454992.1	Genbank	CDS	333003	333035	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002900-T1_mrna"; gene_id "gene-MVES_002900";
+KZ454992.1	Genbank	CDS	333079	334575	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_002900-T1_mrna"; gene_id "gene-MVES_002900";
+KZ454992.1	Genbank	transcript	344685	347612	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002904-T1_mrna"; gene_id "gene-MVES_002904"
+KZ454992.1	Genbank	exon	344685	347612	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002904-T1_mrna"; gene_id "gene-MVES_002904";
+KZ454992.1	Genbank	CDS	344685	347612	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_002904-T1_mrna"; gene_id "gene-MVES_002904";
+KZ454992.1	Genbank	transcript	386659	387675	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002925-T1_mrna"; gene_id "gene-MVES_002925"
+KZ454992.1	Genbank	exon	386659	386868	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002925-T1_mrna"; gene_id "gene-MVES_002925";
+KZ454992.1	Genbank	exon	386897	387040	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002925-T1_mrna"; gene_id "gene-MVES_002925";
+KZ454992.1	Genbank	exon	387071	387451	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002925-T1_mrna"; gene_id "gene-MVES_002925";
+KZ454992.1	Genbank	exon	387478	387675	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_002925-T1_mrna"; gene_id "gene-MVES_002925";
+KZ454992.1	Genbank	CDS	386659	386868	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_002925-T1_mrna"; gene_id "gene-MVES_002925";
+KZ454992.1	Genbank	CDS	386897	387040	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_002925-T1_mrna"; gene_id "gene-MVES_002925";
+KZ454992.1	Genbank	CDS	387071	387451	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_002925-T1_mrna"; gene_id "gene-MVES_002925";
+KZ454992.1	Genbank	CDS	387478	387675	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_002925-T1_mrna"; gene_id "gene-MVES_002925";
+KZ454992.1	Genbank	transcript	728149	729588	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003095-T1_mrna"; gene_id "gene-MVES_003095"; gene_name "ENP1"
+KZ454992.1	Genbank	exon	728149	729588	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003095-T1_mrna"; gene_id "gene-MVES_003095"; gene_name "ENP1";
+KZ454992.1	Genbank	CDS	728149	729588	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_003095-T1_mrna"; gene_id "gene-MVES_003095"; gene_name "ENP1";
+KZ454993.1	Genbank	transcript	29225	30681	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003124-T1_mrna"; gene_id "gene-MVES_003124"; gene_name "TRM6"
+KZ454993.1	Genbank	exon	29225	29425	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003124-T1_mrna"; gene_id "gene-MVES_003124"; gene_name "TRM6";
+KZ454993.1	Genbank	exon	29455	29557	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003124-T1_mrna"; gene_id "gene-MVES_003124"; gene_name "TRM6";
+KZ454993.1	Genbank	exon	29591	29723	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003124-T1_mrna"; gene_id "gene-MVES_003124"; gene_name "TRM6";
+KZ454993.1	Genbank	exon	29796	30681	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003124-T1_mrna"; gene_id "gene-MVES_003124"; gene_name "TRM6";
+KZ454993.1	Genbank	CDS	29225	29425	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_003124-T1_mrna"; gene_id "gene-MVES_003124"; gene_name "TRM6";
+KZ454993.1	Genbank	CDS	29455	29557	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_003124-T1_mrna"; gene_id "gene-MVES_003124"; gene_name "TRM6";
+KZ454993.1	Genbank	CDS	29591	29723	.	-	2	transcript_id "rna-gnl|WGS:PECA|MVES_003124-T1_mrna"; gene_id "gene-MVES_003124"; gene_name "TRM6";
+KZ454993.1	Genbank	CDS	29796	30681	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_003124-T1_mrna"; gene_id "gene-MVES_003124"; gene_name "TRM6";
+KZ454993.1	Genbank	transcript	30858	33672	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003125-T1_mrna"; gene_id "gene-MVES_003125"
+KZ454993.1	Genbank	exon	30858	30916	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003125-T1_mrna"; gene_id "gene-MVES_003125";
+KZ454993.1	Genbank	exon	30962	31133	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003125-T1_mrna"; gene_id "gene-MVES_003125";
+KZ454993.1	Genbank	exon	31438	31465	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003125-T1_mrna"; gene_id "gene-MVES_003125";
+KZ454993.1	Genbank	exon	31505	33672	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003125-T1_mrna"; gene_id "gene-MVES_003125";
+KZ454993.1	Genbank	CDS	30858	30916	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003125-T1_mrna"; gene_id "gene-MVES_003125";
+KZ454993.1	Genbank	CDS	30962	31133	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_003125-T1_mrna"; gene_id "gene-MVES_003125";
+KZ454993.1	Genbank	CDS	31438	31465	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003125-T1_mrna"; gene_id "gene-MVES_003125";
+KZ454993.1	Genbank	CDS	31505	33672	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_003125-T1_mrna"; gene_id "gene-MVES_003125";
+KZ454993.1	Genbank	transcript	50109	50948	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003132-T1_mrna"; gene_id "gene-MVES_003132"; gene_name "RPC25"
+KZ454993.1	Genbank	exon	50109	50132	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003132-T1_mrna"; gene_id "gene-MVES_003132"; gene_name "RPC25";
+KZ454993.1	Genbank	exon	50160	50246	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003132-T1_mrna"; gene_id "gene-MVES_003132"; gene_name "RPC25";
+KZ454993.1	Genbank	exon	50273	50369	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003132-T1_mrna"; gene_id "gene-MVES_003132"; gene_name "RPC25";
+KZ454993.1	Genbank	exon	50400	50486	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003132-T1_mrna"; gene_id "gene-MVES_003132"; gene_name "RPC25";
+KZ454993.1	Genbank	exon	50513	50576	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003132-T1_mrna"; gene_id "gene-MVES_003132"; gene_name "RPC25";
+KZ454993.1	Genbank	exon	50603	50948	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003132-T1_mrna"; gene_id "gene-MVES_003132"; gene_name "RPC25";
+KZ454993.1	Genbank	CDS	50109	50132	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003132-T1_mrna"; gene_id "gene-MVES_003132"; gene_name "RPC25";
+KZ454993.1	Genbank	CDS	50160	50246	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003132-T1_mrna"; gene_id "gene-MVES_003132"; gene_name "RPC25";
+KZ454993.1	Genbank	CDS	50273	50369	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003132-T1_mrna"; gene_id "gene-MVES_003132"; gene_name "RPC25";
+KZ454993.1	Genbank	CDS	50400	50486	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_003132-T1_mrna"; gene_id "gene-MVES_003132"; gene_name "RPC25";
+KZ454993.1	Genbank	CDS	50513	50576	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_003132-T1_mrna"; gene_id "gene-MVES_003132"; gene_name "RPC25";
+KZ454993.1	Genbank	CDS	50603	50948	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_003132-T1_mrna"; gene_id "gene-MVES_003132"; gene_name "RPC25";
+KZ454993.1	Genbank	transcript	89992	91941	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003152-T1_mrna"; gene_id "gene-MVES_003152"; gene_name "DBP6"
+KZ454993.1	Genbank	exon	89992	91941	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003152-T1_mrna"; gene_id "gene-MVES_003152"; gene_name "DBP6";
+KZ454993.1	Genbank	CDS	89992	91941	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_003152-T1_mrna"; gene_id "gene-MVES_003152"; gene_name "DBP6";
+KZ454993.1	Genbank	transcript	174522	175787	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003187-T1_mrna"; gene_id "gene-MVES_003187"; gene_name "GCV1"
+KZ454993.1	Genbank	exon	174522	175787	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003187-T1_mrna"; gene_id "gene-MVES_003187"; gene_name "GCV1";
+KZ454993.1	Genbank	CDS	174522	175787	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003187-T1_mrna"; gene_id "gene-MVES_003187"; gene_name "GCV1";
+KZ454993.1	Genbank	transcript	233116	234471	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003214-T1_mrna"; gene_id "gene-MVES_003214"
+KZ454993.1	Genbank	exon	233116	233294	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003214-T1_mrna"; gene_id "gene-MVES_003214";
+KZ454993.1	Genbank	exon	233328	234471	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003214-T1_mrna"; gene_id "gene-MVES_003214";
+KZ454993.1	Genbank	CDS	233116	233294	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003214-T1_mrna"; gene_id "gene-MVES_003214";
+KZ454993.1	Genbank	CDS	233328	234471	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_003214-T1_mrna"; gene_id "gene-MVES_003214";
+KZ454993.1	Genbank	transcript	234507	235778	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003215-T1_mrna"; gene_id "gene-MVES_003215"; gene_name "CSN12"
+KZ454993.1	Genbank	exon	234507	235778	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003215-T1_mrna"; gene_id "gene-MVES_003215"; gene_name "CSN12";
+KZ454993.1	Genbank	CDS	234507	235778	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_003215-T1_mrna"; gene_id "gene-MVES_003215"; gene_name "CSN12";
+KZ454993.1	Genbank	transcript	269414	271234	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003229-T1_mrna"; gene_id "gene-MVES_003229"
+KZ454993.1	Genbank	exon	269414	271234	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003229-T1_mrna"; gene_id "gene-MVES_003229";
+KZ454993.1	Genbank	CDS	269414	271234	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_003229-T1_mrna"; gene_id "gene-MVES_003229";
+KZ454993.1	Genbank	transcript	367441	369126	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003272-T1_mrna"; gene_id "gene-MVES_003272"
+KZ454993.1	Genbank	exon	367441	369126	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003272-T1_mrna"; gene_id "gene-MVES_003272";
+KZ454993.1	Genbank	CDS	367441	369126	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_003272-T1_mrna"; gene_id "gene-MVES_003272";
+KZ454993.1	Genbank	transcript	404434	406974	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003291-T1_mrna"; gene_id "gene-MVES_003291"; gene_name "MCM2"
+KZ454993.1	Genbank	exon	404434	406974	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003291-T1_mrna"; gene_id "gene-MVES_003291"; gene_name "MCM2";
+KZ454993.1	Genbank	CDS	404434	406974	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_003291-T1_mrna"; gene_id "gene-MVES_003291"; gene_name "MCM2";
+KZ454994.1	Genbank	transcript	33635	35308	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003346-T1_mrna"; gene_id "gene-MVES_003346"
+KZ454994.1	Genbank	exon	33635	35308	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003346-T1_mrna"; gene_id "gene-MVES_003346";
+KZ454994.1	Genbank	CDS	33635	35308	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_003346-T1_mrna"; gene_id "gene-MVES_003346";
+KZ454994.1	Genbank	transcript	114885	115931	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003389-T1_mrna"; gene_id "gene-MVES_003389"; gene_name "RRP4"
+KZ454994.1	Genbank	exon	114885	115931	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003389-T1_mrna"; gene_id "gene-MVES_003389"; gene_name "RRP4";
+KZ454994.1	Genbank	CDS	114885	115931	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003389-T1_mrna"; gene_id "gene-MVES_003389"; gene_name "RRP4";
+KZ454994.1	Genbank	transcript	220126	221250	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003456-T1_mrna"; gene_id "gene-MVES_003456"
+KZ454994.1	Genbank	exon	220126	221250	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003456-T1_mrna"; gene_id "gene-MVES_003456";
+KZ454994.1	Genbank	CDS	220126	221250	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003456-T1_mrna"; gene_id "gene-MVES_003456";
+KZ454994.1	Genbank	transcript	221283	222677	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003457-T1_mrna"; gene_id "gene-MVES_003457"; gene_name "EBP2"
+KZ454994.1	Genbank	exon	221283	222677	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003457-T1_mrna"; gene_id "gene-MVES_003457"; gene_name "EBP2";
+KZ454994.1	Genbank	CDS	221283	222677	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_003457-T1_mrna"; gene_id "gene-MVES_003457"; gene_name "EBP2";
+KZ454994.1	Genbank	transcript	384439	387561	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003545-T1_mrna"; gene_id "gene-MVES_003545"; gene_name "RRP9"
+KZ454994.1	Genbank	exon	384439	384473	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003545-T1_mrna"; gene_id "gene-MVES_003545"; gene_name "RRP9";
+KZ454994.1	Genbank	exon	384502	384596	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003545-T1_mrna"; gene_id "gene-MVES_003545"; gene_name "RRP9";
+KZ454994.1	Genbank	exon	384626	385244	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003545-T1_mrna"; gene_id "gene-MVES_003545"; gene_name "RRP9";
+KZ454994.1	Genbank	exon	385272	385431	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003545-T1_mrna"; gene_id "gene-MVES_003545"; gene_name "RRP9";
+KZ454994.1	Genbank	exon	385810	387561	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003545-T1_mrna"; gene_id "gene-MVES_003545"; gene_name "RRP9";
+KZ454994.1	Genbank	CDS	384439	384473	.	-	2	transcript_id "rna-gnl|WGS:PECA|MVES_003545-T1_mrna"; gene_id "gene-MVES_003545"; gene_name "RRP9";
+KZ454994.1	Genbank	CDS	384502	384596	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_003545-T1_mrna"; gene_id "gene-MVES_003545"; gene_name "RRP9";
+KZ454994.1	Genbank	CDS	384626	385244	.	-	2	transcript_id "rna-gnl|WGS:PECA|MVES_003545-T1_mrna"; gene_id "gene-MVES_003545"; gene_name "RRP9";
+KZ454994.1	Genbank	CDS	385272	385431	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_003545-T1_mrna"; gene_id "gene-MVES_003545"; gene_name "RRP9";
+KZ454994.1	Genbank	CDS	385810	387561	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_003545-T1_mrna"; gene_id "gene-MVES_003545"; gene_name "RRP9";
+KZ454994.1	Genbank	transcript	391345	392670	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003548-T1_mrna"; gene_id "gene-MVES_003548"
+KZ454994.1	Genbank	exon	391345	392670	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003548-T1_mrna"; gene_id "gene-MVES_003548";
+KZ454994.1	Genbank	CDS	391345	392670	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003548-T1_mrna"; gene_id "gene-MVES_003548";
+KZ454995.1	Genbank	transcript	8979	13575	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003572-T1_mrna"; gene_id "gene-MVES_003572"; gene_name "MLH1"
+KZ454995.1	Genbank	exon	8979	9950	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003572-T1_mrna"; gene_id "gene-MVES_003572"; gene_name "MLH1";
+KZ454995.1	Genbank	exon	10024	10052	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003572-T1_mrna"; gene_id "gene-MVES_003572"; gene_name "MLH1";
+KZ454995.1	Genbank	exon	10185	10834	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003572-T1_mrna"; gene_id "gene-MVES_003572"; gene_name "MLH1";
+KZ454995.1	Genbank	exon	10991	11288	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003572-T1_mrna"; gene_id "gene-MVES_003572"; gene_name "MLH1";
+KZ454995.1	Genbank	exon	11371	11405	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003572-T1_mrna"; gene_id "gene-MVES_003572"; gene_name "MLH1";
+KZ454995.1	Genbank	exon	11465	11487	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003572-T1_mrna"; gene_id "gene-MVES_003572"; gene_name "MLH1";
+KZ454995.1	Genbank	exon	11516	12275	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003572-T1_mrna"; gene_id "gene-MVES_003572"; gene_name "MLH1";
+KZ454995.1	Genbank	exon	12305	12552	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003572-T1_mrna"; gene_id "gene-MVES_003572"; gene_name "MLH1";
+KZ454995.1	Genbank	exon	12583	12625	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003572-T1_mrna"; gene_id "gene-MVES_003572"; gene_name "MLH1";
+KZ454995.1	Genbank	exon	12655	13524	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003572-T1_mrna"; gene_id "gene-MVES_003572"; gene_name "MLH1";
+KZ454995.1	Genbank	exon	13553	13575	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003572-T1_mrna"; gene_id "gene-MVES_003572"; gene_name "MLH1";
+KZ454995.1	Genbank	CDS	8979	9950	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003572-T1_mrna"; gene_id "gene-MVES_003572"; gene_name "MLH1";
+KZ454995.1	Genbank	CDS	10024	10052	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003572-T1_mrna"; gene_id "gene-MVES_003572"; gene_name "MLH1";
+KZ454995.1	Genbank	CDS	10185	10834	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_003572-T1_mrna"; gene_id "gene-MVES_003572"; gene_name "MLH1";
+KZ454995.1	Genbank	CDS	10991	11288	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_003572-T1_mrna"; gene_id "gene-MVES_003572"; gene_name "MLH1";
+KZ454995.1	Genbank	CDS	11371	11405	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_003572-T1_mrna"; gene_id "gene-MVES_003572"; gene_name "MLH1";
+KZ454995.1	Genbank	CDS	11465	11487	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_003572-T1_mrna"; gene_id "gene-MVES_003572"; gene_name "MLH1";
+KZ454995.1	Genbank	CDS	11516	12275	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003572-T1_mrna"; gene_id "gene-MVES_003572"; gene_name "MLH1";
+KZ454995.1	Genbank	CDS	12305	12552	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_003572-T1_mrna"; gene_id "gene-MVES_003572"; gene_name "MLH1";
+KZ454995.1	Genbank	CDS	12583	12625	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003572-T1_mrna"; gene_id "gene-MVES_003572"; gene_name "MLH1";
+KZ454995.1	Genbank	CDS	12655	13524	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_003572-T1_mrna"; gene_id "gene-MVES_003572"; gene_name "MLH1";
+KZ454995.1	Genbank	CDS	13553	13575	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_003572-T1_mrna"; gene_id "gene-MVES_003572"; gene_name "MLH1";
+KZ454995.1	Genbank	transcript	54340	55215	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003591-T1_mrna"; gene_id "gene-MVES_003591"; gene_name "TSR3"
+KZ454995.1	Genbank	exon	54340	55215	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003591-T1_mrna"; gene_id "gene-MVES_003591"; gene_name "TSR3";
+KZ454995.1	Genbank	CDS	54340	55215	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_003591-T1_mrna"; gene_id "gene-MVES_003591"; gene_name "TSR3";
+KZ454995.1	Genbank	transcript	67454	68183	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003600-T1_mrna"; gene_id "gene-MVES_003600"; gene_name "COX11"
+KZ454995.1	Genbank	exon	67454	67499	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003600-T1_mrna"; gene_id "gene-MVES_003600"; gene_name "COX11";
+KZ454995.1	Genbank	exon	67528	67727	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003600-T1_mrna"; gene_id "gene-MVES_003600"; gene_name "COX11";
+KZ454995.1	Genbank	exon	67758	68102	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003600-T1_mrna"; gene_id "gene-MVES_003600"; gene_name "COX11";
+KZ454995.1	Genbank	exon	68130	68183	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003600-T1_mrna"; gene_id "gene-MVES_003600"; gene_name "COX11";
+KZ454995.1	Genbank	CDS	67454	67499	.	-	1	transcript_id "rna-gnl|WGS:PECA|MVES_003600-T1_mrna"; gene_id "gene-MVES_003600"; gene_name "COX11";
+KZ454995.1	Genbank	CDS	67528	67727	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_003600-T1_mrna"; gene_id "gene-MVES_003600"; gene_name "COX11";
+KZ454995.1	Genbank	CDS	67758	68102	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_003600-T1_mrna"; gene_id "gene-MVES_003600"; gene_name "COX11";
+KZ454995.1	Genbank	CDS	68130	68183	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_003600-T1_mrna"; gene_id "gene-MVES_003600"; gene_name "COX11";
+KZ454995.1	Genbank	transcript	89583	91124	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003610-T1_mrna"; gene_id "gene-MVES_003610"; gene_name "ALG7"
+KZ454995.1	Genbank	exon	89583	91124	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003610-T1_mrna"; gene_id "gene-MVES_003610"; gene_name "ALG7";
+KZ454995.1	Genbank	CDS	89583	91124	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003610-T1_mrna"; gene_id "gene-MVES_003610"; gene_name "ALG7";
+KZ454995.1	Genbank	transcript	222319	224838	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003685-T1_mrna"; gene_id "gene-MVES_003685"
+KZ454995.1	Genbank	exon	222319	224166	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003685-T1_mrna"; gene_id "gene-MVES_003685";
+KZ454995.1	Genbank	exon	224219	224341	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003685-T1_mrna"; gene_id "gene-MVES_003685";
+KZ454995.1	Genbank	exon	224380	224838	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003685-T1_mrna"; gene_id "gene-MVES_003685";
+KZ454995.1	Genbank	CDS	222319	224166	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003685-T1_mrna"; gene_id "gene-MVES_003685";
+KZ454995.1	Genbank	CDS	224219	224341	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003685-T1_mrna"; gene_id "gene-MVES_003685";
+KZ454995.1	Genbank	CDS	224380	224838	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003685-T1_mrna"; gene_id "gene-MVES_003685";
+KZ454995.1	Genbank	transcript	259651	261644	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003704-T1_mrna"; gene_id "gene-MVES_003704"; gene_name "COG6"
+KZ454995.1	Genbank	exon	259651	259658	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003704-T1_mrna"; gene_id "gene-MVES_003704"; gene_name "COG6";
+KZ454995.1	Genbank	exon	259676	261644	.	-	.	transcript_id "rna-gnl|WGS:PECA|MVES_003704-T1_mrna"; gene_id "gene-MVES_003704"; gene_name "COG6";
+KZ454995.1	Genbank	CDS	259651	259658	.	-	2	transcript_id "rna-gnl|WGS:PECA|MVES_003704-T1_mrna"; gene_id "gene-MVES_003704"; gene_name "COG6";
+KZ454995.1	Genbank	CDS	259676	261644	.	-	0	transcript_id "rna-gnl|WGS:PECA|MVES_003704-T1_mrna"; gene_id "gene-MVES_003704"; gene_name "COG6";
+KZ454996.1	Genbank	transcript	77512	81649	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003758-T1_mrna"; gene_id "gene-MVES_003758"
+KZ454996.1	Genbank	exon	77512	78136	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003758-T1_mrna"; gene_id "gene-MVES_003758";
+KZ454996.1	Genbank	exon	78166	78263	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003758-T1_mrna"; gene_id "gene-MVES_003758";
+KZ454996.1	Genbank	exon	78297	78436	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003758-T1_mrna"; gene_id "gene-MVES_003758";
+KZ454996.1	Genbank	exon	78567	78618	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003758-T1_mrna"; gene_id "gene-MVES_003758";
+KZ454996.1	Genbank	exon	78997	79015	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003758-T1_mrna"; gene_id "gene-MVES_003758";
+KZ454996.1	Genbank	exon	79380	79403	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003758-T1_mrna"; gene_id "gene-MVES_003758";
+KZ454996.1	Genbank	exon	79595	79888	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003758-T1_mrna"; gene_id "gene-MVES_003758";
+KZ454996.1	Genbank	exon	79923	80011	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003758-T1_mrna"; gene_id "gene-MVES_003758";
+KZ454996.1	Genbank	exon	80049	80151	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003758-T1_mrna"; gene_id "gene-MVES_003758";
+KZ454996.1	Genbank	exon	80527	81074	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003758-T1_mrna"; gene_id "gene-MVES_003758";
+KZ454996.1	Genbank	exon	81110	81649	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003758-T1_mrna"; gene_id "gene-MVES_003758";
+KZ454996.1	Genbank	CDS	77512	78136	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003758-T1_mrna"; gene_id "gene-MVES_003758";
+KZ454996.1	Genbank	CDS	78166	78263	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_003758-T1_mrna"; gene_id "gene-MVES_003758";
+KZ454996.1	Genbank	CDS	78297	78436	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003758-T1_mrna"; gene_id "gene-MVES_003758";
+KZ454996.1	Genbank	CDS	78567	78618	.	+	1	transcript_id "rna-gnl|WGS:PECA|MVES_003758-T1_mrna"; gene_id "gene-MVES_003758";
+KZ454996.1	Genbank	CDS	78997	79015	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003758-T1_mrna"; gene_id "gene-MVES_003758";
+KZ454996.1	Genbank	CDS	79380	79403	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_003758-T1_mrna"; gene_id "gene-MVES_003758";
+KZ454996.1	Genbank	CDS	79595	79888	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_003758-T1_mrna"; gene_id "gene-MVES_003758";
+KZ454996.1	Genbank	CDS	79923	80011	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_003758-T1_mrna"; gene_id "gene-MVES_003758";
+KZ454996.1	Genbank	CDS	80049	80151	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003758-T1_mrna"; gene_id "gene-MVES_003758";
+KZ454996.1	Genbank	CDS	80527	81074	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_003758-T1_mrna"; gene_id "gene-MVES_003758";
+KZ454996.1	Genbank	CDS	81110	81649	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003758-T1_mrna"; gene_id "gene-MVES_003758";
+KZ454997.1	Genbank	transcript	20756	21451	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003783-T1_mrna"; gene_id "gene-MVES_003783"
+KZ454997.1	Genbank	exon	20756	21451	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003783-T1_mrna"; gene_id "gene-MVES_003783";
+KZ454997.1	Genbank	CDS	20756	21451	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003783-T1_mrna"; gene_id "gene-MVES_003783";
+KZ454998.1	Genbank	transcript	18634	20393	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003813-T1_mrna"; gene_id "gene-MVES_003813"; gene_name "DPB2"
+KZ454998.1	Genbank	exon	18634	20055	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003813-T1_mrna"; gene_id "gene-MVES_003813"; gene_name "DPB2";
+KZ454998.1	Genbank	exon	20082	20192	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003813-T1_mrna"; gene_id "gene-MVES_003813"; gene_name "DPB2";
+KZ454998.1	Genbank	exon	20218	20296	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003813-T1_mrna"; gene_id "gene-MVES_003813"; gene_name "DPB2";
+KZ454998.1	Genbank	exon	20341	20393	.	+	.	transcript_id "rna-gnl|WGS:PECA|MVES_003813-T1_mrna"; gene_id "gene-MVES_003813"; gene_name "DPB2";
+KZ454998.1	Genbank	CDS	18634	20055	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003813-T1_mrna"; gene_id "gene-MVES_003813"; gene_name "DPB2";
+KZ454998.1	Genbank	CDS	20082	20192	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003813-T1_mrna"; gene_id "gene-MVES_003813"; gene_name "DPB2";
+KZ454998.1	Genbank	CDS	20218	20296	.	+	0	transcript_id "rna-gnl|WGS:PECA|MVES_003813-T1_mrna"; gene_id "gene-MVES_003813"; gene_name "DPB2";
+KZ454998.1	Genbank	CDS	20341	20393	.	+	2	transcript_id "rna-gnl|WGS:PECA|MVES_003813-T1_mrna"; gene_id "gene-MVES_003813"; gene_name "DPB2";

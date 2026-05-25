@@ -1,0 +1,989 @@
+NW_020291801.1	RefSeq	transcript	400878	404321	.	-	.	transcript_id "rna-XM_025680328.1"; gene_id "gene-BO79DRAFT_184456"
+NW_020291801.1	RefSeq	exon	400878	401358	.	-	.	transcript_id "rna-XM_025680328.1"; gene_id "gene-BO79DRAFT_184456";
+NW_020291801.1	RefSeq	exon	401446	401615	.	-	.	transcript_id "rna-XM_025680328.1"; gene_id "gene-BO79DRAFT_184456";
+NW_020291801.1	RefSeq	exon	401686	403988	.	-	.	transcript_id "rna-XM_025680328.1"; gene_id "gene-BO79DRAFT_184456";
+NW_020291801.1	RefSeq	exon	404041	404156	.	-	.	transcript_id "rna-XM_025680328.1"; gene_id "gene-BO79DRAFT_184456";
+NW_020291801.1	RefSeq	exon	404255	404321	.	-	.	transcript_id "rna-XM_025680328.1"; gene_id "gene-BO79DRAFT_184456";
+NW_020291801.1	RefSeq	CDS	401256	401358	.	-	1	transcript_id "rna-XM_025680328.1"; gene_id "gene-BO79DRAFT_184456";
+NW_020291801.1	RefSeq	CDS	401446	401615	.	-	0	transcript_id "rna-XM_025680328.1"; gene_id "gene-BO79DRAFT_184456";
+NW_020291801.1	RefSeq	CDS	401686	403988	.	-	2	transcript_id "rna-XM_025680328.1"; gene_id "gene-BO79DRAFT_184456";
+NW_020291801.1	RefSeq	CDS	404041	404156	.	-	1	transcript_id "rna-XM_025680328.1"; gene_id "gene-BO79DRAFT_184456";
+NW_020291801.1	RefSeq	CDS	404255	404259	.	-	0	transcript_id "rna-XM_025680328.1"; gene_id "gene-BO79DRAFT_184456";
+NW_020291801.1	RefSeq	transcript	579881	583085	.	+	.	transcript_id "rna-XM_025680338.1"; gene_id "gene-BO79DRAFT_184570"
+NW_020291801.1	RefSeq	exon	579881	579930	.	+	.	transcript_id "rna-XM_025680338.1"; gene_id "gene-BO79DRAFT_184570";
+NW_020291801.1	RefSeq	exon	580031	580143	.	+	.	transcript_id "rna-XM_025680338.1"; gene_id "gene-BO79DRAFT_184570";
+NW_020291801.1	RefSeq	exon	580212	580707	.	+	.	transcript_id "rna-XM_025680338.1"; gene_id "gene-BO79DRAFT_184570";
+NW_020291801.1	RefSeq	exon	580755	581002	.	+	.	transcript_id "rna-XM_025680338.1"; gene_id "gene-BO79DRAFT_184570";
+NW_020291801.1	RefSeq	exon	581053	583085	.	+	.	transcript_id "rna-XM_025680338.1"; gene_id "gene-BO79DRAFT_184570";
+NW_020291801.1	RefSeq	CDS	579913	579930	.	+	0	transcript_id "rna-XM_025680338.1"; gene_id "gene-BO79DRAFT_184570";
+NW_020291801.1	RefSeq	CDS	580031	580143	.	+	0	transcript_id "rna-XM_025680338.1"; gene_id "gene-BO79DRAFT_184570";
+NW_020291801.1	RefSeq	CDS	580212	580707	.	+	1	transcript_id "rna-XM_025680338.1"; gene_id "gene-BO79DRAFT_184570";
+NW_020291801.1	RefSeq	CDS	580755	581002	.	+	0	transcript_id "rna-XM_025680338.1"; gene_id "gene-BO79DRAFT_184570";
+NW_020291801.1	RefSeq	CDS	581053	582889	.	+	1	transcript_id "rna-XM_025680338.1"; gene_id "gene-BO79DRAFT_184570";
+NW_020291801.1	RefSeq	transcript	1678604	1680281	.	+	.	transcript_id "rna-XM_025685175.1"; gene_id "gene-BO79DRAFT_241981"
+NW_020291801.1	RefSeq	exon	1678604	1678885	.	+	.	transcript_id "rna-XM_025685175.1"; gene_id "gene-BO79DRAFT_241981";
+NW_020291801.1	RefSeq	exon	1678966	1679301	.	+	.	transcript_id "rna-XM_025685175.1"; gene_id "gene-BO79DRAFT_241981";
+NW_020291801.1	RefSeq	exon	1679371	1680281	.	+	.	transcript_id "rna-XM_025685175.1"; gene_id "gene-BO79DRAFT_241981";
+NW_020291801.1	RefSeq	CDS	1678653	1678885	.	+	0	transcript_id "rna-XM_025685175.1"; gene_id "gene-BO79DRAFT_241981";
+NW_020291801.1	RefSeq	CDS	1678966	1679301	.	+	1	transcript_id "rna-XM_025685175.1"; gene_id "gene-BO79DRAFT_241981";
+NW_020291801.1	RefSeq	CDS	1679371	1680175	.	+	1	transcript_id "rna-XM_025685175.1"; gene_id "gene-BO79DRAFT_241981";
+NW_020291801.1	RefSeq	transcript	2258070	2259187	.	-	.	transcript_id "rna-XM_025679162.1"; gene_id "gene-BO79DRAFT_163866"; gene_name "med6"
+NW_020291801.1	RefSeq	exon	2258070	2258585	.	-	.	transcript_id "rna-XM_025679162.1"; gene_id "gene-BO79DRAFT_163866"; gene_name "med6";
+NW_020291801.1	RefSeq	exon	2258662	2259023	.	-	.	transcript_id "rna-XM_025679162.1"; gene_id "gene-BO79DRAFT_163866"; gene_name "med6";
+NW_020291801.1	RefSeq	exon	2259087	2259187	.	-	.	transcript_id "rna-XM_025679162.1"; gene_id "gene-BO79DRAFT_163866"; gene_name "med6";
+NW_020291801.1	RefSeq	CDS	2258070	2258585	.	-	0	transcript_id "rna-XM_025679162.1"; gene_id "gene-BO79DRAFT_163866"; gene_name "med6";
+NW_020291801.1	RefSeq	CDS	2258662	2259023	.	-	2	transcript_id "rna-XM_025679162.1"; gene_id "gene-BO79DRAFT_163866"; gene_name "med6";
+NW_020291801.1	RefSeq	CDS	2259087	2259180	.	-	0	transcript_id "rna-XM_025679162.1"; gene_id "gene-BO79DRAFT_163866"; gene_name "med6";
+NW_020291802.1	RefSeq	transcript	201620	205850	.	+	.	transcript_id "rna-XM_025680429.1"; gene_id "gene-BO79DRAFT_185820"; gene_name "hir1"
+NW_020291802.1	RefSeq	exon	201620	201996	.	+	.	transcript_id "rna-XM_025680429.1"; gene_id "gene-BO79DRAFT_185820"; gene_name "hir1";
+NW_020291802.1	RefSeq	exon	202189	202263	.	+	.	transcript_id "rna-XM_025680429.1"; gene_id "gene-BO79DRAFT_185820"; gene_name "hir1";
+NW_020291802.1	RefSeq	exon	202365	202586	.	+	.	transcript_id "rna-XM_025680429.1"; gene_id "gene-BO79DRAFT_185820"; gene_name "hir1";
+NW_020291802.1	RefSeq	exon	202661	205411	.	+	.	transcript_id "rna-XM_025680429.1"; gene_id "gene-BO79DRAFT_185820"; gene_name "hir1";
+NW_020291802.1	RefSeq	exon	205463	205850	.	+	.	transcript_id "rna-XM_025680429.1"; gene_id "gene-BO79DRAFT_185820"; gene_name "hir1";
+NW_020291802.1	RefSeq	CDS	201960	201996	.	+	0	transcript_id "rna-XM_025680429.1"; gene_id "gene-BO79DRAFT_185820"; gene_name "hir1";
+NW_020291802.1	RefSeq	CDS	202189	202263	.	+	2	transcript_id "rna-XM_025680429.1"; gene_id "gene-BO79DRAFT_185820"; gene_name "hir1";
+NW_020291802.1	RefSeq	CDS	202365	202586	.	+	2	transcript_id "rna-XM_025680429.1"; gene_id "gene-BO79DRAFT_185820"; gene_name "hir1";
+NW_020291802.1	RefSeq	CDS	202661	205411	.	+	2	transcript_id "rna-XM_025680429.1"; gene_id "gene-BO79DRAFT_185820"; gene_name "hir1";
+NW_020291802.1	RefSeq	CDS	205463	205560	.	+	2	transcript_id "rna-XM_025680429.1"; gene_id "gene-BO79DRAFT_185820"; gene_name "hir1";
+NW_020291802.1	RefSeq	transcript	206600	209349	.	+	.	transcript_id "rna-XM_025679174.1"; gene_id "gene-BO79DRAFT_164065"
+NW_020291802.1	RefSeq	exon	206600	206674	.	+	.	transcript_id "rna-XM_025679174.1"; gene_id "gene-BO79DRAFT_164065";
+NW_020291802.1	RefSeq	exon	206937	207494	.	+	.	transcript_id "rna-XM_025679174.1"; gene_id "gene-BO79DRAFT_164065";
+NW_020291802.1	RefSeq	exon	207708	208254	.	+	.	transcript_id "rna-XM_025679174.1"; gene_id "gene-BO79DRAFT_164065";
+NW_020291802.1	RefSeq	exon	208494	208536	.	+	.	transcript_id "rna-XM_025679174.1"; gene_id "gene-BO79DRAFT_164065";
+NW_020291802.1	RefSeq	exon	208689	208829	.	+	.	transcript_id "rna-XM_025679174.1"; gene_id "gene-BO79DRAFT_164065";
+NW_020291802.1	RefSeq	exon	208933	209349	.	+	.	transcript_id "rna-XM_025679174.1"; gene_id "gene-BO79DRAFT_164065";
+NW_020291802.1	RefSeq	CDS	206600	206674	.	+	0	transcript_id "rna-XM_025679174.1"; gene_id "gene-BO79DRAFT_164065";
+NW_020291802.1	RefSeq	CDS	206937	207494	.	+	0	transcript_id "rna-XM_025679174.1"; gene_id "gene-BO79DRAFT_164065";
+NW_020291802.1	RefSeq	CDS	207708	208254	.	+	0	transcript_id "rna-XM_025679174.1"; gene_id "gene-BO79DRAFT_164065";
+NW_020291802.1	RefSeq	CDS	208494	208536	.	+	2	transcript_id "rna-XM_025679174.1"; gene_id "gene-BO79DRAFT_164065";
+NW_020291802.1	RefSeq	CDS	208689	208829	.	+	1	transcript_id "rna-XM_025679174.1"; gene_id "gene-BO79DRAFT_164065";
+NW_020291802.1	RefSeq	CDS	208933	209332	.	+	1	transcript_id "rna-XM_025679174.1"; gene_id "gene-BO79DRAFT_164065";
+NW_020291802.1	RefSeq	transcript	242643	244183	.	+	.	transcript_id "rna-XM_025680435.1"; gene_id "gene-BO79DRAFT_185865"
+NW_020291802.1	RefSeq	exon	242643	242688	.	+	.	transcript_id "rna-XM_025680435.1"; gene_id "gene-BO79DRAFT_185865";
+NW_020291802.1	RefSeq	exon	242749	242788	.	+	.	transcript_id "rna-XM_025680435.1"; gene_id "gene-BO79DRAFT_185865";
+NW_020291802.1	RefSeq	exon	242870	243339	.	+	.	transcript_id "rna-XM_025680435.1"; gene_id "gene-BO79DRAFT_185865";
+NW_020291802.1	RefSeq	exon	243404	244183	.	+	.	transcript_id "rna-XM_025680435.1"; gene_id "gene-BO79DRAFT_185865";
+NW_020291802.1	RefSeq	CDS	242681	242688	.	+	0	transcript_id "rna-XM_025680435.1"; gene_id "gene-BO79DRAFT_185865";
+NW_020291802.1	RefSeq	CDS	242749	242788	.	+	1	transcript_id "rna-XM_025680435.1"; gene_id "gene-BO79DRAFT_185865";
+NW_020291802.1	RefSeq	CDS	242870	243339	.	+	0	transcript_id "rna-XM_025680435.1"; gene_id "gene-BO79DRAFT_185865";
+NW_020291802.1	RefSeq	CDS	243404	243983	.	+	1	transcript_id "rna-XM_025680435.1"; gene_id "gene-BO79DRAFT_185865";
+NW_020291802.1	RefSeq	transcript	561000	562689	.	+	.	transcript_id "rna-XM_025680443.1"; gene_id "gene-BO79DRAFT_186041"
+NW_020291802.1	RefSeq	exon	561000	562689	.	+	.	transcript_id "rna-XM_025680443.1"; gene_id "gene-BO79DRAFT_186041";
+NW_020291802.1	RefSeq	CDS	561188	562549	.	+	0	transcript_id "rna-XM_025680443.1"; gene_id "gene-BO79DRAFT_186041";
+NW_020291802.1	RefSeq	transcript	576193	579802	.	+	.	transcript_id "rna-XM_025680444.1"; gene_id "gene-BO79DRAFT_186053"
+NW_020291802.1	RefSeq	exon	576193	577032	.	+	.	transcript_id "rna-XM_025680444.1"; gene_id "gene-BO79DRAFT_186053";
+NW_020291802.1	RefSeq	exon	577083	578194	.	+	.	transcript_id "rna-XM_025680444.1"; gene_id "gene-BO79DRAFT_186053";
+NW_020291802.1	RefSeq	exon	578244	578787	.	+	.	transcript_id "rna-XM_025680444.1"; gene_id "gene-BO79DRAFT_186053";
+NW_020291802.1	RefSeq	exon	578840	579802	.	+	.	transcript_id "rna-XM_025680444.1"; gene_id "gene-BO79DRAFT_186053";
+NW_020291802.1	RefSeq	CDS	576220	577032	.	+	0	transcript_id "rna-XM_025680444.1"; gene_id "gene-BO79DRAFT_186053";
+NW_020291802.1	RefSeq	CDS	577083	578194	.	+	0	transcript_id "rna-XM_025680444.1"; gene_id "gene-BO79DRAFT_186053";
+NW_020291802.1	RefSeq	CDS	578244	578787	.	+	1	transcript_id "rna-XM_025680444.1"; gene_id "gene-BO79DRAFT_186053";
+NW_020291802.1	RefSeq	CDS	578840	579727	.	+	0	transcript_id "rna-XM_025680444.1"; gene_id "gene-BO79DRAFT_186053";
+NW_020291802.1	RefSeq	transcript	614735	616562	.	-	.	transcript_id "rna-XM_025680448.1"; gene_id "gene-BO79DRAFT_186088"
+NW_020291802.1	RefSeq	exon	614735	616082	.	-	.	transcript_id "rna-XM_025680448.1"; gene_id "gene-BO79DRAFT_186088";
+NW_020291802.1	RefSeq	exon	616138	616562	.	-	.	transcript_id "rna-XM_025680448.1"; gene_id "gene-BO79DRAFT_186088";
+NW_020291802.1	RefSeq	CDS	615032	616082	.	-	1	transcript_id "rna-XM_025680448.1"; gene_id "gene-BO79DRAFT_186088";
+NW_020291802.1	RefSeq	CDS	616138	616535	.	-	0	transcript_id "rna-XM_025680448.1"; gene_id "gene-BO79DRAFT_186088";
+NW_020291802.1	RefSeq	transcript	974958	976790	.	+	.	transcript_id "rna-XM_025679204.1"; gene_id "gene-BO79DRAFT_164539"
+NW_020291802.1	RefSeq	exon	974958	975367	.	+	.	transcript_id "rna-XM_025679204.1"; gene_id "gene-BO79DRAFT_164539";
+NW_020291802.1	RefSeq	exon	975420	975594	.	+	.	transcript_id "rna-XM_025679204.1"; gene_id "gene-BO79DRAFT_164539";
+NW_020291802.1	RefSeq	exon	975654	976790	.	+	.	transcript_id "rna-XM_025679204.1"; gene_id "gene-BO79DRAFT_164539";
+NW_020291802.1	RefSeq	CDS	975159	975367	.	+	0	transcript_id "rna-XM_025679204.1"; gene_id "gene-BO79DRAFT_164539";
+NW_020291802.1	RefSeq	CDS	975420	975594	.	+	1	transcript_id "rna-XM_025679204.1"; gene_id "gene-BO79DRAFT_164539";
+NW_020291802.1	RefSeq	CDS	975654	976655	.	+	0	transcript_id "rna-XM_025679204.1"; gene_id "gene-BO79DRAFT_164539";
+NW_020291802.1	RefSeq	transcript	978629	981100	.	+	.	transcript_id "rna-XM_025682003.1"; gene_id "gene-BO79DRAFT_206582"; gene_name "erb1"
+NW_020291802.1	RefSeq	exon	978629	981100	.	+	.	transcript_id "rna-XM_025682003.1"; gene_id "gene-BO79DRAFT_206582"; gene_name "erb1";
+NW_020291802.1	RefSeq	CDS	978671	981034	.	+	0	transcript_id "rna-XM_025682003.1"; gene_id "gene-BO79DRAFT_206582"; gene_name "erb1";
+NW_020291802.1	RefSeq	transcript	1011443	1013785	.	-	.	transcript_id "rna-XM_025679207.1"; gene_id "gene-BO79DRAFT_164575"
+NW_020291802.1	RefSeq	exon	1011443	1012361	.	-	.	transcript_id "rna-XM_025679207.1"; gene_id "gene-BO79DRAFT_164575";
+NW_020291802.1	RefSeq	exon	1012417	1012994	.	-	.	transcript_id "rna-XM_025679207.1"; gene_id "gene-BO79DRAFT_164575";
+NW_020291802.1	RefSeq	exon	1013050	1013246	.	-	.	transcript_id "rna-XM_025679207.1"; gene_id "gene-BO79DRAFT_164575";
+NW_020291802.1	RefSeq	exon	1013298	1013665	.	-	.	transcript_id "rna-XM_025679207.1"; gene_id "gene-BO79DRAFT_164575";
+NW_020291802.1	RefSeq	exon	1013718	1013785	.	-	.	transcript_id "rna-XM_025679207.1"; gene_id "gene-BO79DRAFT_164575";
+NW_020291802.1	RefSeq	CDS	1011443	1012361	.	-	1	transcript_id "rna-XM_025679207.1"; gene_id "gene-BO79DRAFT_164575";
+NW_020291802.1	RefSeq	CDS	1012417	1012994	.	-	0	transcript_id "rna-XM_025679207.1"; gene_id "gene-BO79DRAFT_164575";
+NW_020291802.1	RefSeq	CDS	1013050	1013246	.	-	2	transcript_id "rna-XM_025679207.1"; gene_id "gene-BO79DRAFT_164575";
+NW_020291802.1	RefSeq	CDS	1013298	1013619	.	-	0	transcript_id "rna-XM_025679207.1"; gene_id "gene-BO79DRAFT_164575";
+NW_020291802.1	RefSeq	transcript	1014015	1015453	.	+	.	transcript_id "rna-XM_025686376.1"; gene_id "gene-BO79DRAFT_25963"
+NW_020291802.1	RefSeq	exon	1014015	1014220	.	+	.	transcript_id "rna-XM_025686376.1"; gene_id "gene-BO79DRAFT_25963";
+NW_020291802.1	RefSeq	exon	1014289	1015001	.	+	.	transcript_id "rna-XM_025686376.1"; gene_id "gene-BO79DRAFT_25963";
+NW_020291802.1	RefSeq	exon	1015078	1015453	.	+	.	transcript_id "rna-XM_025686376.1"; gene_id "gene-BO79DRAFT_25963";
+NW_020291802.1	RefSeq	CDS	1014116	1014220	.	+	0	transcript_id "rna-XM_025686376.1"; gene_id "gene-BO79DRAFT_25963";
+NW_020291802.1	RefSeq	CDS	1014289	1015001	.	+	0	transcript_id "rna-XM_025686376.1"; gene_id "gene-BO79DRAFT_25963";
+NW_020291802.1	RefSeq	CDS	1015078	1015300	.	+	1	transcript_id "rna-XM_025686376.1"; gene_id "gene-BO79DRAFT_25963";
+NW_020291802.1	RefSeq	transcript	1031885	1033803	.	-	.	transcript_id "rna-XM_025685200.1"; gene_id "gene-BO79DRAFT_242349"
+NW_020291802.1	RefSeq	exon	1031885	1032107	.	-	.	transcript_id "rna-XM_025685200.1"; gene_id "gene-BO79DRAFT_242349";
+NW_020291802.1	RefSeq	exon	1032163	1033015	.	-	.	transcript_id "rna-XM_025685200.1"; gene_id "gene-BO79DRAFT_242349";
+NW_020291802.1	RefSeq	exon	1033081	1033376	.	-	.	transcript_id "rna-XM_025685200.1"; gene_id "gene-BO79DRAFT_242349";
+NW_020291802.1	RefSeq	exon	1033443	1033618	.	-	.	transcript_id "rna-XM_025685200.1"; gene_id "gene-BO79DRAFT_242349";
+NW_020291802.1	RefSeq	exon	1033681	1033803	.	-	.	transcript_id "rna-XM_025685200.1"; gene_id "gene-BO79DRAFT_242349";
+NW_020291802.1	RefSeq	CDS	1032035	1032107	.	-	1	transcript_id "rna-XM_025685200.1"; gene_id "gene-BO79DRAFT_242349";
+NW_020291802.1	RefSeq	CDS	1032163	1033015	.	-	2	transcript_id "rna-XM_025685200.1"; gene_id "gene-BO79DRAFT_242349";
+NW_020291802.1	RefSeq	CDS	1033081	1033376	.	-	1	transcript_id "rna-XM_025685200.1"; gene_id "gene-BO79DRAFT_242349";
+NW_020291802.1	RefSeq	CDS	1033443	1033540	.	-	0	transcript_id "rna-XM_025685200.1"; gene_id "gene-BO79DRAFT_242349";
+NW_020291802.1	RefSeq	transcript	1563605	1564967	.	-	.	transcript_id "rna-XM_025680482.1"; gene_id "gene-BO79DRAFT_186614"
+NW_020291802.1	RefSeq	exon	1563605	1564054	.	-	.	transcript_id "rna-XM_025680482.1"; gene_id "gene-BO79DRAFT_186614";
+NW_020291802.1	RefSeq	exon	1564128	1564967	.	-	.	transcript_id "rna-XM_025680482.1"; gene_id "gene-BO79DRAFT_186614";
+NW_020291802.1	RefSeq	CDS	1563741	1564054	.	-	2	transcript_id "rna-XM_025680482.1"; gene_id "gene-BO79DRAFT_186614";
+NW_020291802.1	RefSeq	CDS	1564128	1564905	.	-	0	transcript_id "rna-XM_025680482.1"; gene_id "gene-BO79DRAFT_186614";
+NW_020291802.1	RefSeq	transcript	1760838	1762997	.	+	.	transcript_id "rna-XM_025682031.1"; gene_id "gene-BO79DRAFT_206700"
+NW_020291802.1	RefSeq	exon	1760838	1761060	.	+	.	transcript_id "rna-XM_025682031.1"; gene_id "gene-BO79DRAFT_206700";
+NW_020291802.1	RefSeq	exon	1761154	1762287	.	+	.	transcript_id "rna-XM_025682031.1"; gene_id "gene-BO79DRAFT_206700";
+NW_020291802.1	RefSeq	exon	1762344	1762997	.	+	.	transcript_id "rna-XM_025682031.1"; gene_id "gene-BO79DRAFT_206700";
+NW_020291802.1	RefSeq	CDS	1760870	1761060	.	+	0	transcript_id "rna-XM_025682031.1"; gene_id "gene-BO79DRAFT_206700";
+NW_020291802.1	RefSeq	CDS	1761154	1762287	.	+	1	transcript_id "rna-XM_025682031.1"; gene_id "gene-BO79DRAFT_206700";
+NW_020291802.1	RefSeq	CDS	1762344	1762851	.	+	1	transcript_id "rna-XM_025682031.1"; gene_id "gene-BO79DRAFT_206700";
+NW_020291802.1	RefSeq	transcript	1972182	1974238	.	+	.	transcript_id "rna-XM_025680502.1"; gene_id "gene-BO79DRAFT_186892"; gene_name "csn12"
+NW_020291802.1	RefSeq	exon	1972182	1972862	.	+	.	transcript_id "rna-XM_025680502.1"; gene_id "gene-BO79DRAFT_186892"; gene_name "csn12";
+NW_020291802.1	RefSeq	exon	1972913	1973138	.	+	.	transcript_id "rna-XM_025680502.1"; gene_id "gene-BO79DRAFT_186892"; gene_name "csn12";
+NW_020291802.1	RefSeq	exon	1973194	1973255	.	+	.	transcript_id "rna-XM_025680502.1"; gene_id "gene-BO79DRAFT_186892"; gene_name "csn12";
+NW_020291802.1	RefSeq	exon	1973305	1973725	.	+	.	transcript_id "rna-XM_025680502.1"; gene_id "gene-BO79DRAFT_186892"; gene_name "csn12";
+NW_020291802.1	RefSeq	exon	1973781	1974238	.	+	.	transcript_id "rna-XM_025680502.1"; gene_id "gene-BO79DRAFT_186892"; gene_name "csn12";
+NW_020291802.1	RefSeq	CDS	1972297	1972862	.	+	0	transcript_id "rna-XM_025680502.1"; gene_id "gene-BO79DRAFT_186892"; gene_name "csn12";
+NW_020291802.1	RefSeq	CDS	1972913	1973138	.	+	1	transcript_id "rna-XM_025680502.1"; gene_id "gene-BO79DRAFT_186892"; gene_name "csn12";
+NW_020291802.1	RefSeq	CDS	1973194	1973255	.	+	0	transcript_id "rna-XM_025680502.1"; gene_id "gene-BO79DRAFT_186892"; gene_name "csn12";
+NW_020291802.1	RefSeq	CDS	1973305	1973725	.	+	1	transcript_id "rna-XM_025680502.1"; gene_id "gene-BO79DRAFT_186892"; gene_name "csn12";
+NW_020291802.1	RefSeq	CDS	1973781	1973867	.	+	0	transcript_id "rna-XM_025680502.1"; gene_id "gene-BO79DRAFT_186892"; gene_name "csn12";
+NW_020291803.1	RefSeq	transcript	35444	37070	.	+	.	transcript_id "rna-XM_025679244.1"; gene_id "gene-BO79DRAFT_165188"
+NW_020291803.1	RefSeq	exon	35444	36203	.	+	.	transcript_id "rna-XM_025679244.1"; gene_id "gene-BO79DRAFT_165188";
+NW_020291803.1	RefSeq	exon	36275	37070	.	+	.	transcript_id "rna-XM_025679244.1"; gene_id "gene-BO79DRAFT_165188";
+NW_020291803.1	RefSeq	CDS	35649	36203	.	+	0	transcript_id "rna-XM_025679244.1"; gene_id "gene-BO79DRAFT_165188";
+NW_020291803.1	RefSeq	CDS	36275	36883	.	+	0	transcript_id "rna-XM_025679244.1"; gene_id "gene-BO79DRAFT_165188";
+NW_020291803.1	RefSeq	transcript	387723	389359	.	+	.	transcript_id "rna-XM_025688255.1"; gene_id "gene-BO79DRAFT_284555"
+NW_020291803.1	RefSeq	exon	387723	388025	.	+	.	transcript_id "rna-XM_025688255.1"; gene_id "gene-BO79DRAFT_284555";
+NW_020291803.1	RefSeq	exon	388117	388297	.	+	.	transcript_id "rna-XM_025688255.1"; gene_id "gene-BO79DRAFT_284555";
+NW_020291803.1	RefSeq	exon	388355	389359	.	+	.	transcript_id "rna-XM_025688255.1"; gene_id "gene-BO79DRAFT_284555";
+NW_020291803.1	RefSeq	CDS	387781	388025	.	+	0	transcript_id "rna-XM_025688255.1"; gene_id "gene-BO79DRAFT_284555";
+NW_020291803.1	RefSeq	CDS	388117	388297	.	+	1	transcript_id "rna-XM_025688255.1"; gene_id "gene-BO79DRAFT_284555";
+NW_020291803.1	RefSeq	CDS	388355	389335	.	+	0	transcript_id "rna-XM_025688255.1"; gene_id "gene-BO79DRAFT_284555";
+NW_020291803.1	RefSeq	transcript	429962	431544	.	-	.	transcript_id "rna-XM_025679256.1"; gene_id "gene-BO79DRAFT_165442"
+NW_020291803.1	RefSeq	exon	429962	431029	.	-	.	transcript_id "rna-XM_025679256.1"; gene_id "gene-BO79DRAFT_165442";
+NW_020291803.1	RefSeq	exon	431099	431371	.	-	.	transcript_id "rna-XM_025679256.1"; gene_id "gene-BO79DRAFT_165442";
+NW_020291803.1	RefSeq	exon	431451	431544	.	-	.	transcript_id "rna-XM_025679256.1"; gene_id "gene-BO79DRAFT_165442";
+NW_020291803.1	RefSeq	CDS	430256	431029	.	-	0	transcript_id "rna-XM_025679256.1"; gene_id "gene-BO79DRAFT_165442";
+NW_020291803.1	RefSeq	CDS	431099	431371	.	-	0	transcript_id "rna-XM_025679256.1"; gene_id "gene-BO79DRAFT_165442";
+NW_020291803.1	RefSeq	CDS	431451	431510	.	-	0	transcript_id "rna-XM_025679256.1"; gene_id "gene-BO79DRAFT_165442";
+NW_020291803.1	RefSeq	transcript	615930	617713	.	-	.	transcript_id "rna-XM_025679266.1"; gene_id "gene-BO79DRAFT_165588"; gene_name "hat1"
+NW_020291803.1	RefSeq	exon	615930	616891	.	-	.	transcript_id "rna-XM_025679266.1"; gene_id "gene-BO79DRAFT_165588"; gene_name "hat1";
+NW_020291803.1	RefSeq	exon	616942	617206	.	-	.	transcript_id "rna-XM_025679266.1"; gene_id "gene-BO79DRAFT_165588"; gene_name "hat1";
+NW_020291803.1	RefSeq	exon	617278	617553	.	-	.	transcript_id "rna-XM_025679266.1"; gene_id "gene-BO79DRAFT_165588"; gene_name "hat1";
+NW_020291803.1	RefSeq	exon	617631	617713	.	-	.	transcript_id "rna-XM_025679266.1"; gene_id "gene-BO79DRAFT_165588"; gene_name "hat1";
+NW_020291803.1	RefSeq	CDS	615931	616891	.	-	1	transcript_id "rna-XM_025679266.1"; gene_id "gene-BO79DRAFT_165588"; gene_name "hat1";
+NW_020291803.1	RefSeq	CDS	616942	617206	.	-	2	transcript_id "rna-XM_025679266.1"; gene_id "gene-BO79DRAFT_165588"; gene_name "hat1";
+NW_020291803.1	RefSeq	CDS	617278	617553	.	-	2	transcript_id "rna-XM_025679266.1"; gene_id "gene-BO79DRAFT_165588"; gene_name "hat1";
+NW_020291803.1	RefSeq	CDS	617631	617646	.	-	0	transcript_id "rna-XM_025679266.1"; gene_id "gene-BO79DRAFT_165588"; gene_name "hat1";
+NW_020291803.1	RefSeq	transcript	681602	682868	.	-	.	transcript_id "rna-XM_025688269.1"; gene_id "gene-BO79DRAFT_284639"
+NW_020291803.1	RefSeq	exon	681602	681988	.	-	.	transcript_id "rna-XM_025688269.1"; gene_id "gene-BO79DRAFT_284639";
+NW_020291803.1	RefSeq	exon	682047	682488	.	-	.	transcript_id "rna-XM_025688269.1"; gene_id "gene-BO79DRAFT_284639";
+NW_020291803.1	RefSeq	exon	682551	682620	.	-	.	transcript_id "rna-XM_025688269.1"; gene_id "gene-BO79DRAFT_284639";
+NW_020291803.1	RefSeq	exon	682674	682868	.	-	.	transcript_id "rna-XM_025688269.1"; gene_id "gene-BO79DRAFT_284639";
+NW_020291803.1	RefSeq	CDS	681939	681988	.	-	2	transcript_id "rna-XM_025688269.1"; gene_id "gene-BO79DRAFT_284639";
+NW_020291803.1	RefSeq	CDS	682047	682488	.	-	0	transcript_id "rna-XM_025688269.1"; gene_id "gene-BO79DRAFT_284639";
+NW_020291803.1	RefSeq	CDS	682551	682620	.	-	1	transcript_id "rna-XM_025688269.1"; gene_id "gene-BO79DRAFT_284639";
+NW_020291803.1	RefSeq	CDS	682674	682864	.	-	0	transcript_id "rna-XM_025688269.1"; gene_id "gene-BO79DRAFT_284639";
+NW_020291803.1	RefSeq	transcript	752423	753902	.	-	.	transcript_id "rna-XM_025688273.1"; gene_id "gene-BO79DRAFT_284655"; gene_name "dph1"
+NW_020291803.1	RefSeq	exon	752423	753664	.	-	.	transcript_id "rna-XM_025688273.1"; gene_id "gene-BO79DRAFT_284655"; gene_name "dph1";
+NW_020291803.1	RefSeq	exon	753751	753902	.	-	.	transcript_id "rna-XM_025688273.1"; gene_id "gene-BO79DRAFT_284655"; gene_name "dph1";
+NW_020291803.1	RefSeq	CDS	752511	753664	.	-	2	transcript_id "rna-XM_025688273.1"; gene_id "gene-BO79DRAFT_284655"; gene_name "dph1";
+NW_020291803.1	RefSeq	CDS	753751	753898	.	-	0	transcript_id "rna-XM_025688273.1"; gene_id "gene-BO79DRAFT_284655"; gene_name "dph1";
+NW_020291804.1	RefSeq	transcript	125024	127575	.	-	.	transcript_id "rna-XM_025688289.1"; gene_id "gene-BO79DRAFT_284814"
+NW_020291804.1	RefSeq	exon	125024	127320	.	-	.	transcript_id "rna-XM_025688289.1"; gene_id "gene-BO79DRAFT_284814";
+NW_020291804.1	RefSeq	exon	127405	127575	.	-	.	transcript_id "rna-XM_025688289.1"; gene_id "gene-BO79DRAFT_284814";
+NW_020291804.1	RefSeq	CDS	125201	127320	.	-	2	transcript_id "rna-XM_025688289.1"; gene_id "gene-BO79DRAFT_284814";
+NW_020291804.1	RefSeq	CDS	127405	127471	.	-	0	transcript_id "rna-XM_025688289.1"; gene_id "gene-BO79DRAFT_284814";
+NW_020291804.1	RefSeq	transcript	151287	152596	.	-	.	transcript_id "rna-XM_025684454.1"; gene_id "gene-BO79DRAFT_235181"
+NW_020291804.1	RefSeq	exon	151287	151909	.	-	.	transcript_id "rna-XM_025684454.1"; gene_id "gene-BO79DRAFT_235181";
+NW_020291804.1	RefSeq	exon	151985	152596	.	-	.	transcript_id "rna-XM_025684454.1"; gene_id "gene-BO79DRAFT_235181";
+NW_020291804.1	RefSeq	CDS	151384	151909	.	-	1	transcript_id "rna-XM_025684454.1"; gene_id "gene-BO79DRAFT_235181";
+NW_020291804.1	RefSeq	CDS	151985	152475	.	-	0	transcript_id "rna-XM_025684454.1"; gene_id "gene-BO79DRAFT_235181";
+NW_020291804.1	RefSeq	transcript	339170	340248	.	-	.	transcript_id "rna-XM_025679308.1"; gene_id "gene-BO79DRAFT_166279"; gene_name "coq4"
+NW_020291804.1	RefSeq	exon	339170	339931	.	-	.	transcript_id "rna-XM_025679308.1"; gene_id "gene-BO79DRAFT_166279"; gene_name "coq4";
+NW_020291804.1	RefSeq	exon	339989	340248	.	-	.	transcript_id "rna-XM_025679308.1"; gene_id "gene-BO79DRAFT_166279"; gene_name "coq4";
+NW_020291804.1	RefSeq	CDS	339282	339931	.	-	2	transcript_id "rna-XM_025679308.1"; gene_id "gene-BO79DRAFT_166279"; gene_name "coq4";
+NW_020291804.1	RefSeq	CDS	339989	340211	.	-	0	transcript_id "rna-XM_025679308.1"; gene_id "gene-BO79DRAFT_166279"; gene_name "coq4";
+NW_020291804.1	RefSeq	transcript	359663	360973	.	+	.	transcript_id "rna-XM_025688294.1"; gene_id "gene-BO79DRAFT_284884"
+NW_020291804.1	RefSeq	exon	359663	359987	.	+	.	transcript_id "rna-XM_025688294.1"; gene_id "gene-BO79DRAFT_284884";
+NW_020291804.1	RefSeq	exon	360053	360577	.	+	.	transcript_id "rna-XM_025688294.1"; gene_id "gene-BO79DRAFT_284884";
+NW_020291804.1	RefSeq	exon	360653	360758	.	+	.	transcript_id "rna-XM_025688294.1"; gene_id "gene-BO79DRAFT_284884";
+NW_020291804.1	RefSeq	exon	360820	360973	.	+	.	transcript_id "rna-XM_025688294.1"; gene_id "gene-BO79DRAFT_284884";
+NW_020291804.1	RefSeq	CDS	359705	359987	.	+	0	transcript_id "rna-XM_025688294.1"; gene_id "gene-BO79DRAFT_284884";
+NW_020291804.1	RefSeq	CDS	360053	360577	.	+	2	transcript_id "rna-XM_025688294.1"; gene_id "gene-BO79DRAFT_284884";
+NW_020291804.1	RefSeq	CDS	360653	360758	.	+	2	transcript_id "rna-XM_025688294.1"; gene_id "gene-BO79DRAFT_284884";
+NW_020291804.1	RefSeq	CDS	360820	360919	.	+	1	transcript_id "rna-XM_025688294.1"; gene_id "gene-BO79DRAFT_284884";
+NW_020291804.1	RefSeq	transcript	539785	542916	.	-	.	transcript_id "rna-XM_025680580.1"; gene_id "gene-BO79DRAFT_188187"
+NW_020291804.1	RefSeq	exon	539785	540784	.	-	.	transcript_id "rna-XM_025680580.1"; gene_id "gene-BO79DRAFT_188187";
+NW_020291804.1	RefSeq	exon	540845	541119	.	-	.	transcript_id "rna-XM_025680580.1"; gene_id "gene-BO79DRAFT_188187";
+NW_020291804.1	RefSeq	exon	541701	542514	.	-	.	transcript_id "rna-XM_025680580.1"; gene_id "gene-BO79DRAFT_188187";
+NW_020291804.1	RefSeq	exon	542573	542689	.	-	.	transcript_id "rna-XM_025680580.1"; gene_id "gene-BO79DRAFT_188187";
+NW_020291804.1	RefSeq	exon	542753	542916	.	-	.	transcript_id "rna-XM_025680580.1"; gene_id "gene-BO79DRAFT_188187";
+NW_020291804.1	RefSeq	CDS	539833	540784	.	-	1	transcript_id "rna-XM_025680580.1"; gene_id "gene-BO79DRAFT_188187";
+NW_020291804.1	RefSeq	CDS	540845	541119	.	-	0	transcript_id "rna-XM_025680580.1"; gene_id "gene-BO79DRAFT_188187";
+NW_020291804.1	RefSeq	CDS	541701	542514	.	-	1	transcript_id "rna-XM_025680580.1"; gene_id "gene-BO79DRAFT_188187";
+NW_020291804.1	RefSeq	CDS	542573	542689	.	-	1	transcript_id "rna-XM_025680580.1"; gene_id "gene-BO79DRAFT_188187";
+NW_020291804.1	RefSeq	CDS	542753	542847	.	-	0	transcript_id "rna-XM_025680580.1"; gene_id "gene-BO79DRAFT_188187";
+NW_020291804.1	RefSeq	transcript	885301	887626	.	+	.	transcript_id "rna-XM_025688309.1"; gene_id "gene-BO79DRAFT_285007"
+NW_020291804.1	RefSeq	exon	885301	886140	.	+	.	transcript_id "rna-XM_025688309.1"; gene_id "gene-BO79DRAFT_285007";
+NW_020291804.1	RefSeq	exon	886256	886411	.	+	.	transcript_id "rna-XM_025688309.1"; gene_id "gene-BO79DRAFT_285007";
+NW_020291804.1	RefSeq	exon	886465	886539	.	+	.	transcript_id "rna-XM_025688309.1"; gene_id "gene-BO79DRAFT_285007";
+NW_020291804.1	RefSeq	exon	886599	886726	.	+	.	transcript_id "rna-XM_025688309.1"; gene_id "gene-BO79DRAFT_285007";
+NW_020291804.1	RefSeq	exon	886778	886895	.	+	.	transcript_id "rna-XM_025688309.1"; gene_id "gene-BO79DRAFT_285007";
+NW_020291804.1	RefSeq	exon	886945	887220	.	+	.	transcript_id "rna-XM_025688309.1"; gene_id "gene-BO79DRAFT_285007";
+NW_020291804.1	RefSeq	exon	887285	887626	.	+	.	transcript_id "rna-XM_025688309.1"; gene_id "gene-BO79DRAFT_285007";
+NW_020291804.1	RefSeq	CDS	885605	886140	.	+	0	transcript_id "rna-XM_025688309.1"; gene_id "gene-BO79DRAFT_285007";
+NW_020291804.1	RefSeq	CDS	886256	886411	.	+	1	transcript_id "rna-XM_025688309.1"; gene_id "gene-BO79DRAFT_285007";
+NW_020291804.1	RefSeq	CDS	886465	886539	.	+	1	transcript_id "rna-XM_025688309.1"; gene_id "gene-BO79DRAFT_285007";
+NW_020291804.1	RefSeq	CDS	886599	886726	.	+	1	transcript_id "rna-XM_025688309.1"; gene_id "gene-BO79DRAFT_285007";
+NW_020291804.1	RefSeq	CDS	886778	886895	.	+	2	transcript_id "rna-XM_025688309.1"; gene_id "gene-BO79DRAFT_285007";
+NW_020291804.1	RefSeq	CDS	886945	887220	.	+	1	transcript_id "rna-XM_025688309.1"; gene_id "gene-BO79DRAFT_285007";
+NW_020291804.1	RefSeq	CDS	887285	887570	.	+	1	transcript_id "rna-XM_025688309.1"; gene_id "gene-BO79DRAFT_285007";
+NW_020291805.1	RefSeq	transcript	820212	822110	.	-	.	transcript_id "rna-XM_025679378.1"; gene_id "gene-BO79DRAFT_167438"
+NW_020291805.1	RefSeq	exon	820212	821223	.	-	.	transcript_id "rna-XM_025679378.1"; gene_id "gene-BO79DRAFT_167438";
+NW_020291805.1	RefSeq	exon	821297	821785	.	-	.	transcript_id "rna-XM_025679378.1"; gene_id "gene-BO79DRAFT_167438";
+NW_020291805.1	RefSeq	exon	821844	822110	.	-	.	transcript_id "rna-XM_025679378.1"; gene_id "gene-BO79DRAFT_167438";
+NW_020291805.1	RefSeq	CDS	820570	821223	.	-	0	transcript_id "rna-XM_025679378.1"; gene_id "gene-BO79DRAFT_167438";
+NW_020291805.1	RefSeq	CDS	821297	821785	.	-	0	transcript_id "rna-XM_025679378.1"; gene_id "gene-BO79DRAFT_167438";
+NW_020291805.1	RefSeq	CDS	821844	821921	.	-	0	transcript_id "rna-XM_025679378.1"; gene_id "gene-BO79DRAFT_167438";
+NW_020291805.1	RefSeq	transcript	1001794	1002699	.	+	.	transcript_id "rna-XM_025682182.1"; gene_id "gene-BO79DRAFT_207509"
+NW_020291805.1	RefSeq	exon	1001794	1002699	.	+	.	transcript_id "rna-XM_025682182.1"; gene_id "gene-BO79DRAFT_207509";
+NW_020291805.1	RefSeq	CDS	1001839	1002678	.	+	0	transcript_id "rna-XM_025682182.1"; gene_id "gene-BO79DRAFT_207509";
+NW_020291806.1	RefSeq	transcript	336221	338147	.	+	.	transcript_id "rna-XM_025680677.1"; gene_id "gene-BO79DRAFT_189636"; gene_name "trm6"
+NW_020291806.1	RefSeq	exon	336221	336413	.	+	.	transcript_id "rna-XM_025680677.1"; gene_id "gene-BO79DRAFT_189636"; gene_name "trm6";
+NW_020291806.1	RefSeq	exon	336474	338147	.	+	.	transcript_id "rna-XM_025680677.1"; gene_id "gene-BO79DRAFT_189636"; gene_name "trm6";
+NW_020291806.1	RefSeq	CDS	336328	336413	.	+	0	transcript_id "rna-XM_025680677.1"; gene_id "gene-BO79DRAFT_189636"; gene_name "trm6";
+NW_020291806.1	RefSeq	CDS	336474	338130	.	+	1	transcript_id "rna-XM_025680677.1"; gene_id "gene-BO79DRAFT_189636"; gene_name "trm6";
+NW_020291806.1	RefSeq	transcript	817328	819881	.	+	.	transcript_id "rna-XM_025683256.1"; gene_id "gene-BO79DRAFT_214964"
+NW_020291806.1	RefSeq	exon	817328	818722	.	+	.	transcript_id "rna-XM_025683256.1"; gene_id "gene-BO79DRAFT_214964";
+NW_020291806.1	RefSeq	exon	818809	818876	.	+	.	transcript_id "rna-XM_025683256.1"; gene_id "gene-BO79DRAFT_214964";
+NW_020291806.1	RefSeq	exon	818907	818937	.	+	.	transcript_id "rna-XM_025683256.1"; gene_id "gene-BO79DRAFT_214964";
+NW_020291806.1	RefSeq	exon	819173	819175	.	+	.	transcript_id "rna-XM_025683256.1"; gene_id "gene-BO79DRAFT_214964";
+NW_020291806.1	RefSeq	exon	819332	819336	.	+	.	transcript_id "rna-XM_025683256.1"; gene_id "gene-BO79DRAFT_214964";
+NW_020291806.1	RefSeq	exon	819456	819486	.	+	.	transcript_id "rna-XM_025683256.1"; gene_id "gene-BO79DRAFT_214964";
+NW_020291806.1	RefSeq	exon	819562	819569	.	+	.	transcript_id "rna-XM_025683256.1"; gene_id "gene-BO79DRAFT_214964";
+NW_020291806.1	RefSeq	exon	819604	819640	.	+	.	transcript_id "rna-XM_025683256.1"; gene_id "gene-BO79DRAFT_214964";
+NW_020291806.1	RefSeq	exon	819690	819696	.	+	.	transcript_id "rna-XM_025683256.1"; gene_id "gene-BO79DRAFT_214964";
+NW_020291806.1	RefSeq	exon	819802	819881	.	+	.	transcript_id "rna-XM_025683256.1"; gene_id "gene-BO79DRAFT_214964";
+NW_020291806.1	RefSeq	CDS	817328	818722	.	+	0	transcript_id "rna-XM_025683256.1"; gene_id "gene-BO79DRAFT_214964";
+NW_020291806.1	RefSeq	CDS	818809	818876	.	+	0	transcript_id "rna-XM_025683256.1"; gene_id "gene-BO79DRAFT_214964";
+NW_020291806.1	RefSeq	CDS	818907	818937	.	+	1	transcript_id "rna-XM_025683256.1"; gene_id "gene-BO79DRAFT_214964";
+NW_020291806.1	RefSeq	CDS	819173	819175	.	+	0	transcript_id "rna-XM_025683256.1"; gene_id "gene-BO79DRAFT_214964";
+NW_020291806.1	RefSeq	CDS	819332	819336	.	+	0	transcript_id "rna-XM_025683256.1"; gene_id "gene-BO79DRAFT_214964";
+NW_020291806.1	RefSeq	CDS	819456	819486	.	+	1	transcript_id "rna-XM_025683256.1"; gene_id "gene-BO79DRAFT_214964";
+NW_020291806.1	RefSeq	CDS	819562	819569	.	+	0	transcript_id "rna-XM_025683256.1"; gene_id "gene-BO79DRAFT_214964";
+NW_020291806.1	RefSeq	CDS	819604	819640	.	+	1	transcript_id "rna-XM_025683256.1"; gene_id "gene-BO79DRAFT_214964";
+NW_020291806.1	RefSeq	CDS	819690	819696	.	+	0	transcript_id "rna-XM_025683256.1"; gene_id "gene-BO79DRAFT_214964";
+NW_020291806.1	RefSeq	CDS	819802	819881	.	+	2	transcript_id "rna-XM_025683256.1"; gene_id "gene-BO79DRAFT_214964";
+NW_020291806.1	RefSeq	transcript	934874	937408	.	+	.	transcript_id "rna-XM_025685307.1"; gene_id "gene-BO79DRAFT_243634"
+NW_020291806.1	RefSeq	exon	934874	935408	.	+	.	transcript_id "rna-XM_025685307.1"; gene_id "gene-BO79DRAFT_243634";
+NW_020291806.1	RefSeq	exon	935500	937021	.	+	.	transcript_id "rna-XM_025685307.1"; gene_id "gene-BO79DRAFT_243634";
+NW_020291806.1	RefSeq	exon	937072	937408	.	+	.	transcript_id "rna-XM_025685307.1"; gene_id "gene-BO79DRAFT_243634";
+NW_020291806.1	RefSeq	CDS	935111	935408	.	+	0	transcript_id "rna-XM_025685307.1"; gene_id "gene-BO79DRAFT_243634";
+NW_020291806.1	RefSeq	CDS	935500	937021	.	+	2	transcript_id "rna-XM_025685307.1"; gene_id "gene-BO79DRAFT_243634";
+NW_020291806.1	RefSeq	CDS	937072	937171	.	+	1	transcript_id "rna-XM_025685307.1"; gene_id "gene-BO79DRAFT_243634";
+NW_020291806.1	RefSeq	transcript	1098202	1099784	.	+	.	transcript_id "rna-XM_025678214.1"; gene_id "gene-BO79DRAFT_140149"
+NW_020291806.1	RefSeq	exon	1098202	1098510	.	+	.	transcript_id "rna-XM_025678214.1"; gene_id "gene-BO79DRAFT_140149";
+NW_020291806.1	RefSeq	exon	1098663	1099784	.	+	.	transcript_id "rna-XM_025678214.1"; gene_id "gene-BO79DRAFT_140149";
+NW_020291806.1	RefSeq	CDS	1098202	1098510	.	+	0	transcript_id "rna-XM_025678214.1"; gene_id "gene-BO79DRAFT_140149";
+NW_020291806.1	RefSeq	CDS	1098663	1099784	.	+	0	transcript_id "rna-XM_025678214.1"; gene_id "gene-BO79DRAFT_140149";
+NW_020291807.1	RefSeq	transcript	309713	311762	.	+	.	transcript_id "rna-XM_025689700.1"; gene_id "gene-BO79DRAFT_75409"
+NW_020291807.1	RefSeq	exon	309713	310479	.	+	.	transcript_id "rna-XM_025689700.1"; gene_id "gene-BO79DRAFT_75409";
+NW_020291807.1	RefSeq	exon	310528	311762	.	+	.	transcript_id "rna-XM_025689700.1"; gene_id "gene-BO79DRAFT_75409";
+NW_020291807.1	RefSeq	CDS	309739	310479	.	+	0	transcript_id "rna-XM_025689700.1"; gene_id "gene-BO79DRAFT_75409";
+NW_020291807.1	RefSeq	CDS	310528	311577	.	+	0	transcript_id "rna-XM_025689700.1"; gene_id "gene-BO79DRAFT_75409";
+NW_020291807.1	RefSeq	transcript	330876	331805	.	-	.	transcript_id "rna-XM_025688396.1"; gene_id "gene-BO79DRAFT_285773"
+NW_020291807.1	RefSeq	exon	330876	330969	.	-	.	transcript_id "rna-XM_025688396.1"; gene_id "gene-BO79DRAFT_285773";
+NW_020291807.1	RefSeq	exon	331052	331602	.	-	.	transcript_id "rna-XM_025688396.1"; gene_id "gene-BO79DRAFT_285773";
+NW_020291807.1	RefSeq	exon	331666	331805	.	-	.	transcript_id "rna-XM_025688396.1"; gene_id "gene-BO79DRAFT_285773";
+NW_020291807.1	RefSeq	CDS	330876	330969	.	-	1	transcript_id "rna-XM_025688396.1"; gene_id "gene-BO79DRAFT_285773";
+NW_020291807.1	RefSeq	CDS	331052	331602	.	-	0	transcript_id "rna-XM_025688396.1"; gene_id "gene-BO79DRAFT_285773";
+NW_020291807.1	RefSeq	CDS	331666	331692	.	-	0	transcript_id "rna-XM_025688396.1"; gene_id "gene-BO79DRAFT_285773";
+NW_020291807.1	RefSeq	transcript	435519	436532	.	+	.	transcript_id "rna-XM_025688403.1"; gene_id "gene-BO79DRAFT_285802"
+NW_020291807.1	RefSeq	exon	435519	435753	.	+	.	transcript_id "rna-XM_025688403.1"; gene_id "gene-BO79DRAFT_285802";
+NW_020291807.1	RefSeq	exon	435838	436532	.	+	.	transcript_id "rna-XM_025688403.1"; gene_id "gene-BO79DRAFT_285802";
+NW_020291807.1	RefSeq	CDS	435687	435753	.	+	0	transcript_id "rna-XM_025688403.1"; gene_id "gene-BO79DRAFT_285802";
+NW_020291807.1	RefSeq	CDS	435838	436475	.	+	2	transcript_id "rna-XM_025688403.1"; gene_id "gene-BO79DRAFT_285802";
+NW_020291807.1	RefSeq	transcript	478657	479690	.	-	.	transcript_id "rna-XM_025679443.1"; gene_id "gene-BO79DRAFT_168709"
+NW_020291807.1	RefSeq	exon	478657	479561	.	-	.	transcript_id "rna-XM_025679443.1"; gene_id "gene-BO79DRAFT_168709";
+NW_020291807.1	RefSeq	exon	479642	479690	.	-	.	transcript_id "rna-XM_025679443.1"; gene_id "gene-BO79DRAFT_168709";
+NW_020291807.1	RefSeq	CDS	478863	479561	.	-	0	transcript_id "rna-XM_025679443.1"; gene_id "gene-BO79DRAFT_168709";
+NW_020291807.1	RefSeq	CDS	479642	479653	.	-	0	transcript_id "rna-XM_025679443.1"; gene_id "gene-BO79DRAFT_168709";
+NW_020291807.1	RefSeq	transcript	498166	499606	.	-	.	transcript_id "rna-XM_025680738.1"; gene_id "gene-BO79DRAFT_190472"
+NW_020291807.1	RefSeq	exon	498166	499396	.	-	.	transcript_id "rna-XM_025680738.1"; gene_id "gene-BO79DRAFT_190472";
+NW_020291807.1	RefSeq	exon	499455	499606	.	-	.	transcript_id "rna-XM_025680738.1"; gene_id "gene-BO79DRAFT_190472";
+NW_020291807.1	RefSeq	CDS	498243	499396	.	-	2	transcript_id "rna-XM_025680738.1"; gene_id "gene-BO79DRAFT_190472";
+NW_020291807.1	RefSeq	CDS	499455	499497	.	-	0	transcript_id "rna-XM_025680738.1"; gene_id "gene-BO79DRAFT_190472";
+NW_020291807.1	RefSeq	transcript	660413	662115	.	-	.	transcript_id "rna-XM_025680746.1"; gene_id "gene-BO79DRAFT_190572"
+NW_020291807.1	RefSeq	exon	660413	660693	.	-	.	transcript_id "rna-XM_025680746.1"; gene_id "gene-BO79DRAFT_190572";
+NW_020291807.1	RefSeq	exon	660745	661829	.	-	.	transcript_id "rna-XM_025680746.1"; gene_id "gene-BO79DRAFT_190572";
+NW_020291807.1	RefSeq	exon	661891	662115	.	-	.	transcript_id "rna-XM_025680746.1"; gene_id "gene-BO79DRAFT_190572";
+NW_020291807.1	RefSeq	CDS	660450	660693	.	-	1	transcript_id "rna-XM_025680746.1"; gene_id "gene-BO79DRAFT_190572";
+NW_020291807.1	RefSeq	CDS	660745	661829	.	-	0	transcript_id "rna-XM_025680746.1"; gene_id "gene-BO79DRAFT_190572";
+NW_020291807.1	RefSeq	CDS	661891	662115	.	-	0	transcript_id "rna-XM_025680746.1"; gene_id "gene-BO79DRAFT_190572";
+NW_020291807.1	RefSeq	transcript	823312	826200	.	-	.	transcript_id "rna-XM_025682276.1"; gene_id "gene-BO79DRAFT_207919"
+NW_020291807.1	RefSeq	exon	823312	826200	.	-	.	transcript_id "rna-XM_025682276.1"; gene_id "gene-BO79DRAFT_207919";
+NW_020291807.1	RefSeq	CDS	823727	825859	.	-	0	transcript_id "rna-XM_025682276.1"; gene_id "gene-BO79DRAFT_207919";
+NW_020291807.1	RefSeq	transcript	830603	832686	.	-	.	transcript_id "rna-XM_025682277.1"; gene_id "gene-BO79DRAFT_207921"
+NW_020291807.1	RefSeq	exon	830603	832128	.	-	.	transcript_id "rna-XM_025682277.1"; gene_id "gene-BO79DRAFT_207921";
+NW_020291807.1	RefSeq	exon	832215	832686	.	-	.	transcript_id "rna-XM_025682277.1"; gene_id "gene-BO79DRAFT_207921";
+NW_020291807.1	RefSeq	CDS	830769	832128	.	-	1	transcript_id "rna-XM_025682277.1"; gene_id "gene-BO79DRAFT_207921";
+NW_020291807.1	RefSeq	CDS	832215	832474	.	-	0	transcript_id "rna-XM_025682277.1"; gene_id "gene-BO79DRAFT_207921";
+NW_020291807.1	RefSeq	transcript	845316	848539	.	+	.	transcript_id "rna-XM_025680760.1"; gene_id "gene-BO79DRAFT_190703"
+NW_020291807.1	RefSeq	exon	845316	845341	.	+	.	transcript_id "rna-XM_025680760.1"; gene_id "gene-BO79DRAFT_190703";
+NW_020291807.1	RefSeq	exon	845409	845663	.	+	.	transcript_id "rna-XM_025680760.1"; gene_id "gene-BO79DRAFT_190703";
+NW_020291807.1	RefSeq	exon	845734	848539	.	+	.	transcript_id "rna-XM_025680760.1"; gene_id "gene-BO79DRAFT_190703";
+NW_020291807.1	RefSeq	CDS	845325	845341	.	+	0	transcript_id "rna-XM_025680760.1"; gene_id "gene-BO79DRAFT_190703";
+NW_020291807.1	RefSeq	CDS	845409	845663	.	+	1	transcript_id "rna-XM_025680760.1"; gene_id "gene-BO79DRAFT_190703";
+NW_020291807.1	RefSeq	CDS	845734	848350	.	+	1	transcript_id "rna-XM_025680760.1"; gene_id "gene-BO79DRAFT_190703";
+NW_020291807.1	RefSeq	transcript	1044865	1046330	.	+	.	transcript_id "rna-XM_025678255.1"; gene_id "gene-BO79DRAFT_141561"
+NW_020291807.1	RefSeq	exon	1044865	1044967	.	+	.	transcript_id "rna-XM_025678255.1"; gene_id "gene-BO79DRAFT_141561";
+NW_020291807.1	RefSeq	exon	1045047	1045147	.	+	.	transcript_id "rna-XM_025678255.1"; gene_id "gene-BO79DRAFT_141561";
+NW_020291807.1	RefSeq	exon	1045225	1045356	.	+	.	transcript_id "rna-XM_025678255.1"; gene_id "gene-BO79DRAFT_141561";
+NW_020291807.1	RefSeq	exon	1045407	1046330	.	+	.	transcript_id "rna-XM_025678255.1"; gene_id "gene-BO79DRAFT_141561";
+NW_020291807.1	RefSeq	CDS	1044865	1044967	.	+	0	transcript_id "rna-XM_025678255.1"; gene_id "gene-BO79DRAFT_141561";
+NW_020291807.1	RefSeq	CDS	1045047	1045147	.	+	2	transcript_id "rna-XM_025678255.1"; gene_id "gene-BO79DRAFT_141561";
+NW_020291807.1	RefSeq	CDS	1045225	1045356	.	+	0	transcript_id "rna-XM_025678255.1"; gene_id "gene-BO79DRAFT_141561";
+NW_020291807.1	RefSeq	CDS	1045407	1046330	.	+	0	transcript_id "rna-XM_025678255.1"; gene_id "gene-BO79DRAFT_141561";
+NW_020291808.1	RefSeq	transcript	12505	14100	.	-	.	transcript_id "rna-XM_025688421.1"; gene_id "gene-BO79DRAFT_285988"
+NW_020291808.1	RefSeq	exon	12505	13504	.	-	.	transcript_id "rna-XM_025688421.1"; gene_id "gene-BO79DRAFT_285988";
+NW_020291808.1	RefSeq	exon	13560	13592	.	-	.	transcript_id "rna-XM_025688421.1"; gene_id "gene-BO79DRAFT_285988";
+NW_020291808.1	RefSeq	exon	13647	13657	.	-	.	transcript_id "rna-XM_025688421.1"; gene_id "gene-BO79DRAFT_285988";
+NW_020291808.1	RefSeq	exon	13714	13760	.	-	.	transcript_id "rna-XM_025688421.1"; gene_id "gene-BO79DRAFT_285988";
+NW_020291808.1	RefSeq	exon	13812	13851	.	-	.	transcript_id "rna-XM_025688421.1"; gene_id "gene-BO79DRAFT_285988";
+NW_020291808.1	RefSeq	exon	13913	14100	.	-	.	transcript_id "rna-XM_025688421.1"; gene_id "gene-BO79DRAFT_285988";
+NW_020291808.1	RefSeq	CDS	12620	13504	.	-	0	transcript_id "rna-XM_025688421.1"; gene_id "gene-BO79DRAFT_285988";
+NW_020291808.1	RefSeq	CDS	13560	13592	.	-	0	transcript_id "rna-XM_025688421.1"; gene_id "gene-BO79DRAFT_285988";
+NW_020291808.1	RefSeq	CDS	13647	13657	.	-	2	transcript_id "rna-XM_025688421.1"; gene_id "gene-BO79DRAFT_285988";
+NW_020291808.1	RefSeq	CDS	13714	13760	.	-	1	transcript_id "rna-XM_025688421.1"; gene_id "gene-BO79DRAFT_285988";
+NW_020291808.1	RefSeq	CDS	13812	13851	.	-	2	transcript_id "rna-XM_025688421.1"; gene_id "gene-BO79DRAFT_285988";
+NW_020291808.1	RefSeq	CDS	13913	14009	.	-	0	transcript_id "rna-XM_025688421.1"; gene_id "gene-BO79DRAFT_285988";
+NW_020291808.1	RefSeq	transcript	426807	428311	.	-	.	transcript_id "rna-XM_025679474.1"; gene_id "gene-BO79DRAFT_169328"
+NW_020291808.1	RefSeq	exon	426807	426937	.	-	.	transcript_id "rna-XM_025679474.1"; gene_id "gene-BO79DRAFT_169328";
+NW_020291808.1	RefSeq	exon	426993	428311	.	-	.	transcript_id "rna-XM_025679474.1"; gene_id "gene-BO79DRAFT_169328";
+NW_020291808.1	RefSeq	CDS	426905	426937	.	-	0	transcript_id "rna-XM_025679474.1"; gene_id "gene-BO79DRAFT_169328";
+NW_020291808.1	RefSeq	CDS	426993	428210	.	-	0	transcript_id "rna-XM_025679474.1"; gene_id "gene-BO79DRAFT_169328";
+NW_020291808.1	RefSeq	transcript	629552	630934	.	-	.	transcript_id "rna-XM_025688435.1"; gene_id "gene-BO79DRAFT_286132"
+NW_020291808.1	RefSeq	exon	629552	630767	.	-	.	transcript_id "rna-XM_025688435.1"; gene_id "gene-BO79DRAFT_286132";
+NW_020291808.1	RefSeq	exon	630859	630934	.	-	.	transcript_id "rna-XM_025688435.1"; gene_id "gene-BO79DRAFT_286132";
+NW_020291808.1	RefSeq	CDS	629956	630767	.	-	2	transcript_id "rna-XM_025688435.1"; gene_id "gene-BO79DRAFT_286132";
+NW_020291808.1	RefSeq	CDS	630859	630934	.	-	0	transcript_id "rna-XM_025688435.1"; gene_id "gene-BO79DRAFT_286132";
+NW_020291808.1	RefSeq	transcript	687270	688637	.	+	.	transcript_id "rna-XM_025689767.1"; gene_id "gene-BO79DRAFT_80202"
+NW_020291808.1	RefSeq	exon	687270	688637	.	+	.	transcript_id "rna-XM_025689767.1"; gene_id "gene-BO79DRAFT_80202";
+NW_020291808.1	RefSeq	CDS	687311	688528	.	+	0	transcript_id "rna-XM_025689767.1"; gene_id "gene-BO79DRAFT_80202";
+NW_020291808.1	RefSeq	transcript	719869	721816	.	-	.	transcript_id "rna-XM_025679484.1"; gene_id "gene-BO79DRAFT_169524"
+NW_020291808.1	RefSeq	exon	719869	721392	.	-	.	transcript_id "rna-XM_025679484.1"; gene_id "gene-BO79DRAFT_169524";
+NW_020291808.1	RefSeq	exon	721473	721506	.	-	.	transcript_id "rna-XM_025679484.1"; gene_id "gene-BO79DRAFT_169524";
+NW_020291808.1	RefSeq	exon	721610	721816	.	-	.	transcript_id "rna-XM_025679484.1"; gene_id "gene-BO79DRAFT_169524";
+NW_020291808.1	RefSeq	CDS	719885	721392	.	-	2	transcript_id "rna-XM_025679484.1"; gene_id "gene-BO79DRAFT_169524";
+NW_020291808.1	RefSeq	CDS	721473	721506	.	-	0	transcript_id "rna-XM_025679484.1"; gene_id "gene-BO79DRAFT_169524";
+NW_020291808.1	RefSeq	CDS	721610	721651	.	-	0	transcript_id "rna-XM_025679484.1"; gene_id "gene-BO79DRAFT_169524";
+NW_020291808.1	RefSeq	transcript	807087	808463	.	+	.	transcript_id "rna-XM_025682319.1"; gene_id "gene-BO79DRAFT_208125"
+NW_020291808.1	RefSeq	exon	807087	807287	.	+	.	transcript_id "rna-XM_025682319.1"; gene_id "gene-BO79DRAFT_208125";
+NW_020291808.1	RefSeq	exon	807371	807469	.	+	.	transcript_id "rna-XM_025682319.1"; gene_id "gene-BO79DRAFT_208125";
+NW_020291808.1	RefSeq	exon	807572	807668	.	+	.	transcript_id "rna-XM_025682319.1"; gene_id "gene-BO79DRAFT_208125";
+NW_020291808.1	RefSeq	exon	807737	807823	.	+	.	transcript_id "rna-XM_025682319.1"; gene_id "gene-BO79DRAFT_208125";
+NW_020291808.1	RefSeq	exon	807880	807943	.	+	.	transcript_id "rna-XM_025682319.1"; gene_id "gene-BO79DRAFT_208125";
+NW_020291808.1	RefSeq	exon	807999	808176	.	+	.	transcript_id "rna-XM_025682319.1"; gene_id "gene-BO79DRAFT_208125";
+NW_020291808.1	RefSeq	exon	808245	808463	.	+	.	transcript_id "rna-XM_025682319.1"; gene_id "gene-BO79DRAFT_208125";
+NW_020291808.1	RefSeq	CDS	807276	807287	.	+	0	transcript_id "rna-XM_025682319.1"; gene_id "gene-BO79DRAFT_208125";
+NW_020291808.1	RefSeq	CDS	807371	807469	.	+	0	transcript_id "rna-XM_025682319.1"; gene_id "gene-BO79DRAFT_208125";
+NW_020291808.1	RefSeq	CDS	807572	807668	.	+	0	transcript_id "rna-XM_025682319.1"; gene_id "gene-BO79DRAFT_208125";
+NW_020291808.1	RefSeq	CDS	807737	807823	.	+	2	transcript_id "rna-XM_025682319.1"; gene_id "gene-BO79DRAFT_208125";
+NW_020291808.1	RefSeq	CDS	807880	807943	.	+	2	transcript_id "rna-XM_025682319.1"; gene_id "gene-BO79DRAFT_208125";
+NW_020291808.1	RefSeq	CDS	807999	808176	.	+	1	transcript_id "rna-XM_025682319.1"; gene_id "gene-BO79DRAFT_208125";
+NW_020291808.1	RefSeq	CDS	808245	808289	.	+	0	transcript_id "rna-XM_025682319.1"; gene_id "gene-BO79DRAFT_208125";
+NW_020291808.1	RefSeq	transcript	850315	853153	.	+	.	transcript_id "rna-XM_025680819.1"; gene_id "gene-BO79DRAFT_191379"
+NW_020291808.1	RefSeq	exon	850315	850621	.	+	.	transcript_id "rna-XM_025680819.1"; gene_id "gene-BO79DRAFT_191379";
+NW_020291808.1	RefSeq	exon	850682	853153	.	+	.	transcript_id "rna-XM_025680819.1"; gene_id "gene-BO79DRAFT_191379";
+NW_020291808.1	RefSeq	CDS	850334	850621	.	+	0	transcript_id "rna-XM_025680819.1"; gene_id "gene-BO79DRAFT_191379";
+NW_020291808.1	RefSeq	CDS	850682	853153	.	+	0	transcript_id "rna-XM_025680819.1"; gene_id "gene-BO79DRAFT_191379";
+NW_020291809.1	RefSeq	transcript	904210	906444	.	+	.	transcript_id "rna-XM_025680857.1"; gene_id "gene-BO79DRAFT_191851"
+NW_020291809.1	RefSeq	exon	904210	904236	.	+	.	transcript_id "rna-XM_025680857.1"; gene_id "gene-BO79DRAFT_191851";
+NW_020291809.1	RefSeq	exon	904284	904338	.	+	.	transcript_id "rna-XM_025680857.1"; gene_id "gene-BO79DRAFT_191851";
+NW_020291809.1	RefSeq	exon	904396	904637	.	+	.	transcript_id "rna-XM_025680857.1"; gene_id "gene-BO79DRAFT_191851";
+NW_020291809.1	RefSeq	exon	904693	904799	.	+	.	transcript_id "rna-XM_025680857.1"; gene_id "gene-BO79DRAFT_191851";
+NW_020291809.1	RefSeq	exon	904854	905088	.	+	.	transcript_id "rna-XM_025680857.1"; gene_id "gene-BO79DRAFT_191851";
+NW_020291809.1	RefSeq	exon	905136	905229	.	+	.	transcript_id "rna-XM_025680857.1"; gene_id "gene-BO79DRAFT_191851";
+NW_020291809.1	RefSeq	exon	905280	905794	.	+	.	transcript_id "rna-XM_025680857.1"; gene_id "gene-BO79DRAFT_191851";
+NW_020291809.1	RefSeq	exon	905846	906130	.	+	.	transcript_id "rna-XM_025680857.1"; gene_id "gene-BO79DRAFT_191851";
+NW_020291809.1	RefSeq	exon	906184	906301	.	+	.	transcript_id "rna-XM_025680857.1"; gene_id "gene-BO79DRAFT_191851";
+NW_020291809.1	RefSeq	exon	906362	906444	.	+	.	transcript_id "rna-XM_025680857.1"; gene_id "gene-BO79DRAFT_191851";
+NW_020291809.1	RefSeq	CDS	904210	904236	.	+	0	transcript_id "rna-XM_025680857.1"; gene_id "gene-BO79DRAFT_191851";
+NW_020291809.1	RefSeq	CDS	904284	904338	.	+	0	transcript_id "rna-XM_025680857.1"; gene_id "gene-BO79DRAFT_191851";
+NW_020291809.1	RefSeq	CDS	904396	904637	.	+	2	transcript_id "rna-XM_025680857.1"; gene_id "gene-BO79DRAFT_191851";
+NW_020291809.1	RefSeq	CDS	904693	904799	.	+	0	transcript_id "rna-XM_025680857.1"; gene_id "gene-BO79DRAFT_191851";
+NW_020291809.1	RefSeq	CDS	904854	905088	.	+	1	transcript_id "rna-XM_025680857.1"; gene_id "gene-BO79DRAFT_191851";
+NW_020291809.1	RefSeq	CDS	905136	905229	.	+	0	transcript_id "rna-XM_025680857.1"; gene_id "gene-BO79DRAFT_191851";
+NW_020291809.1	RefSeq	CDS	905280	905794	.	+	2	transcript_id "rna-XM_025680857.1"; gene_id "gene-BO79DRAFT_191851";
+NW_020291809.1	RefSeq	CDS	905846	906130	.	+	0	transcript_id "rna-XM_025680857.1"; gene_id "gene-BO79DRAFT_191851";
+NW_020291809.1	RefSeq	CDS	906184	906301	.	+	0	transcript_id "rna-XM_025680857.1"; gene_id "gene-BO79DRAFT_191851";
+NW_020291809.1	RefSeq	CDS	906362	906444	.	+	2	transcript_id "rna-XM_025680857.1"; gene_id "gene-BO79DRAFT_191851";
+NW_020291809.1	RefSeq	transcript	971517	973411	.	+	.	transcript_id "rna-XM_025680859.1"; gene_id "gene-BO79DRAFT_191909"
+NW_020291809.1	RefSeq	exon	971517	971792	.	+	.	transcript_id "rna-XM_025680859.1"; gene_id "gene-BO79DRAFT_191909";
+NW_020291809.1	RefSeq	exon	971905	972605	.	+	.	transcript_id "rna-XM_025680859.1"; gene_id "gene-BO79DRAFT_191909";
+NW_020291809.1	RefSeq	exon	972659	972855	.	+	.	transcript_id "rna-XM_025680859.1"; gene_id "gene-BO79DRAFT_191909";
+NW_020291809.1	RefSeq	exon	972915	973411	.	+	.	transcript_id "rna-XM_025680859.1"; gene_id "gene-BO79DRAFT_191909";
+NW_020291809.1	RefSeq	CDS	971713	971792	.	+	0	transcript_id "rna-XM_025680859.1"; gene_id "gene-BO79DRAFT_191909";
+NW_020291809.1	RefSeq	CDS	971905	972605	.	+	1	transcript_id "rna-XM_025680859.1"; gene_id "gene-BO79DRAFT_191909";
+NW_020291809.1	RefSeq	CDS	972659	972855	.	+	2	transcript_id "rna-XM_025680859.1"; gene_id "gene-BO79DRAFT_191909";
+NW_020291809.1	RefSeq	CDS	972915	973331	.	+	0	transcript_id "rna-XM_025680859.1"; gene_id "gene-BO79DRAFT_191909";
+NW_020291811.1	RefSeq	transcript	629082	633640	.	+	.	transcript_id "rna-XM_025678374.1"; gene_id "gene-BO79DRAFT_144298"
+NW_020291811.1	RefSeq	exon	629082	629575	.	+	.	transcript_id "rna-XM_025678374.1"; gene_id "gene-BO79DRAFT_144298";
+NW_020291811.1	RefSeq	exon	630777	631317	.	+	.	transcript_id "rna-XM_025678374.1"; gene_id "gene-BO79DRAFT_144298";
+NW_020291811.1	RefSeq	exon	631349	633640	.	+	.	transcript_id "rna-XM_025678374.1"; gene_id "gene-BO79DRAFT_144298";
+NW_020291811.1	RefSeq	CDS	629082	629575	.	+	0	transcript_id "rna-XM_025678374.1"; gene_id "gene-BO79DRAFT_144298";
+NW_020291811.1	RefSeq	CDS	630777	631317	.	+	1	transcript_id "rna-XM_025678374.1"; gene_id "gene-BO79DRAFT_144298";
+NW_020291811.1	RefSeq	CDS	631349	633640	.	+	0	transcript_id "rna-XM_025678374.1"; gene_id "gene-BO79DRAFT_144298";
+NW_020291811.1	RefSeq	transcript	807236	809956	.	+	.	transcript_id "rna-XM_025680923.1"; gene_id "gene-BO79DRAFT_192839"
+NW_020291811.1	RefSeq	exon	807236	807480	.	+	.	transcript_id "rna-XM_025680923.1"; gene_id "gene-BO79DRAFT_192839";
+NW_020291811.1	RefSeq	exon	807542	809956	.	+	.	transcript_id "rna-XM_025680923.1"; gene_id "gene-BO79DRAFT_192839";
+NW_020291811.1	RefSeq	CDS	807264	807480	.	+	0	transcript_id "rna-XM_025680923.1"; gene_id "gene-BO79DRAFT_192839";
+NW_020291811.1	RefSeq	CDS	807542	809511	.	+	2	transcript_id "rna-XM_025680923.1"; gene_id "gene-BO79DRAFT_192839";
+NW_020291812.1	RefSeq	transcript	534329	537397	.	+	.	transcript_id "rna-XM_025680955.1"; gene_id "gene-BO79DRAFT_193153"
+NW_020291812.1	RefSeq	exon	534329	536860	.	+	.	transcript_id "rna-XM_025680955.1"; gene_id "gene-BO79DRAFT_193153";
+NW_020291812.1	RefSeq	exon	536923	537397	.	+	.	transcript_id "rna-XM_025680955.1"; gene_id "gene-BO79DRAFT_193153";
+NW_020291812.1	RefSeq	CDS	534444	536860	.	+	0	transcript_id "rna-XM_025680955.1"; gene_id "gene-BO79DRAFT_193153";
+NW_020291812.1	RefSeq	CDS	536923	537349	.	+	1	transcript_id "rna-XM_025680955.1"; gene_id "gene-BO79DRAFT_193153";
+NW_020291812.1	RefSeq	transcript	539299	540675	.	-	.	transcript_id "rna-XM_025680957.1"; gene_id "gene-BO79DRAFT_193159"
+NW_020291812.1	RefSeq	exon	539299	539944	.	-	.	transcript_id "rna-XM_025680957.1"; gene_id "gene-BO79DRAFT_193159";
+NW_020291812.1	RefSeq	exon	540048	540216	.	-	.	transcript_id "rna-XM_025680957.1"; gene_id "gene-BO79DRAFT_193159";
+NW_020291812.1	RefSeq	exon	540290	540675	.	-	.	transcript_id "rna-XM_025680957.1"; gene_id "gene-BO79DRAFT_193159";
+NW_020291812.1	RefSeq	CDS	539370	539944	.	-	2	transcript_id "rna-XM_025680957.1"; gene_id "gene-BO79DRAFT_193159";
+NW_020291812.1	RefSeq	CDS	540048	540216	.	-	0	transcript_id "rna-XM_025680957.1"; gene_id "gene-BO79DRAFT_193159";
+NW_020291812.1	RefSeq	CDS	540290	540592	.	-	0	transcript_id "rna-XM_025680957.1"; gene_id "gene-BO79DRAFT_193159";
+NW_020291812.1	RefSeq	transcript	696793	698393	.	-	.	transcript_id "rna-XM_025680964.1"; gene_id "gene-BO79DRAFT_193264"; gene_name "trm61"
+NW_020291812.1	RefSeq	exon	696793	698393	.	-	.	transcript_id "rna-XM_025680964.1"; gene_id "gene-BO79DRAFT_193264"; gene_name "trm61";
+NW_020291812.1	RefSeq	CDS	696793	698334	.	-	0	transcript_id "rna-XM_025680964.1"; gene_id "gene-BO79DRAFT_193264"; gene_name "trm61";
+NW_020291812.1	RefSeq	transcript	857591	858757	.	+	.	transcript_id "rna-XM_025679596.1"; gene_id "gene-BO79DRAFT_171641"
+NW_020291812.1	RefSeq	exon	857591	858757	.	+	.	transcript_id "rna-XM_025679596.1"; gene_id "gene-BO79DRAFT_171641";
+NW_020291812.1	RefSeq	CDS	857591	858352	.	+	0	transcript_id "rna-XM_025679596.1"; gene_id "gene-BO79DRAFT_171641";
+NW_020291813.1	RefSeq	transcript	396516	398825	.	-	.	transcript_id "rna-XM_025680997.1"; gene_id "gene-BO79DRAFT_193704"; gene_name "cog6"
+NW_020291813.1	RefSeq	exon	396516	398453	.	-	.	transcript_id "rna-XM_025680997.1"; gene_id "gene-BO79DRAFT_193704"; gene_name "cog6";
+NW_020291813.1	RefSeq	exon	398510	398825	.	-	.	transcript_id "rna-XM_025680997.1"; gene_id "gene-BO79DRAFT_193704"; gene_name "cog6";
+NW_020291813.1	RefSeq	CDS	396516	398453	.	-	0	transcript_id "rna-XM_025680997.1"; gene_id "gene-BO79DRAFT_193704"; gene_name "cog6";
+NW_020291813.1	RefSeq	CDS	398510	398812	.	-	0	transcript_id "rna-XM_025680997.1"; gene_id "gene-BO79DRAFT_193704"; gene_name "cog6";
+NW_020291815.1	RefSeq	transcript	96470	97562	.	+	.	transcript_id "rna-XM_025682499.1"; gene_id "gene-BO79DRAFT_208944"
+NW_020291815.1	RefSeq	exon	96470	96899	.	+	.	transcript_id "rna-XM_025682499.1"; gene_id "gene-BO79DRAFT_208944";
+NW_020291815.1	RefSeq	exon	96964	97562	.	+	.	transcript_id "rna-XM_025682499.1"; gene_id "gene-BO79DRAFT_208944";
+NW_020291815.1	RefSeq	CDS	96666	96899	.	+	0	transcript_id "rna-XM_025682499.1"; gene_id "gene-BO79DRAFT_208944";
+NW_020291815.1	RefSeq	CDS	96964	97518	.	+	0	transcript_id "rna-XM_025682499.1"; gene_id "gene-BO79DRAFT_208944";
+NW_020291815.1	RefSeq	transcript	252281	254431	.	-	.	transcript_id "rna-XM_025681054.1"; gene_id "gene-BO79DRAFT_194492"
+NW_020291815.1	RefSeq	exon	252281	253206	.	-	.	transcript_id "rna-XM_025681054.1"; gene_id "gene-BO79DRAFT_194492";
+NW_020291815.1	RefSeq	exon	253265	253815	.	-	.	transcript_id "rna-XM_025681054.1"; gene_id "gene-BO79DRAFT_194492";
+NW_020291815.1	RefSeq	exon	253921	253938	.	-	.	transcript_id "rna-XM_025681054.1"; gene_id "gene-BO79DRAFT_194492";
+NW_020291815.1	RefSeq	exon	254004	254431	.	-	.	transcript_id "rna-XM_025681054.1"; gene_id "gene-BO79DRAFT_194492";
+NW_020291815.1	RefSeq	CDS	252777	253206	.	-	1	transcript_id "rna-XM_025681054.1"; gene_id "gene-BO79DRAFT_194492";
+NW_020291815.1	RefSeq	CDS	253265	253815	.	-	0	transcript_id "rna-XM_025681054.1"; gene_id "gene-BO79DRAFT_194492";
+NW_020291815.1	RefSeq	CDS	253921	253938	.	-	0	transcript_id "rna-XM_025681054.1"; gene_id "gene-BO79DRAFT_194492";
+NW_020291815.1	RefSeq	CDS	254004	254063	.	-	0	transcript_id "rna-XM_025681054.1"; gene_id "gene-BO79DRAFT_194492";
+NW_020291815.1	RefSeq	transcript	328470	329232	.	-	.	transcript_id "rna-XM_025684718.1"; gene_id "gene-BO79DRAFT_237580"
+NW_020291815.1	RefSeq	exon	328470	328931	.	-	.	transcript_id "rna-XM_025684718.1"; gene_id "gene-BO79DRAFT_237580";
+NW_020291815.1	RefSeq	exon	328997	329079	.	-	.	transcript_id "rna-XM_025684718.1"; gene_id "gene-BO79DRAFT_237580";
+NW_020291815.1	RefSeq	exon	329139	329232	.	-	.	transcript_id "rna-XM_025684718.1"; gene_id "gene-BO79DRAFT_237580";
+NW_020291815.1	RefSeq	CDS	328640	328931	.	-	1	transcript_id "rna-XM_025684718.1"; gene_id "gene-BO79DRAFT_237580";
+NW_020291815.1	RefSeq	CDS	328997	329079	.	-	0	transcript_id "rna-XM_025684718.1"; gene_id "gene-BO79DRAFT_237580";
+NW_020291815.1	RefSeq	CDS	329139	329177	.	-	0	transcript_id "rna-XM_025684718.1"; gene_id "gene-BO79DRAFT_237580";
+NW_020291815.1	RefSeq	transcript	331742	333127	.	-	.	transcript_id "rna-XM_025679649.1"; gene_id "gene-BO79DRAFT_172828"
+NW_020291815.1	RefSeq	exon	331742	332713	.	-	.	transcript_id "rna-XM_025679649.1"; gene_id "gene-BO79DRAFT_172828";
+NW_020291815.1	RefSeq	exon	332824	333127	.	-	.	transcript_id "rna-XM_025679649.1"; gene_id "gene-BO79DRAFT_172828";
+NW_020291815.1	RefSeq	CDS	332167	332713	.	-	1	transcript_id "rna-XM_025679649.1"; gene_id "gene-BO79DRAFT_172828";
+NW_020291815.1	RefSeq	CDS	332824	333017	.	-	0	transcript_id "rna-XM_025679649.1"; gene_id "gene-BO79DRAFT_172828";
+NW_020291815.1	RefSeq	transcript	462707	464300	.	-	.	transcript_id "rna-XM_025679655.1"; gene_id "gene-BO79DRAFT_172914"
+NW_020291815.1	RefSeq	exon	462707	463716	.	-	.	transcript_id "rna-XM_025679655.1"; gene_id "gene-BO79DRAFT_172914";
+NW_020291815.1	RefSeq	exon	463786	463999	.	-	.	transcript_id "rna-XM_025679655.1"; gene_id "gene-BO79DRAFT_172914";
+NW_020291815.1	RefSeq	exon	464069	464300	.	-	.	transcript_id "rna-XM_025679655.1"; gene_id "gene-BO79DRAFT_172914";
+NW_020291815.1	RefSeq	CDS	462711	463716	.	-	1	transcript_id "rna-XM_025679655.1"; gene_id "gene-BO79DRAFT_172914";
+NW_020291815.1	RefSeq	CDS	463786	463999	.	-	2	transcript_id "rna-XM_025679655.1"; gene_id "gene-BO79DRAFT_172914";
+NW_020291815.1	RefSeq	CDS	464069	464300	.	-	0	transcript_id "rna-XM_025679655.1"; gene_id "gene-BO79DRAFT_172914";
+NW_020291816.1	RefSeq	transcript	744332	745985	.	+	.	transcript_id "rna-XM_025682563.1"; gene_id "gene-BO79DRAFT_209198"
+NW_020291816.1	RefSeq	exon	744332	745025	.	+	.	transcript_id "rna-XM_025682563.1"; gene_id "gene-BO79DRAFT_209198";
+NW_020291816.1	RefSeq	exon	745106	745985	.	+	.	transcript_id "rna-XM_025682563.1"; gene_id "gene-BO79DRAFT_209198";
+NW_020291816.1	RefSeq	CDS	744499	745025	.	+	0	transcript_id "rna-XM_025682563.1"; gene_id "gene-BO79DRAFT_209198";
+NW_020291816.1	RefSeq	CDS	745106	745658	.	+	1	transcript_id "rna-XM_025682563.1"; gene_id "gene-BO79DRAFT_209198";
+NW_020291817.1	RefSeq	transcript	292772	294992	.	+	.	transcript_id "rna-XM_025682571.1"; gene_id "gene-BO79DRAFT_209245"
+NW_020291817.1	RefSeq	exon	292772	294992	.	+	.	transcript_id "rna-XM_025682571.1"; gene_id "gene-BO79DRAFT_209245";
+NW_020291817.1	RefSeq	CDS	292788	294857	.	+	0	transcript_id "rna-XM_025682571.1"; gene_id "gene-BO79DRAFT_209245";
+NW_020291817.1	RefSeq	transcript	759973	762141	.	+	.	transcript_id "rna-XM_025678569.1"; gene_id "gene-BO79DRAFT_149018"
+NW_020291817.1	RefSeq	exon	759973	760293	.	+	.	transcript_id "rna-XM_025678569.1"; gene_id "gene-BO79DRAFT_149018";
+NW_020291817.1	RefSeq	exon	760384	760657	.	+	.	transcript_id "rna-XM_025678569.1"; gene_id "gene-BO79DRAFT_149018";
+NW_020291817.1	RefSeq	exon	760716	760860	.	+	.	transcript_id "rna-XM_025678569.1"; gene_id "gene-BO79DRAFT_149018";
+NW_020291817.1	RefSeq	exon	760920	762141	.	+	.	transcript_id "rna-XM_025678569.1"; gene_id "gene-BO79DRAFT_149018";
+NW_020291817.1	RefSeq	CDS	759973	760293	.	+	0	transcript_id "rna-XM_025678569.1"; gene_id "gene-BO79DRAFT_149018";
+NW_020291817.1	RefSeq	CDS	760384	760657	.	+	0	transcript_id "rna-XM_025678569.1"; gene_id "gene-BO79DRAFT_149018";
+NW_020291817.1	RefSeq	CDS	760716	760860	.	+	2	transcript_id "rna-XM_025678569.1"; gene_id "gene-BO79DRAFT_149018";
+NW_020291817.1	RefSeq	CDS	760920	762141	.	+	1	transcript_id "rna-XM_025678569.1"; gene_id "gene-BO79DRAFT_149018";
+NW_020291818.1	RefSeq	transcript	89317	90570	.	+	.	transcript_id "rna-XM_025688638.1"; gene_id "gene-BO79DRAFT_287940"
+NW_020291818.1	RefSeq	exon	89317	89460	.	+	.	transcript_id "rna-XM_025688638.1"; gene_id "gene-BO79DRAFT_287940";
+NW_020291818.1	RefSeq	exon	89527	90570	.	+	.	transcript_id "rna-XM_025688638.1"; gene_id "gene-BO79DRAFT_287940";
+NW_020291818.1	RefSeq	CDS	89423	89460	.	+	0	transcript_id "rna-XM_025688638.1"; gene_id "gene-BO79DRAFT_287940";
+NW_020291818.1	RefSeq	CDS	89527	90541	.	+	1	transcript_id "rna-XM_025688638.1"; gene_id "gene-BO79DRAFT_287940";
+NW_020291818.1	RefSeq	transcript	181655	183963	.	-	.	transcript_id "rna-XM_025679734.1"; gene_id "gene-BO79DRAFT_174277"; gene_name "agm1"
+NW_020291818.1	RefSeq	exon	181655	182829	.	-	.	transcript_id "rna-XM_025679734.1"; gene_id "gene-BO79DRAFT_174277"; gene_name "agm1";
+NW_020291818.1	RefSeq	exon	182885	183391	.	-	.	transcript_id "rna-XM_025679734.1"; gene_id "gene-BO79DRAFT_174277"; gene_name "agm1";
+NW_020291818.1	RefSeq	exon	183449	183463	.	-	.	transcript_id "rna-XM_025679734.1"; gene_id "gene-BO79DRAFT_174277"; gene_name "agm1";
+NW_020291818.1	RefSeq	exon	183534	183678	.	-	.	transcript_id "rna-XM_025679734.1"; gene_id "gene-BO79DRAFT_174277"; gene_name "agm1";
+NW_020291818.1	RefSeq	exon	183781	183794	.	-	.	transcript_id "rna-XM_025679734.1"; gene_id "gene-BO79DRAFT_174277"; gene_name "agm1";
+NW_020291818.1	RefSeq	exon	183871	183963	.	-	.	transcript_id "rna-XM_025679734.1"; gene_id "gene-BO79DRAFT_174277"; gene_name "agm1";
+NW_020291818.1	RefSeq	CDS	181948	182829	.	-	0	transcript_id "rna-XM_025679734.1"; gene_id "gene-BO79DRAFT_174277"; gene_name "agm1";
+NW_020291818.1	RefSeq	CDS	182885	183391	.	-	0	transcript_id "rna-XM_025679734.1"; gene_id "gene-BO79DRAFT_174277"; gene_name "agm1";
+NW_020291818.1	RefSeq	CDS	183449	183463	.	-	0	transcript_id "rna-XM_025679734.1"; gene_id "gene-BO79DRAFT_174277"; gene_name "agm1";
+NW_020291818.1	RefSeq	CDS	183534	183678	.	-	1	transcript_id "rna-XM_025679734.1"; gene_id "gene-BO79DRAFT_174277"; gene_name "agm1";
+NW_020291818.1	RefSeq	CDS	183781	183794	.	-	0	transcript_id "rna-XM_025679734.1"; gene_id "gene-BO79DRAFT_174277"; gene_name "agm1";
+NW_020291818.1	RefSeq	CDS	183871	183963	.	-	0	transcript_id "rna-XM_025679734.1"; gene_id "gene-BO79DRAFT_174277"; gene_name "agm1";
+NW_020291818.1	RefSeq	transcript	600743	602225	.	+	.	transcript_id "rna-XM_025684784.1"; gene_id "gene-BO79DRAFT_238177"
+NW_020291818.1	RefSeq	exon	600743	601054	.	+	.	transcript_id "rna-XM_025684784.1"; gene_id "gene-BO79DRAFT_238177";
+NW_020291818.1	RefSeq	exon	601135	601271	.	+	.	transcript_id "rna-XM_025684784.1"; gene_id "gene-BO79DRAFT_238177";
+NW_020291818.1	RefSeq	exon	601335	602225	.	+	.	transcript_id "rna-XM_025684784.1"; gene_id "gene-BO79DRAFT_238177";
+NW_020291818.1	RefSeq	CDS	600801	601054	.	+	0	transcript_id "rna-XM_025684784.1"; gene_id "gene-BO79DRAFT_238177";
+NW_020291818.1	RefSeq	CDS	601135	601271	.	+	1	transcript_id "rna-XM_025684784.1"; gene_id "gene-BO79DRAFT_238177";
+NW_020291818.1	RefSeq	CDS	601335	602098	.	+	2	transcript_id "rna-XM_025684784.1"; gene_id "gene-BO79DRAFT_238177";
+NW_020291819.1	RefSeq	transcript	354850	356876	.	+	.	transcript_id "rna-XM_025681210.1"; gene_id "gene-BO79DRAFT_196519"
+NW_020291819.1	RefSeq	exon	354850	355596	.	+	.	transcript_id "rna-XM_025681210.1"; gene_id "gene-BO79DRAFT_196519";
+NW_020291819.1	RefSeq	exon	355658	356876	.	+	.	transcript_id "rna-XM_025681210.1"; gene_id "gene-BO79DRAFT_196519";
+NW_020291819.1	RefSeq	CDS	354966	355596	.	+	0	transcript_id "rna-XM_025681210.1"; gene_id "gene-BO79DRAFT_196519";
+NW_020291819.1	RefSeq	CDS	355658	356544	.	+	2	transcript_id "rna-XM_025681210.1"; gene_id "gene-BO79DRAFT_196519";
+NW_020291819.1	RefSeq	transcript	510835	512878	.	-	.	transcript_id "rna-XM_025685517.1"; gene_id "gene-BO79DRAFT_246033"
+NW_020291819.1	RefSeq	exon	510835	512421	.	-	.	transcript_id "rna-XM_025685517.1"; gene_id "gene-BO79DRAFT_246033";
+NW_020291819.1	RefSeq	exon	512507	512878	.	-	.	transcript_id "rna-XM_025685517.1"; gene_id "gene-BO79DRAFT_246033";
+NW_020291819.1	RefSeq	CDS	511244	512421	.	-	2	transcript_id "rna-XM_025685517.1"; gene_id "gene-BO79DRAFT_246033";
+NW_020291819.1	RefSeq	CDS	512507	512756	.	-	0	transcript_id "rna-XM_025685517.1"; gene_id "gene-BO79DRAFT_246033";
+NW_020291819.1	RefSeq	transcript	624703	626152	.	-	.	transcript_id "rna-XM_025679772.1"; gene_id "gene-BO79DRAFT_175017"
+NW_020291819.1	RefSeq	exon	624703	625058	.	-	.	transcript_id "rna-XM_025679772.1"; gene_id "gene-BO79DRAFT_175017";
+NW_020291819.1	RefSeq	exon	625118	625270	.	-	.	transcript_id "rna-XM_025679772.1"; gene_id "gene-BO79DRAFT_175017";
+NW_020291819.1	RefSeq	exon	625331	625537	.	-	.	transcript_id "rna-XM_025679772.1"; gene_id "gene-BO79DRAFT_175017";
+NW_020291819.1	RefSeq	exon	625587	626152	.	-	.	transcript_id "rna-XM_025679772.1"; gene_id "gene-BO79DRAFT_175017";
+NW_020291819.1	RefSeq	CDS	624825	625058	.	-	0	transcript_id "rna-XM_025679772.1"; gene_id "gene-BO79DRAFT_175017";
+NW_020291819.1	RefSeq	CDS	625118	625270	.	-	0	transcript_id "rna-XM_025679772.1"; gene_id "gene-BO79DRAFT_175017";
+NW_020291819.1	RefSeq	CDS	625331	625537	.	-	0	transcript_id "rna-XM_025679772.1"; gene_id "gene-BO79DRAFT_175017";
+NW_020291819.1	RefSeq	CDS	625587	625955	.	-	0	transcript_id "rna-XM_025679772.1"; gene_id "gene-BO79DRAFT_175017";
+NW_020291820.1	RefSeq	transcript	197503	199477	.	-	.	transcript_id "rna-XM_025682642.1"; gene_id "gene-BO79DRAFT_209654"
+NW_020291820.1	RefSeq	exon	197503	199477	.	-	.	transcript_id "rna-XM_025682642.1"; gene_id "gene-BO79DRAFT_209654";
+NW_020291820.1	RefSeq	CDS	197580	199349	.	-	0	transcript_id "rna-XM_025682642.1"; gene_id "gene-BO79DRAFT_209654";
+NW_020291820.1	RefSeq	transcript	239680	240753	.	-	.	transcript_id "rna-XM_025685532.1"; gene_id "gene-BO79DRAFT_246126"; gene_name "dph5"
+NW_020291820.1	RefSeq	exon	239680	240297	.	-	.	transcript_id "rna-XM_025685532.1"; gene_id "gene-BO79DRAFT_246126"; gene_name "dph5";
+NW_020291820.1	RefSeq	exon	240358	240482	.	-	.	transcript_id "rna-XM_025685532.1"; gene_id "gene-BO79DRAFT_246126"; gene_name "dph5";
+NW_020291820.1	RefSeq	exon	240564	240753	.	-	.	transcript_id "rna-XM_025685532.1"; gene_id "gene-BO79DRAFT_246126"; gene_name "dph5";
+NW_020291820.1	RefSeq	CDS	239700	240297	.	-	1	transcript_id "rna-XM_025685532.1"; gene_id "gene-BO79DRAFT_246126"; gene_name "dph5";
+NW_020291820.1	RefSeq	CDS	240358	240482	.	-	0	transcript_id "rna-XM_025685532.1"; gene_id "gene-BO79DRAFT_246126"; gene_name "dph5";
+NW_020291820.1	RefSeq	CDS	240564	240698	.	-	0	transcript_id "rna-XM_025685532.1"; gene_id "gene-BO79DRAFT_246126"; gene_name "dph5";
+NW_020291820.1	RefSeq	transcript	608900	610274	.	+	.	transcript_id "rna-XM_025679799.1"; gene_id "gene-BO79DRAFT_175433"
+NW_020291820.1	RefSeq	exon	608900	609068	.	+	.	transcript_id "rna-XM_025679799.1"; gene_id "gene-BO79DRAFT_175433";
+NW_020291820.1	RefSeq	exon	609231	610274	.	+	.	transcript_id "rna-XM_025679799.1"; gene_id "gene-BO79DRAFT_175433";
+NW_020291820.1	RefSeq	CDS	609002	609068	.	+	0	transcript_id "rna-XM_025679799.1"; gene_id "gene-BO79DRAFT_175433";
+NW_020291820.1	RefSeq	CDS	609231	610192	.	+	2	transcript_id "rna-XM_025679799.1"; gene_id "gene-BO79DRAFT_175433";
+NW_020291821.1	RefSeq	transcript	270437	272103	.	-	.	transcript_id "rna-XM_025685546.1"; gene_id "gene-BO79DRAFT_246278"
+NW_020291821.1	RefSeq	exon	270437	271354	.	-	.	transcript_id "rna-XM_025685546.1"; gene_id "gene-BO79DRAFT_246278";
+NW_020291821.1	RefSeq	exon	271434	272103	.	-	.	transcript_id "rna-XM_025685546.1"; gene_id "gene-BO79DRAFT_246278";
+NW_020291821.1	RefSeq	CDS	270492	271354	.	-	2	transcript_id "rna-XM_025685546.1"; gene_id "gene-BO79DRAFT_246278";
+NW_020291821.1	RefSeq	CDS	271434	272103	.	-	0	transcript_id "rna-XM_025685546.1"; gene_id "gene-BO79DRAFT_246278";
+NW_020291821.1	RefSeq	transcript	513787	516392	.	-	.	transcript_id "rna-XM_025682681.1"; gene_id "gene-BO79DRAFT_209833"
+NW_020291821.1	RefSeq	exon	513787	515761	.	-	.	transcript_id "rna-XM_025682681.1"; gene_id "gene-BO79DRAFT_209833";
+NW_020291821.1	RefSeq	exon	515827	516114	.	-	.	transcript_id "rna-XM_025682681.1"; gene_id "gene-BO79DRAFT_209833";
+NW_020291821.1	RefSeq	exon	516192	516227	.	-	.	transcript_id "rna-XM_025682681.1"; gene_id "gene-BO79DRAFT_209833";
+NW_020291821.1	RefSeq	exon	516318	516392	.	-	.	transcript_id "rna-XM_025682681.1"; gene_id "gene-BO79DRAFT_209833";
+NW_020291821.1	RefSeq	CDS	513898	515761	.	-	1	transcript_id "rna-XM_025682681.1"; gene_id "gene-BO79DRAFT_209833";
+NW_020291821.1	RefSeq	CDS	515827	516114	.	-	1	transcript_id "rna-XM_025682681.1"; gene_id "gene-BO79DRAFT_209833";
+NW_020291821.1	RefSeq	CDS	516192	516227	.	-	1	transcript_id "rna-XM_025682681.1"; gene_id "gene-BO79DRAFT_209833";
+NW_020291821.1	RefSeq	CDS	516318	516364	.	-	0	transcript_id "rna-XM_025682681.1"; gene_id "gene-BO79DRAFT_209833";
+NW_020291821.1	RefSeq	transcript	674868	675969	.	+	.	transcript_id "rna-XM_025689060.1"; gene_id "gene-BO79DRAFT_31357"
+NW_020291821.1	RefSeq	exon	674868	675000	.	+	.	transcript_id "rna-XM_025689060.1"; gene_id "gene-BO79DRAFT_31357";
+NW_020291821.1	RefSeq	exon	675084	675969	.	+	.	transcript_id "rna-XM_025689060.1"; gene_id "gene-BO79DRAFT_31357";
+NW_020291821.1	RefSeq	CDS	674905	675000	.	+	0	transcript_id "rna-XM_025689060.1"; gene_id "gene-BO79DRAFT_31357";
+NW_020291821.1	RefSeq	CDS	675084	675887	.	+	0	transcript_id "rna-XM_025689060.1"; gene_id "gene-BO79DRAFT_31357";
+NW_020291822.1	RefSeq	transcript	107843	110774	.	+	.	transcript_id "rna-XM_025684836.1"; gene_id "gene-BO79DRAFT_238692"
+NW_020291822.1	RefSeq	exon	107843	110157	.	+	.	transcript_id "rna-XM_025684836.1"; gene_id "gene-BO79DRAFT_238692";
+NW_020291822.1	RefSeq	exon	110218	110774	.	+	.	transcript_id "rna-XM_025684836.1"; gene_id "gene-BO79DRAFT_238692";
+NW_020291822.1	RefSeq	CDS	107977	110157	.	+	0	transcript_id "rna-XM_025684836.1"; gene_id "gene-BO79DRAFT_238692";
+NW_020291822.1	RefSeq	CDS	110218	110724	.	+	0	transcript_id "rna-XM_025684836.1"; gene_id "gene-BO79DRAFT_238692";
+NW_020291822.1	RefSeq	transcript	126041	127203	.	-	.	transcript_id "rna-XM_025679825.1"; gene_id "gene-BO79DRAFT_175978"; gene_name "tma22"
+NW_020291822.1	RefSeq	exon	126041	126565	.	-	.	transcript_id "rna-XM_025679825.1"; gene_id "gene-BO79DRAFT_175978"; gene_name "tma22";
+NW_020291822.1	RefSeq	exon	126657	126744	.	-	.	transcript_id "rna-XM_025679825.1"; gene_id "gene-BO79DRAFT_175978"; gene_name "tma22";
+NW_020291822.1	RefSeq	exon	126915	126934	.	-	.	transcript_id "rna-XM_025679825.1"; gene_id "gene-BO79DRAFT_175978"; gene_name "tma22";
+NW_020291822.1	RefSeq	exon	127030	127203	.	-	.	transcript_id "rna-XM_025679825.1"; gene_id "gene-BO79DRAFT_175978"; gene_name "tma22";
+NW_020291822.1	RefSeq	CDS	126144	126565	.	-	2	transcript_id "rna-XM_025679825.1"; gene_id "gene-BO79DRAFT_175978"; gene_name "tma22";
+NW_020291822.1	RefSeq	CDS	126657	126744	.	-	0	transcript_id "rna-XM_025679825.1"; gene_id "gene-BO79DRAFT_175978"; gene_name "tma22";
+NW_020291822.1	RefSeq	CDS	126915	126934	.	-	2	transcript_id "rna-XM_025679825.1"; gene_id "gene-BO79DRAFT_175978"; gene_name "tma22";
+NW_020291822.1	RefSeq	CDS	127030	127093	.	-	0	transcript_id "rna-XM_025679825.1"; gene_id "gene-BO79DRAFT_175978"; gene_name "tma22";
+NW_020291822.1	RefSeq	transcript	584992	585968	.	+	.	transcript_id "rna-XM_025681308.1"; gene_id "gene-BO79DRAFT_197896"
+NW_020291822.1	RefSeq	exon	584992	585163	.	+	.	transcript_id "rna-XM_025681308.1"; gene_id "gene-BO79DRAFT_197896";
+NW_020291822.1	RefSeq	exon	585240	585968	.	+	.	transcript_id "rna-XM_025681308.1"; gene_id "gene-BO79DRAFT_197896";
+NW_020291822.1	RefSeq	CDS	585033	585163	.	+	0	transcript_id "rna-XM_025681308.1"; gene_id "gene-BO79DRAFT_197896";
+NW_020291822.1	RefSeq	CDS	585240	585828	.	+	1	transcript_id "rna-XM_025681308.1"; gene_id "gene-BO79DRAFT_197896";
+NW_020291823.1	RefSeq	transcript	3716	6517	.	-	.	transcript_id "rna-XM_025684074.1"; gene_id "gene-BO79DRAFT_230031"
+NW_020291823.1	RefSeq	exon	3716	3763	.	-	.	transcript_id "rna-XM_025684074.1"; gene_id "gene-BO79DRAFT_230031";
+NW_020291823.1	RefSeq	exon	3812	3925	.	-	.	transcript_id "rna-XM_025684074.1"; gene_id "gene-BO79DRAFT_230031";
+NW_020291823.1	RefSeq	exon	4049	4420	.	-	.	transcript_id "rna-XM_025684074.1"; gene_id "gene-BO79DRAFT_230031";
+NW_020291823.1	RefSeq	exon	4518	4634	.	-	.	transcript_id "rna-XM_025684074.1"; gene_id "gene-BO79DRAFT_230031";
+NW_020291823.1	RefSeq	exon	4684	5112	.	-	.	transcript_id "rna-XM_025684074.1"; gene_id "gene-BO79DRAFT_230031";
+NW_020291823.1	RefSeq	exon	5181	5345	.	-	.	transcript_id "rna-XM_025684074.1"; gene_id "gene-BO79DRAFT_230031";
+NW_020291823.1	RefSeq	exon	5447	5537	.	-	.	transcript_id "rna-XM_025684074.1"; gene_id "gene-BO79DRAFT_230031";
+NW_020291823.1	RefSeq	exon	5623	5910	.	-	.	transcript_id "rna-XM_025684074.1"; gene_id "gene-BO79DRAFT_230031";
+NW_020291823.1	RefSeq	exon	6288	6517	.	-	.	transcript_id "rna-XM_025684074.1"; gene_id "gene-BO79DRAFT_230031";
+NW_020291823.1	RefSeq	CDS	3716	3763	.	-	0	transcript_id "rna-XM_025684074.1"; gene_id "gene-BO79DRAFT_230031";
+NW_020291823.1	RefSeq	CDS	3812	3925	.	-	0	transcript_id "rna-XM_025684074.1"; gene_id "gene-BO79DRAFT_230031";
+NW_020291823.1	RefSeq	CDS	4049	4420	.	-	0	transcript_id "rna-XM_025684074.1"; gene_id "gene-BO79DRAFT_230031";
+NW_020291823.1	RefSeq	CDS	4518	4634	.	-	0	transcript_id "rna-XM_025684074.1"; gene_id "gene-BO79DRAFT_230031";
+NW_020291823.1	RefSeq	CDS	4684	5112	.	-	0	transcript_id "rna-XM_025684074.1"; gene_id "gene-BO79DRAFT_230031";
+NW_020291823.1	RefSeq	CDS	5181	5345	.	-	0	transcript_id "rna-XM_025684074.1"; gene_id "gene-BO79DRAFT_230031";
+NW_020291823.1	RefSeq	CDS	5447	5537	.	-	1	transcript_id "rna-XM_025684074.1"; gene_id "gene-BO79DRAFT_230031";
+NW_020291823.1	RefSeq	CDS	5623	5910	.	-	1	transcript_id "rna-XM_025684074.1"; gene_id "gene-BO79DRAFT_230031";
+NW_020291823.1	RefSeq	CDS	6288	6517	.	-	0	transcript_id "rna-XM_025684074.1"; gene_id "gene-BO79DRAFT_230031";
+NW_020291823.1	RefSeq	transcript	25286	26818	.	+	.	transcript_id "rna-XM_025679843.1"; gene_id "gene-BO79DRAFT_176247"
+NW_020291823.1	RefSeq	exon	25286	26278	.	+	.	transcript_id "rna-XM_025679843.1"; gene_id "gene-BO79DRAFT_176247";
+NW_020291823.1	RefSeq	exon	26347	26818	.	+	.	transcript_id "rna-XM_025679843.1"; gene_id "gene-BO79DRAFT_176247";
+NW_020291823.1	RefSeq	CDS	25612	26278	.	+	0	transcript_id "rna-XM_025679843.1"; gene_id "gene-BO79DRAFT_176247";
+NW_020291823.1	RefSeq	CDS	26347	26654	.	+	2	transcript_id "rna-XM_025679843.1"; gene_id "gene-BO79DRAFT_176247";
+NW_020291823.1	RefSeq	transcript	418711	420630	.	+	.	transcript_id "rna-XM_025688723.1"; gene_id "gene-BO79DRAFT_288802"
+NW_020291823.1	RefSeq	exon	418711	419345	.	+	.	transcript_id "rna-XM_025688723.1"; gene_id "gene-BO79DRAFT_288802";
+NW_020291823.1	RefSeq	exon	419395	420630	.	+	.	transcript_id "rna-XM_025688723.1"; gene_id "gene-BO79DRAFT_288802";
+NW_020291823.1	RefSeq	CDS	419162	419345	.	+	0	transcript_id "rna-XM_025688723.1"; gene_id "gene-BO79DRAFT_288802";
+NW_020291823.1	RefSeq	CDS	419395	420446	.	+	2	transcript_id "rna-XM_025688723.1"; gene_id "gene-BO79DRAFT_288802";
+NW_020291823.1	RefSeq	transcript	638812	640879	.	+	.	transcript_id "rna-XM_025681338.1"; gene_id "gene-BO79DRAFT_198406"
+NW_020291823.1	RefSeq	exon	638812	639196	.	+	.	transcript_id "rna-XM_025681338.1"; gene_id "gene-BO79DRAFT_198406";
+NW_020291823.1	RefSeq	exon	639265	639753	.	+	.	transcript_id "rna-XM_025681338.1"; gene_id "gene-BO79DRAFT_198406";
+NW_020291823.1	RefSeq	exon	639807	640662	.	+	.	transcript_id "rna-XM_025681338.1"; gene_id "gene-BO79DRAFT_198406";
+NW_020291823.1	RefSeq	exon	640721	640879	.	+	.	transcript_id "rna-XM_025681338.1"; gene_id "gene-BO79DRAFT_198406";
+NW_020291823.1	RefSeq	CDS	638861	639196	.	+	0	transcript_id "rna-XM_025681338.1"; gene_id "gene-BO79DRAFT_198406";
+NW_020291823.1	RefSeq	CDS	639265	639753	.	+	0	transcript_id "rna-XM_025681338.1"; gene_id "gene-BO79DRAFT_198406";
+NW_020291823.1	RefSeq	CDS	639807	640662	.	+	0	transcript_id "rna-XM_025681338.1"; gene_id "gene-BO79DRAFT_198406";
+NW_020291823.1	RefSeq	CDS	640721	640872	.	+	2	transcript_id "rna-XM_025681338.1"; gene_id "gene-BO79DRAFT_198406";
+NW_020291824.1	RefSeq	transcript	232779	234890	.	-	.	transcript_id "rna-XM_025679877.1"; gene_id "gene-BO79DRAFT_176836"
+NW_020291824.1	RefSeq	exon	232779	234450	.	-	.	transcript_id "rna-XM_025679877.1"; gene_id "gene-BO79DRAFT_176836";
+NW_020291824.1	RefSeq	exon	234507	234624	.	-	.	transcript_id "rna-XM_025679877.1"; gene_id "gene-BO79DRAFT_176836";
+NW_020291824.1	RefSeq	exon	234685	234890	.	-	.	transcript_id "rna-XM_025679877.1"; gene_id "gene-BO79DRAFT_176836";
+NW_020291824.1	RefSeq	CDS	232878	234450	.	-	1	transcript_id "rna-XM_025679877.1"; gene_id "gene-BO79DRAFT_176836";
+NW_020291824.1	RefSeq	CDS	234507	234624	.	-	2	transcript_id "rna-XM_025679877.1"; gene_id "gene-BO79DRAFT_176836";
+NW_020291824.1	RefSeq	CDS	234685	234778	.	-	0	transcript_id "rna-XM_025679877.1"; gene_id "gene-BO79DRAFT_176836";
+NW_020291824.1	RefSeq	transcript	263759	265907	.	-	.	transcript_id "rna-XM_025679878.1"; gene_id "gene-BO79DRAFT_176864"
+NW_020291824.1	RefSeq	exon	263759	265411	.	-	.	transcript_id "rna-XM_025679878.1"; gene_id "gene-BO79DRAFT_176864";
+NW_020291824.1	RefSeq	exon	265488	265907	.	-	.	transcript_id "rna-XM_025679878.1"; gene_id "gene-BO79DRAFT_176864";
+NW_020291824.1	RefSeq	CDS	263915	265411	.	-	0	transcript_id "rna-XM_025679878.1"; gene_id "gene-BO79DRAFT_176864";
+NW_020291824.1	RefSeq	CDS	265488	265856	.	-	0	transcript_id "rna-XM_025679878.1"; gene_id "gene-BO79DRAFT_176864";
+NW_020291824.1	RefSeq	transcript	272881	276128	.	+	.	transcript_id "rna-XM_025679879.1"; gene_id "gene-BO79DRAFT_176876"
+NW_020291824.1	RefSeq	exon	272881	273145	.	+	.	transcript_id "rna-XM_025679879.1"; gene_id "gene-BO79DRAFT_176876";
+NW_020291824.1	RefSeq	exon	273200	273227	.	+	.	transcript_id "rna-XM_025679879.1"; gene_id "gene-BO79DRAFT_176876";
+NW_020291824.1	RefSeq	exon	273299	276128	.	+	.	transcript_id "rna-XM_025679879.1"; gene_id "gene-BO79DRAFT_176876";
+NW_020291824.1	RefSeq	CDS	272972	273145	.	+	0	transcript_id "rna-XM_025679879.1"; gene_id "gene-BO79DRAFT_176876";
+NW_020291824.1	RefSeq	CDS	273200	273227	.	+	0	transcript_id "rna-XM_025679879.1"; gene_id "gene-BO79DRAFT_176876";
+NW_020291824.1	RefSeq	CDS	273299	276027	.	+	2	transcript_id "rna-XM_025679879.1"; gene_id "gene-BO79DRAFT_176876";
+NW_020291824.1	RefSeq	transcript	284193	285890	.	+	.	transcript_id "rna-XM_025688737.1"; gene_id "gene-BO79DRAFT_288937"
+NW_020291824.1	RefSeq	exon	284193	285177	.	+	.	transcript_id "rna-XM_025688737.1"; gene_id "gene-BO79DRAFT_288937";
+NW_020291824.1	RefSeq	exon	285236	285890	.	+	.	transcript_id "rna-XM_025688737.1"; gene_id "gene-BO79DRAFT_288937";
+NW_020291824.1	RefSeq	CDS	284239	285177	.	+	0	transcript_id "rna-XM_025688737.1"; gene_id "gene-BO79DRAFT_288937";
+NW_020291824.1	RefSeq	CDS	285236	285835	.	+	0	transcript_id "rna-XM_025688737.1"; gene_id "gene-BO79DRAFT_288937";
+NW_020291824.1	RefSeq	transcript	370110	372546	.	-	.	transcript_id "rna-XM_025684091.1"; gene_id "gene-BO79DRAFT_230355"
+NW_020291824.1	RefSeq	exon	370110	370751	.	-	.	transcript_id "rna-XM_025684091.1"; gene_id "gene-BO79DRAFT_230355";
+NW_020291824.1	RefSeq	exon	370837	370916	.	-	.	transcript_id "rna-XM_025684091.1"; gene_id "gene-BO79DRAFT_230355";
+NW_020291824.1	RefSeq	exon	370980	370983	.	-	.	transcript_id "rna-XM_025684091.1"; gene_id "gene-BO79DRAFT_230355";
+NW_020291824.1	RefSeq	exon	371388	371611	.	-	.	transcript_id "rna-XM_025684091.1"; gene_id "gene-BO79DRAFT_230355";
+NW_020291824.1	RefSeq	exon	371670	372546	.	-	.	transcript_id "rna-XM_025684091.1"; gene_id "gene-BO79DRAFT_230355";
+NW_020291824.1	RefSeq	CDS	370110	370751	.	-	0	transcript_id "rna-XM_025684091.1"; gene_id "gene-BO79DRAFT_230355";
+NW_020291824.1	RefSeq	CDS	370837	370916	.	-	2	transcript_id "rna-XM_025684091.1"; gene_id "gene-BO79DRAFT_230355";
+NW_020291824.1	RefSeq	CDS	370980	370983	.	-	0	transcript_id "rna-XM_025684091.1"; gene_id "gene-BO79DRAFT_230355";
+NW_020291824.1	RefSeq	CDS	371388	371611	.	-	2	transcript_id "rna-XM_025684091.1"; gene_id "gene-BO79DRAFT_230355";
+NW_020291824.1	RefSeq	CDS	371670	372546	.	-	0	transcript_id "rna-XM_025684091.1"; gene_id "gene-BO79DRAFT_230355";
+NW_020291824.1	RefSeq	transcript	450275	452629	.	-	.	transcript_id "rna-XM_025679896.1"; gene_id "gene-BO79DRAFT_177040"; gene_name "nop7"
+NW_020291824.1	RefSeq	exon	450275	452323	.	-	.	transcript_id "rna-XM_025679896.1"; gene_id "gene-BO79DRAFT_177040"; gene_name "nop7";
+NW_020291824.1	RefSeq	exon	452400	452498	.	-	.	transcript_id "rna-XM_025679896.1"; gene_id "gene-BO79DRAFT_177040"; gene_name "nop7";
+NW_020291824.1	RefSeq	exon	452558	452629	.	-	.	transcript_id "rna-XM_025679896.1"; gene_id "gene-BO79DRAFT_177040"; gene_name "nop7";
+NW_020291824.1	RefSeq	CDS	450426	452323	.	-	2	transcript_id "rna-XM_025679896.1"; gene_id "gene-BO79DRAFT_177040"; gene_name "nop7";
+NW_020291824.1	RefSeq	CDS	452400	452498	.	-	2	transcript_id "rna-XM_025679896.1"; gene_id "gene-BO79DRAFT_177040"; gene_name "nop7";
+NW_020291824.1	RefSeq	CDS	452558	452579	.	-	0	transcript_id "rna-XM_025679896.1"; gene_id "gene-BO79DRAFT_177040"; gene_name "nop7";
+NW_020291825.1	RefSeq	transcript	37960	40021	.	+	.	transcript_id "rna-XM_025681386.1"; gene_id "gene-BO79DRAFT_198948"
+NW_020291825.1	RefSeq	exon	37960	38222	.	+	.	transcript_id "rna-XM_025681386.1"; gene_id "gene-BO79DRAFT_198948";
+NW_020291825.1	RefSeq	exon	38280	40021	.	+	.	transcript_id "rna-XM_025681386.1"; gene_id "gene-BO79DRAFT_198948";
+NW_020291825.1	RefSeq	CDS	38075	38222	.	+	0	transcript_id "rna-XM_025681386.1"; gene_id "gene-BO79DRAFT_198948";
+NW_020291825.1	RefSeq	CDS	38280	40021	.	+	2	transcript_id "rna-XM_025681386.1"; gene_id "gene-BO79DRAFT_198948";
+NW_020291825.1	RefSeq	transcript	528907	531541	.	-	.	transcript_id "rna-XM_025685607.1"; gene_id "gene-BO79DRAFT_246936"
+NW_020291825.1	RefSeq	exon	528907	528912	.	-	.	transcript_id "rna-XM_025685607.1"; gene_id "gene-BO79DRAFT_246936";
+NW_020291825.1	RefSeq	exon	528951	529733	.	-	.	transcript_id "rna-XM_025685607.1"; gene_id "gene-BO79DRAFT_246936";
+NW_020291825.1	RefSeq	exon	529798	530892	.	-	.	transcript_id "rna-XM_025685607.1"; gene_id "gene-BO79DRAFT_246936";
+NW_020291825.1	RefSeq	exon	530927	531266	.	-	.	transcript_id "rna-XM_025685607.1"; gene_id "gene-BO79DRAFT_246936";
+NW_020291825.1	RefSeq	exon	531333	531541	.	-	.	transcript_id "rna-XM_025685607.1"; gene_id "gene-BO79DRAFT_246936";
+NW_020291825.1	RefSeq	CDS	528907	528912	.	-	0	transcript_id "rna-XM_025685607.1"; gene_id "gene-BO79DRAFT_246936";
+NW_020291825.1	RefSeq	CDS	528951	529733	.	-	0	transcript_id "rna-XM_025685607.1"; gene_id "gene-BO79DRAFT_246936";
+NW_020291825.1	RefSeq	CDS	529798	530892	.	-	0	transcript_id "rna-XM_025685607.1"; gene_id "gene-BO79DRAFT_246936";
+NW_020291825.1	RefSeq	CDS	530927	531266	.	-	1	transcript_id "rna-XM_025685607.1"; gene_id "gene-BO79DRAFT_246936";
+NW_020291825.1	RefSeq	CDS	531333	531541	.	-	0	transcript_id "rna-XM_025685607.1"; gene_id "gene-BO79DRAFT_246936";
+NW_020291826.1	RefSeq	transcript	190721	194109	.	+	.	transcript_id "rna-XM_025679945.1"; gene_id "gene-BO79DRAFT_177711"
+NW_020291826.1	RefSeq	exon	190721	190765	.	+	.	transcript_id "rna-XM_025679945.1"; gene_id "gene-BO79DRAFT_177711";
+NW_020291826.1	RefSeq	exon	190831	190899	.	+	.	transcript_id "rna-XM_025679945.1"; gene_id "gene-BO79DRAFT_177711";
+NW_020291826.1	RefSeq	exon	190974	191270	.	+	.	transcript_id "rna-XM_025679945.1"; gene_id "gene-BO79DRAFT_177711";
+NW_020291826.1	RefSeq	exon	191337	191969	.	+	.	transcript_id "rna-XM_025679945.1"; gene_id "gene-BO79DRAFT_177711";
+NW_020291826.1	RefSeq	exon	192017	192250	.	+	.	transcript_id "rna-XM_025679945.1"; gene_id "gene-BO79DRAFT_177711";
+NW_020291826.1	RefSeq	exon	192303	192638	.	+	.	transcript_id "rna-XM_025679945.1"; gene_id "gene-BO79DRAFT_177711";
+NW_020291826.1	RefSeq	exon	192690	193190	.	+	.	transcript_id "rna-XM_025679945.1"; gene_id "gene-BO79DRAFT_177711";
+NW_020291826.1	RefSeq	exon	193243	193641	.	+	.	transcript_id "rna-XM_025679945.1"; gene_id "gene-BO79DRAFT_177711";
+NW_020291826.1	RefSeq	exon	193691	194109	.	+	.	transcript_id "rna-XM_025679945.1"; gene_id "gene-BO79DRAFT_177711";
+NW_020291826.1	RefSeq	CDS	190751	190765	.	+	0	transcript_id "rna-XM_025679945.1"; gene_id "gene-BO79DRAFT_177711";
+NW_020291826.1	RefSeq	CDS	190831	190899	.	+	0	transcript_id "rna-XM_025679945.1"; gene_id "gene-BO79DRAFT_177711";
+NW_020291826.1	RefSeq	CDS	190974	191270	.	+	0	transcript_id "rna-XM_025679945.1"; gene_id "gene-BO79DRAFT_177711";
+NW_020291826.1	RefSeq	CDS	191337	191969	.	+	0	transcript_id "rna-XM_025679945.1"; gene_id "gene-BO79DRAFT_177711";
+NW_020291826.1	RefSeq	CDS	192017	192250	.	+	0	transcript_id "rna-XM_025679945.1"; gene_id "gene-BO79DRAFT_177711";
+NW_020291826.1	RefSeq	CDS	192303	192638	.	+	0	transcript_id "rna-XM_025679945.1"; gene_id "gene-BO79DRAFT_177711";
+NW_020291826.1	RefSeq	CDS	192690	193190	.	+	0	transcript_id "rna-XM_025679945.1"; gene_id "gene-BO79DRAFT_177711";
+NW_020291826.1	RefSeq	CDS	193243	193641	.	+	0	transcript_id "rna-XM_025679945.1"; gene_id "gene-BO79DRAFT_177711";
+NW_020291826.1	RefSeq	CDS	193691	194068	.	+	0	transcript_id "rna-XM_025679945.1"; gene_id "gene-BO79DRAFT_177711";
+NW_020291827.1	RefSeq	transcript	254347	256923	.	+	.	transcript_id "rna-XM_025681439.1"; gene_id "gene-BO79DRAFT_199754"
+NW_020291827.1	RefSeq	exon	254347	254607	.	+	.	transcript_id "rna-XM_025681439.1"; gene_id "gene-BO79DRAFT_199754";
+NW_020291827.1	RefSeq	exon	254664	254704	.	+	.	transcript_id "rna-XM_025681439.1"; gene_id "gene-BO79DRAFT_199754";
+NW_020291827.1	RefSeq	exon	254767	254786	.	+	.	transcript_id "rna-XM_025681439.1"; gene_id "gene-BO79DRAFT_199754";
+NW_020291827.1	RefSeq	exon	254846	254922	.	+	.	transcript_id "rna-XM_025681439.1"; gene_id "gene-BO79DRAFT_199754";
+NW_020291827.1	RefSeq	exon	254979	255108	.	+	.	transcript_id "rna-XM_025681439.1"; gene_id "gene-BO79DRAFT_199754";
+NW_020291827.1	RefSeq	exon	255165	255431	.	+	.	transcript_id "rna-XM_025681439.1"; gene_id "gene-BO79DRAFT_199754";
+NW_020291827.1	RefSeq	exon	255488	255729	.	+	.	transcript_id "rna-XM_025681439.1"; gene_id "gene-BO79DRAFT_199754";
+NW_020291827.1	RefSeq	exon	255785	256593	.	+	.	transcript_id "rna-XM_025681439.1"; gene_id "gene-BO79DRAFT_199754";
+NW_020291827.1	RefSeq	exon	256652	256923	.	+	.	transcript_id "rna-XM_025681439.1"; gene_id "gene-BO79DRAFT_199754";
+NW_020291827.1	RefSeq	CDS	254555	254607	.	+	0	transcript_id "rna-XM_025681439.1"; gene_id "gene-BO79DRAFT_199754";
+NW_020291827.1	RefSeq	CDS	254664	254704	.	+	1	transcript_id "rna-XM_025681439.1"; gene_id "gene-BO79DRAFT_199754";
+NW_020291827.1	RefSeq	CDS	254767	254786	.	+	2	transcript_id "rna-XM_025681439.1"; gene_id "gene-BO79DRAFT_199754";
+NW_020291827.1	RefSeq	CDS	254846	254922	.	+	0	transcript_id "rna-XM_025681439.1"; gene_id "gene-BO79DRAFT_199754";
+NW_020291827.1	RefSeq	CDS	254979	255108	.	+	1	transcript_id "rna-XM_025681439.1"; gene_id "gene-BO79DRAFT_199754";
+NW_020291827.1	RefSeq	CDS	255165	255431	.	+	0	transcript_id "rna-XM_025681439.1"; gene_id "gene-BO79DRAFT_199754";
+NW_020291827.1	RefSeq	CDS	255488	255729	.	+	0	transcript_id "rna-XM_025681439.1"; gene_id "gene-BO79DRAFT_199754";
+NW_020291827.1	RefSeq	CDS	255785	256593	.	+	1	transcript_id "rna-XM_025681439.1"; gene_id "gene-BO79DRAFT_199754";
+NW_020291827.1	RefSeq	CDS	256652	256815	.	+	2	transcript_id "rna-XM_025681439.1"; gene_id "gene-BO79DRAFT_199754";
+NW_020291830.1	RefSeq	transcript	26427	27591	.	+	.	transcript_id "rna-XM_025682869.1"; gene_id "gene-BO79DRAFT_210716"; gene_name "cwc26"
+NW_020291830.1	RefSeq	exon	26427	27591	.	+	.	transcript_id "rna-XM_025682869.1"; gene_id "gene-BO79DRAFT_210716"; gene_name "cwc26";
+NW_020291830.1	RefSeq	CDS	26478	27509	.	+	0	transcript_id "rna-XM_025682869.1"; gene_id "gene-BO79DRAFT_210716"; gene_name "cwc26";
+NW_020291830.1	RefSeq	transcript	316363	317378	.	-	.	transcript_id "rna-XM_025681518.1"; gene_id "gene-BO79DRAFT_200738"
+NW_020291830.1	RefSeq	exon	316363	316808	.	-	.	transcript_id "rna-XM_025681518.1"; gene_id "gene-BO79DRAFT_200738";
+NW_020291830.1	RefSeq	exon	316876	317378	.	-	.	transcript_id "rna-XM_025681518.1"; gene_id "gene-BO79DRAFT_200738";
+NW_020291830.1	RefSeq	CDS	316496	316808	.	-	1	transcript_id "rna-XM_025681518.1"; gene_id "gene-BO79DRAFT_200738";
+NW_020291830.1	RefSeq	CDS	316876	317351	.	-	0	transcript_id "rna-XM_025681518.1"; gene_id "gene-BO79DRAFT_200738";
+NW_020291832.1	RefSeq	transcript	322569	324284	.	+	.	transcript_id "rna-XM_025688830.1"; gene_id "gene-BO79DRAFT_289908"; gene_name "cox15"
+NW_020291832.1	RefSeq	exon	322569	322986	.	+	.	transcript_id "rna-XM_025688830.1"; gene_id "gene-BO79DRAFT_289908"; gene_name "cox15";
+NW_020291832.1	RefSeq	exon	323046	324284	.	+	.	transcript_id "rna-XM_025688830.1"; gene_id "gene-BO79DRAFT_289908"; gene_name "cox15";
+NW_020291832.1	RefSeq	CDS	322583	322986	.	+	0	transcript_id "rna-XM_025688830.1"; gene_id "gene-BO79DRAFT_289908"; gene_name "cox15";
+NW_020291832.1	RefSeq	CDS	323046	324159	.	+	1	transcript_id "rna-XM_025688830.1"; gene_id "gene-BO79DRAFT_289908"; gene_name "cox15";
+NW_020291833.1	RefSeq	transcript	189764	190645	.	-	.	transcript_id "rna-XM_025682921.1"; gene_id "gene-BO79DRAFT_210954"
+NW_020291833.1	RefSeq	exon	189764	190645	.	-	.	transcript_id "rna-XM_025682921.1"; gene_id "gene-BO79DRAFT_210954";
+NW_020291833.1	RefSeq	CDS	189900	190562	.	-	0	transcript_id "rna-XM_025682921.1"; gene_id "gene-BO79DRAFT_210954";
+NW_020291834.1	RefSeq	transcript	189666	190762	.	-	.	transcript_id "rna-XM_025680061.1"; gene_id "gene-BO79DRAFT_179896"
+NW_020291834.1	RefSeq	exon	189666	190328	.	-	.	transcript_id "rna-XM_025680061.1"; gene_id "gene-BO79DRAFT_179896";
+NW_020291834.1	RefSeq	exon	190388	190507	.	-	.	transcript_id "rna-XM_025680061.1"; gene_id "gene-BO79DRAFT_179896";
+NW_020291834.1	RefSeq	exon	190567	190762	.	-	.	transcript_id "rna-XM_025680061.1"; gene_id "gene-BO79DRAFT_179896";
+NW_020291834.1	RefSeq	CDS	189734	190328	.	-	1	transcript_id "rna-XM_025680061.1"; gene_id "gene-BO79DRAFT_179896";
+NW_020291834.1	RefSeq	CDS	190388	190507	.	-	1	transcript_id "rna-XM_025680061.1"; gene_id "gene-BO79DRAFT_179896";
+NW_020291834.1	RefSeq	CDS	190567	190730	.	-	0	transcript_id "rna-XM_025680061.1"; gene_id "gene-BO79DRAFT_179896";
+NW_020291834.1	RefSeq	transcript	190959	192275	.	+	.	transcript_id "rna-XM_025680062.1"; gene_id "gene-BO79DRAFT_179898"
+NW_020291834.1	RefSeq	exon	190959	190989	.	+	.	transcript_id "rna-XM_025680062.1"; gene_id "gene-BO79DRAFT_179898";
+NW_020291834.1	RefSeq	exon	191043	191065	.	+	.	transcript_id "rna-XM_025680062.1"; gene_id "gene-BO79DRAFT_179898";
+NW_020291834.1	RefSeq	exon	191113	191189	.	+	.	transcript_id "rna-XM_025680062.1"; gene_id "gene-BO79DRAFT_179898";
+NW_020291834.1	RefSeq	exon	191236	191520	.	+	.	transcript_id "rna-XM_025680062.1"; gene_id "gene-BO79DRAFT_179898";
+NW_020291834.1	RefSeq	exon	191572	191656	.	+	.	transcript_id "rna-XM_025680062.1"; gene_id "gene-BO79DRAFT_179898";
+NW_020291834.1	RefSeq	exon	191704	191874	.	+	.	transcript_id "rna-XM_025680062.1"; gene_id "gene-BO79DRAFT_179898";
+NW_020291834.1	RefSeq	exon	191931	191966	.	+	.	transcript_id "rna-XM_025680062.1"; gene_id "gene-BO79DRAFT_179898";
+NW_020291834.1	RefSeq	exon	192013	192275	.	+	.	transcript_id "rna-XM_025680062.1"; gene_id "gene-BO79DRAFT_179898";
+NW_020291834.1	RefSeq	CDS	190980	190989	.	+	0	transcript_id "rna-XM_025680062.1"; gene_id "gene-BO79DRAFT_179898";
+NW_020291834.1	RefSeq	CDS	191043	191065	.	+	2	transcript_id "rna-XM_025680062.1"; gene_id "gene-BO79DRAFT_179898";
+NW_020291834.1	RefSeq	CDS	191113	191189	.	+	0	transcript_id "rna-XM_025680062.1"; gene_id "gene-BO79DRAFT_179898";
+NW_020291834.1	RefSeq	CDS	191236	191520	.	+	1	transcript_id "rna-XM_025680062.1"; gene_id "gene-BO79DRAFT_179898";
+NW_020291834.1	RefSeq	CDS	191572	191656	.	+	1	transcript_id "rna-XM_025680062.1"; gene_id "gene-BO79DRAFT_179898";
+NW_020291834.1	RefSeq	CDS	191704	191874	.	+	0	transcript_id "rna-XM_025680062.1"; gene_id "gene-BO79DRAFT_179898";
+NW_020291834.1	RefSeq	CDS	191931	191966	.	+	0	transcript_id "rna-XM_025680062.1"; gene_id "gene-BO79DRAFT_179898";
+NW_020291834.1	RefSeq	CDS	192013	192030	.	+	0	transcript_id "rna-XM_025680062.1"; gene_id "gene-BO79DRAFT_179898";
+NW_020291834.1	RefSeq	transcript	254065	257758	.	-	.	transcript_id "rna-XM_025681592.1"; gene_id "gene-BO79DRAFT_201666"
+NW_020291834.1	RefSeq	exon	254065	254908	.	-	.	transcript_id "rna-XM_025681592.1"; gene_id "gene-BO79DRAFT_201666";
+NW_020291834.1	RefSeq	exon	254964	256156	.	-	.	transcript_id "rna-XM_025681592.1"; gene_id "gene-BO79DRAFT_201666";
+NW_020291834.1	RefSeq	exon	256208	256279	.	-	.	transcript_id "rna-XM_025681592.1"; gene_id "gene-BO79DRAFT_201666";
+NW_020291834.1	RefSeq	exon	256330	257199	.	-	.	transcript_id "rna-XM_025681592.1"; gene_id "gene-BO79DRAFT_201666";
+NW_020291834.1	RefSeq	exon	257253	257758	.	-	.	transcript_id "rna-XM_025681592.1"; gene_id "gene-BO79DRAFT_201666";
+NW_020291834.1	RefSeq	CDS	254321	254908	.	-	0	transcript_id "rna-XM_025681592.1"; gene_id "gene-BO79DRAFT_201666";
+NW_020291834.1	RefSeq	CDS	254964	256156	.	-	2	transcript_id "rna-XM_025681592.1"; gene_id "gene-BO79DRAFT_201666";
+NW_020291834.1	RefSeq	CDS	256208	256279	.	-	2	transcript_id "rna-XM_025681592.1"; gene_id "gene-BO79DRAFT_201666";
+NW_020291834.1	RefSeq	CDS	256330	257199	.	-	2	transcript_id "rna-XM_025681592.1"; gene_id "gene-BO79DRAFT_201666";
+NW_020291834.1	RefSeq	CDS	257253	257613	.	-	0	transcript_id "rna-XM_025681592.1"; gene_id "gene-BO79DRAFT_201666";
+NW_020291834.1	RefSeq	transcript	324670	327724	.	+	.	transcript_id "rna-XM_025681599.1"; gene_id "gene-BO79DRAFT_201730"
+NW_020291834.1	RefSeq	exon	324670	324808	.	+	.	transcript_id "rna-XM_025681599.1"; gene_id "gene-BO79DRAFT_201730";
+NW_020291834.1	RefSeq	exon	324903	324970	.	+	.	transcript_id "rna-XM_025681599.1"; gene_id "gene-BO79DRAFT_201730";
+NW_020291834.1	RefSeq	exon	325054	325194	.	+	.	transcript_id "rna-XM_025681599.1"; gene_id "gene-BO79DRAFT_201730";
+NW_020291834.1	RefSeq	exon	325265	325501	.	+	.	transcript_id "rna-XM_025681599.1"; gene_id "gene-BO79DRAFT_201730";
+NW_020291834.1	RefSeq	exon	325562	326020	.	+	.	transcript_id "rna-XM_025681599.1"; gene_id "gene-BO79DRAFT_201730";
+NW_020291834.1	RefSeq	exon	326074	326331	.	+	.	transcript_id "rna-XM_025681599.1"; gene_id "gene-BO79DRAFT_201730";
+NW_020291834.1	RefSeq	exon	326406	326504	.	+	.	transcript_id "rna-XM_025681599.1"; gene_id "gene-BO79DRAFT_201730";
+NW_020291834.1	RefSeq	exon	326555	327724	.	+	.	transcript_id "rna-XM_025681599.1"; gene_id "gene-BO79DRAFT_201730";
+NW_020291834.1	RefSeq	CDS	324709	324808	.	+	0	transcript_id "rna-XM_025681599.1"; gene_id "gene-BO79DRAFT_201730";
+NW_020291834.1	RefSeq	CDS	324903	324970	.	+	2	transcript_id "rna-XM_025681599.1"; gene_id "gene-BO79DRAFT_201730";
+NW_020291834.1	RefSeq	CDS	325054	325194	.	+	0	transcript_id "rna-XM_025681599.1"; gene_id "gene-BO79DRAFT_201730";
+NW_020291834.1	RefSeq	CDS	325265	325501	.	+	0	transcript_id "rna-XM_025681599.1"; gene_id "gene-BO79DRAFT_201730";
+NW_020291834.1	RefSeq	CDS	325562	326020	.	+	0	transcript_id "rna-XM_025681599.1"; gene_id "gene-BO79DRAFT_201730";
+NW_020291834.1	RefSeq	CDS	326074	326331	.	+	0	transcript_id "rna-XM_025681599.1"; gene_id "gene-BO79DRAFT_201730";
+NW_020291834.1	RefSeq	CDS	326406	326504	.	+	0	transcript_id "rna-XM_025681599.1"; gene_id "gene-BO79DRAFT_201730";
+NW_020291834.1	RefSeq	CDS	326555	327511	.	+	0	transcript_id "rna-XM_025681599.1"; gene_id "gene-BO79DRAFT_201730";
+NW_020291835.1	RefSeq	transcript	159334	160511	.	-	.	transcript_id "rna-XM_025681612.1"; gene_id "gene-BO79DRAFT_201859"
+NW_020291835.1	RefSeq	exon	159334	160070	.	-	.	transcript_id "rna-XM_025681612.1"; gene_id "gene-BO79DRAFT_201859";
+NW_020291835.1	RefSeq	exon	160153	160217	.	-	.	transcript_id "rna-XM_025681612.1"; gene_id "gene-BO79DRAFT_201859";
+NW_020291835.1	RefSeq	exon	160290	160352	.	-	.	transcript_id "rna-XM_025681612.1"; gene_id "gene-BO79DRAFT_201859";
+NW_020291835.1	RefSeq	exon	160423	160511	.	-	.	transcript_id "rna-XM_025681612.1"; gene_id "gene-BO79DRAFT_201859";
+NW_020291835.1	RefSeq	CDS	159334	160070	.	-	2	transcript_id "rna-XM_025681612.1"; gene_id "gene-BO79DRAFT_201859";
+NW_020291835.1	RefSeq	CDS	160153	160217	.	-	1	transcript_id "rna-XM_025681612.1"; gene_id "gene-BO79DRAFT_201859";
+NW_020291835.1	RefSeq	CDS	160290	160352	.	-	1	transcript_id "rna-XM_025681612.1"; gene_id "gene-BO79DRAFT_201859";
+NW_020291835.1	RefSeq	CDS	160423	160445	.	-	0	transcript_id "rna-XM_025681612.1"; gene_id "gene-BO79DRAFT_201859";
+NW_020291839.1	RefSeq	transcript	62764	63705	.	-	.	transcript_id "rna-XM_025689376.1"; gene_id "gene-BO79DRAFT_52705"
+NW_020291839.1	RefSeq	exon	62764	63137	.	-	.	transcript_id "rna-XM_025689376.1"; gene_id "gene-BO79DRAFT_52705";
+NW_020291839.1	RefSeq	exon	63233	63381	.	-	.	transcript_id "rna-XM_025689376.1"; gene_id "gene-BO79DRAFT_52705";
+NW_020291839.1	RefSeq	exon	63452	63705	.	-	.	transcript_id "rna-XM_025689376.1"; gene_id "gene-BO79DRAFT_52705";
+NW_020291839.1	RefSeq	CDS	62948	63137	.	-	1	transcript_id "rna-XM_025689376.1"; gene_id "gene-BO79DRAFT_52705";
+NW_020291839.1	RefSeq	CDS	63233	63381	.	-	0	transcript_id "rna-XM_025689376.1"; gene_id "gene-BO79DRAFT_52705";
+NW_020291839.1	RefSeq	CDS	63452	63634	.	-	0	transcript_id "rna-XM_025689376.1"; gene_id "gene-BO79DRAFT_52705";
+NW_020291839.1	RefSeq	transcript	91712	93292	.	+	.	transcript_id "rna-XM_025689379.1"; gene_id "gene-BO79DRAFT_52911"
+NW_020291839.1	RefSeq	exon	91712	91863	.	+	.	transcript_id "rna-XM_025689379.1"; gene_id "gene-BO79DRAFT_52911";
+NW_020291839.1	RefSeq	exon	91940	92479	.	+	.	transcript_id "rna-XM_025689379.1"; gene_id "gene-BO79DRAFT_52911";
+NW_020291839.1	RefSeq	exon	92548	92742	.	+	.	transcript_id "rna-XM_025689379.1"; gene_id "gene-BO79DRAFT_52911";
+NW_020291839.1	RefSeq	exon	92800	93292	.	+	.	transcript_id "rna-XM_025689379.1"; gene_id "gene-BO79DRAFT_52911";
+NW_020291839.1	RefSeq	CDS	91810	91863	.	+	0	transcript_id "rna-XM_025689379.1"; gene_id "gene-BO79DRAFT_52911";
+NW_020291839.1	RefSeq	CDS	91940	92479	.	+	0	transcript_id "rna-XM_025689379.1"; gene_id "gene-BO79DRAFT_52911";
+NW_020291839.1	RefSeq	CDS	92548	92742	.	+	0	transcript_id "rna-XM_025689379.1"; gene_id "gene-BO79DRAFT_52911";
+NW_020291839.1	RefSeq	CDS	92800	93231	.	+	0	transcript_id "rna-XM_025689379.1"; gene_id "gene-BO79DRAFT_52911";
+NW_020291841.1	RefSeq	transcript	76226	78343	.	-	.	transcript_id "rna-XM_025688899.1"; gene_id "gene-BO79DRAFT_290529"; gene_name "spb4"
+NW_020291841.1	RefSeq	exon	76226	77351	.	-	.	transcript_id "rna-XM_025688899.1"; gene_id "gene-BO79DRAFT_290529"; gene_name "spb4";
+NW_020291841.1	RefSeq	exon	77408	77920	.	-	.	transcript_id "rna-XM_025688899.1"; gene_id "gene-BO79DRAFT_290529"; gene_name "spb4";
+NW_020291841.1	RefSeq	exon	77973	78343	.	-	.	transcript_id "rna-XM_025688899.1"; gene_id "gene-BO79DRAFT_290529"; gene_name "spb4";
+NW_020291841.1	RefSeq	CDS	76226	77351	.	-	1	transcript_id "rna-XM_025688899.1"; gene_id "gene-BO79DRAFT_290529"; gene_name "spb4";
+NW_020291841.1	RefSeq	CDS	77408	77920	.	-	1	transcript_id "rna-XM_025688899.1"; gene_id "gene-BO79DRAFT_290529"; gene_name "spb4";
+NW_020291841.1	RefSeq	CDS	77973	78262	.	-	0	transcript_id "rna-XM_025688899.1"; gene_id "gene-BO79DRAFT_290529"; gene_name "spb4";
+NW_020291845.1	RefSeq	transcript	221680	223128	.	+	.	transcript_id "rna-XM_025681726.1"; gene_id "gene-BO79DRAFT_203504"
+NW_020291845.1	RefSeq	exon	221680	221745	.	+	.	transcript_id "rna-XM_025681726.1"; gene_id "gene-BO79DRAFT_203504";
+NW_020291845.1	RefSeq	exon	221812	221822	.	+	.	transcript_id "rna-XM_025681726.1"; gene_id "gene-BO79DRAFT_203504";
+NW_020291845.1	RefSeq	exon	221942	222484	.	+	.	transcript_id "rna-XM_025681726.1"; gene_id "gene-BO79DRAFT_203504";
+NW_020291845.1	RefSeq	exon	222568	222777	.	+	.	transcript_id "rna-XM_025681726.1"; gene_id "gene-BO79DRAFT_203504";
+NW_020291845.1	RefSeq	exon	222837	223128	.	+	.	transcript_id "rna-XM_025681726.1"; gene_id "gene-BO79DRAFT_203504";
+NW_020291845.1	RefSeq	CDS	221743	221745	.	+	0	transcript_id "rna-XM_025681726.1"; gene_id "gene-BO79DRAFT_203504";
+NW_020291845.1	RefSeq	CDS	221812	221822	.	+	0	transcript_id "rna-XM_025681726.1"; gene_id "gene-BO79DRAFT_203504";
+NW_020291845.1	RefSeq	CDS	221942	222484	.	+	1	transcript_id "rna-XM_025681726.1"; gene_id "gene-BO79DRAFT_203504";
+NW_020291845.1	RefSeq	CDS	222568	222777	.	+	1	transcript_id "rna-XM_025681726.1"; gene_id "gene-BO79DRAFT_203504";
+NW_020291845.1	RefSeq	CDS	222837	222855	.	+	1	transcript_id "rna-XM_025681726.1"; gene_id "gene-BO79DRAFT_203504";
+NW_020291846.1	RefSeq	transcript	112266	114173	.	+	.	transcript_id "rna-XM_025685058.1"; gene_id "gene-BO79DRAFT_240759"
+NW_020291846.1	RefSeq	exon	112266	112762	.	+	.	transcript_id "rna-XM_025685058.1"; gene_id "gene-BO79DRAFT_240759";
+NW_020291846.1	RefSeq	exon	112822	113069	.	+	.	transcript_id "rna-XM_025685058.1"; gene_id "gene-BO79DRAFT_240759";
+NW_020291846.1	RefSeq	exon	113125	114173	.	+	.	transcript_id "rna-XM_025685058.1"; gene_id "gene-BO79DRAFT_240759";
+NW_020291846.1	RefSeq	CDS	112394	112762	.	+	0	transcript_id "rna-XM_025685058.1"; gene_id "gene-BO79DRAFT_240759";
+NW_020291846.1	RefSeq	CDS	112822	113069	.	+	0	transcript_id "rna-XM_025685058.1"; gene_id "gene-BO79DRAFT_240759";
+NW_020291846.1	RefSeq	CDS	113125	113989	.	+	1	transcript_id "rna-XM_025685058.1"; gene_id "gene-BO79DRAFT_240759";
+NW_020291847.1	RefSeq	transcript	44294	46980	.	-	.	transcript_id "rna-XM_025683047.1"; gene_id "gene-BO79DRAFT_211588"
+NW_020291847.1	RefSeq	exon	44294	46980	.	-	.	transcript_id "rna-XM_025683047.1"; gene_id "gene-BO79DRAFT_211588";
+NW_020291847.1	RefSeq	CDS	44333	46921	.	-	0	transcript_id "rna-XM_025683047.1"; gene_id "gene-BO79DRAFT_211588";
+NW_020291847.1	RefSeq	transcript	55845	57102	.	-	.	transcript_id "rna-XM_025681736.1"; gene_id "gene-BO79DRAFT_203652"
+NW_020291847.1	RefSeq	exon	55845	56118	.	-	.	transcript_id "rna-XM_025681736.1"; gene_id "gene-BO79DRAFT_203652";
+NW_020291847.1	RefSeq	exon	56170	57102	.	-	.	transcript_id "rna-XM_025681736.1"; gene_id "gene-BO79DRAFT_203652";
+NW_020291847.1	RefSeq	CDS	55926	56118	.	-	1	transcript_id "rna-XM_025681736.1"; gene_id "gene-BO79DRAFT_203652";
+NW_020291847.1	RefSeq	CDS	56170	57068	.	-	0	transcript_id "rna-XM_025681736.1"; gene_id "gene-BO79DRAFT_203652";
+NW_020291847.1	RefSeq	transcript	123782	126573	.	+	.	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814"
+NW_020291847.1	RefSeq	exon	123782	123873	.	+	.	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291847.1	RefSeq	exon	123943	123990	.	+	.	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291847.1	RefSeq	exon	124046	124146	.	+	.	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291847.1	RefSeq	exon	124206	124351	.	+	.	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291847.1	RefSeq	exon	124497	124550	.	+	.	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291847.1	RefSeq	exon	124609	124725	.	+	.	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291847.1	RefSeq	exon	125250	125323	.	+	.	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291847.1	RefSeq	exon	125381	125438	.	+	.	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291847.1	RefSeq	exon	125503	125540	.	+	.	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291847.1	RefSeq	exon	125610	125621	.	+	.	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291847.1	RefSeq	exon	125684	125865	.	+	.	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291847.1	RefSeq	exon	125930	126573	.	+	.	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291847.1	RefSeq	CDS	123831	123873	.	+	0	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291847.1	RefSeq	CDS	123943	123990	.	+	2	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291847.1	RefSeq	CDS	124046	124146	.	+	2	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291847.1	RefSeq	CDS	124206	124351	.	+	0	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291847.1	RefSeq	CDS	124497	124550	.	+	1	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291847.1	RefSeq	CDS	124609	124725	.	+	1	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291847.1	RefSeq	CDS	125250	125323	.	+	1	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291847.1	RefSeq	CDS	125381	125438	.	+	2	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291847.1	RefSeq	CDS	125503	125540	.	+	1	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291847.1	RefSeq	CDS	125610	125621	.	+	2	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291847.1	RefSeq	CDS	125684	125865	.	+	2	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291847.1	RefSeq	CDS	125930	126298	.	+	0	transcript_id "rna-XM_025685064.1"; gene_id "gene-BO79DRAFT_240814";
+NW_020291848.1	RefSeq	transcript	97937	100333	.	-	.	transcript_id "rna-XM_025681748.1"; gene_id "gene-BO79DRAFT_203865"; gene_name "dbp7"
+NW_020291848.1	RefSeq	exon	97937	100333	.	-	.	transcript_id "rna-XM_025681748.1"; gene_id "gene-BO79DRAFT_203865"; gene_name "dbp7";
+NW_020291848.1	RefSeq	CDS	98003	100333	.	-	0	transcript_id "rna-XM_025681748.1"; gene_id "gene-BO79DRAFT_203865"; gene_name "dbp7";
+NW_020291850.1	RefSeq	transcript	31893	32717	.	-	.	transcript_id "rna-XM_025685720.1"; gene_id "gene-BO79DRAFT_248594"
+NW_020291850.1	RefSeq	exon	31893	32173	.	-	.	transcript_id "rna-XM_025685720.1"; gene_id "gene-BO79DRAFT_248594";
+NW_020291850.1	RefSeq	exon	32260	32717	.	-	.	transcript_id "rna-XM_025685720.1"; gene_id "gene-BO79DRAFT_248594";
+NW_020291850.1	RefSeq	CDS	32000	32173	.	-	0	transcript_id "rna-XM_025685720.1"; gene_id "gene-BO79DRAFT_248594";
+NW_020291850.1	RefSeq	CDS	32260	32652	.	-	0	transcript_id "rna-XM_025685720.1"; gene_id "gene-BO79DRAFT_248594";
+NW_020291851.1	RefSeq	transcript	124708	125667	.	-	.	transcript_id "rna-XM_025689570.1"; gene_id "gene-BO79DRAFT_66453"; gene_name "spt4"
+NW_020291851.1	RefSeq	exon	124708	125006	.	-	.	transcript_id "rna-XM_025689570.1"; gene_id "gene-BO79DRAFT_66453"; gene_name "spt4";
+NW_020291851.1	RefSeq	exon	125090	125142	.	-	.	transcript_id "rna-XM_025689570.1"; gene_id "gene-BO79DRAFT_66453"; gene_name "spt4";
+NW_020291851.1	RefSeq	exon	125230	125427	.	-	.	transcript_id "rna-XM_025689570.1"; gene_id "gene-BO79DRAFT_66453"; gene_name "spt4";
+NW_020291851.1	RefSeq	exon	125526	125667	.	-	.	transcript_id "rna-XM_025689570.1"; gene_id "gene-BO79DRAFT_66453"; gene_name "spt4";
+NW_020291851.1	RefSeq	CDS	124973	125006	.	-	1	transcript_id "rna-XM_025689570.1"; gene_id "gene-BO79DRAFT_66453"; gene_name "spt4";
+NW_020291851.1	RefSeq	CDS	125090	125142	.	-	0	transcript_id "rna-XM_025689570.1"; gene_id "gene-BO79DRAFT_66453"; gene_name "spt4";
+NW_020291851.1	RefSeq	CDS	125230	125427	.	-	0	transcript_id "rna-XM_025689570.1"; gene_id "gene-BO79DRAFT_66453"; gene_name "spt4";
+NW_020291851.1	RefSeq	CDS	125526	125603	.	-	0	transcript_id "rna-XM_025689570.1"; gene_id "gene-BO79DRAFT_66453"; gene_name "spt4";
+NW_020291853.1	RefSeq	transcript	137980	138920	.	-	.	transcript_id "rna-XM_025680247.1"; gene_id "gene-BO79DRAFT_182807"
+NW_020291853.1	RefSeq	exon	137980	138276	.	-	.	transcript_id "rna-XM_025680247.1"; gene_id "gene-BO79DRAFT_182807";
+NW_020291853.1	RefSeq	exon	138400	138631	.	-	.	transcript_id "rna-XM_025680247.1"; gene_id "gene-BO79DRAFT_182807";
+NW_020291853.1	RefSeq	exon	138692	138920	.	-	.	transcript_id "rna-XM_025680247.1"; gene_id "gene-BO79DRAFT_182807";
+NW_020291853.1	RefSeq	CDS	138105	138276	.	-	1	transcript_id "rna-XM_025680247.1"; gene_id "gene-BO79DRAFT_182807";
+NW_020291853.1	RefSeq	CDS	138400	138631	.	-	2	transcript_id "rna-XM_025680247.1"; gene_id "gene-BO79DRAFT_182807";
+NW_020291853.1	RefSeq	CDS	138692	138860	.	-	0	transcript_id "rna-XM_025680247.1"; gene_id "gene-BO79DRAFT_182807";
+NW_020291856.1	RefSeq	transcript	119905	122220	.	-	.	transcript_id "rna-XM_025683102.1"; gene_id "gene-BO79DRAFT_211924"
+NW_020291856.1	RefSeq	exon	119905	122220	.	-	.	transcript_id "rna-XM_025683102.1"; gene_id "gene-BO79DRAFT_211924";
+NW_020291856.1	RefSeq	CDS	119949	122069	.	-	0	transcript_id "rna-XM_025683102.1"; gene_id "gene-BO79DRAFT_211924";
+NW_020291857.1	RefSeq	transcript	31572	34433	.	-	.	transcript_id "rna-XM_025683105.1"; gene_id "gene-BO79DRAFT_211935"
+NW_020291857.1	RefSeq	exon	31572	32260	.	-	.	transcript_id "rna-XM_025683105.1"; gene_id "gene-BO79DRAFT_211935";
+NW_020291857.1	RefSeq	exon	32311	32778	.	-	.	transcript_id "rna-XM_025683105.1"; gene_id "gene-BO79DRAFT_211935";
+NW_020291857.1	RefSeq	exon	32835	32979	.	-	.	transcript_id "rna-XM_025683105.1"; gene_id "gene-BO79DRAFT_211935";
+NW_020291857.1	RefSeq	exon	33038	33825	.	-	.	transcript_id "rna-XM_025683105.1"; gene_id "gene-BO79DRAFT_211935";
+NW_020291857.1	RefSeq	exon	33881	33989	.	-	.	transcript_id "rna-XM_025683105.1"; gene_id "gene-BO79DRAFT_211935";
+NW_020291857.1	RefSeq	exon	34069	34433	.	-	.	transcript_id "rna-XM_025683105.1"; gene_id "gene-BO79DRAFT_211935";
+NW_020291857.1	RefSeq	CDS	31889	32260	.	-	0	transcript_id "rna-XM_025683105.1"; gene_id "gene-BO79DRAFT_211935";
+NW_020291857.1	RefSeq	CDS	32311	32778	.	-	0	transcript_id "rna-XM_025683105.1"; gene_id "gene-BO79DRAFT_211935";
+NW_020291857.1	RefSeq	CDS	32835	32979	.	-	1	transcript_id "rna-XM_025683105.1"; gene_id "gene-BO79DRAFT_211935";
+NW_020291857.1	RefSeq	CDS	33038	33825	.	-	0	transcript_id "rna-XM_025683105.1"; gene_id "gene-BO79DRAFT_211935";
+NW_020291857.1	RefSeq	CDS	33881	33989	.	-	1	transcript_id "rna-XM_025683105.1"; gene_id "gene-BO79DRAFT_211935";
+NW_020291857.1	RefSeq	CDS	34069	34259	.	-	0	transcript_id "rna-XM_025683105.1"; gene_id "gene-BO79DRAFT_211935";
+NW_020291857.1	RefSeq	transcript	48893	51385	.	+	.	transcript_id "rna-XM_025685744.1"; gene_id "gene-BO79DRAFT_248847"
+NW_020291857.1	RefSeq	exon	48893	48909	.	+	.	transcript_id "rna-XM_025685744.1"; gene_id "gene-BO79DRAFT_248847";
+NW_020291857.1	RefSeq	exon	49045	51385	.	+	.	transcript_id "rna-XM_025685744.1"; gene_id "gene-BO79DRAFT_248847";
+NW_020291857.1	RefSeq	CDS	48893	48909	.	+	0	transcript_id "rna-XM_025685744.1"; gene_id "gene-BO79DRAFT_248847";
+NW_020291857.1	RefSeq	CDS	49045	51385	.	+	1	transcript_id "rna-XM_025685744.1"; gene_id "gene-BO79DRAFT_248847";
+NW_020291860.1	RefSeq	transcript	32390	33445	.	-	.	transcript_id "rna-XM_025680270.1"; gene_id "gene-BO79DRAFT_183388"
+NW_020291860.1	RefSeq	exon	32390	33279	.	-	.	transcript_id "rna-XM_025680270.1"; gene_id "gene-BO79DRAFT_183388";
+NW_020291860.1	RefSeq	exon	33353	33445	.	-	.	transcript_id "rna-XM_025680270.1"; gene_id "gene-BO79DRAFT_183388";
+NW_020291860.1	RefSeq	CDS	32463	33279	.	-	1	transcript_id "rna-XM_025680270.1"; gene_id "gene-BO79DRAFT_183388";
+NW_020291860.1	RefSeq	CDS	33353	33375	.	-	0	transcript_id "rna-XM_025680270.1"; gene_id "gene-BO79DRAFT_183388";
+NW_020291861.1	RefSeq	transcript	54571	55997	.	-	.	transcript_id "rna-XM_025686410.1"; gene_id "gene-BO79DRAFT_260450"
+NW_020291861.1	RefSeq	exon	54571	55019	.	-	.	transcript_id "rna-XM_025686410.1"; gene_id "gene-BO79DRAFT_260450";
+NW_020291861.1	RefSeq	exon	55091	55209	.	-	.	transcript_id "rna-XM_025686410.1"; gene_id "gene-BO79DRAFT_260450";
+NW_020291861.1	RefSeq	exon	55257	55372	.	-	.	transcript_id "rna-XM_025686410.1"; gene_id "gene-BO79DRAFT_260450";
+NW_020291861.1	RefSeq	exon	55458	55538	.	-	.	transcript_id "rna-XM_025686410.1"; gene_id "gene-BO79DRAFT_260450";
+NW_020291861.1	RefSeq	exon	55587	55997	.	-	.	transcript_id "rna-XM_025686410.1"; gene_id "gene-BO79DRAFT_260450";
+NW_020291861.1	RefSeq	CDS	54571	55019	.	-	2	transcript_id "rna-XM_025686410.1"; gene_id "gene-BO79DRAFT_260450";
+NW_020291861.1	RefSeq	CDS	55091	55209	.	-	1	transcript_id "rna-XM_025686410.1"; gene_id "gene-BO79DRAFT_260450";
+NW_020291861.1	RefSeq	CDS	55257	55372	.	-	0	transcript_id "rna-XM_025686410.1"; gene_id "gene-BO79DRAFT_260450";
+NW_020291861.1	RefSeq	CDS	55458	55538	.	-	0	transcript_id "rna-XM_025686410.1"; gene_id "gene-BO79DRAFT_260450";
+NW_020291861.1	RefSeq	CDS	55587	55997	.	-	0	transcript_id "rna-XM_025686410.1"; gene_id "gene-BO79DRAFT_260450";
+NW_020291861.1	RefSeq	transcript	107437	110878	.	-	.	transcript_id "rna-XM_025681841.1"; gene_id "gene-BO79DRAFT_205287"
+NW_020291861.1	RefSeq	exon	107437	108541	.	-	.	transcript_id "rna-XM_025681841.1"; gene_id "gene-BO79DRAFT_205287";
+NW_020291861.1	RefSeq	exon	108650	108831	.	-	.	transcript_id "rna-XM_025681841.1"; gene_id "gene-BO79DRAFT_205287";
+NW_020291861.1	RefSeq	exon	108885	109831	.	-	.	transcript_id "rna-XM_025681841.1"; gene_id "gene-BO79DRAFT_205287";
+NW_020291861.1	RefSeq	exon	109896	110163	.	-	.	transcript_id "rna-XM_025681841.1"; gene_id "gene-BO79DRAFT_205287";
+NW_020291861.1	RefSeq	exon	110250	110356	.	-	.	transcript_id "rna-XM_025681841.1"; gene_id "gene-BO79DRAFT_205287";
+NW_020291861.1	RefSeq	exon	110428	110519	.	-	.	transcript_id "rna-XM_025681841.1"; gene_id "gene-BO79DRAFT_205287";
+NW_020291861.1	RefSeq	exon	110671	110878	.	-	.	transcript_id "rna-XM_025681841.1"; gene_id "gene-BO79DRAFT_205287";
+NW_020291861.1	RefSeq	CDS	107652	108541	.	-	2	transcript_id "rna-XM_025681841.1"; gene_id "gene-BO79DRAFT_205287";
+NW_020291861.1	RefSeq	CDS	108650	108831	.	-	1	transcript_id "rna-XM_025681841.1"; gene_id "gene-BO79DRAFT_205287";
+NW_020291861.1	RefSeq	CDS	108885	109831	.	-	0	transcript_id "rna-XM_025681841.1"; gene_id "gene-BO79DRAFT_205287";
+NW_020291861.1	RefSeq	CDS	109896	110163	.	-	1	transcript_id "rna-XM_025681841.1"; gene_id "gene-BO79DRAFT_205287";
+NW_020291861.1	RefSeq	CDS	110250	110356	.	-	0	transcript_id "rna-XM_025681841.1"; gene_id "gene-BO79DRAFT_205287";
+NW_020291861.1	RefSeq	CDS	110428	110519	.	-	2	transcript_id "rna-XM_025681841.1"; gene_id "gene-BO79DRAFT_205287";
+NW_020291861.1	RefSeq	CDS	110671	110734	.	-	0	transcript_id "rna-XM_025681841.1"; gene_id "gene-BO79DRAFT_205287";
+NW_020291861.1	RefSeq	transcript	137747	139343	.	+	.	transcript_id "rna-XM_025685114.1"; gene_id "gene-BO79DRAFT_241377"
+NW_020291861.1	RefSeq	exon	137747	137969	.	+	.	transcript_id "rna-XM_025685114.1"; gene_id "gene-BO79DRAFT_241377";
+NW_020291861.1	RefSeq	exon	138072	138328	.	+	.	transcript_id "rna-XM_025685114.1"; gene_id "gene-BO79DRAFT_241377";
+NW_020291861.1	RefSeq	exon	138437	138589	.	+	.	transcript_id "rna-XM_025685114.1"; gene_id "gene-BO79DRAFT_241377";
+NW_020291861.1	RefSeq	exon	138648	139343	.	+	.	transcript_id "rna-XM_025685114.1"; gene_id "gene-BO79DRAFT_241377";
+NW_020291861.1	RefSeq	CDS	137926	137969	.	+	0	transcript_id "rna-XM_025685114.1"; gene_id "gene-BO79DRAFT_241377";
+NW_020291861.1	RefSeq	CDS	138072	138328	.	+	1	transcript_id "rna-XM_025685114.1"; gene_id "gene-BO79DRAFT_241377";
+NW_020291861.1	RefSeq	CDS	138437	138589	.	+	2	transcript_id "rna-XM_025685114.1"; gene_id "gene-BO79DRAFT_241377";
+NW_020291861.1	RefSeq	CDS	138648	139237	.	+	2	transcript_id "rna-XM_025685114.1"; gene_id "gene-BO79DRAFT_241377";
+NW_020291870.1	RefSeq	transcript	17362	18670	.	-	.	transcript_id "rna-XM_025681871.1"; gene_id "gene-BO79DRAFT_205744"
+NW_020291870.1	RefSeq	exon	17362	18421	.	-	.	transcript_id "rna-XM_025681871.1"; gene_id "gene-BO79DRAFT_205744";
+NW_020291870.1	RefSeq	exon	18606	18670	.	-	.	transcript_id "rna-XM_025681871.1"; gene_id "gene-BO79DRAFT_205744";
+NW_020291870.1	RefSeq	CDS	17666	18421	.	-	0	transcript_id "rna-XM_025681871.1"; gene_id "gene-BO79DRAFT_205744";
+NW_020291870.1	RefSeq	CDS	18606	18608	.	-	0	transcript_id "rna-XM_025681871.1"; gene_id "gene-BO79DRAFT_205744";
+NW_020291872.1	RefSeq	transcript	60873	61787	.	+	.	transcript_id "rna-XM_025680306.1"; gene_id "gene-BO79DRAFT_184137"; gene_name "sld5"
+NW_020291872.1	RefSeq	exon	60873	61081	.	+	.	transcript_id "rna-XM_025680306.1"; gene_id "gene-BO79DRAFT_184137"; gene_name "sld5";
+NW_020291872.1	RefSeq	exon	61177	61787	.	+	.	transcript_id "rna-XM_025680306.1"; gene_id "gene-BO79DRAFT_184137"; gene_name "sld5";
+NW_020291872.1	RefSeq	CDS	60902	61081	.	+	0	transcript_id "rna-XM_025680306.1"; gene_id "gene-BO79DRAFT_184137"; gene_name "sld5";
+NW_020291872.1	RefSeq	CDS	61177	61787	.	+	0	transcript_id "rna-XM_025680306.1"; gene_id "gene-BO79DRAFT_184137"; gene_name "sld5";

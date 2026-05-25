@@ -1,0 +1,975 @@
+JAIBPP010000001.1	Genbank	transcript	25064	27297	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000008-T1_mrna"; gene_id "gene-KXX11_000008"
+JAIBPP010000001.1	Genbank	exon	25064	27012	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000008-T1_mrna"; gene_id "gene-KXX11_000008";
+JAIBPP010000001.1	Genbank	exon	27081	27297	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000008-T1_mrna"; gene_id "gene-KXX11_000008";
+JAIBPP010000001.1	Genbank	CDS	25064	27012	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000008-T1_mrna"; gene_id "gene-KXX11_000008";
+JAIBPP010000001.1	Genbank	CDS	27081	27297	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000008-T1_mrna"; gene_id "gene-KXX11_000008";
+JAIBPP010000001.1	Genbank	transcript	156069	158802	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000050-T1_mrna"; gene_id "gene-KXX11_000050"
+JAIBPP010000001.1	Genbank	exon	156069	156503	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000050-T1_mrna"; gene_id "gene-KXX11_000050";
+JAIBPP010000001.1	Genbank	exon	156553	158802	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000050-T1_mrna"; gene_id "gene-KXX11_000050";
+JAIBPP010000001.1	Genbank	CDS	156069	156503	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000050-T1_mrna"; gene_id "gene-KXX11_000050";
+JAIBPP010000001.1	Genbank	CDS	156553	158802	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000050-T1_mrna"; gene_id "gene-KXX11_000050";
+JAIBPP010000100.1	Genbank	transcript	39106	39749	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000099-T1_mrna"; gene_id "gene-KXX11_000099"
+JAIBPP010000100.1	Genbank	exon	39106	39509	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000099-T1_mrna"; gene_id "gene-KXX11_000099";
+JAIBPP010000100.1	Genbank	exon	39581	39749	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000099-T1_mrna"; gene_id "gene-KXX11_000099";
+JAIBPP010000100.1	Genbank	CDS	39106	39509	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000099-T1_mrna"; gene_id "gene-KXX11_000099";
+JAIBPP010000100.1	Genbank	CDS	39581	39749	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000099-T1_mrna"; gene_id "gene-KXX11_000099";
+JAIBPP010001004.1	Genbank	transcript	1341	2915	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000117-T1_mrna"; gene_id "gene-KXX11_000117"
+JAIBPP010001004.1	Genbank	exon	1341	2462	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000117-T1_mrna"; gene_id "gene-KXX11_000117";
+JAIBPP010001004.1	Genbank	exon	2607	2915	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000117-T1_mrna"; gene_id "gene-KXX11_000117";
+JAIBPP010001004.1	Genbank	CDS	1341	2462	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000117-T1_mrna"; gene_id "gene-KXX11_000117";
+JAIBPP010001004.1	Genbank	CDS	2607	2915	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000117-T1_mrna"; gene_id "gene-KXX11_000117";
+JAIBPP010001078.1	Genbank	transcript	3465	3999	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000430-T1_mrna"; gene_id "gene-KXX11_000430"; gene_name "SPT4"
+JAIBPP010001078.1	Genbank	exon	3465	3548	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000430-T1_mrna"; gene_id "gene-KXX11_000430"; gene_name "SPT4";
+JAIBPP010001078.1	Genbank	exon	3614	3811	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000430-T1_mrna"; gene_id "gene-KXX11_000430"; gene_name "SPT4";
+JAIBPP010001078.1	Genbank	exon	3860	3912	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000430-T1_mrna"; gene_id "gene-KXX11_000430"; gene_name "SPT4";
+JAIBPP010001078.1	Genbank	exon	3966	3999	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000430-T1_mrna"; gene_id "gene-KXX11_000430"; gene_name "SPT4";
+JAIBPP010001078.1	Genbank	CDS	3465	3548	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000430-T1_mrna"; gene_id "gene-KXX11_000430"; gene_name "SPT4";
+JAIBPP010001078.1	Genbank	CDS	3614	3811	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000430-T1_mrna"; gene_id "gene-KXX11_000430"; gene_name "SPT4";
+JAIBPP010001078.1	Genbank	CDS	3860	3912	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000430-T1_mrna"; gene_id "gene-KXX11_000430"; gene_name "SPT4";
+JAIBPP010001078.1	Genbank	CDS	3966	3999	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000430-T1_mrna"; gene_id "gene-KXX11_000430"; gene_name "SPT4";
+JAIBPP010000110.1	Genbank	transcript	19162	20731	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000544-T1_mrna"; gene_id "gene-KXX11_000544"
+JAIBPP010000110.1	Genbank	exon	19162	20275	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000544-T1_mrna"; gene_id "gene-KXX11_000544";
+JAIBPP010000110.1	Genbank	exon	20334	20731	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000544-T1_mrna"; gene_id "gene-KXX11_000544";
+JAIBPP010000110.1	Genbank	CDS	19162	20275	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000544-T1_mrna"; gene_id "gene-KXX11_000544";
+JAIBPP010000110.1	Genbank	CDS	20334	20731	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000544-T1_mrna"; gene_id "gene-KXX11_000544";
+JAIBPP010001116.1	Genbank	transcript	3859	5913	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000611-T1_mrna"; gene_id "gene-KXX11_000611"; gene_name "FRS1"
+JAIBPP010001116.1	Genbank	exon	3859	3911	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000611-T1_mrna"; gene_id "gene-KXX11_000611"; gene_name "FRS1";
+JAIBPP010001116.1	Genbank	exon	3972	4012	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000611-T1_mrna"; gene_id "gene-KXX11_000611"; gene_name "FRS1";
+JAIBPP010001116.1	Genbank	exon	4081	4100	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000611-T1_mrna"; gene_id "gene-KXX11_000611"; gene_name "FRS1";
+JAIBPP010001116.1	Genbank	exon	4157	4233	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000611-T1_mrna"; gene_id "gene-KXX11_000611"; gene_name "FRS1";
+JAIBPP010001116.1	Genbank	exon	4295	4424	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000611-T1_mrna"; gene_id "gene-KXX11_000611"; gene_name "FRS1";
+JAIBPP010001116.1	Genbank	exon	4488	4754	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000611-T1_mrna"; gene_id "gene-KXX11_000611"; gene_name "FRS1";
+JAIBPP010001116.1	Genbank	exon	4809	5050	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000611-T1_mrna"; gene_id "gene-KXX11_000611"; gene_name "FRS1";
+JAIBPP010001116.1	Genbank	exon	5105	5913	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000611-T1_mrna"; gene_id "gene-KXX11_000611"; gene_name "FRS1";
+JAIBPP010001116.1	Genbank	CDS	3859	3911	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000611-T1_mrna"; gene_id "gene-KXX11_000611"; gene_name "FRS1";
+JAIBPP010001116.1	Genbank	CDS	3972	4012	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000611-T1_mrna"; gene_id "gene-KXX11_000611"; gene_name "FRS1";
+JAIBPP010001116.1	Genbank	CDS	4081	4100	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000611-T1_mrna"; gene_id "gene-KXX11_000611"; gene_name "FRS1";
+JAIBPP010001116.1	Genbank	CDS	4157	4233	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000611-T1_mrna"; gene_id "gene-KXX11_000611"; gene_name "FRS1";
+JAIBPP010001116.1	Genbank	CDS	4295	4424	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000611-T1_mrna"; gene_id "gene-KXX11_000611"; gene_name "FRS1";
+JAIBPP010001116.1	Genbank	CDS	4488	4754	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000611-T1_mrna"; gene_id "gene-KXX11_000611"; gene_name "FRS1";
+JAIBPP010001116.1	Genbank	CDS	4809	5050	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000611-T1_mrna"; gene_id "gene-KXX11_000611"; gene_name "FRS1";
+JAIBPP010001116.1	Genbank	CDS	5105	5913	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000611-T1_mrna"; gene_id "gene-KXX11_000611"; gene_name "FRS1";
+JAIBPP010001145.1	Genbank	transcript	2453	3309	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000724-T1_mrna"; gene_id "gene-KXX11_000724"; gene_name "TMA22"
+JAIBPP010001145.1	Genbank	exon	2453	2516	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000724-T1_mrna"; gene_id "gene-KXX11_000724"; gene_name "TMA22";
+JAIBPP010001145.1	Genbank	exon	2602	2621	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000724-T1_mrna"; gene_id "gene-KXX11_000724"; gene_name "TMA22";
+JAIBPP010001145.1	Genbank	exon	2744	2831	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000724-T1_mrna"; gene_id "gene-KXX11_000724"; gene_name "TMA22";
+JAIBPP010001145.1	Genbank	exon	2897	3309	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000724-T1_mrna"; gene_id "gene-KXX11_000724"; gene_name "TMA22";
+JAIBPP010001145.1	Genbank	CDS	2453	2516	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000724-T1_mrna"; gene_id "gene-KXX11_000724"; gene_name "TMA22";
+JAIBPP010001145.1	Genbank	CDS	2602	2621	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000724-T1_mrna"; gene_id "gene-KXX11_000724"; gene_name "TMA22";
+JAIBPP010001145.1	Genbank	CDS	2744	2831	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000724-T1_mrna"; gene_id "gene-KXX11_000724"; gene_name "TMA22";
+JAIBPP010001145.1	Genbank	CDS	2897	3309	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000724-T1_mrna"; gene_id "gene-KXX11_000724"; gene_name "TMA22";
+JAIBPP010000117.1	Genbank	transcript	2708	3532	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000805-T1_mrna"; gene_id "gene-KXX11_000805"
+JAIBPP010000117.1	Genbank	exon	2708	2721	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000805-T1_mrna"; gene_id "gene-KXX11_000805";
+JAIBPP010000117.1	Genbank	exon	2917	3057	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000805-T1_mrna"; gene_id "gene-KXX11_000805";
+JAIBPP010000117.1	Genbank	exon	3142	3532	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000805-T1_mrna"; gene_id "gene-KXX11_000805";
+JAIBPP010000117.1	Genbank	CDS	2708	2721	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000805-T1_mrna"; gene_id "gene-KXX11_000805";
+JAIBPP010000117.1	Genbank	CDS	2917	3057	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000805-T1_mrna"; gene_id "gene-KXX11_000805";
+JAIBPP010000117.1	Genbank	CDS	3142	3532	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000805-T1_mrna"; gene_id "gene-KXX11_000805";
+JAIBPP010000117.1	Genbank	transcript	35462	36778	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000819-T1_mrna"; gene_id "gene-KXX11_000819"
+JAIBPP010000117.1	Genbank	exon	35462	35469	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000819-T1_mrna"; gene_id "gene-KXX11_000819";
+JAIBPP010000117.1	Genbank	exon	35528	35567	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000819-T1_mrna"; gene_id "gene-KXX11_000819";
+JAIBPP010000117.1	Genbank	exon	35654	36123	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000819-T1_mrna"; gene_id "gene-KXX11_000819";
+JAIBPP010000117.1	Genbank	exon	36199	36778	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000819-T1_mrna"; gene_id "gene-KXX11_000819";
+JAIBPP010000117.1	Genbank	CDS	35462	35469	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000819-T1_mrna"; gene_id "gene-KXX11_000819";
+JAIBPP010000117.1	Genbank	CDS	35528	35567	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000819-T1_mrna"; gene_id "gene-KXX11_000819";
+JAIBPP010000117.1	Genbank	CDS	35654	36123	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000819-T1_mrna"; gene_id "gene-KXX11_000819";
+JAIBPP010000117.1	Genbank	CDS	36199	36778	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000819-T1_mrna"; gene_id "gene-KXX11_000819";
+JAIBPP010000120.1	Genbank	transcript	30401	31603	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000945-T1_mrna"; gene_id "gene-KXX11_000945"
+JAIBPP010000120.1	Genbank	exon	30401	30503	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000945-T1_mrna"; gene_id "gene-KXX11_000945";
+JAIBPP010000120.1	Genbank	exon	30586	30691	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000945-T1_mrna"; gene_id "gene-KXX11_000945";
+JAIBPP010000120.1	Genbank	exon	30755	31267	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000945-T1_mrna"; gene_id "gene-KXX11_000945";
+JAIBPP010000120.1	Genbank	exon	31357	31603	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000945-T1_mrna"; gene_id "gene-KXX11_000945";
+JAIBPP010000120.1	Genbank	CDS	30401	30503	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000945-T1_mrna"; gene_id "gene-KXX11_000945";
+JAIBPP010000120.1	Genbank	CDS	30586	30691	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000945-T1_mrna"; gene_id "gene-KXX11_000945";
+JAIBPP010000120.1	Genbank	CDS	30755	31267	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000945-T1_mrna"; gene_id "gene-KXX11_000945";
+JAIBPP010000120.1	Genbank	CDS	31357	31603	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000945-T1_mrna"; gene_id "gene-KXX11_000945";
+JAIBPP010000120.1	Genbank	transcript	40184	41129	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000951-T1_mrna"; gene_id "gene-KXX11_000951"; gene_name "COQ4"
+JAIBPP010000120.1	Genbank	exon	40184	40394	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000951-T1_mrna"; gene_id "gene-KXX11_000951"; gene_name "COQ4";
+JAIBPP010000120.1	Genbank	exon	40483	41129	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000951-T1_mrna"; gene_id "gene-KXX11_000951"; gene_name "COQ4";
+JAIBPP010000120.1	Genbank	CDS	40184	40394	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000951-T1_mrna"; gene_id "gene-KXX11_000951"; gene_name "COQ4";
+JAIBPP010000120.1	Genbank	CDS	40483	41129	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000951-T1_mrna"; gene_id "gene-KXX11_000951"; gene_name "COQ4";
+JAIBPP010000121.1	Genbank	transcript	21609	23580	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000975-T1_mrna"; gene_id "gene-KXX11_000975"
+JAIBPP010000121.1	Genbank	exon	21609	23120	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000975-T1_mrna"; gene_id "gene-KXX11_000975";
+JAIBPP010000121.1	Genbank	exon	23209	23580	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000975-T1_mrna"; gene_id "gene-KXX11_000975";
+JAIBPP010000121.1	Genbank	CDS	21609	23120	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000975-T1_mrna"; gene_id "gene-KXX11_000975";
+JAIBPP010000121.1	Genbank	CDS	23209	23580	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000975-T1_mrna"; gene_id "gene-KXX11_000975";
+JAIBPP010000121.1	Genbank	transcript	30710	33769	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000980-T1_mrna"; gene_id "gene-KXX11_000980"
+JAIBPP010000121.1	Genbank	exon	30710	30883	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000980-T1_mrna"; gene_id "gene-KXX11_000980";
+JAIBPP010000121.1	Genbank	exon	30946	30973	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000980-T1_mrna"; gene_id "gene-KXX11_000980";
+JAIBPP010000121.1	Genbank	exon	31047	33769	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000980-T1_mrna"; gene_id "gene-KXX11_000980";
+JAIBPP010000121.1	Genbank	CDS	30710	30883	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000980-T1_mrna"; gene_id "gene-KXX11_000980";
+JAIBPP010000121.1	Genbank	CDS	30946	30973	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000980-T1_mrna"; gene_id "gene-KXX11_000980";
+JAIBPP010000121.1	Genbank	CDS	31047	33769	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000980-T1_mrna"; gene_id "gene-KXX11_000980";
+JAIBPP010000121.1	Genbank	transcript	41937	43547	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000983-T1_mrna"; gene_id "gene-KXX11_000983"
+JAIBPP010000121.1	Genbank	exon	41937	42872	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000983-T1_mrna"; gene_id "gene-KXX11_000983";
+JAIBPP010000121.1	Genbank	exon	42930	43547	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000983-T1_mrna"; gene_id "gene-KXX11_000983";
+JAIBPP010000121.1	Genbank	CDS	41937	42872	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000983-T1_mrna"; gene_id "gene-KXX11_000983";
+JAIBPP010000121.1	Genbank	CDS	42930	43547	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_000983-T1_mrna"; gene_id "gene-KXX11_000983";
+JAIBPP010000124.1	Genbank	transcript	30162	32196	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001087-T1_mrna"; gene_id "gene-KXX11_001087"
+JAIBPP010000124.1	Genbank	exon	30162	30313	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001087-T1_mrna"; gene_id "gene-KXX11_001087";
+JAIBPP010000124.1	Genbank	exon	30377	31226	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001087-T1_mrna"; gene_id "gene-KXX11_001087";
+JAIBPP010000124.1	Genbank	exon	31286	31789	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001087-T1_mrna"; gene_id "gene-KXX11_001087";
+JAIBPP010000124.1	Genbank	exon	31846	32196	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001087-T1_mrna"; gene_id "gene-KXX11_001087";
+JAIBPP010000124.1	Genbank	CDS	30162	30313	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001087-T1_mrna"; gene_id "gene-KXX11_001087";
+JAIBPP010000124.1	Genbank	CDS	30377	31226	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001087-T1_mrna"; gene_id "gene-KXX11_001087";
+JAIBPP010000124.1	Genbank	CDS	31286	31789	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001087-T1_mrna"; gene_id "gene-KXX11_001087";
+JAIBPP010000124.1	Genbank	CDS	31846	32196	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001087-T1_mrna"; gene_id "gene-KXX11_001087";
+JAIBPP010000127.1	Genbank	transcript	17204	18195	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001172-T1_mrna"; gene_id "gene-KXX11_001172"
+JAIBPP010000127.1	Genbank	exon	17204	17798	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001172-T1_mrna"; gene_id "gene-KXX11_001172";
+JAIBPP010000127.1	Genbank	exon	17855	17974	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001172-T1_mrna"; gene_id "gene-KXX11_001172";
+JAIBPP010000127.1	Genbank	exon	18032	18195	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001172-T1_mrna"; gene_id "gene-KXX11_001172";
+JAIBPP010000127.1	Genbank	CDS	17204	17798	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001172-T1_mrna"; gene_id "gene-KXX11_001172";
+JAIBPP010000127.1	Genbank	CDS	17855	17974	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001172-T1_mrna"; gene_id "gene-KXX11_001172";
+JAIBPP010000127.1	Genbank	CDS	18032	18195	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001172-T1_mrna"; gene_id "gene-KXX11_001172";
+JAIBPP010000127.1	Genbank	transcript	18453	19513	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001173-T1_mrna"; gene_id "gene-KXX11_001173"; gene_name "CWC15"
+JAIBPP010000127.1	Genbank	exon	18453	18462	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001173-T1_mrna"; gene_id "gene-KXX11_001173"; gene_name "CWC15";
+JAIBPP010000127.1	Genbank	exon	18524	18539	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001173-T1_mrna"; gene_id "gene-KXX11_001173"; gene_name "CWC15";
+JAIBPP010000127.1	Genbank	exon	18594	18670	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001173-T1_mrna"; gene_id "gene-KXX11_001173"; gene_name "CWC15";
+JAIBPP010000127.1	Genbank	exon	18729	19005	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001173-T1_mrna"; gene_id "gene-KXX11_001173"; gene_name "CWC15";
+JAIBPP010000127.1	Genbank	exon	19059	19140	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001173-T1_mrna"; gene_id "gene-KXX11_001173"; gene_name "CWC15";
+JAIBPP010000127.1	Genbank	exon	19191	19361	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001173-T1_mrna"; gene_id "gene-KXX11_001173"; gene_name "CWC15";
+JAIBPP010000127.1	Genbank	exon	19410	19445	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001173-T1_mrna"; gene_id "gene-KXX11_001173"; gene_name "CWC15";
+JAIBPP010000127.1	Genbank	exon	19496	19513	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001173-T1_mrna"; gene_id "gene-KXX11_001173"; gene_name "CWC15";
+JAIBPP010000127.1	Genbank	CDS	18453	18462	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001173-T1_mrna"; gene_id "gene-KXX11_001173"; gene_name "CWC15";
+JAIBPP010000127.1	Genbank	CDS	18524	18539	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001173-T1_mrna"; gene_id "gene-KXX11_001173"; gene_name "CWC15";
+JAIBPP010000127.1	Genbank	CDS	18594	18670	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001173-T1_mrna"; gene_id "gene-KXX11_001173"; gene_name "CWC15";
+JAIBPP010000127.1	Genbank	CDS	18729	19005	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001173-T1_mrna"; gene_id "gene-KXX11_001173"; gene_name "CWC15";
+JAIBPP010000127.1	Genbank	CDS	19059	19140	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001173-T1_mrna"; gene_id "gene-KXX11_001173"; gene_name "CWC15";
+JAIBPP010000127.1	Genbank	CDS	19191	19361	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001173-T1_mrna"; gene_id "gene-KXX11_001173"; gene_name "CWC15";
+JAIBPP010000127.1	Genbank	CDS	19410	19445	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001173-T1_mrna"; gene_id "gene-KXX11_001173"; gene_name "CWC15";
+JAIBPP010000127.1	Genbank	CDS	19496	19513	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001173-T1_mrna"; gene_id "gene-KXX11_001173"; gene_name "CWC15";
+JAIBPP010000138.1	Genbank	transcript	19512	22470	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001513-T1_mrna"; gene_id "gene-KXX11_001513"; gene_name "MCM2"
+JAIBPP010000138.1	Genbank	exon	19512	19611	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001513-T1_mrna"; gene_id "gene-KXX11_001513"; gene_name "MCM2";
+JAIBPP010000138.1	Genbank	exon	19680	19849	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001513-T1_mrna"; gene_id "gene-KXX11_001513"; gene_name "MCM2";
+JAIBPP010000138.1	Genbank	exon	19905	22204	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001513-T1_mrna"; gene_id "gene-KXX11_001513"; gene_name "MCM2";
+JAIBPP010000138.1	Genbank	exon	22265	22380	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001513-T1_mrna"; gene_id "gene-KXX11_001513"; gene_name "MCM2";
+JAIBPP010000138.1	Genbank	exon	22466	22470	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001513-T1_mrna"; gene_id "gene-KXX11_001513"; gene_name "MCM2";
+JAIBPP010000138.1	Genbank	CDS	19512	19611	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001513-T1_mrna"; gene_id "gene-KXX11_001513"; gene_name "MCM2";
+JAIBPP010000138.1	Genbank	CDS	19680	19849	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001513-T1_mrna"; gene_id "gene-KXX11_001513"; gene_name "MCM2";
+JAIBPP010000138.1	Genbank	CDS	19905	22204	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001513-T1_mrna"; gene_id "gene-KXX11_001513"; gene_name "MCM2";
+JAIBPP010000138.1	Genbank	CDS	22265	22380	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001513-T1_mrna"; gene_id "gene-KXX11_001513"; gene_name "MCM2";
+JAIBPP010000138.1	Genbank	CDS	22466	22470	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001513-T1_mrna"; gene_id "gene-KXX11_001513"; gene_name "MCM2";
+JAIBPP010000139.1	Genbank	transcript	27233	28436	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001534-T1_mrna"; gene_id "gene-KXX11_001534"; gene_name "KRR1"
+JAIBPP010000139.1	Genbank	exon	27233	27292	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001534-T1_mrna"; gene_id "gene-KXX11_001534"; gene_name "KRR1";
+JAIBPP010000139.1	Genbank	exon	27359	27631	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001534-T1_mrna"; gene_id "gene-KXX11_001534"; gene_name "KRR1";
+JAIBPP010000139.1	Genbank	exon	27693	28436	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001534-T1_mrna"; gene_id "gene-KXX11_001534"; gene_name "KRR1";
+JAIBPP010000139.1	Genbank	CDS	27233	27292	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001534-T1_mrna"; gene_id "gene-KXX11_001534"; gene_name "KRR1";
+JAIBPP010000139.1	Genbank	CDS	27359	27631	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001534-T1_mrna"; gene_id "gene-KXX11_001534"; gene_name "KRR1";
+JAIBPP010000139.1	Genbank	CDS	27693	28436	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001534-T1_mrna"; gene_id "gene-KXX11_001534"; gene_name "KRR1";
+JAIBPP010000145.1	Genbank	transcript	30429	32098	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001700-T1_mrna"; gene_id "gene-KXX11_001700"
+JAIBPP010000145.1	Genbank	exon	30429	30653	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001700-T1_mrna"; gene_id "gene-KXX11_001700";
+JAIBPP010000145.1	Genbank	exon	30720	31798	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001700-T1_mrna"; gene_id "gene-KXX11_001700";
+JAIBPP010000145.1	Genbank	exon	31855	32098	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001700-T1_mrna"; gene_id "gene-KXX11_001700";
+JAIBPP010000145.1	Genbank	CDS	30429	30653	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001700-T1_mrna"; gene_id "gene-KXX11_001700";
+JAIBPP010000145.1	Genbank	CDS	30720	31798	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001700-T1_mrna"; gene_id "gene-KXX11_001700";
+JAIBPP010000145.1	Genbank	CDS	31855	32098	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001700-T1_mrna"; gene_id "gene-KXX11_001700";
+JAIBPP010000150.1	Genbank	transcript	30509	31550	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001834-T1_mrna"; gene_id "gene-KXX11_001834"
+JAIBPP010000150.1	Genbank	exon	30509	30584	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001834-T1_mrna"; gene_id "gene-KXX11_001834";
+JAIBPP010000150.1	Genbank	exon	30670	31550	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001834-T1_mrna"; gene_id "gene-KXX11_001834";
+JAIBPP010000150.1	Genbank	CDS	30509	30584	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001834-T1_mrna"; gene_id "gene-KXX11_001834";
+JAIBPP010000150.1	Genbank	CDS	30670	31550	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001834-T1_mrna"; gene_id "gene-KXX11_001834";
+JAIBPP010000152.1	Genbank	transcript	14538	17080	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001868-T1_mrna"; gene_id "gene-KXX11_001868"
+JAIBPP010000152.1	Genbank	exon	14538	14746	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001868-T1_mrna"; gene_id "gene-KXX11_001868";
+JAIBPP010000152.1	Genbank	exon	14819	15158	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001868-T1_mrna"; gene_id "gene-KXX11_001868";
+JAIBPP010000152.1	Genbank	exon	15211	16236	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001868-T1_mrna"; gene_id "gene-KXX11_001868";
+JAIBPP010000152.1	Genbank	exon	16298	17080	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001868-T1_mrna"; gene_id "gene-KXX11_001868";
+JAIBPP010000152.1	Genbank	CDS	14538	14746	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001868-T1_mrna"; gene_id "gene-KXX11_001868";
+JAIBPP010000152.1	Genbank	CDS	14819	15158	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001868-T1_mrna"; gene_id "gene-KXX11_001868";
+JAIBPP010000152.1	Genbank	CDS	15211	16236	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001868-T1_mrna"; gene_id "gene-KXX11_001868";
+JAIBPP010000152.1	Genbank	CDS	16298	17080	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001868-T1_mrna"; gene_id "gene-KXX11_001868";
+JAIBPP010000156.1	Genbank	transcript	33433	34419	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001955-T1_mrna"; gene_id "gene-KXX11_001955"; gene_name "BCP1"
+JAIBPP010000156.1	Genbank	exon	33433	33516	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001955-T1_mrna"; gene_id "gene-KXX11_001955"; gene_name "BCP1";
+JAIBPP010000156.1	Genbank	exon	33576	33812	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001955-T1_mrna"; gene_id "gene-KXX11_001955"; gene_name "BCP1";
+JAIBPP010000156.1	Genbank	exon	33865	34419	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001955-T1_mrna"; gene_id "gene-KXX11_001955"; gene_name "BCP1";
+JAIBPP010000156.1	Genbank	CDS	33433	33516	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001955-T1_mrna"; gene_id "gene-KXX11_001955"; gene_name "BCP1";
+JAIBPP010000156.1	Genbank	CDS	33576	33812	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001955-T1_mrna"; gene_id "gene-KXX11_001955"; gene_name "BCP1";
+JAIBPP010000156.1	Genbank	CDS	33865	34419	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_001955-T1_mrna"; gene_id "gene-KXX11_001955"; gene_name "BCP1";
+JAIBPP010000016.1	Genbank	transcript	52786	53610	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002031-T1_mrna"; gene_id "gene-KXX11_002031"
+JAIBPP010000016.1	Genbank	exon	52786	53610	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002031-T1_mrna"; gene_id "gene-KXX11_002031";
+JAIBPP010000016.1	Genbank	CDS	52786	53610	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002031-T1_mrna"; gene_id "gene-KXX11_002031";
+JAIBPP010000166.1	Genbank	transcript	31673	32612	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002157-T1_mrna"; gene_id "gene-KXX11_002157"
+JAIBPP010000166.1	Genbank	exon	31673	32352	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002157-T1_mrna"; gene_id "gene-KXX11_002157";
+JAIBPP010000166.1	Genbank	exon	32407	32534	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002157-T1_mrna"; gene_id "gene-KXX11_002157";
+JAIBPP010000166.1	Genbank	exon	32590	32612	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002157-T1_mrna"; gene_id "gene-KXX11_002157";
+JAIBPP010000166.1	Genbank	CDS	31673	32352	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002157-T1_mrna"; gene_id "gene-KXX11_002157";
+JAIBPP010000166.1	Genbank	CDS	32407	32534	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002157-T1_mrna"; gene_id "gene-KXX11_002157";
+JAIBPP010000166.1	Genbank	CDS	32590	32612	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002157-T1_mrna"; gene_id "gene-KXX11_002157";
+JAIBPP010000175.1	Genbank	transcript	6177	7388	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002329-T1_mrna"; gene_id "gene-KXX11_002329"
+JAIBPP010000175.1	Genbank	exon	6177	7388	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002329-T1_mrna"; gene_id "gene-KXX11_002329";
+JAIBPP010000175.1	Genbank	CDS	6177	7388	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002329-T1_mrna"; gene_id "gene-KXX11_002329";
+JAIBPP010000175.1	Genbank	transcript	18468	20303	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002333-T1_mrna"; gene_id "gene-KXX11_002333"
+JAIBPP010000175.1	Genbank	exon	18468	20005	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002333-T1_mrna"; gene_id "gene-KXX11_002333";
+JAIBPP010000175.1	Genbank	exon	20083	20116	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002333-T1_mrna"; gene_id "gene-KXX11_002333";
+JAIBPP010000175.1	Genbank	exon	20262	20303	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002333-T1_mrna"; gene_id "gene-KXX11_002333";
+JAIBPP010000175.1	Genbank	CDS	18468	20005	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002333-T1_mrna"; gene_id "gene-KXX11_002333";
+JAIBPP010000175.1	Genbank	CDS	20083	20116	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002333-T1_mrna"; gene_id "gene-KXX11_002333";
+JAIBPP010000175.1	Genbank	CDS	20262	20303	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002333-T1_mrna"; gene_id "gene-KXX11_002333";
+JAIBPP010000177.1	Genbank	transcript	3380	5521	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002358-T1_mrna"; gene_id "gene-KXX11_002358"
+JAIBPP010000177.1	Genbank	exon	3380	5521	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002358-T1_mrna"; gene_id "gene-KXX11_002358";
+JAIBPP010000177.1	Genbank	CDS	3380	5521	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002358-T1_mrna"; gene_id "gene-KXX11_002358";
+JAIBPP010000177.1	Genbank	transcript	12651	14347	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002362-T1_mrna"; gene_id "gene-KXX11_002362"
+JAIBPP010000177.1	Genbank	exon	12651	12916	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002362-T1_mrna"; gene_id "gene-KXX11_002362";
+JAIBPP010000177.1	Genbank	exon	12985	14347	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002362-T1_mrna"; gene_id "gene-KXX11_002362";
+JAIBPP010000177.1	Genbank	CDS	12651	12916	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002362-T1_mrna"; gene_id "gene-KXX11_002362";
+JAIBPP010000177.1	Genbank	CDS	12985	14347	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002362-T1_mrna"; gene_id "gene-KXX11_002362";
+JAIBPP010000177.1	Genbank	transcript	25658	28676	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002368-T1_mrna"; gene_id "gene-KXX11_002368"
+JAIBPP010000177.1	Genbank	exon	25658	25674	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002368-T1_mrna"; gene_id "gene-KXX11_002368";
+JAIBPP010000177.1	Genbank	exon	25743	25997	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002368-T1_mrna"; gene_id "gene-KXX11_002368";
+JAIBPP010000177.1	Genbank	exon	26072	28676	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002368-T1_mrna"; gene_id "gene-KXX11_002368";
+JAIBPP010000177.1	Genbank	CDS	25658	25674	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002368-T1_mrna"; gene_id "gene-KXX11_002368";
+JAIBPP010000177.1	Genbank	CDS	25743	25997	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002368-T1_mrna"; gene_id "gene-KXX11_002368";
+JAIBPP010000177.1	Genbank	CDS	26072	28676	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002368-T1_mrna"; gene_id "gene-KXX11_002368";
+JAIBPP010000178.1	Genbank	transcript	23955	25124	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002387-T1_mrna"; gene_id "gene-KXX11_002387"
+JAIBPP010000178.1	Genbank	exon	23955	24880	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002387-T1_mrna"; gene_id "gene-KXX11_002387";
+JAIBPP010000178.1	Genbank	exon	24932	25124	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002387-T1_mrna"; gene_id "gene-KXX11_002387";
+JAIBPP010000178.1	Genbank	CDS	23955	24880	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002387-T1_mrna"; gene_id "gene-KXX11_002387";
+JAIBPP010000178.1	Genbank	CDS	24932	25124	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002387-T1_mrna"; gene_id "gene-KXX11_002387";
+JAIBPP010000178.1	Genbank	transcript	32437	35007	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002392-T1_mrna"; gene_id "gene-KXX11_002392"; gene_name "DBP6"
+JAIBPP010000178.1	Genbank	exon	32437	35007	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002392-T1_mrna"; gene_id "gene-KXX11_002392"; gene_name "DBP6";
+JAIBPP010000178.1	Genbank	CDS	32437	35007	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002392-T1_mrna"; gene_id "gene-KXX11_002392"; gene_name "DBP6";
+JAIBPP010000018.1	Genbank	transcript	16252	18998	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002415-T1_mrna"; gene_id "gene-KXX11_002415"
+JAIBPP010000018.1	Genbank	exon	16252	17193	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002415-T1_mrna"; gene_id "gene-KXX11_002415";
+JAIBPP010000018.1	Genbank	exon	17258	17356	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002415-T1_mrna"; gene_id "gene-KXX11_002415";
+JAIBPP010000018.1	Genbank	exon	17409	17666	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002415-T1_mrna"; gene_id "gene-KXX11_002415";
+JAIBPP010000018.1	Genbank	exon	17724	18182	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002415-T1_mrna"; gene_id "gene-KXX11_002415";
+JAIBPP010000018.1	Genbank	exon	18235	18471	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002415-T1_mrna"; gene_id "gene-KXX11_002415";
+JAIBPP010000018.1	Genbank	exon	18537	18832	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002415-T1_mrna"; gene_id "gene-KXX11_002415";
+JAIBPP010000018.1	Genbank	exon	18932	18998	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002415-T1_mrna"; gene_id "gene-KXX11_002415";
+JAIBPP010000018.1	Genbank	CDS	16252	17193	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002415-T1_mrna"; gene_id "gene-KXX11_002415";
+JAIBPP010000018.1	Genbank	CDS	17258	17356	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002415-T1_mrna"; gene_id "gene-KXX11_002415";
+JAIBPP010000018.1	Genbank	CDS	17409	17666	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002415-T1_mrna"; gene_id "gene-KXX11_002415";
+JAIBPP010000018.1	Genbank	CDS	17724	18182	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002415-T1_mrna"; gene_id "gene-KXX11_002415";
+JAIBPP010000018.1	Genbank	CDS	18235	18471	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002415-T1_mrna"; gene_id "gene-KXX11_002415";
+JAIBPP010000018.1	Genbank	CDS	18537	18832	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002415-T1_mrna"; gene_id "gene-KXX11_002415";
+JAIBPP010000018.1	Genbank	CDS	18932	18998	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002415-T1_mrna"; gene_id "gene-KXX11_002415";
+JAIBPP010000019.1	Genbank	transcript	40025	42504	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002596-T1_mrna"; gene_id "gene-KXX11_002596"
+JAIBPP010000019.1	Genbank	exon	40025	40071	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002596-T1_mrna"; gene_id "gene-KXX11_002596";
+JAIBPP010000019.1	Genbank	exon	40162	40197	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002596-T1_mrna"; gene_id "gene-KXX11_002596";
+JAIBPP010000019.1	Genbank	exon	40273	40560	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002596-T1_mrna"; gene_id "gene-KXX11_002596";
+JAIBPP010000019.1	Genbank	exon	40629	42504	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002596-T1_mrna"; gene_id "gene-KXX11_002596";
+JAIBPP010000019.1	Genbank	CDS	40025	40071	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002596-T1_mrna"; gene_id "gene-KXX11_002596";
+JAIBPP010000019.1	Genbank	CDS	40162	40197	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002596-T1_mrna"; gene_id "gene-KXX11_002596";
+JAIBPP010000019.1	Genbank	CDS	40273	40560	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002596-T1_mrna"; gene_id "gene-KXX11_002596";
+JAIBPP010000019.1	Genbank	CDS	40629	42504	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002596-T1_mrna"; gene_id "gene-KXX11_002596";
+JAIBPP010000193.1	Genbank	transcript	8323	9631	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002655-T1_mrna"; gene_id "gene-KXX11_002655"
+JAIBPP010000193.1	Genbank	exon	8323	9552	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002655-T1_mrna"; gene_id "gene-KXX11_002655";
+JAIBPP010000193.1	Genbank	exon	9602	9631	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002655-T1_mrna"; gene_id "gene-KXX11_002655";
+JAIBPP010000193.1	Genbank	CDS	8323	9552	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002655-T1_mrna"; gene_id "gene-KXX11_002655";
+JAIBPP010000193.1	Genbank	CDS	9602	9631	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002655-T1_mrna"; gene_id "gene-KXX11_002655";
+JAIBPP010000002.1	Genbank	transcript	73784	74921	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002773-T1_mrna"; gene_id "gene-KXX11_002773"
+JAIBPP010000002.1	Genbank	exon	73784	74819	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002773-T1_mrna"; gene_id "gene-KXX11_002773";
+JAIBPP010000002.1	Genbank	exon	74875	74921	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002773-T1_mrna"; gene_id "gene-KXX11_002773";
+JAIBPP010000002.1	Genbank	CDS	73784	74819	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002773-T1_mrna"; gene_id "gene-KXX11_002773";
+JAIBPP010000002.1	Genbank	CDS	74875	74921	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002773-T1_mrna"; gene_id "gene-KXX11_002773";
+JAIBPP010000205.1	Genbank	transcript	17454	18330	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002895-T1_mrna"; gene_id "gene-KXX11_002895"
+JAIBPP010000205.1	Genbank	exon	17454	17627	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002895-T1_mrna"; gene_id "gene-KXX11_002895";
+JAIBPP010000205.1	Genbank	exon	17704	18330	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002895-T1_mrna"; gene_id "gene-KXX11_002895";
+JAIBPP010000205.1	Genbank	CDS	17454	17627	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002895-T1_mrna"; gene_id "gene-KXX11_002895";
+JAIBPP010000205.1	Genbank	CDS	17704	18330	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002895-T1_mrna"; gene_id "gene-KXX11_002895";
+JAIBPP010002046.1	Genbank	transcript	13	1002	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002932-T1_mrna"; gene_id "gene-KXX11_002932"
+JAIBPP010002046.1	Genbank	exon	13	938	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002932-T1_mrna"; gene_id "gene-KXX11_002932";
+JAIBPP010002046.1	Genbank	exon	990	1002	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002932-T1_mrna"; gene_id "gene-KXX11_002932";
+JAIBPP010002046.1	Genbank	CDS	13	938	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002932-T1_mrna"; gene_id "gene-KXX11_002932";
+JAIBPP010002046.1	Genbank	CDS	990	1002	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_002932-T1_mrna"; gene_id "gene-KXX11_002932";
+JAIBPP010000215.1	Genbank	transcript	60	8555	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003067-T1_mrna"; gene_id "gene-KXX11_003067"
+JAIBPP010000215.1	Genbank	exon	60	475	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003067-T1_mrna"; gene_id "gene-KXX11_003067";
+JAIBPP010000215.1	Genbank	exon	1204	1545	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003067-T1_mrna"; gene_id "gene-KXX11_003067";
+JAIBPP010000215.1	Genbank	exon	1605	7599	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003067-T1_mrna"; gene_id "gene-KXX11_003067";
+JAIBPP010000215.1	Genbank	exon	7656	7840	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003067-T1_mrna"; gene_id "gene-KXX11_003067";
+JAIBPP010000215.1	Genbank	exon	7900	8043	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003067-T1_mrna"; gene_id "gene-KXX11_003067";
+JAIBPP010000215.1	Genbank	exon	8103	8555	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003067-T1_mrna"; gene_id "gene-KXX11_003067";
+JAIBPP010000215.1	Genbank	CDS	60	475	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003067-T1_mrna"; gene_id "gene-KXX11_003067";
+JAIBPP010000215.1	Genbank	CDS	1204	1545	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003067-T1_mrna"; gene_id "gene-KXX11_003067";
+JAIBPP010000215.1	Genbank	CDS	1605	7599	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003067-T1_mrna"; gene_id "gene-KXX11_003067";
+JAIBPP010000215.1	Genbank	CDS	7656	7840	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003067-T1_mrna"; gene_id "gene-KXX11_003067";
+JAIBPP010000215.1	Genbank	CDS	7900	8043	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003067-T1_mrna"; gene_id "gene-KXX11_003067";
+JAIBPP010000215.1	Genbank	CDS	8103	8555	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003067-T1_mrna"; gene_id "gene-KXX11_003067";
+JAIBPP010000219.1	Genbank	transcript	5953	6977	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003123-T1_mrna"; gene_id "gene-KXX11_003123"; gene_name "NSA2"
+JAIBPP010000219.1	Genbank	exon	5953	5968	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003123-T1_mrna"; gene_id "gene-KXX11_003123"; gene_name "NSA2";
+JAIBPP010000219.1	Genbank	exon	6029	6241	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003123-T1_mrna"; gene_id "gene-KXX11_003123"; gene_name "NSA2";
+JAIBPP010000219.1	Genbank	exon	6302	6844	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003123-T1_mrna"; gene_id "gene-KXX11_003123"; gene_name "NSA2";
+JAIBPP010000219.1	Genbank	exon	6898	6977	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003123-T1_mrna"; gene_id "gene-KXX11_003123"; gene_name "NSA2";
+JAIBPP010000219.1	Genbank	CDS	5953	5968	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003123-T1_mrna"; gene_id "gene-KXX11_003123"; gene_name "NSA2";
+JAIBPP010000219.1	Genbank	CDS	6029	6241	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003123-T1_mrna"; gene_id "gene-KXX11_003123"; gene_name "NSA2";
+JAIBPP010000219.1	Genbank	CDS	6302	6844	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003123-T1_mrna"; gene_id "gene-KXX11_003123"; gene_name "NSA2";
+JAIBPP010000219.1	Genbank	CDS	6898	6977	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003123-T1_mrna"; gene_id "gene-KXX11_003123"; gene_name "NSA2";
+JAIBPP010000228.1	Genbank	transcript	27657	29004	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003296-T1_mrna"; gene_id "gene-KXX11_003296"
+JAIBPP010000228.1	Genbank	exon	27657	27734	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003296-T1_mrna"; gene_id "gene-KXX11_003296";
+JAIBPP010000228.1	Genbank	exon	27794	28288	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003296-T1_mrna"; gene_id "gene-KXX11_003296";
+JAIBPP010000228.1	Genbank	exon	28345	29004	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003296-T1_mrna"; gene_id "gene-KXX11_003296";
+JAIBPP010000228.1	Genbank	CDS	27657	27734	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003296-T1_mrna"; gene_id "gene-KXX11_003296";
+JAIBPP010000228.1	Genbank	CDS	27794	28288	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003296-T1_mrna"; gene_id "gene-KXX11_003296";
+JAIBPP010000228.1	Genbank	CDS	28345	29004	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003296-T1_mrna"; gene_id "gene-KXX11_003296";
+JAIBPP010000242.1	Genbank	transcript	2393	3335	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003533-T1_mrna"; gene_id "gene-KXX11_003533"
+JAIBPP010000242.1	Genbank	exon	2393	2442	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003533-T1_mrna"; gene_id "gene-KXX11_003533";
+JAIBPP010000242.1	Genbank	exon	2500	2941	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003533-T1_mrna"; gene_id "gene-KXX11_003533";
+JAIBPP010000242.1	Genbank	exon	3013	3082	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003533-T1_mrna"; gene_id "gene-KXX11_003533";
+JAIBPP010000242.1	Genbank	exon	3133	3335	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003533-T1_mrna"; gene_id "gene-KXX11_003533";
+JAIBPP010000242.1	Genbank	CDS	2393	2442	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003533-T1_mrna"; gene_id "gene-KXX11_003533";
+JAIBPP010000242.1	Genbank	CDS	2500	2941	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003533-T1_mrna"; gene_id "gene-KXX11_003533";
+JAIBPP010000242.1	Genbank	CDS	3013	3082	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003533-T1_mrna"; gene_id "gene-KXX11_003533";
+JAIBPP010000242.1	Genbank	CDS	3133	3335	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003533-T1_mrna"; gene_id "gene-KXX11_003533";
+JAIBPP010000248.1	Genbank	transcript	16220	18292	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003636-T1_mrna"; gene_id "gene-KXX11_003636"
+JAIBPP010000248.1	Genbank	exon	16220	18292	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003636-T1_mrna"; gene_id "gene-KXX11_003636";
+JAIBPP010000248.1	Genbank	CDS	16220	18292	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003636-T1_mrna"; gene_id "gene-KXX11_003636";
+JAIBPP010000253.1	Genbank	transcript	3031	4484	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003732-T1_mrna"; gene_id "gene-KXX11_003732"
+JAIBPP010000253.1	Genbank	exon	3031	3964	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003732-T1_mrna"; gene_id "gene-KXX11_003732";
+JAIBPP010000253.1	Genbank	exon	4017	4144	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003732-T1_mrna"; gene_id "gene-KXX11_003732";
+JAIBPP010000253.1	Genbank	exon	4217	4317	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003732-T1_mrna"; gene_id "gene-KXX11_003732";
+JAIBPP010000253.1	Genbank	exon	4382	4484	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003732-T1_mrna"; gene_id "gene-KXX11_003732";
+JAIBPP010000253.1	Genbank	CDS	3031	3964	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003732-T1_mrna"; gene_id "gene-KXX11_003732";
+JAIBPP010000253.1	Genbank	CDS	4017	4144	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003732-T1_mrna"; gene_id "gene-KXX11_003732";
+JAIBPP010000253.1	Genbank	CDS	4217	4317	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003732-T1_mrna"; gene_id "gene-KXX11_003732";
+JAIBPP010000253.1	Genbank	CDS	4382	4484	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003732-T1_mrna"; gene_id "gene-KXX11_003732";
+JAIBPP010000026.1	Genbank	transcript	75581	77625	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003867-T1_mrna"; gene_id "gene-KXX11_003867"; gene_name "SPB4"
+JAIBPP010000026.1	Genbank	exon	75581	76703	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003867-T1_mrna"; gene_id "gene-KXX11_003867"; gene_name "SPB4";
+JAIBPP010000026.1	Genbank	exon	76757	77266	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003867-T1_mrna"; gene_id "gene-KXX11_003867"; gene_name "SPB4";
+JAIBPP010000026.1	Genbank	exon	77336	77625	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003867-T1_mrna"; gene_id "gene-KXX11_003867"; gene_name "SPB4";
+JAIBPP010000026.1	Genbank	CDS	75581	76703	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003867-T1_mrna"; gene_id "gene-KXX11_003867"; gene_name "SPB4";
+JAIBPP010000026.1	Genbank	CDS	76757	77266	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003867-T1_mrna"; gene_id "gene-KXX11_003867"; gene_name "SPB4";
+JAIBPP010000026.1	Genbank	CDS	77336	77625	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003867-T1_mrna"; gene_id "gene-KXX11_003867"; gene_name "SPB4";
+JAIBPP010000259.1	Genbank	transcript	17988	20046	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003876-T1_mrna"; gene_id "gene-KXX11_003876"
+JAIBPP010000259.1	Genbank	exon	17988	18087	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003876-T1_mrna"; gene_id "gene-KXX11_003876";
+JAIBPP010000259.1	Genbank	exon	18149	19667	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003876-T1_mrna"; gene_id "gene-KXX11_003876";
+JAIBPP010000259.1	Genbank	exon	19746	20046	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003876-T1_mrna"; gene_id "gene-KXX11_003876";
+JAIBPP010000259.1	Genbank	CDS	17988	18087	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003876-T1_mrna"; gene_id "gene-KXX11_003876";
+JAIBPP010000259.1	Genbank	CDS	18149	19667	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003876-T1_mrna"; gene_id "gene-KXX11_003876";
+JAIBPP010000259.1	Genbank	CDS	19746	20046	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_003876-T1_mrna"; gene_id "gene-KXX11_003876";
+JAIBPP010000269.1	Genbank	transcript	10681	11913	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004079-T1_mrna"; gene_id "gene-KXX11_004079"
+JAIBPP010000269.1	Genbank	exon	10681	11913	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004079-T1_mrna"; gene_id "gene-KXX11_004079";
+JAIBPP010000269.1	Genbank	CDS	10681	11913	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004079-T1_mrna"; gene_id "gene-KXX11_004079";
+JAIBPP010000028.1	Genbank	transcript	60936	64234	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004231-T1_mrna"; gene_id "gene-KXX11_004231"
+JAIBPP010000028.1	Genbank	exon	60936	60950	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004231-T1_mrna"; gene_id "gene-KXX11_004231";
+JAIBPP010000028.1	Genbank	exon	61012	61080	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004231-T1_mrna"; gene_id "gene-KXX11_004231";
+JAIBPP010000028.1	Genbank	exon	61153	61449	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004231-T1_mrna"; gene_id "gene-KXX11_004231";
+JAIBPP010000028.1	Genbank	exon	61509	62120	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004231-T1_mrna"; gene_id "gene-KXX11_004231";
+JAIBPP010000028.1	Genbank	exon	62171	62404	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004231-T1_mrna"; gene_id "gene-KXX11_004231";
+JAIBPP010000028.1	Genbank	exon	62460	62795	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004231-T1_mrna"; gene_id "gene-KXX11_004231";
+JAIBPP010000028.1	Genbank	exon	62849	63352	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004231-T1_mrna"; gene_id "gene-KXX11_004231";
+JAIBPP010000028.1	Genbank	exon	63401	63799	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004231-T1_mrna"; gene_id "gene-KXX11_004231";
+JAIBPP010000028.1	Genbank	exon	63854	64234	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004231-T1_mrna"; gene_id "gene-KXX11_004231";
+JAIBPP010000028.1	Genbank	CDS	60936	60950	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004231-T1_mrna"; gene_id "gene-KXX11_004231";
+JAIBPP010000028.1	Genbank	CDS	61012	61080	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004231-T1_mrna"; gene_id "gene-KXX11_004231";
+JAIBPP010000028.1	Genbank	CDS	61153	61449	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004231-T1_mrna"; gene_id "gene-KXX11_004231";
+JAIBPP010000028.1	Genbank	CDS	61509	62120	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004231-T1_mrna"; gene_id "gene-KXX11_004231";
+JAIBPP010000028.1	Genbank	CDS	62171	62404	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004231-T1_mrna"; gene_id "gene-KXX11_004231";
+JAIBPP010000028.1	Genbank	CDS	62460	62795	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004231-T1_mrna"; gene_id "gene-KXX11_004231";
+JAIBPP010000028.1	Genbank	CDS	62849	63352	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004231-T1_mrna"; gene_id "gene-KXX11_004231";
+JAIBPP010000028.1	Genbank	CDS	63401	63799	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004231-T1_mrna"; gene_id "gene-KXX11_004231";
+JAIBPP010000028.1	Genbank	CDS	63854	64234	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004231-T1_mrna"; gene_id "gene-KXX11_004231";
+JAIBPP010000280.1	Genbank	transcript	19524	21800	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004262-T1_mrna"; gene_id "gene-KXX11_004262"; gene_name "DBP7"
+JAIBPP010000280.1	Genbank	exon	19524	21800	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004262-T1_mrna"; gene_id "gene-KXX11_004262"; gene_name "DBP7";
+JAIBPP010000280.1	Genbank	CDS	19524	21800	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004262-T1_mrna"; gene_id "gene-KXX11_004262"; gene_name "DBP7";
+JAIBPP010000288.1	Genbank	transcript	20995	23073	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004374-T1_mrna"; gene_id "gene-KXX11_004374"
+JAIBPP010000288.1	Genbank	exon	20995	23073	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004374-T1_mrna"; gene_id "gene-KXX11_004374";
+JAIBPP010000288.1	Genbank	CDS	20995	23073	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004374-T1_mrna"; gene_id "gene-KXX11_004374";
+JAIBPP010000289.1	Genbank	transcript	12533	13324	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004423-T1_mrna"; gene_id "gene-KXX11_004423"; gene_name "NOP16"
+JAIBPP010000289.1	Genbank	exon	12533	12663	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004423-T1_mrna"; gene_id "gene-KXX11_004423"; gene_name "NOP16";
+JAIBPP010000289.1	Genbank	exon	12730	13324	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004423-T1_mrna"; gene_id "gene-KXX11_004423"; gene_name "NOP16";
+JAIBPP010000289.1	Genbank	CDS	12533	12663	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004423-T1_mrna"; gene_id "gene-KXX11_004423"; gene_name "NOP16";
+JAIBPP010000289.1	Genbank	CDS	12730	13324	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004423-T1_mrna"; gene_id "gene-KXX11_004423"; gene_name "NOP16";
+JAIBPP010000295.1	Genbank	transcript	14837	17468	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004506-T1_mrna"; gene_id "gene-KXX11_004506"; gene_name "ATG7"
+JAIBPP010000295.1	Genbank	exon	14837	14917	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004506-T1_mrna"; gene_id "gene-KXX11_004506"; gene_name "ATG7";
+JAIBPP010000295.1	Genbank	exon	15068	15136	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004506-T1_mrna"; gene_id "gene-KXX11_004506"; gene_name "ATG7";
+JAIBPP010000295.1	Genbank	exon	15206	15427	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004506-T1_mrna"; gene_id "gene-KXX11_004506"; gene_name "ATG7";
+JAIBPP010000295.1	Genbank	exon	15483	15950	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004506-T1_mrna"; gene_id "gene-KXX11_004506"; gene_name "ATG7";
+JAIBPP010000295.1	Genbank	exon	16006	16150	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004506-T1_mrna"; gene_id "gene-KXX11_004506"; gene_name "ATG7";
+JAIBPP010000295.1	Genbank	exon	16219	17009	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004506-T1_mrna"; gene_id "gene-KXX11_004506"; gene_name "ATG7";
+JAIBPP010000295.1	Genbank	exon	17064	17172	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004506-T1_mrna"; gene_id "gene-KXX11_004506"; gene_name "ATG7";
+JAIBPP010000295.1	Genbank	exon	17278	17468	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004506-T1_mrna"; gene_id "gene-KXX11_004506"; gene_name "ATG7";
+JAIBPP010000295.1	Genbank	CDS	14837	14917	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004506-T1_mrna"; gene_id "gene-KXX11_004506"; gene_name "ATG7";
+JAIBPP010000295.1	Genbank	CDS	15068	15136	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004506-T1_mrna"; gene_id "gene-KXX11_004506"; gene_name "ATG7";
+JAIBPP010000295.1	Genbank	CDS	15206	15427	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004506-T1_mrna"; gene_id "gene-KXX11_004506"; gene_name "ATG7";
+JAIBPP010000295.1	Genbank	CDS	15483	15950	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004506-T1_mrna"; gene_id "gene-KXX11_004506"; gene_name "ATG7";
+JAIBPP010000295.1	Genbank	CDS	16006	16150	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004506-T1_mrna"; gene_id "gene-KXX11_004506"; gene_name "ATG7";
+JAIBPP010000295.1	Genbank	CDS	16219	17009	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004506-T1_mrna"; gene_id "gene-KXX11_004506"; gene_name "ATG7";
+JAIBPP010000295.1	Genbank	CDS	17064	17172	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004506-T1_mrna"; gene_id "gene-KXX11_004506"; gene_name "ATG7";
+JAIBPP010000295.1	Genbank	CDS	17278	17468	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004506-T1_mrna"; gene_id "gene-KXX11_004506"; gene_name "ATG7";
+JAIBPP010000297.1	Genbank	transcript	20187	22177	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004538-T1_mrna"; gene_id "gene-KXX11_004538"
+JAIBPP010000297.1	Genbank	exon	20187	21068	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004538-T1_mrna"; gene_id "gene-KXX11_004538";
+JAIBPP010000297.1	Genbank	exon	21123	21623	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004538-T1_mrna"; gene_id "gene-KXX11_004538";
+JAIBPP010000297.1	Genbank	exon	21683	21697	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004538-T1_mrna"; gene_id "gene-KXX11_004538";
+JAIBPP010000297.1	Genbank	exon	21766	21910	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004538-T1_mrna"; gene_id "gene-KXX11_004538";
+JAIBPP010000297.1	Genbank	exon	22006	22019	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004538-T1_mrna"; gene_id "gene-KXX11_004538";
+JAIBPP010000297.1	Genbank	exon	22085	22177	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004538-T1_mrna"; gene_id "gene-KXX11_004538";
+JAIBPP010000297.1	Genbank	CDS	20187	21068	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004538-T1_mrna"; gene_id "gene-KXX11_004538";
+JAIBPP010000297.1	Genbank	CDS	21123	21623	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004538-T1_mrna"; gene_id "gene-KXX11_004538";
+JAIBPP010000297.1	Genbank	CDS	21683	21697	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004538-T1_mrna"; gene_id "gene-KXX11_004538";
+JAIBPP010000297.1	Genbank	CDS	21766	21910	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004538-T1_mrna"; gene_id "gene-KXX11_004538";
+JAIBPP010000297.1	Genbank	CDS	22006	22019	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004538-T1_mrna"; gene_id "gene-KXX11_004538";
+JAIBPP010000297.1	Genbank	CDS	22085	22177	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004538-T1_mrna"; gene_id "gene-KXX11_004538";
+JAIBPP010000003.1	Genbank	transcript	109195	110289	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004588-T1_mrna"; gene_id "gene-KXX11_004588"
+JAIBPP010000003.1	Genbank	exon	109195	110162	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004588-T1_mrna"; gene_id "gene-KXX11_004588";
+JAIBPP010000003.1	Genbank	exon	110223	110289	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004588-T1_mrna"; gene_id "gene-KXX11_004588";
+JAIBPP010000003.1	Genbank	CDS	109195	110162	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004588-T1_mrna"; gene_id "gene-KXX11_004588";
+JAIBPP010000003.1	Genbank	CDS	110223	110289	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004588-T1_mrna"; gene_id "gene-KXX11_004588";
+JAIBPP010000030.1	Genbank	transcript	59212	60043	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004614-T1_mrna"; gene_id "gene-KXX11_004614"
+JAIBPP010000030.1	Genbank	exon	59212	59405	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004614-T1_mrna"; gene_id "gene-KXX11_004614";
+JAIBPP010000030.1	Genbank	exon	59494	60043	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004614-T1_mrna"; gene_id "gene-KXX11_004614";
+JAIBPP010000030.1	Genbank	CDS	59212	59405	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004614-T1_mrna"; gene_id "gene-KXX11_004614";
+JAIBPP010000030.1	Genbank	CDS	59494	60043	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004614-T1_mrna"; gene_id "gene-KXX11_004614";
+JAIBPP010000030.1	Genbank	transcript	62498	63047	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004616-T1_mrna"; gene_id "gene-KXX11_004616"
+JAIBPP010000030.1	Genbank	exon	62498	62536	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004616-T1_mrna"; gene_id "gene-KXX11_004616";
+JAIBPP010000030.1	Genbank	exon	62605	62687	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004616-T1_mrna"; gene_id "gene-KXX11_004616";
+JAIBPP010000030.1	Genbank	exon	62756	63047	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004616-T1_mrna"; gene_id "gene-KXX11_004616";
+JAIBPP010000030.1	Genbank	CDS	62498	62536	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004616-T1_mrna"; gene_id "gene-KXX11_004616";
+JAIBPP010000030.1	Genbank	CDS	62605	62687	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004616-T1_mrna"; gene_id "gene-KXX11_004616";
+JAIBPP010000030.1	Genbank	CDS	62756	63047	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004616-T1_mrna"; gene_id "gene-KXX11_004616";
+JAIBPP010000301.1	Genbank	transcript	23604	26000	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004654-T1_mrna"; gene_id "gene-KXX11_004654"; gene_name "ERB1"
+JAIBPP010000301.1	Genbank	exon	23604	26000	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004654-T1_mrna"; gene_id "gene-KXX11_004654"; gene_name "ERB1";
+JAIBPP010000301.1	Genbank	CDS	23604	26000	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004654-T1_mrna"; gene_id "gene-KXX11_004654"; gene_name "ERB1";
+JAIBPP010000033.1	Genbank	transcript	10369	11877	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004982-T1_mrna"; gene_id "gene-KXX11_004982"; gene_name "TRM61"
+JAIBPP010000033.1	Genbank	exon	10369	11877	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004982-T1_mrna"; gene_id "gene-KXX11_004982"; gene_name "TRM61";
+JAIBPP010000033.1	Genbank	CDS	10369	11877	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_004982-T1_mrna"; gene_id "gene-KXX11_004982"; gene_name "TRM61";
+JAIBPP010000333.1	Genbank	transcript	4196	5459	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005056-T1_mrna"; gene_id "gene-KXX11_005056"
+JAIBPP010000333.1	Genbank	exon	4196	4416	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005056-T1_mrna"; gene_id "gene-KXX11_005056";
+JAIBPP010000333.1	Genbank	exon	4508	5459	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005056-T1_mrna"; gene_id "gene-KXX11_005056";
+JAIBPP010000333.1	Genbank	CDS	4196	4416	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005056-T1_mrna"; gene_id "gene-KXX11_005056";
+JAIBPP010000333.1	Genbank	CDS	4508	5459	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005056-T1_mrna"; gene_id "gene-KXX11_005056";
+JAIBPP010000034.1	Genbank	transcript	53667	54383	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005122-T1_mrna"; gene_id "gene-KXX11_005122"
+JAIBPP010000034.1	Genbank	exon	53667	53698	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005122-T1_mrna"; gene_id "gene-KXX11_005122";
+JAIBPP010000034.1	Genbank	exon	53772	54132	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005122-T1_mrna"; gene_id "gene-KXX11_005122";
+JAIBPP010000034.1	Genbank	exon	54210	54383	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005122-T1_mrna"; gene_id "gene-KXX11_005122";
+JAIBPP010000034.1	Genbank	CDS	53667	53698	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005122-T1_mrna"; gene_id "gene-KXX11_005122";
+JAIBPP010000034.1	Genbank	CDS	53772	54132	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005122-T1_mrna"; gene_id "gene-KXX11_005122";
+JAIBPP010000034.1	Genbank	CDS	54210	54383	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005122-T1_mrna"; gene_id "gene-KXX11_005122";
+JAIBPP010000375.1	Genbank	transcript	47	1968	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005531-T1_mrna"; gene_id "gene-KXX11_005531"
+JAIBPP010000375.1	Genbank	exon	47	1775	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005531-T1_mrna"; gene_id "gene-KXX11_005531";
+JAIBPP010000375.1	Genbank	exon	1827	1968	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005531-T1_mrna"; gene_id "gene-KXX11_005531";
+JAIBPP010000375.1	Genbank	CDS	47	1775	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005531-T1_mrna"; gene_id "gene-KXX11_005531";
+JAIBPP010000375.1	Genbank	CDS	1827	1968	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005531-T1_mrna"; gene_id "gene-KXX11_005531";
+JAIBPP010000381.1	Genbank	transcript	5655	7521	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005606-T1_mrna"; gene_id "gene-KXX11_005606"; gene_name "SWC4"
+JAIBPP010000381.1	Genbank	exon	5655	5748	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005606-T1_mrna"; gene_id "gene-KXX11_005606"; gene_name "SWC4";
+JAIBPP010000381.1	Genbank	exon	5807	5924	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005606-T1_mrna"; gene_id "gene-KXX11_005606"; gene_name "SWC4";
+JAIBPP010000381.1	Genbank	exon	5988	7521	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005606-T1_mrna"; gene_id "gene-KXX11_005606"; gene_name "SWC4";
+JAIBPP010000381.1	Genbank	CDS	5655	5748	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005606-T1_mrna"; gene_id "gene-KXX11_005606"; gene_name "SWC4";
+JAIBPP010000381.1	Genbank	CDS	5807	5924	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005606-T1_mrna"; gene_id "gene-KXX11_005606"; gene_name "SWC4";
+JAIBPP010000381.1	Genbank	CDS	5988	7521	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005606-T1_mrna"; gene_id "gene-KXX11_005606"; gene_name "SWC4";
+JAIBPP010000039.1	Genbank	transcript	49752	52072	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005680-T1_mrna"; gene_id "gene-KXX11_005680"; gene_name "COG6"
+JAIBPP010000039.1	Genbank	exon	49752	51713	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005680-T1_mrna"; gene_id "gene-KXX11_005680"; gene_name "COG6";
+JAIBPP010000039.1	Genbank	exon	51776	52072	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005680-T1_mrna"; gene_id "gene-KXX11_005680"; gene_name "COG6";
+JAIBPP010000039.1	Genbank	CDS	49752	51713	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005680-T1_mrna"; gene_id "gene-KXX11_005680"; gene_name "COG6";
+JAIBPP010000039.1	Genbank	CDS	51776	52072	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005680-T1_mrna"; gene_id "gene-KXX11_005680"; gene_name "COG6";
+JAIBPP010000390.1	Genbank	transcript	8400	9515	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005700-T1_mrna"; gene_id "gene-KXX11_005700"; gene_name "ATG3"
+JAIBPP010000390.1	Genbank	exon	8400	8923	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005700-T1_mrna"; gene_id "gene-KXX11_005700"; gene_name "ATG3";
+JAIBPP010000390.1	Genbank	exon	8978	9515	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005700-T1_mrna"; gene_id "gene-KXX11_005700"; gene_name "ATG3";
+JAIBPP010000390.1	Genbank	CDS	8400	8923	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005700-T1_mrna"; gene_id "gene-KXX11_005700"; gene_name "ATG3";
+JAIBPP010000390.1	Genbank	CDS	8978	9515	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_005700-T1_mrna"; gene_id "gene-KXX11_005700"; gene_name "ATG3";
+JAIBPP010000414.1	Genbank	transcript	15440	16340	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006003-T1_mrna"; gene_id "gene-KXX11_006003"; gene_name "GAR1_2"
+JAIBPP010000414.1	Genbank	exon	15440	15515	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006003-T1_mrna"; gene_id "gene-KXX11_006003"; gene_name "GAR1_2";
+JAIBPP010000414.1	Genbank	exon	15579	15626	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006003-T1_mrna"; gene_id "gene-KXX11_006003"; gene_name "GAR1_2";
+JAIBPP010000414.1	Genbank	exon	15685	15785	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006003-T1_mrna"; gene_id "gene-KXX11_006003"; gene_name "GAR1_2";
+JAIBPP010000414.1	Genbank	exon	15848	15993	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006003-T1_mrna"; gene_id "gene-KXX11_006003"; gene_name "GAR1_2";
+JAIBPP010000414.1	Genbank	exon	16051	16079	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006003-T1_mrna"; gene_id "gene-KXX11_006003"; gene_name "GAR1_2";
+JAIBPP010000414.1	Genbank	exon	16132	16340	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006003-T1_mrna"; gene_id "gene-KXX11_006003"; gene_name "GAR1_2";
+JAIBPP010000414.1	Genbank	CDS	15440	15515	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006003-T1_mrna"; gene_id "gene-KXX11_006003"; gene_name "GAR1_2";
+JAIBPP010000414.1	Genbank	CDS	15579	15626	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006003-T1_mrna"; gene_id "gene-KXX11_006003"; gene_name "GAR1_2";
+JAIBPP010000414.1	Genbank	CDS	15685	15785	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006003-T1_mrna"; gene_id "gene-KXX11_006003"; gene_name "GAR1_2";
+JAIBPP010000414.1	Genbank	CDS	15848	15993	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006003-T1_mrna"; gene_id "gene-KXX11_006003"; gene_name "GAR1_2";
+JAIBPP010000414.1	Genbank	CDS	16051	16079	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006003-T1_mrna"; gene_id "gene-KXX11_006003"; gene_name "GAR1_2";
+JAIBPP010000414.1	Genbank	CDS	16132	16340	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006003-T1_mrna"; gene_id "gene-KXX11_006003"; gene_name "GAR1_2";
+JAIBPP010000432.1	Genbank	transcript	3652	4913	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006185-T1_mrna"; gene_id "gene-KXX11_006185"
+JAIBPP010000432.1	Genbank	exon	3652	4269	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006185-T1_mrna"; gene_id "gene-KXX11_006185";
+JAIBPP010000432.1	Genbank	exon	4320	4913	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006185-T1_mrna"; gene_id "gene-KXX11_006185";
+JAIBPP010000432.1	Genbank	CDS	3652	4269	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006185-T1_mrna"; gene_id "gene-KXX11_006185";
+JAIBPP010000432.1	Genbank	CDS	4320	4913	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006185-T1_mrna"; gene_id "gene-KXX11_006185";
+JAIBPP010000438.1	Genbank	transcript	5762	7401	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006226-T1_mrna"; gene_id "gene-KXX11_006226"; gene_name "CSN12"
+JAIBPP010000438.1	Genbank	exon	5762	5848	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006226-T1_mrna"; gene_id "gene-KXX11_006226"; gene_name "CSN12";
+JAIBPP010000438.1	Genbank	exon	5903	6323	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006226-T1_mrna"; gene_id "gene-KXX11_006226"; gene_name "CSN12";
+JAIBPP010000438.1	Genbank	exon	6373	6434	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006226-T1_mrna"; gene_id "gene-KXX11_006226"; gene_name "CSN12";
+JAIBPP010000438.1	Genbank	exon	6497	6649	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006226-T1_mrna"; gene_id "gene-KXX11_006226"; gene_name "CSN12";
+JAIBPP010000438.1	Genbank	exon	6698	6770	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006226-T1_mrna"; gene_id "gene-KXX11_006226"; gene_name "CSN12";
+JAIBPP010000438.1	Genbank	exon	6830	7401	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006226-T1_mrna"; gene_id "gene-KXX11_006226"; gene_name "CSN12";
+JAIBPP010000438.1	Genbank	CDS	5762	5848	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006226-T1_mrna"; gene_id "gene-KXX11_006226"; gene_name "CSN12";
+JAIBPP010000438.1	Genbank	CDS	5903	6323	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006226-T1_mrna"; gene_id "gene-KXX11_006226"; gene_name "CSN12";
+JAIBPP010000438.1	Genbank	CDS	6373	6434	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006226-T1_mrna"; gene_id "gene-KXX11_006226"; gene_name "CSN12";
+JAIBPP010000438.1	Genbank	CDS	6497	6649	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006226-T1_mrna"; gene_id "gene-KXX11_006226"; gene_name "CSN12";
+JAIBPP010000438.1	Genbank	CDS	6698	6770	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006226-T1_mrna"; gene_id "gene-KXX11_006226"; gene_name "CSN12";
+JAIBPP010000438.1	Genbank	CDS	6830	7401	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006226-T1_mrna"; gene_id "gene-KXX11_006226"; gene_name "CSN12";
+JAIBPP010000044.1	Genbank	transcript	15935	16881	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006238-T1_mrna"; gene_id "gene-KXX11_006238"
+JAIBPP010000044.1	Genbank	exon	15935	15946	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006238-T1_mrna"; gene_id "gene-KXX11_006238";
+JAIBPP010000044.1	Genbank	exon	16021	16119	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006238-T1_mrna"; gene_id "gene-KXX11_006238";
+JAIBPP010000044.1	Genbank	exon	16183	16279	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006238-T1_mrna"; gene_id "gene-KXX11_006238";
+JAIBPP010000044.1	Genbank	exon	16335	16421	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006238-T1_mrna"; gene_id "gene-KXX11_006238";
+JAIBPP010000044.1	Genbank	exon	16476	16539	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006238-T1_mrna"; gene_id "gene-KXX11_006238";
+JAIBPP010000044.1	Genbank	exon	16598	16775	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006238-T1_mrna"; gene_id "gene-KXX11_006238";
+JAIBPP010000044.1	Genbank	exon	16837	16881	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006238-T1_mrna"; gene_id "gene-KXX11_006238";
+JAIBPP010000044.1	Genbank	CDS	15935	15946	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006238-T1_mrna"; gene_id "gene-KXX11_006238";
+JAIBPP010000044.1	Genbank	CDS	16021	16119	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006238-T1_mrna"; gene_id "gene-KXX11_006238";
+JAIBPP010000044.1	Genbank	CDS	16183	16279	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006238-T1_mrna"; gene_id "gene-KXX11_006238";
+JAIBPP010000044.1	Genbank	CDS	16335	16421	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006238-T1_mrna"; gene_id "gene-KXX11_006238";
+JAIBPP010000044.1	Genbank	CDS	16476	16539	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006238-T1_mrna"; gene_id "gene-KXX11_006238";
+JAIBPP010000044.1	Genbank	CDS	16598	16775	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006238-T1_mrna"; gene_id "gene-KXX11_006238";
+JAIBPP010000044.1	Genbank	CDS	16837	16881	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006238-T1_mrna"; gene_id "gene-KXX11_006238";
+JAIBPP010000044.1	Genbank	transcript	56324	59132	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006252-T1_mrna"; gene_id "gene-KXX11_006252"
+JAIBPP010000044.1	Genbank	exon	56324	56611	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006252-T1_mrna"; gene_id "gene-KXX11_006252";
+JAIBPP010000044.1	Genbank	exon	56679	59132	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006252-T1_mrna"; gene_id "gene-KXX11_006252";
+JAIBPP010000044.1	Genbank	CDS	56324	56611	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006252-T1_mrna"; gene_id "gene-KXX11_006252";
+JAIBPP010000044.1	Genbank	CDS	56679	59132	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006252-T1_mrna"; gene_id "gene-KXX11_006252";
+JAIBPP010000442.1	Genbank	transcript	15155	16757	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006283-T1_mrna"; gene_id "gene-KXX11_006283"
+JAIBPP010000442.1	Genbank	exon	15155	16028	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006283-T1_mrna"; gene_id "gene-KXX11_006283";
+JAIBPP010000442.1	Genbank	exon	16085	16326	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006283-T1_mrna"; gene_id "gene-KXX11_006283";
+JAIBPP010000442.1	Genbank	exon	16380	16757	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006283-T1_mrna"; gene_id "gene-KXX11_006283";
+JAIBPP010000442.1	Genbank	CDS	15155	16028	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006283-T1_mrna"; gene_id "gene-KXX11_006283";
+JAIBPP010000442.1	Genbank	CDS	16085	16326	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006283-T1_mrna"; gene_id "gene-KXX11_006283";
+JAIBPP010000442.1	Genbank	CDS	16380	16757	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006283-T1_mrna"; gene_id "gene-KXX11_006283";
+JAIBPP010000444.1	Genbank	transcript	12645	14787	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006293-T1_mrna"; gene_id "gene-KXX11_006293"
+JAIBPP010000444.1	Genbank	exon	12645	12965	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006293-T1_mrna"; gene_id "gene-KXX11_006293";
+JAIBPP010000444.1	Genbank	exon	13053	13326	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006293-T1_mrna"; gene_id "gene-KXX11_006293";
+JAIBPP010000444.1	Genbank	exon	13384	13528	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006293-T1_mrna"; gene_id "gene-KXX11_006293";
+JAIBPP010000444.1	Genbank	exon	13584	14787	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006293-T1_mrna"; gene_id "gene-KXX11_006293";
+JAIBPP010000444.1	Genbank	CDS	12645	12965	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006293-T1_mrna"; gene_id "gene-KXX11_006293";
+JAIBPP010000444.1	Genbank	CDS	13053	13326	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006293-T1_mrna"; gene_id "gene-KXX11_006293";
+JAIBPP010000444.1	Genbank	CDS	13384	13528	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006293-T1_mrna"; gene_id "gene-KXX11_006293";
+JAIBPP010000444.1	Genbank	CDS	13584	14787	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006293-T1_mrna"; gene_id "gene-KXX11_006293";
+JAIBPP010000450.1	Genbank	transcript	4482	6074	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006361-T1_mrna"; gene_id "gene-KXX11_006361"
+JAIBPP010000450.1	Genbank	exon	4482	5353	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006361-T1_mrna"; gene_id "gene-KXX11_006361";
+JAIBPP010000450.1	Genbank	exon	5441	6074	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006361-T1_mrna"; gene_id "gene-KXX11_006361";
+JAIBPP010000450.1	Genbank	CDS	4482	5353	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006361-T1_mrna"; gene_id "gene-KXX11_006361";
+JAIBPP010000450.1	Genbank	CDS	5441	6074	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006361-T1_mrna"; gene_id "gene-KXX11_006361";
+JAIBPP010000466.1	Genbank	transcript	3988	6989	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006509-T1_mrna"; gene_id "gene-KXX11_006509"
+JAIBPP010000466.1	Genbank	exon	3988	4031	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006509-T1_mrna"; gene_id "gene-KXX11_006509";
+JAIBPP010000466.1	Genbank	exon	4098	4281	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006509-T1_mrna"; gene_id "gene-KXX11_006509";
+JAIBPP010000466.1	Genbank	exon	4340	4471	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006509-T1_mrna"; gene_id "gene-KXX11_006509";
+JAIBPP010000466.1	Genbank	exon	4519	5461	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006509-T1_mrna"; gene_id "gene-KXX11_006509";
+JAIBPP010000466.1	Genbank	exon	5510	5773	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006509-T1_mrna"; gene_id "gene-KXX11_006509";
+JAIBPP010000466.1	Genbank	exon	6048	6071	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006509-T1_mrna"; gene_id "gene-KXX11_006509";
+JAIBPP010000466.1	Genbank	exon	6151	6230	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006509-T1_mrna"; gene_id "gene-KXX11_006509";
+JAIBPP010000466.1	Genbank	exon	6291	6989	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006509-T1_mrna"; gene_id "gene-KXX11_006509";
+JAIBPP010000466.1	Genbank	CDS	3988	4031	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006509-T1_mrna"; gene_id "gene-KXX11_006509";
+JAIBPP010000466.1	Genbank	CDS	4098	4281	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006509-T1_mrna"; gene_id "gene-KXX11_006509";
+JAIBPP010000466.1	Genbank	CDS	4340	4471	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006509-T1_mrna"; gene_id "gene-KXX11_006509";
+JAIBPP010000466.1	Genbank	CDS	4519	5461	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006509-T1_mrna"; gene_id "gene-KXX11_006509";
+JAIBPP010000466.1	Genbank	CDS	5510	5773	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006509-T1_mrna"; gene_id "gene-KXX11_006509";
+JAIBPP010000466.1	Genbank	CDS	6048	6071	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006509-T1_mrna"; gene_id "gene-KXX11_006509";
+JAIBPP010000466.1	Genbank	CDS	6151	6230	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006509-T1_mrna"; gene_id "gene-KXX11_006509";
+JAIBPP010000466.1	Genbank	CDS	6291	6989	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006509-T1_mrna"; gene_id "gene-KXX11_006509";
+JAIBPP010000479.1	Genbank	transcript	2471	4736	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006650-T1_mrna"; gene_id "gene-KXX11_006650"
+JAIBPP010000479.1	Genbank	exon	2471	2534	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006650-T1_mrna"; gene_id "gene-KXX11_006650";
+JAIBPP010000479.1	Genbank	exon	2611	4736	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006650-T1_mrna"; gene_id "gene-KXX11_006650";
+JAIBPP010000479.1	Genbank	CDS	2471	2534	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006650-T1_mrna"; gene_id "gene-KXX11_006650";
+JAIBPP010000479.1	Genbank	CDS	2611	4736	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006650-T1_mrna"; gene_id "gene-KXX11_006650";
+JAIBPP010000481.1	Genbank	transcript	149	1444	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006662-T1_mrna"; gene_id "gene-KXX11_006662"
+JAIBPP010000481.1	Genbank	exon	149	448	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006662-T1_mrna"; gene_id "gene-KXX11_006662";
+JAIBPP010000481.1	Genbank	exon	510	893	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006662-T1_mrna"; gene_id "gene-KXX11_006662";
+JAIBPP010000481.1	Genbank	exon	953	1117	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006662-T1_mrna"; gene_id "gene-KXX11_006662";
+JAIBPP010000481.1	Genbank	exon	1186	1276	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006662-T1_mrna"; gene_id "gene-KXX11_006662";
+JAIBPP010000481.1	Genbank	exon	1341	1444	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006662-T1_mrna"; gene_id "gene-KXX11_006662";
+JAIBPP010000481.1	Genbank	CDS	149	448	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006662-T1_mrna"; gene_id "gene-KXX11_006662";
+JAIBPP010000481.1	Genbank	CDS	510	893	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006662-T1_mrna"; gene_id "gene-KXX11_006662";
+JAIBPP010000481.1	Genbank	CDS	953	1117	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006662-T1_mrna"; gene_id "gene-KXX11_006662";
+JAIBPP010000481.1	Genbank	CDS	1186	1276	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006662-T1_mrna"; gene_id "gene-KXX11_006662";
+JAIBPP010000481.1	Genbank	CDS	1341	1444	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006662-T1_mrna"; gene_id "gene-KXX11_006662";
+JAIBPP010000049.1	Genbank	transcript	17966	21223	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006736-T1_mrna"; gene_id "gene-KXX11_006736"
+JAIBPP010000049.1	Genbank	exon	17966	19799	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006736-T1_mrna"; gene_id "gene-KXX11_006736";
+JAIBPP010000049.1	Genbank	exon	19849	20096	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006736-T1_mrna"; gene_id "gene-KXX11_006736";
+JAIBPP010000049.1	Genbank	exon	20146	20641	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006736-T1_mrna"; gene_id "gene-KXX11_006736";
+JAIBPP010000049.1	Genbank	exon	20714	20961	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006736-T1_mrna"; gene_id "gene-KXX11_006736";
+JAIBPP010000049.1	Genbank	exon	21134	21223	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006736-T1_mrna"; gene_id "gene-KXX11_006736";
+JAIBPP010000049.1	Genbank	CDS	17966	19799	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006736-T1_mrna"; gene_id "gene-KXX11_006736";
+JAIBPP010000049.1	Genbank	CDS	19849	20096	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006736-T1_mrna"; gene_id "gene-KXX11_006736";
+JAIBPP010000049.1	Genbank	CDS	20146	20641	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006736-T1_mrna"; gene_id "gene-KXX11_006736";
+JAIBPP010000049.1	Genbank	CDS	20714	20961	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006736-T1_mrna"; gene_id "gene-KXX11_006736";
+JAIBPP010000049.1	Genbank	CDS	21134	21223	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006736-T1_mrna"; gene_id "gene-KXX11_006736";
+JAIBPP010000489.1	Genbank	transcript	12383	13791	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006752-T1_mrna"; gene_id "gene-KXX11_006752"; gene_name "DPH1"
+JAIBPP010000489.1	Genbank	exon	12383	13542	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006752-T1_mrna"; gene_id "gene-KXX11_006752"; gene_name "DPH1";
+JAIBPP010000489.1	Genbank	exon	13614	13791	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006752-T1_mrna"; gene_id "gene-KXX11_006752"; gene_name "DPH1";
+JAIBPP010000489.1	Genbank	CDS	12383	13542	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006752-T1_mrna"; gene_id "gene-KXX11_006752"; gene_name "DPH1";
+JAIBPP010000489.1	Genbank	CDS	13614	13791	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006752-T1_mrna"; gene_id "gene-KXX11_006752"; gene_name "DPH1";
+JAIBPP010000497.1	Genbank	transcript	7551	10304	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006813-T1_mrna"; gene_id "gene-KXX11_006813"
+JAIBPP010000497.1	Genbank	exon	7551	9731	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006813-T1_mrna"; gene_id "gene-KXX11_006813";
+JAIBPP010000497.1	Genbank	exon	9795	10304	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006813-T1_mrna"; gene_id "gene-KXX11_006813";
+JAIBPP010000497.1	Genbank	CDS	7551	9731	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006813-T1_mrna"; gene_id "gene-KXX11_006813";
+JAIBPP010000497.1	Genbank	CDS	9795	10304	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006813-T1_mrna"; gene_id "gene-KXX11_006813";
+JAIBPP010000050.1	Genbank	transcript	28406	29620	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006874-T1_mrna"; gene_id "gene-KXX11_006874"
+JAIBPP010000050.1	Genbank	exon	28406	28635	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006874-T1_mrna"; gene_id "gene-KXX11_006874";
+JAIBPP010000050.1	Genbank	exon	28721	29056	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006874-T1_mrna"; gene_id "gene-KXX11_006874";
+JAIBPP010000050.1	Genbank	exon	29121	29464	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006874-T1_mrna"; gene_id "gene-KXX11_006874";
+JAIBPP010000050.1	Genbank	exon	29520	29620	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006874-T1_mrna"; gene_id "gene-KXX11_006874";
+JAIBPP010000050.1	Genbank	CDS	28406	28635	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006874-T1_mrna"; gene_id "gene-KXX11_006874";
+JAIBPP010000050.1	Genbank	CDS	28721	29056	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006874-T1_mrna"; gene_id "gene-KXX11_006874";
+JAIBPP010000050.1	Genbank	CDS	29121	29464	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006874-T1_mrna"; gene_id "gene-KXX11_006874";
+JAIBPP010000050.1	Genbank	CDS	29520	29620	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_006874-T1_mrna"; gene_id "gene-KXX11_006874";
+JAIBPP010000053.1	Genbank	transcript	42084	43592	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007146-T1_mrna"; gene_id "gene-KXX11_007146"
+JAIBPP010000053.1	Genbank	exon	42084	42181	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007146-T1_mrna"; gene_id "gene-KXX11_007146";
+JAIBPP010000053.1	Genbank	exon	42243	42315	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007146-T1_mrna"; gene_id "gene-KXX11_007146";
+JAIBPP010000053.1	Genbank	exon	42367	42538	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007146-T1_mrna"; gene_id "gene-KXX11_007146";
+JAIBPP010000053.1	Genbank	exon	42604	43456	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007146-T1_mrna"; gene_id "gene-KXX11_007146";
+JAIBPP010000053.1	Genbank	exon	43520	43592	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007146-T1_mrna"; gene_id "gene-KXX11_007146";
+JAIBPP010000053.1	Genbank	CDS	42084	42181	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007146-T1_mrna"; gene_id "gene-KXX11_007146";
+JAIBPP010000053.1	Genbank	CDS	42243	42315	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007146-T1_mrna"; gene_id "gene-KXX11_007146";
+JAIBPP010000053.1	Genbank	CDS	42367	42538	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007146-T1_mrna"; gene_id "gene-KXX11_007146";
+JAIBPP010000053.1	Genbank	CDS	42604	43456	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007146-T1_mrna"; gene_id "gene-KXX11_007146";
+JAIBPP010000053.1	Genbank	CDS	43520	43592	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007146-T1_mrna"; gene_id "gene-KXX11_007146";
+JAIBPP010000547.1	Genbank	transcript	10891	11692	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007280-T1_mrna"; gene_id "gene-KXX11_007280"; gene_name "PSF1"
+JAIBPP010000547.1	Genbank	exon	10891	10917	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007280-T1_mrna"; gene_id "gene-KXX11_007280"; gene_name "PSF1";
+JAIBPP010000547.1	Genbank	exon	10978	11504	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007280-T1_mrna"; gene_id "gene-KXX11_007280"; gene_name "PSF1";
+JAIBPP010000547.1	Genbank	exon	11599	11692	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007280-T1_mrna"; gene_id "gene-KXX11_007280"; gene_name "PSF1";
+JAIBPP010000547.1	Genbank	CDS	10891	10917	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007280-T1_mrna"; gene_id "gene-KXX11_007280"; gene_name "PSF1";
+JAIBPP010000547.1	Genbank	CDS	10978	11504	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007280-T1_mrna"; gene_id "gene-KXX11_007280"; gene_name "PSF1";
+JAIBPP010000547.1	Genbank	CDS	11599	11692	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007280-T1_mrna"; gene_id "gene-KXX11_007280"; gene_name "PSF1";
+JAIBPP010000556.1	Genbank	transcript	9505	10929	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007357-T1_mrna"; gene_id "gene-KXX11_007357"; gene_name "FYV10"
+JAIBPP010000556.1	Genbank	exon	9505	9936	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007357-T1_mrna"; gene_id "gene-KXX11_007357"; gene_name "FYV10";
+JAIBPP010000556.1	Genbank	exon	10007	10201	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007357-T1_mrna"; gene_id "gene-KXX11_007357"; gene_name "FYV10";
+JAIBPP010000556.1	Genbank	exon	10272	10811	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007357-T1_mrna"; gene_id "gene-KXX11_007357"; gene_name "FYV10";
+JAIBPP010000556.1	Genbank	exon	10876	10929	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007357-T1_mrna"; gene_id "gene-KXX11_007357"; gene_name "FYV10";
+JAIBPP010000556.1	Genbank	CDS	9505	9936	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007357-T1_mrna"; gene_id "gene-KXX11_007357"; gene_name "FYV10";
+JAIBPP010000556.1	Genbank	CDS	10007	10201	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007357-T1_mrna"; gene_id "gene-KXX11_007357"; gene_name "FYV10";
+JAIBPP010000556.1	Genbank	CDS	10272	10811	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007357-T1_mrna"; gene_id "gene-KXX11_007357"; gene_name "FYV10";
+JAIBPP010000556.1	Genbank	CDS	10876	10929	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007357-T1_mrna"; gene_id "gene-KXX11_007357"; gene_name "FYV10";
+JAIBPP010000056.1	Genbank	transcript	23542	25508	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007381-T1_mrna"; gene_id "gene-KXX11_007381"
+JAIBPP010000056.1	Genbank	exon	23542	23732	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007381-T1_mrna"; gene_id "gene-KXX11_007381";
+JAIBPP010000056.1	Genbank	exon	23807	24946	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007381-T1_mrna"; gene_id "gene-KXX11_007381";
+JAIBPP010000056.1	Genbank	exon	25004	25508	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007381-T1_mrna"; gene_id "gene-KXX11_007381";
+JAIBPP010000056.1	Genbank	CDS	23542	23732	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007381-T1_mrna"; gene_id "gene-KXX11_007381";
+JAIBPP010000056.1	Genbank	CDS	23807	24946	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007381-T1_mrna"; gene_id "gene-KXX11_007381";
+JAIBPP010000056.1	Genbank	CDS	25004	25508	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007381-T1_mrna"; gene_id "gene-KXX11_007381";
+JAIBPP010000576.1	Genbank	transcript	15173	16014	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007528-T1_mrna"; gene_id "gene-KXX11_007528"
+JAIBPP010000576.1	Genbank	exon	15173	15642	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007528-T1_mrna"; gene_id "gene-KXX11_007528";
+JAIBPP010000576.1	Genbank	exon	15702	16014	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007528-T1_mrna"; gene_id "gene-KXX11_007528";
+JAIBPP010000576.1	Genbank	CDS	15173	15642	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007528-T1_mrna"; gene_id "gene-KXX11_007528";
+JAIBPP010000576.1	Genbank	CDS	15702	16014	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007528-T1_mrna"; gene_id "gene-KXX11_007528";
+JAIBPP010000058.1	Genbank	transcript	4179	6996	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007537-T1_mrna"; gene_id "gene-KXX11_007537"
+JAIBPP010000058.1	Genbank	exon	4179	4630	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007537-T1_mrna"; gene_id "gene-KXX11_007537";
+JAIBPP010000058.1	Genbank	exon	4692	4810	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007537-T1_mrna"; gene_id "gene-KXX11_007537";
+JAIBPP010000058.1	Genbank	exon	4860	4975	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007537-T1_mrna"; gene_id "gene-KXX11_007537";
+JAIBPP010000058.1	Genbank	exon	5043	5123	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007537-T1_mrna"; gene_id "gene-KXX11_007537";
+JAIBPP010000058.1	Genbank	exon	5172	5269	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007537-T1_mrna"; gene_id "gene-KXX11_007537";
+JAIBPP010000058.1	Genbank	exon	5969	6091	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007537-T1_mrna"; gene_id "gene-KXX11_007537";
+JAIBPP010000058.1	Genbank	exon	6170	6594	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007537-T1_mrna"; gene_id "gene-KXX11_007537";
+JAIBPP010000058.1	Genbank	exon	6657	6701	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007537-T1_mrna"; gene_id "gene-KXX11_007537";
+JAIBPP010000058.1	Genbank	exon	6776	6879	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007537-T1_mrna"; gene_id "gene-KXX11_007537";
+JAIBPP010000058.1	Genbank	exon	6943	6996	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007537-T1_mrna"; gene_id "gene-KXX11_007537";
+JAIBPP010000058.1	Genbank	CDS	4179	4630	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007537-T1_mrna"; gene_id "gene-KXX11_007537";
+JAIBPP010000058.1	Genbank	CDS	4692	4810	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007537-T1_mrna"; gene_id "gene-KXX11_007537";
+JAIBPP010000058.1	Genbank	CDS	4860	4975	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007537-T1_mrna"; gene_id "gene-KXX11_007537";
+JAIBPP010000058.1	Genbank	CDS	5043	5123	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007537-T1_mrna"; gene_id "gene-KXX11_007537";
+JAIBPP010000058.1	Genbank	CDS	5172	5269	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007537-T1_mrna"; gene_id "gene-KXX11_007537";
+JAIBPP010000058.1	Genbank	CDS	5969	6091	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007537-T1_mrna"; gene_id "gene-KXX11_007537";
+JAIBPP010000058.1	Genbank	CDS	6170	6594	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007537-T1_mrna"; gene_id "gene-KXX11_007537";
+JAIBPP010000058.1	Genbank	CDS	6657	6701	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007537-T1_mrna"; gene_id "gene-KXX11_007537";
+JAIBPP010000058.1	Genbank	CDS	6776	6879	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007537-T1_mrna"; gene_id "gene-KXX11_007537";
+JAIBPP010000058.1	Genbank	CDS	6943	6996	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007537-T1_mrna"; gene_id "gene-KXX11_007537";
+JAIBPP010000058.1	Genbank	transcript	54782	57731	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007554-T1_mrna"; gene_id "gene-KXX11_007554"
+JAIBPP010000058.1	Genbank	exon	54782	55677	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007554-T1_mrna"; gene_id "gene-KXX11_007554";
+JAIBPP010000058.1	Genbank	exon	55750	55931	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007554-T1_mrna"; gene_id "gene-KXX11_007554";
+JAIBPP010000058.1	Genbank	exon	55985	56871	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007554-T1_mrna"; gene_id "gene-KXX11_007554";
+JAIBPP010000058.1	Genbank	exon	56939	57206	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007554-T1_mrna"; gene_id "gene-KXX11_007554";
+JAIBPP010000058.1	Genbank	exon	57284	57390	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007554-T1_mrna"; gene_id "gene-KXX11_007554";
+JAIBPP010000058.1	Genbank	exon	57467	57561	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007554-T1_mrna"; gene_id "gene-KXX11_007554";
+JAIBPP010000058.1	Genbank	exon	57668	57731	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007554-T1_mrna"; gene_id "gene-KXX11_007554";
+JAIBPP010000058.1	Genbank	CDS	54782	55677	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007554-T1_mrna"; gene_id "gene-KXX11_007554";
+JAIBPP010000058.1	Genbank	CDS	55750	55931	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007554-T1_mrna"; gene_id "gene-KXX11_007554";
+JAIBPP010000058.1	Genbank	CDS	55985	56871	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007554-T1_mrna"; gene_id "gene-KXX11_007554";
+JAIBPP010000058.1	Genbank	CDS	56939	57206	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007554-T1_mrna"; gene_id "gene-KXX11_007554";
+JAIBPP010000058.1	Genbank	CDS	57284	57390	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007554-T1_mrna"; gene_id "gene-KXX11_007554";
+JAIBPP010000058.1	Genbank	CDS	57467	57561	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007554-T1_mrna"; gene_id "gene-KXX11_007554";
+JAIBPP010000058.1	Genbank	CDS	57668	57731	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007554-T1_mrna"; gene_id "gene-KXX11_007554";
+JAIBPP010000583.1	Genbank	transcript	13020	14591	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007580-T1_mrna"; gene_id "gene-KXX11_007580"
+JAIBPP010000583.1	Genbank	exon	13020	14000	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007580-T1_mrna"; gene_id "gene-KXX11_007580";
+JAIBPP010000583.1	Genbank	exon	14051	14231	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007580-T1_mrna"; gene_id "gene-KXX11_007580";
+JAIBPP010000583.1	Genbank	exon	14347	14591	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007580-T1_mrna"; gene_id "gene-KXX11_007580";
+JAIBPP010000583.1	Genbank	CDS	13020	14000	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007580-T1_mrna"; gene_id "gene-KXX11_007580";
+JAIBPP010000583.1	Genbank	CDS	14051	14231	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007580-T1_mrna"; gene_id "gene-KXX11_007580";
+JAIBPP010000583.1	Genbank	CDS	14347	14591	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007580-T1_mrna"; gene_id "gene-KXX11_007580";
+JAIBPP010000594.1	Genbank	transcript	14447	16505	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007669-T1_mrna"; gene_id "gene-KXX11_007669"
+JAIBPP010000594.1	Genbank	exon	14447	14473	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007669-T1_mrna"; gene_id "gene-KXX11_007669";
+JAIBPP010000594.1	Genbank	exon	14525	14579	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007669-T1_mrna"; gene_id "gene-KXX11_007669";
+JAIBPP010000594.1	Genbank	exon	14644	14882	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007669-T1_mrna"; gene_id "gene-KXX11_007669";
+JAIBPP010000594.1	Genbank	exon	14942	15048	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007669-T1_mrna"; gene_id "gene-KXX11_007669";
+JAIBPP010000594.1	Genbank	exon	15106	15340	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007669-T1_mrna"; gene_id "gene-KXX11_007669";
+JAIBPP010000594.1	Genbank	exon	15386	15479	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007669-T1_mrna"; gene_id "gene-KXX11_007669";
+JAIBPP010000594.1	Genbank	exon	15534	16048	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007669-T1_mrna"; gene_id "gene-KXX11_007669";
+JAIBPP010000594.1	Genbank	exon	16101	16385	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007669-T1_mrna"; gene_id "gene-KXX11_007669";
+JAIBPP010000594.1	Genbank	exon	16446	16505	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007669-T1_mrna"; gene_id "gene-KXX11_007669";
+JAIBPP010000594.1	Genbank	CDS	14447	14473	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007669-T1_mrna"; gene_id "gene-KXX11_007669";
+JAIBPP010000594.1	Genbank	CDS	14525	14579	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007669-T1_mrna"; gene_id "gene-KXX11_007669";
+JAIBPP010000594.1	Genbank	CDS	14644	14882	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007669-T1_mrna"; gene_id "gene-KXX11_007669";
+JAIBPP010000594.1	Genbank	CDS	14942	15048	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007669-T1_mrna"; gene_id "gene-KXX11_007669";
+JAIBPP010000594.1	Genbank	CDS	15106	15340	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007669-T1_mrna"; gene_id "gene-KXX11_007669";
+JAIBPP010000594.1	Genbank	CDS	15386	15479	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007669-T1_mrna"; gene_id "gene-KXX11_007669";
+JAIBPP010000594.1	Genbank	CDS	15534	16048	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007669-T1_mrna"; gene_id "gene-KXX11_007669";
+JAIBPP010000594.1	Genbank	CDS	16101	16385	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007669-T1_mrna"; gene_id "gene-KXX11_007669";
+JAIBPP010000594.1	Genbank	CDS	16446	16505	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007669-T1_mrna"; gene_id "gene-KXX11_007669";
+JAIBPP010000006.1	Genbank	transcript	56632	57288	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007720-T1_mrna"; gene_id "gene-KXX11_007720"
+JAIBPP010000006.1	Genbank	exon	56632	57288	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007720-T1_mrna"; gene_id "gene-KXX11_007720";
+JAIBPP010000006.1	Genbank	CDS	56632	57288	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007720-T1_mrna"; gene_id "gene-KXX11_007720";
+JAIBPP010000006.1	Genbank	transcript	62855	63828	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007723-T1_mrna"; gene_id "gene-KXX11_007723"; gene_name "DPH5"
+JAIBPP010000006.1	Genbank	exon	62855	62989	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007723-T1_mrna"; gene_id "gene-KXX11_007723"; gene_name "DPH5";
+JAIBPP010000006.1	Genbank	exon	63054	63178	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007723-T1_mrna"; gene_id "gene-KXX11_007723"; gene_name "DPH5";
+JAIBPP010000006.1	Genbank	exon	63231	63828	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007723-T1_mrna"; gene_id "gene-KXX11_007723"; gene_name "DPH5";
+JAIBPP010000006.1	Genbank	CDS	62855	62989	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007723-T1_mrna"; gene_id "gene-KXX11_007723"; gene_name "DPH5";
+JAIBPP010000006.1	Genbank	CDS	63054	63178	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007723-T1_mrna"; gene_id "gene-KXX11_007723"; gene_name "DPH5";
+JAIBPP010000006.1	Genbank	CDS	63231	63828	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007723-T1_mrna"; gene_id "gene-KXX11_007723"; gene_name "DPH5";
+JAIBPP010000006.1	Genbank	transcript	101417	103189	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007736-T1_mrna"; gene_id "gene-KXX11_007736"
+JAIBPP010000006.1	Genbank	exon	101417	103189	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007736-T1_mrna"; gene_id "gene-KXX11_007736";
+JAIBPP010000006.1	Genbank	CDS	101417	103189	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007736-T1_mrna"; gene_id "gene-KXX11_007736";
+JAIBPP010000608.1	Genbank	transcript	10070	11413	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007815-T1_mrna"; gene_id "gene-KXX11_007815"
+JAIBPP010000608.1	Genbank	exon	10070	10656	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007815-T1_mrna"; gene_id "gene-KXX11_007815";
+JAIBPP010000608.1	Genbank	exon	10709	10861	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007815-T1_mrna"; gene_id "gene-KXX11_007815";
+JAIBPP010000608.1	Genbank	exon	11015	11271	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007815-T1_mrna"; gene_id "gene-KXX11_007815";
+JAIBPP010000608.1	Genbank	exon	11370	11413	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007815-T1_mrna"; gene_id "gene-KXX11_007815";
+JAIBPP010000608.1	Genbank	CDS	10070	10656	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007815-T1_mrna"; gene_id "gene-KXX11_007815";
+JAIBPP010000608.1	Genbank	CDS	10709	10861	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007815-T1_mrna"; gene_id "gene-KXX11_007815";
+JAIBPP010000608.1	Genbank	CDS	11015	11271	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007815-T1_mrna"; gene_id "gene-KXX11_007815";
+JAIBPP010000608.1	Genbank	CDS	11370	11413	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007815-T1_mrna"; gene_id "gene-KXX11_007815";
+JAIBPP010000611.1	Genbank	transcript	4217	5472	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007851-T1_mrna"; gene_id "gene-KXX11_007851"
+JAIBPP010000611.1	Genbank	exon	4217	4464	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007851-T1_mrna"; gene_id "gene-KXX11_007851";
+JAIBPP010000611.1	Genbank	exon	4524	4660	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007851-T1_mrna"; gene_id "gene-KXX11_007851";
+JAIBPP010000611.1	Genbank	exon	4733	5472	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007851-T1_mrna"; gene_id "gene-KXX11_007851";
+JAIBPP010000611.1	Genbank	CDS	4217	4464	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007851-T1_mrna"; gene_id "gene-KXX11_007851";
+JAIBPP010000611.1	Genbank	CDS	4524	4660	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007851-T1_mrna"; gene_id "gene-KXX11_007851";
+JAIBPP010000611.1	Genbank	CDS	4733	5472	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007851-T1_mrna"; gene_id "gene-KXX11_007851";
+JAIBPP010000619.1	Genbank	transcript	5958	6695	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007911-T1_mrna"; gene_id "gene-KXX11_007911"
+JAIBPP010000619.1	Genbank	exon	5958	6695	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007911-T1_mrna"; gene_id "gene-KXX11_007911";
+JAIBPP010000619.1	Genbank	CDS	5958	6695	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007911-T1_mrna"; gene_id "gene-KXX11_007911";
+JAIBPP010000624.1	Genbank	transcript	3985	4757	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007939-T1_mrna"; gene_id "gene-KXX11_007939"; gene_name "SF3A2"
+JAIBPP010000624.1	Genbank	exon	3985	4689	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007939-T1_mrna"; gene_id "gene-KXX11_007939"; gene_name "SF3A2";
+JAIBPP010000624.1	Genbank	exon	4746	4757	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007939-T1_mrna"; gene_id "gene-KXX11_007939"; gene_name "SF3A2";
+JAIBPP010000624.1	Genbank	CDS	3985	4689	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007939-T1_mrna"; gene_id "gene-KXX11_007939"; gene_name "SF3A2";
+JAIBPP010000624.1	Genbank	CDS	4746	4757	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_007939-T1_mrna"; gene_id "gene-KXX11_007939"; gene_name "SF3A2";
+JAIBPP010000656.1	Genbank	transcript	2945	4219	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008176-T1_mrna"; gene_id "gene-KXX11_008176"
+JAIBPP010000656.1	Genbank	exon	2945	3243	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008176-T1_mrna"; gene_id "gene-KXX11_008176";
+JAIBPP010000656.1	Genbank	exon	3309	3978	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008176-T1_mrna"; gene_id "gene-KXX11_008176";
+JAIBPP010000656.1	Genbank	exon	4046	4219	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008176-T1_mrna"; gene_id "gene-KXX11_008176";
+JAIBPP010000656.1	Genbank	CDS	2945	3243	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008176-T1_mrna"; gene_id "gene-KXX11_008176";
+JAIBPP010000656.1	Genbank	CDS	3309	3978	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008176-T1_mrna"; gene_id "gene-KXX11_008176";
+JAIBPP010000656.1	Genbank	CDS	4046	4219	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008176-T1_mrna"; gene_id "gene-KXX11_008176";
+JAIBPP010000662.1	Genbank	transcript	9228	10635	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008235-T1_mrna"; gene_id "gene-KXX11_008235"
+JAIBPP010000662.1	Genbank	exon	9228	10112	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008235-T1_mrna"; gene_id "gene-KXX11_008235";
+JAIBPP010000662.1	Genbank	exon	10172	10204	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008235-T1_mrna"; gene_id "gene-KXX11_008235";
+JAIBPP010000662.1	Genbank	exon	10262	10272	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008235-T1_mrna"; gene_id "gene-KXX11_008235";
+JAIBPP010000662.1	Genbank	exon	10332	10378	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008235-T1_mrna"; gene_id "gene-KXX11_008235";
+JAIBPP010000662.1	Genbank	exon	10437	10476	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008235-T1_mrna"; gene_id "gene-KXX11_008235";
+JAIBPP010000662.1	Genbank	exon	10545	10635	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008235-T1_mrna"; gene_id "gene-KXX11_008235";
+JAIBPP010000662.1	Genbank	CDS	9228	10112	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008235-T1_mrna"; gene_id "gene-KXX11_008235";
+JAIBPP010000662.1	Genbank	CDS	10172	10204	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008235-T1_mrna"; gene_id "gene-KXX11_008235";
+JAIBPP010000662.1	Genbank	CDS	10262	10272	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008235-T1_mrna"; gene_id "gene-KXX11_008235";
+JAIBPP010000662.1	Genbank	CDS	10332	10378	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008235-T1_mrna"; gene_id "gene-KXX11_008235";
+JAIBPP010000662.1	Genbank	CDS	10437	10476	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008235-T1_mrna"; gene_id "gene-KXX11_008235";
+JAIBPP010000662.1	Genbank	CDS	10545	10635	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008235-T1_mrna"; gene_id "gene-KXX11_008235";
+JAIBPP010000663.1	Genbank	transcript	4281	6569	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008240-T1_mrna"; gene_id "gene-KXX11_008240"
+JAIBPP010000663.1	Genbank	exon	4281	6569	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008240-T1_mrna"; gene_id "gene-KXX11_008240";
+JAIBPP010000663.1	Genbank	CDS	4281	6569	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008240-T1_mrna"; gene_id "gene-KXX11_008240";
+JAIBPP010000688.1	Genbank	transcript	873	1961	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008402-T1_mrna"; gene_id "gene-KXX11_008402"; gene_name "LIA1"
+JAIBPP010000688.1	Genbank	exon	873	1363	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008402-T1_mrna"; gene_id "gene-KXX11_008402"; gene_name "LIA1";
+JAIBPP010000688.1	Genbank	exon	1445	1961	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008402-T1_mrna"; gene_id "gene-KXX11_008402"; gene_name "LIA1";
+JAIBPP010000688.1	Genbank	CDS	873	1363	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008402-T1_mrna"; gene_id "gene-KXX11_008402"; gene_name "LIA1";
+JAIBPP010000688.1	Genbank	CDS	1445	1961	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008402-T1_mrna"; gene_id "gene-KXX11_008402"; gene_name "LIA1";
+JAIBPP010000007.1	Genbank	transcript	67582	68360	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008494-T1_mrna"; gene_id "gene-KXX11_008494"
+JAIBPP010000007.1	Genbank	exon	67582	67648	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008494-T1_mrna"; gene_id "gene-KXX11_008494";
+JAIBPP010000007.1	Genbank	exon	67717	68360	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008494-T1_mrna"; gene_id "gene-KXX11_008494";
+JAIBPP010000007.1	Genbank	CDS	67582	67648	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008494-T1_mrna"; gene_id "gene-KXX11_008494";
+JAIBPP010000007.1	Genbank	CDS	67717	68360	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008494-T1_mrna"; gene_id "gene-KXX11_008494";
+JAIBPP010000070.1	Genbank	transcript	37298	38548	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008530-T1_mrna"; gene_id "gene-KXX11_008530"
+JAIBPP010000070.1	Genbank	exon	37298	37354	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008530-T1_mrna"; gene_id "gene-KXX11_008530";
+JAIBPP010000070.1	Genbank	exon	37418	37435	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008530-T1_mrna"; gene_id "gene-KXX11_008530";
+JAIBPP010000070.1	Genbank	exon	37509	38059	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008530-T1_mrna"; gene_id "gene-KXX11_008530";
+JAIBPP010000070.1	Genbank	exon	38116	38548	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008530-T1_mrna"; gene_id "gene-KXX11_008530";
+JAIBPP010000070.1	Genbank	CDS	37298	37354	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008530-T1_mrna"; gene_id "gene-KXX11_008530";
+JAIBPP010000070.1	Genbank	CDS	37418	37435	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008530-T1_mrna"; gene_id "gene-KXX11_008530";
+JAIBPP010000070.1	Genbank	CDS	37509	38059	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008530-T1_mrna"; gene_id "gene-KXX11_008530";
+JAIBPP010000070.1	Genbank	CDS	38116	38548	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008530-T1_mrna"; gene_id "gene-KXX11_008530";
+JAIBPP010000071.1	Genbank	transcript	43600	44382	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008602-T1_mrna"; gene_id "gene-KXX11_008602"
+JAIBPP010000071.1	Genbank	exon	43600	44382	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008602-T1_mrna"; gene_id "gene-KXX11_008602";
+JAIBPP010000071.1	Genbank	CDS	43600	44382	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008602-T1_mrna"; gene_id "gene-KXX11_008602";
+JAIBPP010000721.1	Genbank	transcript	7588	8622	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008686-T1_mrna"; gene_id "gene-KXX11_008686"
+JAIBPP010000721.1	Genbank	exon	7588	8622	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008686-T1_mrna"; gene_id "gene-KXX11_008686";
+JAIBPP010000721.1	Genbank	CDS	7588	8622	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008686-T1_mrna"; gene_id "gene-KXX11_008686";
+JAIBPP010000074.1	Genbank	transcript	31128	32327	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008784-T1_mrna"; gene_id "gene-KXX11_008784"
+JAIBPP010000074.1	Genbank	exon	31128	31433	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008784-T1_mrna"; gene_id "gene-KXX11_008784";
+JAIBPP010000074.1	Genbank	exon	31507	31675	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008784-T1_mrna"; gene_id "gene-KXX11_008784";
+JAIBPP010000074.1	Genbank	exon	31747	32327	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008784-T1_mrna"; gene_id "gene-KXX11_008784";
+JAIBPP010000074.1	Genbank	CDS	31128	31433	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008784-T1_mrna"; gene_id "gene-KXX11_008784";
+JAIBPP010000074.1	Genbank	CDS	31507	31675	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008784-T1_mrna"; gene_id "gene-KXX11_008784";
+JAIBPP010000074.1	Genbank	CDS	31747	32327	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008784-T1_mrna"; gene_id "gene-KXX11_008784";
+JAIBPP010000074.1	Genbank	transcript	33284	36169	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008785-T1_mrna"; gene_id "gene-KXX11_008785"; gene_name "CTF18"
+JAIBPP010000074.1	Genbank	exon	33284	35682	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008785-T1_mrna"; gene_id "gene-KXX11_008785"; gene_name "CTF18";
+JAIBPP010000074.1	Genbank	exon	35746	36169	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008785-T1_mrna"; gene_id "gene-KXX11_008785"; gene_name "CTF18";
+JAIBPP010000074.1	Genbank	CDS	33284	35682	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008785-T1_mrna"; gene_id "gene-KXX11_008785"; gene_name "CTF18";
+JAIBPP010000074.1	Genbank	CDS	35746	36169	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008785-T1_mrna"; gene_id "gene-KXX11_008785"; gene_name "CTF18";
+JAIBPP010000741.1	Genbank	transcript	7854	10346	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008801-T1_mrna"; gene_id "gene-KXX11_008801"
+JAIBPP010000741.1	Genbank	exon	7854	8263	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008801-T1_mrna"; gene_id "gene-KXX11_008801";
+JAIBPP010000741.1	Genbank	exon	8323	8440	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008801-T1_mrna"; gene_id "gene-KXX11_008801";
+JAIBPP010000741.1	Genbank	exon	8513	8576	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008801-T1_mrna"; gene_id "gene-KXX11_008801";
+JAIBPP010000741.1	Genbank	exon	9078	10227	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008801-T1_mrna"; gene_id "gene-KXX11_008801";
+JAIBPP010000741.1	Genbank	exon	10304	10346	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008801-T1_mrna"; gene_id "gene-KXX11_008801";
+JAIBPP010000741.1	Genbank	CDS	7854	8263	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008801-T1_mrna"; gene_id "gene-KXX11_008801";
+JAIBPP010000741.1	Genbank	CDS	8323	8440	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008801-T1_mrna"; gene_id "gene-KXX11_008801";
+JAIBPP010000741.1	Genbank	CDS	8513	8576	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008801-T1_mrna"; gene_id "gene-KXX11_008801";
+JAIBPP010000741.1	Genbank	CDS	9078	10227	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008801-T1_mrna"; gene_id "gene-KXX11_008801";
+JAIBPP010000741.1	Genbank	CDS	10304	10346	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008801-T1_mrna"; gene_id "gene-KXX11_008801";
+JAIBPP010000752.1	Genbank	transcript	3490	5399	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008872-T1_mrna"; gene_id "gene-KXX11_008872"
+JAIBPP010000752.1	Genbank	exon	3490	3769	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008872-T1_mrna"; gene_id "gene-KXX11_008872";
+JAIBPP010000752.1	Genbank	exon	3830	4108	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008872-T1_mrna"; gene_id "gene-KXX11_008872";
+JAIBPP010000752.1	Genbank	exon	4160	4277	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008872-T1_mrna"; gene_id "gene-KXX11_008872";
+JAIBPP010000752.1	Genbank	exon	4332	4459	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008872-T1_mrna"; gene_id "gene-KXX11_008872";
+JAIBPP010000752.1	Genbank	exon	4522	4596	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008872-T1_mrna"; gene_id "gene-KXX11_008872";
+JAIBPP010000752.1	Genbank	exon	4652	4807	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008872-T1_mrna"; gene_id "gene-KXX11_008872";
+JAIBPP010000752.1	Genbank	exon	4876	5399	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008872-T1_mrna"; gene_id "gene-KXX11_008872";
+JAIBPP010000752.1	Genbank	CDS	3490	3769	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008872-T1_mrna"; gene_id "gene-KXX11_008872";
+JAIBPP010000752.1	Genbank	CDS	3830	4108	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008872-T1_mrna"; gene_id "gene-KXX11_008872";
+JAIBPP010000752.1	Genbank	CDS	4160	4277	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008872-T1_mrna"; gene_id "gene-KXX11_008872";
+JAIBPP010000752.1	Genbank	CDS	4332	4459	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008872-T1_mrna"; gene_id "gene-KXX11_008872";
+JAIBPP010000752.1	Genbank	CDS	4522	4596	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008872-T1_mrna"; gene_id "gene-KXX11_008872";
+JAIBPP010000752.1	Genbank	CDS	4652	4807	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008872-T1_mrna"; gene_id "gene-KXX11_008872";
+JAIBPP010000752.1	Genbank	CDS	4876	5399	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008872-T1_mrna"; gene_id "gene-KXX11_008872";
+JAIBPP010000765.1	Genbank	transcript	8186	11715	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008951-T1_mrna"; gene_id "gene-KXX11_008951"; gene_name "HIR1"
+JAIBPP010000765.1	Genbank	exon	8186	8222	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008951-T1_mrna"; gene_id "gene-KXX11_008951"; gene_name "HIR1";
+JAIBPP010000765.1	Genbank	exon	8328	8402	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008951-T1_mrna"; gene_id "gene-KXX11_008951"; gene_name "HIR1";
+JAIBPP010000765.1	Genbank	exon	8495	8716	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008951-T1_mrna"; gene_id "gene-KXX11_008951"; gene_name "HIR1";
+JAIBPP010000765.1	Genbank	exon	8785	11541	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008951-T1_mrna"; gene_id "gene-KXX11_008951"; gene_name "HIR1";
+JAIBPP010000765.1	Genbank	exon	11618	11715	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008951-T1_mrna"; gene_id "gene-KXX11_008951"; gene_name "HIR1";
+JAIBPP010000765.1	Genbank	CDS	8186	8222	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008951-T1_mrna"; gene_id "gene-KXX11_008951"; gene_name "HIR1";
+JAIBPP010000765.1	Genbank	CDS	8328	8402	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008951-T1_mrna"; gene_id "gene-KXX11_008951"; gene_name "HIR1";
+JAIBPP010000765.1	Genbank	CDS	8495	8716	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008951-T1_mrna"; gene_id "gene-KXX11_008951"; gene_name "HIR1";
+JAIBPP010000765.1	Genbank	CDS	8785	11541	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008951-T1_mrna"; gene_id "gene-KXX11_008951"; gene_name "HIR1";
+JAIBPP010000765.1	Genbank	CDS	11618	11715	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_008951-T1_mrna"; gene_id "gene-KXX11_008951"; gene_name "HIR1";
+JAIBPP010000078.1	Genbank	transcript	35732	37899	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009038-T1_mrna"; gene_id "gene-KXX11_009038"; gene_name "NOP7"
+JAIBPP010000078.1	Genbank	exon	35732	37638	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009038-T1_mrna"; gene_id "gene-KXX11_009038"; gene_name "NOP7";
+JAIBPP010000078.1	Genbank	exon	37722	37820	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009038-T1_mrna"; gene_id "gene-KXX11_009038"; gene_name "NOP7";
+JAIBPP010000078.1	Genbank	exon	37878	37899	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009038-T1_mrna"; gene_id "gene-KXX11_009038"; gene_name "NOP7";
+JAIBPP010000078.1	Genbank	CDS	35732	37638	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009038-T1_mrna"; gene_id "gene-KXX11_009038"; gene_name "NOP7";
+JAIBPP010000078.1	Genbank	CDS	37722	37820	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009038-T1_mrna"; gene_id "gene-KXX11_009038"; gene_name "NOP7";
+JAIBPP010000078.1	Genbank	CDS	37878	37899	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009038-T1_mrna"; gene_id "gene-KXX11_009038"; gene_name "NOP7";
+JAIBPP010000794.1	Genbank	transcript	9125	10085	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009133-T1_mrna"; gene_id "gene-KXX11_009133"
+JAIBPP010000794.1	Genbank	exon	9125	9913	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009133-T1_mrna"; gene_id "gene-KXX11_009133";
+JAIBPP010000794.1	Genbank	exon	9954	10085	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009133-T1_mrna"; gene_id "gene-KXX11_009133";
+JAIBPP010000794.1	Genbank	CDS	9125	9913	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009133-T1_mrna"; gene_id "gene-KXX11_009133";
+JAIBPP010000794.1	Genbank	CDS	9954	10085	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009133-T1_mrna"; gene_id "gene-KXX11_009133";
+JAIBPP010000008.1	Genbank	transcript	65967	67600	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009172-T1_mrna"; gene_id "gene-KXX11_009172"; gene_name "CYP6"
+JAIBPP010000008.1	Genbank	exon	65967	66046	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009172-T1_mrna"; gene_id "gene-KXX11_009172"; gene_name "CYP6";
+JAIBPP010000008.1	Genbank	exon	66169	66869	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009172-T1_mrna"; gene_id "gene-KXX11_009172"; gene_name "CYP6";
+JAIBPP010000008.1	Genbank	exon	66925	67121	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009172-T1_mrna"; gene_id "gene-KXX11_009172"; gene_name "CYP6";
+JAIBPP010000008.1	Genbank	exon	67177	67293	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009172-T1_mrna"; gene_id "gene-KXX11_009172"; gene_name "CYP6";
+JAIBPP010000008.1	Genbank	exon	67340	67600	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009172-T1_mrna"; gene_id "gene-KXX11_009172"; gene_name "CYP6";
+JAIBPP010000008.1	Genbank	CDS	65967	66046	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009172-T1_mrna"; gene_id "gene-KXX11_009172"; gene_name "CYP6";
+JAIBPP010000008.1	Genbank	CDS	66169	66869	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009172-T1_mrna"; gene_id "gene-KXX11_009172"; gene_name "CYP6";
+JAIBPP010000008.1	Genbank	CDS	66925	67121	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009172-T1_mrna"; gene_id "gene-KXX11_009172"; gene_name "CYP6";
+JAIBPP010000008.1	Genbank	CDS	67177	67293	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009172-T1_mrna"; gene_id "gene-KXX11_009172"; gene_name "CYP6";
+JAIBPP010000008.1	Genbank	CDS	67340	67600	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009172-T1_mrna"; gene_id "gene-KXX11_009172"; gene_name "CYP6";
+JAIBPP010000808.1	Genbank	transcript	8732	9766	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009240-T1_mrna"; gene_id "gene-KXX11_009240"; gene_name "CWC26"
+JAIBPP010000808.1	Genbank	exon	8732	9766	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009240-T1_mrna"; gene_id "gene-KXX11_009240"; gene_name "CWC26";
+JAIBPP010000808.1	Genbank	CDS	8732	9766	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009240-T1_mrna"; gene_id "gene-KXX11_009240"; gene_name "CWC26";
+JAIBPP010000081.1	Genbank	transcript	48078	50581	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009261-T1_mrna"; gene_id "gene-KXX11_009261"
+JAIBPP010000081.1	Genbank	exon	48078	48086	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009261-T1_mrna"; gene_id "gene-KXX11_009261";
+JAIBPP010000081.1	Genbank	exon	48167	48511	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009261-T1_mrna"; gene_id "gene-KXX11_009261";
+JAIBPP010000081.1	Genbank	exon	48593	48893	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009261-T1_mrna"; gene_id "gene-KXX11_009261";
+JAIBPP010000081.1	Genbank	exon	49586	49722	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009261-T1_mrna"; gene_id "gene-KXX11_009261";
+JAIBPP010000081.1	Genbank	exon	49785	49889	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009261-T1_mrna"; gene_id "gene-KXX11_009261";
+JAIBPP010000081.1	Genbank	exon	49942	50284	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009261-T1_mrna"; gene_id "gene-KXX11_009261";
+JAIBPP010000081.1	Genbank	exon	50339	50482	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009261-T1_mrna"; gene_id "gene-KXX11_009261";
+JAIBPP010000081.1	Genbank	exon	50538	50581	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009261-T1_mrna"; gene_id "gene-KXX11_009261";
+JAIBPP010000081.1	Genbank	CDS	48078	48086	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009261-T1_mrna"; gene_id "gene-KXX11_009261";
+JAIBPP010000081.1	Genbank	CDS	48167	48511	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009261-T1_mrna"; gene_id "gene-KXX11_009261";
+JAIBPP010000081.1	Genbank	CDS	48593	48893	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009261-T1_mrna"; gene_id "gene-KXX11_009261";
+JAIBPP010000081.1	Genbank	CDS	49586	49722	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009261-T1_mrna"; gene_id "gene-KXX11_009261";
+JAIBPP010000081.1	Genbank	CDS	49785	49889	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009261-T1_mrna"; gene_id "gene-KXX11_009261";
+JAIBPP010000081.1	Genbank	CDS	49942	50284	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009261-T1_mrna"; gene_id "gene-KXX11_009261";
+JAIBPP010000081.1	Genbank	CDS	50339	50482	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009261-T1_mrna"; gene_id "gene-KXX11_009261";
+JAIBPP010000081.1	Genbank	CDS	50538	50581	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009261-T1_mrna"; gene_id "gene-KXX11_009261";
+JAIBPP010000812.1	Genbank	transcript	2131	5190	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009274-T1_mrna"; gene_id "gene-KXX11_009274"
+JAIBPP010000812.1	Genbank	exon	2131	2305	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009274-T1_mrna"; gene_id "gene-KXX11_009274";
+JAIBPP010000812.1	Genbank	exon	2394	2597	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009274-T1_mrna"; gene_id "gene-KXX11_009274";
+JAIBPP010000812.1	Genbank	exon	2666	2748	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009274-T1_mrna"; gene_id "gene-KXX11_009274";
+JAIBPP010000812.1	Genbank	exon	2805	2984	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009274-T1_mrna"; gene_id "gene-KXX11_009274";
+JAIBPP010000812.1	Genbank	exon	3041	3133	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009274-T1_mrna"; gene_id "gene-KXX11_009274";
+JAIBPP010000812.1	Genbank	exon	3190	3346	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009274-T1_mrna"; gene_id "gene-KXX11_009274";
+JAIBPP010000812.1	Genbank	exon	3405	3649	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009274-T1_mrna"; gene_id "gene-KXX11_009274";
+JAIBPP010000812.1	Genbank	exon	3724	5190	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009274-T1_mrna"; gene_id "gene-KXX11_009274";
+JAIBPP010000812.1	Genbank	CDS	2131	2305	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009274-T1_mrna"; gene_id "gene-KXX11_009274";
+JAIBPP010000812.1	Genbank	CDS	2394	2597	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009274-T1_mrna"; gene_id "gene-KXX11_009274";
+JAIBPP010000812.1	Genbank	CDS	2666	2748	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009274-T1_mrna"; gene_id "gene-KXX11_009274";
+JAIBPP010000812.1	Genbank	CDS	2805	2984	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009274-T1_mrna"; gene_id "gene-KXX11_009274";
+JAIBPP010000812.1	Genbank	CDS	3041	3133	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009274-T1_mrna"; gene_id "gene-KXX11_009274";
+JAIBPP010000812.1	Genbank	CDS	3190	3346	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009274-T1_mrna"; gene_id "gene-KXX11_009274";
+JAIBPP010000812.1	Genbank	CDS	3405	3649	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009274-T1_mrna"; gene_id "gene-KXX11_009274";
+JAIBPP010000812.1	Genbank	CDS	3724	5190	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009274-T1_mrna"; gene_id "gene-KXX11_009274";
+JAIBPP010000826.1	Genbank	transcript	486	1600	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009346-T1_mrna"; gene_id "gene-KXX11_009346"; gene_name "MED6"
+JAIBPP010000826.1	Genbank	exon	486	579	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009346-T1_mrna"; gene_id "gene-KXX11_009346"; gene_name "MED6";
+JAIBPP010000826.1	Genbank	exon	656	1017	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009346-T1_mrna"; gene_id "gene-KXX11_009346"; gene_name "MED6";
+JAIBPP010000826.1	Genbank	exon	1082	1600	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009346-T1_mrna"; gene_id "gene-KXX11_009346"; gene_name "MED6";
+JAIBPP010000826.1	Genbank	CDS	486	579	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009346-T1_mrna"; gene_id "gene-KXX11_009346"; gene_name "MED6";
+JAIBPP010000826.1	Genbank	CDS	656	1017	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009346-T1_mrna"; gene_id "gene-KXX11_009346"; gene_name "MED6";
+JAIBPP010000826.1	Genbank	CDS	1082	1600	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009346-T1_mrna"; gene_id "gene-KXX11_009346"; gene_name "MED6";
+JAIBPP010000829.1	Genbank	transcript	8222	10138	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009381-T1_mrna"; gene_id "gene-KXX11_009381"; gene_name "MCM4"
+JAIBPP010000829.1	Genbank	exon	8222	8809	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009381-T1_mrna"; gene_id "gene-KXX11_009381"; gene_name "MCM4";
+JAIBPP010000829.1	Genbank	exon	8875	10067	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009381-T1_mrna"; gene_id "gene-KXX11_009381"; gene_name "MCM4";
+JAIBPP010000829.1	Genbank	exon	10129	10138	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009381-T1_mrna"; gene_id "gene-KXX11_009381"; gene_name "MCM4";
+JAIBPP010000829.1	Genbank	CDS	8222	8809	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009381-T1_mrna"; gene_id "gene-KXX11_009381"; gene_name "MCM4";
+JAIBPP010000829.1	Genbank	CDS	8875	10067	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009381-T1_mrna"; gene_id "gene-KXX11_009381"; gene_name "MCM4";
+JAIBPP010000829.1	Genbank	CDS	10129	10138	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009381-T1_mrna"; gene_id "gene-KXX11_009381"; gene_name "MCM4";
+JAIBPP010000085.1	Genbank	transcript	10558	12194	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009465-T1_mrna"; gene_id "gene-KXX11_009465"; gene_name "UBA4"
+JAIBPP010000085.1	Genbank	exon	10558	10804	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009465-T1_mrna"; gene_id "gene-KXX11_009465"; gene_name "UBA4";
+JAIBPP010000085.1	Genbank	exon	10895	11108	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009465-T1_mrna"; gene_id "gene-KXX11_009465"; gene_name "UBA4";
+JAIBPP010000085.1	Genbank	exon	11174	12194	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009465-T1_mrna"; gene_id "gene-KXX11_009465"; gene_name "UBA4";
+JAIBPP010000085.1	Genbank	CDS	10558	10804	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009465-T1_mrna"; gene_id "gene-KXX11_009465"; gene_name "UBA4";
+JAIBPP010000085.1	Genbank	CDS	10895	11108	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009465-T1_mrna"; gene_id "gene-KXX11_009465"; gene_name "UBA4";
+JAIBPP010000085.1	Genbank	CDS	11174	12194	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009465-T1_mrna"; gene_id "gene-KXX11_009465"; gene_name "UBA4";
+JAIBPP010000857.1	Genbank	transcript	3539	5968	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009512-T1_mrna"; gene_id "gene-KXX11_009512"; gene_name "UTP25"
+JAIBPP010000857.1	Genbank	exon	3539	4457	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009512-T1_mrna"; gene_id "gene-KXX11_009512"; gene_name "UTP25";
+JAIBPP010000857.1	Genbank	exon	4514	5091	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009512-T1_mrna"; gene_id "gene-KXX11_009512"; gene_name "UTP25";
+JAIBPP010000857.1	Genbank	exon	5161	5360	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009512-T1_mrna"; gene_id "gene-KXX11_009512"; gene_name "UTP25";
+JAIBPP010000857.1	Genbank	exon	5414	5790	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009512-T1_mrna"; gene_id "gene-KXX11_009512"; gene_name "UTP25";
+JAIBPP010000857.1	Genbank	exon	5856	5968	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009512-T1_mrna"; gene_id "gene-KXX11_009512"; gene_name "UTP25";
+JAIBPP010000857.1	Genbank	CDS	3539	4457	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009512-T1_mrna"; gene_id "gene-KXX11_009512"; gene_name "UTP25";
+JAIBPP010000857.1	Genbank	CDS	4514	5091	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009512-T1_mrna"; gene_id "gene-KXX11_009512"; gene_name "UTP25";
+JAIBPP010000857.1	Genbank	CDS	5161	5360	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009512-T1_mrna"; gene_id "gene-KXX11_009512"; gene_name "UTP25";
+JAIBPP010000857.1	Genbank	CDS	5414	5790	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009512-T1_mrna"; gene_id "gene-KXX11_009512"; gene_name "UTP25";
+JAIBPP010000857.1	Genbank	CDS	5856	5968	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009512-T1_mrna"; gene_id "gene-KXX11_009512"; gene_name "UTP25";
+JAIBPP010000857.1	Genbank	transcript	6277	7443	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009513-T1_mrna"; gene_id "gene-KXX11_009513"
+JAIBPP010000857.1	Genbank	exon	6277	6381	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009513-T1_mrna"; gene_id "gene-KXX11_009513";
+JAIBPP010000857.1	Genbank	exon	6445	7157	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009513-T1_mrna"; gene_id "gene-KXX11_009513";
+JAIBPP010000857.1	Genbank	exon	7224	7443	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009513-T1_mrna"; gene_id "gene-KXX11_009513";
+JAIBPP010000857.1	Genbank	CDS	6277	6381	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009513-T1_mrna"; gene_id "gene-KXX11_009513";
+JAIBPP010000857.1	Genbank	CDS	6445	7157	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009513-T1_mrna"; gene_id "gene-KXX11_009513";
+JAIBPP010000857.1	Genbank	CDS	7224	7443	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009513-T1_mrna"; gene_id "gene-KXX11_009513";
+JAIBPP010000086.1	Genbank	transcript	8190	22967	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009523-T1_mrna"; gene_id "gene-KXX11_009523"
+JAIBPP010000086.1	Genbank	exon	8190	13883	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009523-T1_mrna"; gene_id "gene-KXX11_009523";
+JAIBPP010000086.1	Genbank	exon	13944	22967	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009523-T1_mrna"; gene_id "gene-KXX11_009523";
+JAIBPP010000086.1	Genbank	CDS	8190	13883	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009523-T1_mrna"; gene_id "gene-KXX11_009523";
+JAIBPP010000086.1	Genbank	CDS	13944	22967	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009523-T1_mrna"; gene_id "gene-KXX11_009523";
+JAIBPP010000086.1	Genbank	transcript	46674	48401	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009533-T1_mrna"; gene_id "gene-KXX11_009533"; gene_name "HAT1"
+JAIBPP010000086.1	Genbank	exon	46674	46692	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009533-T1_mrna"; gene_id "gene-KXX11_009533"; gene_name "HAT1";
+JAIBPP010000086.1	Genbank	exon	46773	47048	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009533-T1_mrna"; gene_id "gene-KXX11_009533"; gene_name "HAT1";
+JAIBPP010000086.1	Genbank	exon	47107	47371	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009533-T1_mrna"; gene_id "gene-KXX11_009533"; gene_name "HAT1";
+JAIBPP010000086.1	Genbank	exon	47435	48401	.	+	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009533-T1_mrna"; gene_id "gene-KXX11_009533"; gene_name "HAT1";
+JAIBPP010000086.1	Genbank	CDS	46674	46692	.	+	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009533-T1_mrna"; gene_id "gene-KXX11_009533"; gene_name "HAT1";
+JAIBPP010000086.1	Genbank	CDS	46773	47048	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009533-T1_mrna"; gene_id "gene-KXX11_009533"; gene_name "HAT1";
+JAIBPP010000086.1	Genbank	CDS	47107	47371	.	+	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009533-T1_mrna"; gene_id "gene-KXX11_009533"; gene_name "HAT1";
+JAIBPP010000086.1	Genbank	CDS	47435	48401	.	+	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009533-T1_mrna"; gene_id "gene-KXX11_009533"; gene_name "HAT1";
+JAIBPP010000859.1	Genbank	transcript	2669	4441	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009537-T1_mrna"; gene_id "gene-KXX11_009537"; gene_name "TRM6"
+JAIBPP010000859.1	Genbank	exon	2669	4301	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009537-T1_mrna"; gene_id "gene-KXX11_009537"; gene_name "TRM6";
+JAIBPP010000859.1	Genbank	exon	4356	4441	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009537-T1_mrna"; gene_id "gene-KXX11_009537"; gene_name "TRM6";
+JAIBPP010000859.1	Genbank	CDS	2669	4301	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009537-T1_mrna"; gene_id "gene-KXX11_009537"; gene_name "TRM6";
+JAIBPP010000859.1	Genbank	CDS	4356	4441	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009537-T1_mrna"; gene_id "gene-KXX11_009537"; gene_name "TRM6";
+JAIBPP010000088.1	Genbank	transcript	3856	5376	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009630-T1_mrna"; gene_id "gene-KXX11_009630"
+JAIBPP010000088.1	Genbank	exon	3856	4921	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009630-T1_mrna"; gene_id "gene-KXX11_009630";
+JAIBPP010000088.1	Genbank	exon	4985	5376	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009630-T1_mrna"; gene_id "gene-KXX11_009630";
+JAIBPP010000088.1	Genbank	CDS	3856	4921	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009630-T1_mrna"; gene_id "gene-KXX11_009630";
+JAIBPP010000088.1	Genbank	CDS	4985	5376	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009630-T1_mrna"; gene_id "gene-KXX11_009630";
+JAIBPP010000088.1	Genbank	transcript	9321	12825	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009632-T1_mrna"; gene_id "gene-KXX11_009632"
+JAIBPP010000088.1	Genbank	exon	9321	10226	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009632-T1_mrna"; gene_id "gene-KXX11_009632";
+JAIBPP010000088.1	Genbank	exon	10292	10838	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009632-T1_mrna"; gene_id "gene-KXX11_009632";
+JAIBPP010000088.1	Genbank	exon	10888	12002	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009632-T1_mrna"; gene_id "gene-KXX11_009632";
+JAIBPP010000088.1	Genbank	exon	12055	12825	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009632-T1_mrna"; gene_id "gene-KXX11_009632";
+JAIBPP010000088.1	Genbank	CDS	9321	10226	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009632-T1_mrna"; gene_id "gene-KXX11_009632";
+JAIBPP010000088.1	Genbank	CDS	10292	10838	.	-	1	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009632-T1_mrna"; gene_id "gene-KXX11_009632";
+JAIBPP010000088.1	Genbank	CDS	10888	12002	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009632-T1_mrna"; gene_id "gene-KXX11_009632";
+JAIBPP010000088.1	Genbank	CDS	12055	12825	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009632-T1_mrna"; gene_id "gene-KXX11_009632";
+JAIBPP010000088.1	Genbank	transcript	23543	24904	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009637-T1_mrna"; gene_id "gene-KXX11_009637"; gene_name "PRP46"
+JAIBPP010000088.1	Genbank	exon	23543	24904	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009637-T1_mrna"; gene_id "gene-KXX11_009637"; gene_name "PRP46";
+JAIBPP010000088.1	Genbank	CDS	23543	24904	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009637-T1_mrna"; gene_id "gene-KXX11_009637"; gene_name "PRP46";
+JAIBPP010000938.1	Genbank	transcript	144	1652	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009949-T1_mrna"; gene_id "gene-KXX11_009949"
+JAIBPP010000938.1	Genbank	exon	144	1303	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009949-T1_mrna"; gene_id "gene-KXX11_009949";
+JAIBPP010000938.1	Genbank	exon	1406	1652	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009949-T1_mrna"; gene_id "gene-KXX11_009949";
+JAIBPP010000938.1	Genbank	CDS	144	1303	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009949-T1_mrna"; gene_id "gene-KXX11_009949";
+JAIBPP010000938.1	Genbank	CDS	1406	1652	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_009949-T1_mrna"; gene_id "gene-KXX11_009949";
+JAIBPP010000096.1	Genbank	transcript	28224	29654	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_010045-T1_mrna"; gene_id "gene-KXX11_010045"
+JAIBPP010000096.1	Genbank	exon	28224	29654	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_010045-T1_mrna"; gene_id "gene-KXX11_010045";
+JAIBPP010000096.1	Genbank	CDS	28224	29654	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_010045-T1_mrna"; gene_id "gene-KXX11_010045";
+JAIBPP010000099.1	Genbank	transcript	22578	24011	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_010169-T1_mrna"; gene_id "gene-KXX11_010169"
+JAIBPP010000099.1	Genbank	exon	22578	23449	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_010169-T1_mrna"; gene_id "gene-KXX11_010169";
+JAIBPP010000099.1	Genbank	exon	23519	24011	.	-	.	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_010169-T1_mrna"; gene_id "gene-KXX11_010169";
+JAIBPP010000099.1	Genbank	CDS	22578	23449	.	-	2	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_010169-T1_mrna"; gene_id "gene-KXX11_010169";
+JAIBPP010000099.1	Genbank	CDS	23519	24011	.	-	0	transcript_id "rna-gnl|WGS:JAIBPP|KXX11_010169-T1_mrna"; gene_id "gene-KXX11_010169";

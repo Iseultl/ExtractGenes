@@ -1,0 +1,763 @@
+VRLL01000001.1	Genbank	transcript	163988	165420	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000062-T1_mrna"; gene_id "gene-MCOR15_000062"
+VRLL01000001.1	Genbank	exon	163988	164520	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000062-T1_mrna"; gene_id "gene-MCOR15_000062";
+VRLL01000001.1	Genbank	exon	164612	164818	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000062-T1_mrna"; gene_id "gene-MCOR15_000062";
+VRLL01000001.1	Genbank	exon	164895	165053	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000062-T1_mrna"; gene_id "gene-MCOR15_000062";
+VRLL01000001.1	Genbank	exon	165137	165420	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000062-T1_mrna"; gene_id "gene-MCOR15_000062";
+VRLL01000001.1	Genbank	CDS	164143	164520	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000062-T1_mrna"; gene_id "gene-MCOR15_000062";
+VRLL01000001.1	Genbank	CDS	164612	164818	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000062-T1_mrna"; gene_id "gene-MCOR15_000062";
+VRLL01000001.1	Genbank	CDS	164895	165053	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000062-T1_mrna"; gene_id "gene-MCOR15_000062";
+VRLL01000001.1	Genbank	CDS	165137	165379	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000062-T1_mrna"; gene_id "gene-MCOR15_000062";
+VRLL01000001.1	Genbank	transcript	210463	213400	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000079-T1_mrna"; gene_id "gene-MCOR15_000079"
+VRLL01000001.1	Genbank	exon	210463	210553	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000079-T1_mrna"; gene_id "gene-MCOR15_000079";
+VRLL01000001.1	Genbank	exon	210609	210721	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000079-T1_mrna"; gene_id "gene-MCOR15_000079";
+VRLL01000001.1	Genbank	exon	210775	213400	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000079-T1_mrna"; gene_id "gene-MCOR15_000079";
+VRLL01000001.1	Genbank	CDS	210536	210553	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000079-T1_mrna"; gene_id "gene-MCOR15_000079";
+VRLL01000001.1	Genbank	CDS	210609	210721	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000079-T1_mrna"; gene_id "gene-MCOR15_000079";
+VRLL01000001.1	Genbank	CDS	210775	213346	.	+	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000079-T1_mrna"; gene_id "gene-MCOR15_000079";
+VRLL01000001.1	Genbank	transcript	266233	267686	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000092-T1_mrna"; gene_id "gene-MCOR15_000092"; gene_name "NOP16"
+VRLL01000001.1	Genbank	exon	266233	267387	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000092-T1_mrna"; gene_id "gene-MCOR15_000092"; gene_name "NOP16";
+VRLL01000001.1	Genbank	exon	267472	267686	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000092-T1_mrna"; gene_id "gene-MCOR15_000092"; gene_name "NOP16";
+VRLL01000001.1	Genbank	CDS	266844	267387	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000092-T1_mrna"; gene_id "gene-MCOR15_000092"; gene_name "NOP16";
+VRLL01000001.1	Genbank	CDS	267472	267590	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000092-T1_mrna"; gene_id "gene-MCOR15_000092"; gene_name "NOP16";
+VRLL01000100.1	Genbank	transcript	38333	39817	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003949-T1_mrna"; gene_id "gene-MCOR15_003949"
+VRLL01000100.1	Genbank	exon	38333	38486	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003949-T1_mrna"; gene_id "gene-MCOR15_003949";
+VRLL01000100.1	Genbank	exon	38557	39377	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003949-T1_mrna"; gene_id "gene-MCOR15_003949";
+VRLL01000100.1	Genbank	exon	39530	39817	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003949-T1_mrna"; gene_id "gene-MCOR15_003949";
+VRLL01000100.1	Genbank	CDS	38974	39377	.	-	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003949-T1_mrna"; gene_id "gene-MCOR15_003949";
+VRLL01000100.1	Genbank	CDS	39530	39698	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003949-T1_mrna"; gene_id "gene-MCOR15_003949";
+VRLL01000108.1	Genbank	transcript	1412	3231	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004165-T1_mrna"; gene_id "gene-MCOR15_004165"; gene_name "SLD5"
+VRLL01000108.1	Genbank	exon	1412	1742	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004165-T1_mrna"; gene_id "gene-MCOR15_004165"; gene_name "SLD5";
+VRLL01000108.1	Genbank	exon	1847	2027	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004165-T1_mrna"; gene_id "gene-MCOR15_004165"; gene_name "SLD5";
+VRLL01000108.1	Genbank	exon	2112	3231	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004165-T1_mrna"; gene_id "gene-MCOR15_004165"; gene_name "SLD5";
+VRLL01000108.1	Genbank	CDS	1618	1742	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004165-T1_mrna"; gene_id "gene-MCOR15_004165"; gene_name "SLD5";
+VRLL01000108.1	Genbank	CDS	1847	2027	.	+	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004165-T1_mrna"; gene_id "gene-MCOR15_004165"; gene_name "SLD5";
+VRLL01000108.1	Genbank	CDS	2112	2471	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004165-T1_mrna"; gene_id "gene-MCOR15_004165"; gene_name "SLD5";
+VRLL01000108.1	Genbank	transcript	25961	27994	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004175-T1_mrna"; gene_id "gene-MCOR15_004175"
+VRLL01000108.1	Genbank	exon	25961	27994	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004175-T1_mrna"; gene_id "gene-MCOR15_004175";
+VRLL01000108.1	Genbank	CDS	25988	27784	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004175-T1_mrna"; gene_id "gene-MCOR15_004175";
+VRLL01000109.1	Genbank	transcript	30914	32603	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004198-T1_mrna"; gene_id "gene-MCOR15_004198"; gene_name "ATG3"
+VRLL01000109.1	Genbank	exon	30914	31659	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004198-T1_mrna"; gene_id "gene-MCOR15_004198"; gene_name "ATG3";
+VRLL01000109.1	Genbank	exon	31743	32217	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004198-T1_mrna"; gene_id "gene-MCOR15_004198"; gene_name "ATG3";
+VRLL01000109.1	Genbank	exon	32283	32603	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004198-T1_mrna"; gene_id "gene-MCOR15_004198"; gene_name "ATG3";
+VRLL01000109.1	Genbank	CDS	31139	31659	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004198-T1_mrna"; gene_id "gene-MCOR15_004198"; gene_name "ATG3";
+VRLL01000109.1	Genbank	CDS	31743	32217	.	+	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004198-T1_mrna"; gene_id "gene-MCOR15_004198"; gene_name "ATG3";
+VRLL01000109.1	Genbank	CDS	32283	32336	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004198-T1_mrna"; gene_id "gene-MCOR15_004198"; gene_name "ATG3";
+VRLL01000110.1	Genbank	transcript	5502	7018	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004214-T1_mrna"; gene_id "gene-MCOR15_004214"
+VRLL01000110.1	Genbank	exon	5502	7018	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004214-T1_mrna"; gene_id "gene-MCOR15_004214";
+VRLL01000110.1	Genbank	CDS	5617	6858	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004214-T1_mrna"; gene_id "gene-MCOR15_004214";
+VRLL01001149.1	Genbank	transcript	1178	3021	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011913-T1_mrna"; gene_id "gene-MCOR15_011913"; gene_name "RBG52"
+VRLL01001149.1	Genbank	exon	1178	1633	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011913-T1_mrna"; gene_id "gene-MCOR15_011913"; gene_name "RBG52";
+VRLL01001149.1	Genbank	exon	1688	1804	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011913-T1_mrna"; gene_id "gene-MCOR15_011913"; gene_name "RBG52";
+VRLL01001149.1	Genbank	exon	1893	1920	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011913-T1_mrna"; gene_id "gene-MCOR15_011913"; gene_name "RBG52";
+VRLL01001149.1	Genbank	exon	1985	2018	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011913-T1_mrna"; gene_id "gene-MCOR15_011913"; gene_name "RBG52";
+VRLL01001149.1	Genbank	exon	2078	2150	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011913-T1_mrna"; gene_id "gene-MCOR15_011913"; gene_name "RBG52";
+VRLL01001149.1	Genbank	exon	2220	2405	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011913-T1_mrna"; gene_id "gene-MCOR15_011913"; gene_name "RBG52";
+VRLL01001149.1	Genbank	exon	2503	2763	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011913-T1_mrna"; gene_id "gene-MCOR15_011913"; gene_name "RBG52";
+VRLL01001149.1	Genbank	exon	2846	2886	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011913-T1_mrna"; gene_id "gene-MCOR15_011913"; gene_name "RBG52";
+VRLL01001149.1	Genbank	exon	2961	3021	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011913-T1_mrna"; gene_id "gene-MCOR15_011913"; gene_name "RBG52";
+VRLL01001149.1	Genbank	CDS	1594	1633	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011913-T1_mrna"; gene_id "gene-MCOR15_011913"; gene_name "RBG52";
+VRLL01001149.1	Genbank	CDS	1688	1804	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011913-T1_mrna"; gene_id "gene-MCOR15_011913"; gene_name "RBG52";
+VRLL01001149.1	Genbank	CDS	1893	1920	.	-	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011913-T1_mrna"; gene_id "gene-MCOR15_011913"; gene_name "RBG52";
+VRLL01001149.1	Genbank	CDS	1985	2018	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011913-T1_mrna"; gene_id "gene-MCOR15_011913"; gene_name "RBG52";
+VRLL01001149.1	Genbank	CDS	2078	2150	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011913-T1_mrna"; gene_id "gene-MCOR15_011913"; gene_name "RBG52";
+VRLL01001149.1	Genbank	CDS	2220	2405	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011913-T1_mrna"; gene_id "gene-MCOR15_011913"; gene_name "RBG52";
+VRLL01001149.1	Genbank	CDS	2503	2763	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011913-T1_mrna"; gene_id "gene-MCOR15_011913"; gene_name "RBG52";
+VRLL01001149.1	Genbank	CDS	2846	2886	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011913-T1_mrna"; gene_id "gene-MCOR15_011913"; gene_name "RBG52";
+VRLL01001149.1	Genbank	CDS	2961	2963	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011913-T1_mrna"; gene_id "gene-MCOR15_011913"; gene_name "RBG52";
+VRLL01000012.1	Genbank	transcript	72500	74214	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000814-T1_mrna"; gene_id "gene-MCOR15_000814"; gene_name "UBA4"
+VRLL01000012.1	Genbank	exon	72500	72739	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000814-T1_mrna"; gene_id "gene-MCOR15_000814"; gene_name "UBA4";
+VRLL01000012.1	Genbank	exon	72821	74214	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000814-T1_mrna"; gene_id "gene-MCOR15_000814"; gene_name "UBA4";
+VRLL01000012.1	Genbank	CDS	72502	72739	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000814-T1_mrna"; gene_id "gene-MCOR15_000814"; gene_name "UBA4";
+VRLL01000012.1	Genbank	CDS	72821	74055	.	+	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000814-T1_mrna"; gene_id "gene-MCOR15_000814"; gene_name "UBA4";
+VRLL01000126.1	Genbank	transcript	35832	38090	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004600-T1_mrna"; gene_id "gene-MCOR15_004600"; gene_name "NOP7"
+VRLL01000126.1	Genbank	exon	35832	38090	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004600-T1_mrna"; gene_id "gene-MCOR15_004600"; gene_name "NOP7";
+VRLL01000126.1	Genbank	CDS	35922	37964	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004600-T1_mrna"; gene_id "gene-MCOR15_004600"; gene_name "NOP7";
+VRLL01000013.1	Genbank	transcript	88647	91991	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000880-T1_mrna"; gene_id "gene-MCOR15_000880"; gene_name "ATG7"
+VRLL01000013.1	Genbank	exon	88647	89531	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000880-T1_mrna"; gene_id "gene-MCOR15_000880"; gene_name "ATG7";
+VRLL01000013.1	Genbank	exon	89622	89730	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000880-T1_mrna"; gene_id "gene-MCOR15_000880"; gene_name "ATG7";
+VRLL01000013.1	Genbank	exon	89806	91116	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000880-T1_mrna"; gene_id "gene-MCOR15_000880"; gene_name "ATG7";
+VRLL01000013.1	Genbank	exon	91195	91991	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000880-T1_mrna"; gene_id "gene-MCOR15_000880"; gene_name "ATG7";
+VRLL01000013.1	Genbank	CDS	89290	89531	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000880-T1_mrna"; gene_id "gene-MCOR15_000880"; gene_name "ATG7";
+VRLL01000013.1	Genbank	CDS	89622	89730	.	+	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000880-T1_mrna"; gene_id "gene-MCOR15_000880"; gene_name "ATG7";
+VRLL01000013.1	Genbank	CDS	89806	91116	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000880-T1_mrna"; gene_id "gene-MCOR15_000880"; gene_name "ATG7";
+VRLL01000013.1	Genbank	CDS	91195	91677	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000880-T1_mrna"; gene_id "gene-MCOR15_000880"; gene_name "ATG7";
+VRLL01000135.1	Genbank	transcript	512	2797	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004823-T1_mrna"; gene_id "gene-MCOR15_004823"
+VRLL01000135.1	Genbank	exon	512	1868	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004823-T1_mrna"; gene_id "gene-MCOR15_004823";
+VRLL01000135.1	Genbank	exon	1956	2797	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004823-T1_mrna"; gene_id "gene-MCOR15_004823";
+VRLL01000135.1	Genbank	CDS	1463	1868	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004823-T1_mrna"; gene_id "gene-MCOR15_004823";
+VRLL01000135.1	Genbank	CDS	1956	2587	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004823-T1_mrna"; gene_id "gene-MCOR15_004823";
+VRLL01000139.1	Genbank	transcript	70699	72954	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004940-T1_mrna"; gene_id "gene-MCOR15_004940"
+VRLL01000139.1	Genbank	exon	70699	72954	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004940-T1_mrna"; gene_id "gene-MCOR15_004940";
+VRLL01000139.1	Genbank	CDS	71617	72897	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_004940-T1_mrna"; gene_id "gene-MCOR15_004940";
+VRLL01000014.1	Genbank	transcript	36143	37195	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000923-T1_mrna"; gene_id "gene-MCOR15_000923"
+VRLL01000014.1	Genbank	exon	36143	37195	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000923-T1_mrna"; gene_id "gene-MCOR15_000923";
+VRLL01000014.1	Genbank	CDS	36301	37011	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000923-T1_mrna"; gene_id "gene-MCOR15_000923";
+VRLL01000014.1	Genbank	transcript	37407	38656	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000924-T1_mrna"; gene_id "gene-MCOR15_000924"; gene_name "DPH5"
+VRLL01000014.1	Genbank	exon	37407	37594	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000924-T1_mrna"; gene_id "gene-MCOR15_000924"; gene_name "DPH5";
+VRLL01000014.1	Genbank	exon	37685	37809	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000924-T1_mrna"; gene_id "gene-MCOR15_000924"; gene_name "DPH5";
+VRLL01000014.1	Genbank	exon	37884	38656	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000924-T1_mrna"; gene_id "gene-MCOR15_000924"; gene_name "DPH5";
+VRLL01000014.1	Genbank	CDS	37460	37594	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000924-T1_mrna"; gene_id "gene-MCOR15_000924"; gene_name "DPH5";
+VRLL01000014.1	Genbank	CDS	37685	37809	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000924-T1_mrna"; gene_id "gene-MCOR15_000924"; gene_name "DPH5";
+VRLL01000014.1	Genbank	CDS	37884	38505	.	+	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000924-T1_mrna"; gene_id "gene-MCOR15_000924"; gene_name "DPH5";
+VRLL01000144.1	Genbank	transcript	11911	12615	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005048-T1_mrna"; gene_id "gene-MCOR15_005048"
+VRLL01000144.1	Genbank	exon	11911	12303	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005048-T1_mrna"; gene_id "gene-MCOR15_005048";
+VRLL01000144.1	Genbank	exon	12389	12471	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005048-T1_mrna"; gene_id "gene-MCOR15_005048";
+VRLL01000144.1	Genbank	exon	12540	12615	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005048-T1_mrna"; gene_id "gene-MCOR15_005048";
+VRLL01000144.1	Genbank	CDS	12012	12303	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005048-T1_mrna"; gene_id "gene-MCOR15_005048";
+VRLL01000144.1	Genbank	CDS	12389	12471	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005048-T1_mrna"; gene_id "gene-MCOR15_005048";
+VRLL01000144.1	Genbank	CDS	12540	12578	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005048-T1_mrna"; gene_id "gene-MCOR15_005048";
+VRLL01000144.1	Genbank	transcript	15587	16993	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005050-T1_mrna"; gene_id "gene-MCOR15_005050"
+VRLL01000144.1	Genbank	exon	15587	15882	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005050-T1_mrna"; gene_id "gene-MCOR15_005050";
+VRLL01000144.1	Genbank	exon	16025	16507	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005050-T1_mrna"; gene_id "gene-MCOR15_005050";
+VRLL01000144.1	Genbank	exon	16621	16993	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005050-T1_mrna"; gene_id "gene-MCOR15_005050";
+VRLL01000144.1	Genbank	CDS	15804	15882	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005050-T1_mrna"; gene_id "gene-MCOR15_005050";
+VRLL01000144.1	Genbank	CDS	16025	16507	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005050-T1_mrna"; gene_id "gene-MCOR15_005050";
+VRLL01000144.1	Genbank	CDS	16621	16814	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005050-T1_mrna"; gene_id "gene-MCOR15_005050";
+VRLL01000015.1	Genbank	transcript	592	3808	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000950-T1_mrna"; gene_id "gene-MCOR15_000950"
+VRLL01000015.1	Genbank	exon	592	1135	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000950-T1_mrna"; gene_id "gene-MCOR15_000950";
+VRLL01000015.1	Genbank	exon	1212	3808	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000950-T1_mrna"; gene_id "gene-MCOR15_000950";
+VRLL01000015.1	Genbank	CDS	652	1135	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000950-T1_mrna"; gene_id "gene-MCOR15_000950";
+VRLL01000015.1	Genbank	CDS	1212	3808	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000950-T1_mrna"; gene_id "gene-MCOR15_000950";
+VRLL01000150.1	Genbank	transcript	19409	22361	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005182-T1_mrna"; gene_id "gene-MCOR15_005182"
+VRLL01000150.1	Genbank	exon	19409	19816	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005182-T1_mrna"; gene_id "gene-MCOR15_005182";
+VRLL01000150.1	Genbank	exon	19886	22361	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005182-T1_mrna"; gene_id "gene-MCOR15_005182";
+VRLL01000150.1	Genbank	CDS	19526	19816	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005182-T1_mrna"; gene_id "gene-MCOR15_005182";
+VRLL01000150.1	Genbank	CDS	19886	22288	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005182-T1_mrna"; gene_id "gene-MCOR15_005182";
+VRLL01000151.1	Genbank	transcript	61858	63274	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005216-T1_mrna"; gene_id "gene-MCOR15_005216"
+VRLL01000151.1	Genbank	exon	61858	62690	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005216-T1_mrna"; gene_id "gene-MCOR15_005216";
+VRLL01000151.1	Genbank	exon	62771	63274	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005216-T1_mrna"; gene_id "gene-MCOR15_005216";
+VRLL01000151.1	Genbank	CDS	61932	62690	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005216-T1_mrna"; gene_id "gene-MCOR15_005216";
+VRLL01000151.1	Genbank	CDS	62771	63094	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005216-T1_mrna"; gene_id "gene-MCOR15_005216";
+VRLL01000154.1	Genbank	transcript	33601	35452	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005273-T1_mrna"; gene_id "gene-MCOR15_005273"
+VRLL01000154.1	Genbank	exon	33601	34153	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005273-T1_mrna"; gene_id "gene-MCOR15_005273";
+VRLL01000154.1	Genbank	exon	34230	34310	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005273-T1_mrna"; gene_id "gene-MCOR15_005273";
+VRLL01000154.1	Genbank	exon	34386	34507	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005273-T1_mrna"; gene_id "gene-MCOR15_005273";
+VRLL01000154.1	Genbank	exon	34606	34724	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005273-T1_mrna"; gene_id "gene-MCOR15_005273";
+VRLL01000154.1	Genbank	exon	34825	35452	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005273-T1_mrna"; gene_id "gene-MCOR15_005273";
+VRLL01000154.1	Genbank	CDS	33746	34153	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005273-T1_mrna"; gene_id "gene-MCOR15_005273";
+VRLL01000154.1	Genbank	CDS	34230	34310	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005273-T1_mrna"; gene_id "gene-MCOR15_005273";
+VRLL01000154.1	Genbank	CDS	34386	34507	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005273-T1_mrna"; gene_id "gene-MCOR15_005273";
+VRLL01000154.1	Genbank	CDS	34606	34724	.	+	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005273-T1_mrna"; gene_id "gene-MCOR15_005273";
+VRLL01000154.1	Genbank	CDS	34825	35294	.	+	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005273-T1_mrna"; gene_id "gene-MCOR15_005273";
+VRLL01000157.1	Genbank	transcript	55088	57145	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005348-T1_mrna"; gene_id "gene-MCOR15_005348"
+VRLL01000157.1	Genbank	exon	55088	57145	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005348-T1_mrna"; gene_id "gene-MCOR15_005348";
+VRLL01000157.1	Genbank	CDS	55265	57022	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005348-T1_mrna"; gene_id "gene-MCOR15_005348";
+VRLL01000161.1	Genbank	transcript	61921	63851	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005443-T1_mrna"; gene_id "gene-MCOR15_005443"; gene_name "HAT1"
+VRLL01000161.1	Genbank	exon	61921	63255	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005443-T1_mrna"; gene_id "gene-MCOR15_005443"; gene_name "HAT1";
+VRLL01000161.1	Genbank	exon	63326	63601	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005443-T1_mrna"; gene_id "gene-MCOR15_005443"; gene_name "HAT1";
+VRLL01000161.1	Genbank	exon	63669	63851	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005443-T1_mrna"; gene_id "gene-MCOR15_005443"; gene_name "HAT1";
+VRLL01000161.1	Genbank	CDS	62144	63255	.	-	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005443-T1_mrna"; gene_id "gene-MCOR15_005443"; gene_name "HAT1";
+VRLL01000161.1	Genbank	CDS	63326	63601	.	-	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005443-T1_mrna"; gene_id "gene-MCOR15_005443"; gene_name "HAT1";
+VRLL01000161.1	Genbank	CDS	63669	63687	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005443-T1_mrna"; gene_id "gene-MCOR15_005443"; gene_name "HAT1";
+VRLL01000167.1	Genbank	transcript	15975	17215	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005558-T1_mrna"; gene_id "gene-MCOR15_005558"
+VRLL01000167.1	Genbank	exon	15975	17215	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005558-T1_mrna"; gene_id "gene-MCOR15_005558";
+VRLL01000167.1	Genbank	CDS	16344	17087	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005558-T1_mrna"; gene_id "gene-MCOR15_005558";
+VRLL01000167.1	Genbank	transcript	24227	26451	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005563-T1_mrna"; gene_id "gene-MCOR15_005563"
+VRLL01000167.1	Genbank	exon	24227	24537	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005563-T1_mrna"; gene_id "gene-MCOR15_005563";
+VRLL01000167.1	Genbank	exon	24655	25218	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005563-T1_mrna"; gene_id "gene-MCOR15_005563";
+VRLL01000167.1	Genbank	exon	25286	25726	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005563-T1_mrna"; gene_id "gene-MCOR15_005563";
+VRLL01000167.1	Genbank	exon	25805	26451	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005563-T1_mrna"; gene_id "gene-MCOR15_005563";
+VRLL01000167.1	Genbank	CDS	24469	24537	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005563-T1_mrna"; gene_id "gene-MCOR15_005563";
+VRLL01000167.1	Genbank	CDS	24655	25218	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005563-T1_mrna"; gene_id "gene-MCOR15_005563";
+VRLL01000167.1	Genbank	CDS	25286	25726	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005563-T1_mrna"; gene_id "gene-MCOR15_005563";
+VRLL01000167.1	Genbank	CDS	25805	26440	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005563-T1_mrna"; gene_id "gene-MCOR15_005563";
+VRLL01000017.1	Genbank	transcript	36357	37959	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001061-T1_mrna"; gene_id "gene-MCOR15_001061"
+VRLL01000017.1	Genbank	exon	36357	37959	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001061-T1_mrna"; gene_id "gene-MCOR15_001061";
+VRLL01000017.1	Genbank	CDS	36503	37897	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001061-T1_mrna"; gene_id "gene-MCOR15_001061";
+VRLL01000017.1	Genbank	transcript	87875	89786	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001076-T1_mrna"; gene_id "gene-MCOR15_001076"
+VRLL01000017.1	Genbank	exon	87875	88176	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001076-T1_mrna"; gene_id "gene-MCOR15_001076";
+VRLL01000017.1	Genbank	exon	88245	89786	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001076-T1_mrna"; gene_id "gene-MCOR15_001076";
+VRLL01000017.1	Genbank	CDS	87929	88176	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001076-T1_mrna"; gene_id "gene-MCOR15_001076";
+VRLL01000017.1	Genbank	CDS	88245	89652	.	+	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001076-T1_mrna"; gene_id "gene-MCOR15_001076";
+VRLL01000172.1	Genbank	transcript	62307	63096	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005680-T1_mrna"; gene_id "gene-MCOR15_005680"; gene_name "TRF2_1"
+VRLL01000172.1	Genbank	exon	62307	62449	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005680-T1_mrna"; gene_id "gene-MCOR15_005680"; gene_name "TRF2_1";
+VRLL01000172.1	Genbank	exon	62526	62779	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005680-T1_mrna"; gene_id "gene-MCOR15_005680"; gene_name "TRF2_1";
+VRLL01000172.1	Genbank	exon	62913	63096	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005680-T1_mrna"; gene_id "gene-MCOR15_005680"; gene_name "TRF2_1";
+VRLL01000172.1	Genbank	CDS	62416	62449	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005680-T1_mrna"; gene_id "gene-MCOR15_005680"; gene_name "TRF2_1";
+VRLL01000172.1	Genbank	CDS	62526	62779	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005680-T1_mrna"; gene_id "gene-MCOR15_005680"; gene_name "TRF2_1";
+VRLL01000172.1	Genbank	CDS	62913	62993	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005680-T1_mrna"; gene_id "gene-MCOR15_005680"; gene_name "TRF2_1";
+VRLL01000175.1	Genbank	transcript	43738	46851	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005740-T1_mrna"; gene_id "gene-MCOR15_005740"
+VRLL01000175.1	Genbank	exon	43738	43960	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005740-T1_mrna"; gene_id "gene-MCOR15_005740";
+VRLL01000175.1	Genbank	exon	44023	44193	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005740-T1_mrna"; gene_id "gene-MCOR15_005740";
+VRLL01000175.1	Genbank	exon	44291	44484	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005740-T1_mrna"; gene_id "gene-MCOR15_005740";
+VRLL01000175.1	Genbank	exon	44835	44938	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005740-T1_mrna"; gene_id "gene-MCOR15_005740";
+VRLL01000175.1	Genbank	exon	45018	46851	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005740-T1_mrna"; gene_id "gene-MCOR15_005740";
+VRLL01000175.1	Genbank	CDS	43738	43960	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005740-T1_mrna"; gene_id "gene-MCOR15_005740";
+VRLL01000175.1	Genbank	CDS	44023	44193	.	+	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005740-T1_mrna"; gene_id "gene-MCOR15_005740";
+VRLL01000175.1	Genbank	CDS	44291	44484	.	+	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005740-T1_mrna"; gene_id "gene-MCOR15_005740";
+VRLL01000175.1	Genbank	CDS	44835	44938	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005740-T1_mrna"; gene_id "gene-MCOR15_005740";
+VRLL01000175.1	Genbank	CDS	45018	46851	.	+	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005740-T1_mrna"; gene_id "gene-MCOR15_005740";
+VRLL01000178.1	Genbank	transcript	46706	49199	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005797-T1_mrna"; gene_id "gene-MCOR15_005797"
+VRLL01000178.1	Genbank	exon	46706	48744	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005797-T1_mrna"; gene_id "gene-MCOR15_005797";
+VRLL01000178.1	Genbank	exon	48829	49199	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005797-T1_mrna"; gene_id "gene-MCOR15_005797";
+VRLL01000178.1	Genbank	CDS	46922	48744	.	-	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005797-T1_mrna"; gene_id "gene-MCOR15_005797";
+VRLL01000178.1	Genbank	CDS	48829	48967	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005797-T1_mrna"; gene_id "gene-MCOR15_005797";
+VRLL01000180.1	Genbank	transcript	33237	35751	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005835-T1_mrna"; gene_id "gene-MCOR15_005835"; gene_name "DBP7"
+VRLL01000180.1	Genbank	exon	33237	35751	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005835-T1_mrna"; gene_id "gene-MCOR15_005835"; gene_name "DBP7";
+VRLL01000180.1	Genbank	CDS	33274	35751	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005835-T1_mrna"; gene_id "gene-MCOR15_005835"; gene_name "DBP7";
+VRLL01000184.1	Genbank	transcript	30992	33951	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005900-T1_mrna"; gene_id "gene-MCOR15_005900"
+VRLL01000184.1	Genbank	exon	30992	32249	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005900-T1_mrna"; gene_id "gene-MCOR15_005900";
+VRLL01000184.1	Genbank	exon	32314	33438	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005900-T1_mrna"; gene_id "gene-MCOR15_005900";
+VRLL01000184.1	Genbank	exon	33522	33951	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005900-T1_mrna"; gene_id "gene-MCOR15_005900";
+VRLL01000184.1	Genbank	CDS	31718	32249	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005900-T1_mrna"; gene_id "gene-MCOR15_005900";
+VRLL01000184.1	Genbank	CDS	32314	33438	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005900-T1_mrna"; gene_id "gene-MCOR15_005900";
+VRLL01000184.1	Genbank	CDS	33522	33712	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005900-T1_mrna"; gene_id "gene-MCOR15_005900";
+VRLL01000188.1	Genbank	transcript	51664	53223	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005993-T1_mrna"; gene_id "gene-MCOR15_005993"
+VRLL01000188.1	Genbank	exon	51664	53223	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005993-T1_mrna"; gene_id "gene-MCOR15_005993";
+VRLL01000188.1	Genbank	CDS	51686	53068	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_005993-T1_mrna"; gene_id "gene-MCOR15_005993";
+VRLL01000019.1	Genbank	transcript	84048	85351	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001183-T1_mrna"; gene_id "gene-MCOR15_001183"
+VRLL01000019.1	Genbank	exon	84048	84514	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001183-T1_mrna"; gene_id "gene-MCOR15_001183";
+VRLL01000019.1	Genbank	exon	84602	85351	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001183-T1_mrna"; gene_id "gene-MCOR15_001183";
+VRLL01000019.1	Genbank	CDS	84168	84514	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001183-T1_mrna"; gene_id "gene-MCOR15_001183";
+VRLL01000019.1	Genbank	CDS	84602	85256	.	+	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001183-T1_mrna"; gene_id "gene-MCOR15_001183";
+VRLL01000190.1	Genbank	transcript	6495	8036	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006015-T1_mrna"; gene_id "gene-MCOR15_006015"
+VRLL01000190.1	Genbank	exon	6495	7183	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006015-T1_mrna"; gene_id "gene-MCOR15_006015";
+VRLL01000190.1	Genbank	exon	7292	7634	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006015-T1_mrna"; gene_id "gene-MCOR15_006015";
+VRLL01000190.1	Genbank	exon	7751	8036	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006015-T1_mrna"; gene_id "gene-MCOR15_006015";
+VRLL01000190.1	Genbank	CDS	6595	7183	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006015-T1_mrna"; gene_id "gene-MCOR15_006015";
+VRLL01000190.1	Genbank	CDS	7292	7634	.	-	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006015-T1_mrna"; gene_id "gene-MCOR15_006015";
+VRLL01000190.1	Genbank	CDS	7751	7898	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006015-T1_mrna"; gene_id "gene-MCOR15_006015";
+VRLL01000190.1	Genbank	transcript	15515	18249	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006019-T1_mrna"; gene_id "gene-MCOR15_006019"; gene_name "COG6"
+VRLL01000190.1	Genbank	exon	15515	17570	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006019-T1_mrna"; gene_id "gene-MCOR15_006019"; gene_name "COG6";
+VRLL01000190.1	Genbank	exon	17677	18249	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006019-T1_mrna"; gene_id "gene-MCOR15_006019"; gene_name "COG6";
+VRLL01000190.1	Genbank	CDS	15747	17570	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006019-T1_mrna"; gene_id "gene-MCOR15_006019"; gene_name "COG6";
+VRLL01000190.1	Genbank	CDS	17677	17967	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006019-T1_mrna"; gene_id "gene-MCOR15_006019"; gene_name "COG6";
+VRLL01000191.1	Genbank	transcript	56275	60170	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006049-T1_mrna"; gene_id "gene-MCOR15_006049"; gene_name "HIR1"
+VRLL01000191.1	Genbank	exon	56275	56735	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006049-T1_mrna"; gene_id "gene-MCOR15_006049"; gene_name "HIR1";
+VRLL01000191.1	Genbank	exon	56806	59577	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006049-T1_mrna"; gene_id "gene-MCOR15_006049"; gene_name "HIR1";
+VRLL01000191.1	Genbank	exon	59660	59953	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006049-T1_mrna"; gene_id "gene-MCOR15_006049"; gene_name "HIR1";
+VRLL01000191.1	Genbank	exon	60066	60170	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006049-T1_mrna"; gene_id "gene-MCOR15_006049"; gene_name "HIR1";
+VRLL01000191.1	Genbank	CDS	56623	56735	.	-	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006049-T1_mrna"; gene_id "gene-MCOR15_006049"; gene_name "HIR1";
+VRLL01000191.1	Genbank	CDS	56806	59577	.	-	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006049-T1_mrna"; gene_id "gene-MCOR15_006049"; gene_name "HIR1";
+VRLL01000191.1	Genbank	CDS	59660	59953	.	-	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006049-T1_mrna"; gene_id "gene-MCOR15_006049"; gene_name "HIR1";
+VRLL01000191.1	Genbank	CDS	60066	60102	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006049-T1_mrna"; gene_id "gene-MCOR15_006049"; gene_name "HIR1";
+VRLL01000204.1	Genbank	transcript	15968	18454	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006290-T1_mrna"; gene_id "gene-MCOR15_006290"
+VRLL01000204.1	Genbank	exon	15968	18454	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006290-T1_mrna"; gene_id "gene-MCOR15_006290";
+VRLL01000204.1	Genbank	CDS	16072	18339	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006290-T1_mrna"; gene_id "gene-MCOR15_006290";
+VRLL01000207.1	Genbank	transcript	42454	44925	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006355-T1_mrna"; gene_id "gene-MCOR15_006355"
+VRLL01000207.1	Genbank	exon	42454	43687	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006355-T1_mrna"; gene_id "gene-MCOR15_006355";
+VRLL01000207.1	Genbank	exon	43771	44925	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006355-T1_mrna"; gene_id "gene-MCOR15_006355";
+VRLL01000207.1	Genbank	CDS	42821	43687	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006355-T1_mrna"; gene_id "gene-MCOR15_006355";
+VRLL01000207.1	Genbank	CDS	43771	44562	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006355-T1_mrna"; gene_id "gene-MCOR15_006355";
+VRLL01000208.1	Genbank	transcript	30223	31590	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006370-T1_mrna"; gene_id "gene-MCOR15_006370"
+VRLL01000208.1	Genbank	exon	30223	31590	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006370-T1_mrna"; gene_id "gene-MCOR15_006370";
+VRLL01000208.1	Genbank	CDS	30351	31550	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006370-T1_mrna"; gene_id "gene-MCOR15_006370";
+VRLL01000212.1	Genbank	transcript	42941	44503	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006452-T1_mrna"; gene_id "gene-MCOR15_006452"
+VRLL01000212.1	Genbank	exon	42941	43109	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006452-T1_mrna"; gene_id "gene-MCOR15_006452";
+VRLL01000212.1	Genbank	exon	43240	43337	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006452-T1_mrna"; gene_id "gene-MCOR15_006452";
+VRLL01000212.1	Genbank	exon	43410	44284	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006452-T1_mrna"; gene_id "gene-MCOR15_006452";
+VRLL01000212.1	Genbank	exon	44397	44503	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006452-T1_mrna"; gene_id "gene-MCOR15_006452";
+VRLL01000212.1	Genbank	CDS	43010	43109	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006452-T1_mrna"; gene_id "gene-MCOR15_006452";
+VRLL01000212.1	Genbank	CDS	43240	43337	.	+	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006452-T1_mrna"; gene_id "gene-MCOR15_006452";
+VRLL01000212.1	Genbank	CDS	43410	44267	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006452-T1_mrna"; gene_id "gene-MCOR15_006452";
+VRLL01000216.1	Genbank	transcript	10099	12288	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006503-T1_mrna"; gene_id "gene-MCOR15_006503"
+VRLL01000216.1	Genbank	exon	10099	10608	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006503-T1_mrna"; gene_id "gene-MCOR15_006503";
+VRLL01000216.1	Genbank	exon	10702	11096	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006503-T1_mrna"; gene_id "gene-MCOR15_006503";
+VRLL01000216.1	Genbank	exon	11177	12288	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006503-T1_mrna"; gene_id "gene-MCOR15_006503";
+VRLL01000216.1	Genbank	CDS	10540	10608	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006503-T1_mrna"; gene_id "gene-MCOR15_006503";
+VRLL01000216.1	Genbank	CDS	10702	11096	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006503-T1_mrna"; gene_id "gene-MCOR15_006503";
+VRLL01000216.1	Genbank	CDS	11177	11918	.	+	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006503-T1_mrna"; gene_id "gene-MCOR15_006503";
+VRLL01000223.1	Genbank	transcript	12001	14138	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006611-T1_mrna"; gene_id "gene-MCOR15_006611"
+VRLL01000223.1	Genbank	exon	12001	14138	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006611-T1_mrna"; gene_id "gene-MCOR15_006611";
+VRLL01000223.1	Genbank	CDS	12001	14022	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006611-T1_mrna"; gene_id "gene-MCOR15_006611";
+VRLL01000225.1	Genbank	transcript	42566	44714	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006650-T1_mrna"; gene_id "gene-MCOR15_006650"
+VRLL01000225.1	Genbank	exon	42566	43760	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006650-T1_mrna"; gene_id "gene-MCOR15_006650";
+VRLL01000225.1	Genbank	exon	43836	44308	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006650-T1_mrna"; gene_id "gene-MCOR15_006650";
+VRLL01000225.1	Genbank	exon	44402	44613	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006650-T1_mrna"; gene_id "gene-MCOR15_006650";
+VRLL01000225.1	Genbank	exon	44681	44714	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006650-T1_mrna"; gene_id "gene-MCOR15_006650";
+VRLL01000225.1	Genbank	CDS	43196	43760	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006650-T1_mrna"; gene_id "gene-MCOR15_006650";
+VRLL01000225.1	Genbank	CDS	43836	44308	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006650-T1_mrna"; gene_id "gene-MCOR15_006650";
+VRLL01000225.1	Genbank	CDS	44402	44613	.	-	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006650-T1_mrna"; gene_id "gene-MCOR15_006650";
+VRLL01000225.1	Genbank	CDS	44681	44714	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006650-T1_mrna"; gene_id "gene-MCOR15_006650";
+VRLL01000241.1	Genbank	transcript	9180	11662	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006874-T1_mrna"; gene_id "gene-MCOR15_006874"; gene_name "SDA1"
+VRLL01000241.1	Genbank	exon	9180	11401	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006874-T1_mrna"; gene_id "gene-MCOR15_006874"; gene_name "SDA1";
+VRLL01000241.1	Genbank	exon	11474	11509	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006874-T1_mrna"; gene_id "gene-MCOR15_006874"; gene_name "SDA1";
+VRLL01000241.1	Genbank	exon	11569	11662	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006874-T1_mrna"; gene_id "gene-MCOR15_006874"; gene_name "SDA1";
+VRLL01000241.1	Genbank	CDS	9241	11401	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006874-T1_mrna"; gene_id "gene-MCOR15_006874"; gene_name "SDA1";
+VRLL01000241.1	Genbank	CDS	11474	11509	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006874-T1_mrna"; gene_id "gene-MCOR15_006874"; gene_name "SDA1";
+VRLL01000241.1	Genbank	CDS	11569	11615	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006874-T1_mrna"; gene_id "gene-MCOR15_006874"; gene_name "SDA1";
+VRLL01000249.1	Genbank	transcript	25087	26859	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006987-T1_mrna"; gene_id "gene-MCOR15_006987"; gene_name "DRE2"
+VRLL01000249.1	Genbank	exon	25087	26223	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006987-T1_mrna"; gene_id "gene-MCOR15_006987"; gene_name "DRE2";
+VRLL01000249.1	Genbank	exon	26304	26859	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006987-T1_mrna"; gene_id "gene-MCOR15_006987"; gene_name "DRE2";
+VRLL01000249.1	Genbank	CDS	25563	26223	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006987-T1_mrna"; gene_id "gene-MCOR15_006987"; gene_name "DRE2";
+VRLL01000249.1	Genbank	CDS	26304	26626	.	+	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_006987-T1_mrna"; gene_id "gene-MCOR15_006987"; gene_name "DRE2";
+VRLL01000258.1	Genbank	transcript	20163	21554	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007126-T1_mrna"; gene_id "gene-MCOR15_007126"
+VRLL01000258.1	Genbank	exon	20163	21221	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007126-T1_mrna"; gene_id "gene-MCOR15_007126";
+VRLL01000258.1	Genbank	exon	21286	21386	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007126-T1_mrna"; gene_id "gene-MCOR15_007126";
+VRLL01000258.1	Genbank	exon	21449	21554	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007126-T1_mrna"; gene_id "gene-MCOR15_007126";
+VRLL01000258.1	Genbank	CDS	20163	21221	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007126-T1_mrna"; gene_id "gene-MCOR15_007126";
+VRLL01000258.1	Genbank	CDS	21286	21386	.	-	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007126-T1_mrna"; gene_id "gene-MCOR15_007126";
+VRLL01000258.1	Genbank	CDS	21449	21554	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007126-T1_mrna"; gene_id "gene-MCOR15_007126";
+VRLL01000262.1	Genbank	transcript	28927	31493	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007204-T1_mrna"; gene_id "gene-MCOR15_007204"; gene_name "UTP25"
+VRLL01000262.1	Genbank	exon	28927	30324	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007204-T1_mrna"; gene_id "gene-MCOR15_007204"; gene_name "UTP25";
+VRLL01000262.1	Genbank	exon	30393	31109	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007204-T1_mrna"; gene_id "gene-MCOR15_007204"; gene_name "UTP25";
+VRLL01000262.1	Genbank	exon	31256	31493	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007204-T1_mrna"; gene_id "gene-MCOR15_007204"; gene_name "UTP25";
+VRLL01000262.1	Genbank	CDS	29022	30324	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007204-T1_mrna"; gene_id "gene-MCOR15_007204"; gene_name "UTP25";
+VRLL01000262.1	Genbank	CDS	30393	31109	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007204-T1_mrna"; gene_id "gene-MCOR15_007204"; gene_name "UTP25";
+VRLL01000262.1	Genbank	CDS	31256	31404	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007204-T1_mrna"; gene_id "gene-MCOR15_007204"; gene_name "UTP25";
+VRLL01000262.1	Genbank	transcript	31721	33572	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007205-T1_mrna"; gene_id "gene-MCOR15_007205"
+VRLL01000262.1	Genbank	exon	31721	33572	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007205-T1_mrna"; gene_id "gene-MCOR15_007205";
+VRLL01000262.1	Genbank	CDS	32007	33119	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007205-T1_mrna"; gene_id "gene-MCOR15_007205";
+VRLL01000270.1	Genbank	transcript	43380	45698	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007325-T1_mrna"; gene_id "gene-MCOR15_007325"
+VRLL01000270.1	Genbank	exon	43380	44025	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007325-T1_mrna"; gene_id "gene-MCOR15_007325";
+VRLL01000270.1	Genbank	exon	44096	45133	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007325-T1_mrna"; gene_id "gene-MCOR15_007325";
+VRLL01000270.1	Genbank	exon	45218	45698	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007325-T1_mrna"; gene_id "gene-MCOR15_007325";
+VRLL01000270.1	Genbank	CDS	43942	44025	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007325-T1_mrna"; gene_id "gene-MCOR15_007325";
+VRLL01000270.1	Genbank	CDS	44096	45133	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007325-T1_mrna"; gene_id "gene-MCOR15_007325";
+VRLL01000270.1	Genbank	CDS	45218	45511	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007325-T1_mrna"; gene_id "gene-MCOR15_007325";
+VRLL01000272.1	Genbank	transcript	29973	32568	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007353-T1_mrna"; gene_id "gene-MCOR15_007353"
+VRLL01000272.1	Genbank	exon	29973	31018	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007353-T1_mrna"; gene_id "gene-MCOR15_007353";
+VRLL01000272.1	Genbank	exon	31095	32568	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007353-T1_mrna"; gene_id "gene-MCOR15_007353";
+VRLL01000272.1	Genbank	CDS	30110	31018	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007353-T1_mrna"; gene_id "gene-MCOR15_007353";
+VRLL01000272.1	Genbank	CDS	31095	32096	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007353-T1_mrna"; gene_id "gene-MCOR15_007353";
+VRLL01000277.1	Genbank	transcript	14767	16700	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007431-T1_mrna"; gene_id "gene-MCOR15_007431"; gene_name "FYV10"
+VRLL01000277.1	Genbank	exon	14767	15015	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007431-T1_mrna"; gene_id "gene-MCOR15_007431"; gene_name "FYV10";
+VRLL01000277.1	Genbank	exon	15144	15683	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007431-T1_mrna"; gene_id "gene-MCOR15_007431"; gene_name "FYV10";
+VRLL01000277.1	Genbank	exon	15784	16700	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007431-T1_mrna"; gene_id "gene-MCOR15_007431"; gene_name "FYV10";
+VRLL01000277.1	Genbank	CDS	14965	15015	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007431-T1_mrna"; gene_id "gene-MCOR15_007431"; gene_name "FYV10";
+VRLL01000277.1	Genbank	CDS	15144	15683	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007431-T1_mrna"; gene_id "gene-MCOR15_007431"; gene_name "FYV10";
+VRLL01000277.1	Genbank	CDS	15784	16425	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007431-T1_mrna"; gene_id "gene-MCOR15_007431"; gene_name "FYV10";
+VRLL01000028.1	Genbank	transcript	7099	8311	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001601-T1_mrna"; gene_id "gene-MCOR15_001601"
+VRLL01000028.1	Genbank	exon	7099	7235	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001601-T1_mrna"; gene_id "gene-MCOR15_001601";
+VRLL01000028.1	Genbank	exon	7327	8311	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001601-T1_mrna"; gene_id "gene-MCOR15_001601";
+VRLL01000028.1	Genbank	CDS	7213	7235	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001601-T1_mrna"; gene_id "gene-MCOR15_001601";
+VRLL01000028.1	Genbank	CDS	7327	8143	.	+	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001601-T1_mrna"; gene_id "gene-MCOR15_001601";
+VRLL01000286.1	Genbank	transcript	9829	11665	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007547-T1_mrna"; gene_id "gene-MCOR15_007547"
+VRLL01000286.1	Genbank	exon	9829	11665	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007547-T1_mrna"; gene_id "gene-MCOR15_007547";
+VRLL01000286.1	Genbank	CDS	10152	11615	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007547-T1_mrna"; gene_id "gene-MCOR15_007547";
+VRLL01000029.1	Genbank	transcript	3200	4561	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001649-T1_mrna"; gene_id "gene-MCOR15_001649"
+VRLL01000029.1	Genbank	exon	3200	3423	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001649-T1_mrna"; gene_id "gene-MCOR15_001649";
+VRLL01000029.1	Genbank	exon	3546	3615	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001649-T1_mrna"; gene_id "gene-MCOR15_001649";
+VRLL01000029.1	Genbank	exon	3755	4211	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001649-T1_mrna"; gene_id "gene-MCOR15_001649";
+VRLL01000029.1	Genbank	exon	4269	4561	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001649-T1_mrna"; gene_id "gene-MCOR15_001649";
+VRLL01000029.1	Genbank	CDS	3236	3423	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001649-T1_mrna"; gene_id "gene-MCOR15_001649";
+VRLL01000029.1	Genbank	CDS	3546	3615	.	+	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001649-T1_mrna"; gene_id "gene-MCOR15_001649";
+VRLL01000029.1	Genbank	CDS	3755	4211	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001649-T1_mrna"; gene_id "gene-MCOR15_001649";
+VRLL01000029.1	Genbank	CDS	4269	4336	.	+	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001649-T1_mrna"; gene_id "gene-MCOR15_001649";
+VRLL01000029.1	Genbank	transcript	52791	54785	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001658-T1_mrna"; gene_id "gene-MCOR15_001658"
+VRLL01000029.1	Genbank	exon	52791	54372	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001658-T1_mrna"; gene_id "gene-MCOR15_001658";
+VRLL01000029.1	Genbank	exon	54459	54785	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001658-T1_mrna"; gene_id "gene-MCOR15_001658";
+VRLL01000029.1	Genbank	CDS	53045	54372	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001658-T1_mrna"; gene_id "gene-MCOR15_001658";
+VRLL01000029.1	Genbank	CDS	54459	54711	.	+	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001658-T1_mrna"; gene_id "gene-MCOR15_001658";
+VRLL01000003.1	Genbank	transcript	104082	105332	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000204-T1_mrna"; gene_id "gene-MCOR15_000204"
+VRLL01000003.1	Genbank	exon	104082	105004	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000204-T1_mrna"; gene_id "gene-MCOR15_000204";
+VRLL01000003.1	Genbank	exon	105132	105332	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000204-T1_mrna"; gene_id "gene-MCOR15_000204";
+VRLL01000003.1	Genbank	CDS	104413	105004	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000204-T1_mrna"; gene_id "gene-MCOR15_000204";
+VRLL01000003.1	Genbank	CDS	105132	105145	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000204-T1_mrna"; gene_id "gene-MCOR15_000204";
+VRLL01000305.1	Genbank	transcript	30789	33448	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007805-T1_mrna"; gene_id "gene-MCOR15_007805"
+VRLL01000305.1	Genbank	exon	30789	31561	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007805-T1_mrna"; gene_id "gene-MCOR15_007805";
+VRLL01000305.1	Genbank	exon	31624	33448	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007805-T1_mrna"; gene_id "gene-MCOR15_007805";
+VRLL01000305.1	Genbank	CDS	30789	31561	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007805-T1_mrna"; gene_id "gene-MCOR15_007805";
+VRLL01000305.1	Genbank	CDS	31624	33448	.	+	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007805-T1_mrna"; gene_id "gene-MCOR15_007805";
+VRLL01000032.1	Genbank	transcript	33930	35359	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001777-T1_mrna"; gene_id "gene-MCOR15_001777"; gene_name "TMA22"
+VRLL01000032.1	Genbank	exon	33930	34576	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001777-T1_mrna"; gene_id "gene-MCOR15_001777"; gene_name "TMA22";
+VRLL01000032.1	Genbank	exon	34648	34953	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001777-T1_mrna"; gene_id "gene-MCOR15_001777"; gene_name "TMA22";
+VRLL01000032.1	Genbank	exon	35042	35061	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001777-T1_mrna"; gene_id "gene-MCOR15_001777"; gene_name "TMA22";
+VRLL01000032.1	Genbank	exon	35131	35359	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001777-T1_mrna"; gene_id "gene-MCOR15_001777"; gene_name "TMA22";
+VRLL01000032.1	Genbank	CDS	34367	34576	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001777-T1_mrna"; gene_id "gene-MCOR15_001777"; gene_name "TMA22";
+VRLL01000032.1	Genbank	CDS	34648	34953	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001777-T1_mrna"; gene_id "gene-MCOR15_001777"; gene_name "TMA22";
+VRLL01000032.1	Genbank	CDS	35042	35061	.	-	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001777-T1_mrna"; gene_id "gene-MCOR15_001777"; gene_name "TMA22";
+VRLL01000032.1	Genbank	CDS	35131	35200	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001777-T1_mrna"; gene_id "gene-MCOR15_001777"; gene_name "TMA22";
+VRLL01000320.1	Genbank	transcript	7654	9685	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007995-T1_mrna"; gene_id "gene-MCOR15_007995"
+VRLL01000320.1	Genbank	exon	7654	8674	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007995-T1_mrna"; gene_id "gene-MCOR15_007995";
+VRLL01000320.1	Genbank	exon	8824	9685	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007995-T1_mrna"; gene_id "gene-MCOR15_007995";
+VRLL01000320.1	Genbank	CDS	7706	8674	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007995-T1_mrna"; gene_id "gene-MCOR15_007995";
+VRLL01000320.1	Genbank	CDS	8824	9243	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_007995-T1_mrna"; gene_id "gene-MCOR15_007995";
+VRLL01000033.1	Genbank	transcript	49619	51976	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001820-T2_mrna"; gene_id "gene-MCOR15_001820"
+VRLL01000033.1	Genbank	exon	49619	49876	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001820-T2_mrna"; gene_id "gene-MCOR15_001820";
+VRLL01000033.1	Genbank	exon	49952	51074	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001820-T2_mrna"; gene_id "gene-MCOR15_001820";
+VRLL01000033.1	Genbank	exon	51158	51976	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001820-T2_mrna"; gene_id "gene-MCOR15_001820";
+VRLL01000033.1	Genbank	CDS	49831	49876	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001820-T2_mrna"; gene_id "gene-MCOR15_001820";
+VRLL01000033.1	Genbank	CDS	49952	51074	.	-	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001820-T2_mrna"; gene_id "gene-MCOR15_001820";
+VRLL01000033.1	Genbank	CDS	51158	51764	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001820-T2_mrna"; gene_id "gene-MCOR15_001820";
+VRLL01000330.1	Genbank	transcript	16760	20089	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008118-T1_mrna"; gene_id "gene-MCOR15_008118"
+VRLL01000330.1	Genbank	exon	16760	17441	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008118-T1_mrna"; gene_id "gene-MCOR15_008118";
+VRLL01000330.1	Genbank	exon	17517	19199	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008118-T1_mrna"; gene_id "gene-MCOR15_008118";
+VRLL01000330.1	Genbank	exon	19267	20089	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008118-T1_mrna"; gene_id "gene-MCOR15_008118";
+VRLL01000330.1	Genbank	CDS	16791	17441	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008118-T1_mrna"; gene_id "gene-MCOR15_008118";
+VRLL01000330.1	Genbank	CDS	17517	19199	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008118-T1_mrna"; gene_id "gene-MCOR15_008118";
+VRLL01000330.1	Genbank	CDS	19267	20070	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008118-T1_mrna"; gene_id "gene-MCOR15_008118";
+VRLL01000334.1	Genbank	transcript	31160	34239	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008164-T1_mrna"; gene_id "gene-MCOR15_008164"
+VRLL01000334.1	Genbank	exon	31160	31238	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008164-T1_mrna"; gene_id "gene-MCOR15_008164";
+VRLL01000334.1	Genbank	exon	31315	34239	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008164-T1_mrna"; gene_id "gene-MCOR15_008164";
+VRLL01000334.1	Genbank	CDS	31222	31238	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008164-T1_mrna"; gene_id "gene-MCOR15_008164";
+VRLL01000334.1	Genbank	CDS	31315	34204	.	+	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008164-T1_mrna"; gene_id "gene-MCOR15_008164";
+VRLL01000034.1	Genbank	transcript	15299	17110	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001851-T1_mrna"; gene_id "gene-MCOR15_001851"
+VRLL01000034.1	Genbank	exon	15299	16058	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001851-T1_mrna"; gene_id "gene-MCOR15_001851";
+VRLL01000034.1	Genbank	exon	16199	17110	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001851-T1_mrna"; gene_id "gene-MCOR15_001851";
+VRLL01000034.1	Genbank	CDS	15422	16058	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001851-T1_mrna"; gene_id "gene-MCOR15_001851";
+VRLL01000034.1	Genbank	CDS	16199	16998	.	+	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001851-T1_mrna"; gene_id "gene-MCOR15_001851";
+VRLL01000034.1	Genbank	transcript	34882	38490	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001859-T1_mrna"; gene_id "gene-MCOR15_001859"; gene_name "MCM4"
+VRLL01000034.1	Genbank	exon	34882	35432	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001859-T1_mrna"; gene_id "gene-MCOR15_001859"; gene_name "MCM4";
+VRLL01000034.1	Genbank	exon	35521	37661	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001859-T1_mrna"; gene_id "gene-MCOR15_001859"; gene_name "MCM4";
+VRLL01000034.1	Genbank	exon	37746	38490	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001859-T1_mrna"; gene_id "gene-MCOR15_001859"; gene_name "MCM4";
+VRLL01000034.1	Genbank	CDS	35066	35432	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001859-T1_mrna"; gene_id "gene-MCOR15_001859"; gene_name "MCM4";
+VRLL01000034.1	Genbank	CDS	35521	37661	.	+	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001859-T1_mrna"; gene_id "gene-MCOR15_001859"; gene_name "MCM4";
+VRLL01000034.1	Genbank	CDS	37746	38327	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001859-T1_mrna"; gene_id "gene-MCOR15_001859"; gene_name "MCM4";
+VRLL01000034.1	Genbank	transcript	78621	79713	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001873-T1_mrna"; gene_id "gene-MCOR15_001873"; gene_name "GAR1_1"
+VRLL01000034.1	Genbank	exon	78621	79464	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001873-T1_mrna"; gene_id "gene-MCOR15_001873"; gene_name "GAR1_1";
+VRLL01000034.1	Genbank	exon	79564	79713	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001873-T1_mrna"; gene_id "gene-MCOR15_001873"; gene_name "GAR1_1";
+VRLL01000034.1	Genbank	CDS	78872	79464	.	-	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001873-T1_mrna"; gene_id "gene-MCOR15_001873"; gene_name "GAR1_1";
+VRLL01000034.1	Genbank	CDS	79564	79621	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001873-T1_mrna"; gene_id "gene-MCOR15_001873"; gene_name "GAR1_1";
+VRLL01000034.1	Genbank	transcript	133613	135449	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001896-T1_mrna"; gene_id "gene-MCOR15_001896"
+VRLL01000034.1	Genbank	exon	133613	134233	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001896-T1_mrna"; gene_id "gene-MCOR15_001896";
+VRLL01000034.1	Genbank	exon	134301	134323	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001896-T1_mrna"; gene_id "gene-MCOR15_001896";
+VRLL01000034.1	Genbank	exon	134385	134912	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001896-T1_mrna"; gene_id "gene-MCOR15_001896";
+VRLL01000034.1	Genbank	exon	134984	135449	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001896-T1_mrna"; gene_id "gene-MCOR15_001896";
+VRLL01000034.1	Genbank	CDS	133644	134233	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001896-T1_mrna"; gene_id "gene-MCOR15_001896";
+VRLL01000034.1	Genbank	CDS	134301	134323	.	+	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001896-T1_mrna"; gene_id "gene-MCOR15_001896";
+VRLL01000034.1	Genbank	CDS	134385	134912	.	+	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001896-T1_mrna"; gene_id "gene-MCOR15_001896";
+VRLL01000034.1	Genbank	CDS	134984	135300	.	+	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001896-T1_mrna"; gene_id "gene-MCOR15_001896";
+VRLL01000348.1	Genbank	transcript	37230	39917	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008314-T1_mrna"; gene_id "gene-MCOR15_008314"; gene_name "CSN8"
+VRLL01000348.1	Genbank	exon	37230	38030	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008314-T1_mrna"; gene_id "gene-MCOR15_008314"; gene_name "CSN8";
+VRLL01000348.1	Genbank	exon	38159	38567	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008314-T1_mrna"; gene_id "gene-MCOR15_008314"; gene_name "CSN8";
+VRLL01000348.1	Genbank	exon	38629	38690	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008314-T1_mrna"; gene_id "gene-MCOR15_008314"; gene_name "CSN8";
+VRLL01000348.1	Genbank	exon	38762	39917	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008314-T1_mrna"; gene_id "gene-MCOR15_008314"; gene_name "CSN8";
+VRLL01000348.1	Genbank	CDS	37947	38030	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008314-T1_mrna"; gene_id "gene-MCOR15_008314"; gene_name "CSN8";
+VRLL01000348.1	Genbank	CDS	38159	38567	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008314-T1_mrna"; gene_id "gene-MCOR15_008314"; gene_name "CSN8";
+VRLL01000348.1	Genbank	CDS	38629	38690	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008314-T1_mrna"; gene_id "gene-MCOR15_008314"; gene_name "CSN8";
+VRLL01000348.1	Genbank	CDS	38762	39562	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008314-T1_mrna"; gene_id "gene-MCOR15_008314"; gene_name "CSN8";
+VRLL01000359.1	Genbank	transcript	20903	23415	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008431-T1_mrna"; gene_id "gene-MCOR15_008431"
+VRLL01000359.1	Genbank	exon	20903	21191	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008431-T1_mrna"; gene_id "gene-MCOR15_008431";
+VRLL01000359.1	Genbank	exon	21265	21301	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008431-T1_mrna"; gene_id "gene-MCOR15_008431";
+VRLL01000359.1	Genbank	exon	21372	22089	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008431-T1_mrna"; gene_id "gene-MCOR15_008431";
+VRLL01000359.1	Genbank	exon	22145	22287	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008431-T1_mrna"; gene_id "gene-MCOR15_008431";
+VRLL01000359.1	Genbank	exon	22344	23415	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008431-T1_mrna"; gene_id "gene-MCOR15_008431";
+VRLL01000359.1	Genbank	CDS	21021	21191	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008431-T1_mrna"; gene_id "gene-MCOR15_008431";
+VRLL01000359.1	Genbank	CDS	21265	21301	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008431-T1_mrna"; gene_id "gene-MCOR15_008431";
+VRLL01000359.1	Genbank	CDS	21372	22089	.	+	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008431-T1_mrna"; gene_id "gene-MCOR15_008431";
+VRLL01000359.1	Genbank	CDS	22145	22287	.	+	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008431-T1_mrna"; gene_id "gene-MCOR15_008431";
+VRLL01000359.1	Genbank	CDS	22344	23185	.	+	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008431-T1_mrna"; gene_id "gene-MCOR15_008431";
+VRLL01000036.1	Genbank	transcript	85605	87023	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001974-T1_mrna"; gene_id "gene-MCOR15_001974"
+VRLL01000036.1	Genbank	exon	85605	85870	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001974-T1_mrna"; gene_id "gene-MCOR15_001974";
+VRLL01000036.1	Genbank	exon	86014	86112	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001974-T1_mrna"; gene_id "gene-MCOR15_001974";
+VRLL01000036.1	Genbank	exon	86210	86306	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001974-T1_mrna"; gene_id "gene-MCOR15_001974";
+VRLL01000036.1	Genbank	exon	86392	86478	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001974-T1_mrna"; gene_id "gene-MCOR15_001974";
+VRLL01000036.1	Genbank	exon	86557	86620	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001974-T1_mrna"; gene_id "gene-MCOR15_001974";
+VRLL01000036.1	Genbank	exon	86698	87023	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001974-T1_mrna"; gene_id "gene-MCOR15_001974";
+VRLL01000036.1	Genbank	CDS	85859	85870	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001974-T1_mrna"; gene_id "gene-MCOR15_001974";
+VRLL01000036.1	Genbank	CDS	86014	86112	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001974-T1_mrna"; gene_id "gene-MCOR15_001974";
+VRLL01000036.1	Genbank	CDS	86210	86306	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001974-T1_mrna"; gene_id "gene-MCOR15_001974";
+VRLL01000036.1	Genbank	CDS	86392	86478	.	+	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001974-T1_mrna"; gene_id "gene-MCOR15_001974";
+VRLL01000036.1	Genbank	CDS	86557	86620	.	+	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001974-T1_mrna"; gene_id "gene-MCOR15_001974";
+VRLL01000036.1	Genbank	CDS	86698	86980	.	+	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_001974-T1_mrna"; gene_id "gene-MCOR15_001974";
+VRLL01000380.1	Genbank	transcript	12616	14899	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008617-T1_mrna"; gene_id "gene-MCOR15_008617"
+VRLL01000380.1	Genbank	exon	12616	14899	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008617-T1_mrna"; gene_id "gene-MCOR15_008617";
+VRLL01000380.1	Genbank	CDS	12649	14832	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008617-T1_mrna"; gene_id "gene-MCOR15_008617";
+VRLL01000389.1	Genbank	transcript	13521	15899	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008701-T2_mrna"; gene_id "gene-MCOR15_008701"
+VRLL01000389.1	Genbank	exon	13521	13729	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008701-T2_mrna"; gene_id "gene-MCOR15_008701";
+VRLL01000389.1	Genbank	exon	13871	13961	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008701-T2_mrna"; gene_id "gene-MCOR15_008701";
+VRLL01000389.1	Genbank	exon	14039	14203	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008701-T2_mrna"; gene_id "gene-MCOR15_008701";
+VRLL01000389.1	Genbank	exon	14274	15341	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008701-T2_mrna"; gene_id "gene-MCOR15_008701";
+VRLL01000389.1	Genbank	exon	15408	15899	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008701-T2_mrna"; gene_id "gene-MCOR15_008701";
+VRLL01000389.1	Genbank	CDS	13626	13729	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008701-T2_mrna"; gene_id "gene-MCOR15_008701";
+VRLL01000389.1	Genbank	CDS	13871	13961	.	+	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008701-T2_mrna"; gene_id "gene-MCOR15_008701";
+VRLL01000389.1	Genbank	CDS	14039	14203	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008701-T2_mrna"; gene_id "gene-MCOR15_008701";
+VRLL01000389.1	Genbank	CDS	14274	15341	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008701-T2_mrna"; gene_id "gene-MCOR15_008701";
+VRLL01000389.1	Genbank	CDS	15408	15515	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008701-T2_mrna"; gene_id "gene-MCOR15_008701";
+VRLL01000394.1	Genbank	transcript	29770	32178	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008768-T1_mrna"; gene_id "gene-MCOR15_008768"; gene_name "CYP6"
+VRLL01000394.1	Genbank	exon	29770	32178	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008768-T1_mrna"; gene_id "gene-MCOR15_008768"; gene_name "CYP6";
+VRLL01000394.1	Genbank	CDS	29889	31406	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008768-T1_mrna"; gene_id "gene-MCOR15_008768"; gene_name "CYP6";
+VRLL01000004.1	Genbank	transcript	29670	31732	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000271-T1_mrna"; gene_id "gene-MCOR15_000271"
+VRLL01000004.1	Genbank	exon	29670	31443	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000271-T1_mrna"; gene_id "gene-MCOR15_000271";
+VRLL01000004.1	Genbank	exon	31498	31546	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000271-T1_mrna"; gene_id "gene-MCOR15_000271";
+VRLL01000004.1	Genbank	exon	31623	31732	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000271-T1_mrna"; gene_id "gene-MCOR15_000271";
+VRLL01000004.1	Genbank	CDS	29729	31443	.	-	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000271-T1_mrna"; gene_id "gene-MCOR15_000271";
+VRLL01000004.1	Genbank	CDS	31498	31546	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000271-T1_mrna"; gene_id "gene-MCOR15_000271";
+VRLL01000004.1	Genbank	CDS	31623	31649	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_000271-T1_mrna"; gene_id "gene-MCOR15_000271";
+VRLL01000404.1	Genbank	transcript	18064	19315	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008896-T1_mrna"; gene_id "gene-MCOR15_008896"
+VRLL01000404.1	Genbank	exon	18064	18714	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008896-T1_mrna"; gene_id "gene-MCOR15_008896";
+VRLL01000404.1	Genbank	exon	18806	19315	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008896-T1_mrna"; gene_id "gene-MCOR15_008896";
+VRLL01000404.1	Genbank	CDS	18178	18714	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008896-T1_mrna"; gene_id "gene-MCOR15_008896";
+VRLL01000404.1	Genbank	CDS	18806	19255	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_008896-T1_mrna"; gene_id "gene-MCOR15_008896";
+VRLL01000042.1	Genbank	transcript	56323	58261	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002198-T1_mrna"; gene_id "gene-MCOR15_002198"
+VRLL01000042.1	Genbank	exon	56323	56831	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002198-T1_mrna"; gene_id "gene-MCOR15_002198";
+VRLL01000042.1	Genbank	exon	56985	57090	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002198-T1_mrna"; gene_id "gene-MCOR15_002198";
+VRLL01000042.1	Genbank	exon	57165	57827	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002198-T1_mrna"; gene_id "gene-MCOR15_002198";
+VRLL01000042.1	Genbank	exon	57914	58261	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002198-T1_mrna"; gene_id "gene-MCOR15_002198";
+VRLL01000042.1	Genbank	CDS	56732	56831	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002198-T1_mrna"; gene_id "gene-MCOR15_002198";
+VRLL01000042.1	Genbank	CDS	56985	57090	.	-	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002198-T1_mrna"; gene_id "gene-MCOR15_002198";
+VRLL01000042.1	Genbank	CDS	57165	57827	.	-	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002198-T1_mrna"; gene_id "gene-MCOR15_002198";
+VRLL01000042.1	Genbank	CDS	57914	58169	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002198-T1_mrna"; gene_id "gene-MCOR15_002198";
+VRLL01000042.1	Genbank	transcript	66909	68208	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002204-T1_mrna"; gene_id "gene-MCOR15_002204"; gene_name "COQ4"
+VRLL01000042.1	Genbank	exon	66909	67720	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002204-T1_mrna"; gene_id "gene-MCOR15_002204"; gene_name "COQ4";
+VRLL01000042.1	Genbank	exon	67825	68208	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002204-T1_mrna"; gene_id "gene-MCOR15_002204"; gene_name "COQ4";
+VRLL01000042.1	Genbank	CDS	67050	67720	.	-	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002204-T1_mrna"; gene_id "gene-MCOR15_002204"; gene_name "COQ4";
+VRLL01000042.1	Genbank	CDS	67825	68062	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002204-T1_mrna"; gene_id "gene-MCOR15_002204"; gene_name "COQ4";
+VRLL01000432.1	Genbank	transcript	18435	21137	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009166-T1_mrna"; gene_id "gene-MCOR15_009166"
+VRLL01000432.1	Genbank	exon	18435	19096	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009166-T1_mrna"; gene_id "gene-MCOR15_009166";
+VRLL01000432.1	Genbank	exon	19173	20123	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009166-T1_mrna"; gene_id "gene-MCOR15_009166";
+VRLL01000432.1	Genbank	exon	20219	20881	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009166-T1_mrna"; gene_id "gene-MCOR15_009166";
+VRLL01000432.1	Genbank	exon	20964	21137	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009166-T1_mrna"; gene_id "gene-MCOR15_009166";
+VRLL01000432.1	Genbank	CDS	18455	19096	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009166-T1_mrna"; gene_id "gene-MCOR15_009166";
+VRLL01000432.1	Genbank	CDS	19173	20123	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009166-T1_mrna"; gene_id "gene-MCOR15_009166";
+VRLL01000432.1	Genbank	CDS	20219	20881	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009166-T1_mrna"; gene_id "gene-MCOR15_009166";
+VRLL01000432.1	Genbank	CDS	20964	21077	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009166-T1_mrna"; gene_id "gene-MCOR15_009166";
+VRLL01000440.1	Genbank	transcript	12244	13773	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009246-T1_mrna"; gene_id "gene-MCOR15_009246"; gene_name "BCP1"
+VRLL01000440.1	Genbank	exon	12244	12884	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009246-T1_mrna"; gene_id "gene-MCOR15_009246"; gene_name "BCP1";
+VRLL01000440.1	Genbank	exon	12956	13773	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009246-T1_mrna"; gene_id "gene-MCOR15_009246"; gene_name "BCP1";
+VRLL01000440.1	Genbank	CDS	12786	12884	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009246-T1_mrna"; gene_id "gene-MCOR15_009246"; gene_name "BCP1";
+VRLL01000440.1	Genbank	CDS	12956	13726	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009246-T1_mrna"; gene_id "gene-MCOR15_009246"; gene_name "BCP1";
+VRLL01000046.1	Genbank	transcript	114766	115600	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002330-T1_mrna"; gene_id "gene-MCOR15_002330"
+VRLL01000046.1	Genbank	exon	114766	115093	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002330-T1_mrna"; gene_id "gene-MCOR15_002330";
+VRLL01000046.1	Genbank	exon	115152	115600	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002330-T1_mrna"; gene_id "gene-MCOR15_002330";
+VRLL01000046.1	Genbank	CDS	114766	115093	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002330-T1_mrna"; gene_id "gene-MCOR15_002330";
+VRLL01000046.1	Genbank	CDS	115152	115600	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002330-T1_mrna"; gene_id "gene-MCOR15_002330";
+VRLL01000469.1	Genbank	transcript	23975	26081	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009490-T1_mrna"; gene_id "gene-MCOR15_009490"
+VRLL01000469.1	Genbank	exon	23975	25012	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009490-T1_mrna"; gene_id "gene-MCOR15_009490";
+VRLL01000469.1	Genbank	exon	25100	26081	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009490-T1_mrna"; gene_id "gene-MCOR15_009490";
+VRLL01000469.1	Genbank	CDS	24049	25012	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009490-T1_mrna"; gene_id "gene-MCOR15_009490";
+VRLL01000469.1	Genbank	CDS	25100	25686	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009490-T1_mrna"; gene_id "gene-MCOR15_009490";
+VRLL01000477.1	Genbank	transcript	21801	23537	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009560-T1_mrna"; gene_id "gene-MCOR15_009560"; gene_name "PLRG1"
+VRLL01000477.1	Genbank	exon	21801	23537	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009560-T1_mrna"; gene_id "gene-MCOR15_009560"; gene_name "PLRG1";
+VRLL01000477.1	Genbank	CDS	21839	23371	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009560-T1_mrna"; gene_id "gene-MCOR15_009560"; gene_name "PLRG1";
+VRLL01000491.1	Genbank	transcript	1211	3577	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009647-T1_mrna"; gene_id "gene-MCOR15_009647"; gene_name "RAM1"
+VRLL01000491.1	Genbank	exon	1211	1411	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009647-T1_mrna"; gene_id "gene-MCOR15_009647"; gene_name "RAM1";
+VRLL01000491.1	Genbank	exon	1475	1789	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009647-T1_mrna"; gene_id "gene-MCOR15_009647"; gene_name "RAM1";
+VRLL01000491.1	Genbank	exon	1855	2136	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009647-T1_mrna"; gene_id "gene-MCOR15_009647"; gene_name "RAM1";
+VRLL01000491.1	Genbank	exon	2227	2344	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009647-T1_mrna"; gene_id "gene-MCOR15_009647"; gene_name "RAM1";
+VRLL01000491.1	Genbank	exon	2413	2543	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009647-T1_mrna"; gene_id "gene-MCOR15_009647"; gene_name "RAM1";
+VRLL01000491.1	Genbank	exon	2620	3577	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009647-T1_mrna"; gene_id "gene-MCOR15_009647"; gene_name "RAM1";
+VRLL01000491.1	Genbank	CDS	1552	1789	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009647-T1_mrna"; gene_id "gene-MCOR15_009647"; gene_name "RAM1";
+VRLL01000491.1	Genbank	CDS	1855	2136	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009647-T1_mrna"; gene_id "gene-MCOR15_009647"; gene_name "RAM1";
+VRLL01000491.1	Genbank	CDS	2227	2344	.	-	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009647-T1_mrna"; gene_id "gene-MCOR15_009647"; gene_name "RAM1";
+VRLL01000491.1	Genbank	CDS	2413	2543	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009647-T1_mrna"; gene_id "gene-MCOR15_009647"; gene_name "RAM1";
+VRLL01000491.1	Genbank	CDS	2620	3395	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009647-T1_mrna"; gene_id "gene-MCOR15_009647"; gene_name "RAM1";
+VRLL01000050.1	Genbank	transcript	40304	42724	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002421-T1_mrna"; gene_id "gene-MCOR15_002421"
+VRLL01000050.1	Genbank	exon	40304	42724	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002421-T1_mrna"; gene_id "gene-MCOR15_002421";
+VRLL01000050.1	Genbank	CDS	40435	42405	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002421-T1_mrna"; gene_id "gene-MCOR15_002421";
+VRLL01000050.1	Genbank	transcript	53535	54963	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002427-T1_mrna"; gene_id "gene-MCOR15_002427"
+VRLL01000050.1	Genbank	exon	53535	53863	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002427-T1_mrna"; gene_id "gene-MCOR15_002427";
+VRLL01000050.1	Genbank	exon	53994	54963	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002427-T1_mrna"; gene_id "gene-MCOR15_002427";
+VRLL01000050.1	Genbank	CDS	53682	53863	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002427-T1_mrna"; gene_id "gene-MCOR15_002427";
+VRLL01000050.1	Genbank	CDS	53994	54897	.	+	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002427-T1_mrna"; gene_id "gene-MCOR15_002427";
+VRLL01000503.1	Genbank	transcript	20251	23398	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009737-T1_mrna"; gene_id "gene-MCOR15_009737"; gene_name "MCM2"
+VRLL01000503.1	Genbank	exon	20251	20770	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009737-T1_mrna"; gene_id "gene-MCOR15_009737"; gene_name "MCM2";
+VRLL01000503.1	Genbank	exon	20859	23214	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009737-T1_mrna"; gene_id "gene-MCOR15_009737"; gene_name "MCM2";
+VRLL01000503.1	Genbank	exon	23311	23398	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009737-T1_mrna"; gene_id "gene-MCOR15_009737"; gene_name "MCM2";
+VRLL01000503.1	Genbank	CDS	20510	20770	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009737-T1_mrna"; gene_id "gene-MCOR15_009737"; gene_name "MCM2";
+VRLL01000503.1	Genbank	CDS	20859	23214	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009737-T1_mrna"; gene_id "gene-MCOR15_009737"; gene_name "MCM2";
+VRLL01000503.1	Genbank	CDS	23311	23315	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009737-T1_mrna"; gene_id "gene-MCOR15_009737"; gene_name "MCM2";
+VRLL01000511.1	Genbank	transcript	3647	7179	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009795-T1_mrna"; gene_id "gene-MCOR15_009795"
+VRLL01000511.1	Genbank	exon	3647	5153	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009795-T1_mrna"; gene_id "gene-MCOR15_009795";
+VRLL01000511.1	Genbank	exon	5224	5559	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009795-T1_mrna"; gene_id "gene-MCOR15_009795";
+VRLL01000511.1	Genbank	exon	5621	5854	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009795-T1_mrna"; gene_id "gene-MCOR15_009795";
+VRLL01000511.1	Genbank	exon	5920	6582	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009795-T1_mrna"; gene_id "gene-MCOR15_009795";
+VRLL01000511.1	Genbank	exon	6648	7043	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009795-T1_mrna"; gene_id "gene-MCOR15_009795";
+VRLL01000511.1	Genbank	exon	7122	7179	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009795-T1_mrna"; gene_id "gene-MCOR15_009795";
+VRLL01000511.1	Genbank	CDS	3768	5153	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009795-T1_mrna"; gene_id "gene-MCOR15_009795";
+VRLL01000511.1	Genbank	CDS	5224	5559	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009795-T1_mrna"; gene_id "gene-MCOR15_009795";
+VRLL01000511.1	Genbank	CDS	5621	5854	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009795-T1_mrna"; gene_id "gene-MCOR15_009795";
+VRLL01000511.1	Genbank	CDS	5920	6582	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009795-T1_mrna"; gene_id "gene-MCOR15_009795";
+VRLL01000511.1	Genbank	CDS	6648	7043	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009795-T1_mrna"; gene_id "gene-MCOR15_009795";
+VRLL01000511.1	Genbank	CDS	7122	7133	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009795-T1_mrna"; gene_id "gene-MCOR15_009795";
+VRLL01000516.1	Genbank	transcript	18824	21478	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009835-T1_mrna"; gene_id "gene-MCOR15_009835"
+VRLL01000516.1	Genbank	exon	18824	21478	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009835-T1_mrna"; gene_id "gene-MCOR15_009835";
+VRLL01000516.1	Genbank	CDS	19104	21182	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_009835-T1_mrna"; gene_id "gene-MCOR15_009835";
+VRLL01000539.1	Genbank	transcript	16968	20438	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010013-T1_mrna"; gene_id "gene-MCOR15_010013"
+VRLL01000539.1	Genbank	exon	16968	17256	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010013-T1_mrna"; gene_id "gene-MCOR15_010013";
+VRLL01000539.1	Genbank	exon	17363	17850	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010013-T1_mrna"; gene_id "gene-MCOR15_010013";
+VRLL01000539.1	Genbank	exon	17924	19004	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010013-T1_mrna"; gene_id "gene-MCOR15_010013";
+VRLL01000539.1	Genbank	exon	19113	20438	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010013-T1_mrna"; gene_id "gene-MCOR15_010013";
+VRLL01000539.1	Genbank	CDS	17181	17256	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010013-T1_mrna"; gene_id "gene-MCOR15_010013";
+VRLL01000539.1	Genbank	CDS	17363	17850	.	+	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010013-T1_mrna"; gene_id "gene-MCOR15_010013";
+VRLL01000539.1	Genbank	CDS	17924	19004	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010013-T1_mrna"; gene_id "gene-MCOR15_010013";
+VRLL01000539.1	Genbank	CDS	19113	19933	.	+	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010013-T1_mrna"; gene_id "gene-MCOR15_010013";
+VRLL01000543.1	Genbank	transcript	19872	22544	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010034-T1_mrna"; gene_id "gene-MCOR15_010034"
+VRLL01000543.1	Genbank	exon	19872	21405	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010034-T1_mrna"; gene_id "gene-MCOR15_010034";
+VRLL01000543.1	Genbank	exon	21506	22544	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010034-T1_mrna"; gene_id "gene-MCOR15_010034";
+VRLL01000543.1	Genbank	CDS	20181	21405	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010034-T1_mrna"; gene_id "gene-MCOR15_010034";
+VRLL01000543.1	Genbank	CDS	21506	22296	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010034-T1_mrna"; gene_id "gene-MCOR15_010034";
+VRLL01000544.1	Genbank	transcript	18296	20827	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010042-T1_mrna"; gene_id "gene-MCOR15_010042"; gene_name "ERB1"
+VRLL01000544.1	Genbank	exon	18296	19084	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010042-T1_mrna"; gene_id "gene-MCOR15_010042"; gene_name "ERB1";
+VRLL01000544.1	Genbank	exon	19160	20827	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010042-T1_mrna"; gene_id "gene-MCOR15_010042"; gene_name "ERB1";
+VRLL01000544.1	Genbank	CDS	18368	19084	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010042-T1_mrna"; gene_id "gene-MCOR15_010042"; gene_name "ERB1";
+VRLL01000544.1	Genbank	CDS	19160	20788	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010042-T1_mrna"; gene_id "gene-MCOR15_010042"; gene_name "ERB1";
+VRLL01000545.1	Genbank	transcript	15896	17237	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010048-T1_mrna"; gene_id "gene-MCOR15_010048"
+VRLL01000545.1	Genbank	exon	15896	16324	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010048-T1_mrna"; gene_id "gene-MCOR15_010048";
+VRLL01000545.1	Genbank	exon	16636	16781	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010048-T1_mrna"; gene_id "gene-MCOR15_010048";
+VRLL01000545.1	Genbank	exon	16860	17237	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010048-T1_mrna"; gene_id "gene-MCOR15_010048";
+VRLL01000545.1	Genbank	CDS	16136	16324	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010048-T1_mrna"; gene_id "gene-MCOR15_010048";
+VRLL01000545.1	Genbank	CDS	16636	16781	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010048-T1_mrna"; gene_id "gene-MCOR15_010048";
+VRLL01000545.1	Genbank	CDS	16860	17052	.	+	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010048-T1_mrna"; gene_id "gene-MCOR15_010048";
+VRLL01000546.1	Genbank	transcript	22974	24583	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010060-T1_mrna"; gene_id "gene-MCOR15_010060"
+VRLL01000546.1	Genbank	exon	22974	23664	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010060-T1_mrna"; gene_id "gene-MCOR15_010060";
+VRLL01000546.1	Genbank	exon	23753	24583	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010060-T1_mrna"; gene_id "gene-MCOR15_010060";
+VRLL01000546.1	Genbank	CDS	23167	23664	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010060-T1_mrna"; gene_id "gene-MCOR15_010060";
+VRLL01000546.1	Genbank	CDS	23753	24436	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010060-T1_mrna"; gene_id "gene-MCOR15_010060";
+VRLL01000551.1	Genbank	transcript	12765	13847	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010092-T1_mrna"; gene_id "gene-MCOR15_010092"
+VRLL01000551.1	Genbank	exon	12765	13583	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010092-T1_mrna"; gene_id "gene-MCOR15_010092";
+VRLL01000551.1	Genbank	exon	13681	13847	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010092-T1_mrna"; gene_id "gene-MCOR15_010092";
+VRLL01000551.1	Genbank	CDS	12958	13583	.	-	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010092-T1_mrna"; gene_id "gene-MCOR15_010092";
+VRLL01000551.1	Genbank	CDS	13681	13747	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010092-T1_mrna"; gene_id "gene-MCOR15_010092";
+VRLL01000566.1	Genbank	transcript	8956	10406	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010185-T1_mrna"; gene_id "gene-MCOR15_010185"
+VRLL01000566.1	Genbank	exon	8956	9817	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010185-T1_mrna"; gene_id "gene-MCOR15_010185";
+VRLL01000566.1	Genbank	exon	9908	10406	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010185-T1_mrna"; gene_id "gene-MCOR15_010185";
+VRLL01000566.1	Genbank	CDS	9071	9817	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010185-T1_mrna"; gene_id "gene-MCOR15_010185";
+VRLL01000566.1	Genbank	CDS	9908	10204	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010185-T1_mrna"; gene_id "gene-MCOR15_010185";
+VRLL01000570.1	Genbank	transcript	13501	14668	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010218-T1_mrna"; gene_id "gene-MCOR15_010218"; gene_name "KRR1"
+VRLL01000570.1	Genbank	exon	13501	14668	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010218-T1_mrna"; gene_id "gene-MCOR15_010218"; gene_name "KRR1";
+VRLL01000570.1	Genbank	CDS	13629	14591	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010218-T1_mrna"; gene_id "gene-MCOR15_010218"; gene_name "KRR1";
+VRLL01000571.1	Genbank	transcript	15055	17268	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010230-T1_mrna"; gene_id "gene-MCOR15_010230"
+VRLL01000571.1	Genbank	exon	15055	16409	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010230-T1_mrna"; gene_id "gene-MCOR15_010230";
+VRLL01000571.1	Genbank	exon	16524	16986	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010230-T1_mrna"; gene_id "gene-MCOR15_010230";
+VRLL01000571.1	Genbank	exon	17229	17268	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010230-T1_mrna"; gene_id "gene-MCOR15_010230";
+VRLL01000571.1	Genbank	CDS	15308	16409	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010230-T1_mrna"; gene_id "gene-MCOR15_010230";
+VRLL01000571.1	Genbank	CDS	16524	16954	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010230-T1_mrna"; gene_id "gene-MCOR15_010230";
+VRLL01000579.1	Genbank	transcript	20808	23742	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010286-T1_mrna"; gene_id "gene-MCOR15_010286"
+VRLL01000579.1	Genbank	exon	20808	21466	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010286-T1_mrna"; gene_id "gene-MCOR15_010286";
+VRLL01000579.1	Genbank	exon	21526	23742	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010286-T1_mrna"; gene_id "gene-MCOR15_010286";
+VRLL01000579.1	Genbank	CDS	21716	23545	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010286-T1_mrna"; gene_id "gene-MCOR15_010286";
+VRLL01000612.1	Genbank	transcript	11569	14595	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010488-T1_mrna"; gene_id "gene-MCOR15_010488"
+VRLL01000612.1	Genbank	exon	11569	11984	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010488-T1_mrna"; gene_id "gene-MCOR15_010488";
+VRLL01000612.1	Genbank	exon	12077	14595	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010488-T1_mrna"; gene_id "gene-MCOR15_010488";
+VRLL01000612.1	Genbank	CDS	11786	11984	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010488-T1_mrna"; gene_id "gene-MCOR15_010488";
+VRLL01000612.1	Genbank	CDS	12077	14433	.	+	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010488-T1_mrna"; gene_id "gene-MCOR15_010488";
+VRLL01000062.1	Genbank	transcript	75512	77406	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002849-T1_mrna"; gene_id "gene-MCOR15_002849"
+VRLL01000062.1	Genbank	exon	75512	77406	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002849-T1_mrna"; gene_id "gene-MCOR15_002849";
+VRLL01000062.1	Genbank	CDS	75598	77088	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002849-T1_mrna"; gene_id "gene-MCOR15_002849";
+VRLL01000632.1	Genbank	transcript	9397	11657	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010593-T1_mrna"; gene_id "gene-MCOR15_010593"
+VRLL01000632.1	Genbank	exon	9397	10927	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010593-T1_mrna"; gene_id "gene-MCOR15_010593";
+VRLL01000632.1	Genbank	exon	11012	11657	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010593-T1_mrna"; gene_id "gene-MCOR15_010593";
+VRLL01000632.1	Genbank	CDS	9695	10927	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010593-T1_mrna"; gene_id "gene-MCOR15_010593";
+VRLL01000632.1	Genbank	CDS	11012	11041	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010593-T1_mrna"; gene_id "gene-MCOR15_010593";
+VRLL01000065.1	Genbank	transcript	8393	11718	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002928-T1_mrna"; gene_id "gene-MCOR15_002928"
+VRLL01000065.1	Genbank	exon	8393	8719	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002928-T1_mrna"; gene_id "gene-MCOR15_002928";
+VRLL01000065.1	Genbank	exon	8828	9029	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002928-T1_mrna"; gene_id "gene-MCOR15_002928";
+VRLL01000065.1	Genbank	exon	9165	9232	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002928-T1_mrna"; gene_id "gene-MCOR15_002928";
+VRLL01000065.1	Genbank	exon	9336	9464	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002928-T1_mrna"; gene_id "gene-MCOR15_002928";
+VRLL01000065.1	Genbank	exon	9544	9804	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002928-T1_mrna"; gene_id "gene-MCOR15_002928";
+VRLL01000065.1	Genbank	exon	9891	10352	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002928-T1_mrna"; gene_id "gene-MCOR15_002928";
+VRLL01000065.1	Genbank	exon	10453	11718	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002928-T1_mrna"; gene_id "gene-MCOR15_002928";
+VRLL01000065.1	Genbank	CDS	8840	9029	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002928-T1_mrna"; gene_id "gene-MCOR15_002928";
+VRLL01000065.1	Genbank	CDS	9165	9232	.	+	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002928-T1_mrna"; gene_id "gene-MCOR15_002928";
+VRLL01000065.1	Genbank	CDS	9336	9464	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002928-T1_mrna"; gene_id "gene-MCOR15_002928";
+VRLL01000065.1	Genbank	CDS	9544	9804	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002928-T1_mrna"; gene_id "gene-MCOR15_002928";
+VRLL01000065.1	Genbank	CDS	9891	10352	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002928-T1_mrna"; gene_id "gene-MCOR15_002928";
+VRLL01000065.1	Genbank	CDS	10453	11718	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002928-T1_mrna"; gene_id "gene-MCOR15_002928";
+VRLL01000065.1	Genbank	transcript	11986	14824	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002929-T1_mrna"; gene_id "gene-MCOR15_002929"
+VRLL01000065.1	Genbank	exon	11986	14824	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002929-T1_mrna"; gene_id "gene-MCOR15_002929";
+VRLL01000065.1	Genbank	CDS	11986	14676	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002929-T1_mrna"; gene_id "gene-MCOR15_002929";
+VRLL01000065.1	Genbank	transcript	41340	43072	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002939-T1_mrna"; gene_id "gene-MCOR15_002939"; gene_name "DPH1"
+VRLL01000065.1	Genbank	exon	41340	41767	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002939-T1_mrna"; gene_id "gene-MCOR15_002939"; gene_name "DPH1";
+VRLL01000065.1	Genbank	exon	41871	43072	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002939-T1_mrna"; gene_id "gene-MCOR15_002939"; gene_name "DPH1";
+VRLL01000065.1	Genbank	CDS	41569	41767	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002939-T1_mrna"; gene_id "gene-MCOR15_002939"; gene_name "DPH1";
+VRLL01000065.1	Genbank	CDS	41871	43045	.	+	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002939-T1_mrna"; gene_id "gene-MCOR15_002939"; gene_name "DPH1";
+VRLL01000065.1	Genbank	transcript	67161	68933	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002945-T1_mrna"; gene_id "gene-MCOR15_002945"
+VRLL01000065.1	Genbank	exon	67161	68554	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002945-T1_mrna"; gene_id "gene-MCOR15_002945";
+VRLL01000065.1	Genbank	exon	68622	68933	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002945-T1_mrna"; gene_id "gene-MCOR15_002945";
+VRLL01000065.1	Genbank	CDS	67410	68330	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002945-T1_mrna"; gene_id "gene-MCOR15_002945";
+VRLL01000065.1	Genbank	transcript	79703	82905	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002949-T1_mrna"; gene_id "gene-MCOR15_002949"
+VRLL01000065.1	Genbank	exon	79703	82462	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002949-T1_mrna"; gene_id "gene-MCOR15_002949";
+VRLL01000065.1	Genbank	exon	82557	82584	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002949-T1_mrna"; gene_id "gene-MCOR15_002949";
+VRLL01000065.1	Genbank	exon	82646	82905	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002949-T1_mrna"; gene_id "gene-MCOR15_002949";
+VRLL01000065.1	Genbank	CDS	79839	82462	.	-	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002949-T1_mrna"; gene_id "gene-MCOR15_002949";
+VRLL01000065.1	Genbank	CDS	82557	82584	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002949-T1_mrna"; gene_id "gene-MCOR15_002949";
+VRLL01000065.1	Genbank	CDS	82646	82822	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_002949-T1_mrna"; gene_id "gene-MCOR15_002949";
+VRLL01000677.1	Genbank	transcript	8153	9831	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010804-T1_mrna"; gene_id "gene-MCOR15_010804"; gene_name "PSF1"
+VRLL01000677.1	Genbank	exon	8153	8271	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010804-T1_mrna"; gene_id "gene-MCOR15_010804"; gene_name "PSF1";
+VRLL01000677.1	Genbank	exon	8389	8915	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010804-T1_mrna"; gene_id "gene-MCOR15_010804"; gene_name "PSF1";
+VRLL01000677.1	Genbank	exon	9009	9831	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010804-T1_mrna"; gene_id "gene-MCOR15_010804"; gene_name "PSF1";
+VRLL01000677.1	Genbank	CDS	8245	8271	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010804-T1_mrna"; gene_id "gene-MCOR15_010804"; gene_name "PSF1";
+VRLL01000677.1	Genbank	CDS	8389	8915	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010804-T1_mrna"; gene_id "gene-MCOR15_010804"; gene_name "PSF1";
+VRLL01000677.1	Genbank	CDS	9009	9102	.	+	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_010804-T1_mrna"; gene_id "gene-MCOR15_010804"; gene_name "PSF1";
+VRLL01000733.1	Genbank	transcript	12298	13633	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011068-T1_mrna"; gene_id "gene-MCOR15_011068"; gene_name "LIA1"
+VRLL01000733.1	Genbank	exon	12298	12912	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011068-T1_mrna"; gene_id "gene-MCOR15_011068"; gene_name "LIA1";
+VRLL01000733.1	Genbank	exon	12986	13633	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011068-T1_mrna"; gene_id "gene-MCOR15_011068"; gene_name "LIA1";
+VRLL01000733.1	Genbank	CDS	12399	12912	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011068-T1_mrna"; gene_id "gene-MCOR15_011068"; gene_name "LIA1";
+VRLL01000733.1	Genbank	CDS	12986	13479	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011068-T1_mrna"; gene_id "gene-MCOR15_011068"; gene_name "LIA1";
+VRLL01000744.1	Genbank	transcript	3987	5639	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011112-T1_mrna"; gene_id "gene-MCOR15_011112"
+VRLL01000744.1	Genbank	exon	3987	5639	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011112-T1_mrna"; gene_id "gene-MCOR15_011112";
+VRLL01000744.1	Genbank	CDS	4204	5523	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011112-T1_mrna"; gene_id "gene-MCOR15_011112";
+VRLL01000759.1	Genbank	transcript	6410	7360	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011161-T1_mrna"; gene_id "gene-MCOR15_011161"
+VRLL01000759.1	Genbank	exon	6410	7360	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011161-T1_mrna"; gene_id "gene-MCOR15_011161";
+VRLL01000759.1	Genbank	CDS	6410	7228	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011161-T1_mrna"; gene_id "gene-MCOR15_011161";
+VRLL01000077.1	Genbank	transcript	70627	72408	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003306-T1_mrna"; gene_id "gene-MCOR15_003306"
+VRLL01000077.1	Genbank	exon	70627	71206	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003306-T1_mrna"; gene_id "gene-MCOR15_003306";
+VRLL01000077.1	Genbank	exon	71271	72132	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003306-T1_mrna"; gene_id "gene-MCOR15_003306";
+VRLL01000077.1	Genbank	exon	72251	72408	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003306-T1_mrna"; gene_id "gene-MCOR15_003306";
+VRLL01000077.1	Genbank	CDS	71117	71206	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003306-T1_mrna"; gene_id "gene-MCOR15_003306";
+VRLL01000077.1	Genbank	CDS	71271	72132	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003306-T1_mrna"; gene_id "gene-MCOR15_003306";
+VRLL01000077.1	Genbank	CDS	72251	72318	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003306-T1_mrna"; gene_id "gene-MCOR15_003306";
+VRLL01000079.1	Genbank	transcript	93928	94986	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003388-T1_mrna"; gene_id "gene-MCOR15_003388"; gene_name "CWC26"
+VRLL01000079.1	Genbank	exon	93928	94986	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003388-T1_mrna"; gene_id "gene-MCOR15_003388"; gene_name "CWC26";
+VRLL01000079.1	Genbank	CDS	93928	94986	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003388-T1_mrna"; gene_id "gene-MCOR15_003388"; gene_name "CWC26";
+VRLL01000792.1	Genbank	transcript	8106	10020	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011272-T1_mrna"; gene_id "gene-MCOR15_011272"
+VRLL01000792.1	Genbank	exon	8106	8248	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011272-T1_mrna"; gene_id "gene-MCOR15_011272";
+VRLL01000792.1	Genbank	exon	8339	8378	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011272-T1_mrna"; gene_id "gene-MCOR15_011272";
+VRLL01000792.1	Genbank	exon	8453	10020	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011272-T1_mrna"; gene_id "gene-MCOR15_011272";
+VRLL01000792.1	Genbank	CDS	8195	8248	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011272-T1_mrna"; gene_id "gene-MCOR15_011272";
+VRLL01000792.1	Genbank	CDS	8339	8378	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011272-T1_mrna"; gene_id "gene-MCOR15_011272";
+VRLL01000792.1	Genbank	CDS	8453	9954	.	+	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011272-T1_mrna"; gene_id "gene-MCOR15_011272";
+VRLL01000799.1	Genbank	transcript	9783	11015	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011296-T1_mrna"; gene_id "gene-MCOR15_011296"
+VRLL01000799.1	Genbank	exon	9783	11015	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011296-T1_mrna"; gene_id "gene-MCOR15_011296";
+VRLL01000799.1	Genbank	CDS	9997	10941	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011296-T1_mrna"; gene_id "gene-MCOR15_011296";
+VRLL01000080.1	Genbank	transcript	97441	98978	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003422-T1_mrna"; gene_id "gene-MCOR15_003422"
+VRLL01000080.1	Genbank	exon	97441	97587	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003422-T1_mrna"; gene_id "gene-MCOR15_003422";
+VRLL01000080.1	Genbank	exon	97653	98978	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003422-T1_mrna"; gene_id "gene-MCOR15_003422";
+VRLL01000080.1	Genbank	CDS	97506	97587	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003422-T1_mrna"; gene_id "gene-MCOR15_003422";
+VRLL01000080.1	Genbank	CDS	97653	98797	.	+	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003422-T1_mrna"; gene_id "gene-MCOR15_003422";
+VRLL01000819.1	Genbank	transcript	6014	6716	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011350-T1_mrna"; gene_id "gene-MCOR15_011350"; gene_name "IMP3"
+VRLL01000819.1	Genbank	exon	6014	6533	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011350-T1_mrna"; gene_id "gene-MCOR15_011350"; gene_name "IMP3";
+VRLL01000819.1	Genbank	exon	6685	6716	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011350-T1_mrna"; gene_id "gene-MCOR15_011350"; gene_name "IMP3";
+VRLL01000819.1	Genbank	CDS	6014	6533	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011350-T1_mrna"; gene_id "gene-MCOR15_011350"; gene_name "IMP3";
+VRLL01000819.1	Genbank	CDS	6685	6716	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011350-T1_mrna"; gene_id "gene-MCOR15_011350"; gene_name "IMP3";
+VRLL01000085.1	Genbank	transcript	23604	24612	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003531-T1_mrna"; gene_id "gene-MCOR15_003531"
+VRLL01000085.1	Genbank	exon	23604	24211	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003531-T1_mrna"; gene_id "gene-MCOR15_003531";
+VRLL01000085.1	Genbank	exon	24290	24612	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003531-T1_mrna"; gene_id "gene-MCOR15_003531";
+VRLL01000085.1	Genbank	CDS	23621	24211	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003531-T1_mrna"; gene_id "gene-MCOR15_003531";
+VRLL01000085.1	Genbank	CDS	24290	24493	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003531-T1_mrna"; gene_id "gene-MCOR15_003531";
+VRLL01000878.1	Genbank	transcript	1	1338	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011523-T1_mrna"; gene_id "gene-MCOR15_011523"
+VRLL01000878.1	Genbank	exon	1	1338	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011523-T1_mrna"; gene_id "gene-MCOR15_011523";
+VRLL01000878.1	Genbank	CDS	43	1005	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011523-T1_mrna"; gene_id "gene-MCOR15_011523";
+VRLL01000091.1	Genbank	transcript	56920	58841	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003691-T1_mrna"; gene_id "gene-MCOR15_003691"
+VRLL01000091.1	Genbank	exon	56920	57046	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003691-T1_mrna"; gene_id "gene-MCOR15_003691";
+VRLL01000091.1	Genbank	exon	57153	57468	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003691-T1_mrna"; gene_id "gene-MCOR15_003691";
+VRLL01000091.1	Genbank	exon	57549	58458	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003691-T1_mrna"; gene_id "gene-MCOR15_003691";
+VRLL01000091.1	Genbank	exon	58532	58841	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003691-T1_mrna"; gene_id "gene-MCOR15_003691";
+VRLL01000091.1	Genbank	CDS	57000	57046	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003691-T1_mrna"; gene_id "gene-MCOR15_003691";
+VRLL01000091.1	Genbank	CDS	57153	57468	.	+	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003691-T1_mrna"; gene_id "gene-MCOR15_003691";
+VRLL01000091.1	Genbank	CDS	57549	58458	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003691-T1_mrna"; gene_id "gene-MCOR15_003691";
+VRLL01000091.1	Genbank	CDS	58532	58752	.	+	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003691-T1_mrna"; gene_id "gene-MCOR15_003691";
+VRLL01000091.1	Genbank	transcript	87013	88904	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003699-T1_mrna"; gene_id "gene-MCOR15_003699"
+VRLL01000091.1	Genbank	exon	87013	87609	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003699-T1_mrna"; gene_id "gene-MCOR15_003699";
+VRLL01000091.1	Genbank	exon	87695	88418	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003699-T1_mrna"; gene_id "gene-MCOR15_003699";
+VRLL01000091.1	Genbank	exon	88493	88904	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003699-T1_mrna"; gene_id "gene-MCOR15_003699";
+VRLL01000091.1	Genbank	CDS	87272	87609	.	-	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003699-T1_mrna"; gene_id "gene-MCOR15_003699";
+VRLL01000091.1	Genbank	CDS	87695	88418	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003699-T1_mrna"; gene_id "gene-MCOR15_003699";
+VRLL01000091.1	Genbank	CDS	88493	88771	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003699-T1_mrna"; gene_id "gene-MCOR15_003699";
+VRLL01000932.1	Genbank	transcript	2629	5760	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011635-T1_mrna"; gene_id "gene-MCOR15_011635"
+VRLL01000932.1	Genbank	exon	2629	5760	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011635-T1_mrna"; gene_id "gene-MCOR15_011635";
+VRLL01000932.1	Genbank	CDS	2629	5760	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011635-T1_mrna"; gene_id "gene-MCOR15_011635";
+VRLL01000094.1	Genbank	transcript	2522	3649	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003764-T1_mrna"; gene_id "gene-MCOR15_003764"
+VRLL01000094.1	Genbank	exon	2522	3301	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003764-T1_mrna"; gene_id "gene-MCOR15_003764";
+VRLL01000094.1	Genbank	exon	3395	3649	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003764-T1_mrna"; gene_id "gene-MCOR15_003764";
+VRLL01000094.1	Genbank	CDS	2584	3301	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003764-T1_mrna"; gene_id "gene-MCOR15_003764";
+VRLL01000094.1	Genbank	CDS	3395	3558	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003764-T1_mrna"; gene_id "gene-MCOR15_003764";
+VRLL01000094.1	Genbank	transcript	3902	4983	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003765-T1_mrna"; gene_id "gene-MCOR15_003765"
+VRLL01000094.1	Genbank	exon	3902	4736	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003765-T1_mrna"; gene_id "gene-MCOR15_003765";
+VRLL01000094.1	Genbank	exon	4811	4983	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003765-T1_mrna"; gene_id "gene-MCOR15_003765";
+VRLL01000094.1	Genbank	CDS	4038	4736	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003765-T1_mrna"; gene_id "gene-MCOR15_003765";
+VRLL01000094.1	Genbank	CDS	4811	4864	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003765-T1_mrna"; gene_id "gene-MCOR15_003765";
+VRLL01000094.1	Genbank	transcript	68215	70612	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003787-T1_mrna"; gene_id "gene-MCOR15_003787"
+VRLL01000094.1	Genbank	exon	68215	68326	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003787-T1_mrna"; gene_id "gene-MCOR15_003787";
+VRLL01000094.1	Genbank	exon	68415	69936	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003787-T1_mrna"; gene_id "gene-MCOR15_003787";
+VRLL01000094.1	Genbank	exon	70049	70612	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003787-T1_mrna"; gene_id "gene-MCOR15_003787";
+VRLL01000094.1	Genbank	CDS	68227	68326	.	-	1	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003787-T1_mrna"; gene_id "gene-MCOR15_003787";
+VRLL01000094.1	Genbank	CDS	68415	69936	.	-	2	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003787-T1_mrna"; gene_id "gene-MCOR15_003787";
+VRLL01000094.1	Genbank	CDS	70049	70331	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003787-T1_mrna"; gene_id "gene-MCOR15_003787";
+VRLL01000960.1	Genbank	transcript	5495	7301	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011696-T1_mrna"; gene_id "gene-MCOR15_011696"
+VRLL01000960.1	Genbank	exon	5495	6705	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011696-T1_mrna"; gene_id "gene-MCOR15_011696";
+VRLL01000960.1	Genbank	exon	6801	7301	.	-	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011696-T1_mrna"; gene_id "gene-MCOR15_011696";
+VRLL01000960.1	Genbank	CDS	5713	6705	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011696-T1_mrna"; gene_id "gene-MCOR15_011696";
+VRLL01000960.1	Genbank	CDS	6801	7052	.	-	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_011696-T1_mrna"; gene_id "gene-MCOR15_011696";
+VRLL01000098.1	Genbank	transcript	45805	47223	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003894-T1_mrna"; gene_id "gene-MCOR15_003894"
+VRLL01000098.1	Genbank	exon	45805	46023	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003894-T1_mrna"; gene_id "gene-MCOR15_003894";
+VRLL01000098.1	Genbank	exon	46100	47223	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003894-T1_mrna"; gene_id "gene-MCOR15_003894";
+VRLL01000098.1	Genbank	CDS	45928	46023	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003894-T1_mrna"; gene_id "gene-MCOR15_003894";
+VRLL01000098.1	Genbank	CDS	46100	46843	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003894-T1_mrna"; gene_id "gene-MCOR15_003894";
+VRLL01000099.1	Genbank	transcript	88593	89609	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003934-T1_mrna"; gene_id "gene-MCOR15_003934"; gene_name "ISY1"
+VRLL01000099.1	Genbank	exon	88593	88742	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003934-T1_mrna"; gene_id "gene-MCOR15_003934"; gene_name "ISY1";
+VRLL01000099.1	Genbank	exon	88826	89609	.	+	.	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003934-T1_mrna"; gene_id "gene-MCOR15_003934"; gene_name "ISY1";
+VRLL01000099.1	Genbank	CDS	88740	88742	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003934-T1_mrna"; gene_id "gene-MCOR15_003934"; gene_name "ISY1";
+VRLL01000099.1	Genbank	CDS	88826	89563	.	+	0	transcript_id "rna-gnl|WGS:VRLL|MCOR15_003934-T1_mrna"; gene_id "gene-MCOR15_003934"; gene_name "ISY1";
