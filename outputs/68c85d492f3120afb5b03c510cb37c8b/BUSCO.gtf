@@ -1,0 +1,930 @@
+CM079242.1	Genbank	transcript	291655	293568	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001787-T1_mrna"; gene_id "gene-V6Z94_001787"; gene_name "RSA4"
+CM079242.1	Genbank	exon	291655	292094	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001787-T1_mrna"; gene_id "gene-V6Z94_001787"; gene_name "RSA4";
+CM079242.1	Genbank	exon	292151	293229	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001787-T1_mrna"; gene_id "gene-V6Z94_001787"; gene_name "RSA4";
+CM079242.1	Genbank	exon	293296	293568	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001787-T1_mrna"; gene_id "gene-V6Z94_001787"; gene_name "RSA4";
+CM079242.1	Genbank	CDS	291851	292094	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001787-T1_mrna"; gene_id "gene-V6Z94_001787"; gene_name "RSA4";
+CM079242.1	Genbank	CDS	292151	293229	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001787-T1_mrna"; gene_id "gene-V6Z94_001787"; gene_name "RSA4";
+CM079242.1	Genbank	CDS	293296	293520	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001787-T1_mrna"; gene_id "gene-V6Z94_001787"; gene_name "RSA4";
+CM079242.1	Genbank	transcript	479039	481836	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001847-T1_mrna"; gene_id "gene-V6Z94_001847"; gene_name "RRN3"
+CM079242.1	Genbank	exon	479039	481836	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001847-T1_mrna"; gene_id "gene-V6Z94_001847"; gene_name "RRN3";
+CM079242.1	Genbank	CDS	479370	481511	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001847-T1_mrna"; gene_id "gene-V6Z94_001847"; gene_name "RRN3";
+CM079242.1	Genbank	transcript	490551	492642	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001851-T1_mrna"; gene_id "gene-V6Z94_001851"; gene_name "PWP1"
+CM079242.1	Genbank	exon	490551	490988	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001851-T1_mrna"; gene_id "gene-V6Z94_001851"; gene_name "PWP1";
+CM079242.1	Genbank	exon	491057	492642	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001851-T1_mrna"; gene_id "gene-V6Z94_001851"; gene_name "PWP1";
+CM079242.1	Genbank	CDS	490723	490988	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001851-T1_mrna"; gene_id "gene-V6Z94_001851"; gene_name "PWP1";
+CM079242.1	Genbank	CDS	491057	492419	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001851-T1_mrna"; gene_id "gene-V6Z94_001851"; gene_name "PWP1";
+CM079242.1	Genbank	transcript	503752	506747	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001858-T1_mrna"; gene_id "gene-V6Z94_001858"; gene_name "DIP2"
+CM079242.1	Genbank	exon	503752	504068	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001858-T1_mrna"; gene_id "gene-V6Z94_001858"; gene_name "DIP2";
+CM079242.1	Genbank	exon	504143	506747	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001858-T1_mrna"; gene_id "gene-V6Z94_001858"; gene_name "DIP2";
+CM079242.1	Genbank	CDS	504609	506747	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001858-T1_mrna"; gene_id "gene-V6Z94_001858"; gene_name "DIP2";
+CM079242.1	Genbank	transcript	739916	741729	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001938-T1_mrna"; gene_id "gene-V6Z94_001938"
+CM079242.1	Genbank	exon	739916	740089	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001938-T1_mrna"; gene_id "gene-V6Z94_001938";
+CM079242.1	Genbank	exon	740154	740254	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001938-T1_mrna"; gene_id "gene-V6Z94_001938";
+CM079242.1	Genbank	exon	740327	740454	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001938-T1_mrna"; gene_id "gene-V6Z94_001938";
+CM079242.1	Genbank	exon	740507	741729	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001938-T1_mrna"; gene_id "gene-V6Z94_001938";
+CM079242.1	Genbank	CDS	739987	740089	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001938-T1_mrna"; gene_id "gene-V6Z94_001938";
+CM079242.1	Genbank	CDS	740154	740254	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001938-T1_mrna"; gene_id "gene-V6Z94_001938";
+CM079242.1	Genbank	CDS	740327	740454	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001938-T1_mrna"; gene_id "gene-V6Z94_001938";
+CM079242.1	Genbank	CDS	740507	741440	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001938-T1_mrna"; gene_id "gene-V6Z94_001938";
+CM079242.1	Genbank	transcript	893210	895446	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001983-T1_mrna"; gene_id "gene-V6Z94_001983"; gene_name "SRP68"
+CM079242.1	Genbank	exon	893210	893437	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001983-T1_mrna"; gene_id "gene-V6Z94_001983"; gene_name "SRP68";
+CM079242.1	Genbank	exon	893512	894651	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001983-T1_mrna"; gene_id "gene-V6Z94_001983"; gene_name "SRP68";
+CM079242.1	Genbank	exon	894709	895446	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001983-T1_mrna"; gene_id "gene-V6Z94_001983"; gene_name "SRP68";
+CM079242.1	Genbank	CDS	893247	893437	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001983-T1_mrna"; gene_id "gene-V6Z94_001983"; gene_name "SRP68";
+CM079242.1	Genbank	CDS	893512	894651	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001983-T1_mrna"; gene_id "gene-V6Z94_001983"; gene_name "SRP68";
+CM079242.1	Genbank	CDS	894709	895213	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001983-T1_mrna"; gene_id "gene-V6Z94_001983"; gene_name "SRP68";
+CM079242.1	Genbank	transcript	1027782	1029488	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002034-T1_mrna"; gene_id "gene-V6Z94_002034"; gene_name "CSN12"
+CM079242.1	Genbank	exon	1027782	1027893	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002034-T1_mrna"; gene_id "gene-V6Z94_002034"; gene_name "CSN12";
+CM079242.1	Genbank	exon	1027948	1028368	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002034-T1_mrna"; gene_id "gene-V6Z94_002034"; gene_name "CSN12";
+CM079242.1	Genbank	exon	1028418	1028479	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002034-T1_mrna"; gene_id "gene-V6Z94_002034"; gene_name "CSN12";
+CM079242.1	Genbank	exon	1028542	1028694	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002034-T1_mrna"; gene_id "gene-V6Z94_002034"; gene_name "CSN12";
+CM079242.1	Genbank	exon	1028743	1028815	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002034-T1_mrna"; gene_id "gene-V6Z94_002034"; gene_name "CSN12";
+CM079242.1	Genbank	exon	1028875	1029488	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002034-T1_mrna"; gene_id "gene-V6Z94_002034"; gene_name "CSN12";
+CM079242.1	Genbank	CDS	1027807	1027893	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002034-T1_mrna"; gene_id "gene-V6Z94_002034"; gene_name "CSN12";
+CM079242.1	Genbank	CDS	1027948	1028368	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002034-T1_mrna"; gene_id "gene-V6Z94_002034"; gene_name "CSN12";
+CM079242.1	Genbank	CDS	1028418	1028479	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002034-T1_mrna"; gene_id "gene-V6Z94_002034"; gene_name "CSN12";
+CM079242.1	Genbank	CDS	1028542	1028694	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002034-T1_mrna"; gene_id "gene-V6Z94_002034"; gene_name "CSN12";
+CM079242.1	Genbank	CDS	1028743	1028815	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002034-T1_mrna"; gene_id "gene-V6Z94_002034"; gene_name "CSN12";
+CM079242.1	Genbank	CDS	1028875	1029446	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002034-T1_mrna"; gene_id "gene-V6Z94_002034"; gene_name "CSN12";
+CM079242.1	Genbank	transcript	1227215	1228307	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002103-T1_mrna"; gene_id "gene-V6Z94_002103"; gene_name "naa20"
+CM079242.1	Genbank	exon	1227215	1228010	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002103-T1_mrna"; gene_id "gene-V6Z94_002103"; gene_name "naa20";
+CM079242.1	Genbank	exon	1228082	1228307	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002103-T1_mrna"; gene_id "gene-V6Z94_002103"; gene_name "naa20";
+CM079242.1	Genbank	CDS	1227607	1228010	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002103-T1_mrna"; gene_id "gene-V6Z94_002103"; gene_name "naa20";
+CM079242.1	Genbank	CDS	1228082	1228250	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002103-T1_mrna"; gene_id "gene-V6Z94_002103"; gene_name "naa20";
+CM079242.1	Genbank	transcript	1357410	1360024	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002147-T1_mrna"; gene_id "gene-V6Z94_002147"; gene_name "FRS1"
+CM079242.1	Genbank	exon	1357410	1357514	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002147-T1_mrna"; gene_id "gene-V6Z94_002147"; gene_name "FRS1";
+CM079242.1	Genbank	exon	1357573	1357634	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002147-T1_mrna"; gene_id "gene-V6Z94_002147"; gene_name "FRS1";
+CM079242.1	Genbank	exon	1357695	1357735	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002147-T1_mrna"; gene_id "gene-V6Z94_002147"; gene_name "FRS1";
+CM079242.1	Genbank	exon	1357804	1357823	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002147-T1_mrna"; gene_id "gene-V6Z94_002147"; gene_name "FRS1";
+CM079242.1	Genbank	exon	1357880	1357956	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002147-T1_mrna"; gene_id "gene-V6Z94_002147"; gene_name "FRS1";
+CM079242.1	Genbank	exon	1358018	1358147	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002147-T1_mrna"; gene_id "gene-V6Z94_002147"; gene_name "FRS1";
+CM079242.1	Genbank	exon	1358211	1358477	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002147-T1_mrna"; gene_id "gene-V6Z94_002147"; gene_name "FRS1";
+CM079242.1	Genbank	exon	1358532	1358773	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002147-T1_mrna"; gene_id "gene-V6Z94_002147"; gene_name "FRS1";
+CM079242.1	Genbank	exon	1358828	1359636	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002147-T1_mrna"; gene_id "gene-V6Z94_002147"; gene_name "FRS1";
+CM079242.1	Genbank	exon	1359721	1360024	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002147-T1_mrna"; gene_id "gene-V6Z94_002147"; gene_name "FRS1";
+CM079242.1	Genbank	CDS	1357582	1357634	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002147-T1_mrna"; gene_id "gene-V6Z94_002147"; gene_name "FRS1";
+CM079242.1	Genbank	CDS	1357695	1357735	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002147-T1_mrna"; gene_id "gene-V6Z94_002147"; gene_name "FRS1";
+CM079242.1	Genbank	CDS	1357804	1357823	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002147-T1_mrna"; gene_id "gene-V6Z94_002147"; gene_name "FRS1";
+CM079242.1	Genbank	CDS	1357880	1357956	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002147-T1_mrna"; gene_id "gene-V6Z94_002147"; gene_name "FRS1";
+CM079242.1	Genbank	CDS	1358018	1358147	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002147-T1_mrna"; gene_id "gene-V6Z94_002147"; gene_name "FRS1";
+CM079242.1	Genbank	CDS	1358211	1358477	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002147-T1_mrna"; gene_id "gene-V6Z94_002147"; gene_name "FRS1";
+CM079242.1	Genbank	CDS	1358532	1358773	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002147-T1_mrna"; gene_id "gene-V6Z94_002147"; gene_name "FRS1";
+CM079242.1	Genbank	CDS	1358828	1359636	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002147-T1_mrna"; gene_id "gene-V6Z94_002147"; gene_name "FRS1";
+CM079242.1	Genbank	CDS	1359721	1359884	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002147-T1_mrna"; gene_id "gene-V6Z94_002147"; gene_name "FRS1";
+CM079242.1	Genbank	transcript	1534025	1536175	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002210-T1_mrna"; gene_id "gene-V6Z94_002210"; gene_name "PCM1"
+CM079242.1	Genbank	exon	1534025	1534277	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002210-T1_mrna"; gene_id "gene-V6Z94_002210"; gene_name "PCM1";
+CM079242.1	Genbank	exon	1534343	1534596	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002210-T1_mrna"; gene_id "gene-V6Z94_002210"; gene_name "PCM1";
+CM079242.1	Genbank	exon	1534665	1534679	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002210-T1_mrna"; gene_id "gene-V6Z94_002210"; gene_name "PCM1";
+CM079242.1	Genbank	exon	1534739	1535239	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002210-T1_mrna"; gene_id "gene-V6Z94_002210"; gene_name "PCM1";
+CM079242.1	Genbank	exon	1535294	1536175	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002210-T1_mrna"; gene_id "gene-V6Z94_002210"; gene_name "PCM1";
+CM079242.1	Genbank	CDS	1534537	1534596	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002210-T1_mrna"; gene_id "gene-V6Z94_002210"; gene_name "PCM1";
+CM079242.1	Genbank	CDS	1534665	1534679	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002210-T1_mrna"; gene_id "gene-V6Z94_002210"; gene_name "PCM1";
+CM079242.1	Genbank	CDS	1534739	1535239	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002210-T1_mrna"; gene_id "gene-V6Z94_002210"; gene_name "PCM1";
+CM079242.1	Genbank	CDS	1535294	1536175	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002210-T1_mrna"; gene_id "gene-V6Z94_002210"; gene_name "PCM1";
+CM079242.1	Genbank	transcript	1658384	1659694	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002260-T1_mrna"; gene_id "gene-V6Z94_002260"; gene_name "TSR3"
+CM079242.1	Genbank	exon	1658384	1658686	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002260-T1_mrna"; gene_id "gene-V6Z94_002260"; gene_name "TSR3";
+CM079242.1	Genbank	exon	1658746	1658882	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002260-T1_mrna"; gene_id "gene-V6Z94_002260"; gene_name "TSR3";
+CM079242.1	Genbank	exon	1658955	1659694	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002260-T1_mrna"; gene_id "gene-V6Z94_002260"; gene_name "TSR3";
+CM079242.1	Genbank	CDS	1658439	1658686	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002260-T1_mrna"; gene_id "gene-V6Z94_002260"; gene_name "TSR3";
+CM079242.1	Genbank	CDS	1658746	1658882	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002260-T1_mrna"; gene_id "gene-V6Z94_002260"; gene_name "TSR3";
+CM079242.1	Genbank	CDS	1658955	1659694	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002260-T1_mrna"; gene_id "gene-V6Z94_002260"; gene_name "TSR3";
+CM079242.1	Genbank	transcript	1984864	1986247	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002365-T1_mrna"; gene_id "gene-V6Z94_002365"; gene_name "DRE2"
+CM079242.1	Genbank	exon	1984864	1985071	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002365-T1_mrna"; gene_id "gene-V6Z94_002365"; gene_name "DRE2";
+CM079242.1	Genbank	exon	1985143	1985372	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002365-T1_mrna"; gene_id "gene-V6Z94_002365"; gene_name "DRE2";
+CM079242.1	Genbank	exon	1985485	1986247	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002365-T1_mrna"; gene_id "gene-V6Z94_002365"; gene_name "DRE2";
+CM079242.1	Genbank	CDS	1984994	1985071	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002365-T1_mrna"; gene_id "gene-V6Z94_002365"; gene_name "DRE2";
+CM079242.1	Genbank	CDS	1985143	1985372	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002365-T1_mrna"; gene_id "gene-V6Z94_002365"; gene_name "DRE2";
+CM079242.1	Genbank	CDS	1985485	1986139	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002365-T1_mrna"; gene_id "gene-V6Z94_002365"; gene_name "DRE2";
+CM079242.1	Genbank	transcript	2146845	2148763	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002418-T1_mrna"; gene_id "gene-V6Z94_002418"
+CM079242.1	Genbank	exon	2146845	2147250	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002418-T1_mrna"; gene_id "gene-V6Z94_002418";
+CM079242.1	Genbank	exon	2147306	2147480	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002418-T1_mrna"; gene_id "gene-V6Z94_002418";
+CM079242.1	Genbank	exon	2147541	2148763	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002418-T1_mrna"; gene_id "gene-V6Z94_002418";
+CM079242.1	Genbank	CDS	2147039	2147250	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002418-T1_mrna"; gene_id "gene-V6Z94_002418";
+CM079242.1	Genbank	CDS	2147306	2147480	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002418-T1_mrna"; gene_id "gene-V6Z94_002418";
+CM079242.1	Genbank	CDS	2147541	2148566	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002418-T1_mrna"; gene_id "gene-V6Z94_002418";
+CM079242.1	Genbank	transcript	2150606	2153039	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002420-T1_mrna"; gene_id "gene-V6Z94_002420"; gene_name "ERB1"
+CM079242.1	Genbank	exon	2150606	2153039	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002420-T1_mrna"; gene_id "gene-V6Z94_002420"; gene_name "ERB1";
+CM079242.1	Genbank	CDS	2150643	2153039	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002420-T1_mrna"; gene_id "gene-V6Z94_002420"; gene_name "ERB1";
+CM079242.1	Genbank	transcript	2180062	2182686	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002433-T1_mrna"; gene_id "gene-V6Z94_002433"; gene_name "UTP25"
+CM079242.1	Genbank	exon	2180062	2181122	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002433-T1_mrna"; gene_id "gene-V6Z94_002433"; gene_name "UTP25";
+CM079242.1	Genbank	exon	2181179	2181756	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002433-T1_mrna"; gene_id "gene-V6Z94_002433"; gene_name "UTP25";
+CM079242.1	Genbank	exon	2181826	2182025	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002433-T1_mrna"; gene_id "gene-V6Z94_002433"; gene_name "UTP25";
+CM079242.1	Genbank	exon	2182079	2182470	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002433-T1_mrna"; gene_id "gene-V6Z94_002433"; gene_name "UTP25";
+CM079242.1	Genbank	exon	2182521	2182686	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002433-T1_mrna"; gene_id "gene-V6Z94_002433"; gene_name "UTP25";
+CM079242.1	Genbank	CDS	2180204	2181122	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002433-T1_mrna"; gene_id "gene-V6Z94_002433"; gene_name "UTP25";
+CM079242.1	Genbank	CDS	2181179	2181756	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002433-T1_mrna"; gene_id "gene-V6Z94_002433"; gene_name "UTP25";
+CM079242.1	Genbank	CDS	2181826	2182025	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002433-T1_mrna"; gene_id "gene-V6Z94_002433"; gene_name "UTP25";
+CM079242.1	Genbank	CDS	2182079	2182470	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002433-T1_mrna"; gene_id "gene-V6Z94_002433"; gene_name "UTP25";
+CM079242.1	Genbank	CDS	2182521	2182633	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002433-T1_mrna"; gene_id "gene-V6Z94_002433"; gene_name "UTP25";
+CM079242.1	Genbank	transcript	2182839	2184639	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002434-T1_mrna"; gene_id "gene-V6Z94_002434"
+CM079242.1	Genbank	exon	2182839	2183046	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002434-T1_mrna"; gene_id "gene-V6Z94_002434";
+CM079242.1	Genbank	exon	2183110	2183822	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002434-T1_mrna"; gene_id "gene-V6Z94_002434";
+CM079242.1	Genbank	exon	2183889	2184639	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002434-T1_mrna"; gene_id "gene-V6Z94_002434";
+CM079242.1	Genbank	CDS	2182942	2183046	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002434-T1_mrna"; gene_id "gene-V6Z94_002434";
+CM079242.1	Genbank	CDS	2183110	2183822	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002434-T1_mrna"; gene_id "gene-V6Z94_002434";
+CM079242.1	Genbank	CDS	2183889	2184108	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002434-T1_mrna"; gene_id "gene-V6Z94_002434";
+CM079242.1	Genbank	transcript	2206861	2209178	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002449-T1_mrna"; gene_id "gene-V6Z94_002449"; gene_name "GCD7"
+CM079242.1	Genbank	exon	2206861	2207467	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002449-T1_mrna"; gene_id "gene-V6Z94_002449"; gene_name "GCD7";
+CM079242.1	Genbank	exon	2207531	2208383	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002449-T1_mrna"; gene_id "gene-V6Z94_002449"; gene_name "GCD7";
+CM079242.1	Genbank	exon	2208449	2208744	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002449-T1_mrna"; gene_id "gene-V6Z94_002449"; gene_name "GCD7";
+CM079242.1	Genbank	exon	2208806	2208941	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002449-T1_mrna"; gene_id "gene-V6Z94_002449"; gene_name "GCD7";
+CM079242.1	Genbank	exon	2209105	2209178	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002449-T1_mrna"; gene_id "gene-V6Z94_002449"; gene_name "GCD7";
+CM079242.1	Genbank	CDS	2207395	2207467	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002449-T1_mrna"; gene_id "gene-V6Z94_002449"; gene_name "GCD7";
+CM079242.1	Genbank	CDS	2207531	2208383	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002449-T1_mrna"; gene_id "gene-V6Z94_002449"; gene_name "GCD7";
+CM079242.1	Genbank	CDS	2208449	2208744	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002449-T1_mrna"; gene_id "gene-V6Z94_002449"; gene_name "GCD7";
+CM079242.1	Genbank	CDS	2208806	2208903	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002449-T1_mrna"; gene_id "gene-V6Z94_002449"; gene_name "GCD7";
+CM079242.1	Genbank	transcript	2304175	2307704	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002483-T1_mrna"; gene_id "gene-V6Z94_002483"; gene_name "HIR1"
+CM079242.1	Genbank	exon	2304175	2304211	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002483-T1_mrna"; gene_id "gene-V6Z94_002483"; gene_name "HIR1";
+CM079242.1	Genbank	exon	2304317	2304391	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002483-T1_mrna"; gene_id "gene-V6Z94_002483"; gene_name "HIR1";
+CM079242.1	Genbank	exon	2304484	2304705	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002483-T1_mrna"; gene_id "gene-V6Z94_002483"; gene_name "HIR1";
+CM079242.1	Genbank	exon	2304774	2307530	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002483-T1_mrna"; gene_id "gene-V6Z94_002483"; gene_name "HIR1";
+CM079242.1	Genbank	exon	2307607	2307704	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002483-T1_mrna"; gene_id "gene-V6Z94_002483"; gene_name "HIR1";
+CM079242.1	Genbank	CDS	2304175	2304211	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002483-T1_mrna"; gene_id "gene-V6Z94_002483"; gene_name "HIR1";
+CM079242.1	Genbank	CDS	2304317	2304391	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002483-T1_mrna"; gene_id "gene-V6Z94_002483"; gene_name "HIR1";
+CM079242.1	Genbank	CDS	2304484	2304705	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002483-T1_mrna"; gene_id "gene-V6Z94_002483"; gene_name "HIR1";
+CM079242.1	Genbank	CDS	2304774	2307530	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002483-T1_mrna"; gene_id "gene-V6Z94_002483"; gene_name "HIR1";
+CM079242.1	Genbank	CDS	2307607	2307704	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002483-T1_mrna"; gene_id "gene-V6Z94_002483"; gene_name "HIR1";
+CM079242.1	Genbank	transcript	2310511	2311335	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002485-T1_mrna"; gene_id "gene-V6Z94_002485"; gene_name "TMA20"
+CM079242.1	Genbank	exon	2310511	2310524	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002485-T1_mrna"; gene_id "gene-V6Z94_002485"; gene_name "TMA20";
+CM079242.1	Genbank	exon	2310720	2310860	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002485-T1_mrna"; gene_id "gene-V6Z94_002485"; gene_name "TMA20";
+CM079242.1	Genbank	exon	2310945	2311335	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002485-T1_mrna"; gene_id "gene-V6Z94_002485"; gene_name "TMA20";
+CM079242.1	Genbank	CDS	2310511	2310524	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002485-T1_mrna"; gene_id "gene-V6Z94_002485"; gene_name "TMA20";
+CM079242.1	Genbank	CDS	2310720	2310860	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002485-T1_mrna"; gene_id "gene-V6Z94_002485"; gene_name "TMA20";
+CM079242.1	Genbank	CDS	2310945	2311335	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002485-T1_mrna"; gene_id "gene-V6Z94_002485"; gene_name "TMA20";
+CM079242.1	Genbank	transcript	2343265	2344581	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002500-T1_mrna"; gene_id "gene-V6Z94_002500"
+CM079242.1	Genbank	exon	2343265	2343272	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002500-T1_mrna"; gene_id "gene-V6Z94_002500";
+CM079242.1	Genbank	exon	2343331	2343370	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002500-T1_mrna"; gene_id "gene-V6Z94_002500";
+CM079242.1	Genbank	exon	2343457	2343926	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002500-T1_mrna"; gene_id "gene-V6Z94_002500";
+CM079242.1	Genbank	exon	2344002	2344581	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002500-T1_mrna"; gene_id "gene-V6Z94_002500";
+CM079242.1	Genbank	CDS	2343265	2343272	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002500-T1_mrna"; gene_id "gene-V6Z94_002500";
+CM079242.1	Genbank	CDS	2343331	2343370	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002500-T1_mrna"; gene_id "gene-V6Z94_002500";
+CM079242.1	Genbank	CDS	2343457	2343926	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002500-T1_mrna"; gene_id "gene-V6Z94_002500";
+CM079242.1	Genbank	CDS	2344002	2344581	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002500-T1_mrna"; gene_id "gene-V6Z94_002500";
+CM079242.1	Genbank	transcript	2560988	2562349	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002570-T1_mrna"; gene_id "gene-V6Z94_002570"; gene_name "PRP46"
+CM079242.1	Genbank	exon	2560988	2562349	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002570-T1_mrna"; gene_id "gene-V6Z94_002570"; gene_name "PRP46";
+CM079242.1	Genbank	CDS	2560988	2562349	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002570-T1_mrna"; gene_id "gene-V6Z94_002570"; gene_name "PRP46";
+CM079242.1	Genbank	transcript	2573067	2576684	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002576-T1_mrna"; gene_id "gene-V6Z94_002576"; gene_name "MAK21"
+CM079242.1	Genbank	exon	2573067	2573837	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002576-T1_mrna"; gene_id "gene-V6Z94_002576"; gene_name "MAK21";
+CM079242.1	Genbank	exon	2573890	2575004	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002576-T1_mrna"; gene_id "gene-V6Z94_002576"; gene_name "MAK21";
+CM079242.1	Genbank	exon	2575054	2575600	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002576-T1_mrna"; gene_id "gene-V6Z94_002576"; gene_name "MAK21";
+CM079242.1	Genbank	exon	2575666	2576684	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002576-T1_mrna"; gene_id "gene-V6Z94_002576"; gene_name "MAK21";
+CM079242.1	Genbank	CDS	2573067	2573837	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002576-T1_mrna"; gene_id "gene-V6Z94_002576"; gene_name "MAK21";
+CM079242.1	Genbank	CDS	2573890	2575004	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002576-T1_mrna"; gene_id "gene-V6Z94_002576"; gene_name "MAK21";
+CM079242.1	Genbank	CDS	2575054	2575600	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002576-T1_mrna"; gene_id "gene-V6Z94_002576"; gene_name "MAK21";
+CM079242.1	Genbank	CDS	2575666	2576571	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002576-T1_mrna"; gene_id "gene-V6Z94_002576"; gene_name "MAK21";
+CM079242.1	Genbank	transcript	2580486	2582381	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002579-T1_mrna"; gene_id "gene-V6Z94_002579"; gene_name "GCV1"
+CM079242.1	Genbank	exon	2580486	2580907	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002579-T1_mrna"; gene_id "gene-V6Z94_002579"; gene_name "GCV1";
+CM079242.1	Genbank	exon	2580971	2582381	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002579-T1_mrna"; gene_id "gene-V6Z94_002579"; gene_name "GCV1";
+CM079242.1	Genbank	CDS	2580516	2580907	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002579-T1_mrna"; gene_id "gene-V6Z94_002579"; gene_name "GCV1";
+CM079242.1	Genbank	CDS	2580971	2582036	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002579-T1_mrna"; gene_id "gene-V6Z94_002579"; gene_name "GCV1";
+CM079242.1	Genbank	transcript	3486309	3488081	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002898-T1_mrna"; gene_id "gene-V6Z94_002898"; gene_name "prp3"
+CM079242.1	Genbank	exon	3486309	3488081	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002898-T1_mrna"; gene_id "gene-V6Z94_002898"; gene_name "prp3";
+CM079242.1	Genbank	CDS	3486309	3488081	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002898-T1_mrna"; gene_id "gene-V6Z94_002898"; gene_name "prp3";
+CM079242.1	Genbank	transcript	3525438	3526681	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002912-T1_mrna"; gene_id "gene-V6Z94_002912"; gene_name "DPH5"
+CM079242.1	Genbank	exon	3525438	3526267	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002912-T1_mrna"; gene_id "gene-V6Z94_002912"; gene_name "DPH5";
+CM079242.1	Genbank	exon	3526320	3526444	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002912-T1_mrna"; gene_id "gene-V6Z94_002912"; gene_name "DPH5";
+CM079242.1	Genbank	exon	3526509	3526681	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002912-T1_mrna"; gene_id "gene-V6Z94_002912"; gene_name "DPH5";
+CM079242.1	Genbank	CDS	3525670	3526267	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002912-T1_mrna"; gene_id "gene-V6Z94_002912"; gene_name "DPH5";
+CM079242.1	Genbank	CDS	3526320	3526444	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002912-T1_mrna"; gene_id "gene-V6Z94_002912"; gene_name "DPH5";
+CM079242.1	Genbank	CDS	3526509	3526643	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002912-T1_mrna"; gene_id "gene-V6Z94_002912"; gene_name "DPH5";
+CM079242.1	Genbank	transcript	3531661	3532866	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002916-T1_mrna"; gene_id "gene-V6Z94_002916"
+CM079242.1	Genbank	exon	3531661	3531889	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002916-T1_mrna"; gene_id "gene-V6Z94_002916";
+CM079242.1	Genbank	exon	3531959	3532866	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002916-T1_mrna"; gene_id "gene-V6Z94_002916";
+CM079242.1	Genbank	CDS	3532210	3532866	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002916-T1_mrna"; gene_id "gene-V6Z94_002916";
+CM079242.1	Genbank	transcript	3672266	3673314	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002977-T1_mrna"; gene_id "gene-V6Z94_002977"
+CM079242.1	Genbank	exon	3672266	3673054	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002977-T1_mrna"; gene_id "gene-V6Z94_002977";
+CM079242.1	Genbank	exon	3673131	3673314	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002977-T1_mrna"; gene_id "gene-V6Z94_002977";
+CM079242.1	Genbank	CDS	3672266	3673054	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002977-T1_mrna"; gene_id "gene-V6Z94_002977";
+CM079242.1	Genbank	CDS	3673131	3673226	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_002977-T1_mrna"; gene_id "gene-V6Z94_002977";
+CM079242.1	Genbank	transcript	3817681	3820433	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003023-T1_mrna"; gene_id "gene-V6Z94_003023"; gene_name "SDA1"
+CM079242.1	Genbank	exon	3817681	3817779	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003023-T1_mrna"; gene_id "gene-V6Z94_003023"; gene_name "SDA1";
+CM079242.1	Genbank	exon	3817870	3817905	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003023-T1_mrna"; gene_id "gene-V6Z94_003023"; gene_name "SDA1";
+CM079242.1	Genbank	exon	3817981	3818268	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003023-T1_mrna"; gene_id "gene-V6Z94_003023"; gene_name "SDA1";
+CM079242.1	Genbank	exon	3818337	3820433	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003023-T1_mrna"; gene_id "gene-V6Z94_003023"; gene_name "SDA1";
+CM079242.1	Genbank	CDS	3817733	3817779	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003023-T1_mrna"; gene_id "gene-V6Z94_003023"; gene_name "SDA1";
+CM079242.1	Genbank	CDS	3817870	3817905	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003023-T1_mrna"; gene_id "gene-V6Z94_003023"; gene_name "SDA1";
+CM079242.1	Genbank	CDS	3817981	3818268	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003023-T1_mrna"; gene_id "gene-V6Z94_003023"; gene_name "SDA1";
+CM079242.1	Genbank	CDS	3818337	3820212	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003023-T1_mrna"; gene_id "gene-V6Z94_003023"; gene_name "SDA1";
+CM079242.1	Genbank	transcript	4040051	4041572	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003095-T1_mrna"; gene_id "gene-V6Z94_003095"
+CM079242.1	Genbank	exon	4040051	4040631	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003095-T1_mrna"; gene_id "gene-V6Z94_003095";
+CM079242.1	Genbank	exon	4040701	4041572	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003095-T1_mrna"; gene_id "gene-V6Z94_003095";
+CM079242.1	Genbank	CDS	4040139	4040631	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003095-T1_mrna"; gene_id "gene-V6Z94_003095";
+CM079242.1	Genbank	CDS	4040701	4041572	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003095-T1_mrna"; gene_id "gene-V6Z94_003095";
+CM079242.1	Genbank	transcript	4380695	4383265	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003206-T1_mrna"; gene_id "gene-V6Z94_003206"; gene_name "DBP6"
+CM079242.1	Genbank	exon	4380695	4383265	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003206-T1_mrna"; gene_id "gene-V6Z94_003206"; gene_name "DBP6";
+CM079242.1	Genbank	CDS	4380695	4383265	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003206-T1_mrna"; gene_id "gene-V6Z94_003206"; gene_name "DBP6";
+CM079242.1	Genbank	transcript	4390602	4391771	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003211-T1_mrna"; gene_id "gene-V6Z94_003211"
+CM079242.1	Genbank	exon	4390602	4390794	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003211-T1_mrna"; gene_id "gene-V6Z94_003211";
+CM079242.1	Genbank	exon	4390846	4391771	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003211-T1_mrna"; gene_id "gene-V6Z94_003211";
+CM079242.1	Genbank	CDS	4390602	4390794	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003211-T1_mrna"; gene_id "gene-V6Z94_003211";
+CM079242.1	Genbank	CDS	4390846	4391771	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003211-T1_mrna"; gene_id "gene-V6Z94_003211";
+CM079243.1	Genbank	transcript	342620	343640	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000141-T1_mrna"; gene_id "gene-V6Z94_000141"; gene_name "NOP16"
+CM079243.1	Genbank	exon	342620	342791	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000141-T1_mrna"; gene_id "gene-V6Z94_000141"; gene_name "NOP16";
+CM079243.1	Genbank	exon	342858	343640	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000141-T1_mrna"; gene_id "gene-V6Z94_000141"; gene_name "NOP16";
+CM079243.1	Genbank	CDS	342661	342791	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000141-T1_mrna"; gene_id "gene-V6Z94_000141"; gene_name "NOP16";
+CM079243.1	Genbank	CDS	342858	343452	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000141-T1_mrna"; gene_id "gene-V6Z94_000141"; gene_name "NOP16";
+CM079243.1	Genbank	transcript	577578	578602	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000233-T1_mrna"; gene_id "gene-V6Z94_000233"; gene_name "RRP40"
+CM079243.1	Genbank	exon	577578	578602	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000233-T1_mrna"; gene_id "gene-V6Z94_000233"; gene_name "RRP40";
+CM079243.1	Genbank	CDS	577645	578469	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000233-T1_mrna"; gene_id "gene-V6Z94_000233"; gene_name "RRP40";
+CM079243.1	Genbank	transcript	746663	748564	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000293-T1_mrna"; gene_id "gene-V6Z94_000293"; gene_name "DOM34"
+CM079243.1	Genbank	exon	746663	746974	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000293-T1_mrna"; gene_id "gene-V6Z94_000293"; gene_name "DOM34";
+CM079243.1	Genbank	exon	747034	747528	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000293-T1_mrna"; gene_id "gene-V6Z94_000293"; gene_name "DOM34";
+CM079243.1	Genbank	exon	747585	748564	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000293-T1_mrna"; gene_id "gene-V6Z94_000293"; gene_name "DOM34";
+CM079243.1	Genbank	CDS	746897	746974	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000293-T1_mrna"; gene_id "gene-V6Z94_000293"; gene_name "DOM34";
+CM079243.1	Genbank	CDS	747034	747528	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000293-T1_mrna"; gene_id "gene-V6Z94_000293"; gene_name "DOM34";
+CM079243.1	Genbank	CDS	747585	748244	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000293-T1_mrna"; gene_id "gene-V6Z94_000293"; gene_name "DOM34";
+CM079243.1	Genbank	transcript	1312702	1314986	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000472-T1_mrna"; gene_id "gene-V6Z94_000472"; gene_name "ENP2"
+CM079243.1	Genbank	exon	1312702	1314650	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000472-T1_mrna"; gene_id "gene-V6Z94_000472"; gene_name "ENP2";
+CM079243.1	Genbank	exon	1314719	1314986	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000472-T1_mrna"; gene_id "gene-V6Z94_000472"; gene_name "ENP2";
+CM079243.1	Genbank	CDS	1312702	1314650	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000472-T1_mrna"; gene_id "gene-V6Z94_000472"; gene_name "ENP2";
+CM079243.1	Genbank	CDS	1314719	1314935	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000472-T1_mrna"; gene_id "gene-V6Z94_000472"; gene_name "ENP2";
+CM079243.1	Genbank	transcript	1443866	1447513	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000519-T1_mrna"; gene_id "gene-V6Z94_000519"
+CM079243.1	Genbank	exon	1443866	1444381	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000519-T1_mrna"; gene_id "gene-V6Z94_000519";
+CM079243.1	Genbank	exon	1444431	1447513	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000519-T1_mrna"; gene_id "gene-V6Z94_000519";
+CM079243.1	Genbank	CDS	1443947	1444381	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000519-T1_mrna"; gene_id "gene-V6Z94_000519";
+CM079243.1	Genbank	CDS	1444431	1446680	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000519-T1_mrna"; gene_id "gene-V6Z94_000519";
+CM079243.1	Genbank	transcript	1513868	1516611	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000537-T1_mrna"; gene_id "gene-V6Z94_000537"; gene_name "ESF1"
+CM079243.1	Genbank	exon	1513868	1516362	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000537-T1_mrna"; gene_id "gene-V6Z94_000537"; gene_name "ESF1";
+CM079243.1	Genbank	exon	1516439	1516611	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000537-T1_mrna"; gene_id "gene-V6Z94_000537"; gene_name "ESF1";
+CM079243.1	Genbank	CDS	1514237	1516362	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000537-T1_mrna"; gene_id "gene-V6Z94_000537"; gene_name "ESF1";
+CM079243.1	Genbank	CDS	1516439	1516502	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000537-T1_mrna"; gene_id "gene-V6Z94_000537"; gene_name "ESF1";
+CM079243.1	Genbank	transcript	1530729	1531897	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000543-T1_mrna"; gene_id "gene-V6Z94_000543"; gene_name "LIA1"
+CM079243.1	Genbank	exon	1530729	1531245	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000543-T1_mrna"; gene_id "gene-V6Z94_000543"; gene_name "LIA1";
+CM079243.1	Genbank	exon	1531327	1531897	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000543-T1_mrna"; gene_id "gene-V6Z94_000543"; gene_name "LIA1";
+CM079243.1	Genbank	CDS	1530729	1531245	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000543-T1_mrna"; gene_id "gene-V6Z94_000543"; gene_name "LIA1";
+CM079243.1	Genbank	CDS	1531327	1531817	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000543-T1_mrna"; gene_id "gene-V6Z94_000543"; gene_name "LIA1";
+CM079243.1	Genbank	transcript	1662365	1664871	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000589-T1_mrna"; gene_id "gene-V6Z94_000589"; gene_name "UTP18"
+CM079243.1	Genbank	exon	1662365	1662880	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000589-T1_mrna"; gene_id "gene-V6Z94_000589"; gene_name "UTP18";
+CM079243.1	Genbank	exon	1662944	1663793	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000589-T1_mrna"; gene_id "gene-V6Z94_000589"; gene_name "UTP18";
+CM079243.1	Genbank	exon	1663853	1664356	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000589-T1_mrna"; gene_id "gene-V6Z94_000589"; gene_name "UTP18";
+CM079243.1	Genbank	exon	1664413	1664871	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000589-T1_mrna"; gene_id "gene-V6Z94_000589"; gene_name "UTP18";
+CM079243.1	Genbank	CDS	1662729	1662880	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000589-T1_mrna"; gene_id "gene-V6Z94_000589"; gene_name "UTP18";
+CM079243.1	Genbank	CDS	1662944	1663793	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000589-T1_mrna"; gene_id "gene-V6Z94_000589"; gene_name "UTP18";
+CM079243.1	Genbank	CDS	1663853	1664356	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000589-T1_mrna"; gene_id "gene-V6Z94_000589"; gene_name "UTP18";
+CM079243.1	Genbank	CDS	1664413	1664763	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000589-T1_mrna"; gene_id "gene-V6Z94_000589"; gene_name "UTP18";
+CM079243.1	Genbank	transcript	1766774	1769528	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000620-T1_mrna"; gene_id "gene-V6Z94_000620"; gene_name "DPB2"
+CM079243.1	Genbank	exon	1766774	1769528	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000620-T1_mrna"; gene_id "gene-V6Z94_000620"; gene_name "DPB2";
+CM079243.1	Genbank	CDS	1766933	1769221	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000620-T1_mrna"; gene_id "gene-V6Z94_000620"; gene_name "DPB2";
+CM079243.1	Genbank	transcript	1790920	1793653	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000627-T1_mrna"; gene_id "gene-V6Z94_000627"; gene_name "ATG7"
+CM079243.1	Genbank	exon	1790920	1791212	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000627-T1_mrna"; gene_id "gene-V6Z94_000627"; gene_name "ATG7";
+CM079243.1	Genbank	exon	1791318	1791426	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000627-T1_mrna"; gene_id "gene-V6Z94_000627"; gene_name "ATG7";
+CM079243.1	Genbank	exon	1791481	1792271	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000627-T1_mrna"; gene_id "gene-V6Z94_000627"; gene_name "ATG7";
+CM079243.1	Genbank	exon	1792340	1792484	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000627-T1_mrna"; gene_id "gene-V6Z94_000627"; gene_name "ATG7";
+CM079243.1	Genbank	exon	1792540	1793007	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000627-T1_mrna"; gene_id "gene-V6Z94_000627"; gene_name "ATG7";
+CM079243.1	Genbank	exon	1793063	1793422	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000627-T1_mrna"; gene_id "gene-V6Z94_000627"; gene_name "ATG7";
+CM079243.1	Genbank	exon	1793576	1793653	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000627-T1_mrna"; gene_id "gene-V6Z94_000627"; gene_name "ATG7";
+CM079243.1	Genbank	CDS	1791022	1791212	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000627-T1_mrna"; gene_id "gene-V6Z94_000627"; gene_name "ATG7";
+CM079243.1	Genbank	CDS	1791318	1791426	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000627-T1_mrna"; gene_id "gene-V6Z94_000627"; gene_name "ATG7";
+CM079243.1	Genbank	CDS	1791481	1792271	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000627-T1_mrna"; gene_id "gene-V6Z94_000627"; gene_name "ATG7";
+CM079243.1	Genbank	CDS	1792340	1792484	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000627-T1_mrna"; gene_id "gene-V6Z94_000627"; gene_name "ATG7";
+CM079243.1	Genbank	CDS	1792540	1793007	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000627-T1_mrna"; gene_id "gene-V6Z94_000627"; gene_name "ATG7";
+CM079243.1	Genbank	CDS	1793063	1793422	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000627-T1_mrna"; gene_id "gene-V6Z94_000627"; gene_name "ATG7";
+CM079243.1	Genbank	CDS	1793576	1793653	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000627-T1_mrna"; gene_id "gene-V6Z94_000627"; gene_name "ATG7";
+CM079243.1	Genbank	transcript	2164588	2165304	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000714-T1_mrna"; gene_id "gene-V6Z94_000714"; gene_name "imp3"
+CM079243.1	Genbank	exon	2164588	2164619	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000714-T1_mrna"; gene_id "gene-V6Z94_000714"; gene_name "imp3";
+CM079243.1	Genbank	exon	2164693	2165053	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000714-T1_mrna"; gene_id "gene-V6Z94_000714"; gene_name "imp3";
+CM079243.1	Genbank	exon	2165131	2165304	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000714-T1_mrna"; gene_id "gene-V6Z94_000714"; gene_name "imp3";
+CM079243.1	Genbank	CDS	2164588	2164619	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000714-T1_mrna"; gene_id "gene-V6Z94_000714"; gene_name "imp3";
+CM079243.1	Genbank	CDS	2164693	2165053	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000714-T1_mrna"; gene_id "gene-V6Z94_000714"; gene_name "imp3";
+CM079243.1	Genbank	CDS	2165131	2165304	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000714-T1_mrna"; gene_id "gene-V6Z94_000714"; gene_name "imp3";
+CM079243.1	Genbank	transcript	2300183	2301490	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000762-T1_mrna"; gene_id "gene-V6Z94_000762"; gene_name "RRP45"
+CM079243.1	Genbank	exon	2300183	2301031	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000762-T1_mrna"; gene_id "gene-V6Z94_000762"; gene_name "RRP45";
+CM079243.1	Genbank	exon	2301088	2301207	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000762-T1_mrna"; gene_id "gene-V6Z94_000762"; gene_name "RRP45";
+CM079243.1	Genbank	exon	2301265	2301490	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000762-T1_mrna"; gene_id "gene-V6Z94_000762"; gene_name "RRP45";
+CM079243.1	Genbank	CDS	2300437	2301031	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000762-T1_mrna"; gene_id "gene-V6Z94_000762"; gene_name "RRP45";
+CM079243.1	Genbank	CDS	2301088	2301207	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000762-T1_mrna"; gene_id "gene-V6Z94_000762"; gene_name "RRP45";
+CM079243.1	Genbank	CDS	2301265	2301428	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000762-T1_mrna"; gene_id "gene-V6Z94_000762"; gene_name "RRP45";
+CM079243.1	Genbank	transcript	2301576	2303206	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000763-T1_mrna"; gene_id "gene-V6Z94_000763"; gene_name "CWC15"
+CM079243.1	Genbank	exon	2301576	2301695	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000763-T1_mrna"; gene_id "gene-V6Z94_000763"; gene_name "CWC15";
+CM079243.1	Genbank	exon	2301750	2301772	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000763-T1_mrna"; gene_id "gene-V6Z94_000763"; gene_name "CWC15";
+CM079243.1	Genbank	exon	2301827	2301903	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000763-T1_mrna"; gene_id "gene-V6Z94_000763"; gene_name "CWC15";
+CM079243.1	Genbank	exon	2301954	2302238	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000763-T1_mrna"; gene_id "gene-V6Z94_000763"; gene_name "CWC15";
+CM079243.1	Genbank	exon	2302292	2302373	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000763-T1_mrna"; gene_id "gene-V6Z94_000763"; gene_name "CWC15";
+CM079243.1	Genbank	exon	2302424	2302594	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000763-T1_mrna"; gene_id "gene-V6Z94_000763"; gene_name "CWC15";
+CM079243.1	Genbank	exon	2302643	2302678	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000763-T1_mrna"; gene_id "gene-V6Z94_000763"; gene_name "CWC15";
+CM079243.1	Genbank	exon	2302729	2303206	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000763-T1_mrna"; gene_id "gene-V6Z94_000763"; gene_name "CWC15";
+CM079243.1	Genbank	CDS	2301686	2301695	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000763-T1_mrna"; gene_id "gene-V6Z94_000763"; gene_name "CWC15";
+CM079243.1	Genbank	CDS	2301750	2301772	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000763-T1_mrna"; gene_id "gene-V6Z94_000763"; gene_name "CWC15";
+CM079243.1	Genbank	CDS	2301827	2301903	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000763-T1_mrna"; gene_id "gene-V6Z94_000763"; gene_name "CWC15";
+CM079243.1	Genbank	CDS	2301954	2302238	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000763-T1_mrna"; gene_id "gene-V6Z94_000763"; gene_name "CWC15";
+CM079243.1	Genbank	CDS	2302292	2302373	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000763-T1_mrna"; gene_id "gene-V6Z94_000763"; gene_name "CWC15";
+CM079243.1	Genbank	CDS	2302424	2302594	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000763-T1_mrna"; gene_id "gene-V6Z94_000763"; gene_name "CWC15";
+CM079243.1	Genbank	CDS	2302643	2302678	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000763-T1_mrna"; gene_id "gene-V6Z94_000763"; gene_name "CWC15";
+CM079243.1	Genbank	CDS	2302729	2302746	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000763-T1_mrna"; gene_id "gene-V6Z94_000763"; gene_name "CWC15";
+CM079243.1	Genbank	transcript	2338479	2342191	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000778-T1_mrna"; gene_id "gene-V6Z94_000778"; gene_name "CDC54"
+CM079243.1	Genbank	exon	2338479	2339311	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000778-T1_mrna"; gene_id "gene-V6Z94_000778"; gene_name "CDC54";
+CM079243.1	Genbank	exon	2339377	2340569	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000778-T1_mrna"; gene_id "gene-V6Z94_000778"; gene_name "CDC54";
+CM079243.1	Genbank	exon	2340631	2340702	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000778-T1_mrna"; gene_id "gene-V6Z94_000778"; gene_name "CDC54";
+CM079243.1	Genbank	exon	2340787	2341659	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000778-T1_mrna"; gene_id "gene-V6Z94_000778"; gene_name "CDC54";
+CM079243.1	Genbank	exon	2341712	2342191	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000778-T1_mrna"; gene_id "gene-V6Z94_000778"; gene_name "CDC54";
+CM079243.1	Genbank	CDS	2338724	2339311	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000778-T1_mrna"; gene_id "gene-V6Z94_000778"; gene_name "CDC54";
+CM079243.1	Genbank	CDS	2339377	2340569	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000778-T1_mrna"; gene_id "gene-V6Z94_000778"; gene_name "CDC54";
+CM079243.1	Genbank	CDS	2340631	2340702	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000778-T1_mrna"; gene_id "gene-V6Z94_000778"; gene_name "CDC54";
+CM079243.1	Genbank	CDS	2340787	2341659	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000778-T1_mrna"; gene_id "gene-V6Z94_000778"; gene_name "CDC54";
+CM079243.1	Genbank	CDS	2341712	2342057	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000778-T1_mrna"; gene_id "gene-V6Z94_000778"; gene_name "CDC54";
+CM079243.1	Genbank	transcript	2402121	2404867	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000801-T1_mrna"; gene_id "gene-V6Z94_000801"; gene_name "MAK10"
+CM079243.1	Genbank	exon	2402121	2402187	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000801-T1_mrna"; gene_id "gene-V6Z94_000801"; gene_name "MAK10";
+CM079243.1	Genbank	exon	2402287	2402354	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000801-T1_mrna"; gene_id "gene-V6Z94_000801"; gene_name "MAK10";
+CM079243.1	Genbank	exon	2402442	2402582	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000801-T1_mrna"; gene_id "gene-V6Z94_000801"; gene_name "MAK10";
+CM079243.1	Genbank	exon	2402648	2402884	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000801-T1_mrna"; gene_id "gene-V6Z94_000801"; gene_name "MAK10";
+CM079243.1	Genbank	exon	2402937	2403395	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000801-T1_mrna"; gene_id "gene-V6Z94_000801"; gene_name "MAK10";
+CM079243.1	Genbank	exon	2403453	2403710	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000801-T1_mrna"; gene_id "gene-V6Z94_000801"; gene_name "MAK10";
+CM079243.1	Genbank	exon	2403763	2403861	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000801-T1_mrna"; gene_id "gene-V6Z94_000801"; gene_name "MAK10";
+CM079243.1	Genbank	exon	2403926	2404867	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000801-T1_mrna"; gene_id "gene-V6Z94_000801"; gene_name "MAK10";
+CM079243.1	Genbank	CDS	2402121	2402187	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000801-T1_mrna"; gene_id "gene-V6Z94_000801"; gene_name "MAK10";
+CM079243.1	Genbank	CDS	2402287	2402354	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000801-T1_mrna"; gene_id "gene-V6Z94_000801"; gene_name "MAK10";
+CM079243.1	Genbank	CDS	2402442	2402582	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000801-T1_mrna"; gene_id "gene-V6Z94_000801"; gene_name "MAK10";
+CM079243.1	Genbank	CDS	2402648	2402884	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000801-T1_mrna"; gene_id "gene-V6Z94_000801"; gene_name "MAK10";
+CM079243.1	Genbank	CDS	2402937	2403395	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000801-T1_mrna"; gene_id "gene-V6Z94_000801"; gene_name "MAK10";
+CM079243.1	Genbank	CDS	2403453	2403710	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000801-T1_mrna"; gene_id "gene-V6Z94_000801"; gene_name "MAK10";
+CM079243.1	Genbank	CDS	2403763	2403861	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000801-T1_mrna"; gene_id "gene-V6Z94_000801"; gene_name "MAK10";
+CM079243.1	Genbank	CDS	2403926	2404867	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000801-T1_mrna"; gene_id "gene-V6Z94_000801"; gene_name "MAK10";
+CM079243.1	Genbank	transcript	2608635	2609844	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000873-T1_mrna"; gene_id "gene-V6Z94_000873"
+CM079243.1	Genbank	exon	2608635	2608712	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000873-T1_mrna"; gene_id "gene-V6Z94_000873";
+CM079243.1	Genbank	exon	2608772	2609844	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000873-T1_mrna"; gene_id "gene-V6Z94_000873";
+CM079243.1	Genbank	CDS	2608799	2609656	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000873-T1_mrna"; gene_id "gene-V6Z94_000873";
+CM079243.1	Genbank	transcript	2674068	2676290	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000899-T1_mrna"; gene_id "gene-V6Z94_000899"
+CM079243.1	Genbank	exon	2674068	2674470	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000899-T1_mrna"; gene_id "gene-V6Z94_000899";
+CM079243.1	Genbank	exon	2674555	2675725	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000899-T1_mrna"; gene_id "gene-V6Z94_000899";
+CM079243.1	Genbank	exon	2675870	2676290	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000899-T1_mrna"; gene_id "gene-V6Z94_000899";
+CM079243.1	Genbank	CDS	2674604	2675725	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000899-T1_mrna"; gene_id "gene-V6Z94_000899";
+CM079243.1	Genbank	CDS	2675870	2676178	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000899-T1_mrna"; gene_id "gene-V6Z94_000899";
+CM079243.1	Genbank	transcript	2931459	2933223	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000977-T2_mrna"; gene_id "gene-V6Z94_000977"; gene_name "ALG7"
+CM079243.1	Genbank	exon	2931459	2931540	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000977-T2_mrna"; gene_id "gene-V6Z94_000977"; gene_name "ALG7";
+CM079243.1	Genbank	exon	2931613	2931715	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000977-T2_mrna"; gene_id "gene-V6Z94_000977"; gene_name "ALG7";
+CM079243.1	Genbank	exon	2931831	2932011	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000977-T2_mrna"; gene_id "gene-V6Z94_000977"; gene_name "ALG7";
+CM079243.1	Genbank	exon	2932062	2933223	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000977-T2_mrna"; gene_id "gene-V6Z94_000977"; gene_name "ALG7";
+CM079243.1	Genbank	CDS	2931471	2931540	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000977-T2_mrna"; gene_id "gene-V6Z94_000977"; gene_name "ALG7";
+CM079243.1	Genbank	CDS	2931613	2931715	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000977-T2_mrna"; gene_id "gene-V6Z94_000977"; gene_name "ALG7";
+CM079243.1	Genbank	CDS	2931831	2932011	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000977-T2_mrna"; gene_id "gene-V6Z94_000977"; gene_name "ALG7";
+CM079243.1	Genbank	CDS	2932062	2933042	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000977-T2_mrna"; gene_id "gene-V6Z94_000977"; gene_name "ALG7";
+CM079243.1	Genbank	transcript	2971831	2973573	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000990-T1_mrna"; gene_id "gene-V6Z94_000990"; gene_name "KRR1"
+CM079243.1	Genbank	exon	2971831	2973077	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000990-T1_mrna"; gene_id "gene-V6Z94_000990"; gene_name "KRR1";
+CM079243.1	Genbank	exon	2973139	2973411	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000990-T1_mrna"; gene_id "gene-V6Z94_000990"; gene_name "KRR1";
+CM079243.1	Genbank	exon	2973478	2973573	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000990-T1_mrna"; gene_id "gene-V6Z94_000990"; gene_name "KRR1";
+CM079243.1	Genbank	CDS	2972334	2973077	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000990-T1_mrna"; gene_id "gene-V6Z94_000990"; gene_name "KRR1";
+CM079243.1	Genbank	CDS	2973139	2973411	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000990-T1_mrna"; gene_id "gene-V6Z94_000990"; gene_name "KRR1";
+CM079243.1	Genbank	CDS	2973478	2973537	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_000990-T1_mrna"; gene_id "gene-V6Z94_000990"; gene_name "KRR1";
+CM079243.1	Genbank	transcript	3138088	3140176	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001050-T1_mrna"; gene_id "gene-V6Z94_001050"; gene_name "HAT1"
+CM079243.1	Genbank	exon	3138088	3139367	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001050-T1_mrna"; gene_id "gene-V6Z94_001050"; gene_name "HAT1";
+CM079243.1	Genbank	exon	3139431	3139695	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001050-T1_mrna"; gene_id "gene-V6Z94_001050"; gene_name "HAT1";
+CM079243.1	Genbank	exon	3139754	3140029	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001050-T1_mrna"; gene_id "gene-V6Z94_001050"; gene_name "HAT1";
+CM079243.1	Genbank	exon	3140110	3140176	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001050-T1_mrna"; gene_id "gene-V6Z94_001050"; gene_name "HAT1";
+CM079243.1	Genbank	CDS	3138401	3139367	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001050-T1_mrna"; gene_id "gene-V6Z94_001050"; gene_name "HAT1";
+CM079243.1	Genbank	CDS	3139431	3139695	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001050-T1_mrna"; gene_id "gene-V6Z94_001050"; gene_name "HAT1";
+CM079243.1	Genbank	CDS	3139754	3140029	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001050-T1_mrna"; gene_id "gene-V6Z94_001050"; gene_name "HAT1";
+CM079243.1	Genbank	CDS	3140110	3140128	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001050-T1_mrna"; gene_id "gene-V6Z94_001050"; gene_name "HAT1";
+CM079243.1	Genbank	transcript	3199230	3200558	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001072-T1_mrna"; gene_id "gene-V6Z94_001072"; gene_name "COX11"
+CM079243.1	Genbank	exon	3199230	3199665	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001072-T1_mrna"; gene_id "gene-V6Z94_001072"; gene_name "COX11";
+CM079243.1	Genbank	exon	3199723	3200164	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001072-T1_mrna"; gene_id "gene-V6Z94_001072"; gene_name "COX11";
+CM079243.1	Genbank	exon	3200236	3200305	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001072-T1_mrna"; gene_id "gene-V6Z94_001072"; gene_name "COX11";
+CM079243.1	Genbank	exon	3200356	3200558	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001072-T1_mrna"; gene_id "gene-V6Z94_001072"; gene_name "COX11";
+CM079243.1	Genbank	CDS	3199616	3199665	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001072-T1_mrna"; gene_id "gene-V6Z94_001072"; gene_name "COX11";
+CM079243.1	Genbank	CDS	3199723	3200164	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001072-T1_mrna"; gene_id "gene-V6Z94_001072"; gene_name "COX11";
+CM079243.1	Genbank	CDS	3200236	3200305	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001072-T1_mrna"; gene_id "gene-V6Z94_001072"; gene_name "COX11";
+CM079243.1	Genbank	CDS	3200356	3200558	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001072-T1_mrna"; gene_id "gene-V6Z94_001072"; gene_name "COX11";
+CM079243.1	Genbank	transcript	3241716	3243124	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001088-T1_mrna"; gene_id "gene-V6Z94_001088"; gene_name "DPH1"
+CM079243.1	Genbank	exon	3241716	3242875	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001088-T1_mrna"; gene_id "gene-V6Z94_001088"; gene_name "DPH1";
+CM079243.1	Genbank	exon	3242947	3243124	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001088-T1_mrna"; gene_id "gene-V6Z94_001088"; gene_name "DPH1";
+CM079243.1	Genbank	CDS	3241716	3242875	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001088-T1_mrna"; gene_id "gene-V6Z94_001088"; gene_name "DPH1";
+CM079243.1	Genbank	CDS	3242947	3243124	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001088-T1_mrna"; gene_id "gene-V6Z94_001088"; gene_name "DPH1";
+CM079243.1	Genbank	transcript	3412359	3413925	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001159-T1_mrna"; gene_id "gene-V6Z94_001159"; gene_name "RRP42"
+CM079243.1	Genbank	exon	3412359	3413033	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001159-T1_mrna"; gene_id "gene-V6Z94_001159"; gene_name "RRP42";
+CM079243.1	Genbank	exon	3413123	3413925	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001159-T1_mrna"; gene_id "gene-V6Z94_001159"; gene_name "RRP42";
+CM079243.1	Genbank	CDS	3412416	3413033	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001159-T1_mrna"; gene_id "gene-V6Z94_001159"; gene_name "RRP42";
+CM079243.1	Genbank	CDS	3413123	3413677	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001159-T1_mrna"; gene_id "gene-V6Z94_001159"; gene_name "RRP42";
+CM079243.1	Genbank	transcript	4594035	4596382	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001576-T1_mrna"; gene_id "gene-V6Z94_001576"
+CM079243.1	Genbank	exon	4594035	4596382	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001576-T1_mrna"; gene_id "gene-V6Z94_001576";
+CM079243.1	Genbank	CDS	4594303	4596381	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_001576-T1_mrna"; gene_id "gene-V6Z94_001576";
+CM079244.1	Genbank	transcript	334966	337987	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003442-T1_mrna"; gene_id "gene-V6Z94_003442"; gene_name "MCM2"
+CM079244.1	Genbank	exon	334966	335065	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003442-T1_mrna"; gene_id "gene-V6Z94_003442"; gene_name "MCM2";
+CM079244.1	Genbank	exon	335134	335303	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003442-T1_mrna"; gene_id "gene-V6Z94_003442"; gene_name "MCM2";
+CM079244.1	Genbank	exon	335359	337658	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003442-T1_mrna"; gene_id "gene-V6Z94_003442"; gene_name "MCM2";
+CM079244.1	Genbank	exon	337719	337834	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003442-T1_mrna"; gene_id "gene-V6Z94_003442"; gene_name "MCM2";
+CM079244.1	Genbank	exon	337920	337987	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003442-T1_mrna"; gene_id "gene-V6Z94_003442"; gene_name "MCM2";
+CM079244.1	Genbank	CDS	334966	335065	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003442-T1_mrna"; gene_id "gene-V6Z94_003442"; gene_name "MCM2";
+CM079244.1	Genbank	CDS	335134	335303	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003442-T1_mrna"; gene_id "gene-V6Z94_003442"; gene_name "MCM2";
+CM079244.1	Genbank	CDS	335359	337658	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003442-T1_mrna"; gene_id "gene-V6Z94_003442"; gene_name "MCM2";
+CM079244.1	Genbank	CDS	337719	337834	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003442-T1_mrna"; gene_id "gene-V6Z94_003442"; gene_name "MCM2";
+CM079244.1	Genbank	CDS	337920	337924	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003442-T1_mrna"; gene_id "gene-V6Z94_003442"; gene_name "MCM2";
+CM079244.1	Genbank	transcript	531491	533748	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003515-T1_mrna"; gene_id "gene-V6Z94_003515"; gene_name "SPB4"
+CM079244.1	Genbank	exon	531491	532762	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003515-T1_mrna"; gene_id "gene-V6Z94_003515"; gene_name "SPB4";
+CM079244.1	Genbank	exon	532816	533325	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003515-T1_mrna"; gene_id "gene-V6Z94_003515"; gene_name "SPB4";
+CM079244.1	Genbank	exon	533395	533748	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003515-T1_mrna"; gene_id "gene-V6Z94_003515"; gene_name "SPB4";
+CM079244.1	Genbank	CDS	531640	532762	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003515-T1_mrna"; gene_id "gene-V6Z94_003515"; gene_name "SPB4";
+CM079244.1	Genbank	CDS	532816	533325	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003515-T1_mrna"; gene_id "gene-V6Z94_003515"; gene_name "SPB4";
+CM079244.1	Genbank	CDS	533395	533684	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003515-T1_mrna"; gene_id "gene-V6Z94_003515"; gene_name "SPB4";
+CM079244.1	Genbank	transcript	1156929	1159527	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003729-T1_mrna"; gene_id "gene-V6Z94_003729"; gene_name "COG3"
+CM079244.1	Genbank	exon	1156929	1157193	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003729-T1_mrna"; gene_id "gene-V6Z94_003729"; gene_name "COG3";
+CM079244.1	Genbank	exon	1157266	1157605	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003729-T1_mrna"; gene_id "gene-V6Z94_003729"; gene_name "COG3";
+CM079244.1	Genbank	exon	1157658	1158683	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003729-T1_mrna"; gene_id "gene-V6Z94_003729"; gene_name "COG3";
+CM079244.1	Genbank	exon	1158745	1159527	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003729-T1_mrna"; gene_id "gene-V6Z94_003729"; gene_name "COG3";
+CM079244.1	Genbank	CDS	1156985	1157193	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003729-T1_mrna"; gene_id "gene-V6Z94_003729"; gene_name "COG3";
+CM079244.1	Genbank	CDS	1157266	1157605	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003729-T1_mrna"; gene_id "gene-V6Z94_003729"; gene_name "COG3";
+CM079244.1	Genbank	CDS	1157658	1158683	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003729-T1_mrna"; gene_id "gene-V6Z94_003729"; gene_name "COG3";
+CM079244.1	Genbank	CDS	1158745	1159527	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003729-T1_mrna"; gene_id "gene-V6Z94_003729"; gene_name "COG3";
+CM079244.1	Genbank	transcript	1450952	1453635	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003833-T1_mrna"; gene_id "gene-V6Z94_003833"
+CM079244.1	Genbank	exon	1450952	1451376	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003833-T1_mrna"; gene_id "gene-V6Z94_003833";
+CM079244.1	Genbank	exon	1451455	1452973	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003833-T1_mrna"; gene_id "gene-V6Z94_003833";
+CM079244.1	Genbank	exon	1453035	1453635	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003833-T1_mrna"; gene_id "gene-V6Z94_003833";
+CM079244.1	Genbank	CDS	1451076	1451376	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003833-T1_mrna"; gene_id "gene-V6Z94_003833";
+CM079244.1	Genbank	CDS	1451455	1452973	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003833-T1_mrna"; gene_id "gene-V6Z94_003833";
+CM079244.1	Genbank	CDS	1453035	1453134	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003833-T1_mrna"; gene_id "gene-V6Z94_003833";
+CM079244.1	Genbank	transcript	1545940	1548462	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003865-T1_mrna"; gene_id "gene-V6Z94_003865"; gene_name "COG5"
+CM079244.1	Genbank	exon	1545940	1546018	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003865-T1_mrna"; gene_id "gene-V6Z94_003865"; gene_name "COG5";
+CM079244.1	Genbank	exon	1546077	1548462	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003865-T1_mrna"; gene_id "gene-V6Z94_003865"; gene_name "COG5";
+CM079244.1	Genbank	CDS	1546844	1548274	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_003865-T1_mrna"; gene_id "gene-V6Z94_003865"; gene_name "COG5";
+CM079244.1	Genbank	transcript	1965277	1967519	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004033-T2_mrna"; gene_id "gene-V6Z94_004033"
+CM079244.1	Genbank	exon	1965277	1965433	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004033-T2_mrna"; gene_id "gene-V6Z94_004033";
+CM079244.1	Genbank	exon	1965498	1965588	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004033-T2_mrna"; gene_id "gene-V6Z94_004033";
+CM079244.1	Genbank	exon	1965657	1965821	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004033-T2_mrna"; gene_id "gene-V6Z94_004033";
+CM079244.1	Genbank	exon	1965881	1966966	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004033-T2_mrna"; gene_id "gene-V6Z94_004033";
+CM079244.1	Genbank	exon	1967090	1967519	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004033-T2_mrna"; gene_id "gene-V6Z94_004033";
+CM079244.1	Genbank	CDS	1965330	1965433	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004033-T2_mrna"; gene_id "gene-V6Z94_004033";
+CM079244.1	Genbank	CDS	1965498	1965588	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004033-T2_mrna"; gene_id "gene-V6Z94_004033";
+CM079244.1	Genbank	CDS	1965657	1965821	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004033-T2_mrna"; gene_id "gene-V6Z94_004033";
+CM079244.1	Genbank	CDS	1965881	1966966	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004033-T2_mrna"; gene_id "gene-V6Z94_004033";
+CM079244.1	Genbank	CDS	1967090	1967245	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004033-T2_mrna"; gene_id "gene-V6Z94_004033";
+CM079244.1	Genbank	transcript	1977556	1978883	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004036-T1_mrna"; gene_id "gene-V6Z94_004036"; gene_name "NSA2"
+CM079244.1	Genbank	exon	1977556	1977870	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004036-T1_mrna"; gene_id "gene-V6Z94_004036"; gene_name "NSA2";
+CM079244.1	Genbank	exon	1977931	1978143	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004036-T1_mrna"; gene_id "gene-V6Z94_004036"; gene_name "NSA2";
+CM079244.1	Genbank	exon	1978204	1978746	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004036-T1_mrna"; gene_id "gene-V6Z94_004036"; gene_name "NSA2";
+CM079244.1	Genbank	exon	1978804	1978814	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004036-T1_mrna"; gene_id "gene-V6Z94_004036"; gene_name "NSA2";
+CM079244.1	Genbank	exon	1978866	1978883	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004036-T1_mrna"; gene_id "gene-V6Z94_004036"; gene_name "NSA2";
+CM079244.1	Genbank	CDS	1977855	1977870	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004036-T1_mrna"; gene_id "gene-V6Z94_004036"; gene_name "NSA2";
+CM079244.1	Genbank	CDS	1977931	1978143	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004036-T1_mrna"; gene_id "gene-V6Z94_004036"; gene_name "NSA2";
+CM079244.1	Genbank	CDS	1978204	1978746	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004036-T1_mrna"; gene_id "gene-V6Z94_004036"; gene_name "NSA2";
+CM079244.1	Genbank	CDS	1978804	1978814	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004036-T1_mrna"; gene_id "gene-V6Z94_004036"; gene_name "NSA2";
+CM079244.1	Genbank	CDS	1978866	1978883	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004036-T1_mrna"; gene_id "gene-V6Z94_004036"; gene_name "NSA2";
+CM079244.1	Genbank	transcript	2289360	2291367	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004143-T1_mrna"; gene_id "gene-V6Z94_004143"; gene_name "CAB2"
+CM079244.1	Genbank	exon	2289360	2289471	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004143-T1_mrna"; gene_id "gene-V6Z94_004143"; gene_name "CAB2";
+CM079244.1	Genbank	exon	2289568	2291367	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004143-T1_mrna"; gene_id "gene-V6Z94_004143"; gene_name "CAB2";
+CM079244.1	Genbank	CDS	2289862	2291094	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004143-T1_mrna"; gene_id "gene-V6Z94_004143"; gene_name "CAB2";
+CM079244.1	Genbank	transcript	2524753	2526654	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004227-T1_mrna"; gene_id "gene-V6Z94_004227"; gene_name "COQ4"
+CM079244.1	Genbank	exon	2524753	2526303	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004227-T1_mrna"; gene_id "gene-V6Z94_004227"; gene_name "COQ4";
+CM079244.1	Genbank	exon	2526392	2526654	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004227-T1_mrna"; gene_id "gene-V6Z94_004227"; gene_name "COQ4";
+CM079244.1	Genbank	CDS	2525657	2526303	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004227-T1_mrna"; gene_id "gene-V6Z94_004227"; gene_name "COQ4";
+CM079244.1	Genbank	CDS	2526392	2526602	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004227-T1_mrna"; gene_id "gene-V6Z94_004227"; gene_name "COQ4";
+CM079244.1	Genbank	transcript	2535137	2536385	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004233-T2_mrna"; gene_id "gene-V6Z94_004233"; gene_name "SHY1"
+CM079244.1	Genbank	exon	2535137	2535429	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004233-T2_mrna"; gene_id "gene-V6Z94_004233"; gene_name "SHY1";
+CM079244.1	Genbank	exon	2535519	2536031	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004233-T2_mrna"; gene_id "gene-V6Z94_004233"; gene_name "SHY1";
+CM079244.1	Genbank	exon	2536095	2536200	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004233-T2_mrna"; gene_id "gene-V6Z94_004233"; gene_name "SHY1";
+CM079244.1	Genbank	exon	2536283	2536385	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004233-T2_mrna"; gene_id "gene-V6Z94_004233"; gene_name "SHY1";
+CM079244.1	Genbank	CDS	2535183	2535429	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004233-T2_mrna"; gene_id "gene-V6Z94_004233"; gene_name "SHY1";
+CM079244.1	Genbank	CDS	2535519	2536031	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004233-T2_mrna"; gene_id "gene-V6Z94_004233"; gene_name "SHY1";
+CM079244.1	Genbank	CDS	2536095	2536200	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004233-T2_mrna"; gene_id "gene-V6Z94_004233"; gene_name "SHY1";
+CM079244.1	Genbank	CDS	2536283	2536385	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004233-T2_mrna"; gene_id "gene-V6Z94_004233"; gene_name "SHY1";
+CM079244.1	Genbank	transcript	2672436	2674009	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004280-T1_mrna"; gene_id "gene-V6Z94_004280"; gene_name "rrp4"
+CM079244.1	Genbank	exon	2672436	2673626	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004280-T1_mrna"; gene_id "gene-V6Z94_004280"; gene_name "rrp4";
+CM079244.1	Genbank	exon	2673718	2674009	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004280-T1_mrna"; gene_id "gene-V6Z94_004280"; gene_name "rrp4";
+CM079244.1	Genbank	CDS	2672675	2673626	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004280-T1_mrna"; gene_id "gene-V6Z94_004280"; gene_name "rrp4";
+CM079244.1	Genbank	CDS	2673718	2673938	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004280-T1_mrna"; gene_id "gene-V6Z94_004280"; gene_name "rrp4";
+CM079244.1	Genbank	transcript	2943891	2945912	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004355-T1_mrna"; gene_id "gene-V6Z94_004355"; gene_name "ENP1"
+CM079244.1	Genbank	exon	2943891	2944370	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004355-T1_mrna"; gene_id "gene-V6Z94_004355"; gene_name "ENP1";
+CM079244.1	Genbank	exon	2944424	2944665	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004355-T1_mrna"; gene_id "gene-V6Z94_004355"; gene_name "ENP1";
+CM079244.1	Genbank	exon	2944722	2945912	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004355-T1_mrna"; gene_id "gene-V6Z94_004355"; gene_name "ENP1";
+CM079244.1	Genbank	CDS	2943993	2944370	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004355-T1_mrna"; gene_id "gene-V6Z94_004355"; gene_name "ENP1";
+CM079244.1	Genbank	CDS	2944424	2944665	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004355-T1_mrna"; gene_id "gene-V6Z94_004355"; gene_name "ENP1";
+CM079244.1	Genbank	CDS	2944722	2945595	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004355-T1_mrna"; gene_id "gene-V6Z94_004355"; gene_name "ENP1";
+JBBFMZ010000010.1	Genbank	transcript	194677	196200	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009613-T1_mrna"; gene_id "gene-V6Z94_009613"; gene_name "CWC26"
+JBBFMZ010000010.1	Genbank	exon	194677	196200	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009613-T1_mrna"; gene_id "gene-V6Z94_009613"; gene_name "CWC26";
+JBBFMZ010000010.1	Genbank	CDS	194706	195740	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009613-T1_mrna"; gene_id "gene-V6Z94_009613"; gene_name "CWC26";
+JBBFMZ010000010.1	Genbank	transcript	400203	401559	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009698-T1_mrna"; gene_id "gene-V6Z94_009698"; gene_name "dot2"
+JBBFMZ010000010.1	Genbank	exon	400203	401013	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009698-T1_mrna"; gene_id "gene-V6Z94_009698"; gene_name "dot2";
+JBBFMZ010000010.1	Genbank	exon	401073	401559	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009698-T1_mrna"; gene_id "gene-V6Z94_009698"; gene_name "dot2";
+JBBFMZ010000010.1	Genbank	CDS	400701	401013	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009698-T1_mrna"; gene_id "gene-V6Z94_009698"; gene_name "dot2";
+JBBFMZ010000010.1	Genbank	CDS	401073	401542	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009698-T1_mrna"; gene_id "gene-V6Z94_009698"; gene_name "dot2";
+JBBFMZ010000010.1	Genbank	transcript	758268	760340	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009806-T1_mrna"; gene_id "gene-V6Z94_009806"; gene_name "MPP10"
+JBBFMZ010000010.1	Genbank	exon	758268	760340	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009806-T1_mrna"; gene_id "gene-V6Z94_009806"; gene_name "MPP10";
+JBBFMZ010000010.1	Genbank	CDS	758268	760340	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009806-T1_mrna"; gene_id "gene-V6Z94_009806"; gene_name "MPP10";
+JBBFMZ010000006.1	Genbank	transcript	280280	283592	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007078-T1_mrna"; gene_id "gene-V6Z94_007078"; gene_name "SWC4"
+JBBFMZ010000006.1	Genbank	exon	280280	283158	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007078-T1_mrna"; gene_id "gene-V6Z94_007078"; gene_name "SWC4";
+JBBFMZ010000006.1	Genbank	exon	283222	283339	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007078-T1_mrna"; gene_id "gene-V6Z94_007078"; gene_name "SWC4";
+JBBFMZ010000006.1	Genbank	exon	283398	283592	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007078-T1_mrna"; gene_id "gene-V6Z94_007078"; gene_name "SWC4";
+JBBFMZ010000006.1	Genbank	CDS	281625	283158	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007078-T1_mrna"; gene_id "gene-V6Z94_007078"; gene_name "SWC4";
+JBBFMZ010000006.1	Genbank	CDS	283222	283339	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007078-T1_mrna"; gene_id "gene-V6Z94_007078"; gene_name "SWC4";
+JBBFMZ010000006.1	Genbank	CDS	283398	283491	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007078-T1_mrna"; gene_id "gene-V6Z94_007078"; gene_name "SWC4";
+JBBFMZ010000006.1	Genbank	transcript	310436	312797	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007092-T1_mrna"; gene_id "gene-V6Z94_007092"; gene_name "RRP9"
+JBBFMZ010000006.1	Genbank	exon	310436	312308	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007092-T1_mrna"; gene_id "gene-V6Z94_007092"; gene_name "RRP9";
+JBBFMZ010000006.1	Genbank	exon	312397	312797	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007092-T1_mrna"; gene_id "gene-V6Z94_007092"; gene_name "RRP9";
+JBBFMZ010000006.1	Genbank	CDS	310797	312308	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007092-T1_mrna"; gene_id "gene-V6Z94_007092"; gene_name "RRP9";
+JBBFMZ010000006.1	Genbank	CDS	312397	312768	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007092-T1_mrna"; gene_id "gene-V6Z94_007092"; gene_name "RRP9";
+JBBFMZ010000006.1	Genbank	transcript	319808	325045	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007096-T1_mrna"; gene_id "gene-V6Z94_007096"; gene_name "utp13"
+JBBFMZ010000006.1	Genbank	exon	319808	320071	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007096-T1_mrna"; gene_id "gene-V6Z94_007096"; gene_name "utp13";
+JBBFMZ010000006.1	Genbank	exon	320134	320161	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007096-T1_mrna"; gene_id "gene-V6Z94_007096"; gene_name "utp13";
+JBBFMZ010000006.1	Genbank	exon	320235	325045	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007096-T1_mrna"; gene_id "gene-V6Z94_007096"; gene_name "utp13";
+JBBFMZ010000006.1	Genbank	CDS	319898	320071	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007096-T1_mrna"; gene_id "gene-V6Z94_007096"; gene_name "utp13";
+JBBFMZ010000006.1	Genbank	CDS	320134	320161	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007096-T1_mrna"; gene_id "gene-V6Z94_007096"; gene_name "utp13";
+JBBFMZ010000006.1	Genbank	CDS	320235	322957	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007096-T1_mrna"; gene_id "gene-V6Z94_007096"; gene_name "utp13";
+JBBFMZ010000006.1	Genbank	transcript	331125	332735	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007099-T1_mrna"; gene_id "gene-V6Z94_007099"; gene_name "MAK11"
+JBBFMZ010000006.1	Genbank	exon	331125	332060	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007099-T1_mrna"; gene_id "gene-V6Z94_007099"; gene_name "MAK11";
+JBBFMZ010000006.1	Genbank	exon	332118	332735	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007099-T1_mrna"; gene_id "gene-V6Z94_007099"; gene_name "MAK11";
+JBBFMZ010000006.1	Genbank	CDS	331125	332060	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007099-T1_mrna"; gene_id "gene-V6Z94_007099"; gene_name "MAK11";
+JBBFMZ010000006.1	Genbank	CDS	332118	332735	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007099-T1_mrna"; gene_id "gene-V6Z94_007099"; gene_name "MAK11";
+JBBFMZ010000006.1	Genbank	transcript	439795	441612	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007144-T1_mrna"; gene_id "gene-V6Z94_007144"; gene_name "cdc1"
+JBBFMZ010000006.1	Genbank	exon	439795	440088	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007144-T1_mrna"; gene_id "gene-V6Z94_007144"; gene_name "cdc1";
+JBBFMZ010000006.1	Genbank	exon	440147	440278	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007144-T1_mrna"; gene_id "gene-V6Z94_007144"; gene_name "cdc1";
+JBBFMZ010000006.1	Genbank	exon	440326	441268	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007144-T1_mrna"; gene_id "gene-V6Z94_007144"; gene_name "cdc1";
+JBBFMZ010000006.1	Genbank	exon	441317	441612	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007144-T1_mrna"; gene_id "gene-V6Z94_007144"; gene_name "cdc1";
+JBBFMZ010000006.1	Genbank	CDS	439795	440088	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007144-T1_mrna"; gene_id "gene-V6Z94_007144"; gene_name "cdc1";
+JBBFMZ010000006.1	Genbank	CDS	440147	440278	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007144-T1_mrna"; gene_id "gene-V6Z94_007144"; gene_name "cdc1";
+JBBFMZ010000006.1	Genbank	CDS	440326	441268	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007144-T1_mrna"; gene_id "gene-V6Z94_007144"; gene_name "cdc1";
+JBBFMZ010000006.1	Genbank	CDS	441317	441612	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007144-T1_mrna"; gene_id "gene-V6Z94_007144"; gene_name "cdc1";
+JBBFMZ010000006.1	Genbank	transcript	500194	502566	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007168-T1_mrna"; gene_id "gene-V6Z94_007168"; gene_name "NOP7"
+JBBFMZ010000006.1	Genbank	exon	500194	502255	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007168-T1_mrna"; gene_id "gene-V6Z94_007168"; gene_name "NOP7";
+JBBFMZ010000006.1	Genbank	exon	502339	502437	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007168-T1_mrna"; gene_id "gene-V6Z94_007168"; gene_name "NOP7";
+JBBFMZ010000006.1	Genbank	exon	502495	502566	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007168-T1_mrna"; gene_id "gene-V6Z94_007168"; gene_name "NOP7";
+JBBFMZ010000006.1	Genbank	CDS	500349	502255	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007168-T1_mrna"; gene_id "gene-V6Z94_007168"; gene_name "NOP7";
+JBBFMZ010000006.1	Genbank	CDS	502339	502437	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007168-T1_mrna"; gene_id "gene-V6Z94_007168"; gene_name "NOP7";
+JBBFMZ010000006.1	Genbank	CDS	502495	502516	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007168-T1_mrna"; gene_id "gene-V6Z94_007168"; gene_name "NOP7";
+JBBFMZ010000006.1	Genbank	transcript	1051328	1053470	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007365-T1_mrna"; gene_id "gene-V6Z94_007365"; gene_name "srp72"
+JBBFMZ010000006.1	Genbank	exon	1051328	1051648	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007365-T1_mrna"; gene_id "gene-V6Z94_007365"; gene_name "srp72";
+JBBFMZ010000006.1	Genbank	exon	1051736	1052009	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007365-T1_mrna"; gene_id "gene-V6Z94_007365"; gene_name "srp72";
+JBBFMZ010000006.1	Genbank	exon	1052067	1052211	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007365-T1_mrna"; gene_id "gene-V6Z94_007365"; gene_name "srp72";
+JBBFMZ010000006.1	Genbank	exon	1052267	1053470	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007365-T1_mrna"; gene_id "gene-V6Z94_007365"; gene_name "srp72";
+JBBFMZ010000006.1	Genbank	CDS	1051328	1051648	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007365-T1_mrna"; gene_id "gene-V6Z94_007365"; gene_name "srp72";
+JBBFMZ010000006.1	Genbank	CDS	1051736	1052009	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007365-T1_mrna"; gene_id "gene-V6Z94_007365"; gene_name "srp72";
+JBBFMZ010000006.1	Genbank	CDS	1052067	1052211	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007365-T1_mrna"; gene_id "gene-V6Z94_007365"; gene_name "srp72";
+JBBFMZ010000006.1	Genbank	CDS	1052267	1053470	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007365-T1_mrna"; gene_id "gene-V6Z94_007365"; gene_name "srp72";
+JBBFMZ010000006.1	Genbank	transcript	1090493	1094575	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007378-T1_mrna"; gene_id "gene-V6Z94_007378"; gene_name "RAM1"
+JBBFMZ010000006.1	Genbank	exon	1090493	1091413	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007378-T1_mrna"; gene_id "gene-V6Z94_007378"; gene_name "RAM1";
+JBBFMZ010000006.1	Genbank	exon	1091474	1091752	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007378-T1_mrna"; gene_id "gene-V6Z94_007378"; gene_name "RAM1";
+JBBFMZ010000006.1	Genbank	exon	1091804	1091921	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007378-T1_mrna"; gene_id "gene-V6Z94_007378"; gene_name "RAM1";
+JBBFMZ010000006.1	Genbank	exon	1091976	1092103	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007378-T1_mrna"; gene_id "gene-V6Z94_007378"; gene_name "RAM1";
+JBBFMZ010000006.1	Genbank	exon	1092166	1092240	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007378-T1_mrna"; gene_id "gene-V6Z94_007378"; gene_name "RAM1";
+JBBFMZ010000006.1	Genbank	exon	1092296	1092451	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007378-T1_mrna"; gene_id "gene-V6Z94_007378"; gene_name "RAM1";
+JBBFMZ010000006.1	Genbank	exon	1092520	1094575	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007378-T1_mrna"; gene_id "gene-V6Z94_007378"; gene_name "RAM1";
+JBBFMZ010000006.1	Genbank	CDS	1091134	1091413	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007378-T1_mrna"; gene_id "gene-V6Z94_007378"; gene_name "RAM1";
+JBBFMZ010000006.1	Genbank	CDS	1091474	1091752	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007378-T1_mrna"; gene_id "gene-V6Z94_007378"; gene_name "RAM1";
+JBBFMZ010000006.1	Genbank	CDS	1091804	1091921	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007378-T1_mrna"; gene_id "gene-V6Z94_007378"; gene_name "RAM1";
+JBBFMZ010000006.1	Genbank	CDS	1091976	1092103	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007378-T1_mrna"; gene_id "gene-V6Z94_007378"; gene_name "RAM1";
+JBBFMZ010000006.1	Genbank	CDS	1092166	1092240	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007378-T1_mrna"; gene_id "gene-V6Z94_007378"; gene_name "RAM1";
+JBBFMZ010000006.1	Genbank	CDS	1092296	1092451	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007378-T1_mrna"; gene_id "gene-V6Z94_007378"; gene_name "RAM1";
+JBBFMZ010000006.1	Genbank	CDS	1092520	1093079	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007378-T1_mrna"; gene_id "gene-V6Z94_007378"; gene_name "RAM1";
+JBBFMZ010000006.1	Genbank	transcript	1508694	1510790	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007500-T1_mrna"; gene_id "gene-V6Z94_007500"; gene_name "TFB1"
+JBBFMZ010000006.1	Genbank	exon	1508694	1510501	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007500-T1_mrna"; gene_id "gene-V6Z94_007500"; gene_name "TFB1";
+JBBFMZ010000006.1	Genbank	exon	1510553	1510790	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007500-T1_mrna"; gene_id "gene-V6Z94_007500"; gene_name "TFB1";
+JBBFMZ010000006.1	Genbank	CDS	1508715	1510501	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007500-T1_mrna"; gene_id "gene-V6Z94_007500"; gene_name "TFB1";
+JBBFMZ010000006.1	Genbank	CDS	1510553	1510694	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007500-T1_mrna"; gene_id "gene-V6Z94_007500"; gene_name "TFB1";
+JBBFMZ010000006.1	Genbank	transcript	1542393	1543842	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007512-T1_mrna"; gene_id "gene-V6Z94_007512"
+JBBFMZ010000006.1	Genbank	exon	1542393	1543622	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007512-T1_mrna"; gene_id "gene-V6Z94_007512";
+JBBFMZ010000006.1	Genbank	exon	1543699	1543842	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007512-T1_mrna"; gene_id "gene-V6Z94_007512";
+JBBFMZ010000006.1	Genbank	CDS	1542442	1543622	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007512-T1_mrna"; gene_id "gene-V6Z94_007512";
+JBBFMZ010000006.1	Genbank	CDS	1543699	1543741	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007512-T1_mrna"; gene_id "gene-V6Z94_007512";
+JBBFMZ010000006.1	Genbank	transcript	1556880	1557755	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007518-T1_mrna"; gene_id "gene-V6Z94_007518"; gene_name "sap62"
+JBBFMZ010000006.1	Genbank	exon	1556880	1556943	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007518-T1_mrna"; gene_id "gene-V6Z94_007518"; gene_name "sap62";
+JBBFMZ010000006.1	Genbank	exon	1557000	1557755	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007518-T1_mrna"; gene_id "gene-V6Z94_007518"; gene_name "sap62";
+JBBFMZ010000006.1	Genbank	CDS	1556932	1556943	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007518-T1_mrna"; gene_id "gene-V6Z94_007518"; gene_name "sap62";
+JBBFMZ010000006.1	Genbank	CDS	1557000	1557704	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007518-T1_mrna"; gene_id "gene-V6Z94_007518"; gene_name "sap62";
+JBBFMZ010000006.1	Genbank	transcript	1603139	1604069	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007538-T1_mrna"; gene_id "gene-V6Z94_007538"; gene_name "GIR2"
+JBBFMZ010000006.1	Genbank	exon	1603139	1603782	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007538-T1_mrna"; gene_id "gene-V6Z94_007538"; gene_name "GIR2";
+JBBFMZ010000006.1	Genbank	exon	1603851	1604069	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007538-T1_mrna"; gene_id "gene-V6Z94_007538"; gene_name "GIR2";
+JBBFMZ010000006.1	Genbank	CDS	1603139	1603782	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007538-T1_mrna"; gene_id "gene-V6Z94_007538"; gene_name "GIR2";
+JBBFMZ010000006.1	Genbank	CDS	1603851	1603917	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007538-T1_mrna"; gene_id "gene-V6Z94_007538"; gene_name "GIR2";
+JBBFMZ010000006.1	Genbank	transcript	1685238	1686333	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007567-T1_mrna"; gene_id "gene-V6Z94_007567"; gene_name "PSF1"
+JBBFMZ010000006.1	Genbank	exon	1685238	1685403	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007567-T1_mrna"; gene_id "gene-V6Z94_007567"; gene_name "PSF1";
+JBBFMZ010000006.1	Genbank	exon	1685464	1685990	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007567-T1_mrna"; gene_id "gene-V6Z94_007567"; gene_name "PSF1";
+JBBFMZ010000006.1	Genbank	exon	1686085	1686333	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007567-T1_mrna"; gene_id "gene-V6Z94_007567"; gene_name "PSF1";
+JBBFMZ010000006.1	Genbank	CDS	1685377	1685403	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007567-T1_mrna"; gene_id "gene-V6Z94_007567"; gene_name "PSF1";
+JBBFMZ010000006.1	Genbank	CDS	1685464	1685990	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007567-T1_mrna"; gene_id "gene-V6Z94_007567"; gene_name "PSF1";
+JBBFMZ010000006.1	Genbank	CDS	1686085	1686178	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007567-T1_mrna"; gene_id "gene-V6Z94_007567"; gene_name "PSF1";
+JBBFMZ010000006.1	Genbank	transcript	1701297	1703153	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007572-T1_mrna"; gene_id "gene-V6Z94_007572"
+JBBFMZ010000006.1	Genbank	exon	1701297	1702349	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007572-T1_mrna"; gene_id "gene-V6Z94_007572";
+JBBFMZ010000006.1	Genbank	exon	1702402	1703153	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007572-T1_mrna"; gene_id "gene-V6Z94_007572";
+JBBFMZ010000006.1	Genbank	CDS	1701297	1702349	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007572-T1_mrna"; gene_id "gene-V6Z94_007572";
+JBBFMZ010000006.1	Genbank	CDS	1702402	1703112	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007572-T1_mrna"; gene_id "gene-V6Z94_007572";
+JBBFMZ010000006.1	Genbank	transcript	2011150	2012284	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007687-T1_mrna"; gene_id "gene-V6Z94_007687"; gene_name "GAR1_2"
+JBBFMZ010000006.1	Genbank	exon	2011150	2011559	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007687-T1_mrna"; gene_id "gene-V6Z94_007687"; gene_name "GAR1_2";
+JBBFMZ010000006.1	Genbank	exon	2011612	2011640	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007687-T1_mrna"; gene_id "gene-V6Z94_007687"; gene_name "GAR1_2";
+JBBFMZ010000006.1	Genbank	exon	2011698	2011843	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007687-T1_mrna"; gene_id "gene-V6Z94_007687"; gene_name "GAR1_2";
+JBBFMZ010000006.1	Genbank	exon	2011906	2012006	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007687-T1_mrna"; gene_id "gene-V6Z94_007687"; gene_name "GAR1_2";
+JBBFMZ010000006.1	Genbank	exon	2012065	2012112	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007687-T1_mrna"; gene_id "gene-V6Z94_007687"; gene_name "GAR1_2";
+JBBFMZ010000006.1	Genbank	exon	2012176	2012284	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007687-T1_mrna"; gene_id "gene-V6Z94_007687"; gene_name "GAR1_2";
+JBBFMZ010000006.1	Genbank	CDS	2011351	2011559	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007687-T1_mrna"; gene_id "gene-V6Z94_007687"; gene_name "GAR1_2";
+JBBFMZ010000006.1	Genbank	CDS	2011612	2011640	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007687-T1_mrna"; gene_id "gene-V6Z94_007687"; gene_name "GAR1_2";
+JBBFMZ010000006.1	Genbank	CDS	2011698	2011843	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007687-T1_mrna"; gene_id "gene-V6Z94_007687"; gene_name "GAR1_2";
+JBBFMZ010000006.1	Genbank	CDS	2011906	2012006	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007687-T1_mrna"; gene_id "gene-V6Z94_007687"; gene_name "GAR1_2";
+JBBFMZ010000006.1	Genbank	CDS	2012065	2012112	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007687-T1_mrna"; gene_id "gene-V6Z94_007687"; gene_name "GAR1_2";
+JBBFMZ010000006.1	Genbank	CDS	2012176	2012251	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_007687-T1_mrna"; gene_id "gene-V6Z94_007687"; gene_name "GAR1_2";
+CM079245.1	Genbank	transcript	401825	404041	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004939-T1_mrna"; gene_id "gene-V6Z94_004939"; gene_name "TRM6"
+CM079245.1	Genbank	exon	401825	401966	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004939-T1_mrna"; gene_id "gene-V6Z94_004939"; gene_name "TRM6";
+CM079245.1	Genbank	exon	402021	404041	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004939-T1_mrna"; gene_id "gene-V6Z94_004939"; gene_name "TRM6";
+CM079245.1	Genbank	CDS	401881	401966	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004939-T1_mrna"; gene_id "gene-V6Z94_004939"; gene_name "TRM6";
+CM079245.1	Genbank	CDS	402021	403653	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_004939-T1_mrna"; gene_id "gene-V6Z94_004939"; gene_name "TRM6";
+CM079245.1	Genbank	transcript	612389	613434	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005014-T1_mrna"; gene_id "gene-V6Z94_005014"; gene_name "cwf16"
+CM079245.1	Genbank	exon	612389	613068	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005014-T1_mrna"; gene_id "gene-V6Z94_005014"; gene_name "cwf16";
+CM079245.1	Genbank	exon	613123	613250	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005014-T1_mrna"; gene_id "gene-V6Z94_005014"; gene_name "cwf16";
+CM079245.1	Genbank	exon	613306	613434	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005014-T1_mrna"; gene_id "gene-V6Z94_005014"; gene_name "cwf16";
+CM079245.1	Genbank	CDS	612389	613068	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005014-T1_mrna"; gene_id "gene-V6Z94_005014"; gene_name "cwf16";
+CM079245.1	Genbank	CDS	613123	613250	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005014-T1_mrna"; gene_id "gene-V6Z94_005014"; gene_name "cwf16";
+CM079245.1	Genbank	CDS	613306	613328	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005014-T1_mrna"; gene_id "gene-V6Z94_005014"; gene_name "cwf16";
+CM079245.1	Genbank	transcript	765737	768918	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005067-T1_mrna"; gene_id "gene-V6Z94_005067"; gene_name "PWP2"
+CM079245.1	Genbank	exon	765737	765765	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005067-T1_mrna"; gene_id "gene-V6Z94_005067"; gene_name "PWP2";
+CM079245.1	Genbank	exon	765816	765928	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005067-T1_mrna"; gene_id "gene-V6Z94_005067"; gene_name "PWP2";
+CM079245.1	Genbank	exon	766001	766496	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005067-T1_mrna"; gene_id "gene-V6Z94_005067"; gene_name "PWP2";
+CM079245.1	Genbank	exon	766546	766793	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005067-T1_mrna"; gene_id "gene-V6Z94_005067"; gene_name "PWP2";
+CM079245.1	Genbank	exon	766843	768918	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005067-T1_mrna"; gene_id "gene-V6Z94_005067"; gene_name "PWP2";
+CM079245.1	Genbank	CDS	765748	765765	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005067-T1_mrna"; gene_id "gene-V6Z94_005067"; gene_name "PWP2";
+CM079245.1	Genbank	CDS	765816	765928	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005067-T1_mrna"; gene_id "gene-V6Z94_005067"; gene_name "PWP2";
+CM079245.1	Genbank	CDS	766001	766496	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005067-T1_mrna"; gene_id "gene-V6Z94_005067"; gene_name "PWP2";
+CM079245.1	Genbank	CDS	766546	766793	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005067-T1_mrna"; gene_id "gene-V6Z94_005067"; gene_name "PWP2";
+CM079245.1	Genbank	CDS	766843	768676	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005067-T1_mrna"; gene_id "gene-V6Z94_005067"; gene_name "PWP2";
+CM079245.1	Genbank	transcript	1111393	1113452	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005194-T1_mrna"; gene_id "gene-V6Z94_005194"
+CM079245.1	Genbank	exon	1111393	1111797	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005194-T1_mrna"; gene_id "gene-V6Z94_005194";
+CM079245.1	Genbank	exon	1111883	1112218	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005194-T1_mrna"; gene_id "gene-V6Z94_005194";
+CM079245.1	Genbank	exon	1112283	1113452	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005194-T1_mrna"; gene_id "gene-V6Z94_005194";
+CM079245.1	Genbank	CDS	1111568	1111797	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005194-T1_mrna"; gene_id "gene-V6Z94_005194";
+CM079245.1	Genbank	CDS	1111883	1112218	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005194-T1_mrna"; gene_id "gene-V6Z94_005194";
+CM079245.1	Genbank	CDS	1112283	1113087	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005194-T1_mrna"; gene_id "gene-V6Z94_005194";
+CM079245.1	Genbank	transcript	1255766	1256485	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005217-T1_mrna"; gene_id "gene-V6Z94_005217"; gene_name "FAP7"
+CM079245.1	Genbank	exon	1255766	1255967	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005217-T1_mrna"; gene_id "gene-V6Z94_005217"; gene_name "FAP7";
+CM079245.1	Genbank	exon	1256047	1256195	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005217-T1_mrna"; gene_id "gene-V6Z94_005217"; gene_name "FAP7";
+CM079245.1	Genbank	exon	1256303	1256485	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005217-T1_mrna"; gene_id "gene-V6Z94_005217"; gene_name "FAP7";
+CM079245.1	Genbank	CDS	1255766	1255967	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005217-T1_mrna"; gene_id "gene-V6Z94_005217"; gene_name "FAP7";
+CM079245.1	Genbank	CDS	1256047	1256195	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005217-T1_mrna"; gene_id "gene-V6Z94_005217"; gene_name "FAP7";
+CM079245.1	Genbank	CDS	1256303	1256485	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005217-T1_mrna"; gene_id "gene-V6Z94_005217"; gene_name "FAP7";
+CM079245.1	Genbank	transcript	1289368	1291145	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005234-T1_mrna"; gene_id "gene-V6Z94_005234"; gene_name "FYV10"
+CM079245.1	Genbank	exon	1289368	1289520	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005234-T1_mrna"; gene_id "gene-V6Z94_005234"; gene_name "FYV10";
+CM079245.1	Genbank	exon	1289585	1290124	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005234-T1_mrna"; gene_id "gene-V6Z94_005234"; gene_name "FYV10";
+CM079245.1	Genbank	exon	1290195	1290389	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005234-T1_mrna"; gene_id "gene-V6Z94_005234"; gene_name "FYV10";
+CM079245.1	Genbank	exon	1290460	1291145	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005234-T1_mrna"; gene_id "gene-V6Z94_005234"; gene_name "FYV10";
+CM079245.1	Genbank	CDS	1289467	1289520	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005234-T1_mrna"; gene_id "gene-V6Z94_005234"; gene_name "FYV10";
+CM079245.1	Genbank	CDS	1289585	1290124	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005234-T1_mrna"; gene_id "gene-V6Z94_005234"; gene_name "FYV10";
+CM079245.1	Genbank	CDS	1290195	1290389	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005234-T1_mrna"; gene_id "gene-V6Z94_005234"; gene_name "FYV10";
+CM079245.1	Genbank	CDS	1290460	1290891	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005234-T1_mrna"; gene_id "gene-V6Z94_005234"; gene_name "FYV10";
+CM079245.1	Genbank	transcript	1610072	1610915	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005337-T1_mrna"; gene_id "gene-V6Z94_005337"; gene_name "SPT4"
+CM079245.1	Genbank	exon	1610072	1610313	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005337-T1_mrna"; gene_id "gene-V6Z94_005337"; gene_name "SPT4";
+CM079245.1	Genbank	exon	1610367	1610419	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005337-T1_mrna"; gene_id "gene-V6Z94_005337"; gene_name "SPT4";
+CM079245.1	Genbank	exon	1610468	1610665	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005337-T1_mrna"; gene_id "gene-V6Z94_005337"; gene_name "SPT4";
+CM079245.1	Genbank	exon	1610731	1610915	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005337-T1_mrna"; gene_id "gene-V6Z94_005337"; gene_name "SPT4";
+CM079245.1	Genbank	CDS	1610280	1610313	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005337-T1_mrna"; gene_id "gene-V6Z94_005337"; gene_name "SPT4";
+CM079245.1	Genbank	CDS	1610367	1610419	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005337-T1_mrna"; gene_id "gene-V6Z94_005337"; gene_name "SPT4";
+CM079245.1	Genbank	CDS	1610468	1610665	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005337-T1_mrna"; gene_id "gene-V6Z94_005337"; gene_name "SPT4";
+CM079245.1	Genbank	CDS	1610731	1610814	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005337-T1_mrna"; gene_id "gene-V6Z94_005337"; gene_name "SPT4";
+CM079245.1	Genbank	transcript	2045321	2046436	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005484-T1_mrna"; gene_id "gene-V6Z94_005484"; gene_name "ATG3"
+CM079245.1	Genbank	exon	2045321	2045844	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005484-T1_mrna"; gene_id "gene-V6Z94_005484"; gene_name "ATG3";
+CM079245.1	Genbank	exon	2045899	2046436	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005484-T1_mrna"; gene_id "gene-V6Z94_005484"; gene_name "ATG3";
+CM079245.1	Genbank	CDS	2045321	2045844	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005484-T1_mrna"; gene_id "gene-V6Z94_005484"; gene_name "ATG3";
+CM079245.1	Genbank	CDS	2045899	2046436	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005484-T1_mrna"; gene_id "gene-V6Z94_005484"; gene_name "ATG3";
+CM079245.1	Genbank	transcript	2181505	2182405	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005537-T1_mrna"; gene_id "gene-V6Z94_005537"; gene_name "ISY1"
+CM079245.1	Genbank	exon	2181505	2182263	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005537-T1_mrna"; gene_id "gene-V6Z94_005537"; gene_name "ISY1";
+CM079245.1	Genbank	exon	2182360	2182405	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005537-T1_mrna"; gene_id "gene-V6Z94_005537"; gene_name "ISY1";
+CM079245.1	Genbank	CDS	2181505	2182263	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005537-T1_mrna"; gene_id "gene-V6Z94_005537"; gene_name "ISY1";
+CM079245.1	Genbank	CDS	2182360	2182362	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005537-T1_mrna"; gene_id "gene-V6Z94_005537"; gene_name "ISY1";
+CM079245.1	Genbank	transcript	2312780	2313523	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005572-T1_mrna"; gene_id "gene-V6Z94_005572"
+CM079245.1	Genbank	exon	2312780	2313523	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005572-T1_mrna"; gene_id "gene-V6Z94_005572";
+CM079245.1	Genbank	CDS	2312780	2313523	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005572-T1_mrna"; gene_id "gene-V6Z94_005572";
+CM079245.1	Genbank	transcript	2468578	2470086	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005629-T1_mrna"; gene_id "gene-V6Z94_005629"; gene_name "TRM61"
+CM079245.1	Genbank	exon	2468578	2470086	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005629-T1_mrna"; gene_id "gene-V6Z94_005629"; gene_name "TRM61";
+CM079245.1	Genbank	CDS	2468578	2470086	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005629-T1_mrna"; gene_id "gene-V6Z94_005629"; gene_name "TRM61";
+CM079245.1	Genbank	transcript	2665272	2666908	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005716-T1_mrna"; gene_id "gene-V6Z94_005716"; gene_name "UBA4"
+CM079245.1	Genbank	exon	2665272	2666292	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005716-T1_mrna"; gene_id "gene-V6Z94_005716"; gene_name "UBA4";
+CM079245.1	Genbank	exon	2666358	2666571	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005716-T1_mrna"; gene_id "gene-V6Z94_005716"; gene_name "UBA4";
+CM079245.1	Genbank	exon	2666662	2666908	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005716-T1_mrna"; gene_id "gene-V6Z94_005716"; gene_name "UBA4";
+CM079245.1	Genbank	CDS	2665272	2666292	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005716-T1_mrna"; gene_id "gene-V6Z94_005716"; gene_name "UBA4";
+CM079245.1	Genbank	CDS	2666358	2666571	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005716-T1_mrna"; gene_id "gene-V6Z94_005716"; gene_name "UBA4";
+CM079245.1	Genbank	CDS	2666662	2666908	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005716-T1_mrna"; gene_id "gene-V6Z94_005716"; gene_name "UBA4";
+CM079245.1	Genbank	transcript	2820860	2823225	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005774-T1_mrna"; gene_id "gene-V6Z94_005774"; gene_name "DBP7"
+CM079245.1	Genbank	exon	2820860	2823225	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005774-T1_mrna"; gene_id "gene-V6Z94_005774"; gene_name "DBP7";
+CM079245.1	Genbank	CDS	2820860	2823136	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005774-T1_mrna"; gene_id "gene-V6Z94_005774"; gene_name "DBP7";
+CM079245.1	Genbank	transcript	2905422	2906611	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005805-T1_mrna"; gene_id "gene-V6Z94_005805"; gene_name "GCN3"
+CM079245.1	Genbank	exon	2905422	2906457	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005805-T1_mrna"; gene_id "gene-V6Z94_005805"; gene_name "GCN3";
+CM079245.1	Genbank	exon	2906513	2906611	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005805-T1_mrna"; gene_id "gene-V6Z94_005805"; gene_name "GCN3";
+CM079245.1	Genbank	CDS	2905422	2906457	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005805-T1_mrna"; gene_id "gene-V6Z94_005805"; gene_name "GCN3";
+CM079245.1	Genbank	CDS	2906513	2906559	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005805-T1_mrna"; gene_id "gene-V6Z94_005805"; gene_name "GCN3";
+CM079245.1	Genbank	transcript	3214298	3215607	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005907-T1_mrna"; gene_id "gene-V6Z94_005907"; gene_name "ebp2"
+CM079245.1	Genbank	exon	3214298	3214506	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005907-T1_mrna"; gene_id "gene-V6Z94_005907"; gene_name "ebp2";
+CM079245.1	Genbank	exon	3214574	3215243	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005907-T1_mrna"; gene_id "gene-V6Z94_005907"; gene_name "ebp2";
+CM079245.1	Genbank	exon	3215309	3215607	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005907-T1_mrna"; gene_id "gene-V6Z94_005907"; gene_name "ebp2";
+CM079245.1	Genbank	CDS	3214333	3214506	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005907-T1_mrna"; gene_id "gene-V6Z94_005907"; gene_name "ebp2";
+CM079245.1	Genbank	CDS	3214574	3215243	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005907-T1_mrna"; gene_id "gene-V6Z94_005907"; gene_name "ebp2";
+CM079245.1	Genbank	CDS	3215309	3215607	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_005907-T1_mrna"; gene_id "gene-V6Z94_005907"; gene_name "ebp2";
+CM079245.1	Genbank	transcript	3526071	3527148	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006006-T1_mrna"; gene_id "gene-V6Z94_006006"; gene_name "BCP1"
+CM079245.1	Genbank	exon	3526071	3526245	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006006-T1_mrna"; gene_id "gene-V6Z94_006006"; gene_name "BCP1";
+CM079245.1	Genbank	exon	3526305	3526541	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006006-T1_mrna"; gene_id "gene-V6Z94_006006"; gene_name "BCP1";
+CM079245.1	Genbank	exon	3526594	3527148	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006006-T1_mrna"; gene_id "gene-V6Z94_006006"; gene_name "BCP1";
+CM079245.1	Genbank	CDS	3526162	3526245	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006006-T1_mrna"; gene_id "gene-V6Z94_006006"; gene_name "BCP1";
+CM079245.1	Genbank	CDS	3526305	3526541	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006006-T1_mrna"; gene_id "gene-V6Z94_006006"; gene_name "BCP1";
+CM079245.1	Genbank	CDS	3526594	3527148	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006006-T1_mrna"; gene_id "gene-V6Z94_006006"; gene_name "BCP1";
+CM079245.1	Genbank	transcript	3623446	3624343	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006037-T1_mrna"; gene_id "gene-V6Z94_006037"; gene_name "MRT4"
+CM079245.1	Genbank	exon	3623446	3623705	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006037-T1_mrna"; gene_id "gene-V6Z94_006037"; gene_name "MRT4";
+CM079245.1	Genbank	exon	3623794	3624343	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006037-T1_mrna"; gene_id "gene-V6Z94_006037"; gene_name "MRT4";
+CM079245.1	Genbank	CDS	3623512	3623705	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006037-T1_mrna"; gene_id "gene-V6Z94_006037"; gene_name "MRT4";
+CM079245.1	Genbank	CDS	3623794	3624343	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006037-T1_mrna"; gene_id "gene-V6Z94_006037"; gene_name "MRT4";
+CM079245.1	Genbank	transcript	3626761	3627347	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006039-T1_mrna"; gene_id "gene-V6Z94_006039"; gene_name "MRPL51"
+CM079245.1	Genbank	exon	3626761	3626836	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006039-T1_mrna"; gene_id "gene-V6Z94_006039"; gene_name "MRPL51";
+CM079245.1	Genbank	exon	3626905	3626987	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006039-T1_mrna"; gene_id "gene-V6Z94_006039"; gene_name "MRPL51";
+CM079245.1	Genbank	exon	3627056	3627347	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006039-T1_mrna"; gene_id "gene-V6Z94_006039"; gene_name "MRPL51";
+CM079245.1	Genbank	CDS	3626798	3626836	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006039-T1_mrna"; gene_id "gene-V6Z94_006039"; gene_name "MRPL51";
+CM079245.1	Genbank	CDS	3626905	3626987	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006039-T1_mrna"; gene_id "gene-V6Z94_006039"; gene_name "MRPL51";
+CM079245.1	Genbank	CDS	3627056	3627347	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006039-T1_mrna"; gene_id "gene-V6Z94_006039"; gene_name "MRPL51";
+CM079245.1	Genbank	transcript	3729841	3731319	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006085-T1_mrna"; gene_id "gene-V6Z94_006085"; gene_name "TMA46"
+CM079245.1	Genbank	exon	3729841	3730125	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006085-T1_mrna"; gene_id "gene-V6Z94_006085"; gene_name "TMA46";
+CM079245.1	Genbank	exon	3730189	3730206	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006085-T1_mrna"; gene_id "gene-V6Z94_006085"; gene_name "TMA46";
+CM079245.1	Genbank	exon	3730280	3730830	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006085-T1_mrna"; gene_id "gene-V6Z94_006085"; gene_name "TMA46";
+CM079245.1	Genbank	exon	3730887	3731319	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006085-T1_mrna"; gene_id "gene-V6Z94_006085"; gene_name "TMA46";
+CM079245.1	Genbank	CDS	3730069	3730125	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006085-T1_mrna"; gene_id "gene-V6Z94_006085"; gene_name "TMA46";
+CM079245.1	Genbank	CDS	3730189	3730206	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006085-T1_mrna"; gene_id "gene-V6Z94_006085"; gene_name "TMA46";
+CM079245.1	Genbank	CDS	3730280	3730830	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006085-T1_mrna"; gene_id "gene-V6Z94_006085"; gene_name "TMA46";
+CM079245.1	Genbank	CDS	3730887	3731319	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006085-T1_mrna"; gene_id "gene-V6Z94_006085"; gene_name "TMA46";
+JBBFMZ010000005.1	Genbank	transcript	424104	425034	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006326-T1_mrna"; gene_id "gene-V6Z94_006326"; gene_name "SLD5"
+JBBFMZ010000005.1	Genbank	exon	424104	424730	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006326-T1_mrna"; gene_id "gene-V6Z94_006326"; gene_name "SLD5";
+JBBFMZ010000005.1	Genbank	exon	424807	425034	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006326-T1_mrna"; gene_id "gene-V6Z94_006326"; gene_name "SLD5";
+JBBFMZ010000005.1	Genbank	CDS	424104	424730	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006326-T1_mrna"; gene_id "gene-V6Z94_006326"; gene_name "SLD5";
+JBBFMZ010000005.1	Genbank	CDS	424807	424980	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006326-T1_mrna"; gene_id "gene-V6Z94_006326"; gene_name "SLD5";
+JBBFMZ010000005.1	Genbank	transcript	598855	600613	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006381-T1_mrna"; gene_id "gene-V6Z94_006381"; gene_name "COX15_1"
+JBBFMZ010000005.1	Genbank	exon	598855	599291	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006381-T1_mrna"; gene_id "gene-V6Z94_006381"; gene_name "COX15_1";
+JBBFMZ010000005.1	Genbank	exon	599350	600613	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006381-T1_mrna"; gene_id "gene-V6Z94_006381"; gene_name "COX15_1";
+JBBFMZ010000005.1	Genbank	CDS	598894	599291	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006381-T1_mrna"; gene_id "gene-V6Z94_006381"; gene_name "COX15_1";
+JBBFMZ010000005.1	Genbank	CDS	599350	600463	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006381-T1_mrna"; gene_id "gene-V6Z94_006381"; gene_name "COX15_1";
+JBBFMZ010000005.1	Genbank	transcript	970853	972487	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006515-T1_mrna"; gene_id "gene-V6Z94_006515"; gene_name "BUD23"
+JBBFMZ010000005.1	Genbank	exon	970853	971105	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006515-T1_mrna"; gene_id "gene-V6Z94_006515"; gene_name "BUD23";
+JBBFMZ010000005.1	Genbank	exon	971196	972188	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006515-T1_mrna"; gene_id "gene-V6Z94_006515"; gene_name "BUD23";
+JBBFMZ010000005.1	Genbank	exon	972240	972487	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006515-T1_mrna"; gene_id "gene-V6Z94_006515"; gene_name "BUD23";
+JBBFMZ010000005.1	Genbank	CDS	971083	971105	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006515-T1_mrna"; gene_id "gene-V6Z94_006515"; gene_name "BUD23";
+JBBFMZ010000005.1	Genbank	CDS	971196	972012	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006515-T1_mrna"; gene_id "gene-V6Z94_006515"; gene_name "BUD23";
+JBBFMZ010000005.1	Genbank	transcript	1075019	1075915	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006527-T1_mrna"; gene_id "gene-V6Z94_006527"; gene_name "MSW1"
+JBBFMZ010000005.1	Genbank	exon	1075019	1075470	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006527-T1_mrna"; gene_id "gene-V6Z94_006527"; gene_name "MSW1";
+JBBFMZ010000005.1	Genbank	exon	1075532	1075650	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006527-T1_mrna"; gene_id "gene-V6Z94_006527"; gene_name "MSW1";
+JBBFMZ010000005.1	Genbank	exon	1075700	1075815	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006527-T1_mrna"; gene_id "gene-V6Z94_006527"; gene_name "MSW1";
+JBBFMZ010000005.1	Genbank	exon	1075883	1075915	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006527-T1_mrna"; gene_id "gene-V6Z94_006527"; gene_name "MSW1";
+JBBFMZ010000005.1	Genbank	CDS	1075019	1075470	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006527-T1_mrna"; gene_id "gene-V6Z94_006527"; gene_name "MSW1";
+JBBFMZ010000005.1	Genbank	CDS	1075532	1075650	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006527-T1_mrna"; gene_id "gene-V6Z94_006527"; gene_name "MSW1";
+JBBFMZ010000005.1	Genbank	CDS	1075700	1075815	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006527-T1_mrna"; gene_id "gene-V6Z94_006527"; gene_name "MSW1";
+JBBFMZ010000005.1	Genbank	CDS	1075883	1075915	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006527-T1_mrna"; gene_id "gene-V6Z94_006527"; gene_name "MSW1";
+JBBFMZ010000005.1	Genbank	transcript	1125267	1128675	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006547-T1_mrna"; gene_id "gene-V6Z94_006547"; gene_name "cbc1"
+JBBFMZ010000005.1	Genbank	exon	1125267	1126517	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006547-T1_mrna"; gene_id "gene-V6Z94_006547"; gene_name "cbc1";
+JBBFMZ010000005.1	Genbank	exon	1126590	1126771	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006547-T1_mrna"; gene_id "gene-V6Z94_006547"; gene_name "cbc1";
+JBBFMZ010000005.1	Genbank	exon	1126825	1127711	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006547-T1_mrna"; gene_id "gene-V6Z94_006547"; gene_name "cbc1";
+JBBFMZ010000005.1	Genbank	exon	1127779	1128046	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006547-T1_mrna"; gene_id "gene-V6Z94_006547"; gene_name "cbc1";
+JBBFMZ010000005.1	Genbank	exon	1128124	1128230	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006547-T1_mrna"; gene_id "gene-V6Z94_006547"; gene_name "cbc1";
+JBBFMZ010000005.1	Genbank	exon	1128307	1128401	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006547-T1_mrna"; gene_id "gene-V6Z94_006547"; gene_name "cbc1";
+JBBFMZ010000005.1	Genbank	exon	1128508	1128675	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006547-T1_mrna"; gene_id "gene-V6Z94_006547"; gene_name "cbc1";
+JBBFMZ010000005.1	Genbank	CDS	1125622	1126517	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006547-T1_mrna"; gene_id "gene-V6Z94_006547"; gene_name "cbc1";
+JBBFMZ010000005.1	Genbank	CDS	1126590	1126771	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006547-T1_mrna"; gene_id "gene-V6Z94_006547"; gene_name "cbc1";
+JBBFMZ010000005.1	Genbank	CDS	1126825	1127711	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006547-T1_mrna"; gene_id "gene-V6Z94_006547"; gene_name "cbc1";
+JBBFMZ010000005.1	Genbank	CDS	1127779	1128046	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006547-T1_mrna"; gene_id "gene-V6Z94_006547"; gene_name "cbc1";
+JBBFMZ010000005.1	Genbank	CDS	1128124	1128230	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006547-T1_mrna"; gene_id "gene-V6Z94_006547"; gene_name "cbc1";
+JBBFMZ010000005.1	Genbank	CDS	1128307	1128401	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006547-T1_mrna"; gene_id "gene-V6Z94_006547"; gene_name "cbc1";
+JBBFMZ010000005.1	Genbank	CDS	1128508	1128571	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006547-T1_mrna"; gene_id "gene-V6Z94_006547"; gene_name "cbc1";
+JBBFMZ010000005.1	Genbank	transcript	1152277	1153763	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006558-T1_mrna"; gene_id "gene-V6Z94_006558"
+JBBFMZ010000005.1	Genbank	exon	1152277	1152463	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006558-T1_mrna"; gene_id "gene-V6Z94_006558";
+JBBFMZ010000005.1	Genbank	exon	1152562	1152818	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006558-T1_mrna"; gene_id "gene-V6Z94_006558";
+JBBFMZ010000005.1	Genbank	exon	1152972	1153124	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006558-T1_mrna"; gene_id "gene-V6Z94_006558";
+JBBFMZ010000005.1	Genbank	exon	1153177	1153763	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006558-T1_mrna"; gene_id "gene-V6Z94_006558";
+JBBFMZ010000005.1	Genbank	CDS	1152420	1152463	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006558-T1_mrna"; gene_id "gene-V6Z94_006558";
+JBBFMZ010000005.1	Genbank	CDS	1152562	1152818	.	+	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006558-T1_mrna"; gene_id "gene-V6Z94_006558";
+JBBFMZ010000005.1	Genbank	CDS	1152972	1153124	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006558-T1_mrna"; gene_id "gene-V6Z94_006558";
+JBBFMZ010000005.1	Genbank	CDS	1153177	1153763	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006558-T1_mrna"; gene_id "gene-V6Z94_006558";
+JBBFMZ010000005.1	Genbank	transcript	1226941	1228055	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006584-T1_mrna"; gene_id "gene-V6Z94_006584"; gene_name "MED6"
+JBBFMZ010000005.1	Genbank	exon	1226941	1227034	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006584-T1_mrna"; gene_id "gene-V6Z94_006584"; gene_name "MED6";
+JBBFMZ010000005.1	Genbank	exon	1227111	1227472	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006584-T1_mrna"; gene_id "gene-V6Z94_006584"; gene_name "MED6";
+JBBFMZ010000005.1	Genbank	exon	1227537	1228055	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006584-T1_mrna"; gene_id "gene-V6Z94_006584"; gene_name "MED6";
+JBBFMZ010000005.1	Genbank	CDS	1226941	1227034	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006584-T1_mrna"; gene_id "gene-V6Z94_006584"; gene_name "MED6";
+JBBFMZ010000005.1	Genbank	CDS	1227111	1227472	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006584-T1_mrna"; gene_id "gene-V6Z94_006584"; gene_name "MED6";
+JBBFMZ010000005.1	Genbank	CDS	1227537	1228055	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_006584-T1_mrna"; gene_id "gene-V6Z94_006584"; gene_name "MED6";
+JBBFMZ010000009.1	Genbank	transcript	324532	325693	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009154-T1_mrna"; gene_id "gene-V6Z94_009154"
+JBBFMZ010000009.1	Genbank	exon	324532	324665	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009154-T1_mrna"; gene_id "gene-V6Z94_009154";
+JBBFMZ010000009.1	Genbank	exon	324726	325693	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009154-T1_mrna"; gene_id "gene-V6Z94_009154";
+JBBFMZ010000009.1	Genbank	CDS	324599	324665	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009154-T1_mrna"; gene_id "gene-V6Z94_009154";
+JBBFMZ010000009.1	Genbank	CDS	324726	325693	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009154-T1_mrna"; gene_id "gene-V6Z94_009154";
+JBBFMZ010000009.1	Genbank	transcript	618161	620481	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009260-T1_mrna"; gene_id "gene-V6Z94_009260"; gene_name "COG6"
+JBBFMZ010000009.1	Genbank	exon	618161	620122	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009260-T1_mrna"; gene_id "gene-V6Z94_009260"; gene_name "COG6";
+JBBFMZ010000009.1	Genbank	exon	620185	620481	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009260-T1_mrna"; gene_id "gene-V6Z94_009260"; gene_name "COG6";
+JBBFMZ010000009.1	Genbank	CDS	618161	620122	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009260-T1_mrna"; gene_id "gene-V6Z94_009260"; gene_name "COG6";
+JBBFMZ010000009.1	Genbank	CDS	620185	620481	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009260-T1_mrna"; gene_id "gene-V6Z94_009260"; gene_name "COG6";
+JBBFMZ010000009.1	Genbank	transcript	1171632	1174893	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009465-T1_mrna"; gene_id "gene-V6Z94_009465"; gene_name "VPS11"
+JBBFMZ010000009.1	Genbank	exon	1171632	1172012	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009465-T1_mrna"; gene_id "gene-V6Z94_009465"; gene_name "VPS11";
+JBBFMZ010000009.1	Genbank	exon	1172067	1172465	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009465-T1_mrna"; gene_id "gene-V6Z94_009465"; gene_name "VPS11";
+JBBFMZ010000009.1	Genbank	exon	1172514	1173017	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009465-T1_mrna"; gene_id "gene-V6Z94_009465"; gene_name "VPS11";
+JBBFMZ010000009.1	Genbank	exon	1173071	1173406	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009465-T1_mrna"; gene_id "gene-V6Z94_009465"; gene_name "VPS11";
+JBBFMZ010000009.1	Genbank	exon	1173462	1173695	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009465-T1_mrna"; gene_id "gene-V6Z94_009465"; gene_name "VPS11";
+JBBFMZ010000009.1	Genbank	exon	1173746	1174357	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009465-T1_mrna"; gene_id "gene-V6Z94_009465"; gene_name "VPS11";
+JBBFMZ010000009.1	Genbank	exon	1174417	1174713	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009465-T1_mrna"; gene_id "gene-V6Z94_009465"; gene_name "VPS11";
+JBBFMZ010000009.1	Genbank	exon	1174786	1174893	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009465-T1_mrna"; gene_id "gene-V6Z94_009465"; gene_name "VPS11";
+JBBFMZ010000009.1	Genbank	CDS	1171632	1172012	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009465-T1_mrna"; gene_id "gene-V6Z94_009465"; gene_name "VPS11";
+JBBFMZ010000009.1	Genbank	CDS	1172067	1172465	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009465-T1_mrna"; gene_id "gene-V6Z94_009465"; gene_name "VPS11";
+JBBFMZ010000009.1	Genbank	CDS	1172514	1173017	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009465-T1_mrna"; gene_id "gene-V6Z94_009465"; gene_name "VPS11";
+JBBFMZ010000009.1	Genbank	CDS	1173071	1173406	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009465-T1_mrna"; gene_id "gene-V6Z94_009465"; gene_name "VPS11";
+JBBFMZ010000009.1	Genbank	CDS	1173462	1173695	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009465-T1_mrna"; gene_id "gene-V6Z94_009465"; gene_name "VPS11";
+JBBFMZ010000009.1	Genbank	CDS	1173746	1174357	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009465-T1_mrna"; gene_id "gene-V6Z94_009465"; gene_name "VPS11";
+JBBFMZ010000009.1	Genbank	CDS	1174417	1174713	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009465-T1_mrna"; gene_id "gene-V6Z94_009465"; gene_name "VPS11";
+JBBFMZ010000009.1	Genbank	CDS	1174786	1174893	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_009465-T1_mrna"; gene_id "gene-V6Z94_009465"; gene_name "VPS11";
+CM079246.1	Genbank	transcript	367452	370701	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008580-T1_mrna"; gene_id "gene-V6Z94_008580"; gene_name "ctf18"
+CM079246.1	Genbank	exon	367452	367875	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008580-T1_mrna"; gene_id "gene-V6Z94_008580"; gene_name "ctf18";
+CM079246.1	Genbank	exon	367939	370435	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008580-T1_mrna"; gene_id "gene-V6Z94_008580"; gene_name "ctf18";
+CM079246.1	Genbank	exon	370491	370701	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008580-T1_mrna"; gene_id "gene-V6Z94_008580"; gene_name "ctf18";
+CM079246.1	Genbank	CDS	367452	367875	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008580-T1_mrna"; gene_id "gene-V6Z94_008580"; gene_name "ctf18";
+CM079246.1	Genbank	CDS	367939	370435	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008580-T1_mrna"; gene_id "gene-V6Z94_008580"; gene_name "ctf18";
+CM079246.1	Genbank	CDS	370491	370701	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008580-T1_mrna"; gene_id "gene-V6Z94_008580"; gene_name "ctf18";
+CM079246.1	Genbank	transcript	371044	372564	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008581-T1_mrna"; gene_id "gene-V6Z94_008581"; gene_name "ETF1"
+CM079246.1	Genbank	exon	371044	371874	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008581-T1_mrna"; gene_id "gene-V6Z94_008581"; gene_name "ETF1";
+CM079246.1	Genbank	exon	371946	372114	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008581-T1_mrna"; gene_id "gene-V6Z94_008581"; gene_name "ETF1";
+CM079246.1	Genbank	exon	372188	372564	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008581-T1_mrna"; gene_id "gene-V6Z94_008581"; gene_name "ETF1";
+CM079246.1	Genbank	CDS	371294	371874	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008581-T1_mrna"; gene_id "gene-V6Z94_008581"; gene_name "ETF1";
+CM079246.1	Genbank	CDS	371946	372114	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008581-T1_mrna"; gene_id "gene-V6Z94_008581"; gene_name "ETF1";
+CM079246.1	Genbank	CDS	372188	372496	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008581-T1_mrna"; gene_id "gene-V6Z94_008581"; gene_name "ETF1";
+CM079246.1	Genbank	transcript	691567	693159	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008696-T1_mrna"; gene_id "gene-V6Z94_008696"
+CM079246.1	Genbank	exon	691567	692200	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008696-T1_mrna"; gene_id "gene-V6Z94_008696";
+CM079246.1	Genbank	exon	692288	693159	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008696-T1_mrna"; gene_id "gene-V6Z94_008696";
+CM079246.1	Genbank	CDS	691567	692200	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008696-T1_mrna"; gene_id "gene-V6Z94_008696";
+CM079246.1	Genbank	CDS	692288	693159	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008696-T1_mrna"; gene_id "gene-V6Z94_008696";
+CM079246.1	Genbank	transcript	804479	805987	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008742-T1_mrna"; gene_id "gene-V6Z94_008742"
+CM079246.1	Genbank	exon	804479	805638	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008742-T1_mrna"; gene_id "gene-V6Z94_008742";
+CM079246.1	Genbank	exon	805741	805987	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008742-T1_mrna"; gene_id "gene-V6Z94_008742";
+CM079246.1	Genbank	CDS	804479	805638	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008742-T1_mrna"; gene_id "gene-V6Z94_008742";
+CM079246.1	Genbank	CDS	805741	805987	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008742-T1_mrna"; gene_id "gene-V6Z94_008742";
+CM079246.1	Genbank	transcript	923188	924786	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008776-T1_mrna"; gene_id "gene-V6Z94_008776"
+CM079246.1	Genbank	exon	923188	923693	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008776-T1_mrna"; gene_id "gene-V6Z94_008776";
+CM079246.1	Genbank	exon	923757	923909	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008776-T1_mrna"; gene_id "gene-V6Z94_008776";
+CM079246.1	Genbank	exon	923980	924186	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008776-T1_mrna"; gene_id "gene-V6Z94_008776";
+CM079246.1	Genbank	exon	924239	924643	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008776-T1_mrna"; gene_id "gene-V6Z94_008776";
+CM079246.1	Genbank	exon	924715	924786	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008776-T1_mrna"; gene_id "gene-V6Z94_008776";
+CM079246.1	Genbank	CDS	923457	923693	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008776-T1_mrna"; gene_id "gene-V6Z94_008776";
+CM079246.1	Genbank	CDS	923757	923909	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008776-T1_mrna"; gene_id "gene-V6Z94_008776";
+CM079246.1	Genbank	CDS	923980	924186	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008776-T1_mrna"; gene_id "gene-V6Z94_008776";
+CM079246.1	Genbank	CDS	924239	924619	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008776-T1_mrna"; gene_id "gene-V6Z94_008776";
+CM079246.1	Genbank	transcript	1125641	1127685	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008822-T1_mrna"; gene_id "gene-V6Z94_008822"; gene_name "cyp6"
+CM079246.1	Genbank	exon	1125641	1126276	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008822-T1_mrna"; gene_id "gene-V6Z94_008822"; gene_name "cyp6";
+CM079246.1	Genbank	exon	1126332	1126528	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008822-T1_mrna"; gene_id "gene-V6Z94_008822"; gene_name "cyp6";
+CM079246.1	Genbank	exon	1126584	1127284	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008822-T1_mrna"; gene_id "gene-V6Z94_008822"; gene_name "cyp6";
+CM079246.1	Genbank	exon	1127407	1127685	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008822-T1_mrna"; gene_id "gene-V6Z94_008822"; gene_name "cyp6";
+CM079246.1	Genbank	CDS	1125875	1126276	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008822-T1_mrna"; gene_id "gene-V6Z94_008822"; gene_name "cyp6";
+CM079246.1	Genbank	CDS	1126332	1126528	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008822-T1_mrna"; gene_id "gene-V6Z94_008822"; gene_name "cyp6";
+CM079246.1	Genbank	CDS	1126584	1127284	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008822-T1_mrna"; gene_id "gene-V6Z94_008822"; gene_name "cyp6";
+CM079246.1	Genbank	CDS	1127407	1127486	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008822-T1_mrna"; gene_id "gene-V6Z94_008822"; gene_name "cyp6";
+CM079246.1	Genbank	transcript	1193552	1195981	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008848-T1_mrna"; gene_id "gene-V6Z94_008848"
+CM079246.1	Genbank	exon	1193552	1193679	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008848-T1_mrna"; gene_id "gene-V6Z94_008848";
+CM079246.1	Genbank	exon	1193735	1193852	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008848-T1_mrna"; gene_id "gene-V6Z94_008848";
+CM079246.1	Genbank	exon	1193913	1194197	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008848-T1_mrna"; gene_id "gene-V6Z94_008848";
+CM079246.1	Genbank	exon	1194250	1194764	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008848-T1_mrna"; gene_id "gene-V6Z94_008848";
+CM079246.1	Genbank	exon	1194819	1194912	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008848-T1_mrna"; gene_id "gene-V6Z94_008848";
+CM079246.1	Genbank	exon	1194958	1195192	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008848-T1_mrna"; gene_id "gene-V6Z94_008848";
+CM079246.1	Genbank	exon	1195250	1195356	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008848-T1_mrna"; gene_id "gene-V6Z94_008848";
+CM079246.1	Genbank	exon	1195416	1195654	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008848-T1_mrna"; gene_id "gene-V6Z94_008848";
+CM079246.1	Genbank	exon	1195719	1195773	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008848-T1_mrna"; gene_id "gene-V6Z94_008848";
+CM079246.1	Genbank	exon	1195825	1195981	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008848-T1_mrna"; gene_id "gene-V6Z94_008848";
+CM079246.1	Genbank	CDS	1193597	1193679	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008848-T1_mrna"; gene_id "gene-V6Z94_008848";
+CM079246.1	Genbank	CDS	1193735	1193852	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008848-T1_mrna"; gene_id "gene-V6Z94_008848";
+CM079246.1	Genbank	CDS	1193913	1194197	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008848-T1_mrna"; gene_id "gene-V6Z94_008848";
+CM079246.1	Genbank	CDS	1194250	1194764	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008848-T1_mrna"; gene_id "gene-V6Z94_008848";
+CM079246.1	Genbank	CDS	1194819	1194912	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008848-T1_mrna"; gene_id "gene-V6Z94_008848";
+CM079246.1	Genbank	CDS	1194958	1195192	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008848-T1_mrna"; gene_id "gene-V6Z94_008848";
+CM079246.1	Genbank	CDS	1195250	1195356	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008848-T1_mrna"; gene_id "gene-V6Z94_008848";
+CM079246.1	Genbank	CDS	1195416	1195654	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008848-T1_mrna"; gene_id "gene-V6Z94_008848";
+CM079246.1	Genbank	CDS	1195719	1195773	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008848-T1_mrna"; gene_id "gene-V6Z94_008848";
+CM079246.1	Genbank	CDS	1195825	1195851	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008848-T1_mrna"; gene_id "gene-V6Z94_008848";
+CM079247.1	Genbank	transcript	779919	780775	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008075-T1_mrna"; gene_id "gene-V6Z94_008075"; gene_name "TMA22"
+CM079247.1	Genbank	exon	779919	779982	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008075-T1_mrna"; gene_id "gene-V6Z94_008075"; gene_name "TMA22";
+CM079247.1	Genbank	exon	780068	780087	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008075-T1_mrna"; gene_id "gene-V6Z94_008075"; gene_name "TMA22";
+CM079247.1	Genbank	exon	780210	780297	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008075-T1_mrna"; gene_id "gene-V6Z94_008075"; gene_name "TMA22";
+CM079247.1	Genbank	exon	780363	780775	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008075-T1_mrna"; gene_id "gene-V6Z94_008075"; gene_name "TMA22";
+CM079247.1	Genbank	CDS	779919	779982	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008075-T1_mrna"; gene_id "gene-V6Z94_008075"; gene_name "TMA22";
+CM079247.1	Genbank	CDS	780068	780087	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008075-T1_mrna"; gene_id "gene-V6Z94_008075"; gene_name "TMA22";
+CM079247.1	Genbank	CDS	780210	780297	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008075-T1_mrna"; gene_id "gene-V6Z94_008075"; gene_name "TMA22";
+CM079247.1	Genbank	CDS	780363	780775	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008075-T1_mrna"; gene_id "gene-V6Z94_008075"; gene_name "TMA22";
+CM079247.1	Genbank	transcript	792299	795589	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008081-T1_mrna"; gene_id "gene-V6Z94_008081"; gene_name "SEC10"
+CM079247.1	Genbank	exon	792299	793067	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008081-T1_mrna"; gene_id "gene-V6Z94_008081"; gene_name "SEC10";
+CM079247.1	Genbank	exon	793131	795589	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008081-T1_mrna"; gene_id "gene-V6Z94_008081"; gene_name "SEC10";
+CM079247.1	Genbank	CDS	792558	793067	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008081-T1_mrna"; gene_id "gene-V6Z94_008081"; gene_name "SEC10";
+CM079247.1	Genbank	CDS	793131	795311	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008081-T1_mrna"; gene_id "gene-V6Z94_008081"; gene_name "SEC10";
+CM079247.1	Genbank	transcript	993730	997790	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008129-T1_mrna"; gene_id "gene-V6Z94_008129"; gene_name "NOP14"
+CM079247.1	Genbank	exon	993730	997435	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008129-T1_mrna"; gene_id "gene-V6Z94_008129"; gene_name "NOP14";
+CM079247.1	Genbank	exon	997503	997790	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008129-T1_mrna"; gene_id "gene-V6Z94_008129"; gene_name "NOP14";
+CM079247.1	Genbank	CDS	994982	997435	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008129-T1_mrna"; gene_id "gene-V6Z94_008129"; gene_name "NOP14";
+CM079247.1	Genbank	CDS	997503	997790	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008129-T1_mrna"; gene_id "gene-V6Z94_008129"; gene_name "NOP14";
+CM079247.1	Genbank	transcript	1037026	1038367	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008143-T1_mrna"; gene_id "gene-V6Z94_008143"; gene_name "rpc25"
+CM079247.1	Genbank	exon	1037026	1037280	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008143-T1_mrna"; gene_id "gene-V6Z94_008143"; gene_name "rpc25";
+CM079247.1	Genbank	exon	1037342	1037519	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008143-T1_mrna"; gene_id "gene-V6Z94_008143"; gene_name "rpc25";
+CM079247.1	Genbank	exon	1037578	1037641	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008143-T1_mrna"; gene_id "gene-V6Z94_008143"; gene_name "rpc25";
+CM079247.1	Genbank	exon	1037696	1037782	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008143-T1_mrna"; gene_id "gene-V6Z94_008143"; gene_name "rpc25";
+CM079247.1	Genbank	exon	1037838	1037934	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008143-T1_mrna"; gene_id "gene-V6Z94_008143"; gene_name "rpc25";
+CM079247.1	Genbank	exon	1037998	1038096	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008143-T1_mrna"; gene_id "gene-V6Z94_008143"; gene_name "rpc25";
+CM079247.1	Genbank	exon	1038171	1038367	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008143-T1_mrna"; gene_id "gene-V6Z94_008143"; gene_name "rpc25";
+CM079247.1	Genbank	CDS	1037236	1037280	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008143-T1_mrna"; gene_id "gene-V6Z94_008143"; gene_name "rpc25";
+CM079247.1	Genbank	CDS	1037342	1037519	.	-	1	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008143-T1_mrna"; gene_id "gene-V6Z94_008143"; gene_name "rpc25";
+CM079247.1	Genbank	CDS	1037578	1037641	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008143-T1_mrna"; gene_id "gene-V6Z94_008143"; gene_name "rpc25";
+CM079247.1	Genbank	CDS	1037696	1037782	.	-	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008143-T1_mrna"; gene_id "gene-V6Z94_008143"; gene_name "rpc25";
+CM079247.1	Genbank	CDS	1037838	1037934	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008143-T1_mrna"; gene_id "gene-V6Z94_008143"; gene_name "rpc25";
+CM079247.1	Genbank	CDS	1037998	1038096	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008143-T1_mrna"; gene_id "gene-V6Z94_008143"; gene_name "rpc25";
+CM079247.1	Genbank	CDS	1038171	1038182	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008143-T1_mrna"; gene_id "gene-V6Z94_008143"; gene_name "rpc25";
+CM079247.1	Genbank	transcript	1108402	1110549	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008174-T1_mrna"; gene_id "gene-V6Z94_008174"
+CM079247.1	Genbank	exon	1108402	1108577	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008174-T1_mrna"; gene_id "gene-V6Z94_008174";
+CM079247.1	Genbank	exon	1108723	1108756	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008174-T1_mrna"; gene_id "gene-V6Z94_008174";
+CM079247.1	Genbank	exon	1108834	1110549	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008174-T1_mrna"; gene_id "gene-V6Z94_008174";
+CM079247.1	Genbank	CDS	1108536	1108577	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008174-T1_mrna"; gene_id "gene-V6Z94_008174";
+CM079247.1	Genbank	CDS	1108723	1108756	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008174-T1_mrna"; gene_id "gene-V6Z94_008174";
+CM079247.1	Genbank	CDS	1108834	1110371	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008174-T1_mrna"; gene_id "gene-V6Z94_008174";
+CM079247.1	Genbank	transcript	1120841	1122662	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008178-T1_mrna"; gene_id "gene-V6Z94_008178"
+CM079247.1	Genbank	exon	1120841	1122662	.	-	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008178-T1_mrna"; gene_id "gene-V6Z94_008178";
+CM079247.1	Genbank	CDS	1121451	1122662	.	-	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008178-T1_mrna"; gene_id "gene-V6Z94_008178";
+CM079247.1	Genbank	transcript	1165430	1167224	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008196-T1_mrna"; gene_id "gene-V6Z94_008196"; gene_name "RPP1"
+CM079247.1	Genbank	exon	1165430	1165558	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008196-T1_mrna"; gene_id "gene-V6Z94_008196"; gene_name "RPP1";
+CM079247.1	Genbank	exon	1165644	1167224	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008196-T1_mrna"; gene_id "gene-V6Z94_008196"; gene_name "RPP1";
+CM079247.1	Genbank	CDS	1165483	1165558	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008196-T1_mrna"; gene_id "gene-V6Z94_008196"; gene_name "RPP1";
+CM079247.1	Genbank	CDS	1165644	1166524	.	+	2	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008196-T1_mrna"; gene_id "gene-V6Z94_008196"; gene_name "RPP1";
+CM079247.1	Genbank	transcript	1346969	1348789	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008264-T1_mrna"; gene_id "gene-V6Z94_008264"
+CM079247.1	Genbank	exon	1346969	1348238	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008264-T1_mrna"; gene_id "gene-V6Z94_008264";
+CM079247.1	Genbank	exon	1348288	1348789	.	+	.	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008264-T1_mrna"; gene_id "gene-V6Z94_008264";
+CM079247.1	Genbank	CDS	1347009	1348238	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008264-T1_mrna"; gene_id "gene-V6Z94_008264";
+CM079247.1	Genbank	CDS	1348288	1348317	.	+	0	transcript_id "rna-gnl|WGS:JBBFMZ|V6Z94_008264-T1_mrna"; gene_id "gene-V6Z94_008264";

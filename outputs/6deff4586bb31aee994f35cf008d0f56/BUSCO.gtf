@@ -1,0 +1,959 @@
+NW_027395952.1	RefSeq	transcript	463842	464905	.	-	.	transcript_id "rna-XM_073721973.1"; gene_id "gene-BDW74DRAFT_1196"
+NW_027395952.1	RefSeq	exon	463842	464606	.	-	.	transcript_id "rna-XM_073721973.1"; gene_id "gene-BDW74DRAFT_1196";
+NW_027395952.1	RefSeq	exon	464668	464905	.	-	.	transcript_id "rna-XM_073721973.1"; gene_id "gene-BDW74DRAFT_1196";
+NW_027395952.1	RefSeq	CDS	463963	464606	.	-	2	transcript_id "rna-XM_073721973.1"; gene_id "gene-BDW74DRAFT_1196";
+NW_027395952.1	RefSeq	CDS	464668	464734	.	-	0	transcript_id "rna-XM_073721973.1"; gene_id "gene-BDW74DRAFT_1196";
+NW_027395952.1	RefSeq	transcript	521747	523332	.	-	.	transcript_id "rna-XM_073722380.1"; gene_id "gene-BDW74DRAFT_1354"
+NW_027395952.1	RefSeq	exon	521747	522307	.	-	.	transcript_id "rna-XM_073722380.1"; gene_id "gene-BDW74DRAFT_1354";
+NW_027395952.1	RefSeq	exon	522455	522996	.	-	.	transcript_id "rna-XM_073722380.1"; gene_id "gene-BDW74DRAFT_1354";
+NW_027395952.1	RefSeq	exon	523100	523332	.	-	.	transcript_id "rna-XM_073722380.1"; gene_id "gene-BDW74DRAFT_1354";
+NW_027395952.1	RefSeq	CDS	522214	522307	.	-	1	transcript_id "rna-XM_073722380.1"; gene_id "gene-BDW74DRAFT_1354";
+NW_027395952.1	RefSeq	CDS	522455	522996	.	-	0	transcript_id "rna-XM_073722380.1"; gene_id "gene-BDW74DRAFT_1354";
+NW_027395952.1	RefSeq	CDS	523100	523126	.	-	0	transcript_id "rna-XM_073722380.1"; gene_id "gene-BDW74DRAFT_1354";
+NW_027395952.1	RefSeq	transcript	565170	567682	.	-	.	transcript_id "rna-XM_073725665.1"; gene_id "gene-BDW74DRAFT_1607"
+NW_027395952.1	RefSeq	exon	565170	566685	.	-	.	transcript_id "rna-XM_073725665.1"; gene_id "gene-BDW74DRAFT_1607";
+NW_027395952.1	RefSeq	exon	566742	567682	.	-	.	transcript_id "rna-XM_073725665.1"; gene_id "gene-BDW74DRAFT_1607";
+NW_027395952.1	RefSeq	CDS	565645	566685	.	-	0	transcript_id "rna-XM_073725665.1"; gene_id "gene-BDW74DRAFT_1607";
+NW_027395952.1	RefSeq	CDS	566742	567482	.	-	0	transcript_id "rna-XM_073725665.1"; gene_id "gene-BDW74DRAFT_1607";
+NW_027395952.1	RefSeq	transcript	727420	729776	.	-	.	transcript_id "rna-XM_073730827.1"; gene_id "gene-BDW74DRAFT_184492"; gene_name "cog6"
+NW_027395952.1	RefSeq	exon	727420	729400	.	-	.	transcript_id "rna-XM_073730827.1"; gene_id "gene-BDW74DRAFT_184492"; gene_name "cog6";
+NW_027395952.1	RefSeq	exon	729471	729776	.	-	.	transcript_id "rna-XM_073730827.1"; gene_id "gene-BDW74DRAFT_184492"; gene_name "cog6";
+NW_027395952.1	RefSeq	CDS	727517	729400	.	-	0	transcript_id "rna-XM_073730827.1"; gene_id "gene-BDW74DRAFT_184492"; gene_name "cog6";
+NW_027395952.1	RefSeq	CDS	729471	729776	.	-	0	transcript_id "rna-XM_073730827.1"; gene_id "gene-BDW74DRAFT_184492"; gene_name "cog6";
+NW_027395952.1	RefSeq	transcript	794167	795995	.	-	.	transcript_id "rna-XM_073722626.1"; gene_id "gene-BDW74DRAFT_141880"
+NW_027395952.1	RefSeq	exon	794167	795204	.	-	.	transcript_id "rna-XM_073722626.1"; gene_id "gene-BDW74DRAFT_141880";
+NW_027395952.1	RefSeq	exon	795270	795995	.	-	.	transcript_id "rna-XM_073722626.1"; gene_id "gene-BDW74DRAFT_141880";
+NW_027395952.1	RefSeq	CDS	794336	795204	.	-	2	transcript_id "rna-XM_073722626.1"; gene_id "gene-BDW74DRAFT_141880";
+NW_027395952.1	RefSeq	CDS	795270	795909	.	-	0	transcript_id "rna-XM_073722626.1"; gene_id "gene-BDW74DRAFT_141880";
+NW_027395952.1	RefSeq	transcript	1173589	1175961	.	+	.	transcript_id "rna-XM_073722670.1"; gene_id "gene-BDW74DRAFT_142101"; gene_name "nop7"
+NW_027395952.1	RefSeq	exon	1173589	1173642	.	+	.	transcript_id "rna-XM_073722670.1"; gene_id "gene-BDW74DRAFT_142101"; gene_name "nop7";
+NW_027395952.1	RefSeq	exon	1173699	1173797	.	+	.	transcript_id "rna-XM_073722670.1"; gene_id "gene-BDW74DRAFT_142101"; gene_name "nop7";
+NW_027395952.1	RefSeq	exon	1173883	1175961	.	+	.	transcript_id "rna-XM_073722670.1"; gene_id "gene-BDW74DRAFT_142101"; gene_name "nop7";
+NW_027395952.1	RefSeq	CDS	1173621	1173642	.	+	0	transcript_id "rna-XM_073722670.1"; gene_id "gene-BDW74DRAFT_142101"; gene_name "nop7";
+NW_027395952.1	RefSeq	CDS	1173699	1173797	.	+	2	transcript_id "rna-XM_073722670.1"; gene_id "gene-BDW74DRAFT_142101"; gene_name "nop7";
+NW_027395952.1	RefSeq	CDS	1173883	1175786	.	+	2	transcript_id "rna-XM_073722670.1"; gene_id "gene-BDW74DRAFT_142101"; gene_name "nop7";
+NW_027395952.1	RefSeq	transcript	1246377	1248292	.	+	.	transcript_id "rna-XM_073722686.1"; gene_id "gene-BDW74DRAFT_142154"
+NW_027395952.1	RefSeq	exon	1246377	1246493	.	+	.	transcript_id "rna-XM_073722686.1"; gene_id "gene-BDW74DRAFT_142154";
+NW_027395952.1	RefSeq	exon	1246551	1246734	.	+	.	transcript_id "rna-XM_073722686.1"; gene_id "gene-BDW74DRAFT_142154";
+NW_027395952.1	RefSeq	exon	1246803	1246934	.	+	.	transcript_id "rna-XM_073722686.1"; gene_id "gene-BDW74DRAFT_142154";
+NW_027395952.1	RefSeq	exon	1246981	1247938	.	+	.	transcript_id "rna-XM_073722686.1"; gene_id "gene-BDW74DRAFT_142154";
+NW_027395952.1	RefSeq	exon	1247996	1248292	.	+	.	transcript_id "rna-XM_073722686.1"; gene_id "gene-BDW74DRAFT_142154";
+NW_027395952.1	RefSeq	CDS	1246453	1246493	.	+	0	transcript_id "rna-XM_073722686.1"; gene_id "gene-BDW74DRAFT_142154";
+NW_027395952.1	RefSeq	CDS	1246551	1246734	.	+	1	transcript_id "rna-XM_073722686.1"; gene_id "gene-BDW74DRAFT_142154";
+NW_027395952.1	RefSeq	CDS	1246803	1246934	.	+	0	transcript_id "rna-XM_073722686.1"; gene_id "gene-BDW74DRAFT_142154";
+NW_027395952.1	RefSeq	CDS	1246981	1247938	.	+	0	transcript_id "rna-XM_073722686.1"; gene_id "gene-BDW74DRAFT_142154";
+NW_027395952.1	RefSeq	CDS	1247996	1248291	.	+	2	transcript_id "rna-XM_073722686.1"; gene_id "gene-BDW74DRAFT_142154";
+NW_027395952.1	RefSeq	transcript	1572327	1573197	.	-	.	transcript_id "rna-XM_073727557.1"; gene_id "gene-BDW74DRAFT_172537"; gene_name "sld5"
+NW_027395952.1	RefSeq	exon	1572327	1572965	.	-	.	transcript_id "rna-XM_073727557.1"; gene_id "gene-BDW74DRAFT_172537"; gene_name "sld5";
+NW_027395952.1	RefSeq	exon	1573021	1573197	.	-	.	transcript_id "rna-XM_073727557.1"; gene_id "gene-BDW74DRAFT_172537"; gene_name "sld5";
+NW_027395952.1	RefSeq	CDS	1572327	1572965	.	-	0	transcript_id "rna-XM_073727557.1"; gene_id "gene-BDW74DRAFT_172537"; gene_name "sld5";
+NW_027395952.1	RefSeq	CDS	1573021	1573197	.	-	0	transcript_id "rna-XM_073727557.1"; gene_id "gene-BDW74DRAFT_172537"; gene_name "sld5";
+NW_027395952.1	RefSeq	transcript	2005266	2007869	.	-	.	transcript_id "rna-XM_073722750.1"; gene_id "gene-BDW74DRAFT_142595"
+NW_027395952.1	RefSeq	exon	2005266	2005619	.	-	.	transcript_id "rna-XM_073722750.1"; gene_id "gene-BDW74DRAFT_142595";
+NW_027395952.1	RefSeq	exon	2005682	2006490	.	-	.	transcript_id "rna-XM_073722750.1"; gene_id "gene-BDW74DRAFT_142595";
+NW_027395952.1	RefSeq	exon	2006553	2006794	.	-	.	transcript_id "rna-XM_073722750.1"; gene_id "gene-BDW74DRAFT_142595";
+NW_027395952.1	RefSeq	exon	2006846	2007112	.	-	.	transcript_id "rna-XM_073722750.1"; gene_id "gene-BDW74DRAFT_142595";
+NW_027395952.1	RefSeq	exon	2007169	2007298	.	-	.	transcript_id "rna-XM_073722750.1"; gene_id "gene-BDW74DRAFT_142595";
+NW_027395952.1	RefSeq	exon	2007354	2007430	.	-	.	transcript_id "rna-XM_073722750.1"; gene_id "gene-BDW74DRAFT_142595";
+NW_027395952.1	RefSeq	exon	2007485	2007504	.	-	.	transcript_id "rna-XM_073722750.1"; gene_id "gene-BDW74DRAFT_142595";
+NW_027395952.1	RefSeq	exon	2007568	2007608	.	-	.	transcript_id "rna-XM_073722750.1"; gene_id "gene-BDW74DRAFT_142595";
+NW_027395952.1	RefSeq	exon	2007663	2007869	.	-	.	transcript_id "rna-XM_073722750.1"; gene_id "gene-BDW74DRAFT_142595";
+NW_027395952.1	RefSeq	CDS	2005456	2005619	.	-	2	transcript_id "rna-XM_073722750.1"; gene_id "gene-BDW74DRAFT_142595";
+NW_027395952.1	RefSeq	CDS	2005682	2006490	.	-	1	transcript_id "rna-XM_073722750.1"; gene_id "gene-BDW74DRAFT_142595";
+NW_027395952.1	RefSeq	CDS	2006553	2006794	.	-	0	transcript_id "rna-XM_073722750.1"; gene_id "gene-BDW74DRAFT_142595";
+NW_027395952.1	RefSeq	CDS	2006846	2007112	.	-	0	transcript_id "rna-XM_073722750.1"; gene_id "gene-BDW74DRAFT_142595";
+NW_027395952.1	RefSeq	CDS	2007169	2007298	.	-	1	transcript_id "rna-XM_073722750.1"; gene_id "gene-BDW74DRAFT_142595";
+NW_027395952.1	RefSeq	CDS	2007354	2007430	.	-	0	transcript_id "rna-XM_073722750.1"; gene_id "gene-BDW74DRAFT_142595";
+NW_027395952.1	RefSeq	CDS	2007485	2007504	.	-	2	transcript_id "rna-XM_073722750.1"; gene_id "gene-BDW74DRAFT_142595";
+NW_027395952.1	RefSeq	CDS	2007568	2007608	.	-	1	transcript_id "rna-XM_073722750.1"; gene_id "gene-BDW74DRAFT_142595";
+NW_027395952.1	RefSeq	CDS	2007663	2007715	.	-	0	transcript_id "rna-XM_073722750.1"; gene_id "gene-BDW74DRAFT_142595";
+NW_027395952.1	RefSeq	transcript	2120162	2122401	.	+	.	transcript_id "rna-XM_073722761.1"; gene_id "gene-BDW74DRAFT_142700"
+NW_027395952.1	RefSeq	exon	2120162	2120390	.	+	.	transcript_id "rna-XM_073722761.1"; gene_id "gene-BDW74DRAFT_142700";
+NW_027395952.1	RefSeq	exon	2120453	2121592	.	+	.	transcript_id "rna-XM_073722761.1"; gene_id "gene-BDW74DRAFT_142700";
+NW_027395952.1	RefSeq	exon	2121651	2122401	.	+	.	transcript_id "rna-XM_073722761.1"; gene_id "gene-BDW74DRAFT_142700";
+NW_027395952.1	RefSeq	CDS	2120200	2120390	.	+	0	transcript_id "rna-XM_073722761.1"; gene_id "gene-BDW74DRAFT_142700";
+NW_027395952.1	RefSeq	CDS	2120453	2121592	.	+	1	transcript_id "rna-XM_073722761.1"; gene_id "gene-BDW74DRAFT_142700";
+NW_027395952.1	RefSeq	CDS	2121651	2122170	.	+	1	transcript_id "rna-XM_073722761.1"; gene_id "gene-BDW74DRAFT_142700";
+NW_027395952.1	RefSeq	transcript	2978645	2981162	.	-	.	transcript_id "rna-XM_073722833.1"; gene_id "gene-BDW74DRAFT_143205"; gene_name "agm1"
+NW_027395952.1	RefSeq	exon	2978645	2979704	.	-	.	transcript_id "rna-XM_073722833.1"; gene_id "gene-BDW74DRAFT_143205"; gene_name "agm1";
+NW_027395952.1	RefSeq	exon	2979759	2980265	.	-	.	transcript_id "rna-XM_073722833.1"; gene_id "gene-BDW74DRAFT_143205"; gene_name "agm1";
+NW_027395952.1	RefSeq	exon	2980319	2980333	.	-	.	transcript_id "rna-XM_073722833.1"; gene_id "gene-BDW74DRAFT_143205"; gene_name "agm1";
+NW_027395952.1	RefSeq	exon	2980391	2980535	.	-	.	transcript_id "rna-XM_073722833.1"; gene_id "gene-BDW74DRAFT_143205"; gene_name "agm1";
+NW_027395952.1	RefSeq	exon	2980645	2980658	.	-	.	transcript_id "rna-XM_073722833.1"; gene_id "gene-BDW74DRAFT_143205"; gene_name "agm1";
+NW_027395952.1	RefSeq	exon	2980730	2981162	.	-	.	transcript_id "rna-XM_073722833.1"; gene_id "gene-BDW74DRAFT_143205"; gene_name "agm1";
+NW_027395952.1	RefSeq	CDS	2978832	2979704	.	-	0	transcript_id "rna-XM_073722833.1"; gene_id "gene-BDW74DRAFT_143205"; gene_name "agm1";
+NW_027395952.1	RefSeq	CDS	2979759	2980265	.	-	0	transcript_id "rna-XM_073722833.1"; gene_id "gene-BDW74DRAFT_143205"; gene_name "agm1";
+NW_027395952.1	RefSeq	CDS	2980319	2980333	.	-	0	transcript_id "rna-XM_073722833.1"; gene_id "gene-BDW74DRAFT_143205"; gene_name "agm1";
+NW_027395952.1	RefSeq	CDS	2980391	2980535	.	-	1	transcript_id "rna-XM_073722833.1"; gene_id "gene-BDW74DRAFT_143205"; gene_name "agm1";
+NW_027395952.1	RefSeq	CDS	2980645	2980658	.	-	0	transcript_id "rna-XM_073722833.1"; gene_id "gene-BDW74DRAFT_143205"; gene_name "agm1";
+NW_027395952.1	RefSeq	CDS	2980730	2980822	.	-	0	transcript_id "rna-XM_073722833.1"; gene_id "gene-BDW74DRAFT_143205"; gene_name "agm1";
+NW_027395952.1	RefSeq	transcript	3051518	3053115	.	-	.	transcript_id "rna-XM_073722848.1"; gene_id "gene-BDW74DRAFT_143263"
+NW_027395952.1	RefSeq	exon	3051518	3052776	.	-	.	transcript_id "rna-XM_073722848.1"; gene_id "gene-BDW74DRAFT_143263";
+NW_027395952.1	RefSeq	exon	3052831	3053115	.	-	.	transcript_id "rna-XM_073722848.1"; gene_id "gene-BDW74DRAFT_143263";
+NW_027395952.1	RefSeq	CDS	3051647	3052776	.	-	2	transcript_id "rna-XM_073722848.1"; gene_id "gene-BDW74DRAFT_143263";
+NW_027395952.1	RefSeq	CDS	3052831	3053077	.	-	0	transcript_id "rna-XM_073722848.1"; gene_id "gene-BDW74DRAFT_143263";
+NW_027395952.1	RefSeq	transcript	3151383	3153178	.	+	.	transcript_id "rna-XM_073722860.1"; gene_id "gene-BDW74DRAFT_143353"
+NW_027395952.1	RefSeq	exon	3151383	3151870	.	+	.	transcript_id "rna-XM_073722860.1"; gene_id "gene-BDW74DRAFT_143353";
+NW_027395952.1	RefSeq	exon	3151922	3152128	.	+	.	transcript_id "rna-XM_073722860.1"; gene_id "gene-BDW74DRAFT_143353";
+NW_027395952.1	RefSeq	exon	3152180	3152332	.	+	.	transcript_id "rna-XM_073722860.1"; gene_id "gene-BDW74DRAFT_143353";
+NW_027395952.1	RefSeq	exon	3152405	3153178	.	+	.	transcript_id "rna-XM_073722860.1"; gene_id "gene-BDW74DRAFT_143353";
+NW_027395952.1	RefSeq	CDS	3151493	3151870	.	+	0	transcript_id "rna-XM_073722860.1"; gene_id "gene-BDW74DRAFT_143353";
+NW_027395952.1	RefSeq	CDS	3151922	3152128	.	+	0	transcript_id "rna-XM_073722860.1"; gene_id "gene-BDW74DRAFT_143353";
+NW_027395952.1	RefSeq	CDS	3152180	3152332	.	+	0	transcript_id "rna-XM_073722860.1"; gene_id "gene-BDW74DRAFT_143353";
+NW_027395952.1	RefSeq	CDS	3152405	3152626	.	+	0	transcript_id "rna-XM_073722860.1"; gene_id "gene-BDW74DRAFT_143353";
+NW_027395953.1	RefSeq	transcript	67597	68479	.	+	.	transcript_id "rna-XM_073722867.1"; gene_id "gene-BDW74DRAFT_143397"
+NW_027395953.1	RefSeq	exon	67597	68479	.	+	.	transcript_id "rna-XM_073722867.1"; gene_id "gene-BDW74DRAFT_143397";
+NW_027395953.1	RefSeq	CDS	67675	68322	.	+	0	transcript_id "rna-XM_073722867.1"; gene_id "gene-BDW74DRAFT_143397";
+NW_027395953.1	RefSeq	transcript	84163	85154	.	+	.	transcript_id "rna-XM_073726371.1"; gene_id "gene-BDW74DRAFT_165062"; gene_name "dph5"
+NW_027395953.1	RefSeq	exon	84163	84297	.	+	.	transcript_id "rna-XM_073726371.1"; gene_id "gene-BDW74DRAFT_165062"; gene_name "dph5";
+NW_027395953.1	RefSeq	exon	84375	84499	.	+	.	transcript_id "rna-XM_073726371.1"; gene_id "gene-BDW74DRAFT_165062"; gene_name "dph5";
+NW_027395953.1	RefSeq	exon	84557	85154	.	+	.	transcript_id "rna-XM_073726371.1"; gene_id "gene-BDW74DRAFT_165062"; gene_name "dph5";
+NW_027395953.1	RefSeq	CDS	84163	84297	.	+	0	transcript_id "rna-XM_073726371.1"; gene_id "gene-BDW74DRAFT_165062"; gene_name "dph5";
+NW_027395953.1	RefSeq	CDS	84375	84499	.	+	0	transcript_id "rna-XM_073726371.1"; gene_id "gene-BDW74DRAFT_165062"; gene_name "dph5";
+NW_027395953.1	RefSeq	CDS	84557	85154	.	+	1	transcript_id "rna-XM_073726371.1"; gene_id "gene-BDW74DRAFT_165062"; gene_name "dph5";
+NW_027395953.1	RefSeq	transcript	118731	120765	.	+	.	transcript_id "rna-XM_073732744.1"; gene_id "gene-BDW74DRAFT_41994"
+NW_027395953.1	RefSeq	exon	118731	120765	.	+	.	transcript_id "rna-XM_073732744.1"; gene_id "gene-BDW74DRAFT_41994";
+NW_027395953.1	RefSeq	CDS	118871	120643	.	+	0	transcript_id "rna-XM_073732744.1"; gene_id "gene-BDW74DRAFT_41994";
+NW_027395953.1	RefSeq	transcript	421689	422933	.	+	.	transcript_id "rna-XM_073732774.1"; gene_id "gene-BDW74DRAFT_43246"
+NW_027395953.1	RefSeq	exon	421689	421937	.	+	.	transcript_id "rna-XM_073732774.1"; gene_id "gene-BDW74DRAFT_43246";
+NW_027395953.1	RefSeq	exon	422029	422933	.	+	.	transcript_id "rna-XM_073732774.1"; gene_id "gene-BDW74DRAFT_43246";
+NW_027395953.1	RefSeq	CDS	421842	421937	.	+	0	transcript_id "rna-XM_073732774.1"; gene_id "gene-BDW74DRAFT_43246";
+NW_027395953.1	RefSeq	CDS	422029	422784	.	+	0	transcript_id "rna-XM_073732774.1"; gene_id "gene-BDW74DRAFT_43246";
+NW_027395953.1	RefSeq	transcript	605529	608168	.	+	.	transcript_id "rna-XM_073722913.1"; gene_id "gene-BDW74DRAFT_143774"
+NW_027395953.1	RefSeq	exon	605529	605640	.	+	.	transcript_id "rna-XM_073722913.1"; gene_id "gene-BDW74DRAFT_143774";
+NW_027395953.1	RefSeq	exon	605726	605761	.	+	.	transcript_id "rna-XM_073722913.1"; gene_id "gene-BDW74DRAFT_143774";
+NW_027395953.1	RefSeq	exon	605824	606111	.	+	.	transcript_id "rna-XM_073722913.1"; gene_id "gene-BDW74DRAFT_143774";
+NW_027395953.1	RefSeq	exon	606184	608168	.	+	.	transcript_id "rna-XM_073722913.1"; gene_id "gene-BDW74DRAFT_143774";
+NW_027395953.1	RefSeq	CDS	605594	605640	.	+	0	transcript_id "rna-XM_073722913.1"; gene_id "gene-BDW74DRAFT_143774";
+NW_027395953.1	RefSeq	CDS	605726	605761	.	+	1	transcript_id "rna-XM_073722913.1"; gene_id "gene-BDW74DRAFT_143774";
+NW_027395953.1	RefSeq	CDS	605824	606111	.	+	1	transcript_id "rna-XM_073722913.1"; gene_id "gene-BDW74DRAFT_143774";
+NW_027395953.1	RefSeq	CDS	606184	608065	.	+	1	transcript_id "rna-XM_073722913.1"; gene_id "gene-BDW74DRAFT_143774";
+NW_027395953.1	RefSeq	transcript	816293	818073	.	+	.	transcript_id "rna-XM_073722946.1"; gene_id "gene-BDW74DRAFT_143936"
+NW_027395953.1	RefSeq	exon	816293	816882	.	+	.	transcript_id "rna-XM_073722946.1"; gene_id "gene-BDW74DRAFT_143936";
+NW_027395953.1	RefSeq	exon	816945	818073	.	+	.	transcript_id "rna-XM_073722946.1"; gene_id "gene-BDW74DRAFT_143936";
+NW_027395953.1	RefSeq	CDS	816354	816882	.	+	0	transcript_id "rna-XM_073722946.1"; gene_id "gene-BDW74DRAFT_143936";
+NW_027395953.1	RefSeq	CDS	816945	817843	.	+	2	transcript_id "rna-XM_073722946.1"; gene_id "gene-BDW74DRAFT_143936";
+NW_027395953.1	RefSeq	transcript	1253478	1255199	.	-	.	transcript_id "rna-XM_073732896.1"; gene_id "gene-BDW74DRAFT_47210"
+NW_027395953.1	RefSeq	exon	1253478	1254440	.	-	.	transcript_id "rna-XM_073732896.1"; gene_id "gene-BDW74DRAFT_47210";
+NW_027395953.1	RefSeq	exon	1254499	1255199	.	-	.	transcript_id "rna-XM_073732896.1"; gene_id "gene-BDW74DRAFT_47210";
+NW_027395953.1	RefSeq	CDS	1253817	1254440	.	-	0	transcript_id "rna-XM_073732896.1"; gene_id "gene-BDW74DRAFT_47210";
+NW_027395953.1	RefSeq	CDS	1254499	1255038	.	-	0	transcript_id "rna-XM_073732896.1"; gene_id "gene-BDW74DRAFT_47210";
+NW_027395953.1	RefSeq	transcript	1413511	1415083	.	+	.	transcript_id "rna-XM_073732916.1"; gene_id "gene-BDW74DRAFT_48166"; gene_name "dph1"
+NW_027395953.1	RefSeq	exon	1413511	1413810	.	+	.	transcript_id "rna-XM_073732916.1"; gene_id "gene-BDW74DRAFT_48166"; gene_name "dph1";
+NW_027395953.1	RefSeq	exon	1413857	1415083	.	+	.	transcript_id "rna-XM_073732916.1"; gene_id "gene-BDW74DRAFT_48166"; gene_name "dph1";
+NW_027395953.1	RefSeq	CDS	1413669	1413810	.	+	0	transcript_id "rna-XM_073732916.1"; gene_id "gene-BDW74DRAFT_48166"; gene_name "dph1";
+NW_027395953.1	RefSeq	CDS	1413857	1415010	.	+	2	transcript_id "rna-XM_073732916.1"; gene_id "gene-BDW74DRAFT_48166"; gene_name "dph1";
+NW_027395953.1	RefSeq	transcript	1452683	1453938	.	+	.	transcript_id "rna-XM_073723030.1"; gene_id "gene-BDW74DRAFT_144451"
+NW_027395953.1	RefSeq	exon	1452683	1452900	.	+	.	transcript_id "rna-XM_073723030.1"; gene_id "gene-BDW74DRAFT_144451";
+NW_027395953.1	RefSeq	exon	1452947	1453016	.	+	.	transcript_id "rna-XM_073723030.1"; gene_id "gene-BDW74DRAFT_144451";
+NW_027395953.1	RefSeq	exon	1453101	1453545	.	+	.	transcript_id "rna-XM_073723030.1"; gene_id "gene-BDW74DRAFT_144451";
+NW_027395953.1	RefSeq	exon	1453612	1453938	.	+	.	transcript_id "rna-XM_073723030.1"; gene_id "gene-BDW74DRAFT_144451";
+NW_027395953.1	RefSeq	CDS	1452707	1452900	.	+	0	transcript_id "rna-XM_073723030.1"; gene_id "gene-BDW74DRAFT_144451";
+NW_027395953.1	RefSeq	CDS	1452947	1453016	.	+	1	transcript_id "rna-XM_073723030.1"; gene_id "gene-BDW74DRAFT_144451";
+NW_027395953.1	RefSeq	CDS	1453101	1453545	.	+	0	transcript_id "rna-XM_073723030.1"; gene_id "gene-BDW74DRAFT_144451";
+NW_027395953.1	RefSeq	CDS	1453612	1453661	.	+	2	transcript_id "rna-XM_073723030.1"; gene_id "gene-BDW74DRAFT_144451";
+NW_027395953.1	RefSeq	transcript	1526983	1528860	.	+	.	transcript_id "rna-XM_073723045.1"; gene_id "gene-BDW74DRAFT_144506"; gene_name "hat1"
+NW_027395953.1	RefSeq	exon	1526983	1527057	.	+	.	transcript_id "rna-XM_073723045.1"; gene_id "gene-BDW74DRAFT_144506"; gene_name "hat1";
+NW_027395953.1	RefSeq	exon	1527123	1527398	.	+	.	transcript_id "rna-XM_073723045.1"; gene_id "gene-BDW74DRAFT_144506"; gene_name "hat1";
+NW_027395953.1	RefSeq	exon	1527468	1527729	.	+	.	transcript_id "rna-XM_073723045.1"; gene_id "gene-BDW74DRAFT_144506"; gene_name "hat1";
+NW_027395953.1	RefSeq	exon	1527783	1528860	.	+	.	transcript_id "rna-XM_073723045.1"; gene_id "gene-BDW74DRAFT_144506"; gene_name "hat1";
+NW_027395953.1	RefSeq	CDS	1527039	1527057	.	+	0	transcript_id "rna-XM_073723045.1"; gene_id "gene-BDW74DRAFT_144506"; gene_name "hat1";
+NW_027395953.1	RefSeq	CDS	1527123	1527398	.	+	2	transcript_id "rna-XM_073723045.1"; gene_id "gene-BDW74DRAFT_144506"; gene_name "hat1";
+NW_027395953.1	RefSeq	CDS	1527468	1527729	.	+	2	transcript_id "rna-XM_073723045.1"; gene_id "gene-BDW74DRAFT_144506"; gene_name "hat1";
+NW_027395953.1	RefSeq	CDS	1527783	1528707	.	+	1	transcript_id "rna-XM_073723045.1"; gene_id "gene-BDW74DRAFT_144506"; gene_name "hat1";
+NW_027395953.1	RefSeq	transcript	1660825	1661755	.	-	.	transcript_id "rna-XM_073723064.1"; gene_id "gene-BDW74DRAFT_144606"
+NW_027395953.1	RefSeq	exon	1660825	1661175	.	-	.	transcript_id "rna-XM_073723064.1"; gene_id "gene-BDW74DRAFT_144606";
+NW_027395953.1	RefSeq	exon	1661231	1661591	.	-	.	transcript_id "rna-XM_073723064.1"; gene_id "gene-BDW74DRAFT_144606";
+NW_027395953.1	RefSeq	exon	1661665	1661755	.	-	.	transcript_id "rna-XM_073723064.1"; gene_id "gene-BDW74DRAFT_144606";
+NW_027395953.1	RefSeq	CDS	1661002	1661175	.	-	0	transcript_id "rna-XM_073723064.1"; gene_id "gene-BDW74DRAFT_144606";
+NW_027395953.1	RefSeq	CDS	1661231	1661591	.	-	1	transcript_id "rna-XM_073723064.1"; gene_id "gene-BDW74DRAFT_144606";
+NW_027395953.1	RefSeq	CDS	1661665	1661696	.	-	0	transcript_id "rna-XM_073723064.1"; gene_id "gene-BDW74DRAFT_144606";
+NW_027395953.1	RefSeq	transcript	1857876	1859092	.	-	.	transcript_id "rna-XM_073723097.1"; gene_id "gene-BDW74DRAFT_144756"
+NW_027395953.1	RefSeq	exon	1857876	1858200	.	-	.	transcript_id "rna-XM_073723097.1"; gene_id "gene-BDW74DRAFT_144756";
+NW_027395953.1	RefSeq	exon	1858252	1858333	.	-	.	transcript_id "rna-XM_073723097.1"; gene_id "gene-BDW74DRAFT_144756";
+NW_027395953.1	RefSeq	exon	1858380	1858661	.	-	.	transcript_id "rna-XM_073723097.1"; gene_id "gene-BDW74DRAFT_144756";
+NW_027395953.1	RefSeq	exon	1858710	1858786	.	-	.	transcript_id "rna-XM_073723097.1"; gene_id "gene-BDW74DRAFT_144756";
+NW_027395953.1	RefSeq	exon	1858835	1858857	.	-	.	transcript_id "rna-XM_073723097.1"; gene_id "gene-BDW74DRAFT_144756";
+NW_027395953.1	RefSeq	exon	1858907	1859092	.	-	.	transcript_id "rna-XM_073723097.1"; gene_id "gene-BDW74DRAFT_144756";
+NW_027395953.1	RefSeq	CDS	1857976	1858200	.	-	0	transcript_id "rna-XM_073723097.1"; gene_id "gene-BDW74DRAFT_144756";
+NW_027395953.1	RefSeq	CDS	1858252	1858333	.	-	1	transcript_id "rna-XM_073723097.1"; gene_id "gene-BDW74DRAFT_144756";
+NW_027395953.1	RefSeq	CDS	1858380	1858661	.	-	1	transcript_id "rna-XM_073723097.1"; gene_id "gene-BDW74DRAFT_144756";
+NW_027395953.1	RefSeq	CDS	1858710	1858786	.	-	0	transcript_id "rna-XM_073723097.1"; gene_id "gene-BDW74DRAFT_144756";
+NW_027395953.1	RefSeq	CDS	1858835	1858857	.	-	2	transcript_id "rna-XM_073723097.1"; gene_id "gene-BDW74DRAFT_144756";
+NW_027395953.1	RefSeq	CDS	1858907	1858916	.	-	0	transcript_id "rna-XM_073723097.1"; gene_id "gene-BDW74DRAFT_144756";
+NW_027395953.1	RefSeq	transcript	1859093	1860220	.	+	.	transcript_id "rna-XM_073723098.1"; gene_id "gene-BDW74DRAFT_144757"
+NW_027395953.1	RefSeq	exon	1859093	1859295	.	+	.	transcript_id "rna-XM_073723098.1"; gene_id "gene-BDW74DRAFT_144757";
+NW_027395953.1	RefSeq	exon	1859341	1859460	.	+	.	transcript_id "rna-XM_073723098.1"; gene_id "gene-BDW74DRAFT_144757";
+NW_027395953.1	RefSeq	exon	1859511	1860220	.	+	.	transcript_id "rna-XM_073723098.1"; gene_id "gene-BDW74DRAFT_144757";
+NW_027395953.1	RefSeq	CDS	1859132	1859295	.	+	0	transcript_id "rna-XM_073723098.1"; gene_id "gene-BDW74DRAFT_144757";
+NW_027395953.1	RefSeq	CDS	1859341	1859460	.	+	1	transcript_id "rna-XM_073723098.1"; gene_id "gene-BDW74DRAFT_144757";
+NW_027395953.1	RefSeq	CDS	1859511	1860114	.	+	1	transcript_id "rna-XM_073723098.1"; gene_id "gene-BDW74DRAFT_144757";
+NW_027395953.1	RefSeq	transcript	1982833	1985696	.	-	.	transcript_id "rna-XM_073723104.1"; gene_id "gene-BDW74DRAFT_144836"
+NW_027395953.1	RefSeq	exon	1982833	1983841	.	-	.	transcript_id "rna-XM_073723104.1"; gene_id "gene-BDW74DRAFT_144836";
+NW_027395953.1	RefSeq	exon	1983888	1983986	.	-	.	transcript_id "rna-XM_073723104.1"; gene_id "gene-BDW74DRAFT_144836";
+NW_027395953.1	RefSeq	exon	1984052	1984309	.	-	.	transcript_id "rna-XM_073723104.1"; gene_id "gene-BDW74DRAFT_144836";
+NW_027395953.1	RefSeq	exon	1984356	1984811	.	-	.	transcript_id "rna-XM_073723104.1"; gene_id "gene-BDW74DRAFT_144836";
+NW_027395953.1	RefSeq	exon	1984875	1985111	.	-	.	transcript_id "rna-XM_073723104.1"; gene_id "gene-BDW74DRAFT_144836";
+NW_027395953.1	RefSeq	exon	1985175	1985312	.	-	.	transcript_id "rna-XM_073723104.1"; gene_id "gene-BDW74DRAFT_144836";
+NW_027395953.1	RefSeq	exon	1985395	1985462	.	-	.	transcript_id "rna-XM_073723104.1"; gene_id "gene-BDW74DRAFT_144836";
+NW_027395953.1	RefSeq	exon	1985540	1985696	.	-	.	transcript_id "rna-XM_073723104.1"; gene_id "gene-BDW74DRAFT_144836";
+NW_027395953.1	RefSeq	CDS	1982942	1983841	.	-	0	transcript_id "rna-XM_073723104.1"; gene_id "gene-BDW74DRAFT_144836";
+NW_027395953.1	RefSeq	CDS	1983888	1983986	.	-	0	transcript_id "rna-XM_073723104.1"; gene_id "gene-BDW74DRAFT_144836";
+NW_027395953.1	RefSeq	CDS	1984052	1984309	.	-	0	transcript_id "rna-XM_073723104.1"; gene_id "gene-BDW74DRAFT_144836";
+NW_027395953.1	RefSeq	CDS	1984356	1984811	.	-	0	transcript_id "rna-XM_073723104.1"; gene_id "gene-BDW74DRAFT_144836";
+NW_027395953.1	RefSeq	CDS	1984875	1985111	.	-	0	transcript_id "rna-XM_073723104.1"; gene_id "gene-BDW74DRAFT_144836";
+NW_027395953.1	RefSeq	CDS	1985175	1985312	.	-	0	transcript_id "rna-XM_073723104.1"; gene_id "gene-BDW74DRAFT_144836";
+NW_027395953.1	RefSeq	CDS	1985395	1985462	.	-	2	transcript_id "rna-XM_073723104.1"; gene_id "gene-BDW74DRAFT_144836";
+NW_027395953.1	RefSeq	CDS	1985540	1985639	.	-	0	transcript_id "rna-XM_073723104.1"; gene_id "gene-BDW74DRAFT_144836";
+NW_027395953.1	RefSeq	transcript	2046220	2053366	.	+	.	transcript_id "rna-XM_073727873.1"; gene_id "gene-BDW74DRAFT_173787"
+NW_027395953.1	RefSeq	exon	2046220	2046547	.	+	.	transcript_id "rna-XM_073727873.1"; gene_id "gene-BDW74DRAFT_173787";
+NW_027395953.1	RefSeq	exon	2046603	2048740	.	+	.	transcript_id "rna-XM_073727873.1"; gene_id "gene-BDW74DRAFT_173787";
+NW_027395953.1	RefSeq	exon	2048799	2049382	.	+	.	transcript_id "rna-XM_073727873.1"; gene_id "gene-BDW74DRAFT_173787";
+NW_027395953.1	RefSeq	exon	2050763	2051222	.	+	.	transcript_id "rna-XM_073727873.1"; gene_id "gene-BDW74DRAFT_173787";
+NW_027395953.1	RefSeq	exon	2051280	2051525	.	+	.	transcript_id "rna-XM_073727873.1"; gene_id "gene-BDW74DRAFT_173787";
+NW_027395953.1	RefSeq	exon	2051579	2052887	.	+	.	transcript_id "rna-XM_073727873.1"; gene_id "gene-BDW74DRAFT_173787";
+NW_027395953.1	RefSeq	exon	2052939	2053366	.	+	.	transcript_id "rna-XM_073727873.1"; gene_id "gene-BDW74DRAFT_173787";
+NW_027395953.1	RefSeq	CDS	2046220	2046547	.	+	0	transcript_id "rna-XM_073727873.1"; gene_id "gene-BDW74DRAFT_173787";
+NW_027395953.1	RefSeq	CDS	2046603	2048740	.	+	2	transcript_id "rna-XM_073727873.1"; gene_id "gene-BDW74DRAFT_173787";
+NW_027395953.1	RefSeq	CDS	2048799	2049382	.	+	0	transcript_id "rna-XM_073727873.1"; gene_id "gene-BDW74DRAFT_173787";
+NW_027395953.1	RefSeq	CDS	2050763	2051222	.	+	1	transcript_id "rna-XM_073727873.1"; gene_id "gene-BDW74DRAFT_173787";
+NW_027395953.1	RefSeq	CDS	2051280	2051525	.	+	0	transcript_id "rna-XM_073727873.1"; gene_id "gene-BDW74DRAFT_173787";
+NW_027395953.1	RefSeq	CDS	2051579	2052887	.	+	0	transcript_id "rna-XM_073727873.1"; gene_id "gene-BDW74DRAFT_173787";
+NW_027395953.1	RefSeq	CDS	2052939	2053366	.	+	2	transcript_id "rna-XM_073727873.1"; gene_id "gene-BDW74DRAFT_173787";
+NW_027395953.1	RefSeq	transcript	2288628	2290207	.	+	.	transcript_id "rna-XM_073723143.1"; gene_id "gene-BDW74DRAFT_145039"
+NW_027395953.1	RefSeq	exon	2288628	2288814	.	+	.	transcript_id "rna-XM_073723143.1"; gene_id "gene-BDW74DRAFT_145039";
+NW_027395953.1	RefSeq	exon	2288876	2288915	.	+	.	transcript_id "rna-XM_073723143.1"; gene_id "gene-BDW74DRAFT_145039";
+NW_027395953.1	RefSeq	exon	2288971	2289017	.	+	.	transcript_id "rna-XM_073723143.1"; gene_id "gene-BDW74DRAFT_145039";
+NW_027395953.1	RefSeq	exon	2289075	2289085	.	+	.	transcript_id "rna-XM_073723143.1"; gene_id "gene-BDW74DRAFT_145039";
+NW_027395953.1	RefSeq	exon	2289133	2289165	.	+	.	transcript_id "rna-XM_073723143.1"; gene_id "gene-BDW74DRAFT_145039";
+NW_027395953.1	RefSeq	exon	2289218	2290207	.	+	.	transcript_id "rna-XM_073723143.1"; gene_id "gene-BDW74DRAFT_145039";
+NW_027395953.1	RefSeq	CDS	2288721	2288814	.	+	0	transcript_id "rna-XM_073723143.1"; gene_id "gene-BDW74DRAFT_145039";
+NW_027395953.1	RefSeq	CDS	2288876	2288915	.	+	2	transcript_id "rna-XM_073723143.1"; gene_id "gene-BDW74DRAFT_145039";
+NW_027395953.1	RefSeq	CDS	2288971	2289017	.	+	1	transcript_id "rna-XM_073723143.1"; gene_id "gene-BDW74DRAFT_145039";
+NW_027395953.1	RefSeq	CDS	2289075	2289085	.	+	2	transcript_id "rna-XM_073723143.1"; gene_id "gene-BDW74DRAFT_145039";
+NW_027395953.1	RefSeq	CDS	2289133	2289165	.	+	0	transcript_id "rna-XM_073723143.1"; gene_id "gene-BDW74DRAFT_145039";
+NW_027395953.1	RefSeq	CDS	2289218	2290105	.	+	0	transcript_id "rna-XM_073723143.1"; gene_id "gene-BDW74DRAFT_145039";
+NW_027395953.1	RefSeq	transcript	2422971	2425143	.	+	.	transcript_id "rna-XM_073733048.1"; gene_id "gene-BDW74DRAFT_52383"
+NW_027395953.1	RefSeq	exon	2422971	2423377	.	+	.	transcript_id "rna-XM_073733048.1"; gene_id "gene-BDW74DRAFT_52383";
+NW_027395953.1	RefSeq	exon	2423511	2425143	.	+	.	transcript_id "rna-XM_073733048.1"; gene_id "gene-BDW74DRAFT_52383";
+NW_027395953.1	RefSeq	CDS	2423072	2423377	.	+	0	transcript_id "rna-XM_073733048.1"; gene_id "gene-BDW74DRAFT_52383";
+NW_027395953.1	RefSeq	CDS	2423511	2424632	.	+	0	transcript_id "rna-XM_073733048.1"; gene_id "gene-BDW74DRAFT_52383";
+NW_027395954.1	RefSeq	transcript	740455	742203	.	-	.	transcript_id "rna-XM_073733645.1"; gene_id "gene-BDW74DRAFT_76041"; gene_name "cox15"
+NW_027395954.1	RefSeq	exon	740455	741768	.	-	.	transcript_id "rna-XM_073733645.1"; gene_id "gene-BDW74DRAFT_76041"; gene_name "cox15";
+NW_027395954.1	RefSeq	exon	741821	742203	.	-	.	transcript_id "rna-XM_073733645.1"; gene_id "gene-BDW74DRAFT_76041"; gene_name "cox15";
+NW_027395954.1	RefSeq	CDS	740655	741768	.	-	1	transcript_id "rna-XM_073733645.1"; gene_id "gene-BDW74DRAFT_76041"; gene_name "cox15";
+NW_027395954.1	RefSeq	CDS	741821	742194	.	-	0	transcript_id "rna-XM_073733645.1"; gene_id "gene-BDW74DRAFT_76041"; gene_name "cox15";
+NW_027395954.1	RefSeq	transcript	1016990	1019313	.	+	.	transcript_id "rna-XM_073733684.1"; gene_id "gene-BDW74DRAFT_77350"
+NW_027395954.1	RefSeq	exon	1016990	1017840	.	+	.	transcript_id "rna-XM_073733684.1"; gene_id "gene-BDW74DRAFT_77350";
+NW_027395954.1	RefSeq	exon	1017965	1018120	.	+	.	transcript_id "rna-XM_073733684.1"; gene_id "gene-BDW74DRAFT_77350";
+NW_027395954.1	RefSeq	exon	1018172	1018246	.	+	.	transcript_id "rna-XM_073733684.1"; gene_id "gene-BDW74DRAFT_77350";
+NW_027395954.1	RefSeq	exon	1018299	1018426	.	+	.	transcript_id "rna-XM_073733684.1"; gene_id "gene-BDW74DRAFT_77350";
+NW_027395954.1	RefSeq	exon	1018482	1018599	.	+	.	transcript_id "rna-XM_073733684.1"; gene_id "gene-BDW74DRAFT_77350";
+NW_027395954.1	RefSeq	exon	1018651	1018926	.	+	.	transcript_id "rna-XM_073733684.1"; gene_id "gene-BDW74DRAFT_77350";
+NW_027395954.1	RefSeq	exon	1018978	1019313	.	+	.	transcript_id "rna-XM_073733684.1"; gene_id "gene-BDW74DRAFT_77350";
+NW_027395954.1	RefSeq	CDS	1017326	1017840	.	+	0	transcript_id "rna-XM_073733684.1"; gene_id "gene-BDW74DRAFT_77350";
+NW_027395954.1	RefSeq	CDS	1017965	1018120	.	+	1	transcript_id "rna-XM_073733684.1"; gene_id "gene-BDW74DRAFT_77350";
+NW_027395954.1	RefSeq	CDS	1018172	1018246	.	+	1	transcript_id "rna-XM_073733684.1"; gene_id "gene-BDW74DRAFT_77350";
+NW_027395954.1	RefSeq	CDS	1018299	1018426	.	+	1	transcript_id "rna-XM_073733684.1"; gene_id "gene-BDW74DRAFT_77350";
+NW_027395954.1	RefSeq	CDS	1018482	1018599	.	+	2	transcript_id "rna-XM_073733684.1"; gene_id "gene-BDW74DRAFT_77350";
+NW_027395954.1	RefSeq	CDS	1018651	1018926	.	+	1	transcript_id "rna-XM_073733684.1"; gene_id "gene-BDW74DRAFT_77350";
+NW_027395954.1	RefSeq	CDS	1018978	1019263	.	+	1	transcript_id "rna-XM_073733684.1"; gene_id "gene-BDW74DRAFT_77350";
+NW_027395954.1	RefSeq	transcript	1059807	1062155	.	-	.	transcript_id "rna-XM_073733690.1"; gene_id "gene-BDW74DRAFT_77620"
+NW_027395954.1	RefSeq	exon	1059807	1061106	.	-	.	transcript_id "rna-XM_073733690.1"; gene_id "gene-BDW74DRAFT_77620";
+NW_027395954.1	RefSeq	exon	1061155	1061299	.	-	.	transcript_id "rna-XM_073733690.1"; gene_id "gene-BDW74DRAFT_77620";
+NW_027395954.1	RefSeq	exon	1061352	1061625	.	-	.	transcript_id "rna-XM_073733690.1"; gene_id "gene-BDW74DRAFT_77620";
+NW_027395954.1	RefSeq	exon	1061684	1062155	.	-	.	transcript_id "rna-XM_073733690.1"; gene_id "gene-BDW74DRAFT_77620";
+NW_027395954.1	RefSeq	CDS	1059900	1061106	.	-	1	transcript_id "rna-XM_073733690.1"; gene_id "gene-BDW74DRAFT_77620";
+NW_027395954.1	RefSeq	CDS	1061155	1061299	.	-	2	transcript_id "rna-XM_073733690.1"; gene_id "gene-BDW74DRAFT_77620";
+NW_027395954.1	RefSeq	CDS	1061352	1061625	.	-	0	transcript_id "rna-XM_073733690.1"; gene_id "gene-BDW74DRAFT_77620";
+NW_027395954.1	RefSeq	CDS	1061684	1062004	.	-	0	transcript_id "rna-XM_073733690.1"; gene_id "gene-BDW74DRAFT_77620";
+NW_027395954.1	RefSeq	transcript	1251733	1254481	.	-	.	transcript_id "rna-XM_073723288.1"; gene_id "gene-BDW74DRAFT_146137"
+NW_027395954.1	RefSeq	exon	1251733	1254190	.	-	.	transcript_id "rna-XM_073723288.1"; gene_id "gene-BDW74DRAFT_146137";
+NW_027395954.1	RefSeq	exon	1254251	1254481	.	-	.	transcript_id "rna-XM_073723288.1"; gene_id "gene-BDW74DRAFT_146137";
+NW_027395954.1	RefSeq	CDS	1252227	1254190	.	-	2	transcript_id "rna-XM_073723288.1"; gene_id "gene-BDW74DRAFT_146137";
+NW_027395954.1	RefSeq	CDS	1254251	1254467	.	-	0	transcript_id "rna-XM_073723288.1"; gene_id "gene-BDW74DRAFT_146137";
+NW_027395954.1	RefSeq	transcript	1357791	1360812	.	+	.	transcript_id "rna-XM_073733729.1"; gene_id "gene-BDW74DRAFT_78881"
+NW_027395954.1	RefSeq	exon	1357791	1360812	.	+	.	transcript_id "rna-XM_073733729.1"; gene_id "gene-BDW74DRAFT_78881";
+NW_027395954.1	RefSeq	CDS	1357959	1360763	.	+	0	transcript_id "rna-XM_073733729.1"; gene_id "gene-BDW74DRAFT_78881";
+NW_027395954.1	RefSeq	transcript	1852661	1853504	.	+	.	transcript_id "rna-XM_073723368.1"; gene_id "gene-BDW74DRAFT_146529"; gene_name "spt4"
+NW_027395954.1	RefSeq	exon	1852661	1852875	.	+	.	transcript_id "rna-XM_073723368.1"; gene_id "gene-BDW74DRAFT_146529"; gene_name "spt4";
+NW_027395954.1	RefSeq	exon	1852945	1853504	.	+	.	transcript_id "rna-XM_073723368.1"; gene_id "gene-BDW74DRAFT_146529"; gene_name "spt4";
+NW_027395954.1	RefSeq	CDS	1852798	1852875	.	+	0	transcript_id "rna-XM_073723368.1"; gene_id "gene-BDW74DRAFT_146529"; gene_name "spt4";
+NW_027395954.1	RefSeq	CDS	1852945	1853229	.	+	0	transcript_id "rna-XM_073723368.1"; gene_id "gene-BDW74DRAFT_146529"; gene_name "spt4";
+NW_027395954.1	RefSeq	transcript	2105463	2107289	.	+	.	transcript_id "rna-XM_073733831.1"; gene_id "gene-BDW74DRAFT_82865"
+NW_027395954.1	RefSeq	exon	2105463	2105781	.	+	.	transcript_id "rna-XM_073733831.1"; gene_id "gene-BDW74DRAFT_82865";
+NW_027395954.1	RefSeq	exon	2105847	2106060	.	+	.	transcript_id "rna-XM_073733831.1"; gene_id "gene-BDW74DRAFT_82865";
+NW_027395954.1	RefSeq	exon	2106120	2107289	.	+	.	transcript_id "rna-XM_073733831.1"; gene_id "gene-BDW74DRAFT_82865";
+NW_027395954.1	RefSeq	CDS	2105526	2105781	.	+	0	transcript_id "rna-XM_073733831.1"; gene_id "gene-BDW74DRAFT_82865";
+NW_027395954.1	RefSeq	CDS	2105847	2106060	.	+	2	transcript_id "rna-XM_073733831.1"; gene_id "gene-BDW74DRAFT_82865";
+NW_027395954.1	RefSeq	CDS	2106120	2107110	.	+	1	transcript_id "rna-XM_073733831.1"; gene_id "gene-BDW74DRAFT_82865";
+NW_027395955.1	RefSeq	transcript	29051	30336	.	-	.	transcript_id "rna-XM_073723432.1"; gene_id "gene-BDW74DRAFT_146871"
+NW_027395955.1	RefSeq	exon	29051	29535	.	-	.	transcript_id "rna-XM_073723432.1"; gene_id "gene-BDW74DRAFT_146871";
+NW_027395955.1	RefSeq	exon	29589	29617	.	-	.	transcript_id "rna-XM_073723432.1"; gene_id "gene-BDW74DRAFT_146871";
+NW_027395955.1	RefSeq	exon	29670	29815	.	-	.	transcript_id "rna-XM_073723432.1"; gene_id "gene-BDW74DRAFT_146871";
+NW_027395955.1	RefSeq	exon	29881	29981	.	-	.	transcript_id "rna-XM_073723432.1"; gene_id "gene-BDW74DRAFT_146871";
+NW_027395955.1	RefSeq	exon	30038	30336	.	-	.	transcript_id "rna-XM_073723432.1"; gene_id "gene-BDW74DRAFT_146871";
+NW_027395955.1	RefSeq	CDS	29309	29535	.	-	2	transcript_id "rna-XM_073723432.1"; gene_id "gene-BDW74DRAFT_146871";
+NW_027395955.1	RefSeq	CDS	29589	29617	.	-	1	transcript_id "rna-XM_073723432.1"; gene_id "gene-BDW74DRAFT_146871";
+NW_027395955.1	RefSeq	CDS	29670	29815	.	-	0	transcript_id "rna-XM_073723432.1"; gene_id "gene-BDW74DRAFT_146871";
+NW_027395955.1	RefSeq	CDS	29881	29981	.	-	2	transcript_id "rna-XM_073723432.1"; gene_id "gene-BDW74DRAFT_146871";
+NW_027395955.1	RefSeq	CDS	30038	30107	.	-	0	transcript_id "rna-XM_073723432.1"; gene_id "gene-BDW74DRAFT_146871";
+NW_027395955.1	RefSeq	transcript	442100	444250	.	-	.	transcript_id "rna-XM_073723499.1"; gene_id "gene-BDW74DRAFT_147167"
+NW_027395955.1	RefSeq	exon	442100	443905	.	-	.	transcript_id "rna-XM_073723499.1"; gene_id "gene-BDW74DRAFT_147167";
+NW_027395955.1	RefSeq	exon	443971	444250	.	-	.	transcript_id "rna-XM_073723499.1"; gene_id "gene-BDW74DRAFT_147167";
+NW_027395955.1	RefSeq	CDS	442146	443905	.	-	2	transcript_id "rna-XM_073723499.1"; gene_id "gene-BDW74DRAFT_147167";
+NW_027395955.1	RefSeq	CDS	443971	444115	.	-	0	transcript_id "rna-XM_073723499.1"; gene_id "gene-BDW74DRAFT_147167";
+NW_027395955.1	RefSeq	transcript	572759	574195	.	-	.	transcript_id "rna-XM_073723511.1"; gene_id "gene-BDW74DRAFT_147244"
+NW_027395955.1	RefSeq	exon	572759	573999	.	-	.	transcript_id "rna-XM_073723511.1"; gene_id "gene-BDW74DRAFT_147244";
+NW_027395955.1	RefSeq	exon	574058	574195	.	-	.	transcript_id "rna-XM_073723511.1"; gene_id "gene-BDW74DRAFT_147244";
+NW_027395955.1	RefSeq	CDS	572855	573999	.	-	2	transcript_id "rna-XM_073723511.1"; gene_id "gene-BDW74DRAFT_147244";
+NW_027395955.1	RefSeq	CDS	574058	574100	.	-	0	transcript_id "rna-XM_073723511.1"; gene_id "gene-BDW74DRAFT_147244";
+NW_027395955.1	RefSeq	transcript	586060	587082	.	+	.	transcript_id "rna-XM_073723515.1"; gene_id "gene-BDW74DRAFT_147253"
+NW_027395955.1	RefSeq	exon	586060	586112	.	+	.	transcript_id "rna-XM_073723515.1"; gene_id "gene-BDW74DRAFT_147253";
+NW_027395955.1	RefSeq	exon	586184	587082	.	+	.	transcript_id "rna-XM_073723515.1"; gene_id "gene-BDW74DRAFT_147253";
+NW_027395955.1	RefSeq	CDS	586101	586112	.	+	0	transcript_id "rna-XM_073723515.1"; gene_id "gene-BDW74DRAFT_147253";
+NW_027395955.1	RefSeq	CDS	586184	586885	.	+	0	transcript_id "rna-XM_073723515.1"; gene_id "gene-BDW74DRAFT_147253";
+NW_027395955.1	RefSeq	transcript	897395	898675	.	+	.	transcript_id "rna-XM_073723546.1"; gene_id "gene-BDW74DRAFT_147445"
+NW_027395955.1	RefSeq	exon	897395	898675	.	+	.	transcript_id "rna-XM_073723546.1"; gene_id "gene-BDW74DRAFT_147445";
+NW_027395955.1	RefSeq	CDS	897509	898534	.	+	0	transcript_id "rna-XM_073723546.1"; gene_id "gene-BDW74DRAFT_147445";
+NW_027395956.1	RefSeq	transcript	131635	134507	.	+	.	transcript_id "rna-XM_073726542.1"; gene_id "gene-BDW74DRAFT_166328"
+NW_027395956.1	RefSeq	exon	131635	131723	.	+	.	transcript_id "rna-XM_073726542.1"; gene_id "gene-BDW74DRAFT_166328";
+NW_027395956.1	RefSeq	exon	131789	131905	.	+	.	transcript_id "rna-XM_073726542.1"; gene_id "gene-BDW74DRAFT_166328";
+NW_027395956.1	RefSeq	exon	131957	132735	.	+	.	transcript_id "rna-XM_073726542.1"; gene_id "gene-BDW74DRAFT_166328";
+NW_027395956.1	RefSeq	exon	133290	133521	.	+	.	transcript_id "rna-XM_073726542.1"; gene_id "gene-BDW74DRAFT_166328";
+NW_027395956.1	RefSeq	exon	133583	134507	.	+	.	transcript_id "rna-XM_073726542.1"; gene_id "gene-BDW74DRAFT_166328";
+NW_027395956.1	RefSeq	CDS	131635	131723	.	+	0	transcript_id "rna-XM_073726542.1"; gene_id "gene-BDW74DRAFT_166328";
+NW_027395956.1	RefSeq	CDS	131789	131905	.	+	1	transcript_id "rna-XM_073726542.1"; gene_id "gene-BDW74DRAFT_166328";
+NW_027395956.1	RefSeq	CDS	131957	132735	.	+	1	transcript_id "rna-XM_073726542.1"; gene_id "gene-BDW74DRAFT_166328";
+NW_027395956.1	RefSeq	CDS	133290	133521	.	+	2	transcript_id "rna-XM_073726542.1"; gene_id "gene-BDW74DRAFT_166328";
+NW_027395956.1	RefSeq	CDS	133583	134507	.	+	1	transcript_id "rna-XM_073726542.1"; gene_id "gene-BDW74DRAFT_166328";
+NW_027395956.1	RefSeq	transcript	1030481	1032620	.	-	.	transcript_id "rna-XM_073723679.1"; gene_id "gene-BDW74DRAFT_148303"; gene_name "spb4"
+NW_027395956.1	RefSeq	exon	1030481	1031675	.	-	.	transcript_id "rna-XM_073723679.1"; gene_id "gene-BDW74DRAFT_148303"; gene_name "spb4";
+NW_027395956.1	RefSeq	exon	1031723	1032235	.	-	.	transcript_id "rna-XM_073723679.1"; gene_id "gene-BDW74DRAFT_148303"; gene_name "spb4";
+NW_027395956.1	RefSeq	exon	1032290	1032620	.	-	.	transcript_id "rna-XM_073723679.1"; gene_id "gene-BDW74DRAFT_148303"; gene_name "spb4";
+NW_027395956.1	RefSeq	CDS	1030559	1031675	.	-	1	transcript_id "rna-XM_073723679.1"; gene_id "gene-BDW74DRAFT_148303"; gene_name "spb4";
+NW_027395956.1	RefSeq	CDS	1031723	1032235	.	-	1	transcript_id "rna-XM_073723679.1"; gene_id "gene-BDW74DRAFT_148303"; gene_name "spb4";
+NW_027395956.1	RefSeq	CDS	1032290	1032579	.	-	0	transcript_id "rna-XM_073723679.1"; gene_id "gene-BDW74DRAFT_148303"; gene_name "spb4";
+NW_027395957.1	RefSeq	transcript	622013	624047	.	+	.	transcript_id "rna-XM_073722071.1"; gene_id "gene-BDW74DRAFT_123067"; gene_name "csn12"
+NW_027395957.1	RefSeq	exon	622013	622639	.	+	.	transcript_id "rna-XM_073722071.1"; gene_id "gene-BDW74DRAFT_123067"; gene_name "csn12";
+NW_027395957.1	RefSeq	exon	622693	622765	.	+	.	transcript_id "rna-XM_073722071.1"; gene_id "gene-BDW74DRAFT_123067"; gene_name "csn12";
+NW_027395957.1	RefSeq	exon	622821	622973	.	+	.	transcript_id "rna-XM_073722071.1"; gene_id "gene-BDW74DRAFT_123067"; gene_name "csn12";
+NW_027395957.1	RefSeq	exon	623024	623085	.	+	.	transcript_id "rna-XM_073722071.1"; gene_id "gene-BDW74DRAFT_123067"; gene_name "csn12";
+NW_027395957.1	RefSeq	exon	623136	623556	.	+	.	transcript_id "rna-XM_073722071.1"; gene_id "gene-BDW74DRAFT_123067"; gene_name "csn12";
+NW_027395957.1	RefSeq	exon	623609	624047	.	+	.	transcript_id "rna-XM_073722071.1"; gene_id "gene-BDW74DRAFT_123067"; gene_name "csn12";
+NW_027395957.1	RefSeq	CDS	622077	622639	.	+	0	transcript_id "rna-XM_073722071.1"; gene_id "gene-BDW74DRAFT_123067"; gene_name "csn12";
+NW_027395957.1	RefSeq	CDS	622693	622765	.	+	1	transcript_id "rna-XM_073722071.1"; gene_id "gene-BDW74DRAFT_123067"; gene_name "csn12";
+NW_027395957.1	RefSeq	CDS	622821	622973	.	+	0	transcript_id "rna-XM_073722071.1"; gene_id "gene-BDW74DRAFT_123067"; gene_name "csn12";
+NW_027395957.1	RefSeq	CDS	623024	623085	.	+	0	transcript_id "rna-XM_073722071.1"; gene_id "gene-BDW74DRAFT_123067"; gene_name "csn12";
+NW_027395957.1	RefSeq	CDS	623136	623556	.	+	1	transcript_id "rna-XM_073722071.1"; gene_id "gene-BDW74DRAFT_123067"; gene_name "csn12";
+NW_027395957.1	RefSeq	CDS	623609	623695	.	+	0	transcript_id "rna-XM_073722071.1"; gene_id "gene-BDW74DRAFT_123067"; gene_name "csn12";
+NW_027395957.1	RefSeq	transcript	845087	846758	.	-	.	transcript_id "rna-XM_073728537.1"; gene_id "gene-BDW74DRAFT_176172"
+NW_027395957.1	RefSeq	exon	845087	845330	.	-	.	transcript_id "rna-XM_073728537.1"; gene_id "gene-BDW74DRAFT_176172";
+NW_027395957.1	RefSeq	exon	845391	846469	.	-	.	transcript_id "rna-XM_073728537.1"; gene_id "gene-BDW74DRAFT_176172";
+NW_027395957.1	RefSeq	exon	846534	846758	.	-	.	transcript_id "rna-XM_073728537.1"; gene_id "gene-BDW74DRAFT_176172";
+NW_027395957.1	RefSeq	CDS	845087	845330	.	-	1	transcript_id "rna-XM_073728537.1"; gene_id "gene-BDW74DRAFT_176172";
+NW_027395957.1	RefSeq	CDS	845391	846469	.	-	0	transcript_id "rna-XM_073728537.1"; gene_id "gene-BDW74DRAFT_176172";
+NW_027395957.1	RefSeq	CDS	846534	846758	.	-	0	transcript_id "rna-XM_073728537.1"; gene_id "gene-BDW74DRAFT_176172";
+NW_027395957.1	RefSeq	transcript	1005560	1008085	.	-	.	transcript_id "rna-XM_073722129.1"; gene_id "gene-BDW74DRAFT_124748"
+NW_027395957.1	RefSeq	exon	1005560	1008085	.	-	.	transcript_id "rna-XM_073722129.1"; gene_id "gene-BDW74DRAFT_124748";
+NW_027395957.1	RefSeq	CDS	1005664	1007799	.	-	0	transcript_id "rna-XM_073722129.1"; gene_id "gene-BDW74DRAFT_124748";
+NW_027395957.1	RefSeq	transcript	1011483	1013391	.	-	.	transcript_id "rna-XM_073723863.1"; gene_id "gene-BDW74DRAFT_149232"
+NW_027395957.1	RefSeq	exon	1011483	1012977	.	-	.	transcript_id "rna-XM_073723863.1"; gene_id "gene-BDW74DRAFT_149232";
+NW_027395957.1	RefSeq	exon	1013038	1013391	.	-	.	transcript_id "rna-XM_073723863.1"; gene_id "gene-BDW74DRAFT_149232";
+NW_027395957.1	RefSeq	CDS	1011618	1012977	.	-	1	transcript_id "rna-XM_073723863.1"; gene_id "gene-BDW74DRAFT_149232";
+NW_027395957.1	RefSeq	CDS	1013038	1013279	.	-	0	transcript_id "rna-XM_073723863.1"; gene_id "gene-BDW74DRAFT_149232";
+NW_027395957.1	RefSeq	transcript	1025820	1028971	.	-	.	transcript_id "rna-XM_073722133.1"; gene_id "gene-BDW74DRAFT_124861"
+NW_027395957.1	RefSeq	exon	1025820	1028561	.	-	.	transcript_id "rna-XM_073722133.1"; gene_id "gene-BDW74DRAFT_124861";
+NW_027395957.1	RefSeq	exon	1028624	1028878	.	-	.	transcript_id "rna-XM_073722133.1"; gene_id "gene-BDW74DRAFT_124861";
+NW_027395957.1	RefSeq	exon	1028943	1028971	.	-	.	transcript_id "rna-XM_073722133.1"; gene_id "gene-BDW74DRAFT_124861";
+NW_027395957.1	RefSeq	CDS	1025948	1028561	.	-	1	transcript_id "rna-XM_073722133.1"; gene_id "gene-BDW74DRAFT_124861";
+NW_027395957.1	RefSeq	CDS	1028624	1028878	.	-	1	transcript_id "rna-XM_073722133.1"; gene_id "gene-BDW74DRAFT_124861";
+NW_027395957.1	RefSeq	CDS	1028943	1028959	.	-	0	transcript_id "rna-XM_073722133.1"; gene_id "gene-BDW74DRAFT_124861";
+NW_027395957.1	RefSeq	transcript	1184683	1186601	.	+	.	transcript_id "rna-XM_073722162.1"; gene_id "gene-BDW74DRAFT_125778"
+NW_027395957.1	RefSeq	exon	1184683	1184861	.	+	.	transcript_id "rna-XM_073722162.1"; gene_id "gene-BDW74DRAFT_125778";
+NW_027395957.1	RefSeq	exon	1184921	1185021	.	+	.	transcript_id "rna-XM_073722162.1"; gene_id "gene-BDW74DRAFT_125778";
+NW_027395957.1	RefSeq	exon	1185091	1185218	.	+	.	transcript_id "rna-XM_073722162.1"; gene_id "gene-BDW74DRAFT_125778";
+NW_027395957.1	RefSeq	exon	1185268	1186601	.	+	.	transcript_id "rna-XM_073722162.1"; gene_id "gene-BDW74DRAFT_125778";
+NW_027395957.1	RefSeq	CDS	1184759	1184861	.	+	0	transcript_id "rna-XM_073722162.1"; gene_id "gene-BDW74DRAFT_125778";
+NW_027395957.1	RefSeq	CDS	1184921	1185021	.	+	2	transcript_id "rna-XM_073722162.1"; gene_id "gene-BDW74DRAFT_125778";
+NW_027395957.1	RefSeq	CDS	1185091	1185218	.	+	0	transcript_id "rna-XM_073722162.1"; gene_id "gene-BDW74DRAFT_125778";
+NW_027395957.1	RefSeq	CDS	1185268	1186150	.	+	1	transcript_id "rna-XM_073722162.1"; gene_id "gene-BDW74DRAFT_125778";
+NW_027395958.1	RefSeq	transcript	150355	151853	.	-	.	transcript_id "rna-XM_073722212.1"; gene_id "gene-BDW74DRAFT_127487"
+NW_027395958.1	RefSeq	exon	150355	151853	.	-	.	transcript_id "rna-XM_073722212.1"; gene_id "gene-BDW74DRAFT_127487";
+NW_027395958.1	RefSeq	CDS	150554	151750	.	-	0	transcript_id "rna-XM_073722212.1"; gene_id "gene-BDW74DRAFT_127487";
+NW_027395958.1	RefSeq	transcript	396056	397142	.	-	.	transcript_id "rna-XM_073722252.1"; gene_id "gene-BDW74DRAFT_129512"; gene_name "coq4"
+NW_027395958.1	RefSeq	exon	396056	396818	.	-	.	transcript_id "rna-XM_073722252.1"; gene_id "gene-BDW74DRAFT_129512"; gene_name "coq4";
+NW_027395958.1	RefSeq	exon	396884	397142	.	-	.	transcript_id "rna-XM_073722252.1"; gene_id "gene-BDW74DRAFT_129512"; gene_name "coq4";
+NW_027395958.1	RefSeq	CDS	396172	396818	.	-	2	transcript_id "rna-XM_073722252.1"; gene_id "gene-BDW74DRAFT_129512"; gene_name "coq4";
+NW_027395958.1	RefSeq	CDS	396884	397091	.	-	0	transcript_id "rna-XM_073722252.1"; gene_id "gene-BDW74DRAFT_129512"; gene_name "coq4";
+NW_027395958.1	RefSeq	transcript	404927	406294	.	+	.	transcript_id "rna-XM_073722254.1"; gene_id "gene-BDW74DRAFT_129583"
+NW_027395958.1	RefSeq	exon	404927	405271	.	+	.	transcript_id "rna-XM_073722254.1"; gene_id "gene-BDW74DRAFT_129583";
+NW_027395958.1	RefSeq	exon	405341	405856	.	+	.	transcript_id "rna-XM_073722254.1"; gene_id "gene-BDW74DRAFT_129583";
+NW_027395958.1	RefSeq	exon	405911	406013	.	+	.	transcript_id "rna-XM_073722254.1"; gene_id "gene-BDW74DRAFT_129583";
+NW_027395958.1	RefSeq	exon	406080	406294	.	+	.	transcript_id "rna-XM_073722254.1"; gene_id "gene-BDW74DRAFT_129583";
+NW_027395958.1	RefSeq	CDS	405016	405271	.	+	0	transcript_id "rna-XM_073722254.1"; gene_id "gene-BDW74DRAFT_129583";
+NW_027395958.1	RefSeq	CDS	405341	405856	.	+	2	transcript_id "rna-XM_073722254.1"; gene_id "gene-BDW74DRAFT_129583";
+NW_027395958.1	RefSeq	CDS	405911	406013	.	+	2	transcript_id "rna-XM_073722254.1"; gene_id "gene-BDW74DRAFT_129583";
+NW_027395958.1	RefSeq	CDS	406080	406182	.	+	1	transcript_id "rna-XM_073722254.1"; gene_id "gene-BDW74DRAFT_129583";
+NW_027395959.1	RefSeq	transcript	344647	346844	.	-	.	transcript_id "rna-XM_073722343.1"; gene_id "gene-BDW74DRAFT_133628"
+NW_027395959.1	RefSeq	exon	344647	346426	.	-	.	transcript_id "rna-XM_073722343.1"; gene_id "gene-BDW74DRAFT_133628";
+NW_027395959.1	RefSeq	exon	346481	346598	.	-	.	transcript_id "rna-XM_073722343.1"; gene_id "gene-BDW74DRAFT_133628";
+NW_027395959.1	RefSeq	exon	346646	346844	.	-	.	transcript_id "rna-XM_073722343.1"; gene_id "gene-BDW74DRAFT_133628";
+NW_027395959.1	RefSeq	CDS	344842	346426	.	-	1	transcript_id "rna-XM_073722343.1"; gene_id "gene-BDW74DRAFT_133628";
+NW_027395959.1	RefSeq	CDS	346481	346598	.	-	2	transcript_id "rna-XM_073722343.1"; gene_id "gene-BDW74DRAFT_133628";
+NW_027395959.1	RefSeq	CDS	346646	346739	.	-	0	transcript_id "rna-XM_073722343.1"; gene_id "gene-BDW74DRAFT_133628";
+NW_027395959.1	RefSeq	transcript	377091	379353	.	-	.	transcript_id "rna-XM_073722346.1"; gene_id "gene-BDW74DRAFT_133766"
+NW_027395959.1	RefSeq	exon	377091	378876	.	-	.	transcript_id "rna-XM_073722346.1"; gene_id "gene-BDW74DRAFT_133766";
+NW_027395959.1	RefSeq	exon	378929	379353	.	-	.	transcript_id "rna-XM_073722346.1"; gene_id "gene-BDW74DRAFT_133766";
+NW_027395959.1	RefSeq	CDS	377374	378876	.	-	0	transcript_id "rna-XM_073722346.1"; gene_id "gene-BDW74DRAFT_133766";
+NW_027395959.1	RefSeq	CDS	378929	379300	.	-	0	transcript_id "rna-XM_073722346.1"; gene_id "gene-BDW74DRAFT_133766";
+NW_027395959.1	RefSeq	transcript	385928	389200	.	+	.	transcript_id "rna-XM_073722347.1"; gene_id "gene-BDW74DRAFT_133796"
+NW_027395959.1	RefSeq	exon	385928	386178	.	+	.	transcript_id "rna-XM_073722347.1"; gene_id "gene-BDW74DRAFT_133796";
+NW_027395959.1	RefSeq	exon	386225	386252	.	+	.	transcript_id "rna-XM_073722347.1"; gene_id "gene-BDW74DRAFT_133796";
+NW_027395959.1	RefSeq	exon	386306	389200	.	+	.	transcript_id "rna-XM_073722347.1"; gene_id "gene-BDW74DRAFT_133796";
+NW_027395959.1	RefSeq	CDS	386005	386178	.	+	0	transcript_id "rna-XM_073722347.1"; gene_id "gene-BDW74DRAFT_133796";
+NW_027395959.1	RefSeq	CDS	386225	386252	.	+	0	transcript_id "rna-XM_073722347.1"; gene_id "gene-BDW74DRAFT_133796";
+NW_027395959.1	RefSeq	CDS	386306	389028	.	+	2	transcript_id "rna-XM_073722347.1"; gene_id "gene-BDW74DRAFT_133796";
+NW_027395959.1	RefSeq	transcript	398422	400118	.	+	.	transcript_id "rna-XM_073724033.1"; gene_id "gene-BDW74DRAFT_150579"
+NW_027395959.1	RefSeq	exon	398422	399402	.	+	.	transcript_id "rna-XM_073724033.1"; gene_id "gene-BDW74DRAFT_150579";
+NW_027395959.1	RefSeq	exon	399454	400118	.	+	.	transcript_id "rna-XM_073724033.1"; gene_id "gene-BDW74DRAFT_150579";
+NW_027395959.1	RefSeq	CDS	398470	399402	.	+	0	transcript_id "rna-XM_073724033.1"; gene_id "gene-BDW74DRAFT_150579";
+NW_027395959.1	RefSeq	CDS	399454	400011	.	+	0	transcript_id "rna-XM_073724033.1"; gene_id "gene-BDW74DRAFT_150579";
+NW_027395959.1	RefSeq	transcript	631026	632703	.	-	.	transcript_id "rna-XM_073732123.1"; gene_id "gene-BDW74DRAFT_190162"
+NW_027395959.1	RefSeq	exon	631026	631670	.	-	.	transcript_id "rna-XM_073732123.1"; gene_id "gene-BDW74DRAFT_190162";
+NW_027395959.1	RefSeq	exon	631721	632212	.	-	.	transcript_id "rna-XM_073732123.1"; gene_id "gene-BDW74DRAFT_190162";
+NW_027395959.1	RefSeq	exon	632272	632703	.	-	.	transcript_id "rna-XM_073732123.1"; gene_id "gene-BDW74DRAFT_190162";
+NW_027395959.1	RefSeq	CDS	631026	631670	.	-	0	transcript_id "rna-XM_073732123.1"; gene_id "gene-BDW74DRAFT_190162";
+NW_027395959.1	RefSeq	CDS	631721	632212	.	-	0	transcript_id "rna-XM_073732123.1"; gene_id "gene-BDW74DRAFT_190162";
+NW_027395959.1	RefSeq	CDS	632272	632349	.	-	0	transcript_id "rna-XM_073732123.1"; gene_id "gene-BDW74DRAFT_190162";
+NW_027395959.1	RefSeq	transcript	870032	871140	.	+	.	transcript_id "rna-XM_073724111.1"; gene_id "gene-BDW74DRAFT_150986"
+NW_027395959.1	RefSeq	exon	870032	871140	.	+	.	transcript_id "rna-XM_073724111.1"; gene_id "gene-BDW74DRAFT_150986";
+NW_027395959.1	RefSeq	CDS	870201	871022	.	+	0	transcript_id "rna-XM_073724111.1"; gene_id "gene-BDW74DRAFT_150986";
+NW_027395960.1	RefSeq	transcript	25268	27788	.	-	.	transcript_id "rna-XM_073726675.1"; gene_id "gene-BDW74DRAFT_167278"
+NW_027395960.1	RefSeq	exon	25268	26062	.	-	.	transcript_id "rna-XM_073726675.1"; gene_id "gene-BDW74DRAFT_167278";
+NW_027395960.1	RefSeq	exon	26109	27131	.	-	.	transcript_id "rna-XM_073726675.1"; gene_id "gene-BDW74DRAFT_167278";
+NW_027395960.1	RefSeq	exon	27179	27518	.	-	.	transcript_id "rna-XM_073726675.1"; gene_id "gene-BDW74DRAFT_167278";
+NW_027395960.1	RefSeq	exon	27580	27788	.	-	.	transcript_id "rna-XM_073726675.1"; gene_id "gene-BDW74DRAFT_167278";
+NW_027395960.1	RefSeq	CDS	25268	26062	.	-	0	transcript_id "rna-XM_073726675.1"; gene_id "gene-BDW74DRAFT_167278";
+NW_027395960.1	RefSeq	CDS	26109	27131	.	-	0	transcript_id "rna-XM_073726675.1"; gene_id "gene-BDW74DRAFT_167278";
+NW_027395960.1	RefSeq	CDS	27179	27518	.	-	1	transcript_id "rna-XM_073726675.1"; gene_id "gene-BDW74DRAFT_167278";
+NW_027395960.1	RefSeq	CDS	27580	27788	.	-	0	transcript_id "rna-XM_073726675.1"; gene_id "gene-BDW74DRAFT_167278";
+NW_027395960.1	RefSeq	transcript	292044	294505	.	+	.	transcript_id "rna-XM_073724160.1"; gene_id "gene-BDW74DRAFT_151322"
+NW_027395960.1	RefSeq	exon	292044	292457	.	+	.	transcript_id "rna-XM_073724160.1"; gene_id "gene-BDW74DRAFT_151322";
+NW_027395960.1	RefSeq	exon	292528	294046	.	+	.	transcript_id "rna-XM_073724160.1"; gene_id "gene-BDW74DRAFT_151322";
+NW_027395960.1	RefSeq	exon	294101	294505	.	+	.	transcript_id "rna-XM_073724160.1"; gene_id "gene-BDW74DRAFT_151322";
+NW_027395960.1	RefSeq	CDS	292175	292457	.	+	0	transcript_id "rna-XM_073724160.1"; gene_id "gene-BDW74DRAFT_151322";
+NW_027395960.1	RefSeq	CDS	292528	294046	.	+	2	transcript_id "rna-XM_073724160.1"; gene_id "gene-BDW74DRAFT_151322";
+NW_027395960.1	RefSeq	CDS	294101	294200	.	+	1	transcript_id "rna-XM_073724160.1"; gene_id "gene-BDW74DRAFT_151322";
+NW_027395960.1	RefSeq	transcript	365347	367087	.	+	.	transcript_id "rna-XM_073722483.1"; gene_id "gene-BDW74DRAFT_139159"
+NW_027395960.1	RefSeq	exon	365347	367087	.	+	.	transcript_id "rna-XM_073722483.1"; gene_id "gene-BDW74DRAFT_139159";
+NW_027395960.1	RefSeq	CDS	365532	366971	.	+	0	transcript_id "rna-XM_073722483.1"; gene_id "gene-BDW74DRAFT_139159";
+NW_027395961.1	RefSeq	transcript	107588	109402	.	+	.	transcript_id "rna-XM_073722044.1"; gene_id "gene-BDW74DRAFT_12212"
+NW_027395961.1	RefSeq	exon	107588	107913	.	+	.	transcript_id "rna-XM_073722044.1"; gene_id "gene-BDW74DRAFT_12212";
+NW_027395961.1	RefSeq	exon	107967	108147	.	+	.	transcript_id "rna-XM_073722044.1"; gene_id "gene-BDW74DRAFT_12212";
+NW_027395961.1	RefSeq	exon	108204	109402	.	+	.	transcript_id "rna-XM_073722044.1"; gene_id "gene-BDW74DRAFT_12212";
+NW_027395961.1	RefSeq	CDS	107714	107913	.	+	0	transcript_id "rna-XM_073722044.1"; gene_id "gene-BDW74DRAFT_12212";
+NW_027395961.1	RefSeq	CDS	107967	108147	.	+	1	transcript_id "rna-XM_073722044.1"; gene_id "gene-BDW74DRAFT_12212";
+NW_027395961.1	RefSeq	CDS	108204	109208	.	+	0	transcript_id "rna-XM_073722044.1"; gene_id "gene-BDW74DRAFT_12212";
+NW_027395961.1	RefSeq	transcript	111147	113645	.	+	.	transcript_id "rna-XM_073724272.1"; gene_id "gene-BDW74DRAFT_151889"; gene_name "erb1"
+NW_027395961.1	RefSeq	exon	111147	113645	.	+	.	transcript_id "rna-XM_073724272.1"; gene_id "gene-BDW74DRAFT_151889"; gene_name "erb1";
+NW_027395961.1	RefSeq	CDS	111187	113562	.	+	0	transcript_id "rna-XM_073724272.1"; gene_id "gene-BDW74DRAFT_151889"; gene_name "erb1";
+NW_027395961.1	RefSeq	transcript	138287	141120	.	-	.	transcript_id "rna-XM_073724277.1"; gene_id "gene-BDW74DRAFT_151921"
+NW_027395961.1	RefSeq	exon	138287	139593	.	-	.	transcript_id "rna-XM_073724277.1"; gene_id "gene-BDW74DRAFT_151921";
+NW_027395961.1	RefSeq	exon	139643	140220	.	-	.	transcript_id "rna-XM_073724277.1"; gene_id "gene-BDW74DRAFT_151921";
+NW_027395961.1	RefSeq	exon	140268	140467	.	-	.	transcript_id "rna-XM_073724277.1"; gene_id "gene-BDW74DRAFT_151921";
+NW_027395961.1	RefSeq	exon	140514	140890	.	-	.	transcript_id "rna-XM_073724277.1"; gene_id "gene-BDW74DRAFT_151921";
+NW_027395961.1	RefSeq	exon	140944	141120	.	-	.	transcript_id "rna-XM_073724277.1"; gene_id "gene-BDW74DRAFT_151921";
+NW_027395961.1	RefSeq	CDS	138675	139593	.	-	1	transcript_id "rna-XM_073724277.1"; gene_id "gene-BDW74DRAFT_151921";
+NW_027395961.1	RefSeq	CDS	139643	140220	.	-	0	transcript_id "rna-XM_073724277.1"; gene_id "gene-BDW74DRAFT_151921";
+NW_027395961.1	RefSeq	CDS	140268	140467	.	-	2	transcript_id "rna-XM_073724277.1"; gene_id "gene-BDW74DRAFT_151921";
+NW_027395961.1	RefSeq	CDS	140514	140890	.	-	1	transcript_id "rna-XM_073724277.1"; gene_id "gene-BDW74DRAFT_151921";
+NW_027395961.1	RefSeq	CDS	140944	141041	.	-	0	transcript_id "rna-XM_073724277.1"; gene_id "gene-BDW74DRAFT_151921";
+NW_027395961.1	RefSeq	transcript	141193	142872	.	+	.	transcript_id "rna-XM_073722084.1"; gene_id "gene-BDW74DRAFT_12354"
+NW_027395961.1	RefSeq	exon	141193	141424	.	+	.	transcript_id "rna-XM_073722084.1"; gene_id "gene-BDW74DRAFT_12354";
+NW_027395961.1	RefSeq	exon	141482	142194	.	+	.	transcript_id "rna-XM_073722084.1"; gene_id "gene-BDW74DRAFT_12354";
+NW_027395961.1	RefSeq	exon	142245	142872	.	+	.	transcript_id "rna-XM_073722084.1"; gene_id "gene-BDW74DRAFT_12354";
+NW_027395961.1	RefSeq	CDS	141320	141424	.	+	0	transcript_id "rna-XM_073722084.1"; gene_id "gene-BDW74DRAFT_12354";
+NW_027395961.1	RefSeq	CDS	141482	142194	.	+	0	transcript_id "rna-XM_073722084.1"; gene_id "gene-BDW74DRAFT_12354";
+NW_027395961.1	RefSeq	CDS	142245	142464	.	+	1	transcript_id "rna-XM_073722084.1"; gene_id "gene-BDW74DRAFT_12354";
+NW_027395961.1	RefSeq	transcript	157645	159483	.	-	.	transcript_id "rna-XM_073722118.1"; gene_id "gene-BDW74DRAFT_12441"
+NW_027395961.1	RefSeq	exon	157645	157940	.	-	.	transcript_id "rna-XM_073722118.1"; gene_id "gene-BDW74DRAFT_12441";
+NW_027395961.1	RefSeq	exon	157995	158829	.	-	.	transcript_id "rna-XM_073722118.1"; gene_id "gene-BDW74DRAFT_12441";
+NW_027395961.1	RefSeq	exon	158885	159180	.	-	.	transcript_id "rna-XM_073722118.1"; gene_id "gene-BDW74DRAFT_12441";
+NW_027395961.1	RefSeq	exon	159236	159372	.	-	.	transcript_id "rna-XM_073722118.1"; gene_id "gene-BDW74DRAFT_12441";
+NW_027395961.1	RefSeq	exon	159433	159483	.	-	.	transcript_id "rna-XM_073722118.1"; gene_id "gene-BDW74DRAFT_12441";
+NW_027395961.1	RefSeq	CDS	157868	157940	.	-	1	transcript_id "rna-XM_073722118.1"; gene_id "gene-BDW74DRAFT_12441";
+NW_027395961.1	RefSeq	CDS	157995	158829	.	-	2	transcript_id "rna-XM_073722118.1"; gene_id "gene-BDW74DRAFT_12441";
+NW_027395961.1	RefSeq	CDS	158885	159180	.	-	1	transcript_id "rna-XM_073722118.1"; gene_id "gene-BDW74DRAFT_12441";
+NW_027395961.1	RefSeq	CDS	159236	159333	.	-	0	transcript_id "rna-XM_073722118.1"; gene_id "gene-BDW74DRAFT_12441";
+NW_027395961.1	RefSeq	transcript	362789	366857	.	+	.	transcript_id "rna-XM_073724302.1"; gene_id "gene-BDW74DRAFT_152069"; gene_name "hir1"
+NW_027395961.1	RefSeq	exon	362789	363028	.	+	.	transcript_id "rna-XM_073724302.1"; gene_id "gene-BDW74DRAFT_152069"; gene_name "hir1";
+NW_027395961.1	RefSeq	exon	363159	363233	.	+	.	transcript_id "rna-XM_073724302.1"; gene_id "gene-BDW74DRAFT_152069"; gene_name "hir1";
+NW_027395961.1	RefSeq	exon	363324	363536	.	+	.	transcript_id "rna-XM_073724302.1"; gene_id "gene-BDW74DRAFT_152069"; gene_name "hir1";
+NW_027395961.1	RefSeq	exon	363607	366384	.	+	.	transcript_id "rna-XM_073724302.1"; gene_id "gene-BDW74DRAFT_152069"; gene_name "hir1";
+NW_027395961.1	RefSeq	exon	366447	366857	.	+	.	transcript_id "rna-XM_073724302.1"; gene_id "gene-BDW74DRAFT_152069"; gene_name "hir1";
+NW_027395961.1	RefSeq	CDS	362992	363028	.	+	0	transcript_id "rna-XM_073724302.1"; gene_id "gene-BDW74DRAFT_152069"; gene_name "hir1";
+NW_027395961.1	RefSeq	CDS	363159	363233	.	+	2	transcript_id "rna-XM_073724302.1"; gene_id "gene-BDW74DRAFT_152069"; gene_name "hir1";
+NW_027395961.1	RefSeq	CDS	363324	363536	.	+	2	transcript_id "rna-XM_073724302.1"; gene_id "gene-BDW74DRAFT_152069"; gene_name "hir1";
+NW_027395961.1	RefSeq	CDS	363607	366384	.	+	2	transcript_id "rna-XM_073724302.1"; gene_id "gene-BDW74DRAFT_152069"; gene_name "hir1";
+NW_027395961.1	RefSeq	CDS	366447	366544	.	+	2	transcript_id "rna-XM_073724302.1"; gene_id "gene-BDW74DRAFT_152069"; gene_name "hir1";
+NW_027395961.1	RefSeq	transcript	374573	375483	.	+	.	transcript_id "rna-XM_073724306.1"; gene_id "gene-BDW74DRAFT_152079"
+NW_027395961.1	RefSeq	exon	374573	374643	.	+	.	transcript_id "rna-XM_073724306.1"; gene_id "gene-BDW74DRAFT_152079";
+NW_027395961.1	RefSeq	exon	374758	374898	.	+	.	transcript_id "rna-XM_073724306.1"; gene_id "gene-BDW74DRAFT_152079";
+NW_027395961.1	RefSeq	exon	374979	375483	.	+	.	transcript_id "rna-XM_073724306.1"; gene_id "gene-BDW74DRAFT_152079";
+NW_027395961.1	RefSeq	CDS	374630	374643	.	+	0	transcript_id "rna-XM_073724306.1"; gene_id "gene-BDW74DRAFT_152079";
+NW_027395961.1	RefSeq	CDS	374758	374898	.	+	1	transcript_id "rna-XM_073724306.1"; gene_id "gene-BDW74DRAFT_152079";
+NW_027395961.1	RefSeq	CDS	374979	375369	.	+	1	transcript_id "rna-XM_073724306.1"; gene_id "gene-BDW74DRAFT_152079";
+NW_027395961.1	RefSeq	transcript	411661	413105	.	+	.	transcript_id "rna-XM_073722365.1"; gene_id "gene-BDW74DRAFT_13464"
+NW_027395961.1	RefSeq	exon	411661	411709	.	+	.	transcript_id "rna-XM_073722365.1"; gene_id "gene-BDW74DRAFT_13464";
+NW_027395961.1	RefSeq	exon	411765	411807	.	+	.	transcript_id "rna-XM_073722365.1"; gene_id "gene-BDW74DRAFT_13464";
+NW_027395961.1	RefSeq	exon	411891	412360	.	+	.	transcript_id "rna-XM_073722365.1"; gene_id "gene-BDW74DRAFT_13464";
+NW_027395961.1	RefSeq	exon	412408	413105	.	+	.	transcript_id "rna-XM_073722365.1"; gene_id "gene-BDW74DRAFT_13464";
+NW_027395961.1	RefSeq	CDS	411702	411709	.	+	0	transcript_id "rna-XM_073722365.1"; gene_id "gene-BDW74DRAFT_13464";
+NW_027395961.1	RefSeq	CDS	411765	411807	.	+	1	transcript_id "rna-XM_073722365.1"; gene_id "gene-BDW74DRAFT_13464";
+NW_027395961.1	RefSeq	CDS	411891	412360	.	+	0	transcript_id "rna-XM_073722365.1"; gene_id "gene-BDW74DRAFT_13464";
+NW_027395961.1	RefSeq	CDS	412408	412987	.	+	1	transcript_id "rna-XM_073722365.1"; gene_id "gene-BDW74DRAFT_13464";
+NW_027395961.1	RefSeq	transcript	618893	620657	.	+	.	transcript_id "rna-XM_073724333.1"; gene_id "gene-BDW74DRAFT_152268"
+NW_027395961.1	RefSeq	exon	618893	620657	.	+	.	transcript_id "rna-XM_073724333.1"; gene_id "gene-BDW74DRAFT_152268";
+NW_027395961.1	RefSeq	CDS	619099	620463	.	+	0	transcript_id "rna-XM_073724333.1"; gene_id "gene-BDW74DRAFT_152268";
+NW_027395961.1	RefSeq	transcript	720138	721873	.	-	.	transcript_id "rna-XM_073723032.1"; gene_id "gene-BDW74DRAFT_14446"
+NW_027395961.1	RefSeq	exon	720138	721423	.	-	.	transcript_id "rna-XM_073723032.1"; gene_id "gene-BDW74DRAFT_14446";
+NW_027395961.1	RefSeq	exon	721475	721873	.	-	.	transcript_id "rna-XM_073723032.1"; gene_id "gene-BDW74DRAFT_14446";
+NW_027395961.1	RefSeq	CDS	720367	721423	.	-	1	transcript_id "rna-XM_073723032.1"; gene_id "gene-BDW74DRAFT_14446";
+NW_027395961.1	RefSeq	CDS	721475	721860	.	-	0	transcript_id "rna-XM_073723032.1"; gene_id "gene-BDW74DRAFT_14446";
+NW_027395961.1	RefSeq	transcript	725266	729376	.	-	.	transcript_id "rna-XM_073724344.1"; gene_id "gene-BDW74DRAFT_152304"
+NW_027395961.1	RefSeq	exon	725266	726527	.	-	.	transcript_id "rna-XM_073724344.1"; gene_id "gene-BDW74DRAFT_152304";
+NW_027395961.1	RefSeq	exon	726579	728222	.	-	.	transcript_id "rna-XM_073724344.1"; gene_id "gene-BDW74DRAFT_152304";
+NW_027395961.1	RefSeq	exon	728273	728323	.	-	.	transcript_id "rna-XM_073724344.1"; gene_id "gene-BDW74DRAFT_152304";
+NW_027395961.1	RefSeq	exon	728514	729376	.	-	.	transcript_id "rna-XM_073724344.1"; gene_id "gene-BDW74DRAFT_152304";
+NW_027395961.1	RefSeq	CDS	725643	726527	.	-	0	transcript_id "rna-XM_073724344.1"; gene_id "gene-BDW74DRAFT_152304";
+NW_027395961.1	RefSeq	CDS	726579	728222	.	-	0	transcript_id "rna-XM_073724344.1"; gene_id "gene-BDW74DRAFT_152304";
+NW_027395961.1	RefSeq	CDS	728273	728323	.	-	0	transcript_id "rna-XM_073724344.1"; gene_id "gene-BDW74DRAFT_152304";
+NW_027395961.1	RefSeq	CDS	728514	729254	.	-	0	transcript_id "rna-XM_073724344.1"; gene_id "gene-BDW74DRAFT_152304";
+NW_027395962.1	RefSeq	transcript	514313	515909	.	-	.	transcript_id "rna-XM_073728630.1"; gene_id "gene-BDW74DRAFT_17655"
+NW_027395962.1	RefSeq	exon	514313	514845	.	-	.	transcript_id "rna-XM_073728630.1"; gene_id "gene-BDW74DRAFT_17655";
+NW_027395962.1	RefSeq	exon	514895	515909	.	-	.	transcript_id "rna-XM_073728630.1"; gene_id "gene-BDW74DRAFT_17655";
+NW_027395962.1	RefSeq	CDS	514538	514845	.	-	2	transcript_id "rna-XM_073728630.1"; gene_id "gene-BDW74DRAFT_17655";
+NW_027395962.1	RefSeq	CDS	514895	515531	.	-	0	transcript_id "rna-XM_073728630.1"; gene_id "gene-BDW74DRAFT_17655";
+NW_027395963.1	RefSeq	transcript	416061	418885	.	-	.	transcript_id "rna-XM_073726754.1"; gene_id "gene-BDW74DRAFT_167899"
+NW_027395963.1	RefSeq	exon	416061	416638	.	-	.	transcript_id "rna-XM_073726754.1"; gene_id "gene-BDW74DRAFT_167899";
+NW_027395963.1	RefSeq	exon	416695	416863	.	-	.	transcript_id "rna-XM_073726754.1"; gene_id "gene-BDW74DRAFT_167899";
+NW_027395963.1	RefSeq	exon	416917	417250	.	-	.	transcript_id "rna-XM_073726754.1"; gene_id "gene-BDW74DRAFT_167899";
+NW_027395963.1	RefSeq	exon	417629	418761	.	-	.	transcript_id "rna-XM_073726754.1"; gene_id "gene-BDW74DRAFT_167899";
+NW_027395963.1	RefSeq	exon	418817	418885	.	-	.	transcript_id "rna-XM_073726754.1"; gene_id "gene-BDW74DRAFT_167899";
+NW_027395963.1	RefSeq	CDS	416061	416638	.	-	2	transcript_id "rna-XM_073726754.1"; gene_id "gene-BDW74DRAFT_167899";
+NW_027395963.1	RefSeq	CDS	416695	416863	.	-	0	transcript_id "rna-XM_073726754.1"; gene_id "gene-BDW74DRAFT_167899";
+NW_027395963.1	RefSeq	CDS	416917	417250	.	-	1	transcript_id "rna-XM_073726754.1"; gene_id "gene-BDW74DRAFT_167899";
+NW_027395963.1	RefSeq	CDS	417629	418761	.	-	0	transcript_id "rna-XM_073726754.1"; gene_id "gene-BDW74DRAFT_167899";
+NW_027395963.1	RefSeq	CDS	418817	418885	.	-	0	transcript_id "rna-XM_073726754.1"; gene_id "gene-BDW74DRAFT_167899";
+NW_027395963.1	RefSeq	transcript	436297	439884	.	-	.	transcript_id "rna-XM_073731012.1"; gene_id "gene-BDW74DRAFT_185257"
+NW_027395963.1	RefSeq	exon	436297	436925	.	-	.	transcript_id "rna-XM_073731012.1"; gene_id "gene-BDW74DRAFT_185257";
+NW_027395963.1	RefSeq	exon	436974	439172	.	-	.	transcript_id "rna-XM_073731012.1"; gene_id "gene-BDW74DRAFT_185257";
+NW_027395963.1	RefSeq	exon	439320	439608	.	-	.	transcript_id "rna-XM_073731012.1"; gene_id "gene-BDW74DRAFT_185257";
+NW_027395963.1	RefSeq	exon	439674	439884	.	-	.	transcript_id "rna-XM_073731012.1"; gene_id "gene-BDW74DRAFT_185257";
+NW_027395963.1	RefSeq	CDS	436502	436925	.	-	1	transcript_id "rna-XM_073731012.1"; gene_id "gene-BDW74DRAFT_185257";
+NW_027395963.1	RefSeq	CDS	436974	439172	.	-	1	transcript_id "rna-XM_073731012.1"; gene_id "gene-BDW74DRAFT_185257";
+NW_027395963.1	RefSeq	CDS	439320	439608	.	-	2	transcript_id "rna-XM_073731012.1"; gene_id "gene-BDW74DRAFT_185257";
+NW_027395963.1	RefSeq	CDS	439674	439884	.	-	0	transcript_id "rna-XM_073731012.1"; gene_id "gene-BDW74DRAFT_185257";
+NW_027395964.1	RefSeq	transcript	269050	270280	.	-	.	transcript_id "rna-XM_073729200.1"; gene_id "gene-BDW74DRAFT_178413"
+NW_027395964.1	RefSeq	exon	269050	269354	.	-	.	transcript_id "rna-XM_073729200.1"; gene_id "gene-BDW74DRAFT_178413";
+NW_027395964.1	RefSeq	exon	269412	270096	.	-	.	transcript_id "rna-XM_073729200.1"; gene_id "gene-BDW74DRAFT_178413";
+NW_027395964.1	RefSeq	exon	270149	270280	.	-	.	transcript_id "rna-XM_073729200.1"; gene_id "gene-BDW74DRAFT_178413";
+NW_027395964.1	RefSeq	CDS	269050	269354	.	-	2	transcript_id "rna-XM_073729200.1"; gene_id "gene-BDW74DRAFT_178413";
+NW_027395964.1	RefSeq	CDS	269412	270096	.	-	0	transcript_id "rna-XM_073729200.1"; gene_id "gene-BDW74DRAFT_178413";
+NW_027395964.1	RefSeq	CDS	270149	270280	.	-	0	transcript_id "rna-XM_073729200.1"; gene_id "gene-BDW74DRAFT_178413";
+NW_027395964.1	RefSeq	transcript	558089	559546	.	+	.	transcript_id "rna-XM_073732295.1"; gene_id "gene-BDW74DRAFT_23915"
+NW_027395964.1	RefSeq	exon	558089	558197	.	+	.	transcript_id "rna-XM_073732295.1"; gene_id "gene-BDW74DRAFT_23915";
+NW_027395964.1	RefSeq	exon	558249	559546	.	+	.	transcript_id "rna-XM_073732295.1"; gene_id "gene-BDW74DRAFT_23915";
+NW_027395964.1	RefSeq	CDS	558151	558197	.	+	0	transcript_id "rna-XM_073732295.1"; gene_id "gene-BDW74DRAFT_23915";
+NW_027395964.1	RefSeq	CDS	558249	559257	.	+	1	transcript_id "rna-XM_073732295.1"; gene_id "gene-BDW74DRAFT_23915";
+NW_027395964.1	RefSeq	transcript	670389	672821	.	-	.	transcript_id "rna-XM_073732315.1"; gene_id "gene-BDW74DRAFT_24759"; gene_name "dbp7"
+NW_027395964.1	RefSeq	exon	670389	672821	.	-	.	transcript_id "rna-XM_073732315.1"; gene_id "gene-BDW74DRAFT_24759"; gene_name "dbp7";
+NW_027395964.1	RefSeq	CDS	670414	672780	.	-	0	transcript_id "rna-XM_073732315.1"; gene_id "gene-BDW74DRAFT_24759"; gene_name "dbp7";
+NW_027395965.1	RefSeq	transcript	13850	14641	.	+	.	transcript_id "rna-XM_073729245.1"; gene_id "gene-BDW74DRAFT_178598"
+NW_027395965.1	RefSeq	exon	13850	14641	.	+	.	transcript_id "rna-XM_073729245.1"; gene_id "gene-BDW74DRAFT_178598";
+NW_027395965.1	RefSeq	CDS	13850	14641	.	+	0	transcript_id "rna-XM_073729245.1"; gene_id "gene-BDW74DRAFT_178598";
+NW_027395965.1	RefSeq	transcript	137836	138874	.	+	.	transcript_id "rna-XM_073732343.1"; gene_id "gene-BDW74DRAFT_26154"
+NW_027395965.1	RefSeq	exon	137836	137907	.	+	.	transcript_id "rna-XM_073732343.1"; gene_id "gene-BDW74DRAFT_26154";
+NW_027395965.1	RefSeq	exon	138015	138874	.	+	.	transcript_id "rna-XM_073732343.1"; gene_id "gene-BDW74DRAFT_26154";
+NW_027395965.1	RefSeq	CDS	137905	137907	.	+	0	transcript_id "rna-XM_073732343.1"; gene_id "gene-BDW74DRAFT_26154";
+NW_027395965.1	RefSeq	CDS	138015	138779	.	+	0	transcript_id "rna-XM_073732343.1"; gene_id "gene-BDW74DRAFT_26154";
+NW_027395965.1	RefSeq	transcript	242813	243860	.	-	.	transcript_id "rna-XM_073724638.1"; gene_id "gene-BDW74DRAFT_154172"
+NW_027395965.1	RefSeq	exon	242813	243387	.	-	.	transcript_id "rna-XM_073724638.1"; gene_id "gene-BDW74DRAFT_154172";
+NW_027395965.1	RefSeq	exon	243472	243860	.	-	.	transcript_id "rna-XM_073724638.1"; gene_id "gene-BDW74DRAFT_154172";
+NW_027395965.1	RefSeq	CDS	242984	243387	.	-	2	transcript_id "rna-XM_073724638.1"; gene_id "gene-BDW74DRAFT_154172";
+NW_027395965.1	RefSeq	CDS	243472	243640	.	-	0	transcript_id "rna-XM_073724638.1"; gene_id "gene-BDW74DRAFT_154172";
+NW_027395966.1	RefSeq	transcript	402860	404782	.	-	.	transcript_id "rna-XM_073724724.1"; gene_id "gene-BDW74DRAFT_154723"; gene_name "trm6"
+NW_027395966.1	RefSeq	exon	402860	404493	.	-	.	transcript_id "rna-XM_073724724.1"; gene_id "gene-BDW74DRAFT_154723"; gene_name "trm6";
+NW_027395966.1	RefSeq	exon	404551	404782	.	-	.	transcript_id "rna-XM_073724724.1"; gene_id "gene-BDW74DRAFT_154723"; gene_name "trm6";
+NW_027395966.1	RefSeq	CDS	402927	404493	.	-	1	transcript_id "rna-XM_073724724.1"; gene_id "gene-BDW74DRAFT_154723"; gene_name "trm6";
+NW_027395966.1	RefSeq	CDS	404551	404657	.	-	0	transcript_id "rna-XM_073724724.1"; gene_id "gene-BDW74DRAFT_154723"; gene_name "trm6";
+NW_027395966.1	RefSeq	transcript	605316	606352	.	+	.	transcript_id "rna-XM_073724750.1"; gene_id "gene-BDW74DRAFT_154907"
+NW_027395966.1	RefSeq	exon	605316	605385	.	+	.	transcript_id "rna-XM_073724750.1"; gene_id "gene-BDW74DRAFT_154907";
+NW_027395966.1	RefSeq	exon	605444	606352	.	+	.	transcript_id "rna-XM_073724750.1"; gene_id "gene-BDW74DRAFT_154907";
+NW_027395966.1	RefSeq	CDS	605366	605385	.	+	0	transcript_id "rna-XM_073724750.1"; gene_id "gene-BDW74DRAFT_154907";
+NW_027395966.1	RefSeq	CDS	605444	606242	.	+	1	transcript_id "rna-XM_073724750.1"; gene_id "gene-BDW74DRAFT_154907";
+NW_027395967.1	RefSeq	transcript	645255	647063	.	+	.	transcript_id "rna-XM_073724813.1"; gene_id "gene-BDW74DRAFT_155353"
+NW_027395967.1	RefSeq	exon	645255	645729	.	+	.	transcript_id "rna-XM_073724813.1"; gene_id "gene-BDW74DRAFT_155353";
+NW_027395967.1	RefSeq	exon	645776	646020	.	+	.	transcript_id "rna-XM_073724813.1"; gene_id "gene-BDW74DRAFT_155353";
+NW_027395967.1	RefSeq	exon	646067	647063	.	+	.	transcript_id "rna-XM_073724813.1"; gene_id "gene-BDW74DRAFT_155353";
+NW_027395967.1	RefSeq	CDS	645355	645729	.	+	0	transcript_id "rna-XM_073724813.1"; gene_id "gene-BDW74DRAFT_155353";
+NW_027395967.1	RefSeq	CDS	645776	646020	.	+	0	transcript_id "rna-XM_073724813.1"; gene_id "gene-BDW74DRAFT_155353";
+NW_027395967.1	RefSeq	CDS	646067	646913	.	+	1	transcript_id "rna-XM_073724813.1"; gene_id "gene-BDW74DRAFT_155353";
+NW_027395968.1	RefSeq	transcript	472720	473666	.	+	.	transcript_id "rna-XM_073732590.1"; gene_id "gene-BDW74DRAFT_35039"
+NW_027395968.1	RefSeq	exon	472720	472898	.	+	.	transcript_id "rna-XM_073732590.1"; gene_id "gene-BDW74DRAFT_35039";
+NW_027395968.1	RefSeq	exon	472961	473666	.	+	.	transcript_id "rna-XM_073732590.1"; gene_id "gene-BDW74DRAFT_35039";
+NW_027395968.1	RefSeq	CDS	472768	472898	.	+	0	transcript_id "rna-XM_073732590.1"; gene_id "gene-BDW74DRAFT_35039";
+NW_027395968.1	RefSeq	CDS	472961	473528	.	+	1	transcript_id "rna-XM_073732590.1"; gene_id "gene-BDW74DRAFT_35039";
+NW_027395968.1	RefSeq	transcript	554570	556480	.	+	.	transcript_id "rna-XM_073724873.1"; gene_id "gene-BDW74DRAFT_155669"
+NW_027395968.1	RefSeq	exon	554570	555433	.	+	.	transcript_id "rna-XM_073724873.1"; gene_id "gene-BDW74DRAFT_155669";
+NW_027395968.1	RefSeq	exon	555482	556480	.	+	.	transcript_id "rna-XM_073724873.1"; gene_id "gene-BDW74DRAFT_155669";
+NW_027395968.1	RefSeq	CDS	554901	555433	.	+	0	transcript_id "rna-XM_073724873.1"; gene_id "gene-BDW74DRAFT_155669";
+NW_027395968.1	RefSeq	CDS	555482	556049	.	+	1	transcript_id "rna-XM_073724873.1"; gene_id "gene-BDW74DRAFT_155669";
+NW_027395969.1	RefSeq	transcript	259149	260734	.	+	.	transcript_id "rna-XM_073724921.1"; gene_id "gene-BDW74DRAFT_155903"
+NW_027395969.1	RefSeq	exon	259149	259426	.	+	.	transcript_id "rna-XM_073724921.1"; gene_id "gene-BDW74DRAFT_155903";
+NW_027395969.1	RefSeq	exon	259478	259658	.	+	.	transcript_id "rna-XM_073724921.1"; gene_id "gene-BDW74DRAFT_155903";
+NW_027395969.1	RefSeq	exon	259717	260734	.	+	.	transcript_id "rna-XM_073724921.1"; gene_id "gene-BDW74DRAFT_155903";
+NW_027395969.1	RefSeq	CDS	259182	259426	.	+	0	transcript_id "rna-XM_073724921.1"; gene_id "gene-BDW74DRAFT_155903";
+NW_027395969.1	RefSeq	CDS	259478	259658	.	+	1	transcript_id "rna-XM_073724921.1"; gene_id "gene-BDW74DRAFT_155903";
+NW_027395969.1	RefSeq	CDS	259717	260691	.	+	0	transcript_id "rna-XM_073724921.1"; gene_id "gene-BDW74DRAFT_155903";
+NW_027395969.1	RefSeq	transcript	297381	298798	.	-	.	transcript_id "rna-XM_073732640.1"; gene_id "gene-BDW74DRAFT_37355"
+NW_027395969.1	RefSeq	exon	297381	298304	.	-	.	transcript_id "rna-XM_073732640.1"; gene_id "gene-BDW74DRAFT_37355";
+NW_027395969.1	RefSeq	exon	298370	298642	.	-	.	transcript_id "rna-XM_073732640.1"; gene_id "gene-BDW74DRAFT_37355";
+NW_027395969.1	RefSeq	exon	298708	298798	.	-	.	transcript_id "rna-XM_073732640.1"; gene_id "gene-BDW74DRAFT_37355";
+NW_027395969.1	RefSeq	CDS	297558	298304	.	-	0	transcript_id "rna-XM_073732640.1"; gene_id "gene-BDW74DRAFT_37355";
+NW_027395969.1	RefSeq	CDS	298370	298642	.	-	0	transcript_id "rna-XM_073732640.1"; gene_id "gene-BDW74DRAFT_37355";
+NW_027395969.1	RefSeq	CDS	298708	298767	.	-	0	transcript_id "rna-XM_073732640.1"; gene_id "gene-BDW74DRAFT_37355";
+NW_027395970.1	RefSeq	transcript	199801	202972	.	+	.	transcript_id "rna-XM_073724979.1"; gene_id "gene-BDW74DRAFT_156308"
+NW_027395970.1	RefSeq	exon	199801	199839	.	+	.	transcript_id "rna-XM_073724979.1"; gene_id "gene-BDW74DRAFT_156308";
+NW_027395970.1	RefSeq	exon	199912	200024	.	+	.	transcript_id "rna-XM_073724979.1"; gene_id "gene-BDW74DRAFT_156308";
+NW_027395970.1	RefSeq	exon	200089	200584	.	+	.	transcript_id "rna-XM_073724979.1"; gene_id "gene-BDW74DRAFT_156308";
+NW_027395970.1	RefSeq	exon	200636	200883	.	+	.	transcript_id "rna-XM_073724979.1"; gene_id "gene-BDW74DRAFT_156308";
+NW_027395970.1	RefSeq	exon	200935	202972	.	+	.	transcript_id "rna-XM_073724979.1"; gene_id "gene-BDW74DRAFT_156308";
+NW_027395970.1	RefSeq	CDS	199822	199839	.	+	0	transcript_id "rna-XM_073724979.1"; gene_id "gene-BDW74DRAFT_156308";
+NW_027395970.1	RefSeq	CDS	199912	200024	.	+	0	transcript_id "rna-XM_073724979.1"; gene_id "gene-BDW74DRAFT_156308";
+NW_027395970.1	RefSeq	CDS	200089	200584	.	+	1	transcript_id "rna-XM_073724979.1"; gene_id "gene-BDW74DRAFT_156308";
+NW_027395970.1	RefSeq	CDS	200636	200883	.	+	0	transcript_id "rna-XM_073724979.1"; gene_id "gene-BDW74DRAFT_156308";
+NW_027395970.1	RefSeq	CDS	200935	202765	.	+	1	transcript_id "rna-XM_073724979.1"; gene_id "gene-BDW74DRAFT_156308";
+NW_027395970.1	RefSeq	transcript	566586	568531	.	+	.	transcript_id "rna-XM_073732726.1"; gene_id "gene-BDW74DRAFT_41413"
+NW_027395970.1	RefSeq	exon	566586	566944	.	+	.	transcript_id "rna-XM_073732726.1"; gene_id "gene-BDW74DRAFT_41413";
+NW_027395970.1	RefSeq	exon	567020	567355	.	+	.	transcript_id "rna-XM_073732726.1"; gene_id "gene-BDW74DRAFT_41413";
+NW_027395970.1	RefSeq	exon	567429	568531	.	+	.	transcript_id "rna-XM_073732726.1"; gene_id "gene-BDW74DRAFT_41413";
+NW_027395970.1	RefSeq	CDS	566718	566944	.	+	0	transcript_id "rna-XM_073732726.1"; gene_id "gene-BDW74DRAFT_41413";
+NW_027395970.1	RefSeq	CDS	567020	567355	.	+	1	transcript_id "rna-XM_073732726.1"; gene_id "gene-BDW74DRAFT_41413";
+NW_027395970.1	RefSeq	CDS	567429	568233	.	+	1	transcript_id "rna-XM_073732726.1"; gene_id "gene-BDW74DRAFT_41413";
+NW_027395971.1	RefSeq	transcript	467813	470084	.	-	.	transcript_id "rna-XM_073725070.1"; gene_id "gene-BDW74DRAFT_156994"
+NW_027395971.1	RefSeq	exon	467813	470084	.	-	.	transcript_id "rna-XM_073725070.1"; gene_id "gene-BDW74DRAFT_156994";
+NW_027395971.1	RefSeq	CDS	467975	470044	.	-	0	transcript_id "rna-XM_073725070.1"; gene_id "gene-BDW74DRAFT_156994";
+NW_027395972.1	RefSeq	transcript	329377	332837	.	+	.	transcript_id "rna-XM_073725114.1"; gene_id "gene-BDW74DRAFT_157274"
+NW_027395972.1	RefSeq	exon	329377	329437	.	+	.	transcript_id "rna-XM_073725114.1"; gene_id "gene-BDW74DRAFT_157274";
+NW_027395972.1	RefSeq	exon	329497	329565	.	+	.	transcript_id "rna-XM_073725114.1"; gene_id "gene-BDW74DRAFT_157274";
+NW_027395972.1	RefSeq	exon	329622	329918	.	+	.	transcript_id "rna-XM_073725114.1"; gene_id "gene-BDW74DRAFT_157274";
+NW_027395972.1	RefSeq	exon	329978	330607	.	+	.	transcript_id "rna-XM_073725114.1"; gene_id "gene-BDW74DRAFT_157274";
+NW_027395972.1	RefSeq	exon	330658	330891	.	+	.	transcript_id "rna-XM_073725114.1"; gene_id "gene-BDW74DRAFT_157274";
+NW_027395972.1	RefSeq	exon	330942	331277	.	+	.	transcript_id "rna-XM_073725114.1"; gene_id "gene-BDW74DRAFT_157274";
+NW_027395972.1	RefSeq	exon	331327	331830	.	+	.	transcript_id "rna-XM_073725114.1"; gene_id "gene-BDW74DRAFT_157274";
+NW_027395972.1	RefSeq	exon	331880	332837	.	+	.	transcript_id "rna-XM_073725114.1"; gene_id "gene-BDW74DRAFT_157274";
+NW_027395972.1	RefSeq	CDS	329423	329437	.	+	0	transcript_id "rna-XM_073725114.1"; gene_id "gene-BDW74DRAFT_157274";
+NW_027395972.1	RefSeq	CDS	329497	329565	.	+	0	transcript_id "rna-XM_073725114.1"; gene_id "gene-BDW74DRAFT_157274";
+NW_027395972.1	RefSeq	CDS	329622	329918	.	+	0	transcript_id "rna-XM_073725114.1"; gene_id "gene-BDW74DRAFT_157274";
+NW_027395972.1	RefSeq	CDS	329978	330607	.	+	0	transcript_id "rna-XM_073725114.1"; gene_id "gene-BDW74DRAFT_157274";
+NW_027395972.1	RefSeq	CDS	330658	330891	.	+	0	transcript_id "rna-XM_073725114.1"; gene_id "gene-BDW74DRAFT_157274";
+NW_027395972.1	RefSeq	CDS	330942	331277	.	+	0	transcript_id "rna-XM_073725114.1"; gene_id "gene-BDW74DRAFT_157274";
+NW_027395972.1	RefSeq	CDS	331327	331830	.	+	0	transcript_id "rna-XM_073725114.1"; gene_id "gene-BDW74DRAFT_157274";
+NW_027395972.1	RefSeq	CDS	331880	332656	.	+	0	transcript_id "rna-XM_073725114.1"; gene_id "gene-BDW74DRAFT_157274";
+NW_027395973.1	RefSeq	transcript	241094	242102	.	-	.	transcript_id "rna-XM_073733197.1"; gene_id "gene-BDW74DRAFT_57339"
+NW_027395973.1	RefSeq	exon	241094	241517	.	-	.	transcript_id "rna-XM_073733197.1"; gene_id "gene-BDW74DRAFT_57339";
+NW_027395973.1	RefSeq	exon	241586	242102	.	-	.	transcript_id "rna-XM_073733197.1"; gene_id "gene-BDW74DRAFT_57339";
+NW_027395973.1	RefSeq	CDS	241199	241517	.	-	1	transcript_id "rna-XM_073733197.1"; gene_id "gene-BDW74DRAFT_57339";
+NW_027395973.1	RefSeq	CDS	241586	242061	.	-	0	transcript_id "rna-XM_073733197.1"; gene_id "gene-BDW74DRAFT_57339";
+NW_027395974.1	RefSeq	transcript	94873	97727	.	-	.	transcript_id "rna-XM_073731323.1"; gene_id "gene-BDW74DRAFT_186794"
+NW_027395974.1	RefSeq	exon	94873	97389	.	-	.	transcript_id "rna-XM_073731323.1"; gene_id "gene-BDW74DRAFT_186794";
+NW_027395974.1	RefSeq	exon	97440	97727	.	-	.	transcript_id "rna-XM_073731323.1"; gene_id "gene-BDW74DRAFT_186794";
+NW_027395974.1	RefSeq	CDS	94930	97389	.	-	0	transcript_id "rna-XM_073731323.1"; gene_id "gene-BDW74DRAFT_186794";
+NW_027395974.1	RefSeq	CDS	97440	97727	.	-	0	transcript_id "rna-XM_073731323.1"; gene_id "gene-BDW74DRAFT_186794";
+NW_027395974.1	RefSeq	transcript	136239	137791	.	-	.	transcript_id "rna-XM_073725233.1"; gene_id "gene-BDW74DRAFT_157979"
+NW_027395974.1	RefSeq	exon	136239	136731	.	-	.	transcript_id "rna-XM_073725233.1"; gene_id "gene-BDW74DRAFT_157979";
+NW_027395974.1	RefSeq	exon	136785	136959	.	-	.	transcript_id "rna-XM_073725233.1"; gene_id "gene-BDW74DRAFT_157979";
+NW_027395974.1	RefSeq	exon	137006	137069	.	-	.	transcript_id "rna-XM_073725233.1"; gene_id "gene-BDW74DRAFT_157979";
+NW_027395974.1	RefSeq	exon	137125	137211	.	-	.	transcript_id "rna-XM_073725233.1"; gene_id "gene-BDW74DRAFT_157979";
+NW_027395974.1	RefSeq	exon	137280	137376	.	-	.	transcript_id "rna-XM_073725233.1"; gene_id "gene-BDW74DRAFT_157979";
+NW_027395974.1	RefSeq	exon	137449	137547	.	-	.	transcript_id "rna-XM_073725233.1"; gene_id "gene-BDW74DRAFT_157979";
+NW_027395974.1	RefSeq	exon	137599	137791	.	-	.	transcript_id "rna-XM_073725233.1"; gene_id "gene-BDW74DRAFT_157979";
+NW_027395974.1	RefSeq	CDS	136687	136731	.	-	0	transcript_id "rna-XM_073725233.1"; gene_id "gene-BDW74DRAFT_157979";
+NW_027395974.1	RefSeq	CDS	136785	136959	.	-	1	transcript_id "rna-XM_073725233.1"; gene_id "gene-BDW74DRAFT_157979";
+NW_027395974.1	RefSeq	CDS	137006	137069	.	-	2	transcript_id "rna-XM_073725233.1"; gene_id "gene-BDW74DRAFT_157979";
+NW_027395974.1	RefSeq	CDS	137125	137211	.	-	2	transcript_id "rna-XM_073725233.1"; gene_id "gene-BDW74DRAFT_157979";
+NW_027395974.1	RefSeq	CDS	137280	137376	.	-	0	transcript_id "rna-XM_073725233.1"; gene_id "gene-BDW74DRAFT_157979";
+NW_027395974.1	RefSeq	CDS	137449	137547	.	-	0	transcript_id "rna-XM_073725233.1"; gene_id "gene-BDW74DRAFT_157979";
+NW_027395974.1	RefSeq	CDS	137599	137610	.	-	0	transcript_id "rna-XM_073725233.1"; gene_id "gene-BDW74DRAFT_157979";
+NW_027395974.1	RefSeq	transcript	205369	207353	.	+	.	transcript_id "rna-XM_073733271.1"; gene_id "gene-BDW74DRAFT_60609"
+NW_027395974.1	RefSeq	exon	205369	205710	.	+	.	transcript_id "rna-XM_073733271.1"; gene_id "gene-BDW74DRAFT_60609";
+NW_027395974.1	RefSeq	exon	205782	207353	.	+	.	transcript_id "rna-XM_073733271.1"; gene_id "gene-BDW74DRAFT_60609";
+NW_027395974.1	RefSeq	CDS	205680	205710	.	+	0	transcript_id "rna-XM_073733271.1"; gene_id "gene-BDW74DRAFT_60609";
+NW_027395974.1	RefSeq	CDS	205782	207277	.	+	2	transcript_id "rna-XM_073733271.1"; gene_id "gene-BDW74DRAFT_60609";
+NW_027395974.1	RefSeq	transcript	219219	221047	.	-	.	transcript_id "rna-XM_073725242.1"; gene_id "gene-BDW74DRAFT_158026"
+NW_027395974.1	RefSeq	exon	219219	221047	.	-	.	transcript_id "rna-XM_073725242.1"; gene_id "gene-BDW74DRAFT_158026";
+NW_027395974.1	RefSeq	CDS	219806	221014	.	-	0	transcript_id "rna-XM_073725242.1"; gene_id "gene-BDW74DRAFT_158026";
+NW_027395974.1	RefSeq	transcript	265216	267028	.	+	.	transcript_id "rna-XM_073725248.1"; gene_id "gene-BDW74DRAFT_158051"
+NW_027395974.1	RefSeq	exon	265216	265333	.	+	.	transcript_id "rna-XM_073725248.1"; gene_id "gene-BDW74DRAFT_158051";
+NW_027395974.1	RefSeq	exon	265442	267028	.	+	.	transcript_id "rna-XM_073725248.1"; gene_id "gene-BDW74DRAFT_158051";
+NW_027395974.1	RefSeq	CDS	265258	265333	.	+	0	transcript_id "rna-XM_073725248.1"; gene_id "gene-BDW74DRAFT_158051";
+NW_027395974.1	RefSeq	CDS	265442	266307	.	+	2	transcript_id "rna-XM_073725248.1"; gene_id "gene-BDW74DRAFT_158051";
+NW_027395974.1	RefSeq	transcript	439338	440707	.	+	.	transcript_id "rna-XM_073725276.1"; gene_id "gene-BDW74DRAFT_158237"
+NW_027395974.1	RefSeq	exon	439338	440707	.	+	.	transcript_id "rna-XM_073725276.1"; gene_id "gene-BDW74DRAFT_158237";
+NW_027395974.1	RefSeq	CDS	439392	440618	.	+	0	transcript_id "rna-XM_073725276.1"; gene_id "gene-BDW74DRAFT_158237";
+NW_027395975.1	RefSeq	transcript	293024	294641	.	-	.	transcript_id "rna-XM_073731344.1"; gene_id "gene-BDW74DRAFT_186898"; gene_name "trm61"
+NW_027395975.1	RefSeq	exon	293024	294641	.	-	.	transcript_id "rna-XM_073731344.1"; gene_id "gene-BDW74DRAFT_186898"; gene_name "trm61";
+NW_027395975.1	RefSeq	CDS	293089	294621	.	-	0	transcript_id "rna-XM_073731344.1"; gene_id "gene-BDW74DRAFT_186898"; gene_name "trm61";
+NW_027395975.1	RefSeq	transcript	459194	460582	.	-	.	transcript_id "rna-XM_073727019.1"; gene_id "gene-BDW74DRAFT_169615"
+NW_027395975.1	RefSeq	exon	459194	459625	.	-	.	transcript_id "rna-XM_073727019.1"; gene_id "gene-BDW74DRAFT_169615";
+NW_027395975.1	RefSeq	exon	459671	459865	.	-	.	transcript_id "rna-XM_073727019.1"; gene_id "gene-BDW74DRAFT_169615";
+NW_027395975.1	RefSeq	exon	459920	460459	.	-	.	transcript_id "rna-XM_073727019.1"; gene_id "gene-BDW74DRAFT_169615";
+NW_027395975.1	RefSeq	exon	460529	460582	.	-	.	transcript_id "rna-XM_073727019.1"; gene_id "gene-BDW74DRAFT_169615";
+NW_027395975.1	RefSeq	CDS	459194	459625	.	-	0	transcript_id "rna-XM_073727019.1"; gene_id "gene-BDW74DRAFT_169615";
+NW_027395975.1	RefSeq	CDS	459671	459865	.	-	0	transcript_id "rna-XM_073727019.1"; gene_id "gene-BDW74DRAFT_169615";
+NW_027395975.1	RefSeq	CDS	459920	460459	.	-	0	transcript_id "rna-XM_073727019.1"; gene_id "gene-BDW74DRAFT_169615";
+NW_027395975.1	RefSeq	CDS	460529	460582	.	-	0	transcript_id "rna-XM_073727019.1"; gene_id "gene-BDW74DRAFT_169615";
+NW_027395975.1	RefSeq	transcript	484738	485405	.	-	.	transcript_id "rna-XM_073727021.1"; gene_id "gene-BDW74DRAFT_169625"
+NW_027395975.1	RefSeq	exon	484738	484936	.	-	.	transcript_id "rna-XM_073727021.1"; gene_id "gene-BDW74DRAFT_169625";
+NW_027395975.1	RefSeq	exon	484992	485140	.	-	.	transcript_id "rna-XM_073727021.1"; gene_id "gene-BDW74DRAFT_169625";
+NW_027395975.1	RefSeq	exon	485223	485405	.	-	.	transcript_id "rna-XM_073727021.1"; gene_id "gene-BDW74DRAFT_169625";
+NW_027395975.1	RefSeq	CDS	484738	484936	.	-	1	transcript_id "rna-XM_073727021.1"; gene_id "gene-BDW74DRAFT_169625";
+NW_027395975.1	RefSeq	CDS	484992	485140	.	-	0	transcript_id "rna-XM_073727021.1"; gene_id "gene-BDW74DRAFT_169625";
+NW_027395975.1	RefSeq	CDS	485223	485405	.	-	0	transcript_id "rna-XM_073727021.1"; gene_id "gene-BDW74DRAFT_169625";
+NW_027395978.1	RefSeq	transcript	163631	168020	.	-	.	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854"
+NW_027395978.1	RefSeq	exon	163631	163870	.	-	.	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	exon	163904	164721	.	-	.	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	exon	164767	164779	.	-	.	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	exon	164813	165220	.	-	.	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	exon	165254	165747	.	-	.	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	exon	166322	166698	.	-	.	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	exon	166756	166987	.	-	.	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	exon	167032	167073	.	-	.	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	exon	167137	167250	.	-	.	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	exon	167303	167345	.	-	.	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	exon	167401	167545	.	-	.	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	exon	167639	167766	.	-	.	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	exon	167844	168020	.	-	.	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	CDS	163631	163870	.	-	0	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	CDS	163904	164721	.	-	2	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	CDS	164767	164779	.	-	0	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	CDS	164813	165220	.	-	0	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	CDS	165254	165747	.	-	2	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	CDS	166322	166698	.	-	1	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	CDS	166756	166987	.	-	2	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	CDS	167032	167073	.	-	2	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	CDS	167137	167250	.	-	2	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	CDS	167303	167345	.	-	0	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	CDS	167401	167545	.	-	1	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	CDS	167639	167766	.	-	0	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	CDS	167844	168020	.	-	0	transcript_id "rna-XM_073727066.1"; gene_id "gene-BDW74DRAFT_169854";
+NW_027395978.1	RefSeq	transcript	179699	181787	.	-	.	transcript_id "rna-XM_073725422.1"; gene_id "gene-BDW74DRAFT_159121"
+NW_027395978.1	RefSeq	exon	179699	179887	.	-	.	transcript_id "rna-XM_073725422.1"; gene_id "gene-BDW74DRAFT_159121";
+NW_027395978.1	RefSeq	exon	179950	180181	.	-	.	transcript_id "rna-XM_073725422.1"; gene_id "gene-BDW74DRAFT_159121";
+NW_027395978.1	RefSeq	exon	180235	180885	.	-	.	transcript_id "rna-XM_073725422.1"; gene_id "gene-BDW74DRAFT_159121";
+NW_027395978.1	RefSeq	exon	180956	181787	.	-	.	transcript_id "rna-XM_073725422.1"; gene_id "gene-BDW74DRAFT_159121";
+NW_027395978.1	RefSeq	CDS	180354	180885	.	-	1	transcript_id "rna-XM_073725422.1"; gene_id "gene-BDW74DRAFT_159121";
+NW_027395978.1	RefSeq	CDS	180956	181434	.	-	0	transcript_id "rna-XM_073725422.1"; gene_id "gene-BDW74DRAFT_159121";
+NW_027395978.1	RefSeq	transcript	300384	302408	.	-	.	transcript_id "rna-XM_073725440.1"; gene_id "gene-BDW74DRAFT_159231"
+NW_027395978.1	RefSeq	exon	300384	301484	.	-	.	transcript_id "rna-XM_073725440.1"; gene_id "gene-BDW74DRAFT_159231";
+NW_027395978.1	RefSeq	exon	301543	302043	.	-	.	transcript_id "rna-XM_073725440.1"; gene_id "gene-BDW74DRAFT_159231";
+NW_027395978.1	RefSeq	exon	302099	302408	.	-	.	transcript_id "rna-XM_073725440.1"; gene_id "gene-BDW74DRAFT_159231";
+NW_027395978.1	RefSeq	CDS	300480	301484	.	-	0	transcript_id "rna-XM_073725440.1"; gene_id "gene-BDW74DRAFT_159231";
+NW_027395978.1	RefSeq	CDS	301543	302043	.	-	0	transcript_id "rna-XM_073725440.1"; gene_id "gene-BDW74DRAFT_159231";
+NW_027395978.1	RefSeq	CDS	302099	302335	.	-	0	transcript_id "rna-XM_073725440.1"; gene_id "gene-BDW74DRAFT_159231";
+NW_027395978.1	RefSeq	transcript	361411	363969	.	+	.	transcript_id "rna-XM_073733455.1"; gene_id "gene-BDW74DRAFT_68676"
+NW_027395978.1	RefSeq	exon	361411	363969	.	+	.	transcript_id "rna-XM_073733455.1"; gene_id "gene-BDW74DRAFT_68676";
+NW_027395978.1	RefSeq	CDS	361516	363750	.	+	0	transcript_id "rna-XM_073733455.1"; gene_id "gene-BDW74DRAFT_68676";
+NW_027395978.1	RefSeq	transcript	390780	393778	.	+	.	transcript_id "rna-XM_073725449.1"; gene_id "gene-BDW74DRAFT_159328"
+NW_027395978.1	RefSeq	exon	390780	391117	.	+	.	transcript_id "rna-XM_073725449.1"; gene_id "gene-BDW74DRAFT_159328";
+NW_027395978.1	RefSeq	exon	391181	391289	.	+	.	transcript_id "rna-XM_073725449.1"; gene_id "gene-BDW74DRAFT_159328";
+NW_027395978.1	RefSeq	exon	391346	392037	.	+	.	transcript_id "rna-XM_073725449.1"; gene_id "gene-BDW74DRAFT_159328";
+NW_027395978.1	RefSeq	exon	392100	392244	.	+	.	transcript_id "rna-XM_073725449.1"; gene_id "gene-BDW74DRAFT_159328";
+NW_027395978.1	RefSeq	exon	392294	392761	.	+	.	transcript_id "rna-XM_073725449.1"; gene_id "gene-BDW74DRAFT_159328";
+NW_027395978.1	RefSeq	exon	392813	393169	.	+	.	transcript_id "rna-XM_073725449.1"; gene_id "gene-BDW74DRAFT_159328";
+NW_027395978.1	RefSeq	exon	393235	393778	.	+	.	transcript_id "rna-XM_073725449.1"; gene_id "gene-BDW74DRAFT_159328";
+NW_027395978.1	RefSeq	CDS	390927	391117	.	+	0	transcript_id "rna-XM_073725449.1"; gene_id "gene-BDW74DRAFT_159328";
+NW_027395978.1	RefSeq	CDS	391181	391289	.	+	1	transcript_id "rna-XM_073725449.1"; gene_id "gene-BDW74DRAFT_159328";
+NW_027395978.1	RefSeq	CDS	391346	392037	.	+	0	transcript_id "rna-XM_073725449.1"; gene_id "gene-BDW74DRAFT_159328";
+NW_027395978.1	RefSeq	CDS	392100	392244	.	+	1	transcript_id "rna-XM_073725449.1"; gene_id "gene-BDW74DRAFT_159328";
+NW_027395978.1	RefSeq	CDS	392294	392761	.	+	0	transcript_id "rna-XM_073725449.1"; gene_id "gene-BDW74DRAFT_159328";
+NW_027395978.1	RefSeq	CDS	392813	393169	.	+	0	transcript_id "rna-XM_073725449.1"; gene_id "gene-BDW74DRAFT_159328";
+NW_027395978.1	RefSeq	CDS	393235	393321	.	+	0	transcript_id "rna-XM_073725449.1"; gene_id "gene-BDW74DRAFT_159328";
+NW_027395979.1	RefSeq	transcript	219140	225723	.	-	.	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962"
+NW_027395979.1	RefSeq	exon	219140	219302	.	-	.	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	exon	219350	222921	.	-	.	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	exon	223301	223304	.	-	.	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	exon	223543	223621	.	-	.	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	exon	223673	223790	.	-	.	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	exon	223838	224122	.	-	.	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	exon	224170	224684	.	-	.	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	exon	224731	224824	.	-	.	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	exon	224868	225102	.	-	.	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	exon	225149	225255	.	-	.	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	exon	225304	225542	.	-	.	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	exon	225594	225648	.	-	.	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	exon	225697	225723	.	-	.	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	CDS	219140	219302	.	-	1	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	CDS	219350	222921	.	-	0	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	CDS	223301	223304	.	-	1	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	CDS	223543	223621	.	-	2	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	CDS	223673	223790	.	-	0	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	CDS	223838	224122	.	-	0	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	CDS	224170	224684	.	-	2	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	CDS	224731	224824	.	-	0	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	CDS	224868	225102	.	-	1	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	CDS	225149	225255	.	-	0	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	CDS	225304	225542	.	-	2	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	CDS	225594	225648	.	-	0	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	CDS	225697	225723	.	-	0	transcript_id "rna-XM_073727083.1"; gene_id "gene-BDW74DRAFT_169962";
+NW_027395979.1	RefSeq	transcript	290482	292673	.	+	.	transcript_id "rna-XM_073725477.1"; gene_id "gene-BDW74DRAFT_159548"
+NW_027395979.1	RefSeq	exon	290482	290706	.	+	.	transcript_id "rna-XM_073725477.1"; gene_id "gene-BDW74DRAFT_159548";
+NW_027395979.1	RefSeq	exon	290816	291516	.	+	.	transcript_id "rna-XM_073725477.1"; gene_id "gene-BDW74DRAFT_159548";
+NW_027395979.1	RefSeq	exon	291571	291767	.	+	.	transcript_id "rna-XM_073725477.1"; gene_id "gene-BDW74DRAFT_159548";
+NW_027395979.1	RefSeq	exon	291820	292673	.	+	.	transcript_id "rna-XM_073725477.1"; gene_id "gene-BDW74DRAFT_159548";
+NW_027395979.1	RefSeq	CDS	290627	290706	.	+	0	transcript_id "rna-XM_073725477.1"; gene_id "gene-BDW74DRAFT_159548";
+NW_027395979.1	RefSeq	CDS	290816	291516	.	+	1	transcript_id "rna-XM_073725477.1"; gene_id "gene-BDW74DRAFT_159548";
+NW_027395979.1	RefSeq	CDS	291571	291767	.	+	2	transcript_id "rna-XM_073725477.1"; gene_id "gene-BDW74DRAFT_159548";
+NW_027395979.1	RefSeq	CDS	291820	292239	.	+	0	transcript_id "rna-XM_073725477.1"; gene_id "gene-BDW74DRAFT_159548";
+NW_027395980.1	RefSeq	transcript	145113	146087	.	+	.	transcript_id "rna-XM_073730069.1"; gene_id "gene-BDW74DRAFT_181611"
+NW_027395980.1	RefSeq	exon	145113	145427	.	+	.	transcript_id "rna-XM_073730069.1"; gene_id "gene-BDW74DRAFT_181611";
+NW_027395980.1	RefSeq	exon	145527	146087	.	+	.	transcript_id "rna-XM_073730069.1"; gene_id "gene-BDW74DRAFT_181611";
+NW_027395980.1	RefSeq	CDS	145113	145427	.	+	0	transcript_id "rna-XM_073730069.1"; gene_id "gene-BDW74DRAFT_181611";
+NW_027395980.1	RefSeq	CDS	145527	146087	.	+	0	transcript_id "rna-XM_073730069.1"; gene_id "gene-BDW74DRAFT_181611";
+NW_027395980.1	RefSeq	transcript	283043	284213	.	+	.	transcript_id "rna-XM_073725525.1"; gene_id "gene-BDW74DRAFT_159873"
+NW_027395980.1	RefSeq	exon	283043	283339	.	+	.	transcript_id "rna-XM_073725525.1"; gene_id "gene-BDW74DRAFT_159873";
+NW_027395980.1	RefSeq	exon	283416	284213	.	+	.	transcript_id "rna-XM_073725525.1"; gene_id "gene-BDW74DRAFT_159873";
+NW_027395980.1	RefSeq	CDS	283146	283339	.	+	0	transcript_id "rna-XM_073725525.1"; gene_id "gene-BDW74DRAFT_159873";
+NW_027395980.1	RefSeq	CDS	283416	283959	.	+	1	transcript_id "rna-XM_073725525.1"; gene_id "gene-BDW74DRAFT_159873";
+NW_027395980.1	RefSeq	transcript	286346	286878	.	+	.	transcript_id "rna-XM_073730076.1"; gene_id "gene-BDW74DRAFT_181662"
+NW_027395980.1	RefSeq	exon	286346	286384	.	+	.	transcript_id "rna-XM_073730076.1"; gene_id "gene-BDW74DRAFT_181662";
+NW_027395980.1	RefSeq	exon	286446	286528	.	+	.	transcript_id "rna-XM_073730076.1"; gene_id "gene-BDW74DRAFT_181662";
+NW_027395980.1	RefSeq	exon	286587	286878	.	+	.	transcript_id "rna-XM_073730076.1"; gene_id "gene-BDW74DRAFT_181662";
+NW_027395980.1	RefSeq	CDS	286346	286384	.	+	0	transcript_id "rna-XM_073730076.1"; gene_id "gene-BDW74DRAFT_181662";
+NW_027395980.1	RefSeq	CDS	286446	286528	.	+	0	transcript_id "rna-XM_073730076.1"; gene_id "gene-BDW74DRAFT_181662";
+NW_027395980.1	RefSeq	CDS	286587	286878	.	+	1	transcript_id "rna-XM_073730076.1"; gene_id "gene-BDW74DRAFT_181662";
+NW_027395980.1	RefSeq	transcript	347129	349045	.	+	.	transcript_id "rna-XM_073725537.1"; gene_id "gene-BDW74DRAFT_159932"
+NW_027395980.1	RefSeq	exon	347129	347217	.	+	.	transcript_id "rna-XM_073725537.1"; gene_id "gene-BDW74DRAFT_159932";
+NW_027395980.1	RefSeq	exon	347326	347459	.	+	.	transcript_id "rna-XM_073725537.1"; gene_id "gene-BDW74DRAFT_159932";
+NW_027395980.1	RefSeq	exon	347521	347538	.	+	.	transcript_id "rna-XM_073725537.1"; gene_id "gene-BDW74DRAFT_159932";
+NW_027395980.1	RefSeq	exon	347625	348166	.	+	.	transcript_id "rna-XM_073725537.1"; gene_id "gene-BDW74DRAFT_159932";
+NW_027395980.1	RefSeq	exon	348231	349045	.	+	.	transcript_id "rna-XM_073725537.1"; gene_id "gene-BDW74DRAFT_159932";
+NW_027395980.1	RefSeq	CDS	347403	347459	.	+	0	transcript_id "rna-XM_073725537.1"; gene_id "gene-BDW74DRAFT_159932";
+NW_027395980.1	RefSeq	CDS	347521	347538	.	+	0	transcript_id "rna-XM_073725537.1"; gene_id "gene-BDW74DRAFT_159932";
+NW_027395980.1	RefSeq	CDS	347625	348166	.	+	0	transcript_id "rna-XM_073725537.1"; gene_id "gene-BDW74DRAFT_159932";
+NW_027395980.1	RefSeq	CDS	348231	348642	.	+	1	transcript_id "rna-XM_073725537.1"; gene_id "gene-BDW74DRAFT_159932";
+NW_027395982.1	RefSeq	transcript	37793	39213	.	-	.	transcript_id "rna-XM_073725560.1"; gene_id "gene-BDW74DRAFT_160113"
+NW_027395982.1	RefSeq	exon	37793	38126	.	-	.	transcript_id "rna-XM_073725560.1"; gene_id "gene-BDW74DRAFT_160113";
+NW_027395982.1	RefSeq	exon	38183	38395	.	-	.	transcript_id "rna-XM_073725560.1"; gene_id "gene-BDW74DRAFT_160113";
+NW_027395982.1	RefSeq	exon	38449	38487	.	-	.	transcript_id "rna-XM_073725560.1"; gene_id "gene-BDW74DRAFT_160113";
+NW_027395982.1	RefSeq	exon	38538	39041	.	-	.	transcript_id "rna-XM_073725560.1"; gene_id "gene-BDW74DRAFT_160113";
+NW_027395982.1	RefSeq	exon	39098	39108	.	-	.	transcript_id "rna-XM_073725560.1"; gene_id "gene-BDW74DRAFT_160113";
+NW_027395982.1	RefSeq	exon	39174	39213	.	-	.	transcript_id "rna-XM_073725560.1"; gene_id "gene-BDW74DRAFT_160113";
+NW_027395982.1	RefSeq	CDS	38111	38126	.	-	1	transcript_id "rna-XM_073725560.1"; gene_id "gene-BDW74DRAFT_160113";
+NW_027395982.1	RefSeq	CDS	38183	38395	.	-	1	transcript_id "rna-XM_073725560.1"; gene_id "gene-BDW74DRAFT_160113";
+NW_027395982.1	RefSeq	CDS	38449	38487	.	-	1	transcript_id "rna-XM_073725560.1"; gene_id "gene-BDW74DRAFT_160113";
+NW_027395982.1	RefSeq	CDS	38538	39041	.	-	1	transcript_id "rna-XM_073725560.1"; gene_id "gene-BDW74DRAFT_160113";
+NW_027395982.1	RefSeq	CDS	39098	39108	.	-	0	transcript_id "rna-XM_073725560.1"; gene_id "gene-BDW74DRAFT_160113";
+NW_027395982.1	RefSeq	CDS	39174	39176	.	-	0	transcript_id "rna-XM_073725560.1"; gene_id "gene-BDW74DRAFT_160113";
+NW_027395982.1	RefSeq	transcript	52041	54144	.	-	.	transcript_id "rna-XM_073733872.1"; gene_id "gene-BDW74DRAFT_84569"
+NW_027395982.1	RefSeq	exon	52041	53242	.	-	.	transcript_id "rna-XM_073733872.1"; gene_id "gene-BDW74DRAFT_84569";
+NW_027395982.1	RefSeq	exon	53295	53459	.	-	.	transcript_id "rna-XM_073733872.1"; gene_id "gene-BDW74DRAFT_84569";
+NW_027395982.1	RefSeq	exon	53524	53614	.	-	.	transcript_id "rna-XM_073733872.1"; gene_id "gene-BDW74DRAFT_84569";
+NW_027395982.1	RefSeq	exon	53690	54144	.	-	.	transcript_id "rna-XM_073733872.1"; gene_id "gene-BDW74DRAFT_84569";
+NW_027395982.1	RefSeq	CDS	52181	53242	.	-	0	transcript_id "rna-XM_073733872.1"; gene_id "gene-BDW74DRAFT_84569";
+NW_027395982.1	RefSeq	CDS	53295	53459	.	-	0	transcript_id "rna-XM_073733872.1"; gene_id "gene-BDW74DRAFT_84569";
+NW_027395982.1	RefSeq	CDS	53524	53614	.	-	1	transcript_id "rna-XM_073733872.1"; gene_id "gene-BDW74DRAFT_84569";
+NW_027395982.1	RefSeq	CDS	53690	53901	.	-	0	transcript_id "rna-XM_073733872.1"; gene_id "gene-BDW74DRAFT_84569";
+NW_027395984.1	RefSeq	transcript	91955	95267	.	+	.	transcript_id "rna-XM_073733957.1"; gene_id "gene-BDW74DRAFT_87364"
+NW_027395984.1	RefSeq	exon	91955	94492	.	+	.	transcript_id "rna-XM_073733957.1"; gene_id "gene-BDW74DRAFT_87364";
+NW_027395984.1	RefSeq	exon	94547	95267	.	+	.	transcript_id "rna-XM_073733957.1"; gene_id "gene-BDW74DRAFT_87364";
+NW_027395984.1	RefSeq	CDS	92354	94492	.	+	0	transcript_id "rna-XM_073733957.1"; gene_id "gene-BDW74DRAFT_87364";
+NW_027395984.1	RefSeq	CDS	94547	95050	.	+	0	transcript_id "rna-XM_073733957.1"; gene_id "gene-BDW74DRAFT_87364";
+NW_027395984.1	RefSeq	transcript	108334	109553	.	-	.	transcript_id "rna-XM_073733962.1"; gene_id "gene-BDW74DRAFT_87419"; gene_name "tma22"
+NW_027395984.1	RefSeq	exon	108334	108828	.	-	.	transcript_id "rna-XM_073733962.1"; gene_id "gene-BDW74DRAFT_87419"; gene_name "tma22";
+NW_027395984.1	RefSeq	exon	108894	108981	.	-	.	transcript_id "rna-XM_073733962.1"; gene_id "gene-BDW74DRAFT_87419"; gene_name "tma22";
+NW_027395984.1	RefSeq	exon	109113	109132	.	-	.	transcript_id "rna-XM_073733962.1"; gene_id "gene-BDW74DRAFT_87419"; gene_name "tma22";
+NW_027395984.1	RefSeq	exon	109245	109553	.	-	.	transcript_id "rna-XM_073733962.1"; gene_id "gene-BDW74DRAFT_87419"; gene_name "tma22";
+NW_027395984.1	RefSeq	CDS	108407	108828	.	-	2	transcript_id "rna-XM_073733962.1"; gene_id "gene-BDW74DRAFT_87419"; gene_name "tma22";
+NW_027395984.1	RefSeq	CDS	108894	108981	.	-	0	transcript_id "rna-XM_073733962.1"; gene_id "gene-BDW74DRAFT_87419"; gene_name "tma22";
+NW_027395984.1	RefSeq	CDS	109113	109132	.	-	2	transcript_id "rna-XM_073733962.1"; gene_id "gene-BDW74DRAFT_87419"; gene_name "tma22";
+NW_027395984.1	RefSeq	CDS	109245	109305	.	-	0	transcript_id "rna-XM_073733962.1"; gene_id "gene-BDW74DRAFT_87419"; gene_name "tma22";
+NW_027395985.1	RefSeq	transcript	59940	61269	.	+	.	transcript_id "rna-XM_073733990.1"; gene_id "gene-BDW74DRAFT_88657"
+NW_027395985.1	RefSeq	exon	59940	60930	.	+	.	transcript_id "rna-XM_073733990.1"; gene_id "gene-BDW74DRAFT_88657";
+NW_027395985.1	RefSeq	exon	60982	61269	.	+	.	transcript_id "rna-XM_073733990.1"; gene_id "gene-BDW74DRAFT_88657";
+NW_027395985.1	RefSeq	CDS	60014	60930	.	+	0	transcript_id "rna-XM_073733990.1"; gene_id "gene-BDW74DRAFT_88657";
+NW_027395985.1	RefSeq	CDS	60982	61174	.	+	1	transcript_id "rna-XM_073733990.1"; gene_id "gene-BDW74DRAFT_88657";
+NW_027395985.1	RefSeq	transcript	68187	70953	.	+	.	transcript_id "rna-XM_073725681.1"; gene_id "gene-BDW74DRAFT_160793"
+NW_027395985.1	RefSeq	exon	68187	70953	.	+	.	transcript_id "rna-XM_073725681.1"; gene_id "gene-BDW74DRAFT_160793";
+NW_027395985.1	RefSeq	CDS	68215	70812	.	+	0	transcript_id "rna-XM_073725681.1"; gene_id "gene-BDW74DRAFT_160793";
+NW_027395986.1	RefSeq	transcript	198325	201729	.	-	.	transcript_id "rna-XM_073725745.1"; gene_id "gene-BDW74DRAFT_161168"
+NW_027395986.1	RefSeq	exon	198325	198835	.	-	.	transcript_id "rna-XM_073725745.1"; gene_id "gene-BDW74DRAFT_161168";
+NW_027395986.1	RefSeq	exon	198902	199071	.	-	.	transcript_id "rna-XM_073725745.1"; gene_id "gene-BDW74DRAFT_161168";
+NW_027395986.1	RefSeq	exon	199124	201414	.	-	.	transcript_id "rna-XM_073725745.1"; gene_id "gene-BDW74DRAFT_161168";
+NW_027395986.1	RefSeq	exon	201467	201582	.	-	.	transcript_id "rna-XM_073725745.1"; gene_id "gene-BDW74DRAFT_161168";
+NW_027395986.1	RefSeq	exon	201637	201729	.	-	.	transcript_id "rna-XM_073725745.1"; gene_id "gene-BDW74DRAFT_161168";
+NW_027395986.1	RefSeq	CDS	198748	198835	.	-	1	transcript_id "rna-XM_073725745.1"; gene_id "gene-BDW74DRAFT_161168";
+NW_027395986.1	RefSeq	CDS	198902	199071	.	-	0	transcript_id "rna-XM_073725745.1"; gene_id "gene-BDW74DRAFT_161168";
+NW_027395986.1	RefSeq	CDS	199124	201414	.	-	2	transcript_id "rna-XM_073725745.1"; gene_id "gene-BDW74DRAFT_161168";
+NW_027395986.1	RefSeq	CDS	201467	201582	.	-	1	transcript_id "rna-XM_073725745.1"; gene_id "gene-BDW74DRAFT_161168";
+NW_027395986.1	RefSeq	CDS	201637	201641	.	-	0	transcript_id "rna-XM_073725745.1"; gene_id "gene-BDW74DRAFT_161168";
+NW_027395986.1	RefSeq	transcript	316421	317072	.	-	.	transcript_id "rna-XM_073725758.1"; gene_id "gene-BDW74DRAFT_161240"; gene_name "cwc26"
+NW_027395986.1	RefSeq	exon	316421	317072	.	-	.	transcript_id "rna-XM_073725758.1"; gene_id "gene-BDW74DRAFT_161240"; gene_name "cwc26";
+NW_027395986.1	RefSeq	CDS	316659	317011	.	-	0	transcript_id "rna-XM_073725758.1"; gene_id "gene-BDW74DRAFT_161240"; gene_name "cwc26";
+NW_027395988.1	RefSeq	transcript	61693	63507	.	+	.	transcript_id "rna-XM_073734104.1"; gene_id "gene-BDW74DRAFT_93164"
+NW_027395988.1	RefSeq	exon	61693	62319	.	+	.	transcript_id "rna-XM_073734104.1"; gene_id "gene-BDW74DRAFT_93164";
+NW_027395988.1	RefSeq	exon	62378	62514	.	+	.	transcript_id "rna-XM_073734104.1"; gene_id "gene-BDW74DRAFT_93164";
+NW_027395988.1	RefSeq	exon	62564	63507	.	+	.	transcript_id "rna-XM_073734104.1"; gene_id "gene-BDW74DRAFT_93164";
+NW_027395988.1	RefSeq	CDS	62084	62319	.	+	0	transcript_id "rna-XM_073734104.1"; gene_id "gene-BDW74DRAFT_93164";
+NW_027395988.1	RefSeq	CDS	62378	62514	.	+	1	transcript_id "rna-XM_073734104.1"; gene_id "gene-BDW74DRAFT_93164";
+NW_027395988.1	RefSeq	CDS	62564	63297	.	+	2	transcript_id "rna-XM_073734104.1"; gene_id "gene-BDW74DRAFT_93164";
+NW_027395988.1	RefSeq	transcript	301851	303004	.	+	.	transcript_id "rna-XM_073734143.1"; gene_id "gene-BDW74DRAFT_94954"
+NW_027395988.1	RefSeq	exon	301851	301900	.	+	.	transcript_id "rna-XM_073734143.1"; gene_id "gene-BDW74DRAFT_94954";
+NW_027395988.1	RefSeq	exon	301955	303004	.	+	.	transcript_id "rna-XM_073734143.1"; gene_id "gene-BDW74DRAFT_94954";
+NW_027395988.1	RefSeq	CDS	301878	301900	.	+	0	transcript_id "rna-XM_073734143.1"; gene_id "gene-BDW74DRAFT_94954";
+NW_027395988.1	RefSeq	CDS	301955	302771	.	+	1	transcript_id "rna-XM_073734143.1"; gene_id "gene-BDW74DRAFT_94954";
+NW_027395997.1	RefSeq	transcript	167744	169220	.	-	.	transcript_id "rna-XM_073726066.1"; gene_id "gene-BDW74DRAFT_163173"; gene_name "med6"
+NW_027395997.1	RefSeq	exon	167744	168440	.	-	.	transcript_id "rna-XM_073726066.1"; gene_id "gene-BDW74DRAFT_163173"; gene_name "med6";
+NW_027395997.1	RefSeq	exon	168510	169220	.	-	.	transcript_id "rna-XM_073726066.1"; gene_id "gene-BDW74DRAFT_163173"; gene_name "med6";
+NW_027395997.1	RefSeq	CDS	167922	168440	.	-	0	transcript_id "rna-XM_073726066.1"; gene_id "gene-BDW74DRAFT_163173"; gene_name "med6";
+NW_027395997.1	RefSeq	CDS	168510	168734	.	-	0	transcript_id "rna-XM_073726066.1"; gene_id "gene-BDW74DRAFT_163173"; gene_name "med6";
+NW_027396003.1	RefSeq	transcript	17770	19343	.	-	.	transcript_id "rna-XM_073721936.1"; gene_id "gene-BDW74DRAFT_117359"
+NW_027396003.1	RefSeq	exon	17770	18503	.	-	.	transcript_id "rna-XM_073721936.1"; gene_id "gene-BDW74DRAFT_117359";
+NW_027396003.1	RefSeq	exon	18559	18711	.	-	.	transcript_id "rna-XM_073721936.1"; gene_id "gene-BDW74DRAFT_117359";
+NW_027396003.1	RefSeq	exon	18791	19047	.	-	.	transcript_id "rna-XM_073721936.1"; gene_id "gene-BDW74DRAFT_117359";
+NW_027396003.1	RefSeq	exon	19130	19343	.	-	.	transcript_id "rna-XM_073721936.1"; gene_id "gene-BDW74DRAFT_117359";
+NW_027396003.1	RefSeq	CDS	17920	18503	.	-	2	transcript_id "rna-XM_073721936.1"; gene_id "gene-BDW74DRAFT_117359";
+NW_027396003.1	RefSeq	CDS	18559	18711	.	-	2	transcript_id "rna-XM_073721936.1"; gene_id "gene-BDW74DRAFT_117359";
+NW_027396003.1	RefSeq	CDS	18791	19047	.	-	1	transcript_id "rna-XM_073721936.1"; gene_id "gene-BDW74DRAFT_117359";
+NW_027396003.1	RefSeq	CDS	19130	19173	.	-	0	transcript_id "rna-XM_073721936.1"; gene_id "gene-BDW74DRAFT_117359";
+NW_027396003.1	RefSeq	transcript	41855	45287	.	+	.	transcript_id "rna-XM_073721939.1"; gene_id "gene-BDW74DRAFT_117622"
+NW_027396003.1	RefSeq	exon	41855	42256	.	+	.	transcript_id "rna-XM_073721939.1"; gene_id "gene-BDW74DRAFT_117622";
+NW_027396003.1	RefSeq	exon	42334	42425	.	+	.	transcript_id "rna-XM_073721939.1"; gene_id "gene-BDW74DRAFT_117622";
+NW_027396003.1	RefSeq	exon	42492	42598	.	+	.	transcript_id "rna-XM_073721939.1"; gene_id "gene-BDW74DRAFT_117622";
+NW_027396003.1	RefSeq	exon	42666	42933	.	+	.	transcript_id "rna-XM_073721939.1"; gene_id "gene-BDW74DRAFT_117622";
+NW_027396003.1	RefSeq	exon	42990	43882	.	+	.	transcript_id "rna-XM_073721939.1"; gene_id "gene-BDW74DRAFT_117622";
+NW_027396003.1	RefSeq	exon	43943	44124	.	+	.	transcript_id "rna-XM_073721939.1"; gene_id "gene-BDW74DRAFT_117622";
+NW_027396003.1	RefSeq	exon	44187	45287	.	+	.	transcript_id "rna-XM_073721939.1"; gene_id "gene-BDW74DRAFT_117622";
+NW_027396003.1	RefSeq	CDS	42193	42256	.	+	0	transcript_id "rna-XM_073721939.1"; gene_id "gene-BDW74DRAFT_117622";
+NW_027396003.1	RefSeq	CDS	42334	42425	.	+	2	transcript_id "rna-XM_073721939.1"; gene_id "gene-BDW74DRAFT_117622";
+NW_027396003.1	RefSeq	CDS	42492	42598	.	+	0	transcript_id "rna-XM_073721939.1"; gene_id "gene-BDW74DRAFT_117622";
+NW_027396003.1	RefSeq	CDS	42666	42933	.	+	1	transcript_id "rna-XM_073721939.1"; gene_id "gene-BDW74DRAFT_117622";
+NW_027396003.1	RefSeq	CDS	42990	43882	.	+	0	transcript_id "rna-XM_073721939.1"; gene_id "gene-BDW74DRAFT_117622";
+NW_027396003.1	RefSeq	CDS	43943	44124	.	+	1	transcript_id "rna-XM_073721939.1"; gene_id "gene-BDW74DRAFT_117622";
+NW_027396003.1	RefSeq	CDS	44187	45082	.	+	2	transcript_id "rna-XM_073721939.1"; gene_id "gene-BDW74DRAFT_117622";
+NW_027396003.1	RefSeq	transcript	89893	91428	.	+	.	transcript_id "rna-XM_073726159.1"; gene_id "gene-BDW74DRAFT_163837"
+NW_027396003.1	RefSeq	exon	89893	90314	.	+	.	transcript_id "rna-XM_073726159.1"; gene_id "gene-BDW74DRAFT_163837";
+NW_027396003.1	RefSeq	exon	90386	90466	.	+	.	transcript_id "rna-XM_073726159.1"; gene_id "gene-BDW74DRAFT_163837";
+NW_027396003.1	RefSeq	exon	90563	90678	.	+	.	transcript_id "rna-XM_073726159.1"; gene_id "gene-BDW74DRAFT_163837";
+NW_027396003.1	RefSeq	exon	90727	90845	.	+	.	transcript_id "rna-XM_073726159.1"; gene_id "gene-BDW74DRAFT_163837";
+NW_027396003.1	RefSeq	exon	90896	91428	.	+	.	transcript_id "rna-XM_073726159.1"; gene_id "gene-BDW74DRAFT_163837";
+NW_027396003.1	RefSeq	CDS	89922	90314	.	+	0	transcript_id "rna-XM_073726159.1"; gene_id "gene-BDW74DRAFT_163837";
+NW_027396003.1	RefSeq	CDS	90386	90466	.	+	0	transcript_id "rna-XM_073726159.1"; gene_id "gene-BDW74DRAFT_163837";
+NW_027396003.1	RefSeq	CDS	90563	90678	.	+	0	transcript_id "rna-XM_073726159.1"; gene_id "gene-BDW74DRAFT_163837";
+NW_027396003.1	RefSeq	CDS	90727	90845	.	+	1	transcript_id "rna-XM_073726159.1"; gene_id "gene-BDW74DRAFT_163837";
+NW_027396003.1	RefSeq	CDS	90896	91341	.	+	2	transcript_id "rna-XM_073726159.1"; gene_id "gene-BDW74DRAFT_163837";
+NW_027396005.1	RefSeq	transcript	137146	139237	.	+	.	transcript_id "rna-XM_073721970.1"; gene_id "gene-BDW74DRAFT_119317"
+NW_027396005.1	RefSeq	exon	137146	139237	.	+	.	transcript_id "rna-XM_073721970.1"; gene_id "gene-BDW74DRAFT_119317";
+NW_027396005.1	RefSeq	CDS	137180	139225	.	+	0	transcript_id "rna-XM_073721970.1"; gene_id "gene-BDW74DRAFT_119317";

@@ -1,0 +1,895 @@
+CP120627.1	Genbank	transcript	24916	27384	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000010-T1_mrna"; gene_id "gene-PRK78_000010"; gene_name "DBP6"
+CP120627.1	Genbank	exon	24916	27384	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000010-T1_mrna"; gene_id "gene-PRK78_000010"; gene_name "DBP6";
+CP120627.1	Genbank	CDS	24916	27384	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_000010-T1_mrna"; gene_id "gene-PRK78_000010"; gene_name "DBP6";
+CP120627.1	Genbank	transcript	472031	473368	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_000127-T1_mrna"; gene_id "gene-PRK78_000127"
+CP120627.1	Genbank	exon	472031	472875	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_000127-T1_mrna"; gene_id "gene-PRK78_000127";
+CP120627.1	Genbank	exon	472957	473368	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_000127-T1_mrna"; gene_id "gene-PRK78_000127";
+CP120627.1	Genbank	CDS	472031	472875	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_000127-T1_mrna"; gene_id "gene-PRK78_000127";
+CP120627.1	Genbank	CDS	472957	473368	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_000127-T1_mrna"; gene_id "gene-PRK78_000127";
+CP120627.1	Genbank	transcript	1071285	1073775	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000271-T1_mrna"; gene_id "gene-PRK78_000271"; gene_name "SDA1"
+CP120627.1	Genbank	exon	1071285	1071331	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000271-T1_mrna"; gene_id "gene-PRK78_000271"; gene_name "SDA1";
+CP120627.1	Genbank	exon	1071518	1071805	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000271-T1_mrna"; gene_id "gene-PRK78_000271"; gene_name "SDA1";
+CP120627.1	Genbank	exon	1071885	1073775	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000271-T1_mrna"; gene_id "gene-PRK78_000271"; gene_name "SDA1";
+CP120627.1	Genbank	CDS	1071285	1071331	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_000271-T1_mrna"; gene_id "gene-PRK78_000271"; gene_name "SDA1";
+CP120627.1	Genbank	CDS	1071518	1071805	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_000271-T1_mrna"; gene_id "gene-PRK78_000271"; gene_name "SDA1";
+CP120627.1	Genbank	CDS	1071885	1073775	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_000271-T1_mrna"; gene_id "gene-PRK78_000271"; gene_name "SDA1";
+CP120627.1	Genbank	transcript	1076708	1077613	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000274-T1_mrna"; gene_id "gene-PRK78_000274"
+CP120627.1	Genbank	exon	1076708	1076803	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000274-T1_mrna"; gene_id "gene-PRK78_000274";
+CP120627.1	Genbank	exon	1076888	1077613	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000274-T1_mrna"; gene_id "gene-PRK78_000274";
+CP120627.1	Genbank	CDS	1076708	1076803	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_000274-T1_mrna"; gene_id "gene-PRK78_000274";
+CP120627.1	Genbank	CDS	1076888	1077613	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_000274-T1_mrna"; gene_id "gene-PRK78_000274";
+CP120627.1	Genbank	transcript	1337984	1338652	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000323-T1_mrna"; gene_id "gene-PRK78_000323"
+CP120627.1	Genbank	exon	1337984	1338652	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000323-T1_mrna"; gene_id "gene-PRK78_000323";
+CP120627.1	Genbank	CDS	1337984	1338652	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_000323-T1_mrna"; gene_id "gene-PRK78_000323";
+CP120627.1	Genbank	transcript	1347748	1348711	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000329-T1_mrna"; gene_id "gene-PRK78_000329"; gene_name "DPH5"
+CP120627.1	Genbank	exon	1347748	1347890	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000329-T1_mrna"; gene_id "gene-PRK78_000329"; gene_name "DPH5";
+CP120627.1	Genbank	exon	1347955	1348062	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000329-T1_mrna"; gene_id "gene-PRK78_000329"; gene_name "DPH5";
+CP120627.1	Genbank	exon	1348114	1348711	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000329-T1_mrna"; gene_id "gene-PRK78_000329"; gene_name "DPH5";
+CP120627.1	Genbank	CDS	1347748	1347890	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_000329-T1_mrna"; gene_id "gene-PRK78_000329"; gene_name "DPH5";
+CP120627.1	Genbank	CDS	1347955	1348062	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_000329-T1_mrna"; gene_id "gene-PRK78_000329"; gene_name "DPH5";
+CP120627.1	Genbank	CDS	1348114	1348711	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_000329-T1_mrna"; gene_id "gene-PRK78_000329"; gene_name "DPH5";
+CP120627.1	Genbank	transcript	1382427	1384208	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000342-T1_mrna"; gene_id "gene-PRK78_000342"; gene_name "prp3"
+CP120627.1	Genbank	exon	1382427	1384208	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000342-T1_mrna"; gene_id "gene-PRK78_000342"; gene_name "prp3";
+CP120627.1	Genbank	CDS	1382427	1384208	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_000342-T1_mrna"; gene_id "gene-PRK78_000342"; gene_name "prp3";
+CP120627.1	Genbank	transcript	1767405	1769488	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000424-T1_mrna"; gene_id "gene-PRK78_000424"; gene_name "SPB4"
+CP120627.1	Genbank	exon	1767405	1767691	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000424-T1_mrna"; gene_id "gene-PRK78_000424"; gene_name "SPB4";
+CP120627.1	Genbank	exon	1767742	1768275	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000424-T1_mrna"; gene_id "gene-PRK78_000424"; gene_name "SPB4";
+CP120627.1	Genbank	exon	1768327	1769488	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000424-T1_mrna"; gene_id "gene-PRK78_000424"; gene_name "SPB4";
+CP120627.1	Genbank	CDS	1767405	1767691	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_000424-T1_mrna"; gene_id "gene-PRK78_000424"; gene_name "SPB4";
+CP120627.1	Genbank	CDS	1767742	1768275	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_000424-T1_mrna"; gene_id "gene-PRK78_000424"; gene_name "SPB4";
+CP120627.1	Genbank	CDS	1768327	1769488	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_000424-T1_mrna"; gene_id "gene-PRK78_000424"; gene_name "SPB4";
+CP120627.1	Genbank	transcript	1835022	1837008	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_000453-T1_mrna"; gene_id "gene-PRK78_000453"; gene_name "PCM1"
+CP120627.1	Genbank	exon	1835022	1835891	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_000453-T1_mrna"; gene_id "gene-PRK78_000453"; gene_name "PCM1";
+CP120627.1	Genbank	exon	1835948	1836454	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_000453-T1_mrna"; gene_id "gene-PRK78_000453"; gene_name "PCM1";
+CP120627.1	Genbank	exon	1836600	1836744	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_000453-T1_mrna"; gene_id "gene-PRK78_000453"; gene_name "PCM1";
+CP120627.1	Genbank	exon	1836842	1836855	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_000453-T1_mrna"; gene_id "gene-PRK78_000453"; gene_name "PCM1";
+CP120627.1	Genbank	exon	1836916	1837008	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_000453-T1_mrna"; gene_id "gene-PRK78_000453"; gene_name "PCM1";
+CP120627.1	Genbank	CDS	1835022	1835891	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_000453-T1_mrna"; gene_id "gene-PRK78_000453"; gene_name "PCM1";
+CP120627.1	Genbank	CDS	1835948	1836454	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_000453-T1_mrna"; gene_id "gene-PRK78_000453"; gene_name "PCM1";
+CP120627.1	Genbank	CDS	1836600	1836744	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_000453-T1_mrna"; gene_id "gene-PRK78_000453"; gene_name "PCM1";
+CP120627.1	Genbank	CDS	1836842	1836855	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_000453-T1_mrna"; gene_id "gene-PRK78_000453"; gene_name "PCM1";
+CP120627.1	Genbank	CDS	1836916	1837008	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_000453-T1_mrna"; gene_id "gene-PRK78_000453"; gene_name "PCM1";
+CP120627.1	Genbank	transcript	1892893	1894983	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000473-T1_mrna"; gene_id "gene-PRK78_000473"
+CP120627.1	Genbank	exon	1892893	1893202	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000473-T1_mrna"; gene_id "gene-PRK78_000473";
+CP120627.1	Genbank	exon	1893270	1894791	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000473-T1_mrna"; gene_id "gene-PRK78_000473";
+CP120627.1	Genbank	exon	1894884	1894983	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000473-T1_mrna"; gene_id "gene-PRK78_000473";
+CP120627.1	Genbank	CDS	1892893	1893202	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_000473-T1_mrna"; gene_id "gene-PRK78_000473";
+CP120627.1	Genbank	CDS	1893270	1894791	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_000473-T1_mrna"; gene_id "gene-PRK78_000473";
+CP120627.1	Genbank	CDS	1894884	1894983	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_000473-T1_mrna"; gene_id "gene-PRK78_000473";
+CP120627.1	Genbank	transcript	2580575	2583113	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_000630-T1_mrna"; gene_id "gene-PRK78_000630"; gene_name "COG3"
+CP120627.1	Genbank	exon	2580575	2581375	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_000630-T1_mrna"; gene_id "gene-PRK78_000630"; gene_name "COG3";
+CP120627.1	Genbank	exon	2581438	2582472	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_000630-T1_mrna"; gene_id "gene-PRK78_000630"; gene_name "COG3";
+CP120627.1	Genbank	exon	2582538	2582877	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_000630-T1_mrna"; gene_id "gene-PRK78_000630"; gene_name "COG3";
+CP120627.1	Genbank	exon	2582935	2583113	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_000630-T1_mrna"; gene_id "gene-PRK78_000630"; gene_name "COG3";
+CP120627.1	Genbank	CDS	2580575	2581375	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_000630-T1_mrna"; gene_id "gene-PRK78_000630"; gene_name "COG3";
+CP120627.1	Genbank	CDS	2581438	2582472	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_000630-T1_mrna"; gene_id "gene-PRK78_000630"; gene_name "COG3";
+CP120627.1	Genbank	CDS	2582538	2582877	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_000630-T1_mrna"; gene_id "gene-PRK78_000630"; gene_name "COG3";
+CP120627.1	Genbank	CDS	2582935	2583113	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_000630-T1_mrna"; gene_id "gene-PRK78_000630"; gene_name "COG3";
+CP120627.1	Genbank	transcript	3000887	3003191	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_000742-T1_mrna"; gene_id "gene-PRK78_000742"; gene_name "FRS1"
+CP120627.1	Genbank	exon	3000887	3001050	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_000742-T1_mrna"; gene_id "gene-PRK78_000742"; gene_name "FRS1";
+CP120627.1	Genbank	exon	3001158	3001966	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_000742-T1_mrna"; gene_id "gene-PRK78_000742"; gene_name "FRS1";
+CP120627.1	Genbank	exon	3002018	3002259	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_000742-T1_mrna"; gene_id "gene-PRK78_000742"; gene_name "FRS1";
+CP120627.1	Genbank	exon	3002311	3002487	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_000742-T1_mrna"; gene_id "gene-PRK78_000742"; gene_name "FRS1";
+CP120627.1	Genbank	exon	3002543	3002762	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_000742-T1_mrna"; gene_id "gene-PRK78_000742"; gene_name "FRS1";
+CP120627.1	Genbank	exon	3002816	3002892	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_000742-T1_mrna"; gene_id "gene-PRK78_000742"; gene_name "FRS1";
+CP120627.1	Genbank	exon	3002949	3003066	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_000742-T1_mrna"; gene_id "gene-PRK78_000742"; gene_name "FRS1";
+CP120627.1	Genbank	exon	3003139	3003191	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_000742-T1_mrna"; gene_id "gene-PRK78_000742"; gene_name "FRS1";
+CP120627.1	Genbank	CDS	3000887	3001050	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_000742-T1_mrna"; gene_id "gene-PRK78_000742"; gene_name "FRS1";
+CP120627.1	Genbank	CDS	3001158	3001966	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_000742-T1_mrna"; gene_id "gene-PRK78_000742"; gene_name "FRS1";
+CP120627.1	Genbank	CDS	3002018	3002259	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_000742-T1_mrna"; gene_id "gene-PRK78_000742"; gene_name "FRS1";
+CP120627.1	Genbank	CDS	3002311	3002487	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_000742-T1_mrna"; gene_id "gene-PRK78_000742"; gene_name "FRS1";
+CP120627.1	Genbank	CDS	3002543	3002762	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_000742-T1_mrna"; gene_id "gene-PRK78_000742"; gene_name "FRS1";
+CP120627.1	Genbank	CDS	3002816	3002892	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_000742-T1_mrna"; gene_id "gene-PRK78_000742"; gene_name "FRS1";
+CP120627.1	Genbank	CDS	3002949	3003066	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_000742-T1_mrna"; gene_id "gene-PRK78_000742"; gene_name "FRS1";
+CP120627.1	Genbank	CDS	3003139	3003191	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_000742-T1_mrna"; gene_id "gene-PRK78_000742"; gene_name "FRS1";
+CP120627.1	Genbank	transcript	3517000	3518259	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000834-T1_mrna"; gene_id "gene-PRK78_000834"; gene_name "TSR3"
+CP120627.1	Genbank	exon	3517000	3517244	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000834-T1_mrna"; gene_id "gene-PRK78_000834"; gene_name "TSR3";
+CP120627.1	Genbank	exon	3517300	3517436	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000834-T1_mrna"; gene_id "gene-PRK78_000834"; gene_name "TSR3";
+CP120627.1	Genbank	exon	3517490	3518259	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000834-T1_mrna"; gene_id "gene-PRK78_000834"; gene_name "TSR3";
+CP120627.1	Genbank	CDS	3517000	3517244	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_000834-T1_mrna"; gene_id "gene-PRK78_000834"; gene_name "TSR3";
+CP120627.1	Genbank	CDS	3517300	3517436	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_000834-T1_mrna"; gene_id "gene-PRK78_000834"; gene_name "TSR3";
+CP120627.1	Genbank	CDS	3517490	3518259	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_000834-T1_mrna"; gene_id "gene-PRK78_000834"; gene_name "TSR3";
+CP120627.1	Genbank	transcript	3635068	3636948	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000875-T1_mrna"; gene_id "gene-PRK78_000875"; gene_name "SWC4"
+CP120627.1	Genbank	exon	3635068	3635336	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000875-T1_mrna"; gene_id "gene-PRK78_000875"; gene_name "SWC4";
+CP120627.1	Genbank	exon	3635403	3636948	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_000875-T1_mrna"; gene_id "gene-PRK78_000875"; gene_name "SWC4";
+CP120627.1	Genbank	CDS	3635068	3635336	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_000875-T1_mrna"; gene_id "gene-PRK78_000875"; gene_name "SWC4";
+CP120627.1	Genbank	CDS	3635403	3636948	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_000875-T1_mrna"; gene_id "gene-PRK78_000875"; gene_name "SWC4";
+CP120627.1	Genbank	transcript	4114147	4116372	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001036-T1_mrna"; gene_id "gene-PRK78_001036"; gene_name "DPB2"
+CP120627.1	Genbank	exon	4114147	4116372	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001036-T1_mrna"; gene_id "gene-PRK78_001036"; gene_name "DPB2";
+CP120627.1	Genbank	CDS	4114147	4116372	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001036-T1_mrna"; gene_id "gene-PRK78_001036"; gene_name "DPB2";
+CP120627.1	Genbank	transcript	4502840	4505267	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001046-T1_mrna"; gene_id "gene-PRK78_001046"; gene_name "ATG7"
+CP120627.1	Genbank	exon	4502840	4502923	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001046-T1_mrna"; gene_id "gene-PRK78_001046"; gene_name "ATG7";
+CP120627.1	Genbank	exon	4502970	4503329	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001046-T1_mrna"; gene_id "gene-PRK78_001046"; gene_name "ATG7";
+CP120627.1	Genbank	exon	4503384	4503848	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001046-T1_mrna"; gene_id "gene-PRK78_001046"; gene_name "ATG7";
+CP120627.1	Genbank	exon	4503901	4504045	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001046-T1_mrna"; gene_id "gene-PRK78_001046"; gene_name "ATG7";
+CP120627.1	Genbank	exon	4504102	4504856	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001046-T1_mrna"; gene_id "gene-PRK78_001046"; gene_name "ATG7";
+CP120627.1	Genbank	exon	4504918	4505026	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001046-T1_mrna"; gene_id "gene-PRK78_001046"; gene_name "ATG7";
+CP120627.1	Genbank	exon	4505077	4505267	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001046-T1_mrna"; gene_id "gene-PRK78_001046"; gene_name "ATG7";
+CP120627.1	Genbank	CDS	4502840	4502923	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001046-T1_mrna"; gene_id "gene-PRK78_001046"; gene_name "ATG7";
+CP120627.1	Genbank	CDS	4502970	4503329	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001046-T1_mrna"; gene_id "gene-PRK78_001046"; gene_name "ATG7";
+CP120627.1	Genbank	CDS	4503384	4503848	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001046-T1_mrna"; gene_id "gene-PRK78_001046"; gene_name "ATG7";
+CP120627.1	Genbank	CDS	4503901	4504045	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_001046-T1_mrna"; gene_id "gene-PRK78_001046"; gene_name "ATG7";
+CP120627.1	Genbank	CDS	4504102	4504856	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001046-T1_mrna"; gene_id "gene-PRK78_001046"; gene_name "ATG7";
+CP120627.1	Genbank	CDS	4504918	4505026	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_001046-T1_mrna"; gene_id "gene-PRK78_001046"; gene_name "ATG7";
+CP120627.1	Genbank	CDS	4505077	4505267	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001046-T1_mrna"; gene_id "gene-PRK78_001046"; gene_name "ATG7";
+CP120627.1	Genbank	transcript	4593353	4594383	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001053-T1_mrna"; gene_id "gene-PRK78_001053"; gene_name "DRE2"
+CP120627.1	Genbank	exon	4593353	4594013	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001053-T1_mrna"; gene_id "gene-PRK78_001053"; gene_name "DRE2";
+CP120627.1	Genbank	exon	4594076	4594383	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001053-T1_mrna"; gene_id "gene-PRK78_001053"; gene_name "DRE2";
+CP120627.1	Genbank	CDS	4593353	4594013	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_001053-T1_mrna"; gene_id "gene-PRK78_001053"; gene_name "DRE2";
+CP120627.1	Genbank	CDS	4594076	4594383	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_001053-T1_mrna"; gene_id "gene-PRK78_001053"; gene_name "DRE2";
+CP120627.1	Genbank	transcript	4753771	4755320	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001109-T1_mrna"; gene_id "gene-PRK78_001109"
+CP120627.1	Genbank	exon	4753771	4753961	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001109-T1_mrna"; gene_id "gene-PRK78_001109";
+CP120627.1	Genbank	exon	4754018	4755320	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001109-T1_mrna"; gene_id "gene-PRK78_001109";
+CP120627.1	Genbank	CDS	4753771	4753961	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_001109-T1_mrna"; gene_id "gene-PRK78_001109";
+CP120627.1	Genbank	CDS	4754018	4755320	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_001109-T1_mrna"; gene_id "gene-PRK78_001109";
+CP120627.1	Genbank	transcript	4757560	4759914	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001111-T1_mrna"; gene_id "gene-PRK78_001111"; gene_name "ERB1"
+CP120627.1	Genbank	exon	4757560	4759914	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001111-T1_mrna"; gene_id "gene-PRK78_001111"; gene_name "ERB1";
+CP120627.1	Genbank	CDS	4757560	4759914	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_001111-T1_mrna"; gene_id "gene-PRK78_001111"; gene_name "ERB1";
+CP120627.1	Genbank	transcript	4806253	4808552	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001123-T1_mrna"; gene_id "gene-PRK78_001123"; gene_name "UTP25"
+CP120627.1	Genbank	exon	4806253	4807168	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001123-T1_mrna"; gene_id "gene-PRK78_001123"; gene_name "UTP25";
+CP120627.1	Genbank	exon	4807221	4807992	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001123-T1_mrna"; gene_id "gene-PRK78_001123"; gene_name "UTP25";
+CP120627.1	Genbank	exon	4808050	4808417	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001123-T1_mrna"; gene_id "gene-PRK78_001123"; gene_name "UTP25";
+CP120627.1	Genbank	exon	4808467	4808552	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001123-T1_mrna"; gene_id "gene-PRK78_001123"; gene_name "UTP25";
+CP120627.1	Genbank	CDS	4806253	4807168	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_001123-T1_mrna"; gene_id "gene-PRK78_001123"; gene_name "UTP25";
+CP120627.1	Genbank	CDS	4807221	4807992	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_001123-T1_mrna"; gene_id "gene-PRK78_001123"; gene_name "UTP25";
+CP120627.1	Genbank	CDS	4808050	4808417	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_001123-T1_mrna"; gene_id "gene-PRK78_001123"; gene_name "UTP25";
+CP120627.1	Genbank	CDS	4808467	4808552	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001123-T1_mrna"; gene_id "gene-PRK78_001123"; gene_name "UTP25";
+CP120627.1	Genbank	transcript	4808836	4810004	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001124-T1_mrna"; gene_id "gene-PRK78_001124"
+CP120627.1	Genbank	exon	4808836	4808940	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001124-T1_mrna"; gene_id "gene-PRK78_001124";
+CP120627.1	Genbank	exon	4808998	4809710	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001124-T1_mrna"; gene_id "gene-PRK78_001124";
+CP120627.1	Genbank	exon	4809767	4810004	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001124-T1_mrna"; gene_id "gene-PRK78_001124";
+CP120627.1	Genbank	CDS	4808836	4808940	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_001124-T1_mrna"; gene_id "gene-PRK78_001124";
+CP120627.1	Genbank	CDS	4808998	4809710	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_001124-T1_mrna"; gene_id "gene-PRK78_001124";
+CP120627.1	Genbank	CDS	4809767	4810004	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_001124-T1_mrna"; gene_id "gene-PRK78_001124";
+CP120627.1	Genbank	transcript	4828342	4829821	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001135-T1_mrna"; gene_id "gene-PRK78_001135"; gene_name "GCD7"
+CP120627.1	Genbank	exon	4828342	4828414	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001135-T1_mrna"; gene_id "gene-PRK78_001135"; gene_name "GCD7";
+CP120627.1	Genbank	exon	4828473	4829821	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001135-T1_mrna"; gene_id "gene-PRK78_001135"; gene_name "GCD7";
+CP120627.1	Genbank	CDS	4828342	4828414	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_001135-T1_mrna"; gene_id "gene-PRK78_001135"; gene_name "GCD7";
+CP120627.1	Genbank	CDS	4828473	4829821	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001135-T1_mrna"; gene_id "gene-PRK78_001135"; gene_name "GCD7";
+CP120627.1	Genbank	transcript	5033520	5034321	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001185-T1_mrna"; gene_id "gene-PRK78_001185"; gene_name "PSF1"
+CP120627.1	Genbank	exon	5033520	5033546	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001185-T1_mrna"; gene_id "gene-PRK78_001185"; gene_name "PSF1";
+CP120627.1	Genbank	exon	5033601	5034133	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001185-T1_mrna"; gene_id "gene-PRK78_001185"; gene_name "PSF1";
+CP120627.1	Genbank	exon	5034228	5034321	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001185-T1_mrna"; gene_id "gene-PRK78_001185"; gene_name "PSF1";
+CP120627.1	Genbank	CDS	5033520	5033546	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_001185-T1_mrna"; gene_id "gene-PRK78_001185"; gene_name "PSF1";
+CP120627.1	Genbank	CDS	5033601	5034133	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_001185-T1_mrna"; gene_id "gene-PRK78_001185"; gene_name "PSF1";
+CP120627.1	Genbank	CDS	5034228	5034321	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_001185-T1_mrna"; gene_id "gene-PRK78_001185"; gene_name "PSF1";
+CP120627.1	Genbank	transcript	5046320	5048155	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001188-T1_mrna"; gene_id "gene-PRK78_001188"
+CP120627.1	Genbank	exon	5046320	5047393	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001188-T1_mrna"; gene_id "gene-PRK78_001188";
+CP120627.1	Genbank	exon	5047478	5048155	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001188-T1_mrna"; gene_id "gene-PRK78_001188";
+CP120627.1	Genbank	CDS	5046320	5047393	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001188-T1_mrna"; gene_id "gene-PRK78_001188";
+CP120627.1	Genbank	CDS	5047478	5048155	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001188-T1_mrna"; gene_id "gene-PRK78_001188";
+CP120627.1	Genbank	transcript	5307176	5308442	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001276-T1_mrna"; gene_id "gene-PRK78_001276"; gene_name "GCV1"
+CP120627.1	Genbank	exon	5307176	5308241	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001276-T1_mrna"; gene_id "gene-PRK78_001276"; gene_name "GCV1";
+CP120627.1	Genbank	exon	5308333	5308442	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001276-T1_mrna"; gene_id "gene-PRK78_001276"; gene_name "GCV1";
+CP120627.1	Genbank	CDS	5307176	5308241	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_001276-T1_mrna"; gene_id "gene-PRK78_001276"; gene_name "GCV1";
+CP120627.1	Genbank	CDS	5308333	5308442	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001276-T1_mrna"; gene_id "gene-PRK78_001276"; gene_name "GCV1";
+CP120627.1	Genbank	transcript	5319729	5323122	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001281-T1_mrna"; gene_id "gene-PRK78_001281"; gene_name "MAK21"
+CP120627.1	Genbank	exon	5319729	5320574	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001281-T1_mrna"; gene_id "gene-PRK78_001281"; gene_name "MAK21";
+CP120627.1	Genbank	exon	5320637	5321180	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001281-T1_mrna"; gene_id "gene-PRK78_001281"; gene_name "MAK21";
+CP120627.1	Genbank	exon	5321241	5322364	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001281-T1_mrna"; gene_id "gene-PRK78_001281"; gene_name "MAK21";
+CP120627.1	Genbank	exon	5322421	5323122	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001281-T1_mrna"; gene_id "gene-PRK78_001281"; gene_name "MAK21";
+CP120627.1	Genbank	CDS	5319729	5320574	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001281-T1_mrna"; gene_id "gene-PRK78_001281"; gene_name "MAK21";
+CP120627.1	Genbank	CDS	5320637	5321180	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_001281-T1_mrna"; gene_id "gene-PRK78_001281"; gene_name "MAK21";
+CP120627.1	Genbank	CDS	5321241	5322364	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001281-T1_mrna"; gene_id "gene-PRK78_001281"; gene_name "MAK21";
+CP120627.1	Genbank	CDS	5322421	5323122	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001281-T1_mrna"; gene_id "gene-PRK78_001281"; gene_name "MAK21";
+CP120627.1	Genbank	transcript	5798446	5799165	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001380-T1_mrna"; gene_id "gene-PRK78_001380"; gene_name "ISY1"
+CP120627.1	Genbank	exon	5798446	5799165	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001380-T1_mrna"; gene_id "gene-PRK78_001380"; gene_name "ISY1";
+CP120627.1	Genbank	CDS	5798446	5799165	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_001380-T1_mrna"; gene_id "gene-PRK78_001380"; gene_name "ISY1";
+CP120627.1	Genbank	transcript	5986468	5987223	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001429-T1_mrna"; gene_id "gene-PRK78_001429"
+CP120627.1	Genbank	exon	5986468	5987223	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001429-T1_mrna"; gene_id "gene-PRK78_001429";
+CP120627.1	Genbank	CDS	5986468	5987223	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001429-T1_mrna"; gene_id "gene-PRK78_001429";
+CP120627.1	Genbank	transcript	6187799	6189325	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001468-T1_mrna"; gene_id "gene-PRK78_001468"; gene_name "TRM61"
+CP120627.1	Genbank	exon	6187799	6189325	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001468-T1_mrna"; gene_id "gene-PRK78_001468"; gene_name "TRM61";
+CP120627.1	Genbank	CDS	6187799	6189325	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001468-T1_mrna"; gene_id "gene-PRK78_001468"; gene_name "TRM61";
+CP120627.1	Genbank	transcript	6477684	6478899	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001575-T1_mrna"; gene_id "gene-PRK78_001575"
+CP120627.1	Genbank	exon	6477684	6478624	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001575-T1_mrna"; gene_id "gene-PRK78_001575";
+CP120627.1	Genbank	exon	6478704	6478899	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001575-T1_mrna"; gene_id "gene-PRK78_001575";
+CP120627.1	Genbank	CDS	6477684	6478624	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_001575-T1_mrna"; gene_id "gene-PRK78_001575";
+CP120627.1	Genbank	CDS	6478704	6478899	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_001575-T1_mrna"; gene_id "gene-PRK78_001575";
+CP120627.1	Genbank	transcript	6522818	6525915	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001592-T1_mrna"; gene_id "gene-PRK78_001592"; gene_name "PWP2"
+CP120627.1	Genbank	exon	6522818	6522956	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001592-T1_mrna"; gene_id "gene-PRK78_001592"; gene_name "PWP2";
+CP120627.1	Genbank	exon	6523238	6523689	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001592-T1_mrna"; gene_id "gene-PRK78_001592"; gene_name "PWP2";
+CP120627.1	Genbank	exon	6523749	6523999	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001592-T1_mrna"; gene_id "gene-PRK78_001592"; gene_name "PWP2";
+CP120627.1	Genbank	exon	6524052	6525915	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001592-T1_mrna"; gene_id "gene-PRK78_001592"; gene_name "PWP2";
+CP120627.1	Genbank	CDS	6522818	6522956	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_001592-T1_mrna"; gene_id "gene-PRK78_001592"; gene_name "PWP2";
+CP120627.1	Genbank	CDS	6523238	6523689	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_001592-T1_mrna"; gene_id "gene-PRK78_001592"; gene_name "PWP2";
+CP120627.1	Genbank	CDS	6523749	6523999	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_001592-T1_mrna"; gene_id "gene-PRK78_001592"; gene_name "PWP2";
+CP120627.1	Genbank	CDS	6524052	6525915	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_001592-T1_mrna"; gene_id "gene-PRK78_001592"; gene_name "PWP2";
+CP120627.1	Genbank	transcript	6618757	6619659	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001625-T1_mrna"; gene_id "gene-PRK78_001625"; gene_name "cwf16"
+CP120627.1	Genbank	exon	6618757	6618777	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001625-T1_mrna"; gene_id "gene-PRK78_001625"; gene_name "cwf16";
+CP120627.1	Genbank	exon	6618856	6619659	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001625-T1_mrna"; gene_id "gene-PRK78_001625"; gene_name "cwf16";
+CP120627.1	Genbank	CDS	6618757	6618777	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_001625-T1_mrna"; gene_id "gene-PRK78_001625"; gene_name "cwf16";
+CP120627.1	Genbank	CDS	6618856	6619659	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_001625-T1_mrna"; gene_id "gene-PRK78_001625"; gene_name "cwf16";
+CP120627.1	Genbank	transcript	6873152	6875058	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001703-T1_mrna"; gene_id "gene-PRK78_001703"; gene_name "TRM6"
+CP120627.1	Genbank	exon	6873152	6874877	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001703-T1_mrna"; gene_id "gene-PRK78_001703"; gene_name "TRM6";
+CP120627.1	Genbank	exon	6874973	6875058	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001703-T1_mrna"; gene_id "gene-PRK78_001703"; gene_name "TRM6";
+CP120627.1	Genbank	CDS	6873152	6874877	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_001703-T1_mrna"; gene_id "gene-PRK78_001703"; gene_name "TRM6";
+CP120627.1	Genbank	CDS	6874973	6875058	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001703-T1_mrna"; gene_id "gene-PRK78_001703"; gene_name "TRM6";
+CP120627.1	Genbank	transcript	6921965	6923356	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001721-T1_mrna"; gene_id "gene-PRK78_001721"; gene_name "FYV10"
+CP120627.1	Genbank	exon	6921965	6922393	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001721-T1_mrna"; gene_id "gene-PRK78_001721"; gene_name "FYV10";
+CP120627.1	Genbank	exon	6922453	6922638	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001721-T1_mrna"; gene_id "gene-PRK78_001721"; gene_name "FYV10";
+CP120627.1	Genbank	exon	6922696	6923235	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001721-T1_mrna"; gene_id "gene-PRK78_001721"; gene_name "FYV10";
+CP120627.1	Genbank	exon	6923303	6923356	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001721-T1_mrna"; gene_id "gene-PRK78_001721"; gene_name "FYV10";
+CP120627.1	Genbank	CDS	6921965	6922393	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001721-T1_mrna"; gene_id "gene-PRK78_001721"; gene_name "FYV10";
+CP120627.1	Genbank	CDS	6922453	6922638	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001721-T1_mrna"; gene_id "gene-PRK78_001721"; gene_name "FYV10";
+CP120627.1	Genbank	CDS	6922696	6923235	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001721-T1_mrna"; gene_id "gene-PRK78_001721"; gene_name "FYV10";
+CP120627.1	Genbank	CDS	6923303	6923356	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001721-T1_mrna"; gene_id "gene-PRK78_001721"; gene_name "FYV10";
+CP120627.1	Genbank	transcript	6948946	6949668	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001733-T1_mrna"; gene_id "gene-PRK78_001733"; gene_name "FAP7"
+CP120627.1	Genbank	exon	6948946	6949128	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001733-T1_mrna"; gene_id "gene-PRK78_001733"; gene_name "FAP7";
+CP120627.1	Genbank	exon	6949237	6949385	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001733-T1_mrna"; gene_id "gene-PRK78_001733"; gene_name "FAP7";
+CP120627.1	Genbank	exon	6949467	6949668	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_001733-T1_mrna"; gene_id "gene-PRK78_001733"; gene_name "FAP7";
+CP120627.1	Genbank	CDS	6948946	6949128	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_001733-T1_mrna"; gene_id "gene-PRK78_001733"; gene_name "FAP7";
+CP120627.1	Genbank	CDS	6949237	6949385	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_001733-T1_mrna"; gene_id "gene-PRK78_001733"; gene_name "FAP7";
+CP120627.1	Genbank	CDS	6949467	6949668	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_001733-T1_mrna"; gene_id "gene-PRK78_001733"; gene_name "FAP7";
+CP120627.1	Genbank	transcript	7150112	7151653	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001775-T1_mrna"; gene_id "gene-PRK78_001775"
+CP120627.1	Genbank	exon	7150112	7150931	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001775-T1_mrna"; gene_id "gene-PRK78_001775";
+CP120627.1	Genbank	exon	7150985	7151320	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001775-T1_mrna"; gene_id "gene-PRK78_001775";
+CP120627.1	Genbank	exon	7151391	7151653	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001775-T1_mrna"; gene_id "gene-PRK78_001775";
+CP120627.1	Genbank	CDS	7150112	7150931	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_001775-T1_mrna"; gene_id "gene-PRK78_001775";
+CP120627.1	Genbank	CDS	7150985	7151320	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_001775-T1_mrna"; gene_id "gene-PRK78_001775";
+CP120627.1	Genbank	CDS	7151391	7151653	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001775-T1_mrna"; gene_id "gene-PRK78_001775";
+CP120627.1	Genbank	transcript	7252251	7254832	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001802-T1_mrna"; gene_id "gene-PRK78_001802"; gene_name "MAK10"
+CP120627.1	Genbank	exon	7252251	7253279	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001802-T1_mrna"; gene_id "gene-PRK78_001802"; gene_name "MAK10";
+CP120627.1	Genbank	exon	7253344	7253442	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001802-T1_mrna"; gene_id "gene-PRK78_001802"; gene_name "MAK10";
+CP120627.1	Genbank	exon	7253492	7253749	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001802-T1_mrna"; gene_id "gene-PRK78_001802"; gene_name "MAK10";
+CP120627.1	Genbank	exon	7253816	7254274	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001802-T1_mrna"; gene_id "gene-PRK78_001802"; gene_name "MAK10";
+CP120627.1	Genbank	exon	7254336	7254611	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001802-T1_mrna"; gene_id "gene-PRK78_001802"; gene_name "MAK10";
+CP120627.1	Genbank	exon	7254707	7254832	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_001802-T1_mrna"; gene_id "gene-PRK78_001802"; gene_name "MAK10";
+CP120627.1	Genbank	CDS	7252251	7253279	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001802-T1_mrna"; gene_id "gene-PRK78_001802"; gene_name "MAK10";
+CP120627.1	Genbank	CDS	7253344	7253442	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001802-T1_mrna"; gene_id "gene-PRK78_001802"; gene_name "MAK10";
+CP120627.1	Genbank	CDS	7253492	7253749	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001802-T1_mrna"; gene_id "gene-PRK78_001802"; gene_name "MAK10";
+CP120627.1	Genbank	CDS	7253816	7254274	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001802-T1_mrna"; gene_id "gene-PRK78_001802"; gene_name "MAK10";
+CP120627.1	Genbank	CDS	7254336	7254611	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001802-T1_mrna"; gene_id "gene-PRK78_001802"; gene_name "MAK10";
+CP120627.1	Genbank	CDS	7254707	7254832	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_001802-T1_mrna"; gene_id "gene-PRK78_001802"; gene_name "MAK10";
+CP120627.1	Genbank	transcript	8125203	8125795	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_002029-T1_mrna"; gene_id "gene-PRK78_002029"; gene_name "SPT4"
+CP120627.1	Genbank	exon	8125203	8125280	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_002029-T1_mrna"; gene_id "gene-PRK78_002029"; gene_name "SPT4";
+CP120627.1	Genbank	exon	8125359	8125556	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_002029-T1_mrna"; gene_id "gene-PRK78_002029"; gene_name "SPT4";
+CP120627.1	Genbank	exon	8125647	8125699	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_002029-T1_mrna"; gene_id "gene-PRK78_002029"; gene_name "SPT4";
+CP120627.1	Genbank	exon	8125762	8125795	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_002029-T1_mrna"; gene_id "gene-PRK78_002029"; gene_name "SPT4";
+CP120627.1	Genbank	CDS	8125203	8125280	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_002029-T1_mrna"; gene_id "gene-PRK78_002029"; gene_name "SPT4";
+CP120627.1	Genbank	CDS	8125359	8125556	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_002029-T1_mrna"; gene_id "gene-PRK78_002029"; gene_name "SPT4";
+CP120627.1	Genbank	CDS	8125647	8125699	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_002029-T1_mrna"; gene_id "gene-PRK78_002029"; gene_name "SPT4";
+CP120627.1	Genbank	CDS	8125762	8125795	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_002029-T1_mrna"; gene_id "gene-PRK78_002029"; gene_name "SPT4";
+CP120627.1	Genbank	transcript	8278552	8279735	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002085-T1_mrna"; gene_id "gene-PRK78_002085"; gene_name "ATG3"
+CP120627.1	Genbank	exon	8278552	8279122	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002085-T1_mrna"; gene_id "gene-PRK78_002085"; gene_name "ATG3";
+CP120627.1	Genbank	exon	8279197	8279735	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002085-T1_mrna"; gene_id "gene-PRK78_002085"; gene_name "ATG3";
+CP120627.1	Genbank	CDS	8278552	8279122	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_002085-T1_mrna"; gene_id "gene-PRK78_002085"; gene_name "ATG3";
+CP120627.1	Genbank	CDS	8279197	8279735	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_002085-T1_mrna"; gene_id "gene-PRK78_002085"; gene_name "ATG3";
+CP120627.1	Genbank	transcript	9312328	9315616	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002352-T1_mrna"; gene_id "gene-PRK78_002352"; gene_name "VPS11"
+CP120627.1	Genbank	exon	9312328	9312702	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002352-T1_mrna"; gene_id "gene-PRK78_002352"; gene_name "VPS11";
+CP120627.1	Genbank	exon	9312773	9313171	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002352-T1_mrna"; gene_id "gene-PRK78_002352"; gene_name "VPS11";
+CP120627.1	Genbank	exon	9313234	9313740	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002352-T1_mrna"; gene_id "gene-PRK78_002352"; gene_name "VPS11";
+CP120627.1	Genbank	exon	9313802	9314137	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002352-T1_mrna"; gene_id "gene-PRK78_002352"; gene_name "VPS11";
+CP120627.1	Genbank	exon	9314191	9314424	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002352-T1_mrna"; gene_id "gene-PRK78_002352"; gene_name "VPS11";
+CP120627.1	Genbank	exon	9314477	9315406	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002352-T1_mrna"; gene_id "gene-PRK78_002352"; gene_name "VPS11";
+CP120627.1	Genbank	exon	9315602	9315616	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002352-T1_mrna"; gene_id "gene-PRK78_002352"; gene_name "VPS11";
+CP120627.1	Genbank	CDS	9312328	9312702	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_002352-T1_mrna"; gene_id "gene-PRK78_002352"; gene_name "VPS11";
+CP120627.1	Genbank	CDS	9312773	9313171	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_002352-T1_mrna"; gene_id "gene-PRK78_002352"; gene_name "VPS11";
+CP120627.1	Genbank	CDS	9313234	9313740	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_002352-T1_mrna"; gene_id "gene-PRK78_002352"; gene_name "VPS11";
+CP120627.1	Genbank	CDS	9313802	9314137	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_002352-T1_mrna"; gene_id "gene-PRK78_002352"; gene_name "VPS11";
+CP120627.1	Genbank	CDS	9314191	9314424	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_002352-T1_mrna"; gene_id "gene-PRK78_002352"; gene_name "VPS11";
+CP120627.1	Genbank	CDS	9314477	9315406	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_002352-T1_mrna"; gene_id "gene-PRK78_002352"; gene_name "VPS11";
+CP120627.1	Genbank	CDS	9315602	9315616	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_002352-T1_mrna"; gene_id "gene-PRK78_002352"; gene_name "VPS11";
+CP120627.1	Genbank	transcript	9496977	9497983	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002370-T1_mrna"; gene_id "gene-PRK78_002370"; gene_name "BCP1"
+CP120627.1	Genbank	exon	9496977	9497528	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002370-T1_mrna"; gene_id "gene-PRK78_002370"; gene_name "BCP1";
+CP120627.1	Genbank	exon	9497590	9497826	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002370-T1_mrna"; gene_id "gene-PRK78_002370"; gene_name "BCP1";
+CP120627.1	Genbank	exon	9497903	9497983	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002370-T1_mrna"; gene_id "gene-PRK78_002370"; gene_name "BCP1";
+CP120627.1	Genbank	CDS	9496977	9497528	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_002370-T1_mrna"; gene_id "gene-PRK78_002370"; gene_name "BCP1";
+CP120627.1	Genbank	CDS	9497590	9497826	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_002370-T1_mrna"; gene_id "gene-PRK78_002370"; gene_name "BCP1";
+CP120627.1	Genbank	CDS	9497903	9497983	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_002370-T1_mrna"; gene_id "gene-PRK78_002370"; gene_name "BCP1";
+CP120627.1	Genbank	transcript	9644489	9645885	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002400-T1_mrna"; gene_id "gene-PRK78_002400"; gene_name "TMA46"
+CP120627.1	Genbank	exon	9644489	9644939	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002400-T1_mrna"; gene_id "gene-PRK78_002400"; gene_name "TMA46";
+CP120627.1	Genbank	exon	9645016	9645554	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002400-T1_mrna"; gene_id "gene-PRK78_002400"; gene_name "TMA46";
+CP120627.1	Genbank	exon	9645832	9645885	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002400-T1_mrna"; gene_id "gene-PRK78_002400"; gene_name "TMA46";
+CP120627.1	Genbank	CDS	9644489	9644939	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_002400-T1_mrna"; gene_id "gene-PRK78_002400"; gene_name "TMA46";
+CP120627.1	Genbank	CDS	9645016	9645554	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_002400-T1_mrna"; gene_id "gene-PRK78_002400"; gene_name "TMA46";
+CP120627.1	Genbank	CDS	9645832	9645885	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_002400-T1_mrna"; gene_id "gene-PRK78_002400"; gene_name "TMA46";
+CP120628.1	Genbank	transcript	313066	314875	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_002533-T1_mrna"; gene_id "gene-PRK78_002533"; gene_name "HAT1"
+CP120628.1	Genbank	exon	313066	313084	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_002533-T1_mrna"; gene_id "gene-PRK78_002533"; gene_name "HAT1";
+CP120628.1	Genbank	exon	313143	313421	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_002533-T1_mrna"; gene_id "gene-PRK78_002533"; gene_name "HAT1";
+CP120628.1	Genbank	exon	313495	313759	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_002533-T1_mrna"; gene_id "gene-PRK78_002533"; gene_name "HAT1";
+CP120628.1	Genbank	exon	313813	314875	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_002533-T1_mrna"; gene_id "gene-PRK78_002533"; gene_name "HAT1";
+CP120628.1	Genbank	CDS	313066	313084	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_002533-T1_mrna"; gene_id "gene-PRK78_002533"; gene_name "HAT1";
+CP120628.1	Genbank	CDS	313143	313421	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_002533-T1_mrna"; gene_id "gene-PRK78_002533"; gene_name "HAT1";
+CP120628.1	Genbank	CDS	313495	313759	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_002533-T1_mrna"; gene_id "gene-PRK78_002533"; gene_name "HAT1";
+CP120628.1	Genbank	CDS	313813	314875	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_002533-T1_mrna"; gene_id "gene-PRK78_002533"; gene_name "HAT1";
+CP120628.1	Genbank	transcript	517134	520079	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_002588-T1_mrna"; gene_id "gene-PRK78_002588"; gene_name "ctf18"
+CP120628.1	Genbank	exon	517134	519541	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_002588-T1_mrna"; gene_id "gene-PRK78_002588"; gene_name "ctf18";
+CP120628.1	Genbank	exon	519602	520079	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_002588-T1_mrna"; gene_id "gene-PRK78_002588"; gene_name "ctf18";
+CP120628.1	Genbank	CDS	517134	519541	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_002588-T1_mrna"; gene_id "gene-PRK78_002588"; gene_name "ctf18";
+CP120628.1	Genbank	CDS	519602	520079	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_002588-T1_mrna"; gene_id "gene-PRK78_002588"; gene_name "ctf18";
+CP120628.1	Genbank	transcript	536259	537495	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002595-T1_mrna"; gene_id "gene-PRK78_002595"; gene_name "ETF1"
+CP120628.1	Genbank	exon	536259	536833	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002595-T1_mrna"; gene_id "gene-PRK78_002595"; gene_name "ETF1";
+CP120628.1	Genbank	exon	536903	537071	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002595-T1_mrna"; gene_id "gene-PRK78_002595"; gene_name "ETF1";
+CP120628.1	Genbank	exon	537181	537495	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002595-T1_mrna"; gene_id "gene-PRK78_002595"; gene_name "ETF1";
+CP120628.1	Genbank	CDS	536259	536833	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_002595-T1_mrna"; gene_id "gene-PRK78_002595"; gene_name "ETF1";
+CP120628.1	Genbank	CDS	536903	537071	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_002595-T1_mrna"; gene_id "gene-PRK78_002595"; gene_name "ETF1";
+CP120628.1	Genbank	CDS	537181	537495	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_002595-T1_mrna"; gene_id "gene-PRK78_002595"; gene_name "ETF1";
+CP120628.1	Genbank	transcript	609756	610426	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002620-T1_mrna"; gene_id "gene-PRK78_002620"; gene_name "COX11"
+CP120628.1	Genbank	exon	609756	609805	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002620-T1_mrna"; gene_id "gene-PRK78_002620"; gene_name "COX11";
+CP120628.1	Genbank	exon	609870	610320	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002620-T1_mrna"; gene_id "gene-PRK78_002620"; gene_name "COX11";
+CP120628.1	Genbank	exon	610373	610426	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002620-T1_mrna"; gene_id "gene-PRK78_002620"; gene_name "COX11";
+CP120628.1	Genbank	CDS	609756	609805	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_002620-T1_mrna"; gene_id "gene-PRK78_002620"; gene_name "COX11";
+CP120628.1	Genbank	CDS	609870	610320	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_002620-T1_mrna"; gene_id "gene-PRK78_002620"; gene_name "COX11";
+CP120628.1	Genbank	CDS	610373	610426	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_002620-T1_mrna"; gene_id "gene-PRK78_002620"; gene_name "COX11";
+CP120628.1	Genbank	transcript	647752	649124	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002637-T1_mrna"; gene_id "gene-PRK78_002637"; gene_name "DPH1"
+CP120628.1	Genbank	exon	647752	648932	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002637-T1_mrna"; gene_id "gene-PRK78_002637"; gene_name "DPH1";
+CP120628.1	Genbank	exon	648968	649124	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002637-T1_mrna"; gene_id "gene-PRK78_002637"; gene_name "DPH1";
+CP120628.1	Genbank	CDS	647752	648932	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_002637-T1_mrna"; gene_id "gene-PRK78_002637"; gene_name "DPH1";
+CP120628.1	Genbank	CDS	648968	649124	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_002637-T1_mrna"; gene_id "gene-PRK78_002637"; gene_name "DPH1";
+CP120628.1	Genbank	transcript	1024277	1025571	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002700-T1_mrna"; gene_id "gene-PRK78_002700"; gene_name "RRP42"
+CP120628.1	Genbank	exon	1024277	1024915	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002700-T1_mrna"; gene_id "gene-PRK78_002700"; gene_name "RRP42";
+CP120628.1	Genbank	exon	1024984	1025571	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002700-T1_mrna"; gene_id "gene-PRK78_002700"; gene_name "RRP42";
+CP120628.1	Genbank	CDS	1024277	1024915	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_002700-T1_mrna"; gene_id "gene-PRK78_002700"; gene_name "RRP42";
+CP120628.1	Genbank	CDS	1024984	1025571	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_002700-T1_mrna"; gene_id "gene-PRK78_002700"; gene_name "RRP42";
+CP120628.1	Genbank	transcript	1277645	1279627	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_002770-T1_mrna"; gene_id "gene-PRK78_002770"; gene_name "SRP68"
+CP120628.1	Genbank	exon	1277645	1277835	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_002770-T1_mrna"; gene_id "gene-PRK78_002770"; gene_name "SRP68";
+CP120628.1	Genbank	exon	1277896	1279050	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_002770-T1_mrna"; gene_id "gene-PRK78_002770"; gene_name "SRP68";
+CP120628.1	Genbank	exon	1279123	1279627	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_002770-T1_mrna"; gene_id "gene-PRK78_002770"; gene_name "SRP68";
+CP120628.1	Genbank	CDS	1277645	1277835	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_002770-T1_mrna"; gene_id "gene-PRK78_002770"; gene_name "SRP68";
+CP120628.1	Genbank	CDS	1277896	1279050	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_002770-T1_mrna"; gene_id "gene-PRK78_002770"; gene_name "SRP68";
+CP120628.1	Genbank	CDS	1279123	1279627	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_002770-T1_mrna"; gene_id "gene-PRK78_002770"; gene_name "SRP68";
+CP120628.1	Genbank	transcript	1291586	1292753	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002774-T1_mrna"; gene_id "gene-PRK78_002774"; gene_name "NOP16"
+CP120628.1	Genbank	exon	1291586	1292180	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002774-T1_mrna"; gene_id "gene-PRK78_002774"; gene_name "NOP16";
+CP120628.1	Genbank	exon	1292242	1292509	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002774-T1_mrna"; gene_id "gene-PRK78_002774"; gene_name "NOP16";
+CP120628.1	Genbank	exon	1292609	1292753	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002774-T1_mrna"; gene_id "gene-PRK78_002774"; gene_name "NOP16";
+CP120628.1	Genbank	CDS	1291586	1292180	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_002774-T1_mrna"; gene_id "gene-PRK78_002774"; gene_name "NOP16";
+CP120628.1	Genbank	CDS	1292242	1292509	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_002774-T1_mrna"; gene_id "gene-PRK78_002774"; gene_name "NOP16";
+CP120628.1	Genbank	CDS	1292609	1292753	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_002774-T1_mrna"; gene_id "gene-PRK78_002774"; gene_name "NOP16";
+CP120628.1	Genbank	transcript	1737295	1738566	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_002915-T1_mrna"; gene_id "gene-PRK78_002915"; gene_name "CAB2"
+CP120628.1	Genbank	exon	1737295	1738566	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_002915-T1_mrna"; gene_id "gene-PRK78_002915"; gene_name "CAB2";
+CP120628.1	Genbank	CDS	1737295	1738566	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_002915-T1_mrna"; gene_id "gene-PRK78_002915"; gene_name "CAB2";
+CP120628.1	Genbank	transcript	1965668	1966822	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002988-T1_mrna"; gene_id "gene-PRK78_002988"; gene_name "SHY1"
+CP120628.1	Genbank	exon	1965668	1965767	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002988-T1_mrna"; gene_id "gene-PRK78_002988"; gene_name "SHY1";
+CP120628.1	Genbank	exon	1965841	1965946	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002988-T1_mrna"; gene_id "gene-PRK78_002988"; gene_name "SHY1";
+CP120628.1	Genbank	exon	1965998	1966510	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002988-T1_mrna"; gene_id "gene-PRK78_002988"; gene_name "SHY1";
+CP120628.1	Genbank	exon	1966585	1966822	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_002988-T1_mrna"; gene_id "gene-PRK78_002988"; gene_name "SHY1";
+CP120628.1	Genbank	CDS	1965668	1965767	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_002988-T1_mrna"; gene_id "gene-PRK78_002988"; gene_name "SHY1";
+CP120628.1	Genbank	CDS	1965841	1965946	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_002988-T1_mrna"; gene_id "gene-PRK78_002988"; gene_name "SHY1";
+CP120628.1	Genbank	CDS	1965998	1966510	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_002988-T1_mrna"; gene_id "gene-PRK78_002988"; gene_name "SHY1";
+CP120628.1	Genbank	CDS	1966585	1966822	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_002988-T1_mrna"; gene_id "gene-PRK78_002988"; gene_name "SHY1";
+CP120628.1	Genbank	transcript	1979971	1980873	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_002995-T1_mrna"; gene_id "gene-PRK78_002995"; gene_name "COQ4"
+CP120628.1	Genbank	exon	1979971	1980172	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_002995-T1_mrna"; gene_id "gene-PRK78_002995"; gene_name "COQ4";
+CP120628.1	Genbank	exon	1980230	1980873	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_002995-T1_mrna"; gene_id "gene-PRK78_002995"; gene_name "COQ4";
+CP120628.1	Genbank	CDS	1979971	1980172	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_002995-T1_mrna"; gene_id "gene-PRK78_002995"; gene_name "COQ4";
+CP120628.1	Genbank	CDS	1980230	1980873	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_002995-T1_mrna"; gene_id "gene-PRK78_002995"; gene_name "COQ4";
+CP120628.1	Genbank	transcript	2284138	2285630	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003100-T1_mrna"; gene_id "gene-PRK78_003100"; gene_name "RAM1"
+CP120628.1	Genbank	exon	2284138	2284589	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003100-T1_mrna"; gene_id "gene-PRK78_003100"; gene_name "RAM1";
+CP120628.1	Genbank	exon	2284646	2284773	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003100-T1_mrna"; gene_id "gene-PRK78_003100"; gene_name "RAM1";
+CP120628.1	Genbank	exon	2284830	2284904	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003100-T1_mrna"; gene_id "gene-PRK78_003100"; gene_name "RAM1";
+CP120628.1	Genbank	exon	2284961	2285116	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003100-T1_mrna"; gene_id "gene-PRK78_003100"; gene_name "RAM1";
+CP120628.1	Genbank	exon	2285287	2285630	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003100-T1_mrna"; gene_id "gene-PRK78_003100"; gene_name "RAM1";
+CP120628.1	Genbank	CDS	2284138	2284589	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_003100-T1_mrna"; gene_id "gene-PRK78_003100"; gene_name "RAM1";
+CP120628.1	Genbank	CDS	2284646	2284773	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_003100-T1_mrna"; gene_id "gene-PRK78_003100"; gene_name "RAM1";
+CP120628.1	Genbank	CDS	2284830	2284904	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_003100-T1_mrna"; gene_id "gene-PRK78_003100"; gene_name "RAM1";
+CP120628.1	Genbank	CDS	2284961	2285116	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_003100-T1_mrna"; gene_id "gene-PRK78_003100"; gene_name "RAM1";
+CP120628.1	Genbank	CDS	2285287	2285630	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003100-T1_mrna"; gene_id "gene-PRK78_003100"; gene_name "RAM1";
+CP120628.1	Genbank	transcript	2551148	2553463	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003182-T1_mrna"; gene_id "gene-PRK78_003182"; gene_name "DBP7"
+CP120628.1	Genbank	exon	2551148	2553463	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003182-T1_mrna"; gene_id "gene-PRK78_003182"; gene_name "DBP7";
+CP120628.1	Genbank	CDS	2551148	2553463	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003182-T1_mrna"; gene_id "gene-PRK78_003182"; gene_name "DBP7";
+CP120628.1	Genbank	transcript	2743294	2745520	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003233-T1_mrna"; gene_id "gene-PRK78_003233"; gene_name "ESF1"
+CP120628.1	Genbank	exon	2743294	2745365	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003233-T1_mrna"; gene_id "gene-PRK78_003233"; gene_name "ESF1";
+CP120628.1	Genbank	exon	2745439	2745520	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003233-T1_mrna"; gene_id "gene-PRK78_003233"; gene_name "ESF1";
+CP120628.1	Genbank	CDS	2743294	2745365	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_003233-T1_mrna"; gene_id "gene-PRK78_003233"; gene_name "ESF1";
+CP120628.1	Genbank	CDS	2745439	2745520	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003233-T1_mrna"; gene_id "gene-PRK78_003233"; gene_name "ESF1";
+CP120628.1	Genbank	transcript	2764102	2765161	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003238-T1_mrna"; gene_id "gene-PRK78_003238"; gene_name "LIA1"
+CP120628.1	Genbank	exon	2764102	2764615	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003238-T1_mrna"; gene_id "gene-PRK78_003238"; gene_name "LIA1";
+CP120628.1	Genbank	exon	2764668	2765161	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003238-T1_mrna"; gene_id "gene-PRK78_003238"; gene_name "LIA1";
+CP120628.1	Genbank	CDS	2764102	2764615	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_003238-T1_mrna"; gene_id "gene-PRK78_003238"; gene_name "LIA1";
+CP120628.1	Genbank	CDS	2764668	2765161	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003238-T1_mrna"; gene_id "gene-PRK78_003238"; gene_name "LIA1";
+CP120628.1	Genbank	transcript	2899657	2903113	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003286-T1_mrna"; gene_id "gene-PRK78_003286"; gene_name "CWC15"
+CP120628.1	Genbank	exon	2899657	2899742	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003286-T1_mrna"; gene_id "gene-PRK78_003286"; gene_name "CWC15";
+CP120628.1	Genbank	exon	2899805	2900663	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003286-T1_mrna"; gene_id "gene-PRK78_003286"; gene_name "CWC15";
+CP120628.1	Genbank	exon	2900849	2900878	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003286-T1_mrna"; gene_id "gene-PRK78_003286"; gene_name "CWC15";
+CP120628.1	Genbank	exon	2900983	2901027	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003286-T1_mrna"; gene_id "gene-PRK78_003286"; gene_name "CWC15";
+CP120628.1	Genbank	exon	2902090	2902125	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003286-T1_mrna"; gene_id "gene-PRK78_003286"; gene_name "CWC15";
+CP120628.1	Genbank	exon	2902180	2902350	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003286-T1_mrna"; gene_id "gene-PRK78_003286"; gene_name "CWC15";
+CP120628.1	Genbank	exon	2902405	2902489	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003286-T1_mrna"; gene_id "gene-PRK78_003286"; gene_name "CWC15";
+CP120628.1	Genbank	exon	2902543	2902958	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003286-T1_mrna"; gene_id "gene-PRK78_003286"; gene_name "CWC15";
+CP120628.1	Genbank	exon	2903023	2903045	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003286-T1_mrna"; gene_id "gene-PRK78_003286"; gene_name "CWC15";
+CP120628.1	Genbank	exon	2903104	2903113	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003286-T1_mrna"; gene_id "gene-PRK78_003286"; gene_name "CWC15";
+CP120628.1	Genbank	CDS	2899657	2899742	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_003286-T1_mrna"; gene_id "gene-PRK78_003286"; gene_name "CWC15";
+CP120628.1	Genbank	CDS	2899805	2900663	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003286-T1_mrna"; gene_id "gene-PRK78_003286"; gene_name "CWC15";
+CP120628.1	Genbank	CDS	2900849	2900878	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003286-T1_mrna"; gene_id "gene-PRK78_003286"; gene_name "CWC15";
+CP120628.1	Genbank	CDS	2900983	2901027	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003286-T1_mrna"; gene_id "gene-PRK78_003286"; gene_name "CWC15";
+CP120628.1	Genbank	CDS	2902090	2902125	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003286-T1_mrna"; gene_id "gene-PRK78_003286"; gene_name "CWC15";
+CP120628.1	Genbank	CDS	2902180	2902350	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003286-T1_mrna"; gene_id "gene-PRK78_003286"; gene_name "CWC15";
+CP120628.1	Genbank	CDS	2902405	2902489	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_003286-T1_mrna"; gene_id "gene-PRK78_003286"; gene_name "CWC15";
+CP120628.1	Genbank	CDS	2902543	2902958	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003286-T1_mrna"; gene_id "gene-PRK78_003286"; gene_name "CWC15";
+CP120628.1	Genbank	CDS	2903023	2903045	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_003286-T1_mrna"; gene_id "gene-PRK78_003286"; gene_name "CWC15";
+CP120628.1	Genbank	CDS	2903104	2903113	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003286-T1_mrna"; gene_id "gene-PRK78_003286"; gene_name "CWC15";
+CP120628.1	Genbank	transcript	2903432	2904460	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003287-T1_mrna"; gene_id "gene-PRK78_003287"; gene_name "RRP45"
+CP120628.1	Genbank	exon	2903432	2903595	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003287-T1_mrna"; gene_id "gene-PRK78_003287"; gene_name "RRP45";
+CP120628.1	Genbank	exon	2903669	2903788	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003287-T1_mrna"; gene_id "gene-PRK78_003287"; gene_name "RRP45";
+CP120628.1	Genbank	exon	2903866	2904460	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003287-T1_mrna"; gene_id "gene-PRK78_003287"; gene_name "RRP45";
+CP120628.1	Genbank	CDS	2903432	2903595	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_003287-T1_mrna"; gene_id "gene-PRK78_003287"; gene_name "RRP45";
+CP120628.1	Genbank	CDS	2903669	2903788	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_003287-T1_mrna"; gene_id "gene-PRK78_003287"; gene_name "RRP45";
+CP120628.1	Genbank	CDS	2903866	2904460	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_003287-T1_mrna"; gene_id "gene-PRK78_003287"; gene_name "RRP45";
+CP120628.1	Genbank	transcript	3067847	3068913	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003342-T1_mrna"; gene_id "gene-PRK78_003342"; gene_name "imp3"
+CP120628.1	Genbank	exon	3067847	3068020	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003342-T1_mrna"; gene_id "gene-PRK78_003342"; gene_name "imp3";
+CP120628.1	Genbank	exon	3068137	3068494	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003342-T1_mrna"; gene_id "gene-PRK78_003342"; gene_name "imp3";
+CP120628.1	Genbank	exon	3068885	3068913	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003342-T1_mrna"; gene_id "gene-PRK78_003342"; gene_name "imp3";
+CP120628.1	Genbank	CDS	3067847	3068020	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003342-T1_mrna"; gene_id "gene-PRK78_003342"; gene_name "imp3";
+CP120628.1	Genbank	CDS	3068137	3068494	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_003342-T1_mrna"; gene_id "gene-PRK78_003342"; gene_name "imp3";
+CP120628.1	Genbank	CDS	3068885	3068913	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003342-T1_mrna"; gene_id "gene-PRK78_003342"; gene_name "imp3";
+CP120628.1	Genbank	transcript	3439827	3443138	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003413-T1_mrna"; gene_id "gene-PRK78_003413"; gene_name "MPP10"
+CP120628.1	Genbank	exon	3439827	3439889	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003413-T1_mrna"; gene_id "gene-PRK78_003413"; gene_name "MPP10";
+CP120628.1	Genbank	exon	3439951	3440444	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003413-T1_mrna"; gene_id "gene-PRK78_003413"; gene_name "MPP10";
+CP120628.1	Genbank	exon	3440872	3440891	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003413-T1_mrna"; gene_id "gene-PRK78_003413"; gene_name "MPP10";
+CP120628.1	Genbank	exon	3441013	3443138	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003413-T1_mrna"; gene_id "gene-PRK78_003413"; gene_name "MPP10";
+CP120628.1	Genbank	CDS	3439827	3439889	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_003413-T1_mrna"; gene_id "gene-PRK78_003413"; gene_name "MPP10";
+CP120628.1	Genbank	CDS	3439951	3440444	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_003413-T1_mrna"; gene_id "gene-PRK78_003413"; gene_name "MPP10";
+CP120628.1	Genbank	CDS	3440872	3440891	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_003413-T1_mrna"; gene_id "gene-PRK78_003413"; gene_name "MPP10";
+CP120628.1	Genbank	CDS	3441013	3443138	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_003413-T1_mrna"; gene_id "gene-PRK78_003413"; gene_name "MPP10";
+CP120628.1	Genbank	transcript	3526874	3529030	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003437-T1_mrna"; gene_id "gene-PRK78_003437"; gene_name "UTP18"
+CP120628.1	Genbank	exon	3526874	3527167	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003437-T1_mrna"; gene_id "gene-PRK78_003437"; gene_name "UTP18";
+CP120628.1	Genbank	exon	3527285	3527836	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003437-T1_mrna"; gene_id "gene-PRK78_003437"; gene_name "UTP18";
+CP120628.1	Genbank	exon	3527908	3528793	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003437-T1_mrna"; gene_id "gene-PRK78_003437"; gene_name "UTP18";
+CP120628.1	Genbank	exon	3528987	3529030	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003437-T1_mrna"; gene_id "gene-PRK78_003437"; gene_name "UTP18";
+CP120628.1	Genbank	CDS	3526874	3527167	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_003437-T1_mrna"; gene_id "gene-PRK78_003437"; gene_name "UTP18";
+CP120628.1	Genbank	CDS	3527285	3527836	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_003437-T1_mrna"; gene_id "gene-PRK78_003437"; gene_name "UTP18";
+CP120628.1	Genbank	CDS	3527908	3528793	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_003437-T1_mrna"; gene_id "gene-PRK78_003437"; gene_name "UTP18";
+CP120628.1	Genbank	CDS	3528987	3529030	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_003437-T1_mrna"; gene_id "gene-PRK78_003437"; gene_name "UTP18";
+CP120628.1	Genbank	transcript	3579242	3582555	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003454-T1_mrna"; gene_id "gene-PRK78_003454"; gene_name "CDC54"
+CP120628.1	Genbank	exon	3579242	3579829	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003454-T1_mrna"; gene_id "gene-PRK78_003454"; gene_name "CDC54";
+CP120628.1	Genbank	exon	3579889	3581081	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003454-T1_mrna"; gene_id "gene-PRK78_003454"; gene_name "CDC54";
+CP120628.1	Genbank	exon	3581143	3581214	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003454-T1_mrna"; gene_id "gene-PRK78_003454"; gene_name "CDC54";
+CP120628.1	Genbank	exon	3581276	3582160	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003454-T1_mrna"; gene_id "gene-PRK78_003454"; gene_name "CDC54";
+CP120628.1	Genbank	exon	3582213	3582555	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003454-T1_mrna"; gene_id "gene-PRK78_003454"; gene_name "CDC54";
+CP120628.1	Genbank	CDS	3579242	3579829	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003454-T1_mrna"; gene_id "gene-PRK78_003454"; gene_name "CDC54";
+CP120628.1	Genbank	CDS	3579889	3581081	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_003454-T1_mrna"; gene_id "gene-PRK78_003454"; gene_name "CDC54";
+CP120628.1	Genbank	CDS	3581143	3581214	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_003454-T1_mrna"; gene_id "gene-PRK78_003454"; gene_name "CDC54";
+CP120628.1	Genbank	CDS	3581276	3582160	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_003454-T1_mrna"; gene_id "gene-PRK78_003454"; gene_name "CDC54";
+CP120628.1	Genbank	CDS	3582213	3582555	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003454-T1_mrna"; gene_id "gene-PRK78_003454"; gene_name "CDC54";
+CP120628.1	Genbank	transcript	3669324	3672259	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003476-T1_mrna"; gene_id "gene-PRK78_003476"
+CP120628.1	Genbank	exon	3669324	3669842	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003476-T1_mrna"; gene_id "gene-PRK78_003476";
+CP120628.1	Genbank	exon	3669920	3672259	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003476-T1_mrna"; gene_id "gene-PRK78_003476";
+CP120628.1	Genbank	CDS	3669324	3669842	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_003476-T1_mrna"; gene_id "gene-PRK78_003476";
+CP120628.1	Genbank	CDS	3669920	3672259	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_003476-T1_mrna"; gene_id "gene-PRK78_003476";
+CP120628.1	Genbank	transcript	3903415	3904297	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003554-T1_mrna"; gene_id "gene-PRK78_003554"; gene_name "SLD5"
+CP120628.1	Genbank	exon	3903415	3904002	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003554-T1_mrna"; gene_id "gene-PRK78_003554"; gene_name "SLD5";
+CP120628.1	Genbank	exon	3904118	3904297	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003554-T1_mrna"; gene_id "gene-PRK78_003554"; gene_name "SLD5";
+CP120628.1	Genbank	CDS	3903415	3904002	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003554-T1_mrna"; gene_id "gene-PRK78_003554"; gene_name "SLD5";
+CP120628.1	Genbank	CDS	3904118	3904297	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003554-T1_mrna"; gene_id "gene-PRK78_003554"; gene_name "SLD5";
+CP120628.1	Genbank	transcript	4134541	4136744	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003624-T1_mrna"; gene_id "gene-PRK78_003624"; gene_name "ENP2"
+CP120628.1	Genbank	exon	4134541	4134757	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003624-T1_mrna"; gene_id "gene-PRK78_003624"; gene_name "ENP2";
+CP120628.1	Genbank	exon	4134820	4136744	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003624-T1_mrna"; gene_id "gene-PRK78_003624"; gene_name "ENP2";
+CP120628.1	Genbank	CDS	4134541	4134757	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_003624-T1_mrna"; gene_id "gene-PRK78_003624"; gene_name "ENP2";
+CP120628.1	Genbank	CDS	4134820	4136744	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_003624-T1_mrna"; gene_id "gene-PRK78_003624"; gene_name "ENP2";
+CP120628.1	Genbank	transcript	4671015	4672563	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003706-T1_mrna"; gene_id "gene-PRK78_003706"; gene_name "COX15"
+CP120628.1	Genbank	exon	4671015	4672128	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003706-T1_mrna"; gene_id "gene-PRK78_003706"; gene_name "COX15";
+CP120628.1	Genbank	exon	4672196	4672563	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003706-T1_mrna"; gene_id "gene-PRK78_003706"; gene_name "COX15";
+CP120628.1	Genbank	CDS	4671015	4672128	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_003706-T1_mrna"; gene_id "gene-PRK78_003706"; gene_name "COX15";
+CP120628.1	Genbank	CDS	4672196	4672563	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003706-T1_mrna"; gene_id "gene-PRK78_003706"; gene_name "COX15";
+CP120628.1	Genbank	transcript	4923159	4924897	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003777-T1_mrna"; gene_id "gene-PRK78_003777"; gene_name "CSN12"
+CP120628.1	Genbank	exon	4923159	4923245	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003777-T1_mrna"; gene_id "gene-PRK78_003777"; gene_name "CSN12";
+CP120628.1	Genbank	exon	4923303	4923783	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003777-T1_mrna"; gene_id "gene-PRK78_003777"; gene_name "CSN12";
+CP120628.1	Genbank	exon	4923834	4923895	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003777-T1_mrna"; gene_id "gene-PRK78_003777"; gene_name "CSN12";
+CP120628.1	Genbank	exon	4923960	4924112	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003777-T1_mrna"; gene_id "gene-PRK78_003777"; gene_name "CSN12";
+CP120628.1	Genbank	exon	4924172	4924244	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003777-T1_mrna"; gene_id "gene-PRK78_003777"; gene_name "CSN12";
+CP120628.1	Genbank	exon	4924323	4924897	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003777-T1_mrna"; gene_id "gene-PRK78_003777"; gene_name "CSN12";
+CP120628.1	Genbank	CDS	4923159	4923245	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003777-T1_mrna"; gene_id "gene-PRK78_003777"; gene_name "CSN12";
+CP120628.1	Genbank	CDS	4923303	4923783	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_003777-T1_mrna"; gene_id "gene-PRK78_003777"; gene_name "CSN12";
+CP120628.1	Genbank	CDS	4923834	4923895	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003777-T1_mrna"; gene_id "gene-PRK78_003777"; gene_name "CSN12";
+CP120628.1	Genbank	CDS	4923960	4924112	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003777-T1_mrna"; gene_id "gene-PRK78_003777"; gene_name "CSN12";
+CP120628.1	Genbank	CDS	4924172	4924244	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_003777-T1_mrna"; gene_id "gene-PRK78_003777"; gene_name "CSN12";
+CP120628.1	Genbank	CDS	4924323	4924897	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003777-T1_mrna"; gene_id "gene-PRK78_003777"; gene_name "CSN12";
+CP120628.1	Genbank	transcript	5734187	5735176	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003906-T1_mrna"; gene_id "gene-PRK78_003906"; gene_name "RPP1"
+CP120628.1	Genbank	exon	5734187	5734262	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003906-T1_mrna"; gene_id "gene-PRK78_003906"; gene_name "RPP1";
+CP120628.1	Genbank	exon	5734341	5735176	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003906-T1_mrna"; gene_id "gene-PRK78_003906"; gene_name "RPP1";
+CP120628.1	Genbank	CDS	5734187	5734262	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_003906-T1_mrna"; gene_id "gene-PRK78_003906"; gene_name "RPP1";
+CP120628.1	Genbank	CDS	5734341	5735176	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_003906-T1_mrna"; gene_id "gene-PRK78_003906"; gene_name "RPP1";
+CP120628.1	Genbank	transcript	5768632	5769843	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003917-T1_mrna"; gene_id "gene-PRK78_003917"
+CP120628.1	Genbank	exon	5768632	5769843	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003917-T1_mrna"; gene_id "gene-PRK78_003917";
+CP120628.1	Genbank	CDS	5768632	5769843	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_003917-T1_mrna"; gene_id "gene-PRK78_003917";
+CP120628.1	Genbank	transcript	5802213	5803907	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003931-T1_mrna"; gene_id "gene-PRK78_003931"
+CP120628.1	Genbank	exon	5802213	5803765	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003931-T1_mrna"; gene_id "gene-PRK78_003931";
+CP120628.1	Genbank	exon	5803829	5803907	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003931-T1_mrna"; gene_id "gene-PRK78_003931";
+CP120628.1	Genbank	CDS	5802213	5803765	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_003931-T1_mrna"; gene_id "gene-PRK78_003931";
+CP120628.1	Genbank	CDS	5803829	5803907	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003931-T1_mrna"; gene_id "gene-PRK78_003931";
+CP120628.1	Genbank	transcript	5837645	5838599	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003946-T1_mrna"; gene_id "gene-PRK78_003946"; gene_name "rpc25"
+CP120628.1	Genbank	exon	5837645	5837656	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003946-T1_mrna"; gene_id "gene-PRK78_003946"; gene_name "rpc25";
+CP120628.1	Genbank	exon	5837718	5837816	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003946-T1_mrna"; gene_id "gene-PRK78_003946"; gene_name "rpc25";
+CP120628.1	Genbank	exon	5837882	5837971	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003946-T1_mrna"; gene_id "gene-PRK78_003946"; gene_name "rpc25";
+CP120628.1	Genbank	exon	5838083	5838134	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003946-T1_mrna"; gene_id "gene-PRK78_003946"; gene_name "rpc25";
+CP120628.1	Genbank	exon	5838190	5838253	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003946-T1_mrna"; gene_id "gene-PRK78_003946"; gene_name "rpc25";
+CP120628.1	Genbank	exon	5838311	5838491	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003946-T1_mrna"; gene_id "gene-PRK78_003946"; gene_name "rpc25";
+CP120628.1	Genbank	exon	5838552	5838599	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_003946-T1_mrna"; gene_id "gene-PRK78_003946"; gene_name "rpc25";
+CP120628.1	Genbank	CDS	5837645	5837656	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_003946-T1_mrna"; gene_id "gene-PRK78_003946"; gene_name "rpc25";
+CP120628.1	Genbank	CDS	5837718	5837816	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_003946-T1_mrna"; gene_id "gene-PRK78_003946"; gene_name "rpc25";
+CP120628.1	Genbank	CDS	5837882	5837971	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_003946-T1_mrna"; gene_id "gene-PRK78_003946"; gene_name "rpc25";
+CP120628.1	Genbank	CDS	5838083	5838134	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_003946-T1_mrna"; gene_id "gene-PRK78_003946"; gene_name "rpc25";
+CP120628.1	Genbank	CDS	5838190	5838253	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_003946-T1_mrna"; gene_id "gene-PRK78_003946"; gene_name "rpc25";
+CP120628.1	Genbank	CDS	5838311	5838491	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_003946-T1_mrna"; gene_id "gene-PRK78_003946"; gene_name "rpc25";
+CP120628.1	Genbank	CDS	5838552	5838599	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_003946-T1_mrna"; gene_id "gene-PRK78_003946"; gene_name "rpc25";
+CP120628.1	Genbank	transcript	5861813	5863050	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003953-T1_mrna"; gene_id "gene-PRK78_003953"
+CP120628.1	Genbank	exon	5861813	5862712	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003953-T1_mrna"; gene_id "gene-PRK78_003953";
+CP120628.1	Genbank	exon	5862891	5862901	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003953-T1_mrna"; gene_id "gene-PRK78_003953";
+CP120628.1	Genbank	exon	5863032	5863050	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003953-T1_mrna"; gene_id "gene-PRK78_003953";
+CP120628.1	Genbank	CDS	5861813	5862712	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003953-T1_mrna"; gene_id "gene-PRK78_003953";
+CP120628.1	Genbank	CDS	5862891	5862901	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_003953-T1_mrna"; gene_id "gene-PRK78_003953";
+CP120628.1	Genbank	CDS	5863032	5863050	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003953-T1_mrna"; gene_id "gene-PRK78_003953";
+CP120628.1	Genbank	transcript	5896357	5899100	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003968-T1_mrna"; gene_id "gene-PRK78_003968"; gene_name "NOP14"
+CP120628.1	Genbank	exon	5896357	5898753	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003968-T1_mrna"; gene_id "gene-PRK78_003968"; gene_name "NOP14";
+CP120628.1	Genbank	exon	5898816	5899100	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_003968-T1_mrna"; gene_id "gene-PRK78_003968"; gene_name "NOP14";
+CP120628.1	Genbank	CDS	5896357	5898753	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003968-T1_mrna"; gene_id "gene-PRK78_003968"; gene_name "NOP14";
+CP120628.1	Genbank	CDS	5898816	5899100	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_003968-T1_mrna"; gene_id "gene-PRK78_003968"; gene_name "NOP14";
+CP120628.1	Genbank	transcript	6286979	6287891	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004024-T1_mrna"; gene_id "gene-PRK78_004024"; gene_name "TMA22"
+CP120628.1	Genbank	exon	6286979	6287054	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004024-T1_mrna"; gene_id "gene-PRK78_004024"; gene_name "TMA22";
+CP120628.1	Genbank	exon	6287146	6287165	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004024-T1_mrna"; gene_id "gene-PRK78_004024"; gene_name "TMA22";
+CP120628.1	Genbank	exon	6287307	6287394	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004024-T1_mrna"; gene_id "gene-PRK78_004024"; gene_name "TMA22";
+CP120628.1	Genbank	exon	6287473	6287891	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004024-T1_mrna"; gene_id "gene-PRK78_004024"; gene_name "TMA22";
+CP120628.1	Genbank	CDS	6286979	6287054	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_004024-T1_mrna"; gene_id "gene-PRK78_004024"; gene_name "TMA22";
+CP120628.1	Genbank	CDS	6287146	6287165	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_004024-T1_mrna"; gene_id "gene-PRK78_004024"; gene_name "TMA22";
+CP120628.1	Genbank	CDS	6287307	6287394	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_004024-T1_mrna"; gene_id "gene-PRK78_004024"; gene_name "TMA22";
+CP120628.1	Genbank	CDS	6287473	6287891	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_004024-T1_mrna"; gene_id "gene-PRK78_004024"; gene_name "TMA22";
+CP120628.1	Genbank	transcript	6319436	6322129	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004036-T1_mrna"; gene_id "gene-PRK78_004036"; gene_name "SEC10"
+CP120628.1	Genbank	exon	6319436	6321565	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004036-T1_mrna"; gene_id "gene-PRK78_004036"; gene_name "SEC10";
+CP120628.1	Genbank	exon	6321644	6322129	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004036-T1_mrna"; gene_id "gene-PRK78_004036"; gene_name "SEC10";
+CP120628.1	Genbank	CDS	6319436	6321565	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_004036-T1_mrna"; gene_id "gene-PRK78_004036"; gene_name "SEC10";
+CP120628.1	Genbank	CDS	6321644	6322129	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_004036-T1_mrna"; gene_id "gene-PRK78_004036"; gene_name "SEC10";
+CP120628.1	Genbank	transcript	7365136	7365883	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004192-T1_mrna"; gene_id "gene-PRK78_004192"; gene_name "naa20"
+CP120628.1	Genbank	exon	7365136	7365644	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004192-T1_mrna"; gene_id "gene-PRK78_004192"; gene_name "naa20";
+CP120628.1	Genbank	exon	7365715	7365883	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004192-T1_mrna"; gene_id "gene-PRK78_004192"; gene_name "naa20";
+CP120628.1	Genbank	CDS	7365136	7365644	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_004192-T1_mrna"; gene_id "gene-PRK78_004192"; gene_name "naa20";
+CP120628.1	Genbank	CDS	7365715	7365883	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_004192-T1_mrna"; gene_id "gene-PRK78_004192"; gene_name "naa20";
+CP120628.1	Genbank	transcript	7442872	7444370	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004211-T1_mrna"; gene_id "gene-PRK78_004211"
+CP120628.1	Genbank	exon	7442872	7443814	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004211-T1_mrna"; gene_id "gene-PRK78_004211";
+CP120628.1	Genbank	exon	7443877	7444004	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004211-T1_mrna"; gene_id "gene-PRK78_004211";
+CP120628.1	Genbank	exon	7444111	7444239	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004211-T1_mrna"; gene_id "gene-PRK78_004211";
+CP120628.1	Genbank	exon	7444293	7444370	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004211-T1_mrna"; gene_id "gene-PRK78_004211";
+CP120628.1	Genbank	CDS	7442872	7443814	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_004211-T1_mrna"; gene_id "gene-PRK78_004211";
+CP120628.1	Genbank	CDS	7443877	7444004	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_004211-T1_mrna"; gene_id "gene-PRK78_004211";
+CP120628.1	Genbank	CDS	7444111	7444239	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_004211-T1_mrna"; gene_id "gene-PRK78_004211";
+CP120628.1	Genbank	CDS	7444293	7444370	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_004211-T1_mrna"; gene_id "gene-PRK78_004211";
+CP120628.1	Genbank	transcript	7648833	7651835	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004267-T1_mrna"; gene_id "gene-PRK78_004267"; gene_name "DIP2"
+CP120628.1	Genbank	exon	7648833	7651446	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004267-T1_mrna"; gene_id "gene-PRK78_004267"; gene_name "DIP2";
+CP120628.1	Genbank	exon	7651500	7651754	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004267-T1_mrna"; gene_id "gene-PRK78_004267"; gene_name "DIP2";
+CP120628.1	Genbank	exon	7651819	7651835	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004267-T1_mrna"; gene_id "gene-PRK78_004267"; gene_name "DIP2";
+CP120628.1	Genbank	CDS	7648833	7651446	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_004267-T1_mrna"; gene_id "gene-PRK78_004267"; gene_name "DIP2";
+CP120628.1	Genbank	CDS	7651500	7651754	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_004267-T1_mrna"; gene_id "gene-PRK78_004267"; gene_name "DIP2";
+CP120628.1	Genbank	CDS	7651819	7651835	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_004267-T1_mrna"; gene_id "gene-PRK78_004267"; gene_name "DIP2";
+CP120628.1	Genbank	transcript	7660762	7662508	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004273-T1_mrna"; gene_id "gene-PRK78_004273"; gene_name "PWP1"
+CP120628.1	Genbank	exon	7660762	7661024	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004273-T1_mrna"; gene_id "gene-PRK78_004273"; gene_name "PWP1";
+CP120628.1	Genbank	exon	7661107	7662508	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004273-T1_mrna"; gene_id "gene-PRK78_004273"; gene_name "PWP1";
+CP120628.1	Genbank	CDS	7660762	7661024	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_004273-T1_mrna"; gene_id "gene-PRK78_004273"; gene_name "PWP1";
+CP120628.1	Genbank	CDS	7661107	7662508	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_004273-T1_mrna"; gene_id "gene-PRK78_004273"; gene_name "PWP1";
+CP120628.1	Genbank	transcript	7667047	7669209	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004275-T1_mrna"; gene_id "gene-PRK78_004275"; gene_name "RRN3"
+CP120628.1	Genbank	exon	7667047	7667713	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004275-T1_mrna"; gene_id "gene-PRK78_004275"; gene_name "RRN3";
+CP120628.1	Genbank	exon	7667774	7669209	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004275-T1_mrna"; gene_id "gene-PRK78_004275"; gene_name "RRN3";
+CP120628.1	Genbank	CDS	7667047	7667713	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_004275-T1_mrna"; gene_id "gene-PRK78_004275"; gene_name "RRN3";
+CP120628.1	Genbank	CDS	7667774	7669209	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_004275-T1_mrna"; gene_id "gene-PRK78_004275"; gene_name "RRN3";
+CP120628.1	Genbank	transcript	8235589	8236948	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004371-T1_mrna"; gene_id "gene-PRK78_004371"; gene_name "DOM34"
+CP120628.1	Genbank	exon	8235589	8235666	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004371-T1_mrna"; gene_id "gene-PRK78_004371"; gene_name "DOM34";
+CP120628.1	Genbank	exon	8235749	8236220	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004371-T1_mrna"; gene_id "gene-PRK78_004371"; gene_name "DOM34";
+CP120628.1	Genbank	exon	8236266	8236948	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004371-T1_mrna"; gene_id "gene-PRK78_004371"; gene_name "DOM34";
+CP120628.1	Genbank	CDS	8235589	8235666	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_004371-T1_mrna"; gene_id "gene-PRK78_004371"; gene_name "DOM34";
+CP120628.1	Genbank	CDS	8235749	8236220	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_004371-T1_mrna"; gene_id "gene-PRK78_004371"; gene_name "DOM34";
+CP120628.1	Genbank	CDS	8236266	8236948	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_004371-T1_mrna"; gene_id "gene-PRK78_004371"; gene_name "DOM34";
+CP120628.1	Genbank	transcript	9145707	9147219	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004558-T1_mrna"; gene_id "gene-PRK78_004558"
+CP120628.1	Genbank	exon	9145707	9146828	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004558-T1_mrna"; gene_id "gene-PRK78_004558";
+CP120628.1	Genbank	exon	9146899	9147219	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004558-T1_mrna"; gene_id "gene-PRK78_004558";
+CP120628.1	Genbank	CDS	9145707	9146828	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_004558-T1_mrna"; gene_id "gene-PRK78_004558";
+CP120628.1	Genbank	CDS	9146899	9147219	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_004558-T1_mrna"; gene_id "gene-PRK78_004558";
+CP120628.1	Genbank	transcript	9395688	9398298	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004611-T1_mrna"; gene_id "gene-PRK78_004611"; gene_name "MCM2"
+CP120628.1	Genbank	exon	9395688	9397898	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004611-T1_mrna"; gene_id "gene-PRK78_004611"; gene_name "MCM2";
+CP120628.1	Genbank	exon	9397966	9398135	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004611-T1_mrna"; gene_id "gene-PRK78_004611"; gene_name "MCM2";
+CP120628.1	Genbank	exon	9398211	9398298	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004611-T1_mrna"; gene_id "gene-PRK78_004611"; gene_name "MCM2";
+CP120628.1	Genbank	CDS	9395688	9397898	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_004611-T1_mrna"; gene_id "gene-PRK78_004611"; gene_name "MCM2";
+CP120628.1	Genbank	CDS	9397966	9398135	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_004611-T1_mrna"; gene_id "gene-PRK78_004611"; gene_name "MCM2";
+CP120628.1	Genbank	CDS	9398211	9398298	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_004611-T1_mrna"; gene_id "gene-PRK78_004611"; gene_name "MCM2";
+CP120629.1	Genbank	transcript	40738	41775	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004647-T1_mrna"; gene_id "gene-PRK78_004647"; gene_name "CWC26"
+CP120629.1	Genbank	exon	40738	41775	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004647-T1_mrna"; gene_id "gene-PRK78_004647"; gene_name "CWC26";
+CP120629.1	Genbank	CDS	40738	41775	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_004647-T1_mrna"; gene_id "gene-PRK78_004647"; gene_name "CWC26";
+CP120629.1	Genbank	transcript	326538	328729	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004737-T1_mrna"; gene_id "gene-PRK78_004737"; gene_name "NOP7"
+CP120629.1	Genbank	exon	326538	328492	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004737-T1_mrna"; gene_id "gene-PRK78_004737"; gene_name "NOP7";
+CP120629.1	Genbank	exon	328553	328651	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004737-T1_mrna"; gene_id "gene-PRK78_004737"; gene_name "NOP7";
+CP120629.1	Genbank	exon	328708	328729	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004737-T1_mrna"; gene_id "gene-PRK78_004737"; gene_name "NOP7";
+CP120629.1	Genbank	CDS	326538	328492	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_004737-T1_mrna"; gene_id "gene-PRK78_004737"; gene_name "NOP7";
+CP120629.1	Genbank	CDS	328553	328651	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_004737-T1_mrna"; gene_id "gene-PRK78_004737"; gene_name "NOP7";
+CP120629.1	Genbank	CDS	328708	328729	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_004737-T1_mrna"; gene_id "gene-PRK78_004737"; gene_name "NOP7";
+CP120629.1	Genbank	transcript	479487	480808	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004789-T1_mrna"; gene_id "gene-PRK78_004789"
+CP120629.1	Genbank	exon	479487	479516	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004789-T1_mrna"; gene_id "gene-PRK78_004789";
+CP120629.1	Genbank	exon	479576	480808	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_004789-T1_mrna"; gene_id "gene-PRK78_004789";
+CP120629.1	Genbank	CDS	479487	479516	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_004789-T1_mrna"; gene_id "gene-PRK78_004789";
+CP120629.1	Genbank	CDS	479576	480808	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_004789-T1_mrna"; gene_id "gene-PRK78_004789";
+CP120629.1	Genbank	transcript	1421342	1422960	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004948-T1_mrna"; gene_id "gene-PRK78_004948"; gene_name "ENP1"
+CP120629.1	Genbank	exon	1421342	1421713	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004948-T1_mrna"; gene_id "gene-PRK78_004948"; gene_name "ENP1";
+CP120629.1	Genbank	exon	1421777	1422021	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004948-T1_mrna"; gene_id "gene-PRK78_004948"; gene_name "ENP1";
+CP120629.1	Genbank	exon	1422084	1422960	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_004948-T1_mrna"; gene_id "gene-PRK78_004948"; gene_name "ENP1";
+CP120629.1	Genbank	CDS	1421342	1421713	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_004948-T1_mrna"; gene_id "gene-PRK78_004948"; gene_name "ENP1";
+CP120629.1	Genbank	CDS	1421777	1422021	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_004948-T1_mrna"; gene_id "gene-PRK78_004948"; gene_name "ENP1";
+CP120629.1	Genbank	CDS	1422084	1422960	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_004948-T1_mrna"; gene_id "gene-PRK78_004948"; gene_name "ENP1";
+CP120629.1	Genbank	transcript	1815108	1816635	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005015-T1_mrna"; gene_id "gene-PRK78_005015"; gene_name "ALG7"
+CP120629.1	Genbank	exon	1815108	1815340	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005015-T1_mrna"; gene_id "gene-PRK78_005015"; gene_name "ALG7";
+CP120629.1	Genbank	exon	1815401	1815581	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005015-T1_mrna"; gene_id "gene-PRK78_005015"; gene_name "ALG7";
+CP120629.1	Genbank	exon	1815652	1816635	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005015-T1_mrna"; gene_id "gene-PRK78_005015"; gene_name "ALG7";
+CP120629.1	Genbank	CDS	1815108	1815340	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005015-T1_mrna"; gene_id "gene-PRK78_005015"; gene_name "ALG7";
+CP120629.1	Genbank	CDS	1815401	1815581	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_005015-T1_mrna"; gene_id "gene-PRK78_005015"; gene_name "ALG7";
+CP120629.1	Genbank	CDS	1815652	1816635	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005015-T1_mrna"; gene_id "gene-PRK78_005015"; gene_name "ALG7";
+CP120629.1	Genbank	transcript	1901590	1902766	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005036-T1_mrna"; gene_id "gene-PRK78_005036"; gene_name "KRR1"
+CP120629.1	Genbank	exon	1901590	1901649	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005036-T1_mrna"; gene_id "gene-PRK78_005036"; gene_name "KRR1";
+CP120629.1	Genbank	exon	1901712	1901984	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005036-T1_mrna"; gene_id "gene-PRK78_005036"; gene_name "KRR1";
+CP120629.1	Genbank	exon	1902047	1902766	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005036-T1_mrna"; gene_id "gene-PRK78_005036"; gene_name "KRR1";
+CP120629.1	Genbank	CDS	1901590	1901649	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005036-T1_mrna"; gene_id "gene-PRK78_005036"; gene_name "KRR1";
+CP120629.1	Genbank	CDS	1901712	1901984	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005036-T1_mrna"; gene_id "gene-PRK78_005036"; gene_name "KRR1";
+CP120629.1	Genbank	CDS	1902047	1902766	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005036-T1_mrna"; gene_id "gene-PRK78_005036"; gene_name "KRR1";
+CP120629.1	Genbank	transcript	2931684	2932548	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005257-T1_mrna"; gene_id "gene-PRK78_005257"; gene_name "dot2"
+CP120629.1	Genbank	exon	2931684	2932168	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005257-T1_mrna"; gene_id "gene-PRK78_005257"; gene_name "dot2";
+CP120629.1	Genbank	exon	2932236	2932548	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005257-T1_mrna"; gene_id "gene-PRK78_005257"; gene_name "dot2";
+CP120629.1	Genbank	CDS	2931684	2932168	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005257-T1_mrna"; gene_id "gene-PRK78_005257"; gene_name "dot2";
+CP120629.1	Genbank	CDS	2932236	2932548	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_005257-T1_mrna"; gene_id "gene-PRK78_005257"; gene_name "dot2";
+CP120629.1	Genbank	transcript	3138536	3141735	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309"
+CP120629.1	Genbank	exon	3138536	3138614	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	exon	3139179	3139376	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	exon	3139475	3139488	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	exon	3139552	3139606	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	exon	3139658	3139890	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	exon	3139958	3140064	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	exon	3140129	3140363	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	exon	3140414	3140507	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	exon	3140562	3141076	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	exon	3141133	3141417	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	exon	3141476	3141593	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	exon	3141656	3141735	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	CDS	3138536	3138614	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	CDS	3139179	3139376	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	CDS	3139475	3139488	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	CDS	3139552	3139606	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	CDS	3139658	3139890	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	CDS	3139958	3140064	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	CDS	3140129	3140363	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	CDS	3140414	3140507	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	CDS	3140562	3141076	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	CDS	3141133	3141417	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	CDS	3141476	3141593	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	CDS	3141656	3141735	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_005309-T1_mrna"; gene_id "gene-PRK78_005309";
+CP120629.1	Genbank	transcript	3331698	3333274	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005339-T1_mrna"; gene_id "gene-PRK78_005339"; gene_name "cyp6"
+CP120629.1	Genbank	exon	3331698	3331777	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005339-T1_mrna"; gene_id "gene-PRK78_005339"; gene_name "cyp6";
+CP120629.1	Genbank	exon	3331910	3332559	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005339-T1_mrna"; gene_id "gene-PRK78_005339"; gene_name "cyp6";
+CP120629.1	Genbank	exon	3332611	3332807	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005339-T1_mrna"; gene_id "gene-PRK78_005339"; gene_name "cyp6";
+CP120629.1	Genbank	exon	3332877	3333233	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005339-T1_mrna"; gene_id "gene-PRK78_005339"; gene_name "cyp6";
+CP120629.1	Genbank	exon	3333269	3333274	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005339-T1_mrna"; gene_id "gene-PRK78_005339"; gene_name "cyp6";
+CP120629.1	Genbank	CDS	3331698	3331777	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005339-T1_mrna"; gene_id "gene-PRK78_005339"; gene_name "cyp6";
+CP120629.1	Genbank	CDS	3331910	3332559	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_005339-T1_mrna"; gene_id "gene-PRK78_005339"; gene_name "cyp6";
+CP120629.1	Genbank	CDS	3332611	3332807	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_005339-T1_mrna"; gene_id "gene-PRK78_005339"; gene_name "cyp6";
+CP120629.1	Genbank	CDS	3332877	3333233	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005339-T1_mrna"; gene_id "gene-PRK78_005339"; gene_name "cyp6";
+CP120629.1	Genbank	CDS	3333269	3333274	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005339-T1_mrna"; gene_id "gene-PRK78_005339"; gene_name "cyp6";
+CP120629.1	Genbank	transcript	3789332	3791011	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005485-T1_mrna"; gene_id "gene-PRK78_005485"
+CP120629.1	Genbank	exon	3789332	3789435	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005485-T1_mrna"; gene_id "gene-PRK78_005485";
+CP120629.1	Genbank	exon	3789492	3789582	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005485-T1_mrna"; gene_id "gene-PRK78_005485";
+CP120629.1	Genbank	exon	3789667	3789831	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005485-T1_mrna"; gene_id "gene-PRK78_005485";
+CP120629.1	Genbank	exon	3789886	3790132	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005485-T1_mrna"; gene_id "gene-PRK78_005485";
+CP120629.1	Genbank	exon	3790359	3791011	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005485-T1_mrna"; gene_id "gene-PRK78_005485";
+CP120629.1	Genbank	CDS	3789332	3789435	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005485-T1_mrna"; gene_id "gene-PRK78_005485";
+CP120629.1	Genbank	CDS	3789492	3789582	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_005485-T1_mrna"; gene_id "gene-PRK78_005485";
+CP120629.1	Genbank	CDS	3789667	3789831	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005485-T1_mrna"; gene_id "gene-PRK78_005485";
+CP120629.1	Genbank	CDS	3789886	3790132	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005485-T1_mrna"; gene_id "gene-PRK78_005485";
+CP120629.1	Genbank	CDS	3790359	3791011	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_005485-T1_mrna"; gene_id "gene-PRK78_005485";
+CP120629.1	Genbank	transcript	3796219	3797192	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005488-T1_mrna"; gene_id "gene-PRK78_005488"; gene_name "NSA2"
+CP120629.1	Genbank	exon	3796219	3796221	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005488-T1_mrna"; gene_id "gene-PRK78_005488"; gene_name "NSA2";
+CP120629.1	Genbank	exon	3796280	3796290	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005488-T1_mrna"; gene_id "gene-PRK78_005488"; gene_name "NSA2";
+CP120629.1	Genbank	exon	3796345	3796380	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005488-T1_mrna"; gene_id "gene-PRK78_005488"; gene_name "NSA2";
+CP120629.1	Genbank	exon	3796469	3797192	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005488-T1_mrna"; gene_id "gene-PRK78_005488"; gene_name "NSA2";
+CP120629.1	Genbank	CDS	3796219	3796221	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005488-T1_mrna"; gene_id "gene-PRK78_005488"; gene_name "NSA2";
+CP120629.1	Genbank	CDS	3796280	3796290	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005488-T1_mrna"; gene_id "gene-PRK78_005488"; gene_name "NSA2";
+CP120629.1	Genbank	CDS	3796345	3796380	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_005488-T1_mrna"; gene_id "gene-PRK78_005488"; gene_name "NSA2";
+CP120629.1	Genbank	CDS	3796469	3797192	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_005488-T1_mrna"; gene_id "gene-PRK78_005488"; gene_name "NSA2";
+CP120629.1	Genbank	transcript	3828801	3830856	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005498-T1_mrna"; gene_id "gene-PRK78_005498"; gene_name "cdc1"
+CP120629.1	Genbank	exon	3828801	3828844	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005498-T1_mrna"; gene_id "gene-PRK78_005498"; gene_name "cdc1";
+CP120629.1	Genbank	exon	3828955	3829141	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005498-T1_mrna"; gene_id "gene-PRK78_005498"; gene_name "cdc1";
+CP120629.1	Genbank	exon	3829249	3829380	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005498-T1_mrna"; gene_id "gene-PRK78_005498"; gene_name "cdc1";
+CP120629.1	Genbank	exon	3829454	3830483	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005498-T1_mrna"; gene_id "gene-PRK78_005498"; gene_name "cdc1";
+CP120629.1	Genbank	exon	3830576	3830856	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005498-T1_mrna"; gene_id "gene-PRK78_005498"; gene_name "cdc1";
+CP120629.1	Genbank	CDS	3828801	3828844	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005498-T1_mrna"; gene_id "gene-PRK78_005498"; gene_name "cdc1";
+CP120629.1	Genbank	CDS	3828955	3829141	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_005498-T1_mrna"; gene_id "gene-PRK78_005498"; gene_name "cdc1";
+CP120629.1	Genbank	CDS	3829249	3829380	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005498-T1_mrna"; gene_id "gene-PRK78_005498"; gene_name "cdc1";
+CP120629.1	Genbank	CDS	3829454	3830483	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005498-T1_mrna"; gene_id "gene-PRK78_005498"; gene_name "cdc1";
+CP120629.1	Genbank	CDS	3830576	3830856	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_005498-T1_mrna"; gene_id "gene-PRK78_005498"; gene_name "cdc1";
+CP120629.1	Genbank	transcript	3894257	3895815	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_005523-T1_mrna"; gene_id "gene-PRK78_005523"
+CP120629.1	Genbank	exon	3894257	3895113	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_005523-T1_mrna"; gene_id "gene-PRK78_005523";
+CP120629.1	Genbank	exon	3895182	3895815	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_005523-T1_mrna"; gene_id "gene-PRK78_005523";
+CP120629.1	Genbank	CDS	3894257	3895113	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_005523-T1_mrna"; gene_id "gene-PRK78_005523";
+CP120629.1	Genbank	CDS	3895182	3895815	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_005523-T1_mrna"; gene_id "gene-PRK78_005523";
+CP120629.1	Genbank	transcript	4046021	4047521	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005567-T1_mrna"; gene_id "gene-PRK78_005567"
+CP120629.1	Genbank	exon	4046021	4046291	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005567-T1_mrna"; gene_id "gene-PRK78_005567";
+CP120629.1	Genbank	exon	4046395	4047521	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005567-T1_mrna"; gene_id "gene-PRK78_005567";
+CP120629.1	Genbank	CDS	4046021	4046291	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005567-T1_mrna"; gene_id "gene-PRK78_005567";
+CP120629.1	Genbank	CDS	4046395	4047521	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_005567-T1_mrna"; gene_id "gene-PRK78_005567";
+CP120629.1	Genbank	transcript	4539750	4540909	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005608-T1_mrna"; gene_id "gene-PRK78_005608"; gene_name "oca3"
+CP120629.1	Genbank	exon	4539750	4540133	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005608-T1_mrna"; gene_id "gene-PRK78_005608"; gene_name "oca3";
+CP120629.1	Genbank	exon	4540198	4540404	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005608-T1_mrna"; gene_id "gene-PRK78_005608"; gene_name "oca3";
+CP120629.1	Genbank	exon	4540458	4540613	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005608-T1_mrna"; gene_id "gene-PRK78_005608"; gene_name "oca3";
+CP120629.1	Genbank	exon	4540688	4540909	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005608-T1_mrna"; gene_id "gene-PRK78_005608"; gene_name "oca3";
+CP120629.1	Genbank	CDS	4539750	4540133	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005608-T1_mrna"; gene_id "gene-PRK78_005608"; gene_name "oca3";
+CP120629.1	Genbank	CDS	4540198	4540404	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005608-T1_mrna"; gene_id "gene-PRK78_005608"; gene_name "oca3";
+CP120629.1	Genbank	CDS	4540458	4540613	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005608-T1_mrna"; gene_id "gene-PRK78_005608"; gene_name "oca3";
+CP120629.1	Genbank	CDS	4540688	4540909	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005608-T1_mrna"; gene_id "gene-PRK78_005608"; gene_name "oca3";
+CP120630.1	Genbank	transcript	335882	336794	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_005836-T1_mrna"; gene_id "gene-PRK78_005836"; gene_name "BUD23"
+CP120630.1	Genbank	exon	335882	336707	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_005836-T1_mrna"; gene_id "gene-PRK78_005836"; gene_name "BUD23";
+CP120630.1	Genbank	exon	336772	336794	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_005836-T1_mrna"; gene_id "gene-PRK78_005836"; gene_name "BUD23";
+CP120630.1	Genbank	CDS	335882	336707	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_005836-T1_mrna"; gene_id "gene-PRK78_005836"; gene_name "BUD23";
+CP120630.1	Genbank	CDS	336772	336794	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_005836-T1_mrna"; gene_id "gene-PRK78_005836"; gene_name "BUD23";
+CP120630.1	Genbank	transcript	982310	983475	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005911-T1_mrna"; gene_id "gene-PRK78_005911"; gene_name "rrp4"
+CP120630.1	Genbank	exon	982310	982512	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005911-T1_mrna"; gene_id "gene-PRK78_005911"; gene_name "rrp4";
+CP120630.1	Genbank	exon	982572	983475	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005911-T1_mrna"; gene_id "gene-PRK78_005911"; gene_name "rrp4";
+CP120630.1	Genbank	CDS	982310	982512	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005911-T1_mrna"; gene_id "gene-PRK78_005911"; gene_name "rrp4";
+CP120630.1	Genbank	CDS	982572	983475	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_005911-T1_mrna"; gene_id "gene-PRK78_005911"; gene_name "rrp4";
+CP120630.1	Genbank	transcript	1254868	1256340	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005963-T1_mrna"; gene_id "gene-PRK78_005963"; gene_name "COG5"
+CP120630.1	Genbank	exon	1254868	1256340	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_005963-T1_mrna"; gene_id "gene-PRK78_005963"; gene_name "COG5";
+CP120630.1	Genbank	CDS	1254868	1256340	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_005963-T1_mrna"; gene_id "gene-PRK78_005963"; gene_name "COG5";
+CP120630.1	Genbank	transcript	1431838	1433154	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_006017-T1_mrna"; gene_id "gene-PRK78_006017"; gene_name "RRP40"
+CP120630.1	Genbank	exon	1431838	1433154	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_006017-T1_mrna"; gene_id "gene-PRK78_006017"; gene_name "RRP40";
+CP120630.1	Genbank	CDS	1431838	1433154	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_006017-T1_mrna"; gene_id "gene-PRK78_006017"; gene_name "RRP40";
+CP120630.1	Genbank	transcript	1604232	1605140	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006064-T1_mrna"; gene_id "gene-PRK78_006064"; gene_name "GAR1_2"
+CP120630.1	Genbank	exon	1604232	1604307	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006064-T1_mrna"; gene_id "gene-PRK78_006064"; gene_name "GAR1_2";
+CP120630.1	Genbank	exon	1604373	1604420	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006064-T1_mrna"; gene_id "gene-PRK78_006064"; gene_name "GAR1_2";
+CP120630.1	Genbank	exon	1604476	1604576	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006064-T1_mrna"; gene_id "gene-PRK78_006064"; gene_name "GAR1_2";
+CP120630.1	Genbank	exon	1604639	1604784	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006064-T1_mrna"; gene_id "gene-PRK78_006064"; gene_name "GAR1_2";
+CP120630.1	Genbank	exon	1604841	1604869	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006064-T1_mrna"; gene_id "gene-PRK78_006064"; gene_name "GAR1_2";
+CP120630.1	Genbank	exon	1604932	1605140	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006064-T1_mrna"; gene_id "gene-PRK78_006064"; gene_name "GAR1_2";
+CP120630.1	Genbank	CDS	1604232	1604307	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_006064-T1_mrna"; gene_id "gene-PRK78_006064"; gene_name "GAR1_2";
+CP120630.1	Genbank	CDS	1604373	1604420	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_006064-T1_mrna"; gene_id "gene-PRK78_006064"; gene_name "GAR1_2";
+CP120630.1	Genbank	CDS	1604476	1604576	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_006064-T1_mrna"; gene_id "gene-PRK78_006064"; gene_name "GAR1_2";
+CP120630.1	Genbank	CDS	1604639	1604784	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_006064-T1_mrna"; gene_id "gene-PRK78_006064"; gene_name "GAR1_2";
+CP120630.1	Genbank	CDS	1604841	1604869	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_006064-T1_mrna"; gene_id "gene-PRK78_006064"; gene_name "GAR1_2";
+CP120630.1	Genbank	CDS	1604932	1605140	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_006064-T1_mrna"; gene_id "gene-PRK78_006064"; gene_name "GAR1_2";
+CP120630.1	Genbank	transcript	1703781	1706084	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006097-T1_mrna"; gene_id "gene-PRK78_006097"; gene_name "COG6"
+CP120630.1	Genbank	exon	1703781	1704077	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006097-T1_mrna"; gene_id "gene-PRK78_006097"; gene_name "COG6";
+CP120630.1	Genbank	exon	1704135	1706084	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006097-T1_mrna"; gene_id "gene-PRK78_006097"; gene_name "COG6";
+CP120630.1	Genbank	CDS	1703781	1704077	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_006097-T1_mrna"; gene_id "gene-PRK78_006097"; gene_name "COG6";
+CP120630.1	Genbank	CDS	1704135	1706084	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_006097-T1_mrna"; gene_id "gene-PRK78_006097"; gene_name "COG6";
+CP120630.1	Genbank	transcript	2133508	2134257	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006185-T1_mrna"; gene_id "gene-PRK78_006185"; gene_name "GIR2"
+CP120630.1	Genbank	exon	2133508	2133574	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006185-T1_mrna"; gene_id "gene-PRK78_006185"; gene_name "GIR2";
+CP120630.1	Genbank	exon	2133632	2134257	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006185-T1_mrna"; gene_id "gene-PRK78_006185"; gene_name "GIR2";
+CP120630.1	Genbank	CDS	2133508	2133574	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_006185-T1_mrna"; gene_id "gene-PRK78_006185"; gene_name "GIR2";
+CP120630.1	Genbank	CDS	2133632	2134257	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_006185-T1_mrna"; gene_id "gene-PRK78_006185"; gene_name "GIR2";
+CP120630.1	Genbank	transcript	2198724	2199951	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_006210-T1_mrna"; gene_id "gene-PRK78_006210"
+CP120630.1	Genbank	exon	2198724	2199844	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_006210-T1_mrna"; gene_id "gene-PRK78_006210";
+CP120630.1	Genbank	exon	2199909	2199951	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_006210-T1_mrna"; gene_id "gene-PRK78_006210";
+CP120630.1	Genbank	CDS	2198724	2199844	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_006210-T1_mrna"; gene_id "gene-PRK78_006210";
+CP120630.1	Genbank	CDS	2199909	2199951	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_006210-T1_mrna"; gene_id "gene-PRK78_006210";
+CP120630.1	Genbank	transcript	2215693	2216478	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006216-T1_mrna"; gene_id "gene-PRK78_006216"; gene_name "sap62"
+CP120630.1	Genbank	exon	2215693	2215704	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006216-T1_mrna"; gene_id "gene-PRK78_006216"; gene_name "sap62";
+CP120630.1	Genbank	exon	2215768	2216478	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006216-T1_mrna"; gene_id "gene-PRK78_006216"; gene_name "sap62";
+CP120630.1	Genbank	CDS	2215693	2215704	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_006216-T1_mrna"; gene_id "gene-PRK78_006216"; gene_name "sap62";
+CP120630.1	Genbank	CDS	2215768	2216478	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_006216-T1_mrna"; gene_id "gene-PRK78_006216"; gene_name "sap62";
+CP120630.1	Genbank	transcript	2222590	2224592	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006219-T1_mrna"; gene_id "gene-PRK78_006219"; gene_name "TFB1"
+CP120630.1	Genbank	exon	2222590	2222740	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006219-T1_mrna"; gene_id "gene-PRK78_006219"; gene_name "TFB1";
+CP120630.1	Genbank	exon	2222830	2224592	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006219-T1_mrna"; gene_id "gene-PRK78_006219"; gene_name "TFB1";
+CP120630.1	Genbank	CDS	2222590	2222740	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_006219-T1_mrna"; gene_id "gene-PRK78_006219"; gene_name "TFB1";
+CP120630.1	Genbank	CDS	2222830	2224592	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_006219-T1_mrna"; gene_id "gene-PRK78_006219"; gene_name "TFB1";
+CP120630.1	Genbank	transcript	2811643	2812746	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_006389-T1_mrna"; gene_id "gene-PRK78_006389"; gene_name "GCN3"
+CP120630.1	Genbank	exon	2811643	2812648	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_006389-T1_mrna"; gene_id "gene-PRK78_006389"; gene_name "GCN3";
+CP120630.1	Genbank	exon	2812700	2812746	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_006389-T1_mrna"; gene_id "gene-PRK78_006389"; gene_name "GCN3";
+CP120630.1	Genbank	CDS	2811643	2812648	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_006389-T1_mrna"; gene_id "gene-PRK78_006389"; gene_name "GCN3";
+CP120630.1	Genbank	CDS	2812700	2812746	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_006389-T1_mrna"; gene_id "gene-PRK78_006389"; gene_name "GCN3";
+CP120630.1	Genbank	transcript	3259974	3261356	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006498-T1_mrna"; gene_id "gene-PRK78_006498"; gene_name "ebp2"
+CP120630.1	Genbank	exon	3259974	3260129	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006498-T1_mrna"; gene_id "gene-PRK78_006498"; gene_name "ebp2";
+CP120630.1	Genbank	exon	3260189	3260918	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006498-T1_mrna"; gene_id "gene-PRK78_006498"; gene_name "ebp2";
+CP120630.1	Genbank	exon	3261049	3261356	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006498-T1_mrna"; gene_id "gene-PRK78_006498"; gene_name "ebp2";
+CP120630.1	Genbank	CDS	3259974	3260129	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_006498-T1_mrna"; gene_id "gene-PRK78_006498"; gene_name "ebp2";
+CP120630.1	Genbank	CDS	3260189	3260918	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_006498-T1_mrna"; gene_id "gene-PRK78_006498"; gene_name "ebp2";
+CP120630.1	Genbank	CDS	3261049	3261356	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_006498-T1_mrna"; gene_id "gene-PRK78_006498"; gene_name "ebp2";
+CP120630.1	Genbank	transcript	3649999	3650847	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006599-T1_mrna"; gene_id "gene-PRK78_006599"; gene_name "MRT4"
+CP120630.1	Genbank	exon	3649999	3650195	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006599-T1_mrna"; gene_id "gene-PRK78_006599"; gene_name "MRT4";
+CP120630.1	Genbank	exon	3650310	3650847	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006599-T1_mrna"; gene_id "gene-PRK78_006599"; gene_name "MRT4";
+CP120630.1	Genbank	CDS	3649999	3650195	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_006599-T1_mrna"; gene_id "gene-PRK78_006599"; gene_name "MRT4";
+CP120630.1	Genbank	CDS	3650310	3650847	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_006599-T1_mrna"; gene_id "gene-PRK78_006599"; gene_name "MRT4";
+CP120630.1	Genbank	transcript	3653371	3653959	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006601-T1_mrna"; gene_id "gene-PRK78_006601"; gene_name "MRPL51"
+CP120630.1	Genbank	exon	3653371	3653409	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006601-T1_mrna"; gene_id "gene-PRK78_006601"; gene_name "MRPL51";
+CP120630.1	Genbank	exon	3653473	3653555	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006601-T1_mrna"; gene_id "gene-PRK78_006601"; gene_name "MRPL51";
+CP120630.1	Genbank	exon	3653695	3653959	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006601-T1_mrna"; gene_id "gene-PRK78_006601"; gene_name "MRPL51";
+CP120630.1	Genbank	CDS	3653371	3653409	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_006601-T1_mrna"; gene_id "gene-PRK78_006601"; gene_name "MRPL51";
+CP120630.1	Genbank	CDS	3653473	3653555	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_006601-T1_mrna"; gene_id "gene-PRK78_006601"; gene_name "MRPL51";
+CP120630.1	Genbank	CDS	3653695	3653959	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_006601-T1_mrna"; gene_id "gene-PRK78_006601"; gene_name "MRPL51";
+CP120630.1	Genbank	transcript	3786425	3788464	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006650-T1_mrna"; gene_id "gene-PRK78_006650"
+CP120630.1	Genbank	exon	3786425	3788464	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006650-T1_mrna"; gene_id "gene-PRK78_006650";
+CP120630.1	Genbank	CDS	3786425	3788464	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_006650-T1_mrna"; gene_id "gene-PRK78_006650";
+CP120630.1	Genbank	transcript	4369821	4371751	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_006771-T1_mrna"; gene_id "gene-PRK78_006771"; gene_name "RRP9"
+CP120630.1	Genbank	exon	4369821	4371314	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_006771-T1_mrna"; gene_id "gene-PRK78_006771"; gene_name "RRP9";
+CP120630.1	Genbank	exon	4371374	4371751	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_006771-T1_mrna"; gene_id "gene-PRK78_006771"; gene_name "RRP9";
+CP120630.1	Genbank	CDS	4369821	4371314	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_006771-T1_mrna"; gene_id "gene-PRK78_006771"; gene_name "RRP9";
+CP120630.1	Genbank	CDS	4371374	4371751	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_006771-T1_mrna"; gene_id "gene-PRK78_006771"; gene_name "RRP9";
+CP120630.1	Genbank	transcript	4379726	4382697	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006776-T1_mrna"; gene_id "gene-PRK78_006776"; gene_name "utp13"
+CP120630.1	Genbank	exon	4379726	4379873	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006776-T1_mrna"; gene_id "gene-PRK78_006776"; gene_name "utp13";
+CP120630.1	Genbank	exon	4380053	4382697	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006776-T1_mrna"; gene_id "gene-PRK78_006776"; gene_name "utp13";
+CP120630.1	Genbank	CDS	4379726	4379873	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_006776-T1_mrna"; gene_id "gene-PRK78_006776"; gene_name "utp13";
+CP120630.1	Genbank	CDS	4380053	4382697	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_006776-T1_mrna"; gene_id "gene-PRK78_006776"; gene_name "utp13";
+CP120630.1	Genbank	transcript	4391608	4393166	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006780-T1_mrna"; gene_id "gene-PRK78_006780"; gene_name "MAK11"
+CP120630.1	Genbank	exon	4391608	4392501	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006780-T1_mrna"; gene_id "gene-PRK78_006780"; gene_name "MAK11";
+CP120630.1	Genbank	exon	4392606	4393166	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006780-T1_mrna"; gene_id "gene-PRK78_006780"; gene_name "MAK11";
+CP120630.1	Genbank	CDS	4391608	4392501	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_006780-T1_mrna"; gene_id "gene-PRK78_006780"; gene_name "MAK11";
+CP120630.1	Genbank	CDS	4392606	4393166	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_006780-T1_mrna"; gene_id "gene-PRK78_006780"; gene_name "MAK11";
+CP120631.1	Genbank	transcript	122666	124359	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006862-T1_mrna"; gene_id "gene-PRK78_006862"; gene_name "RSA4"
+CP120631.1	Genbank	exon	122666	122890	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006862-T1_mrna"; gene_id "gene-PRK78_006862"; gene_name "RSA4";
+CP120631.1	Genbank	exon	122969	124047	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006862-T1_mrna"; gene_id "gene-PRK78_006862"; gene_name "RSA4";
+CP120631.1	Genbank	exon	124116	124359	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006862-T1_mrna"; gene_id "gene-PRK78_006862"; gene_name "RSA4";
+CP120631.1	Genbank	CDS	122666	122890	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_006862-T1_mrna"; gene_id "gene-PRK78_006862"; gene_name "RSA4";
+CP120631.1	Genbank	CDS	122969	124047	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_006862-T1_mrna"; gene_id "gene-PRK78_006862"; gene_name "RSA4";
+CP120631.1	Genbank	CDS	124116	124359	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_006862-T1_mrna"; gene_id "gene-PRK78_006862"; gene_name "RSA4";
+CP120631.1	Genbank	transcript	156824	158482	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006875-T1_mrna"; gene_id "gene-PRK78_006875"; gene_name "UBA4"
+CP120631.1	Genbank	exon	156824	157115	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006875-T1_mrna"; gene_id "gene-PRK78_006875"; gene_name "UBA4";
+CP120631.1	Genbank	exon	157184	157397	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006875-T1_mrna"; gene_id "gene-PRK78_006875"; gene_name "UBA4";
+CP120631.1	Genbank	exon	157462	158482	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_006875-T1_mrna"; gene_id "gene-PRK78_006875"; gene_name "UBA4";
+CP120631.1	Genbank	CDS	156824	157115	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_006875-T1_mrna"; gene_id "gene-PRK78_006875"; gene_name "UBA4";
+CP120631.1	Genbank	CDS	157184	157397	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_006875-T1_mrna"; gene_id "gene-PRK78_006875"; gene_name "UBA4";
+CP120631.1	Genbank	CDS	157462	158482	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_006875-T1_mrna"; gene_id "gene-PRK78_006875"; gene_name "UBA4";
+CP120631.1	Genbank	transcript	884310	887849	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007075-T1_mrna"; gene_id "gene-PRK78_007075"; gene_name "HIR1"
+CP120631.1	Genbank	exon	884310	884346	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007075-T1_mrna"; gene_id "gene-PRK78_007075"; gene_name "HIR1";
+CP120631.1	Genbank	exon	884425	884499	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007075-T1_mrna"; gene_id "gene-PRK78_007075"; gene_name "HIR1";
+CP120631.1	Genbank	exon	884636	884857	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007075-T1_mrna"; gene_id "gene-PRK78_007075"; gene_name "HIR1";
+CP120631.1	Genbank	exon	884928	887681	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007075-T1_mrna"; gene_id "gene-PRK78_007075"; gene_name "HIR1";
+CP120631.1	Genbank	exon	887752	887849	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007075-T1_mrna"; gene_id "gene-PRK78_007075"; gene_name "HIR1";
+CP120631.1	Genbank	CDS	884310	884346	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_007075-T1_mrna"; gene_id "gene-PRK78_007075"; gene_name "HIR1";
+CP120631.1	Genbank	CDS	884425	884499	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_007075-T1_mrna"; gene_id "gene-PRK78_007075"; gene_name "HIR1";
+CP120631.1	Genbank	CDS	884636	884857	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_007075-T1_mrna"; gene_id "gene-PRK78_007075"; gene_name "HIR1";
+CP120631.1	Genbank	CDS	884928	887681	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_007075-T1_mrna"; gene_id "gene-PRK78_007075"; gene_name "HIR1";
+CP120631.1	Genbank	CDS	887752	887849	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_007075-T1_mrna"; gene_id "gene-PRK78_007075"; gene_name "HIR1";
+CP120631.1	Genbank	transcript	890520	891228	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007077-T1_mrna"; gene_id "gene-PRK78_007077"; gene_name "TMA20"
+CP120631.1	Genbank	exon	890520	890689	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007077-T1_mrna"; gene_id "gene-PRK78_007077"; gene_name "TMA20";
+CP120631.1	Genbank	exon	890823	891228	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007077-T1_mrna"; gene_id "gene-PRK78_007077"; gene_name "TMA20";
+CP120631.1	Genbank	CDS	890520	890689	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_007077-T1_mrna"; gene_id "gene-PRK78_007077"; gene_name "TMA20";
+CP120631.1	Genbank	CDS	890823	891228	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_007077-T1_mrna"; gene_id "gene-PRK78_007077"; gene_name "TMA20";
+CP120631.1	Genbank	transcript	981559	982600	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007096-T1_mrna"; gene_id "gene-PRK78_007096"
+CP120631.1	Genbank	exon	981559	981959	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007096-T1_mrna"; gene_id "gene-PRK78_007096";
+CP120631.1	Genbank	exon	982021	982600	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007096-T1_mrna"; gene_id "gene-PRK78_007096";
+CP120631.1	Genbank	CDS	981559	981959	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_007096-T1_mrna"; gene_id "gene-PRK78_007096";
+CP120631.1	Genbank	CDS	982021	982600	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_007096-T1_mrna"; gene_id "gene-PRK78_007096";
+CP120631.1	Genbank	transcript	1371729	1373087	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007145-T1_mrna"; gene_id "gene-PRK78_007145"; gene_name "PRP46"
+CP120631.1	Genbank	exon	1371729	1373087	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007145-T1_mrna"; gene_id "gene-PRK78_007145"; gene_name "PRP46";
+CP120631.1	Genbank	CDS	1371729	1373087	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_007145-T1_mrna"; gene_id "gene-PRK78_007145"; gene_name "PRP46";
+CP120631.1	Genbank	transcript	1655514	1657666	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007221-T1_mrna"; gene_id "gene-PRK78_007221"; gene_name "srp72"
+CP120631.1	Genbank	exon	1655514	1655837	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007221-T1_mrna"; gene_id "gene-PRK78_007221"; gene_name "srp72";
+CP120631.1	Genbank	exon	1655910	1656183	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007221-T1_mrna"; gene_id "gene-PRK78_007221"; gene_name "srp72";
+CP120631.1	Genbank	exon	1656232	1656385	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007221-T1_mrna"; gene_id "gene-PRK78_007221"; gene_name "srp72";
+CP120631.1	Genbank	exon	1656553	1657666	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007221-T1_mrna"; gene_id "gene-PRK78_007221"; gene_name "srp72";
+CP120631.1	Genbank	CDS	1655514	1655837	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_007221-T1_mrna"; gene_id "gene-PRK78_007221"; gene_name "srp72";
+CP120631.1	Genbank	CDS	1655910	1656183	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_007221-T1_mrna"; gene_id "gene-PRK78_007221"; gene_name "srp72";
+CP120631.1	Genbank	CDS	1656232	1656385	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_007221-T1_mrna"; gene_id "gene-PRK78_007221"; gene_name "srp72";
+CP120631.1	Genbank	CDS	1656553	1657666	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_007221-T1_mrna"; gene_id "gene-PRK78_007221"; gene_name "srp72";
+CP120631.1	Genbank	transcript	2111801	2113326	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_007353-T1_mrna"; gene_id "gene-PRK78_007353"; gene_name "MSW1"
+CP120631.1	Genbank	exon	2111801	2112264	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_007353-T1_mrna"; gene_id "gene-PRK78_007353"; gene_name "MSW1";
+CP120631.1	Genbank	exon	2112347	2112465	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_007353-T1_mrna"; gene_id "gene-PRK78_007353"; gene_name "MSW1";
+CP120631.1	Genbank	exon	2112529	2112644	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_007353-T1_mrna"; gene_id "gene-PRK78_007353"; gene_name "MSW1";
+CP120631.1	Genbank	exon	2112743	2112823	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_007353-T1_mrna"; gene_id "gene-PRK78_007353"; gene_name "MSW1";
+CP120631.1	Genbank	exon	2112913	2113326	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_007353-T1_mrna"; gene_id "gene-PRK78_007353"; gene_name "MSW1";
+CP120631.1	Genbank	CDS	2111801	2112264	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_007353-T1_mrna"; gene_id "gene-PRK78_007353"; gene_name "MSW1";
+CP120631.1	Genbank	CDS	2112347	2112465	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_007353-T1_mrna"; gene_id "gene-PRK78_007353"; gene_name "MSW1";
+CP120631.1	Genbank	CDS	2112529	2112644	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_007353-T1_mrna"; gene_id "gene-PRK78_007353"; gene_name "MSW1";
+CP120631.1	Genbank	CDS	2112743	2112823	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_007353-T1_mrna"; gene_id "gene-PRK78_007353"; gene_name "MSW1";
+CP120631.1	Genbank	CDS	2112913	2113326	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_007353-T1_mrna"; gene_id "gene-PRK78_007353"; gene_name "MSW1";
+CP120631.1	Genbank	transcript	2179640	2182486	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_007379-T1_mrna"; gene_id "gene-PRK78_007379"; gene_name "cbc1"
+CP120631.1	Genbank	exon	2179640	2180496	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_007379-T1_mrna"; gene_id "gene-PRK78_007379"; gene_name "cbc1";
+CP120631.1	Genbank	exon	2180548	2180729	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_007379-T1_mrna"; gene_id "gene-PRK78_007379"; gene_name "cbc1";
+CP120631.1	Genbank	exon	2180784	2181673	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_007379-T1_mrna"; gene_id "gene-PRK78_007379"; gene_name "cbc1";
+CP120631.1	Genbank	exon	2181731	2181998	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_007379-T1_mrna"; gene_id "gene-PRK78_007379"; gene_name "cbc1";
+CP120631.1	Genbank	exon	2182069	2182175	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_007379-T1_mrna"; gene_id "gene-PRK78_007379"; gene_name "cbc1";
+CP120631.1	Genbank	exon	2182274	2182486	.	-	.	transcript_id "rna-gnl|ncbi|PRK78_007379-T1_mrna"; gene_id "gene-PRK78_007379"; gene_name "cbc1";
+CP120631.1	Genbank	CDS	2179640	2180496	.	-	2	transcript_id "rna-gnl|ncbi|PRK78_007379-T1_mrna"; gene_id "gene-PRK78_007379"; gene_name "cbc1";
+CP120631.1	Genbank	CDS	2180548	2180729	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_007379-T1_mrna"; gene_id "gene-PRK78_007379"; gene_name "cbc1";
+CP120631.1	Genbank	CDS	2180784	2181673	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_007379-T1_mrna"; gene_id "gene-PRK78_007379"; gene_name "cbc1";
+CP120631.1	Genbank	CDS	2181731	2181998	.	-	1	transcript_id "rna-gnl|ncbi|PRK78_007379-T1_mrna"; gene_id "gene-PRK78_007379"; gene_name "cbc1";
+CP120631.1	Genbank	CDS	2182069	2182175	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_007379-T1_mrna"; gene_id "gene-PRK78_007379"; gene_name "cbc1";
+CP120631.1	Genbank	CDS	2182274	2182486	.	-	0	transcript_id "rna-gnl|ncbi|PRK78_007379-T1_mrna"; gene_id "gene-PRK78_007379"; gene_name "cbc1";
+CP120631.1	Genbank	transcript	2209524	2210881	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007391-T1_mrna"; gene_id "gene-PRK78_007391"
+CP120631.1	Genbank	exon	2209524	2209567	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007391-T1_mrna"; gene_id "gene-PRK78_007391";
+CP120631.1	Genbank	exon	2209708	2209955	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007391-T1_mrna"; gene_id "gene-PRK78_007391";
+CP120631.1	Genbank	exon	2210055	2210207	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007391-T1_mrna"; gene_id "gene-PRK78_007391";
+CP120631.1	Genbank	exon	2210289	2210881	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007391-T1_mrna"; gene_id "gene-PRK78_007391";
+CP120631.1	Genbank	CDS	2209524	2209567	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_007391-T1_mrna"; gene_id "gene-PRK78_007391";
+CP120631.1	Genbank	CDS	2209708	2209955	.	+	1	transcript_id "rna-gnl|ncbi|PRK78_007391-T1_mrna"; gene_id "gene-PRK78_007391";
+CP120631.1	Genbank	CDS	2210055	2210207	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_007391-T1_mrna"; gene_id "gene-PRK78_007391";
+CP120631.1	Genbank	CDS	2210289	2210881	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_007391-T1_mrna"; gene_id "gene-PRK78_007391";
+CP120631.1	Genbank	transcript	2511699	2512901	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007467-T1_mrna"; gene_id "gene-PRK78_007467"; gene_name "MED6"
+CP120631.1	Genbank	exon	2511699	2511726	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007467-T1_mrna"; gene_id "gene-PRK78_007467"; gene_name "MED6";
+CP120631.1	Genbank	exon	2511810	2512195	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007467-T1_mrna"; gene_id "gene-PRK78_007467"; gene_name "MED6";
+CP120631.1	Genbank	exon	2512365	2512901	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007467-T1_mrna"; gene_id "gene-PRK78_007467"; gene_name "MED6";
+CP120631.1	Genbank	CDS	2511699	2511726	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_007467-T1_mrna"; gene_id "gene-PRK78_007467"; gene_name "MED6";
+CP120631.1	Genbank	CDS	2511810	2512195	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_007467-T1_mrna"; gene_id "gene-PRK78_007467"; gene_name "MED6";
+CP120631.1	Genbank	CDS	2512365	2512901	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_007467-T1_mrna"; gene_id "gene-PRK78_007467"; gene_name "MED6";
+CP120631.1	Genbank	transcript	2617031	2618194	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007497-T1_mrna"; gene_id "gene-PRK78_007497"
+CP120631.1	Genbank	exon	2617031	2617103	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007497-T1_mrna"; gene_id "gene-PRK78_007497";
+CP120631.1	Genbank	exon	2617197	2618194	.	+	.	transcript_id "rna-gnl|ncbi|PRK78_007497-T1_mrna"; gene_id "gene-PRK78_007497";
+CP120631.1	Genbank	CDS	2617031	2617103	.	+	0	transcript_id "rna-gnl|ncbi|PRK78_007497-T1_mrna"; gene_id "gene-PRK78_007497";
+CP120631.1	Genbank	CDS	2617197	2618194	.	+	2	transcript_id "rna-gnl|ncbi|PRK78_007497-T1_mrna"; gene_id "gene-PRK78_007497";

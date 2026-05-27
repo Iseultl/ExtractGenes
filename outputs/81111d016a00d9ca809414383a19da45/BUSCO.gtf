@@ -1,0 +1,690 @@
+NC_085920.1	RefSeq	transcript	560724	562721	.	+	.	transcript_id "rna-XM_062941390.1"; gene_id "gene-QC764_101640"; gene_name "NOP7"
+NC_085920.1	RefSeq	exon	560724	562721	.	+	.	transcript_id "rna-XM_062941390.1"; gene_id "gene-QC764_101640"; gene_name "NOP7";
+NC_085920.1	RefSeq	CDS	560724	562721	.	+	0	transcript_id "rna-XM_062941390.1"; gene_id "gene-QC764_101640"; gene_name "NOP7";
+NC_085920.1	RefSeq	transcript	1161612	1162661	.	+	.	transcript_id "rna-XM_062941548.1"; gene_id "gene-QC764_103180"; gene_name "RPP1"
+NC_085920.1	RefSeq	exon	1161612	1162661	.	+	.	transcript_id "rna-XM_062941548.1"; gene_id "gene-QC764_103180"; gene_name "RPP1";
+NC_085920.1	RefSeq	CDS	1161612	1162661	.	+	0	transcript_id "rna-XM_062941548.1"; gene_id "gene-QC764_103180"; gene_name "RPP1";
+NC_085920.1	RefSeq	transcript	1381675	1384064	.	+	.	transcript_id "rna-XM_062941619.1"; gene_id "gene-QC764_103800"; gene_name "CSN12"
+NC_085920.1	RefSeq	exon	1381675	1381741	.	+	.	transcript_id "rna-XM_062941619.1"; gene_id "gene-QC764_103800"; gene_name "CSN12";
+NC_085920.1	RefSeq	exon	1381751	1382661	.	+	.	transcript_id "rna-XM_062941619.1"; gene_id "gene-QC764_103800"; gene_name "CSN12";
+NC_085920.1	RefSeq	exon	1382716	1383003	.	+	.	transcript_id "rna-XM_062941619.1"; gene_id "gene-QC764_103800"; gene_name "CSN12";
+NC_085920.1	RefSeq	exon	1383064	1383475	.	+	.	transcript_id "rna-XM_062941619.1"; gene_id "gene-QC764_103800"; gene_name "CSN12";
+NC_085920.1	RefSeq	exon	1383602	1384064	.	+	.	transcript_id "rna-XM_062941619.1"; gene_id "gene-QC764_103800"; gene_name "CSN12";
+NC_085920.1	RefSeq	CDS	1382072	1382661	.	+	0	transcript_id "rna-XM_062941619.1"; gene_id "gene-QC764_103800"; gene_name "CSN12";
+NC_085920.1	RefSeq	CDS	1382716	1383003	.	+	1	transcript_id "rna-XM_062941619.1"; gene_id "gene-QC764_103800"; gene_name "CSN12";
+NC_085920.1	RefSeq	CDS	1383064	1383475	.	+	1	transcript_id "rna-XM_062941619.1"; gene_id "gene-QC764_103800"; gene_name "CSN12";
+NC_085920.1	RefSeq	CDS	1383602	1383685	.	+	0	transcript_id "rna-XM_062941619.1"; gene_id "gene-QC764_103800"; gene_name "CSN12";
+NC_085920.1	RefSeq	transcript	1513267	1515111	.	+	.	transcript_id "rna-XM_062941664.1"; gene_id "gene-QC764_104260"
+NC_085920.1	RefSeq	exon	1513267	1513370	.	+	.	transcript_id "rna-XM_062941664.1"; gene_id "gene-QC764_104260";
+NC_085920.1	RefSeq	exon	1513442	1514548	.	+	.	transcript_id "rna-XM_062941664.1"; gene_id "gene-QC764_104260";
+NC_085920.1	RefSeq	exon	1514609	1514942	.	+	.	transcript_id "rna-XM_062941664.1"; gene_id "gene-QC764_104260";
+NC_085920.1	RefSeq	exon	1515007	1515111	.	+	.	transcript_id "rna-XM_062941664.1"; gene_id "gene-QC764_104260";
+NC_085920.1	RefSeq	CDS	1513267	1513370	.	+	0	transcript_id "rna-XM_062941664.1"; gene_id "gene-QC764_104260";
+NC_085920.1	RefSeq	CDS	1513442	1514548	.	+	1	transcript_id "rna-XM_062941664.1"; gene_id "gene-QC764_104260";
+NC_085920.1	RefSeq	CDS	1514609	1514942	.	+	1	transcript_id "rna-XM_062941664.1"; gene_id "gene-QC764_104260";
+NC_085920.1	RefSeq	CDS	1515007	1515111	.	+	0	transcript_id "rna-XM_062941664.1"; gene_id "gene-QC764_104260";
+NC_085920.1	RefSeq	transcript	1610919	1612026	.	-	.	transcript_id "rna-XM_062941690.1"; gene_id "gene-QC764_104510"; gene_name "PSF1"
+NC_085920.1	RefSeq	exon	1610919	1611012	.	-	.	transcript_id "rna-XM_062941690.1"; gene_id "gene-QC764_104510"; gene_name "PSF1";
+NC_085920.1	RefSeq	exon	1611075	1611598	.	-	.	transcript_id "rna-XM_062941690.1"; gene_id "gene-QC764_104510"; gene_name "PSF1";
+NC_085920.1	RefSeq	exon	1611653	1612026	.	-	.	transcript_id "rna-XM_062941690.1"; gene_id "gene-QC764_104510"; gene_name "PSF1";
+NC_085920.1	RefSeq	CDS	1610919	1611012	.	-	1	transcript_id "rna-XM_062941690.1"; gene_id "gene-QC764_104510"; gene_name "PSF1";
+NC_085920.1	RefSeq	CDS	1611075	1611598	.	-	0	transcript_id "rna-XM_062941690.1"; gene_id "gene-QC764_104510"; gene_name "PSF1";
+NC_085920.1	RefSeq	CDS	1611653	1611685	.	-	0	transcript_id "rna-XM_062941690.1"; gene_id "gene-QC764_104510"; gene_name "PSF1";
+NC_085920.1	RefSeq	transcript	1875954	1878514	.	+	.	transcript_id "rna-XM_062941768.1"; gene_id "gene-QC764_105300"
+NC_085920.1	RefSeq	exon	1875954	1877380	.	+	.	transcript_id "rna-XM_062941768.1"; gene_id "gene-QC764_105300";
+NC_085920.1	RefSeq	exon	1877444	1878514	.	+	.	transcript_id "rna-XM_062941768.1"; gene_id "gene-QC764_105300";
+NC_085920.1	RefSeq	CDS	1877174	1877380	.	+	0	transcript_id "rna-XM_062941768.1"; gene_id "gene-QC764_105300";
+NC_085920.1	RefSeq	CDS	1877444	1878514	.	+	0	transcript_id "rna-XM_062941768.1"; gene_id "gene-QC764_105300";
+NC_085920.1	RefSeq	transcript	1998160	2000198	.	+	.	transcript_id "rna-XM_062941809.1"; gene_id "gene-QC764_105670"; gene_name "RSA4"
+NC_085920.1	RefSeq	exon	1998160	1998505	.	+	.	transcript_id "rna-XM_062941809.1"; gene_id "gene-QC764_105670"; gene_name "RSA4";
+NC_085920.1	RefSeq	exon	1998582	1999086	.	+	.	transcript_id "rna-XM_062941809.1"; gene_id "gene-QC764_105670"; gene_name "RSA4";
+NC_085920.1	RefSeq	exon	1999142	1999287	.	+	.	transcript_id "rna-XM_062941809.1"; gene_id "gene-QC764_105670"; gene_name "RSA4";
+NC_085920.1	RefSeq	exon	1999347	1999751	.	+	.	transcript_id "rna-XM_062941809.1"; gene_id "gene-QC764_105670"; gene_name "RSA4";
+NC_085920.1	RefSeq	exon	1999808	2000198	.	+	.	transcript_id "rna-XM_062941809.1"; gene_id "gene-QC764_105670"; gene_name "RSA4";
+NC_085920.1	RefSeq	CDS	1998281	1998505	.	+	0	transcript_id "rna-XM_062941809.1"; gene_id "gene-QC764_105670"; gene_name "RSA4";
+NC_085920.1	RefSeq	CDS	1998582	1999086	.	+	0	transcript_id "rna-XM_062941809.1"; gene_id "gene-QC764_105670"; gene_name "RSA4";
+NC_085920.1	RefSeq	CDS	1999142	1999287	.	+	2	transcript_id "rna-XM_062941809.1"; gene_id "gene-QC764_105670"; gene_name "RSA4";
+NC_085920.1	RefSeq	CDS	1999347	1999751	.	+	0	transcript_id "rna-XM_062941809.1"; gene_id "gene-QC764_105670"; gene_name "RSA4";
+NC_085920.1	RefSeq	CDS	1999808	2000080	.	+	0	transcript_id "rna-XM_062941809.1"; gene_id "gene-QC764_105670"; gene_name "RSA4";
+NC_085920.1	RefSeq	transcript	2024879	2025727	.	-	.	transcript_id "rna-XM_062941816.1"; gene_id "gene-QC764_105750"; gene_name "BUD23"
+NC_085920.1	RefSeq	exon	2024879	2025727	.	-	.	transcript_id "rna-XM_062941816.1"; gene_id "gene-QC764_105750"; gene_name "BUD23";
+NC_085920.1	RefSeq	CDS	2024879	2025727	.	-	0	transcript_id "rna-XM_062941816.1"; gene_id "gene-QC764_105750"; gene_name "BUD23";
+NC_085920.1	RefSeq	transcript	2195207	2196660	.	-	.	transcript_id "rna-XM_062941860.1"; gene_id "gene-QC764_106150"
+NC_085920.1	RefSeq	exon	2195207	2196462	.	-	.	transcript_id "rna-XM_062941860.1"; gene_id "gene-QC764_106150";
+NC_085920.1	RefSeq	exon	2196519	2196660	.	-	.	transcript_id "rna-XM_062941860.1"; gene_id "gene-QC764_106150";
+NC_085920.1	RefSeq	CDS	2195207	2196462	.	-	2	transcript_id "rna-XM_062941860.1"; gene_id "gene-QC764_106150";
+NC_085920.1	RefSeq	CDS	2196519	2196660	.	-	0	transcript_id "rna-XM_062941860.1"; gene_id "gene-QC764_106150";
+NC_085920.1	RefSeq	transcript	2386384	2388212	.	+	.	transcript_id "rna-XM_062941922.1"; gene_id "gene-QC764_106720"
+NC_085920.1	RefSeq	exon	2386384	2387337	.	+	.	transcript_id "rna-XM_062941922.1"; gene_id "gene-QC764_106720";
+NC_085920.1	RefSeq	exon	2387397	2388212	.	+	.	transcript_id "rna-XM_062941922.1"; gene_id "gene-QC764_106720";
+NC_085920.1	RefSeq	CDS	2386701	2387337	.	+	0	transcript_id "rna-XM_062941922.1"; gene_id "gene-QC764_106720";
+NC_085920.1	RefSeq	CDS	2387397	2388208	.	+	2	transcript_id "rna-XM_062941922.1"; gene_id "gene-QC764_106720";
+NC_085920.1	RefSeq	transcript	2590787	2593911	.	-	.	transcript_id "rna-XM_062941986.1"; gene_id "gene-QC764_107310"; gene_name "RRN3"
+NC_085920.1	RefSeq	exon	2590787	2591608	.	-	.	transcript_id "rna-XM_062941986.1"; gene_id "gene-QC764_107310"; gene_name "RRN3";
+NC_085920.1	RefSeq	exon	2591669	2591846	.	-	.	transcript_id "rna-XM_062941986.1"; gene_id "gene-QC764_107310"; gene_name "RRN3";
+NC_085920.1	RefSeq	exon	2591901	2592095	.	-	.	transcript_id "rna-XM_062941986.1"; gene_id "gene-QC764_107310"; gene_name "RRN3";
+NC_085920.1	RefSeq	exon	2592150	2592247	.	-	.	transcript_id "rna-XM_062941986.1"; gene_id "gene-QC764_107310"; gene_name "RRN3";
+NC_085920.1	RefSeq	exon	2592318	2593911	.	-	.	transcript_id "rna-XM_062941986.1"; gene_id "gene-QC764_107310"; gene_name "RRN3";
+NC_085920.1	RefSeq	CDS	2591153	2591608	.	-	0	transcript_id "rna-XM_062941986.1"; gene_id "gene-QC764_107310"; gene_name "RRN3";
+NC_085920.1	RefSeq	CDS	2591669	2591846	.	-	1	transcript_id "rna-XM_062941986.1"; gene_id "gene-QC764_107310"; gene_name "RRN3";
+NC_085920.1	RefSeq	CDS	2591901	2592095	.	-	1	transcript_id "rna-XM_062941986.1"; gene_id "gene-QC764_107310"; gene_name "RRN3";
+NC_085920.1	RefSeq	CDS	2592150	2592247	.	-	0	transcript_id "rna-XM_062941986.1"; gene_id "gene-QC764_107310"; gene_name "RRN3";
+NC_085920.1	RefSeq	CDS	2592318	2593487	.	-	0	transcript_id "rna-XM_062941986.1"; gene_id "gene-QC764_107310"; gene_name "RRN3";
+NC_085920.1	RefSeq	transcript	2759459	2760295	.	-	.	transcript_id "rna-XM_062942027.1"; gene_id "gene-QC764_107710"; gene_name "SLD5"
+NC_085920.1	RefSeq	exon	2759459	2759996	.	-	.	transcript_id "rna-XM_062942027.1"; gene_id "gene-QC764_107710"; gene_name "SLD5";
+NC_085920.1	RefSeq	exon	2760079	2760295	.	-	.	transcript_id "rna-XM_062942027.1"; gene_id "gene-QC764_107710"; gene_name "SLD5";
+NC_085920.1	RefSeq	CDS	2759459	2759996	.	-	1	transcript_id "rna-XM_062942027.1"; gene_id "gene-QC764_107710"; gene_name "SLD5";
+NC_085920.1	RefSeq	CDS	2760079	2760203	.	-	0	transcript_id "rna-XM_062942027.1"; gene_id "gene-QC764_107710"; gene_name "SLD5";
+NC_085920.1	RefSeq	transcript	2785225	2787126	.	+	.	transcript_id "rna-XM_062942035.1"; gene_id "gene-QC764_107790"; gene_name "UTP18"
+NC_085920.1	RefSeq	exon	2785225	2787126	.	+	.	transcript_id "rna-XM_062942035.1"; gene_id "gene-QC764_107790"; gene_name "UTP18";
+NC_085920.1	RefSeq	CDS	2785225	2787126	.	+	0	transcript_id "rna-XM_062942035.1"; gene_id "gene-QC764_107790"; gene_name "UTP18";
+NC_085920.1	RefSeq	transcript	2818239	2820399	.	+	.	transcript_id "rna-XM_062942044.1"; gene_id "gene-QC764_107870"
+NC_085920.1	RefSeq	exon	2818239	2819173	.	+	.	transcript_id "rna-XM_062942044.1"; gene_id "gene-QC764_107870";
+NC_085920.1	RefSeq	exon	2819227	2820399	.	+	.	transcript_id "rna-XM_062942044.1"; gene_id "gene-QC764_107870";
+NC_085920.1	RefSeq	CDS	2818239	2819173	.	+	0	transcript_id "rna-XM_062942044.1"; gene_id "gene-QC764_107870";
+NC_085920.1	RefSeq	CDS	2819227	2819956	.	+	1	transcript_id "rna-XM_062942044.1"; gene_id "gene-QC764_107870";
+NC_085920.1	RefSeq	transcript	2981034	2983098	.	-	.	transcript_id "rna-XM_062942101.1"; gene_id "gene-QC764_108380"
+NC_085920.1	RefSeq	exon	2981034	2981512	.	-	.	transcript_id "rna-XM_062942101.1"; gene_id "gene-QC764_108380";
+NC_085920.1	RefSeq	exon	2981598	2982329	.	-	.	transcript_id "rna-XM_062942101.1"; gene_id "gene-QC764_108380";
+NC_085920.1	RefSeq	exon	2982484	2982581	.	-	.	transcript_id "rna-XM_062942101.1"; gene_id "gene-QC764_108380";
+NC_085920.1	RefSeq	exon	2982755	2983098	.	-	.	transcript_id "rna-XM_062942101.1"; gene_id "gene-QC764_108380";
+NC_085920.1	RefSeq	CDS	2981387	2981512	.	-	0	transcript_id "rna-XM_062942101.1"; gene_id "gene-QC764_108380";
+NC_085920.1	RefSeq	CDS	2981598	2982329	.	-	0	transcript_id "rna-XM_062942101.1"; gene_id "gene-QC764_108380";
+NC_085920.1	RefSeq	CDS	2982484	2982581	.	-	2	transcript_id "rna-XM_062942101.1"; gene_id "gene-QC764_108380";
+NC_085920.1	RefSeq	CDS	2982755	2982866	.	-	0	transcript_id "rna-XM_062942101.1"; gene_id "gene-QC764_108380";
+NC_085920.1	RefSeq	transcript	3074897	3079141	.	+	.	transcript_id "rna-XM_062942135.1"; gene_id "gene-QC764_108690"; gene_name "CDC54"
+NC_085920.1	RefSeq	exon	3074897	3075424	.	+	.	transcript_id "rna-XM_062942135.1"; gene_id "gene-QC764_108690"; gene_name "CDC54";
+NC_085920.1	RefSeq	exon	3075483	3077617	.	+	.	transcript_id "rna-XM_062942135.1"; gene_id "gene-QC764_108690"; gene_name "CDC54";
+NC_085920.1	RefSeq	exon	3077670	3079141	.	+	.	transcript_id "rna-XM_062942135.1"; gene_id "gene-QC764_108690"; gene_name "CDC54";
+NC_085920.1	RefSeq	CDS	3075121	3075424	.	+	0	transcript_id "rna-XM_062942135.1"; gene_id "gene-QC764_108690"; gene_name "CDC54";
+NC_085920.1	RefSeq	CDS	3075483	3077617	.	+	2	transcript_id "rna-XM_062942135.1"; gene_id "gene-QC764_108690"; gene_name "CDC54";
+NC_085920.1	RefSeq	CDS	3077670	3078251	.	+	0	transcript_id "rna-XM_062942135.1"; gene_id "gene-QC764_108690"; gene_name "CDC54";
+NC_085920.1	RefSeq	transcript	3221461	3223802	.	+	.	transcript_id "rna-XM_062942180.1"; gene_id "gene-QC764_109120"
+NC_085920.1	RefSeq	exon	3221461	3222107	.	+	.	transcript_id "rna-XM_062942180.1"; gene_id "gene-QC764_109120";
+NC_085920.1	RefSeq	exon	3222201	3222237	.	+	.	transcript_id "rna-XM_062942180.1"; gene_id "gene-QC764_109120";
+NC_085920.1	RefSeq	exon	3222298	3223802	.	+	.	transcript_id "rna-XM_062942180.1"; gene_id "gene-QC764_109120";
+NC_085920.1	RefSeq	CDS	3221943	3222107	.	+	0	transcript_id "rna-XM_062942180.1"; gene_id "gene-QC764_109120";
+NC_085920.1	RefSeq	CDS	3222201	3222237	.	+	0	transcript_id "rna-XM_062942180.1"; gene_id "gene-QC764_109120";
+NC_085920.1	RefSeq	CDS	3222298	3223802	.	+	2	transcript_id "rna-XM_062942180.1"; gene_id "gene-QC764_109120";
+NC_085920.1	RefSeq	transcript	3386652	3389807	.	-	.	transcript_id "rna-XM_062942233.1"; gene_id "gene-QC764_109660"; gene_name "ERB1"
+NC_085920.1	RefSeq	exon	3386652	3387184	.	-	.	transcript_id "rna-XM_062942233.1"; gene_id "gene-QC764_109660"; gene_name "ERB1";
+NC_085920.1	RefSeq	exon	3387237	3387871	.	-	.	transcript_id "rna-XM_062942233.1"; gene_id "gene-QC764_109660"; gene_name "ERB1";
+NC_085920.1	RefSeq	exon	3387929	3388232	.	-	.	transcript_id "rna-XM_062942233.1"; gene_id "gene-QC764_109660"; gene_name "ERB1";
+NC_085920.1	RefSeq	exon	3388287	3388563	.	-	.	transcript_id "rna-XM_062942233.1"; gene_id "gene-QC764_109660"; gene_name "ERB1";
+NC_085920.1	RefSeq	exon	3388618	3388970	.	-	.	transcript_id "rna-XM_062942233.1"; gene_id "gene-QC764_109660"; gene_name "ERB1";
+NC_085920.1	RefSeq	exon	3389034	3389807	.	-	.	transcript_id "rna-XM_062942233.1"; gene_id "gene-QC764_109660"; gene_name "ERB1";
+NC_085920.1	RefSeq	CDS	3386806	3387184	.	-	1	transcript_id "rna-XM_062942233.1"; gene_id "gene-QC764_109660"; gene_name "ERB1";
+NC_085920.1	RefSeq	CDS	3387237	3387871	.	-	0	transcript_id "rna-XM_062942233.1"; gene_id "gene-QC764_109660"; gene_name "ERB1";
+NC_085920.1	RefSeq	CDS	3387929	3388232	.	-	1	transcript_id "rna-XM_062942233.1"; gene_id "gene-QC764_109660"; gene_name "ERB1";
+NC_085920.1	RefSeq	CDS	3388287	3388563	.	-	2	transcript_id "rna-XM_062942233.1"; gene_id "gene-QC764_109660"; gene_name "ERB1";
+NC_085920.1	RefSeq	CDS	3388618	3388970	.	-	1	transcript_id "rna-XM_062942233.1"; gene_id "gene-QC764_109660"; gene_name "ERB1";
+NC_085920.1	RefSeq	CDS	3389034	3389434	.	-	0	transcript_id "rna-XM_062942233.1"; gene_id "gene-QC764_109660"; gene_name "ERB1";
+NC_085920.1	RefSeq	transcript	3405469	3407400	.	-	.	transcript_id "rna-XM_062942239.1"; gene_id "gene-QC764_109710"
+NC_085920.1	RefSeq	exon	3405469	3406999	.	-	.	transcript_id "rna-XM_062942239.1"; gene_id "gene-QC764_109710";
+NC_085920.1	RefSeq	exon	3407059	3407400	.	-	.	transcript_id "rna-XM_062942239.1"; gene_id "gene-QC764_109710";
+NC_085920.1	RefSeq	CDS	3406031	3406999	.	-	0	transcript_id "rna-XM_062942239.1"; gene_id "gene-QC764_109710";
+NC_085920.1	RefSeq	CDS	3407059	3407310	.	-	0	transcript_id "rna-XM_062942239.1"; gene_id "gene-QC764_109710";
+NC_085920.1	RefSeq	transcript	3441490	3444285	.	+	.	transcript_id "rna-XM_062942252.1"; gene_id "gene-QC764_109840"; gene_name "PCM1"
+NC_085920.1	RefSeq	exon	3441490	3442251	.	+	.	transcript_id "rna-XM_062942252.1"; gene_id "gene-QC764_109840"; gene_name "PCM1";
+NC_085920.1	RefSeq	exon	3442317	3444285	.	+	.	transcript_id "rna-XM_062942252.1"; gene_id "gene-QC764_109840"; gene_name "PCM1";
+NC_085920.1	RefSeq	CDS	3441490	3442251	.	+	0	transcript_id "rna-XM_062942252.1"; gene_id "gene-QC764_109840"; gene_name "PCM1";
+NC_085920.1	RefSeq	CDS	3442317	3443177	.	+	0	transcript_id "rna-XM_062942252.1"; gene_id "gene-QC764_109840"; gene_name "PCM1";
+NC_085920.1	RefSeq	transcript	3606156	3608894	.	+	.	transcript_id "rna-XM_062942299.1"; gene_id "gene-QC764_110300"; gene_name "NOP14"
+NC_085920.1	RefSeq	exon	3606156	3608894	.	+	.	transcript_id "rna-XM_062942299.1"; gene_id "gene-QC764_110300"; gene_name "NOP14";
+NC_085920.1	RefSeq	CDS	3606156	3608894	.	+	0	transcript_id "rna-XM_062942299.1"; gene_id "gene-QC764_110300"; gene_name "NOP14";
+NC_085920.1	RefSeq	transcript	3967002	3968268	.	-	.	transcript_id "rna-XM_062942404.1"; gene_id "gene-QC764_111460"; gene_name "UTP11"
+NC_085920.1	RefSeq	exon	3967002	3967940	.	-	.	transcript_id "rna-XM_062942404.1"; gene_id "gene-QC764_111460"; gene_name "UTP11";
+NC_085920.1	RefSeq	exon	3968011	3968268	.	-	.	transcript_id "rna-XM_062942404.1"; gene_id "gene-QC764_111460"; gene_name "UTP11";
+NC_085920.1	RefSeq	CDS	3967196	3967940	.	-	1	transcript_id "rna-XM_062942404.1"; gene_id "gene-QC764_111460"; gene_name "UTP11";
+NC_085920.1	RefSeq	CDS	3968011	3968030	.	-	0	transcript_id "rna-XM_062942404.1"; gene_id "gene-QC764_111460"; gene_name "UTP11";
+NC_085920.1	RefSeq	transcript	4249274	4252458	.	+	.	transcript_id "rna-XM_062942485.1"; gene_id "gene-QC764_112300"; gene_name "SEC10"
+NC_085920.1	RefSeq	exon	4249274	4249714	.	+	.	transcript_id "rna-XM_062942485.1"; gene_id "gene-QC764_112300"; gene_name "SEC10";
+NC_085920.1	RefSeq	exon	4249788	4252458	.	+	.	transcript_id "rna-XM_062942485.1"; gene_id "gene-QC764_112300"; gene_name "SEC10";
+NC_085920.1	RefSeq	CDS	4249516	4249714	.	+	0	transcript_id "rna-XM_062942485.1"; gene_id "gene-QC764_112300"; gene_name "SEC10";
+NC_085920.1	RefSeq	CDS	4249788	4252228	.	+	2	transcript_id "rna-XM_062942485.1"; gene_id "gene-QC764_112300"; gene_name "SEC10";
+NC_085920.1	RefSeq	transcript	4419398	4423159	.	-	.	transcript_id "rna-XM_062942538.1"; gene_id "gene-QC764_112820"; gene_name "MAK21"
+NC_085920.1	RefSeq	exon	4419398	4420464	.	-	.	transcript_id "rna-XM_062942538.1"; gene_id "gene-QC764_112820"; gene_name "MAK21";
+NC_085920.1	RefSeq	exon	4420543	4422219	.	-	.	transcript_id "rna-XM_062942538.1"; gene_id "gene-QC764_112820"; gene_name "MAK21";
+NC_085920.1	RefSeq	exon	4422284	4423159	.	-	.	transcript_id "rna-XM_062942538.1"; gene_id "gene-QC764_112820"; gene_name "MAK21";
+NC_085920.1	RefSeq	CDS	4419664	4420464	.	-	0	transcript_id "rna-XM_062942538.1"; gene_id "gene-QC764_112820"; gene_name "MAK21";
+NC_085920.1	RefSeq	CDS	4420543	4422219	.	-	0	transcript_id "rna-XM_062942538.1"; gene_id "gene-QC764_112820"; gene_name "MAK21";
+NC_085920.1	RefSeq	CDS	4422284	4422967	.	-	0	transcript_id "rna-XM_062942538.1"; gene_id "gene-QC764_112820"; gene_name "MAK21";
+NC_085920.1	RefSeq	transcript	4527819	4529813	.	-	.	transcript_id "rna-XM_062942671.1"; gene_id "gene-QC764_114160"; gene_name "GIR2"
+NC_085920.1	RefSeq	exon	4527819	4528435	.	-	.	transcript_id "rna-XM_062942671.1"; gene_id "gene-QC764_114160"; gene_name "GIR2";
+NC_085920.1	RefSeq	exon	4528499	4529813	.	-	.	transcript_id "rna-XM_062942671.1"; gene_id "gene-QC764_114160"; gene_name "GIR2";
+NC_085920.1	RefSeq	CDS	4527819	4528435	.	-	2	transcript_id "rna-XM_062942671.1"; gene_id "gene-QC764_114160"; gene_name "GIR2";
+NC_085920.1	RefSeq	CDS	4528499	4528565	.	-	0	transcript_id "rna-XM_062942671.1"; gene_id "gene-QC764_114160"; gene_name "GIR2";
+NC_085920.1	RefSeq	transcript	4679041	4680495	.	+	.	transcript_id "rna-XM_062942631.1"; gene_id "gene-QC764_113750"; gene_name "GCV1"
+NC_085920.1	RefSeq	exon	4679041	4680495	.	+	.	transcript_id "rna-XM_062942631.1"; gene_id "gene-QC764_113750"; gene_name "GCV1";
+NC_085920.1	RefSeq	CDS	4679041	4680495	.	+	0	transcript_id "rna-XM_062942631.1"; gene_id "gene-QC764_113750"; gene_name "GCV1";
+NC_085920.1	RefSeq	transcript	4710885	4712756	.	+	.	transcript_id "rna-XM_062942623.1"; gene_id "gene-QC764_113670"; gene_name "PWP1"
+NC_085920.1	RefSeq	exon	4710885	4711198	.	+	.	transcript_id "rna-XM_062942623.1"; gene_id "gene-QC764_113670"; gene_name "PWP1";
+NC_085920.1	RefSeq	exon	4711252	4712756	.	+	.	transcript_id "rna-XM_062942623.1"; gene_id "gene-QC764_113670"; gene_name "PWP1";
+NC_085920.1	RefSeq	CDS	4710966	4711198	.	+	0	transcript_id "rna-XM_062942623.1"; gene_id "gene-QC764_113670"; gene_name "PWP1";
+NC_085920.1	RefSeq	CDS	4711252	4712656	.	+	1	transcript_id "rna-XM_062942623.1"; gene_id "gene-QC764_113670"; gene_name "PWP1";
+NC_085920.1	RefSeq	transcript	4884857	4886166	.	+	.	transcript_id "rna-XM_062939984.1"; gene_id "gene-QC764_0016330"
+NC_085920.1	RefSeq	exon	4884857	4886128	.	+	.	transcript_id "rna-XM_062939984.1"; gene_id "gene-QC764_0016330";
+NC_085920.1	RefSeq	exon	4886135	4886166	.	+	.	transcript_id "rna-XM_062939984.1"; gene_id "gene-QC764_0016330";
+NC_085920.1	RefSeq	CDS	4884937	4886128	.	+	0	transcript_id "rna-XM_062939984.1"; gene_id "gene-QC764_0016330";
+NC_085920.1	RefSeq	CDS	4886135	4886166	.	+	2	transcript_id "rna-XM_062939984.1"; gene_id "gene-QC764_0016330";
+NC_085920.1	RefSeq	transcript	4978260	4979398	.	+	.	transcript_id "rna-XM_062942549.1"; gene_id "gene-QC764_112950"; gene_name "ISY1"
+NC_085920.1	RefSeq	exon	4978260	4978393	.	+	.	transcript_id "rna-XM_062942549.1"; gene_id "gene-QC764_112950"; gene_name "ISY1";
+NC_085920.1	RefSeq	exon	4978463	4979398	.	+	.	transcript_id "rna-XM_062942549.1"; gene_id "gene-QC764_112950"; gene_name "ISY1";
+NC_085920.1	RefSeq	CDS	4978391	4978393	.	+	0	transcript_id "rna-XM_062942549.1"; gene_id "gene-QC764_112950"; gene_name "ISY1";
+NC_085920.1	RefSeq	CDS	4978463	4979203	.	+	0	transcript_id "rna-XM_062942549.1"; gene_id "gene-QC764_112950"; gene_name "ISY1";
+NC_085920.1	RefSeq	transcript	5850727	5852216	.	-	.	transcript_id "rna-XM_062942912.1"; gene_id "gene-QC764_116580"; gene_name "NSA2"
+NC_085920.1	RefSeq	exon	5850727	5851322	.	-	.	transcript_id "rna-XM_062942912.1"; gene_id "gene-QC764_116580"; gene_name "NSA2";
+NC_085920.1	RefSeq	exon	5851378	5851863	.	-	.	transcript_id "rna-XM_062942912.1"; gene_id "gene-QC764_116580"; gene_name "NSA2";
+NC_085920.1	RefSeq	exon	5851945	5851963	.	-	.	transcript_id "rna-XM_062942912.1"; gene_id "gene-QC764_116580"; gene_name "NSA2";
+NC_085920.1	RefSeq	exon	5852029	5852216	.	-	.	transcript_id "rna-XM_062942912.1"; gene_id "gene-QC764_116580"; gene_name "NSA2";
+NC_085920.1	RefSeq	CDS	5851045	5851322	.	-	2	transcript_id "rna-XM_062942912.1"; gene_id "gene-QC764_116580"; gene_name "NSA2";
+NC_085920.1	RefSeq	CDS	5851378	5851863	.	-	2	transcript_id "rna-XM_062942912.1"; gene_id "gene-QC764_116580"; gene_name "NSA2";
+NC_085920.1	RefSeq	CDS	5851945	5851963	.	-	0	transcript_id "rna-XM_062942912.1"; gene_id "gene-QC764_116580"; gene_name "NSA2";
+NC_085920.1	RefSeq	CDS	5852029	5852031	.	-	0	transcript_id "rna-XM_062942912.1"; gene_id "gene-QC764_116580"; gene_name "NSA2";
+NC_085920.1	RefSeq	transcript	5906891	5907766	.	-	.	transcript_id "rna-XM_062942936.1"; gene_id "gene-QC764_116825"; gene_name "rpc25"
+NC_085920.1	RefSeq	exon	5906891	5907168	.	-	.	transcript_id "rna-XM_062942936.1"; gene_id "gene-QC764_116825"; gene_name "rpc25";
+NC_085920.1	RefSeq	exon	5907320	5907406	.	-	.	transcript_id "rna-XM_062942936.1"; gene_id "gene-QC764_116825"; gene_name "rpc25";
+NC_085920.1	RefSeq	exon	5907474	5907669	.	-	.	transcript_id "rna-XM_062942936.1"; gene_id "gene-QC764_116825"; gene_name "rpc25";
+NC_085920.1	RefSeq	exon	5907755	5907766	.	-	.	transcript_id "rna-XM_062942936.1"; gene_id "gene-QC764_116825"; gene_name "rpc25";
+NC_085920.1	RefSeq	CDS	5906891	5907168	.	-	2	transcript_id "rna-XM_062942936.1"; gene_id "gene-QC764_116825"; gene_name "rpc25";
+NC_085920.1	RefSeq	CDS	5907320	5907406	.	-	2	transcript_id "rna-XM_062942936.1"; gene_id "gene-QC764_116825"; gene_name "rpc25";
+NC_085920.1	RefSeq	CDS	5907474	5907669	.	-	0	transcript_id "rna-XM_062942936.1"; gene_id "gene-QC764_116825"; gene_name "rpc25";
+NC_085920.1	RefSeq	CDS	5907755	5907766	.	-	0	transcript_id "rna-XM_062942936.1"; gene_id "gene-QC764_116825"; gene_name "rpc25";
+NC_085920.1	RefSeq	transcript	6083287	6084285	.	+	.	transcript_id "rna-XM_062942983.1"; gene_id "gene-QC764_117230"
+NC_085920.1	RefSeq	exon	6083287	6084285	.	+	.	transcript_id "rna-XM_062942983.1"; gene_id "gene-QC764_117230";
+NC_085920.1	RefSeq	CDS	6083287	6084285	.	+	0	transcript_id "rna-XM_062942983.1"; gene_id "gene-QC764_117230";
+NC_085920.1	RefSeq	transcript	6143158	6144724	.	-	.	transcript_id "rna-XM_062942999.1"; gene_id "gene-QC764_117370"; gene_name "CAB2"
+NC_085920.1	RefSeq	exon	6143158	6143783	.	-	.	transcript_id "rna-XM_062942999.1"; gene_id "gene-QC764_117370"; gene_name "CAB2";
+NC_085920.1	RefSeq	exon	6143833	6144136	.	-	.	transcript_id "rna-XM_062942999.1"; gene_id "gene-QC764_117370"; gene_name "CAB2";
+NC_085920.1	RefSeq	exon	6144196	6144242	.	-	.	transcript_id "rna-XM_062942999.1"; gene_id "gene-QC764_117370"; gene_name "CAB2";
+NC_085920.1	RefSeq	exon	6144409	6144461	.	-	.	transcript_id "rna-XM_062942999.1"; gene_id "gene-QC764_117370"; gene_name "CAB2";
+NC_085920.1	RefSeq	exon	6144529	6144724	.	-	.	transcript_id "rna-XM_062942999.1"; gene_id "gene-QC764_117370"; gene_name "CAB2";
+NC_085920.1	RefSeq	CDS	6143226	6143783	.	-	0	transcript_id "rna-XM_062942999.1"; gene_id "gene-QC764_117370"; gene_name "CAB2";
+NC_085920.1	RefSeq	CDS	6143833	6144136	.	-	1	transcript_id "rna-XM_062942999.1"; gene_id "gene-QC764_117370"; gene_name "CAB2";
+NC_085920.1	RefSeq	CDS	6144196	6144242	.	-	0	transcript_id "rna-XM_062942999.1"; gene_id "gene-QC764_117370"; gene_name "CAB2";
+NC_085920.1	RefSeq	CDS	6144409	6144461	.	-	2	transcript_id "rna-XM_062942999.1"; gene_id "gene-QC764_117370"; gene_name "CAB2";
+NC_085920.1	RefSeq	CDS	6144529	6144724	.	-	0	transcript_id "rna-XM_062942999.1"; gene_id "gene-QC764_117370"; gene_name "CAB2";
+NC_085920.1	RefSeq	transcript	6236148	6239331	.	-	.	transcript_id "rna-XM_062943024.1"; gene_id "gene-QC764_117590"; gene_name "DIP2"
+NC_085920.1	RefSeq	exon	6236148	6239158	.	-	.	transcript_id "rna-XM_062943024.1"; gene_id "gene-QC764_117590"; gene_name "DIP2";
+NC_085920.1	RefSeq	exon	6239214	6239331	.	-	.	transcript_id "rna-XM_062943024.1"; gene_id "gene-QC764_117590"; gene_name "DIP2";
+NC_085920.1	RefSeq	CDS	6236290	6239158	.	-	1	transcript_id "rna-XM_062943024.1"; gene_id "gene-QC764_117590"; gene_name "DIP2";
+NC_085920.1	RefSeq	CDS	6239214	6239230	.	-	0	transcript_id "rna-XM_062943024.1"; gene_id "gene-QC764_117590"; gene_name "DIP2";
+NC_085920.1	RefSeq	transcript	6262310	6263212	.	-	.	transcript_id "rna-XM_062943032.1"; gene_id "gene-QC764_117660"; gene_name "COQ4"
+NC_085920.1	RefSeq	exon	6262310	6263212	.	-	.	transcript_id "rna-XM_062943032.1"; gene_id "gene-QC764_117660"; gene_name "COQ4";
+NC_085920.1	RefSeq	CDS	6262310	6263212	.	-	0	transcript_id "rna-XM_062943032.1"; gene_id "gene-QC764_117660"; gene_name "COQ4";
+NC_085920.1	RefSeq	transcript	6486769	6488031	.	+	.	transcript_id "rna-XM_062943086.1"; gene_id "gene-QC764_118170"; gene_name "CSN4"
+NC_085920.1	RefSeq	exon	6486769	6488031	.	+	.	transcript_id "rna-XM_062943086.1"; gene_id "gene-QC764_118170"; gene_name "CSN4";
+NC_085920.1	RefSeq	CDS	6486769	6488031	.	+	0	transcript_id "rna-XM_062943086.1"; gene_id "gene-QC764_118170"; gene_name "CSN4";
+NC_085920.1	RefSeq	transcript	6587239	6589088	.	+	.	transcript_id "rna-XM_062943116.1"; gene_id "gene-QC764_118510"; gene_name "PRP46"
+NC_085920.1	RefSeq	exon	6587239	6588798	.	+	.	transcript_id "rna-XM_062943116.1"; gene_id "gene-QC764_118510"; gene_name "PRP46";
+NC_085920.1	RefSeq	exon	6588861	6589088	.	+	.	transcript_id "rna-XM_062943116.1"; gene_id "gene-QC764_118510"; gene_name "PRP46";
+NC_085920.1	RefSeq	CDS	6587394	6588798	.	+	0	transcript_id "rna-XM_062943116.1"; gene_id "gene-QC764_118510"; gene_name "PRP46";
+NC_085920.1	RefSeq	CDS	6588861	6588949	.	+	2	transcript_id "rna-XM_062943116.1"; gene_id "gene-QC764_118510"; gene_name "PRP46";
+NC_085920.1	RefSeq	transcript	6662204	6664600	.	+	.	transcript_id "rna-XM_062943139.1"; gene_id "gene-QC764_118740"; gene_name "TMA22"
+NC_085920.1	RefSeq	exon	6662204	6662900	.	+	.	transcript_id "rna-XM_062943139.1"; gene_id "gene-QC764_118740"; gene_name "TMA22";
+NC_085920.1	RefSeq	exon	6663074	6663093	.	+	.	transcript_id "rna-XM_062943139.1"; gene_id "gene-QC764_118740"; gene_name "TMA22";
+NC_085920.1	RefSeq	exon	6663205	6663510	.	+	.	transcript_id "rna-XM_062943139.1"; gene_id "gene-QC764_118740"; gene_name "TMA22";
+NC_085920.1	RefSeq	exon	6663581	6663904	.	+	.	transcript_id "rna-XM_062943139.1"; gene_id "gene-QC764_118740"; gene_name "TMA22";
+NC_085920.1	RefSeq	exon	6664044	6664600	.	+	.	transcript_id "rna-XM_062943139.1"; gene_id "gene-QC764_118740"; gene_name "TMA22";
+NC_085920.1	RefSeq	CDS	6662855	6662900	.	+	0	transcript_id "rna-XM_062943139.1"; gene_id "gene-QC764_118740"; gene_name "TMA22";
+NC_085920.1	RefSeq	CDS	6663074	6663093	.	+	2	transcript_id "rna-XM_062943139.1"; gene_id "gene-QC764_118740"; gene_name "TMA22";
+NC_085920.1	RefSeq	CDS	6663205	6663510	.	+	0	transcript_id "rna-XM_062943139.1"; gene_id "gene-QC764_118740"; gene_name "TMA22";
+NC_085920.1	RefSeq	CDS	6663581	6663778	.	+	0	transcript_id "rna-XM_062943139.1"; gene_id "gene-QC764_118740"; gene_name "TMA22";
+NC_085920.1	RefSeq	transcript	6702482	6705871	.	+	.	transcript_id "rna-XM_062943148.1"; gene_id "gene-QC764_118830"
+NC_085920.1	RefSeq	exon	6702482	6705871	.	+	.	transcript_id "rna-XM_062943148.1"; gene_id "gene-QC764_118830";
+NC_085920.1	RefSeq	CDS	6702482	6705871	.	+	0	transcript_id "rna-XM_062943148.1"; gene_id "gene-QC764_118830";
+NC_085920.1	RefSeq	transcript	6728818	6730122	.	-	.	transcript_id "rna-XM_062943155.1"; gene_id "gene-QC764_118890"; gene_name "RRP40"
+NC_085920.1	RefSeq	exon	6728818	6729324	.	-	.	transcript_id "rna-XM_062943155.1"; gene_id "gene-QC764_118890"; gene_name "RRP40";
+NC_085920.1	RefSeq	exon	6729422	6730122	.	-	.	transcript_id "rna-XM_062943155.1"; gene_id "gene-QC764_118890"; gene_name "RRP40";
+NC_085920.1	RefSeq	CDS	6728818	6729324	.	-	0	transcript_id "rna-XM_062943155.1"; gene_id "gene-QC764_118890"; gene_name "RRP40";
+NC_085920.1	RefSeq	CDS	6729422	6729622	.	-	0	transcript_id "rna-XM_062943155.1"; gene_id "gene-QC764_118890"; gene_name "RRP40";
+NC_085920.1	RefSeq	transcript	6813163	6814488	.	-	.	transcript_id "rna-XM_062943172.1"; gene_id "gene-QC764_119090"; gene_name "SHY1"
+NC_085920.1	RefSeq	exon	6813163	6813304	.	-	.	transcript_id "rna-XM_062943172.1"; gene_id "gene-QC764_119090"; gene_name "SHY1";
+NC_085920.1	RefSeq	exon	6813434	6813539	.	-	.	transcript_id "rna-XM_062943172.1"; gene_id "gene-QC764_119090"; gene_name "SHY1";
+NC_085920.1	RefSeq	exon	6813623	6814488	.	-	.	transcript_id "rna-XM_062943172.1"; gene_id "gene-QC764_119090"; gene_name "SHY1";
+NC_085920.1	RefSeq	CDS	6813205	6813304	.	-	1	transcript_id "rna-XM_062943172.1"; gene_id "gene-QC764_119090"; gene_name "SHY1";
+NC_085920.1	RefSeq	CDS	6813434	6813539	.	-	2	transcript_id "rna-XM_062943172.1"; gene_id "gene-QC764_119090"; gene_name "SHY1";
+NC_085920.1	RefSeq	CDS	6813623	6814058	.	-	0	transcript_id "rna-XM_062943172.1"; gene_id "gene-QC764_119090"; gene_name "SHY1";
+NC_085920.1	RefSeq	transcript	7339101	7340363	.	+	.	transcript_id "rna-XM_062943324.1"; gene_id "gene-QC764_120610"; gene_name "ATG3"
+NC_085920.1	RefSeq	exon	7339101	7339721	.	+	.	transcript_id "rna-XM_062943324.1"; gene_id "gene-QC764_120610"; gene_name "ATG3";
+NC_085920.1	RefSeq	exon	7339809	7340363	.	+	.	transcript_id "rna-XM_062943324.1"; gene_id "gene-QC764_120610"; gene_name "ATG3";
+NC_085920.1	RefSeq	CDS	7339216	7339721	.	+	0	transcript_id "rna-XM_062943324.1"; gene_id "gene-QC764_120610"; gene_name "ATG3";
+NC_085920.1	RefSeq	CDS	7339809	7340316	.	+	1	transcript_id "rna-XM_062943324.1"; gene_id "gene-QC764_120610"; gene_name "ATG3";
+NC_085920.1	RefSeq	transcript	8452404	8455569	.	+	.	transcript_id "rna-XM_062943587.1"; gene_id "gene-QC764_123490"; gene_name "ctf18"
+NC_085920.1	RefSeq	exon	8452404	8454910	.	+	.	transcript_id "rna-XM_062943587.1"; gene_id "gene-QC764_123490"; gene_name "ctf18";
+NC_085920.1	RefSeq	exon	8454978	8455569	.	+	.	transcript_id "rna-XM_062943587.1"; gene_id "gene-QC764_123490"; gene_name "ctf18";
+NC_085920.1	RefSeq	CDS	8452404	8454910	.	+	0	transcript_id "rna-XM_062943587.1"; gene_id "gene-QC764_123490"; gene_name "ctf18";
+NC_085920.1	RefSeq	CDS	8454978	8455428	.	+	1	transcript_id "rna-XM_062943587.1"; gene_id "gene-QC764_123490"; gene_name "ctf18";
+NC_085920.1	RefSeq	transcript	8639965	8641691	.	+	.	transcript_id "rna-XM_062943639.1"; gene_id "gene-QC764_124010"; gene_name "KRR1"
+NC_085920.1	RefSeq	exon	8639965	8640806	.	+	.	transcript_id "rna-XM_062943639.1"; gene_id "gene-QC764_124010"; gene_name "KRR1";
+NC_085920.1	RefSeq	exon	8640869	8641061	.	+	.	transcript_id "rna-XM_062943639.1"; gene_id "gene-QC764_124010"; gene_name "KRR1";
+NC_085920.1	RefSeq	exon	8641124	8641280	.	+	.	transcript_id "rna-XM_062943639.1"; gene_id "gene-QC764_124010"; gene_name "KRR1";
+NC_085920.1	RefSeq	exon	8641334	8641691	.	+	.	transcript_id "rna-XM_062943639.1"; gene_id "gene-QC764_124010"; gene_name "KRR1";
+NC_085920.1	RefSeq	CDS	8640273	8640806	.	+	0	transcript_id "rna-XM_062943639.1"; gene_id "gene-QC764_124010"; gene_name "KRR1";
+NC_085920.1	RefSeq	CDS	8640869	8641061	.	+	0	transcript_id "rna-XM_062943639.1"; gene_id "gene-QC764_124010"; gene_name "KRR1";
+NC_085920.1	RefSeq	CDS	8641124	8641280	.	+	2	transcript_id "rna-XM_062943639.1"; gene_id "gene-QC764_124010"; gene_name "KRR1";
+NC_085920.1	RefSeq	CDS	8641334	8641691	.	+	1	transcript_id "rna-XM_062943639.1"; gene_id "gene-QC764_124010"; gene_name "KRR1";
+NC_085921.1	RefSeq	transcript	506610	509429	.	-	.	transcript_id "rna-XM_062943758.1"; gene_id "gene-QC764_200540"; gene_name "DPB2"
+NC_085921.1	RefSeq	exon	506610	508422	.	-	.	transcript_id "rna-XM_062943758.1"; gene_id "gene-QC764_200540"; gene_name "DPB2";
+NC_085921.1	RefSeq	exon	508477	509429	.	-	.	transcript_id "rna-XM_062943758.1"; gene_id "gene-QC764_200540"; gene_name "DPB2";
+NC_085921.1	RefSeq	CDS	506766	508422	.	-	1	transcript_id "rna-XM_062943758.1"; gene_id "gene-QC764_200540"; gene_name "DPB2";
+NC_085921.1	RefSeq	CDS	508477	509276	.	-	0	transcript_id "rna-XM_062943758.1"; gene_id "gene-QC764_200540"; gene_name "DPB2";
+NC_085921.1	RefSeq	transcript	857831	860300	.	-	.	transcript_id "rna-XM_062943849.1"; gene_id "gene-QC764_201430"; gene_name "UTP25"
+NC_085921.1	RefSeq	exon	857831	859871	.	-	.	transcript_id "rna-XM_062943849.1"; gene_id "gene-QC764_201430"; gene_name "UTP25";
+NC_085921.1	RefSeq	exon	859923	860300	.	-	.	transcript_id "rna-XM_062943849.1"; gene_id "gene-QC764_201430"; gene_name "UTP25";
+NC_085921.1	RefSeq	CDS	857831	859871	.	-	1	transcript_id "rna-XM_062943849.1"; gene_id "gene-QC764_201430"; gene_name "UTP25";
+NC_085921.1	RefSeq	CDS	859923	860137	.	-	0	transcript_id "rna-XM_062943849.1"; gene_id "gene-QC764_201430"; gene_name "UTP25";
+NC_085921.1	RefSeq	transcript	860319	862230	.	+	.	transcript_id "rna-XM_062943850.1"; gene_id "gene-QC764_201440"
+NC_085921.1	RefSeq	exon	860319	860855	.	+	.	transcript_id "rna-XM_062943850.1"; gene_id "gene-QC764_201440";
+NC_085921.1	RefSeq	exon	860986	862230	.	+	.	transcript_id "rna-XM_062943850.1"; gene_id "gene-QC764_201440";
+NC_085921.1	RefSeq	CDS	860748	860855	.	+	0	transcript_id "rna-XM_062943850.1"; gene_id "gene-QC764_201440";
+NC_085921.1	RefSeq	CDS	860986	861981	.	+	0	transcript_id "rna-XM_062943850.1"; gene_id "gene-QC764_201440";
+NC_085921.1	RefSeq	transcript	986320	989028	.	+	.	transcript_id "rna-XM_062943880.1"; gene_id "gene-QC764_201770"; gene_name "ATG7"
+NC_085921.1	RefSeq	exon	986320	986817	.	+	.	transcript_id "rna-XM_062943880.1"; gene_id "gene-QC764_201770"; gene_name "ATG7";
+NC_085921.1	RefSeq	exon	986874	986991	.	+	.	transcript_id "rna-XM_062943880.1"; gene_id "gene-QC764_201770"; gene_name "ATG7";
+NC_085921.1	RefSeq	exon	987052	988362	.	+	.	transcript_id "rna-XM_062943880.1"; gene_id "gene-QC764_201770"; gene_name "ATG7";
+NC_085921.1	RefSeq	exon	988421	989028	.	+	.	transcript_id "rna-XM_062943880.1"; gene_id "gene-QC764_201770"; gene_name "ATG7";
+NC_085921.1	RefSeq	CDS	986618	986817	.	+	0	transcript_id "rna-XM_062943880.1"; gene_id "gene-QC764_201770"; gene_name "ATG7";
+NC_085921.1	RefSeq	CDS	986874	986991	.	+	1	transcript_id "rna-XM_062943880.1"; gene_id "gene-QC764_201770"; gene_name "ATG7";
+NC_085921.1	RefSeq	CDS	987052	988362	.	+	0	transcript_id "rna-XM_062943880.1"; gene_id "gene-QC764_201770"; gene_name "ATG7";
+NC_085921.1	RefSeq	CDS	988421	988885	.	+	0	transcript_id "rna-XM_062943880.1"; gene_id "gene-QC764_201770"; gene_name "ATG7";
+NC_085921.1	RefSeq	transcript	1012708	1013709	.	+	.	transcript_id "rna-XM_062943890.1"; gene_id "gene-QC764_201860"; gene_name "imp3"
+NC_085921.1	RefSeq	exon	1012708	1012914	.	+	.	transcript_id "rna-XM_062943890.1"; gene_id "gene-QC764_201860"; gene_name "imp3";
+NC_085921.1	RefSeq	exon	1012970	1013026	.	+	.	transcript_id "rna-XM_062943890.1"; gene_id "gene-QC764_201860"; gene_name "imp3";
+NC_085921.1	RefSeq	exon	1013078	1013108	.	+	.	transcript_id "rna-XM_062943890.1"; gene_id "gene-QC764_201860"; gene_name "imp3";
+NC_085921.1	RefSeq	exon	1013177	1013230	.	+	.	transcript_id "rna-XM_062943890.1"; gene_id "gene-QC764_201860"; gene_name "imp3";
+NC_085921.1	RefSeq	exon	1013289	1013369	.	+	.	transcript_id "rna-XM_062943890.1"; gene_id "gene-QC764_201860"; gene_name "imp3";
+NC_085921.1	RefSeq	exon	1013425	1013709	.	+	.	transcript_id "rna-XM_062943890.1"; gene_id "gene-QC764_201860"; gene_name "imp3";
+NC_085921.1	RefSeq	CDS	1012871	1012914	.	+	0	transcript_id "rna-XM_062943890.1"; gene_id "gene-QC764_201860"; gene_name "imp3";
+NC_085921.1	RefSeq	CDS	1012970	1013026	.	+	1	transcript_id "rna-XM_062943890.1"; gene_id "gene-QC764_201860"; gene_name "imp3";
+NC_085921.1	RefSeq	CDS	1013078	1013108	.	+	1	transcript_id "rna-XM_062943890.1"; gene_id "gene-QC764_201860"; gene_name "imp3";
+NC_085921.1	RefSeq	CDS	1013177	1013230	.	+	0	transcript_id "rna-XM_062943890.1"; gene_id "gene-QC764_201860"; gene_name "imp3";
+NC_085921.1	RefSeq	CDS	1013289	1013369	.	+	0	transcript_id "rna-XM_062943890.1"; gene_id "gene-QC764_201860"; gene_name "imp3";
+NC_085921.1	RefSeq	CDS	1013425	1013709	.	+	0	transcript_id "rna-XM_062943890.1"; gene_id "gene-QC764_201860"; gene_name "imp3";
+NC_085921.1	RefSeq	transcript	1149580	1151502	.	+	.	transcript_id "rna-XM_062943926.1"; gene_id "gene-QC764_202240"; gene_name "ebp2"
+NC_085921.1	RefSeq	exon	1149580	1150954	.	+	.	transcript_id "rna-XM_062943926.1"; gene_id "gene-QC764_202240"; gene_name "ebp2";
+NC_085921.1	RefSeq	exon	1151011	1151502	.	+	.	transcript_id "rna-XM_062943926.1"; gene_id "gene-QC764_202240"; gene_name "ebp2";
+NC_085921.1	RefSeq	CDS	1150102	1150954	.	+	0	transcript_id "rna-XM_062943926.1"; gene_id "gene-QC764_202240"; gene_name "ebp2";
+NC_085921.1	RefSeq	CDS	1151011	1151390	.	+	2	transcript_id "rna-XM_062943926.1"; gene_id "gene-QC764_202240"; gene_name "ebp2";
+NC_085921.1	RefSeq	transcript	1311879	1312569	.	-	.	transcript_id "rna-XM_062943962.1"; gene_id "gene-QC764_202620"; gene_name "naa20"
+NC_085921.1	RefSeq	exon	1311879	1312282	.	-	.	transcript_id "rna-XM_062943962.1"; gene_id "gene-QC764_202620"; gene_name "naa20";
+NC_085921.1	RefSeq	exon	1312339	1312569	.	-	.	transcript_id "rna-XM_062943962.1"; gene_id "gene-QC764_202620"; gene_name "naa20";
+NC_085921.1	RefSeq	CDS	1311879	1312282	.	-	2	transcript_id "rna-XM_062943962.1"; gene_id "gene-QC764_202620"; gene_name "naa20";
+NC_085921.1	RefSeq	CDS	1312339	1312507	.	-	0	transcript_id "rna-XM_062943962.1"; gene_id "gene-QC764_202620"; gene_name "naa20";
+NC_085921.1	RefSeq	transcript	1459090	1460487	.	+	.	transcript_id "rna-XM_062944009.1"; gene_id "gene-QC764_203120"; gene_name "oca3"
+NC_085921.1	RefSeq	exon	1459090	1459696	.	+	.	transcript_id "rna-XM_062944009.1"; gene_id "gene-QC764_203120"; gene_name "oca3";
+NC_085921.1	RefSeq	exon	1459772	1459978	.	+	.	transcript_id "rna-XM_062944009.1"; gene_id "gene-QC764_203120"; gene_name "oca3";
+NC_085921.1	RefSeq	exon	1460034	1460192	.	+	.	transcript_id "rna-XM_062944009.1"; gene_id "gene-QC764_203120"; gene_name "oca3";
+NC_085921.1	RefSeq	exon	1460248	1460487	.	+	.	transcript_id "rna-XM_062944009.1"; gene_id "gene-QC764_203120"; gene_name "oca3";
+NC_085921.1	RefSeq	CDS	1459322	1459696	.	+	0	transcript_id "rna-XM_062944009.1"; gene_id "gene-QC764_203120"; gene_name "oca3";
+NC_085921.1	RefSeq	CDS	1459772	1459978	.	+	0	transcript_id "rna-XM_062944009.1"; gene_id "gene-QC764_203120"; gene_name "oca3";
+NC_085921.1	RefSeq	CDS	1460034	1460192	.	+	0	transcript_id "rna-XM_062944009.1"; gene_id "gene-QC764_203120"; gene_name "oca3";
+NC_085921.1	RefSeq	CDS	1460248	1460487	.	+	0	transcript_id "rna-XM_062944009.1"; gene_id "gene-QC764_203120"; gene_name "oca3";
+NC_085921.1	RefSeq	transcript	2263555	2265902	.	+	.	transcript_id "rna-XM_062944237.1"; gene_id "gene-QC764_205360"; gene_name "srp72"
+NC_085921.1	RefSeq	exon	2263555	2264619	.	+	.	transcript_id "rna-XM_062944237.1"; gene_id "gene-QC764_205360"; gene_name "srp72";
+NC_085921.1	RefSeq	exon	2264672	2265902	.	+	.	transcript_id "rna-XM_062944237.1"; gene_id "gene-QC764_205360"; gene_name "srp72";
+NC_085921.1	RefSeq	CDS	2263835	2264619	.	+	0	transcript_id "rna-XM_062944237.1"; gene_id "gene-QC764_205360"; gene_name "srp72";
+NC_085921.1	RefSeq	CDS	2264672	2265902	.	+	1	transcript_id "rna-XM_062944237.1"; gene_id "gene-QC764_205360"; gene_name "srp72";
+NC_085921.1	RefSeq	transcript	2282315	2283107	.	+	.	transcript_id "rna-XM_062944244.1"; gene_id "gene-QC764_205460"; gene_name "FAP7"
+NC_085921.1	RefSeq	exon	2282315	2282646	.	+	.	transcript_id "rna-XM_062944244.1"; gene_id "gene-QC764_205460"; gene_name "FAP7";
+NC_085921.1	RefSeq	exon	2282770	2283107	.	+	.	transcript_id "rna-XM_062944244.1"; gene_id "gene-QC764_205460"; gene_name "FAP7";
+NC_085921.1	RefSeq	CDS	2282315	2282646	.	+	0	transcript_id "rna-XM_062944244.1"; gene_id "gene-QC764_205460"; gene_name "FAP7";
+NC_085921.1	RefSeq	CDS	2282770	2282965	.	+	1	transcript_id "rna-XM_062944244.1"; gene_id "gene-QC764_205460"; gene_name "FAP7";
+NC_085921.1	RefSeq	transcript	2402103	2403724	.	+	.	transcript_id "rna-XM_062944290.1"; gene_id "gene-QC764_205850"; gene_name "cdc1"
+NC_085921.1	RefSeq	exon	2402103	2402155	.	+	.	transcript_id "rna-XM_062944290.1"; gene_id "gene-QC764_205850"; gene_name "cdc1";
+NC_085921.1	RefSeq	exon	2402214	2402526	.	+	.	transcript_id "rna-XM_062944290.1"; gene_id "gene-QC764_205850"; gene_name "cdc1";
+NC_085921.1	RefSeq	exon	2402588	2403724	.	+	.	transcript_id "rna-XM_062944290.1"; gene_id "gene-QC764_205850"; gene_name "cdc1";
+NC_085921.1	RefSeq	CDS	2402103	2402155	.	+	0	transcript_id "rna-XM_062944290.1"; gene_id "gene-QC764_205850"; gene_name "cdc1";
+NC_085921.1	RefSeq	CDS	2402214	2402526	.	+	1	transcript_id "rna-XM_062944290.1"; gene_id "gene-QC764_205850"; gene_name "cdc1";
+NC_085921.1	RefSeq	CDS	2402588	2403724	.	+	0	transcript_id "rna-XM_062944290.1"; gene_id "gene-QC764_205850"; gene_name "cdc1";
+NC_085921.1	RefSeq	transcript	2646803	2648908	.	-	.	transcript_id "rna-XM_062944366.1"; gene_id "gene-QC764_206560"; gene_name "FRS1"
+NC_085921.1	RefSeq	exon	2646803	2647552	.	-	.	transcript_id "rna-XM_062944366.1"; gene_id "gene-QC764_206560"; gene_name "FRS1";
+NC_085921.1	RefSeq	exon	2647609	2648230	.	-	.	transcript_id "rna-XM_062944366.1"; gene_id "gene-QC764_206560"; gene_name "FRS1";
+NC_085921.1	RefSeq	exon	2648309	2648549	.	-	.	transcript_id "rna-XM_062944366.1"; gene_id "gene-QC764_206560"; gene_name "FRS1";
+NC_085921.1	RefSeq	exon	2648633	2648784	.	-	.	transcript_id "rna-XM_062944366.1"; gene_id "gene-QC764_206560"; gene_name "FRS1";
+NC_085921.1	RefSeq	exon	2648856	2648908	.	-	.	transcript_id "rna-XM_062944366.1"; gene_id "gene-QC764_206560"; gene_name "FRS1";
+NC_085921.1	RefSeq	CDS	2646803	2647552	.	-	0	transcript_id "rna-XM_062944366.1"; gene_id "gene-QC764_206560"; gene_name "FRS1";
+NC_085921.1	RefSeq	CDS	2647609	2648230	.	-	1	transcript_id "rna-XM_062944366.1"; gene_id "gene-QC764_206560"; gene_name "FRS1";
+NC_085921.1	RefSeq	CDS	2648309	2648549	.	-	2	transcript_id "rna-XM_062944366.1"; gene_id "gene-QC764_206560"; gene_name "FRS1";
+NC_085921.1	RefSeq	CDS	2648633	2648784	.	-	1	transcript_id "rna-XM_062944366.1"; gene_id "gene-QC764_206560"; gene_name "FRS1";
+NC_085921.1	RefSeq	CDS	2648856	2648908	.	-	0	transcript_id "rna-XM_062944366.1"; gene_id "gene-QC764_206560"; gene_name "FRS1";
+NC_085921.1	RefSeq	transcript	3199252	3200776	.	-	.	transcript_id "rna-XM_062944559.1"; gene_id "gene-QC764_208510"; gene_name "nop16"
+NC_085921.1	RefSeq	exon	3199252	3200170	.	-	.	transcript_id "rna-XM_062944559.1"; gene_id "gene-QC764_208510"; gene_name "nop16";
+NC_085921.1	RefSeq	exon	3200234	3200776	.	-	.	transcript_id "rna-XM_062944559.1"; gene_id "gene-QC764_208510"; gene_name "nop16";
+NC_085921.1	RefSeq	CDS	3199618	3200170	.	-	1	transcript_id "rna-XM_062944559.1"; gene_id "gene-QC764_208510"; gene_name "nop16";
+NC_085921.1	RefSeq	CDS	3200234	3200349	.	-	0	transcript_id "rna-XM_062944559.1"; gene_id "gene-QC764_208510"; gene_name "nop16";
+NC_085921.1	RefSeq	transcript	3280757	3282532	.	-	.	transcript_id "rna-XM_062944604.1"; gene_id "gene-QC764_208970"; gene_name "RRP9"
+NC_085921.1	RefSeq	exon	3280757	3282532	.	-	.	transcript_id "rna-XM_062944604.1"; gene_id "gene-QC764_208970"; gene_name "RRP9";
+NC_085921.1	RefSeq	CDS	3280757	3282532	.	-	0	transcript_id "rna-XM_062944604.1"; gene_id "gene-QC764_208970"; gene_name "RRP9";
+NC_085921.1	RefSeq	transcript	3301115	3302752	.	-	.	transcript_id "rna-XM_062944599.1"; gene_id "gene-QC764_208900"; gene_name "TRM61"
+NC_085921.1	RefSeq	exon	3301115	3302752	.	-	.	transcript_id "rna-XM_062944599.1"; gene_id "gene-QC764_208900"; gene_name "TRM61";
+NC_085921.1	RefSeq	CDS	3301115	3302752	.	-	0	transcript_id "rna-XM_062944599.1"; gene_id "gene-QC764_208900"; gene_name "TRM61";
+NC_085921.1	RefSeq	transcript	3462199	3462978	.	-	.	transcript_id "rna-XM_062944620.1"; gene_id "gene-QC764_209150"; gene_name "cwf16"
+NC_085921.1	RefSeq	exon	3462199	3462978	.	-	.	transcript_id "rna-XM_062944620.1"; gene_id "gene-QC764_209150"; gene_name "cwf16";
+NC_085921.1	RefSeq	CDS	3462199	3462978	.	-	0	transcript_id "rna-XM_062944620.1"; gene_id "gene-QC764_209150"; gene_name "cwf16";
+NC_085921.1	RefSeq	transcript	3491920	3494649	.	-	.	transcript_id "rna-XM_062944630.1"; gene_id "gene-QC764_209240"; gene_name "utp13"
+NC_085921.1	RefSeq	exon	3491920	3494649	.	-	.	transcript_id "rna-XM_062944630.1"; gene_id "gene-QC764_209240"; gene_name "utp13";
+NC_085921.1	RefSeq	CDS	3491920	3494649	.	-	0	transcript_id "rna-XM_062944630.1"; gene_id "gene-QC764_209240"; gene_name "utp13";
+NC_085921.1	RefSeq	transcript	3742850	3745083	.	-	.	transcript_id "rna-XM_062944713.1"; gene_id "gene-QC764_210040"; gene_name "DRE2"
+NC_085921.1	RefSeq	exon	3742850	3743437	.	-	.	transcript_id "rna-XM_062944713.1"; gene_id "gene-QC764_210040"; gene_name "DRE2";
+NC_085921.1	RefSeq	exon	3743495	3744502	.	-	.	transcript_id "rna-XM_062944713.1"; gene_id "gene-QC764_210040"; gene_name "DRE2";
+NC_085921.1	RefSeq	exon	3744590	3745083	.	-	.	transcript_id "rna-XM_062944713.1"; gene_id "gene-QC764_210040"; gene_name "DRE2";
+NC_085921.1	RefSeq	CDS	3743182	3743437	.	-	1	transcript_id "rna-XM_062944713.1"; gene_id "gene-QC764_210040"; gene_name "DRE2";
+NC_085921.1	RefSeq	CDS	3743495	3744276	.	-	0	transcript_id "rna-XM_062944713.1"; gene_id "gene-QC764_210040"; gene_name "DRE2";
+NC_085921.1	RefSeq	transcript	3908758	3910365	.	-	.	transcript_id "rna-XM_062944753.1"; gene_id "gene-QC764_210470"
+NC_085921.1	RefSeq	exon	3908758	3909563	.	-	.	transcript_id "rna-XM_062944753.1"; gene_id "gene-QC764_210470";
+NC_085921.1	RefSeq	exon	3909632	3910365	.	-	.	transcript_id "rna-XM_062944753.1"; gene_id "gene-QC764_210470";
+NC_085921.1	RefSeq	CDS	3908909	3909563	.	-	1	transcript_id "rna-XM_062944753.1"; gene_id "gene-QC764_210470";
+NC_085921.1	RefSeq	CDS	3909632	3910026	.	-	0	transcript_id "rna-XM_062944753.1"; gene_id "gene-QC764_210470";
+NC_085921.1	RefSeq	transcript	4019531	4022483	.	-	.	transcript_id "rna-XM_062944795.1"; gene_id "gene-QC764_210900"; gene_name "cbc1"
+NC_085921.1	RefSeq	exon	4019531	4020667	.	-	.	transcript_id "rna-XM_062944795.1"; gene_id "gene-QC764_210900"; gene_name "cbc1";
+NC_085921.1	RefSeq	exon	4020727	4022307	.	-	.	transcript_id "rna-XM_062944795.1"; gene_id "gene-QC764_210900"; gene_name "cbc1";
+NC_085921.1	RefSeq	exon	4022399	4022483	.	-	.	transcript_id "rna-XM_062944795.1"; gene_id "gene-QC764_210900"; gene_name "cbc1";
+NC_085921.1	RefSeq	CDS	4019751	4020667	.	-	2	transcript_id "rna-XM_062944795.1"; gene_id "gene-QC764_210900"; gene_name "cbc1";
+NC_085921.1	RefSeq	CDS	4020727	4022307	.	-	2	transcript_id "rna-XM_062944795.1"; gene_id "gene-QC764_210900"; gene_name "cbc1";
+NC_085921.1	RefSeq	CDS	4022399	4022483	.	-	0	transcript_id "rna-XM_062944795.1"; gene_id "gene-QC764_210900"; gene_name "cbc1";
+NC_085921.1	RefSeq	transcript	4305647	4306660	.	+	.	transcript_id "rna-XM_062944871.1"; gene_id "gene-QC764_211650"; gene_name "MED6"
+NC_085921.1	RefSeq	exon	4305647	4306081	.	+	.	transcript_id "rna-XM_062944871.1"; gene_id "gene-QC764_211650"; gene_name "MED6";
+NC_085921.1	RefSeq	exon	4306157	4306660	.	+	.	transcript_id "rna-XM_062944871.1"; gene_id "gene-QC764_211650"; gene_name "MED6";
+NC_085921.1	RefSeq	CDS	4305647	4306081	.	+	0	transcript_id "rna-XM_062944871.1"; gene_id "gene-QC764_211650"; gene_name "MED6";
+NC_085921.1	RefSeq	CDS	4306157	4306660	.	+	0	transcript_id "rna-XM_062944871.1"; gene_id "gene-QC764_211650"; gene_name "MED6";
+NC_085921.1	RefSeq	transcript	4347860	4350562	.	+	.	transcript_id "rna-XM_062944888.1"; gene_id "gene-QC764_211820"; gene_name "PWP2"
+NC_085921.1	RefSeq	exon	4347860	4350562	.	+	.	transcript_id "rna-XM_062944888.1"; gene_id "gene-QC764_211820"; gene_name "PWP2";
+NC_085921.1	RefSeq	CDS	4347860	4350562	.	+	0	transcript_id "rna-XM_062944888.1"; gene_id "gene-QC764_211820"; gene_name "PWP2";
+NC_085921.1	RefSeq	transcript	4511550	4512393	.	+	.	transcript_id "rna-XM_062944933.1"; gene_id "gene-QC764_212270"; gene_name "SPT4"
+NC_085921.1	RefSeq	exon	4511550	4512042	.	+	.	transcript_id "rna-XM_062944933.1"; gene_id "gene-QC764_212270"; gene_name "SPT4";
+NC_085921.1	RefSeq	exon	4512100	4512393	.	+	.	transcript_id "rna-XM_062944933.1"; gene_id "gene-QC764_212270"; gene_name "SPT4";
+NC_085921.1	RefSeq	CDS	4511708	4512042	.	+	0	transcript_id "rna-XM_062944933.1"; gene_id "gene-QC764_212270"; gene_name "SPT4";
+NC_085921.1	RefSeq	CDS	4512100	4512130	.	+	1	transcript_id "rna-XM_062944933.1"; gene_id "gene-QC764_212270"; gene_name "SPT4";
+NC_085921.1	RefSeq	transcript	4665607	4667313	.	-	.	transcript_id "rna-XM_062944979.1"; gene_id "gene-QC764_212710"; gene_name "GCD7"
+NC_085921.1	RefSeq	exon	4665607	4665700	.	-	.	transcript_id "rna-XM_062944979.1"; gene_id "gene-QC764_212710"; gene_name "GCD7";
+NC_085921.1	RefSeq	exon	4665765	4666850	.	-	.	transcript_id "rna-XM_062944979.1"; gene_id "gene-QC764_212710"; gene_name "GCD7";
+NC_085921.1	RefSeq	exon	4666914	4667313	.	-	.	transcript_id "rna-XM_062944979.1"; gene_id "gene-QC764_212710"; gene_name "GCD7";
+NC_085921.1	RefSeq	CDS	4665607	4665700	.	-	1	transcript_id "rna-XM_062944979.1"; gene_id "gene-QC764_212710"; gene_name "GCD7";
+NC_085921.1	RefSeq	CDS	4665765	4666850	.	-	1	transcript_id "rna-XM_062944979.1"; gene_id "gene-QC764_212710"; gene_name "GCD7";
+NC_085921.1	RefSeq	CDS	4666914	4667011	.	-	0	transcript_id "rna-XM_062944979.1"; gene_id "gene-QC764_212710"; gene_name "GCD7";
+NC_085921.1	RefSeq	transcript	4716870	4720643	.	-	.	transcript_id "rna-XM_062940323.1"; gene_id "gene-QC764_0044740"; gene_name "MCM2"
+NC_085921.1	RefSeq	exon	4716870	4717118	.	-	.	transcript_id "rna-XM_062940323.1"; gene_id "gene-QC764_0044740"; gene_name "MCM2";
+NC_085921.1	RefSeq	exon	4717185	4719552	.	-	.	transcript_id "rna-XM_062940323.1"; gene_id "gene-QC764_0044740"; gene_name "MCM2";
+NC_085921.1	RefSeq	exon	4719676	4720643	.	-	.	transcript_id "rna-XM_062940323.1"; gene_id "gene-QC764_0044740"; gene_name "MCM2";
+NC_085921.1	RefSeq	CDS	4716870	4717118	.	-	0	transcript_id "rna-XM_062940323.1"; gene_id "gene-QC764_0044740"; gene_name "MCM2";
+NC_085921.1	RefSeq	CDS	4717185	4719552	.	-	1	transcript_id "rna-XM_062940323.1"; gene_id "gene-QC764_0044740"; gene_name "MCM2";
+NC_085921.1	RefSeq	CDS	4719676	4719680	.	-	0	transcript_id "rna-XM_062940323.1"; gene_id "gene-QC764_0044740"; gene_name "MCM2";
+NC_085921.1	RefSeq	transcript	5023670	5027784	.	+	.	transcript_id "rna-XM_062945088.1"; gene_id "gene-QC764_213850"; gene_name "cyp6"
+NC_085921.1	RefSeq	exon	5023670	5024037	.	+	.	transcript_id "rna-XM_062945088.1"; gene_id "gene-QC764_213850"; gene_name "cyp6";
+NC_085921.1	RefSeq	exon	5024103	5027784	.	+	.	transcript_id "rna-XM_062945088.1"; gene_id "gene-QC764_213850"; gene_name "cyp6";
+NC_085921.1	RefSeq	CDS	5023958	5024037	.	+	0	transcript_id "rna-XM_062945088.1"; gene_id "gene-QC764_213850"; gene_name "cyp6";
+NC_085921.1	RefSeq	CDS	5024103	5025711	.	+	1	transcript_id "rna-XM_062945088.1"; gene_id "gene-QC764_213850"; gene_name "cyp6";
+NC_085922.1	RefSeq	transcript	440098	444263	.	-	.	transcript_id "rna-XM_062940358.1"; gene_id "gene-QC764_0047920"; gene_name "DBP7"
+NC_085922.1	RefSeq	exon	440098	440154	.	-	.	transcript_id "rna-XM_062940358.1"; gene_id "gene-QC764_0047920"; gene_name "DBP7";
+NC_085922.1	RefSeq	exon	440204	441423	.	-	.	transcript_id "rna-XM_062940358.1"; gene_id "gene-QC764_0047920"; gene_name "DBP7";
+NC_085922.1	RefSeq	exon	441769	444263	.	-	.	transcript_id "rna-XM_062940358.1"; gene_id "gene-QC764_0047920"; gene_name "DBP7";
+NC_085922.1	RefSeq	CDS	441324	441423	.	-	1	transcript_id "rna-XM_062940358.1"; gene_id "gene-QC764_0047920"; gene_name "DBP7";
+NC_085922.1	RefSeq	CDS	441769	444197	.	-	0	transcript_id "rna-XM_062940358.1"; gene_id "gene-QC764_0047920"; gene_name "DBP7";
+NC_085922.1	RefSeq	transcript	588888	591024	.	-	.	transcript_id "rna-XM_062945310.1"; gene_id "gene-QC764_301870"
+NC_085922.1	RefSeq	exon	588888	589707	.	-	.	transcript_id "rna-XM_062945310.1"; gene_id "gene-QC764_301870";
+NC_085922.1	RefSeq	exon	589778	590244	.	-	.	transcript_id "rna-XM_062945310.1"; gene_id "gene-QC764_301870";
+NC_085922.1	RefSeq	exon	590307	591024	.	-	.	transcript_id "rna-XM_062945310.1"; gene_id "gene-QC764_301870";
+NC_085922.1	RefSeq	CDS	589146	589707	.	-	1	transcript_id "rna-XM_062945310.1"; gene_id "gene-QC764_301870";
+NC_085922.1	RefSeq	CDS	589778	590244	.	-	0	transcript_id "rna-XM_062945310.1"; gene_id "gene-QC764_301870";
+NC_085922.1	RefSeq	CDS	590307	590360	.	-	0	transcript_id "rna-XM_062945310.1"; gene_id "gene-QC764_301870";
+NC_085922.1	RefSeq	transcript	1084624	1085505	.	-	.	transcript_id "rna-XM_062945427.1"; gene_id "gene-QC764_303080"; gene_name "TMA20"
+NC_085922.1	RefSeq	exon	1084624	1085435	.	-	.	transcript_id "rna-XM_062945427.1"; gene_id "gene-QC764_303080"; gene_name "TMA20";
+NC_085922.1	RefSeq	exon	1085489	1085505	.	-	.	transcript_id "rna-XM_062945427.1"; gene_id "gene-QC764_303080"; gene_name "TMA20";
+NC_085922.1	RefSeq	CDS	1084886	1085435	.	-	1	transcript_id "rna-XM_062945427.1"; gene_id "gene-QC764_303080"; gene_name "TMA20";
+NC_085922.1	RefSeq	CDS	1085489	1085505	.	-	0	transcript_id "rna-XM_062945427.1"; gene_id "gene-QC764_303080"; gene_name "TMA20";
+NC_085922.1	RefSeq	transcript	1219485	1221233	.	-	.	transcript_id "rna-XM_062945462.1"; gene_id "gene-QC764_303410"; gene_name "ALG7_2"
+NC_085922.1	RefSeq	exon	1219485	1220468	.	-	.	transcript_id "rna-XM_062945462.1"; gene_id "gene-QC764_303410"; gene_name "ALG7_2";
+NC_085922.1	RefSeq	exon	1220536	1221233	.	-	.	transcript_id "rna-XM_062945462.1"; gene_id "gene-QC764_303410"; gene_name "ALG7_2";
+NC_085922.1	RefSeq	CDS	1219485	1220468	.	-	0	transcript_id "rna-XM_062945462.1"; gene_id "gene-QC764_303410"; gene_name "ALG7_2";
+NC_085922.1	RefSeq	CDS	1220536	1220997	.	-	0	transcript_id "rna-XM_062945462.1"; gene_id "gene-QC764_303410"; gene_name "ALG7_2";
+NC_085922.1	RefSeq	transcript	1642137	1643222	.	+	.	transcript_id "rna-XM_062945581.1"; gene_id "gene-QC764_304640"; gene_name "CWC26"
+NC_085922.1	RefSeq	exon	1642137	1643222	.	+	.	transcript_id "rna-XM_062945581.1"; gene_id "gene-QC764_304640"; gene_name "CWC26";
+NC_085922.1	RefSeq	CDS	1642137	1643222	.	+	0	transcript_id "rna-XM_062945581.1"; gene_id "gene-QC764_304640"; gene_name "CWC26";
+NC_085922.1	RefSeq	transcript	1657225	1658769	.	+	.	transcript_id "rna-XM_062945586.1"; gene_id "gene-QC764_304680"; gene_name "LIA1"
+NC_085922.1	RefSeq	exon	1657225	1657910	.	+	.	transcript_id "rna-XM_062945586.1"; gene_id "gene-QC764_304680"; gene_name "LIA1";
+NC_085922.1	RefSeq	exon	1657994	1658769	.	+	.	transcript_id "rna-XM_062945586.1"; gene_id "gene-QC764_304680"; gene_name "LIA1";
+NC_085922.1	RefSeq	CDS	1657438	1657910	.	+	0	transcript_id "rna-XM_062945586.1"; gene_id "gene-QC764_304680"; gene_name "LIA1";
+NC_085922.1	RefSeq	CDS	1657994	1658501	.	+	1	transcript_id "rna-XM_062945586.1"; gene_id "gene-QC764_304680"; gene_name "LIA1";
+NC_085922.1	RefSeq	transcript	2381042	2384174	.	+	.	transcript_id "rna-XM_062945790.1"; gene_id "gene-QC764_306850"; gene_name "COX11"
+NC_085922.1	RefSeq	exon	2381042	2381578	.	+	.	transcript_id "rna-XM_062945790.1"; gene_id "gene-QC764_306850"; gene_name "COX11";
+NC_085922.1	RefSeq	exon	2381632	2382967	.	+	.	transcript_id "rna-XM_062945790.1"; gene_id "gene-QC764_306850"; gene_name "COX11";
+NC_085922.1	RefSeq	exon	2383076	2384174	.	+	.	transcript_id "rna-XM_062945790.1"; gene_id "gene-QC764_306850"; gene_name "COX11";
+NC_085922.1	RefSeq	CDS	2381042	2381578	.	+	0	transcript_id "rna-XM_062945790.1"; gene_id "gene-QC764_306850"; gene_name "COX11";
+NC_085922.1	RefSeq	CDS	2381632	2382117	.	+	0	transcript_id "rna-XM_062945790.1"; gene_id "gene-QC764_306850"; gene_name "COX11";
+NC_085922.1	RefSeq	transcript	2643969	2645611	.	-	.	transcript_id "rna-XM_062945870.1"; gene_id "gene-QC764_307620"; gene_name "DPH1"
+NC_085922.1	RefSeq	exon	2643969	2645138	.	-	.	transcript_id "rna-XM_062945870.1"; gene_id "gene-QC764_307620"; gene_name "DPH1";
+NC_085922.1	RefSeq	exon	2645190	2645611	.	-	.	transcript_id "rna-XM_062945870.1"; gene_id "gene-QC764_307620"; gene_name "DPH1";
+NC_085922.1	RefSeq	CDS	2643982	2645138	.	-	2	transcript_id "rna-XM_062945870.1"; gene_id "gene-QC764_307620"; gene_name "DPH1";
+NC_085922.1	RefSeq	CDS	2645190	2645382	.	-	0	transcript_id "rna-XM_062945870.1"; gene_id "gene-QC764_307620"; gene_name "DPH1";
+NC_085922.1	RefSeq	transcript	3018454	3019659	.	-	.	transcript_id "rna-XM_062945970.1"; gene_id "gene-QC764_308610"; gene_name "RRP42"
+NC_085922.1	RefSeq	exon	3018454	3019107	.	-	.	transcript_id "rna-XM_062945970.1"; gene_id "gene-QC764_308610"; gene_name "RRP42";
+NC_085922.1	RefSeq	exon	3019183	3019659	.	-	.	transcript_id "rna-XM_062945970.1"; gene_id "gene-QC764_308610"; gene_name "RRP42";
+NC_085922.1	RefSeq	CDS	3018454	3019107	.	-	0	transcript_id "rna-XM_062945970.1"; gene_id "gene-QC764_308610"; gene_name "RRP42";
+NC_085922.1	RefSeq	CDS	3019183	3019659	.	-	0	transcript_id "rna-XM_062945970.1"; gene_id "gene-QC764_308610"; gene_name "RRP42";
+NC_085922.1	RefSeq	transcript	3048502	3051173	.	+	.	transcript_id "rna-XM_062945982.1"; gene_id "gene-QC764_308730"; gene_name "TMA46"
+NC_085922.1	RefSeq	exon	3048502	3049350	.	+	.	transcript_id "rna-XM_062945982.1"; gene_id "gene-QC764_308730"; gene_name "TMA46";
+NC_085922.1	RefSeq	exon	3049403	3050798	.	+	.	transcript_id "rna-XM_062945982.1"; gene_id "gene-QC764_308730"; gene_name "TMA46";
+NC_085922.1	RefSeq	exon	3050871	3051173	.	+	.	transcript_id "rna-XM_062945982.1"; gene_id "gene-QC764_308730"; gene_name "TMA46";
+NC_085922.1	RefSeq	CDS	3048722	3049350	.	+	0	transcript_id "rna-XM_062945982.1"; gene_id "gene-QC764_308730"; gene_name "TMA46";
+NC_085922.1	RefSeq	CDS	3049403	3049838	.	+	1	transcript_id "rna-XM_062945982.1"; gene_id "gene-QC764_308730"; gene_name "TMA46";
+NC_085922.1	RefSeq	transcript	3120471	3122358	.	+	.	transcript_id "rna-XM_062945999.1"; gene_id "gene-QC764_308890"
+NC_085922.1	RefSeq	exon	3120471	3121021	.	+	.	transcript_id "rna-XM_062945999.1"; gene_id "gene-QC764_308890";
+NC_085922.1	RefSeq	exon	3121116	3122358	.	+	.	transcript_id "rna-XM_062945999.1"; gene_id "gene-QC764_308890";
+NC_085922.1	RefSeq	CDS	3120471	3121021	.	+	0	transcript_id "rna-XM_062945999.1"; gene_id "gene-QC764_308890";
+NC_085922.1	RefSeq	CDS	3121116	3122052	.	+	1	transcript_id "rna-XM_062945999.1"; gene_id "gene-QC764_308890";
+NC_085922.1	RefSeq	transcript	3389799	3392389	.	-	.	transcript_id "rna-XM_062946081.1"; gene_id "gene-QC764_309680"; gene_name "SDA1"
+NC_085922.1	RefSeq	exon	3389799	3391329	.	-	.	transcript_id "rna-XM_062946081.1"; gene_id "gene-QC764_309680"; gene_name "SDA1";
+NC_085922.1	RefSeq	exon	3391389	3392147	.	-	.	transcript_id "rna-XM_062946081.1"; gene_id "gene-QC764_309680"; gene_name "SDA1";
+NC_085922.1	RefSeq	exon	3392213	3392389	.	-	.	transcript_id "rna-XM_062946081.1"; gene_id "gene-QC764_309680"; gene_name "SDA1";
+NC_085922.1	RefSeq	CDS	3389916	3391329	.	-	1	transcript_id "rna-XM_062946081.1"; gene_id "gene-QC764_309680"; gene_name "SDA1";
+NC_085922.1	RefSeq	CDS	3391389	3392147	.	-	1	transcript_id "rna-XM_062946081.1"; gene_id "gene-QC764_309680"; gene_name "SDA1";
+NC_085922.1	RefSeq	CDS	3392213	3392295	.	-	0	transcript_id "rna-XM_062946081.1"; gene_id "gene-QC764_309680"; gene_name "SDA1";
+NC_085922.1	RefSeq	transcript	3430254	3433361	.	-	.	transcript_id "rna-XM_062946092.1"; gene_id "gene-QC764_309790"; gene_name "VPS11"
+NC_085922.1	RefSeq	exon	3430254	3432179	.	-	.	transcript_id "rna-XM_062946092.1"; gene_id "gene-QC764_309790"; gene_name "VPS11";
+NC_085922.1	RefSeq	exon	3432234	3433274	.	-	.	transcript_id "rna-XM_062946092.1"; gene_id "gene-QC764_309790"; gene_name "VPS11";
+NC_085922.1	RefSeq	exon	3433350	3433361	.	-	.	transcript_id "rna-XM_062946092.1"; gene_id "gene-QC764_309790"; gene_name "VPS11";
+NC_085922.1	RefSeq	CDS	3430254	3432179	.	-	0	transcript_id "rna-XM_062946092.1"; gene_id "gene-QC764_309790"; gene_name "VPS11";
+NC_085922.1	RefSeq	CDS	3432234	3433274	.	-	0	transcript_id "rna-XM_062946092.1"; gene_id "gene-QC764_309790"; gene_name "VPS11";
+NC_085922.1	RefSeq	CDS	3433350	3433361	.	-	0	transcript_id "rna-XM_062946092.1"; gene_id "gene-QC764_309790"; gene_name "VPS11";
+NC_085922.1	RefSeq	transcript	3502516	3505167	.	-	.	transcript_id "rna-XM_062946116.1"; gene_id "gene-QC764_310070"; gene_name "DBP6"
+NC_085922.1	RefSeq	exon	3502516	3505167	.	-	.	transcript_id "rna-XM_062946116.1"; gene_id "gene-QC764_310070"; gene_name "DBP6";
+NC_085922.1	RefSeq	CDS	3502516	3505167	.	-	0	transcript_id "rna-XM_062946116.1"; gene_id "gene-QC764_310070"; gene_name "DBP6";
+NC_085923.1	RefSeq	transcript	562804	564549	.	+	.	transcript_id "rna-XM_062946450.1"; gene_id "gene-QC764_401670"
+NC_085923.1	RefSeq	exon	562804	564549	.	+	.	transcript_id "rna-XM_062946450.1"; gene_id "gene-QC764_401670";
+NC_085923.1	RefSeq	CDS	562804	564549	.	+	0	transcript_id "rna-XM_062946450.1"; gene_id "gene-QC764_401670";
+NC_085923.1	RefSeq	transcript	967535	969415	.	+	.	transcript_id "rna-XM_062946531.1"; gene_id "gene-QC764_402520"; gene_name "SWC4"
+NC_085923.1	RefSeq	exon	967535	969415	.	+	.	transcript_id "rna-XM_062946531.1"; gene_id "gene-QC764_402520"; gene_name "SWC4";
+NC_085923.1	RefSeq	CDS	967535	969415	.	+	0	transcript_id "rna-XM_062946531.1"; gene_id "gene-QC764_402520"; gene_name "SWC4";
+NC_085923.1	RefSeq	transcript	986789	989092	.	-	.	transcript_id "rna-XM_062946536.1"; gene_id "gene-QC764_402560"; gene_name "MPP10"
+NC_085923.1	RefSeq	exon	986789	989092	.	-	.	transcript_id "rna-XM_062946536.1"; gene_id "gene-QC764_402560"; gene_name "MPP10";
+NC_085923.1	RefSeq	CDS	986789	989092	.	-	0	transcript_id "rna-XM_062946536.1"; gene_id "gene-QC764_402560"; gene_name "MPP10";
+NC_085923.1	RefSeq	transcript	1028103	1029176	.	-	.	transcript_id "rna-XM_062946546.1"; gene_id "gene-QC764_402660"; gene_name "rrp4"
+NC_085923.1	RefSeq	exon	1028103	1029176	.	-	.	transcript_id "rna-XM_062946546.1"; gene_id "gene-QC764_402660"; gene_name "rrp4";
+NC_085923.1	RefSeq	CDS	1028103	1029176	.	-	0	transcript_id "rna-XM_062946546.1"; gene_id "gene-QC764_402660"; gene_name "rrp4";
+NC_085923.1	RefSeq	transcript	1882146	1884948	.	-	.	transcript_id "rna-XM_062947238.1"; gene_id "gene-QC764_409510"; gene_name "COX15_2"
+NC_085923.1	RefSeq	exon	1882146	1884449	.	-	.	transcript_id "rna-XM_062947238.1"; gene_id "gene-QC764_409510"; gene_name "COX15_2";
+NC_085923.1	RefSeq	exon	1884517	1884948	.	-	.	transcript_id "rna-XM_062947238.1"; gene_id "gene-QC764_409510"; gene_name "COX15_2";
+NC_085923.1	RefSeq	CDS	1883312	1884449	.	-	1	transcript_id "rna-XM_062947238.1"; gene_id "gene-QC764_409510"; gene_name "COX15_2";
+NC_085923.1	RefSeq	CDS	1884517	1884869	.	-	0	transcript_id "rna-XM_062947238.1"; gene_id "gene-QC764_409510"; gene_name "COX15_2";
+NC_085923.1	RefSeq	transcript	2289808	2291745	.	+	.	transcript_id "rna-XM_062947119.1"; gene_id "gene-QC764_408340"
+NC_085923.1	RefSeq	exon	2289808	2291745	.	+	.	transcript_id "rna-XM_062947119.1"; gene_id "gene-QC764_408340";
+NC_085923.1	RefSeq	CDS	2289808	2291745	.	+	0	transcript_id "rna-XM_062947119.1"; gene_id "gene-QC764_408340";
+NC_085923.1	RefSeq	transcript	2459070	2461388	.	+	.	transcript_id "rna-XM_062947068.1"; gene_id "gene-QC764_407760"; gene_name "RAM1"
+NC_085923.1	RefSeq	exon	2459070	2460027	.	+	.	transcript_id "rna-XM_062947068.1"; gene_id "gene-QC764_407760"; gene_name "RAM1";
+NC_085923.1	RefSeq	exon	2460107	2460194	.	+	.	transcript_id "rna-XM_062947068.1"; gene_id "gene-QC764_407760"; gene_name "RAM1";
+NC_085923.1	RefSeq	exon	2460290	2460406	.	+	.	transcript_id "rna-XM_062947068.1"; gene_id "gene-QC764_407760"; gene_name "RAM1";
+NC_085923.1	RefSeq	exon	2460474	2461388	.	+	.	transcript_id "rna-XM_062947068.1"; gene_id "gene-QC764_407760"; gene_name "RAM1";
+NC_085923.1	RefSeq	CDS	2459338	2460027	.	+	0	transcript_id "rna-XM_062947068.1"; gene_id "gene-QC764_407760"; gene_name "RAM1";
+NC_085923.1	RefSeq	CDS	2460107	2460194	.	+	0	transcript_id "rna-XM_062947068.1"; gene_id "gene-QC764_407760"; gene_name "RAM1";
+NC_085923.1	RefSeq	CDS	2460290	2460406	.	+	2	transcript_id "rna-XM_062947068.1"; gene_id "gene-QC764_407760"; gene_name "RAM1";
+NC_085923.1	RefSeq	CDS	2460474	2461084	.	+	2	transcript_id "rna-XM_062947068.1"; gene_id "gene-QC764_407760"; gene_name "RAM1";
+NC_085923.1	RefSeq	transcript	2471473	2474815	.	-	.	transcript_id "rna-XM_062947064.1"; gene_id "gene-QC764_407720"; gene_name "HIR1"
+NC_085923.1	RefSeq	exon	2471473	2471609	.	-	.	transcript_id "rna-XM_062947064.1"; gene_id "gene-QC764_407720"; gene_name "HIR1";
+NC_085923.1	RefSeq	exon	2471669	2473423	.	-	.	transcript_id "rna-XM_062947064.1"; gene_id "gene-QC764_407720"; gene_name "HIR1";
+NC_085923.1	RefSeq	exon	2473442	2474698	.	-	.	transcript_id "rna-XM_062947064.1"; gene_id "gene-QC764_407720"; gene_name "HIR1";
+NC_085923.1	RefSeq	exon	2474779	2474815	.	-	.	transcript_id "rna-XM_062947064.1"; gene_id "gene-QC764_407720"; gene_name "HIR1";
+NC_085923.1	RefSeq	CDS	2471473	2471609	.	-	2	transcript_id "rna-XM_062947064.1"; gene_id "gene-QC764_407720"; gene_name "HIR1";
+NC_085923.1	RefSeq	CDS	2471669	2473423	.	-	2	transcript_id "rna-XM_062947064.1"; gene_id "gene-QC764_407720"; gene_name "HIR1";
+NC_085923.1	RefSeq	CDS	2473442	2474698	.	-	2	transcript_id "rna-XM_062947064.1"; gene_id "gene-QC764_407720"; gene_name "HIR1";
+NC_085923.1	RefSeq	CDS	2474779	2474815	.	-	0	transcript_id "rna-XM_062947064.1"; gene_id "gene-QC764_407720"; gene_name "HIR1";
+NC_085923.1	RefSeq	transcript	2931070	2934618	.	-	.	transcript_id "rna-XM_062946959.1"; gene_id "gene-QC764_406680"; gene_name "ENP2"
+NC_085923.1	RefSeq	exon	2931070	2933976	.	-	.	transcript_id "rna-XM_062946959.1"; gene_id "gene-QC764_406680"; gene_name "ENP2";
+NC_085923.1	RefSeq	exon	2934048	2934618	.	-	.	transcript_id "rna-XM_062946959.1"; gene_id "gene-QC764_406680"; gene_name "ENP2";
+NC_085923.1	RefSeq	CDS	2932062	2933976	.	-	1	transcript_id "rna-XM_062946959.1"; gene_id "gene-QC764_406680"; gene_name "ENP2";
+NC_085923.1	RefSeq	CDS	2934048	2934079	.	-	0	transcript_id "rna-XM_062946959.1"; gene_id "gene-QC764_406680"; gene_name "ENP2";
+NC_085924.1	RefSeq	transcript	110573	112890	.	-	.	transcript_id "rna-XM_062947542.1"; gene_id "gene-QC764_502800"; gene_name "TRM6"
+NC_085924.1	RefSeq	exon	110573	112610	.	-	.	transcript_id "rna-XM_062947542.1"; gene_id "gene-QC764_502800"; gene_name "TRM6";
+NC_085924.1	RefSeq	exon	112693	112890	.	-	.	transcript_id "rna-XM_062947542.1"; gene_id "gene-QC764_502800"; gene_name "TRM6";
+NC_085924.1	RefSeq	CDS	110642	112610	.	-	1	transcript_id "rna-XM_062947542.1"; gene_id "gene-QC764_502800"; gene_name "TRM6";
+NC_085924.1	RefSeq	CDS	112693	112778	.	-	0	transcript_id "rna-XM_062947542.1"; gene_id "gene-QC764_502800"; gene_name "TRM6";
+NC_085924.1	RefSeq	transcript	2159073	2160001	.	-	.	transcript_id "rna-XM_062947806.1"; gene_id "gene-QC764_505520"; gene_name "GAR1_2"
+NC_085924.1	RefSeq	exon	2159073	2159498	.	-	.	transcript_id "rna-XM_062947806.1"; gene_id "gene-QC764_505520"; gene_name "GAR1_2";
+NC_085924.1	RefSeq	exon	2159577	2159728	.	-	.	transcript_id "rna-XM_062947806.1"; gene_id "gene-QC764_505520"; gene_name "GAR1_2";
+NC_085924.1	RefSeq	exon	2159802	2160001	.	-	.	transcript_id "rna-XM_062947806.1"; gene_id "gene-QC764_505520"; gene_name "GAR1_2";
+NC_085924.1	RefSeq	CDS	2159073	2159498	.	-	0	transcript_id "rna-XM_062947806.1"; gene_id "gene-QC764_505520"; gene_name "GAR1_2";
+NC_085924.1	RefSeq	CDS	2159577	2159728	.	-	2	transcript_id "rna-XM_062947806.1"; gene_id "gene-QC764_505520"; gene_name "GAR1_2";
+NC_085924.1	RefSeq	CDS	2159802	2159865	.	-	0	transcript_id "rna-XM_062947806.1"; gene_id "gene-QC764_505520"; gene_name "GAR1_2";
+NC_085924.1	RefSeq	transcript	2169450	2171705	.	+	.	transcript_id "rna-XM_062947810.1"; gene_id "gene-QC764_505560"; gene_name "COG6"
+NC_085924.1	RefSeq	exon	2169450	2169836	.	+	.	transcript_id "rna-XM_062947810.1"; gene_id "gene-QC764_505560"; gene_name "COG6";
+NC_085924.1	RefSeq	exon	2169903	2171705	.	+	.	transcript_id "rna-XM_062947810.1"; gene_id "gene-QC764_505560"; gene_name "COG6";
+NC_085924.1	RefSeq	CDS	2169450	2169836	.	+	0	transcript_id "rna-XM_062947810.1"; gene_id "gene-QC764_505560"; gene_name "COG6";
+NC_085924.1	RefSeq	CDS	2169903	2171705	.	+	0	transcript_id "rna-XM_062947810.1"; gene_id "gene-QC764_505560"; gene_name "COG6";
+NC_085924.1	RefSeq	transcript	3319481	3320893	.	+	.	transcript_id "rna-XM_062948046.1"; gene_id "gene-QC764_507920"; gene_name "COG5"
+NC_085924.1	RefSeq	exon	3319481	3320893	.	+	.	transcript_id "rna-XM_062948046.1"; gene_id "gene-QC764_507920"; gene_name "COG5";
+NC_085924.1	RefSeq	CDS	3319481	3320893	.	+	0	transcript_id "rna-XM_062948046.1"; gene_id "gene-QC764_507920"; gene_name "COG5";
+NC_085924.1	RefSeq	transcript	3471956	3473209	.	-	.	transcript_id "rna-XM_062948090.1"; gene_id "gene-QC764_508350"; gene_name "TSR3"
+NC_085924.1	RefSeq	exon	3471956	3473209	.	-	.	transcript_id "rna-XM_062948090.1"; gene_id "gene-QC764_508350"; gene_name "TSR3";
+NC_085924.1	RefSeq	CDS	3471956	3473209	.	-	0	transcript_id "rna-XM_062948090.1"; gene_id "gene-QC764_508350"; gene_name "TSR3";
+NC_085924.1	RefSeq	transcript	3808677	3811049	.	-	.	transcript_id "rna-XM_062948181.1"; gene_id "gene-QC764_509290"; gene_name "COG3"
+NC_085924.1	RefSeq	exon	3808677	3809090	.	-	.	transcript_id "rna-XM_062948181.1"; gene_id "gene-QC764_509290"; gene_name "COG3";
+NC_085924.1	RefSeq	exon	3809160	3810749	.	-	.	transcript_id "rna-XM_062948181.1"; gene_id "gene-QC764_509290"; gene_name "COG3";
+NC_085924.1	RefSeq	exon	3810821	3811049	.	-	.	transcript_id "rna-XM_062948181.1"; gene_id "gene-QC764_509290"; gene_name "COG3";
+NC_085924.1	RefSeq	CDS	3808677	3809090	.	-	0	transcript_id "rna-XM_062948181.1"; gene_id "gene-QC764_509290"; gene_name "COG3";
+NC_085924.1	RefSeq	CDS	3809160	3810749	.	-	0	transcript_id "rna-XM_062948181.1"; gene_id "gene-QC764_509290"; gene_name "COG3";
+NC_085924.1	RefSeq	CDS	3810821	3810928	.	-	0	transcript_id "rna-XM_062948181.1"; gene_id "gene-QC764_509290"; gene_name "COG3";
+NC_085925.1	RefSeq	transcript	239771	242094	.	-	.	transcript_id "rna-XM_062949658.1"; gene_id "gene-QC764_611820"
+NC_085925.1	RefSeq	exon	239771	240633	.	-	.	transcript_id "rna-XM_062949658.1"; gene_id "gene-QC764_611820";
+NC_085925.1	RefSeq	exon	240696	242094	.	-	.	transcript_id "rna-XM_062949658.1"; gene_id "gene-QC764_611820";
+NC_085925.1	RefSeq	CDS	240081	240633	.	-	1	transcript_id "rna-XM_062949658.1"; gene_id "gene-QC764_611820";
+NC_085925.1	RefSeq	CDS	240696	241411	.	-	0	transcript_id "rna-XM_062949658.1"; gene_id "gene-QC764_611820";
+NC_085925.1	RefSeq	transcript	819686	825643	.	-	.	transcript_id "rna-XM_062949019.1"; gene_id "gene-QC764_605150"; gene_name "SPB4"
+NC_085925.1	RefSeq	exon	819686	821534	.	-	.	transcript_id "rna-XM_062949019.1"; gene_id "gene-QC764_605150"; gene_name "SPB4";
+NC_085925.1	RefSeq	exon	821595	825643	.	-	.	transcript_id "rna-XM_062949019.1"; gene_id "gene-QC764_605150"; gene_name "SPB4";
+NC_085925.1	RefSeq	CDS	819723	821534	.	-	0	transcript_id "rna-XM_062949019.1"; gene_id "gene-QC764_605150"; gene_name "SPB4";
+NC_085925.1	RefSeq	CDS	821595	821819	.	-	0	transcript_id "rna-XM_062949019.1"; gene_id "gene-QC764_605150"; gene_name "SPB4";
+NC_085925.1	RefSeq	transcript	936079	937563	.	+	.	transcript_id "rna-XM_062949043.1"; gene_id "gene-QC764_605370"; gene_name "prp3"
+NC_085925.1	RefSeq	exon	936079	937563	.	+	.	transcript_id "rna-XM_062949043.1"; gene_id "gene-QC764_605370"; gene_name "prp3";
+NC_085925.1	RefSeq	CDS	936079	937563	.	+	0	transcript_id "rna-XM_062949043.1"; gene_id "gene-QC764_605370"; gene_name "prp3";
+NC_085925.1	RefSeq	transcript	1029375	1031360	.	+	.	transcript_id "rna-XM_062949062.1"; gene_id "gene-QC764_605570"; gene_name "TFB1"
+NC_085925.1	RefSeq	exon	1029375	1031360	.	+	.	transcript_id "rna-XM_062949062.1"; gene_id "gene-QC764_605570"; gene_name "TFB1";
+NC_085925.1	RefSeq	CDS	1029375	1031360	.	+	0	transcript_id "rna-XM_062949062.1"; gene_id "gene-QC764_605570"; gene_name "TFB1";
+NC_085925.1	RefSeq	transcript	1360135	1364474	.	+	.	transcript_id "rna-XM_062940929.1"; gene_id "gene-QC764_0091740"; gene_name "ENP1"
+NC_085925.1	RefSeq	exon	1360135	1360948	.	+	.	transcript_id "rna-XM_062940929.1"; gene_id "gene-QC764_0091740"; gene_name "ENP1";
+NC_085925.1	RefSeq	exon	1361050	1361480	.	+	.	transcript_id "rna-XM_062940929.1"; gene_id "gene-QC764_0091740"; gene_name "ENP1";
+NC_085925.1	RefSeq	exon	1363273	1363519	.	+	.	transcript_id "rna-XM_062940929.1"; gene_id "gene-QC764_0091740"; gene_name "ENP1";
+NC_085925.1	RefSeq	exon	1363585	1363622	.	+	.	transcript_id "rna-XM_062940929.1"; gene_id "gene-QC764_0091740"; gene_name "ENP1";
+NC_085925.1	RefSeq	exon	1363682	1364257	.	+	.	transcript_id "rna-XM_062940929.1"; gene_id "gene-QC764_0091740"; gene_name "ENP1";
+NC_085925.1	RefSeq	exon	1364308	1364474	.	+	.	transcript_id "rna-XM_062940929.1"; gene_id "gene-QC764_0091740"; gene_name "ENP1";
+NC_085925.1	RefSeq	CDS	1360315	1360948	.	+	0	transcript_id "rna-XM_062940929.1"; gene_id "gene-QC764_0091740"; gene_name "ENP1";
+NC_085925.1	RefSeq	CDS	1361050	1361480	.	+	2	transcript_id "rna-XM_062940929.1"; gene_id "gene-QC764_0091740"; gene_name "ENP1";
+NC_085925.1	RefSeq	CDS	1363273	1363519	.	+	0	transcript_id "rna-XM_062940929.1"; gene_id "gene-QC764_0091740"; gene_name "ENP1";
+NC_085925.1	RefSeq	CDS	1363585	1363622	.	+	2	transcript_id "rna-XM_062940929.1"; gene_id "gene-QC764_0091740"; gene_name "ENP1";
+NC_085925.1	RefSeq	CDS	1363682	1364257	.	+	0	transcript_id "rna-XM_062940929.1"; gene_id "gene-QC764_0091740"; gene_name "ENP1";
+NC_085925.1	RefSeq	CDS	1364308	1364421	.	+	0	transcript_id "rna-XM_062940929.1"; gene_id "gene-QC764_0091740"; gene_name "ENP1";
+NC_085925.1	RefSeq	transcript	1724563	1726928	.	-	.	transcript_id "rna-XM_062948758.1"; gene_id "gene-QC764_602540"; gene_name "SRP68"
+NC_085925.1	RefSeq	exon	1724563	1725115	.	-	.	transcript_id "rna-XM_062948758.1"; gene_id "gene-QC764_602540"; gene_name "SRP68";
+NC_085925.1	RefSeq	exon	1725169	1726320	.	-	.	transcript_id "rna-XM_062948758.1"; gene_id "gene-QC764_602540"; gene_name "SRP68";
+NC_085925.1	RefSeq	exon	1726386	1726928	.	-	.	transcript_id "rna-XM_062948758.1"; gene_id "gene-QC764_602540"; gene_name "SRP68";
+NC_085925.1	RefSeq	CDS	1724563	1725115	.	-	1	transcript_id "rna-XM_062948758.1"; gene_id "gene-QC764_602540"; gene_name "SRP68";
+NC_085925.1	RefSeq	CDS	1725169	1726320	.	-	1	transcript_id "rna-XM_062948758.1"; gene_id "gene-QC764_602540"; gene_name "SRP68";
+NC_085925.1	RefSeq	CDS	1726386	1726693	.	-	0	transcript_id "rna-XM_062948758.1"; gene_id "gene-QC764_602540"; gene_name "SRP68";
+NC_085925.1	RefSeq	transcript	1932050	1933488	.	+	.	transcript_id "rna-XM_062948694.1"; gene_id "gene-QC764_601800"; gene_name "BCP1"
+NC_085925.1	RefSeq	exon	1932050	1932609	.	+	.	transcript_id "rna-XM_062948694.1"; gene_id "gene-QC764_601800"; gene_name "BCP1";
+NC_085925.1	RefSeq	exon	1932668	1933488	.	+	.	transcript_id "rna-XM_062948694.1"; gene_id "gene-QC764_601800"; gene_name "BCP1";
+NC_085925.1	RefSeq	CDS	1932499	1932609	.	+	0	transcript_id "rna-XM_062948694.1"; gene_id "gene-QC764_601800"; gene_name "BCP1";
+NC_085925.1	RefSeq	CDS	1932668	1933477	.	+	0	transcript_id "rna-XM_062948694.1"; gene_id "gene-QC764_601800"; gene_name "BCP1";
+NC_085925.1	RefSeq	transcript	2069520	2070572	.	-	.	transcript_id "rna-XM_062948652.1"; gene_id "gene-QC764_601360"; gene_name "ETF1"
+NC_085925.1	RefSeq	exon	2069520	2070572	.	-	.	transcript_id "rna-XM_062948652.1"; gene_id "gene-QC764_601360"; gene_name "ETF1";
+NC_085925.1	RefSeq	CDS	2069520	2070572	.	-	0	transcript_id "rna-XM_062948652.1"; gene_id "gene-QC764_601360"; gene_name "ETF1";
+NC_085925.1	RefSeq	transcript	2737112	2739325	.	+	.	transcript_id "rna-XM_062949179.1"; gene_id "gene-QC764_606770"; gene_name "ESF1"
+NC_085925.1	RefSeq	exon	2737112	2739325	.	+	.	transcript_id "rna-XM_062949179.1"; gene_id "gene-QC764_606770"; gene_name "ESF1";
+NC_085925.1	RefSeq	CDS	2737112	2739325	.	+	0	transcript_id "rna-XM_062949179.1"; gene_id "gene-QC764_606770"; gene_name "ESF1";
+NC_085925.1	RefSeq	transcript	2845073	2846665	.	+	.	transcript_id "rna-XM_062949210.1"; gene_id "gene-QC764_607070"
+NC_085925.1	RefSeq	exon	2845073	2845369	.	+	.	transcript_id "rna-XM_062949210.1"; gene_id "gene-QC764_607070";
+NC_085925.1	RefSeq	exon	2845426	2846665	.	+	.	transcript_id "rna-XM_062949210.1"; gene_id "gene-QC764_607070";
+NC_085925.1	RefSeq	CDS	2845132	2845369	.	+	0	transcript_id "rna-XM_062949210.1"; gene_id "gene-QC764_607070";
+NC_085925.1	RefSeq	CDS	2845426	2846534	.	+	2	transcript_id "rna-XM_062949210.1"; gene_id "gene-QC764_607070";
+NC_085925.1	RefSeq	transcript	3510103	3512374	.	+	.	transcript_id "rna-XM_062949371.1"; gene_id "gene-QC764_608960"
+NC_085925.1	RefSeq	exon	3510103	3510711	.	+	.	transcript_id "rna-XM_062949371.1"; gene_id "gene-QC764_608960";
+NC_085925.1	RefSeq	exon	3510791	3511216	.	+	.	transcript_id "rna-XM_062949371.1"; gene_id "gene-QC764_608960";
+NC_085925.1	RefSeq	exon	3511270	3511821	.	+	.	transcript_id "rna-XM_062949371.1"; gene_id "gene-QC764_608960";
+NC_085925.1	RefSeq	exon	3511876	3512374	.	+	.	transcript_id "rna-XM_062949371.1"; gene_id "gene-QC764_608960";
+NC_085925.1	RefSeq	CDS	3510103	3510711	.	+	0	transcript_id "rna-XM_062949371.1"; gene_id "gene-QC764_608960";
+NC_085925.1	RefSeq	CDS	3510791	3511216	.	+	0	transcript_id "rna-XM_062949371.1"; gene_id "gene-QC764_608960";
+NC_085925.1	RefSeq	CDS	3511270	3511821	.	+	0	transcript_id "rna-XM_062949371.1"; gene_id "gene-QC764_608960";
+NC_085925.1	RefSeq	CDS	3511876	3511944	.	+	0	transcript_id "rna-XM_062949371.1"; gene_id "gene-QC764_608960";
+NC_085925.1	RefSeq	transcript	3542466	3543212	.	-	.	transcript_id "rna-XM_062949380.1"; gene_id "gene-QC764_609040"; gene_name "sap62"
+NC_085925.1	RefSeq	exon	3542466	3543212	.	-	.	transcript_id "rna-XM_062949380.1"; gene_id "gene-QC764_609040"; gene_name "sap62";
+NC_085925.1	RefSeq	CDS	3542466	3543212	.	-	0	transcript_id "rna-XM_062949380.1"; gene_id "gene-QC764_609040"; gene_name "sap62";
+NC_085925.1	RefSeq	transcript	3625860	3626723	.	-	.	transcript_id "rna-XM_062949407.1"; gene_id "gene-QC764_609290"; gene_name "DPH5"
+NC_085925.1	RefSeq	exon	3625860	3626723	.	-	.	transcript_id "rna-XM_062949407.1"; gene_id "gene-QC764_609290"; gene_name "DPH5";
+NC_085925.1	RefSeq	CDS	3625860	3626723	.	-	0	transcript_id "rna-XM_062949407.1"; gene_id "gene-QC764_609290"; gene_name "DPH5";
+NC_085925.1	RefSeq	transcript	3627012	3627845	.	+	.	transcript_id "rna-XM_062949408.1"; gene_id "gene-QC764_609300"; gene_name "SNU23"
+NC_085925.1	RefSeq	exon	3627012	3627611	.	+	.	transcript_id "rna-XM_062949408.1"; gene_id "gene-QC764_609300"; gene_name "SNU23";
+NC_085925.1	RefSeq	exon	3627720	3627845	.	+	.	transcript_id "rna-XM_062949408.1"; gene_id "gene-QC764_609300"; gene_name "SNU23";
+NC_085925.1	RefSeq	CDS	3627135	3627611	.	+	0	transcript_id "rna-XM_062949408.1"; gene_id "gene-QC764_609300"; gene_name "SNU23";
+NC_085925.1	RefSeq	CDS	3627720	3627845	.	+	0	transcript_id "rna-XM_062949408.1"; gene_id "gene-QC764_609300"; gene_name "SNU23";
+NW_026946671.1	RefSeq	transcript	244776	247018	.	-	.	transcript_id "rna-XM_062950385.1"; gene_id "gene-QC764_707680"; gene_name "FYV10"
+NW_026946671.1	RefSeq	exon	244776	246353	.	-	.	transcript_id "rna-XM_062950385.1"; gene_id "gene-QC764_707680"; gene_name "FYV10";
+NW_026946671.1	RefSeq	exon	246455	247018	.	-	.	transcript_id "rna-XM_062950385.1"; gene_id "gene-QC764_707680"; gene_name "FYV10";
+NW_026946671.1	RefSeq	CDS	245121	246353	.	-	0	transcript_id "rna-XM_062950385.1"; gene_id "gene-QC764_707680"; gene_name "FYV10";
+NW_026946671.1	RefSeq	CDS	246455	246670	.	-	0	transcript_id "rna-XM_062950385.1"; gene_id "gene-QC764_707680"; gene_name "FYV10";
+NW_026946671.1	RefSeq	transcript	287059	288779	.	-	.	transcript_id "rna-XM_062950396.1"; gene_id "gene-QC764_707790"; gene_name "MRT4"
+NW_026946671.1	RefSeq	exon	287059	288311	.	-	.	transcript_id "rna-XM_062950396.1"; gene_id "gene-QC764_707790"; gene_name "MRT4";
+NW_026946671.1	RefSeq	exon	288403	288779	.	-	.	transcript_id "rna-XM_062950396.1"; gene_id "gene-QC764_707790"; gene_name "MRT4";
+NW_026946671.1	RefSeq	CDS	287645	288311	.	-	1	transcript_id "rna-XM_062950396.1"; gene_id "gene-QC764_707790"; gene_name "MRT4";
+NW_026946671.1	RefSeq	CDS	288403	288593	.	-	0	transcript_id "rna-XM_062950396.1"; gene_id "gene-QC764_707790"; gene_name "MRT4";
+NW_026946671.1	RefSeq	transcript	291788	292641	.	+	.	transcript_id "rna-XM_062950398.1"; gene_id "gene-QC764_707810"; gene_name "MRPL51"
+NW_026946671.1	RefSeq	exon	291788	291944	.	+	.	transcript_id "rna-XM_062950398.1"; gene_id "gene-QC764_707810"; gene_name "MRPL51";
+NW_026946671.1	RefSeq	exon	292003	292085	.	+	.	transcript_id "rna-XM_062950398.1"; gene_id "gene-QC764_707810"; gene_name "MRPL51";
+NW_026946671.1	RefSeq	exon	292144	292641	.	+	.	transcript_id "rna-XM_062950398.1"; gene_id "gene-QC764_707810"; gene_name "MRPL51";
+NW_026946671.1	RefSeq	CDS	291906	291944	.	+	0	transcript_id "rna-XM_062950398.1"; gene_id "gene-QC764_707810"; gene_name "MRPL51";
+NW_026946671.1	RefSeq	CDS	292003	292085	.	+	0	transcript_id "rna-XM_062950398.1"; gene_id "gene-QC764_707810"; gene_name "MRPL51";
+NW_026946671.1	RefSeq	CDS	292144	292435	.	+	1	transcript_id "rna-XM_062950398.1"; gene_id "gene-QC764_707810"; gene_name "MRPL51";
+NW_026946671.1	RefSeq	transcript	1080453	1082329	.	-	.	transcript_id "rna-XM_062950621.1"; gene_id "gene-QC764_710020"; gene_name "HAT1"
+NW_026946671.1	RefSeq	exon	1080453	1081960	.	-	.	transcript_id "rna-XM_062950621.1"; gene_id "gene-QC764_710020"; gene_name "HAT1";
+NW_026946671.1	RefSeq	exon	1082029	1082329	.	-	.	transcript_id "rna-XM_062950621.1"; gene_id "gene-QC764_710020"; gene_name "HAT1";
+NW_026946671.1	RefSeq	CDS	1080453	1081960	.	-	2	transcript_id "rna-XM_062950621.1"; gene_id "gene-QC764_710020"; gene_name "HAT1";
+NW_026946671.1	RefSeq	CDS	1082029	1082050	.	-	0	transcript_id "rna-XM_062950621.1"; gene_id "gene-QC764_710020"; gene_name "HAT1";
+NW_026946671.1	RefSeq	transcript	1521393	1523081	.	+	.	transcript_id "rna-XM_062950744.1"; gene_id "gene-QC764_711220"; gene_name "MAK11"
+NW_026946671.1	RefSeq	exon	1521393	1523081	.	+	.	transcript_id "rna-XM_062950744.1"; gene_id "gene-QC764_711220"; gene_name "MAK11";
+NW_026946671.1	RefSeq	CDS	1521393	1523081	.	+	0	transcript_id "rna-XM_062950744.1"; gene_id "gene-QC764_711220"; gene_name "MAK11";
+NW_026946671.1	RefSeq	transcript	1589875	1590696	.	+	.	transcript_id "rna-XM_062950760.1"; gene_id "gene-QC764_711390"; gene_name "dot2"
+NW_026946671.1	RefSeq	exon	1589875	1590696	.	+	.	transcript_id "rna-XM_062950760.1"; gene_id "gene-QC764_711390"; gene_name "dot2";
+NW_026946671.1	RefSeq	CDS	1589875	1590696	.	+	0	transcript_id "rna-XM_062950760.1"; gene_id "gene-QC764_711390"; gene_name "dot2";
+NW_026946671.1	RefSeq	transcript	1860302	1861519	.	+	.	transcript_id "rna-XM_062949787.1"; gene_id "gene-QC764_701210"; gene_name "DOM34"
+NW_026946671.1	RefSeq	exon	1860302	1861519	.	+	.	transcript_id "rna-XM_062949787.1"; gene_id "gene-QC764_701210"; gene_name "DOM34";
+NW_026946671.1	RefSeq	CDS	1860302	1861519	.	+	0	transcript_id "rna-XM_062949787.1"; gene_id "gene-QC764_701210"; gene_name "DOM34";
+NW_026946672.1	RefSeq	transcript	940673	942159	.	-	.	transcript_id "rna-XM_062949900.1"; gene_id "gene-QC764_702370"; gene_name "MSW1"
+NW_026946672.1	RefSeq	exon	940673	941498	.	-	.	transcript_id "rna-XM_062949900.1"; gene_id "gene-QC764_702370"; gene_name "MSW1";
+NW_026946672.1	RefSeq	exon	941553	941936	.	-	.	transcript_id "rna-XM_062949900.1"; gene_id "gene-QC764_702370"; gene_name "MSW1";
+NW_026946672.1	RefSeq	exon	942000	942159	.	-	.	transcript_id "rna-XM_062949900.1"; gene_id "gene-QC764_702370"; gene_name "MSW1";
+NW_026946672.1	RefSeq	CDS	940773	941498	.	-	0	transcript_id "rna-XM_062949900.1"; gene_id "gene-QC764_702370"; gene_name "MSW1";
+NW_026946672.1	RefSeq	CDS	941553	941936	.	-	0	transcript_id "rna-XM_062949900.1"; gene_id "gene-QC764_702370"; gene_name "MSW1";
+NW_026946672.1	RefSeq	CDS	942000	942098	.	-	0	transcript_id "rna-XM_062949900.1"; gene_id "gene-QC764_702370"; gene_name "MSW1";
+NW_026946672.1	RefSeq	transcript	1202259	1204310	.	-	.	transcript_id "rna-XM_062949833.1"; gene_id "gene-QC764_701700"
+NW_026946672.1	RefSeq	exon	1202259	1204310	.	-	.	transcript_id "rna-XM_062949833.1"; gene_id "gene-QC764_701700";
+NW_026946672.1	RefSeq	CDS	1202259	1204310	.	-	0	transcript_id "rna-XM_062949833.1"; gene_id "gene-QC764_701700";
+NW_026946672.1	RefSeq	transcript	1211322	1212417	.	-	.	transcript_id "rna-XM_062949830.1"; gene_id "gene-QC764_701660"; gene_name "CWC15"
+NW_026946672.1	RefSeq	exon	1211322	1212210	.	-	.	transcript_id "rna-XM_062949830.1"; gene_id "gene-QC764_701660"; gene_name "CWC15";
+NW_026946672.1	RefSeq	exon	1212263	1212417	.	-	.	transcript_id "rna-XM_062949830.1"; gene_id "gene-QC764_701660"; gene_name "CWC15";
+NW_026946672.1	RefSeq	CDS	1211491	1212210	.	-	0	transcript_id "rna-XM_062949830.1"; gene_id "gene-QC764_701660"; gene_name "CWC15";
+NW_026946672.1	RefSeq	CDS	1212263	1212295	.	-	0	transcript_id "rna-XM_062949830.1"; gene_id "gene-QC764_701660"; gene_name "CWC15";
+NW_026946672.1	RefSeq	transcript	1504975	1507556	.	-	.	transcript_id "rna-XM_062950247.1"; gene_id "gene-QC764_705970"
+NW_026946672.1	RefSeq	exon	1504975	1505650	.	-	.	transcript_id "rna-XM_062950247.1"; gene_id "gene-QC764_705970";
+NW_026946672.1	RefSeq	exon	1505716	1506753	.	-	.	transcript_id "rna-XM_062950247.1"; gene_id "gene-QC764_705970";
+NW_026946672.1	RefSeq	exon	1506836	1507556	.	-	.	transcript_id "rna-XM_062950247.1"; gene_id "gene-QC764_705970";
+NW_026946672.1	RefSeq	CDS	1505567	1505650	.	-	0	transcript_id "rna-XM_062950247.1"; gene_id "gene-QC764_705970";
+NW_026946672.1	RefSeq	CDS	1505716	1506753	.	-	0	transcript_id "rna-XM_062950247.1"; gene_id "gene-QC764_705970";
+NW_026946672.1	RefSeq	CDS	1506836	1507144	.	-	0	transcript_id "rna-XM_062950247.1"; gene_id "gene-QC764_705970";
