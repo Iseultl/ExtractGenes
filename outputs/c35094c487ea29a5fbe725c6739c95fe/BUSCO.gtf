@@ -1,0 +1,754 @@
+NC_089415.1	RefSeq	transcript	1584762	1587117	.	+	.	transcript_id "rna-XM_024903261.2"; gene_id "gene-TrAFT101_000488"
+NC_089415.1	RefSeq	exon	1584762	1585335	.	+	.	transcript_id "rna-XM_024903261.2"; gene_id "gene-TrAFT101_000488";
+NC_089415.1	RefSeq	exon	1585526	1587117	.	+	.	transcript_id "rna-XM_024903261.2"; gene_id "gene-TrAFT101_000488";
+NC_089415.1	RefSeq	CDS	1585141	1585335	.	+	0	transcript_id "rna-XM_024903261.2"; gene_id "gene-TrAFT101_000488";
+NC_089415.1	RefSeq	CDS	1585526	1586458	.	+	0	transcript_id "rna-XM_024903261.2"; gene_id "gene-TrAFT101_000488";
+NC_089415.1	RefSeq	transcript	1669727	1670851	.	-	.	transcript_id "rna-XM_024899148.2"; gene_id "gene-TrAFT101_000510"
+NC_089415.1	RefSeq	exon	1669727	1670490	.	-	.	transcript_id "rna-XM_024899148.2"; gene_id "gene-TrAFT101_000510";
+NC_089415.1	RefSeq	exon	1670570	1670851	.	-	.	transcript_id "rna-XM_024899148.2"; gene_id "gene-TrAFT101_000510";
+NC_089415.1	RefSeq	CDS	1669951	1670490	.	-	0	transcript_id "rna-XM_024899148.2"; gene_id "gene-TrAFT101_000510";
+NC_089415.1	RefSeq	CDS	1670570	1670767	.	-	0	transcript_id "rna-XM_024899148.2"; gene_id "gene-TrAFT101_000510";
+NC_089415.1	RefSeq	transcript	1724643	1726035	.	-	.	transcript_id "rna-XM_024899138.2"; gene_id "gene-TrAFT101_000531"; gene_name "KRR1"
+NC_089415.1	RefSeq	exon	1724643	1726035	.	-	.	transcript_id "rna-XM_024899138.2"; gene_id "gene-TrAFT101_000531"; gene_name "KRR1";
+NC_089415.1	RefSeq	CDS	1724903	1725865	.	-	0	transcript_id "rna-XM_024899138.2"; gene_id "gene-TrAFT101_000531"; gene_name "KRR1";
+NC_089415.1	RefSeq	transcript	2104066	2105772	.	+	.	transcript_id "rna-XM_024909369.2"; gene_id "gene-TrAFT101_000647"
+NC_089415.1	RefSeq	exon	2104066	2104375	.	+	.	transcript_id "rna-XM_024909369.2"; gene_id "gene-TrAFT101_000647";
+NC_089415.1	RefSeq	exon	2104515	2105024	.	+	.	transcript_id "rna-XM_024909369.2"; gene_id "gene-TrAFT101_000647";
+NC_089415.1	RefSeq	exon	2105320	2105425	.	+	.	transcript_id "rna-XM_024909369.2"; gene_id "gene-TrAFT101_000647";
+NC_089415.1	RefSeq	exon	2105592	2105772	.	+	.	transcript_id "rna-XM_024909369.2"; gene_id "gene-TrAFT101_000647";
+NC_089415.1	RefSeq	CDS	2104102	2104375	.	+	0	transcript_id "rna-XM_024909369.2"; gene_id "gene-TrAFT101_000647";
+NC_089415.1	RefSeq	CDS	2104515	2105024	.	+	2	transcript_id "rna-XM_024909369.2"; gene_id "gene-TrAFT101_000647";
+NC_089415.1	RefSeq	CDS	2105320	2105425	.	+	2	transcript_id "rna-XM_024909369.2"; gene_id "gene-TrAFT101_000647";
+NC_089415.1	RefSeq	CDS	2105592	2105691	.	+	1	transcript_id "rna-XM_024909369.2"; gene_id "gene-TrAFT101_000647";
+NC_089415.1	RefSeq	transcript	2120117	2122092	.	-	.	transcript_id "rna-XM_024907449.2"; gene_id "gene-TrAFT101_000653"; gene_name "COQ4"
+NC_089415.1	RefSeq	exon	2120117	2120943	.	-	.	transcript_id "rna-XM_024907449.2"; gene_id "gene-TrAFT101_000653"; gene_name "COQ4";
+NC_089415.1	RefSeq	exon	2121366	2121794	.	-	.	transcript_id "rna-XM_024907449.2"; gene_id "gene-TrAFT101_000653"; gene_name "COQ4";
+NC_089415.1	RefSeq	exon	2121856	2122092	.	-	.	transcript_id "rna-XM_024907449.2"; gene_id "gene-TrAFT101_000653"; gene_name "COQ4";
+NC_089415.1	RefSeq	CDS	2120297	2120943	.	-	2	transcript_id "rna-XM_024907449.2"; gene_id "gene-TrAFT101_000653"; gene_name "COQ4";
+NC_089415.1	RefSeq	CDS	2121366	2121639	.	-	0	transcript_id "rna-XM_024907449.2"; gene_id "gene-TrAFT101_000653"; gene_name "COQ4";
+NC_089415.1	RefSeq	transcript	2296432	2298367	.	+	.	transcript_id "rna-XM_024902288.2"; gene_id "gene-TrAFT101_000716"; gene_name "ATG3"
+NC_089415.1	RefSeq	exon	2296432	2297319	.	+	.	transcript_id "rna-XM_024902288.2"; gene_id "gene-TrAFT101_000716"; gene_name "ATG3";
+NC_089415.1	RefSeq	exon	2297419	2297890	.	+	.	transcript_id "rna-XM_024902288.2"; gene_id "gene-TrAFT101_000716"; gene_name "ATG3";
+NC_089415.1	RefSeq	exon	2297991	2298367	.	+	.	transcript_id "rna-XM_024902288.2"; gene_id "gene-TrAFT101_000716"; gene_name "ATG3";
+NC_089415.1	RefSeq	CDS	2296799	2297319	.	+	0	transcript_id "rna-XM_024902288.2"; gene_id "gene-TrAFT101_000716"; gene_name "ATG3";
+NC_089415.1	RefSeq	CDS	2297419	2297890	.	+	1	transcript_id "rna-XM_024902288.2"; gene_id "gene-TrAFT101_000716"; gene_name "ATG3";
+NC_089415.1	RefSeq	CDS	2297991	2298044	.	+	0	transcript_id "rna-XM_024902288.2"; gene_id "gene-TrAFT101_000716"; gene_name "ATG3";
+NC_089415.1	RefSeq	transcript	2685557	2687572	.	+	.	transcript_id "rna-XM_024899151.1"; gene_id "gene-TrAFT101_000838"
+NC_089415.1	RefSeq	exon	2685557	2685747	.	+	.	transcript_id "rna-XM_024899151.1"; gene_id "gene-TrAFT101_000838";
+NC_089415.1	RefSeq	exon	2685828	2686973	.	+	.	transcript_id "rna-XM_024899151.1"; gene_id "gene-TrAFT101_000838";
+NC_089415.1	RefSeq	exon	2687062	2687572	.	+	.	transcript_id "rna-XM_024899151.1"; gene_id "gene-TrAFT101_000838";
+NC_089415.1	RefSeq	CDS	2685557	2685747	.	+	0	transcript_id "rna-XM_024899151.1"; gene_id "gene-TrAFT101_000838";
+NC_089415.1	RefSeq	CDS	2685828	2686973	.	+	1	transcript_id "rna-XM_024899151.1"; gene_id "gene-TrAFT101_000838";
+NC_089415.1	RefSeq	CDS	2687062	2687572	.	+	1	transcript_id "rna-XM_024899151.1"; gene_id "gene-TrAFT101_000838";
+NC_089415.1	RefSeq	transcript	2884539	2887049	.	+	.	transcript_id "rna-XM_024907490.2"; gene_id "gene-TrAFT101_000904"; gene_name "DBP7"
+NC_089415.1	RefSeq	exon	2884539	2887049	.	+	.	transcript_id "rna-XM_024907490.2"; gene_id "gene-TrAFT101_000904"; gene_name "DBP7";
+NC_089415.1	RefSeq	CDS	2884586	2886892	.	+	0	transcript_id "rna-XM_024907490.2"; gene_id "gene-TrAFT101_000904"; gene_name "DBP7";
+NC_089415.1	RefSeq	transcript	3277291	3278470	.	-	.	transcript_id "rna-XM_024905965.2"; gene_id "gene-TrAFT101_011987"; gene_name "LIA1"
+NC_089415.1	RefSeq	exon	3277291	3277873	.	-	.	transcript_id "rna-XM_024905965.2"; gene_id "gene-TrAFT101_011987"; gene_name "LIA1";
+NC_089415.1	RefSeq	exon	3277928	3278470	.	-	.	transcript_id "rna-XM_024905965.2"; gene_id "gene-TrAFT101_011987"; gene_name "LIA1";
+NC_089415.1	RefSeq	CDS	3277363	3277873	.	-	1	transcript_id "rna-XM_024905965.2"; gene_id "gene-TrAFT101_011987"; gene_name "LIA1";
+NC_089415.1	RefSeq	CDS	3277928	3278457	.	-	0	transcript_id "rna-XM_024905965.2"; gene_id "gene-TrAFT101_011987"; gene_name "LIA1";
+NC_089415.1	RefSeq	transcript	3677297	3678345	.	-	.	transcript_id "rna-XM_024907535.2"; gene_id "gene-TrAFT101_001154"; gene_name "DPH5"
+NC_089415.1	RefSeq	exon	3677297	3677918	.	-	.	transcript_id "rna-XM_024907535.2"; gene_id "gene-TrAFT101_001154"; gene_name "DPH5";
+NC_089415.1	RefSeq	exon	3677978	3678102	.	-	.	transcript_id "rna-XM_024907535.2"; gene_id "gene-TrAFT101_001154"; gene_name "DPH5";
+NC_089415.1	RefSeq	exon	3678179	3678345	.	-	.	transcript_id "rna-XM_024907535.2"; gene_id "gene-TrAFT101_001154"; gene_name "DPH5";
+NC_089415.1	RefSeq	CDS	3677318	3677918	.	-	1	transcript_id "rna-XM_024907535.2"; gene_id "gene-TrAFT101_001154"; gene_name "DPH5";
+NC_089415.1	RefSeq	CDS	3677978	3678102	.	-	0	transcript_id "rna-XM_024907535.2"; gene_id "gene-TrAFT101_001154"; gene_name "DPH5";
+NC_089415.1	RefSeq	CDS	3678179	3678313	.	-	0	transcript_id "rna-XM_024907535.2"; gene_id "gene-TrAFT101_001154"; gene_name "DPH5";
+NC_089415.1	RefSeq	transcript	3678566	3679511	.	+	.	transcript_id "rna-XM_024899104.2"; gene_id "gene-TrAFT101_001155"
+NC_089415.1	RefSeq	exon	3678566	3678919	.	+	.	transcript_id "rna-XM_024899104.2"; gene_id "gene-TrAFT101_001155";
+NC_089415.1	RefSeq	exon	3678986	3679511	.	+	.	transcript_id "rna-XM_024899104.2"; gene_id "gene-TrAFT101_001155";
+NC_089415.1	RefSeq	CDS	3678566	3678919	.	+	0	transcript_id "rna-XM_024899104.2"; gene_id "gene-TrAFT101_001155";
+NC_089415.1	RefSeq	CDS	3678986	3679345	.	+	0	transcript_id "rna-XM_024899104.2"; gene_id "gene-TrAFT101_001155";
+NC_089415.1	RefSeq	transcript	3758795	3759942	.	+	.	transcript_id "rna-XM_024904729.2"; gene_id "gene-TrAFT101_001182"; gene_name "BCP1"
+NC_089415.1	RefSeq	exon	3758795	3758982	.	+	.	transcript_id "rna-XM_024904729.2"; gene_id "gene-TrAFT101_001182"; gene_name "BCP1";
+NC_089415.1	RefSeq	exon	3759042	3759942	.	+	.	transcript_id "rna-XM_024904729.2"; gene_id "gene-TrAFT101_001182"; gene_name "BCP1";
+NC_089415.1	RefSeq	CDS	3758890	3758982	.	+	0	transcript_id "rna-XM_024904729.2"; gene_id "gene-TrAFT101_001182"; gene_name "BCP1";
+NC_089415.1	RefSeq	CDS	3759042	3759812	.	+	0	transcript_id "rna-XM_024904729.2"; gene_id "gene-TrAFT101_001182"; gene_name "BCP1";
+NC_089415.1	RefSeq	transcript	3890340	3892509	.	+	.	transcript_id "rna-XM_024905993.2"; gene_id "gene-TrAFT101_001214"
+NC_089415.1	RefSeq	exon	3890340	3891099	.	+	.	transcript_id "rna-XM_024905993.2"; gene_id "gene-TrAFT101_001214";
+NC_089415.1	RefSeq	exon	3891175	3892509	.	+	.	transcript_id "rna-XM_024905993.2"; gene_id "gene-TrAFT101_001214";
+NC_089415.1	RefSeq	CDS	3890659	3891099	.	+	0	transcript_id "rna-XM_024905993.2"; gene_id "gene-TrAFT101_001214";
+NC_089415.1	RefSeq	CDS	3891175	3892155	.	+	0	transcript_id "rna-XM_024905993.2"; gene_id "gene-TrAFT101_001214";
+NC_089415.1	RefSeq	transcript	4039456	4042747	.	-	.	transcript_id "rna-XM_024904955.2"; gene_id "gene-TrAFT101_001266"
+NC_089415.1	RefSeq	exon	4039456	4040056	.	-	.	transcript_id "rna-XM_024904955.2"; gene_id "gene-TrAFT101_001266";
+NC_089415.1	RefSeq	exon	4040135	4042747	.	-	.	transcript_id "rna-XM_024904955.2"; gene_id "gene-TrAFT101_001266";
+NC_089415.1	RefSeq	CDS	4039630	4040056	.	-	1	transcript_id "rna-XM_024904955.2"; gene_id "gene-TrAFT101_001266";
+NC_089415.1	RefSeq	CDS	4040135	4042659	.	-	0	transcript_id "rna-XM_024904955.2"; gene_id "gene-TrAFT101_001266";
+NC_089415.1	RefSeq	transcript	4166168	4167674	.	+	.	transcript_id "rna-XM_024904775.2"; gene_id "gene-TrAFT101_001303"; gene_name "TMA22"
+NC_089415.1	RefSeq	exon	4166168	4166808	.	+	.	transcript_id "rna-XM_024904775.2"; gene_id "gene-TrAFT101_001303"; gene_name "TMA22";
+NC_089415.1	RefSeq	exon	4166900	4166919	.	+	.	transcript_id "rna-XM_024904775.2"; gene_id "gene-TrAFT101_001303"; gene_name "TMA22";
+NC_089415.1	RefSeq	exon	4167009	4167314	.	+	.	transcript_id "rna-XM_024904775.2"; gene_id "gene-TrAFT101_001303"; gene_name "TMA22";
+NC_089415.1	RefSeq	exon	4167379	4167674	.	+	.	transcript_id "rna-XM_024904775.2"; gene_id "gene-TrAFT101_001303"; gene_name "TMA22";
+NC_089415.1	RefSeq	CDS	4166742	4166808	.	+	0	transcript_id "rna-XM_024904775.2"; gene_id "gene-TrAFT101_001303"; gene_name "TMA22";
+NC_089415.1	RefSeq	CDS	4166900	4166919	.	+	2	transcript_id "rna-XM_024904775.2"; gene_id "gene-TrAFT101_001303"; gene_name "TMA22";
+NC_089415.1	RefSeq	CDS	4167009	4167314	.	+	0	transcript_id "rna-XM_024904775.2"; gene_id "gene-TrAFT101_001303"; gene_name "TMA22";
+NC_089415.1	RefSeq	CDS	4167379	4167561	.	+	0	transcript_id "rna-XM_024904775.2"; gene_id "gene-TrAFT101_001303"; gene_name "TMA22";
+NC_089415.1	RefSeq	transcript	4973150	4974987	.	-	.	transcript_id "rna-XM_024902380.2"; gene_id "gene-TrAFT101_001530"
+NC_089415.1	RefSeq	exon	4973150	4974254	.	-	.	transcript_id "rna-XM_024902380.2"; gene_id "gene-TrAFT101_001530";
+NC_089415.1	RefSeq	exon	4974318	4974987	.	-	.	transcript_id "rna-XM_024902380.2"; gene_id "gene-TrAFT101_001530";
+NC_089415.1	RefSeq	CDS	4973384	4974254	.	-	1	transcript_id "rna-XM_024902380.2"; gene_id "gene-TrAFT101_001530";
+NC_089415.1	RefSeq	CDS	4974318	4974904	.	-	0	transcript_id "rna-XM_024902380.2"; gene_id "gene-TrAFT101_001530";
+NC_089415.1	RefSeq	transcript	5221568	5223156	.	-	.	transcript_id "rna-XM_024901789.2"; gene_id "gene-TrAFT101_001612"
+NC_089415.1	RefSeq	exon	5221568	5222692	.	-	.	transcript_id "rna-XM_024901789.2"; gene_id "gene-TrAFT101_001612";
+NC_089415.1	RefSeq	exon	5222754	5223156	.	-	.	transcript_id "rna-XM_024901789.2"; gene_id "gene-TrAFT101_001612";
+NC_089415.1	RefSeq	CDS	5221715	5222692	.	-	0	transcript_id "rna-XM_024901789.2"; gene_id "gene-TrAFT101_001612";
+NC_089415.1	RefSeq	CDS	5222754	5223011	.	-	0	transcript_id "rna-XM_024901789.2"; gene_id "gene-TrAFT101_001612";
+NC_089415.1	RefSeq	transcript	5265153	5268652	.	+	.	transcript_id "rna-XM_024899604.2"; gene_id "gene-TrAFT101_001628"
+NC_089415.1	RefSeq	exon	5265153	5265597	.	+	.	transcript_id "rna-XM_024899604.2"; gene_id "gene-TrAFT101_001628";
+NC_089415.1	RefSeq	exon	5265661	5266527	.	+	.	transcript_id "rna-XM_024899604.2"; gene_id "gene-TrAFT101_001628";
+NC_089415.1	RefSeq	exon	5266588	5268652	.	+	.	transcript_id "rna-XM_024899604.2"; gene_id "gene-TrAFT101_001628";
+NC_089415.1	RefSeq	CDS	5265291	5265597	.	+	0	transcript_id "rna-XM_024899604.2"; gene_id "gene-TrAFT101_001628";
+NC_089415.1	RefSeq	CDS	5265661	5266527	.	+	2	transcript_id "rna-XM_024899604.2"; gene_id "gene-TrAFT101_001628";
+NC_089415.1	RefSeq	CDS	5266588	5268446	.	+	2	transcript_id "rna-XM_024899604.2"; gene_id "gene-TrAFT101_001628";
+NC_089415.1	RefSeq	transcript	5314294	5316188	.	+	.	transcript_id "rna-XM_066126384.1"; gene_id "gene-TrAFT101_001646"
+NC_089415.1	RefSeq	exon	5314294	5316188	.	+	.	transcript_id "rna-XM_066126384.1"; gene_id "gene-TrAFT101_001646";
+NC_089415.1	RefSeq	CDS	5314337	5316106	.	+	0	transcript_id "rna-XM_066126384.1"; gene_id "gene-TrAFT101_001646";
+NC_089415.1	RefSeq	transcript	5316139	5317515	.	-	.	transcript_id "rna-XM_024901791.2"; gene_id "gene-TrAFT101_001647"; gene_name "SLD5"
+NC_089415.1	RefSeq	exon	5316139	5316910	.	-	.	transcript_id "rna-XM_024901791.2"; gene_id "gene-TrAFT101_001647"; gene_name "SLD5";
+NC_089415.1	RefSeq	exon	5317014	5317194	.	-	.	transcript_id "rna-XM_024901791.2"; gene_id "gene-TrAFT101_001647"; gene_name "SLD5";
+NC_089415.1	RefSeq	exon	5317278	5317515	.	-	.	transcript_id "rna-XM_024901791.2"; gene_id "gene-TrAFT101_001647"; gene_name "SLD5";
+NC_089415.1	RefSeq	CDS	5316551	5316910	.	-	0	transcript_id "rna-XM_024901791.2"; gene_id "gene-TrAFT101_001647"; gene_name "SLD5";
+NC_089415.1	RefSeq	CDS	5317014	5317194	.	-	1	transcript_id "rna-XM_024901791.2"; gene_id "gene-TrAFT101_001647"; gene_name "SLD5";
+NC_089415.1	RefSeq	CDS	5317278	5317402	.	-	0	transcript_id "rna-XM_024901791.2"; gene_id "gene-TrAFT101_001647"; gene_name "SLD5";
+NC_089415.1	RefSeq	transcript	5351471	5353665	.	+	.	transcript_id "rna-XM_024905061.2"; gene_id "gene-TrAFT101_001660"
+NC_089415.1	RefSeq	exon	5351471	5351525	.	+	.	transcript_id "rna-XM_024905061.2"; gene_id "gene-TrAFT101_001660";
+NC_089415.1	RefSeq	exon	5351585	5353665	.	+	.	transcript_id "rna-XM_024905061.2"; gene_id "gene-TrAFT101_001660";
+NC_089415.1	RefSeq	CDS	5351979	5353535	.	+	0	transcript_id "rna-XM_024905061.2"; gene_id "gene-TrAFT101_001660";
+NC_089415.1	RefSeq	transcript	6393990	6396647	.	-	.	transcript_id "rna-XM_024909637.2"; gene_id "gene-TrAFT101_002016"
+NC_089415.1	RefSeq	exon	6393990	6395228	.	-	.	transcript_id "rna-XM_024909637.2"; gene_id "gene-TrAFT101_002016";
+NC_089415.1	RefSeq	exon	6395284	6395745	.	-	.	transcript_id "rna-XM_024909637.2"; gene_id "gene-TrAFT101_002016";
+NC_089415.1	RefSeq	exon	6395805	6396035	.	-	.	transcript_id "rna-XM_024909637.2"; gene_id "gene-TrAFT101_002016";
+NC_089415.1	RefSeq	exon	6396094	6396222	.	-	.	transcript_id "rna-XM_024909637.2"; gene_id "gene-TrAFT101_002016";
+NC_089415.1	RefSeq	exon	6396281	6396348	.	-	.	transcript_id "rna-XM_024909637.2"; gene_id "gene-TrAFT101_002016";
+NC_089415.1	RefSeq	exon	6396412	6396531	.	-	.	transcript_id "rna-XM_024909637.2"; gene_id "gene-TrAFT101_002016";
+NC_089415.1	RefSeq	exon	6396617	6396647	.	-	.	transcript_id "rna-XM_024909637.2"; gene_id "gene-TrAFT101_002016";
+NC_089415.1	RefSeq	CDS	6393990	6395228	.	-	0	transcript_id "rna-XM_024909637.2"; gene_id "gene-TrAFT101_002016";
+NC_089415.1	RefSeq	CDS	6395284	6395745	.	-	0	transcript_id "rna-XM_024909637.2"; gene_id "gene-TrAFT101_002016";
+NC_089415.1	RefSeq	CDS	6395805	6396035	.	-	0	transcript_id "rna-XM_024909637.2"; gene_id "gene-TrAFT101_002016";
+NC_089415.1	RefSeq	CDS	6396094	6396222	.	-	0	transcript_id "rna-XM_024909637.2"; gene_id "gene-TrAFT101_002016";
+NC_089415.1	RefSeq	CDS	6396281	6396348	.	-	2	transcript_id "rna-XM_024909637.2"; gene_id "gene-TrAFT101_002016";
+NC_089415.1	RefSeq	CDS	6396412	6396531	.	-	2	transcript_id "rna-XM_024909637.2"; gene_id "gene-TrAFT101_002016";
+NC_089415.1	RefSeq	CDS	6396617	6396647	.	-	0	transcript_id "rna-XM_024909637.2"; gene_id "gene-TrAFT101_002016";
+NC_089415.1	RefSeq	transcript	6745793	6746506	.	-	.	transcript_id "rna-XM_024902419.2"; gene_id "gene-TrAFT101_002139"
+NC_089415.1	RefSeq	exon	6745793	6746387	.	-	.	transcript_id "rna-XM_024902419.2"; gene_id "gene-TrAFT101_002139";
+NC_089415.1	RefSeq	exon	6746493	6746506	.	-	.	transcript_id "rna-XM_024902419.2"; gene_id "gene-TrAFT101_002139";
+NC_089415.1	RefSeq	CDS	6745793	6746387	.	-	1	transcript_id "rna-XM_024902419.2"; gene_id "gene-TrAFT101_002139";
+NC_089415.1	RefSeq	CDS	6746493	6746506	.	-	0	transcript_id "rna-XM_024902419.2"; gene_id "gene-TrAFT101_002139";
+NC_089415.1	RefSeq	transcript	6781205	6782845	.	-	.	transcript_id "rna-XM_024899684.2"; gene_id "gene-TrAFT101_002154"
+NC_089415.1	RefSeq	exon	6781205	6782214	.	-	.	transcript_id "rna-XM_024899684.2"; gene_id "gene-TrAFT101_002154";
+NC_089415.1	RefSeq	exon	6782279	6782507	.	-	.	transcript_id "rna-XM_024899684.2"; gene_id "gene-TrAFT101_002154";
+NC_089415.1	RefSeq	exon	6782580	6782845	.	-	.	transcript_id "rna-XM_024899684.2"; gene_id "gene-TrAFT101_002154";
+NC_089415.1	RefSeq	CDS	6781419	6782214	.	-	1	transcript_id "rna-XM_024899684.2"; gene_id "gene-TrAFT101_002154";
+NC_089415.1	RefSeq	CDS	6782279	6782507	.	-	2	transcript_id "rna-XM_024899684.2"; gene_id "gene-TrAFT101_002154";
+NC_089415.1	RefSeq	CDS	6782580	6782682	.	-	0	transcript_id "rna-XM_024899684.2"; gene_id "gene-TrAFT101_002154";
+NC_089415.1	RefSeq	transcript	6907529	6909139	.	+	.	transcript_id "rna-XM_024909650.2"; gene_id "gene-TrAFT101_002200"
+NC_089415.1	RefSeq	exon	6907529	6907724	.	+	.	transcript_id "rna-XM_024909650.2"; gene_id "gene-TrAFT101_002200";
+NC_089415.1	RefSeq	exon	6907796	6909139	.	+	.	transcript_id "rna-XM_024909650.2"; gene_id "gene-TrAFT101_002200";
+NC_089415.1	RefSeq	CDS	6907646	6907724	.	+	0	transcript_id "rna-XM_024909650.2"; gene_id "gene-TrAFT101_002200";
+NC_089415.1	RefSeq	CDS	6907796	6908898	.	+	2	transcript_id "rna-XM_024909650.2"; gene_id "gene-TrAFT101_002200";
+NC_089416.1	RefSeq	transcript	225002	228125	.	-	.	transcript_id "rna-XM_024899340.2"; gene_id "gene-TrAFT101_002376"; gene_name "MCM2"
+NC_089416.1	RefSeq	exon	225002	225544	.	-	.	transcript_id "rna-XM_024899340.2"; gene_id "gene-TrAFT101_002376"; gene_name "MCM2";
+NC_089416.1	RefSeq	exon	225621	227985	.	-	.	transcript_id "rna-XM_024899340.2"; gene_id "gene-TrAFT101_002376"; gene_name "MCM2";
+NC_089416.1	RefSeq	exon	228038	228125	.	-	.	transcript_id "rna-XM_024899340.2"; gene_id "gene-TrAFT101_002376"; gene_name "MCM2";
+NC_089416.1	RefSeq	CDS	225296	225544	.	-	0	transcript_id "rna-XM_024899340.2"; gene_id "gene-TrAFT101_002376"; gene_name "MCM2";
+NC_089416.1	RefSeq	CDS	225621	227985	.	-	1	transcript_id "rna-XM_024899340.2"; gene_id "gene-TrAFT101_002376"; gene_name "MCM2";
+NC_089416.1	RefSeq	CDS	228038	228042	.	-	0	transcript_id "rna-XM_024899340.2"; gene_id "gene-TrAFT101_002376"; gene_name "MCM2";
+NC_089416.1	RefSeq	transcript	561941	564003	.	-	.	transcript_id "rna-XM_024899400.2"; gene_id "gene-TrAFT101_002503"
+NC_089416.1	RefSeq	exon	561941	563617	.	-	.	transcript_id "rna-XM_024899400.2"; gene_id "gene-TrAFT101_002503";
+NC_089416.1	RefSeq	exon	563725	563776	.	-	.	transcript_id "rna-XM_024899400.2"; gene_id "gene-TrAFT101_002503";
+NC_089416.1	RefSeq	exon	563855	564003	.	-	.	transcript_id "rna-XM_024899400.2"; gene_id "gene-TrAFT101_002503";
+NC_089416.1	RefSeq	CDS	561954	563617	.	-	2	transcript_id "rna-XM_024899400.2"; gene_id "gene-TrAFT101_002503";
+NC_089416.1	RefSeq	CDS	563725	563776	.	-	0	transcript_id "rna-XM_024899400.2"; gene_id "gene-TrAFT101_002503";
+NC_089416.1	RefSeq	CDS	563855	563881	.	-	0	transcript_id "rna-XM_024899400.2"; gene_id "gene-TrAFT101_002503";
+NC_089416.1	RefSeq	transcript	772424	774157	.	-	.	transcript_id "rna-XM_024906061.2"; gene_id "gene-TrAFT101_002566"
+NC_089416.1	RefSeq	exon	772424	772676	.	-	.	transcript_id "rna-XM_024906061.2"; gene_id "gene-TrAFT101_002566";
+NC_089416.1	RefSeq	exon	772736	773041	.	-	.	transcript_id "rna-XM_024906061.2"; gene_id "gene-TrAFT101_002566";
+NC_089416.1	RefSeq	exon	773122	773239	.	-	.	transcript_id "rna-XM_024906061.2"; gene_id "gene-TrAFT101_002566";
+NC_089416.1	RefSeq	exon	773315	773442	.	-	.	transcript_id "rna-XM_024906061.2"; gene_id "gene-TrAFT101_002566";
+NC_089416.1	RefSeq	exon	773502	774157	.	-	.	transcript_id "rna-XM_024906061.2"; gene_id "gene-TrAFT101_002566";
+NC_089416.1	RefSeq	CDS	772424	772676	.	-	1	transcript_id "rna-XM_024906061.2"; gene_id "gene-TrAFT101_002566";
+NC_089416.1	RefSeq	CDS	772736	773041	.	-	1	transcript_id "rna-XM_024906061.2"; gene_id "gene-TrAFT101_002566";
+NC_089416.1	RefSeq	CDS	773122	773239	.	-	2	transcript_id "rna-XM_024906061.2"; gene_id "gene-TrAFT101_002566";
+NC_089416.1	RefSeq	CDS	773315	773442	.	-	1	transcript_id "rna-XM_024906061.2"; gene_id "gene-TrAFT101_002566";
+NC_089416.1	RefSeq	CDS	773502	774157	.	-	0	transcript_id "rna-XM_024906061.2"; gene_id "gene-TrAFT101_002566";
+NC_089416.1	RefSeq	transcript	820004	821480	.	-	.	transcript_id "rna-XM_024899415.2"; gene_id "gene-TrAFT101_002579"
+NC_089416.1	RefSeq	exon	820004	821075	.	-	.	transcript_id "rna-XM_024899415.2"; gene_id "gene-TrAFT101_002579";
+NC_089416.1	RefSeq	exon	821149	821480	.	-	.	transcript_id "rna-XM_024899415.2"; gene_id "gene-TrAFT101_002579";
+NC_089416.1	RefSeq	CDS	820004	821075	.	-	1	transcript_id "rna-XM_024899415.2"; gene_id "gene-TrAFT101_002579";
+NC_089416.1	RefSeq	CDS	821149	821480	.	-	0	transcript_id "rna-XM_024899415.2"; gene_id "gene-TrAFT101_002579";
+NC_089416.1	RefSeq	transcript	1005375	1008667	.	-	.	transcript_id "rna-XM_024902333.2"; gene_id "gene-TrAFT101_002645"
+NC_089416.1	RefSeq	exon	1005375	1006378	.	-	.	transcript_id "rna-XM_024902333.2"; gene_id "gene-TrAFT101_002645";
+NC_089416.1	RefSeq	exon	1006462	1008667	.	-	.	transcript_id "rna-XM_024902333.2"; gene_id "gene-TrAFT101_002645";
+NC_089416.1	RefSeq	CDS	1006279	1006378	.	-	1	transcript_id "rna-XM_024902333.2"; gene_id "gene-TrAFT101_002645";
+NC_089416.1	RefSeq	CDS	1006462	1008245	.	-	0	transcript_id "rna-XM_024902333.2"; gene_id "gene-TrAFT101_002645";
+NC_089416.1	RefSeq	transcript	1116415	1118619	.	-	.	transcript_id "rna-XM_024903443.2"; gene_id "gene-TrAFT101_002678"; gene_name "ENP2"
+NC_089416.1	RefSeq	exon	1116415	1118619	.	-	.	transcript_id "rna-XM_024903443.2"; gene_id "gene-TrAFT101_002678"; gene_name "ENP2";
+NC_089416.1	RefSeq	CDS	1116626	1118557	.	-	0	transcript_id "rna-XM_024903443.2"; gene_id "gene-TrAFT101_002678"; gene_name "ENP2";
+NC_089416.1	RefSeq	transcript	1938400	1940948	.	-	.	transcript_id "rna-XM_024901757.2"; gene_id "gene-TrAFT101_002954"
+NC_089416.1	RefSeq	exon	1938400	1938984	.	-	.	transcript_id "rna-XM_024901757.2"; gene_id "gene-TrAFT101_002954";
+NC_089416.1	RefSeq	exon	1939076	1940017	.	-	.	transcript_id "rna-XM_024901757.2"; gene_id "gene-TrAFT101_002954";
+NC_089416.1	RefSeq	exon	1940070	1940409	.	-	.	transcript_id "rna-XM_024901757.2"; gene_id "gene-TrAFT101_002954";
+NC_089416.1	RefSeq	exon	1940458	1940765	.	-	.	transcript_id "rna-XM_024901757.2"; gene_id "gene-TrAFT101_002954";
+NC_089416.1	RefSeq	exon	1940823	1940948	.	-	.	transcript_id "rna-XM_024901757.2"; gene_id "gene-TrAFT101_002954";
+NC_089416.1	RefSeq	CDS	1938400	1938984	.	-	0	transcript_id "rna-XM_024901757.2"; gene_id "gene-TrAFT101_002954";
+NC_089416.1	RefSeq	CDS	1939076	1940017	.	-	0	transcript_id "rna-XM_024901757.2"; gene_id "gene-TrAFT101_002954";
+NC_089416.1	RefSeq	CDS	1940070	1940409	.	-	1	transcript_id "rna-XM_024901757.2"; gene_id "gene-TrAFT101_002954";
+NC_089416.1	RefSeq	CDS	1940458	1940765	.	-	0	transcript_id "rna-XM_024901757.2"; gene_id "gene-TrAFT101_002954";
+NC_089416.1	RefSeq	CDS	1940823	1940948	.	-	0	transcript_id "rna-XM_024901757.2"; gene_id "gene-TrAFT101_002954";
+NC_089416.1	RefSeq	transcript	2784018	2785968	.	+	.	transcript_id "rna-XM_024907689.2"; gene_id "gene-TrAFT101_003238"
+NC_089416.1	RefSeq	exon	2784018	2784029	.	+	.	transcript_id "rna-XM_024907689.2"; gene_id "gene-TrAFT101_003238";
+NC_089416.1	RefSeq	exon	2784155	2785968	.	+	.	transcript_id "rna-XM_024907689.2"; gene_id "gene-TrAFT101_003238";
+NC_089416.1	RefSeq	CDS	2784290	2785549	.	+	0	transcript_id "rna-XM_024907689.2"; gene_id "gene-TrAFT101_003238";
+NC_089416.1	RefSeq	transcript	2876183	2877705	.	-	.	transcript_id "rna-XM_024910929.2"; gene_id "gene-TrAFT101_003272"; gene_name "GAR1_2"
+NC_089416.1	RefSeq	exon	2876183	2877199	.	-	.	transcript_id "rna-XM_024910929.2"; gene_id "gene-TrAFT101_003272"; gene_name "GAR1_2";
+NC_089416.1	RefSeq	exon	2877447	2877705	.	-	.	transcript_id "rna-XM_024910929.2"; gene_id "gene-TrAFT101_003272"; gene_name "GAR1_2";
+NC_089416.1	RefSeq	CDS	2876676	2877199	.	-	2	transcript_id "rna-XM_024910929.2"; gene_id "gene-TrAFT101_003272"; gene_name "GAR1_2";
+NC_089416.1	RefSeq	CDS	2877447	2877561	.	-	0	transcript_id "rna-XM_024910929.2"; gene_id "gene-TrAFT101_003272"; gene_name "GAR1_2";
+NC_089416.1	RefSeq	transcript	3874281	3876282	.	+	.	transcript_id "rna-XM_024902256.2"; gene_id "gene-TrAFT101_003592"
+NC_089416.1	RefSeq	exon	3874281	3874990	.	+	.	transcript_id "rna-XM_024902256.2"; gene_id "gene-TrAFT101_003592";
+NC_089416.1	RefSeq	exon	3875069	3876282	.	+	.	transcript_id "rna-XM_024902256.2"; gene_id "gene-TrAFT101_003592";
+NC_089416.1	RefSeq	CDS	3874413	3874990	.	+	0	transcript_id "rna-XM_024902256.2"; gene_id "gene-TrAFT101_003592";
+NC_089416.1	RefSeq	CDS	3875069	3875930	.	+	1	transcript_id "rna-XM_024902256.2"; gene_id "gene-TrAFT101_003592";
+NC_089416.1	RefSeq	transcript	3987038	3988182	.	+	.	transcript_id "rna-XM_024907347.2"; gene_id "gene-TrAFT101_003623"
+NC_089416.1	RefSeq	exon	3987038	3988182	.	+	.	transcript_id "rna-XM_024907347.2"; gene_id "gene-TrAFT101_003623";
+NC_089416.1	RefSeq	CDS	3987194	3988114	.	+	0	transcript_id "rna-XM_024907347.2"; gene_id "gene-TrAFT101_003623";
+NC_089416.1	RefSeq	transcript	4203952	4206817	.	-	.	transcript_id "rna-XM_024904841.2"; gene_id "gene-TrAFT101_003694"
+NC_089416.1	RefSeq	exon	4203952	4206417	.	-	.	transcript_id "rna-XM_024904841.2"; gene_id "gene-TrAFT101_003694";
+NC_089416.1	RefSeq	exon	4206476	4206817	.	-	.	transcript_id "rna-XM_024904841.2"; gene_id "gene-TrAFT101_003694";
+NC_089416.1	RefSeq	CDS	4203970	4206417	.	-	0	transcript_id "rna-XM_024904841.2"; gene_id "gene-TrAFT101_003694";
+NC_089416.1	RefSeq	CDS	4206476	4206769	.	-	0	transcript_id "rna-XM_024904841.2"; gene_id "gene-TrAFT101_003694";
+NC_089416.1	RefSeq	transcript	4292209	4293608	.	+	.	transcript_id "rna-XM_024899009.2"; gene_id "gene-TrAFT101_003719"
+NC_089416.1	RefSeq	exon	4292209	4292777	.	+	.	transcript_id "rna-XM_024899009.2"; gene_id "gene-TrAFT101_003719";
+NC_089416.1	RefSeq	exon	4292879	4293608	.	+	.	transcript_id "rna-XM_024899009.2"; gene_id "gene-TrAFT101_003719";
+NC_089416.1	RefSeq	CDS	4292209	4292777	.	+	0	transcript_id "rna-XM_024899009.2"; gene_id "gene-TrAFT101_003719";
+NC_089416.1	RefSeq	CDS	4292879	4293608	.	+	1	transcript_id "rna-XM_024899009.2"; gene_id "gene-TrAFT101_003719";
+NC_089416.1	RefSeq	transcript	4356052	4357813	.	+	.	transcript_id "rna-XM_024905784.2"; gene_id "gene-TrAFT101_003736"
+NC_089416.1	RefSeq	exon	4356052	4356789	.	+	.	transcript_id "rna-XM_024905784.2"; gene_id "gene-TrAFT101_003736";
+NC_089416.1	RefSeq	exon	4356885	4357813	.	+	.	transcript_id "rna-XM_024905784.2"; gene_id "gene-TrAFT101_003736";
+NC_089416.1	RefSeq	CDS	4356183	4356789	.	+	0	transcript_id "rna-XM_024905784.2"; gene_id "gene-TrAFT101_003736";
+NC_089416.1	RefSeq	CDS	4356885	4357663	.	+	2	transcript_id "rna-XM_024905784.2"; gene_id "gene-TrAFT101_003736";
+NC_089416.1	RefSeq	transcript	4423900	4426889	.	+	.	transcript_id "rna-XM_024907320.2"; gene_id "gene-TrAFT101_003761"
+NC_089416.1	RefSeq	exon	4423900	4426889	.	+	.	transcript_id "rna-XM_024907320.2"; gene_id "gene-TrAFT101_003761";
+NC_089416.1	RefSeq	CDS	4424192	4426267	.	+	0	transcript_id "rna-XM_024907320.2"; gene_id "gene-TrAFT101_003761";
+NC_089416.1	RefSeq	transcript	4633717	4636842	.	+	.	transcript_id "rna-XM_024901663.2"; gene_id "gene-TrAFT101_003828"
+NC_089416.1	RefSeq	exon	4633717	4633782	.	+	.	transcript_id "rna-XM_024901663.2"; gene_id "gene-TrAFT101_003828";
+NC_089416.1	RefSeq	exon	4633842	4636842	.	+	.	transcript_id "rna-XM_024901663.2"; gene_id "gene-TrAFT101_003828";
+NC_089416.1	RefSeq	CDS	4633766	4633782	.	+	0	transcript_id "rna-XM_024901663.2"; gene_id "gene-TrAFT101_003828";
+NC_089416.1	RefSeq	CDS	4633842	4636713	.	+	1	transcript_id "rna-XM_024901663.2"; gene_id "gene-TrAFT101_003828";
+NC_089416.1	RefSeq	transcript	5031135	5033039	.	+	.	transcript_id "rna-XM_024902237.2"; gene_id "gene-TrAFT101_003962"
+NC_089416.1	RefSeq	exon	5031135	5031412	.	+	.	transcript_id "rna-XM_024902237.2"; gene_id "gene-TrAFT101_003962";
+NC_089416.1	RefSeq	exon	5031474	5033039	.	+	.	transcript_id "rna-XM_024902237.2"; gene_id "gene-TrAFT101_003962";
+NC_089416.1	RefSeq	CDS	5031165	5031412	.	+	0	transcript_id "rna-XM_024902237.2"; gene_id "gene-TrAFT101_003962";
+NC_089416.1	RefSeq	CDS	5031474	5032848	.	+	1	transcript_id "rna-XM_024902237.2"; gene_id "gene-TrAFT101_003962";
+NC_089416.1	RefSeq	transcript	5345172	5347260	.	-	.	transcript_id "rna-XM_024902233.2"; gene_id "gene-TrAFT101_004065"; gene_name "HAT1"
+NC_089416.1	RefSeq	exon	5345172	5346622	.	-	.	transcript_id "rna-XM_024902233.2"; gene_id "gene-TrAFT101_004065"; gene_name "HAT1";
+NC_089416.1	RefSeq	exon	5346685	5346966	.	-	.	transcript_id "rna-XM_024902233.2"; gene_id "gene-TrAFT101_004065"; gene_name "HAT1";
+NC_089416.1	RefSeq	exon	5347026	5347260	.	-	.	transcript_id "rna-XM_024902233.2"; gene_id "gene-TrAFT101_004065"; gene_name "HAT1";
+NC_089416.1	RefSeq	CDS	5345487	5346622	.	-	2	transcript_id "rna-XM_024902233.2"; gene_id "gene-TrAFT101_004065"; gene_name "HAT1";
+NC_089416.1	RefSeq	CDS	5346685	5346966	.	-	2	transcript_id "rna-XM_024902233.2"; gene_id "gene-TrAFT101_004065"; gene_name "HAT1";
+NC_089416.1	RefSeq	CDS	5347026	5347053	.	-	0	transcript_id "rna-XM_024902233.2"; gene_id "gene-TrAFT101_004065"; gene_name "HAT1";
+NC_089416.1	RefSeq	transcript	5674583	5677407	.	-	.	transcript_id "rna-XM_024903098.2"; gene_id "gene-TrAFT101_004172"
+NC_089416.1	RefSeq	exon	5674583	5676517	.	-	.	transcript_id "rna-XM_024903098.2"; gene_id "gene-TrAFT101_004172";
+NC_089416.1	RefSeq	exon	5676575	5677407	.	-	.	transcript_id "rna-XM_024903098.2"; gene_id "gene-TrAFT101_004172";
+NC_089416.1	RefSeq	CDS	5674867	5676517	.	-	1	transcript_id "rna-XM_024903098.2"; gene_id "gene-TrAFT101_004172";
+NC_089416.1	RefSeq	CDS	5676575	5677266	.	-	0	transcript_id "rna-XM_024903098.2"; gene_id "gene-TrAFT101_004172";
+NC_089416.1	RefSeq	transcript	5786616	5788934	.	-	.	transcript_id "rna-XM_024901634.2"; gene_id "gene-TrAFT101_004212"; gene_name "SPB4"
+NC_089416.1	RefSeq	exon	5786616	5788382	.	-	.	transcript_id "rna-XM_024901634.2"; gene_id "gene-TrAFT101_004212"; gene_name "SPB4";
+NC_089416.1	RefSeq	exon	5788455	5788934	.	-	.	transcript_id "rna-XM_024901634.2"; gene_id "gene-TrAFT101_004212"; gene_name "SPB4";
+NC_089416.1	RefSeq	CDS	5786676	5788382	.	-	0	transcript_id "rna-XM_024901634.2"; gene_id "gene-TrAFT101_004212"; gene_name "SPB4";
+NC_089416.1	RefSeq	CDS	5788455	5788628	.	-	0	transcript_id "rna-XM_024901634.2"; gene_id "gene-TrAFT101_004212"; gene_name "SPB4";
+NC_089416.1	RefSeq	transcript	5828442	5831007	.	-	.	transcript_id "rna-XM_024898806.2"; gene_id "gene-TrAFT101_004226"
+NC_089416.1	RefSeq	exon	5828442	5829229	.	-	.	transcript_id "rna-XM_024898806.2"; gene_id "gene-TrAFT101_004226";
+NC_089416.1	RefSeq	exon	5829304	5829727	.	-	.	transcript_id "rna-XM_024898806.2"; gene_id "gene-TrAFT101_004226";
+NC_089416.1	RefSeq	exon	5830687	5831007	.	-	.	transcript_id "rna-XM_024898806.2"; gene_id "gene-TrAFT101_004226";
+NC_089416.1	RefSeq	CDS	5828719	5829229	.	-	1	transcript_id "rna-XM_024898806.2"; gene_id "gene-TrAFT101_004226";
+NC_089416.1	RefSeq	CDS	5829304	5829727	.	-	2	transcript_id "rna-XM_024898806.2"; gene_id "gene-TrAFT101_004226";
+NC_089416.1	RefSeq	CDS	5830687	5830984	.	-	0	transcript_id "rna-XM_024898806.2"; gene_id "gene-TrAFT101_004226";
+NC_089416.1	RefSeq	transcript	5900404	5901723	.	+	.	transcript_id "rna-XM_024898778.2"; gene_id "gene-TrAFT101_004249"; gene_name "MRT4"
+NC_089416.1	RefSeq	exon	5900404	5900735	.	+	.	transcript_id "rna-XM_024898778.2"; gene_id "gene-TrAFT101_004249"; gene_name "MRT4";
+NC_089416.1	RefSeq	exon	5900816	5901295	.	+	.	transcript_id "rna-XM_024898778.2"; gene_id "gene-TrAFT101_004249"; gene_name "MRT4";
+NC_089416.1	RefSeq	exon	5901359	5901723	.	+	.	transcript_id "rna-XM_024898778.2"; gene_id "gene-TrAFT101_004249"; gene_name "MRT4";
+NC_089416.1	RefSeq	CDS	5900545	5900735	.	+	0	transcript_id "rna-XM_024898778.2"; gene_id "gene-TrAFT101_004249"; gene_name "MRT4";
+NC_089416.1	RefSeq	CDS	5900816	5901295	.	+	1	transcript_id "rna-XM_024898778.2"; gene_id "gene-TrAFT101_004249"; gene_name "MRT4";
+NC_089416.1	RefSeq	CDS	5901359	5901434	.	+	1	transcript_id "rna-XM_024898778.2"; gene_id "gene-TrAFT101_004249"; gene_name "MRT4";
+NC_089416.1	RefSeq	transcript	5904219	5904941	.	+	.	transcript_id "rna-XM_024903081.2"; gene_id "gene-TrAFT101_004250"
+NC_089416.1	RefSeq	exon	5904219	5904287	.	+	.	transcript_id "rna-XM_024903081.2"; gene_id "gene-TrAFT101_004250";
+NC_089416.1	RefSeq	exon	5904343	5904425	.	+	.	transcript_id "rna-XM_024903081.2"; gene_id "gene-TrAFT101_004250";
+NC_089416.1	RefSeq	exon	5904486	5904941	.	+	.	transcript_id "rna-XM_024903081.2"; gene_id "gene-TrAFT101_004250";
+NC_089416.1	RefSeq	CDS	5904249	5904287	.	+	0	transcript_id "rna-XM_024903081.2"; gene_id "gene-TrAFT101_004250";
+NC_089416.1	RefSeq	CDS	5904343	5904425	.	+	0	transcript_id "rna-XM_024903081.2"; gene_id "gene-TrAFT101_004250";
+NC_089416.1	RefSeq	CDS	5904486	5904777	.	+	1	transcript_id "rna-XM_024903081.2"; gene_id "gene-TrAFT101_004250";
+NC_089417.1	RefSeq	transcript	808952	811561	.	+	.	transcript_id "rna-XM_024906774.2"; gene_id "gene-TrAFT101_004867"; gene_name "SDA1"
+NC_089417.1	RefSeq	exon	808952	809044	.	+	.	transcript_id "rna-XM_024906774.2"; gene_id "gene-TrAFT101_004867"; gene_name "SDA1";
+NC_089417.1	RefSeq	exon	809107	809142	.	+	.	transcript_id "rna-XM_024906774.2"; gene_id "gene-TrAFT101_004867"; gene_name "SDA1";
+NC_089417.1	RefSeq	exon	809203	811561	.	+	.	transcript_id "rna-XM_024906774.2"; gene_id "gene-TrAFT101_004867"; gene_name "SDA1";
+NC_089417.1	RefSeq	CDS	808998	809044	.	+	0	transcript_id "rna-XM_024906774.2"; gene_id "gene-TrAFT101_004867"; gene_name "SDA1";
+NC_089417.1	RefSeq	CDS	809107	809142	.	+	1	transcript_id "rna-XM_024906774.2"; gene_id "gene-TrAFT101_004867"; gene_name "SDA1";
+NC_089417.1	RefSeq	CDS	809203	811333	.	+	1	transcript_id "rna-XM_024906774.2"; gene_id "gene-TrAFT101_004867"; gene_name "SDA1";
+NC_089417.1	RefSeq	transcript	816597	818649	.	+	.	transcript_id "rna-XM_024900353.2"; gene_id "gene-TrAFT101_004869"
+NC_089417.1	RefSeq	exon	816597	816707	.	+	.	transcript_id "rna-XM_024900353.2"; gene_id "gene-TrAFT101_004869";
+NC_089417.1	RefSeq	exon	816784	818649	.	+	.	transcript_id "rna-XM_024900353.2"; gene_id "gene-TrAFT101_004869";
+NC_089417.1	RefSeq	CDS	816619	816707	.	+	0	transcript_id "rna-XM_024900353.2"; gene_id "gene-TrAFT101_004869";
+NC_089417.1	RefSeq	CDS	816784	818425	.	+	1	transcript_id "rna-XM_024900353.2"; gene_id "gene-TrAFT101_004869";
+NC_089417.1	RefSeq	transcript	868767	872342	.	-	.	transcript_id "rna-XM_024905304.2"; gene_id "gene-TrAFT101_004885"
+NC_089417.1	RefSeq	exon	868767	870283	.	-	.	transcript_id "rna-XM_024905304.2"; gene_id "gene-TrAFT101_004885";
+NC_089417.1	RefSeq	exon	870346	870681	.	-	.	transcript_id "rna-XM_024905304.2"; gene_id "gene-TrAFT101_004885";
+NC_089417.1	RefSeq	exon	870740	870973	.	-	.	transcript_id "rna-XM_024905304.2"; gene_id "gene-TrAFT101_004885";
+NC_089417.1	RefSeq	exon	871030	871671	.	-	.	transcript_id "rna-XM_024905304.2"; gene_id "gene-TrAFT101_004885";
+NC_089417.1	RefSeq	exon	871731	871850	.	-	.	transcript_id "rna-XM_024905304.2"; gene_id "gene-TrAFT101_004885";
+NC_089417.1	RefSeq	exon	871915	872163	.	-	.	transcript_id "rna-XM_024905304.2"; gene_id "gene-TrAFT101_004885";
+NC_089417.1	RefSeq	exon	872276	872342	.	-	.	transcript_id "rna-XM_024905304.2"; gene_id "gene-TrAFT101_004885";
+NC_089417.1	RefSeq	CDS	868940	870283	.	-	0	transcript_id "rna-XM_024905304.2"; gene_id "gene-TrAFT101_004885";
+NC_089417.1	RefSeq	CDS	870346	870681	.	-	0	transcript_id "rna-XM_024905304.2"; gene_id "gene-TrAFT101_004885";
+NC_089417.1	RefSeq	CDS	870740	870973	.	-	0	transcript_id "rna-XM_024905304.2"; gene_id "gene-TrAFT101_004885";
+NC_089417.1	RefSeq	CDS	871030	871671	.	-	0	transcript_id "rna-XM_024905304.2"; gene_id "gene-TrAFT101_004885";
+NC_089417.1	RefSeq	CDS	871731	871850	.	-	0	transcript_id "rna-XM_024905304.2"; gene_id "gene-TrAFT101_004885";
+NC_089417.1	RefSeq	CDS	871915	872163	.	-	0	transcript_id "rna-XM_024905304.2"; gene_id "gene-TrAFT101_004885";
+NC_089417.1	RefSeq	CDS	872276	872287	.	-	0	transcript_id "rna-XM_024905304.2"; gene_id "gene-TrAFT101_004885";
+NC_089417.1	RefSeq	transcript	1322233	1324981	.	-	.	transcript_id "rna-XM_024900382.2"; gene_id "gene-TrAFT101_005034"
+NC_089417.1	RefSeq	exon	1322233	1324981	.	-	.	transcript_id "rna-XM_024900382.2"; gene_id "gene-TrAFT101_005034";
+NC_089417.1	RefSeq	CDS	1322250	1324865	.	-	0	transcript_id "rna-XM_024900382.2"; gene_id "gene-TrAFT101_005034";
+NC_089417.1	RefSeq	transcript	1389583	1391486	.	-	.	transcript_id "rna-XM_066127367.1"; gene_id "gene-TrAFT101_005053"; gene_name "DPH1"
+NC_089417.1	RefSeq	exon	1389583	1390974	.	-	.	transcript_id "rna-XM_066127367.1"; gene_id "gene-TrAFT101_005053"; gene_name "DPH1";
+NC_089417.1	RefSeq	exon	1391049	1391486	.	-	.	transcript_id "rna-XM_066127367.1"; gene_id "gene-TrAFT101_005053"; gene_name "DPH1";
+NC_089417.1	RefSeq	CDS	1390115	1390974	.	-	2	transcript_id "rna-XM_066127367.1"; gene_id "gene-TrAFT101_005053"; gene_name "DPH1";
+NC_089417.1	RefSeq	CDS	1391049	1391259	.	-	0	transcript_id "rna-XM_066127367.1"; gene_id "gene-TrAFT101_005053"; gene_name "DPH1";
+NC_089417.1	RefSeq	transcript	1690995	1692150	.	+	.	transcript_id "rna-XM_024909894.2"; gene_id "gene-TrAFT101_005152"
+NC_089417.1	RefSeq	exon	1690995	1692150	.	+	.	transcript_id "rna-XM_024909894.2"; gene_id "gene-TrAFT101_005152";
+NC_089417.1	RefSeq	CDS	1691068	1692054	.	+	0	transcript_id "rna-XM_024909894.2"; gene_id "gene-TrAFT101_005152";
+NC_089417.1	RefSeq	transcript	1771634	1772980	.	+	.	transcript_id "rna-XM_024900362.2"; gene_id "gene-TrAFT101_005182"
+NC_089417.1	RefSeq	exon	1771634	1772088	.	+	.	transcript_id "rna-XM_024900362.2"; gene_id "gene-TrAFT101_005182";
+NC_089417.1	RefSeq	exon	1772146	1772980	.	+	.	transcript_id "rna-XM_024900362.2"; gene_id "gene-TrAFT101_005182";
+NC_089417.1	RefSeq	CDS	1771789	1772088	.	+	0	transcript_id "rna-XM_024900362.2"; gene_id "gene-TrAFT101_005182";
+NC_089417.1	RefSeq	CDS	1772146	1772892	.	+	0	transcript_id "rna-XM_024900362.2"; gene_id "gene-TrAFT101_005182";
+NC_089417.1	RefSeq	transcript	1897439	1900581	.	+	.	transcript_id "rna-XM_066127405.1"; gene_id "gene-TrAFT101_005191"
+NC_089417.1	RefSeq	exon	1897439	1900581	.	+	.	transcript_id "rna-XM_066127405.1"; gene_id "gene-TrAFT101_005191";
+NC_089417.1	RefSeq	CDS	1897591	1899342	.	+	0	transcript_id "rna-XM_066127405.1"; gene_id "gene-TrAFT101_005191";
+NC_089417.1	RefSeq	transcript	1958521	1960241	.	+	.	transcript_id "rna-XM_024910171.2"; gene_id "gene-TrAFT101_005211"
+NC_089417.1	RefSeq	exon	1958521	1960241	.	+	.	transcript_id "rna-XM_024910171.2"; gene_id "gene-TrAFT101_005211";
+NC_089417.1	RefSeq	CDS	1958662	1959993	.	+	0	transcript_id "rna-XM_024910171.2"; gene_id "gene-TrAFT101_005211";
+NC_089417.1	RefSeq	transcript	2325901	2327285	.	-	.	transcript_id "rna-XM_024904339.2"; gene_id "gene-TrAFT101_005332"
+NC_089417.1	RefSeq	exon	2325901	2327285	.	-	.	transcript_id "rna-XM_024904339.2"; gene_id "gene-TrAFT101_005332";
+NC_089417.1	RefSeq	CDS	2326124	2327029	.	-	0	transcript_id "rna-XM_024904339.2"; gene_id "gene-TrAFT101_005332";
+NC_089417.1	RefSeq	transcript	2363871	2366017	.	-	.	transcript_id "rna-XM_066127452.1"; gene_id "gene-TrAFT101_005350"; gene_name "CSN12"
+NC_089417.1	RefSeq	exon	2363871	2364270	.	-	.	transcript_id "rna-XM_066127452.1"; gene_id "gene-TrAFT101_005350"; gene_name "CSN12";
+NC_089417.1	RefSeq	exon	2364337	2364751	.	-	.	transcript_id "rna-XM_066127452.1"; gene_id "gene-TrAFT101_005350"; gene_name "CSN12";
+NC_089417.1	RefSeq	exon	2364806	2364867	.	-	.	transcript_id "rna-XM_066127452.1"; gene_id "gene-TrAFT101_005350"; gene_name "CSN12";
+NC_089417.1	RefSeq	exon	2364921	2365146	.	-	.	transcript_id "rna-XM_066127452.1"; gene_id "gene-TrAFT101_005350"; gene_name "CSN12";
+NC_089417.1	RefSeq	exon	2365199	2365491	.	-	.	transcript_id "rna-XM_066127452.1"; gene_id "gene-TrAFT101_005350"; gene_name "CSN12";
+NC_089417.1	RefSeq	exon	2365546	2365869	.	-	.	transcript_id "rna-XM_066127452.1"; gene_id "gene-TrAFT101_005350"; gene_name "CSN12";
+NC_089417.1	RefSeq	exon	2365931	2366017	.	-	.	transcript_id "rna-XM_066127452.1"; gene_id "gene-TrAFT101_005350"; gene_name "CSN12";
+NC_089417.1	RefSeq	CDS	2364187	2364270	.	-	0	transcript_id "rna-XM_066127452.1"; gene_id "gene-TrAFT101_005350"; gene_name "CSN12";
+NC_089417.1	RefSeq	CDS	2364337	2364751	.	-	1	transcript_id "rna-XM_066127452.1"; gene_id "gene-TrAFT101_005350"; gene_name "CSN12";
+NC_089417.1	RefSeq	CDS	2364806	2364867	.	-	0	transcript_id "rna-XM_066127452.1"; gene_id "gene-TrAFT101_005350"; gene_name "CSN12";
+NC_089417.1	RefSeq	CDS	2364921	2365146	.	-	1	transcript_id "rna-XM_066127452.1"; gene_id "gene-TrAFT101_005350"; gene_name "CSN12";
+NC_089417.1	RefSeq	CDS	2365199	2365491	.	-	0	transcript_id "rna-XM_066127452.1"; gene_id "gene-TrAFT101_005350"; gene_name "CSN12";
+NC_089417.1	RefSeq	CDS	2365546	2365830	.	-	0	transcript_id "rna-XM_066127452.1"; gene_id "gene-TrAFT101_005350"; gene_name "CSN12";
+NC_089417.1	RefSeq	transcript	3252270	3254390	.	-	.	transcript_id "rna-XM_024908131.2"; gene_id "gene-TrAFT101_005665"; gene_name "NOP7"
+NC_089417.1	RefSeq	exon	3252270	3254390	.	-	.	transcript_id "rna-XM_024908131.2"; gene_id "gene-TrAFT101_005665"; gene_name "NOP7";
+NC_089417.1	RefSeq	CDS	3252360	3254336	.	-	0	transcript_id "rna-XM_024908131.2"; gene_id "gene-TrAFT101_005665"; gene_name "NOP7";
+NC_089417.1	RefSeq	transcript	4190450	4191764	.	-	.	transcript_id "rna-XM_024901927.2"; gene_id "gene-TrAFT101_005970"
+NC_089417.1	RefSeq	exon	4190450	4191505	.	-	.	transcript_id "rna-XM_024901927.2"; gene_id "gene-TrAFT101_005970";
+NC_089417.1	RefSeq	exon	4191614	4191764	.	-	.	transcript_id "rna-XM_024901927.2"; gene_id "gene-TrAFT101_005970";
+NC_089417.1	RefSeq	CDS	4190804	4191505	.	-	0	transcript_id "rna-XM_024901927.2"; gene_id "gene-TrAFT101_005970";
+NC_089417.1	RefSeq	CDS	4191614	4191709	.	-	0	transcript_id "rna-XM_024901927.2"; gene_id "gene-TrAFT101_005970";
+NC_089417.1	RefSeq	transcript	4497999	4500718	.	+	.	transcript_id "rna-XM_024901931.2"; gene_id "gene-TrAFT101_006067"; gene_name "ATG7"
+NC_089417.1	RefSeq	exon	4497999	4498404	.	+	.	transcript_id "rna-XM_024901931.2"; gene_id "gene-TrAFT101_006067"; gene_name "ATG7";
+NC_089417.1	RefSeq	exon	4498469	4499876	.	+	.	transcript_id "rna-XM_024901931.2"; gene_id "gene-TrAFT101_006067"; gene_name "ATG7";
+NC_089417.1	RefSeq	exon	4499941	4500718	.	+	.	transcript_id "rna-XM_024901931.2"; gene_id "gene-TrAFT101_006067"; gene_name "ATG7";
+NC_089417.1	RefSeq	CDS	4498205	4498404	.	+	0	transcript_id "rna-XM_024901931.2"; gene_id "gene-TrAFT101_006067"; gene_name "ATG7";
+NC_089417.1	RefSeq	CDS	4498469	4499876	.	+	1	transcript_id "rna-XM_024901931.2"; gene_id "gene-TrAFT101_006067"; gene_name "ATG7";
+NC_089417.1	RefSeq	CDS	4499941	4500408	.	+	0	transcript_id "rna-XM_024901931.2"; gene_id "gene-TrAFT101_006067"; gene_name "ATG7";
+NC_089417.1	RefSeq	transcript	4520818	4521884	.	-	.	transcript_id "rna-XM_024908202.2"; gene_id "gene-TrAFT101_006077"; gene_name "IMP3"
+NC_089417.1	RefSeq	exon	4520818	4521514	.	-	.	transcript_id "rna-XM_024908202.2"; gene_id "gene-TrAFT101_006077"; gene_name "IMP3";
+NC_089417.1	RefSeq	exon	4521589	4521884	.	-	.	transcript_id "rna-XM_024908202.2"; gene_id "gene-TrAFT101_006077"; gene_name "IMP3";
+NC_089417.1	RefSeq	CDS	4521119	4521514	.	-	0	transcript_id "rna-XM_024908202.2"; gene_id "gene-TrAFT101_006077"; gene_name "IMP3";
+NC_089417.1	RefSeq	CDS	4521589	4521744	.	-	0	transcript_id "rna-XM_024908202.2"; gene_id "gene-TrAFT101_006077"; gene_name "IMP3";
+NC_089417.1	RefSeq	transcript	4667229	4669272	.	-	.	transcript_id "rna-XM_024908213.2"; gene_id "gene-TrAFT101_006135"
+NC_089417.1	RefSeq	exon	4667229	4667500	.	-	.	transcript_id "rna-XM_024908213.2"; gene_id "gene-TrAFT101_006135";
+NC_089417.1	RefSeq	exon	4667590	4668720	.	-	.	transcript_id "rna-XM_024908213.2"; gene_id "gene-TrAFT101_006135";
+NC_089417.1	RefSeq	exon	4668866	4669272	.	-	.	transcript_id "rna-XM_024908213.2"; gene_id "gene-TrAFT101_006135";
+NC_089417.1	RefSeq	CDS	4667404	4667500	.	-	1	transcript_id "rna-XM_024908213.2"; gene_id "gene-TrAFT101_006135";
+NC_089417.1	RefSeq	CDS	4667590	4668720	.	-	1	transcript_id "rna-XM_024908213.2"; gene_id "gene-TrAFT101_006135";
+NC_089417.1	RefSeq	CDS	4668866	4668963	.	-	0	transcript_id "rna-XM_024908213.2"; gene_id "gene-TrAFT101_006135";
+NC_089417.1	RefSeq	transcript	5141559	5143937	.	-	.	transcript_id "rna-XM_024900212.2"; gene_id "gene-TrAFT101_006303"; gene_name "CYP6"
+NC_089417.1	RefSeq	exon	5141559	5142082	.	-	.	transcript_id "rna-XM_024900212.2"; gene_id "gene-TrAFT101_006303"; gene_name "CYP6";
+NC_089417.1	RefSeq	exon	5142149	5143636	.	-	.	transcript_id "rna-XM_024900212.2"; gene_id "gene-TrAFT101_006303"; gene_name "CYP6";
+NC_089417.1	RefSeq	exon	5143694	5143937	.	-	.	transcript_id "rna-XM_024900212.2"; gene_id "gene-TrAFT101_006303"; gene_name "CYP6";
+NC_089417.1	RefSeq	CDS	5142208	5143636	.	-	1	transcript_id "rna-XM_024900212.2"; gene_id "gene-TrAFT101_006303"; gene_name "CYP6";
+NC_089417.1	RefSeq	CDS	5143694	5143773	.	-	0	transcript_id "rna-XM_024900212.2"; gene_id "gene-TrAFT101_006303"; gene_name "CYP6";
+NC_089418.1	RefSeq	transcript	429215	435046	.	+	.	transcript_id "rna-XM_066127796.1"; gene_id "gene-TrAFT101_006524"; gene_name "HIR1"
+NC_089418.1	RefSeq	exon	429215	432284	.	+	.	transcript_id "rna-XM_066127796.1"; gene_id "gene-TrAFT101_006524"; gene_name "HIR1";
+NC_089418.1	RefSeq	exon	433681	434072	.	+	.	transcript_id "rna-XM_066127796.1"; gene_id "gene-TrAFT101_006524"; gene_name "HIR1";
+NC_089418.1	RefSeq	exon	434147	435046	.	+	.	transcript_id "rna-XM_066127796.1"; gene_id "gene-TrAFT101_006524"; gene_name "HIR1";
+NC_089418.1	RefSeq	CDS	429215	432284	.	+	0	transcript_id "rna-XM_066127796.1"; gene_id "gene-TrAFT101_006524"; gene_name "HIR1";
+NC_089418.1	RefSeq	CDS	433681	434072	.	+	2	transcript_id "rna-XM_066127796.1"; gene_id "gene-TrAFT101_006524"; gene_name "HIR1";
+NC_089418.1	RefSeq	CDS	434147	435046	.	+	0	transcript_id "rna-XM_066127796.1"; gene_id "gene-TrAFT101_006524"; gene_name "HIR1";
+NC_089418.1	RefSeq	transcript	971317	973993	.	-	.	transcript_id "rna-XM_024910042.2"; gene_id "gene-TrAFT101_006712"; gene_name "ERB1"
+NC_089418.1	RefSeq	exon	971317	973132	.	-	.	transcript_id "rna-XM_024910042.2"; gene_id "gene-TrAFT101_006712"; gene_name "ERB1";
+NC_089418.1	RefSeq	exon	973212	973993	.	-	.	transcript_id "rna-XM_024910042.2"; gene_id "gene-TrAFT101_006712"; gene_name "ERB1";
+NC_089418.1	RefSeq	CDS	971498	973132	.	-	0	transcript_id "rna-XM_024910042.2"; gene_id "gene-TrAFT101_006712"; gene_name "ERB1";
+NC_089418.1	RefSeq	CDS	973212	973910	.	-	0	transcript_id "rna-XM_024910042.2"; gene_id "gene-TrAFT101_006712"; gene_name "ERB1";
+NC_089418.1	RefSeq	transcript	1452465	1454271	.	+	.	transcript_id "rna-XM_024903379.2"; gene_id "gene-TrAFT101_006890"; gene_name "DRE2"
+NC_089418.1	RefSeq	exon	1452465	1453596	.	+	.	transcript_id "rna-XM_024903379.2"; gene_id "gene-TrAFT101_006890"; gene_name "DRE2";
+NC_089418.1	RefSeq	exon	1453670	1454271	.	+	.	transcript_id "rna-XM_024903379.2"; gene_id "gene-TrAFT101_006890"; gene_name "DRE2";
+NC_089418.1	RefSeq	CDS	1452930	1453596	.	+	0	transcript_id "rna-XM_024903379.2"; gene_id "gene-TrAFT101_006890"; gene_name "DRE2";
+NC_089418.1	RefSeq	CDS	1453670	1453977	.	+	2	transcript_id "rna-XM_024903379.2"; gene_id "gene-TrAFT101_006890"; gene_name "DRE2";
+NC_089418.1	RefSeq	transcript	1516008	1517808	.	-	.	transcript_id "rna-XM_024910062.2"; gene_id "gene-TrAFT101_006911"
+NC_089418.1	RefSeq	exon	1516008	1517115	.	-	.	transcript_id "rna-XM_024910062.2"; gene_id "gene-TrAFT101_006911";
+NC_089418.1	RefSeq	exon	1517306	1517808	.	-	.	transcript_id "rna-XM_024910062.2"; gene_id "gene-TrAFT101_006911";
+NC_089418.1	RefSeq	CDS	1516287	1517115	.	-	1	transcript_id "rna-XM_024910062.2"; gene_id "gene-TrAFT101_006911";
+NC_089418.1	RefSeq	CDS	1517306	1517565	.	-	0	transcript_id "rna-XM_024910062.2"; gene_id "gene-TrAFT101_006911";
+NC_089418.1	RefSeq	transcript	1578703	1582373	.	-	.	transcript_id "rna-XM_024900669.2"; gene_id "gene-TrAFT101_006937"; gene_name "UTP25"
+NC_089418.1	RefSeq	exon	1578703	1580158	.	-	.	transcript_id "rna-XM_024900669.2"; gene_id "gene-TrAFT101_006937"; gene_name "UTP25";
+NC_089418.1	RefSeq	exon	1580212	1580937	.	-	.	transcript_id "rna-XM_024900669.2"; gene_id "gene-TrAFT101_006937"; gene_name "UTP25";
+NC_089418.1	RefSeq	exon	1581016	1582373	.	-	.	transcript_id "rna-XM_024900669.2"; gene_id "gene-TrAFT101_006937"; gene_name "UTP25";
+NC_089418.1	RefSeq	CDS	1578856	1580158	.	-	1	transcript_id "rna-XM_024900669.2"; gene_id "gene-TrAFT101_006937"; gene_name "UTP25";
+NC_089418.1	RefSeq	CDS	1580212	1580937	.	-	1	transcript_id "rna-XM_024900669.2"; gene_id "gene-TrAFT101_006937"; gene_name "UTP25";
+NC_089418.1	RefSeq	CDS	1581016	1581215	.	-	0	transcript_id "rna-XM_024900669.2"; gene_id "gene-TrAFT101_006937"; gene_name "UTP25";
+NC_089418.1	RefSeq	transcript	1581303	1583247	.	+	.	transcript_id "rna-XM_024904200.2"; gene_id "gene-TrAFT101_006938"
+NC_089418.1	RefSeq	exon	1581303	1581812	.	+	.	transcript_id "rna-XM_024904200.2"; gene_id "gene-TrAFT101_006938";
+NC_089418.1	RefSeq	exon	1581952	1583247	.	+	.	transcript_id "rna-XM_024904200.2"; gene_id "gene-TrAFT101_006938";
+NC_089418.1	RefSeq	CDS	1581705	1581812	.	+	0	transcript_id "rna-XM_024904200.2"; gene_id "gene-TrAFT101_006938";
+NC_089418.1	RefSeq	CDS	1581952	1582920	.	+	0	transcript_id "rna-XM_024904200.2"; gene_id "gene-TrAFT101_006938";
+NC_089418.1	RefSeq	transcript	1606452	1609457	.	-	.	transcript_id "rna-XM_066127920.1"; gene_id "gene-TrAFT101_006947"; gene_name "SWC4"
+NC_089418.1	RefSeq	exon	1606452	1609457	.	-	.	transcript_id "rna-XM_066127920.1"; gene_id "gene-TrAFT101_006947"; gene_name "SWC4";
+NC_089418.1	RefSeq	CDS	1607304	1609202	.	-	0	transcript_id "rna-XM_066127920.1"; gene_id "gene-TrAFT101_006947"; gene_name "SWC4";
+NC_089418.1	RefSeq	transcript	2171473	2174415	.	+	.	transcript_id "rna-XM_024901120.2"; gene_id "gene-TrAFT101_007131"
+NC_089418.1	RefSeq	exon	2171473	2171831	.	+	.	transcript_id "rna-XM_024901120.2"; gene_id "gene-TrAFT101_007131";
+NC_089418.1	RefSeq	exon	2171898	2174415	.	+	.	transcript_id "rna-XM_024901120.2"; gene_id "gene-TrAFT101_007131";
+NC_089418.1	RefSeq	CDS	2171636	2171831	.	+	0	transcript_id "rna-XM_024901120.2"; gene_id "gene-TrAFT101_007131";
+NC_089418.1	RefSeq	CDS	2171898	2174251	.	+	2	transcript_id "rna-XM_024901120.2"; gene_id "gene-TrAFT101_007131";
+NC_089418.1	RefSeq	transcript	2381057	2382357	.	-	.	transcript_id "rna-XM_024910243.2"; gene_id "gene-TrAFT101_007199"
+NC_089418.1	RefSeq	exon	2381057	2382357	.	-	.	transcript_id "rna-XM_024910243.2"; gene_id "gene-TrAFT101_007199";
+NC_089418.1	RefSeq	CDS	2381551	2382267	.	-	0	transcript_id "rna-XM_024910243.2"; gene_id "gene-TrAFT101_007199";
+NC_089418.1	RefSeq	transcript	2533445	2535179	.	+	.	transcript_id "rna-XM_024908838.2"; gene_id "gene-TrAFT101_007247"
+NC_089418.1	RefSeq	exon	2533445	2535179	.	+	.	transcript_id "rna-XM_024908838.2"; gene_id "gene-TrAFT101_007247";
+NC_089418.1	RefSeq	CDS	2533595	2534896	.	+	0	transcript_id "rna-XM_024908838.2"; gene_id "gene-TrAFT101_007247";
+NC_089418.1	RefSeq	transcript	2622719	2623937	.	+	.	transcript_id "rna-XM_024908826.2"; gene_id "gene-TrAFT101_007277"; gene_name "NSA2"
+NC_089418.1	RefSeq	exon	2622719	2622796	.	+	.	transcript_id "rna-XM_024908826.2"; gene_id "gene-TrAFT101_007277"; gene_name "NSA2";
+NC_089418.1	RefSeq	exon	2622863	2623937	.	+	.	transcript_id "rna-XM_024908826.2"; gene_id "gene-TrAFT101_007277"; gene_name "NSA2";
+NC_089418.1	RefSeq	CDS	2622794	2622796	.	+	0	transcript_id "rna-XM_024908826.2"; gene_id "gene-TrAFT101_007277"; gene_name "NSA2";
+NC_089418.1	RefSeq	CDS	2622863	2623642	.	+	0	transcript_id "rna-XM_024908826.2"; gene_id "gene-TrAFT101_007277"; gene_name "NSA2";
+NC_089418.1	RefSeq	transcript	2670068	2672680	.	-	.	transcript_id "rna-XM_024908824.2"; gene_id "gene-TrAFT101_007288"
+NC_089418.1	RefSeq	exon	2670068	2672680	.	-	.	transcript_id "rna-XM_024908824.2"; gene_id "gene-TrAFT101_007288";
+NC_089418.1	RefSeq	CDS	2670379	2672655	.	-	0	transcript_id "rna-XM_024908824.2"; gene_id "gene-TrAFT101_007288";
+NC_089418.1	RefSeq	transcript	2682842	2683916	.	+	.	transcript_id "rna-XM_024907021.2"; gene_id "gene-TrAFT101_007292"
+NC_089418.1	RefSeq	exon	2682842	2682991	.	+	.	transcript_id "rna-XM_024907021.2"; gene_id "gene-TrAFT101_007292";
+NC_089418.1	RefSeq	exon	2683142	2683916	.	+	.	transcript_id "rna-XM_024907021.2"; gene_id "gene-TrAFT101_007292";
+NC_089418.1	RefSeq	CDS	2682925	2682991	.	+	0	transcript_id "rna-XM_024907021.2"; gene_id "gene-TrAFT101_007292";
+NC_089418.1	RefSeq	CDS	2683142	2683785	.	+	2	transcript_id "rna-XM_024907021.2"; gene_id "gene-TrAFT101_007292";
+NC_089418.1	RefSeq	transcript	2688988	2691375	.	-	.	transcript_id "rna-XM_024908820.2"; gene_id "gene-TrAFT101_007296"
+NC_089418.1	RefSeq	exon	2688988	2690330	.	-	.	transcript_id "rna-XM_024908820.2"; gene_id "gene-TrAFT101_007296";
+NC_089418.1	RefSeq	exon	2690405	2691375	.	-	.	transcript_id "rna-XM_024908820.2"; gene_id "gene-TrAFT101_007296";
+NC_089418.1	RefSeq	CDS	2689473	2690330	.	-	0	transcript_id "rna-XM_024908820.2"; gene_id "gene-TrAFT101_007296";
+NC_089418.1	RefSeq	CDS	2690405	2691166	.	-	0	transcript_id "rna-XM_024908820.2"; gene_id "gene-TrAFT101_007296";
+NC_089418.1	RefSeq	transcript	2782400	2783615	.	-	.	transcript_id "rna-XM_024904439.1"; gene_id "gene-TrAFT101_007323"
+NC_089418.1	RefSeq	exon	2782400	2782919	.	-	.	transcript_id "rna-XM_024904439.1"; gene_id "gene-TrAFT101_007323";
+NC_089418.1	RefSeq	exon	2782981	2783615	.	-	.	transcript_id "rna-XM_024904439.1"; gene_id "gene-TrAFT101_007323";
+NC_089418.1	RefSeq	CDS	2782400	2782919	.	-	1	transcript_id "rna-XM_024904439.1"; gene_id "gene-TrAFT101_007323";
+NC_089418.1	RefSeq	CDS	2782981	2783615	.	-	0	transcript_id "rna-XM_024904439.1"; gene_id "gene-TrAFT101_007323";
+NC_089418.1	RefSeq	transcript	2852835	2854115	.	-	.	transcript_id "rna-XM_024908815.2"; gene_id "gene-TrAFT101_007342"
+NC_089418.1	RefSeq	exon	2852835	2853130	.	-	.	transcript_id "rna-XM_024908815.2"; gene_id "gene-TrAFT101_007342";
+NC_089418.1	RefSeq	exon	2853187	2853637	.	-	.	transcript_id "rna-XM_024908815.2"; gene_id "gene-TrAFT101_007342";
+NC_089418.1	RefSeq	exon	2853694	2853763	.	-	.	transcript_id "rna-XM_024908815.2"; gene_id "gene-TrAFT101_007342";
+NC_089418.1	RefSeq	exon	2853827	2854115	.	-	.	transcript_id "rna-XM_024908815.2"; gene_id "gene-TrAFT101_007342";
+NC_089418.1	RefSeq	CDS	2853081	2853130	.	-	2	transcript_id "rna-XM_024908815.2"; gene_id "gene-TrAFT101_007342";
+NC_089418.1	RefSeq	CDS	2853187	2853637	.	-	0	transcript_id "rna-XM_024908815.2"; gene_id "gene-TrAFT101_007342";
+NC_089418.1	RefSeq	CDS	2853694	2853763	.	-	1	transcript_id "rna-XM_024908815.2"; gene_id "gene-TrAFT101_007342";
+NC_089418.1	RefSeq	CDS	2853827	2854074	.	-	0	transcript_id "rna-XM_024908815.2"; gene_id "gene-TrAFT101_007342";
+NC_089418.1	RefSeq	transcript	2950431	2952053	.	+	.	transcript_id "rna-XM_024907018.2"; gene_id "gene-TrAFT101_007378"
+NC_089418.1	RefSeq	exon	2950431	2951014	.	+	.	transcript_id "rna-XM_024907018.2"; gene_id "gene-TrAFT101_007378";
+NC_089418.1	RefSeq	exon	2951115	2952053	.	+	.	transcript_id "rna-XM_024907018.2"; gene_id "gene-TrAFT101_007378";
+NC_089418.1	RefSeq	CDS	2950535	2951014	.	+	0	transcript_id "rna-XM_024907018.2"; gene_id "gene-TrAFT101_007378";
+NC_089418.1	RefSeq	CDS	2951115	2951747	.	+	0	transcript_id "rna-XM_024907018.2"; gene_id "gene-TrAFT101_007378";
+NC_089418.1	RefSeq	transcript	3435608	3437538	.	+	.	transcript_id "rna-XM_024910684.2"; gene_id "gene-TrAFT101_007509"; gene_name "PRP46"
+NC_089418.1	RefSeq	exon	3435608	3436849	.	+	.	transcript_id "rna-XM_024910684.2"; gene_id "gene-TrAFT101_007509"; gene_name "PRP46";
+NC_089418.1	RefSeq	exon	3436933	3437097	.	+	.	transcript_id "rna-XM_024910684.2"; gene_id "gene-TrAFT101_007509"; gene_name "PRP46";
+NC_089418.1	RefSeq	exon	3437186	3437538	.	+	.	transcript_id "rna-XM_024910684.2"; gene_id "gene-TrAFT101_007509"; gene_name "PRP46";
+NC_089418.1	RefSeq	CDS	3435703	3436849	.	+	0	transcript_id "rna-XM_024910684.2"; gene_id "gene-TrAFT101_007509"; gene_name "PRP46";
+NC_089418.1	RefSeq	CDS	3436933	3437097	.	+	2	transcript_id "rna-XM_024910684.2"; gene_id "gene-TrAFT101_007509"; gene_name "PRP46";
+NC_089418.1	RefSeq	CDS	3437186	3437271	.	+	2	transcript_id "rna-XM_024910684.2"; gene_id "gene-TrAFT101_007509"; gene_name "PRP46";
+NC_089418.1	RefSeq	transcript	3446512	3449677	.	+	.	transcript_id "rna-XM_024902000.2"; gene_id "gene-TrAFT101_007514"
+NC_089418.1	RefSeq	exon	3446512	3447108	.	+	.	transcript_id "rna-XM_024902000.2"; gene_id "gene-TrAFT101_007514";
+NC_089418.1	RefSeq	exon	3447164	3448299	.	+	.	transcript_id "rna-XM_024902000.2"; gene_id "gene-TrAFT101_007514";
+NC_089418.1	RefSeq	exon	3448368	3448845	.	+	.	transcript_id "rna-XM_024902000.2"; gene_id "gene-TrAFT101_007514";
+NC_089418.1	RefSeq	exon	3448907	3449677	.	+	.	transcript_id "rna-XM_024902000.2"; gene_id "gene-TrAFT101_007514";
+NC_089418.1	RefSeq	CDS	3446512	3447108	.	+	0	transcript_id "rna-XM_024902000.2"; gene_id "gene-TrAFT101_007514";
+NC_089418.1	RefSeq	CDS	3447164	3448299	.	+	0	transcript_id "rna-XM_024902000.2"; gene_id "gene-TrAFT101_007514";
+NC_089418.1	RefSeq	CDS	3448368	3448845	.	+	1	transcript_id "rna-XM_024902000.2"; gene_id "gene-TrAFT101_007514";
+NC_089418.1	RefSeq	CDS	3448907	3449677	.	+	0	transcript_id "rna-XM_024902000.2"; gene_id "gene-TrAFT101_007514";
+NC_089418.1	RefSeq	transcript	3488117	3490154	.	-	.	transcript_id "rna-XM_024910005.2"; gene_id "gene-TrAFT101_007528"
+NC_089418.1	RefSeq	exon	3488117	3488708	.	-	.	transcript_id "rna-XM_024910005.2"; gene_id "gene-TrAFT101_007528";
+NC_089418.1	RefSeq	exon	3488785	3489474	.	-	.	transcript_id "rna-XM_024910005.2"; gene_id "gene-TrAFT101_007528";
+NC_089418.1	RefSeq	exon	3489601	3489698	.	-	.	transcript_id "rna-XM_024910005.2"; gene_id "gene-TrAFT101_007528";
+NC_089418.1	RefSeq	exon	3489801	3490154	.	-	.	transcript_id "rna-XM_024910005.2"; gene_id "gene-TrAFT101_007528";
+NC_089418.1	RefSeq	CDS	3488583	3488708	.	-	0	transcript_id "rna-XM_024910005.2"; gene_id "gene-TrAFT101_007528";
+NC_089418.1	RefSeq	CDS	3488785	3489474	.	-	0	transcript_id "rna-XM_024910005.2"; gene_id "gene-TrAFT101_007528";
+NC_089418.1	RefSeq	CDS	3489601	3489698	.	-	2	transcript_id "rna-XM_024910005.2"; gene_id "gene-TrAFT101_007528";
+NC_089418.1	RefSeq	CDS	3489801	3489903	.	-	0	transcript_id "rna-XM_024910005.2"; gene_id "gene-TrAFT101_007528";
+NC_089418.1	RefSeq	transcript	3519070	3521177	.	-	.	transcript_id "rna-XM_024904145.2"; gene_id "gene-TrAFT101_007538"
+NC_089418.1	RefSeq	exon	3519070	3519492	.	-	.	transcript_id "rna-XM_024904145.2"; gene_id "gene-TrAFT101_007538";
+NC_089418.1	RefSeq	exon	3519579	3520555	.	-	.	transcript_id "rna-XM_024904145.2"; gene_id "gene-TrAFT101_007538";
+NC_089418.1	RefSeq	exon	3520618	3520782	.	-	.	transcript_id "rna-XM_024904145.2"; gene_id "gene-TrAFT101_007538";
+NC_089418.1	RefSeq	exon	3520842	3520932	.	-	.	transcript_id "rna-XM_024904145.2"; gene_id "gene-TrAFT101_007538";
+NC_089418.1	RefSeq	exon	3520993	3521177	.	-	.	transcript_id "rna-XM_024904145.2"; gene_id "gene-TrAFT101_007538";
+NC_089418.1	RefSeq	CDS	3519605	3520555	.	-	0	transcript_id "rna-XM_024904145.2"; gene_id "gene-TrAFT101_007538";
+NC_089418.1	RefSeq	CDS	3520618	3520782	.	-	0	transcript_id "rna-XM_024904145.2"; gene_id "gene-TrAFT101_007538";
+NC_089418.1	RefSeq	CDS	3520842	3520932	.	-	1	transcript_id "rna-XM_024904145.2"; gene_id "gene-TrAFT101_007538";
+NC_089418.1	RefSeq	CDS	3520993	3521096	.	-	0	transcript_id "rna-XM_024904145.2"; gene_id "gene-TrAFT101_007538";
+NC_089418.1	RefSeq	transcript	3535502	3537111	.	-	.	transcript_id "rna-XM_024908457.2"; gene_id "gene-TrAFT101_007545"
+NC_089418.1	RefSeq	exon	3535502	3537111	.	-	.	transcript_id "rna-XM_024908457.2"; gene_id "gene-TrAFT101_007545";
+NC_089418.1	RefSeq	CDS	3535671	3536888	.	-	0	transcript_id "rna-XM_024908457.2"; gene_id "gene-TrAFT101_007545";
+NC_089418.1	RefSeq	transcript	3599498	3604464	.	-	.	transcript_id "rna-XM_024910682.2"; gene_id "gene-TrAFT101_007564"
+NC_089418.1	RefSeq	exon	3599498	3604464	.	-	.	transcript_id "rna-XM_024910682.2"; gene_id "gene-TrAFT101_007564";
+NC_089418.1	RefSeq	CDS	3601668	3604418	.	-	0	transcript_id "rna-XM_024910682.2"; gene_id "gene-TrAFT101_007564";
+NC_089418.1	RefSeq	transcript	3743536	3744680	.	+	.	transcript_id "rna-XM_024901991.2"; gene_id "gene-TrAFT101_007616"; gene_name "PSF1"
+NC_089418.1	RefSeq	exon	3743536	3743683	.	+	.	transcript_id "rna-XM_024901991.2"; gene_id "gene-TrAFT101_007616"; gene_name "PSF1";
+NC_089418.1	RefSeq	exon	3743734	3744263	.	+	.	transcript_id "rna-XM_024901991.2"; gene_id "gene-TrAFT101_007616"; gene_name "PSF1";
+NC_089418.1	RefSeq	exon	3744319	3744680	.	+	.	transcript_id "rna-XM_024901991.2"; gene_id "gene-TrAFT101_007616"; gene_name "PSF1";
+NC_089418.1	RefSeq	CDS	3743657	3743683	.	+	0	transcript_id "rna-XM_024901991.2"; gene_id "gene-TrAFT101_007616"; gene_name "PSF1";
+NC_089418.1	RefSeq	CDS	3743734	3744263	.	+	0	transcript_id "rna-XM_024901991.2"; gene_id "gene-TrAFT101_007616"; gene_name "PSF1";
+NC_089418.1	RefSeq	CDS	3744319	3744412	.	+	1	transcript_id "rna-XM_024901991.2"; gene_id "gene-TrAFT101_007616"; gene_name "PSF1";
+NC_089418.1	RefSeq	transcript	3864453	3865802	.	-	.	transcript_id "rna-XM_024900569.1"; gene_id "gene-TrAFT101_007656"
+NC_089418.1	RefSeq	exon	3864453	3864482	.	-	.	transcript_id "rna-XM_024900569.1"; gene_id "gene-TrAFT101_007656";
+NC_089418.1	RefSeq	exon	3864573	3865802	.	-	.	transcript_id "rna-XM_024900569.1"; gene_id "gene-TrAFT101_007656";
+NC_089418.1	RefSeq	CDS	3864453	3864482	.	-	0	transcript_id "rna-XM_024900569.1"; gene_id "gene-TrAFT101_007656";
+NC_089418.1	RefSeq	CDS	3864573	3865802	.	-	0	transcript_id "rna-XM_024900569.1"; gene_id "gene-TrAFT101_007656";
+NC_089418.1	RefSeq	transcript	3957345	3959610	.	+	.	transcript_id "rna-XM_024900571.2"; gene_id "gene-TrAFT101_007690"
+NC_089418.1	RefSeq	exon	3957345	3958012	.	+	.	transcript_id "rna-XM_024900571.2"; gene_id "gene-TrAFT101_007690";
+NC_089418.1	RefSeq	exon	3958101	3958514	.	+	.	transcript_id "rna-XM_024900571.2"; gene_id "gene-TrAFT101_007690";
+NC_089418.1	RefSeq	exon	3958569	3959105	.	+	.	transcript_id "rna-XM_024900571.2"; gene_id "gene-TrAFT101_007690";
+NC_089418.1	RefSeq	exon	3959173	3959610	.	+	.	transcript_id "rna-XM_024900571.2"; gene_id "gene-TrAFT101_007690";
+NC_089418.1	RefSeq	CDS	3957386	3958012	.	+	0	transcript_id "rna-XM_024900571.2"; gene_id "gene-TrAFT101_007690";
+NC_089418.1	RefSeq	CDS	3958101	3958514	.	+	0	transcript_id "rna-XM_024900571.2"; gene_id "gene-TrAFT101_007690";
+NC_089418.1	RefSeq	CDS	3958569	3959105	.	+	0	transcript_id "rna-XM_024900571.2"; gene_id "gene-TrAFT101_007690";
+NC_089418.1	RefSeq	CDS	3959173	3959244	.	+	0	transcript_id "rna-XM_024900571.2"; gene_id "gene-TrAFT101_007690";
+NC_089418.1	RefSeq	transcript	4305626	4307449	.	+	.	transcript_id "rna-XM_024900549.2"; gene_id "gene-TrAFT101_007808"
+NC_089418.1	RefSeq	exon	4305626	4305850	.	+	.	transcript_id "rna-XM_024900549.2"; gene_id "gene-TrAFT101_007808";
+NC_089418.1	RefSeq	exon	4305919	4306830	.	+	.	transcript_id "rna-XM_024900549.2"; gene_id "gene-TrAFT101_007808";
+NC_089418.1	RefSeq	exon	4306896	4307056	.	+	.	transcript_id "rna-XM_024900549.2"; gene_id "gene-TrAFT101_007808";
+NC_089418.1	RefSeq	exon	4307123	4307300	.	+	.	transcript_id "rna-XM_024900549.2"; gene_id "gene-TrAFT101_007808";
+NC_089418.1	RefSeq	exon	4307375	4307449	.	+	.	transcript_id "rna-XM_024900549.2"; gene_id "gene-TrAFT101_007808";
+NC_089418.1	RefSeq	CDS	4305626	4305850	.	+	0	transcript_id "rna-XM_024900549.2"; gene_id "gene-TrAFT101_007808";
+NC_089418.1	RefSeq	CDS	4305919	4306830	.	+	0	transcript_id "rna-XM_024900549.2"; gene_id "gene-TrAFT101_007808";
+NC_089418.1	RefSeq	CDS	4306896	4307056	.	+	0	transcript_id "rna-XM_024900549.2"; gene_id "gene-TrAFT101_007808";
+NC_089418.1	RefSeq	CDS	4307123	4307300	.	+	1	transcript_id "rna-XM_024900549.2"; gene_id "gene-TrAFT101_007808";
+NC_089418.1	RefSeq	CDS	4307375	4307449	.	+	0	transcript_id "rna-XM_024900549.2"; gene_id "gene-TrAFT101_007808";
+NC_089418.1	RefSeq	transcript	4438657	4439876	.	+	.	transcript_id "rna-XM_024902638.2"; gene_id "gene-TrAFT101_007850"
+NC_089418.1	RefSeq	exon	4438657	4438798	.	+	.	transcript_id "rna-XM_024902638.2"; gene_id "gene-TrAFT101_007850";
+NC_089418.1	RefSeq	exon	4438870	4439876	.	+	.	transcript_id "rna-XM_024902638.2"; gene_id "gene-TrAFT101_007850";
+NC_089418.1	RefSeq	CDS	4438776	4438798	.	+	0	transcript_id "rna-XM_024902638.2"; gene_id "gene-TrAFT101_007850";
+NC_089418.1	RefSeq	CDS	4438870	4439689	.	+	1	transcript_id "rna-XM_024902638.2"; gene_id "gene-TrAFT101_007850";
+NC_089418.1	RefSeq	transcript	4566069	4567754	.	-	.	transcript_id "rna-XM_024900545.2"; gene_id "gene-TrAFT101_007890"
+NC_089418.1	RefSeq	exon	4566069	4567111	.	-	.	transcript_id "rna-XM_024900545.2"; gene_id "gene-TrAFT101_007890";
+NC_089418.1	RefSeq	exon	4567201	4567414	.	-	.	transcript_id "rna-XM_024900545.2"; gene_id "gene-TrAFT101_007890";
+NC_089418.1	RefSeq	exon	4567480	4567754	.	-	.	transcript_id "rna-XM_024900545.2"; gene_id "gene-TrAFT101_007890";
+NC_089418.1	RefSeq	CDS	4566142	4567111	.	-	1	transcript_id "rna-XM_024900545.2"; gene_id "gene-TrAFT101_007890";
+NC_089418.1	RefSeq	CDS	4567201	4567414	.	-	2	transcript_id "rna-XM_024900545.2"; gene_id "gene-TrAFT101_007890";
+NC_089418.1	RefSeq	CDS	4567480	4567684	.	-	0	transcript_id "rna-XM_024900545.2"; gene_id "gene-TrAFT101_007890";
+NC_089419.1	RefSeq	transcript	642475	643822	.	-	.	transcript_id "rna-XM_024901859.2"; gene_id "gene-TrAFT101_008369"
+NC_089419.1	RefSeq	exon	642475	643239	.	-	.	transcript_id "rna-XM_024901859.2"; gene_id "gene-TrAFT101_008369";
+NC_089419.1	RefSeq	exon	643321	643822	.	-	.	transcript_id "rna-XM_024901859.2"; gene_id "gene-TrAFT101_008369";
+NC_089419.1	RefSeq	CDS	642715	643239	.	-	0	transcript_id "rna-XM_024901859.2"; gene_id "gene-TrAFT101_008369";
+NC_089419.1	RefSeq	CDS	643321	643752	.	-	0	transcript_id "rna-XM_024901859.2"; gene_id "gene-TrAFT101_008369";
+NC_089419.1	RefSeq	transcript	1371778	1373514	.	+	.	transcript_id "rna-XM_024907949.2"; gene_id "gene-TrAFT101_008613"
+NC_089419.1	RefSeq	exon	1371778	1373514	.	+	.	transcript_id "rna-XM_024907949.2"; gene_id "gene-TrAFT101_008613";
+NC_089419.1	RefSeq	CDS	1371894	1373423	.	+	0	transcript_id "rna-XM_024907949.2"; gene_id "gene-TrAFT101_008613";
+NC_089419.1	RefSeq	transcript	1377206	1378354	.	+	.	transcript_id "rna-XM_024902457.2"; gene_id "gene-TrAFT101_008616"
+NC_089419.1	RefSeq	exon	1377206	1377444	.	+	.	transcript_id "rna-XM_024902457.2"; gene_id "gene-TrAFT101_008616";
+NC_089419.1	RefSeq	exon	1377507	1378354	.	+	.	transcript_id "rna-XM_024902457.2"; gene_id "gene-TrAFT101_008616";
+NC_089419.1	RefSeq	CDS	1377329	1377444	.	+	0	transcript_id "rna-XM_024902457.2"; gene_id "gene-TrAFT101_008616";
+NC_089419.1	RefSeq	CDS	1377507	1378080	.	+	1	transcript_id "rna-XM_024902457.2"; gene_id "gene-TrAFT101_008616";
+NC_089419.1	RefSeq	transcript	1873431	1876474	.	+	.	transcript_id "rna-XM_024899884.2"; gene_id "gene-TrAFT101_008780"
+NC_089419.1	RefSeq	exon	1873431	1873634	.	+	.	transcript_id "rna-XM_024899884.2"; gene_id "gene-TrAFT101_008780";
+NC_089419.1	RefSeq	exon	1873695	1873722	.	+	.	transcript_id "rna-XM_024899884.2"; gene_id "gene-TrAFT101_008780";
+NC_089419.1	RefSeq	exon	1873776	1876474	.	+	.	transcript_id "rna-XM_024899884.2"; gene_id "gene-TrAFT101_008780";
+NC_089419.1	RefSeq	CDS	1873458	1873634	.	+	0	transcript_id "rna-XM_024899884.2"; gene_id "gene-TrAFT101_008780";
+NC_089419.1	RefSeq	CDS	1873695	1873722	.	+	0	transcript_id "rna-XM_024899884.2"; gene_id "gene-TrAFT101_008780";
+NC_089419.1	RefSeq	CDS	1873776	1876300	.	+	2	transcript_id "rna-XM_024899884.2"; gene_id "gene-TrAFT101_008780";
+NC_089419.1	RefSeq	transcript	1922224	1924224	.	-	.	transcript_id "rna-XM_024898635.2"; gene_id "gene-TrAFT101_008795"
+NC_089419.1	RefSeq	exon	1922224	1924224	.	-	.	transcript_id "rna-XM_024898635.2"; gene_id "gene-TrAFT101_008795";
+NC_089419.1	RefSeq	CDS	1922364	1924145	.	-	0	transcript_id "rna-XM_024898635.2"; gene_id "gene-TrAFT101_008795";
+NC_089419.1	RefSeq	transcript	2124409	2125485	.	-	.	transcript_id "rna-XM_024909666.1"; gene_id "gene-TrAFT101_008858"
+NC_089419.1	RefSeq	exon	2124409	2125051	.	-	.	transcript_id "rna-XM_024909666.1"; gene_id "gene-TrAFT101_008858";
+NC_089419.1	RefSeq	exon	2125148	2125485	.	-	.	transcript_id "rna-XM_024909666.1"; gene_id "gene-TrAFT101_008858";
+NC_089419.1	RefSeq	CDS	2124409	2125051	.	-	1	transcript_id "rna-XM_024909666.1"; gene_id "gene-TrAFT101_008858";
+NC_089419.1	RefSeq	CDS	2125148	2125485	.	-	0	transcript_id "rna-XM_024909666.1"; gene_id "gene-TrAFT101_008858";
+NC_089419.1	RefSeq	transcript	2287980	2290128	.	-	.	transcript_id "rna-XM_024899892.2"; gene_id "gene-TrAFT101_008917"
+NC_089419.1	RefSeq	exon	2287980	2288338	.	-	.	transcript_id "rna-XM_024899892.2"; gene_id "gene-TrAFT101_008917";
+NC_089419.1	RefSeq	exon	2288432	2289377	.	-	.	transcript_id "rna-XM_024899892.2"; gene_id "gene-TrAFT101_008917";
+NC_089419.1	RefSeq	exon	2289516	2289825	.	-	.	transcript_id "rna-XM_024899892.2"; gene_id "gene-TrAFT101_008917";
+NC_089419.1	RefSeq	exon	2289877	2290128	.	-	.	transcript_id "rna-XM_024899892.2"; gene_id "gene-TrAFT101_008917";
+NC_089419.1	RefSeq	CDS	2288118	2288338	.	-	2	transcript_id "rna-XM_024899892.2"; gene_id "gene-TrAFT101_008917";
+NC_089419.1	RefSeq	CDS	2288432	2289377	.	-	0	transcript_id "rna-XM_024899892.2"; gene_id "gene-TrAFT101_008917";
+NC_089419.1	RefSeq	CDS	2289516	2289825	.	-	1	transcript_id "rna-XM_024899892.2"; gene_id "gene-TrAFT101_008917";
+NC_089419.1	RefSeq	CDS	2289877	2289920	.	-	0	transcript_id "rna-XM_024899892.2"; gene_id "gene-TrAFT101_008917";
+NC_089419.1	RefSeq	transcript	2517756	2520859	.	-	.	transcript_id "rna-XM_024909070.2"; gene_id "gene-TrAFT101_008981"
+NC_089419.1	RefSeq	exon	2517756	2520464	.	-	.	transcript_id "rna-XM_024909070.2"; gene_id "gene-TrAFT101_008981";
+NC_089419.1	RefSeq	exon	2520535	2520647	.	-	.	transcript_id "rna-XM_024909070.2"; gene_id "gene-TrAFT101_008981";
+NC_089419.1	RefSeq	exon	2520785	2520859	.	-	.	transcript_id "rna-XM_024909070.2"; gene_id "gene-TrAFT101_008981";
+NC_089419.1	RefSeq	CDS	2517875	2520464	.	-	1	transcript_id "rna-XM_024909070.2"; gene_id "gene-TrAFT101_008981";
+NC_089419.1	RefSeq	CDS	2520535	2520647	.	-	0	transcript_id "rna-XM_024909070.2"; gene_id "gene-TrAFT101_008981";
+NC_089419.1	RefSeq	CDS	2520785	2520802	.	-	0	transcript_id "rna-XM_024909070.2"; gene_id "gene-TrAFT101_008981";
+NC_089419.1	RefSeq	transcript	2577206	2578569	.	-	.	transcript_id "rna-XM_024910816.2"; gene_id "gene-TrAFT101_009000"
+NC_089419.1	RefSeq	exon	2577206	2578356	.	-	.	transcript_id "rna-XM_024910816.2"; gene_id "gene-TrAFT101_009000";
+NC_089419.1	RefSeq	exon	2578418	2578569	.	-	.	transcript_id "rna-XM_024910816.2"; gene_id "gene-TrAFT101_009000";
+NC_089419.1	RefSeq	CDS	2577481	2578356	.	-	0	transcript_id "rna-XM_024910816.2"; gene_id "gene-TrAFT101_009000";
+NC_089419.1	RefSeq	CDS	2578418	2578441	.	-	0	transcript_id "rna-XM_024910816.2"; gene_id "gene-TrAFT101_009000";
+NC_089419.1	RefSeq	transcript	2579975	2580788	.	-	.	transcript_id "rna-XM_024907129.2"; gene_id "gene-TrAFT101_009002"; gene_name "SPT4"
+NC_089419.1	RefSeq	exon	2579975	2580556	.	-	.	transcript_id "rna-XM_024907129.2"; gene_id "gene-TrAFT101_009002"; gene_name "SPT4";
+NC_089419.1	RefSeq	exon	2580656	2580788	.	-	.	transcript_id "rna-XM_024907129.2"; gene_id "gene-TrAFT101_009002"; gene_name "SPT4";
+NC_089419.1	RefSeq	CDS	2580176	2580556	.	-	0	transcript_id "rna-XM_024907129.2"; gene_id "gene-TrAFT101_009002"; gene_name "SPT4";
+NC_089419.1	RefSeq	CDS	2580656	2580733	.	-	0	transcript_id "rna-XM_024907129.2"; gene_id "gene-TrAFT101_009002"; gene_name "SPT4";
+NC_089419.1	RefSeq	transcript	2705750	2707430	.	+	.	transcript_id "rna-XM_024901436.2"; gene_id "gene-TrAFT101_009043"
+NC_089419.1	RefSeq	exon	2705750	2706321	.	+	.	transcript_id "rna-XM_024901436.2"; gene_id "gene-TrAFT101_009043";
+NC_089419.1	RefSeq	exon	2706375	2706581	.	+	.	transcript_id "rna-XM_024901436.2"; gene_id "gene-TrAFT101_009043";
+NC_089419.1	RefSeq	exon	2706650	2706802	.	+	.	transcript_id "rna-XM_024901436.2"; gene_id "gene-TrAFT101_009043";
+NC_089419.1	RefSeq	exon	2706858	2707430	.	+	.	transcript_id "rna-XM_024901436.2"; gene_id "gene-TrAFT101_009043";
+NC_089419.1	RefSeq	CDS	2705944	2706321	.	+	0	transcript_id "rna-XM_024901436.2"; gene_id "gene-TrAFT101_009043";
+NC_089419.1	RefSeq	CDS	2706375	2706581	.	+	0	transcript_id "rna-XM_024901436.2"; gene_id "gene-TrAFT101_009043";
+NC_089419.1	RefSeq	CDS	2706650	2706802	.	+	0	transcript_id "rna-XM_024901436.2"; gene_id "gene-TrAFT101_009043";
+NC_089419.1	RefSeq	CDS	2706858	2707094	.	+	0	transcript_id "rna-XM_024901436.2"; gene_id "gene-TrAFT101_009043";
+NC_089419.1	RefSeq	transcript	2878194	2879881	.	-	.	transcript_id "rna-XM_066128522.1"; gene_id "gene-TrAFT101_009074"
+NC_089419.1	RefSeq	exon	2878194	2878775	.	-	.	transcript_id "rna-XM_066128522.1"; gene_id "gene-TrAFT101_009074";
+NC_089419.1	RefSeq	exon	2878881	2879556	.	-	.	transcript_id "rna-XM_066128522.1"; gene_id "gene-TrAFT101_009074";
+NC_089419.1	RefSeq	exon	2879615	2879881	.	-	.	transcript_id "rna-XM_066128522.1"; gene_id "gene-TrAFT101_009074";
+NC_089419.1	RefSeq	CDS	2878471	2878775	.	-	2	transcript_id "rna-XM_066128522.1"; gene_id "gene-TrAFT101_009074";
+NC_089419.1	RefSeq	CDS	2878881	2879556	.	-	0	transcript_id "rna-XM_066128522.1"; gene_id "gene-TrAFT101_009074";
+NC_089419.1	RefSeq	CDS	2879615	2879812	.	-	0	transcript_id "rna-XM_066128522.1"; gene_id "gene-TrAFT101_009074";
+NC_089419.1	RefSeq	transcript	2887991	2888712	.	+	.	transcript_id "rna-XM_024901307.1"; gene_id "gene-TrAFT101_009077"
+NC_089419.1	RefSeq	exon	2887991	2888173	.	+	.	transcript_id "rna-XM_024901307.1"; gene_id "gene-TrAFT101_009077";
+NC_089419.1	RefSeq	exon	2888239	2888384	.	+	.	transcript_id "rna-XM_024901307.1"; gene_id "gene-TrAFT101_009077";
+NC_089419.1	RefSeq	exon	2888520	2888712	.	+	.	transcript_id "rna-XM_024901307.1"; gene_id "gene-TrAFT101_009077";
+NC_089419.1	RefSeq	CDS	2887991	2888173	.	+	0	transcript_id "rna-XM_024901307.1"; gene_id "gene-TrAFT101_009077";
+NC_089419.1	RefSeq	CDS	2888239	2888384	.	+	0	transcript_id "rna-XM_024901307.1"; gene_id "gene-TrAFT101_009077";
+NC_089419.1	RefSeq	CDS	2888520	2888712	.	+	1	transcript_id "rna-XM_024901307.1"; gene_id "gene-TrAFT101_009077";
+NC_089419.1	RefSeq	transcript	2935862	2937286	.	-	.	transcript_id "rna-XM_024904558.2"; gene_id "gene-TrAFT101_009100"
+NC_089419.1	RefSeq	exon	2935862	2936676	.	-	.	transcript_id "rna-XM_024904558.2"; gene_id "gene-TrAFT101_009100";
+NC_089419.1	RefSeq	exon	2936738	2937127	.	-	.	transcript_id "rna-XM_024904558.2"; gene_id "gene-TrAFT101_009100";
+NC_089419.1	RefSeq	exon	2937189	2937286	.	-	.	transcript_id "rna-XM_024904558.2"; gene_id "gene-TrAFT101_009100";
+NC_089419.1	RefSeq	CDS	2936273	2936676	.	-	2	transcript_id "rna-XM_024904558.2"; gene_id "gene-TrAFT101_009100";
+NC_089419.1	RefSeq	CDS	2936738	2936906	.	-	0	transcript_id "rna-XM_024904558.2"; gene_id "gene-TrAFT101_009100";
+NC_089419.1	RefSeq	transcript	2968725	2971299	.	-	.	transcript_id "rna-XM_024908996.2"; gene_id "gene-TrAFT101_009112"
+NC_089419.1	RefSeq	exon	2968725	2970225	.	-	.	transcript_id "rna-XM_024908996.2"; gene_id "gene-TrAFT101_009112";
+NC_089419.1	RefSeq	exon	2970297	2971299	.	-	.	transcript_id "rna-XM_024908996.2"; gene_id "gene-TrAFT101_009112";
+NC_089419.1	RefSeq	CDS	2969028	2970225	.	-	1	transcript_id "rna-XM_024908996.2"; gene_id "gene-TrAFT101_009112";
+NC_089419.1	RefSeq	CDS	2970297	2971036	.	-	0	transcript_id "rna-XM_024908996.2"; gene_id "gene-TrAFT101_009112";
+NC_089420.1	RefSeq	transcript	694181	695672	.	-	.	transcript_id "rna-XM_024901900.2"; gene_id "gene-TrAFT101_009685"
+NC_089420.1	RefSeq	exon	694181	694445	.	-	.	transcript_id "rna-XM_024901900.2"; gene_id "gene-TrAFT101_009685";
+NC_089420.1	RefSeq	exon	694513	695332	.	-	.	transcript_id "rna-XM_024901900.2"; gene_id "gene-TrAFT101_009685";
+NC_089420.1	RefSeq	exon	695392	695455	.	-	.	transcript_id "rna-XM_024901900.2"; gene_id "gene-TrAFT101_009685";
+NC_089420.1	RefSeq	exon	695522	695672	.	-	.	transcript_id "rna-XM_024901900.2"; gene_id "gene-TrAFT101_009685";
+NC_089420.1	RefSeq	CDS	694344	694445	.	-	0	transcript_id "rna-XM_024901900.2"; gene_id "gene-TrAFT101_009685";
+NC_089420.1	RefSeq	CDS	694513	695332	.	-	1	transcript_id "rna-XM_024901900.2"; gene_id "gene-TrAFT101_009685";
+NC_089420.1	RefSeq	CDS	695392	695455	.	-	2	transcript_id "rna-XM_024901900.2"; gene_id "gene-TrAFT101_009685";
+NC_089420.1	RefSeq	CDS	695522	695543	.	-	0	transcript_id "rna-XM_024901900.2"; gene_id "gene-TrAFT101_009685";
+NC_089420.1	RefSeq	transcript	867931	870486	.	-	.	transcript_id "rna-XM_024908077.2"; gene_id "gene-TrAFT101_009747"
+NC_089420.1	RefSeq	exon	867931	870486	.	-	.	transcript_id "rna-XM_024908077.2"; gene_id "gene-TrAFT101_009747";
+NC_089420.1	RefSeq	CDS	868224	870380	.	-	0	transcript_id "rna-XM_024908077.2"; gene_id "gene-TrAFT101_009747";
+NC_089420.1	RefSeq	transcript	1030152	1031358	.	-	.	transcript_id "rna-XM_024905510.2"; gene_id "gene-TrAFT101_009810"
+NC_089420.1	RefSeq	exon	1030152	1031358	.	-	.	transcript_id "rna-XM_024905510.2"; gene_id "gene-TrAFT101_009810";
+NC_089420.1	RefSeq	CDS	1030565	1031323	.	-	0	transcript_id "rna-XM_024905510.2"; gene_id "gene-TrAFT101_009810";
+NC_089420.1	RefSeq	transcript	1536747	1537967	.	-	.	transcript_id "rna-XM_024909752.2"; gene_id "gene-TrAFT101_009961"; gene_name "CWC15"
+NC_089420.1	RefSeq	exon	1536747	1537008	.	-	.	transcript_id "rna-XM_024909752.2"; gene_id "gene-TrAFT101_009961"; gene_name "CWC15";
+NC_089420.1	RefSeq	exon	1537090	1537263	.	-	.	transcript_id "rna-XM_024909752.2"; gene_id "gene-TrAFT101_009961"; gene_name "CWC15";
+NC_089420.1	RefSeq	exon	1537341	1537811	.	-	.	transcript_id "rna-XM_024909752.2"; gene_id "gene-TrAFT101_009961"; gene_name "CWC15";
+NC_089420.1	RefSeq	exon	1537871	1537967	.	-	.	transcript_id "rna-XM_024909752.2"; gene_id "gene-TrAFT101_009961"; gene_name "CWC15";
+NC_089420.1	RefSeq	CDS	1536955	1537008	.	-	0	transcript_id "rna-XM_024909752.2"; gene_id "gene-TrAFT101_009961"; gene_name "CWC15";
+NC_089420.1	RefSeq	CDS	1537090	1537263	.	-	0	transcript_id "rna-XM_024909752.2"; gene_id "gene-TrAFT101_009961"; gene_name "CWC15";
+NC_089420.1	RefSeq	CDS	1537341	1537811	.	-	0	transcript_id "rna-XM_024909752.2"; gene_id "gene-TrAFT101_009961"; gene_name "CWC15";
+NC_089420.1	RefSeq	CDS	1537871	1537903	.	-	0	transcript_id "rna-XM_024909752.2"; gene_id "gene-TrAFT101_009961"; gene_name "CWC15";
+NC_089420.1	RefSeq	transcript	1538108	1539221	.	+	.	transcript_id "rna-XM_024905466.2"; gene_id "gene-TrAFT101_009962"
+NC_089420.1	RefSeq	exon	1538108	1538320	.	+	.	transcript_id "rna-XM_024905466.2"; gene_id "gene-TrAFT101_009962";
+NC_089420.1	RefSeq	exon	1538399	1539221	.	+	.	transcript_id "rna-XM_024905466.2"; gene_id "gene-TrAFT101_009962";
+NC_089420.1	RefSeq	CDS	1538157	1538320	.	+	0	transcript_id "rna-XM_024905466.2"; gene_id "gene-TrAFT101_009962";
+NC_089420.1	RefSeq	CDS	1538399	1539116	.	+	1	transcript_id "rna-XM_024905466.2"; gene_id "gene-TrAFT101_009962";
+NC_089420.1	RefSeq	transcript	1768078	1769877	.	-	.	transcript_id "rna-XM_024903815.2"; gene_id "gene-TrAFT101_010027"; gene_name "FYV10"
+NC_089420.1	RefSeq	exon	1768078	1769014	.	-	.	transcript_id "rna-XM_024903815.2"; gene_id "gene-TrAFT101_010027"; gene_name "FYV10";
+NC_089420.1	RefSeq	exon	1769088	1769627	.	-	.	transcript_id "rna-XM_024903815.2"; gene_id "gene-TrAFT101_010027"; gene_name "FYV10";
+NC_089420.1	RefSeq	exon	1769692	1769877	.	-	.	transcript_id "rna-XM_024903815.2"; gene_id "gene-TrAFT101_010027"; gene_name "FYV10";
+NC_089420.1	RefSeq	CDS	1768379	1769014	.	-	0	transcript_id "rna-XM_024903815.2"; gene_id "gene-TrAFT101_010027"; gene_name "FYV10";
+NC_089420.1	RefSeq	CDS	1769088	1769627	.	-	0	transcript_id "rna-XM_024903815.2"; gene_id "gene-TrAFT101_010027"; gene_name "FYV10";
+NC_089420.1	RefSeq	CDS	1769692	1769742	.	-	0	transcript_id "rna-XM_024903815.2"; gene_id "gene-TrAFT101_010027"; gene_name "FYV10";
+NC_089420.1	RefSeq	transcript	1827592	1829921	.	-	.	transcript_id "rna-XM_024908035.2"; gene_id "gene-TrAFT101_010045"
+NC_089420.1	RefSeq	exon	1827592	1829921	.	-	.	transcript_id "rna-XM_024908035.2"; gene_id "gene-TrAFT101_010045";
+NC_089420.1	RefSeq	CDS	1827858	1829834	.	-	0	transcript_id "rna-XM_024908035.2"; gene_id "gene-TrAFT101_010045";
+NC_089420.1	RefSeq	transcript	2186555	2190789	.	+	.	transcript_id "rna-XM_024909726.2"; gene_id "gene-TrAFT101_010173"
+NC_089420.1	RefSeq	exon	2186555	2186842	.	+	.	transcript_id "rna-XM_024909726.2"; gene_id "gene-TrAFT101_010173";
+NC_089420.1	RefSeq	exon	2186895	2189716	.	+	.	transcript_id "rna-XM_024909726.2"; gene_id "gene-TrAFT101_010173";
+NC_089420.1	RefSeq	exon	2189814	2190789	.	+	.	transcript_id "rna-XM_024909726.2"; gene_id "gene-TrAFT101_010173";
+NC_089420.1	RefSeq	CDS	2186704	2186842	.	+	0	transcript_id "rna-XM_024909726.2"; gene_id "gene-TrAFT101_010173";
+NC_089420.1	RefSeq	CDS	2186895	2188681	.	+	2	transcript_id "rna-XM_024909726.2"; gene_id "gene-TrAFT101_010173";
+NC_089420.1	RefSeq	transcript	2998351	3000107	.	-	.	transcript_id "rna-XM_024902119.2"; gene_id "gene-TrAFT101_010417"
+NC_089420.1	RefSeq	exon	2998351	3000107	.	-	.	transcript_id "rna-XM_024902119.2"; gene_id "gene-TrAFT101_010417";
+NC_089420.1	RefSeq	CDS	2998542	3000053	.	-	0	transcript_id "rna-XM_024902119.2"; gene_id "gene-TrAFT101_010417";
+NC_089420.1	RefSeq	transcript	3078532	3079595	.	-	.	transcript_id "rna-XM_024907058.2"; gene_id "gene-TrAFT101_010442"
+NC_089420.1	RefSeq	exon	3078532	3078851	.	-	.	transcript_id "rna-XM_024907058.2"; gene_id "gene-TrAFT101_010442";
+NC_089420.1	RefSeq	exon	3078917	3079067	.	-	.	transcript_id "rna-XM_024907058.2"; gene_id "gene-TrAFT101_010442";
+NC_089420.1	RefSeq	exon	3079128	3079224	.	-	.	transcript_id "rna-XM_024907058.2"; gene_id "gene-TrAFT101_010442";
+NC_089420.1	RefSeq	exon	3079289	3079387	.	-	.	transcript_id "rna-XM_024907058.2"; gene_id "gene-TrAFT101_010442";
+NC_089420.1	RefSeq	exon	3079458	3079595	.	-	.	transcript_id "rna-XM_024907058.2"; gene_id "gene-TrAFT101_010442";
+NC_089420.1	RefSeq	CDS	3078629	3078851	.	-	1	transcript_id "rna-XM_024907058.2"; gene_id "gene-TrAFT101_010442";
+NC_089420.1	RefSeq	CDS	3078917	3079067	.	-	2	transcript_id "rna-XM_024907058.2"; gene_id "gene-TrAFT101_010442";
+NC_089420.1	RefSeq	CDS	3079128	3079224	.	-	0	transcript_id "rna-XM_024907058.2"; gene_id "gene-TrAFT101_010442";
+NC_089420.1	RefSeq	CDS	3079289	3079387	.	-	0	transcript_id "rna-XM_024907058.2"; gene_id "gene-TrAFT101_010442";
+NC_089420.1	RefSeq	CDS	3079458	3079469	.	-	0	transcript_id "rna-XM_024907058.2"; gene_id "gene-TrAFT101_010442";
+NC_089420.1	RefSeq	transcript	3180990	3182792	.	-	.	transcript_id "rna-XM_024907063.2"; gene_id "gene-TrAFT101_010479"; gene_name "EIF3H"
+NC_089420.1	RefSeq	exon	3180990	3182029	.	-	.	transcript_id "rna-XM_024907063.2"; gene_id "gene-TrAFT101_010479"; gene_name "EIF3H";
+NC_089420.1	RefSeq	exon	3182099	3182565	.	-	.	transcript_id "rna-XM_024907063.2"; gene_id "gene-TrAFT101_010479"; gene_name "EIF3H";
+NC_089420.1	RefSeq	exon	3182648	3182792	.	-	.	transcript_id "rna-XM_024907063.2"; gene_id "gene-TrAFT101_010479"; gene_name "EIF3H";
+NC_089420.1	RefSeq	CDS	3181471	3182029	.	-	1	transcript_id "rna-XM_024907063.2"; gene_id "gene-TrAFT101_010479"; gene_name "EIF3H";
+NC_089420.1	RefSeq	CDS	3182099	3182565	.	-	0	transcript_id "rna-XM_024907063.2"; gene_id "gene-TrAFT101_010479"; gene_name "EIF3H";
+NC_089420.1	RefSeq	CDS	3182648	3182701	.	-	0	transcript_id "rna-XM_024907063.2"; gene_id "gene-TrAFT101_010479"; gene_name "EIF3H";
+NC_089420.1	RefSeq	transcript	3341834	3343540	.	+	.	transcript_id "rna-XM_024910288.2"; gene_id "gene-TrAFT101_010530"; gene_name "ISY1"
+NC_089420.1	RefSeq	exon	3341834	3341857	.	+	.	transcript_id "rna-XM_024910288.2"; gene_id "gene-TrAFT101_010530"; gene_name "ISY1";
+NC_089420.1	RefSeq	exon	3341941	3342075	.	+	.	transcript_id "rna-XM_024910288.2"; gene_id "gene-TrAFT101_010530"; gene_name "ISY1";
+NC_089420.1	RefSeq	exon	3342144	3343540	.	+	.	transcript_id "rna-XM_024910288.2"; gene_id "gene-TrAFT101_010530"; gene_name "ISY1";
+NC_089420.1	RefSeq	CDS	3341834	3341857	.	+	0	transcript_id "rna-XM_024910288.2"; gene_id "gene-TrAFT101_010530"; gene_name "ISY1";
+NC_089420.1	RefSeq	CDS	3341941	3342075	.	+	0	transcript_id "rna-XM_024910288.2"; gene_id "gene-TrAFT101_010530"; gene_name "ISY1";
+NC_089420.1	RefSeq	CDS	3342144	3342875	.	+	0	transcript_id "rna-XM_024910288.2"; gene_id "gene-TrAFT101_010530"; gene_name "ISY1";
+NC_089421.1	RefSeq	transcript	1102430	1105166	.	-	.	transcript_id "rna-XM_024908787.2"; gene_id "gene-TrAFT101_011140"
+NC_089421.1	RefSeq	exon	1102430	1102857	.	-	.	transcript_id "rna-XM_024908787.2"; gene_id "gene-TrAFT101_011140";
+NC_089421.1	RefSeq	exon	1102941	1104638	.	-	.	transcript_id "rna-XM_024908787.2"; gene_id "gene-TrAFT101_011140";
+NC_089421.1	RefSeq	exon	1104808	1105166	.	-	.	transcript_id "rna-XM_024908787.2"; gene_id "gene-TrAFT101_011140";
+NC_089421.1	RefSeq	CDS	1102812	1102857	.	-	1	transcript_id "rna-XM_024908787.2"; gene_id "gene-TrAFT101_011140";
+NC_089421.1	RefSeq	CDS	1102941	1104638	.	-	1	transcript_id "rna-XM_024908787.2"; gene_id "gene-TrAFT101_011140";
+NC_089421.1	RefSeq	CDS	1104808	1104860	.	-	0	transcript_id "rna-XM_024908787.2"; gene_id "gene-TrAFT101_011140";
+NC_089421.1	RefSeq	transcript	1571702	1573353	.	-	.	transcript_id "rna-XM_024907135.2"; gene_id "gene-TrAFT101_011292"
+NC_089421.1	RefSeq	exon	1571702	1572352	.	-	.	transcript_id "rna-XM_024907135.2"; gene_id "gene-TrAFT101_011292";
+NC_089421.1	RefSeq	exon	1572422	1572540	.	-	.	transcript_id "rna-XM_024907135.2"; gene_id "gene-TrAFT101_011292";
+NC_089421.1	RefSeq	exon	1572630	1572745	.	-	.	transcript_id "rna-XM_024907135.2"; gene_id "gene-TrAFT101_011292";
+NC_089421.1	RefSeq	exon	1572804	1572884	.	-	.	transcript_id "rna-XM_024907135.2"; gene_id "gene-TrAFT101_011292";
+NC_089421.1	RefSeq	exon	1572943	1573353	.	-	.	transcript_id "rna-XM_024907135.2"; gene_id "gene-TrAFT101_011292";
+NC_089421.1	RefSeq	CDS	1571901	1572352	.	-	2	transcript_id "rna-XM_024907135.2"; gene_id "gene-TrAFT101_011292";
+NC_089421.1	RefSeq	CDS	1572422	1572540	.	-	1	transcript_id "rna-XM_024907135.2"; gene_id "gene-TrAFT101_011292";
+NC_089421.1	RefSeq	CDS	1572630	1572745	.	-	0	transcript_id "rna-XM_024907135.2"; gene_id "gene-TrAFT101_011292";
+NC_089421.1	RefSeq	CDS	1572804	1572884	.	-	0	transcript_id "rna-XM_024907135.2"; gene_id "gene-TrAFT101_011292";
+NC_089421.1	RefSeq	CDS	1572943	1573236	.	-	0	transcript_id "rna-XM_024907135.2"; gene_id "gene-TrAFT101_011292";
+NC_089421.1	RefSeq	transcript	1727986	1729964	.	-	.	transcript_id "rna-XM_024901480.2"; gene_id "gene-TrAFT101_011311"
+NC_089421.1	RefSeq	exon	1727986	1728816	.	-	.	transcript_id "rna-XM_024901480.2"; gene_id "gene-TrAFT101_011311";
+NC_089421.1	RefSeq	exon	1728900	1729964	.	-	.	transcript_id "rna-XM_024901480.2"; gene_id "gene-TrAFT101_011311";
+NC_089421.1	RefSeq	CDS	1728212	1728816	.	-	2	transcript_id "rna-XM_024901480.2"; gene_id "gene-TrAFT101_011311";
+NC_089421.1	RefSeq	CDS	1728900	1729767	.	-	0	transcript_id "rna-XM_024901480.2"; gene_id "gene-TrAFT101_011311";
+NC_089421.1	RefSeq	transcript	2369146	2370697	.	+	.	transcript_id "rna-XM_024902059.2"; gene_id "gene-TrAFT101_011492"
+NC_089421.1	RefSeq	exon	2369146	2370014	.	+	.	transcript_id "rna-XM_024902059.2"; gene_id "gene-TrAFT101_011492";
+NC_089421.1	RefSeq	exon	2370079	2370697	.	+	.	transcript_id "rna-XM_024902059.2"; gene_id "gene-TrAFT101_011492";
+NC_089421.1	RefSeq	CDS	2369289	2370014	.	+	0	transcript_id "rna-XM_024902059.2"; gene_id "gene-TrAFT101_011492";
+NC_089421.1	RefSeq	CDS	2370079	2370402	.	+	0	transcript_id "rna-XM_024902059.2"; gene_id "gene-TrAFT101_011492";
+NC_089421.1	RefSeq	transcript	2543075	2545215	.	+	.	transcript_id "rna-XM_024908641.2"; gene_id "gene-TrAFT101_011549"
+NC_089421.1	RefSeq	exon	2543075	2543542	.	+	.	transcript_id "rna-XM_024908641.2"; gene_id "gene-TrAFT101_011549";
+NC_089421.1	RefSeq	exon	2543627	2544664	.	+	.	transcript_id "rna-XM_024908641.2"; gene_id "gene-TrAFT101_011549";
+NC_089421.1	RefSeq	exon	2544748	2545215	.	+	.	transcript_id "rna-XM_024908641.2"; gene_id "gene-TrAFT101_011549";
+NC_089421.1	RefSeq	CDS	2543234	2543542	.	+	0	transcript_id "rna-XM_024908641.2"; gene_id "gene-TrAFT101_011549";
+NC_089421.1	RefSeq	CDS	2543627	2544664	.	+	0	transcript_id "rna-XM_024908641.2"; gene_id "gene-TrAFT101_011549";
+NC_089421.1	RefSeq	CDS	2544748	2544831	.	+	0	transcript_id "rna-XM_024908641.2"; gene_id "gene-TrAFT101_011549";
+NC_089421.1	RefSeq	transcript	2800303	2801085	.	-	.	transcript_id "rna-XM_024908624.2"; gene_id "gene-TrAFT101_011641"
+NC_089421.1	RefSeq	exon	2800303	2801085	.	-	.	transcript_id "rna-XM_024908624.2"; gene_id "gene-TrAFT101_011641";
+NC_089421.1	RefSeq	CDS	2800303	2801085	.	-	0	transcript_id "rna-XM_024908624.2"; gene_id "gene-TrAFT101_011641";
+NC_089421.1	RefSeq	transcript	3304782	3306344	.	+	.	transcript_id "rna-XM_024902706.2"; gene_id "gene-TrAFT101_011804"
+NC_089421.1	RefSeq	exon	3304782	3304945	.	+	.	transcript_id "rna-XM_024902706.2"; gene_id "gene-TrAFT101_011804";
+NC_089421.1	RefSeq	exon	3305040	3306344	.	+	.	transcript_id "rna-XM_024902706.2"; gene_id "gene-TrAFT101_011804";
+NC_089421.1	RefSeq	CDS	3304865	3304945	.	+	0	transcript_id "rna-XM_024902706.2"; gene_id "gene-TrAFT101_011804";
+NC_089421.1	RefSeq	CDS	3305040	3306188	.	+	0	transcript_id "rna-XM_024902706.2"; gene_id "gene-TrAFT101_011804";

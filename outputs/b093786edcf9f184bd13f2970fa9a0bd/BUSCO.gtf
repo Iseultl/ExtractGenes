@@ -1,0 +1,938 @@
+NC_064650.1	RefSeq	transcript	107855	109602	.	+	.	transcript_id "rna-XM_050108982.1"; gene_id "gene-POX_a00032"; gene_name "trm6"
+NC_064650.1	RefSeq	exon	107855	107940	.	+	.	transcript_id "rna-XM_050108982.1"; gene_id "gene-POX_a00032"; gene_name "trm6";
+NC_064650.1	RefSeq	exon	108010	108952	.	+	.	transcript_id "rna-XM_050108982.1"; gene_id "gene-POX_a00032"; gene_name "trm6";
+NC_064650.1	RefSeq	exon	109033	109602	.	+	.	transcript_id "rna-XM_050108982.1"; gene_id "gene-POX_a00032"; gene_name "trm6";
+NC_064650.1	RefSeq	CDS	107855	107940	.	+	0	transcript_id "rna-XM_050108982.1"; gene_id "gene-POX_a00032"; gene_name "trm6";
+NC_064650.1	RefSeq	CDS	108010	108952	.	+	1	transcript_id "rna-XM_050108982.1"; gene_id "gene-POX_a00032"; gene_name "trm6";
+NC_064650.1	RefSeq	CDS	109033	109602	.	+	0	transcript_id "rna-XM_050108982.1"; gene_id "gene-POX_a00032"; gene_name "trm6";
+NC_064650.1	RefSeq	transcript	313733	314636	.	+	.	transcript_id "rna-XM_050109054.1"; gene_id "gene-POX_a00105"
+NC_064650.1	RefSeq	exon	313733	314024	.	+	.	transcript_id "rna-XM_050109054.1"; gene_id "gene-POX_a00105";
+NC_064650.1	RefSeq	exon	314083	314636	.	+	.	transcript_id "rna-XM_050109054.1"; gene_id "gene-POX_a00105";
+NC_064650.1	RefSeq	CDS	313733	314024	.	+	0	transcript_id "rna-XM_050109054.1"; gene_id "gene-POX_a00105";
+NC_064650.1	RefSeq	CDS	314083	314636	.	+	2	transcript_id "rna-XM_050109054.1"; gene_id "gene-POX_a00105";
+NC_064650.1	RefSeq	transcript	569678	570534	.	-	.	transcript_id "rna-XM_050109144.1"; gene_id "gene-POX_a00196"
+NC_064650.1	RefSeq	exon	569678	570433	.	-	.	transcript_id "rna-XM_050109144.1"; gene_id "gene-POX_a00196";
+NC_064650.1	RefSeq	exon	570532	570534	.	-	.	transcript_id "rna-XM_050109144.1"; gene_id "gene-POX_a00196";
+NC_064650.1	RefSeq	CDS	569678	570433	.	-	0	transcript_id "rna-XM_050109144.1"; gene_id "gene-POX_a00196";
+NC_064650.1	RefSeq	CDS	570532	570534	.	-	0	transcript_id "rna-XM_050109144.1"; gene_id "gene-POX_a00196";
+NC_064650.1	RefSeq	transcript	1160443	1161615	.	-	.	transcript_id "rna-XM_050109337.1"; gene_id "gene-POX_a00394"
+NC_064650.1	RefSeq	exon	1160443	1160989	.	-	.	transcript_id "rna-XM_050109337.1"; gene_id "gene-POX_a00394";
+NC_064650.1	RefSeq	exon	1161065	1161615	.	-	.	transcript_id "rna-XM_050109337.1"; gene_id "gene-POX_a00394";
+NC_064650.1	RefSeq	CDS	1160443	1160989	.	-	1	transcript_id "rna-XM_050109337.1"; gene_id "gene-POX_a00394";
+NC_064650.1	RefSeq	CDS	1161065	1161615	.	-	0	transcript_id "rna-XM_050109337.1"; gene_id "gene-POX_a00394";
+NC_064650.1	RefSeq	transcript	1267738	1269201	.	-	.	transcript_id "rna-XM_050109367.1"; gene_id "gene-POX_a00425"; gene_name "trm61"
+NC_064650.1	RefSeq	exon	1267738	1269201	.	-	.	transcript_id "rna-XM_050109367.1"; gene_id "gene-POX_a00425"; gene_name "trm61";
+NC_064650.1	RefSeq	CDS	1267738	1269201	.	-	0	transcript_id "rna-XM_050109367.1"; gene_id "gene-POX_a00425"; gene_name "trm61";
+NC_064650.1	RefSeq	transcript	1548692	1554037	.	-	.	transcript_id "rna-XM_050109474.1"; gene_id "gene-POX_a00533"
+NC_064650.1	RefSeq	exon	1548692	1549203	.	-	.	transcript_id "rna-XM_050109474.1"; gene_id "gene-POX_a00533";
+NC_064650.1	RefSeq	exon	1549262	1549876	.	-	.	transcript_id "rna-XM_050109474.1"; gene_id "gene-POX_a00533";
+NC_064650.1	RefSeq	exon	1550099	1550183	.	-	.	transcript_id "rna-XM_050109474.1"; gene_id "gene-POX_a00533";
+NC_064650.1	RefSeq	exon	1551103	1552909	.	-	.	transcript_id "rna-XM_050109474.1"; gene_id "gene-POX_a00533";
+NC_064650.1	RefSeq	exon	1552969	1553216	.	-	.	transcript_id "rna-XM_050109474.1"; gene_id "gene-POX_a00533";
+NC_064650.1	RefSeq	exon	1553281	1553776	.	-	.	transcript_id "rna-XM_050109474.1"; gene_id "gene-POX_a00533";
+NC_064650.1	RefSeq	exon	1553843	1553955	.	-	.	transcript_id "rna-XM_050109474.1"; gene_id "gene-POX_a00533";
+NC_064650.1	RefSeq	exon	1554020	1554037	.	-	.	transcript_id "rna-XM_050109474.1"; gene_id "gene-POX_a00533";
+NC_064650.1	RefSeq	CDS	1548692	1549203	.	-	2	transcript_id "rna-XM_050109474.1"; gene_id "gene-POX_a00533";
+NC_064650.1	RefSeq	CDS	1549262	1549876	.	-	2	transcript_id "rna-XM_050109474.1"; gene_id "gene-POX_a00533";
+NC_064650.1	RefSeq	CDS	1550099	1550183	.	-	0	transcript_id "rna-XM_050109474.1"; gene_id "gene-POX_a00533";
+NC_064650.1	RefSeq	CDS	1551103	1552909	.	-	1	transcript_id "rna-XM_050109474.1"; gene_id "gene-POX_a00533";
+NC_064650.1	RefSeq	CDS	1552969	1553216	.	-	0	transcript_id "rna-XM_050109474.1"; gene_id "gene-POX_a00533";
+NC_064650.1	RefSeq	CDS	1553281	1553776	.	-	1	transcript_id "rna-XM_050109474.1"; gene_id "gene-POX_a00533";
+NC_064650.1	RefSeq	CDS	1553843	1553955	.	-	0	transcript_id "rna-XM_050109474.1"; gene_id "gene-POX_a00533";
+NC_064650.1	RefSeq	CDS	1554020	1554037	.	-	0	transcript_id "rna-XM_050109474.1"; gene_id "gene-POX_a00533";
+NC_064650.1	RefSeq	transcript	1791908	1792663	.	+	.	transcript_id "rna-XM_050109548.1"; gene_id "gene-POX_a00609"
+NC_064650.1	RefSeq	exon	1791908	1792663	.	+	.	transcript_id "rna-XM_050109548.1"; gene_id "gene-POX_a00609";
+NC_064650.1	RefSeq	CDS	1791908	1792663	.	+	0	transcript_id "rna-XM_050109548.1"; gene_id "gene-POX_a00609";
+NC_064650.1	RefSeq	transcript	2044547	2045166	.	+	.	transcript_id "rna-XM_050109629.1"; gene_id "gene-POX_a00690"; gene_name "spt4"
+NC_064650.1	RefSeq	exon	2044547	2044624	.	+	.	transcript_id "rna-XM_050109629.1"; gene_id "gene-POX_a00690"; gene_name "spt4";
+NC_064650.1	RefSeq	exon	2044743	2044940	.	+	.	transcript_id "rna-XM_050109629.1"; gene_id "gene-POX_a00690"; gene_name "spt4";
+NC_064650.1	RefSeq	exon	2045008	2045060	.	+	.	transcript_id "rna-XM_050109629.1"; gene_id "gene-POX_a00690"; gene_name "spt4";
+NC_064650.1	RefSeq	exon	2045133	2045166	.	+	.	transcript_id "rna-XM_050109629.1"; gene_id "gene-POX_a00690"; gene_name "spt4";
+NC_064650.1	RefSeq	CDS	2044547	2044624	.	+	0	transcript_id "rna-XM_050109629.1"; gene_id "gene-POX_a00690"; gene_name "spt4";
+NC_064650.1	RefSeq	CDS	2044743	2044940	.	+	0	transcript_id "rna-XM_050109629.1"; gene_id "gene-POX_a00690"; gene_name "spt4";
+NC_064650.1	RefSeq	CDS	2045008	2045060	.	+	0	transcript_id "rna-XM_050109629.1"; gene_id "gene-POX_a00690"; gene_name "spt4";
+NC_064650.1	RefSeq	CDS	2045133	2045166	.	+	1	transcript_id "rna-XM_050109629.1"; gene_id "gene-POX_a00690"; gene_name "spt4";
+NC_064650.1	RefSeq	transcript	2240004	2243394	.	-	.	transcript_id "rna-XM_050109705.1"; gene_id "gene-POX_a00766"
+NC_064650.1	RefSeq	exon	2240004	2240424	.	-	.	transcript_id "rna-XM_050109705.1"; gene_id "gene-POX_a00766";
+NC_064650.1	RefSeq	exon	2240542	2243083	.	-	.	transcript_id "rna-XM_050109705.1"; gene_id "gene-POX_a00766";
+NC_064650.1	RefSeq	exon	2243172	2243394	.	-	.	transcript_id "rna-XM_050109705.1"; gene_id "gene-POX_a00766";
+NC_064650.1	RefSeq	CDS	2240004	2240424	.	-	1	transcript_id "rna-XM_050109705.1"; gene_id "gene-POX_a00766";
+NC_064650.1	RefSeq	CDS	2240542	2243083	.	-	2	transcript_id "rna-XM_050109705.1"; gene_id "gene-POX_a00766";
+NC_064650.1	RefSeq	CDS	2243172	2243394	.	-	0	transcript_id "rna-XM_050109705.1"; gene_id "gene-POX_a00766";
+NC_064650.1	RefSeq	transcript	2246191	2247381	.	-	.	transcript_id "rna-XM_050109707.1"; gene_id "gene-POX_a00768"
+NC_064650.1	RefSeq	exon	2246191	2246768	.	-	.	transcript_id "rna-XM_050109707.1"; gene_id "gene-POX_a00768";
+NC_064650.1	RefSeq	exon	2246844	2247012	.	-	.	transcript_id "rna-XM_050109707.1"; gene_id "gene-POX_a00768";
+NC_064650.1	RefSeq	exon	2247076	2247381	.	-	.	transcript_id "rna-XM_050109707.1"; gene_id "gene-POX_a00768";
+NC_064650.1	RefSeq	CDS	2246191	2246768	.	-	2	transcript_id "rna-XM_050109707.1"; gene_id "gene-POX_a00768";
+NC_064650.1	RefSeq	CDS	2246844	2247012	.	-	0	transcript_id "rna-XM_050109707.1"; gene_id "gene-POX_a00768";
+NC_064650.1	RefSeq	CDS	2247076	2247381	.	-	0	transcript_id "rna-XM_050109707.1"; gene_id "gene-POX_a00768";
+NC_064650.1	RefSeq	transcript	2550194	2551656	.	+	.	transcript_id "rna-XM_050109804.1"; gene_id "gene-POX_a00867"
+NC_064650.1	RefSeq	exon	2550194	2550408	.	+	.	transcript_id "rna-XM_050109804.1"; gene_id "gene-POX_a00867";
+NC_064650.1	RefSeq	exon	2550491	2550826	.	+	.	transcript_id "rna-XM_050109804.1"; gene_id "gene-POX_a00867";
+NC_064650.1	RefSeq	exon	2550891	2551656	.	+	.	transcript_id "rna-XM_050109804.1"; gene_id "gene-POX_a00867";
+NC_064650.1	RefSeq	CDS	2550194	2550408	.	+	0	transcript_id "rna-XM_050109804.1"; gene_id "gene-POX_a00867";
+NC_064650.1	RefSeq	CDS	2550491	2550826	.	+	1	transcript_id "rna-XM_050109804.1"; gene_id "gene-POX_a00867";
+NC_064650.1	RefSeq	CDS	2550891	2551656	.	+	1	transcript_id "rna-XM_050109804.1"; gene_id "gene-POX_a00867";
+NC_064650.1	RefSeq	transcript	2715290	2717407	.	+	.	transcript_id "rna-XM_050109829.1"; gene_id "gene-POX_a00895"
+NC_064650.1	RefSeq	exon	2715290	2717407	.	+	.	transcript_id "rna-XM_050109829.1"; gene_id "gene-POX_a00895";
+NC_064650.1	RefSeq	CDS	2715290	2717407	.	+	0	transcript_id "rna-XM_050109829.1"; gene_id "gene-POX_a00895";
+NC_064650.1	RefSeq	transcript	3136379	3138625	.	-	.	transcript_id "rna-XM_050109952.1"; gene_id "gene-POX_a01022"
+NC_064650.1	RefSeq	exon	3136379	3138345	.	-	.	transcript_id "rna-XM_050109952.1"; gene_id "gene-POX_a01022";
+NC_064650.1	RefSeq	exon	3138409	3138625	.	-	.	transcript_id "rna-XM_050109952.1"; gene_id "gene-POX_a01022";
+NC_064650.1	RefSeq	CDS	3136379	3138345	.	-	2	transcript_id "rna-XM_050109952.1"; gene_id "gene-POX_a01022";
+NC_064650.1	RefSeq	CDS	3138409	3138625	.	-	0	transcript_id "rna-XM_050109952.1"; gene_id "gene-POX_a01022";
+NC_064650.1	RefSeq	transcript	3334235	3335805	.	-	.	transcript_id "rna-XM_050110015.1"; gene_id "gene-POX_a01085"; gene_name "cox15"
+NC_064650.1	RefSeq	exon	3334235	3335345	.	-	.	transcript_id "rna-XM_050110015.1"; gene_id "gene-POX_a01085"; gene_name "cox15";
+NC_064650.1	RefSeq	exon	3335420	3335805	.	-	.	transcript_id "rna-XM_050110015.1"; gene_id "gene-POX_a01085"; gene_name "cox15";
+NC_064650.1	RefSeq	CDS	3334235	3335345	.	-	1	transcript_id "rna-XM_050110015.1"; gene_id "gene-POX_a01085"; gene_name "cox15";
+NC_064650.1	RefSeq	CDS	3335420	3335805	.	-	0	transcript_id "rna-XM_050110015.1"; gene_id "gene-POX_a01085"; gene_name "cox15";
+NC_064650.1	RefSeq	transcript	3863128	3864365	.	-	.	transcript_id "rna-XM_050110199.1"; gene_id "gene-POX_a01270"
+NC_064650.1	RefSeq	exon	3863128	3863733	.	-	.	transcript_id "rna-XM_050110199.1"; gene_id "gene-POX_a01270";
+NC_064650.1	RefSeq	exon	3863835	3864365	.	-	.	transcript_id "rna-XM_050110199.1"; gene_id "gene-POX_a01270";
+NC_064650.1	RefSeq	CDS	3863128	3863733	.	-	0	transcript_id "rna-XM_050110199.1"; gene_id "gene-POX_a01270";
+NC_064650.1	RefSeq	CDS	3863835	3864365	.	-	0	transcript_id "rna-XM_050110199.1"; gene_id "gene-POX_a01270";
+NC_064650.1	RefSeq	transcript	4251181	4253181	.	-	.	transcript_id "rna-XM_050110319.1"; gene_id "gene-POX_a01391"
+NC_064650.1	RefSeq	exon	4251181	4252967	.	-	.	transcript_id "rna-XM_050110319.1"; gene_id "gene-POX_a01391";
+NC_064650.1	RefSeq	exon	4253043	4253181	.	-	.	transcript_id "rna-XM_050110319.1"; gene_id "gene-POX_a01391";
+NC_064650.1	RefSeq	CDS	4251181	4252967	.	-	2	transcript_id "rna-XM_050110319.1"; gene_id "gene-POX_a01391";
+NC_064650.1	RefSeq	CDS	4253043	4253181	.	-	0	transcript_id "rna-XM_050110319.1"; gene_id "gene-POX_a01391";
+NC_064650.1	RefSeq	transcript	4284042	4285326	.	-	.	transcript_id "rna-XM_050110333.1"; gene_id "gene-POX_a01405"
+NC_064650.1	RefSeq	exon	4284042	4285216	.	-	.	transcript_id "rna-XM_050110333.1"; gene_id "gene-POX_a01405";
+NC_064650.1	RefSeq	exon	4285284	4285326	.	-	.	transcript_id "rna-XM_050110333.1"; gene_id "gene-POX_a01405";
+NC_064650.1	RefSeq	CDS	4284042	4285216	.	-	2	transcript_id "rna-XM_050110333.1"; gene_id "gene-POX_a01405";
+NC_064650.1	RefSeq	CDS	4285284	4285326	.	-	0	transcript_id "rna-XM_050110333.1"; gene_id "gene-POX_a01405";
+NC_064650.1	RefSeq	transcript	4301909	4302696	.	+	.	transcript_id "rna-XM_050110340.1"; gene_id "gene-POX_a01412"
+NC_064650.1	RefSeq	exon	4301909	4301920	.	+	.	transcript_id "rna-XM_050110340.1"; gene_id "gene-POX_a01412";
+NC_064650.1	RefSeq	exon	4302001	4302696	.	+	.	transcript_id "rna-XM_050110340.1"; gene_id "gene-POX_a01412";
+NC_064650.1	RefSeq	CDS	4301909	4301920	.	+	0	transcript_id "rna-XM_050110340.1"; gene_id "gene-POX_a01412";
+NC_064650.1	RefSeq	CDS	4302001	4302696	.	+	0	transcript_id "rna-XM_050110340.1"; gene_id "gene-POX_a01412";
+NC_064650.1	RefSeq	transcript	4350514	4351286	.	-	.	transcript_id "rna-XM_050110361.1"; gene_id "gene-POX_a01433"
+NC_064650.1	RefSeq	exon	4350514	4351139	.	-	.	transcript_id "rna-XM_050110361.1"; gene_id "gene-POX_a01433";
+NC_064650.1	RefSeq	exon	4351220	4351286	.	-	.	transcript_id "rna-XM_050110361.1"; gene_id "gene-POX_a01433";
+NC_064650.1	RefSeq	CDS	4350514	4351139	.	-	2	transcript_id "rna-XM_050110361.1"; gene_id "gene-POX_a01433";
+NC_064650.1	RefSeq	CDS	4351220	4351286	.	-	0	transcript_id "rna-XM_050110361.1"; gene_id "gene-POX_a01433";
+NC_064650.1	RefSeq	transcript	4441593	4442505	.	+	.	transcript_id "rna-XM_050110398.1"; gene_id "gene-POX_a01470"
+NC_064650.1	RefSeq	exon	4441593	4441682	.	+	.	transcript_id "rna-XM_050110398.1"; gene_id "gene-POX_a01470";
+NC_064650.1	RefSeq	exon	4441808	4442128	.	+	.	transcript_id "rna-XM_050110398.1"; gene_id "gene-POX_a01470";
+NC_064650.1	RefSeq	exon	4442176	4442324	.	+	.	transcript_id "rna-XM_050110398.1"; gene_id "gene-POX_a01470";
+NC_064650.1	RefSeq	exon	4442412	4442505	.	+	.	transcript_id "rna-XM_050110398.1"; gene_id "gene-POX_a01470";
+NC_064650.1	RefSeq	CDS	4441593	4441682	.	+	0	transcript_id "rna-XM_050110398.1"; gene_id "gene-POX_a01470";
+NC_064650.1	RefSeq	CDS	4441808	4442128	.	+	0	transcript_id "rna-XM_050110398.1"; gene_id "gene-POX_a01470";
+NC_064650.1	RefSeq	CDS	4442176	4442324	.	+	0	transcript_id "rna-XM_050110398.1"; gene_id "gene-POX_a01470";
+NC_064650.1	RefSeq	CDS	4442412	4442505	.	+	1	transcript_id "rna-XM_050110398.1"; gene_id "gene-POX_a01470";
+NC_064650.1	RefSeq	transcript	4478459	4480522	.	-	.	transcript_id "rna-XM_050110407.1"; gene_id "gene-POX_a01479"
+NC_064650.1	RefSeq	exon	4478459	4479544	.	-	.	transcript_id "rna-XM_050110407.1"; gene_id "gene-POX_a01479";
+NC_064650.1	RefSeq	exon	4479611	4480318	.	-	.	transcript_id "rna-XM_050110407.1"; gene_id "gene-POX_a01479";
+NC_064650.1	RefSeq	exon	4480391	4480522	.	-	.	transcript_id "rna-XM_050110407.1"; gene_id "gene-POX_a01479";
+NC_064650.1	RefSeq	CDS	4478459	4479544	.	-	0	transcript_id "rna-XM_050110407.1"; gene_id "gene-POX_a01479";
+NC_064650.1	RefSeq	CDS	4479611	4480318	.	-	0	transcript_id "rna-XM_050110407.1"; gene_id "gene-POX_a01479";
+NC_064650.1	RefSeq	CDS	4480391	4480522	.	-	0	transcript_id "rna-XM_050110407.1"; gene_id "gene-POX_a01479";
+NC_064650.1	RefSeq	transcript	5163405	5164288	.	-	.	transcript_id "rna-XM_050110628.1"; gene_id "gene-POX_a01703"
+NC_064650.1	RefSeq	exon	5163405	5163657	.	-	.	transcript_id "rna-XM_050110628.1"; gene_id "gene-POX_a01703";
+NC_064650.1	RefSeq	exon	5163736	5163881	.	-	.	transcript_id "rna-XM_050110628.1"; gene_id "gene-POX_a01703";
+NC_064650.1	RefSeq	exon	5163948	5164048	.	-	.	transcript_id "rna-XM_050110628.1"; gene_id "gene-POX_a01703";
+NC_064650.1	RefSeq	exon	5164107	5164154	.	-	.	transcript_id "rna-XM_050110628.1"; gene_id "gene-POX_a01703";
+NC_064650.1	RefSeq	exon	5164231	5164288	.	-	.	transcript_id "rna-XM_050110628.1"; gene_id "gene-POX_a01703";
+NC_064650.1	RefSeq	CDS	5163405	5163657	.	-	1	transcript_id "rna-XM_050110628.1"; gene_id "gene-POX_a01703";
+NC_064650.1	RefSeq	CDS	5163736	5163881	.	-	0	transcript_id "rna-XM_050110628.1"; gene_id "gene-POX_a01703";
+NC_064650.1	RefSeq	CDS	5163948	5164048	.	-	2	transcript_id "rna-XM_050110628.1"; gene_id "gene-POX_a01703";
+NC_064650.1	RefSeq	CDS	5164107	5164154	.	-	2	transcript_id "rna-XM_050110628.1"; gene_id "gene-POX_a01703";
+NC_064650.1	RefSeq	CDS	5164231	5164288	.	-	0	transcript_id "rna-XM_050110628.1"; gene_id "gene-POX_a01703";
+NC_064650.1	RefSeq	transcript	5255119	5257451	.	+	.	transcript_id "rna-XM_050110657.1"; gene_id "gene-POX_a01733"; gene_name "cog6"
+NC_064650.1	RefSeq	exon	5255119	5255400	.	+	.	transcript_id "rna-XM_050110657.1"; gene_id "gene-POX_a01733"; gene_name "cog6";
+NC_064650.1	RefSeq	exon	5255469	5257451	.	+	.	transcript_id "rna-XM_050110657.1"; gene_id "gene-POX_a01733"; gene_name "cog6";
+NC_064650.1	RefSeq	CDS	5255119	5255400	.	+	0	transcript_id "rna-XM_050110657.1"; gene_id "gene-POX_a01733"; gene_name "cog6";
+NC_064650.1	RefSeq	CDS	5255469	5257451	.	+	0	transcript_id "rna-XM_050110657.1"; gene_id "gene-POX_a01733"; gene_name "cog6";
+NC_064650.1	RefSeq	transcript	5652455	5653524	.	-	.	transcript_id "rna-XM_050110787.1"; gene_id "gene-POX_a01863"
+NC_064650.1	RefSeq	exon	5652455	5653395	.	-	.	transcript_id "rna-XM_050110787.1"; gene_id "gene-POX_a01863";
+NC_064650.1	RefSeq	exon	5653458	5653524	.	-	.	transcript_id "rna-XM_050110787.1"; gene_id "gene-POX_a01863";
+NC_064650.1	RefSeq	CDS	5652455	5653395	.	-	2	transcript_id "rna-XM_050110787.1"; gene_id "gene-POX_a01863";
+NC_064650.1	RefSeq	CDS	5653458	5653524	.	-	0	transcript_id "rna-XM_050110787.1"; gene_id "gene-POX_a01863";
+NC_064651.1	RefSeq	transcript	343555	345849	.	+	.	transcript_id "rna-XM_050110966.1"; gene_id "gene-POX_b02047"
+NC_064651.1	RefSeq	exon	343555	343581	.	+	.	transcript_id "rna-XM_050110966.1"; gene_id "gene-POX_b02047";
+NC_064651.1	RefSeq	exon	343645	343699	.	+	.	transcript_id "rna-XM_050110966.1"; gene_id "gene-POX_b02047";
+NC_064651.1	RefSeq	exon	343760	343995	.	+	.	transcript_id "rna-XM_050110966.1"; gene_id "gene-POX_b02047";
+NC_064651.1	RefSeq	exon	344062	344168	.	+	.	transcript_id "rna-XM_050110966.1"; gene_id "gene-POX_b02047";
+NC_064651.1	RefSeq	exon	344221	344455	.	+	.	transcript_id "rna-XM_050110966.1"; gene_id "gene-POX_b02047";
+NC_064651.1	RefSeq	exon	344513	344606	.	+	.	transcript_id "rna-XM_050110966.1"; gene_id "gene-POX_b02047";
+NC_064651.1	RefSeq	exon	344669	345124	.	+	.	transcript_id "rna-XM_050110966.1"; gene_id "gene-POX_b02047";
+NC_064651.1	RefSeq	exon	345225	345523	.	+	.	transcript_id "rna-XM_050110966.1"; gene_id "gene-POX_b02047";
+NC_064651.1	RefSeq	exon	345590	345689	.	+	.	transcript_id "rna-XM_050110966.1"; gene_id "gene-POX_b02047";
+NC_064651.1	RefSeq	exon	345767	345849	.	+	.	transcript_id "rna-XM_050110966.1"; gene_id "gene-POX_b02047";
+NC_064651.1	RefSeq	CDS	343555	343581	.	+	0	transcript_id "rna-XM_050110966.1"; gene_id "gene-POX_b02047";
+NC_064651.1	RefSeq	CDS	343645	343699	.	+	0	transcript_id "rna-XM_050110966.1"; gene_id "gene-POX_b02047";
+NC_064651.1	RefSeq	CDS	343760	343995	.	+	2	transcript_id "rna-XM_050110966.1"; gene_id "gene-POX_b02047";
+NC_064651.1	RefSeq	CDS	344062	344168	.	+	0	transcript_id "rna-XM_050110966.1"; gene_id "gene-POX_b02047";
+NC_064651.1	RefSeq	CDS	344221	344455	.	+	1	transcript_id "rna-XM_050110966.1"; gene_id "gene-POX_b02047";
+NC_064651.1	RefSeq	CDS	344513	344606	.	+	0	transcript_id "rna-XM_050110966.1"; gene_id "gene-POX_b02047";
+NC_064651.1	RefSeq	CDS	344669	345124	.	+	2	transcript_id "rna-XM_050110966.1"; gene_id "gene-POX_b02047";
+NC_064651.1	RefSeq	CDS	345225	345523	.	+	2	transcript_id "rna-XM_050110966.1"; gene_id "gene-POX_b02047";
+NC_064651.1	RefSeq	CDS	345590	345689	.	+	0	transcript_id "rna-XM_050110966.1"; gene_id "gene-POX_b02047";
+NC_064651.1	RefSeq	CDS	345767	345849	.	+	2	transcript_id "rna-XM_050110966.1"; gene_id "gene-POX_b02047";
+NC_064651.1	RefSeq	transcript	470578	472333	.	+	.	transcript_id "rna-XM_050111007.1"; gene_id "gene-POX_b02090"
+NC_064651.1	RefSeq	exon	470578	470657	.	+	.	transcript_id "rna-XM_050111007.1"; gene_id "gene-POX_b02090";
+NC_064651.1	RefSeq	exon	470704	471473	.	+	.	transcript_id "rna-XM_050111007.1"; gene_id "gene-POX_b02090";
+NC_064651.1	RefSeq	exon	471534	471730	.	+	.	transcript_id "rna-XM_050111007.1"; gene_id "gene-POX_b02090";
+NC_064651.1	RefSeq	exon	471844	472012	.	+	.	transcript_id "rna-XM_050111007.1"; gene_id "gene-POX_b02090";
+NC_064651.1	RefSeq	exon	472065	472333	.	+	.	transcript_id "rna-XM_050111007.1"; gene_id "gene-POX_b02090";
+NC_064651.1	RefSeq	CDS	470578	470657	.	+	0	transcript_id "rna-XM_050111007.1"; gene_id "gene-POX_b02090";
+NC_064651.1	RefSeq	CDS	470704	471473	.	+	1	transcript_id "rna-XM_050111007.1"; gene_id "gene-POX_b02090";
+NC_064651.1	RefSeq	CDS	471534	471730	.	+	2	transcript_id "rna-XM_050111007.1"; gene_id "gene-POX_b02090";
+NC_064651.1	RefSeq	CDS	471844	472012	.	+	0	transcript_id "rna-XM_050111007.1"; gene_id "gene-POX_b02090";
+NC_064651.1	RefSeq	CDS	472065	472333	.	+	2	transcript_id "rna-XM_050111007.1"; gene_id "gene-POX_b02090";
+NC_064651.1	RefSeq	transcript	1086326	1087174	.	+	.	transcript_id "rna-XM_050111186.1"; gene_id "gene-POX_b02272"
+NC_064651.1	RefSeq	exon	1086326	1087174	.	+	.	transcript_id "rna-XM_050111186.1"; gene_id "gene-POX_b02272";
+NC_064651.1	RefSeq	CDS	1086326	1087174	.	+	0	transcript_id "rna-XM_050111186.1"; gene_id "gene-POX_b02272";
+NC_064651.1	RefSeq	transcript	1206671	1208612	.	-	.	transcript_id "rna-XM_050111231.1"; gene_id "gene-POX_b02317"
+NC_064651.1	RefSeq	exon	1206671	1206963	.	-	.	transcript_id "rna-XM_050111231.1"; gene_id "gene-POX_b02317";
+NC_064651.1	RefSeq	exon	1207023	1207995	.	-	.	transcript_id "rna-XM_050111231.1"; gene_id "gene-POX_b02317";
+NC_064651.1	RefSeq	exon	1208056	1208187	.	-	.	transcript_id "rna-XM_050111231.1"; gene_id "gene-POX_b02317";
+NC_064651.1	RefSeq	exon	1208273	1208456	.	-	.	transcript_id "rna-XM_050111231.1"; gene_id "gene-POX_b02317";
+NC_064651.1	RefSeq	exon	1208572	1208612	.	-	.	transcript_id "rna-XM_050111231.1"; gene_id "gene-POX_b02317";
+NC_064651.1	RefSeq	CDS	1206671	1206963	.	-	2	transcript_id "rna-XM_050111231.1"; gene_id "gene-POX_b02317";
+NC_064651.1	RefSeq	CDS	1207023	1207995	.	-	0	transcript_id "rna-XM_050111231.1"; gene_id "gene-POX_b02317";
+NC_064651.1	RefSeq	CDS	1208056	1208187	.	-	0	transcript_id "rna-XM_050111231.1"; gene_id "gene-POX_b02317";
+NC_064651.1	RefSeq	CDS	1208273	1208456	.	-	1	transcript_id "rna-XM_050111231.1"; gene_id "gene-POX_b02317";
+NC_064651.1	RefSeq	CDS	1208572	1208612	.	-	0	transcript_id "rna-XM_050111231.1"; gene_id "gene-POX_b02317";
+NC_064651.1	RefSeq	transcript	1292438	1294602	.	-	.	transcript_id "rna-XM_050111263.1"; gene_id "gene-POX_b02349"; gene_name "nop7"
+NC_064651.1	RefSeq	exon	1292438	1294356	.	-	.	transcript_id "rna-XM_050111263.1"; gene_id "gene-POX_b02349"; gene_name "nop7";
+NC_064651.1	RefSeq	exon	1294422	1294520	.	-	.	transcript_id "rna-XM_050111263.1"; gene_id "gene-POX_b02349"; gene_name "nop7";
+NC_064651.1	RefSeq	exon	1294581	1294602	.	-	.	transcript_id "rna-XM_050111263.1"; gene_id "gene-POX_b02349"; gene_name "nop7";
+NC_064651.1	RefSeq	CDS	1292438	1294356	.	-	2	transcript_id "rna-XM_050111263.1"; gene_id "gene-POX_b02349"; gene_name "nop7";
+NC_064651.1	RefSeq	CDS	1294422	1294520	.	-	2	transcript_id "rna-XM_050111263.1"; gene_id "gene-POX_b02349"; gene_name "nop7";
+NC_064651.1	RefSeq	CDS	1294581	1294602	.	-	0	transcript_id "rna-XM_050111263.1"; gene_id "gene-POX_b02349"; gene_name "nop7";
+NC_064651.1	RefSeq	transcript	1816740	1817573	.	+	.	transcript_id "rna-XM_050111444.1"; gene_id "gene-POX_b02531"
+NC_064651.1	RefSeq	exon	1816740	1817573	.	+	.	transcript_id "rna-XM_050111444.1"; gene_id "gene-POX_b02531";
+NC_064651.1	RefSeq	CDS	1816740	1817573	.	+	0	transcript_id "rna-XM_050111444.1"; gene_id "gene-POX_b02531";
+NC_064651.1	RefSeq	transcript	2331739	2333115	.	-	.	transcript_id "rna-XM_050111609.1"; gene_id "gene-POX_b02698"
+NC_064651.1	RefSeq	exon	2331739	2332953	.	-	.	transcript_id "rna-XM_050111609.1"; gene_id "gene-POX_b02698";
+NC_064651.1	RefSeq	exon	2333038	2333115	.	-	.	transcript_id "rna-XM_050111609.1"; gene_id "gene-POX_b02698";
+NC_064651.1	RefSeq	CDS	2331739	2332953	.	-	0	transcript_id "rna-XM_050111609.1"; gene_id "gene-POX_b02698";
+NC_064651.1	RefSeq	CDS	2333038	2333115	.	-	0	transcript_id "rna-XM_050111609.1"; gene_id "gene-POX_b02698";
+NC_064651.1	RefSeq	transcript	2738454	2740500	.	+	.	transcript_id "rna-XM_050111743.1"; gene_id "gene-POX_b02835"; gene_name "spb4"
+NC_064651.1	RefSeq	exon	2738454	2738737	.	+	.	transcript_id "rna-XM_050111743.1"; gene_id "gene-POX_b02835"; gene_name "spb4";
+NC_064651.1	RefSeq	exon	2738799	2739305	.	+	.	transcript_id "rna-XM_050111743.1"; gene_id "gene-POX_b02835"; gene_name "spb4";
+NC_064651.1	RefSeq	exon	2739372	2740500	.	+	.	transcript_id "rna-XM_050111743.1"; gene_id "gene-POX_b02835"; gene_name "spb4";
+NC_064651.1	RefSeq	CDS	2738454	2738737	.	+	0	transcript_id "rna-XM_050111743.1"; gene_id "gene-POX_b02835"; gene_name "spb4";
+NC_064651.1	RefSeq	CDS	2738799	2739305	.	+	1	transcript_id "rna-XM_050111743.1"; gene_id "gene-POX_b02835"; gene_name "spb4";
+NC_064651.1	RefSeq	CDS	2739372	2740500	.	+	1	transcript_id "rna-XM_050111743.1"; gene_id "gene-POX_b02835"; gene_name "spb4";
+NC_064651.1	RefSeq	transcript	3034921	3036357	.	-	.	transcript_id "rna-XM_050111839.1"; gene_id "gene-POX_b02932"
+NC_064651.1	RefSeq	exon	3034921	3036357	.	-	.	transcript_id "rna-XM_050111839.1"; gene_id "gene-POX_b02932";
+NC_064651.1	RefSeq	CDS	3034921	3036357	.	-	0	transcript_id "rna-XM_050111839.1"; gene_id "gene-POX_b02932";
+NC_064651.1	RefSeq	transcript	3414580	3417166	.	+	.	transcript_id "rna-XM_050111962.1"; gene_id "gene-POX_b03057"
+NC_064651.1	RefSeq	exon	3414580	3414803	.	+	.	transcript_id "rna-XM_050111962.1"; gene_id "gene-POX_b03057";
+NC_064651.1	RefSeq	exon	3414897	3415236	.	+	.	transcript_id "rna-XM_050111962.1"; gene_id "gene-POX_b03057";
+NC_064651.1	RefSeq	exon	3415302	3416165	.	+	.	transcript_id "rna-XM_050111962.1"; gene_id "gene-POX_b03057";
+NC_064651.1	RefSeq	exon	3416226	3416327	.	+	.	transcript_id "rna-XM_050111962.1"; gene_id "gene-POX_b03057";
+NC_064651.1	RefSeq	exon	3416393	3417166	.	+	.	transcript_id "rna-XM_050111962.1"; gene_id "gene-POX_b03057";
+NC_064651.1	RefSeq	CDS	3414580	3414803	.	+	0	transcript_id "rna-XM_050111962.1"; gene_id "gene-POX_b03057";
+NC_064651.1	RefSeq	CDS	3414897	3415236	.	+	1	transcript_id "rna-XM_050111962.1"; gene_id "gene-POX_b03057";
+NC_064651.1	RefSeq	CDS	3415302	3416165	.	+	0	transcript_id "rna-XM_050111962.1"; gene_id "gene-POX_b03057";
+NC_064651.1	RefSeq	CDS	3416226	3416327	.	+	0	transcript_id "rna-XM_050111962.1"; gene_id "gene-POX_b03057";
+NC_064651.1	RefSeq	CDS	3416393	3417166	.	+	0	transcript_id "rna-XM_050111962.1"; gene_id "gene-POX_b03057";
+NC_064651.1	RefSeq	transcript	3916097	3918189	.	+	.	transcript_id "rna-XM_050112129.1"; gene_id "gene-POX_b03228"
+NC_064651.1	RefSeq	exon	3916097	3916388	.	+	.	transcript_id "rna-XM_050112129.1"; gene_id "gene-POX_b03228";
+NC_064651.1	RefSeq	exon	3916480	3917024	.	+	.	transcript_id "rna-XM_050112129.1"; gene_id "gene-POX_b03228";
+NC_064651.1	RefSeq	exon	3917062	3917226	.	+	.	transcript_id "rna-XM_050112129.1"; gene_id "gene-POX_b03228";
+NC_064651.1	RefSeq	exon	3917270	3918003	.	+	.	transcript_id "rna-XM_050112129.1"; gene_id "gene-POX_b03228";
+NC_064651.1	RefSeq	exon	3918090	3918189	.	+	.	transcript_id "rna-XM_050112129.1"; gene_id "gene-POX_b03228";
+NC_064651.1	RefSeq	CDS	3916097	3916388	.	+	0	transcript_id "rna-XM_050112129.1"; gene_id "gene-POX_b03228";
+NC_064651.1	RefSeq	CDS	3916480	3917024	.	+	2	transcript_id "rna-XM_050112129.1"; gene_id "gene-POX_b03228";
+NC_064651.1	RefSeq	CDS	3917062	3917226	.	+	0	transcript_id "rna-XM_050112129.1"; gene_id "gene-POX_b03228";
+NC_064651.1	RefSeq	CDS	3917270	3918003	.	+	0	transcript_id "rna-XM_050112129.1"; gene_id "gene-POX_b03228";
+NC_064651.1	RefSeq	CDS	3918090	3918189	.	+	1	transcript_id "rna-XM_050112129.1"; gene_id "gene-POX_b03228";
+NC_064651.1	RefSeq	transcript	4099365	4100009	.	-	.	transcript_id "rna-XM_050112181.1"; gene_id "gene-POX_b03282"
+NC_064651.1	RefSeq	exon	4099365	4099809	.	-	.	transcript_id "rna-XM_050112181.1"; gene_id "gene-POX_b03282";
+NC_064651.1	RefSeq	exon	4099882	4100009	.	-	.	transcript_id "rna-XM_050112181.1"; gene_id "gene-POX_b03282";
+NC_064651.1	RefSeq	CDS	4099365	4099809	.	-	1	transcript_id "rna-XM_050112181.1"; gene_id "gene-POX_b03282";
+NC_064651.1	RefSeq	CDS	4099882	4100009	.	-	0	transcript_id "rna-XM_050112181.1"; gene_id "gene-POX_b03282";
+NC_064651.1	RefSeq	transcript	4248330	4250048	.	+	.	transcript_id "rna-XM_050112233.1"; gene_id "gene-POX_b03336"
+NC_064651.1	RefSeq	exon	4248330	4248613	.	+	.	transcript_id "rna-XM_050112233.1"; gene_id "gene-POX_b03336";
+NC_064651.1	RefSeq	exon	4248674	4250048	.	+	.	transcript_id "rna-XM_050112233.1"; gene_id "gene-POX_b03336";
+NC_064651.1	RefSeq	CDS	4248330	4248613	.	+	0	transcript_id "rna-XM_050112233.1"; gene_id "gene-POX_b03336";
+NC_064651.1	RefSeq	CDS	4248674	4250048	.	+	1	transcript_id "rna-XM_050112233.1"; gene_id "gene-POX_b03336";
+NC_064651.1	RefSeq	transcript	4264320	4266395	.	+	.	transcript_id "rna-XM_050112238.1"; gene_id "gene-POX_b03341"
+NC_064651.1	RefSeq	exon	4264320	4266395	.	+	.	transcript_id "rna-XM_050112238.1"; gene_id "gene-POX_b03341";
+NC_064651.1	RefSeq	CDS	4264320	4266395	.	+	0	transcript_id "rna-XM_050112238.1"; gene_id "gene-POX_b03341";
+NC_064651.1	RefSeq	transcript	4452240	4453920	.	+	.	transcript_id "rna-XM_050112302.1"; gene_id "gene-POX_b03405"
+NC_064651.1	RefSeq	exon	4452240	4452464	.	+	.	transcript_id "rna-XM_050112302.1"; gene_id "gene-POX_b03405";
+NC_064651.1	RefSeq	exon	4452523	4453601	.	+	.	transcript_id "rna-XM_050112302.1"; gene_id "gene-POX_b03405";
+NC_064651.1	RefSeq	exon	4453677	4453920	.	+	.	transcript_id "rna-XM_050112302.1"; gene_id "gene-POX_b03405";
+NC_064651.1	RefSeq	CDS	4452240	4452464	.	+	0	transcript_id "rna-XM_050112302.1"; gene_id "gene-POX_b03405";
+NC_064651.1	RefSeq	CDS	4452523	4453601	.	+	0	transcript_id "rna-XM_050112302.1"; gene_id "gene-POX_b03405";
+NC_064651.1	RefSeq	CDS	4453677	4453920	.	+	1	transcript_id "rna-XM_050112302.1"; gene_id "gene-POX_b03405";
+NC_064652.1	RefSeq	transcript	102367	103543	.	+	.	transcript_id "rna-XM_050112409.1"; gene_id "gene-POX_c03514"
+NC_064652.1	RefSeq	exon	102367	103292	.	+	.	transcript_id "rna-XM_050112409.1"; gene_id "gene-POX_c03514";
+NC_064652.1	RefSeq	exon	103351	103543	.	+	.	transcript_id "rna-XM_050112409.1"; gene_id "gene-POX_c03514";
+NC_064652.1	RefSeq	CDS	102367	103292	.	+	0	transcript_id "rna-XM_050112409.1"; gene_id "gene-POX_c03514";
+NC_064652.1	RefSeq	CDS	103351	103543	.	+	1	transcript_id "rna-XM_050112409.1"; gene_id "gene-POX_c03514";
+NC_064652.1	RefSeq	transcript	113822	116293	.	+	.	transcript_id "rna-XM_050112415.1"; gene_id "gene-POX_c03520"
+NC_064652.1	RefSeq	exon	113822	116293	.	+	.	transcript_id "rna-XM_050112415.1"; gene_id "gene-POX_c03520";
+NC_064652.1	RefSeq	CDS	113822	116293	.	+	0	transcript_id "rna-XM_050112415.1"; gene_id "gene-POX_c03520";
+NC_064652.1	RefSeq	transcript	643636	645375	.	-	.	transcript_id "rna-XM_050112598.1"; gene_id "gene-POX_c03708"
+NC_064652.1	RefSeq	exon	643636	645375	.	-	.	transcript_id "rna-XM_050112598.1"; gene_id "gene-POX_c03708";
+NC_064652.1	RefSeq	CDS	643636	645375	.	-	0	transcript_id "rna-XM_050112598.1"; gene_id "gene-POX_c03708";
+NC_064652.1	RefSeq	transcript	702193	703238	.	-	.	transcript_id "rna-XM_050112616.1"; gene_id "gene-POX_c03726"; gene_name "dph5"
+NC_064652.1	RefSeq	exon	702193	702790	.	-	.	transcript_id "rna-XM_050112616.1"; gene_id "gene-POX_c03726"; gene_name "dph5";
+NC_064652.1	RefSeq	exon	702864	702988	.	-	.	transcript_id "rna-XM_050112616.1"; gene_id "gene-POX_c03726"; gene_name "dph5";
+NC_064652.1	RefSeq	exon	703104	703238	.	-	.	transcript_id "rna-XM_050112616.1"; gene_id "gene-POX_c03726"; gene_name "dph5";
+NC_064652.1	RefSeq	CDS	702193	702790	.	-	1	transcript_id "rna-XM_050112616.1"; gene_id "gene-POX_c03726"; gene_name "dph5";
+NC_064652.1	RefSeq	CDS	702864	702988	.	-	0	transcript_id "rna-XM_050112616.1"; gene_id "gene-POX_c03726"; gene_name "dph5";
+NC_064652.1	RefSeq	CDS	703104	703238	.	-	0	transcript_id "rna-XM_050112616.1"; gene_id "gene-POX_c03726"; gene_name "dph5";
+NC_064652.1	RefSeq	transcript	709746	710387	.	+	.	transcript_id "rna-XM_050112620.1"; gene_id "gene-POX_c03730"
+NC_064652.1	RefSeq	exon	709746	710387	.	+	.	transcript_id "rna-XM_050112620.1"; gene_id "gene-POX_c03730";
+NC_064652.1	RefSeq	CDS	709746	710387	.	+	0	transcript_id "rna-XM_050112620.1"; gene_id "gene-POX_c03730";
+NC_064652.1	RefSeq	transcript	883063	884067	.	+	.	transcript_id "rna-XM_050112680.1"; gene_id "gene-POX_c03791"
+NC_064652.1	RefSeq	exon	883063	883158	.	+	.	transcript_id "rna-XM_050112680.1"; gene_id "gene-POX_c03791";
+NC_064652.1	RefSeq	exon	883258	884067	.	+	.	transcript_id "rna-XM_050112680.1"; gene_id "gene-POX_c03791";
+NC_064652.1	RefSeq	CDS	883063	883158	.	+	0	transcript_id "rna-XM_050112680.1"; gene_id "gene-POX_c03791";
+NC_064652.1	RefSeq	CDS	883258	884067	.	+	0	transcript_id "rna-XM_050112680.1"; gene_id "gene-POX_c03791";
+NC_064652.1	RefSeq	transcript	885210	886281	.	+	.	transcript_id "rna-XM_050112681.1"; gene_id "gene-POX_c03792"
+NC_064652.1	RefSeq	exon	885210	885852	.	+	.	transcript_id "rna-XM_050112681.1"; gene_id "gene-POX_c03792";
+NC_064652.1	RefSeq	exon	885971	886281	.	+	.	transcript_id "rna-XM_050112681.1"; gene_id "gene-POX_c03792";
+NC_064652.1	RefSeq	CDS	885210	885852	.	+	0	transcript_id "rna-XM_050112681.1"; gene_id "gene-POX_c03792";
+NC_064652.1	RefSeq	CDS	885971	886281	.	+	2	transcript_id "rna-XM_050112681.1"; gene_id "gene-POX_c03792";
+NC_064652.1	RefSeq	transcript	1068256	1072321	.	+	.	transcript_id "rna-XM_050112746.1"; gene_id "gene-POX_c03859"
+NC_064652.1	RefSeq	exon	1068256	1068383	.	+	.	transcript_id "rna-XM_050112746.1"; gene_id "gene-POX_c03859";
+NC_064652.1	RefSeq	exon	1068592	1068775	.	+	.	transcript_id "rna-XM_050112746.1"; gene_id "gene-POX_c03859";
+NC_064652.1	RefSeq	exon	1068913	1069135	.	+	.	transcript_id "rna-XM_050112746.1"; gene_id "gene-POX_c03859";
+NC_064652.1	RefSeq	exon	1069205	1069295	.	+	.	transcript_id "rna-XM_050112746.1"; gene_id "gene-POX_c03859";
+NC_064652.1	RefSeq	exon	1070168	1071099	.	+	.	transcript_id "rna-XM_050112746.1"; gene_id "gene-POX_c03859";
+NC_064652.1	RefSeq	exon	1071147	1072321	.	+	.	transcript_id "rna-XM_050112746.1"; gene_id "gene-POX_c03859";
+NC_064652.1	RefSeq	CDS	1068256	1068383	.	+	0	transcript_id "rna-XM_050112746.1"; gene_id "gene-POX_c03859";
+NC_064652.1	RefSeq	CDS	1068592	1068775	.	+	1	transcript_id "rna-XM_050112746.1"; gene_id "gene-POX_c03859";
+NC_064652.1	RefSeq	CDS	1068913	1069135	.	+	0	transcript_id "rna-XM_050112746.1"; gene_id "gene-POX_c03859";
+NC_064652.1	RefSeq	CDS	1069205	1069295	.	+	2	transcript_id "rna-XM_050112746.1"; gene_id "gene-POX_c03859";
+NC_064652.1	RefSeq	CDS	1070168	1071099	.	+	1	transcript_id "rna-XM_050112746.1"; gene_id "gene-POX_c03859";
+NC_064652.1	RefSeq	CDS	1071147	1072321	.	+	2	transcript_id "rna-XM_050112746.1"; gene_id "gene-POX_c03859";
+NC_064652.1	RefSeq	transcript	1456512	1458062	.	+	.	transcript_id "rna-XM_050112868.1"; gene_id "gene-POX_c03983"
+NC_064652.1	RefSeq	exon	1456512	1456851	.	+	.	transcript_id "rna-XM_050112868.1"; gene_id "gene-POX_c03983";
+NC_064652.1	RefSeq	exon	1456922	1457089	.	+	.	transcript_id "rna-XM_050112868.1"; gene_id "gene-POX_c03983";
+NC_064652.1	RefSeq	exon	1457251	1458062	.	+	.	transcript_id "rna-XM_050112868.1"; gene_id "gene-POX_c03983";
+NC_064652.1	RefSeq	CDS	1456512	1456851	.	+	0	transcript_id "rna-XM_050112868.1"; gene_id "gene-POX_c03983";
+NC_064652.1	RefSeq	CDS	1456922	1457089	.	+	2	transcript_id "rna-XM_050112868.1"; gene_id "gene-POX_c03983";
+NC_064652.1	RefSeq	CDS	1457251	1458062	.	+	2	transcript_id "rna-XM_050112868.1"; gene_id "gene-POX_c03983";
+NC_064652.1	RefSeq	transcript	2373927	2375523	.	+	.	transcript_id "rna-XM_050113147.1"; gene_id "gene-POX_c04266"
+NC_064652.1	RefSeq	exon	2373927	2374575	.	+	.	transcript_id "rna-XM_050113147.1"; gene_id "gene-POX_c04266";
+NC_064652.1	RefSeq	exon	2374649	2375523	.	+	.	transcript_id "rna-XM_050113147.1"; gene_id "gene-POX_c04266";
+NC_064652.1	RefSeq	CDS	2373927	2374575	.	+	0	transcript_id "rna-XM_050113147.1"; gene_id "gene-POX_c04266";
+NC_064652.1	RefSeq	CDS	2374649	2375523	.	+	2	transcript_id "rna-XM_050113147.1"; gene_id "gene-POX_c04266";
+NC_064652.1	RefSeq	transcript	2547382	2548998	.	-	.	transcript_id "rna-XM_050113204.1"; gene_id "gene-POX_c04324"
+NC_064652.1	RefSeq	exon	2547382	2548508	.	-	.	transcript_id "rna-XM_050113204.1"; gene_id "gene-POX_c04324";
+NC_064652.1	RefSeq	exon	2548758	2548998	.	-	.	transcript_id "rna-XM_050113204.1"; gene_id "gene-POX_c04324";
+NC_064652.1	RefSeq	CDS	2547382	2548508	.	-	2	transcript_id "rna-XM_050113204.1"; gene_id "gene-POX_c04324";
+NC_064652.1	RefSeq	CDS	2548758	2548998	.	-	0	transcript_id "rna-XM_050113204.1"; gene_id "gene-POX_c04324";
+NC_064652.1	RefSeq	transcript	2673535	2674468	.	+	.	transcript_id "rna-XM_050113245.1"; gene_id "gene-POX_c04365"
+NC_064652.1	RefSeq	exon	2673535	2673546	.	+	.	transcript_id "rna-XM_050113245.1"; gene_id "gene-POX_c04365";
+NC_064652.1	RefSeq	exon	2673616	2673714	.	+	.	transcript_id "rna-XM_050113245.1"; gene_id "gene-POX_c04365";
+NC_064652.1	RefSeq	exon	2673767	2673863	.	+	.	transcript_id "rna-XM_050113245.1"; gene_id "gene-POX_c04365";
+NC_064652.1	RefSeq	exon	2673926	2674012	.	+	.	transcript_id "rna-XM_050113245.1"; gene_id "gene-POX_c04365";
+NC_064652.1	RefSeq	exon	2674070	2674133	.	+	.	transcript_id "rna-XM_050113245.1"; gene_id "gene-POX_c04365";
+NC_064652.1	RefSeq	exon	2674191	2674365	.	+	.	transcript_id "rna-XM_050113245.1"; gene_id "gene-POX_c04365";
+NC_064652.1	RefSeq	exon	2674424	2674468	.	+	.	transcript_id "rna-XM_050113245.1"; gene_id "gene-POX_c04365";
+NC_064652.1	RefSeq	CDS	2673535	2673546	.	+	0	transcript_id "rna-XM_050113245.1"; gene_id "gene-POX_c04365";
+NC_064652.1	RefSeq	CDS	2673616	2673714	.	+	0	transcript_id "rna-XM_050113245.1"; gene_id "gene-POX_c04365";
+NC_064652.1	RefSeq	CDS	2673767	2673863	.	+	0	transcript_id "rna-XM_050113245.1"; gene_id "gene-POX_c04365";
+NC_064652.1	RefSeq	CDS	2673926	2674012	.	+	2	transcript_id "rna-XM_050113245.1"; gene_id "gene-POX_c04365";
+NC_064652.1	RefSeq	CDS	2674070	2674133	.	+	2	transcript_id "rna-XM_050113245.1"; gene_id "gene-POX_c04365";
+NC_064652.1	RefSeq	CDS	2674191	2674365	.	+	1	transcript_id "rna-XM_050113245.1"; gene_id "gene-POX_c04365";
+NC_064652.1	RefSeq	CDS	2674424	2674468	.	+	0	transcript_id "rna-XM_050113245.1"; gene_id "gene-POX_c04365";
+NC_064652.1	RefSeq	transcript	2732079	2734874	.	+	.	transcript_id "rna-XM_050113265.1"; gene_id "gene-POX_c04385"
+NC_064652.1	RefSeq	exon	2732079	2732366	.	+	.	transcript_id "rna-XM_050113265.1"; gene_id "gene-POX_c04385";
+NC_064652.1	RefSeq	exon	2732430	2734874	.	+	.	transcript_id "rna-XM_050113265.1"; gene_id "gene-POX_c04385";
+NC_064652.1	RefSeq	CDS	2732079	2732366	.	+	0	transcript_id "rna-XM_050113265.1"; gene_id "gene-POX_c04385";
+NC_064652.1	RefSeq	CDS	2732430	2734874	.	+	0	transcript_id "rna-XM_050113265.1"; gene_id "gene-POX_c04385";
+NC_064652.1	RefSeq	transcript	3048446	3050220	.	+	.	transcript_id "rna-XM_050113340.1"; gene_id "gene-POX_c04462"
+NC_064652.1	RefSeq	exon	3048446	3048868	.	+	.	transcript_id "rna-XM_050113340.1"; gene_id "gene-POX_c04462";
+NC_064652.1	RefSeq	exon	3049077	3049157	.	+	.	transcript_id "rna-XM_050113340.1"; gene_id "gene-POX_c04462";
+NC_064652.1	RefSeq	exon	3049299	3049414	.	+	.	transcript_id "rna-XM_050113340.1"; gene_id "gene-POX_c04462";
+NC_064652.1	RefSeq	exon	3049498	3049616	.	+	.	transcript_id "rna-XM_050113340.1"; gene_id "gene-POX_c04462";
+NC_064652.1	RefSeq	exon	3049772	3050220	.	+	.	transcript_id "rna-XM_050113340.1"; gene_id "gene-POX_c04462";
+NC_064652.1	RefSeq	CDS	3048446	3048868	.	+	0	transcript_id "rna-XM_050113340.1"; gene_id "gene-POX_c04462";
+NC_064652.1	RefSeq	CDS	3049077	3049157	.	+	0	transcript_id "rna-XM_050113340.1"; gene_id "gene-POX_c04462";
+NC_064652.1	RefSeq	CDS	3049299	3049414	.	+	0	transcript_id "rna-XM_050113340.1"; gene_id "gene-POX_c04462";
+NC_064652.1	RefSeq	CDS	3049498	3049616	.	+	1	transcript_id "rna-XM_050113340.1"; gene_id "gene-POX_c04462";
+NC_064652.1	RefSeq	CDS	3049772	3050220	.	+	2	transcript_id "rna-XM_050113340.1"; gene_id "gene-POX_c04462";
+NC_064652.1	RefSeq	transcript	3081563	3084507	.	-	.	transcript_id "rna-XM_050113347.1"; gene_id "gene-POX_c04471"
+NC_064652.1	RefSeq	exon	3081563	3082422	.	-	.	transcript_id "rna-XM_050113347.1"; gene_id "gene-POX_c04471";
+NC_064652.1	RefSeq	exon	3082516	3082697	.	-	.	transcript_id "rna-XM_050113347.1"; gene_id "gene-POX_c04471";
+NC_064652.1	RefSeq	exon	3082772	3083667	.	-	.	transcript_id "rna-XM_050113347.1"; gene_id "gene-POX_c04471";
+NC_064652.1	RefSeq	exon	3083744	3084011	.	-	.	transcript_id "rna-XM_050113347.1"; gene_id "gene-POX_c04471";
+NC_064652.1	RefSeq	exon	3084082	3084188	.	-	.	transcript_id "rna-XM_050113347.1"; gene_id "gene-POX_c04471";
+NC_064652.1	RefSeq	exon	3084282	3084376	.	-	.	transcript_id "rna-XM_050113347.1"; gene_id "gene-POX_c04471";
+NC_064652.1	RefSeq	exon	3084438	3084507	.	-	.	transcript_id "rna-XM_050113347.1"; gene_id "gene-POX_c04471";
+NC_064652.1	RefSeq	CDS	3081563	3082422	.	-	2	transcript_id "rna-XM_050113347.1"; gene_id "gene-POX_c04471";
+NC_064652.1	RefSeq	CDS	3082516	3082697	.	-	1	transcript_id "rna-XM_050113347.1"; gene_id "gene-POX_c04471";
+NC_064652.1	RefSeq	CDS	3082772	3083667	.	-	0	transcript_id "rna-XM_050113347.1"; gene_id "gene-POX_c04471";
+NC_064652.1	RefSeq	CDS	3083744	3084011	.	-	1	transcript_id "rna-XM_050113347.1"; gene_id "gene-POX_c04471";
+NC_064652.1	RefSeq	CDS	3084082	3084188	.	-	0	transcript_id "rna-XM_050113347.1"; gene_id "gene-POX_c04471";
+NC_064652.1	RefSeq	CDS	3084282	3084376	.	-	2	transcript_id "rna-XM_050113347.1"; gene_id "gene-POX_c04471";
+NC_064652.1	RefSeq	CDS	3084438	3084507	.	-	0	transcript_id "rna-XM_050113347.1"; gene_id "gene-POX_c04471";
+NC_064652.1	RefSeq	transcript	3116841	3118173	.	+	.	transcript_id "rna-XM_050113358.1"; gene_id "gene-POX_c04483"
+NC_064652.1	RefSeq	exon	3116841	3116884	.	+	.	transcript_id "rna-XM_050113358.1"; gene_id "gene-POX_c04483";
+NC_064652.1	RefSeq	exon	3116967	3117223	.	+	.	transcript_id "rna-XM_050113358.1"; gene_id "gene-POX_c04483";
+NC_064652.1	RefSeq	exon	3117356	3117508	.	+	.	transcript_id "rna-XM_050113358.1"; gene_id "gene-POX_c04483";
+NC_064652.1	RefSeq	exon	3117599	3118173	.	+	.	transcript_id "rna-XM_050113358.1"; gene_id "gene-POX_c04483";
+NC_064652.1	RefSeq	CDS	3116841	3116884	.	+	0	transcript_id "rna-XM_050113358.1"; gene_id "gene-POX_c04483";
+NC_064652.1	RefSeq	CDS	3116967	3117223	.	+	1	transcript_id "rna-XM_050113358.1"; gene_id "gene-POX_c04483";
+NC_064652.1	RefSeq	CDS	3117356	3117508	.	+	2	transcript_id "rna-XM_050113358.1"; gene_id "gene-POX_c04483";
+NC_064652.1	RefSeq	CDS	3117599	3118173	.	+	2	transcript_id "rna-XM_050113358.1"; gene_id "gene-POX_c04483";
+NC_064652.1	RefSeq	transcript	3615009	3616175	.	+	.	transcript_id "rna-XM_050113511.1"; gene_id "gene-POX_c04649"; gene_name "med6"
+NC_064652.1	RefSeq	exon	3615009	3615099	.	+	.	transcript_id "rna-XM_050113511.1"; gene_id "gene-POX_c04649"; gene_name "med6";
+NC_064652.1	RefSeq	exon	3615158	3615522	.	+	.	transcript_id "rna-XM_050113511.1"; gene_id "gene-POX_c04649"; gene_name "med6";
+NC_064652.1	RefSeq	exon	3615609	3616175	.	+	.	transcript_id "rna-XM_050113511.1"; gene_id "gene-POX_c04649"; gene_name "med6";
+NC_064652.1	RefSeq	CDS	3615009	3615099	.	+	0	transcript_id "rna-XM_050113511.1"; gene_id "gene-POX_c04649"; gene_name "med6";
+NC_064652.1	RefSeq	CDS	3615158	3615522	.	+	2	transcript_id "rna-XM_050113511.1"; gene_id "gene-POX_c04649"; gene_name "med6";
+NC_064652.1	RefSeq	CDS	3615609	3616175	.	+	0	transcript_id "rna-XM_050113511.1"; gene_id "gene-POX_c04649"; gene_name "med6";
+NC_064653.1	RefSeq	transcript	422586	425970	.	-	.	transcript_id "rna-XM_050113785.1"; gene_id "gene-POX_d04928"
+NC_064653.1	RefSeq	exon	422586	422966	.	-	.	transcript_id "rna-XM_050113785.1"; gene_id "gene-POX_d04928";
+NC_064653.1	RefSeq	exon	423043	423441	.	-	.	transcript_id "rna-XM_050113785.1"; gene_id "gene-POX_d04928";
+NC_064653.1	RefSeq	exon	423496	423996	.	-	.	transcript_id "rna-XM_050113785.1"; gene_id "gene-POX_d04928";
+NC_064653.1	RefSeq	exon	424060	424395	.	-	.	transcript_id "rna-XM_050113785.1"; gene_id "gene-POX_d04928";
+NC_064653.1	RefSeq	exon	424460	424693	.	-	.	transcript_id "rna-XM_050113785.1"; gene_id "gene-POX_d04928";
+NC_064653.1	RefSeq	exon	424750	425382	.	-	.	transcript_id "rna-XM_050113785.1"; gene_id "gene-POX_d04928";
+NC_064653.1	RefSeq	exon	425466	425759	.	-	.	transcript_id "rna-XM_050113785.1"; gene_id "gene-POX_d04928";
+NC_064653.1	RefSeq	exon	425832	425900	.	-	.	transcript_id "rna-XM_050113785.1"; gene_id "gene-POX_d04928";
+NC_064653.1	RefSeq	exon	425956	425970	.	-	.	transcript_id "rna-XM_050113785.1"; gene_id "gene-POX_d04928";
+NC_064653.1	RefSeq	CDS	422586	422966	.	-	0	transcript_id "rna-XM_050113785.1"; gene_id "gene-POX_d04928";
+NC_064653.1	RefSeq	CDS	423043	423441	.	-	0	transcript_id "rna-XM_050113785.1"; gene_id "gene-POX_d04928";
+NC_064653.1	RefSeq	CDS	423496	423996	.	-	0	transcript_id "rna-XM_050113785.1"; gene_id "gene-POX_d04928";
+NC_064653.1	RefSeq	CDS	424060	424395	.	-	0	transcript_id "rna-XM_050113785.1"; gene_id "gene-POX_d04928";
+NC_064653.1	RefSeq	CDS	424460	424693	.	-	0	transcript_id "rna-XM_050113785.1"; gene_id "gene-POX_d04928";
+NC_064653.1	RefSeq	CDS	424750	425382	.	-	0	transcript_id "rna-XM_050113785.1"; gene_id "gene-POX_d04928";
+NC_064653.1	RefSeq	CDS	425466	425759	.	-	0	transcript_id "rna-XM_050113785.1"; gene_id "gene-POX_d04928";
+NC_064653.1	RefSeq	CDS	425832	425900	.	-	0	transcript_id "rna-XM_050113785.1"; gene_id "gene-POX_d04928";
+NC_064653.1	RefSeq	CDS	425956	425970	.	-	0	transcript_id "rna-XM_050113785.1"; gene_id "gene-POX_d04928";
+NC_064653.1	RefSeq	transcript	559307	561397	.	-	.	transcript_id "rna-XM_050113835.1"; gene_id "gene-POX_d04981"
+NC_064653.1	RefSeq	exon	559307	561397	.	-	.	transcript_id "rna-XM_050113835.1"; gene_id "gene-POX_d04981";
+NC_064653.1	RefSeq	CDS	559307	561397	.	-	0	transcript_id "rna-XM_050113835.1"; gene_id "gene-POX_d04981";
+NC_064653.1	RefSeq	transcript	1111487	1112766	.	-	.	transcript_id "rna-XM_050114024.1"; gene_id "gene-POX_d05174"
+NC_064653.1	RefSeq	exon	1111487	1111913	.	-	.	transcript_id "rna-XM_050114024.1"; gene_id "gene-POX_d05174";
+NC_064653.1	RefSeq	exon	1111973	1112520	.	-	.	transcript_id "rna-XM_050114024.1"; gene_id "gene-POX_d05174";
+NC_064653.1	RefSeq	exon	1112621	1112638	.	-	.	transcript_id "rna-XM_050114024.1"; gene_id "gene-POX_d05174";
+NC_064653.1	RefSeq	exon	1112710	1112766	.	-	.	transcript_id "rna-XM_050114024.1"; gene_id "gene-POX_d05174";
+NC_064653.1	RefSeq	CDS	1111487	1111913	.	-	1	transcript_id "rna-XM_050114024.1"; gene_id "gene-POX_d05174";
+NC_064653.1	RefSeq	CDS	1111973	1112520	.	-	0	transcript_id "rna-XM_050114024.1"; gene_id "gene-POX_d05174";
+NC_064653.1	RefSeq	CDS	1112621	1112638	.	-	0	transcript_id "rna-XM_050114024.1"; gene_id "gene-POX_d05174";
+NC_064653.1	RefSeq	CDS	1112710	1112766	.	-	0	transcript_id "rna-XM_050114024.1"; gene_id "gene-POX_d05174";
+NC_064653.1	RefSeq	transcript	1212904	1215218	.	+	.	transcript_id "rna-XM_050114054.1"; gene_id "gene-POX_d05205"; gene_name "dbp7"
+NC_064653.1	RefSeq	exon	1212904	1213012	.	+	.	transcript_id "rna-XM_050114054.1"; gene_id "gene-POX_d05205"; gene_name "dbp7";
+NC_064653.1	RefSeq	exon	1213099	1215218	.	+	.	transcript_id "rna-XM_050114054.1"; gene_id "gene-POX_d05205"; gene_name "dbp7";
+NC_064653.1	RefSeq	CDS	1212904	1213012	.	+	0	transcript_id "rna-XM_050114054.1"; gene_id "gene-POX_d05205"; gene_name "dbp7";
+NC_064653.1	RefSeq	CDS	1213099	1215218	.	+	2	transcript_id "rna-XM_050114054.1"; gene_id "gene-POX_d05205"; gene_name "dbp7";
+NC_064653.1	RefSeq	transcript	1306907	1308030	.	-	.	transcript_id "rna-XM_050114089.1"; gene_id "gene-POX_d05240"
+NC_064653.1	RefSeq	exon	1306907	1307921	.	-	.	transcript_id "rna-XM_050114089.1"; gene_id "gene-POX_d05240";
+NC_064653.1	RefSeq	exon	1307981	1308030	.	-	.	transcript_id "rna-XM_050114089.1"; gene_id "gene-POX_d05240";
+NC_064653.1	RefSeq	CDS	1306907	1307921	.	-	1	transcript_id "rna-XM_050114089.1"; gene_id "gene-POX_d05240";
+NC_064653.1	RefSeq	CDS	1307981	1308030	.	-	0	transcript_id "rna-XM_050114089.1"; gene_id "gene-POX_d05240";
+NC_064653.1	RefSeq	transcript	1606172	1607387	.	-	.	transcript_id "rna-XM_050114182.1"; gene_id "gene-POX_d05334"
+NC_064653.1	RefSeq	exon	1606172	1606458	.	-	.	transcript_id "rna-XM_050114182.1"; gene_id "gene-POX_d05334";
+NC_064653.1	RefSeq	exon	1606532	1607387	.	-	.	transcript_id "rna-XM_050114182.1"; gene_id "gene-POX_d05334";
+NC_064653.1	RefSeq	CDS	1606172	1606458	.	-	2	transcript_id "rna-XM_050114182.1"; gene_id "gene-POX_d05334";
+NC_064653.1	RefSeq	CDS	1606532	1607387	.	-	0	transcript_id "rna-XM_050114182.1"; gene_id "gene-POX_d05334";
+NC_064653.1	RefSeq	transcript	1839754	1840793	.	-	.	transcript_id "rna-XM_050114260.1"; gene_id "gene-POX_d05413"
+NC_064653.1	RefSeq	exon	1839754	1840311	.	-	.	transcript_id "rna-XM_050114260.1"; gene_id "gene-POX_d05413";
+NC_064653.1	RefSeq	exon	1840398	1840634	.	-	.	transcript_id "rna-XM_050114260.1"; gene_id "gene-POX_d05413";
+NC_064653.1	RefSeq	exon	1840719	1840793	.	-	.	transcript_id "rna-XM_050114260.1"; gene_id "gene-POX_d05413";
+NC_064653.1	RefSeq	CDS	1839754	1840311	.	-	0	transcript_id "rna-XM_050114260.1"; gene_id "gene-POX_d05413";
+NC_064653.1	RefSeq	CDS	1840398	1840634	.	-	0	transcript_id "rna-XM_050114260.1"; gene_id "gene-POX_d05413";
+NC_064653.1	RefSeq	CDS	1840719	1840793	.	-	0	transcript_id "rna-XM_050114260.1"; gene_id "gene-POX_d05413";
+NC_064653.1	RefSeq	transcript	2002016	2002874	.	+	.	transcript_id "rna-XM_050114315.1"; gene_id "gene-POX_d05470"
+NC_064653.1	RefSeq	exon	2002016	2002209	.	+	.	transcript_id "rna-XM_050114315.1"; gene_id "gene-POX_d05470";
+NC_064653.1	RefSeq	exon	2002331	2002874	.	+	.	transcript_id "rna-XM_050114315.1"; gene_id "gene-POX_d05470";
+NC_064653.1	RefSeq	CDS	2002016	2002209	.	+	0	transcript_id "rna-XM_050114315.1"; gene_id "gene-POX_d05470";
+NC_064653.1	RefSeq	CDS	2002331	2002874	.	+	1	transcript_id "rna-XM_050114315.1"; gene_id "gene-POX_d05470";
+NC_064653.1	RefSeq	transcript	2005360	2005912	.	+	.	transcript_id "rna-XM_050114317.1"; gene_id "gene-POX_d05472"
+NC_064653.1	RefSeq	exon	2005360	2005398	.	+	.	transcript_id "rna-XM_050114317.1"; gene_id "gene-POX_d05472";
+NC_064653.1	RefSeq	exon	2005477	2005559	.	+	.	transcript_id "rna-XM_050114317.1"; gene_id "gene-POX_d05472";
+NC_064653.1	RefSeq	exon	2005621	2005912	.	+	.	transcript_id "rna-XM_050114317.1"; gene_id "gene-POX_d05472";
+NC_064653.1	RefSeq	CDS	2005360	2005398	.	+	0	transcript_id "rna-XM_050114317.1"; gene_id "gene-POX_d05472";
+NC_064653.1	RefSeq	CDS	2005477	2005559	.	+	0	transcript_id "rna-XM_050114317.1"; gene_id "gene-POX_d05472";
+NC_064653.1	RefSeq	CDS	2005621	2005912	.	+	1	transcript_id "rna-XM_050114317.1"; gene_id "gene-POX_d05472";
+NC_064653.1	RefSeq	transcript	2267961	2269325	.	+	.	transcript_id "rna-XM_050114414.1"; gene_id "gene-POX_d05572"
+NC_064653.1	RefSeq	exon	2267961	2269325	.	+	.	transcript_id "rna-XM_050114414.1"; gene_id "gene-POX_d05572";
+NC_064653.1	RefSeq	CDS	2267961	2269325	.	+	0	transcript_id "rna-XM_050114414.1"; gene_id "gene-POX_d05572";
+NC_064653.1	RefSeq	transcript	2280311	2283915	.	+	.	transcript_id "rna-XM_050114419.1"; gene_id "gene-POX_d05577"
+NC_064653.1	RefSeq	exon	2280311	2281117	.	+	.	transcript_id "rna-XM_050114419.1"; gene_id "gene-POX_d05577";
+NC_064653.1	RefSeq	exon	2281175	2282301	.	+	.	transcript_id "rna-XM_050114419.1"; gene_id "gene-POX_d05577";
+NC_064653.1	RefSeq	exon	2282372	2282909	.	+	.	transcript_id "rna-XM_050114419.1"; gene_id "gene-POX_d05577";
+NC_064653.1	RefSeq	exon	2282974	2283915	.	+	.	transcript_id "rna-XM_050114419.1"; gene_id "gene-POX_d05577";
+NC_064653.1	RefSeq	CDS	2280311	2281117	.	+	0	transcript_id "rna-XM_050114419.1"; gene_id "gene-POX_d05577";
+NC_064653.1	RefSeq	CDS	2281175	2282301	.	+	0	transcript_id "rna-XM_050114419.1"; gene_id "gene-POX_d05577";
+NC_064653.1	RefSeq	CDS	2282372	2282909	.	+	1	transcript_id "rna-XM_050114419.1"; gene_id "gene-POX_d05577";
+NC_064653.1	RefSeq	CDS	2282974	2283915	.	+	0	transcript_id "rna-XM_050114419.1"; gene_id "gene-POX_d05577";
+NC_064653.1	RefSeq	transcript	2289954	2291484	.	+	.	transcript_id "rna-XM_050114421.1"; gene_id "gene-POX_d05579"
+NC_064653.1	RefSeq	exon	2289954	2290336	.	+	.	transcript_id "rna-XM_050114421.1"; gene_id "gene-POX_d05579";
+NC_064653.1	RefSeq	exon	2290428	2291484	.	+	.	transcript_id "rna-XM_050114421.1"; gene_id "gene-POX_d05579";
+NC_064653.1	RefSeq	CDS	2289954	2290336	.	+	0	transcript_id "rna-XM_050114421.1"; gene_id "gene-POX_d05579";
+NC_064653.1	RefSeq	CDS	2290428	2291484	.	+	1	transcript_id "rna-XM_050114421.1"; gene_id "gene-POX_d05579";
+NC_064653.1	RefSeq	transcript	2601791	2603114	.	+	.	transcript_id "rna-XM_050114522.1"; gene_id "gene-POX_d05682"
+NC_064653.1	RefSeq	exon	2601791	2601798	.	+	.	transcript_id "rna-XM_050114522.1"; gene_id "gene-POX_d05682";
+NC_064653.1	RefSeq	exon	2601853	2601892	.	+	.	transcript_id "rna-XM_050114522.1"; gene_id "gene-POX_d05682";
+NC_064653.1	RefSeq	exon	2601968	2602482	.	+	.	transcript_id "rna-XM_050114522.1"; gene_id "gene-POX_d05682";
+NC_064653.1	RefSeq	exon	2602538	2603114	.	+	.	transcript_id "rna-XM_050114522.1"; gene_id "gene-POX_d05682";
+NC_064653.1	RefSeq	CDS	2601791	2601798	.	+	0	transcript_id "rna-XM_050114522.1"; gene_id "gene-POX_d05682";
+NC_064653.1	RefSeq	CDS	2601853	2601892	.	+	1	transcript_id "rna-XM_050114522.1"; gene_id "gene-POX_d05682";
+NC_064653.1	RefSeq	CDS	2601968	2602482	.	+	0	transcript_id "rna-XM_050114522.1"; gene_id "gene-POX_d05682";
+NC_064653.1	RefSeq	CDS	2602538	2603114	.	+	1	transcript_id "rna-XM_050114522.1"; gene_id "gene-POX_d05682";
+NC_064653.1	RefSeq	transcript	2686370	2687156	.	-	.	transcript_id "rna-XM_050114553.1"; gene_id "gene-POX_d05713"
+NC_064653.1	RefSeq	exon	2686370	2686760	.	-	.	transcript_id "rna-XM_050114553.1"; gene_id "gene-POX_d05713";
+NC_064653.1	RefSeq	exon	2686906	2687156	.	-	.	transcript_id "rna-XM_050114553.1"; gene_id "gene-POX_d05713";
+NC_064653.1	RefSeq	CDS	2686370	2686760	.	-	1	transcript_id "rna-XM_050114553.1"; gene_id "gene-POX_d05713";
+NC_064653.1	RefSeq	CDS	2686906	2687156	.	-	0	transcript_id "rna-XM_050114553.1"; gene_id "gene-POX_d05713";
+NC_064653.1	RefSeq	transcript	2690273	2693816	.	-	.	transcript_id "rna-XM_050114555.1"; gene_id "gene-POX_d05715"; gene_name "hir1"
+NC_064653.1	RefSeq	exon	2690273	2690370	.	-	.	transcript_id "rna-XM_050114555.1"; gene_id "gene-POX_d05715"; gene_name "hir1";
+NC_064653.1	RefSeq	exon	2690455	2692038	.	-	.	transcript_id "rna-XM_050114555.1"; gene_id "gene-POX_d05715"; gene_name "hir1";
+NC_064653.1	RefSeq	exon	2692152	2693243	.	-	.	transcript_id "rna-XM_050114555.1"; gene_id "gene-POX_d05715"; gene_name "hir1";
+NC_064653.1	RefSeq	exon	2693305	2693523	.	-	.	transcript_id "rna-XM_050114555.1"; gene_id "gene-POX_d05715"; gene_name "hir1";
+NC_064653.1	RefSeq	exon	2693634	2693708	.	-	.	transcript_id "rna-XM_050114555.1"; gene_id "gene-POX_d05715"; gene_name "hir1";
+NC_064653.1	RefSeq	exon	2693780	2693816	.	-	.	transcript_id "rna-XM_050114555.1"; gene_id "gene-POX_d05715"; gene_name "hir1";
+NC_064653.1	RefSeq	CDS	2690273	2690370	.	-	2	transcript_id "rna-XM_050114555.1"; gene_id "gene-POX_d05715"; gene_name "hir1";
+NC_064653.1	RefSeq	CDS	2690455	2692038	.	-	2	transcript_id "rna-XM_050114555.1"; gene_id "gene-POX_d05715"; gene_name "hir1";
+NC_064653.1	RefSeq	CDS	2692152	2693243	.	-	2	transcript_id "rna-XM_050114555.1"; gene_id "gene-POX_d05715"; gene_name "hir1";
+NC_064653.1	RefSeq	CDS	2693305	2693523	.	-	2	transcript_id "rna-XM_050114555.1"; gene_id "gene-POX_d05715"; gene_name "hir1";
+NC_064653.1	RefSeq	CDS	2693634	2693708	.	-	2	transcript_id "rna-XM_050114555.1"; gene_id "gene-POX_d05715"; gene_name "hir1";
+NC_064653.1	RefSeq	CDS	2693780	2693816	.	-	0	transcript_id "rna-XM_050114555.1"; gene_id "gene-POX_d05715"; gene_name "hir1";
+NC_064653.1	RefSeq	transcript	2916361	2917348	.	+	.	transcript_id "rna-XM_050114631.1"; gene_id "gene-POX_d05794"; gene_name "sld5"
+NC_064653.1	RefSeq	exon	2916361	2916537	.	+	.	transcript_id "rna-XM_050114631.1"; gene_id "gene-POX_d05794"; gene_name "sld5";
+NC_064653.1	RefSeq	exon	2916671	2917348	.	+	.	transcript_id "rna-XM_050114631.1"; gene_id "gene-POX_d05794"; gene_name "sld5";
+NC_064653.1	RefSeq	CDS	2916361	2916537	.	+	0	transcript_id "rna-XM_050114631.1"; gene_id "gene-POX_d05794"; gene_name "sld5";
+NC_064653.1	RefSeq	CDS	2916671	2917348	.	+	0	transcript_id "rna-XM_050114631.1"; gene_id "gene-POX_d05794"; gene_name "sld5";
+NC_064653.1	RefSeq	transcript	2994656	2997566	.	+	.	transcript_id "rna-XM_050114657.1"; gene_id "gene-POX_d05820"
+NC_064653.1	RefSeq	exon	2994656	2995156	.	+	.	transcript_id "rna-XM_050114657.1"; gene_id "gene-POX_d05820";
+NC_064653.1	RefSeq	exon	2995215	2997566	.	+	.	transcript_id "rna-XM_050114657.1"; gene_id "gene-POX_d05820";
+NC_064653.1	RefSeq	CDS	2994656	2995156	.	+	0	transcript_id "rna-XM_050114657.1"; gene_id "gene-POX_d05820";
+NC_064653.1	RefSeq	CDS	2995215	2997566	.	+	0	transcript_id "rna-XM_050114657.1"; gene_id "gene-POX_d05820";
+NC_064653.1	RefSeq	transcript	3070878	3073116	.	-	.	transcript_id "rna-XM_050114676.1"; gene_id "gene-POX_d05840"
+NC_064653.1	RefSeq	exon	3070878	3072979	.	-	.	transcript_id "rna-XM_050114676.1"; gene_id "gene-POX_d05840";
+NC_064653.1	RefSeq	exon	3073050	3073116	.	-	.	transcript_id "rna-XM_050114676.1"; gene_id "gene-POX_d05840";
+NC_064653.1	RefSeq	CDS	3070878	3072979	.	-	2	transcript_id "rna-XM_050114676.1"; gene_id "gene-POX_d05840";
+NC_064653.1	RefSeq	CDS	3073050	3073116	.	-	0	transcript_id "rna-XM_050114676.1"; gene_id "gene-POX_d05840";
+NC_064653.1	RefSeq	transcript	3087985	3089065	.	-	.	transcript_id "rna-XM_050114682.1"; gene_id "gene-POX_d05846"
+NC_064653.1	RefSeq	exon	3087985	3088507	.	-	.	transcript_id "rna-XM_050114682.1"; gene_id "gene-POX_d05846";
+NC_064653.1	RefSeq	exon	3088575	3089065	.	-	.	transcript_id "rna-XM_050114682.1"; gene_id "gene-POX_d05846";
+NC_064653.1	RefSeq	CDS	3087985	3088507	.	-	1	transcript_id "rna-XM_050114682.1"; gene_id "gene-POX_d05846";
+NC_064653.1	RefSeq	CDS	3088575	3089065	.	-	0	transcript_id "rna-XM_050114682.1"; gene_id "gene-POX_d05846";
+NC_064653.1	RefSeq	transcript	3250553	3253346	.	+	.	transcript_id "rna-XM_050114736.1"; gene_id "gene-POX_d05901"
+NC_064653.1	RefSeq	exon	3250553	3252745	.	+	.	transcript_id "rna-XM_050114736.1"; gene_id "gene-POX_d05901";
+NC_064653.1	RefSeq	exon	3252861	3253346	.	+	.	transcript_id "rna-XM_050114736.1"; gene_id "gene-POX_d05901";
+NC_064653.1	RefSeq	CDS	3250553	3252745	.	+	0	transcript_id "rna-XM_050114736.1"; gene_id "gene-POX_d05901";
+NC_064653.1	RefSeq	CDS	3252861	3253346	.	+	0	transcript_id "rna-XM_050114736.1"; gene_id "gene-POX_d05901";
+NC_064653.1	RefSeq	transcript	3275834	3276864	.	-	.	transcript_id "rna-XM_050114745.1"; gene_id "gene-POX_d05910"; gene_name "tma22"
+NC_064653.1	RefSeq	exon	3275834	3276249	.	-	.	transcript_id "rna-XM_050114745.1"; gene_id "gene-POX_d05910"; gene_name "tma22";
+NC_064653.1	RefSeq	exon	3276418	3276505	.	-	.	transcript_id "rna-XM_050114745.1"; gene_id "gene-POX_d05910"; gene_name "tma22";
+NC_064653.1	RefSeq	exon	3276585	3276604	.	-	.	transcript_id "rna-XM_050114745.1"; gene_id "gene-POX_d05910"; gene_name "tma22";
+NC_064653.1	RefSeq	exon	3276801	3276864	.	-	.	transcript_id "rna-XM_050114745.1"; gene_id "gene-POX_d05910"; gene_name "tma22";
+NC_064653.1	RefSeq	CDS	3275834	3276249	.	-	2	transcript_id "rna-XM_050114745.1"; gene_id "gene-POX_d05910"; gene_name "tma22";
+NC_064653.1	RefSeq	CDS	3276418	3276505	.	-	0	transcript_id "rna-XM_050114745.1"; gene_id "gene-POX_d05910"; gene_name "tma22";
+NC_064653.1	RefSeq	CDS	3276585	3276604	.	-	2	transcript_id "rna-XM_050114745.1"; gene_id "gene-POX_d05910"; gene_name "tma22";
+NC_064653.1	RefSeq	CDS	3276801	3276864	.	-	0	transcript_id "rna-XM_050114745.1"; gene_id "gene-POX_d05910"; gene_name "tma22";
+NC_064653.1	RefSeq	transcript	3604056	3605526	.	+	.	transcript_id "rna-XM_050114810.1"; gene_id "gene-POX_d05980"
+NC_064653.1	RefSeq	exon	3604056	3604243	.	+	.	transcript_id "rna-XM_050114810.1"; gene_id "gene-POX_d05980";
+NC_064653.1	RefSeq	exon	3604297	3604468	.	+	.	transcript_id "rna-XM_050114810.1"; gene_id "gene-POX_d05980";
+NC_064653.1	RefSeq	exon	3604525	3605526	.	+	.	transcript_id "rna-XM_050114810.1"; gene_id "gene-POX_d05980";
+NC_064653.1	RefSeq	CDS	3604056	3604243	.	+	0	transcript_id "rna-XM_050114810.1"; gene_id "gene-POX_d05980";
+NC_064653.1	RefSeq	CDS	3604297	3604468	.	+	1	transcript_id "rna-XM_050114810.1"; gene_id "gene-POX_d05980";
+NC_064653.1	RefSeq	CDS	3604525	3605526	.	+	0	transcript_id "rna-XM_050114810.1"; gene_id "gene-POX_d05980";
+NC_064653.1	RefSeq	transcript	3607404	3609740	.	+	.	transcript_id "rna-XM_050114812.1"; gene_id "gene-POX_d05982"; gene_name "erb1"
+NC_064653.1	RefSeq	exon	3607404	3609740	.	+	.	transcript_id "rna-XM_050114812.1"; gene_id "gene-POX_d05982"; gene_name "erb1";
+NC_064653.1	RefSeq	CDS	3607404	3609740	.	+	0	transcript_id "rna-XM_050114812.1"; gene_id "gene-POX_d05982"; gene_name "erb1";
+NC_064653.1	RefSeq	transcript	3650123	3652469	.	-	.	transcript_id "rna-XM_050114828.1"; gene_id "gene-POX_d05998"
+NC_064653.1	RefSeq	exon	3650123	3651038	.	-	.	transcript_id "rna-XM_050114828.1"; gene_id "gene-POX_d05998";
+NC_064653.1	RefSeq	exon	3651104	3651681	.	-	.	transcript_id "rna-XM_050114828.1"; gene_id "gene-POX_d05998";
+NC_064653.1	RefSeq	exon	3651824	3652295	.	-	.	transcript_id "rna-XM_050114828.1"; gene_id "gene-POX_d05998";
+NC_064653.1	RefSeq	exon	3652354	3652469	.	-	.	transcript_id "rna-XM_050114828.1"; gene_id "gene-POX_d05998";
+NC_064653.1	RefSeq	CDS	3650123	3651038	.	-	1	transcript_id "rna-XM_050114828.1"; gene_id "gene-POX_d05998";
+NC_064653.1	RefSeq	CDS	3651104	3651681	.	-	0	transcript_id "rna-XM_050114828.1"; gene_id "gene-POX_d05998";
+NC_064653.1	RefSeq	CDS	3651824	3652295	.	-	1	transcript_id "rna-XM_050114828.1"; gene_id "gene-POX_d05998";
+NC_064653.1	RefSeq	CDS	3652354	3652469	.	-	0	transcript_id "rna-XM_050114828.1"; gene_id "gene-POX_d05998";
+NC_064653.1	RefSeq	transcript	3652558	3654008	.	+	.	transcript_id "rna-XM_050114829.1"; gene_id "gene-POX_d05999"
+NC_064653.1	RefSeq	exon	3652558	3652908	.	+	.	transcript_id "rna-XM_050114829.1"; gene_id "gene-POX_d05999";
+NC_064653.1	RefSeq	exon	3652998	3654008	.	+	.	transcript_id "rna-XM_050114829.1"; gene_id "gene-POX_d05999";
+NC_064653.1	RefSeq	CDS	3652558	3652908	.	+	0	transcript_id "rna-XM_050114829.1"; gene_id "gene-POX_d05999";
+NC_064653.1	RefSeq	CDS	3652998	3654008	.	+	0	transcript_id "rna-XM_050114829.1"; gene_id "gene-POX_d05999";
+NC_064653.1	RefSeq	transcript	3675518	3677064	.	-	.	transcript_id "rna-XM_050114841.1"; gene_id "gene-POX_d06011"
+NC_064653.1	RefSeq	exon	3675518	3675590	.	-	.	transcript_id "rna-XM_050114841.1"; gene_id "gene-POX_d06011";
+NC_064653.1	RefSeq	exon	3675665	3676520	.	-	.	transcript_id "rna-XM_050114841.1"; gene_id "gene-POX_d06011";
+NC_064653.1	RefSeq	exon	3676592	3676887	.	-	.	transcript_id "rna-XM_050114841.1"; gene_id "gene-POX_d06011";
+NC_064653.1	RefSeq	exon	3676967	3677064	.	-	.	transcript_id "rna-XM_050114841.1"; gene_id "gene-POX_d06011";
+NC_064653.1	RefSeq	CDS	3675518	3675590	.	-	1	transcript_id "rna-XM_050114841.1"; gene_id "gene-POX_d06011";
+NC_064653.1	RefSeq	CDS	3675665	3676520	.	-	2	transcript_id "rna-XM_050114841.1"; gene_id "gene-POX_d06011";
+NC_064653.1	RefSeq	CDS	3676592	3676887	.	-	1	transcript_id "rna-XM_050114841.1"; gene_id "gene-POX_d06011";
+NC_064653.1	RefSeq	CDS	3676967	3677064	.	-	0	transcript_id "rna-XM_050114841.1"; gene_id "gene-POX_d06011";
+NC_064654.1	RefSeq	transcript	561793	563138	.	-	.	transcript_id "rna-XM_050115148.1"; gene_id "gene-POX_e06325"
+NC_064654.1	RefSeq	exon	561793	562125	.	-	.	transcript_id "rna-XM_050115148.1"; gene_id "gene-POX_e06325";
+NC_064654.1	RefSeq	exon	562204	562398	.	-	.	transcript_id "rna-XM_050115148.1"; gene_id "gene-POX_e06325";
+NC_064654.1	RefSeq	exon	562470	563009	.	-	.	transcript_id "rna-XM_050115148.1"; gene_id "gene-POX_e06325";
+NC_064654.1	RefSeq	exon	563085	563138	.	-	.	transcript_id "rna-XM_050115148.1"; gene_id "gene-POX_e06325";
+NC_064654.1	RefSeq	CDS	561793	562125	.	-	0	transcript_id "rna-XM_050115148.1"; gene_id "gene-POX_e06325";
+NC_064654.1	RefSeq	CDS	562204	562398	.	-	0	transcript_id "rna-XM_050115148.1"; gene_id "gene-POX_e06325";
+NC_064654.1	RefSeq	CDS	562470	563009	.	-	0	transcript_id "rna-XM_050115148.1"; gene_id "gene-POX_e06325";
+NC_064654.1	RefSeq	CDS	563085	563138	.	-	0	transcript_id "rna-XM_050115148.1"; gene_id "gene-POX_e06325";
+NC_064654.1	RefSeq	transcript	607085	608159	.	+	.	transcript_id "rna-XM_050115164.1"; gene_id "gene-POX_e06341"
+NC_064654.1	RefSeq	exon	607085	607267	.	+	.	transcript_id "rna-XM_050115164.1"; gene_id "gene-POX_e06341";
+NC_064654.1	RefSeq	exon	607593	607741	.	+	.	transcript_id "rna-XM_050115164.1"; gene_id "gene-POX_e06341";
+NC_064654.1	RefSeq	exon	607958	608159	.	+	.	transcript_id "rna-XM_050115164.1"; gene_id "gene-POX_e06341";
+NC_064654.1	RefSeq	CDS	607085	607267	.	+	0	transcript_id "rna-XM_050115164.1"; gene_id "gene-POX_e06341";
+NC_064654.1	RefSeq	CDS	607593	607741	.	+	0	transcript_id "rna-XM_050115164.1"; gene_id "gene-POX_e06341";
+NC_064654.1	RefSeq	CDS	607958	608159	.	+	1	transcript_id "rna-XM_050115164.1"; gene_id "gene-POX_e06341";
+NC_064654.1	RefSeq	transcript	1208308	1209215	.	-	.	transcript_id "rna-XM_050115339.1"; gene_id "gene-POX_e06518"
+NC_064654.1	RefSeq	exon	1208308	1209127	.	-	.	transcript_id "rna-XM_050115339.1"; gene_id "gene-POX_e06518";
+NC_064654.1	RefSeq	exon	1209193	1209215	.	-	.	transcript_id "rna-XM_050115339.1"; gene_id "gene-POX_e06518";
+NC_064654.1	RefSeq	CDS	1208308	1209127	.	-	1	transcript_id "rna-XM_050115339.1"; gene_id "gene-POX_e06518";
+NC_064654.1	RefSeq	CDS	1209193	1209215	.	-	0	transcript_id "rna-XM_050115339.1"; gene_id "gene-POX_e06518";
+NC_064654.1	RefSeq	transcript	1798216	1800243	.	+	.	transcript_id "rna-XM_050115480.1"; gene_id "gene-POX_e06664"; gene_name "agm1"
+NC_064654.1	RefSeq	exon	1798216	1798308	.	+	.	transcript_id "rna-XM_050115480.1"; gene_id "gene-POX_e06664"; gene_name "agm1";
+NC_064654.1	RefSeq	exon	1798380	1798393	.	+	.	transcript_id "rna-XM_050115480.1"; gene_id "gene-POX_e06664"; gene_name "agm1";
+NC_064654.1	RefSeq	exon	1798501	1798645	.	+	.	transcript_id "rna-XM_050115480.1"; gene_id "gene-POX_e06664"; gene_name "agm1";
+NC_064654.1	RefSeq	exon	1798739	1798753	.	+	.	transcript_id "rna-XM_050115480.1"; gene_id "gene-POX_e06664"; gene_name "agm1";
+NC_064654.1	RefSeq	exon	1798826	1799320	.	+	.	transcript_id "rna-XM_050115480.1"; gene_id "gene-POX_e06664"; gene_name "agm1";
+NC_064654.1	RefSeq	exon	1799377	1800243	.	+	.	transcript_id "rna-XM_050115480.1"; gene_id "gene-POX_e06664"; gene_name "agm1";
+NC_064654.1	RefSeq	CDS	1798216	1798308	.	+	0	transcript_id "rna-XM_050115480.1"; gene_id "gene-POX_e06664"; gene_name "agm1";
+NC_064654.1	RefSeq	CDS	1798380	1798393	.	+	0	transcript_id "rna-XM_050115480.1"; gene_id "gene-POX_e06664"; gene_name "agm1";
+NC_064654.1	RefSeq	CDS	1798501	1798645	.	+	1	transcript_id "rna-XM_050115480.1"; gene_id "gene-POX_e06664"; gene_name "agm1";
+NC_064654.1	RefSeq	CDS	1798739	1798753	.	+	0	transcript_id "rna-XM_050115480.1"; gene_id "gene-POX_e06664"; gene_name "agm1";
+NC_064654.1	RefSeq	CDS	1798826	1799320	.	+	0	transcript_id "rna-XM_050115480.1"; gene_id "gene-POX_e06664"; gene_name "agm1";
+NC_064654.1	RefSeq	CDS	1799377	1800243	.	+	0	transcript_id "rna-XM_050115480.1"; gene_id "gene-POX_e06664"; gene_name "agm1";
+NC_064654.1	RefSeq	transcript	1913369	1914657	.	-	.	transcript_id "rna-XM_050115523.1"; gene_id "gene-POX_e06707"
+NC_064654.1	RefSeq	exon	1913369	1914144	.	-	.	transcript_id "rna-XM_050115523.1"; gene_id "gene-POX_e06707";
+NC_064654.1	RefSeq	exon	1914215	1914351	.	-	.	transcript_id "rna-XM_050115523.1"; gene_id "gene-POX_e06707";
+NC_064654.1	RefSeq	exon	1914416	1914657	.	-	.	transcript_id "rna-XM_050115523.1"; gene_id "gene-POX_e06707";
+NC_064654.1	RefSeq	CDS	1913369	1914144	.	-	2	transcript_id "rna-XM_050115523.1"; gene_id "gene-POX_e06707";
+NC_064654.1	RefSeq	CDS	1914215	1914351	.	-	1	transcript_id "rna-XM_050115523.1"; gene_id "gene-POX_e06707";
+NC_064654.1	RefSeq	CDS	1914416	1914657	.	-	0	transcript_id "rna-XM_050115523.1"; gene_id "gene-POX_e06707";
+NC_064654.1	RefSeq	transcript	2170182	2172510	.	-	.	transcript_id "rna-XM_050115608.1"; gene_id "gene-POX_e06792"
+NC_064654.1	RefSeq	exon	2170182	2170345	.	-	.	transcript_id "rna-XM_050115608.1"; gene_id "gene-POX_e06792";
+NC_064654.1	RefSeq	exon	2170418	2171226	.	-	.	transcript_id "rna-XM_050115608.1"; gene_id "gene-POX_e06792";
+NC_064654.1	RefSeq	exon	2171300	2171541	.	-	.	transcript_id "rna-XM_050115608.1"; gene_id "gene-POX_e06792";
+NC_064654.1	RefSeq	exon	2171611	2171877	.	-	.	transcript_id "rna-XM_050115608.1"; gene_id "gene-POX_e06792";
+NC_064654.1	RefSeq	exon	2171933	2172062	.	-	.	transcript_id "rna-XM_050115608.1"; gene_id "gene-POX_e06792";
+NC_064654.1	RefSeq	exon	2172127	2172203	.	-	.	transcript_id "rna-XM_050115608.1"; gene_id "gene-POX_e06792";
+NC_064654.1	RefSeq	exon	2172270	2172289	.	-	.	transcript_id "rna-XM_050115608.1"; gene_id "gene-POX_e06792";
+NC_064654.1	RefSeq	exon	2172351	2172391	.	-	.	transcript_id "rna-XM_050115608.1"; gene_id "gene-POX_e06792";
+NC_064654.1	RefSeq	exon	2172458	2172510	.	-	.	transcript_id "rna-XM_050115608.1"; gene_id "gene-POX_e06792";
+NC_064654.1	RefSeq	CDS	2170182	2170345	.	-	2	transcript_id "rna-XM_050115608.1"; gene_id "gene-POX_e06792";
+NC_064654.1	RefSeq	CDS	2170418	2171226	.	-	1	transcript_id "rna-XM_050115608.1"; gene_id "gene-POX_e06792";
+NC_064654.1	RefSeq	CDS	2171300	2171541	.	-	0	transcript_id "rna-XM_050115608.1"; gene_id "gene-POX_e06792";
+NC_064654.1	RefSeq	CDS	2171611	2171877	.	-	0	transcript_id "rna-XM_050115608.1"; gene_id "gene-POX_e06792";
+NC_064654.1	RefSeq	CDS	2171933	2172062	.	-	1	transcript_id "rna-XM_050115608.1"; gene_id "gene-POX_e06792";
+NC_064654.1	RefSeq	CDS	2172127	2172203	.	-	0	transcript_id "rna-XM_050115608.1"; gene_id "gene-POX_e06792";
+NC_064654.1	RefSeq	CDS	2172270	2172289	.	-	2	transcript_id "rna-XM_050115608.1"; gene_id "gene-POX_e06792";
+NC_064654.1	RefSeq	CDS	2172351	2172391	.	-	1	transcript_id "rna-XM_050115608.1"; gene_id "gene-POX_e06792";
+NC_064654.1	RefSeq	CDS	2172458	2172510	.	-	0	transcript_id "rna-XM_050115608.1"; gene_id "gene-POX_e06792";
+NC_064654.1	RefSeq	transcript	2435555	2437471	.	+	.	transcript_id "rna-XM_050115688.1"; gene_id "gene-POX_e06873"
+NC_064654.1	RefSeq	exon	2435555	2435745	.	+	.	transcript_id "rna-XM_050115688.1"; gene_id "gene-POX_e06873";
+NC_064654.1	RefSeq	exon	2435807	2436928	.	+	.	transcript_id "rna-XM_050115688.1"; gene_id "gene-POX_e06873";
+NC_064654.1	RefSeq	exon	2436988	2437471	.	+	.	transcript_id "rna-XM_050115688.1"; gene_id "gene-POX_e06873";
+NC_064654.1	RefSeq	CDS	2435555	2435745	.	+	0	transcript_id "rna-XM_050115688.1"; gene_id "gene-POX_e06873";
+NC_064654.1	RefSeq	CDS	2435807	2436928	.	+	1	transcript_id "rna-XM_050115688.1"; gene_id "gene-POX_e06873";
+NC_064654.1	RefSeq	CDS	2436988	2437471	.	+	1	transcript_id "rna-XM_050115688.1"; gene_id "gene-POX_e06873";
+NC_064654.1	RefSeq	transcript	2651213	2652878	.	+	.	transcript_id "rna-XM_050115758.1"; gene_id "gene-POX_e06945"; gene_name "csn12"
+NC_064654.1	RefSeq	exon	2651213	2651778	.	+	.	transcript_id "rna-XM_050115758.1"; gene_id "gene-POX_e06945"; gene_name "csn12";
+NC_064654.1	RefSeq	exon	2651830	2651902	.	+	.	transcript_id "rna-XM_050115758.1"; gene_id "gene-POX_e06945"; gene_name "csn12";
+NC_064654.1	RefSeq	exon	2651963	2652115	.	+	.	transcript_id "rna-XM_050115758.1"; gene_id "gene-POX_e06945"; gene_name "csn12";
+NC_064654.1	RefSeq	exon	2652185	2652246	.	+	.	transcript_id "rna-XM_050115758.1"; gene_id "gene-POX_e06945"; gene_name "csn12";
+NC_064654.1	RefSeq	exon	2652299	2652878	.	+	.	transcript_id "rna-XM_050115758.1"; gene_id "gene-POX_e06945"; gene_name "csn12";
+NC_064654.1	RefSeq	CDS	2651213	2651778	.	+	0	transcript_id "rna-XM_050115758.1"; gene_id "gene-POX_e06945"; gene_name "csn12";
+NC_064654.1	RefSeq	CDS	2651830	2651902	.	+	1	transcript_id "rna-XM_050115758.1"; gene_id "gene-POX_e06945"; gene_name "csn12";
+NC_064654.1	RefSeq	CDS	2651963	2652115	.	+	0	transcript_id "rna-XM_050115758.1"; gene_id "gene-POX_e06945"; gene_name "csn12";
+NC_064654.1	RefSeq	CDS	2652185	2652246	.	+	0	transcript_id "rna-XM_050115758.1"; gene_id "gene-POX_e06945"; gene_name "csn12";
+NC_064654.1	RefSeq	CDS	2652299	2652878	.	+	1	transcript_id "rna-XM_050115758.1"; gene_id "gene-POX_e06945"; gene_name "csn12";
+NC_064654.1	RefSeq	transcript	2781022	2781841	.	+	.	transcript_id "rna-XM_050115796.1"; gene_id "gene-POX_e06984"
+NC_064654.1	RefSeq	exon	2781022	2781190	.	+	.	transcript_id "rna-XM_050115796.1"; gene_id "gene-POX_e06984";
+NC_064654.1	RefSeq	exon	2781309	2781540	.	+	.	transcript_id "rna-XM_050115796.1"; gene_id "gene-POX_e06984";
+NC_064654.1	RefSeq	exon	2781670	2781841	.	+	.	transcript_id "rna-XM_050115796.1"; gene_id "gene-POX_e06984";
+NC_064654.1	RefSeq	CDS	2781022	2781190	.	+	0	transcript_id "rna-XM_050115796.1"; gene_id "gene-POX_e06984";
+NC_064654.1	RefSeq	CDS	2781309	2781540	.	+	2	transcript_id "rna-XM_050115796.1"; gene_id "gene-POX_e06984";
+NC_064654.1	RefSeq	CDS	2781670	2781841	.	+	1	transcript_id "rna-XM_050115796.1"; gene_id "gene-POX_e06984";
+NC_064654.1	RefSeq	transcript	2913136	2914625	.	-	.	transcript_id "rna-XM_050115835.1"; gene_id "gene-POX_e07024"
+NC_064654.1	RefSeq	exon	2913136	2914063	.	-	.	transcript_id "rna-XM_050115835.1"; gene_id "gene-POX_e07024";
+NC_064654.1	RefSeq	exon	2914118	2914245	.	-	.	transcript_id "rna-XM_050115835.1"; gene_id "gene-POX_e07024";
+NC_064654.1	RefSeq	exon	2914350	2914450	.	-	.	transcript_id "rna-XM_050115835.1"; gene_id "gene-POX_e07024";
+NC_064654.1	RefSeq	exon	2914523	2914625	.	-	.	transcript_id "rna-XM_050115835.1"; gene_id "gene-POX_e07024";
+NC_064654.1	RefSeq	CDS	2913136	2914063	.	-	1	transcript_id "rna-XM_050115835.1"; gene_id "gene-POX_e07024";
+NC_064654.1	RefSeq	CDS	2914118	2914245	.	-	0	transcript_id "rna-XM_050115835.1"; gene_id "gene-POX_e07024";
+NC_064654.1	RefSeq	CDS	2914350	2914450	.	-	2	transcript_id "rna-XM_050115835.1"; gene_id "gene-POX_e07024";
+NC_064654.1	RefSeq	CDS	2914523	2914625	.	-	0	transcript_id "rna-XM_050115835.1"; gene_id "gene-POX_e07024";
+NC_064654.1	RefSeq	transcript	3203205	3204762	.	+	.	transcript_id "rna-XM_050115935.1"; gene_id "gene-POX_e07126"
+NC_064654.1	RefSeq	exon	3203205	3203443	.	+	.	transcript_id "rna-XM_050115935.1"; gene_id "gene-POX_e07126";
+NC_064654.1	RefSeq	exon	3203500	3203680	.	+	.	transcript_id "rna-XM_050115935.1"; gene_id "gene-POX_e07126";
+NC_064654.1	RefSeq	exon	3203740	3204762	.	+	.	transcript_id "rna-XM_050115935.1"; gene_id "gene-POX_e07126";
+NC_064654.1	RefSeq	CDS	3203205	3203443	.	+	0	transcript_id "rna-XM_050115935.1"; gene_id "gene-POX_e07126";
+NC_064654.1	RefSeq	CDS	3203500	3203680	.	+	1	transcript_id "rna-XM_050115935.1"; gene_id "gene-POX_e07126";
+NC_064654.1	RefSeq	CDS	3203740	3204762	.	+	0	transcript_id "rna-XM_050115935.1"; gene_id "gene-POX_e07126";
+NC_064654.1	RefSeq	transcript	3267645	3268837	.	-	.	transcript_id "rna-XM_050115956.1"; gene_id "gene-POX_e07147"
+NC_064654.1	RefSeq	exon	3267645	3268685	.	-	.	transcript_id "rna-XM_050115956.1"; gene_id "gene-POX_e07147";
+NC_064654.1	RefSeq	exon	3268778	3268837	.	-	.	transcript_id "rna-XM_050115956.1"; gene_id "gene-POX_e07147";
+NC_064654.1	RefSeq	CDS	3267645	3268685	.	-	0	transcript_id "rna-XM_050115956.1"; gene_id "gene-POX_e07147";
+NC_064654.1	RefSeq	CDS	3268778	3268837	.	-	0	transcript_id "rna-XM_050115956.1"; gene_id "gene-POX_e07147";
+NC_064654.1	RefSeq	transcript	3478450	3480128	.	-	.	transcript_id "rna-XM_050116028.1"; gene_id "gene-POX_e07221"; gene_name "hat1"
+NC_064654.1	RefSeq	exon	3478450	3479374	.	-	.	transcript_id "rna-XM_050116028.1"; gene_id "gene-POX_e07221"; gene_name "hat1";
+NC_064654.1	RefSeq	exon	3479433	3479697	.	-	.	transcript_id "rna-XM_050116028.1"; gene_id "gene-POX_e07221"; gene_name "hat1";
+NC_064654.1	RefSeq	exon	3479769	3480044	.	-	.	transcript_id "rna-XM_050116028.1"; gene_id "gene-POX_e07221"; gene_name "hat1";
+NC_064654.1	RefSeq	exon	3480110	3480128	.	-	.	transcript_id "rna-XM_050116028.1"; gene_id "gene-POX_e07221"; gene_name "hat1";
+NC_064654.1	RefSeq	CDS	3478450	3479374	.	-	1	transcript_id "rna-XM_050116028.1"; gene_id "gene-POX_e07221"; gene_name "hat1";
+NC_064654.1	RefSeq	CDS	3479433	3479697	.	-	2	transcript_id "rna-XM_050116028.1"; gene_id "gene-POX_e07221"; gene_name "hat1";
+NC_064654.1	RefSeq	CDS	3479769	3480044	.	-	2	transcript_id "rna-XM_050116028.1"; gene_id "gene-POX_e07221"; gene_name "hat1";
+NC_064654.1	RefSeq	CDS	3480110	3480128	.	-	0	transcript_id "rna-XM_050116028.1"; gene_id "gene-POX_e07221"; gene_name "hat1";
+NC_064654.1	RefSeq	transcript	3564034	3566475	.	-	.	transcript_id "rna-XM_050116056.1"; gene_id "gene-POX_e07249"
+NC_064654.1	RefSeq	exon	3564034	3564080	.	-	.	transcript_id "rna-XM_050116056.1"; gene_id "gene-POX_e07249";
+NC_064654.1	RefSeq	exon	3564131	3564572	.	-	.	transcript_id "rna-XM_050116056.1"; gene_id "gene-POX_e07249";
+NC_064654.1	RefSeq	exon	3564648	3564717	.	-	.	transcript_id "rna-XM_050116056.1"; gene_id "gene-POX_e07249";
+NC_064654.1	RefSeq	exon	3564776	3564834	.	-	.	transcript_id "rna-XM_050116056.1"; gene_id "gene-POX_e07249";
+NC_064654.1	RefSeq	exon	3565648	3566475	.	-	.	transcript_id "rna-XM_050116056.1"; gene_id "gene-POX_e07249";
+NC_064654.1	RefSeq	CDS	3564034	3564080	.	-	2	transcript_id "rna-XM_050116056.1"; gene_id "gene-POX_e07249";
+NC_064654.1	RefSeq	CDS	3564131	3564572	.	-	0	transcript_id "rna-XM_050116056.1"; gene_id "gene-POX_e07249";
+NC_064654.1	RefSeq	CDS	3564648	3564717	.	-	1	transcript_id "rna-XM_050116056.1"; gene_id "gene-POX_e07249";
+NC_064654.1	RefSeq	CDS	3564776	3564834	.	-	0	transcript_id "rna-XM_050116056.1"; gene_id "gene-POX_e07249";
+NC_064654.1	RefSeq	CDS	3565648	3566475	.	-	0	transcript_id "rna-XM_050116056.1"; gene_id "gene-POX_e07249";
+NC_064654.1	RefSeq	transcript	3609077	3610436	.	-	.	transcript_id "rna-XM_050116070.1"; gene_id "gene-POX_e07263"; gene_name "dph1"
+NC_064654.1	RefSeq	exon	3609077	3610233	.	-	.	transcript_id "rna-XM_050116070.1"; gene_id "gene-POX_e07263"; gene_name "dph1";
+NC_064654.1	RefSeq	exon	3610298	3610436	.	-	.	transcript_id "rna-XM_050116070.1"; gene_id "gene-POX_e07263"; gene_name "dph1";
+NC_064654.1	RefSeq	CDS	3609077	3610233	.	-	2	transcript_id "rna-XM_050116070.1"; gene_id "gene-POX_e07263"; gene_name "dph1";
+NC_064654.1	RefSeq	CDS	3610298	3610436	.	-	0	transcript_id "rna-XM_050116070.1"; gene_id "gene-POX_e07263"; gene_name "dph1";
+NC_064655.1	RefSeq	transcript	1421158	1423042	.	+	.	transcript_id "rna-XM_050116583.1"; gene_id "gene-POX_f07789"
+NC_064655.1	RefSeq	exon	1421158	1421251	.	+	.	transcript_id "rna-XM_050116583.1"; gene_id "gene-POX_f07789";
+NC_064655.1	RefSeq	exon	1421311	1421428	.	+	.	transcript_id "rna-XM_050116583.1"; gene_id "gene-POX_f07789";
+NC_064655.1	RefSeq	exon	1421491	1423042	.	+	.	transcript_id "rna-XM_050116583.1"; gene_id "gene-POX_f07789";
+NC_064655.1	RefSeq	CDS	1421158	1421251	.	+	0	transcript_id "rna-XM_050116583.1"; gene_id "gene-POX_f07789";
+NC_064655.1	RefSeq	CDS	1421311	1421428	.	+	2	transcript_id "rna-XM_050116583.1"; gene_id "gene-POX_f07789";
+NC_064655.1	RefSeq	CDS	1421491	1423042	.	+	1	transcript_id "rna-XM_050116583.1"; gene_id "gene-POX_f07789";
+NC_064655.1	RefSeq	transcript	1460294	1462225	.	-	.	transcript_id "rna-XM_050116598.1"; gene_id "gene-POX_f07804"
+NC_064655.1	RefSeq	exon	1460294	1461793	.	-	.	transcript_id "rna-XM_050116598.1"; gene_id "gene-POX_f07804";
+NC_064655.1	RefSeq	exon	1461860	1462225	.	-	.	transcript_id "rna-XM_050116598.1"; gene_id "gene-POX_f07804";
+NC_064655.1	RefSeq	CDS	1460294	1461793	.	-	0	transcript_id "rna-XM_050116598.1"; gene_id "gene-POX_f07804";
+NC_064655.1	RefSeq	CDS	1461860	1462225	.	-	0	transcript_id "rna-XM_050116598.1"; gene_id "gene-POX_f07804";
+NC_064655.1	RefSeq	transcript	1469464	1472506	.	+	.	transcript_id "rna-XM_050116602.1"; gene_id "gene-POX_f07808"
+NC_064655.1	RefSeq	exon	1469464	1469637	.	+	.	transcript_id "rna-XM_050116602.1"; gene_id "gene-POX_f07808";
+NC_064655.1	RefSeq	exon	1469699	1469726	.	+	.	transcript_id "rna-XM_050116602.1"; gene_id "gene-POX_f07808";
+NC_064655.1	RefSeq	exon	1469793	1472506	.	+	.	transcript_id "rna-XM_050116602.1"; gene_id "gene-POX_f07808";
+NC_064655.1	RefSeq	CDS	1469464	1469637	.	+	0	transcript_id "rna-XM_050116602.1"; gene_id "gene-POX_f07808";
+NC_064655.1	RefSeq	CDS	1469699	1469726	.	+	0	transcript_id "rna-XM_050116602.1"; gene_id "gene-POX_f07808";
+NC_064655.1	RefSeq	CDS	1469793	1472506	.	+	2	transcript_id "rna-XM_050116602.1"; gene_id "gene-POX_f07808";
+NC_064655.1	RefSeq	transcript	1481794	1483361	.	+	.	transcript_id "rna-XM_050116605.1"; gene_id "gene-POX_f07811"
+NC_064655.1	RefSeq	exon	1481794	1482720	.	+	.	transcript_id "rna-XM_050116605.1"; gene_id "gene-POX_f07811";
+NC_064655.1	RefSeq	exon	1482777	1483361	.	+	.	transcript_id "rna-XM_050116605.1"; gene_id "gene-POX_f07811";
+NC_064655.1	RefSeq	CDS	1481794	1482720	.	+	0	transcript_id "rna-XM_050116605.1"; gene_id "gene-POX_f07811";
+NC_064655.1	RefSeq	CDS	1482777	1483361	.	+	0	transcript_id "rna-XM_050116605.1"; gene_id "gene-POX_f07811";
+NC_064655.1	RefSeq	transcript	1765647	1767073	.	-	.	transcript_id "rna-XM_050116696.1"; gene_id "gene-POX_f07907"
+NC_064655.1	RefSeq	exon	1765647	1766531	.	-	.	transcript_id "rna-XM_050116696.1"; gene_id "gene-POX_f07907";
+NC_064655.1	RefSeq	exon	1766605	1766637	.	-	.	transcript_id "rna-XM_050116696.1"; gene_id "gene-POX_f07907";
+NC_064655.1	RefSeq	exon	1766694	1766704	.	-	.	transcript_id "rna-XM_050116696.1"; gene_id "gene-POX_f07907";
+NC_064655.1	RefSeq	exon	1766766	1766812	.	-	.	transcript_id "rna-XM_050116696.1"; gene_id "gene-POX_f07907";
+NC_064655.1	RefSeq	exon	1766865	1766904	.	-	.	transcript_id "rna-XM_050116696.1"; gene_id "gene-POX_f07907";
+NC_064655.1	RefSeq	exon	1766980	1767073	.	-	.	transcript_id "rna-XM_050116696.1"; gene_id "gene-POX_f07907";
+NC_064655.1	RefSeq	CDS	1765647	1766531	.	-	0	transcript_id "rna-XM_050116696.1"; gene_id "gene-POX_f07907";
+NC_064655.1	RefSeq	CDS	1766605	1766637	.	-	0	transcript_id "rna-XM_050116696.1"; gene_id "gene-POX_f07907";
+NC_064655.1	RefSeq	CDS	1766694	1766704	.	-	2	transcript_id "rna-XM_050116696.1"; gene_id "gene-POX_f07907";
+NC_064655.1	RefSeq	CDS	1766766	1766812	.	-	1	transcript_id "rna-XM_050116696.1"; gene_id "gene-POX_f07907";
+NC_064655.1	RefSeq	CDS	1766865	1766904	.	-	2	transcript_id "rna-XM_050116696.1"; gene_id "gene-POX_f07907";
+NC_064655.1	RefSeq	CDS	1766980	1767073	.	-	0	transcript_id "rna-XM_050116696.1"; gene_id "gene-POX_f07907";
+NC_064655.1	RefSeq	transcript	1845496	1847067	.	-	.	transcript_id "rna-XM_050116720.1"; gene_id "gene-POX_f07933"
+NC_064655.1	RefSeq	exon	1845496	1846617	.	-	.	transcript_id "rna-XM_050116720.1"; gene_id "gene-POX_f07933";
+NC_064655.1	RefSeq	exon	1846762	1847067	.	-	.	transcript_id "rna-XM_050116720.1"; gene_id "gene-POX_f07933";
+NC_064655.1	RefSeq	CDS	1845496	1846617	.	-	0	transcript_id "rna-XM_050116720.1"; gene_id "gene-POX_f07933";
+NC_064655.1	RefSeq	CDS	1846762	1847067	.	-	0	transcript_id "rna-XM_050116720.1"; gene_id "gene-POX_f07933";
+NC_064655.1	RefSeq	transcript	2257515	2259680	.	-	.	transcript_id "rna-XM_050116856.1"; gene_id "gene-POX_f08073"
+NC_064655.1	RefSeq	exon	2257515	2258727	.	-	.	transcript_id "rna-XM_050116856.1"; gene_id "gene-POX_f08073";
+NC_064655.1	RefSeq	exon	2258802	2258946	.	-	.	transcript_id "rna-XM_050116856.1"; gene_id "gene-POX_f08073";
+NC_064655.1	RefSeq	exon	2259021	2259291	.	-	.	transcript_id "rna-XM_050116856.1"; gene_id "gene-POX_f08073";
+NC_064655.1	RefSeq	exon	2259360	2259680	.	-	.	transcript_id "rna-XM_050116856.1"; gene_id "gene-POX_f08073";
+NC_064655.1	RefSeq	CDS	2257515	2258727	.	-	1	transcript_id "rna-XM_050116856.1"; gene_id "gene-POX_f08073";
+NC_064655.1	RefSeq	CDS	2258802	2258946	.	-	2	transcript_id "rna-XM_050116856.1"; gene_id "gene-POX_f08073";
+NC_064655.1	RefSeq	CDS	2259021	2259291	.	-	0	transcript_id "rna-XM_050116856.1"; gene_id "gene-POX_f08073";
+NC_064655.1	RefSeq	CDS	2259360	2259680	.	-	0	transcript_id "rna-XM_050116856.1"; gene_id "gene-POX_f08073";
+NC_064655.1	RefSeq	transcript	2312432	2314821	.	-	.	transcript_id "rna-XM_050116874.1"; gene_id "gene-POX_f08091"
+NC_064655.1	RefSeq	exon	2312432	2312693	.	-	.	transcript_id "rna-XM_050116874.1"; gene_id "gene-POX_f08091";
+NC_064655.1	RefSeq	exon	2312831	2313109	.	-	.	transcript_id "rna-XM_050116874.1"; gene_id "gene-POX_f08091";
+NC_064655.1	RefSeq	exon	2313195	2313348	.	-	.	transcript_id "rna-XM_050116874.1"; gene_id "gene-POX_f08091";
+NC_064655.1	RefSeq	exon	2313400	2313530	.	-	.	transcript_id "rna-XM_050116874.1"; gene_id "gene-POX_f08091";
+NC_064655.1	RefSeq	exon	2313666	2313740	.	-	.	transcript_id "rna-XM_050116874.1"; gene_id "gene-POX_f08091";
+NC_064655.1	RefSeq	exon	2313885	2314040	.	-	.	transcript_id "rna-XM_050116874.1"; gene_id "gene-POX_f08091";
+NC_064655.1	RefSeq	exon	2314256	2314821	.	-	.	transcript_id "rna-XM_050116874.1"; gene_id "gene-POX_f08091";
+NC_064655.1	RefSeq	CDS	2312432	2312693	.	-	1	transcript_id "rna-XM_050116874.1"; gene_id "gene-POX_f08091";
+NC_064655.1	RefSeq	CDS	2312831	2313109	.	-	1	transcript_id "rna-XM_050116874.1"; gene_id "gene-POX_f08091";
+NC_064655.1	RefSeq	CDS	2313195	2313348	.	-	2	transcript_id "rna-XM_050116874.1"; gene_id "gene-POX_f08091";
+NC_064655.1	RefSeq	CDS	2313400	2313530	.	-	1	transcript_id "rna-XM_050116874.1"; gene_id "gene-POX_f08091";
+NC_064655.1	RefSeq	CDS	2313666	2313740	.	-	1	transcript_id "rna-XM_050116874.1"; gene_id "gene-POX_f08091";
+NC_064655.1	RefSeq	CDS	2313885	2314040	.	-	1	transcript_id "rna-XM_050116874.1"; gene_id "gene-POX_f08091";
+NC_064655.1	RefSeq	CDS	2314256	2314821	.	-	0	transcript_id "rna-XM_050116874.1"; gene_id "gene-POX_f08091";
+NC_064655.1	RefSeq	transcript	2969729	2970523	.	-	.	transcript_id "rna-XM_050117021.1"; gene_id "gene-POX_f08243"
+NC_064655.1	RefSeq	exon	2969729	2969908	.	-	.	transcript_id "rna-XM_050117021.1"; gene_id "gene-POX_f08243";
+NC_064655.1	RefSeq	exon	2970039	2970393	.	-	.	transcript_id "rna-XM_050117021.1"; gene_id "gene-POX_f08243";
+NC_064655.1	RefSeq	exon	2970492	2970523	.	-	.	transcript_id "rna-XM_050117021.1"; gene_id "gene-POX_f08243";
+NC_064655.1	RefSeq	CDS	2969729	2969908	.	-	0	transcript_id "rna-XM_050117021.1"; gene_id "gene-POX_f08243";
+NC_064655.1	RefSeq	CDS	2970039	2970393	.	-	1	transcript_id "rna-XM_050117021.1"; gene_id "gene-POX_f08243";
+NC_064655.1	RefSeq	CDS	2970492	2970523	.	-	0	transcript_id "rna-XM_050117021.1"; gene_id "gene-POX_f08243";
+NC_064655.1	RefSeq	transcript	3154097	3156977	.	+	.	transcript_id "rna-XM_050117086.1"; gene_id "gene-POX_f08310"
+NC_064655.1	RefSeq	exon	3154097	3154719	.	+	.	transcript_id "rna-XM_050117086.1"; gene_id "gene-POX_f08310";
+NC_064655.1	RefSeq	exon	3154953	3155545	.	+	.	transcript_id "rna-XM_050117086.1"; gene_id "gene-POX_f08310";
+NC_064655.1	RefSeq	exon	3155653	3155866	.	+	.	transcript_id "rna-XM_050117086.1"; gene_id "gene-POX_f08310";
+NC_064655.1	RefSeq	exon	3155957	3156977	.	+	.	transcript_id "rna-XM_050117086.1"; gene_id "gene-POX_f08310";
+NC_064655.1	RefSeq	CDS	3154097	3154719	.	+	0	transcript_id "rna-XM_050117086.1"; gene_id "gene-POX_f08310";
+NC_064655.1	RefSeq	CDS	3154953	3155545	.	+	1	transcript_id "rna-XM_050117086.1"; gene_id "gene-POX_f08310";
+NC_064655.1	RefSeq	CDS	3155653	3155866	.	+	2	transcript_id "rna-XM_050117086.1"; gene_id "gene-POX_f08310";
+NC_064655.1	RefSeq	CDS	3155957	3156977	.	+	1	transcript_id "rna-XM_050117086.1"; gene_id "gene-POX_f08310";
+NC_064655.1	RefSeq	transcript	3406800	3409531	.	-	.	transcript_id "rna-XM_050117177.1"; gene_id "gene-POX_f08402"
+NC_064655.1	RefSeq	exon	3406800	3407741	.	-	.	transcript_id "rna-XM_050117177.1"; gene_id "gene-POX_f08402";
+NC_064655.1	RefSeq	exon	3407799	3407897	.	-	.	transcript_id "rna-XM_050117177.1"; gene_id "gene-POX_f08402";
+NC_064655.1	RefSeq	exon	3407951	3408208	.	-	.	transcript_id "rna-XM_050117177.1"; gene_id "gene-POX_f08402";
+NC_064655.1	RefSeq	exon	3408264	3408719	.	-	.	transcript_id "rna-XM_050117177.1"; gene_id "gene-POX_f08402";
+NC_064655.1	RefSeq	exon	3408786	3409007	.	-	.	transcript_id "rna-XM_050117177.1"; gene_id "gene-POX_f08402";
+NC_064655.1	RefSeq	exon	3409072	3409212	.	-	.	transcript_id "rna-XM_050117177.1"; gene_id "gene-POX_f08402";
+NC_064655.1	RefSeq	exon	3409291	3409358	.	-	.	transcript_id "rna-XM_050117177.1"; gene_id "gene-POX_f08402";
+NC_064655.1	RefSeq	exon	3409432	3409531	.	-	.	transcript_id "rna-XM_050117177.1"; gene_id "gene-POX_f08402";
+NC_064655.1	RefSeq	CDS	3406800	3407741	.	-	0	transcript_id "rna-XM_050117177.1"; gene_id "gene-POX_f08402";
+NC_064655.1	RefSeq	CDS	3407799	3407897	.	-	0	transcript_id "rna-XM_050117177.1"; gene_id "gene-POX_f08402";
+NC_064655.1	RefSeq	CDS	3407951	3408208	.	-	0	transcript_id "rna-XM_050117177.1"; gene_id "gene-POX_f08402";
+NC_064655.1	RefSeq	CDS	3408264	3408719	.	-	0	transcript_id "rna-XM_050117177.1"; gene_id "gene-POX_f08402";
+NC_064655.1	RefSeq	CDS	3408786	3409007	.	-	0	transcript_id "rna-XM_050117177.1"; gene_id "gene-POX_f08402";
+NC_064655.1	RefSeq	CDS	3409072	3409212	.	-	0	transcript_id "rna-XM_050117177.1"; gene_id "gene-POX_f08402";
+NC_064655.1	RefSeq	CDS	3409291	3409358	.	-	2	transcript_id "rna-XM_050117177.1"; gene_id "gene-POX_f08402";
+NC_064655.1	RefSeq	CDS	3409432	3409531	.	-	0	transcript_id "rna-XM_050117177.1"; gene_id "gene-POX_f08402";
+NC_064655.1	RefSeq	transcript	3497846	3501128	.	+	.	transcript_id "rna-XM_050117203.1"; gene_id "gene-POX_f08430"
+NC_064655.1	RefSeq	exon	3497846	3498131	.	+	.	transcript_id "rna-XM_050117203.1"; gene_id "gene-POX_f08430";
+NC_064655.1	RefSeq	exon	3498215	3499066	.	+	.	transcript_id "rna-XM_050117203.1"; gene_id "gene-POX_f08430";
+NC_064655.1	RefSeq	exon	3499135	3499206	.	+	.	transcript_id "rna-XM_050117203.1"; gene_id "gene-POX_f08430";
+NC_064655.1	RefSeq	exon	3499273	3500462	.	+	.	transcript_id "rna-XM_050117203.1"; gene_id "gene-POX_f08430";
+NC_064655.1	RefSeq	exon	3500538	3501128	.	+	.	transcript_id "rna-XM_050117203.1"; gene_id "gene-POX_f08430";
+NC_064655.1	RefSeq	CDS	3497846	3498131	.	+	0	transcript_id "rna-XM_050117203.1"; gene_id "gene-POX_f08430";
+NC_064655.1	RefSeq	CDS	3498215	3499066	.	+	2	transcript_id "rna-XM_050117203.1"; gene_id "gene-POX_f08430";
+NC_064655.1	RefSeq	CDS	3499135	3499206	.	+	2	transcript_id "rna-XM_050117203.1"; gene_id "gene-POX_f08430";
+NC_064655.1	RefSeq	CDS	3499273	3500462	.	+	2	transcript_id "rna-XM_050117203.1"; gene_id "gene-POX_f08430";
+NC_064655.1	RefSeq	CDS	3500538	3501128	.	+	0	transcript_id "rna-XM_050117203.1"; gene_id "gene-POX_f08430";
+NC_064655.1	RefSeq	transcript	3569044	3570120	.	-	.	transcript_id "rna-XM_050117231.1"; gene_id "gene-POX_f08459"
+NC_064655.1	RefSeq	exon	3569044	3569061	.	-	.	transcript_id "rna-XM_050117231.1"; gene_id "gene-POX_f08459";
+NC_064655.1	RefSeq	exon	3569122	3569157	.	-	.	transcript_id "rna-XM_050117231.1"; gene_id "gene-POX_f08459";
+NC_064655.1	RefSeq	exon	3569220	3569390	.	-	.	transcript_id "rna-XM_050117231.1"; gene_id "gene-POX_f08459";
+NC_064655.1	RefSeq	exon	3569463	3569832	.	-	.	transcript_id "rna-XM_050117231.1"; gene_id "gene-POX_f08459";
+NC_064655.1	RefSeq	exon	3569888	3569964	.	-	.	transcript_id "rna-XM_050117231.1"; gene_id "gene-POX_f08459";
+NC_064655.1	RefSeq	exon	3570029	3570051	.	-	.	transcript_id "rna-XM_050117231.1"; gene_id "gene-POX_f08459";
+NC_064655.1	RefSeq	exon	3570111	3570120	.	-	.	transcript_id "rna-XM_050117231.1"; gene_id "gene-POX_f08459";
+NC_064655.1	RefSeq	CDS	3569044	3569061	.	-	0	transcript_id "rna-XM_050117231.1"; gene_id "gene-POX_f08459";
+NC_064655.1	RefSeq	CDS	3569122	3569157	.	-	0	transcript_id "rna-XM_050117231.1"; gene_id "gene-POX_f08459";
+NC_064655.1	RefSeq	CDS	3569220	3569390	.	-	0	transcript_id "rna-XM_050117231.1"; gene_id "gene-POX_f08459";
+NC_064655.1	RefSeq	CDS	3569463	3569832	.	-	1	transcript_id "rna-XM_050117231.1"; gene_id "gene-POX_f08459";
+NC_064655.1	RefSeq	CDS	3569888	3569964	.	-	0	transcript_id "rna-XM_050117231.1"; gene_id "gene-POX_f08459";
+NC_064655.1	RefSeq	CDS	3570029	3570051	.	-	2	transcript_id "rna-XM_050117231.1"; gene_id "gene-POX_f08459";
+NC_064655.1	RefSeq	CDS	3570111	3570120	.	-	0	transcript_id "rna-XM_050117231.1"; gene_id "gene-POX_f08459";
+NC_064655.1	RefSeq	transcript	3570258	3571385	.	+	.	transcript_id "rna-XM_050117232.1"; gene_id "gene-POX_f08460"
+NC_064655.1	RefSeq	exon	3570258	3570508	.	+	.	transcript_id "rna-XM_050117232.1"; gene_id "gene-POX_f08460";
+NC_064655.1	RefSeq	exon	3570601	3570720	.	+	.	transcript_id "rna-XM_050117232.1"; gene_id "gene-POX_f08460";
+NC_064655.1	RefSeq	exon	3570791	3571385	.	+	.	transcript_id "rna-XM_050117232.1"; gene_id "gene-POX_f08460";
+NC_064655.1	RefSeq	CDS	3570258	3570508	.	+	0	transcript_id "rna-XM_050117232.1"; gene_id "gene-POX_f08460";
+NC_064655.1	RefSeq	CDS	3570601	3570720	.	+	1	transcript_id "rna-XM_050117232.1"; gene_id "gene-POX_f08460";
+NC_064655.1	RefSeq	CDS	3570791	3571385	.	+	1	transcript_id "rna-XM_050117232.1"; gene_id "gene-POX_f08460";
+NC_064656.1	RefSeq	transcript	185856	188780	.	-	.	transcript_id "rna-XM_050117368.1"; gene_id "gene-POX_g08597"
+NC_064656.1	RefSeq	exon	185856	185952	.	-	.	transcript_id "rna-XM_050117368.1"; gene_id "gene-POX_g08597";
+NC_064656.1	RefSeq	exon	186031	186200	.	-	.	transcript_id "rna-XM_050117368.1"; gene_id "gene-POX_g08597";
+NC_064656.1	RefSeq	exon	186262	188573	.	-	.	transcript_id "rna-XM_050117368.1"; gene_id "gene-POX_g08597";
+NC_064656.1	RefSeq	exon	188660	188780	.	-	.	transcript_id "rna-XM_050117368.1"; gene_id "gene-POX_g08597";
+NC_064656.1	RefSeq	CDS	185856	185952	.	-	1	transcript_id "rna-XM_050117368.1"; gene_id "gene-POX_g08597";
+NC_064656.1	RefSeq	CDS	186031	186200	.	-	0	transcript_id "rna-XM_050117368.1"; gene_id "gene-POX_g08597";
+NC_064656.1	RefSeq	CDS	186262	188573	.	-	2	transcript_id "rna-XM_050117368.1"; gene_id "gene-POX_g08597";
+NC_064656.1	RefSeq	CDS	188660	188780	.	-	0	transcript_id "rna-XM_050117368.1"; gene_id "gene-POX_g08597";
+NC_064656.1	RefSeq	transcript	409823	410974	.	+	.	transcript_id "rna-XM_050117436.1"; gene_id "gene-POX_g08666"
+NC_064656.1	RefSeq	exon	409823	409825	.	+	.	transcript_id "rna-XM_050117436.1"; gene_id "gene-POX_g08666";
+NC_064656.1	RefSeq	exon	409903	409913	.	+	.	transcript_id "rna-XM_050117436.1"; gene_id "gene-POX_g08666";
+NC_064656.1	RefSeq	exon	410009	410551	.	+	.	transcript_id "rna-XM_050117436.1"; gene_id "gene-POX_g08666";
+NC_064656.1	RefSeq	exon	410680	410892	.	+	.	transcript_id "rna-XM_050117436.1"; gene_id "gene-POX_g08666";
+NC_064656.1	RefSeq	exon	410959	410974	.	+	.	transcript_id "rna-XM_050117436.1"; gene_id "gene-POX_g08666";
+NC_064656.1	RefSeq	CDS	409823	409825	.	+	0	transcript_id "rna-XM_050117436.1"; gene_id "gene-POX_g08666";
+NC_064656.1	RefSeq	CDS	409903	409913	.	+	0	transcript_id "rna-XM_050117436.1"; gene_id "gene-POX_g08666";
+NC_064656.1	RefSeq	CDS	410009	410551	.	+	1	transcript_id "rna-XM_050117436.1"; gene_id "gene-POX_g08666";
+NC_064656.1	RefSeq	CDS	410680	410892	.	+	1	transcript_id "rna-XM_050117436.1"; gene_id "gene-POX_g08666";
+NC_064656.1	RefSeq	CDS	410959	410974	.	+	1	transcript_id "rna-XM_050117436.1"; gene_id "gene-POX_g08666";
+NC_064656.1	RefSeq	transcript	426334	427596	.	-	.	transcript_id "rna-XM_050117443.1"; gene_id "gene-POX_g08673"
+NC_064656.1	RefSeq	exon	426334	427011	.	-	.	transcript_id "rna-XM_050117443.1"; gene_id "gene-POX_g08673";
+NC_064656.1	RefSeq	exon	427082	427246	.	-	.	transcript_id "rna-XM_050117443.1"; gene_id "gene-POX_g08673";
+NC_064656.1	RefSeq	exon	427341	427431	.	-	.	transcript_id "rna-XM_050117443.1"; gene_id "gene-POX_g08673";
+NC_064656.1	RefSeq	exon	427493	427596	.	-	.	transcript_id "rna-XM_050117443.1"; gene_id "gene-POX_g08673";
+NC_064656.1	RefSeq	CDS	426334	427011	.	-	0	transcript_id "rna-XM_050117443.1"; gene_id "gene-POX_g08673";
+NC_064656.1	RefSeq	CDS	427082	427246	.	-	0	transcript_id "rna-XM_050117443.1"; gene_id "gene-POX_g08673";
+NC_064656.1	RefSeq	CDS	427341	427431	.	-	1	transcript_id "rna-XM_050117443.1"; gene_id "gene-POX_g08673";
+NC_064656.1	RefSeq	CDS	427493	427596	.	-	0	transcript_id "rna-XM_050117443.1"; gene_id "gene-POX_g08673";
+NC_064656.1	RefSeq	transcript	955194	956393	.	-	.	transcript_id "rna-XM_050117634.1"; gene_id "gene-POX_g08867"
+NC_064656.1	RefSeq	exon	955194	956393	.	-	.	transcript_id "rna-XM_050117634.1"; gene_id "gene-POX_g08867";
+NC_064656.1	RefSeq	CDS	955194	956393	.	-	0	transcript_id "rna-XM_050117634.1"; gene_id "gene-POX_g08867";
+NC_064656.1	RefSeq	transcript	1447450	1448605	.	-	.	transcript_id "rna-XM_050117806.1"; gene_id "gene-POX_g09041"
+NC_064656.1	RefSeq	exon	1447450	1447552	.	-	.	transcript_id "rna-XM_050117806.1"; gene_id "gene-POX_g09041";
+NC_064656.1	RefSeq	exon	1447628	1447733	.	-	.	transcript_id "rna-XM_050117806.1"; gene_id "gene-POX_g09041";
+NC_064656.1	RefSeq	exon	1447790	1448302	.	-	.	transcript_id "rna-XM_050117806.1"; gene_id "gene-POX_g09041";
+NC_064656.1	RefSeq	exon	1448365	1448605	.	-	.	transcript_id "rna-XM_050117806.1"; gene_id "gene-POX_g09041";
+NC_064656.1	RefSeq	CDS	1447450	1447552	.	-	1	transcript_id "rna-XM_050117806.1"; gene_id "gene-POX_g09041";
+NC_064656.1	RefSeq	CDS	1447628	1447733	.	-	2	transcript_id "rna-XM_050117806.1"; gene_id "gene-POX_g09041";
+NC_064656.1	RefSeq	CDS	1447790	1448302	.	-	2	transcript_id "rna-XM_050117806.1"; gene_id "gene-POX_g09041";
+NC_064656.1	RefSeq	CDS	1448365	1448605	.	-	0	transcript_id "rna-XM_050117806.1"; gene_id "gene-POX_g09041";
+NC_064656.1	RefSeq	transcript	1457956	1458940	.	-	.	transcript_id "rna-XM_050117811.1"; gene_id "gene-POX_g09046"; gene_name "coq4"
+NC_064656.1	RefSeq	exon	1457956	1458605	.	-	.	transcript_id "rna-XM_050117811.1"; gene_id "gene-POX_g09046"; gene_name "coq4";
+NC_064656.1	RefSeq	exon	1458733	1458940	.	-	.	transcript_id "rna-XM_050117811.1"; gene_id "gene-POX_g09046"; gene_name "coq4";
+NC_064656.1	RefSeq	CDS	1457956	1458605	.	-	2	transcript_id "rna-XM_050117811.1"; gene_id "gene-POX_g09046"; gene_name "coq4";
+NC_064656.1	RefSeq	CDS	1458733	1458940	.	-	0	transcript_id "rna-XM_050117811.1"; gene_id "gene-POX_g09046"; gene_name "coq4";
+NC_064656.1	RefSeq	transcript	1599537	1600823	.	-	.	transcript_id "rna-XM_050117855.1"; gene_id "gene-POX_g09090"
+NC_064656.1	RefSeq	exon	1599537	1600488	.	-	.	transcript_id "rna-XM_050117855.1"; gene_id "gene-POX_g09090";
+NC_064656.1	RefSeq	exon	1600618	1600823	.	-	.	transcript_id "rna-XM_050117855.1"; gene_id "gene-POX_g09090";
+NC_064656.1	RefSeq	CDS	1599537	1600488	.	-	1	transcript_id "rna-XM_050117855.1"; gene_id "gene-POX_g09090";
+NC_064656.1	RefSeq	CDS	1600618	1600823	.	-	0	transcript_id "rna-XM_050117855.1"; gene_id "gene-POX_g09090";
+NC_064656.1	RefSeq	transcript	2034817	2036461	.	+	.	transcript_id "rna-XM_050117957.1"; gene_id "gene-POX_g09198"
+NC_064656.1	RefSeq	exon	2034817	2035197	.	+	.	transcript_id "rna-XM_050117957.1"; gene_id "gene-POX_g09198";
+NC_064656.1	RefSeq	exon	2035278	2035537	.	+	.	transcript_id "rna-XM_050117957.1"; gene_id "gene-POX_g09198";
+NC_064656.1	RefSeq	exon	2035600	2036461	.	+	.	transcript_id "rna-XM_050117957.1"; gene_id "gene-POX_g09198";
+NC_064656.1	RefSeq	CDS	2034817	2035197	.	+	0	transcript_id "rna-XM_050117957.1"; gene_id "gene-POX_g09198";
+NC_064656.1	RefSeq	CDS	2035278	2035537	.	+	0	transcript_id "rna-XM_050117957.1"; gene_id "gene-POX_g09198";
+NC_064656.1	RefSeq	CDS	2035600	2036461	.	+	1	transcript_id "rna-XM_050117957.1"; gene_id "gene-POX_g09198";
+NC_064656.1	RefSeq	transcript	2385779	2386798	.	+	.	transcript_id "rna-XM_050118066.1"; gene_id "gene-POX_g09309"; gene_name "cwc26"
+NC_064656.1	RefSeq	exon	2385779	2386798	.	+	.	transcript_id "rna-XM_050118066.1"; gene_id "gene-POX_g09309"; gene_name "cwc26";
+NC_064656.1	RefSeq	CDS	2385779	2386798	.	+	0	transcript_id "rna-XM_050118066.1"; gene_id "gene-POX_g09309"; gene_name "cwc26";
+NC_064657.1	RefSeq	transcript	460194	462340	.	+	.	transcript_id "rna-XM_050118260.1"; gene_id "gene-POX_h09507"
+NC_064657.1	RefSeq	exon	460194	460523	.	+	.	transcript_id "rna-XM_050118260.1"; gene_id "gene-POX_h09507";
+NC_064657.1	RefSeq	exon	460628	461146	.	+	.	transcript_id "rna-XM_050118260.1"; gene_id "gene-POX_h09507";
+NC_064657.1	RefSeq	exon	461220	462090	.	+	.	transcript_id "rna-XM_050118260.1"; gene_id "gene-POX_h09507";
+NC_064657.1	RefSeq	exon	462189	462340	.	+	.	transcript_id "rna-XM_050118260.1"; gene_id "gene-POX_h09507";
+NC_064657.1	RefSeq	CDS	460194	460523	.	+	0	transcript_id "rna-XM_050118260.1"; gene_id "gene-POX_h09507";
+NC_064657.1	RefSeq	CDS	460628	461146	.	+	0	transcript_id "rna-XM_050118260.1"; gene_id "gene-POX_h09507";
+NC_064657.1	RefSeq	CDS	461220	462090	.	+	0	transcript_id "rna-XM_050118260.1"; gene_id "gene-POX_h09507";
+NC_064657.1	RefSeq	CDS	462189	462340	.	+	2	transcript_id "rna-XM_050118260.1"; gene_id "gene-POX_h09507";
+NC_064657.1	RefSeq	transcript	635912	638314	.	-	.	transcript_id "rna-XM_050118313.1"; gene_id "gene-POX_h09561"
+NC_064657.1	RefSeq	exon	635912	638314	.	-	.	transcript_id "rna-XM_050118313.1"; gene_id "gene-POX_h09561";
+NC_064657.1	RefSeq	CDS	635912	638314	.	-	0	transcript_id "rna-XM_050118313.1"; gene_id "gene-POX_h09561";
+NC_064657.1	RefSeq	transcript	653891	656429	.	+	.	transcript_id "rna-XM_050118321.1"; gene_id "gene-POX_h09569"
+NC_064657.1	RefSeq	exon	653891	654081	.	+	.	transcript_id "rna-XM_050118321.1"; gene_id "gene-POX_h09569";
+NC_064657.1	RefSeq	exon	654154	654262	.	+	.	transcript_id "rna-XM_050118321.1"; gene_id "gene-POX_h09569";
+NC_064657.1	RefSeq	exon	654354	655075	.	+	.	transcript_id "rna-XM_050118321.1"; gene_id "gene-POX_h09569";
+NC_064657.1	RefSeq	exon	655147	655291	.	+	.	transcript_id "rna-XM_050118321.1"; gene_id "gene-POX_h09569";
+NC_064657.1	RefSeq	exon	655374	655841	.	+	.	transcript_id "rna-XM_050118321.1"; gene_id "gene-POX_h09569";
+NC_064657.1	RefSeq	exon	655909	656271	.	+	.	transcript_id "rna-XM_050118321.1"; gene_id "gene-POX_h09569";
+NC_064657.1	RefSeq	exon	656349	656429	.	+	.	transcript_id "rna-XM_050118321.1"; gene_id "gene-POX_h09569";
+NC_064657.1	RefSeq	CDS	653891	654081	.	+	0	transcript_id "rna-XM_050118321.1"; gene_id "gene-POX_h09569";
+NC_064657.1	RefSeq	CDS	654154	654262	.	+	1	transcript_id "rna-XM_050118321.1"; gene_id "gene-POX_h09569";
+NC_064657.1	RefSeq	CDS	654354	655075	.	+	0	transcript_id "rna-XM_050118321.1"; gene_id "gene-POX_h09569";
+NC_064657.1	RefSeq	CDS	655147	655291	.	+	1	transcript_id "rna-XM_050118321.1"; gene_id "gene-POX_h09569";
+NC_064657.1	RefSeq	CDS	655374	655841	.	+	0	transcript_id "rna-XM_050118321.1"; gene_id "gene-POX_h09569";
+NC_064657.1	RefSeq	CDS	655909	656271	.	+	0	transcript_id "rna-XM_050118321.1"; gene_id "gene-POX_h09569";
+NC_064657.1	RefSeq	CDS	656349	656429	.	+	0	transcript_id "rna-XM_050118321.1"; gene_id "gene-POX_h09569";
+NC_064657.1	RefSeq	transcript	812699	813865	.	+	.	transcript_id "rna-XM_050118342.1"; gene_id "gene-POX_h09592"
+NC_064657.1	RefSeq	exon	812699	813067	.	+	.	transcript_id "rna-XM_050118342.1"; gene_id "gene-POX_h09592";
+NC_064657.1	RefSeq	exon	813159	813365	.	+	.	transcript_id "rna-XM_050118342.1"; gene_id "gene-POX_h09592";
+NC_064657.1	RefSeq	exon	813434	813583	.	+	.	transcript_id "rna-XM_050118342.1"; gene_id "gene-POX_h09592";
+NC_064657.1	RefSeq	exon	813647	813865	.	+	.	transcript_id "rna-XM_050118342.1"; gene_id "gene-POX_h09592";
+NC_064657.1	RefSeq	CDS	812699	813067	.	+	0	transcript_id "rna-XM_050118342.1"; gene_id "gene-POX_h09592";
+NC_064657.1	RefSeq	CDS	813159	813365	.	+	0	transcript_id "rna-XM_050118342.1"; gene_id "gene-POX_h09592";
+NC_064657.1	RefSeq	CDS	813434	813583	.	+	0	transcript_id "rna-XM_050118342.1"; gene_id "gene-POX_h09592";
+NC_064657.1	RefSeq	CDS	813647	813865	.	+	0	transcript_id "rna-XM_050118342.1"; gene_id "gene-POX_h09592";
+NC_064657.1	RefSeq	transcript	916647	918439	.	+	.	transcript_id "rna-XM_050118374.1"; gene_id "gene-POX_h09624"
+NC_064657.1	RefSeq	exon	916647	916669	.	+	.	transcript_id "rna-XM_050118374.1"; gene_id "gene-POX_h09624";
+NC_064657.1	RefSeq	exon	916981	918439	.	+	.	transcript_id "rna-XM_050118374.1"; gene_id "gene-POX_h09624";
+NC_064657.1	RefSeq	CDS	916647	916669	.	+	0	transcript_id "rna-XM_050118374.1"; gene_id "gene-POX_h09624";
+NC_064657.1	RefSeq	CDS	916981	918439	.	+	1	transcript_id "rna-XM_050118374.1"; gene_id "gene-POX_h09624";
+NC_064657.1	RefSeq	transcript	932044	933258	.	-	.	transcript_id "rna-XM_050118379.1"; gene_id "gene-POX_h09629"
+NC_064657.1	RefSeq	exon	932044	933258	.	-	.	transcript_id "rna-XM_050118379.1"; gene_id "gene-POX_h09629";
+NC_064657.1	RefSeq	CDS	932044	933258	.	-	0	transcript_id "rna-XM_050118379.1"; gene_id "gene-POX_h09629";
+NC_064657.1	RefSeq	transcript	976355	977367	.	-	.	transcript_id "rna-XM_050118394.1"; gene_id "gene-POX_h09644"
+NC_064657.1	RefSeq	exon	976355	977202	.	-	.	transcript_id "rna-XM_050118394.1"; gene_id "gene-POX_h09644";
+NC_064657.1	RefSeq	exon	977292	977367	.	-	.	transcript_id "rna-XM_050118394.1"; gene_id "gene-POX_h09644";
+NC_064657.1	RefSeq	CDS	976355	977202	.	-	2	transcript_id "rna-XM_050118394.1"; gene_id "gene-POX_h09644";
+NC_064657.1	RefSeq	CDS	977292	977367	.	-	0	transcript_id "rna-XM_050118394.1"; gene_id "gene-POX_h09644";
+NC_064657.1	RefSeq	transcript	1391617	1392858	.	-	.	transcript_id "rna-XM_050118528.1"; gene_id "gene-POX_h09781"
+NC_064657.1	RefSeq	exon	1391617	1392858	.	-	.	transcript_id "rna-XM_050118528.1"; gene_id "gene-POX_h09781";
+NC_064657.1	RefSeq	CDS	1391617	1392858	.	-	0	transcript_id "rna-XM_050118528.1"; gene_id "gene-POX_h09781";

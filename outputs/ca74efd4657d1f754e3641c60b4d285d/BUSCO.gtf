@@ -1,0 +1,838 @@
+JAHCVI010000001.1	Genbank	transcript	472460	473677	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000151-T1_mrna"; gene_id "gene-NEMBOFW57_000151"
+JAHCVI010000001.1	Genbank	exon	472460	473677	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000151-T1_mrna"; gene_id "gene-NEMBOFW57_000151";
+JAHCVI010000001.1	Genbank	CDS	472460	473677	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000151-T1_mrna"; gene_id "gene-NEMBOFW57_000151";
+JAHCVI010000001.1	Genbank	transcript	680081	681014	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000208-T1_mrna"; gene_id "gene-NEMBOFW57_000208"
+JAHCVI010000001.1	Genbank	exon	680081	680414	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000208-T1_mrna"; gene_id "gene-NEMBOFW57_000208";
+JAHCVI010000001.1	Genbank	exon	680803	681014	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000208-T1_mrna"; gene_id "gene-NEMBOFW57_000208";
+JAHCVI010000001.1	Genbank	CDS	680081	680414	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000208-T1_mrna"; gene_id "gene-NEMBOFW57_000208";
+JAHCVI010000001.1	Genbank	CDS	680803	681014	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000208-T1_mrna"; gene_id "gene-NEMBOFW57_000208";
+JAHCVI010000001.1	Genbank	transcript	1351118	1352634	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000411-T1_mrna"; gene_id "gene-NEMBOFW57_000411"
+JAHCVI010000001.1	Genbank	exon	1351118	1351136	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000411-T1_mrna"; gene_id "gene-NEMBOFW57_000411";
+JAHCVI010000001.1	Genbank	exon	1351190	1352634	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000411-T1_mrna"; gene_id "gene-NEMBOFW57_000411";
+JAHCVI010000001.1	Genbank	CDS	1351118	1351136	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000411-T1_mrna"; gene_id "gene-NEMBOFW57_000411";
+JAHCVI010000001.1	Genbank	CDS	1351190	1352634	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000411-T1_mrna"; gene_id "gene-NEMBOFW57_000411";
+JAHCVI010000001.1	Genbank	transcript	1964293	1966341	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000594-T1_mrna"; gene_id "gene-NEMBOFW57_000594"
+JAHCVI010000001.1	Genbank	exon	1964293	1966341	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000594-T1_mrna"; gene_id "gene-NEMBOFW57_000594";
+JAHCVI010000001.1	Genbank	CDS	1964293	1966341	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000594-T1_mrna"; gene_id "gene-NEMBOFW57_000594";
+JAHCVI010000001.1	Genbank	transcript	2030133	2031248	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000614-T1_mrna"; gene_id "gene-NEMBOFW57_000614"
+JAHCVI010000001.1	Genbank	exon	2030133	2031248	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000614-T1_mrna"; gene_id "gene-NEMBOFW57_000614";
+JAHCVI010000001.1	Genbank	CDS	2030133	2031248	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000614-T1_mrna"; gene_id "gene-NEMBOFW57_000614";
+JAHCVI010000001.1	Genbank	transcript	2125153	2126096	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000646-T1_mrna"; gene_id "gene-NEMBOFW57_000646"
+JAHCVI010000001.1	Genbank	exon	2125153	2125870	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000646-T1_mrna"; gene_id "gene-NEMBOFW57_000646";
+JAHCVI010000001.1	Genbank	exon	2125933	2126096	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000646-T1_mrna"; gene_id "gene-NEMBOFW57_000646";
+JAHCVI010000001.1	Genbank	CDS	2125153	2125870	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000646-T1_mrna"; gene_id "gene-NEMBOFW57_000646";
+JAHCVI010000001.1	Genbank	CDS	2125933	2126096	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000646-T1_mrna"; gene_id "gene-NEMBOFW57_000646";
+JAHCVI010000001.1	Genbank	transcript	2126377	2127292	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000647-T1_mrna"; gene_id "gene-NEMBOFW57_000647"; gene_name "CWC15"
+JAHCVI010000001.1	Genbank	exon	2126377	2126409	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000647-T1_mrna"; gene_id "gene-NEMBOFW57_000647"; gene_name "CWC15";
+JAHCVI010000001.1	Genbank	exon	2126466	2126542	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000647-T1_mrna"; gene_id "gene-NEMBOFW57_000647"; gene_name "CWC15";
+JAHCVI010000001.1	Genbank	exon	2126596	2127181	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000647-T1_mrna"; gene_id "gene-NEMBOFW57_000647"; gene_name "CWC15";
+JAHCVI010000001.1	Genbank	exon	2127239	2127292	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000647-T1_mrna"; gene_id "gene-NEMBOFW57_000647"; gene_name "CWC15";
+JAHCVI010000001.1	Genbank	CDS	2126377	2126409	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000647-T1_mrna"; gene_id "gene-NEMBOFW57_000647"; gene_name "CWC15";
+JAHCVI010000001.1	Genbank	CDS	2126466	2126542	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000647-T1_mrna"; gene_id "gene-NEMBOFW57_000647"; gene_name "CWC15";
+JAHCVI010000001.1	Genbank	CDS	2126596	2127181	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000647-T1_mrna"; gene_id "gene-NEMBOFW57_000647"; gene_name "CWC15";
+JAHCVI010000001.1	Genbank	CDS	2127239	2127292	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000647-T1_mrna"; gene_id "gene-NEMBOFW57_000647"; gene_name "CWC15";
+JAHCVI010000001.1	Genbank	transcript	2358451	2359994	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000721-T1_mrna"; gene_id "gene-NEMBOFW57_000721"
+JAHCVI010000001.1	Genbank	exon	2358451	2358750	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000721-T1_mrna"; gene_id "gene-NEMBOFW57_000721";
+JAHCVI010000001.1	Genbank	exon	2358818	2359855	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000721-T1_mrna"; gene_id "gene-NEMBOFW57_000721";
+JAHCVI010000001.1	Genbank	exon	2359911	2359994	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000721-T1_mrna"; gene_id "gene-NEMBOFW57_000721";
+JAHCVI010000001.1	Genbank	CDS	2358451	2358750	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000721-T1_mrna"; gene_id "gene-NEMBOFW57_000721";
+JAHCVI010000001.1	Genbank	CDS	2358818	2359855	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000721-T1_mrna"; gene_id "gene-NEMBOFW57_000721";
+JAHCVI010000001.1	Genbank	CDS	2359911	2359994	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000721-T1_mrna"; gene_id "gene-NEMBOFW57_000721";
+JAHCVI010000001.1	Genbank	transcript	2533653	2534591	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000776-T1_mrna"; gene_id "gene-NEMBOFW57_000776"
+JAHCVI010000001.1	Genbank	exon	2533653	2534591	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000776-T1_mrna"; gene_id "gene-NEMBOFW57_000776";
+JAHCVI010000001.1	Genbank	CDS	2533653	2534591	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000776-T1_mrna"; gene_id "gene-NEMBOFW57_000776";
+JAHCVI010000001.1	Genbank	transcript	2796828	2798223	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000851-T1_mrna"; gene_id "gene-NEMBOFW57_000851"; gene_name "FYV10"
+JAHCVI010000001.1	Genbank	exon	2796828	2798090	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000851-T1_mrna"; gene_id "gene-NEMBOFW57_000851"; gene_name "FYV10";
+JAHCVI010000001.1	Genbank	exon	2798173	2798223	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000851-T1_mrna"; gene_id "gene-NEMBOFW57_000851"; gene_name "FYV10";
+JAHCVI010000001.1	Genbank	CDS	2796828	2798090	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000851-T1_mrna"; gene_id "gene-NEMBOFW57_000851"; gene_name "FYV10";
+JAHCVI010000001.1	Genbank	CDS	2798173	2798223	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000851-T1_mrna"; gene_id "gene-NEMBOFW57_000851"; gene_name "FYV10";
+JAHCVI010000001.1	Genbank	transcript	2838821	2839720	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000861-T1_mrna"; gene_id "gene-NEMBOFW57_000861"
+JAHCVI010000001.1	Genbank	exon	2838821	2839011	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000861-T1_mrna"; gene_id "gene-NEMBOFW57_000861";
+JAHCVI010000001.1	Genbank	exon	2839114	2839720	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000861-T1_mrna"; gene_id "gene-NEMBOFW57_000861";
+JAHCVI010000001.1	Genbank	CDS	2838821	2839011	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000861-T1_mrna"; gene_id "gene-NEMBOFW57_000861";
+JAHCVI010000001.1	Genbank	CDS	2839114	2839720	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000861-T1_mrna"; gene_id "gene-NEMBOFW57_000861";
+JAHCVI010000001.1	Genbank	transcript	2842833	2843375	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000863-T1_mrna"; gene_id "gene-NEMBOFW57_000863"
+JAHCVI010000001.1	Genbank	exon	2842833	2842871	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000863-T1_mrna"; gene_id "gene-NEMBOFW57_000863";
+JAHCVI010000001.1	Genbank	exon	2842929	2843011	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000863-T1_mrna"; gene_id "gene-NEMBOFW57_000863";
+JAHCVI010000001.1	Genbank	exon	2843084	2843375	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000863-T1_mrna"; gene_id "gene-NEMBOFW57_000863";
+JAHCVI010000001.1	Genbank	CDS	2842833	2842871	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000863-T1_mrna"; gene_id "gene-NEMBOFW57_000863";
+JAHCVI010000001.1	Genbank	CDS	2842929	2843011	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000863-T1_mrna"; gene_id "gene-NEMBOFW57_000863";
+JAHCVI010000001.1	Genbank	CDS	2843084	2843375	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000863-T1_mrna"; gene_id "gene-NEMBOFW57_000863";
+JAHCVI010000001.1	Genbank	transcript	3300639	3303063	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000997-T1_mrna"; gene_id "gene-NEMBOFW57_000997"
+JAHCVI010000001.1	Genbank	exon	3300639	3301026	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000997-T1_mrna"; gene_id "gene-NEMBOFW57_000997";
+JAHCVI010000001.1	Genbank	exon	3301086	3301275	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000997-T1_mrna"; gene_id "gene-NEMBOFW57_000997";
+JAHCVI010000001.1	Genbank	exon	3301510	3301523	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000997-T1_mrna"; gene_id "gene-NEMBOFW57_000997";
+JAHCVI010000001.1	Genbank	exon	3301936	3302303	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000997-T1_mrna"; gene_id "gene-NEMBOFW57_000997";
+JAHCVI010000001.1	Genbank	exon	3302359	3303063	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000997-T1_mrna"; gene_id "gene-NEMBOFW57_000997";
+JAHCVI010000001.1	Genbank	CDS	3300639	3301026	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000997-T1_mrna"; gene_id "gene-NEMBOFW57_000997";
+JAHCVI010000001.1	Genbank	CDS	3301086	3301275	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000997-T1_mrna"; gene_id "gene-NEMBOFW57_000997";
+JAHCVI010000001.1	Genbank	CDS	3301510	3301523	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000997-T1_mrna"; gene_id "gene-NEMBOFW57_000997";
+JAHCVI010000001.1	Genbank	CDS	3301936	3302303	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000997-T1_mrna"; gene_id "gene-NEMBOFW57_000997";
+JAHCVI010000001.1	Genbank	CDS	3302359	3303063	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_000997-T1_mrna"; gene_id "gene-NEMBOFW57_000997";
+JAHCVI010000001.1	Genbank	transcript	5143807	5144947	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001567-T1_mrna"; gene_id "gene-NEMBOFW57_001567"; gene_name "ATG3"
+JAHCVI010000001.1	Genbank	exon	5143807	5143860	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001567-T1_mrna"; gene_id "gene-NEMBOFW57_001567"; gene_name "ATG3";
+JAHCVI010000001.1	Genbank	exon	5143915	5144383	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001567-T1_mrna"; gene_id "gene-NEMBOFW57_001567"; gene_name "ATG3";
+JAHCVI010000001.1	Genbank	exon	5144445	5144947	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001567-T1_mrna"; gene_id "gene-NEMBOFW57_001567"; gene_name "ATG3";
+JAHCVI010000001.1	Genbank	CDS	5143807	5143860	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001567-T1_mrna"; gene_id "gene-NEMBOFW57_001567"; gene_name "ATG3";
+JAHCVI010000001.1	Genbank	CDS	5143915	5144383	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001567-T1_mrna"; gene_id "gene-NEMBOFW57_001567"; gene_name "ATG3";
+JAHCVI010000001.1	Genbank	CDS	5144445	5144947	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001567-T1_mrna"; gene_id "gene-NEMBOFW57_001567"; gene_name "ATG3";
+JAHCVI010000001.1	Genbank	transcript	5388161	5389777	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001655-T1_mrna"; gene_id "gene-NEMBOFW57_001655"
+JAHCVI010000001.1	Genbank	exon	5388161	5388385	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001655-T1_mrna"; gene_id "gene-NEMBOFW57_001655";
+JAHCVI010000001.1	Genbank	exon	5388464	5388506	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001655-T1_mrna"; gene_id "gene-NEMBOFW57_001655";
+JAHCVI010000001.1	Genbank	exon	5388533	5388852	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001655-T1_mrna"; gene_id "gene-NEMBOFW57_001655";
+JAHCVI010000001.1	Genbank	exon	5388915	5389176	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001655-T1_mrna"; gene_id "gene-NEMBOFW57_001655";
+JAHCVI010000001.1	Genbank	exon	5389315	5389361	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001655-T1_mrna"; gene_id "gene-NEMBOFW57_001655";
+JAHCVI010000001.1	Genbank	exon	5389463	5389515	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001655-T1_mrna"; gene_id "gene-NEMBOFW57_001655";
+JAHCVI010000001.1	Genbank	exon	5389582	5389777	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001655-T1_mrna"; gene_id "gene-NEMBOFW57_001655";
+JAHCVI010000001.1	Genbank	CDS	5388161	5388385	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001655-T1_mrna"; gene_id "gene-NEMBOFW57_001655";
+JAHCVI010000001.1	Genbank	CDS	5388464	5388506	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001655-T1_mrna"; gene_id "gene-NEMBOFW57_001655";
+JAHCVI010000001.1	Genbank	CDS	5388533	5388852	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001655-T1_mrna"; gene_id "gene-NEMBOFW57_001655";
+JAHCVI010000001.1	Genbank	CDS	5388915	5389176	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001655-T1_mrna"; gene_id "gene-NEMBOFW57_001655";
+JAHCVI010000001.1	Genbank	CDS	5389315	5389361	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001655-T1_mrna"; gene_id "gene-NEMBOFW57_001655";
+JAHCVI010000001.1	Genbank	CDS	5389463	5389515	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001655-T1_mrna"; gene_id "gene-NEMBOFW57_001655";
+JAHCVI010000001.1	Genbank	CDS	5389582	5389777	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001655-T1_mrna"; gene_id "gene-NEMBOFW57_001655";
+JAHCVI010000001.1	Genbank	transcript	5589287	5590489	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001707-T1_mrna"; gene_id "gene-NEMBOFW57_001707"
+JAHCVI010000001.1	Genbank	exon	5589287	5589386	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001707-T1_mrna"; gene_id "gene-NEMBOFW57_001707";
+JAHCVI010000001.1	Genbank	exon	5589475	5589580	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001707-T1_mrna"; gene_id "gene-NEMBOFW57_001707";
+JAHCVI010000001.1	Genbank	exon	5589653	5590168	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001707-T1_mrna"; gene_id "gene-NEMBOFW57_001707";
+JAHCVI010000001.1	Genbank	exon	5590234	5590489	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001707-T1_mrna"; gene_id "gene-NEMBOFW57_001707";
+JAHCVI010000001.1	Genbank	CDS	5589287	5589386	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001707-T1_mrna"; gene_id "gene-NEMBOFW57_001707";
+JAHCVI010000001.1	Genbank	CDS	5589475	5589580	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001707-T1_mrna"; gene_id "gene-NEMBOFW57_001707";
+JAHCVI010000001.1	Genbank	CDS	5589653	5590168	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001707-T1_mrna"; gene_id "gene-NEMBOFW57_001707";
+JAHCVI010000001.1	Genbank	CDS	5590234	5590489	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001707-T1_mrna"; gene_id "gene-NEMBOFW57_001707";
+JAHCVI010000001.1	Genbank	transcript	5598406	5599373	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001713-T1_mrna"; gene_id "gene-NEMBOFW57_001713"; gene_name "COQ4"
+JAHCVI010000001.1	Genbank	exon	5598406	5599052	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001713-T1_mrna"; gene_id "gene-NEMBOFW57_001713"; gene_name "COQ4";
+JAHCVI010000001.1	Genbank	exon	5599133	5599373	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001713-T1_mrna"; gene_id "gene-NEMBOFW57_001713"; gene_name "COQ4";
+JAHCVI010000001.1	Genbank	CDS	5598406	5599052	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001713-T1_mrna"; gene_id "gene-NEMBOFW57_001713"; gene_name "COQ4";
+JAHCVI010000001.1	Genbank	CDS	5599133	5599373	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001713-T1_mrna"; gene_id "gene-NEMBOFW57_001713"; gene_name "COQ4";
+JAHCVI010000001.1	Genbank	transcript	5614182	5615586	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001719-T1_mrna"; gene_id "gene-NEMBOFW57_001719"
+JAHCVI010000001.1	Genbank	exon	5614182	5614866	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001719-T1_mrna"; gene_id "gene-NEMBOFW57_001719";
+JAHCVI010000001.1	Genbank	exon	5615582	5615586	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001719-T1_mrna"; gene_id "gene-NEMBOFW57_001719";
+JAHCVI010000001.1	Genbank	CDS	5614182	5614866	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001719-T1_mrna"; gene_id "gene-NEMBOFW57_001719";
+JAHCVI010000001.1	Genbank	CDS	5615582	5615586	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001719-T1_mrna"; gene_id "gene-NEMBOFW57_001719";
+JAHCVI010000001.1	Genbank	transcript	5775714	5776492	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001768-T1_mrna"; gene_id "gene-NEMBOFW57_001768"; gene_name "MSP7"
+JAHCVI010000001.1	Genbank	exon	5775714	5775716	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001768-T1_mrna"; gene_id "gene-NEMBOFW57_001768"; gene_name "MSP7";
+JAHCVI010000001.1	Genbank	exon	5775797	5776492	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001768-T1_mrna"; gene_id "gene-NEMBOFW57_001768"; gene_name "MSP7";
+JAHCVI010000001.1	Genbank	CDS	5775714	5775716	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001768-T1_mrna"; gene_id "gene-NEMBOFW57_001768"; gene_name "MSP7";
+JAHCVI010000001.1	Genbank	CDS	5775797	5776492	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_001768-T1_mrna"; gene_id "gene-NEMBOFW57_001768"; gene_name "MSP7";
+JAHCVI010000001.1	Genbank	transcript	6801396	6802756	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002087-T1_mrna"; gene_id "gene-NEMBOFW57_002087"; gene_name "CSN4"
+JAHCVI010000001.1	Genbank	exon	6801396	6801422	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002087-T1_mrna"; gene_id "gene-NEMBOFW57_002087"; gene_name "CSN4";
+JAHCVI010000001.1	Genbank	exon	6801527	6802756	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002087-T1_mrna"; gene_id "gene-NEMBOFW57_002087"; gene_name "CSN4";
+JAHCVI010000001.1	Genbank	CDS	6801396	6801422	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002087-T1_mrna"; gene_id "gene-NEMBOFW57_002087"; gene_name "CSN4";
+JAHCVI010000001.1	Genbank	CDS	6801527	6802756	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002087-T1_mrna"; gene_id "gene-NEMBOFW57_002087"; gene_name "CSN4";
+JAHCVI010000001.1	Genbank	transcript	6943577	6946537	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002120-T1_mrna"; gene_id "gene-NEMBOFW57_002120"
+JAHCVI010000001.1	Genbank	exon	6943577	6943593	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002120-T1_mrna"; gene_id "gene-NEMBOFW57_002120";
+JAHCVI010000001.1	Genbank	exon	6943648	6946537	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002120-T1_mrna"; gene_id "gene-NEMBOFW57_002120";
+JAHCVI010000001.1	Genbank	CDS	6943577	6943593	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002120-T1_mrna"; gene_id "gene-NEMBOFW57_002120";
+JAHCVI010000001.1	Genbank	CDS	6943648	6946537	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002120-T1_mrna"; gene_id "gene-NEMBOFW57_002120";
+JAHCVI010000001.1	Genbank	transcript	7002158	7005256	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002133-T1_mrna"; gene_id "gene-NEMBOFW57_002133"
+JAHCVI010000001.1	Genbank	exon	7002158	7005256	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002133-T1_mrna"; gene_id "gene-NEMBOFW57_002133";
+JAHCVI010000001.1	Genbank	CDS	7002158	7005256	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002133-T1_mrna"; gene_id "gene-NEMBOFW57_002133";
+JAHCVI010000001.1	Genbank	transcript	7065869	7066834	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002151-T1_mrna"; gene_id "gene-NEMBOFW57_002151"; gene_name "TMA22"
+JAHCVI010000001.1	Genbank	exon	7065869	7065914	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002151-T1_mrna"; gene_id "gene-NEMBOFW57_002151"; gene_name "TMA22";
+JAHCVI010000001.1	Genbank	exon	7066044	7066063	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002151-T1_mrna"; gene_id "gene-NEMBOFW57_002151"; gene_name "TMA22";
+JAHCVI010000001.1	Genbank	exon	7066143	7066230	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002151-T1_mrna"; gene_id "gene-NEMBOFW57_002151"; gene_name "TMA22";
+JAHCVI010000001.1	Genbank	exon	7066307	7066524	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002151-T1_mrna"; gene_id "gene-NEMBOFW57_002151"; gene_name "TMA22";
+JAHCVI010000001.1	Genbank	exon	7066640	7066834	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002151-T1_mrna"; gene_id "gene-NEMBOFW57_002151"; gene_name "TMA22";
+JAHCVI010000001.1	Genbank	CDS	7065869	7065914	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002151-T1_mrna"; gene_id "gene-NEMBOFW57_002151"; gene_name "TMA22";
+JAHCVI010000001.1	Genbank	CDS	7066044	7066063	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002151-T1_mrna"; gene_id "gene-NEMBOFW57_002151"; gene_name "TMA22";
+JAHCVI010000001.1	Genbank	CDS	7066143	7066230	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002151-T1_mrna"; gene_id "gene-NEMBOFW57_002151"; gene_name "TMA22";
+JAHCVI010000001.1	Genbank	CDS	7066307	7066524	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002151-T1_mrna"; gene_id "gene-NEMBOFW57_002151"; gene_name "TMA22";
+JAHCVI010000001.1	Genbank	CDS	7066640	7066834	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002151-T1_mrna"; gene_id "gene-NEMBOFW57_002151"; gene_name "TMA22";
+JAHCVI010000001.1	Genbank	transcript	7108375	7109962	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002168-T1_mrna"; gene_id "gene-NEMBOFW57_002168"; gene_name "PRP46"
+JAHCVI010000001.1	Genbank	exon	7108375	7109148	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002168-T1_mrna"; gene_id "gene-NEMBOFW57_002168"; gene_name "PRP46";
+JAHCVI010000001.1	Genbank	exon	7109208	7109823	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002168-T1_mrna"; gene_id "gene-NEMBOFW57_002168"; gene_name "PRP46";
+JAHCVI010000001.1	Genbank	exon	7109877	7109962	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002168-T1_mrna"; gene_id "gene-NEMBOFW57_002168"; gene_name "PRP46";
+JAHCVI010000001.1	Genbank	CDS	7108375	7109148	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002168-T1_mrna"; gene_id "gene-NEMBOFW57_002168"; gene_name "PRP46";
+JAHCVI010000001.1	Genbank	CDS	7109208	7109823	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002168-T1_mrna"; gene_id "gene-NEMBOFW57_002168"; gene_name "PRP46";
+JAHCVI010000001.1	Genbank	CDS	7109877	7109962	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002168-T1_mrna"; gene_id "gene-NEMBOFW57_002168"; gene_name "PRP46";
+JAHCVI010000001.1	Genbank	transcript	7227459	7230911	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002214-T1_mrna"; gene_id "gene-NEMBOFW57_002214"
+JAHCVI010000001.1	Genbank	exon	7227459	7227464	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002214-T1_mrna"; gene_id "gene-NEMBOFW57_002214";
+JAHCVI010000001.1	Genbank	exon	7227522	7228701	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002214-T1_mrna"; gene_id "gene-NEMBOFW57_002214";
+JAHCVI010000001.1	Genbank	exon	7229690	7230071	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002214-T1_mrna"; gene_id "gene-NEMBOFW57_002214";
+JAHCVI010000001.1	Genbank	exon	7230132	7230163	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002214-T1_mrna"; gene_id "gene-NEMBOFW57_002214";
+JAHCVI010000001.1	Genbank	exon	7230230	7230252	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002214-T1_mrna"; gene_id "gene-NEMBOFW57_002214";
+JAHCVI010000001.1	Genbank	exon	7230305	7230353	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002214-T1_mrna"; gene_id "gene-NEMBOFW57_002214";
+JAHCVI010000001.1	Genbank	exon	7230415	7230529	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002214-T1_mrna"; gene_id "gene-NEMBOFW57_002214";
+JAHCVI010000001.1	Genbank	exon	7230727	7230817	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002214-T1_mrna"; gene_id "gene-NEMBOFW57_002214";
+JAHCVI010000001.1	Genbank	exon	7230876	7230911	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002214-T1_mrna"; gene_id "gene-NEMBOFW57_002214";
+JAHCVI010000001.1	Genbank	CDS	7227459	7227464	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002214-T1_mrna"; gene_id "gene-NEMBOFW57_002214";
+JAHCVI010000001.1	Genbank	CDS	7227522	7228701	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002214-T1_mrna"; gene_id "gene-NEMBOFW57_002214";
+JAHCVI010000001.1	Genbank	CDS	7229690	7230071	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002214-T1_mrna"; gene_id "gene-NEMBOFW57_002214";
+JAHCVI010000001.1	Genbank	CDS	7230132	7230163	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002214-T1_mrna"; gene_id "gene-NEMBOFW57_002214";
+JAHCVI010000001.1	Genbank	CDS	7230230	7230252	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002214-T1_mrna"; gene_id "gene-NEMBOFW57_002214";
+JAHCVI010000001.1	Genbank	CDS	7230305	7230353	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002214-T1_mrna"; gene_id "gene-NEMBOFW57_002214";
+JAHCVI010000001.1	Genbank	CDS	7230415	7230529	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002214-T1_mrna"; gene_id "gene-NEMBOFW57_002214";
+JAHCVI010000001.1	Genbank	CDS	7230727	7230817	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002214-T1_mrna"; gene_id "gene-NEMBOFW57_002214";
+JAHCVI010000001.1	Genbank	CDS	7230876	7230911	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002214-T1_mrna"; gene_id "gene-NEMBOFW57_002214";
+JAHCVI010000001.1	Genbank	transcript	7249362	7250271	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002224-T1_mrna"; gene_id "gene-NEMBOFW57_002224"
+JAHCVI010000001.1	Genbank	exon	7249362	7249373	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002224-T1_mrna"; gene_id "gene-NEMBOFW57_002224";
+JAHCVI010000001.1	Genbank	exon	7249451	7249706	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002224-T1_mrna"; gene_id "gene-NEMBOFW57_002224";
+JAHCVI010000001.1	Genbank	exon	7249915	7249978	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002224-T1_mrna"; gene_id "gene-NEMBOFW57_002224";
+JAHCVI010000001.1	Genbank	exon	7250031	7250271	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002224-T1_mrna"; gene_id "gene-NEMBOFW57_002224";
+JAHCVI010000001.1	Genbank	CDS	7249362	7249373	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002224-T1_mrna"; gene_id "gene-NEMBOFW57_002224";
+JAHCVI010000001.1	Genbank	CDS	7249451	7249706	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002224-T1_mrna"; gene_id "gene-NEMBOFW57_002224";
+JAHCVI010000001.1	Genbank	CDS	7249915	7249978	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002224-T1_mrna"; gene_id "gene-NEMBOFW57_002224";
+JAHCVI010000001.1	Genbank	CDS	7250031	7250271	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002224-T1_mrna"; gene_id "gene-NEMBOFW57_002224";
+JAHCVI010000001.1	Genbank	transcript	7334693	7335914	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002246-T1_mrna"; gene_id "gene-NEMBOFW57_002246"
+JAHCVI010000001.1	Genbank	exon	7334693	7334782	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002246-T1_mrna"; gene_id "gene-NEMBOFW57_002246";
+JAHCVI010000001.1	Genbank	exon	7334841	7335914	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002246-T1_mrna"; gene_id "gene-NEMBOFW57_002246";
+JAHCVI010000001.1	Genbank	CDS	7334693	7334782	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002246-T1_mrna"; gene_id "gene-NEMBOFW57_002246";
+JAHCVI010000001.1	Genbank	CDS	7334841	7335914	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002246-T1_mrna"; gene_id "gene-NEMBOFW57_002246";
+JAHCVI010000001.1	Genbank	transcript	7498346	7500041	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002300-T1_mrna"; gene_id "gene-NEMBOFW57_002300"
+JAHCVI010000001.1	Genbank	exon	7498346	7499744	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002300-T1_mrna"; gene_id "gene-NEMBOFW57_002300";
+JAHCVI010000001.1	Genbank	exon	7499800	7500041	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002300-T1_mrna"; gene_id "gene-NEMBOFW57_002300";
+JAHCVI010000001.1	Genbank	CDS	7498346	7499744	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002300-T1_mrna"; gene_id "gene-NEMBOFW57_002300";
+JAHCVI010000001.1	Genbank	CDS	7499800	7500041	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002300-T1_mrna"; gene_id "gene-NEMBOFW57_002300";
+JAHCVI010000001.1	Genbank	transcript	7503698	7505146	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002302-T1_mrna"; gene_id "gene-NEMBOFW57_002302"
+JAHCVI010000001.1	Genbank	exon	7503698	7505146	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002302-T1_mrna"; gene_id "gene-NEMBOFW57_002302";
+JAHCVI010000001.1	Genbank	CDS	7503698	7505146	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002302-T1_mrna"; gene_id "gene-NEMBOFW57_002302";
+JAHCVI010000001.1	Genbank	transcript	7611341	7612096	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002333-T1_mrna"; gene_id "gene-NEMBOFW57_002333"
+JAHCVI010000001.1	Genbank	exon	7611341	7611960	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002333-T1_mrna"; gene_id "gene-NEMBOFW57_002333";
+JAHCVI010000001.1	Genbank	exon	7612030	7612096	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002333-T1_mrna"; gene_id "gene-NEMBOFW57_002333";
+JAHCVI010000001.1	Genbank	CDS	7611341	7611960	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002333-T1_mrna"; gene_id "gene-NEMBOFW57_002333";
+JAHCVI010000001.1	Genbank	CDS	7612030	7612096	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002333-T1_mrna"; gene_id "gene-NEMBOFW57_002333";
+JAHCVI010000001.1	Genbank	transcript	7738955	7742146	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002362-T1_mrna"; gene_id "gene-NEMBOFW57_002362"; gene_name "NOC1"
+JAHCVI010000001.1	Genbank	exon	7738955	7739546	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002362-T1_mrna"; gene_id "gene-NEMBOFW57_002362"; gene_name "NOC1";
+JAHCVI010000001.1	Genbank	exon	7739654	7741269	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002362-T1_mrna"; gene_id "gene-NEMBOFW57_002362"; gene_name "NOC1";
+JAHCVI010000001.1	Genbank	exon	7741346	7742146	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002362-T1_mrna"; gene_id "gene-NEMBOFW57_002362"; gene_name "NOC1";
+JAHCVI010000001.1	Genbank	CDS	7738955	7739546	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002362-T1_mrna"; gene_id "gene-NEMBOFW57_002362"; gene_name "NOC1";
+JAHCVI010000001.1	Genbank	CDS	7739654	7741269	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002362-T1_mrna"; gene_id "gene-NEMBOFW57_002362"; gene_name "NOC1";
+JAHCVI010000001.1	Genbank	CDS	7741346	7742146	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002362-T1_mrna"; gene_id "gene-NEMBOFW57_002362"; gene_name "NOC1";
+JAHCVI010000001.1	Genbank	transcript	7909656	7912359	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002413-T1_mrna"; gene_id "gene-NEMBOFW57_002413"
+JAHCVI010000001.1	Genbank	exon	7909656	7912090	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002413-T1_mrna"; gene_id "gene-NEMBOFW57_002413";
+JAHCVI010000001.1	Genbank	exon	7912161	7912359	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002413-T1_mrna"; gene_id "gene-NEMBOFW57_002413";
+JAHCVI010000001.1	Genbank	CDS	7909656	7912090	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002413-T1_mrna"; gene_id "gene-NEMBOFW57_002413";
+JAHCVI010000001.1	Genbank	CDS	7912161	7912359	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002413-T1_mrna"; gene_id "gene-NEMBOFW57_002413";
+JAHCVI010000001.1	Genbank	transcript	8189621	8190463	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002500-T1_mrna"; gene_id "gene-NEMBOFW57_002500"; gene_name "UTP11"
+JAHCVI010000001.1	Genbank	exon	8189621	8189640	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002500-T1_mrna"; gene_id "gene-NEMBOFW57_002500"; gene_name "UTP11";
+JAHCVI010000001.1	Genbank	exon	8189698	8190463	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002500-T1_mrna"; gene_id "gene-NEMBOFW57_002500"; gene_name "UTP11";
+JAHCVI010000001.1	Genbank	CDS	8189621	8189640	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002500-T1_mrna"; gene_id "gene-NEMBOFW57_002500"; gene_name "UTP11";
+JAHCVI010000001.1	Genbank	CDS	8189698	8190463	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002500-T1_mrna"; gene_id "gene-NEMBOFW57_002500"; gene_name "UTP11";
+JAHCVI010000001.1	Genbank	transcript	8505682	8508584	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002595-T1_mrna"; gene_id "gene-NEMBOFW57_002595"
+JAHCVI010000001.1	Genbank	exon	8505682	8507724	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002595-T1_mrna"; gene_id "gene-NEMBOFW57_002595";
+JAHCVI010000001.1	Genbank	exon	8507775	8508224	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002595-T1_mrna"; gene_id "gene-NEMBOFW57_002595";
+JAHCVI010000001.1	Genbank	exon	8508285	8508584	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002595-T1_mrna"; gene_id "gene-NEMBOFW57_002595";
+JAHCVI010000001.1	Genbank	CDS	8505682	8507724	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002595-T1_mrna"; gene_id "gene-NEMBOFW57_002595";
+JAHCVI010000001.1	Genbank	CDS	8507775	8508224	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002595-T1_mrna"; gene_id "gene-NEMBOFW57_002595";
+JAHCVI010000001.1	Genbank	CDS	8508285	8508584	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002595-T1_mrna"; gene_id "gene-NEMBOFW57_002595";
+JAHCVI010000001.1	Genbank	transcript	8650636	8652322	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002639-T1_mrna"; gene_id "gene-NEMBOFW57_002639"
+JAHCVI010000001.1	Genbank	exon	8650636	8651496	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002639-T1_mrna"; gene_id "gene-NEMBOFW57_002639";
+JAHCVI010000001.1	Genbank	exon	8651546	8652322	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002639-T1_mrna"; gene_id "gene-NEMBOFW57_002639";
+JAHCVI010000001.1	Genbank	CDS	8650636	8651496	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002639-T1_mrna"; gene_id "gene-NEMBOFW57_002639";
+JAHCVI010000001.1	Genbank	CDS	8651546	8652322	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002639-T1_mrna"; gene_id "gene-NEMBOFW57_002639";
+JAHCVI010000001.1	Genbank	transcript	8716058	8719184	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002666-T1_mrna"; gene_id "gene-NEMBOFW57_002666"
+JAHCVI010000001.1	Genbank	exon	8716058	8716337	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002666-T1_mrna"; gene_id "gene-NEMBOFW57_002666";
+JAHCVI010000001.1	Genbank	exon	8716388	8718534	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002666-T1_mrna"; gene_id "gene-NEMBOFW57_002666";
+JAHCVI010000001.1	Genbank	exon	8718603	8719184	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002666-T1_mrna"; gene_id "gene-NEMBOFW57_002666";
+JAHCVI010000001.1	Genbank	CDS	8716058	8716337	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002666-T1_mrna"; gene_id "gene-NEMBOFW57_002666";
+JAHCVI010000001.1	Genbank	CDS	8716388	8718534	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002666-T1_mrna"; gene_id "gene-NEMBOFW57_002666";
+JAHCVI010000001.1	Genbank	CDS	8718603	8719184	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002666-T1_mrna"; gene_id "gene-NEMBOFW57_002666";
+JAHCVI010000001.1	Genbank	transcript	8747068	8748653	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002677-T1_mrna"; gene_id "gene-NEMBOFW57_002677"
+JAHCVI010000001.1	Genbank	exon	8747068	8747891	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002677-T1_mrna"; gene_id "gene-NEMBOFW57_002677";
+JAHCVI010000001.1	Genbank	exon	8747963	8748653	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002677-T1_mrna"; gene_id "gene-NEMBOFW57_002677";
+JAHCVI010000001.1	Genbank	CDS	8747068	8747891	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002677-T1_mrna"; gene_id "gene-NEMBOFW57_002677";
+JAHCVI010000001.1	Genbank	CDS	8747963	8748653	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002677-T1_mrna"; gene_id "gene-NEMBOFW57_002677";
+JAHCVI010000001.1	Genbank	transcript	8936724	8938130	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002739-T1_mrna"; gene_id "gene-NEMBOFW57_002739"
+JAHCVI010000001.1	Genbank	exon	8936724	8936799	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002739-T1_mrna"; gene_id "gene-NEMBOFW57_002739";
+JAHCVI010000001.1	Genbank	exon	8936858	8936955	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002739-T1_mrna"; gene_id "gene-NEMBOFW57_002739";
+JAHCVI010000001.1	Genbank	exon	8937185	8937925	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002739-T1_mrna"; gene_id "gene-NEMBOFW57_002739";
+JAHCVI010000001.1	Genbank	exon	8937999	8938130	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002739-T1_mrna"; gene_id "gene-NEMBOFW57_002739";
+JAHCVI010000001.1	Genbank	CDS	8936724	8936799	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002739-T1_mrna"; gene_id "gene-NEMBOFW57_002739";
+JAHCVI010000001.1	Genbank	CDS	8936858	8936955	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002739-T1_mrna"; gene_id "gene-NEMBOFW57_002739";
+JAHCVI010000001.1	Genbank	CDS	8937185	8937925	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002739-T1_mrna"; gene_id "gene-NEMBOFW57_002739";
+JAHCVI010000001.1	Genbank	CDS	8937999	8938130	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002739-T1_mrna"; gene_id "gene-NEMBOFW57_002739";
+JAHCVI010000001.1	Genbank	transcript	9061360	9062693	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002779-T1_mrna"; gene_id "gene-NEMBOFW57_002779"
+JAHCVI010000001.1	Genbank	exon	9061360	9061387	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002779-T1_mrna"; gene_id "gene-NEMBOFW57_002779";
+JAHCVI010000001.1	Genbank	exon	9061444	9062693	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002779-T1_mrna"; gene_id "gene-NEMBOFW57_002779";
+JAHCVI010000001.1	Genbank	CDS	9061360	9061387	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002779-T1_mrna"; gene_id "gene-NEMBOFW57_002779";
+JAHCVI010000001.1	Genbank	CDS	9061444	9062693	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002779-T1_mrna"; gene_id "gene-NEMBOFW57_002779";
+JAHCVI010000001.1	Genbank	transcript	9193462	9194356	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002818-T1_mrna"; gene_id "gene-NEMBOFW57_002818"
+JAHCVI010000001.1	Genbank	exon	9193462	9194281	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002818-T1_mrna"; gene_id "gene-NEMBOFW57_002818";
+JAHCVI010000001.1	Genbank	exon	9194334	9194356	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002818-T1_mrna"; gene_id "gene-NEMBOFW57_002818";
+JAHCVI010000001.1	Genbank	CDS	9193462	9194281	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002818-T1_mrna"; gene_id "gene-NEMBOFW57_002818";
+JAHCVI010000001.1	Genbank	CDS	9194334	9194356	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002818-T1_mrna"; gene_id "gene-NEMBOFW57_002818";
+JAHCVI010000001.1	Genbank	transcript	9244383	9246350	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002833-T1_mrna"; gene_id "gene-NEMBOFW57_002833"
+JAHCVI010000001.1	Genbank	exon	9244383	9244466	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002833-T1_mrna"; gene_id "gene-NEMBOFW57_002833";
+JAHCVI010000001.1	Genbank	exon	9244541	9244666	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002833-T1_mrna"; gene_id "gene-NEMBOFW57_002833";
+JAHCVI010000001.1	Genbank	exon	9244723	9244782	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002833-T1_mrna"; gene_id "gene-NEMBOFW57_002833";
+JAHCVI010000001.1	Genbank	exon	9244846	9244994	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002833-T1_mrna"; gene_id "gene-NEMBOFW57_002833";
+JAHCVI010000001.1	Genbank	exon	9245049	9245450	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002833-T1_mrna"; gene_id "gene-NEMBOFW57_002833";
+JAHCVI010000001.1	Genbank	exon	9245507	9245889	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002833-T1_mrna"; gene_id "gene-NEMBOFW57_002833";
+JAHCVI010000001.1	Genbank	exon	9245945	9246069	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002833-T1_mrna"; gene_id "gene-NEMBOFW57_002833";
+JAHCVI010000001.1	Genbank	exon	9246126	9246350	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002833-T1_mrna"; gene_id "gene-NEMBOFW57_002833";
+JAHCVI010000001.1	Genbank	CDS	9244383	9244466	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002833-T1_mrna"; gene_id "gene-NEMBOFW57_002833";
+JAHCVI010000001.1	Genbank	CDS	9244541	9244666	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002833-T1_mrna"; gene_id "gene-NEMBOFW57_002833";
+JAHCVI010000001.1	Genbank	CDS	9244723	9244782	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002833-T1_mrna"; gene_id "gene-NEMBOFW57_002833";
+JAHCVI010000001.1	Genbank	CDS	9244846	9244994	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002833-T1_mrna"; gene_id "gene-NEMBOFW57_002833";
+JAHCVI010000001.1	Genbank	CDS	9245049	9245450	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002833-T1_mrna"; gene_id "gene-NEMBOFW57_002833";
+JAHCVI010000001.1	Genbank	CDS	9245507	9245889	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002833-T1_mrna"; gene_id "gene-NEMBOFW57_002833";
+JAHCVI010000001.1	Genbank	CDS	9245945	9246069	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002833-T1_mrna"; gene_id "gene-NEMBOFW57_002833";
+JAHCVI010000001.1	Genbank	CDS	9246126	9246350	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002833-T1_mrna"; gene_id "gene-NEMBOFW57_002833";
+JAHCVI010000001.1	Genbank	transcript	9311088	9312521	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002851-T1_mrna"; gene_id "gene-NEMBOFW57_002851"
+JAHCVI010000001.1	Genbank	exon	9311088	9311196	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002851-T1_mrna"; gene_id "gene-NEMBOFW57_002851";
+JAHCVI010000001.1	Genbank	exon	9311249	9311349	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002851-T1_mrna"; gene_id "gene-NEMBOFW57_002851";
+JAHCVI010000001.1	Genbank	exon	9311409	9311536	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002851-T1_mrna"; gene_id "gene-NEMBOFW57_002851";
+JAHCVI010000001.1	Genbank	exon	9311591	9312004	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002851-T1_mrna"; gene_id "gene-NEMBOFW57_002851";
+JAHCVI010000001.1	Genbank	exon	9312082	9312158	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002851-T1_mrna"; gene_id "gene-NEMBOFW57_002851";
+JAHCVI010000001.1	Genbank	exon	9312349	9312521	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002851-T1_mrna"; gene_id "gene-NEMBOFW57_002851";
+JAHCVI010000001.1	Genbank	CDS	9311088	9311196	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002851-T1_mrna"; gene_id "gene-NEMBOFW57_002851";
+JAHCVI010000001.1	Genbank	CDS	9311249	9311349	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002851-T1_mrna"; gene_id "gene-NEMBOFW57_002851";
+JAHCVI010000001.1	Genbank	CDS	9311409	9311536	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002851-T1_mrna"; gene_id "gene-NEMBOFW57_002851";
+JAHCVI010000001.1	Genbank	CDS	9311591	9312004	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002851-T1_mrna"; gene_id "gene-NEMBOFW57_002851";
+JAHCVI010000001.1	Genbank	CDS	9312082	9312158	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002851-T1_mrna"; gene_id "gene-NEMBOFW57_002851";
+JAHCVI010000001.1	Genbank	CDS	9312349	9312521	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002851-T1_mrna"; gene_id "gene-NEMBOFW57_002851";
+JAHCVI010000001.1	Genbank	transcript	9659242	9660960	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002978-T1_mrna"; gene_id "gene-NEMBOFW57_002978"
+JAHCVI010000001.1	Genbank	exon	9659242	9660752	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002978-T1_mrna"; gene_id "gene-NEMBOFW57_002978";
+JAHCVI010000001.1	Genbank	exon	9660804	9660834	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002978-T1_mrna"; gene_id "gene-NEMBOFW57_002978";
+JAHCVI010000001.1	Genbank	exon	9660913	9660960	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002978-T1_mrna"; gene_id "gene-NEMBOFW57_002978";
+JAHCVI010000001.1	Genbank	CDS	9659242	9660752	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002978-T1_mrna"; gene_id "gene-NEMBOFW57_002978";
+JAHCVI010000001.1	Genbank	CDS	9660804	9660834	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002978-T1_mrna"; gene_id "gene-NEMBOFW57_002978";
+JAHCVI010000001.1	Genbank	CDS	9660913	9660960	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_002978-T1_mrna"; gene_id "gene-NEMBOFW57_002978";
+JAHCVI010000001.1	Genbank	transcript	9820361	9822080	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003035-T1_mrna"; gene_id "gene-NEMBOFW57_003035"
+JAHCVI010000001.1	Genbank	exon	9820361	9821102	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003035-T1_mrna"; gene_id "gene-NEMBOFW57_003035";
+JAHCVI010000001.1	Genbank	exon	9821161	9822080	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003035-T1_mrna"; gene_id "gene-NEMBOFW57_003035";
+JAHCVI010000001.1	Genbank	CDS	9820361	9821102	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003035-T1_mrna"; gene_id "gene-NEMBOFW57_003035";
+JAHCVI010000001.1	Genbank	CDS	9821161	9822080	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003035-T1_mrna"; gene_id "gene-NEMBOFW57_003035";
+JAHCVI010000001.1	Genbank	transcript	9863706	9865550	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003046-T1_mrna"; gene_id "gene-NEMBOFW57_003046"
+JAHCVI010000001.1	Genbank	exon	9863706	9865550	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003046-T1_mrna"; gene_id "gene-NEMBOFW57_003046";
+JAHCVI010000001.1	Genbank	CDS	9863706	9865550	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003046-T1_mrna"; gene_id "gene-NEMBOFW57_003046";
+JAHCVI010000001.1	Genbank	transcript	9891743	9892489	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003056-T1_mrna"; gene_id "gene-NEMBOFW57_003056"; gene_name "SLD5"
+JAHCVI010000001.1	Genbank	exon	9891743	9891867	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003056-T1_mrna"; gene_id "gene-NEMBOFW57_003056"; gene_name "SLD5";
+JAHCVI010000001.1	Genbank	exon	9891949	9892489	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003056-T1_mrna"; gene_id "gene-NEMBOFW57_003056"; gene_name "SLD5";
+JAHCVI010000001.1	Genbank	CDS	9891743	9891867	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003056-T1_mrna"; gene_id "gene-NEMBOFW57_003056"; gene_name "SLD5";
+JAHCVI010000001.1	Genbank	CDS	9891949	9892489	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003056-T1_mrna"; gene_id "gene-NEMBOFW57_003056"; gene_name "SLD5";
+JAHCVI010000001.1	Genbank	transcript	10054843	10056561	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003095-T1_mrna"; gene_id "gene-NEMBOFW57_003095"
+JAHCVI010000001.1	Genbank	exon	10054843	10056159	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003095-T1_mrna"; gene_id "gene-NEMBOFW57_003095";
+JAHCVI010000001.1	Genbank	exon	10056216	10056313	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003095-T1_mrna"; gene_id "gene-NEMBOFW57_003095";
+JAHCVI010000001.1	Genbank	exon	10056366	10056561	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003095-T1_mrna"; gene_id "gene-NEMBOFW57_003095";
+JAHCVI010000001.1	Genbank	CDS	10054843	10056159	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003095-T1_mrna"; gene_id "gene-NEMBOFW57_003095";
+JAHCVI010000001.1	Genbank	CDS	10056216	10056313	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003095-T1_mrna"; gene_id "gene-NEMBOFW57_003095";
+JAHCVI010000001.1	Genbank	CDS	10056366	10056561	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003095-T1_mrna"; gene_id "gene-NEMBOFW57_003095";
+JAHCVI010000001.1	Genbank	transcript	10193210	10194497	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003145-T1_mrna"; gene_id "gene-NEMBOFW57_003145"
+JAHCVI010000001.1	Genbank	exon	10193210	10193464	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003145-T1_mrna"; gene_id "gene-NEMBOFW57_003145";
+JAHCVI010000001.1	Genbank	exon	10193520	10194497	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003145-T1_mrna"; gene_id "gene-NEMBOFW57_003145";
+JAHCVI010000001.1	Genbank	CDS	10193210	10193464	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003145-T1_mrna"; gene_id "gene-NEMBOFW57_003145";
+JAHCVI010000001.1	Genbank	CDS	10193520	10194497	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003145-T1_mrna"; gene_id "gene-NEMBOFW57_003145";
+JAHCVI010000001.1	Genbank	transcript	10208845	10211636	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003151-T1_mrna"; gene_id "gene-NEMBOFW57_003151"; gene_name "ERB1"
+JAHCVI010000001.1	Genbank	exon	10208845	10209251	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003151-T1_mrna"; gene_id "gene-NEMBOFW57_003151"; gene_name "ERB1";
+JAHCVI010000001.1	Genbank	exon	10209311	10209400	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003151-T1_mrna"; gene_id "gene-NEMBOFW57_003151"; gene_name "ERB1";
+JAHCVI010000001.1	Genbank	exon	10209460	10209609	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003151-T1_mrna"; gene_id "gene-NEMBOFW57_003151"; gene_name "ERB1";
+JAHCVI010000001.1	Genbank	exon	10209664	10209776	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003151-T1_mrna"; gene_id "gene-NEMBOFW57_003151"; gene_name "ERB1";
+JAHCVI010000001.1	Genbank	exon	10209829	10210105	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003151-T1_mrna"; gene_id "gene-NEMBOFW57_003151"; gene_name "ERB1";
+JAHCVI010000001.1	Genbank	exon	10210159	10210297	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003151-T1_mrna"; gene_id "gene-NEMBOFW57_003151"; gene_name "ERB1";
+JAHCVI010000001.1	Genbank	exon	10210353	10210517	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003151-T1_mrna"; gene_id "gene-NEMBOFW57_003151"; gene_name "ERB1";
+JAHCVI010000001.1	Genbank	exon	10210570	10211204	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003151-T1_mrna"; gene_id "gene-NEMBOFW57_003151"; gene_name "ERB1";
+JAHCVI010000001.1	Genbank	exon	10211258	10211636	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003151-T1_mrna"; gene_id "gene-NEMBOFW57_003151"; gene_name "ERB1";
+JAHCVI010000001.1	Genbank	CDS	10208845	10209251	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003151-T1_mrna"; gene_id "gene-NEMBOFW57_003151"; gene_name "ERB1";
+JAHCVI010000001.1	Genbank	CDS	10209311	10209400	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003151-T1_mrna"; gene_id "gene-NEMBOFW57_003151"; gene_name "ERB1";
+JAHCVI010000001.1	Genbank	CDS	10209460	10209609	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003151-T1_mrna"; gene_id "gene-NEMBOFW57_003151"; gene_name "ERB1";
+JAHCVI010000001.1	Genbank	CDS	10209664	10209776	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003151-T1_mrna"; gene_id "gene-NEMBOFW57_003151"; gene_name "ERB1";
+JAHCVI010000001.1	Genbank	CDS	10209829	10210105	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003151-T1_mrna"; gene_id "gene-NEMBOFW57_003151"; gene_name "ERB1";
+JAHCVI010000001.1	Genbank	CDS	10210159	10210297	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003151-T1_mrna"; gene_id "gene-NEMBOFW57_003151"; gene_name "ERB1";
+JAHCVI010000001.1	Genbank	CDS	10210353	10210517	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003151-T1_mrna"; gene_id "gene-NEMBOFW57_003151"; gene_name "ERB1";
+JAHCVI010000001.1	Genbank	CDS	10210570	10211204	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003151-T1_mrna"; gene_id "gene-NEMBOFW57_003151"; gene_name "ERB1";
+JAHCVI010000001.1	Genbank	CDS	10211258	10211636	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003151-T1_mrna"; gene_id "gene-NEMBOFW57_003151"; gene_name "ERB1";
+JAHCVI010000001.1	Genbank	transcript	10367088	10367854	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003199-T1_mrna"; gene_id "gene-NEMBOFW57_003199"; gene_name "PSF1"
+JAHCVI010000001.1	Genbank	exon	10367088	10367120	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003199-T1_mrna"; gene_id "gene-NEMBOFW57_003199"; gene_name "PSF1";
+JAHCVI010000001.1	Genbank	exon	10367176	10367693	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003199-T1_mrna"; gene_id "gene-NEMBOFW57_003199"; gene_name "PSF1";
+JAHCVI010000001.1	Genbank	exon	10367761	10367854	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003199-T1_mrna"; gene_id "gene-NEMBOFW57_003199"; gene_name "PSF1";
+JAHCVI010000001.1	Genbank	CDS	10367088	10367120	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003199-T1_mrna"; gene_id "gene-NEMBOFW57_003199"; gene_name "PSF1";
+JAHCVI010000001.1	Genbank	CDS	10367176	10367693	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003199-T1_mrna"; gene_id "gene-NEMBOFW57_003199"; gene_name "PSF1";
+JAHCVI010000001.1	Genbank	CDS	10367761	10367854	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003199-T1_mrna"; gene_id "gene-NEMBOFW57_003199"; gene_name "PSF1";
+JAHCVI010000001.1	Genbank	transcript	10746351	10747454	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003301-T1_mrna"; gene_id "gene-NEMBOFW57_003301"
+JAHCVI010000001.1	Genbank	exon	10746351	10746446	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003301-T1_mrna"; gene_id "gene-NEMBOFW57_003301";
+JAHCVI010000001.1	Genbank	exon	10746652	10746911	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003301-T1_mrna"; gene_id "gene-NEMBOFW57_003301";
+JAHCVI010000001.1	Genbank	exon	10746923	10747036	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003301-T1_mrna"; gene_id "gene-NEMBOFW57_003301";
+JAHCVI010000001.1	Genbank	exon	10747048	10747090	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003301-T1_mrna"; gene_id "gene-NEMBOFW57_003301";
+JAHCVI010000001.1	Genbank	exon	10747128	10747454	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003301-T1_mrna"; gene_id "gene-NEMBOFW57_003301";
+JAHCVI010000001.1	Genbank	CDS	10746351	10746446	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003301-T1_mrna"; gene_id "gene-NEMBOFW57_003301";
+JAHCVI010000001.1	Genbank	CDS	10746652	10746911	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003301-T1_mrna"; gene_id "gene-NEMBOFW57_003301";
+JAHCVI010000001.1	Genbank	CDS	10746923	10747036	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003301-T1_mrna"; gene_id "gene-NEMBOFW57_003301";
+JAHCVI010000001.1	Genbank	CDS	10747048	10747090	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003301-T1_mrna"; gene_id "gene-NEMBOFW57_003301";
+JAHCVI010000001.1	Genbank	CDS	10747128	10747454	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003301-T1_mrna"; gene_id "gene-NEMBOFW57_003301";
+JAHCVI010000001.1	Genbank	transcript	10902164	10903848	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003357-T1_mrna"; gene_id "gene-NEMBOFW57_003357"
+JAHCVI010000001.1	Genbank	exon	10902164	10902463	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003357-T1_mrna"; gene_id "gene-NEMBOFW57_003357";
+JAHCVI010000001.1	Genbank	exon	10902556	10902857	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003357-T1_mrna"; gene_id "gene-NEMBOFW57_003357";
+JAHCVI010000001.1	Genbank	exon	10902908	10903138	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003357-T1_mrna"; gene_id "gene-NEMBOFW57_003357";
+JAHCVI010000001.1	Genbank	exon	10903351	10903717	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003357-T1_mrna"; gene_id "gene-NEMBOFW57_003357";
+JAHCVI010000001.1	Genbank	exon	10903834	10903848	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003357-T1_mrna"; gene_id "gene-NEMBOFW57_003357";
+JAHCVI010000001.1	Genbank	CDS	10902164	10902463	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003357-T1_mrna"; gene_id "gene-NEMBOFW57_003357";
+JAHCVI010000001.1	Genbank	CDS	10902556	10902857	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003357-T1_mrna"; gene_id "gene-NEMBOFW57_003357";
+JAHCVI010000001.1	Genbank	CDS	10902908	10903138	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003357-T1_mrna"; gene_id "gene-NEMBOFW57_003357";
+JAHCVI010000001.1	Genbank	CDS	10903351	10903717	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003357-T1_mrna"; gene_id "gene-NEMBOFW57_003357";
+JAHCVI010000001.1	Genbank	CDS	10903834	10903848	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003357-T1_mrna"; gene_id "gene-NEMBOFW57_003357";
+JAHCVI010000001.1	Genbank	transcript	10972462	10974219	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003378-T1_mrna"; gene_id "gene-NEMBOFW57_003378"
+JAHCVI010000001.1	Genbank	exon	10972462	10972569	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003378-T1_mrna"; gene_id "gene-NEMBOFW57_003378";
+JAHCVI010000001.1	Genbank	exon	10972622	10972680	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003378-T1_mrna"; gene_id "gene-NEMBOFW57_003378";
+JAHCVI010000001.1	Genbank	exon	10973569	10973665	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003378-T1_mrna"; gene_id "gene-NEMBOFW57_003378";
+JAHCVI010000001.1	Genbank	exon	10973722	10973886	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003378-T1_mrna"; gene_id "gene-NEMBOFW57_003378";
+JAHCVI010000001.1	Genbank	exon	10973966	10974056	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003378-T1_mrna"; gene_id "gene-NEMBOFW57_003378";
+JAHCVI010000001.1	Genbank	exon	10974116	10974219	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003378-T1_mrna"; gene_id "gene-NEMBOFW57_003378";
+JAHCVI010000001.1	Genbank	CDS	10972462	10972569	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003378-T1_mrna"; gene_id "gene-NEMBOFW57_003378";
+JAHCVI010000001.1	Genbank	CDS	10972622	10972680	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003378-T1_mrna"; gene_id "gene-NEMBOFW57_003378";
+JAHCVI010000001.1	Genbank	CDS	10973569	10973665	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003378-T1_mrna"; gene_id "gene-NEMBOFW57_003378";
+JAHCVI010000001.1	Genbank	CDS	10973722	10973886	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003378-T1_mrna"; gene_id "gene-NEMBOFW57_003378";
+JAHCVI010000001.1	Genbank	CDS	10973966	10974056	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003378-T1_mrna"; gene_id "gene-NEMBOFW57_003378";
+JAHCVI010000001.1	Genbank	CDS	10974116	10974219	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003378-T1_mrna"; gene_id "gene-NEMBOFW57_003378";
+JAHCVI010000001.1	Genbank	transcript	11351190	11353169	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003485-T1_mrna"; gene_id "gene-NEMBOFW57_003485"; gene_name "NOP7"
+JAHCVI010000001.1	Genbank	exon	11351190	11353169	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003485-T1_mrna"; gene_id "gene-NEMBOFW57_003485"; gene_name "NOP7";
+JAHCVI010000001.1	Genbank	CDS	11351190	11353169	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003485-T1_mrna"; gene_id "gene-NEMBOFW57_003485"; gene_name "NOP7";
+JAHCVI010000001.1	Genbank	transcript	12351012	12353769	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003829-T1_mrna"; gene_id "gene-NEMBOFW57_003829"
+JAHCVI010000001.1	Genbank	exon	12351012	12351128	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003829-T1_mrna"; gene_id "gene-NEMBOFW57_003829";
+JAHCVI010000001.1	Genbank	exon	12351206	12351513	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003829-T1_mrna"; gene_id "gene-NEMBOFW57_003829";
+JAHCVI010000001.1	Genbank	exon	12351570	12351909	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003829-T1_mrna"; gene_id "gene-NEMBOFW57_003829";
+JAHCVI010000001.1	Genbank	exon	12351962	12352894	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003829-T1_mrna"; gene_id "gene-NEMBOFW57_003829";
+JAHCVI010000001.1	Genbank	exon	12352983	12353624	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003829-T1_mrna"; gene_id "gene-NEMBOFW57_003829";
+JAHCVI010000001.1	Genbank	exon	12353641	12353769	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003829-T1_mrna"; gene_id "gene-NEMBOFW57_003829";
+JAHCVI010000001.1	Genbank	CDS	12351012	12351128	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003829-T1_mrna"; gene_id "gene-NEMBOFW57_003829";
+JAHCVI010000001.1	Genbank	CDS	12351206	12351513	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003829-T1_mrna"; gene_id "gene-NEMBOFW57_003829";
+JAHCVI010000001.1	Genbank	CDS	12351570	12351909	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003829-T1_mrna"; gene_id "gene-NEMBOFW57_003829";
+JAHCVI010000001.1	Genbank	CDS	12351962	12352894	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003829-T1_mrna"; gene_id "gene-NEMBOFW57_003829";
+JAHCVI010000001.1	Genbank	CDS	12352983	12353624	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003829-T1_mrna"; gene_id "gene-NEMBOFW57_003829";
+JAHCVI010000001.1	Genbank	CDS	12353641	12353769	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003829-T1_mrna"; gene_id "gene-NEMBOFW57_003829";
+JAHCVI010000001.1	Genbank	transcript	12644187	12645425	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003922-T1_mrna"; gene_id "gene-NEMBOFW57_003922"
+JAHCVI010000001.1	Genbank	exon	12644187	12645425	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003922-T1_mrna"; gene_id "gene-NEMBOFW57_003922";
+JAHCVI010000001.1	Genbank	CDS	12644187	12645425	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_003922-T1_mrna"; gene_id "gene-NEMBOFW57_003922";
+JAHCVI010000001.1	Genbank	transcript	13878193	13879671	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004312-T1_mrna"; gene_id "gene-NEMBOFW57_004312"
+JAHCVI010000001.1	Genbank	exon	13878193	13879671	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004312-T1_mrna"; gene_id "gene-NEMBOFW57_004312";
+JAHCVI010000001.1	Genbank	CDS	13878193	13879671	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004312-T1_mrna"; gene_id "gene-NEMBOFW57_004312";
+JAHCVI010000001.1	Genbank	transcript	14005292	14006056	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004344-T1_mrna"; gene_id "gene-NEMBOFW57_004344"
+JAHCVI010000001.1	Genbank	exon	14005292	14005408	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004344-T1_mrna"; gene_id "gene-NEMBOFW57_004344";
+JAHCVI010000001.1	Genbank	exon	14005472	14005937	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004344-T1_mrna"; gene_id "gene-NEMBOFW57_004344";
+JAHCVI010000001.1	Genbank	exon	14006007	14006056	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004344-T1_mrna"; gene_id "gene-NEMBOFW57_004344";
+JAHCVI010000001.1	Genbank	CDS	14005292	14005408	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004344-T1_mrna"; gene_id "gene-NEMBOFW57_004344";
+JAHCVI010000001.1	Genbank	CDS	14005472	14005937	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004344-T1_mrna"; gene_id "gene-NEMBOFW57_004344";
+JAHCVI010000001.1	Genbank	CDS	14006007	14006056	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004344-T1_mrna"; gene_id "gene-NEMBOFW57_004344";
+JAHCVI010000001.1	Genbank	transcript	14590406	14592750	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004508-T1_mrna"; gene_id "gene-NEMBOFW57_004508"; gene_name "SDA1"
+JAHCVI010000001.1	Genbank	exon	14590406	14590488	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004508-T1_mrna"; gene_id "gene-NEMBOFW57_004508"; gene_name "SDA1";
+JAHCVI010000001.1	Genbank	exon	14590547	14591302	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004508-T1_mrna"; gene_id "gene-NEMBOFW57_004508"; gene_name "SDA1";
+JAHCVI010000001.1	Genbank	exon	14591364	14592750	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004508-T1_mrna"; gene_id "gene-NEMBOFW57_004508"; gene_name "SDA1";
+JAHCVI010000001.1	Genbank	CDS	14590406	14590488	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004508-T1_mrna"; gene_id "gene-NEMBOFW57_004508"; gene_name "SDA1";
+JAHCVI010000001.1	Genbank	CDS	14590547	14591302	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004508-T1_mrna"; gene_id "gene-NEMBOFW57_004508"; gene_name "SDA1";
+JAHCVI010000001.1	Genbank	CDS	14591364	14592750	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004508-T1_mrna"; gene_id "gene-NEMBOFW57_004508"; gene_name "SDA1";
+JAHCVI010000001.1	Genbank	transcript	14663993	14667287	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004526-T1_mrna"; gene_id "gene-NEMBOFW57_004526"
+JAHCVI010000001.1	Genbank	exon	14663993	14665330	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004526-T1_mrna"; gene_id "gene-NEMBOFW57_004526";
+JAHCVI010000001.1	Genbank	exon	14665378	14665947	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004526-T1_mrna"; gene_id "gene-NEMBOFW57_004526";
+JAHCVI010000001.1	Genbank	exon	14665994	14666620	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004526-T1_mrna"; gene_id "gene-NEMBOFW57_004526";
+JAHCVI010000001.1	Genbank	exon	14666683	14666799	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004526-T1_mrna"; gene_id "gene-NEMBOFW57_004526";
+JAHCVI010000001.1	Genbank	exon	14666901	14667164	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004526-T1_mrna"; gene_id "gene-NEMBOFW57_004526";
+JAHCVI010000001.1	Genbank	exon	14667276	14667287	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004526-T1_mrna"; gene_id "gene-NEMBOFW57_004526";
+JAHCVI010000001.1	Genbank	CDS	14663993	14665330	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004526-T1_mrna"; gene_id "gene-NEMBOFW57_004526";
+JAHCVI010000001.1	Genbank	CDS	14665378	14665947	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004526-T1_mrna"; gene_id "gene-NEMBOFW57_004526";
+JAHCVI010000001.1	Genbank	CDS	14665994	14666620	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004526-T1_mrna"; gene_id "gene-NEMBOFW57_004526";
+JAHCVI010000001.1	Genbank	CDS	14666683	14666799	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004526-T1_mrna"; gene_id "gene-NEMBOFW57_004526";
+JAHCVI010000001.1	Genbank	CDS	14666901	14667164	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004526-T1_mrna"; gene_id "gene-NEMBOFW57_004526";
+JAHCVI010000001.1	Genbank	CDS	14667276	14667287	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004526-T1_mrna"; gene_id "gene-NEMBOFW57_004526";
+JAHCVI010000001.1	Genbank	transcript	14875609	14878083	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004603-T1_mrna"; gene_id "gene-NEMBOFW57_004603"
+JAHCVI010000001.1	Genbank	exon	14875609	14875619	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004603-T1_mrna"; gene_id "gene-NEMBOFW57_004603";
+JAHCVI010000001.1	Genbank	exon	14875818	14878083	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004603-T1_mrna"; gene_id "gene-NEMBOFW57_004603";
+JAHCVI010000001.1	Genbank	CDS	14875609	14875619	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004603-T1_mrna"; gene_id "gene-NEMBOFW57_004603";
+JAHCVI010000001.1	Genbank	CDS	14875818	14878083	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004603-T1_mrna"; gene_id "gene-NEMBOFW57_004603";
+JAHCVI010000002.1	Genbank	transcript	401649	403659	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004877-T1_mrna"; gene_id "gene-NEMBOFW57_004877"
+JAHCVI010000002.1	Genbank	exon	401649	403311	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004877-T1_mrna"; gene_id "gene-NEMBOFW57_004877";
+JAHCVI010000002.1	Genbank	exon	403373	403659	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004877-T1_mrna"; gene_id "gene-NEMBOFW57_004877";
+JAHCVI010000002.1	Genbank	CDS	401649	403311	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004877-T1_mrna"; gene_id "gene-NEMBOFW57_004877";
+JAHCVI010000002.1	Genbank	CDS	403373	403659	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004877-T1_mrna"; gene_id "gene-NEMBOFW57_004877";
+JAHCVI010000002.1	Genbank	transcript	768791	770057	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004981-T1_mrna"; gene_id "gene-NEMBOFW57_004981"
+JAHCVI010000002.1	Genbank	exon	768791	769768	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004981-T1_mrna"; gene_id "gene-NEMBOFW57_004981";
+JAHCVI010000002.1	Genbank	exon	769950	770057	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004981-T1_mrna"; gene_id "gene-NEMBOFW57_004981";
+JAHCVI010000002.1	Genbank	CDS	768791	769768	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004981-T1_mrna"; gene_id "gene-NEMBOFW57_004981";
+JAHCVI010000002.1	Genbank	CDS	769950	770057	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004981-T1_mrna"; gene_id "gene-NEMBOFW57_004981";
+JAHCVI010000002.1	Genbank	transcript	770839	772855	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004982-T1_mrna"; gene_id "gene-NEMBOFW57_004982"; gene_name "UTP25"
+JAHCVI010000002.1	Genbank	exon	770839	771503	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004982-T1_mrna"; gene_id "gene-NEMBOFW57_004982"; gene_name "UTP25";
+JAHCVI010000002.1	Genbank	exon	771553	772855	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004982-T1_mrna"; gene_id "gene-NEMBOFW57_004982"; gene_name "UTP25";
+JAHCVI010000002.1	Genbank	CDS	770839	771503	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004982-T1_mrna"; gene_id "gene-NEMBOFW57_004982"; gene_name "UTP25";
+JAHCVI010000002.1	Genbank	CDS	771553	772855	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004982-T1_mrna"; gene_id "gene-NEMBOFW57_004982"; gene_name "UTP25";
+JAHCVI010000002.1	Genbank	transcript	793732	794719	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004991-T1_mrna"; gene_id "gene-NEMBOFW57_004991"
+JAHCVI010000002.1	Genbank	exon	793732	793933	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004991-T1_mrna"; gene_id "gene-NEMBOFW57_004991";
+JAHCVI010000002.1	Genbank	exon	793991	794073	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004991-T1_mrna"; gene_id "gene-NEMBOFW57_004991";
+JAHCVI010000002.1	Genbank	exon	794126	794206	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004991-T1_mrna"; gene_id "gene-NEMBOFW57_004991";
+JAHCVI010000002.1	Genbank	exon	794473	794503	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004991-T1_mrna"; gene_id "gene-NEMBOFW57_004991";
+JAHCVI010000002.1	Genbank	exon	794558	794614	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004991-T1_mrna"; gene_id "gene-NEMBOFW57_004991";
+JAHCVI010000002.1	Genbank	exon	794676	794719	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004991-T1_mrna"; gene_id "gene-NEMBOFW57_004991";
+JAHCVI010000002.1	Genbank	CDS	793732	793933	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004991-T1_mrna"; gene_id "gene-NEMBOFW57_004991";
+JAHCVI010000002.1	Genbank	CDS	793991	794073	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004991-T1_mrna"; gene_id "gene-NEMBOFW57_004991";
+JAHCVI010000002.1	Genbank	CDS	794126	794206	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004991-T1_mrna"; gene_id "gene-NEMBOFW57_004991";
+JAHCVI010000002.1	Genbank	CDS	794473	794503	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004991-T1_mrna"; gene_id "gene-NEMBOFW57_004991";
+JAHCVI010000002.1	Genbank	CDS	794558	794614	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004991-T1_mrna"; gene_id "gene-NEMBOFW57_004991";
+JAHCVI010000002.1	Genbank	CDS	794676	794719	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_004991-T1_mrna"; gene_id "gene-NEMBOFW57_004991";
+JAHCVI010000002.1	Genbank	transcript	816220	818484	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005000-T1_mrna"; gene_id "gene-NEMBOFW57_005000"; gene_name "APG5"
+JAHCVI010000002.1	Genbank	exon	816220	816708	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005000-T1_mrna"; gene_id "gene-NEMBOFW57_005000"; gene_name "APG5";
+JAHCVI010000002.1	Genbank	exon	816762	818056	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005000-T1_mrna"; gene_id "gene-NEMBOFW57_005000"; gene_name "APG5";
+JAHCVI010000002.1	Genbank	exon	818116	818228	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005000-T1_mrna"; gene_id "gene-NEMBOFW57_005000"; gene_name "APG5";
+JAHCVI010000002.1	Genbank	exon	818285	818484	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005000-T1_mrna"; gene_id "gene-NEMBOFW57_005000"; gene_name "APG5";
+JAHCVI010000002.1	Genbank	CDS	816220	816708	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005000-T1_mrna"; gene_id "gene-NEMBOFW57_005000"; gene_name "APG5";
+JAHCVI010000002.1	Genbank	CDS	816762	818056	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005000-T1_mrna"; gene_id "gene-NEMBOFW57_005000"; gene_name "APG5";
+JAHCVI010000002.1	Genbank	CDS	818116	818228	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005000-T1_mrna"; gene_id "gene-NEMBOFW57_005000"; gene_name "APG5";
+JAHCVI010000002.1	Genbank	CDS	818285	818484	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005000-T1_mrna"; gene_id "gene-NEMBOFW57_005000"; gene_name "APG5";
+JAHCVI010000002.1	Genbank	transcript	1339129	1339756	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005159-T1_mrna"; gene_id "gene-NEMBOFW57_005159"
+JAHCVI010000002.1	Genbank	exon	1339129	1339532	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005159-T1_mrna"; gene_id "gene-NEMBOFW57_005159";
+JAHCVI010000002.1	Genbank	exon	1339588	1339756	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005159-T1_mrna"; gene_id "gene-NEMBOFW57_005159";
+JAHCVI010000002.1	Genbank	CDS	1339129	1339532	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005159-T1_mrna"; gene_id "gene-NEMBOFW57_005159";
+JAHCVI010000002.1	Genbank	CDS	1339588	1339756	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005159-T1_mrna"; gene_id "gene-NEMBOFW57_005159";
+JAHCVI010000002.1	Genbank	transcript	1391914	1393247	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005174-T1_mrna"; gene_id "gene-NEMBOFW57_005174"
+JAHCVI010000002.1	Genbank	exon	1391914	1392814	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005174-T1_mrna"; gene_id "gene-NEMBOFW57_005174";
+JAHCVI010000002.1	Genbank	exon	1392880	1393247	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005174-T1_mrna"; gene_id "gene-NEMBOFW57_005174";
+JAHCVI010000002.1	Genbank	CDS	1391914	1392814	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005174-T1_mrna"; gene_id "gene-NEMBOFW57_005174";
+JAHCVI010000002.1	Genbank	CDS	1392880	1393247	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005174-T1_mrna"; gene_id "gene-NEMBOFW57_005174";
+JAHCVI010000002.1	Genbank	transcript	1614163	1616889	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005247-T1_mrna"; gene_id "gene-NEMBOFW57_005247"
+JAHCVI010000002.1	Genbank	exon	1614163	1616889	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005247-T1_mrna"; gene_id "gene-NEMBOFW57_005247";
+JAHCVI010000002.1	Genbank	CDS	1614163	1616889	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005247-T1_mrna"; gene_id "gene-NEMBOFW57_005247";
+JAHCVI010000002.1	Genbank	transcript	1656113	1657140	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005257-T1_mrna"; gene_id "gene-NEMBOFW57_005257"
+JAHCVI010000002.1	Genbank	exon	1656113	1656126	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005257-T1_mrna"; gene_id "gene-NEMBOFW57_005257";
+JAHCVI010000002.1	Genbank	exon	1656204	1657140	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005257-T1_mrna"; gene_id "gene-NEMBOFW57_005257";
+JAHCVI010000002.1	Genbank	CDS	1656113	1656126	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005257-T1_mrna"; gene_id "gene-NEMBOFW57_005257";
+JAHCVI010000002.1	Genbank	CDS	1656204	1657140	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005257-T1_mrna"; gene_id "gene-NEMBOFW57_005257";
+JAHCVI010000002.1	Genbank	transcript	1746625	1747995	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005287-T1_mrna"; gene_id "gene-NEMBOFW57_005287"
+JAHCVI010000002.1	Genbank	exon	1746625	1747995	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005287-T1_mrna"; gene_id "gene-NEMBOFW57_005287";
+JAHCVI010000002.1	Genbank	CDS	1746625	1747995	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005287-T1_mrna"; gene_id "gene-NEMBOFW57_005287";
+JAHCVI010000002.1	Genbank	transcript	1770092	1771912	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005294-T1_mrna"; gene_id "gene-NEMBOFW57_005294"
+JAHCVI010000002.1	Genbank	exon	1770092	1771912	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005294-T1_mrna"; gene_id "gene-NEMBOFW57_005294";
+JAHCVI010000002.1	Genbank	CDS	1770092	1771912	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005294-T1_mrna"; gene_id "gene-NEMBOFW57_005294";
+JAHCVI010000002.1	Genbank	transcript	1866926	1867664	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005320-T1_mrna"; gene_id "gene-NEMBOFW57_005320"
+JAHCVI010000002.1	Genbank	exon	1866926	1867481	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005320-T1_mrna"; gene_id "gene-NEMBOFW57_005320";
+JAHCVI010000002.1	Genbank	exon	1867546	1867664	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005320-T1_mrna"; gene_id "gene-NEMBOFW57_005320";
+JAHCVI010000002.1	Genbank	CDS	1866926	1867481	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005320-T1_mrna"; gene_id "gene-NEMBOFW57_005320";
+JAHCVI010000002.1	Genbank	CDS	1867546	1867664	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005320-T1_mrna"; gene_id "gene-NEMBOFW57_005320";
+JAHCVI010000002.1	Genbank	transcript	2002497	2004527	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005361-T1_mrna"; gene_id "gene-NEMBOFW57_005361"
+JAHCVI010000002.1	Genbank	exon	2002497	2004527	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005361-T1_mrna"; gene_id "gene-NEMBOFW57_005361";
+JAHCVI010000002.1	Genbank	CDS	2002497	2004527	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005361-T1_mrna"; gene_id "gene-NEMBOFW57_005361";
+JAHCVI010000002.1	Genbank	transcript	2038627	2039355	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005374-T1_mrna"; gene_id "gene-NEMBOFW57_005374"
+JAHCVI010000002.1	Genbank	exon	2038627	2038822	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005374-T1_mrna"; gene_id "gene-NEMBOFW57_005374";
+JAHCVI010000002.1	Genbank	exon	2038914	2039059	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005374-T1_mrna"; gene_id "gene-NEMBOFW57_005374";
+JAHCVI010000002.1	Genbank	exon	2039170	2039355	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005374-T1_mrna"; gene_id "gene-NEMBOFW57_005374";
+JAHCVI010000002.1	Genbank	CDS	2038627	2038822	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005374-T1_mrna"; gene_id "gene-NEMBOFW57_005374";
+JAHCVI010000002.1	Genbank	CDS	2038914	2039059	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005374-T1_mrna"; gene_id "gene-NEMBOFW57_005374";
+JAHCVI010000002.1	Genbank	CDS	2039170	2039355	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005374-T1_mrna"; gene_id "gene-NEMBOFW57_005374";
+JAHCVI010000002.1	Genbank	transcript	2259017	2260165	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005448-T1_mrna"; gene_id "gene-NEMBOFW57_005448"
+JAHCVI010000002.1	Genbank	exon	2259017	2259366	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005448-T1_mrna"; gene_id "gene-NEMBOFW57_005448";
+JAHCVI010000002.1	Genbank	exon	2259481	2260165	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005448-T1_mrna"; gene_id "gene-NEMBOFW57_005448";
+JAHCVI010000002.1	Genbank	CDS	2259017	2259366	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005448-T1_mrna"; gene_id "gene-NEMBOFW57_005448";
+JAHCVI010000002.1	Genbank	CDS	2259481	2260165	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005448-T1_mrna"; gene_id "gene-NEMBOFW57_005448";
+JAHCVI010000002.1	Genbank	transcript	2474235	2483298	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005521-T1_mrna"; gene_id "gene-NEMBOFW57_005521"
+JAHCVI010000002.1	Genbank	exon	2474235	2474280	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005521-T1_mrna"; gene_id "gene-NEMBOFW57_005521";
+JAHCVI010000002.1	Genbank	exon	2474335	2475041	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005521-T1_mrna"; gene_id "gene-NEMBOFW57_005521";
+JAHCVI010000002.1	Genbank	exon	2475099	2475720	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005521-T1_mrna"; gene_id "gene-NEMBOFW57_005521";
+JAHCVI010000002.1	Genbank	exon	2475787	2476027	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005521-T1_mrna"; gene_id "gene-NEMBOFW57_005521";
+JAHCVI010000002.1	Genbank	exon	2476084	2476235	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005521-T1_mrna"; gene_id "gene-NEMBOFW57_005521";
+JAHCVI010000002.1	Genbank	exon	2476313	2476365	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005521-T1_mrna"; gene_id "gene-NEMBOFW57_005521";
+JAHCVI010000002.1	Genbank	exon	2478085	2483298	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005521-T1_mrna"; gene_id "gene-NEMBOFW57_005521";
+JAHCVI010000002.1	Genbank	CDS	2474235	2474280	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005521-T1_mrna"; gene_id "gene-NEMBOFW57_005521";
+JAHCVI010000002.1	Genbank	CDS	2474335	2475041	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005521-T1_mrna"; gene_id "gene-NEMBOFW57_005521";
+JAHCVI010000002.1	Genbank	CDS	2475099	2475720	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005521-T1_mrna"; gene_id "gene-NEMBOFW57_005521";
+JAHCVI010000002.1	Genbank	CDS	2475787	2476027	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005521-T1_mrna"; gene_id "gene-NEMBOFW57_005521";
+JAHCVI010000002.1	Genbank	CDS	2476084	2476235	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005521-T1_mrna"; gene_id "gene-NEMBOFW57_005521";
+JAHCVI010000002.1	Genbank	CDS	2476313	2476365	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005521-T1_mrna"; gene_id "gene-NEMBOFW57_005521";
+JAHCVI010000002.1	Genbank	CDS	2478085	2483298	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005521-T1_mrna"; gene_id "gene-NEMBOFW57_005521";
+JAHCVI010000002.1	Genbank	transcript	3511168	3511706	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005849-T1_mrna"; gene_id "gene-NEMBOFW57_005849"; gene_name "TRF2_2"
+JAHCVI010000002.1	Genbank	exon	3511168	3511248	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005849-T1_mrna"; gene_id "gene-NEMBOFW57_005849"; gene_name "TRF2_2";
+JAHCVI010000002.1	Genbank	exon	3511345	3511598	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005849-T1_mrna"; gene_id "gene-NEMBOFW57_005849"; gene_name "TRF2_2";
+JAHCVI010000002.1	Genbank	exon	3511676	3511706	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005849-T1_mrna"; gene_id "gene-NEMBOFW57_005849"; gene_name "TRF2_2";
+JAHCVI010000002.1	Genbank	CDS	3511168	3511248	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005849-T1_mrna"; gene_id "gene-NEMBOFW57_005849"; gene_name "TRF2_2";
+JAHCVI010000002.1	Genbank	CDS	3511345	3511598	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005849-T1_mrna"; gene_id "gene-NEMBOFW57_005849"; gene_name "TRF2_2";
+JAHCVI010000002.1	Genbank	CDS	3511676	3511706	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005849-T1_mrna"; gene_id "gene-NEMBOFW57_005849"; gene_name "TRF2_2";
+JAHCVI010000002.1	Genbank	transcript	3576822	3577878	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005874-T1_mrna"; gene_id "gene-NEMBOFW57_005874"
+JAHCVI010000002.1	Genbank	exon	3576822	3577262	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005874-T1_mrna"; gene_id "gene-NEMBOFW57_005874";
+JAHCVI010000002.1	Genbank	exon	3577325	3577377	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005874-T1_mrna"; gene_id "gene-NEMBOFW57_005874";
+JAHCVI010000002.1	Genbank	exon	3577518	3577878	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005874-T1_mrna"; gene_id "gene-NEMBOFW57_005874";
+JAHCVI010000002.1	Genbank	CDS	3576822	3577262	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005874-T1_mrna"; gene_id "gene-NEMBOFW57_005874";
+JAHCVI010000002.1	Genbank	CDS	3577325	3577377	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005874-T1_mrna"; gene_id "gene-NEMBOFW57_005874";
+JAHCVI010000002.1	Genbank	CDS	3577518	3577878	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005874-T1_mrna"; gene_id "gene-NEMBOFW57_005874";
+JAHCVI010000002.1	Genbank	transcript	3613725	3616474	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005887-T1_mrna"; gene_id "gene-NEMBOFW57_005887"
+JAHCVI010000002.1	Genbank	exon	3613725	3613855	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005887-T1_mrna"; gene_id "gene-NEMBOFW57_005887";
+JAHCVI010000002.1	Genbank	exon	3613921	3616474	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005887-T1_mrna"; gene_id "gene-NEMBOFW57_005887";
+JAHCVI010000002.1	Genbank	CDS	3613725	3613855	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005887-T1_mrna"; gene_id "gene-NEMBOFW57_005887";
+JAHCVI010000002.1	Genbank	CDS	3613921	3616474	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005887-T1_mrna"; gene_id "gene-NEMBOFW57_005887";
+JAHCVI010000002.1	Genbank	transcript	3681388	3683226	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005911-T1_mrna"; gene_id "gene-NEMBOFW57_005911"
+JAHCVI010000002.1	Genbank	exon	3681388	3681437	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005911-T1_mrna"; gene_id "gene-NEMBOFW57_005911";
+JAHCVI010000002.1	Genbank	exon	3681502	3681811	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005911-T1_mrna"; gene_id "gene-NEMBOFW57_005911";
+JAHCVI010000002.1	Genbank	exon	3681866	3682811	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005911-T1_mrna"; gene_id "gene-NEMBOFW57_005911";
+JAHCVI010000002.1	Genbank	exon	3682875	3683074	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005911-T1_mrna"; gene_id "gene-NEMBOFW57_005911";
+JAHCVI010000002.1	Genbank	exon	3683203	3683226	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005911-T1_mrna"; gene_id "gene-NEMBOFW57_005911";
+JAHCVI010000002.1	Genbank	CDS	3681388	3681437	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005911-T1_mrna"; gene_id "gene-NEMBOFW57_005911";
+JAHCVI010000002.1	Genbank	CDS	3681502	3681811	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005911-T1_mrna"; gene_id "gene-NEMBOFW57_005911";
+JAHCVI010000002.1	Genbank	CDS	3681866	3682811	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005911-T1_mrna"; gene_id "gene-NEMBOFW57_005911";
+JAHCVI010000002.1	Genbank	CDS	3682875	3683074	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005911-T1_mrna"; gene_id "gene-NEMBOFW57_005911";
+JAHCVI010000002.1	Genbank	CDS	3683203	3683226	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005911-T1_mrna"; gene_id "gene-NEMBOFW57_005911";
+JAHCVI010000002.1	Genbank	transcript	3863702	3866509	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005963-T1_mrna"; gene_id "gene-NEMBOFW57_005963"
+JAHCVI010000002.1	Genbank	exon	3863702	3863771	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005963-T1_mrna"; gene_id "gene-NEMBOFW57_005963";
+JAHCVI010000002.1	Genbank	exon	3863998	3864467	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005963-T1_mrna"; gene_id "gene-NEMBOFW57_005963";
+JAHCVI010000002.1	Genbank	exon	3864524	3866509	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005963-T1_mrna"; gene_id "gene-NEMBOFW57_005963";
+JAHCVI010000002.1	Genbank	CDS	3863702	3863771	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005963-T1_mrna"; gene_id "gene-NEMBOFW57_005963";
+JAHCVI010000002.1	Genbank	CDS	3863998	3864467	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005963-T1_mrna"; gene_id "gene-NEMBOFW57_005963";
+JAHCVI010000002.1	Genbank	CDS	3864524	3866509	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_005963-T1_mrna"; gene_id "gene-NEMBOFW57_005963";
+JAHCVI010000002.1	Genbank	transcript	4269801	4271009	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006086-T1_mrna"; gene_id "gene-NEMBOFW57_006086"; gene_name "DRE2"
+JAHCVI010000002.1	Genbank	exon	4269801	4270624	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006086-T1_mrna"; gene_id "gene-NEMBOFW57_006086"; gene_name "DRE2";
+JAHCVI010000002.1	Genbank	exon	4270685	4270892	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006086-T1_mrna"; gene_id "gene-NEMBOFW57_006086"; gene_name "DRE2";
+JAHCVI010000002.1	Genbank	exon	4270962	4271009	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006086-T1_mrna"; gene_id "gene-NEMBOFW57_006086"; gene_name "DRE2";
+JAHCVI010000002.1	Genbank	CDS	4269801	4270624	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006086-T1_mrna"; gene_id "gene-NEMBOFW57_006086"; gene_name "DRE2";
+JAHCVI010000002.1	Genbank	CDS	4270685	4270892	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006086-T1_mrna"; gene_id "gene-NEMBOFW57_006086"; gene_name "DRE2";
+JAHCVI010000002.1	Genbank	CDS	4270962	4271009	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006086-T1_mrna"; gene_id "gene-NEMBOFW57_006086"; gene_name "DRE2";
+JAHCVI010000002.1	Genbank	transcript	4342406	4345183	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006110-T1_mrna"; gene_id "gene-NEMBOFW57_006110"; gene_name "MCM2"
+JAHCVI010000002.1	Genbank	exon	4342406	4342410	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006110-T1_mrna"; gene_id "gene-NEMBOFW57_006110"; gene_name "MCM2";
+JAHCVI010000002.1	Genbank	exon	4342464	4344843	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006110-T1_mrna"; gene_id "gene-NEMBOFW57_006110"; gene_name "MCM2";
+JAHCVI010000002.1	Genbank	exon	4344926	4345183	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006110-T1_mrna"; gene_id "gene-NEMBOFW57_006110"; gene_name "MCM2";
+JAHCVI010000002.1	Genbank	CDS	4342406	4342410	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006110-T1_mrna"; gene_id "gene-NEMBOFW57_006110"; gene_name "MCM2";
+JAHCVI010000002.1	Genbank	CDS	4342464	4344843	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006110-T1_mrna"; gene_id "gene-NEMBOFW57_006110"; gene_name "MCM2";
+JAHCVI010000002.1	Genbank	CDS	4344926	4345183	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006110-T1_mrna"; gene_id "gene-NEMBOFW57_006110"; gene_name "MCM2";
+JAHCVI010000002.1	Genbank	transcript	4396797	4398179	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006129-T1_mrna"; gene_id "gene-NEMBOFW57_006129"
+JAHCVI010000002.1	Genbank	exon	4396797	4396894	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006129-T1_mrna"; gene_id "gene-NEMBOFW57_006129";
+JAHCVI010000002.1	Genbank	exon	4396950	4398029	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006129-T1_mrna"; gene_id "gene-NEMBOFW57_006129";
+JAHCVI010000002.1	Genbank	exon	4398086	4398179	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006129-T1_mrna"; gene_id "gene-NEMBOFW57_006129";
+JAHCVI010000002.1	Genbank	CDS	4396797	4396894	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006129-T1_mrna"; gene_id "gene-NEMBOFW57_006129";
+JAHCVI010000002.1	Genbank	CDS	4396950	4398029	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006129-T1_mrna"; gene_id "gene-NEMBOFW57_006129";
+JAHCVI010000002.1	Genbank	CDS	4398086	4398179	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006129-T1_mrna"; gene_id "gene-NEMBOFW57_006129";
+JAHCVI010000002.1	Genbank	transcript	5223429	5224964	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006363-T1_mrna"; gene_id "gene-NEMBOFW57_006363"; gene_name "CYP6"
+JAHCVI010000002.1	Genbank	exon	5223429	5224964	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006363-T1_mrna"; gene_id "gene-NEMBOFW57_006363"; gene_name "CYP6";
+JAHCVI010000002.1	Genbank	CDS	5223429	5224964	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006363-T1_mrna"; gene_id "gene-NEMBOFW57_006363"; gene_name "CYP6";
+JAHCVI010000003.1	Genbank	transcript	235013	236133	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006468-T1_mrna"; gene_id "gene-NEMBOFW57_006468"; gene_name "KRR1"
+JAHCVI010000003.1	Genbank	exon	235013	235267	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006468-T1_mrna"; gene_id "gene-NEMBOFW57_006468"; gene_name "KRR1";
+JAHCVI010000003.1	Genbank	exon	235325	235517	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006468-T1_mrna"; gene_id "gene-NEMBOFW57_006468"; gene_name "KRR1";
+JAHCVI010000003.1	Genbank	exon	235568	235724	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006468-T1_mrna"; gene_id "gene-NEMBOFW57_006468"; gene_name "KRR1";
+JAHCVI010000003.1	Genbank	exon	235776	236133	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006468-T1_mrna"; gene_id "gene-NEMBOFW57_006468"; gene_name "KRR1";
+JAHCVI010000003.1	Genbank	CDS	235013	235267	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006468-T1_mrna"; gene_id "gene-NEMBOFW57_006468"; gene_name "KRR1";
+JAHCVI010000003.1	Genbank	CDS	235325	235517	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006468-T1_mrna"; gene_id "gene-NEMBOFW57_006468"; gene_name "KRR1";
+JAHCVI010000003.1	Genbank	CDS	235568	235724	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006468-T1_mrna"; gene_id "gene-NEMBOFW57_006468"; gene_name "KRR1";
+JAHCVI010000003.1	Genbank	CDS	235776	236133	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006468-T1_mrna"; gene_id "gene-NEMBOFW57_006468"; gene_name "KRR1";
+JAHCVI010000003.1	Genbank	transcript	819286	822488	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006645-T1_mrna"; gene_id "gene-NEMBOFW57_006645"
+JAHCVI010000003.1	Genbank	exon	819286	819814	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006645-T1_mrna"; gene_id "gene-NEMBOFW57_006645";
+JAHCVI010000003.1	Genbank	exon	819892	822488	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006645-T1_mrna"; gene_id "gene-NEMBOFW57_006645";
+JAHCVI010000003.1	Genbank	CDS	819286	819814	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006645-T1_mrna"; gene_id "gene-NEMBOFW57_006645";
+JAHCVI010000003.1	Genbank	CDS	819892	822488	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006645-T1_mrna"; gene_id "gene-NEMBOFW57_006645";
+JAHCVI010000003.1	Genbank	transcript	860620	863135	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006655-T1_mrna"; gene_id "gene-NEMBOFW57_006655"; gene_name "DBP4"
+JAHCVI010000003.1	Genbank	exon	860620	862935	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006655-T1_mrna"; gene_id "gene-NEMBOFW57_006655"; gene_name "DBP4";
+JAHCVI010000003.1	Genbank	exon	863001	863135	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006655-T1_mrna"; gene_id "gene-NEMBOFW57_006655"; gene_name "DBP4";
+JAHCVI010000003.1	Genbank	CDS	860620	862935	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006655-T1_mrna"; gene_id "gene-NEMBOFW57_006655"; gene_name "DBP4";
+JAHCVI010000003.1	Genbank	CDS	863001	863135	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006655-T1_mrna"; gene_id "gene-NEMBOFW57_006655"; gene_name "DBP4";
+JAHCVI010000003.1	Genbank	transcript	1669801	1671945	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006941-T1_mrna"; gene_id "gene-NEMBOFW57_006941"
+JAHCVI010000003.1	Genbank	exon	1669801	1671945	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006941-T1_mrna"; gene_id "gene-NEMBOFW57_006941";
+JAHCVI010000003.1	Genbank	CDS	1669801	1671945	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006941-T1_mrna"; gene_id "gene-NEMBOFW57_006941";
+JAHCVI010000003.1	Genbank	transcript	1744565	1745730	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006966-T1_mrna"; gene_id "gene-NEMBOFW57_006966"
+JAHCVI010000003.1	Genbank	exon	1744565	1744571	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006966-T1_mrna"; gene_id "gene-NEMBOFW57_006966";
+JAHCVI010000003.1	Genbank	exon	1744625	1745730	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006966-T1_mrna"; gene_id "gene-NEMBOFW57_006966";
+JAHCVI010000003.1	Genbank	CDS	1744565	1744571	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006966-T1_mrna"; gene_id "gene-NEMBOFW57_006966";
+JAHCVI010000003.1	Genbank	CDS	1744625	1745730	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_006966-T1_mrna"; gene_id "gene-NEMBOFW57_006966";
+JAHCVI010000003.1	Genbank	transcript	2123638	2124345	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007099-T1_mrna"; gene_id "gene-NEMBOFW57_007099"
+JAHCVI010000003.1	Genbank	exon	2123638	2124345	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007099-T1_mrna"; gene_id "gene-NEMBOFW57_007099";
+JAHCVI010000003.1	Genbank	CDS	2123638	2124345	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007099-T1_mrna"; gene_id "gene-NEMBOFW57_007099";
+JAHCVI010000003.1	Genbank	transcript	2124682	2125611	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007100-T1_mrna"; gene_id "gene-NEMBOFW57_007100"; gene_name "DPH5"
+JAHCVI010000003.1	Genbank	exon	2124682	2124816	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007100-T1_mrna"; gene_id "gene-NEMBOFW57_007100"; gene_name "DPH5";
+JAHCVI010000003.1	Genbank	exon	2124883	2125611	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007100-T1_mrna"; gene_id "gene-NEMBOFW57_007100"; gene_name "DPH5";
+JAHCVI010000003.1	Genbank	CDS	2124682	2124816	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007100-T1_mrna"; gene_id "gene-NEMBOFW57_007100"; gene_name "DPH5";
+JAHCVI010000003.1	Genbank	CDS	2124883	2125611	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007100-T1_mrna"; gene_id "gene-NEMBOFW57_007100"; gene_name "DPH5";
+JAHCVI010000003.1	Genbank	transcript	2196449	2198347	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007128-T1_mrna"; gene_id "gene-NEMBOFW57_007128"
+JAHCVI010000003.1	Genbank	exon	2196449	2196909	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007128-T1_mrna"; gene_id "gene-NEMBOFW57_007128";
+JAHCVI010000003.1	Genbank	exon	2196989	2197115	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007128-T1_mrna"; gene_id "gene-NEMBOFW57_007128";
+JAHCVI010000003.1	Genbank	exon	2197226	2197612	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007128-T1_mrna"; gene_id "gene-NEMBOFW57_007128";
+JAHCVI010000003.1	Genbank	exon	2197840	2198238	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007128-T1_mrna"; gene_id "gene-NEMBOFW57_007128";
+JAHCVI010000003.1	Genbank	exon	2198288	2198347	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007128-T1_mrna"; gene_id "gene-NEMBOFW57_007128";
+JAHCVI010000003.1	Genbank	CDS	2196449	2196909	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007128-T1_mrna"; gene_id "gene-NEMBOFW57_007128";
+JAHCVI010000003.1	Genbank	CDS	2196989	2197115	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007128-T1_mrna"; gene_id "gene-NEMBOFW57_007128";
+JAHCVI010000003.1	Genbank	CDS	2197226	2197612	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007128-T1_mrna"; gene_id "gene-NEMBOFW57_007128";
+JAHCVI010000003.1	Genbank	CDS	2197840	2198238	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007128-T1_mrna"; gene_id "gene-NEMBOFW57_007128";
+JAHCVI010000003.1	Genbank	CDS	2198288	2198347	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007128-T1_mrna"; gene_id "gene-NEMBOFW57_007128";
+JAHCVI010000003.1	Genbank	transcript	2227616	2228359	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007137-T1_mrna"; gene_id "gene-NEMBOFW57_007137"
+JAHCVI010000003.1	Genbank	exon	2227616	2228359	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007137-T1_mrna"; gene_id "gene-NEMBOFW57_007137";
+JAHCVI010000003.1	Genbank	CDS	2227616	2228359	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007137-T1_mrna"; gene_id "gene-NEMBOFW57_007137";
+JAHCVI010000003.1	Genbank	transcript	2554988	2555928	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007227-T1_mrna"; gene_id "gene-NEMBOFW57_007227"; gene_name "BCP1"
+JAHCVI010000003.1	Genbank	exon	2554988	2555758	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007227-T1_mrna"; gene_id "gene-NEMBOFW57_007227"; gene_name "BCP1";
+JAHCVI010000003.1	Genbank	exon	2555827	2555928	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007227-T1_mrna"; gene_id "gene-NEMBOFW57_007227"; gene_name "BCP1";
+JAHCVI010000003.1	Genbank	CDS	2554988	2555758	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007227-T1_mrna"; gene_id "gene-NEMBOFW57_007227"; gene_name "BCP1";
+JAHCVI010000003.1	Genbank	CDS	2555827	2555928	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007227-T1_mrna"; gene_id "gene-NEMBOFW57_007227"; gene_name "BCP1";
+JAHCVI010000003.1	Genbank	transcript	2672618	2673670	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007265-T1_mrna"; gene_id "gene-NEMBOFW57_007265"
+JAHCVI010000003.1	Genbank	exon	2672618	2673670	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007265-T1_mrna"; gene_id "gene-NEMBOFW57_007265";
+JAHCVI010000003.1	Genbank	CDS	2672618	2673670	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007265-T1_mrna"; gene_id "gene-NEMBOFW57_007265";
+JAHCVI010000003.1	Genbank	transcript	2897415	2899438	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007338-T1_mrna"; gene_id "gene-NEMBOFW57_007338"
+JAHCVI010000003.1	Genbank	exon	2897415	2898006	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007338-T1_mrna"; gene_id "gene-NEMBOFW57_007338";
+JAHCVI010000003.1	Genbank	exon	2898061	2899191	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007338-T1_mrna"; gene_id "gene-NEMBOFW57_007338";
+JAHCVI010000003.1	Genbank	exon	2899248	2899438	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007338-T1_mrna"; gene_id "gene-NEMBOFW57_007338";
+JAHCVI010000003.1	Genbank	CDS	2897415	2898006	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007338-T1_mrna"; gene_id "gene-NEMBOFW57_007338";
+JAHCVI010000003.1	Genbank	CDS	2898061	2899191	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007338-T1_mrna"; gene_id "gene-NEMBOFW57_007338";
+JAHCVI010000003.1	Genbank	CDS	2899248	2899438	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007338-T1_mrna"; gene_id "gene-NEMBOFW57_007338";
+JAHCVI010000003.1	Genbank	transcript	3148529	3150331	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007400-T1_mrna"; gene_id "gene-NEMBOFW57_007400"
+JAHCVI010000003.1	Genbank	exon	3148529	3148695	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007400-T1_mrna"; gene_id "gene-NEMBOFW57_007400";
+JAHCVI010000003.1	Genbank	exon	3148761	3148910	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007400-T1_mrna"; gene_id "gene-NEMBOFW57_007400";
+JAHCVI010000003.1	Genbank	exon	3148975	3149166	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007400-T1_mrna"; gene_id "gene-NEMBOFW57_007400";
+JAHCVI010000003.1	Genbank	exon	3149303	3149446	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007400-T1_mrna"; gene_id "gene-NEMBOFW57_007400";
+JAHCVI010000003.1	Genbank	exon	3149549	3149658	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007400-T1_mrna"; gene_id "gene-NEMBOFW57_007400";
+JAHCVI010000003.1	Genbank	exon	3149688	3150331	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007400-T1_mrna"; gene_id "gene-NEMBOFW57_007400";
+JAHCVI010000003.1	Genbank	CDS	3148529	3148695	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007400-T1_mrna"; gene_id "gene-NEMBOFW57_007400";
+JAHCVI010000003.1	Genbank	CDS	3148761	3148910	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007400-T1_mrna"; gene_id "gene-NEMBOFW57_007400";
+JAHCVI010000003.1	Genbank	CDS	3148975	3149166	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007400-T1_mrna"; gene_id "gene-NEMBOFW57_007400";
+JAHCVI010000003.1	Genbank	CDS	3149303	3149446	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007400-T1_mrna"; gene_id "gene-NEMBOFW57_007400";
+JAHCVI010000003.1	Genbank	CDS	3149549	3149658	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007400-T1_mrna"; gene_id "gene-NEMBOFW57_007400";
+JAHCVI010000003.1	Genbank	CDS	3149688	3150331	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007400-T1_mrna"; gene_id "gene-NEMBOFW57_007400";
+JAHCVI010000003.1	Genbank	transcript	3440865	3441946	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007490-T1_mrna"; gene_id "gene-NEMBOFW57_007490"; gene_name "LIA1"
+JAHCVI010000003.1	Genbank	exon	3440865	3441378	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007490-T1_mrna"; gene_id "gene-NEMBOFW57_007490"; gene_name "LIA1";
+JAHCVI010000003.1	Genbank	exon	3441447	3441946	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007490-T1_mrna"; gene_id "gene-NEMBOFW57_007490"; gene_name "LIA1";
+JAHCVI010000003.1	Genbank	CDS	3440865	3441378	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007490-T1_mrna"; gene_id "gene-NEMBOFW57_007490"; gene_name "LIA1";
+JAHCVI010000003.1	Genbank	CDS	3441447	3441946	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007490-T1_mrna"; gene_id "gene-NEMBOFW57_007490"; gene_name "LIA1";
+JAHCVI010000003.1	Genbank	transcript	3458545	3459620	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007497-T1_mrna"; gene_id "gene-NEMBOFW57_007497"
+JAHCVI010000003.1	Genbank	exon	3458545	3458710	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007497-T1_mrna"; gene_id "gene-NEMBOFW57_007497";
+JAHCVI010000003.1	Genbank	exon	3458782	3459620	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007497-T1_mrna"; gene_id "gene-NEMBOFW57_007497";
+JAHCVI010000003.1	Genbank	CDS	3458545	3458710	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007497-T1_mrna"; gene_id "gene-NEMBOFW57_007497";
+JAHCVI010000003.1	Genbank	CDS	3458782	3459620	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007497-T1_mrna"; gene_id "gene-NEMBOFW57_007497";
+JAHCVI010000003.1	Genbank	transcript	3810470	3811922	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007601-T1_mrna"; gene_id "gene-NEMBOFW57_007601"
+JAHCVI010000003.1	Genbank	exon	3810470	3810895	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007601-T1_mrna"; gene_id "gene-NEMBOFW57_007601";
+JAHCVI010000003.1	Genbank	exon	3810951	3811922	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007601-T1_mrna"; gene_id "gene-NEMBOFW57_007601";
+JAHCVI010000003.1	Genbank	CDS	3810470	3810895	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007601-T1_mrna"; gene_id "gene-NEMBOFW57_007601";
+JAHCVI010000003.1	Genbank	CDS	3810951	3811922	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007601-T1_mrna"; gene_id "gene-NEMBOFW57_007601";
+JAHCVI010000003.1	Genbank	transcript	4017002	4019404	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007665-T1_mrna"; gene_id "gene-NEMBOFW57_007665"; gene_name "DBP7"
+JAHCVI010000003.1	Genbank	exon	4017002	4019404	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007665-T1_mrna"; gene_id "gene-NEMBOFW57_007665"; gene_name "DBP7";
+JAHCVI010000003.1	Genbank	CDS	4017002	4019404	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007665-T1_mrna"; gene_id "gene-NEMBOFW57_007665"; gene_name "DBP7";
+JAHCVI010000003.1	Genbank	transcript	4174752	4175516	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007718-T1_mrna"; gene_id "gene-NEMBOFW57_007718"
+JAHCVI010000003.1	Genbank	exon	4174752	4175409	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007718-T1_mrna"; gene_id "gene-NEMBOFW57_007718";
+JAHCVI010000003.1	Genbank	exon	4175503	4175516	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007718-T1_mrna"; gene_id "gene-NEMBOFW57_007718";
+JAHCVI010000003.1	Genbank	CDS	4174752	4175409	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007718-T1_mrna"; gene_id "gene-NEMBOFW57_007718";
+JAHCVI010000003.1	Genbank	CDS	4175503	4175516	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007718-T1_mrna"; gene_id "gene-NEMBOFW57_007718";
+JAHCVI010000003.1	Genbank	transcript	4295233	4296467	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007761-T1_mrna"; gene_id "gene-NEMBOFW57_007761"
+JAHCVI010000003.1	Genbank	exon	4295233	4295794	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007761-T1_mrna"; gene_id "gene-NEMBOFW57_007761";
+JAHCVI010000003.1	Genbank	exon	4295872	4296338	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007761-T1_mrna"; gene_id "gene-NEMBOFW57_007761";
+JAHCVI010000003.1	Genbank	exon	4296414	4296467	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007761-T1_mrna"; gene_id "gene-NEMBOFW57_007761";
+JAHCVI010000003.1	Genbank	CDS	4295233	4295794	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007761-T1_mrna"; gene_id "gene-NEMBOFW57_007761";
+JAHCVI010000003.1	Genbank	CDS	4295872	4296338	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007761-T1_mrna"; gene_id "gene-NEMBOFW57_007761";
+JAHCVI010000003.1	Genbank	CDS	4296414	4296467	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_007761-T1_mrna"; gene_id "gene-NEMBOFW57_007761";
+JAHCVI010000004.1	Genbank	transcript	1499434	1501552	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008397-T1_mrna"; gene_id "gene-NEMBOFW57_008397"; gene_name "ENP2"
+JAHCVI010000004.1	Genbank	exon	1499434	1499465	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008397-T1_mrna"; gene_id "gene-NEMBOFW57_008397"; gene_name "ENP2";
+JAHCVI010000004.1	Genbank	exon	1499528	1499691	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008397-T1_mrna"; gene_id "gene-NEMBOFW57_008397"; gene_name "ENP2";
+JAHCVI010000004.1	Genbank	exon	1499739	1499812	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008397-T1_mrna"; gene_id "gene-NEMBOFW57_008397"; gene_name "ENP2";
+JAHCVI010000004.1	Genbank	exon	1499860	1500621	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008397-T1_mrna"; gene_id "gene-NEMBOFW57_008397"; gene_name "ENP2";
+JAHCVI010000004.1	Genbank	exon	1500683	1501552	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008397-T1_mrna"; gene_id "gene-NEMBOFW57_008397"; gene_name "ENP2";
+JAHCVI010000004.1	Genbank	CDS	1499434	1499465	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008397-T1_mrna"; gene_id "gene-NEMBOFW57_008397"; gene_name "ENP2";
+JAHCVI010000004.1	Genbank	CDS	1499528	1499691	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008397-T1_mrna"; gene_id "gene-NEMBOFW57_008397"; gene_name "ENP2";
+JAHCVI010000004.1	Genbank	CDS	1499739	1499812	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008397-T1_mrna"; gene_id "gene-NEMBOFW57_008397"; gene_name "ENP2";
+JAHCVI010000004.1	Genbank	CDS	1499860	1500621	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008397-T1_mrna"; gene_id "gene-NEMBOFW57_008397"; gene_name "ENP2";
+JAHCVI010000004.1	Genbank	CDS	1500683	1501552	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008397-T1_mrna"; gene_id "gene-NEMBOFW57_008397"; gene_name "ENP2";
+JAHCVI010000004.1	Genbank	transcript	1712705	1714472	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008473-T1_mrna"; gene_id "gene-NEMBOFW57_008473"
+JAHCVI010000004.1	Genbank	exon	1712705	1712990	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008473-T1_mrna"; gene_id "gene-NEMBOFW57_008473";
+JAHCVI010000004.1	Genbank	exon	1713113	1713472	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008473-T1_mrna"; gene_id "gene-NEMBOFW57_008473";
+JAHCVI010000004.1	Genbank	exon	1713934	1714472	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008473-T1_mrna"; gene_id "gene-NEMBOFW57_008473";
+JAHCVI010000004.1	Genbank	CDS	1712705	1712990	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008473-T1_mrna"; gene_id "gene-NEMBOFW57_008473";
+JAHCVI010000004.1	Genbank	CDS	1713113	1713472	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008473-T1_mrna"; gene_id "gene-NEMBOFW57_008473";
+JAHCVI010000004.1	Genbank	CDS	1713934	1714472	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008473-T1_mrna"; gene_id "gene-NEMBOFW57_008473";
+JAHCVI010000004.1	Genbank	transcript	1895312	1898783	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008526-T1_mrna"; gene_id "gene-NEMBOFW57_008526"; gene_name "HIR1"
+JAHCVI010000004.1	Genbank	exon	1895312	1895469	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008526-T1_mrna"; gene_id "gene-NEMBOFW57_008526"; gene_name "HIR1";
+JAHCVI010000004.1	Genbank	exon	1895890	1896017	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008526-T1_mrna"; gene_id "gene-NEMBOFW57_008526"; gene_name "HIR1";
+JAHCVI010000004.1	Genbank	exon	1896115	1896149	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008526-T1_mrna"; gene_id "gene-NEMBOFW57_008526"; gene_name "HIR1";
+JAHCVI010000004.1	Genbank	exon	1896199	1897671	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008526-T1_mrna"; gene_id "gene-NEMBOFW57_008526"; gene_name "HIR1";
+JAHCVI010000004.1	Genbank	exon	1897733	1898290	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008526-T1_mrna"; gene_id "gene-NEMBOFW57_008526"; gene_name "HIR1";
+JAHCVI010000004.1	Genbank	exon	1898412	1898524	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008526-T1_mrna"; gene_id "gene-NEMBOFW57_008526"; gene_name "HIR1";
+JAHCVI010000004.1	Genbank	exon	1898583	1898657	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008526-T1_mrna"; gene_id "gene-NEMBOFW57_008526"; gene_name "HIR1";
+JAHCVI010000004.1	Genbank	exon	1898747	1898783	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008526-T1_mrna"; gene_id "gene-NEMBOFW57_008526"; gene_name "HIR1";
+JAHCVI010000004.1	Genbank	CDS	1895312	1895469	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008526-T1_mrna"; gene_id "gene-NEMBOFW57_008526"; gene_name "HIR1";
+JAHCVI010000004.1	Genbank	CDS	1895890	1896017	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008526-T1_mrna"; gene_id "gene-NEMBOFW57_008526"; gene_name "HIR1";
+JAHCVI010000004.1	Genbank	CDS	1896115	1896149	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008526-T1_mrna"; gene_id "gene-NEMBOFW57_008526"; gene_name "HIR1";
+JAHCVI010000004.1	Genbank	CDS	1896199	1897671	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008526-T1_mrna"; gene_id "gene-NEMBOFW57_008526"; gene_name "HIR1";
+JAHCVI010000004.1	Genbank	CDS	1897733	1898290	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008526-T1_mrna"; gene_id "gene-NEMBOFW57_008526"; gene_name "HIR1";
+JAHCVI010000004.1	Genbank	CDS	1898412	1898524	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008526-T1_mrna"; gene_id "gene-NEMBOFW57_008526"; gene_name "HIR1";
+JAHCVI010000004.1	Genbank	CDS	1898583	1898657	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008526-T1_mrna"; gene_id "gene-NEMBOFW57_008526"; gene_name "HIR1";
+JAHCVI010000004.1	Genbank	CDS	1898747	1898783	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008526-T1_mrna"; gene_id "gene-NEMBOFW57_008526"; gene_name "HIR1";
+JAHCVI010000004.1	Genbank	transcript	2298656	2300542	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008635-T1_mrna"; gene_id "gene-NEMBOFW57_008635"; gene_name "CRC1"
+JAHCVI010000004.1	Genbank	exon	2298656	2300542	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008635-T1_mrna"; gene_id "gene-NEMBOFW57_008635"; gene_name "CRC1";
+JAHCVI010000004.1	Genbank	CDS	2298656	2300542	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008635-T1_mrna"; gene_id "gene-NEMBOFW57_008635"; gene_name "CRC1";
+JAHCVI010000004.1	Genbank	transcript	2321888	2322976	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008643-T1_mrna"; gene_id "gene-NEMBOFW57_008643"
+JAHCVI010000004.1	Genbank	exon	2321888	2322976	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008643-T1_mrna"; gene_id "gene-NEMBOFW57_008643";
+JAHCVI010000004.1	Genbank	CDS	2321888	2322976	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008643-T1_mrna"; gene_id "gene-NEMBOFW57_008643";
+JAHCVI010000004.1	Genbank	transcript	2356105	2358306	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008655-T1_mrna"; gene_id "gene-NEMBOFW57_008655"
+JAHCVI010000004.1	Genbank	exon	2356105	2358306	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008655-T1_mrna"; gene_id "gene-NEMBOFW57_008655";
+JAHCVI010000004.1	Genbank	CDS	2356105	2358306	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008655-T1_mrna"; gene_id "gene-NEMBOFW57_008655";
+JAHCVI010000004.1	Genbank	transcript	3066392	3067947	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008873-T1_mrna"; gene_id "gene-NEMBOFW57_008873"
+JAHCVI010000004.1	Genbank	exon	3066392	3067523	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008873-T1_mrna"; gene_id "gene-NEMBOFW57_008873";
+JAHCVI010000004.1	Genbank	exon	3067580	3067947	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008873-T1_mrna"; gene_id "gene-NEMBOFW57_008873";
+JAHCVI010000004.1	Genbank	CDS	3066392	3067523	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008873-T1_mrna"; gene_id "gene-NEMBOFW57_008873";
+JAHCVI010000004.1	Genbank	CDS	3067580	3067947	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008873-T1_mrna"; gene_id "gene-NEMBOFW57_008873";
+JAHCVI010000004.1	Genbank	transcript	3277127	3279161	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008938-T1_mrna"; gene_id "gene-NEMBOFW57_008938"
+JAHCVI010000004.1	Genbank	exon	3277127	3277226	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008938-T1_mrna"; gene_id "gene-NEMBOFW57_008938";
+JAHCVI010000004.1	Genbank	exon	3277339	3279161	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008938-T1_mrna"; gene_id "gene-NEMBOFW57_008938";
+JAHCVI010000004.1	Genbank	CDS	3277127	3277226	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008938-T1_mrna"; gene_id "gene-NEMBOFW57_008938";
+JAHCVI010000004.1	Genbank	CDS	3277339	3279161	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_008938-T1_mrna"; gene_id "gene-NEMBOFW57_008938";
+JAHCVI010000004.1	Genbank	transcript	3528094	3530015	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009012-T1_mrna"; gene_id "gene-NEMBOFW57_009012"
+JAHCVI010000004.1	Genbank	exon	3528094	3529838	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009012-T1_mrna"; gene_id "gene-NEMBOFW57_009012";
+JAHCVI010000004.1	Genbank	exon	3529891	3529939	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009012-T1_mrna"; gene_id "gene-NEMBOFW57_009012";
+JAHCVI010000004.1	Genbank	exon	3529989	3530015	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009012-T1_mrna"; gene_id "gene-NEMBOFW57_009012";
+JAHCVI010000004.1	Genbank	CDS	3528094	3529838	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009012-T1_mrna"; gene_id "gene-NEMBOFW57_009012";
+JAHCVI010000004.1	Genbank	CDS	3529891	3529939	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009012-T1_mrna"; gene_id "gene-NEMBOFW57_009012";
+JAHCVI010000004.1	Genbank	CDS	3529989	3530015	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009012-T1_mrna"; gene_id "gene-NEMBOFW57_009012";
+JAHCVI010000005.1	Genbank	transcript	187276	189205	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009260-T1_mrna"; gene_id "gene-NEMBOFW57_009260"
+JAHCVI010000005.1	Genbank	exon	187276	187361	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009260-T1_mrna"; gene_id "gene-NEMBOFW57_009260";
+JAHCVI010000005.1	Genbank	exon	187429	189205	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009260-T1_mrna"; gene_id "gene-NEMBOFW57_009260";
+JAHCVI010000005.1	Genbank	CDS	187276	187361	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009260-T1_mrna"; gene_id "gene-NEMBOFW57_009260";
+JAHCVI010000005.1	Genbank	CDS	187429	189205	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009260-T1_mrna"; gene_id "gene-NEMBOFW57_009260";
+JAHCVI010000005.1	Genbank	transcript	1747048	1748982	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009693-T1_mrna"; gene_id "gene-NEMBOFW57_009693"
+JAHCVI010000005.1	Genbank	exon	1747048	1748982	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009693-T1_mrna"; gene_id "gene-NEMBOFW57_009693";
+JAHCVI010000005.1	Genbank	CDS	1747048	1748982	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009693-T1_mrna"; gene_id "gene-NEMBOFW57_009693";
+JAHCVI010000005.1	Genbank	transcript	1928203	1931205	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009754-T1_mrna"; gene_id "gene-NEMBOFW57_009754"
+JAHCVI010000005.1	Genbank	exon	1928203	1928320	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009754-T1_mrna"; gene_id "gene-NEMBOFW57_009754";
+JAHCVI010000005.1	Genbank	exon	1928387	1928590	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009754-T1_mrna"; gene_id "gene-NEMBOFW57_009754";
+JAHCVI010000005.1	Genbank	exon	1928648	1928730	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009754-T1_mrna"; gene_id "gene-NEMBOFW57_009754";
+JAHCVI010000005.1	Genbank	exon	1928787	1928966	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009754-T1_mrna"; gene_id "gene-NEMBOFW57_009754";
+JAHCVI010000005.1	Genbank	exon	1929022	1929114	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009754-T1_mrna"; gene_id "gene-NEMBOFW57_009754";
+JAHCVI010000005.1	Genbank	exon	1929175	1929331	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009754-T1_mrna"; gene_id "gene-NEMBOFW57_009754";
+JAHCVI010000005.1	Genbank	exon	1929394	1929638	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009754-T1_mrna"; gene_id "gene-NEMBOFW57_009754";
+JAHCVI010000005.1	Genbank	exon	1929700	1931205	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009754-T1_mrna"; gene_id "gene-NEMBOFW57_009754";
+JAHCVI010000005.1	Genbank	CDS	1928203	1928320	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009754-T1_mrna"; gene_id "gene-NEMBOFW57_009754";
+JAHCVI010000005.1	Genbank	CDS	1928387	1928590	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009754-T1_mrna"; gene_id "gene-NEMBOFW57_009754";
+JAHCVI010000005.1	Genbank	CDS	1928648	1928730	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009754-T1_mrna"; gene_id "gene-NEMBOFW57_009754";
+JAHCVI010000005.1	Genbank	CDS	1928787	1928966	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009754-T1_mrna"; gene_id "gene-NEMBOFW57_009754";
+JAHCVI010000005.1	Genbank	CDS	1929022	1929114	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009754-T1_mrna"; gene_id "gene-NEMBOFW57_009754";
+JAHCVI010000005.1	Genbank	CDS	1929175	1929331	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009754-T1_mrna"; gene_id "gene-NEMBOFW57_009754";
+JAHCVI010000005.1	Genbank	CDS	1929394	1929638	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009754-T1_mrna"; gene_id "gene-NEMBOFW57_009754";
+JAHCVI010000005.1	Genbank	CDS	1929700	1931205	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009754-T1_mrna"; gene_id "gene-NEMBOFW57_009754";
+JAHCVI010000005.1	Genbank	transcript	2025304	2026689	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009784-T1_mrna"; gene_id "gene-NEMBOFW57_009784"; gene_name "DPH1"
+JAHCVI010000005.1	Genbank	exon	2025304	2026454	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009784-T1_mrna"; gene_id "gene-NEMBOFW57_009784"; gene_name "DPH1";
+JAHCVI010000005.1	Genbank	exon	2026512	2026689	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009784-T1_mrna"; gene_id "gene-NEMBOFW57_009784"; gene_name "DPH1";
+JAHCVI010000005.1	Genbank	CDS	2025304	2026454	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009784-T1_mrna"; gene_id "gene-NEMBOFW57_009784"; gene_name "DPH1";
+JAHCVI010000005.1	Genbank	CDS	2026512	2026689	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009784-T1_mrna"; gene_id "gene-NEMBOFW57_009784"; gene_name "DPH1";
+JAHCVI010000005.1	Genbank	transcript	2210650	2211801	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009833-T1_mrna"; gene_id "gene-NEMBOFW57_009833"
+JAHCVI010000005.1	Genbank	exon	2210650	2211272	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009833-T1_mrna"; gene_id "gene-NEMBOFW57_009833";
+JAHCVI010000005.1	Genbank	exon	2211336	2211801	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009833-T1_mrna"; gene_id "gene-NEMBOFW57_009833";
+JAHCVI010000005.1	Genbank	CDS	2210650	2211272	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009833-T1_mrna"; gene_id "gene-NEMBOFW57_009833";
+JAHCVI010000005.1	Genbank	CDS	2211336	2211801	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009833-T1_mrna"; gene_id "gene-NEMBOFW57_009833";
+JAHCVI010000005.1	Genbank	transcript	2245083	2246281	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009847-T1_mrna"; gene_id "gene-NEMBOFW57_009847"
+JAHCVI010000005.1	Genbank	exon	2245083	2245577	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009847-T1_mrna"; gene_id "gene-NEMBOFW57_009847";
+JAHCVI010000005.1	Genbank	exon	2245649	2246281	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009847-T1_mrna"; gene_id "gene-NEMBOFW57_009847";
+JAHCVI010000005.1	Genbank	CDS	2245083	2245577	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009847-T1_mrna"; gene_id "gene-NEMBOFW57_009847";
+JAHCVI010000005.1	Genbank	CDS	2245649	2246281	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009847-T1_mrna"; gene_id "gene-NEMBOFW57_009847";
+JAHCVI010000005.1	Genbank	transcript	2311138	2312743	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009862-T1_mrna"; gene_id "gene-NEMBOFW57_009862"
+JAHCVI010000005.1	Genbank	exon	2311138	2311745	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009862-T1_mrna"; gene_id "gene-NEMBOFW57_009862";
+JAHCVI010000005.1	Genbank	exon	2311816	2312743	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009862-T1_mrna"; gene_id "gene-NEMBOFW57_009862";
+JAHCVI010000005.1	Genbank	CDS	2311138	2311745	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009862-T1_mrna"; gene_id "gene-NEMBOFW57_009862";
+JAHCVI010000005.1	Genbank	CDS	2311816	2312743	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_009862-T1_mrna"; gene_id "gene-NEMBOFW57_009862";
+JAHCVI010000005.1	Genbank	transcript	3367613	3370711	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010199-T1_mrna"; gene_id "gene-NEMBOFW57_010199"
+JAHCVI010000005.1	Genbank	exon	3367613	3367643	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010199-T1_mrna"; gene_id "gene-NEMBOFW57_010199";
+JAHCVI010000005.1	Genbank	exon	3367914	3367981	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010199-T1_mrna"; gene_id "gene-NEMBOFW57_010199";
+JAHCVI010000005.1	Genbank	exon	3368037	3368165	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010199-T1_mrna"; gene_id "gene-NEMBOFW57_010199";
+JAHCVI010000005.1	Genbank	exon	3368218	3368448	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010199-T1_mrna"; gene_id "gene-NEMBOFW57_010199";
+JAHCVI010000005.1	Genbank	exon	3368502	3368963	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010199-T1_mrna"; gene_id "gene-NEMBOFW57_010199";
+JAHCVI010000005.1	Genbank	exon	3369025	3370052	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010199-T1_mrna"; gene_id "gene-NEMBOFW57_010199";
+JAHCVI010000005.1	Genbank	exon	3370705	3370711	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010199-T1_mrna"; gene_id "gene-NEMBOFW57_010199";
+JAHCVI010000005.1	Genbank	CDS	3367613	3367643	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010199-T1_mrna"; gene_id "gene-NEMBOFW57_010199";
+JAHCVI010000005.1	Genbank	CDS	3367914	3367981	.	+	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010199-T1_mrna"; gene_id "gene-NEMBOFW57_010199";
+JAHCVI010000005.1	Genbank	CDS	3368037	3368165	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010199-T1_mrna"; gene_id "gene-NEMBOFW57_010199";
+JAHCVI010000005.1	Genbank	CDS	3368218	3368448	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010199-T1_mrna"; gene_id "gene-NEMBOFW57_010199";
+JAHCVI010000005.1	Genbank	CDS	3368502	3368963	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010199-T1_mrna"; gene_id "gene-NEMBOFW57_010199";
+JAHCVI010000005.1	Genbank	CDS	3369025	3370052	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010199-T1_mrna"; gene_id "gene-NEMBOFW57_010199";
+JAHCVI010000005.1	Genbank	CDS	3370705	3370711	.	+	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010199-T1_mrna"; gene_id "gene-NEMBOFW57_010199";
+JAHCVI010000005.1	Genbank	transcript	3502311	3503160	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010242-T1_mrna"; gene_id "gene-NEMBOFW57_010242"
+JAHCVI010000005.1	Genbank	exon	3502311	3502836	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010242-T1_mrna"; gene_id "gene-NEMBOFW57_010242";
+JAHCVI010000005.1	Genbank	exon	3502895	3503160	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010242-T1_mrna"; gene_id "gene-NEMBOFW57_010242";
+JAHCVI010000005.1	Genbank	CDS	3502311	3502836	.	-	1	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010242-T1_mrna"; gene_id "gene-NEMBOFW57_010242";
+JAHCVI010000005.1	Genbank	CDS	3502895	3503160	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010242-T1_mrna"; gene_id "gene-NEMBOFW57_010242";
+JAHCVI010000006.1	Genbank	transcript	601170	601938	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010469-T1_mrna"; gene_id "gene-NEMBOFW57_010469"; gene_name "GAR1_2"
+JAHCVI010000006.1	Genbank	exon	601170	601586	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010469-T1_mrna"; gene_id "gene-NEMBOFW57_010469"; gene_name "GAR1_2";
+JAHCVI010000006.1	Genbank	exon	601655	601806	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010469-T1_mrna"; gene_id "gene-NEMBOFW57_010469"; gene_name "GAR1_2";
+JAHCVI010000006.1	Genbank	exon	601872	601938	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010469-T1_mrna"; gene_id "gene-NEMBOFW57_010469"; gene_name "GAR1_2";
+JAHCVI010000006.1	Genbank	CDS	601170	601586	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010469-T1_mrna"; gene_id "gene-NEMBOFW57_010469"; gene_name "GAR1_2";
+JAHCVI010000006.1	Genbank	CDS	601655	601806	.	-	2	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010469-T1_mrna"; gene_id "gene-NEMBOFW57_010469"; gene_name "GAR1_2";
+JAHCVI010000006.1	Genbank	CDS	601872	601938	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010469-T1_mrna"; gene_id "gene-NEMBOFW57_010469"; gene_name "GAR1_2";
+JAHCVI010000006.1	Genbank	transcript	611600	613758	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010473-T1_mrna"; gene_id "gene-NEMBOFW57_010473"; gene_name "COG6"
+JAHCVI010000006.1	Genbank	exon	611600	611869	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010473-T1_mrna"; gene_id "gene-NEMBOFW57_010473"; gene_name "COG6";
+JAHCVI010000006.1	Genbank	exon	611956	613758	.	+	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010473-T1_mrna"; gene_id "gene-NEMBOFW57_010473"; gene_name "COG6";
+JAHCVI010000006.1	Genbank	CDS	611600	611869	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010473-T1_mrna"; gene_id "gene-NEMBOFW57_010473"; gene_name "COG6";
+JAHCVI010000006.1	Genbank	CDS	611956	613758	.	+	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010473-T1_mrna"; gene_id "gene-NEMBOFW57_010473"; gene_name "COG6";
+JAHCVI010000006.1	Genbank	transcript	1918987	1920374	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010871-T1_mrna"; gene_id "gene-NEMBOFW57_010871"
+JAHCVI010000006.1	Genbank	exon	1918987	1920096	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010871-T1_mrna"; gene_id "gene-NEMBOFW57_010871";
+JAHCVI010000006.1	Genbank	exon	1920240	1920374	.	-	.	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010871-T1_mrna"; gene_id "gene-NEMBOFW57_010871";
+JAHCVI010000006.1	Genbank	CDS	1918987	1920096	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010871-T1_mrna"; gene_id "gene-NEMBOFW57_010871";
+JAHCVI010000006.1	Genbank	CDS	1920240	1920374	.	-	0	transcript_id "rna-gnl|WGS:JAHCVI|NEMBOFW57_010871-T1_mrna"; gene_id "gene-NEMBOFW57_010871";
