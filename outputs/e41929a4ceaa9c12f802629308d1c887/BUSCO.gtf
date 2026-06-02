@@ -1,0 +1,731 @@
+SRPZ01000001.1	Genbank	transcript	280957	283567	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000086-T1_mrna"; gene_id "gene-E4U21_000086"
+SRPZ01000001.1	Genbank	exon	280957	281067	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000086-T1_mrna"; gene_id "gene-E4U21_000086";
+SRPZ01000001.1	Genbank	exon	281148	281464	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000086-T1_mrna"; gene_id "gene-E4U21_000086";
+SRPZ01000001.1	Genbank	exon	281525	281864	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000086-T1_mrna"; gene_id "gene-E4U21_000086";
+SRPZ01000001.1	Genbank	exon	281957	282898	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000086-T1_mrna"; gene_id "gene-E4U21_000086";
+SRPZ01000001.1	Genbank	exon	282983	283567	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000086-T1_mrna"; gene_id "gene-E4U21_000086";
+SRPZ01000001.1	Genbank	CDS	280957	281067	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000086-T1_mrna"; gene_id "gene-E4U21_000086";
+SRPZ01000001.1	Genbank	CDS	281148	281464	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000086-T1_mrna"; gene_id "gene-E4U21_000086";
+SRPZ01000001.1	Genbank	CDS	281525	281864	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000086-T1_mrna"; gene_id "gene-E4U21_000086";
+SRPZ01000001.1	Genbank	CDS	281957	282898	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000086-T1_mrna"; gene_id "gene-E4U21_000086";
+SRPZ01000001.1	Genbank	CDS	282983	283567	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000086-T1_mrna"; gene_id "gene-E4U21_000086";
+SRPZ01000010.1	Genbank	transcript	73012	74042	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000132-T1_mrna"; gene_id "gene-E4U21_000132"; gene_name "LIA1"
+SRPZ01000010.1	Genbank	exon	73012	73469	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000132-T1_mrna"; gene_id "gene-E4U21_000132"; gene_name "LIA1";
+SRPZ01000010.1	Genbank	exon	73532	74042	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000132-T1_mrna"; gene_id "gene-E4U21_000132"; gene_name "LIA1";
+SRPZ01000010.1	Genbank	CDS	73012	73469	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000132-T1_mrna"; gene_id "gene-E4U21_000132"; gene_name "LIA1";
+SRPZ01000010.1	Genbank	CDS	73532	74042	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000132-T1_mrna"; gene_id "gene-E4U21_000132"; gene_name "LIA1";
+SRPZ01000010.1	Genbank	transcript	131407	132322	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000148-T1_mrna"; gene_id "gene-E4U21_000148"
+SRPZ01000010.1	Genbank	exon	131407	131604	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000148-T1_mrna"; gene_id "gene-E4U21_000148";
+SRPZ01000010.1	Genbank	exon	131783	132322	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000148-T1_mrna"; gene_id "gene-E4U21_000148";
+SRPZ01000010.1	Genbank	CDS	131407	131604	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000148-T1_mrna"; gene_id "gene-E4U21_000148";
+SRPZ01000010.1	Genbank	CDS	131783	132322	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000148-T1_mrna"; gene_id "gene-E4U21_000148";
+SRPZ01000102.1	Genbank	transcript	65427	68190	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000248-T1_mrna"; gene_id "gene-E4U21_000248"
+SRPZ01000102.1	Genbank	exon	65427	66674	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000248-T1_mrna"; gene_id "gene-E4U21_000248";
+SRPZ01000102.1	Genbank	exon	66768	67232	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000248-T1_mrna"; gene_id "gene-E4U21_000248";
+SRPZ01000102.1	Genbank	exon	67317	67550	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000248-T1_mrna"; gene_id "gene-E4U21_000248";
+SRPZ01000102.1	Genbank	exon	67635	67763	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000248-T1_mrna"; gene_id "gene-E4U21_000248";
+SRPZ01000102.1	Genbank	exon	67824	67891	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000248-T1_mrna"; gene_id "gene-E4U21_000248";
+SRPZ01000102.1	Genbank	exon	67968	68090	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000248-T1_mrna"; gene_id "gene-E4U21_000248";
+SRPZ01000102.1	Genbank	exon	68160	68190	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000248-T1_mrna"; gene_id "gene-E4U21_000248";
+SRPZ01000102.1	Genbank	CDS	65427	66674	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000248-T1_mrna"; gene_id "gene-E4U21_000248";
+SRPZ01000102.1	Genbank	CDS	66768	67232	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000248-T1_mrna"; gene_id "gene-E4U21_000248";
+SRPZ01000102.1	Genbank	CDS	67317	67550	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000248-T1_mrna"; gene_id "gene-E4U21_000248";
+SRPZ01000102.1	Genbank	CDS	67635	67763	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000248-T1_mrna"; gene_id "gene-E4U21_000248";
+SRPZ01000102.1	Genbank	CDS	67824	67891	.	-	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000248-T1_mrna"; gene_id "gene-E4U21_000248";
+SRPZ01000102.1	Genbank	CDS	67968	68090	.	-	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000248-T1_mrna"; gene_id "gene-E4U21_000248";
+SRPZ01000102.1	Genbank	CDS	68160	68190	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000248-T1_mrna"; gene_id "gene-E4U21_000248";
+SRPZ01000108.1	Genbank	transcript	17638	19271	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000385-T1_mrna"; gene_id "gene-E4U21_000385"
+SRPZ01000108.1	Genbank	exon	17638	17740	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000385-T1_mrna"; gene_id "gene-E4U21_000385";
+SRPZ01000108.1	Genbank	exon	17886	17983	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000385-T1_mrna"; gene_id "gene-E4U21_000385";
+SRPZ01000108.1	Genbank	exon	18097	18807	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000385-T1_mrna"; gene_id "gene-E4U21_000385";
+SRPZ01000108.1	Genbank	exon	19131	19271	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000385-T1_mrna"; gene_id "gene-E4U21_000385";
+SRPZ01000108.1	Genbank	CDS	17638	17740	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000385-T1_mrna"; gene_id "gene-E4U21_000385";
+SRPZ01000108.1	Genbank	CDS	17886	17983	.	+	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000385-T1_mrna"; gene_id "gene-E4U21_000385";
+SRPZ01000108.1	Genbank	CDS	18097	18807	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000385-T1_mrna"; gene_id "gene-E4U21_000385";
+SRPZ01000108.1	Genbank	CDS	19131	19271	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000385-T1_mrna"; gene_id "gene-E4U21_000385";
+SRPZ01000108.1	Genbank	transcript	51273	52733	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000394-T1_mrna"; gene_id "gene-E4U21_000394"
+SRPZ01000108.1	Genbank	exon	51273	51376	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000394-T1_mrna"; gene_id "gene-E4U21_000394";
+SRPZ01000108.1	Genbank	exon	51440	51530	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000394-T1_mrna"; gene_id "gene-E4U21_000394";
+SRPZ01000108.1	Genbank	exon	51607	51771	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000394-T1_mrna"; gene_id "gene-E4U21_000394";
+SRPZ01000108.1	Genbank	exon	51840	52733	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000394-T1_mrna"; gene_id "gene-E4U21_000394";
+SRPZ01000108.1	Genbank	CDS	51273	51376	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000394-T1_mrna"; gene_id "gene-E4U21_000394";
+SRPZ01000108.1	Genbank	CDS	51440	51530	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000394-T1_mrna"; gene_id "gene-E4U21_000394";
+SRPZ01000108.1	Genbank	CDS	51607	51771	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000394-T1_mrna"; gene_id "gene-E4U21_000394";
+SRPZ01000108.1	Genbank	CDS	51840	52733	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000394-T1_mrna"; gene_id "gene-E4U21_000394";
+SRPZ01000108.1	Genbank	transcript	63925	65154	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000399-T1_mrna"; gene_id "gene-E4U21_000399"
+SRPZ01000108.1	Genbank	exon	63925	65154	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000399-T1_mrna"; gene_id "gene-E4U21_000399";
+SRPZ01000108.1	Genbank	CDS	63925	65154	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000399-T1_mrna"; gene_id "gene-E4U21_000399";
+SRPZ01000111.1	Genbank	transcript	40737	41894	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000541-T1_mrna"; gene_id "gene-E4U21_000541"
+SRPZ01000111.1	Genbank	exon	40737	41371	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000541-T1_mrna"; gene_id "gene-E4U21_000541";
+SRPZ01000111.1	Genbank	exon	41438	41894	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000541-T1_mrna"; gene_id "gene-E4U21_000541";
+SRPZ01000111.1	Genbank	CDS	40737	41371	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000541-T1_mrna"; gene_id "gene-E4U21_000541";
+SRPZ01000111.1	Genbank	CDS	41438	41894	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000541-T1_mrna"; gene_id "gene-E4U21_000541";
+SRPZ01000111.1	Genbank	transcript	82000	83987	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000554-T1_mrna"; gene_id "gene-E4U21_000554"
+SRPZ01000111.1	Genbank	exon	82000	82459	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000554-T1_mrna"; gene_id "gene-E4U21_000554";
+SRPZ01000111.1	Genbank	exon	82873	83314	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000554-T1_mrna"; gene_id "gene-E4U21_000554";
+SRPZ01000111.1	Genbank	exon	83447	83987	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000554-T1_mrna"; gene_id "gene-E4U21_000554";
+SRPZ01000111.1	Genbank	CDS	82000	82459	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000554-T1_mrna"; gene_id "gene-E4U21_000554";
+SRPZ01000111.1	Genbank	CDS	82873	83314	.	+	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000554-T1_mrna"; gene_id "gene-E4U21_000554";
+SRPZ01000111.1	Genbank	CDS	83447	83987	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000554-T1_mrna"; gene_id "gene-E4U21_000554";
+SRPZ01000114.1	Genbank	transcript	48610	52082	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000568-T1_mrna"; gene_id "gene-E4U21_000568"
+SRPZ01000114.1	Genbank	exon	48610	49995	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000568-T1_mrna"; gene_id "gene-E4U21_000568";
+SRPZ01000114.1	Genbank	exon	50129	50464	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000568-T1_mrna"; gene_id "gene-E4U21_000568";
+SRPZ01000114.1	Genbank	exon	50583	50816	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000568-T1_mrna"; gene_id "gene-E4U21_000568";
+SRPZ01000114.1	Genbank	exon	50953	51975	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000568-T1_mrna"; gene_id "gene-E4U21_000568";
+SRPZ01000114.1	Genbank	exon	52071	52082	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000568-T1_mrna"; gene_id "gene-E4U21_000568";
+SRPZ01000114.1	Genbank	CDS	48610	49995	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000568-T1_mrna"; gene_id "gene-E4U21_000568";
+SRPZ01000114.1	Genbank	CDS	50129	50464	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000568-T1_mrna"; gene_id "gene-E4U21_000568";
+SRPZ01000114.1	Genbank	CDS	50583	50816	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000568-T1_mrna"; gene_id "gene-E4U21_000568";
+SRPZ01000114.1	Genbank	CDS	50953	51975	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000568-T1_mrna"; gene_id "gene-E4U21_000568";
+SRPZ01000114.1	Genbank	CDS	52071	52082	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000568-T1_mrna"; gene_id "gene-E4U21_000568";
+SRPZ01000117.1	Genbank	transcript	41703	43466	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000629-T1_mrna"; gene_id "gene-E4U21_000629"
+SRPZ01000117.1	Genbank	exon	41703	42157	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000629-T1_mrna"; gene_id "gene-E4U21_000629";
+SRPZ01000117.1	Genbank	exon	42226	42344	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000629-T1_mrna"; gene_id "gene-E4U21_000629";
+SRPZ01000117.1	Genbank	exon	42501	42586	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000629-T1_mrna"; gene_id "gene-E4U21_000629";
+SRPZ01000117.1	Genbank	exon	42714	42794	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000629-T1_mrna"; gene_id "gene-E4U21_000629";
+SRPZ01000117.1	Genbank	exon	42990	43466	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000629-T1_mrna"; gene_id "gene-E4U21_000629";
+SRPZ01000117.1	Genbank	CDS	41703	42157	.	-	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000629-T1_mrna"; gene_id "gene-E4U21_000629";
+SRPZ01000117.1	Genbank	CDS	42226	42344	.	-	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000629-T1_mrna"; gene_id "gene-E4U21_000629";
+SRPZ01000117.1	Genbank	CDS	42501	42586	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000629-T1_mrna"; gene_id "gene-E4U21_000629";
+SRPZ01000117.1	Genbank	CDS	42714	42794	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000629-T1_mrna"; gene_id "gene-E4U21_000629";
+SRPZ01000117.1	Genbank	CDS	42990	43466	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000629-T1_mrna"; gene_id "gene-E4U21_000629";
+SRPZ01000117.1	Genbank	transcript	57854	58481	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000634-T1_mrna"; gene_id "gene-E4U21_000634"
+SRPZ01000117.1	Genbank	exon	57854	58022	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000634-T1_mrna"; gene_id "gene-E4U21_000634";
+SRPZ01000117.1	Genbank	exon	58078	58481	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000634-T1_mrna"; gene_id "gene-E4U21_000634";
+SRPZ01000117.1	Genbank	CDS	57854	58022	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000634-T1_mrna"; gene_id "gene-E4U21_000634";
+SRPZ01000117.1	Genbank	CDS	58078	58481	.	+	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000634-T1_mrna"; gene_id "gene-E4U21_000634";
+SRPZ01000119.1	Genbank	transcript	15687	17784	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000671-T1_mrna"; gene_id "gene-E4U21_000671"
+SRPZ01000119.1	Genbank	exon	15687	15825	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000671-T1_mrna"; gene_id "gene-E4U21_000671";
+SRPZ01000119.1	Genbank	exon	15980	17784	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000671-T1_mrna"; gene_id "gene-E4U21_000671";
+SRPZ01000119.1	Genbank	CDS	15687	15825	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000671-T1_mrna"; gene_id "gene-E4U21_000671";
+SRPZ01000119.1	Genbank	CDS	15980	17784	.	+	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000671-T1_mrna"; gene_id "gene-E4U21_000671";
+SRPZ01000124.1	Genbank	transcript	9671	10659	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000834-T1_mrna"; gene_id "gene-E4U21_000834"; gene_name "COQ4"
+SRPZ01000124.1	Genbank	exon	9671	9944	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000834-T1_mrna"; gene_id "gene-E4U21_000834"; gene_name "COQ4";
+SRPZ01000124.1	Genbank	exon	10013	10659	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000834-T1_mrna"; gene_id "gene-E4U21_000834"; gene_name "COQ4";
+SRPZ01000124.1	Genbank	CDS	9671	9944	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000834-T1_mrna"; gene_id "gene-E4U21_000834"; gene_name "COQ4";
+SRPZ01000124.1	Genbank	CDS	10013	10659	.	+	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000834-T1_mrna"; gene_id "gene-E4U21_000834"; gene_name "COQ4";
+SRPZ01000129.1	Genbank	transcript	14046	16945	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000935-T1_mrna"; gene_id "gene-E4U21_000935"
+SRPZ01000129.1	Genbank	exon	14046	14063	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000935-T1_mrna"; gene_id "gene-E4U21_000935";
+SRPZ01000129.1	Genbank	exon	14147	14259	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000935-T1_mrna"; gene_id "gene-E4U21_000935";
+SRPZ01000129.1	Genbank	exon	14383	16945	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000935-T1_mrna"; gene_id "gene-E4U21_000935";
+SRPZ01000129.1	Genbank	CDS	14046	14063	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000935-T1_mrna"; gene_id "gene-E4U21_000935";
+SRPZ01000129.1	Genbank	CDS	14147	14259	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000935-T1_mrna"; gene_id "gene-E4U21_000935";
+SRPZ01000129.1	Genbank	CDS	14383	16945	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000935-T1_mrna"; gene_id "gene-E4U21_000935";
+SRPZ01000013.1	Genbank	transcript	19195	21084	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000957-T1_mrna"; gene_id "gene-E4U21_000957"
+SRPZ01000013.1	Genbank	exon	19195	19790	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000957-T1_mrna"; gene_id "gene-E4U21_000957";
+SRPZ01000013.1	Genbank	exon	19945	19994	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000957-T1_mrna"; gene_id "gene-E4U21_000957";
+SRPZ01000013.1	Genbank	exon	20109	20226	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000957-T1_mrna"; gene_id "gene-E4U21_000957";
+SRPZ01000013.1	Genbank	exon	20448	20747	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000957-T1_mrna"; gene_id "gene-E4U21_000957";
+SRPZ01000013.1	Genbank	exon	20829	21084	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000957-T1_mrna"; gene_id "gene-E4U21_000957";
+SRPZ01000013.1	Genbank	CDS	19195	19790	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000957-T1_mrna"; gene_id "gene-E4U21_000957";
+SRPZ01000013.1	Genbank	CDS	19945	19994	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000957-T1_mrna"; gene_id "gene-E4U21_000957";
+SRPZ01000013.1	Genbank	CDS	20109	20226	.	+	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000957-T1_mrna"; gene_id "gene-E4U21_000957";
+SRPZ01000013.1	Genbank	CDS	20448	20747	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000957-T1_mrna"; gene_id "gene-E4U21_000957";
+SRPZ01000013.1	Genbank	CDS	20829	21084	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_000957-T1_mrna"; gene_id "gene-E4U21_000957";
+SRPZ01000130.1	Genbank	transcript	66343	67448	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001026-T1_mrna"; gene_id "gene-E4U21_001026"
+SRPZ01000130.1	Genbank	exon	66343	67090	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001026-T1_mrna"; gene_id "gene-E4U21_001026";
+SRPZ01000130.1	Genbank	exon	67285	67448	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001026-T1_mrna"; gene_id "gene-E4U21_001026";
+SRPZ01000130.1	Genbank	CDS	66343	67090	.	-	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001026-T1_mrna"; gene_id "gene-E4U21_001026";
+SRPZ01000130.1	Genbank	CDS	67285	67448	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001026-T1_mrna"; gene_id "gene-E4U21_001026";
+SRPZ01000130.1	Genbank	transcript	68267	69208	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001027-T1_mrna"; gene_id "gene-E4U21_001027"; gene_name "CWC15"
+SRPZ01000130.1	Genbank	exon	68267	68299	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001027-T1_mrna"; gene_id "gene-E4U21_001027"; gene_name "CWC15";
+SRPZ01000130.1	Genbank	exon	68397	69044	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001027-T1_mrna"; gene_id "gene-E4U21_001027"; gene_name "CWC15";
+SRPZ01000130.1	Genbank	exon	69155	69208	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001027-T1_mrna"; gene_id "gene-E4U21_001027"; gene_name "CWC15";
+SRPZ01000130.1	Genbank	CDS	68267	68299	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001027-T1_mrna"; gene_id "gene-E4U21_001027"; gene_name "CWC15";
+SRPZ01000130.1	Genbank	CDS	68397	69044	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001027-T1_mrna"; gene_id "gene-E4U21_001027"; gene_name "CWC15";
+SRPZ01000130.1	Genbank	CDS	69155	69208	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001027-T1_mrna"; gene_id "gene-E4U21_001027"; gene_name "CWC15";
+SRPZ01000132.1	Genbank	transcript	44206	45881	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001051-T1_mrna"; gene_id "gene-E4U21_001051"
+SRPZ01000132.1	Genbank	exon	44206	44289	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001051-T1_mrna"; gene_id "gene-E4U21_001051";
+SRPZ01000132.1	Genbank	exon	44369	45406	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001051-T1_mrna"; gene_id "gene-E4U21_001051";
+SRPZ01000132.1	Genbank	exon	45573	45881	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001051-T1_mrna"; gene_id "gene-E4U21_001051";
+SRPZ01000132.1	Genbank	CDS	44206	44289	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001051-T1_mrna"; gene_id "gene-E4U21_001051";
+SRPZ01000132.1	Genbank	CDS	44369	45406	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001051-T1_mrna"; gene_id "gene-E4U21_001051";
+SRPZ01000132.1	Genbank	CDS	45573	45881	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001051-T1_mrna"; gene_id "gene-E4U21_001051";
+SRPZ01000133.1	Genbank	transcript	24354	27176	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001068-T1_mrna"; gene_id "gene-E4U21_001068"
+SRPZ01000133.1	Genbank	exon	24354	24653	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001068-T1_mrna"; gene_id "gene-E4U21_001068";
+SRPZ01000133.1	Genbank	exon	24726	27176	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001068-T1_mrna"; gene_id "gene-E4U21_001068";
+SRPZ01000133.1	Genbank	CDS	24354	24653	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001068-T1_mrna"; gene_id "gene-E4U21_001068";
+SRPZ01000133.1	Genbank	CDS	24726	27176	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001068-T1_mrna"; gene_id "gene-E4U21_001068";
+SRPZ01000137.1	Genbank	transcript	71480	72331	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001166-T1_mrna"; gene_id "gene-E4U21_001166"
+SRPZ01000137.1	Genbank	exon	71480	72331	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001166-T1_mrna"; gene_id "gene-E4U21_001166";
+SRPZ01000137.1	Genbank	CDS	71480	72331	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001166-T1_mrna"; gene_id "gene-E4U21_001166";
+SRPZ01000139.1	Genbank	transcript	59037	59925	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001196-T1_mrna"; gene_id "gene-E4U21_001196"; gene_name "MRT4"
+SRPZ01000139.1	Genbank	exon	59037	59707	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001196-T1_mrna"; gene_id "gene-E4U21_001196"; gene_name "MRT4";
+SRPZ01000139.1	Genbank	exon	59856	59925	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001196-T1_mrna"; gene_id "gene-E4U21_001196"; gene_name "MRT4";
+SRPZ01000139.1	Genbank	CDS	59037	59707	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001196-T1_mrna"; gene_id "gene-E4U21_001196"; gene_name "MRT4";
+SRPZ01000139.1	Genbank	CDS	59856	59925	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001196-T1_mrna"; gene_id "gene-E4U21_001196"; gene_name "MRT4";
+SRPZ01000139.1	Genbank	transcript	63007	63652	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001198-T1_mrna"; gene_id "gene-E4U21_001198"
+SRPZ01000139.1	Genbank	exon	63007	63045	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001198-T1_mrna"; gene_id "gene-E4U21_001198";
+SRPZ01000139.1	Genbank	exon	63113	63195	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001198-T1_mrna"; gene_id "gene-E4U21_001198";
+SRPZ01000139.1	Genbank	exon	63361	63652	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001198-T1_mrna"; gene_id "gene-E4U21_001198";
+SRPZ01000139.1	Genbank	CDS	63007	63045	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001198-T1_mrna"; gene_id "gene-E4U21_001198";
+SRPZ01000139.1	Genbank	CDS	63113	63195	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001198-T1_mrna"; gene_id "gene-E4U21_001198";
+SRPZ01000139.1	Genbank	CDS	63361	63652	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001198-T1_mrna"; gene_id "gene-E4U21_001198";
+SRPZ01000014.1	Genbank	transcript	76915	78190	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001225-T1_mrna"; gene_id "gene-E4U21_001225"
+SRPZ01000014.1	Genbank	exon	76915	77382	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001225-T1_mrna"; gene_id "gene-E4U21_001225";
+SRPZ01000014.1	Genbank	exon	77558	78190	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001225-T1_mrna"; gene_id "gene-E4U21_001225";
+SRPZ01000014.1	Genbank	CDS	76915	77382	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001225-T1_mrna"; gene_id "gene-E4U21_001225";
+SRPZ01000014.1	Genbank	CDS	77558	78190	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001225-T1_mrna"; gene_id "gene-E4U21_001225";
+SRPZ01000142.1	Genbank	transcript	58392	61259	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001321-T1_mrna"; gene_id "gene-E4U21_001321"
+SRPZ01000142.1	Genbank	exon	58392	61259	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001321-T1_mrna"; gene_id "gene-E4U21_001321";
+SRPZ01000142.1	Genbank	CDS	58392	61259	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001321-T1_mrna"; gene_id "gene-E4U21_001321";
+SRPZ01000150.1	Genbank	transcript	22474	23805	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001513-T1_mrna"; gene_id "gene-E4U21_001513"
+SRPZ01000150.1	Genbank	exon	22474	23805	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001513-T1_mrna"; gene_id "gene-E4U21_001513";
+SRPZ01000150.1	Genbank	CDS	22474	23805	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001513-T1_mrna"; gene_id "gene-E4U21_001513";
+SRPZ01000156.1	Genbank	transcript	58980	60167	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001631-T1_mrna"; gene_id "gene-E4U21_001631"
+SRPZ01000156.1	Genbank	exon	58980	59210	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001631-T1_mrna"; gene_id "gene-E4U21_001631";
+SRPZ01000156.1	Genbank	exon	59300	59449	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001631-T1_mrna"; gene_id "gene-E4U21_001631";
+SRPZ01000156.1	Genbank	exon	59513	59719	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001631-T1_mrna"; gene_id "gene-E4U21_001631";
+SRPZ01000156.1	Genbank	exon	59790	60167	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001631-T1_mrna"; gene_id "gene-E4U21_001631";
+SRPZ01000156.1	Genbank	CDS	58980	59210	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001631-T1_mrna"; gene_id "gene-E4U21_001631";
+SRPZ01000156.1	Genbank	CDS	59300	59449	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001631-T1_mrna"; gene_id "gene-E4U21_001631";
+SRPZ01000156.1	Genbank	CDS	59513	59719	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001631-T1_mrna"; gene_id "gene-E4U21_001631";
+SRPZ01000156.1	Genbank	CDS	59790	60167	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001631-T1_mrna"; gene_id "gene-E4U21_001631";
+SRPZ01000016.1	Genbank	transcript	62954	64895	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001708-T1_mrna"; gene_id "gene-E4U21_001708"
+SRPZ01000016.1	Genbank	exon	62954	63183	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001708-T1_mrna"; gene_id "gene-E4U21_001708";
+SRPZ01000016.1	Genbank	exon	63328	64345	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001708-T1_mrna"; gene_id "gene-E4U21_001708";
+SRPZ01000016.1	Genbank	exon	64409	64718	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001708-T1_mrna"; gene_id "gene-E4U21_001708";
+SRPZ01000016.1	Genbank	exon	64849	64895	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001708-T1_mrna"; gene_id "gene-E4U21_001708";
+SRPZ01000016.1	Genbank	CDS	62954	63183	.	-	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001708-T1_mrna"; gene_id "gene-E4U21_001708";
+SRPZ01000016.1	Genbank	CDS	63328	64345	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001708-T1_mrna"; gene_id "gene-E4U21_001708";
+SRPZ01000016.1	Genbank	CDS	64409	64718	.	-	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001708-T1_mrna"; gene_id "gene-E4U21_001708";
+SRPZ01000016.1	Genbank	CDS	64849	64895	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001708-T1_mrna"; gene_id "gene-E4U21_001708";
+SRPZ01000016.1	Genbank	transcript	123382	125289	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001724-T1_mrna"; gene_id "gene-E4U21_001724"
+SRPZ01000016.1	Genbank	exon	123382	125289	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001724-T1_mrna"; gene_id "gene-E4U21_001724";
+SRPZ01000016.1	Genbank	CDS	123382	125289	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001724-T1_mrna"; gene_id "gene-E4U21_001724";
+SRPZ01000016.1	Genbank	transcript	187171	190060	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001741-T1_mrna"; gene_id "gene-E4U21_001741"
+SRPZ01000016.1	Genbank	exon	187171	189716	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001741-T1_mrna"; gene_id "gene-E4U21_001741";
+SRPZ01000016.1	Genbank	exon	189797	189824	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001741-T1_mrna"; gene_id "gene-E4U21_001741";
+SRPZ01000016.1	Genbank	exon	189884	190060	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001741-T1_mrna"; gene_id "gene-E4U21_001741";
+SRPZ01000016.1	Genbank	CDS	187171	189716	.	-	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001741-T1_mrna"; gene_id "gene-E4U21_001741";
+SRPZ01000016.1	Genbank	CDS	189797	189824	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001741-T1_mrna"; gene_id "gene-E4U21_001741";
+SRPZ01000016.1	Genbank	CDS	189884	190060	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001741-T1_mrna"; gene_id "gene-E4U21_001741";
+SRPZ01000162.1	Genbank	transcript	63544	64508	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001807-T1_mrna"; gene_id "gene-E4U21_001807"
+SRPZ01000162.1	Genbank	exon	63544	64377	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001807-T1_mrna"; gene_id "gene-E4U21_001807";
+SRPZ01000162.1	Genbank	exon	64485	64508	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001807-T1_mrna"; gene_id "gene-E4U21_001807";
+SRPZ01000162.1	Genbank	CDS	63544	64377	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001807-T1_mrna"; gene_id "gene-E4U21_001807";
+SRPZ01000162.1	Genbank	CDS	64485	64508	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001807-T1_mrna"; gene_id "gene-E4U21_001807";
+SRPZ01000162.1	Genbank	transcript	66532	66810	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001809-T1_mrna"; gene_id "gene-E4U21_001809"; gene_name "SPT4"
+SRPZ01000162.1	Genbank	exon	66532	66810	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001809-T1_mrna"; gene_id "gene-E4U21_001809"; gene_name "SPT4";
+SRPZ01000162.1	Genbank	CDS	66532	66810	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001809-T1_mrna"; gene_id "gene-E4U21_001809"; gene_name "SPT4";
+SRPZ01000164.1	Genbank	transcript	22354	23689	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001839-T1_mrna"; gene_id "gene-E4U21_001839"
+SRPZ01000164.1	Genbank	exon	22354	22452	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001839-T1_mrna"; gene_id "gene-E4U21_001839";
+SRPZ01000164.1	Genbank	exon	22553	23415	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001839-T1_mrna"; gene_id "gene-E4U21_001839";
+SRPZ01000164.1	Genbank	exon	23665	23689	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001839-T1_mrna"; gene_id "gene-E4U21_001839";
+SRPZ01000164.1	Genbank	CDS	22354	22452	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001839-T1_mrna"; gene_id "gene-E4U21_001839";
+SRPZ01000164.1	Genbank	CDS	22553	23415	.	-	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001839-T1_mrna"; gene_id "gene-E4U21_001839";
+SRPZ01000164.1	Genbank	CDS	23665	23689	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001839-T1_mrna"; gene_id "gene-E4U21_001839";
+SRPZ01000168.1	Genbank	transcript	39949	41385	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001910-T1_mrna"; gene_id "gene-E4U21_001910"
+SRPZ01000168.1	Genbank	exon	39949	40197	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001910-T1_mrna"; gene_id "gene-E4U21_001910";
+SRPZ01000168.1	Genbank	exon	40265	40946	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001910-T1_mrna"; gene_id "gene-E4U21_001910";
+SRPZ01000168.1	Genbank	exon	41072	41385	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001910-T1_mrna"; gene_id "gene-E4U21_001910";
+SRPZ01000168.1	Genbank	CDS	39949	40197	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001910-T1_mrna"; gene_id "gene-E4U21_001910";
+SRPZ01000168.1	Genbank	CDS	40265	40946	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001910-T1_mrna"; gene_id "gene-E4U21_001910";
+SRPZ01000168.1	Genbank	CDS	41072	41385	.	+	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001910-T1_mrna"; gene_id "gene-E4U21_001910";
+SRPZ01000169.1	Genbank	transcript	58910	60412	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001933-T1_mrna"; gene_id "gene-E4U21_001933"
+SRPZ01000169.1	Genbank	exon	58910	60166	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001933-T1_mrna"; gene_id "gene-E4U21_001933";
+SRPZ01000169.1	Genbank	exon	60383	60412	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001933-T1_mrna"; gene_id "gene-E4U21_001933";
+SRPZ01000169.1	Genbank	CDS	58910	60166	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001933-T1_mrna"; gene_id "gene-E4U21_001933";
+SRPZ01000169.1	Genbank	CDS	60383	60412	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_001933-T1_mrna"; gene_id "gene-E4U21_001933";
+SRPZ01000177.1	Genbank	transcript	23924	26299	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002085-T1_mrna"; gene_id "gene-E4U21_002085"
+SRPZ01000177.1	Genbank	exon	23924	26299	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002085-T1_mrna"; gene_id "gene-E4U21_002085";
+SRPZ01000177.1	Genbank	CDS	23924	26299	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002085-T1_mrna"; gene_id "gene-E4U21_002085";
+SRPZ01000178.1	Genbank	transcript	17704	19941	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002096-T1_mrna"; gene_id "gene-E4U21_002096"
+SRPZ01000178.1	Genbank	exon	17704	18562	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002096-T1_mrna"; gene_id "gene-E4U21_002096";
+SRPZ01000178.1	Genbank	exon	18607	19175	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002096-T1_mrna"; gene_id "gene-E4U21_002096";
+SRPZ01000178.1	Genbank	exon	19872	19880	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002096-T1_mrna"; gene_id "gene-E4U21_002096";
+SRPZ01000178.1	Genbank	exon	19939	19941	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002096-T1_mrna"; gene_id "gene-E4U21_002096";
+SRPZ01000178.1	Genbank	CDS	17704	18562	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002096-T1_mrna"; gene_id "gene-E4U21_002096";
+SRPZ01000178.1	Genbank	CDS	18607	19175	.	+	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002096-T1_mrna"; gene_id "gene-E4U21_002096";
+SRPZ01000178.1	Genbank	CDS	19872	19880	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002096-T1_mrna"; gene_id "gene-E4U21_002096";
+SRPZ01000178.1	Genbank	CDS	19939	19941	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002096-T1_mrna"; gene_id "gene-E4U21_002096";
+SRPZ01000185.1	Genbank	transcript	31375	32623	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002249-T1_mrna"; gene_id "gene-E4U21_002249"; gene_name "TMA22"
+SRPZ01000185.1	Genbank	exon	31375	31456	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002249-T1_mrna"; gene_id "gene-E4U21_002249"; gene_name "TMA22";
+SRPZ01000185.1	Genbank	exon	31653	31672	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002249-T1_mrna"; gene_id "gene-E4U21_002249"; gene_name "TMA22";
+SRPZ01000185.1	Genbank	exon	31865	31952	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002249-T1_mrna"; gene_id "gene-E4U21_002249"; gene_name "TMA22";
+SRPZ01000185.1	Genbank	exon	32058	32275	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002249-T1_mrna"; gene_id "gene-E4U21_002249"; gene_name "TMA22";
+SRPZ01000185.1	Genbank	exon	32390	32623	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002249-T1_mrna"; gene_id "gene-E4U21_002249"; gene_name "TMA22";
+SRPZ01000185.1	Genbank	CDS	31375	31456	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002249-T1_mrna"; gene_id "gene-E4U21_002249"; gene_name "TMA22";
+SRPZ01000185.1	Genbank	CDS	31653	31672	.	+	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002249-T1_mrna"; gene_id "gene-E4U21_002249"; gene_name "TMA22";
+SRPZ01000185.1	Genbank	CDS	31865	31952	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002249-T1_mrna"; gene_id "gene-E4U21_002249"; gene_name "TMA22";
+SRPZ01000185.1	Genbank	CDS	32058	32275	.	+	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002249-T1_mrna"; gene_id "gene-E4U21_002249"; gene_name "TMA22";
+SRPZ01000185.1	Genbank	CDS	32390	32623	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002249-T1_mrna"; gene_id "gene-E4U21_002249"; gene_name "TMA22";
+SRPZ01000185.1	Genbank	transcript	46612	47424	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002257-T1_mrna"; gene_id "gene-E4U21_002257"
+SRPZ01000185.1	Genbank	exon	46612	46678	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002257-T1_mrna"; gene_id "gene-E4U21_002257";
+SRPZ01000185.1	Genbank	exon	46796	47424	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002257-T1_mrna"; gene_id "gene-E4U21_002257";
+SRPZ01000185.1	Genbank	CDS	46612	46678	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002257-T1_mrna"; gene_id "gene-E4U21_002257";
+SRPZ01000185.1	Genbank	CDS	46796	47424	.	+	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002257-T1_mrna"; gene_id "gene-E4U21_002257";
+SRPZ01000185.1	Genbank	transcript	54345	56090	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002261-T1_mrna"; gene_id "gene-E4U21_002261"
+SRPZ01000185.1	Genbank	exon	54345	55103	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002261-T1_mrna"; gene_id "gene-E4U21_002261";
+SRPZ01000185.1	Genbank	exon	55233	56090	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002261-T1_mrna"; gene_id "gene-E4U21_002261";
+SRPZ01000185.1	Genbank	CDS	54345	55103	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002261-T1_mrna"; gene_id "gene-E4U21_002261";
+SRPZ01000185.1	Genbank	CDS	55233	56090	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002261-T1_mrna"; gene_id "gene-E4U21_002261";
+SRPZ01000187.1	Genbank	transcript	9521	11040	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002283-T1_mrna"; gene_id "gene-E4U21_002283"
+SRPZ01000187.1	Genbank	exon	9521	10116	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002283-T1_mrna"; gene_id "gene-E4U21_002283";
+SRPZ01000187.1	Genbank	exon	10173	11040	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002283-T1_mrna"; gene_id "gene-E4U21_002283";
+SRPZ01000187.1	Genbank	CDS	9521	10116	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002283-T1_mrna"; gene_id "gene-E4U21_002283";
+SRPZ01000187.1	Genbank	CDS	10173	11040	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002283-T1_mrna"; gene_id "gene-E4U21_002283";
+SRPZ01000191.1	Genbank	transcript	1030	3033	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002404-T1_mrna"; gene_id "gene-E4U21_002404"
+SRPZ01000191.1	Genbank	exon	1030	1766	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002404-T1_mrna"; gene_id "gene-E4U21_002404";
+SRPZ01000191.1	Genbank	exon	1839	3033	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002404-T1_mrna"; gene_id "gene-E4U21_002404";
+SRPZ01000191.1	Genbank	CDS	1030	1766	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002404-T1_mrna"; gene_id "gene-E4U21_002404";
+SRPZ01000191.1	Genbank	CDS	1839	3033	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002404-T1_mrna"; gene_id "gene-E4U21_002404";
+SRPZ01000195.1	Genbank	transcript	7943	10067	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002461-T1_mrna"; gene_id "gene-E4U21_002461"
+SRPZ01000195.1	Genbank	exon	7943	7995	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002461-T1_mrna"; gene_id "gene-E4U21_002461";
+SRPZ01000195.1	Genbank	exon	8163	9893	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002461-T1_mrna"; gene_id "gene-E4U21_002461";
+SRPZ01000195.1	Genbank	exon	10022	10067	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002461-T1_mrna"; gene_id "gene-E4U21_002461";
+SRPZ01000195.1	Genbank	CDS	7943	7995	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002461-T1_mrna"; gene_id "gene-E4U21_002461";
+SRPZ01000195.1	Genbank	CDS	8163	9893	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002461-T1_mrna"; gene_id "gene-E4U21_002461";
+SRPZ01000195.1	Genbank	CDS	10022	10067	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002461-T1_mrna"; gene_id "gene-E4U21_002461";
+SRPZ01000197.1	Genbank	transcript	49308	51431	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002492-T1_mrna"; gene_id "gene-E4U21_002492"; gene_name "SWC4"
+SRPZ01000197.1	Genbank	exon	49308	51431	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002492-T1_mrna"; gene_id "gene-E4U21_002492"; gene_name "SWC4";
+SRPZ01000197.1	Genbank	CDS	49308	51431	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002492-T1_mrna"; gene_id "gene-E4U21_002492"; gene_name "SWC4";
+SRPZ01000200.1	Genbank	transcript	38970	40699	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002708-T1_mrna"; gene_id "gene-E4U21_002708"
+SRPZ01000200.1	Genbank	exon	38970	39194	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002708-T1_mrna"; gene_id "gene-E4U21_002708";
+SRPZ01000200.1	Genbank	exon	39274	40343	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002708-T1_mrna"; gene_id "gene-E4U21_002708";
+SRPZ01000200.1	Genbank	exon	40447	40699	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002708-T1_mrna"; gene_id "gene-E4U21_002708";
+SRPZ01000200.1	Genbank	CDS	38970	39194	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002708-T1_mrna"; gene_id "gene-E4U21_002708";
+SRPZ01000200.1	Genbank	CDS	39274	40343	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002708-T1_mrna"; gene_id "gene-E4U21_002708";
+SRPZ01000200.1	Genbank	CDS	40447	40699	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002708-T1_mrna"; gene_id "gene-E4U21_002708";
+SRPZ01000209.1	Genbank	transcript	47295	49466	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002846-T1_mrna"; gene_id "gene-E4U21_002846"
+SRPZ01000209.1	Genbank	exon	47295	47948	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002846-T1_mrna"; gene_id "gene-E4U21_002846";
+SRPZ01000209.1	Genbank	exon	48153	48563	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002846-T1_mrna"; gene_id "gene-E4U21_002846";
+SRPZ01000209.1	Genbank	exon	48665	49216	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002846-T1_mrna"; gene_id "gene-E4U21_002846";
+SRPZ01000209.1	Genbank	exon	49389	49466	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002846-T1_mrna"; gene_id "gene-E4U21_002846";
+SRPZ01000209.1	Genbank	CDS	47295	47948	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002846-T1_mrna"; gene_id "gene-E4U21_002846";
+SRPZ01000209.1	Genbank	CDS	48153	48563	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002846-T1_mrna"; gene_id "gene-E4U21_002846";
+SRPZ01000209.1	Genbank	CDS	48665	49216	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002846-T1_mrna"; gene_id "gene-E4U21_002846";
+SRPZ01000209.1	Genbank	CDS	49389	49466	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002846-T1_mrna"; gene_id "gene-E4U21_002846";
+SRPZ01000021.1	Genbank	transcript	343	2029	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002847-T1_mrna"; gene_id "gene-E4U21_002847"
+SRPZ01000021.1	Genbank	exon	343	1234	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002847-T1_mrna"; gene_id "gene-E4U21_002847";
+SRPZ01000021.1	Genbank	exon	1419	2029	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002847-T1_mrna"; gene_id "gene-E4U21_002847";
+SRPZ01000021.1	Genbank	CDS	343	1234	.	-	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002847-T1_mrna"; gene_id "gene-E4U21_002847";
+SRPZ01000021.1	Genbank	CDS	1419	2029	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002847-T1_mrna"; gene_id "gene-E4U21_002847";
+SRPZ01000021.1	Genbank	transcript	134963	135472	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002888-T1_mrna"; gene_id "gene-E4U21_002888"
+SRPZ01000021.1	Genbank	exon	134963	135472	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002888-T1_mrna"; gene_id "gene-E4U21_002888";
+SRPZ01000021.1	Genbank	CDS	134963	135472	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002888-T1_mrna"; gene_id "gene-E4U21_002888";
+SRPZ01000211.1	Genbank	transcript	27167	28036	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002932-T1_mrna"; gene_id "gene-E4U21_002932"; gene_name "PSF1"
+SRPZ01000211.1	Genbank	exon	27167	27193	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002932-T1_mrna"; gene_id "gene-E4U21_002932"; gene_name "PSF1";
+SRPZ01000211.1	Genbank	exon	27272	27801	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002932-T1_mrna"; gene_id "gene-E4U21_002932"; gene_name "PSF1";
+SRPZ01000211.1	Genbank	exon	27943	28036	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002932-T1_mrna"; gene_id "gene-E4U21_002932"; gene_name "PSF1";
+SRPZ01000211.1	Genbank	CDS	27167	27193	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002932-T1_mrna"; gene_id "gene-E4U21_002932"; gene_name "PSF1";
+SRPZ01000211.1	Genbank	CDS	27272	27801	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002932-T1_mrna"; gene_id "gene-E4U21_002932"; gene_name "PSF1";
+SRPZ01000211.1	Genbank	CDS	27943	28036	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002932-T1_mrna"; gene_id "gene-E4U21_002932"; gene_name "PSF1";
+SRPZ01000212.1	Genbank	transcript	36386	38461	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002947-T1_mrna"; gene_id "gene-E4U21_002947"
+SRPZ01000212.1	Genbank	exon	36386	38199	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002947-T1_mrna"; gene_id "gene-E4U21_002947";
+SRPZ01000212.1	Genbank	exon	38362	38461	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002947-T1_mrna"; gene_id "gene-E4U21_002947";
+SRPZ01000212.1	Genbank	CDS	36386	38199	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002947-T1_mrna"; gene_id "gene-E4U21_002947";
+SRPZ01000212.1	Genbank	CDS	38362	38461	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002947-T1_mrna"; gene_id "gene-E4U21_002947";
+SRPZ01000215.1	Genbank	transcript	22734	23833	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002991-T1_mrna"; gene_id "gene-E4U21_002991"
+SRPZ01000215.1	Genbank	exon	22734	22963	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002991-T1_mrna"; gene_id "gene-E4U21_002991";
+SRPZ01000215.1	Genbank	exon	23090	23159	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002991-T1_mrna"; gene_id "gene-E4U21_002991";
+SRPZ01000215.1	Genbank	exon	23247	23694	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002991-T1_mrna"; gene_id "gene-E4U21_002991";
+SRPZ01000215.1	Genbank	exon	23784	23833	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002991-T1_mrna"; gene_id "gene-E4U21_002991";
+SRPZ01000215.1	Genbank	CDS	22734	22963	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002991-T1_mrna"; gene_id "gene-E4U21_002991";
+SRPZ01000215.1	Genbank	CDS	23090	23159	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002991-T1_mrna"; gene_id "gene-E4U21_002991";
+SRPZ01000215.1	Genbank	CDS	23247	23694	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002991-T1_mrna"; gene_id "gene-E4U21_002991";
+SRPZ01000215.1	Genbank	CDS	23784	23833	.	+	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_002991-T1_mrna"; gene_id "gene-E4U21_002991";
+SRPZ01000218.1	Genbank	transcript	6740	7975	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003014-T1_mrna"; gene_id "gene-E4U21_003014"
+SRPZ01000218.1	Genbank	exon	6740	7517	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003014-T1_mrna"; gene_id "gene-E4U21_003014";
+SRPZ01000218.1	Genbank	exon	7653	7758	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003014-T1_mrna"; gene_id "gene-E4U21_003014";
+SRPZ01000218.1	Genbank	exon	7876	7975	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003014-T1_mrna"; gene_id "gene-E4U21_003014";
+SRPZ01000218.1	Genbank	CDS	6740	7517	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003014-T1_mrna"; gene_id "gene-E4U21_003014";
+SRPZ01000218.1	Genbank	CDS	7653	7758	.	+	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003014-T1_mrna"; gene_id "gene-E4U21_003014";
+SRPZ01000218.1	Genbank	CDS	7876	7975	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003014-T1_mrna"; gene_id "gene-E4U21_003014";
+SRPZ01000220.1	Genbank	transcript	35574	36472	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003094-T1_mrna"; gene_id "gene-E4U21_003094"; gene_name "UTP11"
+SRPZ01000220.1	Genbank	exon	35574	36308	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003094-T1_mrna"; gene_id "gene-E4U21_003094"; gene_name "UTP11";
+SRPZ01000220.1	Genbank	exon	36377	36472	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003094-T1_mrna"; gene_id "gene-E4U21_003094"; gene_name "UTP11";
+SRPZ01000220.1	Genbank	CDS	35574	36308	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003094-T1_mrna"; gene_id "gene-E4U21_003094"; gene_name "UTP11";
+SRPZ01000220.1	Genbank	CDS	36377	36472	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003094-T1_mrna"; gene_id "gene-E4U21_003094"; gene_name "UTP11";
+SRPZ01000023.1	Genbank	transcript	4323	5285	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003170-T1_mrna"; gene_id "gene-E4U21_003170"; gene_name "KRR1"
+SRPZ01000023.1	Genbank	exon	4323	5285	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003170-T1_mrna"; gene_id "gene-E4U21_003170"; gene_name "KRR1";
+SRPZ01000023.1	Genbank	CDS	4323	5285	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003170-T1_mrna"; gene_id "gene-E4U21_003170"; gene_name "KRR1";
+SRPZ01000024.1	Genbank	transcript	41312	44119	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003348-T1_mrna"; gene_id "gene-E4U21_003348"; gene_name "MCM2"
+SRPZ01000024.1	Genbank	exon	41312	41316	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003348-T1_mrna"; gene_id "gene-E4U21_003348"; gene_name "MCM2";
+SRPZ01000024.1	Genbank	exon	41389	43744	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003348-T1_mrna"; gene_id "gene-E4U21_003348"; gene_name "MCM2";
+SRPZ01000024.1	Genbank	exon	43874	44119	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003348-T1_mrna"; gene_id "gene-E4U21_003348"; gene_name "MCM2";
+SRPZ01000024.1	Genbank	CDS	41312	41316	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003348-T1_mrna"; gene_id "gene-E4U21_003348"; gene_name "MCM2";
+SRPZ01000024.1	Genbank	CDS	41389	43744	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003348-T1_mrna"; gene_id "gene-E4U21_003348"; gene_name "MCM2";
+SRPZ01000024.1	Genbank	CDS	43874	44119	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003348-T1_mrna"; gene_id "gene-E4U21_003348"; gene_name "MCM2";
+SRPZ01000257.1	Genbank	transcript	10485	12163	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003624-T1_mrna"; gene_id "gene-E4U21_003624"
+SRPZ01000257.1	Genbank	exon	10485	10582	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003624-T1_mrna"; gene_id "gene-E4U21_003624";
+SRPZ01000257.1	Genbank	exon	10701	11870	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003624-T1_mrna"; gene_id "gene-E4U21_003624";
+SRPZ01000257.1	Genbank	exon	12067	12163	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003624-T1_mrna"; gene_id "gene-E4U21_003624";
+SRPZ01000257.1	Genbank	CDS	10485	10582	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003624-T1_mrna"; gene_id "gene-E4U21_003624";
+SRPZ01000257.1	Genbank	CDS	10701	11870	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003624-T1_mrna"; gene_id "gene-E4U21_003624";
+SRPZ01000257.1	Genbank	CDS	12067	12163	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003624-T1_mrna"; gene_id "gene-E4U21_003624";
+SRPZ01000259.1	Genbank	transcript	12687	15347	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003653-T1_mrna"; gene_id "gene-E4U21_003653"
+SRPZ01000259.1	Genbank	exon	12687	12882	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003653-T1_mrna"; gene_id "gene-E4U21_003653";
+SRPZ01000259.1	Genbank	exon	12985	15347	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003653-T1_mrna"; gene_id "gene-E4U21_003653";
+SRPZ01000259.1	Genbank	CDS	12687	12882	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003653-T1_mrna"; gene_id "gene-E4U21_003653";
+SRPZ01000259.1	Genbank	CDS	12985	15347	.	+	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003653-T1_mrna"; gene_id "gene-E4U21_003653";
+SRPZ01000027.1	Genbank	transcript	147839	149208	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003854-T1_mrna"; gene_id "gene-E4U21_003854"; gene_name "ATG3"
+SRPZ01000027.1	Genbank	exon	147839	147892	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003854-T1_mrna"; gene_id "gene-E4U21_003854"; gene_name "ATG3";
+SRPZ01000027.1	Genbank	exon	148067	148535	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003854-T1_mrna"; gene_id "gene-E4U21_003854"; gene_name "ATG3";
+SRPZ01000027.1	Genbank	exon	148682	149208	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003854-T1_mrna"; gene_id "gene-E4U21_003854"; gene_name "ATG3";
+SRPZ01000027.1	Genbank	CDS	147839	147892	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003854-T1_mrna"; gene_id "gene-E4U21_003854"; gene_name "ATG3";
+SRPZ01000027.1	Genbank	CDS	148067	148535	.	-	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003854-T1_mrna"; gene_id "gene-E4U21_003854"; gene_name "ATG3";
+SRPZ01000027.1	Genbank	CDS	148682	149208	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003854-T1_mrna"; gene_id "gene-E4U21_003854"; gene_name "ATG3";
+SRPZ01000278.1	Genbank	transcript	7538	9803	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003898-T1_mrna"; gene_id "gene-E4U21_003898"
+SRPZ01000278.1	Genbank	exon	7538	7664	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003898-T1_mrna"; gene_id "gene-E4U21_003898";
+SRPZ01000278.1	Genbank	exon	7715	7803	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003898-T1_mrna"; gene_id "gene-E4U21_003898";
+SRPZ01000278.1	Genbank	exon	7944	7992	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003898-T1_mrna"; gene_id "gene-E4U21_003898";
+SRPZ01000278.1	Genbank	exon	8065	9803	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003898-T1_mrna"; gene_id "gene-E4U21_003898";
+SRPZ01000278.1	Genbank	CDS	7538	7664	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003898-T1_mrna"; gene_id "gene-E4U21_003898";
+SRPZ01000278.1	Genbank	CDS	7715	7803	.	+	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003898-T1_mrna"; gene_id "gene-E4U21_003898";
+SRPZ01000278.1	Genbank	CDS	7944	7992	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003898-T1_mrna"; gene_id "gene-E4U21_003898";
+SRPZ01000278.1	Genbank	CDS	8065	9803	.	+	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_003898-T1_mrna"; gene_id "gene-E4U21_003898";
+SRPZ01000029.1	Genbank	transcript	159722	162108	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004063-T1_mrna"; gene_id "gene-E4U21_004063"; gene_name "ATG7"
+SRPZ01000029.1	Genbank	exon	159722	159921	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004063-T1_mrna"; gene_id "gene-E4U21_004063"; gene_name "ATG7";
+SRPZ01000029.1	Genbank	exon	160020	160128	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004063-T1_mrna"; gene_id "gene-E4U21_004063"; gene_name "ATG7";
+SRPZ01000029.1	Genbank	exon	160246	161544	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004063-T1_mrna"; gene_id "gene-E4U21_004063"; gene_name "ATG7";
+SRPZ01000029.1	Genbank	exon	161641	162108	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004063-T1_mrna"; gene_id "gene-E4U21_004063"; gene_name "ATG7";
+SRPZ01000029.1	Genbank	CDS	159722	159921	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004063-T1_mrna"; gene_id "gene-E4U21_004063"; gene_name "ATG7";
+SRPZ01000029.1	Genbank	CDS	160020	160128	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004063-T1_mrna"; gene_id "gene-E4U21_004063"; gene_name "ATG7";
+SRPZ01000029.1	Genbank	CDS	160246	161544	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004063-T1_mrna"; gene_id "gene-E4U21_004063"; gene_name "ATG7";
+SRPZ01000029.1	Genbank	CDS	161641	162108	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004063-T1_mrna"; gene_id "gene-E4U21_004063"; gene_name "ATG7";
+SRPZ01000029.1	Genbank	transcript	171572	172310	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004068-T1_mrna"; gene_id "gene-E4U21_004068"; gene_name "IMP3"
+SRPZ01000029.1	Genbank	exon	171572	171727	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004068-T1_mrna"; gene_id "gene-E4U21_004068"; gene_name "IMP3";
+SRPZ01000029.1	Genbank	exon	171915	172310	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004068-T1_mrna"; gene_id "gene-E4U21_004068"; gene_name "IMP3";
+SRPZ01000029.1	Genbank	CDS	171572	171727	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004068-T1_mrna"; gene_id "gene-E4U21_004068"; gene_name "IMP3";
+SRPZ01000029.1	Genbank	CDS	171915	172310	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004068-T1_mrna"; gene_id "gene-E4U21_004068"; gene_name "IMP3";
+SRPZ01000003.1	Genbank	transcript	73604	74755	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004143-T1_mrna"; gene_id "gene-E4U21_004143"
+SRPZ01000003.1	Genbank	exon	73604	73941	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004143-T1_mrna"; gene_id "gene-E4U21_004143";
+SRPZ01000003.1	Genbank	exon	74095	74755	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004143-T1_mrna"; gene_id "gene-E4U21_004143";
+SRPZ01000003.1	Genbank	CDS	73604	73941	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004143-T1_mrna"; gene_id "gene-E4U21_004143";
+SRPZ01000003.1	Genbank	CDS	74095	74755	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004143-T1_mrna"; gene_id "gene-E4U21_004143";
+SRPZ01000003.1	Genbank	transcript	102582	105606	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004154-T1_mrna"; gene_id "gene-E4U21_004154"
+SRPZ01000003.1	Genbank	exon	102582	103429	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004154-T1_mrna"; gene_id "gene-E4U21_004154";
+SRPZ01000003.1	Genbank	exon	103591	104671	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004154-T1_mrna"; gene_id "gene-E4U21_004154";
+SRPZ01000003.1	Genbank	exon	104820	105301	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004154-T1_mrna"; gene_id "gene-E4U21_004154";
+SRPZ01000003.1	Genbank	exon	105546	105606	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004154-T1_mrna"; gene_id "gene-E4U21_004154";
+SRPZ01000003.1	Genbank	CDS	102582	103429	.	-	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004154-T1_mrna"; gene_id "gene-E4U21_004154";
+SRPZ01000003.1	Genbank	CDS	103591	104671	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004154-T1_mrna"; gene_id "gene-E4U21_004154";
+SRPZ01000003.1	Genbank	CDS	104820	105301	.	-	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004154-T1_mrna"; gene_id "gene-E4U21_004154";
+SRPZ01000003.1	Genbank	CDS	105546	105606	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004154-T1_mrna"; gene_id "gene-E4U21_004154";
+SRPZ01000003.1	Genbank	transcript	172580	173753	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004171-T1_mrna"; gene_id "gene-E4U21_004171"
+SRPZ01000003.1	Genbank	exon	172580	173110	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004171-T1_mrna"; gene_id "gene-E4U21_004171";
+SRPZ01000003.1	Genbank	exon	173328	173753	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004171-T1_mrna"; gene_id "gene-E4U21_004171";
+SRPZ01000003.1	Genbank	CDS	172580	173110	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004171-T1_mrna"; gene_id "gene-E4U21_004171";
+SRPZ01000003.1	Genbank	CDS	173328	173753	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004171-T1_mrna"; gene_id "gene-E4U21_004171";
+SRPZ01000003.1	Genbank	transcript	262225	263474	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004198-T1_mrna"; gene_id "gene-E4U21_004198"; gene_name "EIF3H"
+SRPZ01000003.1	Genbank	exon	262225	262786	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004198-T1_mrna"; gene_id "gene-E4U21_004198"; gene_name "EIF3H";
+SRPZ01000003.1	Genbank	exon	262884	263350	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004198-T1_mrna"; gene_id "gene-E4U21_004198"; gene_name "EIF3H";
+SRPZ01000003.1	Genbank	exon	263421	263474	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004198-T1_mrna"; gene_id "gene-E4U21_004198"; gene_name "EIF3H";
+SRPZ01000003.1	Genbank	CDS	262225	262786	.	-	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004198-T1_mrna"; gene_id "gene-E4U21_004198"; gene_name "EIF3H";
+SRPZ01000003.1	Genbank	CDS	262884	263350	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004198-T1_mrna"; gene_id "gene-E4U21_004198"; gene_name "EIF3H";
+SRPZ01000003.1	Genbank	CDS	263421	263474	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004198-T1_mrna"; gene_id "gene-E4U21_004198"; gene_name "EIF3H";
+SRPZ01000003.1	Genbank	transcript	289042	289940	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004209-T1_mrna"; gene_id "gene-E4U21_004209"
+SRPZ01000003.1	Genbank	exon	289042	289053	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004209-T1_mrna"; gene_id "gene-E4U21_004209";
+SRPZ01000003.1	Genbank	exon	289100	289225	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004209-T1_mrna"; gene_id "gene-E4U21_004209";
+SRPZ01000003.1	Genbank	exon	289334	289430	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004209-T1_mrna"; gene_id "gene-E4U21_004209";
+SRPZ01000003.1	Genbank	exon	289504	289654	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004209-T1_mrna"; gene_id "gene-E4U21_004209";
+SRPZ01000003.1	Genbank	exon	289718	289940	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004209-T1_mrna"; gene_id "gene-E4U21_004209";
+SRPZ01000003.1	Genbank	CDS	289042	289053	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004209-T1_mrna"; gene_id "gene-E4U21_004209";
+SRPZ01000003.1	Genbank	CDS	289100	289225	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004209-T1_mrna"; gene_id "gene-E4U21_004209";
+SRPZ01000003.1	Genbank	CDS	289334	289430	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004209-T1_mrna"; gene_id "gene-E4U21_004209";
+SRPZ01000003.1	Genbank	CDS	289504	289654	.	+	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004209-T1_mrna"; gene_id "gene-E4U21_004209";
+SRPZ01000003.1	Genbank	CDS	289718	289940	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004209-T1_mrna"; gene_id "gene-E4U21_004209";
+SRPZ01000030.1	Genbank	transcript	63095	64093	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004234-T1_mrna"; gene_id "gene-E4U21_004234"
+SRPZ01000030.1	Genbank	exon	63095	64093	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004234-T1_mrna"; gene_id "gene-E4U21_004234";
+SRPZ01000030.1	Genbank	CDS	63095	64093	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004234-T1_mrna"; gene_id "gene-E4U21_004234";
+SRPZ01000309.1	Genbank	transcript	2953	3819	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004332-T1_mrna"; gene_id "gene-E4U21_004332"; gene_name "NSA2"
+SRPZ01000309.1	Genbank	exon	2953	3732	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004332-T1_mrna"; gene_id "gene-E4U21_004332"; gene_name "NSA2";
+SRPZ01000309.1	Genbank	exon	3817	3819	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004332-T1_mrna"; gene_id "gene-E4U21_004332"; gene_name "NSA2";
+SRPZ01000309.1	Genbank	CDS	2953	3732	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004332-T1_mrna"; gene_id "gene-E4U21_004332"; gene_name "NSA2";
+SRPZ01000309.1	Genbank	CDS	3817	3819	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004332-T1_mrna"; gene_id "gene-E4U21_004332"; gene_name "NSA2";
+SRPZ01000031.1	Genbank	transcript	39516	41521	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004353-T1_mrna"; gene_id "gene-E4U21_004353"; gene_name "SPB4"
+SRPZ01000031.1	Genbank	exon	39516	39689	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004353-T1_mrna"; gene_id "gene-E4U21_004353"; gene_name "SPB4";
+SRPZ01000031.1	Genbank	exon	39794	41521	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004353-T1_mrna"; gene_id "gene-E4U21_004353"; gene_name "SPB4";
+SRPZ01000031.1	Genbank	CDS	39516	39689	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004353-T1_mrna"; gene_id "gene-E4U21_004353"; gene_name "SPB4";
+SRPZ01000031.1	Genbank	CDS	39794	41521	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004353-T1_mrna"; gene_id "gene-E4U21_004353"; gene_name "SPB4";
+SRPZ01000033.1	Genbank	transcript	13027	15282	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004547-T1_mrna"; gene_id "gene-E4U21_004547"; gene_name "DBP7"
+SRPZ01000033.1	Genbank	exon	13027	15282	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004547-T1_mrna"; gene_id "gene-E4U21_004547"; gene_name "DBP7";
+SRPZ01000033.1	Genbank	CDS	13027	15282	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004547-T1_mrna"; gene_id "gene-E4U21_004547"; gene_name "DBP7";
+SRPZ01000033.1	Genbank	transcript	153511	155594	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004593-T1_mrna"; gene_id "gene-E4U21_004593"
+SRPZ01000033.1	Genbank	exon	153511	154033	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004593-T1_mrna"; gene_id "gene-E4U21_004593";
+SRPZ01000033.1	Genbank	exon	154150	155304	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004593-T1_mrna"; gene_id "gene-E4U21_004593";
+SRPZ01000033.1	Genbank	exon	155404	155594	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004593-T1_mrna"; gene_id "gene-E4U21_004593";
+SRPZ01000033.1	Genbank	CDS	153511	154033	.	-	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004593-T1_mrna"; gene_id "gene-E4U21_004593";
+SRPZ01000033.1	Genbank	CDS	154150	155304	.	-	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004593-T1_mrna"; gene_id "gene-E4U21_004593";
+SRPZ01000033.1	Genbank	CDS	155404	155594	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004593-T1_mrna"; gene_id "gene-E4U21_004593";
+SRPZ01000336.1	Genbank	transcript	10704	12803	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004626-T1_mrna"; gene_id "gene-E4U21_004626"
+SRPZ01000336.1	Genbank	exon	10704	10970	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004626-T1_mrna"; gene_id "gene-E4U21_004626";
+SRPZ01000336.1	Genbank	exon	11028	12734	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004626-T1_mrna"; gene_id "gene-E4U21_004626";
+SRPZ01000336.1	Genbank	exon	12789	12803	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004626-T1_mrna"; gene_id "gene-E4U21_004626";
+SRPZ01000336.1	Genbank	CDS	10704	10970	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004626-T1_mrna"; gene_id "gene-E4U21_004626";
+SRPZ01000336.1	Genbank	CDS	11028	12734	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004626-T1_mrna"; gene_id "gene-E4U21_004626";
+SRPZ01000336.1	Genbank	CDS	12789	12803	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004626-T1_mrna"; gene_id "gene-E4U21_004626";
+SRPZ01000034.1	Genbank	transcript	1214	3277	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004635-T1_mrna"; gene_id "gene-E4U21_004635"
+SRPZ01000034.1	Genbank	exon	1214	3277	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004635-T1_mrna"; gene_id "gene-E4U21_004635";
+SRPZ01000034.1	Genbank	CDS	1214	3277	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004635-T1_mrna"; gene_id "gene-E4U21_004635";
+SRPZ01000347.1	Genbank	transcript	18237	18951	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004700-T1_mrna"; gene_id "gene-E4U21_004700"
+SRPZ01000347.1	Genbank	exon	18237	18441	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004700-T1_mrna"; gene_id "gene-E4U21_004700";
+SRPZ01000347.1	Genbank	exon	18546	18691	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004700-T1_mrna"; gene_id "gene-E4U21_004700";
+SRPZ01000347.1	Genbank	exon	18769	18951	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004700-T1_mrna"; gene_id "gene-E4U21_004700";
+SRPZ01000347.1	Genbank	CDS	18237	18441	.	-	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004700-T1_mrna"; gene_id "gene-E4U21_004700";
+SRPZ01000347.1	Genbank	CDS	18546	18691	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004700-T1_mrna"; gene_id "gene-E4U21_004700";
+SRPZ01000347.1	Genbank	CDS	18769	18951	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004700-T1_mrna"; gene_id "gene-E4U21_004700";
+SRPZ01000358.1	Genbank	transcript	21347	22768	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004787-T1_mrna"; gene_id "gene-E4U21_004787"
+SRPZ01000358.1	Genbank	exon	21347	22768	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004787-T1_mrna"; gene_id "gene-E4U21_004787";
+SRPZ01000358.1	Genbank	CDS	21347	22768	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004787-T1_mrna"; gene_id "gene-E4U21_004787";
+SRPZ01000363.1	Genbank	transcript	9253	10011	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004855-T1_mrna"; gene_id "gene-E4U21_004855"
+SRPZ01000363.1	Genbank	exon	9253	10011	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004855-T1_mrna"; gene_id "gene-E4U21_004855";
+SRPZ01000363.1	Genbank	CDS	9253	10011	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_004855-T1_mrna"; gene_id "gene-E4U21_004855";
+SRPZ01000039.1	Genbank	transcript	18650	19545	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005049-T1_mrna"; gene_id "gene-E4U21_005049"
+SRPZ01000039.1	Genbank	exon	18650	18765	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005049-T1_mrna"; gene_id "gene-E4U21_005049";
+SRPZ01000039.1	Genbank	exon	18936	19545	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005049-T1_mrna"; gene_id "gene-E4U21_005049";
+SRPZ01000039.1	Genbank	CDS	18650	18765	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005049-T1_mrna"; gene_id "gene-E4U21_005049";
+SRPZ01000039.1	Genbank	CDS	18936	19545	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005049-T1_mrna"; gene_id "gene-E4U21_005049";
+SRPZ01000004.1	Genbank	transcript	27594	29315	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005126-T1_mrna"; gene_id "gene-E4U21_005126"
+SRPZ01000004.1	Genbank	exon	27594	27832	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005126-T1_mrna"; gene_id "gene-E4U21_005126";
+SRPZ01000004.1	Genbank	exon	27905	29315	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005126-T1_mrna"; gene_id "gene-E4U21_005126";
+SRPZ01000004.1	Genbank	CDS	27594	27832	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005126-T1_mrna"; gene_id "gene-E4U21_005126";
+SRPZ01000004.1	Genbank	CDS	27905	29315	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005126-T1_mrna"; gene_id "gene-E4U21_005126";
+SRPZ01000004.1	Genbank	transcript	153221	156500	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005164-T1_mrna"; gene_id "gene-E4U21_005164"
+SRPZ01000004.1	Genbank	exon	153221	155079	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005164-T1_mrna"; gene_id "gene-E4U21_005164";
+SRPZ01000004.1	Genbank	exon	155183	156052	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005164-T1_mrna"; gene_id "gene-E4U21_005164";
+SRPZ01000004.1	Genbank	exon	156152	156500	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005164-T1_mrna"; gene_id "gene-E4U21_005164";
+SRPZ01000004.1	Genbank	CDS	153221	155079	.	-	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005164-T1_mrna"; gene_id "gene-E4U21_005164";
+SRPZ01000004.1	Genbank	CDS	155183	156052	.	-	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005164-T1_mrna"; gene_id "gene-E4U21_005164";
+SRPZ01000004.1	Genbank	CDS	156152	156500	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005164-T1_mrna"; gene_id "gene-E4U21_005164";
+SRPZ01000004.1	Genbank	transcript	196753	198072	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005179-T1_mrna"; gene_id "gene-E4U21_005179"
+SRPZ01000004.1	Genbank	exon	196753	197019	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005179-T1_mrna"; gene_id "gene-E4U21_005179";
+SRPZ01000004.1	Genbank	exon	197086	198072	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005179-T1_mrna"; gene_id "gene-E4U21_005179";
+SRPZ01000004.1	Genbank	CDS	196753	197019	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005179-T1_mrna"; gene_id "gene-E4U21_005179";
+SRPZ01000004.1	Genbank	CDS	197086	198072	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005179-T1_mrna"; gene_id "gene-E4U21_005179";
+SRPZ01000407.1	Genbank	transcript	5595	6830	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005281-T1_mrna"; gene_id "gene-E4U21_005281"
+SRPZ01000407.1	Genbank	exon	5595	5824	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005281-T1_mrna"; gene_id "gene-E4U21_005281";
+SRPZ01000407.1	Genbank	exon	5993	6830	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005281-T1_mrna"; gene_id "gene-E4U21_005281";
+SRPZ01000407.1	Genbank	CDS	5595	5824	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005281-T1_mrna"; gene_id "gene-E4U21_005281";
+SRPZ01000407.1	Genbank	CDS	5993	6830	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005281-T1_mrna"; gene_id "gene-E4U21_005281";
+SRPZ01000041.1	Genbank	transcript	74244	76340	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005314-T1_mrna"; gene_id "gene-E4U21_005314"
+SRPZ01000041.1	Genbank	exon	74244	76340	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005314-T1_mrna"; gene_id "gene-E4U21_005314";
+SRPZ01000041.1	Genbank	CDS	74244	76340	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005314-T1_mrna"; gene_id "gene-E4U21_005314";
+SRPZ01000042.1	Genbank	transcript	128426	131514	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005389-T1_mrna"; gene_id "gene-E4U21_005389"
+SRPZ01000042.1	Genbank	exon	128426	130932	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005389-T1_mrna"; gene_id "gene-E4U21_005389";
+SRPZ01000042.1	Genbank	exon	131094	131514	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005389-T1_mrna"; gene_id "gene-E4U21_005389";
+SRPZ01000042.1	Genbank	CDS	128426	130932	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005389-T1_mrna"; gene_id "gene-E4U21_005389";
+SRPZ01000042.1	Genbank	CDS	131094	131514	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005389-T1_mrna"; gene_id "gene-E4U21_005389";
+SRPZ01000043.1	Genbank	transcript	17185	18924	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005424-T1_mrna"; gene_id "gene-E4U21_005424"
+SRPZ01000043.1	Genbank	exon	17185	18924	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005424-T1_mrna"; gene_id "gene-E4U21_005424";
+SRPZ01000043.1	Genbank	CDS	17185	18924	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005424-T1_mrna"; gene_id "gene-E4U21_005424";
+SRPZ01000043.1	Genbank	transcript	21084	22003	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005425-T1_mrna"; gene_id "gene-E4U21_005425"; gene_name "SLD5"
+SRPZ01000043.1	Genbank	exon	21084	21443	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005425-T1_mrna"; gene_id "gene-E4U21_005425"; gene_name "SLD5";
+SRPZ01000043.1	Genbank	exon	21611	21791	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005425-T1_mrna"; gene_id "gene-E4U21_005425"; gene_name "SLD5";
+SRPZ01000043.1	Genbank	exon	21879	22003	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005425-T1_mrna"; gene_id "gene-E4U21_005425"; gene_name "SLD5";
+SRPZ01000043.1	Genbank	CDS	21084	21443	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005425-T1_mrna"; gene_id "gene-E4U21_005425"; gene_name "SLD5";
+SRPZ01000043.1	Genbank	CDS	21611	21791	.	-	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005425-T1_mrna"; gene_id "gene-E4U21_005425"; gene_name "SLD5";
+SRPZ01000043.1	Genbank	CDS	21879	22003	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005425-T1_mrna"; gene_id "gene-E4U21_005425"; gene_name "SLD5";
+SRPZ01000043.1	Genbank	transcript	65287	66846	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005439-T1_mrna"; gene_id "gene-E4U21_005439"
+SRPZ01000043.1	Genbank	exon	65287	66846	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005439-T1_mrna"; gene_id "gene-E4U21_005439";
+SRPZ01000043.1	Genbank	CDS	65287	66846	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005439-T1_mrna"; gene_id "gene-E4U21_005439";
+SRPZ01000043.1	Genbank	transcript	95168	98144	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005451-T1_mrna"; gene_id "gene-E4U21_005451"
+SRPZ01000043.1	Genbank	exon	95168	98045	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005451-T1_mrna"; gene_id "gene-E4U21_005451";
+SRPZ01000043.1	Genbank	exon	98128	98144	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005451-T1_mrna"; gene_id "gene-E4U21_005451";
+SRPZ01000043.1	Genbank	CDS	95168	98045	.	-	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005451-T1_mrna"; gene_id "gene-E4U21_005451";
+SRPZ01000043.1	Genbank	CDS	98128	98144	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005451-T1_mrna"; gene_id "gene-E4U21_005451";
+SRPZ01000044.1	Genbank	transcript	45628	46935	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005508-T1_mrna"; gene_id "gene-E4U21_005508"
+SRPZ01000044.1	Genbank	exon	45628	46935	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005508-T1_mrna"; gene_id "gene-E4U21_005508";
+SRPZ01000044.1	Genbank	CDS	45628	46935	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005508-T1_mrna"; gene_id "gene-E4U21_005508";
+SRPZ01000045.1	Genbank	transcript	29006	29965	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005570-T1_mrna"; gene_id "gene-E4U21_005570"; gene_name "BCP1"
+SRPZ01000045.1	Genbank	exon	29006	29776	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005570-T1_mrna"; gene_id "gene-E4U21_005570"; gene_name "BCP1";
+SRPZ01000045.1	Genbank	exon	29873	29965	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005570-T1_mrna"; gene_id "gene-E4U21_005570"; gene_name "BCP1";
+SRPZ01000045.1	Genbank	CDS	29006	29776	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005570-T1_mrna"; gene_id "gene-E4U21_005570"; gene_name "BCP1";
+SRPZ01000045.1	Genbank	CDS	29873	29965	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005570-T1_mrna"; gene_id "gene-E4U21_005570"; gene_name "BCP1";
+SRPZ01000045.1	Genbank	transcript	89010	90467	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005589-T1_mrna"; gene_id "gene-E4U21_005589"
+SRPZ01000045.1	Genbank	exon	89010	90467	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005589-T1_mrna"; gene_id "gene-E4U21_005589";
+SRPZ01000045.1	Genbank	CDS	89010	90467	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005589-T1_mrna"; gene_id "gene-E4U21_005589";
+SRPZ01000046.1	Genbank	transcript	87239	88533	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005661-T1_mrna"; gene_id "gene-E4U21_005661"
+SRPZ01000046.1	Genbank	exon	87239	87302	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005661-T1_mrna"; gene_id "gene-E4U21_005661";
+SRPZ01000046.1	Genbank	exon	87428	88533	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005661-T1_mrna"; gene_id "gene-E4U21_005661";
+SRPZ01000046.1	Genbank	CDS	87239	87302	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005661-T1_mrna"; gene_id "gene-E4U21_005661";
+SRPZ01000046.1	Genbank	CDS	87428	88533	.	+	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005661-T1_mrna"; gene_id "gene-E4U21_005661";
+SRPZ01000046.1	Genbank	transcript	90728	91798	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005663-T1_mrna"; gene_id "gene-E4U21_005663"
+SRPZ01000046.1	Genbank	exon	90728	91026	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005663-T1_mrna"; gene_id "gene-E4U21_005663";
+SRPZ01000046.1	Genbank	exon	91183	91798	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005663-T1_mrna"; gene_id "gene-E4U21_005663";
+SRPZ01000046.1	Genbank	CDS	90728	91026	.	-	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005663-T1_mrna"; gene_id "gene-E4U21_005663";
+SRPZ01000046.1	Genbank	CDS	91183	91798	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005663-T1_mrna"; gene_id "gene-E4U21_005663";
+SRPZ01000506.1	Genbank	transcript	6782	8249	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005996-T1_mrna"; gene_id "gene-E4U21_005996"
+SRPZ01000506.1	Genbank	exon	6782	7595	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005996-T1_mrna"; gene_id "gene-E4U21_005996";
+SRPZ01000506.1	Genbank	exon	7711	7939	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005996-T1_mrna"; gene_id "gene-E4U21_005996";
+SRPZ01000506.1	Genbank	exon	8144	8249	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005996-T1_mrna"; gene_id "gene-E4U21_005996";
+SRPZ01000506.1	Genbank	CDS	6782	7595	.	-	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005996-T1_mrna"; gene_id "gene-E4U21_005996";
+SRPZ01000506.1	Genbank	CDS	7711	7939	.	-	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005996-T1_mrna"; gene_id "gene-E4U21_005996";
+SRPZ01000506.1	Genbank	CDS	8144	8249	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_005996-T1_mrna"; gene_id "gene-E4U21_005996";
+SRPZ01000051.1	Genbank	transcript	26900	28470	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006007-T1_mrna"; gene_id "gene-E4U21_006007"
+SRPZ01000051.1	Genbank	exon	26900	27548	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006007-T1_mrna"; gene_id "gene-E4U21_006007";
+SRPZ01000051.1	Genbank	exon	27686	28470	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006007-T1_mrna"; gene_id "gene-E4U21_006007";
+SRPZ01000051.1	Genbank	CDS	26900	27548	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006007-T1_mrna"; gene_id "gene-E4U21_006007";
+SRPZ01000051.1	Genbank	CDS	27686	28470	.	+	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006007-T1_mrna"; gene_id "gene-E4U21_006007";
+SRPZ01000051.1	Genbank	transcript	71150	72714	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006021-T1_mrna"; gene_id "gene-E4U21_006021"
+SRPZ01000051.1	Genbank	exon	71150	71511	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006021-T1_mrna"; gene_id "gene-E4U21_006021";
+SRPZ01000051.1	Genbank	exon	71643	72714	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006021-T1_mrna"; gene_id "gene-E4U21_006021";
+SRPZ01000051.1	Genbank	CDS	71150	71511	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006021-T1_mrna"; gene_id "gene-E4U21_006021";
+SRPZ01000051.1	Genbank	CDS	71643	72714	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006021-T1_mrna"; gene_id "gene-E4U21_006021";
+SRPZ01000052.1	Genbank	transcript	93484	94340	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006082-T1_mrna"; gene_id "gene-E4U21_006082"; gene_name "ISY1"
+SRPZ01000052.1	Genbank	exon	93484	94221	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006082-T1_mrna"; gene_id "gene-E4U21_006082"; gene_name "ISY1";
+SRPZ01000052.1	Genbank	exon	94338	94340	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006082-T1_mrna"; gene_id "gene-E4U21_006082"; gene_name "ISY1";
+SRPZ01000052.1	Genbank	CDS	93484	94221	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006082-T1_mrna"; gene_id "gene-E4U21_006082"; gene_name "ISY1";
+SRPZ01000052.1	Genbank	CDS	94338	94340	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006082-T1_mrna"; gene_id "gene-E4U21_006082"; gene_name "ISY1";
+SRPZ01000522.1	Genbank	transcript	4051	5145	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006095-T1_mrna"; gene_id "gene-E4U21_006095"
+SRPZ01000522.1	Genbank	exon	4051	4797	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006095-T1_mrna"; gene_id "gene-E4U21_006095";
+SRPZ01000522.1	Genbank	exon	4849	5145	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006095-T1_mrna"; gene_id "gene-E4U21_006095";
+SRPZ01000522.1	Genbank	CDS	4051	4797	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006095-T1_mrna"; gene_id "gene-E4U21_006095";
+SRPZ01000522.1	Genbank	CDS	4849	5145	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006095-T1_mrna"; gene_id "gene-E4U21_006095";
+SRPZ01000529.1	Genbank	transcript	3433	4224	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006108-T1_mrna"; gene_id "gene-E4U21_006108"
+SRPZ01000529.1	Genbank	exon	3433	4224	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006108-T1_mrna"; gene_id "gene-E4U21_006108";
+SRPZ01000529.1	Genbank	CDS	3433	4224	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006108-T1_mrna"; gene_id "gene-E4U21_006108";
+SRPZ01000053.1	Genbank	transcript	52859	53859	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006126-T1_mrna"; gene_id "gene-E4U21_006126"
+SRPZ01000053.1	Genbank	exon	52859	53687	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006126-T1_mrna"; gene_id "gene-E4U21_006126";
+SRPZ01000053.1	Genbank	exon	53837	53859	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006126-T1_mrna"; gene_id "gene-E4U21_006126";
+SRPZ01000053.1	Genbank	CDS	52859	53687	.	-	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006126-T1_mrna"; gene_id "gene-E4U21_006126";
+SRPZ01000053.1	Genbank	CDS	53837	53859	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006126-T1_mrna"; gene_id "gene-E4U21_006126";
+SRPZ01000568.1	Genbank	transcript	3243	5534	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006297-T1_mrna"; gene_id "gene-E4U21_006297"; gene_name "ERB1"
+SRPZ01000568.1	Genbank	exon	3243	4862	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006297-T1_mrna"; gene_id "gene-E4U21_006297"; gene_name "ERB1";
+SRPZ01000568.1	Genbank	exon	4917	5534	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006297-T1_mrna"; gene_id "gene-E4U21_006297"; gene_name "ERB1";
+SRPZ01000568.1	Genbank	CDS	3243	4862	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006297-T1_mrna"; gene_id "gene-E4U21_006297"; gene_name "ERB1";
+SRPZ01000568.1	Genbank	CDS	4917	5534	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006297-T1_mrna"; gene_id "gene-E4U21_006297"; gene_name "ERB1";
+SRPZ01000057.1	Genbank	transcript	43633	46142	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006308-T1_mrna"; gene_id "gene-E4U21_006308"
+SRPZ01000057.1	Genbank	exon	43633	43679	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006308-T1_mrna"; gene_id "gene-E4U21_006308";
+SRPZ01000057.1	Genbank	exon	43801	43836	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006308-T1_mrna"; gene_id "gene-E4U21_006308";
+SRPZ01000057.1	Genbank	exon	43913	46142	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006308-T1_mrna"; gene_id "gene-E4U21_006308";
+SRPZ01000057.1	Genbank	CDS	43633	43679	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006308-T1_mrna"; gene_id "gene-E4U21_006308";
+SRPZ01000057.1	Genbank	CDS	43801	43836	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006308-T1_mrna"; gene_id "gene-E4U21_006308";
+SRPZ01000057.1	Genbank	CDS	43913	46142	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006308-T1_mrna"; gene_id "gene-E4U21_006308";
+SRPZ01000057.1	Genbank	transcript	51370	53247	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006311-T1_mrna"; gene_id "gene-E4U21_006311"
+SRPZ01000057.1	Genbank	exon	51370	51458	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006311-T1_mrna"; gene_id "gene-E4U21_006311";
+SRPZ01000057.1	Genbank	exon	51558	53247	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006311-T1_mrna"; gene_id "gene-E4U21_006311";
+SRPZ01000057.1	Genbank	CDS	51370	51458	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006311-T1_mrna"; gene_id "gene-E4U21_006311";
+SRPZ01000057.1	Genbank	CDS	51558	53247	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006311-T1_mrna"; gene_id "gene-E4U21_006311";
+SRPZ01000058.1	Genbank	transcript	20272	21921	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006345-T1_mrna"; gene_id "gene-E4U21_006345"; gene_name "HAT1"
+SRPZ01000058.1	Genbank	exon	20272	21410	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006345-T1_mrna"; gene_id "gene-E4U21_006345"; gene_name "HAT1";
+SRPZ01000058.1	Genbank	exon	21504	21788	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006345-T1_mrna"; gene_id "gene-E4U21_006345"; gene_name "HAT1";
+SRPZ01000058.1	Genbank	exon	21894	21921	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006345-T1_mrna"; gene_id "gene-E4U21_006345"; gene_name "HAT1";
+SRPZ01000058.1	Genbank	CDS	20272	21410	.	-	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006345-T1_mrna"; gene_id "gene-E4U21_006345"; gene_name "HAT1";
+SRPZ01000058.1	Genbank	CDS	21504	21788	.	-	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006345-T1_mrna"; gene_id "gene-E4U21_006345"; gene_name "HAT1";
+SRPZ01000058.1	Genbank	CDS	21894	21921	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006345-T1_mrna"; gene_id "gene-E4U21_006345"; gene_name "HAT1";
+SRPZ01000059.1	Genbank	transcript	20897	22210	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006396-T1_mrna"; gene_id "gene-E4U21_006396"
+SRPZ01000059.1	Genbank	exon	20897	21865	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006396-T1_mrna"; gene_id "gene-E4U21_006396";
+SRPZ01000059.1	Genbank	exon	22100	22210	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006396-T1_mrna"; gene_id "gene-E4U21_006396";
+SRPZ01000059.1	Genbank	CDS	20897	21865	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006396-T1_mrna"; gene_id "gene-E4U21_006396";
+SRPZ01000059.1	Genbank	CDS	22100	22210	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006396-T1_mrna"; gene_id "gene-E4U21_006396";
+SRPZ01000059.1	Genbank	transcript	22713	25066	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006397-T1_mrna"; gene_id "gene-E4U21_006397"; gene_name "UTP25"
+SRPZ01000059.1	Genbank	exon	22713	22722	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006397-T1_mrna"; gene_id "gene-E4U21_006397"; gene_name "UTP25";
+SRPZ01000059.1	Genbank	exon	22855	22867	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006397-T1_mrna"; gene_id "gene-E4U21_006397"; gene_name "UTP25";
+SRPZ01000059.1	Genbank	exon	22954	23676	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006397-T1_mrna"; gene_id "gene-E4U21_006397"; gene_name "UTP25";
+SRPZ01000059.1	Genbank	exon	23764	25066	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006397-T1_mrna"; gene_id "gene-E4U21_006397"; gene_name "UTP25";
+SRPZ01000059.1	Genbank	CDS	22713	22722	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006397-T1_mrna"; gene_id "gene-E4U21_006397"; gene_name "UTP25";
+SRPZ01000059.1	Genbank	CDS	22855	22867	.	+	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006397-T1_mrna"; gene_id "gene-E4U21_006397"; gene_name "UTP25";
+SRPZ01000059.1	Genbank	CDS	22954	23676	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006397-T1_mrna"; gene_id "gene-E4U21_006397"; gene_name "UTP25";
+SRPZ01000059.1	Genbank	CDS	23764	25066	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006397-T1_mrna"; gene_id "gene-E4U21_006397"; gene_name "UTP25";
+SRPZ01000006.1	Genbank	transcript	189231	191213	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006478-T1_mrna"; gene_id "gene-E4U21_006478"; gene_name "NOP7"
+SRPZ01000006.1	Genbank	exon	189231	191213	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006478-T1_mrna"; gene_id "gene-E4U21_006478"; gene_name "NOP7";
+SRPZ01000006.1	Genbank	CDS	189231	191213	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006478-T1_mrna"; gene_id "gene-E4U21_006478"; gene_name "NOP7";
+SRPZ01000060.1	Genbank	transcript	63	1277	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006495-T1_mrna"; gene_id "gene-E4U21_006495"
+SRPZ01000060.1	Genbank	exon	63	1277	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006495-T1_mrna"; gene_id "gene-E4U21_006495";
+SRPZ01000060.1	Genbank	CDS	63	1277	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006495-T1_mrna"; gene_id "gene-E4U21_006495";
+SRPZ01000060.1	Genbank	transcript	112709	114523	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006534-T1_mrna"; gene_id "gene-E4U21_006534"
+SRPZ01000060.1	Genbank	exon	112709	112955	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006534-T1_mrna"; gene_id "gene-E4U21_006534";
+SRPZ01000060.1	Genbank	exon	113135	113348	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006534-T1_mrna"; gene_id "gene-E4U21_006534";
+SRPZ01000060.1	Genbank	exon	113500	114523	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006534-T1_mrna"; gene_id "gene-E4U21_006534";
+SRPZ01000060.1	Genbank	CDS	112709	112955	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006534-T1_mrna"; gene_id "gene-E4U21_006534";
+SRPZ01000060.1	Genbank	CDS	113135	113348	.	+	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006534-T1_mrna"; gene_id "gene-E4U21_006534";
+SRPZ01000060.1	Genbank	CDS	113500	114523	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006534-T1_mrna"; gene_id "gene-E4U21_006534";
+SRPZ01000064.1	Genbank	transcript	8265	10821	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006676-T1_mrna"; gene_id "gene-E4U21_006676"
+SRPZ01000064.1	Genbank	exon	8265	8974	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006676-T1_mrna"; gene_id "gene-E4U21_006676";
+SRPZ01000064.1	Genbank	exon	9057	10821	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006676-T1_mrna"; gene_id "gene-E4U21_006676";
+SRPZ01000064.1	Genbank	CDS	8265	8974	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006676-T1_mrna"; gene_id "gene-E4U21_006676";
+SRPZ01000064.1	Genbank	CDS	9057	10821	.	+	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006676-T1_mrna"; gene_id "gene-E4U21_006676";
+SRPZ01000065.1	Genbank	transcript	27720	29054	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006721-T1_mrna"; gene_id "gene-E4U21_006721"
+SRPZ01000065.1	Genbank	exon	27720	28871	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006721-T1_mrna"; gene_id "gene-E4U21_006721";
+SRPZ01000065.1	Genbank	exon	28974	29054	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006721-T1_mrna"; gene_id "gene-E4U21_006721";
+SRPZ01000065.1	Genbank	CDS	27720	28871	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006721-T1_mrna"; gene_id "gene-E4U21_006721";
+SRPZ01000065.1	Genbank	CDS	28974	29054	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006721-T1_mrna"; gene_id "gene-E4U21_006721";
+SRPZ01000066.1	Genbank	transcript	101492	103642	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006784-T1_mrna"; gene_id "gene-E4U21_006784"
+SRPZ01000066.1	Genbank	exon	101492	103642	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006784-T1_mrna"; gene_id "gene-E4U21_006784";
+SRPZ01000066.1	Genbank	CDS	101492	103642	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006784-T1_mrna"; gene_id "gene-E4U21_006784";
+SRPZ01000068.1	Genbank	transcript	69787	71218	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006841-T1_mrna"; gene_id "gene-E4U21_006841"
+SRPZ01000068.1	Genbank	exon	69787	70413	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006841-T1_mrna"; gene_id "gene-E4U21_006841";
+SRPZ01000068.1	Genbank	exon	70537	71076	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006841-T1_mrna"; gene_id "gene-E4U21_006841";
+SRPZ01000068.1	Genbank	exon	71168	71218	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006841-T1_mrna"; gene_id "gene-E4U21_006841";
+SRPZ01000068.1	Genbank	CDS	69787	70413	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006841-T1_mrna"; gene_id "gene-E4U21_006841";
+SRPZ01000068.1	Genbank	CDS	70537	71076	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006841-T1_mrna"; gene_id "gene-E4U21_006841";
+SRPZ01000068.1	Genbank	CDS	71168	71218	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_006841-T1_mrna"; gene_id "gene-E4U21_006841";
+SRPZ01000071.1	Genbank	transcript	112584	114050	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007042-T1_mrna"; gene_id "gene-E4U21_007042"
+SRPZ01000071.1	Genbank	exon	112584	114050	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007042-T1_mrna"; gene_id "gene-E4U21_007042";
+SRPZ01000071.1	Genbank	CDS	112584	114050	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007042-T1_mrna"; gene_id "gene-E4U21_007042";
+SRPZ01000073.1	Genbank	transcript	71824	72867	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007087-T1_mrna"; gene_id "gene-E4U21_007087"; gene_name "DPH5"
+SRPZ01000073.1	Genbank	exon	71824	72427	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007087-T1_mrna"; gene_id "gene-E4U21_007087"; gene_name "DPH5";
+SRPZ01000073.1	Genbank	exon	72535	72659	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007087-T1_mrna"; gene_id "gene-E4U21_007087"; gene_name "DPH5";
+SRPZ01000073.1	Genbank	exon	72733	72867	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007087-T1_mrna"; gene_id "gene-E4U21_007087"; gene_name "DPH5";
+SRPZ01000073.1	Genbank	CDS	71824	72427	.	-	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007087-T1_mrna"; gene_id "gene-E4U21_007087"; gene_name "DPH5";
+SRPZ01000073.1	Genbank	CDS	72535	72659	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007087-T1_mrna"; gene_id "gene-E4U21_007087"; gene_name "DPH5";
+SRPZ01000073.1	Genbank	CDS	72733	72867	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007087-T1_mrna"; gene_id "gene-E4U21_007087"; gene_name "DPH5";
+SRPZ01000073.1	Genbank	transcript	73262	73975	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007088-T1_mrna"; gene_id "gene-E4U21_007088"
+SRPZ01000073.1	Genbank	exon	73262	73975	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007088-T1_mrna"; gene_id "gene-E4U21_007088";
+SRPZ01000073.1	Genbank	CDS	73262	73975	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007088-T1_mrna"; gene_id "gene-E4U21_007088";
+SRPZ01000075.1	Genbank	transcript	21324	22298	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007126-T1_mrna"; gene_id "gene-E4U21_007126"
+SRPZ01000075.1	Genbank	exon	21324	22298	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007126-T1_mrna"; gene_id "gene-E4U21_007126";
+SRPZ01000075.1	Genbank	CDS	21324	22298	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007126-T1_mrna"; gene_id "gene-E4U21_007126";
+SRPZ01000075.1	Genbank	transcript	51985	53765	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007136-T1_mrna"; gene_id "gene-E4U21_007136"; gene_name "CSN12"
+SRPZ01000075.1	Genbank	exon	51985	52068	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007136-T1_mrna"; gene_id "gene-E4U21_007136"; gene_name "CSN12";
+SRPZ01000075.1	Genbank	exon	52265	52679	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007136-T1_mrna"; gene_id "gene-E4U21_007136"; gene_name "CSN12";
+SRPZ01000075.1	Genbank	exon	52731	52792	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007136-T1_mrna"; gene_id "gene-E4U21_007136"; gene_name "CSN12";
+SRPZ01000075.1	Genbank	exon	52844	53075	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007136-T1_mrna"; gene_id "gene-E4U21_007136"; gene_name "CSN12";
+SRPZ01000075.1	Genbank	exon	53129	53421	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007136-T1_mrna"; gene_id "gene-E4U21_007136"; gene_name "CSN12";
+SRPZ01000075.1	Genbank	exon	53478	53765	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007136-T1_mrna"; gene_id "gene-E4U21_007136"; gene_name "CSN12";
+SRPZ01000075.1	Genbank	CDS	51985	52068	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007136-T1_mrna"; gene_id "gene-E4U21_007136"; gene_name "CSN12";
+SRPZ01000075.1	Genbank	CDS	52265	52679	.	-	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007136-T1_mrna"; gene_id "gene-E4U21_007136"; gene_name "CSN12";
+SRPZ01000075.1	Genbank	CDS	52731	52792	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007136-T1_mrna"; gene_id "gene-E4U21_007136"; gene_name "CSN12";
+SRPZ01000075.1	Genbank	CDS	52844	53075	.	-	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007136-T1_mrna"; gene_id "gene-E4U21_007136"; gene_name "CSN12";
+SRPZ01000075.1	Genbank	CDS	53129	53421	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007136-T1_mrna"; gene_id "gene-E4U21_007136"; gene_name "CSN12";
+SRPZ01000075.1	Genbank	CDS	53478	53765	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007136-T1_mrna"; gene_id "gene-E4U21_007136"; gene_name "CSN12";
+SRPZ01000076.1	Genbank	transcript	36702	40004	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007167-T1_mrna"; gene_id "gene-E4U21_007167"
+SRPZ01000076.1	Genbank	exon	36702	37481	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007167-T1_mrna"; gene_id "gene-E4U21_007167";
+SRPZ01000076.1	Genbank	exon	37609	38086	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007167-T1_mrna"; gene_id "gene-E4U21_007167";
+SRPZ01000076.1	Genbank	exon	38178	39352	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007167-T1_mrna"; gene_id "gene-E4U21_007167";
+SRPZ01000076.1	Genbank	exon	39429	40004	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007167-T1_mrna"; gene_id "gene-E4U21_007167";
+SRPZ01000076.1	Genbank	CDS	36702	37481	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007167-T1_mrna"; gene_id "gene-E4U21_007167";
+SRPZ01000076.1	Genbank	CDS	37609	38086	.	-	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007167-T1_mrna"; gene_id "gene-E4U21_007167";
+SRPZ01000076.1	Genbank	CDS	38178	39352	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007167-T1_mrna"; gene_id "gene-E4U21_007167";
+SRPZ01000076.1	Genbank	CDS	39429	40004	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007167-T1_mrna"; gene_id "gene-E4U21_007167";
+SRPZ01000076.1	Genbank	transcript	49629	51353	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007172-T1_mrna"; gene_id "gene-E4U21_007172"; gene_name "PRP46"
+SRPZ01000076.1	Genbank	exon	49629	49714	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007172-T1_mrna"; gene_id "gene-E4U21_007172"; gene_name "PRP46";
+SRPZ01000076.1	Genbank	exon	49874	50038	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007172-T1_mrna"; gene_id "gene-E4U21_007172"; gene_name "PRP46";
+SRPZ01000076.1	Genbank	exon	50162	51353	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007172-T1_mrna"; gene_id "gene-E4U21_007172"; gene_name "PRP46";
+SRPZ01000076.1	Genbank	CDS	49629	49714	.	-	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007172-T1_mrna"; gene_id "gene-E4U21_007172"; gene_name "PRP46";
+SRPZ01000076.1	Genbank	CDS	49874	50038	.	-	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007172-T1_mrna"; gene_id "gene-E4U21_007172"; gene_name "PRP46";
+SRPZ01000076.1	Genbank	CDS	50162	51353	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007172-T1_mrna"; gene_id "gene-E4U21_007172"; gene_name "PRP46";
+SRPZ01000078.1	Genbank	transcript	6976	8913	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007228-T1_mrna"; gene_id "gene-E4U21_007228"
+SRPZ01000078.1	Genbank	exon	6976	8913	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007228-T1_mrna"; gene_id "gene-E4U21_007228";
+SRPZ01000078.1	Genbank	CDS	6976	8913	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007228-T1_mrna"; gene_id "gene-E4U21_007228";
+SRPZ01000008.1	Genbank	transcript	26411	29173	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007300-T1_mrna"; gene_id "gene-E4U21_007300"
+SRPZ01000008.1	Genbank	exon	26411	29173	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007300-T1_mrna"; gene_id "gene-E4U21_007300";
+SRPZ01000008.1	Genbank	CDS	26411	29173	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007300-T1_mrna"; gene_id "gene-E4U21_007300";
+SRPZ01000008.1	Genbank	transcript	79396	80885	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007315-T1_mrna"; gene_id "gene-E4U21_007315"; gene_name "DPH1"
+SRPZ01000008.1	Genbank	exon	79396	80552	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007315-T1_mrna"; gene_id "gene-E4U21_007315"; gene_name "DPH1";
+SRPZ01000008.1	Genbank	exon	80660	80885	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007315-T1_mrna"; gene_id "gene-E4U21_007315"; gene_name "DPH1";
+SRPZ01000008.1	Genbank	CDS	79396	80552	.	-	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007315-T1_mrna"; gene_id "gene-E4U21_007315"; gene_name "DPH1";
+SRPZ01000008.1	Genbank	CDS	80660	80885	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007315-T1_mrna"; gene_id "gene-E4U21_007315"; gene_name "DPH1";
+SRPZ01000084.1	Genbank	transcript	12204	13712	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007462-T1_mrna"; gene_id "gene-E4U21_007462"; gene_name "CYP6"
+SRPZ01000084.1	Genbank	exon	12204	13581	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007462-T1_mrna"; gene_id "gene-E4U21_007462"; gene_name "CYP6";
+SRPZ01000084.1	Genbank	exon	13633	13712	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007462-T1_mrna"; gene_id "gene-E4U21_007462"; gene_name "CYP6";
+SRPZ01000084.1	Genbank	CDS	12204	13581	.	-	1	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007462-T1_mrna"; gene_id "gene-E4U21_007462"; gene_name "CYP6";
+SRPZ01000084.1	Genbank	CDS	13633	13712	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007462-T1_mrna"; gene_id "gene-E4U21_007462"; gene_name "CYP6";
+SRPZ01000086.1	Genbank	transcript	55989	56981	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007539-T1_mrna"; gene_id "gene-E4U21_007539"
+SRPZ01000086.1	Genbank	exon	55989	56981	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007539-T1_mrna"; gene_id "gene-E4U21_007539";
+SRPZ01000086.1	Genbank	CDS	55989	56981	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007539-T1_mrna"; gene_id "gene-E4U21_007539";
+SRPZ01000009.1	Genbank	transcript	178898	182109	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007691-T1_mrna"; gene_id "gene-E4U21_007691"; gene_name "HIR1"
+SRPZ01000009.1	Genbank	exon	178898	181895	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007691-T1_mrna"; gene_id "gene-E4U21_007691"; gene_name "HIR1";
+SRPZ01000009.1	Genbank	exon	182003	182109	.	+	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007691-T1_mrna"; gene_id "gene-E4U21_007691"; gene_name "HIR1";
+SRPZ01000009.1	Genbank	CDS	178898	181895	.	+	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007691-T1_mrna"; gene_id "gene-E4U21_007691"; gene_name "HIR1";
+SRPZ01000009.1	Genbank	CDS	182003	182109	.	+	2	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007691-T1_mrna"; gene_id "gene-E4U21_007691"; gene_name "HIR1";
+SRPZ01000090.1	Genbank	transcript	39875	41118	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007708-T1_mrna"; gene_id "gene-E4U21_007708"
+SRPZ01000090.1	Genbank	exon	39875	40198	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007708-T1_mrna"; gene_id "gene-E4U21_007708";
+SRPZ01000090.1	Genbank	exon	40384	41118	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007708-T1_mrna"; gene_id "gene-E4U21_007708";
+SRPZ01000090.1	Genbank	CDS	39875	40198	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007708-T1_mrna"; gene_id "gene-E4U21_007708";
+SRPZ01000090.1	Genbank	CDS	40384	41118	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007708-T1_mrna"; gene_id "gene-E4U21_007708";
+SRPZ01000095.1	Genbank	transcript	12029	13519	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007826-T1_mrna"; gene_id "gene-E4U21_007826"
+SRPZ01000095.1	Genbank	exon	12029	13519	.	-	.	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007826-T1_mrna"; gene_id "gene-E4U21_007826";
+SRPZ01000095.1	Genbank	CDS	12029	13519	.	-	0	transcript_id "rna-gnl|WGS:SRPZ|E4U21_007826-T1_mrna"; gene_id "gene-E4U21_007826";
