@@ -1,0 +1,571 @@
+NETL01000015.1	Genbank	transcript	351153	351932	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S01014700.1_mrna"; gene_id "gene-PKNOH_S01014700"
+NETL01000015.1	Genbank	exon	351153	351932	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S01014700.1_mrna"; gene_id "gene-PKNOH_S01014700";
+NETL01000015.1	Genbank	CDS	351153	351932	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S01014700.1_mrna"; gene_id "gene-PKNOH_S01014700";
+NETL01000015.1	Genbank	transcript	826286	828028	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S01025900.1_mrna"; gene_id "gene-PKNOH_S01025900"; gene_name "NOL10"
+NETL01000015.1	Genbank	exon	826286	828028	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S01025900.1_mrna"; gene_id "gene-PKNOH_S01025900"; gene_name "NOL10";
+NETL01000015.1	Genbank	CDS	826286	828028	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S01025900.1_mrna"; gene_id "gene-PKNOH_S01025900"; gene_name "NOL10";
+NETL01000024.1	Genbank	transcript	227681	230911	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100031600.1_mrna"; gene_id "gene-PKNOH_S100031600"; gene_name "UTP25"
+NETL01000024.1	Genbank	exon	227681	230911	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100031600.1_mrna"; gene_id "gene-PKNOH_S100031600"; gene_name "UTP25";
+NETL01000024.1	Genbank	CDS	227681	230911	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100031600.1_mrna"; gene_id "gene-PKNOH_S100031600"; gene_name "UTP25";
+NETL01000024.1	Genbank	transcript	450899	451711	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100036700.1_mrna"; gene_id "gene-PKNOH_S100036700"
+NETL01000024.1	Genbank	exon	450899	451711	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100036700.1_mrna"; gene_id "gene-PKNOH_S100036700";
+NETL01000024.1	Genbank	CDS	450899	451711	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100036700.1_mrna"; gene_id "gene-PKNOH_S100036700";
+NETL01000024.1	Genbank	transcript	493217	494029	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100037800.1_mrna"; gene_id "gene-PKNOH_S100037800"
+NETL01000024.1	Genbank	exon	493217	493522	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100037800.1_mrna"; gene_id "gene-PKNOH_S100037800";
+NETL01000024.1	Genbank	exon	493694	494029	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100037800.1_mrna"; gene_id "gene-PKNOH_S100037800";
+NETL01000024.1	Genbank	CDS	493217	493522	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100037800.1_mrna"; gene_id "gene-PKNOH_S100037800";
+NETL01000024.1	Genbank	CDS	493694	494029	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100037800.1_mrna"; gene_id "gene-PKNOH_S100037800";
+NETL01000024.1	Genbank	transcript	744964	746178	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100043200.1_mrna"; gene_id "gene-PKNOH_S100043200"
+NETL01000024.1	Genbank	exon	744964	746178	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100043200.1_mrna"; gene_id "gene-PKNOH_S100043200";
+NETL01000024.1	Genbank	CDS	744964	746178	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100043200.1_mrna"; gene_id "gene-PKNOH_S100043200";
+NETL01000024.1	Genbank	transcript	803240	805751	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100044800.1_mrna"; gene_id "gene-PKNOH_S100044800"
+NETL01000024.1	Genbank	exon	803240	803368	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100044800.1_mrna"; gene_id "gene-PKNOH_S100044800";
+NETL01000024.1	Genbank	exon	803549	803775	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100044800.1_mrna"; gene_id "gene-PKNOH_S100044800";
+NETL01000024.1	Genbank	exon	803966	805751	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100044800.1_mrna"; gene_id "gene-PKNOH_S100044800";
+NETL01000024.1	Genbank	CDS	803240	803368	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100044800.1_mrna"; gene_id "gene-PKNOH_S100044800";
+NETL01000024.1	Genbank	CDS	803549	803775	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100044800.1_mrna"; gene_id "gene-PKNOH_S100044800";
+NETL01000024.1	Genbank	CDS	803966	805751	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100044800.1_mrna"; gene_id "gene-PKNOH_S100044800";
+NETL01000024.1	Genbank	transcript	940791	943038	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100047700.1_mrna"; gene_id "gene-PKNOH_S100047700"; gene_name "ALG7"
+NETL01000024.1	Genbank	exon	940791	941025	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100047700.1_mrna"; gene_id "gene-PKNOH_S100047700"; gene_name "ALG7";
+NETL01000024.1	Genbank	exon	941289	941419	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100047700.1_mrna"; gene_id "gene-PKNOH_S100047700"; gene_name "ALG7";
+NETL01000024.1	Genbank	exon	941593	941643	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100047700.1_mrna"; gene_id "gene-PKNOH_S100047700"; gene_name "ALG7";
+NETL01000024.1	Genbank	exon	941760	941820	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100047700.1_mrna"; gene_id "gene-PKNOH_S100047700"; gene_name "ALG7";
+NETL01000024.1	Genbank	exon	941973	942137	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100047700.1_mrna"; gene_id "gene-PKNOH_S100047700"; gene_name "ALG7";
+NETL01000024.1	Genbank	exon	942246	942313	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100047700.1_mrna"; gene_id "gene-PKNOH_S100047700"; gene_name "ALG7";
+NETL01000024.1	Genbank	exon	942538	943038	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100047700.1_mrna"; gene_id "gene-PKNOH_S100047700"; gene_name "ALG7";
+NETL01000024.1	Genbank	CDS	940791	941025	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100047700.1_mrna"; gene_id "gene-PKNOH_S100047700"; gene_name "ALG7";
+NETL01000024.1	Genbank	CDS	941289	941419	.	+	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100047700.1_mrna"; gene_id "gene-PKNOH_S100047700"; gene_name "ALG7";
+NETL01000024.1	Genbank	CDS	941593	941643	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100047700.1_mrna"; gene_id "gene-PKNOH_S100047700"; gene_name "ALG7";
+NETL01000024.1	Genbank	CDS	941760	941820	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100047700.1_mrna"; gene_id "gene-PKNOH_S100047700"; gene_name "ALG7";
+NETL01000024.1	Genbank	CDS	941973	942137	.	+	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100047700.1_mrna"; gene_id "gene-PKNOH_S100047700"; gene_name "ALG7";
+NETL01000024.1	Genbank	CDS	942246	942313	.	+	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100047700.1_mrna"; gene_id "gene-PKNOH_S100047700"; gene_name "ALG7";
+NETL01000024.1	Genbank	CDS	942538	943038	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100047700.1_mrna"; gene_id "gene-PKNOH_S100047700"; gene_name "ALG7";
+NETL01000024.1	Genbank	transcript	1520725	1522980	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100060400.1_mrna"; gene_id "gene-PKNOH_S100060400"
+NETL01000024.1	Genbank	exon	1520725	1520977	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100060400.1_mrna"; gene_id "gene-PKNOH_S100060400";
+NETL01000024.1	Genbank	exon	1521144	1521206	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100060400.1_mrna"; gene_id "gene-PKNOH_S100060400";
+NETL01000024.1	Genbank	exon	1521350	1521529	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100060400.1_mrna"; gene_id "gene-PKNOH_S100060400";
+NETL01000024.1	Genbank	exon	1521623	1522568	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100060400.1_mrna"; gene_id "gene-PKNOH_S100060400";
+NETL01000024.1	Genbank	exon	1522857	1522980	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100060400.1_mrna"; gene_id "gene-PKNOH_S100060400";
+NETL01000024.1	Genbank	CDS	1520725	1520977	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100060400.1_mrna"; gene_id "gene-PKNOH_S100060400";
+NETL01000024.1	Genbank	CDS	1521144	1521206	.	+	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100060400.1_mrna"; gene_id "gene-PKNOH_S100060400";
+NETL01000024.1	Genbank	CDS	1521350	1521529	.	+	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100060400.1_mrna"; gene_id "gene-PKNOH_S100060400";
+NETL01000024.1	Genbank	CDS	1521623	1522568	.	+	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100060400.1_mrna"; gene_id "gene-PKNOH_S100060400";
+NETL01000024.1	Genbank	CDS	1522857	1522980	.	+	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100060400.1_mrna"; gene_id "gene-PKNOH_S100060400";
+NETL01000024.1	Genbank	transcript	1632980	1634413	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100063400.1_mrna"; gene_id "gene-PKNOH_S100063400"
+NETL01000024.1	Genbank	exon	1632980	1634413	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100063400.1_mrna"; gene_id "gene-PKNOH_S100063400";
+NETL01000024.1	Genbank	CDS	1632980	1634413	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100063400.1_mrna"; gene_id "gene-PKNOH_S100063400";
+NETL01000024.1	Genbank	transcript	1926562	1928560	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100069600.1_mrna"; gene_id "gene-PKNOH_S100069600"; gene_name "PRP46"
+NETL01000024.1	Genbank	exon	1926562	1928259	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100069600.1_mrna"; gene_id "gene-PKNOH_S100069600"; gene_name "PRP46";
+NETL01000024.1	Genbank	exon	1928483	1928560	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100069600.1_mrna"; gene_id "gene-PKNOH_S100069600"; gene_name "PRP46";
+NETL01000024.1	Genbank	CDS	1926562	1928259	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100069600.1_mrna"; gene_id "gene-PKNOH_S100069600"; gene_name "PRP46";
+NETL01000024.1	Genbank	CDS	1928483	1928560	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S100069600.1_mrna"; gene_id "gene-PKNOH_S100069600"; gene_name "PRP46";
+NETL01000025.1	Genbank	transcript	253321	254529	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110075400.1_mrna"; gene_id "gene-PKNOH_S110075400"
+NETL01000025.1	Genbank	exon	253321	254529	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110075400.1_mrna"; gene_id "gene-PKNOH_S110075400";
+NETL01000025.1	Genbank	CDS	253321	254529	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110075400.1_mrna"; gene_id "gene-PKNOH_S110075400";
+NETL01000025.1	Genbank	transcript	407530	408743	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110079500.1_mrna"; gene_id "gene-PKNOH_S110079500"; gene_name "ISY1"
+NETL01000025.1	Genbank	exon	407530	407816	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110079500.1_mrna"; gene_id "gene-PKNOH_S110079500"; gene_name "ISY1";
+NETL01000025.1	Genbank	exon	407935	407986	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110079500.1_mrna"; gene_id "gene-PKNOH_S110079500"; gene_name "ISY1";
+NETL01000025.1	Genbank	exon	408226	408370	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110079500.1_mrna"; gene_id "gene-PKNOH_S110079500"; gene_name "ISY1";
+NETL01000025.1	Genbank	exon	408607	408743	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110079500.1_mrna"; gene_id "gene-PKNOH_S110079500"; gene_name "ISY1";
+NETL01000025.1	Genbank	CDS	407530	407816	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110079500.1_mrna"; gene_id "gene-PKNOH_S110079500"; gene_name "ISY1";
+NETL01000025.1	Genbank	CDS	407935	407986	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110079500.1_mrna"; gene_id "gene-PKNOH_S110079500"; gene_name "ISY1";
+NETL01000025.1	Genbank	CDS	408226	408370	.	-	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110079500.1_mrna"; gene_id "gene-PKNOH_S110079500"; gene_name "ISY1";
+NETL01000025.1	Genbank	CDS	408607	408743	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110079500.1_mrna"; gene_id "gene-PKNOH_S110079500"; gene_name "ISY1";
+NETL01000025.1	Genbank	transcript	447645	449018	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110080500.1_mrna"; gene_id "gene-PKNOH_S110080500"
+NETL01000025.1	Genbank	exon	447645	449018	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110080500.1_mrna"; gene_id "gene-PKNOH_S110080500";
+NETL01000025.1	Genbank	CDS	447645	449018	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110080500.1_mrna"; gene_id "gene-PKNOH_S110080500";
+NETL01000025.1	Genbank	transcript	485107	485751	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110081700.1_mrna"; gene_id "gene-PKNOH_S110081700"
+NETL01000025.1	Genbank	exon	485107	485751	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110081700.1_mrna"; gene_id "gene-PKNOH_S110081700";
+NETL01000025.1	Genbank	CDS	485107	485751	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110081700.1_mrna"; gene_id "gene-PKNOH_S110081700";
+NETL01000025.1	Genbank	transcript	963826	964377	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110091400.1_mrna"; gene_id "gene-PKNOH_S110091400"; gene_name "IMP3"
+NETL01000025.1	Genbank	exon	963826	964377	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110091400.1_mrna"; gene_id "gene-PKNOH_S110091400"; gene_name "IMP3";
+NETL01000025.1	Genbank	CDS	963826	964377	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110091400.1_mrna"; gene_id "gene-PKNOH_S110091400"; gene_name "IMP3";
+NETL01000025.1	Genbank	transcript	1651862	1653845	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110108000.1_mrna"; gene_id "gene-PKNOH_S110108000"
+NETL01000025.1	Genbank	exon	1651862	1651908	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110108000.1_mrna"; gene_id "gene-PKNOH_S110108000";
+NETL01000025.1	Genbank	exon	1652027	1653845	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110108000.1_mrna"; gene_id "gene-PKNOH_S110108000";
+NETL01000025.1	Genbank	CDS	1651862	1651908	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110108000.1_mrna"; gene_id "gene-PKNOH_S110108000";
+NETL01000025.1	Genbank	CDS	1652027	1653845	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110108000.1_mrna"; gene_id "gene-PKNOH_S110108000";
+NETL01000025.1	Genbank	transcript	1971414	1972247	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110114700.1_mrna"; gene_id "gene-PKNOH_S110114700"
+NETL01000025.1	Genbank	exon	1971414	1972247	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110114700.1_mrna"; gene_id "gene-PKNOH_S110114700";
+NETL01000025.1	Genbank	CDS	1971414	1972247	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110114700.1_mrna"; gene_id "gene-PKNOH_S110114700";
+NETL01000025.1	Genbank	transcript	2057866	2058555	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110116500.1_mrna"; gene_id "gene-PKNOH_S110116500"; gene_name "COX11"
+NETL01000025.1	Genbank	exon	2057866	2058555	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110116500.1_mrna"; gene_id "gene-PKNOH_S110116500"; gene_name "COX11";
+NETL01000025.1	Genbank	CDS	2057866	2058555	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S110116500.1_mrna"; gene_id "gene-PKNOH_S110116500"; gene_name "COX11";
+NETL01000026.1	Genbank	transcript	109710	112002	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120120000.1_mrna"; gene_id "gene-PKNOH_S120120000"
+NETL01000026.1	Genbank	exon	109710	109762	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120120000.1_mrna"; gene_id "gene-PKNOH_S120120000";
+NETL01000026.1	Genbank	exon	109969	110088	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120120000.1_mrna"; gene_id "gene-PKNOH_S120120000";
+NETL01000026.1	Genbank	exon	110322	112002	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120120000.1_mrna"; gene_id "gene-PKNOH_S120120000";
+NETL01000026.1	Genbank	CDS	109710	109762	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120120000.1_mrna"; gene_id "gene-PKNOH_S120120000";
+NETL01000026.1	Genbank	CDS	109969	110088	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120120000.1_mrna"; gene_id "gene-PKNOH_S120120000";
+NETL01000026.1	Genbank	CDS	110322	112002	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120120000.1_mrna"; gene_id "gene-PKNOH_S120120000";
+NETL01000026.1	Genbank	transcript	139734	141137	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120120700.1_mrna"; gene_id "gene-PKNOH_S120120700"; gene_name "RPC25"
+NETL01000026.1	Genbank	exon	139734	139781	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120120700.1_mrna"; gene_id "gene-PKNOH_S120120700"; gene_name "RPC25";
+NETL01000026.1	Genbank	exon	139921	139970	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120120700.1_mrna"; gene_id "gene-PKNOH_S120120700"; gene_name "RPC25";
+NETL01000026.1	Genbank	exon	140101	140204	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120120700.1_mrna"; gene_id "gene-PKNOH_S120120700"; gene_name "RPC25";
+NETL01000026.1	Genbank	exon	140365	140428	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120120700.1_mrna"; gene_id "gene-PKNOH_S120120700"; gene_name "RPC25";
+NETL01000026.1	Genbank	exon	140631	140814	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120120700.1_mrna"; gene_id "gene-PKNOH_S120120700"; gene_name "RPC25";
+NETL01000026.1	Genbank	exon	141027	141137	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120120700.1_mrna"; gene_id "gene-PKNOH_S120120700"; gene_name "RPC25";
+NETL01000026.1	Genbank	CDS	139734	139781	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120120700.1_mrna"; gene_id "gene-PKNOH_S120120700"; gene_name "RPC25";
+NETL01000026.1	Genbank	CDS	139921	139970	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120120700.1_mrna"; gene_id "gene-PKNOH_S120120700"; gene_name "RPC25";
+NETL01000026.1	Genbank	CDS	140101	140204	.	-	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120120700.1_mrna"; gene_id "gene-PKNOH_S120120700"; gene_name "RPC25";
+NETL01000026.1	Genbank	CDS	140365	140428	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120120700.1_mrna"; gene_id "gene-PKNOH_S120120700"; gene_name "RPC25";
+NETL01000026.1	Genbank	CDS	140631	140814	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120120700.1_mrna"; gene_id "gene-PKNOH_S120120700"; gene_name "RPC25";
+NETL01000026.1	Genbank	CDS	141027	141137	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120120700.1_mrna"; gene_id "gene-PKNOH_S120120700"; gene_name "RPC25";
+NETL01000026.1	Genbank	transcript	269138	270934	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120123700.1_mrna"; gene_id "gene-PKNOH_S120123700"; gene_name "PES"
+NETL01000026.1	Genbank	exon	269138	270934	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120123700.1_mrna"; gene_id "gene-PKNOH_S120123700"; gene_name "PES";
+NETL01000026.1	Genbank	CDS	269138	270934	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120123700.1_mrna"; gene_id "gene-PKNOH_S120123700"; gene_name "PES";
+NETL01000026.1	Genbank	transcript	333263	336257	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120125200.1_mrna"; gene_id "gene-PKNOH_S120125200"; gene_name "ENP1"
+NETL01000026.1	Genbank	exon	333263	333423	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120125200.1_mrna"; gene_id "gene-PKNOH_S120125200"; gene_name "ENP1";
+NETL01000026.1	Genbank	exon	333874	333979	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120125200.1_mrna"; gene_id "gene-PKNOH_S120125200"; gene_name "ENP1";
+NETL01000026.1	Genbank	exon	334194	334364	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120125200.1_mrna"; gene_id "gene-PKNOH_S120125200"; gene_name "ENP1";
+NETL01000026.1	Genbank	exon	334807	335175	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120125200.1_mrna"; gene_id "gene-PKNOH_S120125200"; gene_name "ENP1";
+NETL01000026.1	Genbank	exon	335739	336257	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120125200.1_mrna"; gene_id "gene-PKNOH_S120125200"; gene_name "ENP1";
+NETL01000026.1	Genbank	CDS	333263	333423	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120125200.1_mrna"; gene_id "gene-PKNOH_S120125200"; gene_name "ENP1";
+NETL01000026.1	Genbank	CDS	333874	333979	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120125200.1_mrna"; gene_id "gene-PKNOH_S120125200"; gene_name "ENP1";
+NETL01000026.1	Genbank	CDS	334194	334364	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120125200.1_mrna"; gene_id "gene-PKNOH_S120125200"; gene_name "ENP1";
+NETL01000026.1	Genbank	CDS	334807	335175	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120125200.1_mrna"; gene_id "gene-PKNOH_S120125200"; gene_name "ENP1";
+NETL01000026.1	Genbank	CDS	335739	336257	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120125200.1_mrna"; gene_id "gene-PKNOH_S120125200"; gene_name "ENP1";
+NETL01000026.1	Genbank	transcript	459241	460308	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120128300.1_mrna"; gene_id "gene-PKNOH_S120128300"; gene_name "COQ4"
+NETL01000026.1	Genbank	exon	459241	460308	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120128300.1_mrna"; gene_id "gene-PKNOH_S120128300"; gene_name "COQ4";
+NETL01000026.1	Genbank	CDS	459241	460308	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120128300.1_mrna"; gene_id "gene-PKNOH_S120128300"; gene_name "COQ4";
+NETL01000026.1	Genbank	transcript	1250388	1252727	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120146900.1_mrna"; gene_id "gene-PKNOH_S120146900"
+NETL01000026.1	Genbank	exon	1250388	1252727	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120146900.1_mrna"; gene_id "gene-PKNOH_S120146900";
+NETL01000026.1	Genbank	CDS	1250388	1252727	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120146900.1_mrna"; gene_id "gene-PKNOH_S120146900";
+NETL01000026.1	Genbank	transcript	1366977	1368426	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120149500.1_mrna"; gene_id "gene-PKNOH_S120149500"; gene_name "PRP38A"
+NETL01000026.1	Genbank	exon	1366977	1368052	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120149500.1_mrna"; gene_id "gene-PKNOH_S120149500"; gene_name "PRP38A";
+NETL01000026.1	Genbank	exon	1368297	1368426	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120149500.1_mrna"; gene_id "gene-PKNOH_S120149500"; gene_name "PRP38A";
+NETL01000026.1	Genbank	CDS	1366977	1368052	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120149500.1_mrna"; gene_id "gene-PKNOH_S120149500"; gene_name "PRP38A";
+NETL01000026.1	Genbank	CDS	1368297	1368426	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120149500.1_mrna"; gene_id "gene-PKNOH_S120149500"; gene_name "PRP38A";
+NETL01000026.1	Genbank	transcript	1549355	1551865	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120153300.1_mrna"; gene_id "gene-PKNOH_S120153300"; gene_name "SRP72"
+NETL01000026.1	Genbank	exon	1549355	1551865	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120153300.1_mrna"; gene_id "gene-PKNOH_S120153300"; gene_name "SRP72";
+NETL01000026.1	Genbank	CDS	1549355	1551865	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120153300.1_mrna"; gene_id "gene-PKNOH_S120153300"; gene_name "SRP72";
+NETL01000026.1	Genbank	transcript	1648026	1649927	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120155500.1_mrna"; gene_id "gene-PKNOH_S120155500"
+NETL01000026.1	Genbank	exon	1648026	1648126	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120155500.1_mrna"; gene_id "gene-PKNOH_S120155500";
+NETL01000026.1	Genbank	exon	1648243	1649650	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120155500.1_mrna"; gene_id "gene-PKNOH_S120155500";
+NETL01000026.1	Genbank	exon	1649868	1649927	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120155500.1_mrna"; gene_id "gene-PKNOH_S120155500";
+NETL01000026.1	Genbank	CDS	1648026	1648126	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120155500.1_mrna"; gene_id "gene-PKNOH_S120155500";
+NETL01000026.1	Genbank	CDS	1648243	1649650	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120155500.1_mrna"; gene_id "gene-PKNOH_S120155500";
+NETL01000026.1	Genbank	CDS	1649868	1649927	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120155500.1_mrna"; gene_id "gene-PKNOH_S120155500";
+NETL01000026.1	Genbank	transcript	1914327	1915974	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120160500.1_mrna"; gene_id "gene-PKNOH_S120160500"
+NETL01000026.1	Genbank	exon	1914327	1914626	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120160500.1_mrna"; gene_id "gene-PKNOH_S120160500";
+NETL01000026.1	Genbank	exon	1914860	1915608	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120160500.1_mrna"; gene_id "gene-PKNOH_S120160500";
+NETL01000026.1	Genbank	exon	1915908	1915974	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120160500.1_mrna"; gene_id "gene-PKNOH_S120160500";
+NETL01000026.1	Genbank	CDS	1914327	1914626	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120160500.1_mrna"; gene_id "gene-PKNOH_S120160500";
+NETL01000026.1	Genbank	CDS	1914860	1915608	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120160500.1_mrna"; gene_id "gene-PKNOH_S120160500";
+NETL01000026.1	Genbank	CDS	1915908	1915974	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120160500.1_mrna"; gene_id "gene-PKNOH_S120160500";
+NETL01000026.1	Genbank	transcript	1999684	2001603	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120162600.1_mrna"; gene_id "gene-PKNOH_S120162600"; gene_name "RSA4"
+NETL01000026.1	Genbank	exon	1999684	2001603	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120162600.1_mrna"; gene_id "gene-PKNOH_S120162600"; gene_name "RSA4";
+NETL01000026.1	Genbank	CDS	1999684	2001603	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120162600.1_mrna"; gene_id "gene-PKNOH_S120162600"; gene_name "RSA4";
+NETL01000026.1	Genbank	transcript	2081460	2084336	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120164100.1_mrna"; gene_id "gene-PKNOH_S120164100"
+NETL01000026.1	Genbank	exon	2081460	2084336	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120164100.1_mrna"; gene_id "gene-PKNOH_S120164100";
+NETL01000026.1	Genbank	CDS	2081460	2084336	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S120164100.1_mrna"; gene_id "gene-PKNOH_S120164100";
+NETL01000027.1	Genbank	transcript	70672	74171	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130167800.1_mrna"; gene_id "gene-PKNOH_S130167800"
+NETL01000027.1	Genbank	exon	70672	71093	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130167800.1_mrna"; gene_id "gene-PKNOH_S130167800";
+NETL01000027.1	Genbank	exon	71222	74171	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130167800.1_mrna"; gene_id "gene-PKNOH_S130167800";
+NETL01000027.1	Genbank	CDS	70672	71093	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130167800.1_mrna"; gene_id "gene-PKNOH_S130167800";
+NETL01000027.1	Genbank	CDS	71222	74171	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130167800.1_mrna"; gene_id "gene-PKNOH_S130167800";
+NETL01000027.1	Genbank	transcript	146347	147387	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130169700.1_mrna"; gene_id "gene-PKNOH_S130169700"
+NETL01000027.1	Genbank	exon	146347	146549	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130169700.1_mrna"; gene_id "gene-PKNOH_S130169700";
+NETL01000027.1	Genbank	exon	146725	146815	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130169700.1_mrna"; gene_id "gene-PKNOH_S130169700";
+NETL01000027.1	Genbank	exon	147016	147387	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130169700.1_mrna"; gene_id "gene-PKNOH_S130169700";
+NETL01000027.1	Genbank	CDS	146347	146549	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130169700.1_mrna"; gene_id "gene-PKNOH_S130169700";
+NETL01000027.1	Genbank	CDS	146725	146815	.	+	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130169700.1_mrna"; gene_id "gene-PKNOH_S130169700";
+NETL01000027.1	Genbank	CDS	147016	147387	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130169700.1_mrna"; gene_id "gene-PKNOH_S130169700";
+NETL01000027.1	Genbank	transcript	246525	248049	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130171900.1_mrna"; gene_id "gene-PKNOH_S130171900"; gene_name "GCVT"
+NETL01000027.1	Genbank	exon	246525	247655	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130171900.1_mrna"; gene_id "gene-PKNOH_S130171900"; gene_name "GCVT";
+NETL01000027.1	Genbank	exon	247978	248049	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130171900.1_mrna"; gene_id "gene-PKNOH_S130171900"; gene_name "GCVT";
+NETL01000027.1	Genbank	CDS	246525	247655	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130171900.1_mrna"; gene_id "gene-PKNOH_S130171900"; gene_name "GCVT";
+NETL01000027.1	Genbank	CDS	247978	248049	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130171900.1_mrna"; gene_id "gene-PKNOH_S130171900"; gene_name "GCVT";
+NETL01000027.1	Genbank	transcript	248862	250472	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130172000.1_mrna"; gene_id "gene-PKNOH_S130172000"
+NETL01000027.1	Genbank	exon	248862	250472	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130172000.1_mrna"; gene_id "gene-PKNOH_S130172000";
+NETL01000027.1	Genbank	CDS	248862	250472	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130172000.1_mrna"; gene_id "gene-PKNOH_S130172000";
+NETL01000027.1	Genbank	transcript	270212	271756	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130172900.1_mrna"; gene_id "gene-PKNOH_S130172900"; gene_name "RRP45"
+NETL01000027.1	Genbank	exon	270212	271756	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130172900.1_mrna"; gene_id "gene-PKNOH_S130172900"; gene_name "RRP45";
+NETL01000027.1	Genbank	CDS	270212	271756	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130172900.1_mrna"; gene_id "gene-PKNOH_S130172900"; gene_name "RRP45";
+NETL01000027.1	Genbank	transcript	859501	861628	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130184800.1_mrna"; gene_id "gene-PKNOH_S130184800"; gene_name "HAS1"
+NETL01000027.1	Genbank	exon	859501	861174	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130184800.1_mrna"; gene_id "gene-PKNOH_S130184800"; gene_name "HAS1";
+NETL01000027.1	Genbank	exon	861485	861628	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130184800.1_mrna"; gene_id "gene-PKNOH_S130184800"; gene_name "HAS1";
+NETL01000027.1	Genbank	CDS	859501	861174	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130184800.1_mrna"; gene_id "gene-PKNOH_S130184800"; gene_name "HAS1";
+NETL01000027.1	Genbank	CDS	861485	861628	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130184800.1_mrna"; gene_id "gene-PKNOH_S130184800"; gene_name "HAS1";
+NETL01000027.1	Genbank	transcript	1044456	1046331	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130187700.1_mrna"; gene_id "gene-PKNOH_S130187700"
+NETL01000027.1	Genbank	exon	1044456	1044605	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130187700.1_mrna"; gene_id "gene-PKNOH_S130187700";
+NETL01000027.1	Genbank	exon	1044802	1045536	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130187700.1_mrna"; gene_id "gene-PKNOH_S130187700";
+NETL01000027.1	Genbank	exon	1045697	1045869	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130187700.1_mrna"; gene_id "gene-PKNOH_S130187700";
+NETL01000027.1	Genbank	exon	1045996	1046059	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130187700.1_mrna"; gene_id "gene-PKNOH_S130187700";
+NETL01000027.1	Genbank	exon	1046260	1046331	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130187700.1_mrna"; gene_id "gene-PKNOH_S130187700";
+NETL01000027.1	Genbank	CDS	1044456	1044605	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130187700.1_mrna"; gene_id "gene-PKNOH_S130187700";
+NETL01000027.1	Genbank	CDS	1044802	1045536	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130187700.1_mrna"; gene_id "gene-PKNOH_S130187700";
+NETL01000027.1	Genbank	CDS	1045697	1045869	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130187700.1_mrna"; gene_id "gene-PKNOH_S130187700";
+NETL01000027.1	Genbank	CDS	1045996	1046059	.	+	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130187700.1_mrna"; gene_id "gene-PKNOH_S130187700";
+NETL01000027.1	Genbank	CDS	1046260	1046331	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130187700.1_mrna"; gene_id "gene-PKNOH_S130187700";
+NETL01000027.1	Genbank	transcript	1366418	1368649	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130194800.1_mrna"; gene_id "gene-PKNOH_S130194800"; gene_name "SRP68"
+NETL01000027.1	Genbank	exon	1366418	1368649	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130194800.1_mrna"; gene_id "gene-PKNOH_S130194800"; gene_name "SRP68";
+NETL01000027.1	Genbank	CDS	1366418	1368649	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130194800.1_mrna"; gene_id "gene-PKNOH_S130194800"; gene_name "SRP68";
+NETL01000027.1	Genbank	transcript	1380047	1381045	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130195200.1_mrna"; gene_id "gene-PKNOH_S130195200"; gene_name "RPP1"
+NETL01000027.1	Genbank	exon	1380047	1381045	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130195200.1_mrna"; gene_id "gene-PKNOH_S130195200"; gene_name "RPP1";
+NETL01000027.1	Genbank	CDS	1380047	1381045	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130195200.1_mrna"; gene_id "gene-PKNOH_S130195200"; gene_name "RPP1";
+NETL01000027.1	Genbank	transcript	1448103	1448801	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130196900.1_mrna"; gene_id "gene-PKNOH_S130196900"; gene_name "SF3A2"
+NETL01000027.1	Genbank	exon	1448103	1448801	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130196900.1_mrna"; gene_id "gene-PKNOH_S130196900"; gene_name "SF3A2";
+NETL01000027.1	Genbank	CDS	1448103	1448801	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130196900.1_mrna"; gene_id "gene-PKNOH_S130196900"; gene_name "SF3A2";
+NETL01000027.1	Genbank	transcript	1746556	1748337	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130204400.1_mrna"; gene_id "gene-PKNOH_S130204400"; gene_name "EIF3L"
+NETL01000027.1	Genbank	exon	1746556	1748337	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130204400.1_mrna"; gene_id "gene-PKNOH_S130204400"; gene_name "EIF3L";
+NETL01000027.1	Genbank	CDS	1746556	1748337	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130204400.1_mrna"; gene_id "gene-PKNOH_S130204400"; gene_name "EIF3L";
+NETL01000027.1	Genbank	transcript	2053713	2058394	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130210000.1_mrna"; gene_id "gene-PKNOH_S130210000"
+NETL01000027.1	Genbank	exon	2053713	2053748	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130210000.1_mrna"; gene_id "gene-PKNOH_S130210000";
+NETL01000027.1	Genbank	exon	2053865	2054010	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130210000.1_mrna"; gene_id "gene-PKNOH_S130210000";
+NETL01000027.1	Genbank	exon	2054154	2054295	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130210000.1_mrna"; gene_id "gene-PKNOH_S130210000";
+NETL01000027.1	Genbank	exon	2054462	2055216	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130210000.1_mrna"; gene_id "gene-PKNOH_S130210000";
+NETL01000027.1	Genbank	exon	2055376	2058394	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130210000.1_mrna"; gene_id "gene-PKNOH_S130210000";
+NETL01000027.1	Genbank	CDS	2053713	2053748	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130210000.1_mrna"; gene_id "gene-PKNOH_S130210000";
+NETL01000027.1	Genbank	CDS	2053865	2054010	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130210000.1_mrna"; gene_id "gene-PKNOH_S130210000";
+NETL01000027.1	Genbank	CDS	2054154	2054295	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130210000.1_mrna"; gene_id "gene-PKNOH_S130210000";
+NETL01000027.1	Genbank	CDS	2054462	2055216	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130210000.1_mrna"; gene_id "gene-PKNOH_S130210000";
+NETL01000027.1	Genbank	CDS	2055376	2058394	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S130210000.1_mrna"; gene_id "gene-PKNOH_S130210000";
+NETL01000028.1	Genbank	transcript	156872	157912	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140219900.1_mrna"; gene_id "gene-PKNOH_S140219900"; gene_name "DOHH"
+NETL01000028.1	Genbank	exon	156872	157912	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140219900.1_mrna"; gene_id "gene-PKNOH_S140219900"; gene_name "DOHH";
+NETL01000028.1	Genbank	CDS	156872	157912	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140219900.1_mrna"; gene_id "gene-PKNOH_S140219900"; gene_name "DOHH";
+NETL01000028.1	Genbank	transcript	484649	486859	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140226800.1_mrna"; gene_id "gene-PKNOH_S140226800"; gene_name "PRPF3"
+NETL01000028.1	Genbank	exon	484649	486859	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140226800.1_mrna"; gene_id "gene-PKNOH_S140226800"; gene_name "PRPF3";
+NETL01000028.1	Genbank	CDS	484649	486859	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140226800.1_mrna"; gene_id "gene-PKNOH_S140226800"; gene_name "PRPF3";
+NETL01000028.1	Genbank	transcript	494058	494651	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140227000.1_mrna"; gene_id "gene-PKNOH_S140227000"; gene_name "GAR1"
+NETL01000028.1	Genbank	exon	494058	494651	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140227000.1_mrna"; gene_id "gene-PKNOH_S140227000"; gene_name "GAR1";
+NETL01000028.1	Genbank	CDS	494058	494651	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140227000.1_mrna"; gene_id "gene-PKNOH_S140227000"; gene_name "GAR1";
+NETL01000028.1	Genbank	transcript	756595	758440	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140233400.1_mrna"; gene_id "gene-PKNOH_S140233400"; gene_name "P44"
+NETL01000028.1	Genbank	exon	756595	756624	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140233400.1_mrna"; gene_id "gene-PKNOH_S140233400"; gene_name "P44";
+NETL01000028.1	Genbank	exon	756775	756859	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140233400.1_mrna"; gene_id "gene-PKNOH_S140233400"; gene_name "P44";
+NETL01000028.1	Genbank	exon	756994	757129	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140233400.1_mrna"; gene_id "gene-PKNOH_S140233400"; gene_name "P44";
+NETL01000028.1	Genbank	exon	757309	757399	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140233400.1_mrna"; gene_id "gene-PKNOH_S140233400"; gene_name "P44";
+NETL01000028.1	Genbank	exon	757577	758440	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140233400.1_mrna"; gene_id "gene-PKNOH_S140233400"; gene_name "P44";
+NETL01000028.1	Genbank	CDS	756595	756624	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140233400.1_mrna"; gene_id "gene-PKNOH_S140233400"; gene_name "P44";
+NETL01000028.1	Genbank	CDS	756775	756859	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140233400.1_mrna"; gene_id "gene-PKNOH_S140233400"; gene_name "P44";
+NETL01000028.1	Genbank	CDS	756994	757129	.	+	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140233400.1_mrna"; gene_id "gene-PKNOH_S140233400"; gene_name "P44";
+NETL01000028.1	Genbank	CDS	757309	757399	.	+	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140233400.1_mrna"; gene_id "gene-PKNOH_S140233400"; gene_name "P44";
+NETL01000028.1	Genbank	CDS	757577	758440	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140233400.1_mrna"; gene_id "gene-PKNOH_S140233400"; gene_name "P44";
+NETL01000028.1	Genbank	transcript	785145	786095	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140234200.1_mrna"; gene_id "gene-PKNOH_S140234200"; gene_name "GCD14"
+NETL01000028.1	Genbank	exon	785145	786095	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140234200.1_mrna"; gene_id "gene-PKNOH_S140234200"; gene_name "GCD14";
+NETL01000028.1	Genbank	CDS	785145	786095	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140234200.1_mrna"; gene_id "gene-PKNOH_S140234200"; gene_name "GCD14";
+NETL01000028.1	Genbank	transcript	840971	843886	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140235600.1_mrna"; gene_id "gene-PKNOH_S140235600"; gene_name "MCM4"
+NETL01000028.1	Genbank	exon	840971	843886	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140235600.1_mrna"; gene_id "gene-PKNOH_S140235600"; gene_name "MCM4";
+NETL01000028.1	Genbank	CDS	840971	843886	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140235600.1_mrna"; gene_id "gene-PKNOH_S140235600"; gene_name "MCM4";
+NETL01000028.1	Genbank	transcript	1196977	1198351	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140244500.1_mrna"; gene_id "gene-PKNOH_S140244500"
+NETL01000028.1	Genbank	exon	1196977	1197066	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140244500.1_mrna"; gene_id "gene-PKNOH_S140244500";
+NETL01000028.1	Genbank	exon	1197250	1197432	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140244500.1_mrna"; gene_id "gene-PKNOH_S140244500";
+NETL01000028.1	Genbank	exon	1197620	1197765	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140244500.1_mrna"; gene_id "gene-PKNOH_S140244500";
+NETL01000028.1	Genbank	exon	1197961	1198351	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140244500.1_mrna"; gene_id "gene-PKNOH_S140244500";
+NETL01000028.1	Genbank	CDS	1196977	1197066	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140244500.1_mrna"; gene_id "gene-PKNOH_S140244500";
+NETL01000028.1	Genbank	CDS	1197250	1197432	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140244500.1_mrna"; gene_id "gene-PKNOH_S140244500";
+NETL01000028.1	Genbank	CDS	1197620	1197765	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140244500.1_mrna"; gene_id "gene-PKNOH_S140244500";
+NETL01000028.1	Genbank	CDS	1197961	1198351	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140244500.1_mrna"; gene_id "gene-PKNOH_S140244500";
+NETL01000028.1	Genbank	transcript	1341291	1343897	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140247500.1_mrna"; gene_id "gene-PKNOH_S140247500"; gene_name "CUL1"
+NETL01000028.1	Genbank	exon	1341291	1341377	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140247500.1_mrna"; gene_id "gene-PKNOH_S140247500"; gene_name "CUL1";
+NETL01000028.1	Genbank	exon	1341576	1343897	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140247500.1_mrna"; gene_id "gene-PKNOH_S140247500"; gene_name "CUL1";
+NETL01000028.1	Genbank	CDS	1341291	1341377	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140247500.1_mrna"; gene_id "gene-PKNOH_S140247500"; gene_name "CUL1";
+NETL01000028.1	Genbank	CDS	1341576	1343897	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140247500.1_mrna"; gene_id "gene-PKNOH_S140247500"; gene_name "CUL1";
+NETL01000028.1	Genbank	transcript	1641675	1642673	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140255300.1_mrna"; gene_id "gene-PKNOH_S140255300"; gene_name "APC10"
+NETL01000028.1	Genbank	exon	1641675	1642673	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140255300.1_mrna"; gene_id "gene-PKNOH_S140255300"; gene_name "APC10";
+NETL01000028.1	Genbank	CDS	1641675	1642673	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140255300.1_mrna"; gene_id "gene-PKNOH_S140255300"; gene_name "APC10";
+NETL01000028.1	Genbank	transcript	1758513	1759442	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140257800.1_mrna"; gene_id "gene-PKNOH_S140257800"; gene_name "TSR3"
+NETL01000028.1	Genbank	exon	1758513	1759442	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140257800.1_mrna"; gene_id "gene-PKNOH_S140257800"; gene_name "TSR3";
+NETL01000028.1	Genbank	CDS	1758513	1759442	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140257800.1_mrna"; gene_id "gene-PKNOH_S140257800"; gene_name "TSR3";
+NETL01000028.1	Genbank	transcript	2421197	2423202	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140271900.1_mrna"; gene_id "gene-PKNOH_S140271900"
+NETL01000028.1	Genbank	exon	2421197	2422103	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140271900.1_mrna"; gene_id "gene-PKNOH_S140271900";
+NETL01000028.1	Genbank	exon	2422235	2423202	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140271900.1_mrna"; gene_id "gene-PKNOH_S140271900";
+NETL01000028.1	Genbank	CDS	2421197	2422103	.	-	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140271900.1_mrna"; gene_id "gene-PKNOH_S140271900";
+NETL01000028.1	Genbank	CDS	2422235	2423202	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140271900.1_mrna"; gene_id "gene-PKNOH_S140271900";
+NETL01000028.1	Genbank	transcript	2586651	2588471	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140275800.1_mrna"; gene_id "gene-PKNOH_S140275800"; gene_name "PWP1"
+NETL01000028.1	Genbank	exon	2586651	2586838	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140275800.1_mrna"; gene_id "gene-PKNOH_S140275800"; gene_name "PWP1";
+NETL01000028.1	Genbank	exon	2587015	2588206	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140275800.1_mrna"; gene_id "gene-PKNOH_S140275800"; gene_name "PWP1";
+NETL01000028.1	Genbank	exon	2588352	2588471	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140275800.1_mrna"; gene_id "gene-PKNOH_S140275800"; gene_name "PWP1";
+NETL01000028.1	Genbank	CDS	2586651	2586838	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140275800.1_mrna"; gene_id "gene-PKNOH_S140275800"; gene_name "PWP1";
+NETL01000028.1	Genbank	CDS	2587015	2588206	.	+	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140275800.1_mrna"; gene_id "gene-PKNOH_S140275800"; gene_name "PWP1";
+NETL01000028.1	Genbank	CDS	2588352	2588471	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140275800.1_mrna"; gene_id "gene-PKNOH_S140275800"; gene_name "PWP1";
+NETL01000028.1	Genbank	transcript	2844711	2845511	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140281100.1_mrna"; gene_id "gene-PKNOH_S140281100"
+NETL01000028.1	Genbank	exon	2844711	2845511	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140281100.1_mrna"; gene_id "gene-PKNOH_S140281100";
+NETL01000028.1	Genbank	CDS	2844711	2845511	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140281100.1_mrna"; gene_id "gene-PKNOH_S140281100";
+NETL01000028.1	Genbank	transcript	2951678	2954328	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140283200.1_mrna"; gene_id "gene-PKNOH_S140283200"
+NETL01000028.1	Genbank	exon	2951678	2951701	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140283200.1_mrna"; gene_id "gene-PKNOH_S140283200";
+NETL01000028.1	Genbank	exon	2951986	2952038	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140283200.1_mrna"; gene_id "gene-PKNOH_S140283200";
+NETL01000028.1	Genbank	exon	2952214	2952341	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140283200.1_mrna"; gene_id "gene-PKNOH_S140283200";
+NETL01000028.1	Genbank	exon	2952575	2952747	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140283200.1_mrna"; gene_id "gene-PKNOH_S140283200";
+NETL01000028.1	Genbank	exon	2952940	2953016	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140283200.1_mrna"; gene_id "gene-PKNOH_S140283200";
+NETL01000028.1	Genbank	exon	2953250	2953319	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140283200.1_mrna"; gene_id "gene-PKNOH_S140283200";
+NETL01000028.1	Genbank	exon	2953525	2953763	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140283200.1_mrna"; gene_id "gene-PKNOH_S140283200";
+NETL01000028.1	Genbank	exon	2953928	2954052	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140283200.1_mrna"; gene_id "gene-PKNOH_S140283200";
+NETL01000028.1	Genbank	exon	2954219	2954328	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140283200.1_mrna"; gene_id "gene-PKNOH_S140283200";
+NETL01000028.1	Genbank	CDS	2951678	2951701	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140283200.1_mrna"; gene_id "gene-PKNOH_S140283200";
+NETL01000028.1	Genbank	CDS	2951986	2952038	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140283200.1_mrna"; gene_id "gene-PKNOH_S140283200";
+NETL01000028.1	Genbank	CDS	2952214	2952341	.	-	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140283200.1_mrna"; gene_id "gene-PKNOH_S140283200";
+NETL01000028.1	Genbank	CDS	2952575	2952747	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140283200.1_mrna"; gene_id "gene-PKNOH_S140283200";
+NETL01000028.1	Genbank	CDS	2952940	2953016	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140283200.1_mrna"; gene_id "gene-PKNOH_S140283200";
+NETL01000028.1	Genbank	CDS	2953250	2953319	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140283200.1_mrna"; gene_id "gene-PKNOH_S140283200";
+NETL01000028.1	Genbank	CDS	2953525	2953763	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140283200.1_mrna"; gene_id "gene-PKNOH_S140283200";
+NETL01000028.1	Genbank	CDS	2953928	2954052	.	-	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140283200.1_mrna"; gene_id "gene-PKNOH_S140283200";
+NETL01000028.1	Genbank	CDS	2954219	2954328	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140283200.1_mrna"; gene_id "gene-PKNOH_S140283200";
+NETL01000028.1	Genbank	transcript	3020946	3022295	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140285000.1_mrna"; gene_id "gene-PKNOH_S140285000"; gene_name "BUD13"
+NETL01000028.1	Genbank	exon	3020946	3022295	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140285000.1_mrna"; gene_id "gene-PKNOH_S140285000"; gene_name "BUD13";
+NETL01000028.1	Genbank	CDS	3020946	3022295	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140285000.1_mrna"; gene_id "gene-PKNOH_S140285000"; gene_name "BUD13";
+NETL01000028.1	Genbank	transcript	3057814	3059760	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140286300.1_mrna"; gene_id "gene-PKNOH_S140286300"
+NETL01000028.1	Genbank	exon	3057814	3058409	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140286300.1_mrna"; gene_id "gene-PKNOH_S140286300";
+NETL01000028.1	Genbank	exon	3059163	3059760	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140286300.1_mrna"; gene_id "gene-PKNOH_S140286300";
+NETL01000028.1	Genbank	CDS	3057814	3058409	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140286300.1_mrna"; gene_id "gene-PKNOH_S140286300";
+NETL01000028.1	Genbank	CDS	3059163	3059760	.	+	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140286300.1_mrna"; gene_id "gene-PKNOH_S140286300";
+NETL01000028.1	Genbank	transcript	3173039	3174469	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140289300.1_mrna"; gene_id "gene-PKNOH_S140289300"
+NETL01000028.1	Genbank	exon	3173039	3174469	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140289300.1_mrna"; gene_id "gene-PKNOH_S140289300";
+NETL01000028.1	Genbank	CDS	3173039	3174469	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140289300.1_mrna"; gene_id "gene-PKNOH_S140289300";
+NETL01000028.1	Genbank	transcript	3210832	3212973	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140290400.1_mrna"; gene_id "gene-PKNOH_S140290400"
+NETL01000028.1	Genbank	exon	3210832	3210858	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140290400.1_mrna"; gene_id "gene-PKNOH_S140290400";
+NETL01000028.1	Genbank	exon	3210984	3212546	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140290400.1_mrna"; gene_id "gene-PKNOH_S140290400";
+NETL01000028.1	Genbank	exon	3212719	3212973	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140290400.1_mrna"; gene_id "gene-PKNOH_S140290400";
+NETL01000028.1	Genbank	CDS	3210832	3210858	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140290400.1_mrna"; gene_id "gene-PKNOH_S140290400";
+NETL01000028.1	Genbank	CDS	3210984	3212546	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140290400.1_mrna"; gene_id "gene-PKNOH_S140290400";
+NETL01000028.1	Genbank	CDS	3212719	3212973	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S140290400.1_mrna"; gene_id "gene-PKNOH_S140290400";
+NETL01000016.1	Genbank	transcript	417086	418072	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S02300800.1_mrna"; gene_id "gene-PKNOH_S02300800"; gene_name "RRP4"
+NETL01000016.1	Genbank	exon	417086	418072	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S02300800.1_mrna"; gene_id "gene-PKNOH_S02300800"; gene_name "RRP4";
+NETL01000016.1	Genbank	CDS	417086	418072	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S02300800.1_mrna"; gene_id "gene-PKNOH_S02300800"; gene_name "RRP4";
+NETL01000016.1	Genbank	transcript	490073	491035	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S02302800.1_mrna"; gene_id "gene-PKNOH_S02302800"
+NETL01000016.1	Genbank	exon	490073	491035	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S02302800.1_mrna"; gene_id "gene-PKNOH_S02302800";
+NETL01000016.1	Genbank	CDS	490073	491035	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S02302800.1_mrna"; gene_id "gene-PKNOH_S02302800";
+NETL01000016.1	Genbank	transcript	496958	499837	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S02303000.1_mrna"; gene_id "gene-PKNOH_S02303000"; gene_name "SDA1"
+NETL01000016.1	Genbank	exon	496958	499837	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S02303000.1_mrna"; gene_id "gene-PKNOH_S02303000"; gene_name "SDA1";
+NETL01000016.1	Genbank	CDS	496958	499837	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S02303000.1_mrna"; gene_id "gene-PKNOH_S02303000"; gene_name "SDA1";
+NETL01000016.1	Genbank	transcript	821074	826170	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S020314404.1_mrna"; gene_id "gene-PKNOH_S020314404"
+NETL01000016.1	Genbank	exon	821074	823409	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S020314404.1_mrna"; gene_id "gene-PKNOH_S020314404";
+NETL01000016.1	Genbank	exon	824726	824961	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S020314404.1_mrna"; gene_id "gene-PKNOH_S020314404";
+NETL01000016.1	Genbank	exon	825091	825180	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S020314404.1_mrna"; gene_id "gene-PKNOH_S020314404";
+NETL01000016.1	Genbank	exon	825283	825405	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S020314404.1_mrna"; gene_id "gene-PKNOH_S020314404";
+NETL01000016.1	Genbank	exon	825567	825696	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S020314404.1_mrna"; gene_id "gene-PKNOH_S020314404";
+NETL01000016.1	Genbank	exon	825823	825904	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S020314404.1_mrna"; gene_id "gene-PKNOH_S020314404";
+NETL01000016.1	Genbank	exon	826021	826170	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S020314404.1_mrna"; gene_id "gene-PKNOH_S020314404";
+NETL01000016.1	Genbank	CDS	821074	823409	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S020314404.1_mrna"; gene_id "gene-PKNOH_S020314404";
+NETL01000016.1	Genbank	CDS	824726	824961	.	+	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S020314404.1_mrna"; gene_id "gene-PKNOH_S020314404";
+NETL01000016.1	Genbank	CDS	825091	825180	.	+	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S020314404.1_mrna"; gene_id "gene-PKNOH_S020314404";
+NETL01000016.1	Genbank	CDS	825283	825405	.	+	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S020314404.1_mrna"; gene_id "gene-PKNOH_S020314404";
+NETL01000016.1	Genbank	CDS	825567	825696	.	+	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S020314404.1_mrna"; gene_id "gene-PKNOH_S020314404";
+NETL01000016.1	Genbank	CDS	825823	825904	.	+	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S020314404.1_mrna"; gene_id "gene-PKNOH_S020314404";
+NETL01000016.1	Genbank	CDS	826021	826170	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S020314404.1_mrna"; gene_id "gene-PKNOH_S020314404";
+NETL01000016.1	Genbank	transcript	841635	842807	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S02309900.1_mrna"; gene_id "gene-PKNOH_S02309900"
+NETL01000016.1	Genbank	exon	841635	842807	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S02309900.1_mrna"; gene_id "gene-PKNOH_S02309900";
+NETL01000016.1	Genbank	CDS	841635	842807	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S02309900.1_mrna"; gene_id "gene-PKNOH_S02309900";
+NETL01000016.1	Genbank	transcript	852541	853496	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S02310300.1_mrna"; gene_id "gene-PKNOH_S02310300"; gene_name "CWC15"
+NETL01000016.1	Genbank	exon	852541	853322	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S02310300.1_mrna"; gene_id "gene-PKNOH_S02310300"; gene_name "CWC15";
+NETL01000016.1	Genbank	exon	853442	853496	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S02310300.1_mrna"; gene_id "gene-PKNOH_S02310300"; gene_name "CWC15";
+NETL01000016.1	Genbank	CDS	852541	853322	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S02310300.1_mrna"; gene_id "gene-PKNOH_S02310300"; gene_name "CWC15";
+NETL01000016.1	Genbank	CDS	853442	853496	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S02310300.1_mrna"; gene_id "gene-PKNOH_S02310300"; gene_name "CWC15";
+NETL01000017.1	Genbank	transcript	105540	107086	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03316900.1_mrna"; gene_id "gene-PKNOH_S03316900"; gene_name "RPN5"
+NETL01000017.1	Genbank	exon	105540	105662	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03316900.1_mrna"; gene_id "gene-PKNOH_S03316900"; gene_name "RPN5";
+NETL01000017.1	Genbank	exon	105806	107086	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03316900.1_mrna"; gene_id "gene-PKNOH_S03316900"; gene_name "RPN5";
+NETL01000017.1	Genbank	CDS	105540	105662	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03316900.1_mrna"; gene_id "gene-PKNOH_S03316900"; gene_name "RPN5";
+NETL01000017.1	Genbank	CDS	105806	107086	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03316900.1_mrna"; gene_id "gene-PKNOH_S03316900"; gene_name "RPN5";
+NETL01000017.1	Genbank	transcript	441344	443594	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03323900.1_mrna"; gene_id "gene-PKNOH_S03323900"
+NETL01000017.1	Genbank	exon	441344	441391	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03323900.1_mrna"; gene_id "gene-PKNOH_S03323900";
+NETL01000017.1	Genbank	exon	441514	441558	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03323900.1_mrna"; gene_id "gene-PKNOH_S03323900";
+NETL01000017.1	Genbank	exon	441706	441810	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03323900.1_mrna"; gene_id "gene-PKNOH_S03323900";
+NETL01000017.1	Genbank	exon	442055	442264	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03323900.1_mrna"; gene_id "gene-PKNOH_S03323900";
+NETL01000017.1	Genbank	exon	442363	442674	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03323900.1_mrna"; gene_id "gene-PKNOH_S03323900";
+NETL01000017.1	Genbank	exon	442965	443594	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03323900.1_mrna"; gene_id "gene-PKNOH_S03323900";
+NETL01000017.1	Genbank	CDS	441344	441391	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03323900.1_mrna"; gene_id "gene-PKNOH_S03323900";
+NETL01000017.1	Genbank	CDS	441514	441558	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03323900.1_mrna"; gene_id "gene-PKNOH_S03323900";
+NETL01000017.1	Genbank	CDS	441706	441810	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03323900.1_mrna"; gene_id "gene-PKNOH_S03323900";
+NETL01000017.1	Genbank	CDS	442055	442264	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03323900.1_mrna"; gene_id "gene-PKNOH_S03323900";
+NETL01000017.1	Genbank	CDS	442363	442674	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03323900.1_mrna"; gene_id "gene-PKNOH_S03323900";
+NETL01000017.1	Genbank	CDS	442965	443594	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03323900.1_mrna"; gene_id "gene-PKNOH_S03323900";
+NETL01000017.1	Genbank	transcript	580941	582137	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03327400.1_mrna"; gene_id "gene-PKNOH_S03327400"; gene_name "EBP2"
+NETL01000017.1	Genbank	exon	580941	582137	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03327400.1_mrna"; gene_id "gene-PKNOH_S03327400"; gene_name "EBP2";
+NETL01000017.1	Genbank	CDS	580941	582137	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03327400.1_mrna"; gene_id "gene-PKNOH_S03327400"; gene_name "EBP2";
+NETL01000017.1	Genbank	transcript	683110	683970	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03329500.1_mrna"; gene_id "gene-PKNOH_S03329500"; gene_name "SPT4"
+NETL01000017.1	Genbank	exon	683110	683125	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03329500.1_mrna"; gene_id "gene-PKNOH_S03329500"; gene_name "SPT4";
+NETL01000017.1	Genbank	exon	683254	683305	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03329500.1_mrna"; gene_id "gene-PKNOH_S03329500"; gene_name "SPT4";
+NETL01000017.1	Genbank	exon	683512	683608	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03329500.1_mrna"; gene_id "gene-PKNOH_S03329500"; gene_name "SPT4";
+NETL01000017.1	Genbank	exon	683740	683970	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03329500.1_mrna"; gene_id "gene-PKNOH_S03329500"; gene_name "SPT4";
+NETL01000017.1	Genbank	CDS	683110	683125	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03329500.1_mrna"; gene_id "gene-PKNOH_S03329500"; gene_name "SPT4";
+NETL01000017.1	Genbank	CDS	683254	683305	.	+	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03329500.1_mrna"; gene_id "gene-PKNOH_S03329500"; gene_name "SPT4";
+NETL01000017.1	Genbank	CDS	683512	683608	.	+	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03329500.1_mrna"; gene_id "gene-PKNOH_S03329500"; gene_name "SPT4";
+NETL01000017.1	Genbank	CDS	683740	683970	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S03329500.1_mrna"; gene_id "gene-PKNOH_S03329500"; gene_name "SPT4";
+NETL01000018.1	Genbank	transcript	351844	353192	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S04346300.1_mrna"; gene_id "gene-PKNOH_S04346300"; gene_name "DRE2"
+NETL01000018.1	Genbank	exon	351844	351858	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S04346300.1_mrna"; gene_id "gene-PKNOH_S04346300"; gene_name "DRE2";
+NETL01000018.1	Genbank	exon	352044	352090	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S04346300.1_mrna"; gene_id "gene-PKNOH_S04346300"; gene_name "DRE2";
+NETL01000018.1	Genbank	exon	352245	352290	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S04346300.1_mrna"; gene_id "gene-PKNOH_S04346300"; gene_name "DRE2";
+NETL01000018.1	Genbank	exon	352424	352651	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S04346300.1_mrna"; gene_id "gene-PKNOH_S04346300"; gene_name "DRE2";
+NETL01000018.1	Genbank	exon	352800	353192	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S04346300.1_mrna"; gene_id "gene-PKNOH_S04346300"; gene_name "DRE2";
+NETL01000018.1	Genbank	CDS	351844	351858	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S04346300.1_mrna"; gene_id "gene-PKNOH_S04346300"; gene_name "DRE2";
+NETL01000018.1	Genbank	CDS	352044	352090	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S04346300.1_mrna"; gene_id "gene-PKNOH_S04346300"; gene_name "DRE2";
+NETL01000018.1	Genbank	CDS	352245	352290	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S04346300.1_mrna"; gene_id "gene-PKNOH_S04346300"; gene_name "DRE2";
+NETL01000018.1	Genbank	CDS	352424	352651	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S04346300.1_mrna"; gene_id "gene-PKNOH_S04346300"; gene_name "DRE2";
+NETL01000018.1	Genbank	CDS	352800	353192	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S04346300.1_mrna"; gene_id "gene-PKNOH_S04346300"; gene_name "DRE2";
+NETL01000018.1	Genbank	transcript	994632	998702	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S04361500.1_mrna"; gene_id "gene-PKNOH_S04361500"; gene_name "HAT1"
+NETL01000018.1	Genbank	exon	994632	994916	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S04361500.1_mrna"; gene_id "gene-PKNOH_S04361500"; gene_name "HAT1";
+NETL01000018.1	Genbank	exon	995071	998235	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S04361500.1_mrna"; gene_id "gene-PKNOH_S04361500"; gene_name "HAT1";
+NETL01000018.1	Genbank	exon	998402	998454	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S04361500.1_mrna"; gene_id "gene-PKNOH_S04361500"; gene_name "HAT1";
+NETL01000018.1	Genbank	exon	998666	998702	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S04361500.1_mrna"; gene_id "gene-PKNOH_S04361500"; gene_name "HAT1";
+NETL01000018.1	Genbank	CDS	994632	994916	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S04361500.1_mrna"; gene_id "gene-PKNOH_S04361500"; gene_name "HAT1";
+NETL01000018.1	Genbank	CDS	995071	998235	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S04361500.1_mrna"; gene_id "gene-PKNOH_S04361500"; gene_name "HAT1";
+NETL01000018.1	Genbank	CDS	998402	998454	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S04361500.1_mrna"; gene_id "gene-PKNOH_S04361500"; gene_name "HAT1";
+NETL01000018.1	Genbank	CDS	998666	998702	.	+	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S04361500.1_mrna"; gene_id "gene-PKNOH_S04361500"; gene_name "HAT1";
+NETL01000018.1	Genbank	transcript	1089286	1090590	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S04363300.1_mrna"; gene_id "gene-PKNOH_S04363300"; gene_name "EIF3M"
+NETL01000018.1	Genbank	exon	1089286	1090590	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S04363300.1_mrna"; gene_id "gene-PKNOH_S04363300"; gene_name "EIF3M";
+NETL01000018.1	Genbank	CDS	1089286	1090590	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S04363300.1_mrna"; gene_id "gene-PKNOH_S04363300"; gene_name "EIF3M";
+NETL01000019.1	Genbank	transcript	544426	545878	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05382200.1_mrna"; gene_id "gene-PKNOH_S05382200"
+NETL01000019.1	Genbank	exon	544426	545576	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05382200.1_mrna"; gene_id "gene-PKNOH_S05382200";
+NETL01000019.1	Genbank	exon	545695	545878	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05382200.1_mrna"; gene_id "gene-PKNOH_S05382200";
+NETL01000019.1	Genbank	CDS	544426	545576	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05382200.1_mrna"; gene_id "gene-PKNOH_S05382200";
+NETL01000019.1	Genbank	CDS	545695	545878	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05382200.1_mrna"; gene_id "gene-PKNOH_S05382200";
+NETL01000019.1	Genbank	transcript	611994	615124	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05384000.1_mrna"; gene_id "gene-PKNOH_S05384000"; gene_name "MCM2"
+NETL01000019.1	Genbank	exon	611994	614909	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05384000.1_mrna"; gene_id "gene-PKNOH_S05384000"; gene_name "MCM2";
+NETL01000019.1	Genbank	exon	615119	615124	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05384000.1_mrna"; gene_id "gene-PKNOH_S05384000"; gene_name "MCM2";
+NETL01000019.1	Genbank	CDS	611994	614909	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05384000.1_mrna"; gene_id "gene-PKNOH_S05384000"; gene_name "MCM2";
+NETL01000019.1	Genbank	CDS	615119	615124	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05384000.1_mrna"; gene_id "gene-PKNOH_S05384000"; gene_name "MCM2";
+NETL01000019.1	Genbank	transcript	868138	869610	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05388300.1_mrna"; gene_id "gene-PKNOH_S05388300"; gene_name "DPH1"
+NETL01000019.1	Genbank	exon	868138	869610	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05388300.1_mrna"; gene_id "gene-PKNOH_S05388300"; gene_name "DPH1";
+NETL01000019.1	Genbank	CDS	868138	869610	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05388300.1_mrna"; gene_id "gene-PKNOH_S05388300"; gene_name "DPH1";
+NETL01000019.1	Genbank	transcript	986446	988916	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05391200.1_mrna"; gene_id "gene-PKNOH_S05391200"
+NETL01000019.1	Genbank	exon	986446	988031	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05391200.1_mrna"; gene_id "gene-PKNOH_S05391200";
+NETL01000019.1	Genbank	exon	988227	988358	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05391200.1_mrna"; gene_id "gene-PKNOH_S05391200";
+NETL01000019.1	Genbank	exon	988474	988620	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05391200.1_mrna"; gene_id "gene-PKNOH_S05391200";
+NETL01000019.1	Genbank	exon	988790	988916	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05391200.1_mrna"; gene_id "gene-PKNOH_S05391200";
+NETL01000019.1	Genbank	CDS	986446	988031	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05391200.1_mrna"; gene_id "gene-PKNOH_S05391200";
+NETL01000019.1	Genbank	CDS	988227	988358	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05391200.1_mrna"; gene_id "gene-PKNOH_S05391200";
+NETL01000019.1	Genbank	CDS	988474	988620	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05391200.1_mrna"; gene_id "gene-PKNOH_S05391200";
+NETL01000019.1	Genbank	CDS	988790	988916	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05391200.1_mrna"; gene_id "gene-PKNOH_S05391200";
+NETL01000019.1	Genbank	transcript	1034507	1035388	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05392100.1_mrna"; gene_id "gene-PKNOH_S05392100"; gene_name "EMC2"
+NETL01000019.1	Genbank	exon	1034507	1035388	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05392100.1_mrna"; gene_id "gene-PKNOH_S05392100"; gene_name "EMC2";
+NETL01000019.1	Genbank	CDS	1034507	1035388	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S05392100.1_mrna"; gene_id "gene-PKNOH_S05392100"; gene_name "EMC2";
+NETL01000020.1	Genbank	transcript	198654	201250	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3"
+NETL01000020.1	Genbank	exon	198654	198762	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	exon	198891	198950	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	exon	199058	199110	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	exon	199295	199366	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	exon	199541	199629	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	exon	199778	199838	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	exon	199965	200063	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	exon	200228	200277	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	exon	200450	200519	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	exon	200670	200790	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	exon	200931	201000	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	exon	201148	201250	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	CDS	198654	198762	.	-	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	CDS	198891	198950	.	-	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	CDS	199058	199110	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	CDS	199295	199366	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	CDS	199541	199629	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	CDS	199778	199838	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	CDS	199965	200063	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	CDS	200228	200277	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	CDS	200450	200519	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	CDS	200670	200790	.	-	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	CDS	200931	201000	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	CDS	201148	201250	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06404900.1_mrna"; gene_id "gene-PKNOH_S06404900"; gene_name "ATG3";
+NETL01000020.1	Genbank	transcript	483258	487098	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06410900.1_mrna"; gene_id "gene-PKNOH_S06410900"
+NETL01000020.1	Genbank	exon	483258	486880	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06410900.1_mrna"; gene_id "gene-PKNOH_S06410900";
+NETL01000020.1	Genbank	exon	487041	487098	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06410900.1_mrna"; gene_id "gene-PKNOH_S06410900";
+NETL01000020.1	Genbank	CDS	483258	486880	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06410900.1_mrna"; gene_id "gene-PKNOH_S06410900";
+NETL01000020.1	Genbank	CDS	487041	487098	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06410900.1_mrna"; gene_id "gene-PKNOH_S06410900";
+NETL01000020.1	Genbank	transcript	726580	727711	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06418100.1_mrna"; gene_id "gene-PKNOH_S06418100"; gene_name "EIF3F"
+NETL01000020.1	Genbank	exon	726580	727284	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06418100.1_mrna"; gene_id "gene-PKNOH_S06418100"; gene_name "EIF3F";
+NETL01000020.1	Genbank	exon	727454	727711	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06418100.1_mrna"; gene_id "gene-PKNOH_S06418100"; gene_name "EIF3F";
+NETL01000020.1	Genbank	CDS	726580	727284	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06418100.1_mrna"; gene_id "gene-PKNOH_S06418100"; gene_name "EIF3F";
+NETL01000020.1	Genbank	CDS	727454	727711	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06418100.1_mrna"; gene_id "gene-PKNOH_S06418100"; gene_name "EIF3F";
+NETL01000020.1	Genbank	transcript	894826	897441	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06422400.1_mrna"; gene_id "gene-PKNOH_S06422400"; gene_name "PRP18"
+NETL01000020.1	Genbank	exon	894826	894901	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06422400.1_mrna"; gene_id "gene-PKNOH_S06422400"; gene_name "PRP18";
+NETL01000020.1	Genbank	exon	895148	895203	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06422400.1_mrna"; gene_id "gene-PKNOH_S06422400"; gene_name "PRP18";
+NETL01000020.1	Genbank	exon	895373	895472	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06422400.1_mrna"; gene_id "gene-PKNOH_S06422400"; gene_name "PRP18";
+NETL01000020.1	Genbank	exon	895626	895706	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06422400.1_mrna"; gene_id "gene-PKNOH_S06422400"; gene_name "PRP18";
+NETL01000020.1	Genbank	exon	895854	896147	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06422400.1_mrna"; gene_id "gene-PKNOH_S06422400"; gene_name "PRP18";
+NETL01000020.1	Genbank	exon	896307	896393	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06422400.1_mrna"; gene_id "gene-PKNOH_S06422400"; gene_name "PRP18";
+NETL01000020.1	Genbank	exon	896521	896608	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06422400.1_mrna"; gene_id "gene-PKNOH_S06422400"; gene_name "PRP18";
+NETL01000020.1	Genbank	exon	896806	896878	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06422400.1_mrna"; gene_id "gene-PKNOH_S06422400"; gene_name "PRP18";
+NETL01000020.1	Genbank	exon	897033	897157	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06422400.1_mrna"; gene_id "gene-PKNOH_S06422400"; gene_name "PRP18";
+NETL01000020.1	Genbank	exon	897393	897441	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06422400.1_mrna"; gene_id "gene-PKNOH_S06422400"; gene_name "PRP18";
+NETL01000020.1	Genbank	CDS	894826	894901	.	-	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06422400.1_mrna"; gene_id "gene-PKNOH_S06422400"; gene_name "PRP18";
+NETL01000020.1	Genbank	CDS	895148	895203	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06422400.1_mrna"; gene_id "gene-PKNOH_S06422400"; gene_name "PRP18";
+NETL01000020.1	Genbank	CDS	895373	895472	.	-	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06422400.1_mrna"; gene_id "gene-PKNOH_S06422400"; gene_name "PRP18";
+NETL01000020.1	Genbank	CDS	895626	895706	.	-	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06422400.1_mrna"; gene_id "gene-PKNOH_S06422400"; gene_name "PRP18";
+NETL01000020.1	Genbank	CDS	895854	896147	.	-	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06422400.1_mrna"; gene_id "gene-PKNOH_S06422400"; gene_name "PRP18";
+NETL01000020.1	Genbank	CDS	896307	896393	.	-	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06422400.1_mrna"; gene_id "gene-PKNOH_S06422400"; gene_name "PRP18";
+NETL01000020.1	Genbank	CDS	896521	896608	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06422400.1_mrna"; gene_id "gene-PKNOH_S06422400"; gene_name "PRP18";
+NETL01000020.1	Genbank	CDS	896806	896878	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06422400.1_mrna"; gene_id "gene-PKNOH_S06422400"; gene_name "PRP18";
+NETL01000020.1	Genbank	CDS	897033	897157	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06422400.1_mrna"; gene_id "gene-PKNOH_S06422400"; gene_name "PRP18";
+NETL01000020.1	Genbank	CDS	897393	897441	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S06422400.1_mrna"; gene_id "gene-PKNOH_S06422400"; gene_name "PRP18";
+NETL01000021.1	Genbank	transcript	114603	116597	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07439200.1_mrna"; gene_id "gene-PKNOH_S07439200"
+NETL01000021.1	Genbank	exon	114603	116597	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07439200.1_mrna"; gene_id "gene-PKNOH_S07439200";
+NETL01000021.1	Genbank	CDS	114603	116597	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07439200.1_mrna"; gene_id "gene-PKNOH_S07439200";
+NETL01000021.1	Genbank	transcript	206598	208053	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07441200.1_mrna"; gene_id "gene-PKNOH_S07441200"
+NETL01000021.1	Genbank	exon	206598	206679	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07441200.1_mrna"; gene_id "gene-PKNOH_S07441200";
+NETL01000021.1	Genbank	exon	206786	206853	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07441200.1_mrna"; gene_id "gene-PKNOH_S07441200";
+NETL01000021.1	Genbank	exon	207000	207133	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07441200.1_mrna"; gene_id "gene-PKNOH_S07441200";
+NETL01000021.1	Genbank	exon	207330	207427	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07441200.1_mrna"; gene_id "gene-PKNOH_S07441200";
+NETL01000021.1	Genbank	exon	207587	207666	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07441200.1_mrna"; gene_id "gene-PKNOH_S07441200";
+NETL01000021.1	Genbank	exon	207976	208053	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07441200.1_mrna"; gene_id "gene-PKNOH_S07441200";
+NETL01000021.1	Genbank	CDS	206598	206679	.	-	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07441200.1_mrna"; gene_id "gene-PKNOH_S07441200";
+NETL01000021.1	Genbank	CDS	206786	206853	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07441200.1_mrna"; gene_id "gene-PKNOH_S07441200";
+NETL01000021.1	Genbank	CDS	207000	207133	.	-	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07441200.1_mrna"; gene_id "gene-PKNOH_S07441200";
+NETL01000021.1	Genbank	CDS	207330	207427	.	-	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07441200.1_mrna"; gene_id "gene-PKNOH_S07441200";
+NETL01000021.1	Genbank	CDS	207587	207666	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07441200.1_mrna"; gene_id "gene-PKNOH_S07441200";
+NETL01000021.1	Genbank	CDS	207976	208053	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07441200.1_mrna"; gene_id "gene-PKNOH_S07441200";
+NETL01000021.1	Genbank	transcript	526153	528307	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07448500.1_mrna"; gene_id "gene-PKNOH_S07448500"
+NETL01000021.1	Genbank	exon	526153	526188	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07448500.1_mrna"; gene_id "gene-PKNOH_S07448500";
+NETL01000021.1	Genbank	exon	526372	526476	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07448500.1_mrna"; gene_id "gene-PKNOH_S07448500";
+NETL01000021.1	Genbank	exon	526608	526716	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07448500.1_mrna"; gene_id "gene-PKNOH_S07448500";
+NETL01000021.1	Genbank	exon	526836	526898	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07448500.1_mrna"; gene_id "gene-PKNOH_S07448500";
+NETL01000021.1	Genbank	exon	527068	527107	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07448500.1_mrna"; gene_id "gene-PKNOH_S07448500";
+NETL01000021.1	Genbank	exon	527226	527340	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07448500.1_mrna"; gene_id "gene-PKNOH_S07448500";
+NETL01000021.1	Genbank	exon	527516	527634	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07448500.1_mrna"; gene_id "gene-PKNOH_S07448500";
+NETL01000021.1	Genbank	exon	527746	527844	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07448500.1_mrna"; gene_id "gene-PKNOH_S07448500";
+NETL01000021.1	Genbank	exon	528033	528111	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07448500.1_mrna"; gene_id "gene-PKNOH_S07448500";
+NETL01000021.1	Genbank	exon	528248	528307	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07448500.1_mrna"; gene_id "gene-PKNOH_S07448500";
+NETL01000021.1	Genbank	CDS	526153	526188	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07448500.1_mrna"; gene_id "gene-PKNOH_S07448500";
+NETL01000021.1	Genbank	CDS	526372	526476	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07448500.1_mrna"; gene_id "gene-PKNOH_S07448500";
+NETL01000021.1	Genbank	CDS	526608	526716	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07448500.1_mrna"; gene_id "gene-PKNOH_S07448500";
+NETL01000021.1	Genbank	CDS	526836	526898	.	+	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07448500.1_mrna"; gene_id "gene-PKNOH_S07448500";
+NETL01000021.1	Genbank	CDS	527068	527107	.	+	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07448500.1_mrna"; gene_id "gene-PKNOH_S07448500";
+NETL01000021.1	Genbank	CDS	527226	527340	.	+	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07448500.1_mrna"; gene_id "gene-PKNOH_S07448500";
+NETL01000021.1	Genbank	CDS	527516	527634	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07448500.1_mrna"; gene_id "gene-PKNOH_S07448500";
+NETL01000021.1	Genbank	CDS	527746	527844	.	+	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07448500.1_mrna"; gene_id "gene-PKNOH_S07448500";
+NETL01000021.1	Genbank	CDS	528033	528111	.	+	1	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07448500.1_mrna"; gene_id "gene-PKNOH_S07448500";
+NETL01000021.1	Genbank	CDS	528248	528307	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S07448500.1_mrna"; gene_id "gene-PKNOH_S07448500";
+NETL01000022.1	Genbank	transcript	75773	77260	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S08472900.1_mrna"; gene_id "gene-PKNOH_S08472900"
+NETL01000022.1	Genbank	exon	75773	77260	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S08472900.1_mrna"; gene_id "gene-PKNOH_S08472900";
+NETL01000022.1	Genbank	CDS	75773	77260	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S08472900.1_mrna"; gene_id "gene-PKNOH_S08472900";
+NETL01000022.1	Genbank	transcript	742030	743331	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S08487300.1_mrna"; gene_id "gene-PKNOH_S08487300"
+NETL01000022.1	Genbank	exon	742030	743331	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S08487300.1_mrna"; gene_id "gene-PKNOH_S08487300";
+NETL01000022.1	Genbank	CDS	742030	743331	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S08487300.1_mrna"; gene_id "gene-PKNOH_S08487300";
+NETL01000022.1	Genbank	transcript	1039798	1041168	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S08493600.1_mrna"; gene_id "gene-PKNOH_S08493600"
+NETL01000022.1	Genbank	exon	1039798	1041168	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S08493600.1_mrna"; gene_id "gene-PKNOH_S08493600";
+NETL01000022.1	Genbank	CDS	1039798	1041168	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S08493600.1_mrna"; gene_id "gene-PKNOH_S08493600";
+NETL01000022.1	Genbank	transcript	1148169	1149065	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S08496200.1_mrna"; gene_id "gene-PKNOH_S08496200"; gene_name "KRR1"
+NETL01000022.1	Genbank	exon	1148169	1149065	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S08496200.1_mrna"; gene_id "gene-PKNOH_S08496200"; gene_name "KRR1";
+NETL01000022.1	Genbank	CDS	1148169	1149065	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S08496200.1_mrna"; gene_id "gene-PKNOH_S08496200"; gene_name "KRR1";
+NETL01000023.1	Genbank	transcript	134400	137687	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09511500.1_mrna"; gene_id "gene-PKNOH_S09511500"
+NETL01000023.1	Genbank	exon	134400	137687	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09511500.1_mrna"; gene_id "gene-PKNOH_S09511500";
+NETL01000023.1	Genbank	CDS	134400	137687	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09511500.1_mrna"; gene_id "gene-PKNOH_S09511500";
+NETL01000023.1	Genbank	transcript	146241	146822	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09511800.1_mrna"; gene_id "gene-PKNOH_S09511800"; gene_name "AKLP1"
+NETL01000023.1	Genbank	exon	146241	146822	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09511800.1_mrna"; gene_id "gene-PKNOH_S09511800"; gene_name "AKLP1";
+NETL01000023.1	Genbank	CDS	146241	146822	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09511800.1_mrna"; gene_id "gene-PKNOH_S09511800"; gene_name "AKLP1";
+NETL01000023.1	Genbank	transcript	214926	215586	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09513600.1_mrna"; gene_id "gene-PKNOH_S09513600"
+NETL01000023.1	Genbank	exon	214926	215100	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09513600.1_mrna"; gene_id "gene-PKNOH_S09513600";
+NETL01000023.1	Genbank	exon	215282	215586	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09513600.1_mrna"; gene_id "gene-PKNOH_S09513600";
+NETL01000023.1	Genbank	CDS	214926	215100	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09513600.1_mrna"; gene_id "gene-PKNOH_S09513600";
+NETL01000023.1	Genbank	CDS	215282	215586	.	+	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09513600.1_mrna"; gene_id "gene-PKNOH_S09513600";
+NETL01000023.1	Genbank	transcript	496669	498362	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09520400.1_mrna"; gene_id "gene-PKNOH_S09520400"
+NETL01000023.1	Genbank	exon	496669	496777	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09520400.1_mrna"; gene_id "gene-PKNOH_S09520400";
+NETL01000023.1	Genbank	exon	496977	497048	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09520400.1_mrna"; gene_id "gene-PKNOH_S09520400";
+NETL01000023.1	Genbank	exon	497230	497328	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09520400.1_mrna"; gene_id "gene-PKNOH_S09520400";
+NETL01000023.1	Genbank	exon	497466	497711	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09520400.1_mrna"; gene_id "gene-PKNOH_S09520400";
+NETL01000023.1	Genbank	exon	497834	497932	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09520400.1_mrna"; gene_id "gene-PKNOH_S09520400";
+NETL01000023.1	Genbank	exon	498071	498142	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09520400.1_mrna"; gene_id "gene-PKNOH_S09520400";
+NETL01000023.1	Genbank	exon	498292	498362	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09520400.1_mrna"; gene_id "gene-PKNOH_S09520400";
+NETL01000023.1	Genbank	CDS	496669	496777	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09520400.1_mrna"; gene_id "gene-PKNOH_S09520400";
+NETL01000023.1	Genbank	CDS	496977	497048	.	+	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09520400.1_mrna"; gene_id "gene-PKNOH_S09520400";
+NETL01000023.1	Genbank	CDS	497230	497328	.	+	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09520400.1_mrna"; gene_id "gene-PKNOH_S09520400";
+NETL01000023.1	Genbank	CDS	497466	497711	.	+	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09520400.1_mrna"; gene_id "gene-PKNOH_S09520400";
+NETL01000023.1	Genbank	CDS	497834	497932	.	+	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09520400.1_mrna"; gene_id "gene-PKNOH_S09520400";
+NETL01000023.1	Genbank	CDS	498071	498142	.	+	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09520400.1_mrna"; gene_id "gene-PKNOH_S09520400";
+NETL01000023.1	Genbank	CDS	498292	498362	.	+	2	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09520400.1_mrna"; gene_id "gene-PKNOH_S09520400";
+NETL01000023.1	Genbank	transcript	911718	913691	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09529000.1_mrna"; gene_id "gene-PKNOH_S09529000"
+NETL01000023.1	Genbank	exon	911718	913691	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09529000.1_mrna"; gene_id "gene-PKNOH_S09529000";
+NETL01000023.1	Genbank	CDS	911718	913691	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09529000.1_mrna"; gene_id "gene-PKNOH_S09529000";
+NETL01000023.1	Genbank	transcript	1198320	1199165	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09537600.1_mrna"; gene_id "gene-PKNOH_S09537600"; gene_name "RRP42"
+NETL01000023.1	Genbank	exon	1198320	1199165	.	-	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09537600.1_mrna"; gene_id "gene-PKNOH_S09537600"; gene_name "RRP42";
+NETL01000023.1	Genbank	CDS	1198320	1199165	.	-	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09537600.1_mrna"; gene_id "gene-PKNOH_S09537600"; gene_name "RRP42";
+NETL01000023.1	Genbank	transcript	1360298	1362187	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09541300.1_mrna"; gene_id "gene-PKNOH_S09541300"; gene_name "PRPF4"
+NETL01000023.1	Genbank	exon	1360298	1362187	.	+	.	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09541300.1_mrna"; gene_id "gene-PKNOH_S09541300"; gene_name "PRPF4";
+NETL01000023.1	Genbank	CDS	1360298	1362187	.	+	0	transcript_id "rna-gnl|WGS:NETL|PKNOH_S09541300.1_mrna"; gene_id "gene-PKNOH_S09541300"; gene_name "PRPF4";
