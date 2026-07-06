@@ -1,0 +1,552 @@
+NC_088935.1	RefSeq	transcript	178411	179869	.	-	.	transcript_id "rna-XM_023592717.1"; gene_id "gene-RHO25_000087"; gene_name "DPH1"
+NC_088935.1	RefSeq	exon	178411	179627	.	-	.	transcript_id "rna-XM_023592717.1"; gene_id "gene-RHO25_000087"; gene_name "DPH1";
+NC_088935.1	RefSeq	exon	179680	179869	.	-	.	transcript_id "rna-XM_023592717.1"; gene_id "gene-RHO25_000087"; gene_name "DPH1";
+NC_088935.1	RefSeq	CDS	178411	179627	.	-	2	transcript_id "rna-XM_023592717.1"; gene_id "gene-RHO25_000087"; gene_name "DPH1";
+NC_088935.1	RefSeq	CDS	179680	179869	.	-	0	transcript_id "rna-XM_023592717.1"; gene_id "gene-RHO25_000087"; gene_name "DPH1";
+NC_088935.1	RefSeq	transcript	473704	474411	.	-	.	transcript_id "rna-XM_023592839.2"; gene_id "gene-RHO25_000214"; gene_name "PRP11"
+NC_088935.1	RefSeq	exon	473704	474411	.	-	.	transcript_id "rna-XM_023592839.2"; gene_id "gene-RHO25_000214"; gene_name "PRP11";
+NC_088935.1	RefSeq	CDS	473704	474411	.	-	0	transcript_id "rna-XM_023592839.2"; gene_id "gene-RHO25_000214"; gene_name "PRP11";
+NC_088935.1	RefSeq	transcript	997142	998662	.	-	.	transcript_id "rna-XM_023593007.2"; gene_id "gene-RHO25_000393"; gene_name "GCV1"
+NC_088935.1	RefSeq	exon	997142	997347	.	-	.	transcript_id "rna-XM_023593007.2"; gene_id "gene-RHO25_000393"; gene_name "GCV1";
+NC_088935.1	RefSeq	exon	997405	998662	.	-	.	transcript_id "rna-XM_023593007.2"; gene_id "gene-RHO25_000393"; gene_name "GCV1";
+NC_088935.1	RefSeq	CDS	997142	997347	.	-	2	transcript_id "rna-XM_023593007.2"; gene_id "gene-RHO25_000393"; gene_name "GCV1";
+NC_088935.1	RefSeq	CDS	997405	998662	.	-	0	transcript_id "rna-XM_023593007.2"; gene_id "gene-RHO25_000393"; gene_name "GCV1";
+NC_088935.1	RefSeq	transcript	1050848	1053475	.	-	.	transcript_id "rna-XM_023593029.2"; gene_id "gene-RHO25_000415"; gene_name "SEC10"
+NC_088935.1	RefSeq	exon	1050848	1053475	.	-	.	transcript_id "rna-XM_023593029.2"; gene_id "gene-RHO25_000415"; gene_name "SEC10";
+NC_088935.1	RefSeq	CDS	1050848	1053475	.	-	0	transcript_id "rna-XM_023593029.2"; gene_id "gene-RHO25_000415"; gene_name "SEC10";
+NC_088935.1	RefSeq	transcript	1059534	1060801	.	-	.	transcript_id "rna-XM_023593034.2"; gene_id "gene-RHO25_000421"
+NC_088935.1	RefSeq	exon	1059534	1060506	.	-	.	transcript_id "rna-XM_023593034.2"; gene_id "gene-RHO25_000421";
+NC_088935.1	RefSeq	exon	1060560	1060801	.	-	.	transcript_id "rna-XM_023593034.2"; gene_id "gene-RHO25_000421";
+NC_088935.1	RefSeq	CDS	1059534	1060506	.	-	1	transcript_id "rna-XM_023593034.2"; gene_id "gene-RHO25_000421";
+NC_088935.1	RefSeq	CDS	1060560	1060801	.	-	0	transcript_id "rna-XM_023593034.2"; gene_id "gene-RHO25_000421";
+NC_088935.1	RefSeq	transcript	1061105	1063563	.	-	.	transcript_id "rna-XM_023593035.2"; gene_id "gene-RHO25_000422"; gene_name "ERB1"
+NC_088935.1	RefSeq	exon	1061105	1062499	.	-	.	transcript_id "rna-XM_023593035.2"; gene_id "gene-RHO25_000422"; gene_name "ERB1";
+NC_088935.1	RefSeq	exon	1062553	1063563	.	-	.	transcript_id "rna-XM_023593035.2"; gene_id "gene-RHO25_000422"; gene_name "ERB1";
+NC_088935.1	RefSeq	CDS	1061105	1062499	.	-	0	transcript_id "rna-XM_023593035.2"; gene_id "gene-RHO25_000422"; gene_name "ERB1";
+NC_088935.1	RefSeq	CDS	1062553	1063563	.	-	0	transcript_id "rna-XM_023593035.2"; gene_id "gene-RHO25_000422"; gene_name "ERB1";
+NC_088935.1	RefSeq	transcript	1128636	1129932	.	+	.	transcript_id "rna-XM_023593063.2"; gene_id "gene-RHO25_000451"; gene_name "RRP42"
+NC_088935.1	RefSeq	exon	1128636	1129130	.	+	.	transcript_id "rna-XM_023593063.2"; gene_id "gene-RHO25_000451"; gene_name "RRP42";
+NC_088935.1	RefSeq	exon	1129291	1129932	.	+	.	transcript_id "rna-XM_023593063.2"; gene_id "gene-RHO25_000451"; gene_name "RRP42";
+NC_088935.1	RefSeq	CDS	1128636	1129130	.	+	0	transcript_id "rna-XM_023593063.2"; gene_id "gene-RHO25_000451"; gene_name "RRP42";
+NC_088935.1	RefSeq	CDS	1129291	1129932	.	+	0	transcript_id "rna-XM_023593063.2"; gene_id "gene-RHO25_000451"; gene_name "RRP42";
+NC_088935.1	RefSeq	transcript	1231319	1232562	.	-	.	transcript_id "rna-XM_023593109.2"; gene_id "gene-RHO25_000494"; gene_name "FYV10"
+NC_088935.1	RefSeq	exon	1231319	1231744	.	-	.	transcript_id "rna-XM_023593109.2"; gene_id "gene-RHO25_000494"; gene_name "FYV10";
+NC_088935.1	RefSeq	exon	1231798	1232562	.	-	.	transcript_id "rna-XM_023593109.2"; gene_id "gene-RHO25_000494"; gene_name "FYV10";
+NC_088935.1	RefSeq	CDS	1231319	1231744	.	-	0	transcript_id "rna-XM_023593109.2"; gene_id "gene-RHO25_000494"; gene_name "FYV10";
+NC_088935.1	RefSeq	CDS	1231798	1232562	.	-	0	transcript_id "rna-XM_023593109.2"; gene_id "gene-RHO25_000494"; gene_name "FYV10";
+NC_088935.1	RefSeq	transcript	1450692	1451370	.	+	.	transcript_id "rna-XM_023593175.2"; gene_id "gene-RHO25_000563"; gene_name "COX11"
+NC_088935.1	RefSeq	exon	1450692	1451268	.	+	.	transcript_id "rna-XM_023593175.2"; gene_id "gene-RHO25_000563"; gene_name "COX11";
+NC_088935.1	RefSeq	exon	1451318	1451370	.	+	.	transcript_id "rna-XM_023593175.2"; gene_id "gene-RHO25_000563"; gene_name "COX11";
+NC_088935.1	RefSeq	CDS	1450692	1451268	.	+	0	transcript_id "rna-XM_023593175.2"; gene_id "gene-RHO25_000563"; gene_name "COX11";
+NC_088935.1	RefSeq	CDS	1451318	1451370	.	+	2	transcript_id "rna-XM_023593175.2"; gene_id "gene-RHO25_000563"; gene_name "COX11";
+NC_088935.1	RefSeq	transcript	1506623	1508253	.	-	.	transcript_id "rna-XM_023593194.2"; gene_id "gene-RHO25_000582"
+NC_088935.1	RefSeq	exon	1506623	1507759	.	-	.	transcript_id "rna-XM_023593194.2"; gene_id "gene-RHO25_000582";
+NC_088935.1	RefSeq	exon	1507812	1507980	.	-	.	transcript_id "rna-XM_023593194.2"; gene_id "gene-RHO25_000582";
+NC_088935.1	RefSeq	exon	1508030	1508253	.	-	.	transcript_id "rna-XM_023593194.2"; gene_id "gene-RHO25_000582";
+NC_088935.1	RefSeq	CDS	1506623	1507759	.	-	0	transcript_id "rna-XM_023593194.2"; gene_id "gene-RHO25_000582";
+NC_088935.1	RefSeq	CDS	1507812	1507980	.	-	1	transcript_id "rna-XM_023593194.2"; gene_id "gene-RHO25_000582";
+NC_088935.1	RefSeq	CDS	1508030	1508253	.	-	0	transcript_id "rna-XM_023593194.2"; gene_id "gene-RHO25_000582";
+NC_088935.1	RefSeq	transcript	1538601	1539788	.	+	.	transcript_id "rna-XM_023593210.2"; gene_id "gene-RHO25_000596"; gene_name "NPA3"
+NC_088935.1	RefSeq	exon	1538601	1539788	.	+	.	transcript_id "rna-XM_023593210.2"; gene_id "gene-RHO25_000596"; gene_name "NPA3";
+NC_088935.1	RefSeq	CDS	1538601	1539788	.	+	0	transcript_id "rna-XM_023593210.2"; gene_id "gene-RHO25_000596"; gene_name "NPA3";
+NC_088935.1	RefSeq	transcript	1549347	1550520	.	+	.	transcript_id "rna-XM_023593213.2"; gene_id "gene-RHO25_000599"
+NC_088935.1	RefSeq	exon	1549347	1549888	.	+	.	transcript_id "rna-XM_023593213.2"; gene_id "gene-RHO25_000599";
+NC_088935.1	RefSeq	exon	1549941	1550520	.	+	.	transcript_id "rna-XM_023593213.2"; gene_id "gene-RHO25_000599";
+NC_088935.1	RefSeq	CDS	1549347	1549888	.	+	0	transcript_id "rna-XM_023593213.2"; gene_id "gene-RHO25_000599";
+NC_088935.1	RefSeq	CDS	1549941	1550520	.	+	1	transcript_id "rna-XM_023593213.2"; gene_id "gene-RHO25_000599";
+NC_088935.1	RefSeq	transcript	1789885	1790631	.	+	.	transcript_id "rna-XM_023593291.1"; gene_id "gene-RHO25_000685"; gene_name "NOP16"
+NC_088935.1	RefSeq	exon	1789885	1790631	.	+	.	transcript_id "rna-XM_023593291.1"; gene_id "gene-RHO25_000685"; gene_name "NOP16";
+NC_088935.1	RefSeq	CDS	1789885	1790631	.	+	0	transcript_id "rna-XM_023593291.1"; gene_id "gene-RHO25_000685"; gene_name "NOP16";
+NC_088935.1	RefSeq	transcript	1843933	1845793	.	+	.	transcript_id "rna-XM_023593312.2"; gene_id "gene-RHO25_000705"; gene_name "FRS1"
+NC_088935.1	RefSeq	exon	1843933	1845571	.	+	.	transcript_id "rna-XM_023593312.2"; gene_id "gene-RHO25_000705"; gene_name "FRS1";
+NC_088935.1	RefSeq	exon	1845627	1845793	.	+	.	transcript_id "rna-XM_023593312.2"; gene_id "gene-RHO25_000705"; gene_name "FRS1";
+NC_088935.1	RefSeq	CDS	1843933	1845571	.	+	0	transcript_id "rna-XM_023593312.2"; gene_id "gene-RHO25_000705"; gene_name "FRS1";
+NC_088935.1	RefSeq	CDS	1845627	1845793	.	+	2	transcript_id "rna-XM_023593312.2"; gene_id "gene-RHO25_000705"; gene_name "FRS1";
+NC_088935.1	RefSeq	transcript	1956139	1956760	.	-	.	transcript_id "rna-XM_023593354.2"; gene_id "gene-RHO25_000748"; gene_name "TMA20"
+NC_088935.1	RefSeq	exon	1956139	1956691	.	-	.	transcript_id "rna-XM_023593354.2"; gene_id "gene-RHO25_000748"; gene_name "TMA20";
+NC_088935.1	RefSeq	exon	1956747	1956760	.	-	.	transcript_id "rna-XM_023593354.2"; gene_id "gene-RHO25_000748"; gene_name "TMA20";
+NC_088935.1	RefSeq	CDS	1956139	1956691	.	-	1	transcript_id "rna-XM_023593354.2"; gene_id "gene-RHO25_000748"; gene_name "TMA20";
+NC_088935.1	RefSeq	CDS	1956747	1956760	.	-	0	transcript_id "rna-XM_023593354.2"; gene_id "gene-RHO25_000748"; gene_name "TMA20";
+NC_088935.1	RefSeq	transcript	2019164	2021015	.	-	.	transcript_id "rna-XM_023593383.2"; gene_id "gene-RHO25_000777"
+NC_088935.1	RefSeq	exon	2019164	2019232	.	-	.	transcript_id "rna-XM_023593383.2"; gene_id "gene-RHO25_000777";
+NC_088935.1	RefSeq	exon	2019281	2020246	.	-	.	transcript_id "rna-XM_023593383.2"; gene_id "gene-RHO25_000777";
+NC_088935.1	RefSeq	exon	2020299	2021015	.	-	.	transcript_id "rna-XM_023593383.2"; gene_id "gene-RHO25_000777";
+NC_088935.1	RefSeq	CDS	2019164	2019232	.	-	0	transcript_id "rna-XM_023593383.2"; gene_id "gene-RHO25_000777";
+NC_088935.1	RefSeq	CDS	2019281	2020246	.	-	0	transcript_id "rna-XM_023593383.2"; gene_id "gene-RHO25_000777";
+NC_088935.1	RefSeq	CDS	2020299	2021015	.	-	0	transcript_id "rna-XM_023593383.2"; gene_id "gene-RHO25_000777";
+NC_088935.1	RefSeq	transcript	2063597	2064340	.	+	.	transcript_id "rna-XM_023593402.2"; gene_id "gene-RHO25_000796"; gene_name "PSF1"
+NC_088935.1	RefSeq	exon	2063597	2064340	.	+	.	transcript_id "rna-XM_023593402.2"; gene_id "gene-RHO25_000796"; gene_name "PSF1";
+NC_088935.1	RefSeq	CDS	2063597	2064340	.	+	0	transcript_id "rna-XM_023593402.2"; gene_id "gene-RHO25_000796"; gene_name "PSF1";
+NC_088935.1	RefSeq	transcript	2154818	2157475	.	-	.	transcript_id "rna-XM_023593435.2"; gene_id "gene-RHO25_000829"; gene_name "MAK21"
+NC_088935.1	RefSeq	exon	2154818	2157475	.	-	.	transcript_id "rna-XM_023593435.2"; gene_id "gene-RHO25_000829"; gene_name "MAK21";
+NC_088935.1	RefSeq	CDS	2154818	2157475	.	-	0	transcript_id "rna-XM_023593435.2"; gene_id "gene-RHO25_000829"; gene_name "MAK21";
+NC_088935.1	RefSeq	transcript	2238335	2241451	.	-	.	transcript_id "rna-XM_023593468.2"; gene_id "gene-RHO25_000859"
+NC_088935.1	RefSeq	exon	2238335	2241451	.	-	.	transcript_id "rna-XM_023593468.2"; gene_id "gene-RHO25_000859";
+NC_088935.1	RefSeq	CDS	2238335	2241451	.	-	0	transcript_id "rna-XM_023593468.2"; gene_id "gene-RHO25_000859";
+NC_088935.1	RefSeq	transcript	2360530	2361248	.	+	.	transcript_id "rna-XM_023593519.2"; gene_id "gene-RHO25_000911"; gene_name "RPC25"
+NC_088935.1	RefSeq	exon	2360530	2360541	.	+	.	transcript_id "rna-XM_023593519.2"; gene_id "gene-RHO25_000911"; gene_name "RPC25";
+NC_088935.1	RefSeq	exon	2360607	2361248	.	+	.	transcript_id "rna-XM_023593519.2"; gene_id "gene-RHO25_000911"; gene_name "RPC25";
+NC_088935.1	RefSeq	CDS	2360530	2360541	.	+	0	transcript_id "rna-XM_023593519.2"; gene_id "gene-RHO25_000911"; gene_name "RPC25";
+NC_088935.1	RefSeq	CDS	2360607	2361248	.	+	0	transcript_id "rna-XM_023593519.2"; gene_id "gene-RHO25_000911"; gene_name "RPC25";
+NC_088935.1	RefSeq	transcript	3016267	3017766	.	+	.	transcript_id "rna-XM_023593814.2"; gene_id "gene-RHO25_001204"; gene_name "PRP46"
+NC_088935.1	RefSeq	exon	3016267	3017766	.	+	.	transcript_id "rna-XM_023593814.2"; gene_id "gene-RHO25_001204"; gene_name "PRP46";
+NC_088935.1	RefSeq	CDS	3016267	3017766	.	+	0	transcript_id "rna-XM_023593814.2"; gene_id "gene-RHO25_001204"; gene_name "PRP46";
+NC_088935.1	RefSeq	transcript	3082966	3084713	.	-	.	transcript_id "rna-XM_023593841.2"; gene_id "gene-RHO25_001231"
+NC_088935.1	RefSeq	exon	3082966	3084470	.	-	.	transcript_id "rna-XM_023593841.2"; gene_id "gene-RHO25_001231";
+NC_088935.1	RefSeq	exon	3084526	3084553	.	-	.	transcript_id "rna-XM_023593841.2"; gene_id "gene-RHO25_001231";
+NC_088935.1	RefSeq	exon	3084678	3084713	.	-	.	transcript_id "rna-XM_023593841.2"; gene_id "gene-RHO25_001231";
+NC_088935.1	RefSeq	CDS	3082966	3084470	.	-	2	transcript_id "rna-XM_023593841.2"; gene_id "gene-RHO25_001231";
+NC_088935.1	RefSeq	CDS	3084526	3084553	.	-	0	transcript_id "rna-XM_023593841.2"; gene_id "gene-RHO25_001231";
+NC_088935.1	RefSeq	CDS	3084678	3084713	.	-	0	transcript_id "rna-XM_023593841.2"; gene_id "gene-RHO25_001231";
+NC_088935.1	RefSeq	transcript	3400822	3401556	.	+	.	transcript_id "rna-XM_023593979.2"; gene_id "gene-RHO25_001368"; gene_name "GIR2"
+NC_088935.1	RefSeq	exon	3400822	3401556	.	+	.	transcript_id "rna-XM_023593979.2"; gene_id "gene-RHO25_001368"; gene_name "GIR2";
+NC_088935.1	RefSeq	CDS	3400822	3401556	.	+	0	transcript_id "rna-XM_023593979.2"; gene_id "gene-RHO25_001368"; gene_name "GIR2";
+NC_088935.1	RefSeq	transcript	4188955	4189700	.	+	.	transcript_id "rna-XM_023594279.2"; gene_id "gene-RHO25_001669"; gene_name "NAT3"
+NC_088935.1	RefSeq	exon	4188955	4189129	.	+	.	transcript_id "rna-XM_023594279.2"; gene_id "gene-RHO25_001669"; gene_name "NAT3";
+NC_088935.1	RefSeq	exon	4189208	4189478	.	+	.	transcript_id "rna-XM_023594279.2"; gene_id "gene-RHO25_001669"; gene_name "NAT3";
+NC_088935.1	RefSeq	exon	4189553	4189700	.	+	.	transcript_id "rna-XM_023594279.2"; gene_id "gene-RHO25_001669"; gene_name "NAT3";
+NC_088935.1	RefSeq	CDS	4188955	4189129	.	+	0	transcript_id "rna-XM_023594279.2"; gene_id "gene-RHO25_001669"; gene_name "NAT3";
+NC_088935.1	RefSeq	CDS	4189208	4189478	.	+	2	transcript_id "rna-XM_023594279.2"; gene_id "gene-RHO25_001669"; gene_name "NAT3";
+NC_088935.1	RefSeq	CDS	4189553	4189700	.	+	1	transcript_id "rna-XM_023594279.2"; gene_id "gene-RHO25_001669"; gene_name "NAT3";
+NC_088935.1	RefSeq	transcript	4236555	4238723	.	+	.	transcript_id "rna-XM_065602134.1"; gene_id "gene-RHO25_001690"; gene_name "NOP7"
+NC_088935.1	RefSeq	exon	4236555	4238723	.	+	.	transcript_id "rna-XM_065602134.1"; gene_id "gene-RHO25_001690"; gene_name "NOP7";
+NC_088935.1	RefSeq	CDS	4236555	4238723	.	+	0	transcript_id "rna-XM_065602134.1"; gene_id "gene-RHO25_001690"; gene_name "NOP7";
+NC_088935.1	RefSeq	transcript	4425609	4426708	.	+	.	transcript_id "rna-XM_023594372.2"; gene_id "gene-RHO25_001769"; gene_name "NNR2"
+NC_088935.1	RefSeq	exon	4425609	4425678	.	+	.	transcript_id "rna-XM_023594372.2"; gene_id "gene-RHO25_001769"; gene_name "NNR2";
+NC_088935.1	RefSeq	exon	4425746	4425843	.	+	.	transcript_id "rna-XM_023594372.2"; gene_id "gene-RHO25_001769"; gene_name "NNR2";
+NC_088935.1	RefSeq	exon	4425905	4426708	.	+	.	transcript_id "rna-XM_023594372.2"; gene_id "gene-RHO25_001769"; gene_name "NNR2";
+NC_088935.1	RefSeq	CDS	4425609	4425678	.	+	0	transcript_id "rna-XM_023594372.2"; gene_id "gene-RHO25_001769"; gene_name "NNR2";
+NC_088935.1	RefSeq	CDS	4425746	4425843	.	+	2	transcript_id "rna-XM_023594372.2"; gene_id "gene-RHO25_001769"; gene_name "NNR2";
+NC_088935.1	RefSeq	CDS	4425905	4426708	.	+	0	transcript_id "rna-XM_023594372.2"; gene_id "gene-RHO25_001769"; gene_name "NNR2";
+NC_088935.1	RefSeq	transcript	4428178	4428963	.	+	.	transcript_id "rna-XM_023594374.2"; gene_id "gene-RHO25_001771"; gene_name "NSA2"
+NC_088935.1	RefSeq	exon	4428178	4428963	.	+	.	transcript_id "rna-XM_023594374.2"; gene_id "gene-RHO25_001771"; gene_name "NSA2";
+NC_088935.1	RefSeq	CDS	4428178	4428963	.	+	0	transcript_id "rna-XM_023594374.2"; gene_id "gene-RHO25_001771"; gene_name "NSA2";
+NC_088935.1	RefSeq	transcript	4511225	4513529	.	+	.	transcript_id "rna-XM_023594407.2"; gene_id "gene-RHO25_001803"; gene_name "ENP2"
+NC_088935.1	RefSeq	exon	4511225	4511441	.	+	.	transcript_id "rna-XM_023594407.2"; gene_id "gene-RHO25_001803"; gene_name "ENP2";
+NC_088935.1	RefSeq	exon	4511524	4513529	.	+	.	transcript_id "rna-XM_023594407.2"; gene_id "gene-RHO25_001803"; gene_name "ENP2";
+NC_088935.1	RefSeq	CDS	4511225	4511441	.	+	0	transcript_id "rna-XM_023594407.2"; gene_id "gene-RHO25_001803"; gene_name "ENP2";
+NC_088935.1	RefSeq	CDS	4511524	4513529	.	+	2	transcript_id "rna-XM_023594407.2"; gene_id "gene-RHO25_001803"; gene_name "ENP2";
+NC_088935.1	RefSeq	transcript	4921552	4923072	.	-	.	transcript_id "rna-XM_023594554.2"; gene_id "gene-RHO25_001958"
+NC_088935.1	RefSeq	exon	4921552	4923072	.	-	.	transcript_id "rna-XM_023594554.2"; gene_id "gene-RHO25_001958";
+NC_088935.1	RefSeq	CDS	4921552	4923072	.	-	0	transcript_id "rna-XM_023594554.2"; gene_id "gene-RHO25_001958";
+NC_088935.1	RefSeq	transcript	5114062	5114734	.	+	.	transcript_id "rna-XM_023594620.2"; gene_id "gene-RHO25_002030"; gene_name "TMA22"
+NC_088935.1	RefSeq	exon	5114062	5114142	.	+	.	transcript_id "rna-XM_023594620.2"; gene_id "gene-RHO25_002030"; gene_name "TMA22";
+NC_088935.1	RefSeq	exon	5114234	5114734	.	+	.	transcript_id "rna-XM_023594620.2"; gene_id "gene-RHO25_002030"; gene_name "TMA22";
+NC_088935.1	RefSeq	CDS	5114062	5114142	.	+	0	transcript_id "rna-XM_023594620.2"; gene_id "gene-RHO25_002030"; gene_name "TMA22";
+NC_088935.1	RefSeq	CDS	5114234	5114734	.	+	0	transcript_id "rna-XM_023594620.2"; gene_id "gene-RHO25_002030"; gene_name "TMA22";
+NC_088936.1	RefSeq	transcript	191995	192816	.	-	.	transcript_id "rna-XM_023594901.2"; gene_id "gene-RHO25_002225"; gene_name "COQ4"
+NC_088936.1	RefSeq	exon	191995	192816	.	-	.	transcript_id "rna-XM_023594901.2"; gene_id "gene-RHO25_002225"; gene_name "COQ4";
+NC_088936.1	RefSeq	CDS	191995	192816	.	-	0	transcript_id "rna-XM_023594901.2"; gene_id "gene-RHO25_002225"; gene_name "COQ4";
+NC_088936.1	RefSeq	transcript	201301	202320	.	-	.	transcript_id "rna-XM_065602202.1"; gene_id "gene-RHO25_002228"; gene_name "SHY1"
+NC_088936.1	RefSeq	exon	201301	202320	.	-	.	transcript_id "rna-XM_065602202.1"; gene_id "gene-RHO25_002228"; gene_name "SHY1";
+NC_088936.1	RefSeq	CDS	201301	202320	.	-	0	transcript_id "rna-XM_065602202.1"; gene_id "gene-RHO25_002228"; gene_name "SHY1";
+NC_088936.1	RefSeq	transcript	527151	528455	.	-	.	transcript_id "rna-XM_023594791.2"; gene_id "gene-RHO25_002359"; gene_name "COG5"
+NC_088936.1	RefSeq	exon	527151	528455	.	-	.	transcript_id "rna-XM_023594791.2"; gene_id "gene-RHO25_002359"; gene_name "COG5";
+NC_088936.1	RefSeq	CDS	527151	528455	.	-	0	transcript_id "rna-XM_023594791.2"; gene_id "gene-RHO25_002359"; gene_name "COG5";
+NC_088936.1	RefSeq	transcript	577184	577909	.	+	.	transcript_id "rna-XM_065602240.1"; gene_id "gene-RHO25_002382"; gene_name "RRP40"
+NC_088936.1	RefSeq	exon	577184	577909	.	+	.	transcript_id "rna-XM_065602240.1"; gene_id "gene-RHO25_002382"; gene_name "RRP40";
+NC_088936.1	RefSeq	CDS	577184	577909	.	+	0	transcript_id "rna-XM_065602240.1"; gene_id "gene-RHO25_002382"; gene_name "RRP40";
+NC_088936.1	RefSeq	transcript	1576197	1577273	.	+	.	transcript_id "rna-XM_023598202.2"; gene_id "gene-RHO25_002640"; gene_name "CAB2"
+NC_088936.1	RefSeq	exon	1576197	1577273	.	+	.	transcript_id "rna-XM_023598202.2"; gene_id "gene-RHO25_002640"; gene_name "CAB2";
+NC_088936.1	RefSeq	CDS	1576197	1577273	.	+	0	transcript_id "rna-XM_023598202.2"; gene_id "gene-RHO25_002640"; gene_name "CAB2";
+NC_088936.1	RefSeq	transcript	2296646	2299390	.	-	.	transcript_id "rna-XM_023598440.2"; gene_id "gene-RHO25_002899"
+NC_088936.1	RefSeq	exon	2296646	2299390	.	-	.	transcript_id "rna-XM_023598440.2"; gene_id "gene-RHO25_002899";
+NC_088936.1	RefSeq	CDS	2296646	2299390	.	-	0	transcript_id "rna-XM_023598440.2"; gene_id "gene-RHO25_002899";
+NC_088936.1	RefSeq	transcript	2391837	2394522	.	-	.	transcript_id "rna-XM_023598474.2"; gene_id "gene-RHO25_002935"; gene_name "COG3"
+NC_088936.1	RefSeq	exon	2391837	2394374	.	-	.	transcript_id "rna-XM_023598474.2"; gene_id "gene-RHO25_002935"; gene_name "COG3";
+NC_088936.1	RefSeq	exon	2394424	2394522	.	-	.	transcript_id "rna-XM_023598474.2"; gene_id "gene-RHO25_002935"; gene_name "COG3";
+NC_088936.1	RefSeq	CDS	2391837	2394374	.	-	0	transcript_id "rna-XM_023598474.2"; gene_id "gene-RHO25_002935"; gene_name "COG3";
+NC_088936.1	RefSeq	CDS	2394424	2394522	.	-	0	transcript_id "rna-XM_023598474.2"; gene_id "gene-RHO25_002935"; gene_name "COG3";
+NC_088936.1	RefSeq	transcript	3600366	3601151	.	+	.	transcript_id "rna-XM_023598836.2"; gene_id "gene-RHO25_003329"; gene_name "SNF8"
+NC_088936.1	RefSeq	exon	3600366	3601151	.	+	.	transcript_id "rna-XM_023598836.2"; gene_id "gene-RHO25_003329"; gene_name "SNF8";
+NC_088936.1	RefSeq	CDS	3600366	3601151	.	+	0	transcript_id "rna-XM_023598836.2"; gene_id "gene-RHO25_003329"; gene_name "SNF8";
+NC_088936.1	RefSeq	transcript	3858961	3860379	.	-	.	transcript_id "rna-XM_023598943.2"; gene_id "gene-RHO25_003438"; gene_name "RRP3"
+NC_088936.1	RefSeq	exon	3858961	3860379	.	-	.	transcript_id "rna-XM_023598943.2"; gene_id "gene-RHO25_003438"; gene_name "RRP3";
+NC_088936.1	RefSeq	CDS	3858961	3860379	.	-	0	transcript_id "rna-XM_023598943.2"; gene_id "gene-RHO25_003438"; gene_name "RRP3";
+NC_088936.1	RefSeq	transcript	4229519	4231426	.	+	.	transcript_id "rna-XM_023599095.2"; gene_id "gene-RHO25_003601"; gene_name "CIR2"
+NC_088936.1	RefSeq	exon	4229519	4231426	.	+	.	transcript_id "rna-XM_023599095.2"; gene_id "gene-RHO25_003601"; gene_name "CIR2";
+NC_088936.1	RefSeq	CDS	4229519	4231426	.	+	0	transcript_id "rna-XM_023599095.2"; gene_id "gene-RHO25_003601"; gene_name "CIR2";
+NC_088936.1	RefSeq	transcript	4383560	4385227	.	+	.	transcript_id "rna-XM_023599160.2"; gene_id "gene-RHO25_003672"; gene_name "PCM1"
+NC_088936.1	RefSeq	exon	4383560	4385227	.	+	.	transcript_id "rna-XM_023599160.2"; gene_id "gene-RHO25_003672"; gene_name "PCM1";
+NC_088936.1	RefSeq	CDS	4383560	4385227	.	+	0	transcript_id "rna-XM_023599160.2"; gene_id "gene-RHO25_003672"; gene_name "PCM1";
+NC_088936.1	RefSeq	transcript	4731940	4732932	.	+	.	transcript_id "rna-XM_023599289.1"; gene_id "gene-RHO25_003808"; gene_name "BUD13"
+NC_088936.1	RefSeq	exon	4731940	4732932	.	+	.	transcript_id "rna-XM_023599289.1"; gene_id "gene-RHO25_003808"; gene_name "BUD13";
+NC_088936.1	RefSeq	CDS	4731940	4732932	.	+	0	transcript_id "rna-XM_023599289.1"; gene_id "gene-RHO25_003808"; gene_name "BUD13";
+NC_088936.1	RefSeq	transcript	4959422	4960920	.	+	.	transcript_id "rna-XM_023599360.2"; gene_id "gene-RHO25_003892"
+NC_088936.1	RefSeq	exon	4959422	4959742	.	+	.	transcript_id "rna-XM_023599360.2"; gene_id "gene-RHO25_003892";
+NC_088936.1	RefSeq	exon	4959799	4960920	.	+	.	transcript_id "rna-XM_023599360.2"; gene_id "gene-RHO25_003892";
+NC_088936.1	RefSeq	CDS	4959422	4959742	.	+	0	transcript_id "rna-XM_023599360.2"; gene_id "gene-RHO25_003892";
+NC_088936.1	RefSeq	CDS	4959799	4960920	.	+	0	transcript_id "rna-XM_023599360.2"; gene_id "gene-RHO25_003892";
+NC_088937.1	RefSeq	transcript	389875	392703	.	-	.	transcript_id "rna-XM_023595043.2"; gene_id "gene-RHO25_004120"
+NC_088937.1	RefSeq	exon	389875	392703	.	-	.	transcript_id "rna-XM_023595043.2"; gene_id "gene-RHO25_004120";
+NC_088937.1	RefSeq	CDS	389875	392703	.	-	0	transcript_id "rna-XM_023595043.2"; gene_id "gene-RHO25_004120";
+NC_088937.1	RefSeq	transcript	437097	439373	.	-	.	transcript_id "rna-XM_023595063.2"; gene_id "gene-RHO25_004142"; gene_name "SDA1"
+NC_088937.1	RefSeq	exon	437097	439373	.	-	.	transcript_id "rna-XM_023595063.2"; gene_id "gene-RHO25_004142"; gene_name "SDA1";
+NC_088937.1	RefSeq	CDS	437097	439373	.	-	0	transcript_id "rna-XM_023595063.2"; gene_id "gene-RHO25_004142"; gene_name "SDA1";
+NC_088937.1	RefSeq	transcript	517423	518532	.	+	.	transcript_id "rna-XM_023595094.2"; gene_id "gene-RHO25_004170"; gene_name "DOC1"
+NC_088937.1	RefSeq	exon	517423	517624	.	+	.	transcript_id "rna-XM_023595094.2"; gene_id "gene-RHO25_004170"; gene_name "DOC1";
+NC_088937.1	RefSeq	exon	517694	518532	.	+	.	transcript_id "rna-XM_023595094.2"; gene_id "gene-RHO25_004170"; gene_name "DOC1";
+NC_088937.1	RefSeq	CDS	517423	517624	.	+	0	transcript_id "rna-XM_023595094.2"; gene_id "gene-RHO25_004170"; gene_name "DOC1";
+NC_088937.1	RefSeq	CDS	517694	518532	.	+	2	transcript_id "rna-XM_023595094.2"; gene_id "gene-RHO25_004170"; gene_name "DOC1";
+NC_088937.1	RefSeq	transcript	889044	889769	.	-	.	transcript_id "rna-XM_023595250.2"; gene_id "gene-RHO25_004328"; gene_name "MRT4"
+NC_088937.1	RefSeq	exon	889044	889769	.	-	.	transcript_id "rna-XM_023595250.2"; gene_id "gene-RHO25_004328"; gene_name "MRT4";
+NC_088937.1	RefSeq	CDS	889044	889769	.	-	0	transcript_id "rna-XM_023595250.2"; gene_id "gene-RHO25_004328"; gene_name "MRT4";
+NC_088937.1	RefSeq	transcript	1248013	1248990	.	+	.	transcript_id "rna-XM_023595359.2"; gene_id "gene-RHO25_004438"; gene_name "SDO1"
+NC_088937.1	RefSeq	exon	1248013	1248990	.	+	.	transcript_id "rna-XM_023595359.2"; gene_id "gene-RHO25_004438"; gene_name "SDO1";
+NC_088937.1	RefSeq	CDS	1248013	1248990	.	+	0	transcript_id "rna-XM_023595359.2"; gene_id "gene-RHO25_004438"; gene_name "SDO1";
+NC_088937.1	RefSeq	transcript	1269515	1270925	.	+	.	transcript_id "rna-XM_023595372.2"; gene_id "gene-RHO25_004449"; gene_name "SSL1"
+NC_088937.1	RefSeq	exon	1269515	1269711	.	+	.	transcript_id "rna-XM_023595372.2"; gene_id "gene-RHO25_004449"; gene_name "SSL1";
+NC_088937.1	RefSeq	exon	1269764	1270925	.	+	.	transcript_id "rna-XM_023595372.2"; gene_id "gene-RHO25_004449"; gene_name "SSL1";
+NC_088937.1	RefSeq	CDS	1269515	1269711	.	+	0	transcript_id "rna-XM_023595372.2"; gene_id "gene-RHO25_004449"; gene_name "SSL1";
+NC_088937.1	RefSeq	CDS	1269764	1270925	.	+	1	transcript_id "rna-XM_023595372.2"; gene_id "gene-RHO25_004449"; gene_name "SSL1";
+NC_088937.1	RefSeq	transcript	1502548	1504071	.	-	.	transcript_id "rna-XM_023595467.2"; gene_id "gene-RHO25_004546"; gene_name "ENP1"
+NC_088937.1	RefSeq	exon	1502548	1504071	.	-	.	transcript_id "rna-XM_023595467.2"; gene_id "gene-RHO25_004546"; gene_name "ENP1";
+NC_088937.1	RefSeq	CDS	1502548	1504071	.	-	0	transcript_id "rna-XM_023595467.2"; gene_id "gene-RHO25_004546"; gene_name "ENP1";
+NC_088937.1	RefSeq	transcript	1972398	1973462	.	-	.	transcript_id "rna-XM_023595649.2"; gene_id "gene-RHO25_004733"; gene_name "PRP18"
+NC_088937.1	RefSeq	exon	1972398	1973462	.	-	.	transcript_id "rna-XM_023595649.2"; gene_id "gene-RHO25_004733"; gene_name "PRP18";
+NC_088937.1	RefSeq	CDS	1972398	1973462	.	-	0	transcript_id "rna-XM_023595649.2"; gene_id "gene-RHO25_004733"; gene_name "PRP18";
+NC_088937.1	RefSeq	transcript	2268867	2270042	.	-	.	transcript_id "rna-XM_023595781.2"; gene_id "gene-RHO25_004868"; gene_name "MED6"
+NC_088937.1	RefSeq	exon	2268867	2270042	.	-	.	transcript_id "rna-XM_023595781.2"; gene_id "gene-RHO25_004868"; gene_name "MED6";
+NC_088937.1	RefSeq	CDS	2268867	2270042	.	-	0	transcript_id "rna-XM_023595781.2"; gene_id "gene-RHO25_004868"; gene_name "MED6";
+NC_088937.1	RefSeq	transcript	2306522	2307130	.	+	.	transcript_id "rna-XM_023595801.2"; gene_id "gene-RHO25_004888"; gene_name "SPT4"
+NC_088937.1	RefSeq	exon	2306522	2306681	.	+	.	transcript_id "rna-XM_023595801.2"; gene_id "gene-RHO25_004888"; gene_name "SPT4";
+NC_088937.1	RefSeq	exon	2306742	2306842	.	+	.	transcript_id "rna-XM_023595801.2"; gene_id "gene-RHO25_004888"; gene_name "SPT4";
+NC_088937.1	RefSeq	exon	2306965	2307017	.	+	.	transcript_id "rna-XM_023595801.2"; gene_id "gene-RHO25_004888"; gene_name "SPT4";
+NC_088937.1	RefSeq	exon	2307097	2307130	.	+	.	transcript_id "rna-XM_023595801.2"; gene_id "gene-RHO25_004888"; gene_name "SPT4";
+NC_088937.1	RefSeq	CDS	2306522	2306681	.	+	0	transcript_id "rna-XM_023595801.2"; gene_id "gene-RHO25_004888"; gene_name "SPT4";
+NC_088937.1	RefSeq	CDS	2306742	2306842	.	+	2	transcript_id "rna-XM_023595801.2"; gene_id "gene-RHO25_004888"; gene_name "SPT4";
+NC_088937.1	RefSeq	CDS	2306965	2307017	.	+	0	transcript_id "rna-XM_023595801.2"; gene_id "gene-RHO25_004888"; gene_name "SPT4";
+NC_088937.1	RefSeq	CDS	2307097	2307130	.	+	1	transcript_id "rna-XM_023595801.2"; gene_id "gene-RHO25_004888"; gene_name "SPT4";
+NC_088937.1	RefSeq	transcript	2581602	2582660	.	+	.	transcript_id "rna-XM_023595892.2"; gene_id "gene-RHO25_004984"; gene_name "AIM45"
+NC_088937.1	RefSeq	exon	2581602	2582660	.	+	.	transcript_id "rna-XM_023595892.2"; gene_id "gene-RHO25_004984"; gene_name "AIM45";
+NC_088937.1	RefSeq	CDS	2581602	2582660	.	+	0	transcript_id "rna-XM_023595892.2"; gene_id "gene-RHO25_004984"; gene_name "AIM45";
+NC_088937.1	RefSeq	transcript	2716776	2717297	.	+	.	transcript_id "rna-XM_023595938.2"; gene_id "gene-RHO25_005031"; gene_name "MRPL51"
+NC_088937.1	RefSeq	exon	2716776	2716814	.	+	.	transcript_id "rna-XM_023595938.2"; gene_id "gene-RHO25_005031"; gene_name "MRPL51";
+NC_088937.1	RefSeq	exon	2716864	2716946	.	+	.	transcript_id "rna-XM_023595938.2"; gene_id "gene-RHO25_005031"; gene_name "MRPL51";
+NC_088937.1	RefSeq	exon	2717003	2717297	.	+	.	transcript_id "rna-XM_023595938.2"; gene_id "gene-RHO25_005031"; gene_name "MRPL51";
+NC_088937.1	RefSeq	CDS	2716776	2716814	.	+	0	transcript_id "rna-XM_023595938.2"; gene_id "gene-RHO25_005031"; gene_name "MRPL51";
+NC_088937.1	RefSeq	CDS	2716864	2716946	.	+	0	transcript_id "rna-XM_023595938.2"; gene_id "gene-RHO25_005031"; gene_name "MRPL51";
+NC_088937.1	RefSeq	CDS	2717003	2717297	.	+	1	transcript_id "rna-XM_023595938.2"; gene_id "gene-RHO25_005031"; gene_name "MRPL51";
+NC_088937.1	RefSeq	transcript	2917808	2920407	.	+	.	transcript_id "rna-XM_023596027.2"; gene_id "gene-RHO25_005121"
+NC_088937.1	RefSeq	exon	2917808	2917844	.	+	.	transcript_id "rna-XM_023596027.2"; gene_id "gene-RHO25_005121";
+NC_088937.1	RefSeq	exon	2917911	2918146	.	+	.	transcript_id "rna-XM_023596027.2"; gene_id "gene-RHO25_005121";
+NC_088937.1	RefSeq	exon	2918215	2918313	.	+	.	transcript_id "rna-XM_023596027.2"; gene_id "gene-RHO25_005121";
+NC_088937.1	RefSeq	exon	2918373	2918425	.	+	.	transcript_id "rna-XM_023596027.2"; gene_id "gene-RHO25_005121";
+NC_088937.1	RefSeq	exon	2918484	2920407	.	+	.	transcript_id "rna-XM_023596027.2"; gene_id "gene-RHO25_005121";
+NC_088937.1	RefSeq	CDS	2917808	2917844	.	+	0	transcript_id "rna-XM_023596027.2"; gene_id "gene-RHO25_005121";
+NC_088937.1	RefSeq	CDS	2917911	2918146	.	+	2	transcript_id "rna-XM_023596027.2"; gene_id "gene-RHO25_005121";
+NC_088937.1	RefSeq	CDS	2918215	2918313	.	+	0	transcript_id "rna-XM_023596027.2"; gene_id "gene-RHO25_005121";
+NC_088937.1	RefSeq	CDS	2918373	2918425	.	+	0	transcript_id "rna-XM_023596027.2"; gene_id "gene-RHO25_005121";
+NC_088937.1	RefSeq	CDS	2918484	2920407	.	+	1	transcript_id "rna-XM_023596027.2"; gene_id "gene-RHO25_005121";
+NC_088937.1	RefSeq	transcript	3381134	3383866	.	+	.	transcript_id "rna-XM_023596221.2"; gene_id "gene-RHO25_005313"
+NC_088937.1	RefSeq	exon	3381134	3383866	.	+	.	transcript_id "rna-XM_023596221.2"; gene_id "gene-RHO25_005313";
+NC_088937.1	RefSeq	CDS	3381134	3383866	.	+	0	transcript_id "rna-XM_023596221.2"; gene_id "gene-RHO25_005313";
+NC_088937.1	RefSeq	transcript	3407696	3409606	.	-	.	transcript_id "rna-XM_023596233.2"; gene_id "gene-RHO25_005325"; gene_name "SRP68"
+NC_088937.1	RefSeq	exon	3407696	3409606	.	-	.	transcript_id "rna-XM_023596233.2"; gene_id "gene-RHO25_005325"; gene_name "SRP68";
+NC_088937.1	RefSeq	CDS	3407696	3409606	.	-	0	transcript_id "rna-XM_023596233.2"; gene_id "gene-RHO25_005325"; gene_name "SRP68";
+NC_088938.1	RefSeq	transcript	97893	100841	.	+	.	transcript_id "rna-XM_023596561.2"; gene_id "gene-RHO25_005678"; gene_name "DIP2"
+NC_088938.1	RefSeq	exon	97893	100841	.	+	.	transcript_id "rna-XM_023596561.2"; gene_id "gene-RHO25_005678"; gene_name "DIP2";
+NC_088938.1	RefSeq	CDS	97893	100841	.	+	0	transcript_id "rna-XM_023596561.2"; gene_id "gene-RHO25_005678"; gene_name "DIP2";
+NC_088938.1	RefSeq	transcript	140318	141949	.	-	.	transcript_id "rna-XM_023596578.2"; gene_id "gene-RHO25_005694"; gene_name "PWP1"
+NC_088938.1	RefSeq	exon	140318	141949	.	-	.	transcript_id "rna-XM_023596578.2"; gene_id "gene-RHO25_005694"; gene_name "PWP1";
+NC_088938.1	RefSeq	CDS	140318	141949	.	-	0	transcript_id "rna-XM_023596578.2"; gene_id "gene-RHO25_005694"; gene_name "PWP1";
+NC_088938.1	RefSeq	transcript	446122	447624	.	+	.	transcript_id "rna-XM_023596674.2"; gene_id "gene-RHO25_005797"; gene_name "ALG7"
+NC_088938.1	RefSeq	exon	446122	446351	.	+	.	transcript_id "rna-XM_023596674.2"; gene_id "gene-RHO25_005797"; gene_name "ALG7";
+NC_088938.1	RefSeq	exon	446408	446588	.	+	.	transcript_id "rna-XM_023596674.2"; gene_id "gene-RHO25_005797"; gene_name "ALG7";
+NC_088938.1	RefSeq	exon	446647	447624	.	+	.	transcript_id "rna-XM_023596674.2"; gene_id "gene-RHO25_005797"; gene_name "ALG7";
+NC_088938.1	RefSeq	CDS	446122	446351	.	+	0	transcript_id "rna-XM_023596674.2"; gene_id "gene-RHO25_005797"; gene_name "ALG7";
+NC_088938.1	RefSeq	CDS	446408	446588	.	+	1	transcript_id "rna-XM_023596674.2"; gene_id "gene-RHO25_005797"; gene_name "ALG7";
+NC_088938.1	RefSeq	CDS	446647	447624	.	+	0	transcript_id "rna-XM_023596674.2"; gene_id "gene-RHO25_005797"; gene_name "ALG7";
+NC_088938.1	RefSeq	transcript	520945	522153	.	+	.	transcript_id "rna-XM_023596706.2"; gene_id "gene-RHO25_005834"; gene_name "RCL1"
+NC_088938.1	RefSeq	exon	520945	522153	.	+	.	transcript_id "rna-XM_023596706.2"; gene_id "gene-RHO25_005834"; gene_name "RCL1";
+NC_088938.1	RefSeq	CDS	520945	522153	.	+	0	transcript_id "rna-XM_023596706.2"; gene_id "gene-RHO25_005834"; gene_name "RCL1";
+NC_088938.1	RefSeq	transcript	819666	820697	.	-	.	transcript_id "rna-XM_023596821.2"; gene_id "gene-RHO25_005956"; gene_name "RPP1"
+NC_088938.1	RefSeq	exon	819666	820697	.	-	.	transcript_id "rna-XM_023596821.2"; gene_id "gene-RHO25_005956"; gene_name "RPP1";
+NC_088938.1	RefSeq	CDS	819666	820697	.	-	0	transcript_id "rna-XM_023596821.2"; gene_id "gene-RHO25_005956"; gene_name "RPP1";
+NC_088938.1	RefSeq	transcript	1218392	1221019	.	+	.	transcript_id "rna-XM_023596964.2"; gene_id "gene-RHO25_006110"; gene_name "NOP14"
+NC_088938.1	RefSeq	exon	1218392	1221019	.	+	.	transcript_id "rna-XM_023596964.2"; gene_id "gene-RHO25_006110"; gene_name "NOP14";
+NC_088938.1	RefSeq	CDS	1218392	1221019	.	+	0	transcript_id "rna-XM_023596964.2"; gene_id "gene-RHO25_006110"; gene_name "NOP14";
+NC_088938.1	RefSeq	transcript	1449011	1450036	.	-	.	transcript_id "rna-XM_023597051.2"; gene_id "gene-RHO25_006208"; gene_name "KRR1"
+NC_088938.1	RefSeq	exon	1449011	1450036	.	-	.	transcript_id "rna-XM_023597051.2"; gene_id "gene-RHO25_006208"; gene_name "KRR1";
+NC_088938.1	RefSeq	CDS	1449011	1450036	.	-	0	transcript_id "rna-XM_023597051.2"; gene_id "gene-RHO25_006208"; gene_name "KRR1";
+NC_088938.1	RefSeq	transcript	1568309	1569565	.	+	.	transcript_id "rna-XM_023597097.2"; gene_id "gene-RHO25_006259"
+NC_088938.1	RefSeq	exon	1568309	1568515	.	+	.	transcript_id "rna-XM_023597097.2"; gene_id "gene-RHO25_006259";
+NC_088938.1	RefSeq	exon	1568572	1568736	.	+	.	transcript_id "rna-XM_023597097.2"; gene_id "gene-RHO25_006259";
+NC_088938.1	RefSeq	exon	1568795	1569565	.	+	.	transcript_id "rna-XM_023597097.2"; gene_id "gene-RHO25_006259";
+NC_088938.1	RefSeq	CDS	1568309	1568515	.	+	0	transcript_id "rna-XM_023597097.2"; gene_id "gene-RHO25_006259";
+NC_088938.1	RefSeq	CDS	1568572	1568736	.	+	0	transcript_id "rna-XM_023597097.2"; gene_id "gene-RHO25_006259";
+NC_088938.1	RefSeq	CDS	1568795	1569565	.	+	0	transcript_id "rna-XM_023597097.2"; gene_id "gene-RHO25_006259";
+NC_088938.1	RefSeq	transcript	1682650	1683791	.	-	.	transcript_id "rna-XM_023597140.2"; gene_id "gene-RHO25_006304"; gene_name "DRE2"
+NC_088938.1	RefSeq	exon	1682650	1682972	.	-	.	transcript_id "rna-XM_023597140.2"; gene_id "gene-RHO25_006304"; gene_name "DRE2";
+NC_088938.1	RefSeq	exon	1683026	1683791	.	-	.	transcript_id "rna-XM_023597140.2"; gene_id "gene-RHO25_006304"; gene_name "DRE2";
+NC_088938.1	RefSeq	CDS	1682650	1682972	.	-	2	transcript_id "rna-XM_023597140.2"; gene_id "gene-RHO25_006304"; gene_name "DRE2";
+NC_088938.1	RefSeq	CDS	1683026	1683791	.	-	0	transcript_id "rna-XM_023597140.2"; gene_id "gene-RHO25_006304"; gene_name "DRE2";
+NC_088938.1	RefSeq	transcript	1785385	1786632	.	+	.	transcript_id "rna-XM_023597181.2"; gene_id "gene-RHO25_006348"
+NC_088938.1	RefSeq	exon	1785385	1785493	.	+	.	transcript_id "rna-XM_023597181.2"; gene_id "gene-RHO25_006348";
+NC_088938.1	RefSeq	exon	1785542	1786632	.	+	.	transcript_id "rna-XM_023597181.2"; gene_id "gene-RHO25_006348";
+NC_088938.1	RefSeq	CDS	1785385	1785493	.	+	0	transcript_id "rna-XM_023597181.2"; gene_id "gene-RHO25_006348";
+NC_088938.1	RefSeq	CDS	1785542	1786632	.	+	2	transcript_id "rna-XM_023597181.2"; gene_id "gene-RHO25_006348";
+NC_088938.1	RefSeq	transcript	2027083	2028295	.	+	.	transcript_id "rna-XM_023597262.2"; gene_id "gene-RHO25_006434"; gene_name "SWC4"
+NC_088938.1	RefSeq	exon	2027083	2027749	.	+	.	transcript_id "rna-XM_023597262.2"; gene_id "gene-RHO25_006434"; gene_name "SWC4";
+NC_088938.1	RefSeq	exon	2027802	2028295	.	+	.	transcript_id "rna-XM_023597262.2"; gene_id "gene-RHO25_006434"; gene_name "SWC4";
+NC_088938.1	RefSeq	CDS	2027083	2027749	.	+	0	transcript_id "rna-XM_023597262.2"; gene_id "gene-RHO25_006434"; gene_name "SWC4";
+NC_088938.1	RefSeq	CDS	2027802	2028295	.	+	2	transcript_id "rna-XM_023597262.2"; gene_id "gene-RHO25_006434"; gene_name "SWC4";
+NC_088938.1	RefSeq	transcript	3343380	3345443	.	+	.	transcript_id "rna-XM_023597744.2"; gene_id "gene-RHO25_006952"; gene_name "RRN3"
+NC_088938.1	RefSeq	exon	3343380	3345443	.	+	.	transcript_id "rna-XM_023597744.2"; gene_id "gene-RHO25_006952"; gene_name "RRN3";
+NC_088938.1	RefSeq	CDS	3343380	3345443	.	+	0	transcript_id "rna-XM_023597744.2"; gene_id "gene-RHO25_006952"; gene_name "RRN3";
+NC_088938.1	RefSeq	transcript	3607585	3609033	.	+	.	transcript_id "rna-XM_023597817.2"; gene_id "gene-RHO25_007035"; gene_name "GCD7"
+NC_088938.1	RefSeq	exon	3607585	3609033	.	+	.	transcript_id "rna-XM_023597817.2"; gene_id "gene-RHO25_007035"; gene_name "GCD7";
+NC_088938.1	RefSeq	CDS	3607585	3609033	.	+	0	transcript_id "rna-XM_023597817.2"; gene_id "gene-RHO25_007035"; gene_name "GCD7";
+NC_088938.1	RefSeq	transcript	3716552	3717597	.	-	.	transcript_id "rna-XM_023597858.2"; gene_id "gene-RHO25_007078"
+NC_088938.1	RefSeq	exon	3716552	3716732	.	-	.	transcript_id "rna-XM_023597858.2"; gene_id "gene-RHO25_007078";
+NC_088938.1	RefSeq	exon	3716789	3717597	.	-	.	transcript_id "rna-XM_023597858.2"; gene_id "gene-RHO25_007078";
+NC_088938.1	RefSeq	CDS	3716552	3716732	.	-	1	transcript_id "rna-XM_023597858.2"; gene_id "gene-RHO25_007078";
+NC_088938.1	RefSeq	CDS	3716789	3717597	.	-	0	transcript_id "rna-XM_023597858.2"; gene_id "gene-RHO25_007078";
+NC_088938.1	RefSeq	transcript	3717893	3720094	.	+	.	transcript_id "rna-XM_023597859.2"; gene_id "gene-RHO25_007079"; gene_name "UTP25"
+NC_088938.1	RefSeq	exon	3717893	3720094	.	+	.	transcript_id "rna-XM_023597859.2"; gene_id "gene-RHO25_007079"; gene_name "UTP25";
+NC_088938.1	RefSeq	CDS	3717893	3720094	.	+	0	transcript_id "rna-XM_023597859.2"; gene_id "gene-RHO25_007079"; gene_name "UTP25";
+NC_088938.1	RefSeq	transcript	3982210	3984312	.	-	.	transcript_id "rna-XM_023597934.2"; gene_id "gene-RHO25_007163"; gene_name "MPP10"
+NC_088938.1	RefSeq	exon	3982210	3984312	.	-	.	transcript_id "rna-XM_023597934.2"; gene_id "gene-RHO25_007163"; gene_name "MPP10";
+NC_088938.1	RefSeq	CDS	3982210	3984312	.	-	0	transcript_id "rna-XM_023597934.2"; gene_id "gene-RHO25_007163"; gene_name "MPP10";
+NC_088939.1	RefSeq	transcript	117276	119372	.	+	.	transcript_id "rna-XM_023599487.2"; gene_id "gene-RHO25_007291"; gene_name "ESF1"
+NC_088939.1	RefSeq	exon	117276	119372	.	+	.	transcript_id "rna-XM_023599487.2"; gene_id "gene-RHO25_007291"; gene_name "ESF1";
+NC_088939.1	RefSeq	CDS	117276	119372	.	+	0	transcript_id "rna-XM_023599487.2"; gene_id "gene-RHO25_007291"; gene_name "ESF1";
+NC_088939.1	RefSeq	transcript	621553	623936	.	-	.	transcript_id "rna-XM_023599670.2"; gene_id "gene-RHO25_007484"; gene_name "DBP7"
+NC_088939.1	RefSeq	exon	621553	622862	.	-	.	transcript_id "rna-XM_023599670.2"; gene_id "gene-RHO25_007484"; gene_name "DBP7";
+NC_088939.1	RefSeq	exon	622931	623936	.	-	.	transcript_id "rna-XM_023599670.2"; gene_id "gene-RHO25_007484"; gene_name "DBP7";
+NC_088939.1	RefSeq	CDS	621553	622862	.	-	2	transcript_id "rna-XM_023599670.2"; gene_id "gene-RHO25_007484"; gene_name "DBP7";
+NC_088939.1	RefSeq	CDS	622931	623936	.	-	0	transcript_id "rna-XM_023599670.2"; gene_id "gene-RHO25_007484"; gene_name "DBP7";
+NC_088939.1	RefSeq	transcript	691212	692972	.	+	.	transcript_id "rna-XM_023599700.2"; gene_id "gene-RHO25_007514"
+NC_088939.1	RefSeq	exon	691212	692972	.	+	.	transcript_id "rna-XM_023599700.2"; gene_id "gene-RHO25_007514";
+NC_088939.1	RefSeq	CDS	691212	692972	.	+	0	transcript_id "rna-XM_023599700.2"; gene_id "gene-RHO25_007514";
+NC_088939.1	RefSeq	transcript	962869	965945	.	+	.	transcript_id "rna-XM_023599805.2"; gene_id "gene-RHO25_007623"; gene_name "PEP5"
+NC_088939.1	RefSeq	exon	962869	962889	.	+	.	transcript_id "rna-XM_023599805.2"; gene_id "gene-RHO25_007623"; gene_name "PEP5";
+NC_088939.1	RefSeq	exon	962938	963009	.	+	.	transcript_id "rna-XM_023599805.2"; gene_id "gene-RHO25_007623"; gene_name "PEP5";
+NC_088939.1	RefSeq	exon	963060	965945	.	+	.	transcript_id "rna-XM_023599805.2"; gene_id "gene-RHO25_007623"; gene_name "PEP5";
+NC_088939.1	RefSeq	CDS	962869	962889	.	+	0	transcript_id "rna-XM_023599805.2"; gene_id "gene-RHO25_007623"; gene_name "PEP5";
+NC_088939.1	RefSeq	CDS	962938	963009	.	+	0	transcript_id "rna-XM_023599805.2"; gene_id "gene-RHO25_007623"; gene_name "PEP5";
+NC_088939.1	RefSeq	CDS	963060	965945	.	+	0	transcript_id "rna-XM_023599805.2"; gene_id "gene-RHO25_007623"; gene_name "PEP5";
+NC_088939.1	RefSeq	transcript	1196863	1197930	.	-	.	transcript_id "rna-XM_023599897.1"; gene_id "gene-RHO25_007719"; gene_name "GCN3"
+NC_088939.1	RefSeq	exon	1196863	1197930	.	-	.	transcript_id "rna-XM_023599897.1"; gene_id "gene-RHO25_007719"; gene_name "GCN3";
+NC_088939.1	RefSeq	CDS	1196863	1197930	.	-	0	transcript_id "rna-XM_023599897.1"; gene_id "gene-RHO25_007719"; gene_name "GCN3";
+NC_088939.1	RefSeq	transcript	1291595	1292525	.	-	.	transcript_id "rna-XM_023599934.2"; gene_id "gene-RHO25_007757"; gene_name "BCP1"
+NC_088939.1	RefSeq	exon	1291595	1292386	.	-	.	transcript_id "rna-XM_023599934.2"; gene_id "gene-RHO25_007757"; gene_name "BCP1";
+NC_088939.1	RefSeq	exon	1292439	1292525	.	-	.	transcript_id "rna-XM_023599934.2"; gene_id "gene-RHO25_007757"; gene_name "BCP1";
+NC_088939.1	RefSeq	CDS	1291595	1292386	.	-	0	transcript_id "rna-XM_023599934.2"; gene_id "gene-RHO25_007757"; gene_name "BCP1";
+NC_088939.1	RefSeq	CDS	1292439	1292525	.	-	0	transcript_id "rna-XM_023599934.2"; gene_id "gene-RHO25_007757"; gene_name "BCP1";
+NC_088939.1	RefSeq	transcript	1501592	1502608	.	-	.	transcript_id "rna-XM_023600016.2"; gene_id "gene-RHO25_007846"; gene_name "TMA46"
+NC_088939.1	RefSeq	exon	1501592	1502608	.	-	.	transcript_id "rna-XM_023600016.2"; gene_id "gene-RHO25_007846"; gene_name "TMA46";
+NC_088939.1	RefSeq	CDS	1501592	1502608	.	-	0	transcript_id "rna-XM_023600016.2"; gene_id "gene-RHO25_007846"; gene_name "TMA46";
+NC_088939.1	RefSeq	transcript	1676663	1677699	.	+	.	transcript_id "rna-XM_023600087.2"; gene_id "gene-RHO25_007920"; gene_name "LIA1"
+NC_088939.1	RefSeq	exon	1676663	1677129	.	+	.	transcript_id "rna-XM_023600087.2"; gene_id "gene-RHO25_007920"; gene_name "LIA1";
+NC_088939.1	RefSeq	exon	1677186	1677699	.	+	.	transcript_id "rna-XM_023600087.2"; gene_id "gene-RHO25_007920"; gene_name "LIA1";
+NC_088939.1	RefSeq	CDS	1676663	1677129	.	+	0	transcript_id "rna-XM_023600087.2"; gene_id "gene-RHO25_007920"; gene_name "LIA1";
+NC_088939.1	RefSeq	CDS	1677186	1677699	.	+	1	transcript_id "rna-XM_023600087.2"; gene_id "gene-RHO25_007920"; gene_name "LIA1";
+NC_088939.1	RefSeq	transcript	2352345	2353595	.	-	.	transcript_id "rna-XM_023600311.2"; gene_id "gene-RHO25_008168"
+NC_088939.1	RefSeq	exon	2352345	2353595	.	-	.	transcript_id "rna-XM_023600311.2"; gene_id "gene-RHO25_008168";
+NC_088939.1	RefSeq	CDS	2352345	2353595	.	-	0	transcript_id "rna-XM_023600311.2"; gene_id "gene-RHO25_008168";
+NC_088939.1	RefSeq	transcript	2480199	2481591	.	+	.	transcript_id "rna-XM_023600362.2"; gene_id "gene-RHO25_008221"; gene_name "CYP6"
+NC_088939.1	RefSeq	exon	2480199	2480278	.	+	.	transcript_id "rna-XM_023600362.2"; gene_id "gene-RHO25_008221"; gene_name "CYP6";
+NC_088939.1	RefSeq	exon	2480346	2481591	.	+	.	transcript_id "rna-XM_023600362.2"; gene_id "gene-RHO25_008221"; gene_name "CYP6";
+NC_088939.1	RefSeq	CDS	2480199	2480278	.	+	0	transcript_id "rna-XM_023600362.2"; gene_id "gene-RHO25_008221"; gene_name "CYP6";
+NC_088939.1	RefSeq	CDS	2480346	2481591	.	+	1	transcript_id "rna-XM_023600362.2"; gene_id "gene-RHO25_008221"; gene_name "CYP6";
+NC_088939.1	RefSeq	transcript	2501565	2503493	.	-	.	transcript_id "rna-XM_023600371.1"; gene_id "gene-RHO25_008231"; gene_name "SPB4"
+NC_088939.1	RefSeq	exon	2501565	2503493	.	-	.	transcript_id "rna-XM_023600371.1"; gene_id "gene-RHO25_008231"; gene_name "SPB4";
+NC_088939.1	RefSeq	CDS	2501565	2503493	.	-	0	transcript_id "rna-XM_023600371.1"; gene_id "gene-RHO25_008231"; gene_name "SPB4";
+NC_088939.1	RefSeq	transcript	2799680	2800327	.	-	.	transcript_id "rna-XM_023600500.1"; gene_id "gene-RHO25_008368"; gene_name "SNU23"
+NC_088939.1	RefSeq	exon	2799680	2800327	.	-	.	transcript_id "rna-XM_023600500.1"; gene_id "gene-RHO25_008368"; gene_name "SNU23";
+NC_088939.1	RefSeq	CDS	2799680	2800327	.	-	0	transcript_id "rna-XM_023600500.1"; gene_id "gene-RHO25_008368"; gene_name "SNU23";
+NC_088939.1	RefSeq	transcript	2912992	2914698	.	-	.	transcript_id "rna-XM_023600548.2"; gene_id "gene-RHO25_008415"
+NC_088939.1	RefSeq	exon	2912992	2913075	.	-	.	transcript_id "rna-XM_023600548.2"; gene_id "gene-RHO25_008415";
+NC_088939.1	RefSeq	exon	2913232	2913949	.	-	.	transcript_id "rna-XM_023600548.2"; gene_id "gene-RHO25_008415";
+NC_088939.1	RefSeq	exon	2914088	2914698	.	-	.	transcript_id "rna-XM_023600548.2"; gene_id "gene-RHO25_008415";
+NC_088939.1	RefSeq	CDS	2912992	2913075	.	-	0	transcript_id "rna-XM_023600548.2"; gene_id "gene-RHO25_008415";
+NC_088939.1	RefSeq	CDS	2913232	2913949	.	-	1	transcript_id "rna-XM_023600548.2"; gene_id "gene-RHO25_008415";
+NC_088939.1	RefSeq	CDS	2914088	2914698	.	-	0	transcript_id "rna-XM_023600548.2"; gene_id "gene-RHO25_008415";
+NC_088939.1	RefSeq	transcript	3888114	3889187	.	-	.	transcript_id "rna-XM_023604509.2"; gene_id "gene-RHO25_008703"; gene_name "RRP4"
+NC_088939.1	RefSeq	exon	3888114	3889187	.	-	.	transcript_id "rna-XM_023604509.2"; gene_id "gene-RHO25_008703"; gene_name "RRP4";
+NC_088939.1	RefSeq	CDS	3888114	3889187	.	-	0	transcript_id "rna-XM_023604509.2"; gene_id "gene-RHO25_008703"; gene_name "RRP4";
+NC_088940.1	RefSeq	transcript	871220	873142	.	+	.	transcript_id "rna-XM_023600984.2"; gene_id "gene-RHO25_009449"; gene_name "SRP72"
+NC_088940.1	RefSeq	exon	871220	873142	.	+	.	transcript_id "rna-XM_023600984.2"; gene_id "gene-RHO25_009449"; gene_name "SRP72";
+NC_088940.1	RefSeq	CDS	871220	873142	.	+	0	transcript_id "rna-XM_023600984.2"; gene_id "gene-RHO25_009449"; gene_name "SRP72";
+NC_088940.1	RefSeq	transcript	911954	913304	.	+	.	transcript_id "rna-XM_023600999.2"; gene_id "gene-RHO25_009465"
+NC_088940.1	RefSeq	exon	911954	912965	.	+	.	transcript_id "rna-XM_023600999.2"; gene_id "gene-RHO25_009465";
+NC_088940.1	RefSeq	exon	913021	913304	.	+	.	transcript_id "rna-XM_023600999.2"; gene_id "gene-RHO25_009465";
+NC_088940.1	RefSeq	CDS	911954	912965	.	+	0	transcript_id "rna-XM_023600999.2"; gene_id "gene-RHO25_009465";
+NC_088940.1	RefSeq	CDS	913021	913304	.	+	2	transcript_id "rna-XM_023600999.2"; gene_id "gene-RHO25_009465";
+NC_088940.1	RefSeq	transcript	952690	953469	.	-	.	transcript_id "rna-XM_023601016.2"; gene_id "gene-RHO25_009481"; gene_name "UTP11"
+NC_088940.1	RefSeq	exon	952690	953469	.	-	.	transcript_id "rna-XM_023601016.2"; gene_id "gene-RHO25_009481"; gene_name "UTP11";
+NC_088940.1	RefSeq	CDS	952690	953469	.	-	0	transcript_id "rna-XM_023601016.2"; gene_id "gene-RHO25_009481"; gene_name "UTP11";
+NC_088940.1	RefSeq	transcript	1138218	1140236	.	+	.	transcript_id "rna-XM_023601091.2"; gene_id "gene-RHO25_009559"; gene_name "NOC3"
+NC_088940.1	RefSeq	exon	1138218	1140236	.	+	.	transcript_id "rna-XM_023601091.2"; gene_id "gene-RHO25_009559"; gene_name "NOC3";
+NC_088940.1	RefSeq	CDS	1138218	1140236	.	+	0	transcript_id "rna-XM_023601091.2"; gene_id "gene-RHO25_009559"; gene_name "NOC3";
+NC_088940.1	RefSeq	transcript	1565412	1567397	.	-	.	transcript_id "rna-XM_023601202.2"; gene_id "gene-RHO25_009671"; gene_name "TFB1"
+NC_088940.1	RefSeq	exon	1565412	1567397	.	-	.	transcript_id "rna-XM_023601202.2"; gene_id "gene-RHO25_009671"; gene_name "TFB1";
+NC_088940.1	RefSeq	CDS	1565412	1567397	.	-	0	transcript_id "rna-XM_023601202.2"; gene_id "gene-RHO25_009671"; gene_name "TFB1";
+NC_088940.1	RefSeq	transcript	1716176	1716931	.	+	.	transcript_id "rna-XM_023601262.2"; gene_id "gene-RHO25_009733"; gene_name "PRP38"
+NC_088940.1	RefSeq	exon	1716176	1716931	.	+	.	transcript_id "rna-XM_023601262.2"; gene_id "gene-RHO25_009733"; gene_name "PRP38";
+NC_088940.1	RefSeq	CDS	1716176	1716931	.	+	0	transcript_id "rna-XM_023601262.2"; gene_id "gene-RHO25_009733"; gene_name "PRP38";
+NC_088940.1	RefSeq	transcript	1754530	1755253	.	+	.	transcript_id "rna-XM_023601274.2"; gene_id "gene-RHO25_009747"; gene_name "SLD5"
+NC_088940.1	RefSeq	exon	1754530	1754832	.	+	.	transcript_id "rna-XM_023601274.2"; gene_id "gene-RHO25_009747"; gene_name "SLD5";
+NC_088940.1	RefSeq	exon	1754888	1755253	.	+	.	transcript_id "rna-XM_023601274.2"; gene_id "gene-RHO25_009747"; gene_name "SLD5";
+NC_088940.1	RefSeq	CDS	1754530	1754832	.	+	0	transcript_id "rna-XM_023601274.2"; gene_id "gene-RHO25_009747"; gene_name "SLD5";
+NC_088940.1	RefSeq	CDS	1754888	1755253	.	+	0	transcript_id "rna-XM_023601274.2"; gene_id "gene-RHO25_009747"; gene_name "SLD5";
+NC_088940.1	RefSeq	transcript	2044020	2045138	.	-	.	transcript_id "rna-XM_023601391.2"; gene_id "gene-RHO25_009867"; gene_name "ATG3"
+NC_088940.1	RefSeq	exon	2044020	2044545	.	-	.	transcript_id "rna-XM_023601391.2"; gene_id "gene-RHO25_009867"; gene_name "ATG3";
+NC_088940.1	RefSeq	exon	2044597	2045138	.	-	.	transcript_id "rna-XM_023601391.2"; gene_id "gene-RHO25_009867"; gene_name "ATG3";
+NC_088940.1	RefSeq	CDS	2044020	2044545	.	-	1	transcript_id "rna-XM_023601391.2"; gene_id "gene-RHO25_009867"; gene_name "ATG3";
+NC_088940.1	RefSeq	CDS	2044597	2045138	.	-	0	transcript_id "rna-XM_023601391.2"; gene_id "gene-RHO25_009867"; gene_name "ATG3";
+NC_088940.1	RefSeq	transcript	2145205	2145933	.	-	.	transcript_id "rna-XM_023601434.2"; gene_id "gene-RHO25_009913"; gene_name "ISY1"
+NC_088940.1	RefSeq	exon	2145205	2145933	.	-	.	transcript_id "rna-XM_023601434.2"; gene_id "gene-RHO25_009913"; gene_name "ISY1";
+NC_088940.1	RefSeq	CDS	2145205	2145933	.	-	0	transcript_id "rna-XM_023601434.2"; gene_id "gene-RHO25_009913"; gene_name "ISY1";
+NC_088940.1	RefSeq	transcript	2281607	2283112	.	+	.	transcript_id "rna-XM_023601490.2"; gene_id "gene-RHO25_009970"; gene_name "RAM1"
+NC_088940.1	RefSeq	exon	2281607	2283112	.	+	.	transcript_id "rna-XM_023601490.2"; gene_id "gene-RHO25_009970"; gene_name "RAM1";
+NC_088940.1	RefSeq	CDS	2281607	2283112	.	+	0	transcript_id "rna-XM_023601490.2"; gene_id "gene-RHO25_009970"; gene_name "RAM1";
+NC_088940.1	RefSeq	transcript	2493970	2494716	.	-	.	transcript_id "rna-XM_023601574.2"; gene_id "gene-RHO25_010054"; gene_name "CWC15"
+NC_088940.1	RefSeq	exon	2493970	2494716	.	-	.	transcript_id "rna-XM_023601574.2"; gene_id "gene-RHO25_010054"; gene_name "CWC15";
+NC_088940.1	RefSeq	CDS	2493970	2494716	.	-	0	transcript_id "rna-XM_023601574.2"; gene_id "gene-RHO25_010054"; gene_name "CWC15";
+NC_088940.1	RefSeq	transcript	2494898	2495855	.	+	.	transcript_id "rna-XM_023601575.2"; gene_id "gene-RHO25_010055"; gene_name "RRP45"
+NC_088940.1	RefSeq	exon	2494898	2495181	.	+	.	transcript_id "rna-XM_023601575.2"; gene_id "gene-RHO25_010055"; gene_name "RRP45";
+NC_088940.1	RefSeq	exon	2495240	2495855	.	+	.	transcript_id "rna-XM_023601575.2"; gene_id "gene-RHO25_010055"; gene_name "RRP45";
+NC_088940.1	RefSeq	CDS	2494898	2495181	.	+	0	transcript_id "rna-XM_023601575.2"; gene_id "gene-RHO25_010055"; gene_name "RRP45";
+NC_088940.1	RefSeq	CDS	2495240	2495855	.	+	1	transcript_id "rna-XM_023601575.2"; gene_id "gene-RHO25_010055"; gene_name "RRP45";
+NC_088940.1	RefSeq	transcript	2656352	2657923	.	-	.	transcript_id "rna-XM_023601631.2"; gene_id "gene-RHO25_010113"; gene_name "HAT1"
+NC_088940.1	RefSeq	exon	2656352	2657923	.	-	.	transcript_id "rna-XM_023601631.2"; gene_id "gene-RHO25_010113"; gene_name "HAT1";
+NC_088940.1	RefSeq	CDS	2656352	2657923	.	-	0	transcript_id "rna-XM_023601631.2"; gene_id "gene-RHO25_010113"; gene_name "HAT1";
+NC_088941.1	RefSeq	transcript	477626	480283	.	-	.	transcript_id "rna-XM_023602642.2"; gene_id "gene-RHO25_010447"; gene_name "STO1"
+NC_088941.1	RefSeq	exon	477626	478634	.	-	.	transcript_id "rna-XM_023602642.2"; gene_id "gene-RHO25_010447"; gene_name "STO1";
+NC_088941.1	RefSeq	exon	478688	480119	.	-	.	transcript_id "rna-XM_023602642.2"; gene_id "gene-RHO25_010447"; gene_name "STO1";
+NC_088941.1	RefSeq	exon	480178	480283	.	-	.	transcript_id "rna-XM_023602642.2"; gene_id "gene-RHO25_010447"; gene_name "STO1";
+NC_088941.1	RefSeq	CDS	477626	478634	.	-	1	transcript_id "rna-XM_023602642.2"; gene_id "gene-RHO25_010447"; gene_name "STO1";
+NC_088941.1	RefSeq	CDS	478688	480119	.	-	2	transcript_id "rna-XM_023602642.2"; gene_id "gene-RHO25_010447"; gene_name "STO1";
+NC_088941.1	RefSeq	CDS	480178	480283	.	-	0	transcript_id "rna-XM_023602642.2"; gene_id "gene-RHO25_010447"; gene_name "STO1";
+NC_088941.1	RefSeq	transcript	577498	578478	.	+	.	transcript_id "rna-XM_023602598.2"; gene_id "gene-RHO25_010494"
+NC_088941.1	RefSeq	exon	577498	578478	.	+	.	transcript_id "rna-XM_023602598.2"; gene_id "gene-RHO25_010494";
+NC_088941.1	RefSeq	CDS	577498	578478	.	+	0	transcript_id "rna-XM_023602598.2"; gene_id "gene-RHO25_010494";
+NC_088941.1	RefSeq	transcript	779395	781247	.	-	.	transcript_id "rna-XM_023602527.2"; gene_id "gene-RHO25_010568"; gene_name "GCD10"
+NC_088941.1	RefSeq	exon	779395	781066	.	-	.	transcript_id "rna-XM_023602527.2"; gene_id "gene-RHO25_010568"; gene_name "GCD10";
+NC_088941.1	RefSeq	exon	781153	781247	.	-	.	transcript_id "rna-XM_023602527.2"; gene_id "gene-RHO25_010568"; gene_name "GCD10";
+NC_088941.1	RefSeq	CDS	779395	781066	.	-	1	transcript_id "rna-XM_023602527.2"; gene_id "gene-RHO25_010568"; gene_name "GCD10";
+NC_088941.1	RefSeq	CDS	781153	781247	.	-	0	transcript_id "rna-XM_023602527.2"; gene_id "gene-RHO25_010568"; gene_name "GCD10";
+NC_088941.1	RefSeq	transcript	781427	782584	.	+	.	transcript_id "rna-XM_023602526.2"; gene_id "gene-RHO25_010569"; gene_name "MSW1"
+NC_088941.1	RefSeq	exon	781427	782584	.	+	.	transcript_id "rna-XM_023602526.2"; gene_id "gene-RHO25_010569"; gene_name "MSW1";
+NC_088941.1	RefSeq	CDS	781427	782584	.	+	0	transcript_id "rna-XM_023602526.2"; gene_id "gene-RHO25_010569"; gene_name "MSW1";
+NC_088941.1	RefSeq	transcript	1064101	1065360	.	+	.	transcript_id "rna-XM_023602424.2"; gene_id "gene-RHO25_010674"; gene_name "TSR3"
+NC_088941.1	RefSeq	exon	1064101	1065360	.	+	.	transcript_id "rna-XM_023602424.2"; gene_id "gene-RHO25_010674"; gene_name "TSR3";
+NC_088941.1	RefSeq	CDS	1064101	1065360	.	+	0	transcript_id "rna-XM_023602424.2"; gene_id "gene-RHO25_010674"; gene_name "TSR3";
+NC_088941.1	RefSeq	transcript	1269451	1270115	.	-	.	transcript_id "rna-XM_023602371.2"; gene_id "gene-RHO25_010733"; gene_name "GAR1"
+NC_088941.1	RefSeq	exon	1269451	1269944	.	-	.	transcript_id "rna-XM_023602371.2"; gene_id "gene-RHO25_010733"; gene_name "GAR1";
+NC_088941.1	RefSeq	exon	1270001	1270115	.	-	.	transcript_id "rna-XM_023602371.2"; gene_id "gene-RHO25_010733"; gene_name "GAR1";
+NC_088941.1	RefSeq	CDS	1269451	1269944	.	-	2	transcript_id "rna-XM_023602371.2"; gene_id "gene-RHO25_010733"; gene_name "GAR1";
+NC_088941.1	RefSeq	CDS	1270001	1270115	.	-	0	transcript_id "rna-XM_023602371.2"; gene_id "gene-RHO25_010733"; gene_name "GAR1";
+NC_088941.1	RefSeq	transcript	1782981	1785720	.	-	.	transcript_id "rna-XM_023602173.1"; gene_id "gene-RHO25_010949"; gene_name "PWP2"
+NC_088941.1	RefSeq	exon	1782981	1785605	.	-	.	transcript_id "rna-XM_023602173.1"; gene_id "gene-RHO25_010949"; gene_name "PWP2";
+NC_088941.1	RefSeq	exon	1785703	1785720	.	-	.	transcript_id "rna-XM_023602173.1"; gene_id "gene-RHO25_010949"; gene_name "PWP2";
+NC_088941.1	RefSeq	CDS	1782981	1785605	.	-	0	transcript_id "rna-XM_023602173.1"; gene_id "gene-RHO25_010949"; gene_name "PWP2";
+NC_088941.1	RefSeq	CDS	1785703	1785720	.	-	0	transcript_id "rna-XM_023602173.1"; gene_id "gene-RHO25_010949"; gene_name "PWP2";
+NC_088941.1	RefSeq	transcript	2277508	2280263	.	+	.	transcript_id "rna-XM_023602009.1"; gene_id "gene-RHO25_011118"; gene_name "GET4"
+NC_088941.1	RefSeq	exon	2277508	2277597	.	+	.	transcript_id "rna-XM_023602009.1"; gene_id "gene-RHO25_011118"; gene_name "GET4";
+NC_088941.1	RefSeq	exon	2277646	2277927	.	+	.	transcript_id "rna-XM_023602009.1"; gene_id "gene-RHO25_011118"; gene_name "GET4";
+NC_088941.1	RefSeq	exon	2277981	2278316	.	+	.	transcript_id "rna-XM_023602009.1"; gene_id "gene-RHO25_011118"; gene_name "GET4";
+NC_088941.1	RefSeq	exon	2278367	2278459	.	+	.	transcript_id "rna-XM_023602009.1"; gene_id "gene-RHO25_011118"; gene_name "GET4";
+NC_088941.1	RefSeq	exon	2279124	2279242	.	+	.	transcript_id "rna-XM_023602009.1"; gene_id "gene-RHO25_011118"; gene_name "GET4";
+NC_088941.1	RefSeq	exon	2279294	2280263	.	+	.	transcript_id "rna-XM_023602009.1"; gene_id "gene-RHO25_011118"; gene_name "GET4";
+NC_088941.1	RefSeq	CDS	2277508	2277597	.	+	0	transcript_id "rna-XM_023602009.1"; gene_id "gene-RHO25_011118"; gene_name "GET4";
+NC_088941.1	RefSeq	CDS	2277646	2277927	.	+	0	transcript_id "rna-XM_023602009.1"; gene_id "gene-RHO25_011118"; gene_name "GET4";
+NC_088941.1	RefSeq	CDS	2277981	2278316	.	+	0	transcript_id "rna-XM_023602009.1"; gene_id "gene-RHO25_011118"; gene_name "GET4";
+NC_088941.1	RefSeq	CDS	2278367	2278459	.	+	0	transcript_id "rna-XM_023602009.1"; gene_id "gene-RHO25_011118"; gene_name "GET4";
+NC_088941.1	RefSeq	CDS	2279124	2279242	.	+	0	transcript_id "rna-XM_023602009.1"; gene_id "gene-RHO25_011118"; gene_name "GET4";
+NC_088941.1	RefSeq	CDS	2279294	2280263	.	+	1	transcript_id "rna-XM_023602009.1"; gene_id "gene-RHO25_011118"; gene_name "GET4";
+NC_088941.1	RefSeq	transcript	2679793	2680401	.	+	.	transcript_id "rna-XM_023601872.2"; gene_id "gene-RHO25_011275"; gene_name "FAP7"
+NC_088941.1	RefSeq	exon	2679793	2680401	.	+	.	transcript_id "rna-XM_023601872.2"; gene_id "gene-RHO25_011275"; gene_name "FAP7";
+NC_088941.1	RefSeq	CDS	2679793	2680401	.	+	0	transcript_id "rna-XM_023601872.2"; gene_id "gene-RHO25_011275"; gene_name "FAP7";
+NC_088942.1	RefSeq	transcript	252839	253763	.	-	.	transcript_id "rna-XM_023602900.2"; gene_id "gene-RHO25_011480"; gene_name "DPH5"
+NC_088942.1	RefSeq	exon	252839	253567	.	-	.	transcript_id "rna-XM_023602900.2"; gene_id "gene-RHO25_011480"; gene_name "DPH5";
+NC_088942.1	RefSeq	exon	253629	253763	.	-	.	transcript_id "rna-XM_023602900.2"; gene_id "gene-RHO25_011480"; gene_name "DPH5";
+NC_088942.1	RefSeq	CDS	252839	253567	.	-	0	transcript_id "rna-XM_023602900.2"; gene_id "gene-RHO25_011480"; gene_name "DPH5";
+NC_088942.1	RefSeq	CDS	253629	253763	.	-	0	transcript_id "rna-XM_023602900.2"; gene_id "gene-RHO25_011480"; gene_name "DPH5";
+NC_088942.1	RefSeq	transcript	328089	330464	.	+	.	transcript_id "rna-XM_023602926.2"; gene_id "gene-RHO25_011509"; gene_name "DPB2"
+NC_088942.1	RefSeq	exon	328089	330464	.	+	.	transcript_id "rna-XM_023602926.2"; gene_id "gene-RHO25_011509"; gene_name "DPB2";
+NC_088942.1	RefSeq	CDS	328089	330464	.	+	0	transcript_id "rna-XM_023602926.2"; gene_id "gene-RHO25_011509"; gene_name "DPB2";
+NC_088942.1	RefSeq	transcript	394652	396745	.	+	.	transcript_id "rna-XM_023602958.2"; gene_id "gene-RHO25_011539"; gene_name "COG6"
+NC_088942.1	RefSeq	exon	394652	396745	.	+	.	transcript_id "rna-XM_023602958.2"; gene_id "gene-RHO25_011539"; gene_name "COG6";
+NC_088942.1	RefSeq	CDS	394652	396745	.	+	0	transcript_id "rna-XM_023602958.2"; gene_id "gene-RHO25_011539"; gene_name "COG6";
+NC_088942.1	RefSeq	transcript	710217	711931	.	-	.	transcript_id "rna-XM_023603027.1"; gene_id "gene-RHO25_011603"; gene_name "UBA4"
+NC_088942.1	RefSeq	exon	710217	711252	.	-	.	transcript_id "rna-XM_023603027.1"; gene_id "gene-RHO25_011603"; gene_name "UBA4";
+NC_088942.1	RefSeq	exon	711309	711931	.	-	.	transcript_id "rna-XM_023603027.1"; gene_id "gene-RHO25_011603"; gene_name "UBA4";
+NC_088942.1	RefSeq	CDS	710217	711252	.	-	1	transcript_id "rna-XM_023603027.1"; gene_id "gene-RHO25_011603"; gene_name "UBA4";
+NC_088942.1	RefSeq	CDS	711309	711931	.	-	0	transcript_id "rna-XM_023603027.1"; gene_id "gene-RHO25_011603"; gene_name "UBA4";
+NC_088942.1	RefSeq	transcript	1185183	1187892	.	+	.	transcript_id "rna-XM_023603167.2"; gene_id "gene-RHO25_011747"; gene_name "MCM2"
+NC_088942.1	RefSeq	exon	1185183	1185285	.	+	.	transcript_id "rna-XM_023603167.2"; gene_id "gene-RHO25_011747"; gene_name "MCM2";
+NC_088942.1	RefSeq	exon	1185338	1187574	.	+	.	transcript_id "rna-XM_023603167.2"; gene_id "gene-RHO25_011747"; gene_name "MCM2";
+NC_088942.1	RefSeq	exon	1187632	1187892	.	+	.	transcript_id "rna-XM_023603167.2"; gene_id "gene-RHO25_011747"; gene_name "MCM2";
+NC_088942.1	RefSeq	CDS	1185183	1185285	.	+	0	transcript_id "rna-XM_023603167.2"; gene_id "gene-RHO25_011747"; gene_name "MCM2";
+NC_088942.1	RefSeq	CDS	1185338	1187574	.	+	2	transcript_id "rna-XM_023603167.2"; gene_id "gene-RHO25_011747"; gene_name "MCM2";
+NC_088942.1	RefSeq	CDS	1187632	1187892	.	+	0	transcript_id "rna-XM_023603167.2"; gene_id "gene-RHO25_011747"; gene_name "MCM2";
+NC_088942.1	RefSeq	transcript	1200686	1203200	.	-	.	transcript_id "rna-XM_023603170.2"; gene_id "gene-RHO25_011752"; gene_name "ATG7"
+NC_088942.1	RefSeq	exon	1200686	1202942	.	-	.	transcript_id "rna-XM_023603170.2"; gene_id "gene-RHO25_011752"; gene_name "ATG7";
+NC_088942.1	RefSeq	exon	1202998	1203200	.	-	.	transcript_id "rna-XM_023603170.2"; gene_id "gene-RHO25_011752"; gene_name "ATG7";
+NC_088942.1	RefSeq	CDS	1200686	1202942	.	-	1	transcript_id "rna-XM_023603170.2"; gene_id "gene-RHO25_011752"; gene_name "ATG7";
+NC_088942.1	RefSeq	CDS	1202998	1203200	.	-	0	transcript_id "rna-XM_023603170.2"; gene_id "gene-RHO25_011752"; gene_name "ATG7";
+NC_088942.1	RefSeq	transcript	1403745	1404472	.	+	.	transcript_id "rna-XM_023603249.1"; gene_id "gene-RHO25_011833"; gene_name "IMP3"
+NC_088942.1	RefSeq	exon	1403745	1404116	.	+	.	transcript_id "rna-XM_023603249.1"; gene_id "gene-RHO25_011833"; gene_name "IMP3";
+NC_088942.1	RefSeq	exon	1404171	1404215	.	+	.	transcript_id "rna-XM_023603249.1"; gene_id "gene-RHO25_011833"; gene_name "IMP3";
+NC_088942.1	RefSeq	exon	1404273	1404322	.	+	.	transcript_id "rna-XM_023603249.1"; gene_id "gene-RHO25_011833"; gene_name "IMP3";
+NC_088942.1	RefSeq	exon	1404376	1404472	.	+	.	transcript_id "rna-XM_023603249.1"; gene_id "gene-RHO25_011833"; gene_name "IMP3";
+NC_088942.1	RefSeq	CDS	1403745	1404116	.	+	0	transcript_id "rna-XM_023603249.1"; gene_id "gene-RHO25_011833"; gene_name "IMP3";
+NC_088942.1	RefSeq	CDS	1404171	1404215	.	+	0	transcript_id "rna-XM_023603249.1"; gene_id "gene-RHO25_011833"; gene_name "IMP3";
+NC_088942.1	RefSeq	CDS	1404273	1404322	.	+	0	transcript_id "rna-XM_023603249.1"; gene_id "gene-RHO25_011833"; gene_name "IMP3";
+NC_088942.1	RefSeq	CDS	1404376	1404472	.	+	1	transcript_id "rna-XM_023603249.1"; gene_id "gene-RHO25_011833"; gene_name "IMP3";
+NC_088942.1	RefSeq	transcript	1569612	1571498	.	+	.	transcript_id "rna-XM_023603320.2"; gene_id "gene-RHO25_011907"; gene_name "PRP3"
+NC_088942.1	RefSeq	exon	1569612	1571498	.	+	.	transcript_id "rna-XM_023603320.2"; gene_id "gene-RHO25_011907"; gene_name "PRP3";
+NC_088942.1	RefSeq	CDS	1569612	1571498	.	+	0	transcript_id "rna-XM_023603320.2"; gene_id "gene-RHO25_011907"; gene_name "PRP3";
+NC_088942.1	RefSeq	transcript	2110491	2112371	.	+	.	transcript_id "rna-XM_023603476.2"; gene_id "gene-RHO25_012071"; gene_name "UTP18"
+NC_088942.1	RefSeq	exon	2110491	2110790	.	+	.	transcript_id "rna-XM_023603476.2"; gene_id "gene-RHO25_012071"; gene_name "UTP18";
+NC_088942.1	RefSeq	exon	2110845	2112371	.	+	.	transcript_id "rna-XM_023603476.2"; gene_id "gene-RHO25_012071"; gene_name "UTP18";
+NC_088942.1	RefSeq	CDS	2110491	2110790	.	+	0	transcript_id "rna-XM_023603476.2"; gene_id "gene-RHO25_012071"; gene_name "UTP18";
+NC_088942.1	RefSeq	CDS	2110845	2112371	.	+	0	transcript_id "rna-XM_023603476.2"; gene_id "gene-RHO25_012071"; gene_name "UTP18";
+NC_088942.1	RefSeq	transcript	2161390	2164664	.	-	.	transcript_id "rna-XM_023603498.2"; gene_id "gene-RHO25_012092"; gene_name "MCM4"
+NC_088942.1	RefSeq	exon	2161390	2161977	.	-	.	transcript_id "rna-XM_023603498.2"; gene_id "gene-RHO25_012092"; gene_name "MCM4";
+NC_088942.1	RefSeq	exon	2162035	2164187	.	-	.	transcript_id "rna-XM_023603498.2"; gene_id "gene-RHO25_012092"; gene_name "MCM4";
+NC_088942.1	RefSeq	exon	2164235	2164664	.	-	.	transcript_id "rna-XM_023603498.2"; gene_id "gene-RHO25_012092"; gene_name "MCM4";
+NC_088942.1	RefSeq	CDS	2161390	2161977	.	-	0	transcript_id "rna-XM_023603498.2"; gene_id "gene-RHO25_012092"; gene_name "MCM4";
+NC_088942.1	RefSeq	CDS	2162035	2164187	.	-	2	transcript_id "rna-XM_023603498.2"; gene_id "gene-RHO25_012092"; gene_name "MCM4";
+NC_088942.1	RefSeq	CDS	2164235	2164664	.	-	0	transcript_id "rna-XM_023603498.2"; gene_id "gene-RHO25_012092"; gene_name "MCM4";
+NC_088943.1	RefSeq	transcript	608966	610366	.	-	.	transcript_id "rna-XM_023603762.2"; gene_id "gene-RHO25_012456"; gene_name "RSM23"
+NC_088943.1	RefSeq	exon	608966	610366	.	-	.	transcript_id "rna-XM_023603762.2"; gene_id "gene-RHO25_012456"; gene_name "RSM23";
+NC_088943.1	RefSeq	CDS	608966	610366	.	-	0	transcript_id "rna-XM_023603762.2"; gene_id "gene-RHO25_012456"; gene_name "RSM23";
+NC_088943.1	RefSeq	transcript	624160	625476	.	+	.	transcript_id "rna-XM_023603773.2"; gene_id "gene-RHO25_012465"
+NC_088943.1	RefSeq	exon	624160	625476	.	+	.	transcript_id "rna-XM_023603773.2"; gene_id "gene-RHO25_012465";
+NC_088943.1	RefSeq	CDS	624160	625476	.	+	0	transcript_id "rna-XM_023603773.2"; gene_id "gene-RHO25_012465";
+NC_088943.1	RefSeq	transcript	640308	643239	.	+	.	transcript_id "rna-XM_023603779.2"; gene_id "gene-RHO25_012472"; gene_name "UTP13"
+NC_088943.1	RefSeq	exon	640308	640484	.	+	.	transcript_id "rna-XM_023603779.2"; gene_id "gene-RHO25_012472"; gene_name "UTP13";
+NC_088943.1	RefSeq	exon	640543	643239	.	+	.	transcript_id "rna-XM_023603779.2"; gene_id "gene-RHO25_012472"; gene_name "UTP13";
+NC_088943.1	RefSeq	CDS	640308	640484	.	+	0	transcript_id "rna-XM_023603779.2"; gene_id "gene-RHO25_012472"; gene_name "UTP13";
+NC_088943.1	RefSeq	CDS	640543	643239	.	+	0	transcript_id "rna-XM_023603779.2"; gene_id "gene-RHO25_012472"; gene_name "UTP13";
+NC_088943.1	RefSeq	transcript	767549	768352	.	+	.	transcript_id "rna-XM_065603560.1"; gene_id "gene-RHO25_012531"; gene_name "BUD23"
+NC_088943.1	RefSeq	exon	767549	768352	.	+	.	transcript_id "rna-XM_065603560.1"; gene_id "gene-RHO25_012531"; gene_name "BUD23";
+NC_088943.1	RefSeq	CDS	767549	768352	.	+	0	transcript_id "rna-XM_065603560.1"; gene_id "gene-RHO25_012531"; gene_name "BUD23";
+NC_088943.1	RefSeq	transcript	809482	811092	.	+	.	transcript_id "rna-XM_023603847.2"; gene_id "gene-RHO25_012546"; gene_name "RSA4"
+NC_088943.1	RefSeq	exon	809482	810583	.	+	.	transcript_id "rna-XM_023603847.2"; gene_id "gene-RHO25_012546"; gene_name "RSA4";
+NC_088943.1	RefSeq	exon	810653	811092	.	+	.	transcript_id "rna-XM_023603847.2"; gene_id "gene-RHO25_012546"; gene_name "RSA4";
+NC_088943.1	RefSeq	CDS	809482	810583	.	+	0	transcript_id "rna-XM_023603847.2"; gene_id "gene-RHO25_012546"; gene_name "RSA4";
+NC_088943.1	RefSeq	CDS	810653	811092	.	+	2	transcript_id "rna-XM_023603847.2"; gene_id "gene-RHO25_012546"; gene_name "RSA4";
+NC_088943.1	RefSeq	transcript	971216	972271	.	-	.	transcript_id "rna-XM_023603912.2"; gene_id "gene-RHO25_012613"; gene_name "EMC2"
+NC_088943.1	RefSeq	exon	971216	971470	.	-	.	transcript_id "rna-XM_023603912.2"; gene_id "gene-RHO25_012613"; gene_name "EMC2";
+NC_088943.1	RefSeq	exon	971528	972271	.	-	.	transcript_id "rna-XM_023603912.2"; gene_id "gene-RHO25_012613"; gene_name "EMC2";
+NC_088943.1	RefSeq	CDS	971216	971470	.	-	0	transcript_id "rna-XM_023603912.2"; gene_id "gene-RHO25_012613"; gene_name "EMC2";
+NC_088943.1	RefSeq	CDS	971528	972271	.	-	0	transcript_id "rna-XM_023603912.2"; gene_id "gene-RHO25_012613"; gene_name "EMC2";
+NC_088943.1	RefSeq	transcript	1126048	1127523	.	-	.	transcript_id "rna-XM_023603978.2"; gene_id "gene-RHO25_012679"; gene_name "GCD14"
+NC_088943.1	RefSeq	exon	1126048	1126354	.	-	.	transcript_id "rna-XM_023603978.2"; gene_id "gene-RHO25_012679"; gene_name "GCD14";
+NC_088943.1	RefSeq	exon	1126412	1127523	.	-	.	transcript_id "rna-XM_023603978.2"; gene_id "gene-RHO25_012679"; gene_name "GCD14";
+NC_088943.1	RefSeq	CDS	1126048	1126354	.	-	1	transcript_id "rna-XM_023603978.2"; gene_id "gene-RHO25_012679"; gene_name "GCD14";
+NC_088943.1	RefSeq	CDS	1126412	1127523	.	-	0	transcript_id "rna-XM_023603978.2"; gene_id "gene-RHO25_012679"; gene_name "GCD14";
+NC_088943.1	RefSeq	transcript	1156231	1157733	.	-	.	transcript_id "rna-XM_023603991.2"; gene_id "gene-RHO25_012693"
+NC_088943.1	RefSeq	exon	1156231	1157733	.	-	.	transcript_id "rna-XM_023603991.2"; gene_id "gene-RHO25_012693";
+NC_088943.1	RefSeq	CDS	1156231	1157733	.	-	0	transcript_id "rna-XM_023603991.2"; gene_id "gene-RHO25_012693";
+NC_088943.1	RefSeq	transcript	1896818	1898302	.	+	.	transcript_id "rna-XM_023604230.2"; gene_id "gene-RHO25_012948"; gene_name "POL31"
+NC_088943.1	RefSeq	exon	1896818	1898302	.	+	.	transcript_id "rna-XM_023604230.2"; gene_id "gene-RHO25_012948"; gene_name "POL31";
+NC_088943.1	RefSeq	CDS	1896818	1898302	.	+	0	transcript_id "rna-XM_023604230.2"; gene_id "gene-RHO25_012948"; gene_name "POL31";
+NC_088943.1	RefSeq	transcript	2237878	2239689	.	-	.	transcript_id "rna-XM_023604331.2"; gene_id "gene-RHO25_013061"; gene_name "RRP9"
+NC_088943.1	RefSeq	exon	2237878	2239689	.	-	.	transcript_id "rna-XM_023604331.2"; gene_id "gene-RHO25_013061"; gene_name "RRP9";
+NC_088943.1	RefSeq	CDS	2237878	2239689	.	-	0	transcript_id "rna-XM_023604331.2"; gene_id "gene-RHO25_013061"; gene_name "RRP9";
