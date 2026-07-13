@@ -1,0 +1,902 @@
+CM180701.1	Genbank	transcript	449188	450367	.	+	.	transcript_id "rna-ACY190_006379-T1_mrna"; gene_id "gene-ACY190_006379"
+CM180701.1	Genbank	exon	449188	450095	.	+	.	transcript_id "rna-ACY190_006379-T1_mrna"; gene_id "gene-ACY190_006379";
+CM180701.1	Genbank	exon	450175	450367	.	+	.	transcript_id "rna-ACY190_006379-T1_mrna"; gene_id "gene-ACY190_006379";
+CM180701.1	Genbank	CDS	449188	450095	.	+	0	transcript_id "rna-ACY190_006379-T1_mrna"; gene_id "gene-ACY190_006379";
+CM180701.1	Genbank	CDS	450175	450367	.	+	1	transcript_id "rna-ACY190_006379-T1_mrna"; gene_id "gene-ACY190_006379";
+CM180701.1	Genbank	transcript	457641	460187	.	+	.	transcript_id "rna-ACY190_006384-T1_mrna"; gene_id "gene-ACY190_006384"; gene_name "DBP6"
+CM180701.1	Genbank	exon	457641	460187	.	+	.	transcript_id "rna-ACY190_006384-T1_mrna"; gene_id "gene-ACY190_006384"; gene_name "DBP6";
+CM180701.1	Genbank	CDS	457641	460187	.	+	0	transcript_id "rna-ACY190_006384-T1_mrna"; gene_id "gene-ACY190_006384"; gene_name "DBP6";
+CM180701.1	Genbank	transcript	778228	779705	.	-	.	transcript_id "rna-ACY190_006478-T1_mrna"; gene_id "gene-ACY190_006478"
+CM180701.1	Genbank	exon	778228	779114	.	-	.	transcript_id "rna-ACY190_006478-T1_mrna"; gene_id "gene-ACY190_006478";
+CM180701.1	Genbank	exon	779198	779705	.	-	.	transcript_id "rna-ACY190_006478-T1_mrna"; gene_id "gene-ACY190_006478";
+CM180701.1	Genbank	CDS	778228	779114	.	-	2	transcript_id "rna-ACY190_006478-T1_mrna"; gene_id "gene-ACY190_006478";
+CM180701.1	Genbank	CDS	779198	779705	.	-	0	transcript_id "rna-ACY190_006478-T1_mrna"; gene_id "gene-ACY190_006478";
+CM180701.1	Genbank	transcript	1000009	1002509	.	-	.	transcript_id "rna-ACY190_006546-T1_mrna"; gene_id "gene-ACY190_006546"; gene_name "SDA1"
+CM180701.1	Genbank	exon	1000009	1001896	.	-	.	transcript_id "rna-ACY190_006546-T1_mrna"; gene_id "gene-ACY190_006546"; gene_name "SDA1";
+CM180701.1	Genbank	exon	1001962	1002249	.	-	.	transcript_id "rna-ACY190_006546-T1_mrna"; gene_id "gene-ACY190_006546"; gene_name "SDA1";
+CM180701.1	Genbank	exon	1002463	1002509	.	-	.	transcript_id "rna-ACY190_006546-T1_mrna"; gene_id "gene-ACY190_006546"; gene_name "SDA1";
+CM180701.1	Genbank	CDS	1000009	1001896	.	-	1	transcript_id "rna-ACY190_006546-T1_mrna"; gene_id "gene-ACY190_006546"; gene_name "SDA1";
+CM180701.1	Genbank	CDS	1001962	1002249	.	-	1	transcript_id "rna-ACY190_006546-T1_mrna"; gene_id "gene-ACY190_006546"; gene_name "SDA1";
+CM180701.1	Genbank	CDS	1002463	1002509	.	-	0	transcript_id "rna-ACY190_006546-T1_mrna"; gene_id "gene-ACY190_006546"; gene_name "SDA1";
+CM180701.1	Genbank	transcript	1092696	1094054	.	+	.	transcript_id "rna-ACY190_006573-T1_mrna"; gene_id "gene-ACY190_006573"; gene_name "PRP46"
+CM180701.1	Genbank	exon	1092696	1094054	.	+	.	transcript_id "rna-ACY190_006573-T1_mrna"; gene_id "gene-ACY190_006573"; gene_name "PRP46";
+CM180701.1	Genbank	CDS	1092696	1094054	.	+	0	transcript_id "rna-ACY190_006573-T1_mrna"; gene_id "gene-ACY190_006573"; gene_name "PRP46";
+CM180701.1	Genbank	transcript	1105814	1109480	.	+	.	transcript_id "rna-ACY190_006578-T1_mrna"; gene_id "gene-ACY190_006578"; gene_name "MAK21"
+CM180701.1	Genbank	exon	1105814	1106680	.	+	.	transcript_id "rna-ACY190_006578-T1_mrna"; gene_id "gene-ACY190_006578"; gene_name "MAK21";
+CM180701.1	Genbank	exon	1106731	1107857	.	+	.	transcript_id "rna-ACY190_006578-T1_mrna"; gene_id "gene-ACY190_006578"; gene_name "MAK21";
+CM180701.1	Genbank	exon	1107913	1108459	.	+	.	transcript_id "rna-ACY190_006578-T1_mrna"; gene_id "gene-ACY190_006578"; gene_name "MAK21";
+CM180701.1	Genbank	exon	1108545	1109480	.	+	.	transcript_id "rna-ACY190_006578-T1_mrna"; gene_id "gene-ACY190_006578"; gene_name "MAK21";
+CM180701.1	Genbank	CDS	1105814	1106680	.	+	0	transcript_id "rna-ACY190_006578-T1_mrna"; gene_id "gene-ACY190_006578"; gene_name "MAK21";
+CM180701.1	Genbank	CDS	1106731	1107857	.	+	0	transcript_id "rna-ACY190_006578-T1_mrna"; gene_id "gene-ACY190_006578"; gene_name "MAK21";
+CM180701.1	Genbank	CDS	1107913	1108459	.	+	1	transcript_id "rna-ACY190_006578-T1_mrna"; gene_id "gene-ACY190_006578"; gene_name "MAK21";
+CM180701.1	Genbank	CDS	1108545	1109480	.	+	0	transcript_id "rna-ACY190_006578-T1_mrna"; gene_id "gene-ACY190_006578"; gene_name "MAK21";
+CM180701.1	Genbank	transcript	1326567	1327202	.	-	.	transcript_id "rna-ACY190_006651-T1_mrna"; gene_id "gene-ACY190_006651"
+CM180701.1	Genbank	exon	1326567	1327202	.	-	.	transcript_id "rna-ACY190_006651-T1_mrna"; gene_id "gene-ACY190_006651";
+CM180701.1	Genbank	CDS	1326567	1327202	.	-	0	transcript_id "rna-ACY190_006651-T1_mrna"; gene_id "gene-ACY190_006651";
+CM180701.1	Genbank	transcript	1346070	1347055	.	+	.	transcript_id "rna-ACY190_006659-T1_mrna"; gene_id "gene-ACY190_006659"; gene_name "DPH5"
+CM180701.1	Genbank	exon	1346070	1346204	.	+	.	transcript_id "rna-ACY190_006659-T1_mrna"; gene_id "gene-ACY190_006659"; gene_name "DPH5";
+CM180701.1	Genbank	exon	1346278	1346402	.	+	.	transcript_id "rna-ACY190_006659-T1_mrna"; gene_id "gene-ACY190_006659"; gene_name "DPH5";
+CM180701.1	Genbank	exon	1346458	1347055	.	+	.	transcript_id "rna-ACY190_006659-T1_mrna"; gene_id "gene-ACY190_006659"; gene_name "DPH5";
+CM180701.1	Genbank	CDS	1346070	1346204	.	+	0	transcript_id "rna-ACY190_006659-T1_mrna"; gene_id "gene-ACY190_006659"; gene_name "DPH5";
+CM180701.1	Genbank	CDS	1346278	1346402	.	+	0	transcript_id "rna-ACY190_006659-T1_mrna"; gene_id "gene-ACY190_006659"; gene_name "DPH5";
+CM180701.1	Genbank	CDS	1346458	1347055	.	+	1	transcript_id "rna-ACY190_006659-T1_mrna"; gene_id "gene-ACY190_006659"; gene_name "DPH5";
+CM180701.1	Genbank	transcript	1382429	1384204	.	+	.	transcript_id "rna-ACY190_006671-T1_mrna"; gene_id "gene-ACY190_006671"; gene_name "prp3"
+CM180701.1	Genbank	exon	1382429	1384204	.	+	.	transcript_id "rna-ACY190_006671-T1_mrna"; gene_id "gene-ACY190_006671"; gene_name "prp3";
+CM180701.1	Genbank	CDS	1382429	1384204	.	+	0	transcript_id "rna-ACY190_006671-T1_mrna"; gene_id "gene-ACY190_006671"; gene_name "prp3";
+CM180701.1	Genbank	transcript	2295895	2297699	.	-	.	transcript_id "rna-ACY190_006974-T1_mrna"; gene_id "gene-ACY190_006974"; gene_name "TRM6"
+CM180701.1	Genbank	exon	2295895	2297542	.	-	.	transcript_id "rna-ACY190_006974-T1_mrna"; gene_id "gene-ACY190_006974"; gene_name "TRM6";
+CM180701.1	Genbank	exon	2297614	2297699	.	-	.	transcript_id "rna-ACY190_006974-T1_mrna"; gene_id "gene-ACY190_006974"; gene_name "TRM6";
+CM180701.1	Genbank	CDS	2295895	2297542	.	-	1	transcript_id "rna-ACY190_006974-T1_mrna"; gene_id "gene-ACY190_006974"; gene_name "TRM6";
+CM180701.1	Genbank	CDS	2297614	2297699	.	-	0	transcript_id "rna-ACY190_006974-T1_mrna"; gene_id "gene-ACY190_006974"; gene_name "TRM6";
+CM180701.1	Genbank	transcript	2705303	2707348	.	+	.	transcript_id "rna-ACY190_007112-T1_mrna"; gene_id "gene-ACY190_007112"; gene_name "SPB4"
+CM180701.1	Genbank	exon	2705303	2705592	.	+	.	transcript_id "rna-ACY190_007112-T1_mrna"; gene_id "gene-ACY190_007112"; gene_name "SPB4";
+CM180701.1	Genbank	exon	2705651	2706154	.	+	.	transcript_id "rna-ACY190_007112-T1_mrna"; gene_id "gene-ACY190_007112"; gene_name "SPB4";
+CM180701.1	Genbank	exon	2706217	2707348	.	+	.	transcript_id "rna-ACY190_007112-T1_mrna"; gene_id "gene-ACY190_007112"; gene_name "SPB4";
+CM180701.1	Genbank	CDS	2705303	2705592	.	+	0	transcript_id "rna-ACY190_007112-T1_mrna"; gene_id "gene-ACY190_007112"; gene_name "SPB4";
+CM180701.1	Genbank	CDS	2705651	2706154	.	+	1	transcript_id "rna-ACY190_007112-T1_mrna"; gene_id "gene-ACY190_007112"; gene_name "SPB4";
+CM180701.1	Genbank	CDS	2706217	2707348	.	+	1	transcript_id "rna-ACY190_007112-T1_mrna"; gene_id "gene-ACY190_007112"; gene_name "SPB4";
+CM180701.1	Genbank	transcript	2849070	2852049	.	+	.	transcript_id "rna-ACY190_007151-T1_mrna"; gene_id "gene-ACY190_007151"; gene_name "MCM2"
+CM180701.1	Genbank	exon	2849070	2849074	.	+	.	transcript_id "rna-ACY190_007151-T1_mrna"; gene_id "gene-ACY190_007151"; gene_name "MCM2";
+CM180701.1	Genbank	exon	2849144	2849259	.	+	.	transcript_id "rna-ACY190_007151-T1_mrna"; gene_id "gene-ACY190_007151"; gene_name "MCM2";
+CM180701.1	Genbank	exon	2849324	2851623	.	+	.	transcript_id "rna-ACY190_007151-T1_mrna"; gene_id "gene-ACY190_007151"; gene_name "MCM2";
+CM180701.1	Genbank	exon	2851687	2851856	.	+	.	transcript_id "rna-ACY190_007151-T1_mrna"; gene_id "gene-ACY190_007151"; gene_name "MCM2";
+CM180701.1	Genbank	exon	2851956	2852049	.	+	.	transcript_id "rna-ACY190_007151-T1_mrna"; gene_id "gene-ACY190_007151"; gene_name "MCM2";
+CM180701.1	Genbank	CDS	2849070	2849074	.	+	0	transcript_id "rna-ACY190_007151-T1_mrna"; gene_id "gene-ACY190_007151"; gene_name "MCM2";
+CM180701.1	Genbank	CDS	2849144	2849259	.	+	1	transcript_id "rna-ACY190_007151-T1_mrna"; gene_id "gene-ACY190_007151"; gene_name "MCM2";
+CM180701.1	Genbank	CDS	2849324	2851623	.	+	2	transcript_id "rna-ACY190_007151-T1_mrna"; gene_id "gene-ACY190_007151"; gene_name "MCM2";
+CM180701.1	Genbank	CDS	2851687	2851856	.	+	0	transcript_id "rna-ACY190_007151-T1_mrna"; gene_id "gene-ACY190_007151"; gene_name "MCM2";
+CM180701.1	Genbank	CDS	2851956	2852049	.	+	1	transcript_id "rna-ACY190_007151-T1_mrna"; gene_id "gene-ACY190_007151"; gene_name "MCM2";
+CM180701.1	Genbank	transcript	3418821	3421853	.	-	.	transcript_id "rna-ACY190_007336-T1_mrna"; gene_id "gene-ACY190_007336"; gene_name "COG5"
+CM180701.1	Genbank	exon	3418821	3420298	.	-	.	transcript_id "rna-ACY190_007336-T1_mrna"; gene_id "gene-ACY190_007336"; gene_name "COG5";
+CM180701.1	Genbank	exon	3421174	3421244	.	-	.	transcript_id "rna-ACY190_007336-T1_mrna"; gene_id "gene-ACY190_007336"; gene_name "COG5";
+CM180701.1	Genbank	exon	3421315	3421534	.	-	.	transcript_id "rna-ACY190_007336-T1_mrna"; gene_id "gene-ACY190_007336"; gene_name "COG5";
+CM180701.1	Genbank	exon	3421601	3421853	.	-	.	transcript_id "rna-ACY190_007336-T1_mrna"; gene_id "gene-ACY190_007336"; gene_name "COG5";
+CM180701.1	Genbank	CDS	3418821	3420298	.	-	2	transcript_id "rna-ACY190_007336-T1_mrna"; gene_id "gene-ACY190_007336"; gene_name "COG5";
+CM180701.1	Genbank	CDS	3421174	3421244	.	-	1	transcript_id "rna-ACY190_007336-T1_mrna"; gene_id "gene-ACY190_007336"; gene_name "COG5";
+CM180701.1	Genbank	CDS	3421315	3421534	.	-	2	transcript_id "rna-ACY190_007336-T1_mrna"; gene_id "gene-ACY190_007336"; gene_name "COG5";
+CM180701.1	Genbank	CDS	3421601	3421853	.	-	0	transcript_id "rna-ACY190_007336-T1_mrna"; gene_id "gene-ACY190_007336"; gene_name "COG5";
+CM180701.1	Genbank	transcript	3501185	3503282	.	-	.	transcript_id "rna-ACY190_007361-T1_mrna"; gene_id "gene-ACY190_007361"
+CM180701.1	Genbank	exon	3501185	3501284	.	-	.	transcript_id "rna-ACY190_007361-T1_mrna"; gene_id "gene-ACY190_007361";
+CM180701.1	Genbank	exon	3501368	3502886	.	-	.	transcript_id "rna-ACY190_007361-T1_mrna"; gene_id "gene-ACY190_007361";
+CM180701.1	Genbank	exon	3502997	3503282	.	-	.	transcript_id "rna-ACY190_007361-T1_mrna"; gene_id "gene-ACY190_007361";
+CM180701.1	Genbank	CDS	3501185	3501284	.	-	1	transcript_id "rna-ACY190_007361-T1_mrna"; gene_id "gene-ACY190_007361";
+CM180701.1	Genbank	CDS	3501368	3502886	.	-	2	transcript_id "rna-ACY190_007361-T1_mrna"; gene_id "gene-ACY190_007361";
+CM180701.1	Genbank	CDS	3502997	3503282	.	-	0	transcript_id "rna-ACY190_007361-T1_mrna"; gene_id "gene-ACY190_007361";
+CM180701.1	Genbank	transcript	3708009	3709043	.	+	.	transcript_id "rna-ACY190_007423-T1_mrna"; gene_id "gene-ACY190_007423"; gene_name "NSA2"
+CM180701.1	Genbank	exon	3708009	3708058	.	+	.	transcript_id "rna-ACY190_007423-T1_mrna"; gene_id "gene-ACY190_007423"; gene_name "NSA2";
+CM180701.1	Genbank	exon	3708178	3708642	.	+	.	transcript_id "rna-ACY190_007423-T1_mrna"; gene_id "gene-ACY190_007423"; gene_name "NSA2";
+CM180701.1	Genbank	exon	3708726	3708946	.	+	.	transcript_id "rna-ACY190_007423-T1_mrna"; gene_id "gene-ACY190_007423"; gene_name "NSA2";
+CM180701.1	Genbank	exon	3708997	3709043	.	+	.	transcript_id "rna-ACY190_007423-T1_mrna"; gene_id "gene-ACY190_007423"; gene_name "NSA2";
+CM180701.1	Genbank	CDS	3708009	3708058	.	+	0	transcript_id "rna-ACY190_007423-T1_mrna"; gene_id "gene-ACY190_007423"; gene_name "NSA2";
+CM180701.1	Genbank	CDS	3708178	3708642	.	+	1	transcript_id "rna-ACY190_007423-T1_mrna"; gene_id "gene-ACY190_007423"; gene_name "NSA2";
+CM180701.1	Genbank	CDS	3708726	3708946	.	+	1	transcript_id "rna-ACY190_007423-T1_mrna"; gene_id "gene-ACY190_007423"; gene_name "NSA2";
+CM180701.1	Genbank	CDS	3708997	3709043	.	+	2	transcript_id "rna-ACY190_007423-T1_mrna"; gene_id "gene-ACY190_007423"; gene_name "NSA2";
+CM180701.1	Genbank	transcript	3824089	3826687	.	-	.	transcript_id "rna-ACY190_007460-T1_mrna"; gene_id "gene-ACY190_007460"; gene_name "COG3"
+CM180701.1	Genbank	exon	3824089	3824895	.	-	.	transcript_id "rna-ACY190_007460-T1_mrna"; gene_id "gene-ACY190_007460"; gene_name "COG3";
+CM180701.1	Genbank	exon	3824981	3826006	.	-	.	transcript_id "rna-ACY190_007460-T1_mrna"; gene_id "gene-ACY190_007460"; gene_name "COG3";
+CM180701.1	Genbank	exon	3826065	3826404	.	-	.	transcript_id "rna-ACY190_007460-T1_mrna"; gene_id "gene-ACY190_007460"; gene_name "COG3";
+CM180701.1	Genbank	exon	3826479	3826687	.	-	.	transcript_id "rna-ACY190_007460-T1_mrna"; gene_id "gene-ACY190_007460"; gene_name "COG3";
+CM180701.1	Genbank	CDS	3824089	3824895	.	-	0	transcript_id "rna-ACY190_007460-T1_mrna"; gene_id "gene-ACY190_007460"; gene_name "COG3";
+CM180701.1	Genbank	CDS	3824981	3826006	.	-	0	transcript_id "rna-ACY190_007460-T1_mrna"; gene_id "gene-ACY190_007460"; gene_name "COG3";
+CM180701.1	Genbank	CDS	3826065	3826404	.	-	1	transcript_id "rna-ACY190_007460-T1_mrna"; gene_id "gene-ACY190_007460"; gene_name "COG3";
+CM180701.1	Genbank	CDS	3826479	3826687	.	-	0	transcript_id "rna-ACY190_007460-T1_mrna"; gene_id "gene-ACY190_007460"; gene_name "COG3";
+CM180701.1	Genbank	transcript	4013435	4014401	.	+	.	transcript_id "rna-ACY190_007525-T1_mrna"; gene_id "gene-ACY190_007525"; gene_name "DRE2"
+CM180701.1	Genbank	exon	4013435	4014029	.	+	.	transcript_id "rna-ACY190_007525-T1_mrna"; gene_id "gene-ACY190_007525"; gene_name "DRE2";
+CM180701.1	Genbank	exon	4014088	4014401	.	+	.	transcript_id "rna-ACY190_007525-T1_mrna"; gene_id "gene-ACY190_007525"; gene_name "DRE2";
+CM180701.1	Genbank	CDS	4013435	4014029	.	+	0	transcript_id "rna-ACY190_007525-T1_mrna"; gene_id "gene-ACY190_007525"; gene_name "DRE2";
+CM180701.1	Genbank	CDS	4014088	4014401	.	+	2	transcript_id "rna-ACY190_007525-T1_mrna"; gene_id "gene-ACY190_007525"; gene_name "DRE2";
+CM180701.1	Genbank	transcript	4095074	4097041	.	+	.	transcript_id "rna-ACY190_007561-T1_mrna"; gene_id "gene-ACY190_007561"
+CM180701.1	Genbank	exon	4095074	4095177	.	+	.	transcript_id "rna-ACY190_007561-T1_mrna"; gene_id "gene-ACY190_007561";
+CM180701.1	Genbank	exon	4095238	4095328	.	+	.	transcript_id "rna-ACY190_007561-T1_mrna"; gene_id "gene-ACY190_007561";
+CM180701.1	Genbank	exon	4095400	4096050	.	+	.	transcript_id "rna-ACY190_007561-T1_mrna"; gene_id "gene-ACY190_007561";
+CM180701.1	Genbank	exon	4096106	4096174	.	+	.	transcript_id "rna-ACY190_007561-T1_mrna"; gene_id "gene-ACY190_007561";
+CM180701.1	Genbank	exon	4096305	4096700	.	+	.	transcript_id "rna-ACY190_007561-T1_mrna"; gene_id "gene-ACY190_007561";
+CM180701.1	Genbank	exon	4096925	4097041	.	+	.	transcript_id "rna-ACY190_007561-T1_mrna"; gene_id "gene-ACY190_007561";
+CM180701.1	Genbank	CDS	4095074	4095177	.	+	0	transcript_id "rna-ACY190_007561-T1_mrna"; gene_id "gene-ACY190_007561";
+CM180701.1	Genbank	CDS	4095238	4095328	.	+	1	transcript_id "rna-ACY190_007561-T1_mrna"; gene_id "gene-ACY190_007561";
+CM180701.1	Genbank	CDS	4095400	4096050	.	+	0	transcript_id "rna-ACY190_007561-T1_mrna"; gene_id "gene-ACY190_007561";
+CM180701.1	Genbank	CDS	4096106	4096174	.	+	0	transcript_id "rna-ACY190_007561-T1_mrna"; gene_id "gene-ACY190_007561";
+CM180701.1	Genbank	CDS	4096305	4096700	.	+	0	transcript_id "rna-ACY190_007561-T1_mrna"; gene_id "gene-ACY190_007561";
+CM180701.1	Genbank	CDS	4096925	4097041	.	+	0	transcript_id "rna-ACY190_007561-T1_mrna"; gene_id "gene-ACY190_007561";
+CM180701.1	Genbank	transcript	4659127	4660297	.	+	.	transcript_id "rna-ACY190_007748-T1_mrna"; gene_id "gene-ACY190_007748"; gene_name "SHY1"
+CM180701.1	Genbank	exon	4659127	4659379	.	+	.	transcript_id "rna-ACY190_007748-T1_mrna"; gene_id "gene-ACY190_007748"; gene_name "SHY1";
+CM180701.1	Genbank	exon	4659467	4659979	.	+	.	transcript_id "rna-ACY190_007748-T1_mrna"; gene_id "gene-ACY190_007748"; gene_name "SHY1";
+CM180701.1	Genbank	exon	4660034	4660139	.	+	.	transcript_id "rna-ACY190_007748-T1_mrna"; gene_id "gene-ACY190_007748"; gene_name "SHY1";
+CM180701.1	Genbank	exon	4660198	4660297	.	+	.	transcript_id "rna-ACY190_007748-T1_mrna"; gene_id "gene-ACY190_007748"; gene_name "SHY1";
+CM180701.1	Genbank	CDS	4659127	4659379	.	+	0	transcript_id "rna-ACY190_007748-T1_mrna"; gene_id "gene-ACY190_007748"; gene_name "SHY1";
+CM180701.1	Genbank	CDS	4659467	4659979	.	+	2	transcript_id "rna-ACY190_007748-T1_mrna"; gene_id "gene-ACY190_007748"; gene_name "SHY1";
+CM180701.1	Genbank	CDS	4660034	4660139	.	+	2	transcript_id "rna-ACY190_007748-T1_mrna"; gene_id "gene-ACY190_007748"; gene_name "SHY1";
+CM180701.1	Genbank	CDS	4660198	4660297	.	+	1	transcript_id "rna-ACY190_007748-T1_mrna"; gene_id "gene-ACY190_007748"; gene_name "SHY1";
+CM180701.1	Genbank	transcript	4806914	4808178	.	-	.	transcript_id "rna-ACY190_007802-T1_mrna"; gene_id "gene-ACY190_007802"; gene_name "rrp4"
+CM180701.1	Genbank	exon	4806914	4807886	.	-	.	transcript_id "rna-ACY190_007802-T1_mrna"; gene_id "gene-ACY190_007802"; gene_name "rrp4";
+CM180701.1	Genbank	exon	4807967	4808178	.	-	.	transcript_id "rna-ACY190_007802-T1_mrna"; gene_id "gene-ACY190_007802"; gene_name "rrp4";
+CM180701.1	Genbank	CDS	4806914	4807886	.	-	1	transcript_id "rna-ACY190_007802-T1_mrna"; gene_id "gene-ACY190_007802"; gene_name "rrp4";
+CM180701.1	Genbank	CDS	4807967	4808178	.	-	0	transcript_id "rna-ACY190_007802-T1_mrna"; gene_id "gene-ACY190_007802"; gene_name "rrp4";
+CM180701.1	Genbank	transcript	5181972	5183604	.	-	.	transcript_id "rna-ACY190_007876-T1_mrna"; gene_id "gene-ACY190_007876"; gene_name "cyp6"
+CM180701.1	Genbank	exon	5181972	5182373	.	-	.	transcript_id "rna-ACY190_007876-T1_mrna"; gene_id "gene-ACY190_007876"; gene_name "cyp6";
+CM180701.1	Genbank	exon	5182438	5182634	.	-	.	transcript_id "rna-ACY190_007876-T1_mrna"; gene_id "gene-ACY190_007876"; gene_name "cyp6";
+CM180701.1	Genbank	exon	5182707	5183404	.	-	.	transcript_id "rna-ACY190_007876-T1_mrna"; gene_id "gene-ACY190_007876"; gene_name "cyp6";
+CM180701.1	Genbank	exon	5183525	5183604	.	-	.	transcript_id "rna-ACY190_007876-T1_mrna"; gene_id "gene-ACY190_007876"; gene_name "cyp6";
+CM180701.1	Genbank	CDS	5181972	5182373	.	-	0	transcript_id "rna-ACY190_007876-T1_mrna"; gene_id "gene-ACY190_007876"; gene_name "cyp6";
+CM180701.1	Genbank	CDS	5182438	5182634	.	-	2	transcript_id "rna-ACY190_007876-T1_mrna"; gene_id "gene-ACY190_007876"; gene_name "cyp6";
+CM180701.1	Genbank	CDS	5182707	5183404	.	-	1	transcript_id "rna-ACY190_007876-T1_mrna"; gene_id "gene-ACY190_007876"; gene_name "cyp6";
+CM180701.1	Genbank	CDS	5183525	5183604	.	-	0	transcript_id "rna-ACY190_007876-T1_mrna"; gene_id "gene-ACY190_007876"; gene_name "cyp6";
+CM180701.1	Genbank	transcript	5272085	5274287	.	-	.	transcript_id "rna-ACY190_007909-T1_mrna"; gene_id "gene-ACY190_007909"
+CM180701.1	Genbank	exon	5272085	5272167	.	-	.	transcript_id "rna-ACY190_007909-T1_mrna"; gene_id "gene-ACY190_007909";
+CM180701.1	Genbank	exon	5272217	5272334	.	-	.	transcript_id "rna-ACY190_007909-T1_mrna"; gene_id "gene-ACY190_007909";
+CM180701.1	Genbank	exon	5272390	5272674	.	-	.	transcript_id "rna-ACY190_007909-T1_mrna"; gene_id "gene-ACY190_007909";
+CM180701.1	Genbank	exon	5272722	5273236	.	-	.	transcript_id "rna-ACY190_007909-T1_mrna"; gene_id "gene-ACY190_007909";
+CM180701.1	Genbank	exon	5273288	5273381	.	-	.	transcript_id "rna-ACY190_007909-T1_mrna"; gene_id "gene-ACY190_007909";
+CM180701.1	Genbank	exon	5273429	5273663	.	-	.	transcript_id "rna-ACY190_007909-T1_mrna"; gene_id "gene-ACY190_007909";
+CM180701.1	Genbank	exon	5273716	5273822	.	-	.	transcript_id "rna-ACY190_007909-T1_mrna"; gene_id "gene-ACY190_007909";
+CM180701.1	Genbank	exon	5273870	5274111	.	-	.	transcript_id "rna-ACY190_007909-T1_mrna"; gene_id "gene-ACY190_007909";
+CM180701.1	Genbank	exon	5274159	5274213	.	-	.	transcript_id "rna-ACY190_007909-T1_mrna"; gene_id "gene-ACY190_007909";
+CM180701.1	Genbank	exon	5274261	5274287	.	-	.	transcript_id "rna-ACY190_007909-T1_mrna"; gene_id "gene-ACY190_007909";
+CM180701.1	Genbank	CDS	5272085	5272167	.	-	2	transcript_id "rna-ACY190_007909-T1_mrna"; gene_id "gene-ACY190_007909";
+CM180701.1	Genbank	CDS	5272217	5272334	.	-	0	transcript_id "rna-ACY190_007909-T1_mrna"; gene_id "gene-ACY190_007909";
+CM180701.1	Genbank	CDS	5272390	5272674	.	-	0	transcript_id "rna-ACY190_007909-T1_mrna"; gene_id "gene-ACY190_007909";
+CM180701.1	Genbank	CDS	5272722	5273236	.	-	2	transcript_id "rna-ACY190_007909-T1_mrna"; gene_id "gene-ACY190_007909";
+CM180701.1	Genbank	CDS	5273288	5273381	.	-	0	transcript_id "rna-ACY190_007909-T1_mrna"; gene_id "gene-ACY190_007909";
+CM180701.1	Genbank	CDS	5273429	5273663	.	-	1	transcript_id "rna-ACY190_007909-T1_mrna"; gene_id "gene-ACY190_007909";
+CM180701.1	Genbank	CDS	5273716	5273822	.	-	0	transcript_id "rna-ACY190_007909-T1_mrna"; gene_id "gene-ACY190_007909";
+CM180701.1	Genbank	CDS	5273870	5274111	.	-	2	transcript_id "rna-ACY190_007909-T1_mrna"; gene_id "gene-ACY190_007909";
+CM180701.1	Genbank	CDS	5274159	5274213	.	-	0	transcript_id "rna-ACY190_007909-T1_mrna"; gene_id "gene-ACY190_007909";
+CM180701.1	Genbank	CDS	5274261	5274287	.	-	0	transcript_id "rna-ACY190_007909-T1_mrna"; gene_id "gene-ACY190_007909";
+CM180702.1	Genbank	transcript	404828	406230	.	-	.	transcript_id "rna-ACY190_002522-T1_mrna"; gene_id "gene-ACY190_002522"; gene_name "DPH1"
+CM180702.1	Genbank	exon	404828	406008	.	-	.	transcript_id "rna-ACY190_002522-T1_mrna"; gene_id "gene-ACY190_002522"; gene_name "DPH1";
+CM180702.1	Genbank	exon	406089	406230	.	-	.	transcript_id "rna-ACY190_002522-T1_mrna"; gene_id "gene-ACY190_002522"; gene_name "DPH1";
+CM180702.1	Genbank	CDS	404828	406008	.	-	2	transcript_id "rna-ACY190_002522-T1_mrna"; gene_id "gene-ACY190_002522"; gene_name "DPH1";
+CM180702.1	Genbank	CDS	406089	406230	.	-	0	transcript_id "rna-ACY190_002522-T1_mrna"; gene_id "gene-ACY190_002522"; gene_name "DPH1";
+CM180702.1	Genbank	transcript	538522	539737	.	-	.	transcript_id "rna-ACY190_002572-T1_mrna"; gene_id "gene-ACY190_002572"; gene_name "RRP42"
+CM180702.1	Genbank	exon	538522	539100	.	-	.	transcript_id "rna-ACY190_002572-T1_mrna"; gene_id "gene-ACY190_002572"; gene_name "RRP42";
+CM180702.1	Genbank	exon	539186	539737	.	-	.	transcript_id "rna-ACY190_002572-T1_mrna"; gene_id "gene-ACY190_002572"; gene_name "RRP42";
+CM180702.1	Genbank	CDS	538522	539100	.	-	0	transcript_id "rna-ACY190_002572-T1_mrna"; gene_id "gene-ACY190_002572"; gene_name "RRP42";
+CM180702.1	Genbank	CDS	539186	539737	.	-	0	transcript_id "rna-ACY190_002572-T1_mrna"; gene_id "gene-ACY190_002572"; gene_name "RRP42";
+CM180702.1	Genbank	transcript	918926	920497	.	-	.	transcript_id "rna-ACY190_002680-T1_mrna"; gene_id "gene-ACY190_002680"
+CM180702.1	Genbank	exon	918926	920047	.	-	.	transcript_id "rna-ACY190_002680-T1_mrna"; gene_id "gene-ACY190_002680";
+CM180702.1	Genbank	exon	920189	920497	.	-	.	transcript_id "rna-ACY190_002680-T1_mrna"; gene_id "gene-ACY190_002680";
+CM180702.1	Genbank	CDS	918926	920047	.	-	0	transcript_id "rna-ACY190_002680-T1_mrna"; gene_id "gene-ACY190_002680";
+CM180702.1	Genbank	CDS	920189	920497	.	-	0	transcript_id "rna-ACY190_002680-T1_mrna"; gene_id "gene-ACY190_002680";
+CM180702.1	Genbank	transcript	1165384	1166597	.	+	.	transcript_id "rna-ACY190_002752-T1_mrna"; gene_id "gene-ACY190_002752"; gene_name "ALG7"
+CM180702.1	Genbank	exon	1165384	1165554	.	+	.	transcript_id "rna-ACY190_002752-T1_mrna"; gene_id "gene-ACY190_002752"; gene_name "ALG7";
+CM180702.1	Genbank	exon	1165617	1166597	.	+	.	transcript_id "rna-ACY190_002752-T1_mrna"; gene_id "gene-ACY190_002752"; gene_name "ALG7";
+CM180702.1	Genbank	CDS	1165384	1165554	.	+	0	transcript_id "rna-ACY190_002752-T1_mrna"; gene_id "gene-ACY190_002752"; gene_name "ALG7";
+CM180702.1	Genbank	CDS	1165617	1166597	.	+	0	transcript_id "rna-ACY190_002752-T1_mrna"; gene_id "gene-ACY190_002752"; gene_name "ALG7";
+CM180702.1	Genbank	transcript	1205926	1207217	.	-	.	transcript_id "rna-ACY190_002764-T1_mrna"; gene_id "gene-ACY190_002764"; gene_name "KRR1"
+CM180702.1	Genbank	exon	1205926	1206675	.	-	.	transcript_id "rna-ACY190_002764-T1_mrna"; gene_id "gene-ACY190_002764"; gene_name "KRR1";
+CM180702.1	Genbank	exon	1206798	1207070	.	-	.	transcript_id "rna-ACY190_002764-T1_mrna"; gene_id "gene-ACY190_002764"; gene_name "KRR1";
+CM180702.1	Genbank	exon	1207158	1207217	.	-	.	transcript_id "rna-ACY190_002764-T1_mrna"; gene_id "gene-ACY190_002764"; gene_name "KRR1";
+CM180702.1	Genbank	CDS	1205926	1206675	.	-	0	transcript_id "rna-ACY190_002764-T1_mrna"; gene_id "gene-ACY190_002764"; gene_name "KRR1";
+CM180702.1	Genbank	CDS	1206798	1207070	.	-	0	transcript_id "rna-ACY190_002764-T1_mrna"; gene_id "gene-ACY190_002764"; gene_name "KRR1";
+CM180702.1	Genbank	CDS	1207158	1207217	.	-	0	transcript_id "rna-ACY190_002764-T1_mrna"; gene_id "gene-ACY190_002764"; gene_name "KRR1";
+CM180702.1	Genbank	transcript	1327709	1330813	.	+	.	transcript_id "rna-ACY190_002799-T1_mrna"; gene_id "gene-ACY190_002799"; gene_name "SSN6"
+CM180702.1	Genbank	exon	1327709	1327883	.	+	.	transcript_id "rna-ACY190_002799-T1_mrna"; gene_id "gene-ACY190_002799"; gene_name "SSN6";
+CM180702.1	Genbank	exon	1327951	1328154	.	+	.	transcript_id "rna-ACY190_002799-T1_mrna"; gene_id "gene-ACY190_002799"; gene_name "SSN6";
+CM180702.1	Genbank	exon	1328210	1328292	.	+	.	transcript_id "rna-ACY190_002799-T1_mrna"; gene_id "gene-ACY190_002799"; gene_name "SSN6";
+CM180702.1	Genbank	exon	1328356	1328535	.	+	.	transcript_id "rna-ACY190_002799-T1_mrna"; gene_id "gene-ACY190_002799"; gene_name "SSN6";
+CM180702.1	Genbank	exon	1328595	1328687	.	+	.	transcript_id "rna-ACY190_002799-T1_mrna"; gene_id "gene-ACY190_002799"; gene_name "SSN6";
+CM180702.1	Genbank	exon	1328745	1328901	.	+	.	transcript_id "rna-ACY190_002799-T1_mrna"; gene_id "gene-ACY190_002799"; gene_name "SSN6";
+CM180702.1	Genbank	exon	1328975	1329219	.	+	.	transcript_id "rna-ACY190_002799-T1_mrna"; gene_id "gene-ACY190_002799"; gene_name "SSN6";
+CM180702.1	Genbank	exon	1329278	1330813	.	+	.	transcript_id "rna-ACY190_002799-T1_mrna"; gene_id "gene-ACY190_002799"; gene_name "SSN6";
+CM180702.1	Genbank	CDS	1327709	1327883	.	+	0	transcript_id "rna-ACY190_002799-T1_mrna"; gene_id "gene-ACY190_002799"; gene_name "SSN6";
+CM180702.1	Genbank	CDS	1327951	1328154	.	+	2	transcript_id "rna-ACY190_002799-T1_mrna"; gene_id "gene-ACY190_002799"; gene_name "SSN6";
+CM180702.1	Genbank	CDS	1328210	1328292	.	+	2	transcript_id "rna-ACY190_002799-T1_mrna"; gene_id "gene-ACY190_002799"; gene_name "SSN6";
+CM180702.1	Genbank	CDS	1328356	1328535	.	+	0	transcript_id "rna-ACY190_002799-T1_mrna"; gene_id "gene-ACY190_002799"; gene_name "SSN6";
+CM180702.1	Genbank	CDS	1328595	1328687	.	+	0	transcript_id "rna-ACY190_002799-T1_mrna"; gene_id "gene-ACY190_002799"; gene_name "SSN6";
+CM180702.1	Genbank	CDS	1328745	1328901	.	+	0	transcript_id "rna-ACY190_002799-T1_mrna"; gene_id "gene-ACY190_002799"; gene_name "SSN6";
+CM180702.1	Genbank	CDS	1328975	1329219	.	+	2	transcript_id "rna-ACY190_002799-T1_mrna"; gene_id "gene-ACY190_002799"; gene_name "SSN6";
+CM180702.1	Genbank	CDS	1329278	1330813	.	+	0	transcript_id "rna-ACY190_002799-T1_mrna"; gene_id "gene-ACY190_002799"; gene_name "SSN6";
+CM180702.1	Genbank	transcript	1371504	1373212	.	-	.	transcript_id "rna-ACY190_002813-T1_mrna"; gene_id "gene-ACY190_002813"; gene_name "HAT1"
+CM180702.1	Genbank	exon	1371504	1372452	.	-	.	transcript_id "rna-ACY190_002813-T1_mrna"; gene_id "gene-ACY190_002813"; gene_name "HAT1";
+CM180702.1	Genbank	exon	1372515	1372779	.	-	.	transcript_id "rna-ACY190_002813-T1_mrna"; gene_id "gene-ACY190_002813"; gene_name "HAT1";
+CM180702.1	Genbank	exon	1372850	1373125	.	-	.	transcript_id "rna-ACY190_002813-T1_mrna"; gene_id "gene-ACY190_002813"; gene_name "HAT1";
+CM180702.1	Genbank	exon	1373194	1373212	.	-	.	transcript_id "rna-ACY190_002813-T1_mrna"; gene_id "gene-ACY190_002813"; gene_name "HAT1";
+CM180702.1	Genbank	CDS	1371504	1372452	.	-	1	transcript_id "rna-ACY190_002813-T1_mrna"; gene_id "gene-ACY190_002813"; gene_name "HAT1";
+CM180702.1	Genbank	CDS	1372515	1372779	.	-	2	transcript_id "rna-ACY190_002813-T1_mrna"; gene_id "gene-ACY190_002813"; gene_name "HAT1";
+CM180702.1	Genbank	CDS	1372850	1373125	.	-	2	transcript_id "rna-ACY190_002813-T1_mrna"; gene_id "gene-ACY190_002813"; gene_name "HAT1";
+CM180702.1	Genbank	CDS	1373194	1373212	.	-	0	transcript_id "rna-ACY190_002813-T1_mrna"; gene_id "gene-ACY190_002813"; gene_name "HAT1";
+CM180702.1	Genbank	transcript	1431273	1434214	.	-	.	transcript_id "rna-ACY190_002832-T1_mrna"; gene_id "gene-ACY190_002832"; gene_name "RFC5"
+CM180702.1	Genbank	exon	1431273	1431297	.	-	.	transcript_id "rna-ACY190_002832-T1_mrna"; gene_id "gene-ACY190_002832"; gene_name "RFC5";
+CM180702.1	Genbank	exon	1431365	1431420	.	-	.	transcript_id "rna-ACY190_002832-T1_mrna"; gene_id "gene-ACY190_002832"; gene_name "RFC5";
+CM180702.1	Genbank	exon	1431476	1431574	.	-	.	transcript_id "rna-ACY190_002832-T1_mrna"; gene_id "gene-ACY190_002832"; gene_name "RFC5";
+CM180702.1	Genbank	exon	1431643	1431811	.	-	.	transcript_id "rna-ACY190_002832-T1_mrna"; gene_id "gene-ACY190_002832"; gene_name "RFC5";
+CM180702.1	Genbank	exon	1431885	1432507	.	-	.	transcript_id "rna-ACY190_002832-T1_mrna"; gene_id "gene-ACY190_002832"; gene_name "RFC5";
+CM180702.1	Genbank	exon	1432572	1432690	.	-	.	transcript_id "rna-ACY190_002832-T1_mrna"; gene_id "gene-ACY190_002832"; gene_name "RFC5";
+CM180702.1	Genbank	exon	1433464	1433905	.	-	.	transcript_id "rna-ACY190_002832-T1_mrna"; gene_id "gene-ACY190_002832"; gene_name "RFC5";
+CM180702.1	Genbank	exon	1433969	1434038	.	-	.	transcript_id "rna-ACY190_002832-T1_mrna"; gene_id "gene-ACY190_002832"; gene_name "RFC5";
+CM180702.1	Genbank	exon	1434147	1434214	.	-	.	transcript_id "rna-ACY190_002832-T1_mrna"; gene_id "gene-ACY190_002832"; gene_name "RFC5";
+CM180702.1	Genbank	CDS	1431273	1431297	.	-	1	transcript_id "rna-ACY190_002832-T1_mrna"; gene_id "gene-ACY190_002832"; gene_name "RFC5";
+CM180702.1	Genbank	CDS	1431365	1431420	.	-	0	transcript_id "rna-ACY190_002832-T1_mrna"; gene_id "gene-ACY190_002832"; gene_name "RFC5";
+CM180702.1	Genbank	CDS	1431476	1431574	.	-	0	transcript_id "rna-ACY190_002832-T1_mrna"; gene_id "gene-ACY190_002832"; gene_name "RFC5";
+CM180702.1	Genbank	CDS	1431643	1431811	.	-	1	transcript_id "rna-ACY190_002832-T1_mrna"; gene_id "gene-ACY190_002832"; gene_name "RFC5";
+CM180702.1	Genbank	CDS	1431885	1432507	.	-	0	transcript_id "rna-ACY190_002832-T1_mrna"; gene_id "gene-ACY190_002832"; gene_name "RFC5";
+CM180702.1	Genbank	CDS	1432572	1432690	.	-	2	transcript_id "rna-ACY190_002832-T1_mrna"; gene_id "gene-ACY190_002832"; gene_name "RFC5";
+CM180702.1	Genbank	CDS	1433464	1433905	.	-	0	transcript_id "rna-ACY190_002832-T1_mrna"; gene_id "gene-ACY190_002832"; gene_name "RFC5";
+CM180702.1	Genbank	CDS	1433969	1434038	.	-	1	transcript_id "rna-ACY190_002832-T1_mrna"; gene_id "gene-ACY190_002832"; gene_name "RFC5";
+CM180702.1	Genbank	CDS	1434147	1434214	.	-	0	transcript_id "rna-ACY190_002832-T1_mrna"; gene_id "gene-ACY190_002832"; gene_name "RFC5";
+CM180702.1	Genbank	transcript	1488907	1489913	.	-	.	transcript_id "rna-ACY190_002847-T1_mrna"; gene_id "gene-ACY190_002847"; gene_name "RRP45"
+CM180702.1	Genbank	exon	1488907	1489501	.	-	.	transcript_id "rna-ACY190_002847-T1_mrna"; gene_id "gene-ACY190_002847"; gene_name "RRP45";
+CM180702.1	Genbank	exon	1489561	1489680	.	-	.	transcript_id "rna-ACY190_002847-T1_mrna"; gene_id "gene-ACY190_002847"; gene_name "RRP45";
+CM180702.1	Genbank	exon	1489750	1489913	.	-	.	transcript_id "rna-ACY190_002847-T1_mrna"; gene_id "gene-ACY190_002847"; gene_name "RRP45";
+CM180702.1	Genbank	CDS	1488907	1489501	.	-	1	transcript_id "rna-ACY190_002847-T1_mrna"; gene_id "gene-ACY190_002847"; gene_name "RRP45";
+CM180702.1	Genbank	CDS	1489561	1489680	.	-	1	transcript_id "rna-ACY190_002847-T1_mrna"; gene_id "gene-ACY190_002847"; gene_name "RRP45";
+CM180702.1	Genbank	CDS	1489750	1489913	.	-	0	transcript_id "rna-ACY190_002847-T1_mrna"; gene_id "gene-ACY190_002847"; gene_name "RRP45";
+CM180702.1	Genbank	transcript	1490178	1491198	.	+	.	transcript_id "rna-ACY190_002848-T1_mrna"; gene_id "gene-ACY190_002848"; gene_name "CWC15"
+CM180702.1	Genbank	exon	1490178	1490187	.	+	.	transcript_id "rna-ACY190_002848-T1_mrna"; gene_id "gene-ACY190_002848"; gene_name "CWC15";
+CM180702.1	Genbank	exon	1490303	1490396	.	+	.	transcript_id "rna-ACY190_002848-T1_mrna"; gene_id "gene-ACY190_002848"; gene_name "CWC15";
+CM180702.1	Genbank	exon	1490446	1490733	.	+	.	transcript_id "rna-ACY190_002848-T1_mrna"; gene_id "gene-ACY190_002848"; gene_name "CWC15";
+CM180702.1	Genbank	exon	1490784	1491039	.	+	.	transcript_id "rna-ACY190_002848-T1_mrna"; gene_id "gene-ACY190_002848"; gene_name "CWC15";
+CM180702.1	Genbank	exon	1491091	1491126	.	+	.	transcript_id "rna-ACY190_002848-T1_mrna"; gene_id "gene-ACY190_002848"; gene_name "CWC15";
+CM180702.1	Genbank	exon	1491181	1491198	.	+	.	transcript_id "rna-ACY190_002848-T1_mrna"; gene_id "gene-ACY190_002848"; gene_name "CWC15";
+CM180702.1	Genbank	CDS	1490178	1490187	.	+	0	transcript_id "rna-ACY190_002848-T1_mrna"; gene_id "gene-ACY190_002848"; gene_name "CWC15";
+CM180702.1	Genbank	CDS	1490303	1490396	.	+	2	transcript_id "rna-ACY190_002848-T1_mrna"; gene_id "gene-ACY190_002848"; gene_name "CWC15";
+CM180702.1	Genbank	CDS	1490446	1490733	.	+	1	transcript_id "rna-ACY190_002848-T1_mrna"; gene_id "gene-ACY190_002848"; gene_name "CWC15";
+CM180702.1	Genbank	CDS	1490784	1491039	.	+	1	transcript_id "rna-ACY190_002848-T1_mrna"; gene_id "gene-ACY190_002848"; gene_name "CWC15";
+CM180702.1	Genbank	CDS	1491091	1491126	.	+	0	transcript_id "rna-ACY190_002848-T1_mrna"; gene_id "gene-ACY190_002848"; gene_name "CWC15";
+CM180702.1	Genbank	CDS	1491181	1491198	.	+	0	transcript_id "rna-ACY190_002848-T1_mrna"; gene_id "gene-ACY190_002848"; gene_name "CWC15";
+CM180702.1	Genbank	transcript	1525403	1528276	.	-	.	transcript_id "rna-ACY190_002862-T1_mrna"; gene_id "gene-ACY190_002862"; gene_name "CDC54"
+CM180702.1	Genbank	exon	1525403	1525984	.	-	.	transcript_id "rna-ACY190_002862-T1_mrna"; gene_id "gene-ACY190_002862"; gene_name "CDC54";
+CM180702.1	Genbank	exon	1526054	1527246	.	-	.	transcript_id "rna-ACY190_002862-T1_mrna"; gene_id "gene-ACY190_002862"; gene_name "CDC54";
+CM180702.1	Genbank	exon	1527297	1527368	.	-	.	transcript_id "rna-ACY190_002862-T1_mrna"; gene_id "gene-ACY190_002862"; gene_name "CDC54";
+CM180702.1	Genbank	exon	1527424	1528276	.	-	.	transcript_id "rna-ACY190_002862-T1_mrna"; gene_id "gene-ACY190_002862"; gene_name "CDC54";
+CM180702.1	Genbank	CDS	1525403	1525984	.	-	0	transcript_id "rna-ACY190_002862-T1_mrna"; gene_id "gene-ACY190_002862"; gene_name "CDC54";
+CM180702.1	Genbank	CDS	1526054	1527246	.	-	2	transcript_id "rna-ACY190_002862-T1_mrna"; gene_id "gene-ACY190_002862"; gene_name "CDC54";
+CM180702.1	Genbank	CDS	1527297	1527368	.	-	2	transcript_id "rna-ACY190_002862-T1_mrna"; gene_id "gene-ACY190_002862"; gene_name "CDC54";
+CM180702.1	Genbank	CDS	1527424	1528276	.	-	0	transcript_id "rna-ACY190_002862-T1_mrna"; gene_id "gene-ACY190_002862"; gene_name "CDC54";
+CM180702.1	Genbank	transcript	1592111	1594836	.	+	.	transcript_id "rna-ACY190_002886-T1_mrna"; gene_id "gene-ACY190_002886"; gene_name "MAK10"
+CM180702.1	Genbank	exon	1592111	1592177	.	+	.	transcript_id "rna-ACY190_002886-T1_mrna"; gene_id "gene-ACY190_002886"; gene_name "MAK10";
+CM180702.1	Genbank	exon	1592261	1592328	.	+	.	transcript_id "rna-ACY190_002886-T1_mrna"; gene_id "gene-ACY190_002886"; gene_name "MAK10";
+CM180702.1	Genbank	exon	1592397	1592537	.	+	.	transcript_id "rna-ACY190_002886-T1_mrna"; gene_id "gene-ACY190_002886"; gene_name "MAK10";
+CM180702.1	Genbank	exon	1592614	1592850	.	+	.	transcript_id "rna-ACY190_002886-T1_mrna"; gene_id "gene-ACY190_002886"; gene_name "MAK10";
+CM180702.1	Genbank	exon	1592903	1593361	.	+	.	transcript_id "rna-ACY190_002886-T1_mrna"; gene_id "gene-ACY190_002886"; gene_name "MAK10";
+CM180702.1	Genbank	exon	1593415	1593672	.	+	.	transcript_id "rna-ACY190_002886-T1_mrna"; gene_id "gene-ACY190_002886"; gene_name "MAK10";
+CM180702.1	Genbank	exon	1593745	1593843	.	+	.	transcript_id "rna-ACY190_002886-T1_mrna"; gene_id "gene-ACY190_002886"; gene_name "MAK10";
+CM180702.1	Genbank	exon	1593895	1594836	.	+	.	transcript_id "rna-ACY190_002886-T1_mrna"; gene_id "gene-ACY190_002886"; gene_name "MAK10";
+CM180702.1	Genbank	CDS	1592111	1592177	.	+	0	transcript_id "rna-ACY190_002886-T1_mrna"; gene_id "gene-ACY190_002886"; gene_name "MAK10";
+CM180702.1	Genbank	CDS	1592261	1592328	.	+	2	transcript_id "rna-ACY190_002886-T1_mrna"; gene_id "gene-ACY190_002886"; gene_name "MAK10";
+CM180702.1	Genbank	CDS	1592397	1592537	.	+	0	transcript_id "rna-ACY190_002886-T1_mrna"; gene_id "gene-ACY190_002886"; gene_name "MAK10";
+CM180702.1	Genbank	CDS	1592614	1592850	.	+	0	transcript_id "rna-ACY190_002886-T1_mrna"; gene_id "gene-ACY190_002886"; gene_name "MAK10";
+CM180702.1	Genbank	CDS	1592903	1593361	.	+	0	transcript_id "rna-ACY190_002886-T1_mrna"; gene_id "gene-ACY190_002886"; gene_name "MAK10";
+CM180702.1	Genbank	CDS	1593415	1593672	.	+	0	transcript_id "rna-ACY190_002886-T1_mrna"; gene_id "gene-ACY190_002886"; gene_name "MAK10";
+CM180702.1	Genbank	CDS	1593745	1593843	.	+	0	transcript_id "rna-ACY190_002886-T1_mrna"; gene_id "gene-ACY190_002886"; gene_name "MAK10";
+CM180702.1	Genbank	CDS	1593895	1594836	.	+	0	transcript_id "rna-ACY190_002886-T1_mrna"; gene_id "gene-ACY190_002886"; gene_name "MAK10";
+CM180702.1	Genbank	transcript	1809788	1811149	.	+	.	transcript_id "rna-ACY190_002956-T1_mrna"; gene_id "gene-ACY190_002956"
+CM180702.1	Genbank	exon	1809788	1809878	.	+	.	transcript_id "rna-ACY190_002956-T1_mrna"; gene_id "gene-ACY190_002956";
+CM180702.1	Genbank	exon	1809952	1809991	.	+	.	transcript_id "rna-ACY190_002956-T1_mrna"; gene_id "gene-ACY190_002956";
+CM180702.1	Genbank	exon	1810041	1810087	.	+	.	transcript_id "rna-ACY190_002956-T1_mrna"; gene_id "gene-ACY190_002956";
+CM180702.1	Genbank	exon	1810152	1810162	.	+	.	transcript_id "rna-ACY190_002956-T1_mrna"; gene_id "gene-ACY190_002956";
+CM180702.1	Genbank	exon	1810218	1810250	.	+	.	transcript_id "rna-ACY190_002956-T1_mrna"; gene_id "gene-ACY190_002956";
+CM180702.1	Genbank	exon	1810304	1811149	.	+	.	transcript_id "rna-ACY190_002956-T1_mrna"; gene_id "gene-ACY190_002956";
+CM180702.1	Genbank	CDS	1809788	1809878	.	+	0	transcript_id "rna-ACY190_002956-T1_mrna"; gene_id "gene-ACY190_002956";
+CM180702.1	Genbank	CDS	1809952	1809991	.	+	2	transcript_id "rna-ACY190_002956-T1_mrna"; gene_id "gene-ACY190_002956";
+CM180702.1	Genbank	CDS	1810041	1810087	.	+	1	transcript_id "rna-ACY190_002956-T1_mrna"; gene_id "gene-ACY190_002956";
+CM180702.1	Genbank	CDS	1810152	1810162	.	+	2	transcript_id "rna-ACY190_002956-T1_mrna"; gene_id "gene-ACY190_002956";
+CM180702.1	Genbank	CDS	1810218	1810250	.	+	0	transcript_id "rna-ACY190_002956-T1_mrna"; gene_id "gene-ACY190_002956";
+CM180702.1	Genbank	CDS	1810304	1811149	.	+	0	transcript_id "rna-ACY190_002956-T1_mrna"; gene_id "gene-ACY190_002956";
+CM180702.1	Genbank	transcript	1960475	1962457	.	-	.	transcript_id "rna-ACY190_003001-T1_mrna"; gene_id "gene-ACY190_003001"; gene_name "TFB1"
+CM180702.1	Genbank	exon	1960475	1962249	.	-	.	transcript_id "rna-ACY190_003001-T1_mrna"; gene_id "gene-ACY190_003001"; gene_name "TFB1";
+CM180702.1	Genbank	exon	1962316	1962457	.	-	.	transcript_id "rna-ACY190_003001-T1_mrna"; gene_id "gene-ACY190_003001"; gene_name "TFB1";
+CM180702.1	Genbank	CDS	1960475	1962249	.	-	2	transcript_id "rna-ACY190_003001-T1_mrna"; gene_id "gene-ACY190_003001"; gene_name "TFB1";
+CM180702.1	Genbank	CDS	1962316	1962457	.	-	0	transcript_id "rna-ACY190_003001-T1_mrna"; gene_id "gene-ACY190_003001"; gene_name "TFB1";
+CM180702.1	Genbank	transcript	1968975	1969737	.	+	.	transcript_id "rna-ACY190_003003-T1_mrna"; gene_id "gene-ACY190_003003"; gene_name "imp3"
+CM180702.1	Genbank	exon	1968975	1969035	.	+	.	transcript_id "rna-ACY190_003003-T1_mrna"; gene_id "gene-ACY190_003003"; gene_name "imp3";
+CM180702.1	Genbank	exon	1969142	1969470	.	+	.	transcript_id "rna-ACY190_003003-T1_mrna"; gene_id "gene-ACY190_003003"; gene_name "imp3";
+CM180702.1	Genbank	exon	1969564	1969737	.	+	.	transcript_id "rna-ACY190_003003-T1_mrna"; gene_id "gene-ACY190_003003"; gene_name "imp3";
+CM180702.1	Genbank	CDS	1968975	1969035	.	+	0	transcript_id "rna-ACY190_003003-T1_mrna"; gene_id "gene-ACY190_003003"; gene_name "imp3";
+CM180702.1	Genbank	CDS	1969142	1969470	.	+	2	transcript_id "rna-ACY190_003003-T1_mrna"; gene_id "gene-ACY190_003003"; gene_name "imp3";
+CM180702.1	Genbank	CDS	1969564	1969737	.	+	0	transcript_id "rna-ACY190_003003-T1_mrna"; gene_id "gene-ACY190_003003"; gene_name "imp3";
+CM180702.1	Genbank	transcript	2298589	2300748	.	+	.	transcript_id "rna-ACY190_003106-T1_mrna"; gene_id "gene-ACY190_003106"; gene_name "srp72"
+CM180702.1	Genbank	exon	2298589	2298915	.	+	.	transcript_id "rna-ACY190_003106-T1_mrna"; gene_id "gene-ACY190_003106"; gene_name "srp72";
+CM180702.1	Genbank	exon	2299006	2299270	.	+	.	transcript_id "rna-ACY190_003106-T1_mrna"; gene_id "gene-ACY190_003106"; gene_name "srp72";
+CM180702.1	Genbank	exon	2299325	2299469	.	+	.	transcript_id "rna-ACY190_003106-T1_mrna"; gene_id "gene-ACY190_003106"; gene_name "srp72";
+CM180702.1	Genbank	exon	2299515	2300748	.	+	.	transcript_id "rna-ACY190_003106-T1_mrna"; gene_id "gene-ACY190_003106"; gene_name "srp72";
+CM180702.1	Genbank	CDS	2298589	2298915	.	+	0	transcript_id "rna-ACY190_003106-T1_mrna"; gene_id "gene-ACY190_003106"; gene_name "srp72";
+CM180702.1	Genbank	CDS	2299006	2299270	.	+	0	transcript_id "rna-ACY190_003106-T1_mrna"; gene_id "gene-ACY190_003106"; gene_name "srp72";
+CM180702.1	Genbank	CDS	2299325	2299469	.	+	2	transcript_id "rna-ACY190_003106-T1_mrna"; gene_id "gene-ACY190_003106"; gene_name "srp72";
+CM180702.1	Genbank	CDS	2299515	2300748	.	+	1	transcript_id "rna-ACY190_003106-T1_mrna"; gene_id "gene-ACY190_003106"; gene_name "srp72";
+CM180702.1	Genbank	transcript	2340763	2342680	.	-	.	transcript_id "rna-ACY190_003118-T1_mrna"; gene_id "gene-ACY190_003118"; gene_name "RAM1"
+CM180702.1	Genbank	exon	2340763	2341042	.	-	.	transcript_id "rna-ACY190_003118-T1_mrna"; gene_id "gene-ACY190_003118"; gene_name "RAM1";
+CM180702.1	Genbank	exon	2341104	2341382	.	-	.	transcript_id "rna-ACY190_003118-T1_mrna"; gene_id "gene-ACY190_003118"; gene_name "RAM1";
+CM180702.1	Genbank	exon	2341444	2341561	.	-	.	transcript_id "rna-ACY190_003118-T1_mrna"; gene_id "gene-ACY190_003118"; gene_name "RAM1";
+CM180702.1	Genbank	exon	2341625	2341752	.	-	.	transcript_id "rna-ACY190_003118-T1_mrna"; gene_id "gene-ACY190_003118"; gene_name "RAM1";
+CM180702.1	Genbank	exon	2341808	2341882	.	-	.	transcript_id "rna-ACY190_003118-T1_mrna"; gene_id "gene-ACY190_003118"; gene_name "RAM1";
+CM180702.1	Genbank	exon	2341953	2342108	.	-	.	transcript_id "rna-ACY190_003118-T1_mrna"; gene_id "gene-ACY190_003118"; gene_name "RAM1";
+CM180702.1	Genbank	exon	2342187	2342680	.	-	.	transcript_id "rna-ACY190_003118-T1_mrna"; gene_id "gene-ACY190_003118"; gene_name "RAM1";
+CM180702.1	Genbank	CDS	2340763	2341042	.	-	1	transcript_id "rna-ACY190_003118-T1_mrna"; gene_id "gene-ACY190_003118"; gene_name "RAM1";
+CM180702.1	Genbank	CDS	2341104	2341382	.	-	1	transcript_id "rna-ACY190_003118-T1_mrna"; gene_id "gene-ACY190_003118"; gene_name "RAM1";
+CM180702.1	Genbank	CDS	2341444	2341561	.	-	2	transcript_id "rna-ACY190_003118-T1_mrna"; gene_id "gene-ACY190_003118"; gene_name "RAM1";
+CM180702.1	Genbank	CDS	2341625	2341752	.	-	1	transcript_id "rna-ACY190_003118-T1_mrna"; gene_id "gene-ACY190_003118"; gene_name "RAM1";
+CM180702.1	Genbank	CDS	2341808	2341882	.	-	1	transcript_id "rna-ACY190_003118-T1_mrna"; gene_id "gene-ACY190_003118"; gene_name "RAM1";
+CM180702.1	Genbank	CDS	2341953	2342108	.	-	1	transcript_id "rna-ACY190_003118-T1_mrna"; gene_id "gene-ACY190_003118"; gene_name "RAM1";
+CM180702.1	Genbank	CDS	2342187	2342680	.	-	0	transcript_id "rna-ACY190_003118-T1_mrna"; gene_id "gene-ACY190_003118"; gene_name "RAM1";
+CM180702.1	Genbank	transcript	3761154	3762398	.	-	.	transcript_id "rna-ACY190_003490-T1_mrna"; gene_id "gene-ACY190_003490"; gene_name "TSR3"
+CM180702.1	Genbank	exon	3761154	3761890	.	-	.	transcript_id "rna-ACY190_003490-T1_mrna"; gene_id "gene-ACY190_003490"; gene_name "TSR3";
+CM180702.1	Genbank	exon	3761969	3762105	.	-	.	transcript_id "rna-ACY190_003490-T1_mrna"; gene_id "gene-ACY190_003490"; gene_name "TSR3";
+CM180702.1	Genbank	exon	3762163	3762398	.	-	.	transcript_id "rna-ACY190_003490-T1_mrna"; gene_id "gene-ACY190_003490"; gene_name "TSR3";
+CM180702.1	Genbank	CDS	3761154	3761890	.	-	2	transcript_id "rna-ACY190_003490-T1_mrna"; gene_id "gene-ACY190_003490"; gene_name "TSR3";
+CM180702.1	Genbank	CDS	3761969	3762105	.	-	1	transcript_id "rna-ACY190_003490-T1_mrna"; gene_id "gene-ACY190_003490"; gene_name "TSR3";
+CM180702.1	Genbank	CDS	3762163	3762398	.	-	0	transcript_id "rna-ACY190_003490-T1_mrna"; gene_id "gene-ACY190_003490"; gene_name "TSR3";
+CM180702.1	Genbank	transcript	3873438	3875497	.	+	.	transcript_id "rna-ACY190_003529-T1_mrna"; gene_id "gene-ACY190_003529"; gene_name "PCM1"
+CM180702.1	Genbank	exon	3873438	3873530	.	+	.	transcript_id "rna-ACY190_003529-T1_mrna"; gene_id "gene-ACY190_003529"; gene_name "PCM1";
+CM180702.1	Genbank	exon	3873601	3873614	.	+	.	transcript_id "rna-ACY190_003529-T1_mrna"; gene_id "gene-ACY190_003529"; gene_name "PCM1";
+CM180702.1	Genbank	exon	3873787	3873874	.	+	.	transcript_id "rna-ACY190_003529-T1_mrna"; gene_id "gene-ACY190_003529"; gene_name "PCM1";
+CM180702.1	Genbank	exon	3873995	3874009	.	+	.	transcript_id "rna-ACY190_003529-T1_mrna"; gene_id "gene-ACY190_003529"; gene_name "PCM1";
+CM180702.1	Genbank	exon	3874070	3874576	.	+	.	transcript_id "rna-ACY190_003529-T1_mrna"; gene_id "gene-ACY190_003529"; gene_name "PCM1";
+CM180702.1	Genbank	exon	3874628	3875497	.	+	.	transcript_id "rna-ACY190_003529-T1_mrna"; gene_id "gene-ACY190_003529"; gene_name "PCM1";
+CM180702.1	Genbank	CDS	3873438	3873530	.	+	0	transcript_id "rna-ACY190_003529-T1_mrna"; gene_id "gene-ACY190_003529"; gene_name "PCM1";
+CM180702.1	Genbank	CDS	3873601	3873614	.	+	0	transcript_id "rna-ACY190_003529-T1_mrna"; gene_id "gene-ACY190_003529"; gene_name "PCM1";
+CM180702.1	Genbank	CDS	3873787	3873874	.	+	1	transcript_id "rna-ACY190_003529-T1_mrna"; gene_id "gene-ACY190_003529"; gene_name "PCM1";
+CM180702.1	Genbank	CDS	3873995	3874009	.	+	0	transcript_id "rna-ACY190_003529-T1_mrna"; gene_id "gene-ACY190_003529"; gene_name "PCM1";
+CM180702.1	Genbank	CDS	3874070	3874576	.	+	0	transcript_id "rna-ACY190_003529-T1_mrna"; gene_id "gene-ACY190_003529"; gene_name "PCM1";
+CM180702.1	Genbank	CDS	3874628	3875497	.	+	0	transcript_id "rna-ACY190_003529-T1_mrna"; gene_id "gene-ACY190_003529"; gene_name "PCM1";
+CM180702.1	Genbank	transcript	4103807	4106093	.	-	.	transcript_id "rna-ACY190_003602-T1_mrna"; gene_id "gene-ACY190_003602"; gene_name "FRS1"
+CM180702.1	Genbank	exon	4103807	4103970	.	-	.	transcript_id "rna-ACY190_003602-T1_mrna"; gene_id "gene-ACY190_003602"; gene_name "FRS1";
+CM180702.1	Genbank	exon	4104038	4104846	.	-	.	transcript_id "rna-ACY190_003602-T1_mrna"; gene_id "gene-ACY190_003602"; gene_name "FRS1";
+CM180702.1	Genbank	exon	4104909	4105150	.	-	.	transcript_id "rna-ACY190_003602-T1_mrna"; gene_id "gene-ACY190_003602"; gene_name "FRS1";
+CM180702.1	Genbank	exon	4105205	4105471	.	-	.	transcript_id "rna-ACY190_003602-T1_mrna"; gene_id "gene-ACY190_003602"; gene_name "FRS1";
+CM180702.1	Genbank	exon	4105534	4105657	.	-	.	transcript_id "rna-ACY190_003602-T1_mrna"; gene_id "gene-ACY190_003602"; gene_name "FRS1";
+CM180702.1	Genbank	exon	4105713	4105789	.	-	.	transcript_id "rna-ACY190_003602-T1_mrna"; gene_id "gene-ACY190_003602"; gene_name "FRS1";
+CM180702.1	Genbank	exon	4105850	4105869	.	-	.	transcript_id "rna-ACY190_003602-T1_mrna"; gene_id "gene-ACY190_003602"; gene_name "FRS1";
+CM180702.1	Genbank	exon	4105935	4105975	.	-	.	transcript_id "rna-ACY190_003602-T1_mrna"; gene_id "gene-ACY190_003602"; gene_name "FRS1";
+CM180702.1	Genbank	exon	4106041	4106093	.	-	.	transcript_id "rna-ACY190_003602-T1_mrna"; gene_id "gene-ACY190_003602"; gene_name "FRS1";
+CM180702.1	Genbank	CDS	4103807	4103970	.	-	2	transcript_id "rna-ACY190_003602-T1_mrna"; gene_id "gene-ACY190_003602"; gene_name "FRS1";
+CM180702.1	Genbank	CDS	4104038	4104846	.	-	1	transcript_id "rna-ACY190_003602-T1_mrna"; gene_id "gene-ACY190_003602"; gene_name "FRS1";
+CM180702.1	Genbank	CDS	4104909	4105150	.	-	0	transcript_id "rna-ACY190_003602-T1_mrna"; gene_id "gene-ACY190_003602"; gene_name "FRS1";
+CM180702.1	Genbank	CDS	4105205	4105471	.	-	0	transcript_id "rna-ACY190_003602-T1_mrna"; gene_id "gene-ACY190_003602"; gene_name "FRS1";
+CM180702.1	Genbank	CDS	4105534	4105657	.	-	1	transcript_id "rna-ACY190_003602-T1_mrna"; gene_id "gene-ACY190_003602"; gene_name "FRS1";
+CM180702.1	Genbank	CDS	4105713	4105789	.	-	0	transcript_id "rna-ACY190_003602-T1_mrna"; gene_id "gene-ACY190_003602"; gene_name "FRS1";
+CM180702.1	Genbank	CDS	4105850	4105869	.	-	2	transcript_id "rna-ACY190_003602-T1_mrna"; gene_id "gene-ACY190_003602"; gene_name "FRS1";
+CM180702.1	Genbank	CDS	4105935	4105975	.	-	1	transcript_id "rna-ACY190_003602-T1_mrna"; gene_id "gene-ACY190_003602"; gene_name "FRS1";
+CM180702.1	Genbank	CDS	4106041	4106093	.	-	0	transcript_id "rna-ACY190_003602-T1_mrna"; gene_id "gene-ACY190_003602"; gene_name "FRS1";
+CM180702.1	Genbank	transcript	4397428	4399400	.	+	.	transcript_id "rna-ACY190_003680-T1_mrna"; gene_id "gene-ACY190_003680"; gene_name "SRP68"
+CM180702.1	Genbank	exon	4397428	4397618	.	+	.	transcript_id "rna-ACY190_003680-T1_mrna"; gene_id "gene-ACY190_003680"; gene_name "SRP68";
+CM180702.1	Genbank	exon	4397689	4398828	.	+	.	transcript_id "rna-ACY190_003680-T1_mrna"; gene_id "gene-ACY190_003680"; gene_name "SRP68";
+CM180702.1	Genbank	exon	4398899	4399400	.	+	.	transcript_id "rna-ACY190_003680-T1_mrna"; gene_id "gene-ACY190_003680"; gene_name "SRP68";
+CM180702.1	Genbank	CDS	4397428	4397618	.	+	0	transcript_id "rna-ACY190_003680-T1_mrna"; gene_id "gene-ACY190_003680"; gene_name "SRP68";
+CM180702.1	Genbank	CDS	4397689	4398828	.	+	1	transcript_id "rna-ACY190_003680-T1_mrna"; gene_id "gene-ACY190_003680"; gene_name "SRP68";
+CM180702.1	Genbank	CDS	4398899	4399400	.	+	1	transcript_id "rna-ACY190_003680-T1_mrna"; gene_id "gene-ACY190_003680"; gene_name "SRP68";
+CM180703.1	Genbank	transcript	267849	269366	.	-	.	transcript_id "rna-ACY190_000988-T1_mrna"; gene_id "gene-ACY190_000988"; gene_name "UBA4"
+CM180703.1	Genbank	exon	267849	268827	.	-	.	transcript_id "rna-ACY190_000988-T1_mrna"; gene_id "gene-ACY190_000988"; gene_name "UBA4";
+CM180703.1	Genbank	exon	268886	269099	.	-	.	transcript_id "rna-ACY190_000988-T1_mrna"; gene_id "gene-ACY190_000988"; gene_name "UBA4";
+CM180703.1	Genbank	exon	269159	269366	.	-	.	transcript_id "rna-ACY190_000988-T1_mrna"; gene_id "gene-ACY190_000988"; gene_name "UBA4";
+CM180703.1	Genbank	CDS	267849	268827	.	-	1	transcript_id "rna-ACY190_000988-T1_mrna"; gene_id "gene-ACY190_000988"; gene_name "UBA4";
+CM180703.1	Genbank	CDS	268886	269099	.	-	2	transcript_id "rna-ACY190_000988-T1_mrna"; gene_id "gene-ACY190_000988"; gene_name "UBA4";
+CM180703.1	Genbank	CDS	269159	269366	.	-	0	transcript_id "rna-ACY190_000988-T1_mrna"; gene_id "gene-ACY190_000988"; gene_name "UBA4";
+CM180703.1	Genbank	transcript	332196	333688	.	+	.	transcript_id "rna-ACY190_001021-T1_mrna"; gene_id "gene-ACY190_001021"; gene_name "GCV1"
+CM180703.1	Genbank	exon	332196	332581	.	+	.	transcript_id "rna-ACY190_001021-T1_mrna"; gene_id "gene-ACY190_001021"; gene_name "GCV1";
+CM180703.1	Genbank	exon	332647	333688	.	+	.	transcript_id "rna-ACY190_001021-T1_mrna"; gene_id "gene-ACY190_001021"; gene_name "GCV1";
+CM180703.1	Genbank	CDS	332196	332581	.	+	0	transcript_id "rna-ACY190_001021-T1_mrna"; gene_id "gene-ACY190_001021"; gene_name "GCV1";
+CM180703.1	Genbank	CDS	332647	333688	.	+	1	transcript_id "rna-ACY190_001021-T1_mrna"; gene_id "gene-ACY190_001021"; gene_name "GCV1";
+CM180703.1	Genbank	transcript	612575	614205	.	+	.	transcript_id "rna-ACY190_001152-T1_mrna"; gene_id "gene-ACY190_001152"; gene_name "MAK11"
+CM180703.1	Genbank	exon	612575	613546	.	+	.	transcript_id "rna-ACY190_001152-T1_mrna"; gene_id "gene-ACY190_001152"; gene_name "MAK11";
+CM180703.1	Genbank	exon	613606	614205	.	+	.	transcript_id "rna-ACY190_001152-T1_mrna"; gene_id "gene-ACY190_001152"; gene_name "MAK11";
+CM180703.1	Genbank	CDS	612575	613546	.	+	0	transcript_id "rna-ACY190_001152-T1_mrna"; gene_id "gene-ACY190_001152"; gene_name "MAK11";
+CM180703.1	Genbank	CDS	613606	614205	.	+	0	transcript_id "rna-ACY190_001152-T1_mrna"; gene_id "gene-ACY190_001152"; gene_name "MAK11";
+CM180703.1	Genbank	transcript	713810	714744	.	-	.	transcript_id "rna-ACY190_001196-T1_mrna"; gene_id "gene-ACY190_001196"; gene_name "COQ4"
+CM180703.1	Genbank	exon	713810	714459	.	-	.	transcript_id "rna-ACY190_001196-T1_mrna"; gene_id "gene-ACY190_001196"; gene_name "COQ4";
+CM180703.1	Genbank	exon	714528	714744	.	-	.	transcript_id "rna-ACY190_001196-T1_mrna"; gene_id "gene-ACY190_001196"; gene_name "COQ4";
+CM180703.1	Genbank	CDS	713810	714459	.	-	2	transcript_id "rna-ACY190_001196-T1_mrna"; gene_id "gene-ACY190_001196"; gene_name "COQ4";
+CM180703.1	Genbank	CDS	714528	714744	.	-	0	transcript_id "rna-ACY190_001196-T1_mrna"; gene_id "gene-ACY190_001196"; gene_name "COQ4";
+CM180703.1	Genbank	transcript	778825	780010	.	-	.	transcript_id "rna-ACY190_001222-T1_mrna"; gene_id "gene-ACY190_001222"
+CM180703.1	Genbank	exon	778825	779783	.	-	.	transcript_id "rna-ACY190_001222-T1_mrna"; gene_id "gene-ACY190_001222";
+CM180703.1	Genbank	exon	779944	780010	.	-	.	transcript_id "rna-ACY190_001222-T1_mrna"; gene_id "gene-ACY190_001222";
+CM180703.1	Genbank	CDS	778825	779783	.	-	2	transcript_id "rna-ACY190_001222-T1_mrna"; gene_id "gene-ACY190_001222";
+CM180703.1	Genbank	CDS	779944	780010	.	-	0	transcript_id "rna-ACY190_001222-T1_mrna"; gene_id "gene-ACY190_001222";
+CM180703.1	Genbank	transcript	995406	996428	.	+	.	transcript_id "rna-ACY190_001299-T1_mrna"; gene_id "gene-ACY190_001299"; gene_name "CWC26"
+CM180703.1	Genbank	exon	995406	996428	.	+	.	transcript_id "rna-ACY190_001299-T1_mrna"; gene_id "gene-ACY190_001299"; gene_name "CWC26";
+CM180703.1	Genbank	CDS	995406	996428	.	+	0	transcript_id "rna-ACY190_001299-T1_mrna"; gene_id "gene-ACY190_001299"; gene_name "CWC26";
+CM180703.1	Genbank	transcript	1176279	1177209	.	-	.	transcript_id "rna-ACY190_001370-T1_mrna"; gene_id "gene-ACY190_001370"; gene_name "dot2"
+CM180703.1	Genbank	exon	1176279	1176591	.	-	.	transcript_id "rna-ACY190_001370-T1_mrna"; gene_id "gene-ACY190_001370"; gene_name "dot2";
+CM180703.1	Genbank	exon	1176734	1177209	.	-	.	transcript_id "rna-ACY190_001370-T1_mrna"; gene_id "gene-ACY190_001370"; gene_name "dot2";
+CM180703.1	Genbank	CDS	1176279	1176591	.	-	1	transcript_id "rna-ACY190_001370-T1_mrna"; gene_id "gene-ACY190_001370"; gene_name "dot2";
+CM180703.1	Genbank	CDS	1176734	1177209	.	-	0	transcript_id "rna-ACY190_001370-T1_mrna"; gene_id "gene-ACY190_001370"; gene_name "dot2";
+CM180703.1	Genbank	transcript	1657992	1658711	.	+	.	transcript_id "rna-ACY190_001530-T1_mrna"; gene_id "gene-ACY190_001530"; gene_name "SPT4"
+CM180703.1	Genbank	exon	1657992	1658243	.	+	.	transcript_id "rna-ACY190_001530-T1_mrna"; gene_id "gene-ACY190_001530"; gene_name "SPT4";
+CM180703.1	Genbank	exon	1658301	1658498	.	+	.	transcript_id "rna-ACY190_001530-T1_mrna"; gene_id "gene-ACY190_001530"; gene_name "SPT4";
+CM180703.1	Genbank	exon	1658556	1658608	.	+	.	transcript_id "rna-ACY190_001530-T1_mrna"; gene_id "gene-ACY190_001530"; gene_name "SPT4";
+CM180703.1	Genbank	exon	1658678	1658711	.	+	.	transcript_id "rna-ACY190_001530-T1_mrna"; gene_id "gene-ACY190_001530"; gene_name "SPT4";
+CM180703.1	Genbank	CDS	1657992	1658243	.	+	0	transcript_id "rna-ACY190_001530-T1_mrna"; gene_id "gene-ACY190_001530"; gene_name "SPT4";
+CM180703.1	Genbank	CDS	1658301	1658498	.	+	0	transcript_id "rna-ACY190_001530-T1_mrna"; gene_id "gene-ACY190_001530"; gene_name "SPT4";
+CM180703.1	Genbank	CDS	1658556	1658608	.	+	0	transcript_id "rna-ACY190_001530-T1_mrna"; gene_id "gene-ACY190_001530"; gene_name "SPT4";
+CM180703.1	Genbank	CDS	1658678	1658711	.	+	1	transcript_id "rna-ACY190_001530-T1_mrna"; gene_id "gene-ACY190_001530"; gene_name "SPT4";
+CM180703.1	Genbank	transcript	1964833	1966293	.	-	.	transcript_id "rna-ACY190_001630-T1_mrna"; gene_id "gene-ACY190_001630"; gene_name "FYV10"
+CM180703.1	Genbank	exon	1964833	1965264	.	-	.	transcript_id "rna-ACY190_001630-T1_mrna"; gene_id "gene-ACY190_001630"; gene_name "FYV10";
+CM180703.1	Genbank	exon	1965341	1965535	.	-	.	transcript_id "rna-ACY190_001630-T1_mrna"; gene_id "gene-ACY190_001630"; gene_name "FYV10";
+CM180703.1	Genbank	exon	1965635	1966174	.	-	.	transcript_id "rna-ACY190_001630-T1_mrna"; gene_id "gene-ACY190_001630"; gene_name "FYV10";
+CM180703.1	Genbank	exon	1966240	1966293	.	-	.	transcript_id "rna-ACY190_001630-T1_mrna"; gene_id "gene-ACY190_001630"; gene_name "FYV10";
+CM180703.1	Genbank	CDS	1964833	1965264	.	-	0	transcript_id "rna-ACY190_001630-T1_mrna"; gene_id "gene-ACY190_001630"; gene_name "FYV10";
+CM180703.1	Genbank	CDS	1965341	1965535	.	-	0	transcript_id "rna-ACY190_001630-T1_mrna"; gene_id "gene-ACY190_001630"; gene_name "FYV10";
+CM180703.1	Genbank	CDS	1965635	1966174	.	-	0	transcript_id "rna-ACY190_001630-T1_mrna"; gene_id "gene-ACY190_001630"; gene_name "FYV10";
+CM180703.1	Genbank	CDS	1966240	1966293	.	-	0	transcript_id "rna-ACY190_001630-T1_mrna"; gene_id "gene-ACY190_001630"; gene_name "FYV10";
+CM180703.1	Genbank	transcript	1992901	1993660	.	+	.	transcript_id "rna-ACY190_001638-T1_mrna"; gene_id "gene-ACY190_001638"; gene_name "FAP7"
+CM180703.1	Genbank	exon	1992901	1993083	.	+	.	transcript_id "rna-ACY190_001638-T1_mrna"; gene_id "gene-ACY190_001638"; gene_name "FAP7";
+CM180703.1	Genbank	exon	1993475	1993660	.	+	.	transcript_id "rna-ACY190_001638-T1_mrna"; gene_id "gene-ACY190_001638"; gene_name "FAP7";
+CM180703.1	Genbank	CDS	1992901	1993083	.	+	0	transcript_id "rna-ACY190_001638-T1_mrna"; gene_id "gene-ACY190_001638"; gene_name "FAP7";
+CM180703.1	Genbank	CDS	1993475	1993660	.	+	0	transcript_id "rna-ACY190_001638-T1_mrna"; gene_id "gene-ACY190_001638"; gene_name "FAP7";
+CM180703.1	Genbank	transcript	2230253	2233132	.	-	.	transcript_id "rna-ACY190_001653-T1_mrna"; gene_id "gene-ACY190_001653"; gene_name "cbc1"
+CM180703.1	Genbank	exon	2230253	2231127	.	-	.	transcript_id "rna-ACY190_001653-T1_mrna"; gene_id "gene-ACY190_001653"; gene_name "cbc1";
+CM180703.1	Genbank	exon	2231192	2231373	.	-	.	transcript_id "rna-ACY190_001653-T1_mrna"; gene_id "gene-ACY190_001653"; gene_name "cbc1";
+CM180703.1	Genbank	exon	2231434	2232329	.	-	.	transcript_id "rna-ACY190_001653-T1_mrna"; gene_id "gene-ACY190_001653"; gene_name "cbc1";
+CM180703.1	Genbank	exon	2232383	2232650	.	-	.	transcript_id "rna-ACY190_001653-T1_mrna"; gene_id "gene-ACY190_001653"; gene_name "cbc1";
+CM180703.1	Genbank	exon	2232712	2232818	.	-	.	transcript_id "rna-ACY190_001653-T1_mrna"; gene_id "gene-ACY190_001653"; gene_name "cbc1";
+CM180703.1	Genbank	exon	2232892	2232983	.	-	.	transcript_id "rna-ACY190_001653-T1_mrna"; gene_id "gene-ACY190_001653"; gene_name "cbc1";
+CM180703.1	Genbank	exon	2233072	2233132	.	-	.	transcript_id "rna-ACY190_001653-T1_mrna"; gene_id "gene-ACY190_001653"; gene_name "cbc1";
+CM180703.1	Genbank	CDS	2230253	2231127	.	-	2	transcript_id "rna-ACY190_001653-T1_mrna"; gene_id "gene-ACY190_001653"; gene_name "cbc1";
+CM180703.1	Genbank	CDS	2231192	2231373	.	-	1	transcript_id "rna-ACY190_001653-T1_mrna"; gene_id "gene-ACY190_001653"; gene_name "cbc1";
+CM180703.1	Genbank	CDS	2231434	2232329	.	-	0	transcript_id "rna-ACY190_001653-T1_mrna"; gene_id "gene-ACY190_001653"; gene_name "cbc1";
+CM180703.1	Genbank	CDS	2232383	2232650	.	-	1	transcript_id "rna-ACY190_001653-T1_mrna"; gene_id "gene-ACY190_001653"; gene_name "cbc1";
+CM180703.1	Genbank	CDS	2232712	2232818	.	-	0	transcript_id "rna-ACY190_001653-T1_mrna"; gene_id "gene-ACY190_001653"; gene_name "cbc1";
+CM180703.1	Genbank	CDS	2232892	2232983	.	-	2	transcript_id "rna-ACY190_001653-T1_mrna"; gene_id "gene-ACY190_001653"; gene_name "cbc1";
+CM180703.1	Genbank	CDS	2233072	2233132	.	-	0	transcript_id "rna-ACY190_001653-T1_mrna"; gene_id "gene-ACY190_001653"; gene_name "cbc1";
+CM180703.1	Genbank	transcript	2257996	2259257	.	+	.	transcript_id "rna-ACY190_001660-T1_mrna"; gene_id "gene-ACY190_001660"
+CM180703.1	Genbank	exon	2257996	2258039	.	+	.	transcript_id "rna-ACY190_001660-T1_mrna"; gene_id "gene-ACY190_001660";
+CM180703.1	Genbank	exon	2258129	2258385	.	+	.	transcript_id "rna-ACY190_001660-T1_mrna"; gene_id "gene-ACY190_001660";
+CM180703.1	Genbank	exon	2258482	2258634	.	+	.	transcript_id "rna-ACY190_001660-T1_mrna"; gene_id "gene-ACY190_001660";
+CM180703.1	Genbank	exon	2258692	2259257	.	+	.	transcript_id "rna-ACY190_001660-T1_mrna"; gene_id "gene-ACY190_001660";
+CM180703.1	Genbank	CDS	2257996	2258039	.	+	0	transcript_id "rna-ACY190_001660-T1_mrna"; gene_id "gene-ACY190_001660";
+CM180703.1	Genbank	CDS	2258129	2258385	.	+	1	transcript_id "rna-ACY190_001660-T1_mrna"; gene_id "gene-ACY190_001660";
+CM180703.1	Genbank	CDS	2258482	2258634	.	+	2	transcript_id "rna-ACY190_001660-T1_mrna"; gene_id "gene-ACY190_001660";
+CM180703.1	Genbank	CDS	2258692	2259257	.	+	2	transcript_id "rna-ACY190_001660-T1_mrna"; gene_id "gene-ACY190_001660";
+CM180703.1	Genbank	transcript	2314717	2315833	.	+	.	transcript_id "rna-ACY190_001678-T1_mrna"; gene_id "gene-ACY190_001678"; gene_name "MED6"
+CM180703.1	Genbank	exon	2314717	2314810	.	+	.	transcript_id "rna-ACY190_001678-T1_mrna"; gene_id "gene-ACY190_001678"; gene_name "MED6";
+CM180703.1	Genbank	exon	2314883	2315244	.	+	.	transcript_id "rna-ACY190_001678-T1_mrna"; gene_id "gene-ACY190_001678"; gene_name "MED6";
+CM180703.1	Genbank	exon	2315321	2315833	.	+	.	transcript_id "rna-ACY190_001678-T1_mrna"; gene_id "gene-ACY190_001678"; gene_name "MED6";
+CM180703.1	Genbank	CDS	2314717	2314810	.	+	0	transcript_id "rna-ACY190_001678-T1_mrna"; gene_id "gene-ACY190_001678"; gene_name "MED6";
+CM180703.1	Genbank	CDS	2314883	2315244	.	+	2	transcript_id "rna-ACY190_001678-T1_mrna"; gene_id "gene-ACY190_001678"; gene_name "MED6";
+CM180703.1	Genbank	CDS	2315321	2315833	.	+	0	transcript_id "rna-ACY190_001678-T1_mrna"; gene_id "gene-ACY190_001678"; gene_name "MED6";
+CM180703.1	Genbank	transcript	3111712	3112572	.	+	.	transcript_id "rna-ACY190_001944-T1_mrna"; gene_id "gene-ACY190_001944"; gene_name "RRP40"
+CM180703.1	Genbank	exon	3111712	3112572	.	+	.	transcript_id "rna-ACY190_001944-T1_mrna"; gene_id "gene-ACY190_001944"; gene_name "RRP40";
+CM180703.1	Genbank	CDS	3111712	3112572	.	+	0	transcript_id "rna-ACY190_001944-T1_mrna"; gene_id "gene-ACY190_001944"; gene_name "RRP40";
+CM180703.1	Genbank	transcript	3286717	3287987	.	+	.	transcript_id "rna-ACY190_002006-T1_mrna"; gene_id "gene-ACY190_002006"; gene_name "DOM34"
+CM180703.1	Genbank	exon	3286717	3287238	.	+	.	transcript_id "rna-ACY190_002006-T1_mrna"; gene_id "gene-ACY190_002006"; gene_name "DOM34";
+CM180703.1	Genbank	exon	3287340	3287987	.	+	.	transcript_id "rna-ACY190_002006-T1_mrna"; gene_id "gene-ACY190_002006"; gene_name "DOM34";
+CM180703.1	Genbank	CDS	3286717	3287238	.	+	0	transcript_id "rna-ACY190_002006-T1_mrna"; gene_id "gene-ACY190_002006"; gene_name "DOM34";
+CM180703.1	Genbank	CDS	3287340	3287987	.	+	0	transcript_id "rna-ACY190_002006-T1_mrna"; gene_id "gene-ACY190_002006"; gene_name "DOM34";
+CM180703.1	Genbank	transcript	3704634	3705524	.	-	.	transcript_id "rna-ACY190_002145-T1_mrna"; gene_id "gene-ACY190_002145"; gene_name "ISY1"
+CM180703.1	Genbank	exon	3704634	3705386	.	-	.	transcript_id "rna-ACY190_002145-T1_mrna"; gene_id "gene-ACY190_002145"; gene_name "ISY1";
+CM180703.1	Genbank	exon	3705522	3705524	.	-	.	transcript_id "rna-ACY190_002145-T1_mrna"; gene_id "gene-ACY190_002145"; gene_name "ISY1";
+CM180703.1	Genbank	CDS	3704634	3705386	.	-	0	transcript_id "rna-ACY190_002145-T1_mrna"; gene_id "gene-ACY190_002145"; gene_name "ISY1";
+CM180703.1	Genbank	CDS	3705522	3705524	.	-	0	transcript_id "rna-ACY190_002145-T1_mrna"; gene_id "gene-ACY190_002145"; gene_name "ISY1";
+CM180703.1	Genbank	transcript	3837776	3838507	.	-	.	transcript_id "rna-ACY190_002178-T1_mrna"; gene_id "gene-ACY190_002178"
+CM180703.1	Genbank	exon	3837776	3838507	.	-	.	transcript_id "rna-ACY190_002178-T1_mrna"; gene_id "gene-ACY190_002178";
+CM180703.1	Genbank	CDS	3837776	3838507	.	-	0	transcript_id "rna-ACY190_002178-T1_mrna"; gene_id "gene-ACY190_002178";
+CM180703.1	Genbank	transcript	3956143	3957720	.	-	.	transcript_id "rna-ACY190_002215-T1_mrna"; gene_id "gene-ACY190_002215"; gene_name "TRM61"
+CM180703.1	Genbank	exon	3956143	3957720	.	-	.	transcript_id "rna-ACY190_002215-T1_mrna"; gene_id "gene-ACY190_002215"; gene_name "TRM61";
+CM180703.1	Genbank	CDS	3956143	3957720	.	-	0	transcript_id "rna-ACY190_002215-T1_mrna"; gene_id "gene-ACY190_002215"; gene_name "TRM61";
+CM180703.1	Genbank	transcript	4151986	4153170	.	-	.	transcript_id "rna-ACY190_002280-T1_mrna"; gene_id "gene-ACY190_002280"; gene_name "ATG3"
+CM180703.1	Genbank	exon	4151986	4152535	.	-	.	transcript_id "rna-ACY190_002280-T1_mrna"; gene_id "gene-ACY190_002280"; gene_name "ATG3";
+CM180703.1	Genbank	exon	4152620	4153170	.	-	.	transcript_id "rna-ACY190_002280-T1_mrna"; gene_id "gene-ACY190_002280"; gene_name "ATG3";
+CM180703.1	Genbank	CDS	4151986	4152535	.	-	1	transcript_id "rna-ACY190_002280-T1_mrna"; gene_id "gene-ACY190_002280"; gene_name "ATG3";
+CM180703.1	Genbank	CDS	4152620	4153170	.	-	0	transcript_id "rna-ACY190_002280-T1_mrna"; gene_id "gene-ACY190_002280"; gene_name "ATG3";
+CM180704.1	Genbank	transcript	136956	137900	.	-	.	transcript_id "rna-ACY190_008121-T1_mrna"; gene_id "gene-ACY190_008121"
+CM180704.1	Genbank	exon	136956	137729	.	-	.	transcript_id "rna-ACY190_008121-T1_mrna"; gene_id "gene-ACY190_008121";
+CM180704.1	Genbank	exon	137805	137900	.	-	.	transcript_id "rna-ACY190_008121-T1_mrna"; gene_id "gene-ACY190_008121";
+CM180704.1	Genbank	CDS	136956	137729	.	-	0	transcript_id "rna-ACY190_008121-T1_mrna"; gene_id "gene-ACY190_008121";
+CM180704.1	Genbank	CDS	137805	137900	.	-	0	transcript_id "rna-ACY190_008121-T1_mrna"; gene_id "gene-ACY190_008121";
+CM180704.1	Genbank	transcript	550084	551369	.	-	.	transcript_id "rna-ACY190_008237-T1_mrna"; gene_id "gene-ACY190_008237"
+CM180704.1	Genbank	exon	550084	550663	.	-	.	transcript_id "rna-ACY190_008237-T1_mrna"; gene_id "gene-ACY190_008237";
+CM180704.1	Genbank	exon	550721	551190	.	-	.	transcript_id "rna-ACY190_008237-T1_mrna"; gene_id "gene-ACY190_008237";
+CM180704.1	Genbank	exon	551261	551300	.	-	.	transcript_id "rna-ACY190_008237-T1_mrna"; gene_id "gene-ACY190_008237";
+CM180704.1	Genbank	exon	551362	551369	.	-	.	transcript_id "rna-ACY190_008237-T1_mrna"; gene_id "gene-ACY190_008237";
+CM180704.1	Genbank	CDS	550084	550663	.	-	1	transcript_id "rna-ACY190_008237-T1_mrna"; gene_id "gene-ACY190_008237";
+CM180704.1	Genbank	CDS	550721	551190	.	-	0	transcript_id "rna-ACY190_008237-T1_mrna"; gene_id "gene-ACY190_008237";
+CM180704.1	Genbank	CDS	551261	551300	.	-	1	transcript_id "rna-ACY190_008237-T1_mrna"; gene_id "gene-ACY190_008237";
+CM180704.1	Genbank	CDS	551362	551369	.	-	0	transcript_id "rna-ACY190_008237-T1_mrna"; gene_id "gene-ACY190_008237";
+CM180704.1	Genbank	transcript	586803	587750	.	-	.	transcript_id "rna-ACY190_008253-T1_mrna"; gene_id "gene-ACY190_008253"; gene_name "TMA20"
+CM180704.1	Genbank	exon	586803	587193	.	-	.	transcript_id "rna-ACY190_008253-T1_mrna"; gene_id "gene-ACY190_008253"; gene_name "TMA20";
+CM180704.1	Genbank	exon	587300	587440	.	-	.	transcript_id "rna-ACY190_008253-T1_mrna"; gene_id "gene-ACY190_008253"; gene_name "TMA20";
+CM180704.1	Genbank	exon	587737	587750	.	-	.	transcript_id "rna-ACY190_008253-T1_mrna"; gene_id "gene-ACY190_008253"; gene_name "TMA20";
+CM180704.1	Genbank	CDS	586803	587193	.	-	1	transcript_id "rna-ACY190_008253-T1_mrna"; gene_id "gene-ACY190_008253"; gene_name "TMA20";
+CM180704.1	Genbank	CDS	587300	587440	.	-	1	transcript_id "rna-ACY190_008253-T1_mrna"; gene_id "gene-ACY190_008253"; gene_name "TMA20";
+CM180704.1	Genbank	CDS	587737	587750	.	-	0	transcript_id "rna-ACY190_008253-T1_mrna"; gene_id "gene-ACY190_008253"; gene_name "TMA20";
+CM180704.1	Genbank	transcript	590076	593651	.	-	.	transcript_id "rna-ACY190_008255-T1_mrna"; gene_id "gene-ACY190_008255"; gene_name "HIR1"
+CM180704.1	Genbank	exon	590076	590161	.	-	.	transcript_id "rna-ACY190_008255-T1_mrna"; gene_id "gene-ACY190_008255"; gene_name "HIR1";
+CM180704.1	Genbank	exon	590249	593053	.	-	.	transcript_id "rna-ACY190_008255-T1_mrna"; gene_id "gene-ACY190_008255"; gene_name "HIR1";
+CM180704.1	Genbank	exon	593140	593355	.	-	.	transcript_id "rna-ACY190_008255-T1_mrna"; gene_id "gene-ACY190_008255"; gene_name "HIR1";
+CM180704.1	Genbank	exon	593424	593498	.	-	.	transcript_id "rna-ACY190_008255-T1_mrna"; gene_id "gene-ACY190_008255"; gene_name "HIR1";
+CM180704.1	Genbank	exon	593615	593651	.	-	.	transcript_id "rna-ACY190_008255-T1_mrna"; gene_id "gene-ACY190_008255"; gene_name "HIR1";
+CM180704.1	Genbank	CDS	590076	590161	.	-	2	transcript_id "rna-ACY190_008255-T1_mrna"; gene_id "gene-ACY190_008255"; gene_name "HIR1";
+CM180704.1	Genbank	CDS	590249	593053	.	-	2	transcript_id "rna-ACY190_008255-T1_mrna"; gene_id "gene-ACY190_008255"; gene_name "HIR1";
+CM180704.1	Genbank	CDS	593140	593355	.	-	2	transcript_id "rna-ACY190_008255-T1_mrna"; gene_id "gene-ACY190_008255"; gene_name "HIR1";
+CM180704.1	Genbank	CDS	593424	593498	.	-	2	transcript_id "rna-ACY190_008255-T1_mrna"; gene_id "gene-ACY190_008255"; gene_name "HIR1";
+CM180704.1	Genbank	CDS	593615	593651	.	-	0	transcript_id "rna-ACY190_008255-T1_mrna"; gene_id "gene-ACY190_008255"; gene_name "HIR1";
+CM180704.1	Genbank	transcript	908975	909922	.	-	.	transcript_id "rna-ACY190_008351-T1_mrna"; gene_id "gene-ACY190_008351"; gene_name "GAR1_2"
+CM180704.1	Genbank	exon	908975	909195	.	-	.	transcript_id "rna-ACY190_008351-T1_mrna"; gene_id "gene-ACY190_008351"; gene_name "GAR1_2";
+CM180704.1	Genbank	exon	909252	909280	.	-	.	transcript_id "rna-ACY190_008351-T1_mrna"; gene_id "gene-ACY190_008351"; gene_name "GAR1_2";
+CM180704.1	Genbank	exon	909347	909492	.	-	.	transcript_id "rna-ACY190_008351-T1_mrna"; gene_id "gene-ACY190_008351"; gene_name "GAR1_2";
+CM180704.1	Genbank	exon	909554	909654	.	-	.	transcript_id "rna-ACY190_008351-T1_mrna"; gene_id "gene-ACY190_008351"; gene_name "GAR1_2";
+CM180704.1	Genbank	exon	909736	909786	.	-	.	transcript_id "rna-ACY190_008351-T1_mrna"; gene_id "gene-ACY190_008351"; gene_name "GAR1_2";
+CM180704.1	Genbank	exon	909865	909922	.	-	.	transcript_id "rna-ACY190_008351-T1_mrna"; gene_id "gene-ACY190_008351"; gene_name "GAR1_2";
+CM180704.1	Genbank	CDS	908975	909195	.	-	2	transcript_id "rna-ACY190_008351-T1_mrna"; gene_id "gene-ACY190_008351"; gene_name "GAR1_2";
+CM180704.1	Genbank	CDS	909252	909280	.	-	1	transcript_id "rna-ACY190_008351-T1_mrna"; gene_id "gene-ACY190_008351"; gene_name "GAR1_2";
+CM180704.1	Genbank	CDS	909347	909492	.	-	0	transcript_id "rna-ACY190_008351-T1_mrna"; gene_id "gene-ACY190_008351"; gene_name "GAR1_2";
+CM180704.1	Genbank	CDS	909554	909654	.	-	2	transcript_id "rna-ACY190_008351-T1_mrna"; gene_id "gene-ACY190_008351"; gene_name "GAR1_2";
+CM180704.1	Genbank	CDS	909736	909786	.	-	2	transcript_id "rna-ACY190_008351-T1_mrna"; gene_id "gene-ACY190_008351"; gene_name "GAR1_2";
+CM180704.1	Genbank	CDS	909865	909922	.	-	0	transcript_id "rna-ACY190_008351-T1_mrna"; gene_id "gene-ACY190_008351"; gene_name "GAR1_2";
+CM180704.1	Genbank	transcript	998662	1001033	.	+	.	transcript_id "rna-ACY190_008381-T1_mrna"; gene_id "gene-ACY190_008381"; gene_name "COG6"
+CM180704.1	Genbank	exon	998662	998967	.	+	.	transcript_id "rna-ACY190_008381-T1_mrna"; gene_id "gene-ACY190_008381"; gene_name "COG6";
+CM180704.1	Genbank	exon	999048	1001033	.	+	.	transcript_id "rna-ACY190_008381-T1_mrna"; gene_id "gene-ACY190_008381"; gene_name "COG6";
+CM180704.1	Genbank	CDS	998662	998967	.	+	0	transcript_id "rna-ACY190_008381-T1_mrna"; gene_id "gene-ACY190_008381"; gene_name "COG6";
+CM180704.1	Genbank	CDS	999048	1001033	.	+	0	transcript_id "rna-ACY190_008381-T1_mrna"; gene_id "gene-ACY190_008381"; gene_name "COG6";
+CM180704.1	Genbank	transcript	1655326	1656362	.	+	.	transcript_id "rna-ACY190_008609-T1_mrna"; gene_id "gene-ACY190_008609"; gene_name "RPN10"
+CM180704.1	Genbank	exon	1655326	1655450	.	+	.	transcript_id "rna-ACY190_008609-T1_mrna"; gene_id "gene-ACY190_008609"; gene_name "RPN10";
+CM180704.1	Genbank	exon	1655507	1655726	.	+	.	transcript_id "rna-ACY190_008609-T1_mrna"; gene_id "gene-ACY190_008609"; gene_name "RPN10";
+CM180704.1	Genbank	exon	1655805	1656362	.	+	.	transcript_id "rna-ACY190_008609-T1_mrna"; gene_id "gene-ACY190_008609"; gene_name "RPN10";
+CM180704.1	Genbank	CDS	1655326	1655450	.	+	0	transcript_id "rna-ACY190_008609-T1_mrna"; gene_id "gene-ACY190_008609"; gene_name "RPN10";
+CM180704.1	Genbank	CDS	1655507	1655726	.	+	1	transcript_id "rna-ACY190_008609-T1_mrna"; gene_id "gene-ACY190_008609"; gene_name "RPN10";
+CM180704.1	Genbank	CDS	1655805	1656362	.	+	0	transcript_id "rna-ACY190_008609-T1_mrna"; gene_id "gene-ACY190_008609"; gene_name "RPN10";
+CM180704.1	Genbank	transcript	1860307	1861548	.	-	.	transcript_id "rna-ACY190_008671-T1_mrna"; gene_id "gene-ACY190_008671"
+CM180704.1	Genbank	exon	1860307	1861548	.	-	.	transcript_id "rna-ACY190_008671-T1_mrna"; gene_id "gene-ACY190_008671";
+CM180704.1	Genbank	CDS	1860307	1861548	.	-	0	transcript_id "rna-ACY190_008671-T1_mrna"; gene_id "gene-ACY190_008671";
+CM180704.1	Genbank	transcript	1935455	1938257	.	-	.	transcript_id "rna-ACY190_008698-T1_mrna"; gene_id "gene-ACY190_008698"; gene_name "NOP14"
+CM180704.1	Genbank	exon	1935455	1937902	.	-	.	transcript_id "rna-ACY190_008698-T1_mrna"; gene_id "gene-ACY190_008698"; gene_name "NOP14";
+CM180704.1	Genbank	exon	1937967	1938257	.	-	.	transcript_id "rna-ACY190_008698-T1_mrna"; gene_id "gene-ACY190_008698"; gene_name "NOP14";
+CM180704.1	Genbank	CDS	1935455	1937902	.	-	0	transcript_id "rna-ACY190_008698-T1_mrna"; gene_id "gene-ACY190_008698"; gene_name "NOP14";
+CM180704.1	Genbank	CDS	1937967	1938257	.	-	0	transcript_id "rna-ACY190_008698-T1_mrna"; gene_id "gene-ACY190_008698"; gene_name "NOP14";
+CM180704.1	Genbank	transcript	1980542	1981479	.	-	.	transcript_id "rna-ACY190_008711-T1_mrna"; gene_id "gene-ACY190_008711"; gene_name "rpc25"
+CM180704.1	Genbank	exon	1980542	1980586	.	-	.	transcript_id "rna-ACY190_008711-T1_mrna"; gene_id "gene-ACY190_008711"; gene_name "rpc25";
+CM180704.1	Genbank	exon	1980654	1980831	.	-	.	transcript_id "rna-ACY190_008711-T1_mrna"; gene_id "gene-ACY190_008711"; gene_name "rpc25";
+CM180704.1	Genbank	exon	1980884	1980947	.	-	.	transcript_id "rna-ACY190_008711-T1_mrna"; gene_id "gene-ACY190_008711"; gene_name "rpc25";
+CM180704.1	Genbank	exon	1981009	1981095	.	-	.	transcript_id "rna-ACY190_008711-T1_mrna"; gene_id "gene-ACY190_008711"; gene_name "rpc25";
+CM180704.1	Genbank	exon	1981151	1981247	.	-	.	transcript_id "rna-ACY190_008711-T1_mrna"; gene_id "gene-ACY190_008711"; gene_name "rpc25";
+CM180704.1	Genbank	exon	1981308	1981406	.	-	.	transcript_id "rna-ACY190_008711-T1_mrna"; gene_id "gene-ACY190_008711"; gene_name "rpc25";
+CM180704.1	Genbank	exon	1981468	1981479	.	-	.	transcript_id "rna-ACY190_008711-T1_mrna"; gene_id "gene-ACY190_008711"; gene_name "rpc25";
+CM180704.1	Genbank	CDS	1980542	1980586	.	-	0	transcript_id "rna-ACY190_008711-T1_mrna"; gene_id "gene-ACY190_008711"; gene_name "rpc25";
+CM180704.1	Genbank	CDS	1980654	1980831	.	-	1	transcript_id "rna-ACY190_008711-T1_mrna"; gene_id "gene-ACY190_008711"; gene_name "rpc25";
+CM180704.1	Genbank	CDS	1980884	1980947	.	-	2	transcript_id "rna-ACY190_008711-T1_mrna"; gene_id "gene-ACY190_008711"; gene_name "rpc25";
+CM180704.1	Genbank	CDS	1981009	1981095	.	-	2	transcript_id "rna-ACY190_008711-T1_mrna"; gene_id "gene-ACY190_008711"; gene_name "rpc25";
+CM180704.1	Genbank	CDS	1981151	1981247	.	-	0	transcript_id "rna-ACY190_008711-T1_mrna"; gene_id "gene-ACY190_008711"; gene_name "rpc25";
+CM180704.1	Genbank	CDS	1981308	1981406	.	-	0	transcript_id "rna-ACY190_008711-T1_mrna"; gene_id "gene-ACY190_008711"; gene_name "rpc25";
+CM180704.1	Genbank	CDS	1981468	1981479	.	-	0	transcript_id "rna-ACY190_008711-T1_mrna"; gene_id "gene-ACY190_008711"; gene_name "rpc25";
+CM180704.1	Genbank	transcript	2057698	2059454	.	+	.	transcript_id "rna-ACY190_008735-T1_mrna"; gene_id "gene-ACY190_008735"
+CM180704.1	Genbank	exon	2057698	2057739	.	+	.	transcript_id "rna-ACY190_008735-T1_mrna"; gene_id "gene-ACY190_008735";
+CM180704.1	Genbank	exon	2057843	2057876	.	+	.	transcript_id "rna-ACY190_008735-T1_mrna"; gene_id "gene-ACY190_008735";
+CM180704.1	Genbank	exon	2057941	2059454	.	+	.	transcript_id "rna-ACY190_008735-T1_mrna"; gene_id "gene-ACY190_008735";
+CM180704.1	Genbank	CDS	2057698	2057739	.	+	0	transcript_id "rna-ACY190_008735-T1_mrna"; gene_id "gene-ACY190_008735";
+CM180704.1	Genbank	CDS	2057843	2057876	.	+	0	transcript_id "rna-ACY190_008735-T1_mrna"; gene_id "gene-ACY190_008735";
+CM180704.1	Genbank	CDS	2057941	2059454	.	+	2	transcript_id "rna-ACY190_008735-T1_mrna"; gene_id "gene-ACY190_008735";
+CM180704.1	Genbank	transcript	2074463	2075674	.	-	.	transcript_id "rna-ACY190_008739-T1_mrna"; gene_id "gene-ACY190_008739"
+CM180704.1	Genbank	exon	2074463	2075674	.	-	.	transcript_id "rna-ACY190_008739-T1_mrna"; gene_id "gene-ACY190_008739";
+CM180704.1	Genbank	CDS	2074463	2075674	.	-	0	transcript_id "rna-ACY190_008739-T1_mrna"; gene_id "gene-ACY190_008739";
+CM180704.1	Genbank	transcript	2126722	2127750	.	+	.	transcript_id "rna-ACY190_008759-T1_mrna"; gene_id "gene-ACY190_008759"; gene_name "RPP1"
+CM180704.1	Genbank	exon	2126722	2126797	.	+	.	transcript_id "rna-ACY190_008759-T1_mrna"; gene_id "gene-ACY190_008759"; gene_name "RPP1";
+CM180704.1	Genbank	exon	2126882	2127750	.	+	.	transcript_id "rna-ACY190_008759-T1_mrna"; gene_id "gene-ACY190_008759"; gene_name "RPP1";
+CM180704.1	Genbank	CDS	2126722	2126797	.	+	0	transcript_id "rna-ACY190_008759-T1_mrna"; gene_id "gene-ACY190_008759"; gene_name "RPP1";
+CM180704.1	Genbank	CDS	2126882	2127750	.	+	2	transcript_id "rna-ACY190_008759-T1_mrna"; gene_id "gene-ACY190_008759"; gene_name "RPP1";
+CM180704.1	Genbank	transcript	2505338	2508084	.	+	.	transcript_id "rna-ACY190_008824-T1_mrna"; gene_id "gene-ACY190_008824"; gene_name "SEC10"
+CM180704.1	Genbank	exon	2505338	2507312	.	+	.	transcript_id "rna-ACY190_008824-T1_mrna"; gene_id "gene-ACY190_008824"; gene_name "SEC10";
+CM180704.1	Genbank	exon	2507609	2508084	.	+	.	transcript_id "rna-ACY190_008824-T1_mrna"; gene_id "gene-ACY190_008824"; gene_name "SEC10";
+CM180704.1	Genbank	CDS	2505338	2507312	.	+	0	transcript_id "rna-ACY190_008824-T1_mrna"; gene_id "gene-ACY190_008824"; gene_name "SEC10";
+CM180704.1	Genbank	CDS	2507609	2508084	.	+	2	transcript_id "rna-ACY190_008824-T1_mrna"; gene_id "gene-ACY190_008824"; gene_name "SEC10";
+CM180704.1	Genbank	transcript	2522739	2523573	.	-	.	transcript_id "rna-ACY190_008830-T1_mrna"; gene_id "gene-ACY190_008830"; gene_name "TMA22"
+CM180704.1	Genbank	exon	2522739	2523154	.	-	.	transcript_id "rna-ACY190_008830-T1_mrna"; gene_id "gene-ACY190_008830"; gene_name "TMA22";
+CM180704.1	Genbank	exon	2523220	2523307	.	-	.	transcript_id "rna-ACY190_008830-T1_mrna"; gene_id "gene-ACY190_008830"; gene_name "TMA22";
+CM180704.1	Genbank	exon	2523381	2523400	.	-	.	transcript_id "rna-ACY190_008830-T1_mrna"; gene_id "gene-ACY190_008830"; gene_name "TMA22";
+CM180704.1	Genbank	exon	2523510	2523573	.	-	.	transcript_id "rna-ACY190_008830-T1_mrna"; gene_id "gene-ACY190_008830"; gene_name "TMA22";
+CM180704.1	Genbank	CDS	2522739	2523154	.	-	2	transcript_id "rna-ACY190_008830-T1_mrna"; gene_id "gene-ACY190_008830"; gene_name "TMA22";
+CM180704.1	Genbank	CDS	2523220	2523307	.	-	0	transcript_id "rna-ACY190_008830-T1_mrna"; gene_id "gene-ACY190_008830"; gene_name "TMA22";
+CM180704.1	Genbank	CDS	2523381	2523400	.	-	2	transcript_id "rna-ACY190_008830-T1_mrna"; gene_id "gene-ACY190_008830"; gene_name "TMA22";
+CM180704.1	Genbank	CDS	2523510	2523573	.	-	0	transcript_id "rna-ACY190_008830-T1_mrna"; gene_id "gene-ACY190_008830"; gene_name "TMA22";
+CM180704.1	Genbank	transcript	2809554	2810809	.	+	.	transcript_id "rna-ACY190_008935-T1_mrna"; gene_id "gene-ACY190_008935"; gene_name "TMA46"
+CM180704.1	Genbank	exon	2809554	2809613	.	+	.	transcript_id "rna-ACY190_008935-T1_mrna"; gene_id "gene-ACY190_008935"; gene_name "TMA46";
+CM180704.1	Genbank	exon	2809689	2809706	.	+	.	transcript_id "rna-ACY190_008935-T1_mrna"; gene_id "gene-ACY190_008935"; gene_name "TMA46";
+CM180704.1	Genbank	exon	2809792	2810342	.	+	.	transcript_id "rna-ACY190_008935-T1_mrna"; gene_id "gene-ACY190_008935"; gene_name "TMA46";
+CM180704.1	Genbank	exon	2810395	2810809	.	+	.	transcript_id "rna-ACY190_008935-T1_mrna"; gene_id "gene-ACY190_008935"; gene_name "TMA46";
+CM180704.1	Genbank	CDS	2809554	2809613	.	+	0	transcript_id "rna-ACY190_008935-T1_mrna"; gene_id "gene-ACY190_008935"; gene_name "TMA46";
+CM180704.1	Genbank	CDS	2809689	2809706	.	+	0	transcript_id "rna-ACY190_008935-T1_mrna"; gene_id "gene-ACY190_008935"; gene_name "TMA46";
+CM180704.1	Genbank	CDS	2809792	2810342	.	+	0	transcript_id "rna-ACY190_008935-T1_mrna"; gene_id "gene-ACY190_008935"; gene_name "TMA46";
+CM180704.1	Genbank	CDS	2810395	2810809	.	+	1	transcript_id "rna-ACY190_008935-T1_mrna"; gene_id "gene-ACY190_008935"; gene_name "TMA46";
+CM180705.1	Genbank	transcript	545841	547437	.	-	.	transcript_id "rna-ACY190_004885-T1_mrna"; gene_id "gene-ACY190_004885"; gene_name "ENP1"
+CM180705.1	Genbank	exon	545841	546705	.	-	.	transcript_id "rna-ACY190_004885-T1_mrna"; gene_id "gene-ACY190_004885"; gene_name "ENP1";
+CM180705.1	Genbank	exon	546757	547007	.	-	.	transcript_id "rna-ACY190_004885-T1_mrna"; gene_id "gene-ACY190_004885"; gene_name "ENP1";
+CM180705.1	Genbank	exon	547063	547437	.	-	.	transcript_id "rna-ACY190_004885-T1_mrna"; gene_id "gene-ACY190_004885"; gene_name "ENP1";
+CM180705.1	Genbank	CDS	545841	546705	.	-	1	transcript_id "rna-ACY190_004885-T1_mrna"; gene_id "gene-ACY190_004885"; gene_name "ENP1";
+CM180705.1	Genbank	CDS	546757	547007	.	-	0	transcript_id "rna-ACY190_004885-T1_mrna"; gene_id "gene-ACY190_004885"; gene_name "ENP1";
+CM180705.1	Genbank	CDS	547063	547437	.	-	0	transcript_id "rna-ACY190_004885-T1_mrna"; gene_id "gene-ACY190_004885"; gene_name "ENP1";
+CM180705.1	Genbank	transcript	1006910	1008197	.	-	.	transcript_id "rna-ACY190_004958-T1_mrna"; gene_id "gene-ACY190_004958"
+CM180705.1	Genbank	exon	1006910	1008072	.	-	.	transcript_id "rna-ACY190_004958-T1_mrna"; gene_id "gene-ACY190_004958";
+CM180705.1	Genbank	exon	1008155	1008197	.	-	.	transcript_id "rna-ACY190_004958-T1_mrna"; gene_id "gene-ACY190_004958";
+CM180705.1	Genbank	CDS	1006910	1008072	.	-	2	transcript_id "rna-ACY190_004958-T1_mrna"; gene_id "gene-ACY190_004958";
+CM180705.1	Genbank	CDS	1008155	1008197	.	-	0	transcript_id "rna-ACY190_004958-T1_mrna"; gene_id "gene-ACY190_004958";
+CM180705.1	Genbank	transcript	1021569	1022357	.	+	.	transcript_id "rna-ACY190_004964-T1_mrna"; gene_id "gene-ACY190_004964"; gene_name "sap62"
+CM180705.1	Genbank	exon	1021569	1021580	.	+	.	transcript_id "rna-ACY190_004964-T1_mrna"; gene_id "gene-ACY190_004964"; gene_name "sap62";
+CM180705.1	Genbank	exon	1021653	1022357	.	+	.	transcript_id "rna-ACY190_004964-T1_mrna"; gene_id "gene-ACY190_004964"; gene_name "sap62";
+CM180705.1	Genbank	CDS	1021569	1021580	.	+	0	transcript_id "rna-ACY190_004964-T1_mrna"; gene_id "gene-ACY190_004964"; gene_name "sap62";
+CM180705.1	Genbank	CDS	1021653	1022357	.	+	0	transcript_id "rna-ACY190_004964-T1_mrna"; gene_id "gene-ACY190_004964"; gene_name "sap62";
+CM180705.1	Genbank	transcript	1064537	1065326	.	-	.	transcript_id "rna-ACY190_004984-T1_mrna"; gene_id "gene-ACY190_004984"; gene_name "GIR2"
+CM180705.1	Genbank	exon	1064537	1065132	.	-	.	transcript_id "rna-ACY190_004984-T1_mrna"; gene_id "gene-ACY190_004984"; gene_name "GIR2";
+CM180705.1	Genbank	exon	1065260	1065326	.	-	.	transcript_id "rna-ACY190_004984-T1_mrna"; gene_id "gene-ACY190_004984"; gene_name "GIR2";
+CM180705.1	Genbank	CDS	1064537	1065132	.	-	2	transcript_id "rna-ACY190_004984-T1_mrna"; gene_id "gene-ACY190_004984"; gene_name "GIR2";
+CM180705.1	Genbank	CDS	1065260	1065326	.	-	0	transcript_id "rna-ACY190_004984-T1_mrna"; gene_id "gene-ACY190_004984"; gene_name "GIR2";
+CM180705.1	Genbank	transcript	1151576	1152394	.	+	.	transcript_id "rna-ACY190_005013-T1_mrna"; gene_id "gene-ACY190_005013"; gene_name "PSF1"
+CM180705.1	Genbank	exon	1151576	1151602	.	+	.	transcript_id "rna-ACY190_005013-T1_mrna"; gene_id "gene-ACY190_005013"; gene_name "PSF1";
+CM180705.1	Genbank	exon	1151676	1152199	.	+	.	transcript_id "rna-ACY190_005013-T1_mrna"; gene_id "gene-ACY190_005013"; gene_name "PSF1";
+CM180705.1	Genbank	exon	1152301	1152394	.	+	.	transcript_id "rna-ACY190_005013-T1_mrna"; gene_id "gene-ACY190_005013"; gene_name "PSF1";
+CM180705.1	Genbank	CDS	1151576	1151602	.	+	0	transcript_id "rna-ACY190_005013-T1_mrna"; gene_id "gene-ACY190_005013"; gene_name "PSF1";
+CM180705.1	Genbank	CDS	1151676	1152199	.	+	0	transcript_id "rna-ACY190_005013-T1_mrna"; gene_id "gene-ACY190_005013"; gene_name "PSF1";
+CM180705.1	Genbank	CDS	1152301	1152394	.	+	1	transcript_id "rna-ACY190_005013-T1_mrna"; gene_id "gene-ACY190_005013"; gene_name "PSF1";
+CM180705.1	Genbank	transcript	1169210	1170244	.	-	.	transcript_id "rna-ACY190_005017-T1_mrna"; gene_id "gene-ACY190_005017"
+CM180705.1	Genbank	exon	1169210	1170244	.	-	.	transcript_id "rna-ACY190_005017-T1_mrna"; gene_id "gene-ACY190_005017";
+CM180705.1	Genbank	CDS	1169210	1170244	.	-	0	transcript_id "rna-ACY190_005017-T1_mrna"; gene_id "gene-ACY190_005017";
+CM180705.1	Genbank	transcript	1426420	1427242	.	+	.	transcript_id "rna-ACY190_005105-T1_mrna"; gene_id "gene-ACY190_005105"; gene_name "NOP16"
+CM180705.1	Genbank	exon	1426420	1426550	.	+	.	transcript_id "rna-ACY190_005105-T1_mrna"; gene_id "gene-ACY190_005105"; gene_name "NOP16";
+CM180705.1	Genbank	exon	1426639	1427242	.	+	.	transcript_id "rna-ACY190_005105-T1_mrna"; gene_id "gene-ACY190_005105"; gene_name "NOP16";
+CM180705.1	Genbank	CDS	1426420	1426550	.	+	0	transcript_id "rna-ACY190_005105-T1_mrna"; gene_id "gene-ACY190_005105"; gene_name "NOP16";
+CM180705.1	Genbank	CDS	1426639	1427242	.	+	1	transcript_id "rna-ACY190_005105-T1_mrna"; gene_id "gene-ACY190_005105"; gene_name "NOP16";
+CM180705.1	Genbank	transcript	1597064	1598283	.	+	.	transcript_id "rna-ACY190_005158-T1_mrna"; gene_id "gene-ACY190_005158"; gene_name "ETF1"
+CM180705.1	Genbank	exon	1597064	1597369	.	+	.	transcript_id "rna-ACY190_005158-T1_mrna"; gene_id "gene-ACY190_005158"; gene_name "ETF1";
+CM180705.1	Genbank	exon	1597461	1597629	.	+	.	transcript_id "rna-ACY190_005158-T1_mrna"; gene_id "gene-ACY190_005158"; gene_name "ETF1";
+CM180705.1	Genbank	exon	1597703	1598283	.	+	.	transcript_id "rna-ACY190_005158-T1_mrna"; gene_id "gene-ACY190_005158"; gene_name "ETF1";
+CM180705.1	Genbank	CDS	1597064	1597369	.	+	0	transcript_id "rna-ACY190_005158-T1_mrna"; gene_id "gene-ACY190_005158"; gene_name "ETF1";
+CM180705.1	Genbank	CDS	1597461	1597629	.	+	0	transcript_id "rna-ACY190_005158-T1_mrna"; gene_id "gene-ACY190_005158"; gene_name "ETF1";
+CM180705.1	Genbank	CDS	1597703	1598283	.	+	2	transcript_id "rna-ACY190_005158-T1_mrna"; gene_id "gene-ACY190_005158"; gene_name "ETF1";
+CM180705.1	Genbank	transcript	1598979	1602328	.	+	.	transcript_id "rna-ACY190_005159-T1_mrna"; gene_id "gene-ACY190_005159"; gene_name "ctf18"
+CM180705.1	Genbank	exon	1598979	1599228	.	+	.	transcript_id "rna-ACY190_005159-T1_mrna"; gene_id "gene-ACY190_005159"; gene_name "ctf18";
+CM180705.1	Genbank	exon	1599307	1601806	.	+	.	transcript_id "rna-ACY190_005159-T1_mrna"; gene_id "gene-ACY190_005159"; gene_name "ctf18";
+CM180705.1	Genbank	exon	1601878	1602328	.	+	.	transcript_id "rna-ACY190_005159-T1_mrna"; gene_id "gene-ACY190_005159"; gene_name "ctf18";
+CM180705.1	Genbank	CDS	1598979	1599228	.	+	0	transcript_id "rna-ACY190_005159-T1_mrna"; gene_id "gene-ACY190_005159"; gene_name "ctf18";
+CM180705.1	Genbank	CDS	1599307	1601806	.	+	2	transcript_id "rna-ACY190_005159-T1_mrna"; gene_id "gene-ACY190_005159"; gene_name "ctf18";
+CM180705.1	Genbank	CDS	1601878	1602328	.	+	1	transcript_id "rna-ACY190_005159-T1_mrna"; gene_id "gene-ACY190_005159"; gene_name "ctf18";
+CM180705.1	Genbank	transcript	2203961	2204735	.	-	.	transcript_id "rna-ACY190_005311-T1_mrna"; gene_id "gene-ACY190_005311"; gene_name "naa20"
+CM180705.1	Genbank	exon	2203961	2204132	.	-	.	transcript_id "rna-ACY190_005311-T1_mrna"; gene_id "gene-ACY190_005311"; gene_name "naa20";
+CM180705.1	Genbank	exon	2204218	2204449	.	-	.	transcript_id "rna-ACY190_005311-T1_mrna"; gene_id "gene-ACY190_005311"; gene_name "naa20";
+CM180705.1	Genbank	exon	2204567	2204735	.	-	.	transcript_id "rna-ACY190_005311-T1_mrna"; gene_id "gene-ACY190_005311"; gene_name "naa20";
+CM180705.1	Genbank	CDS	2203961	2204132	.	-	1	transcript_id "rna-ACY190_005311-T1_mrna"; gene_id "gene-ACY190_005311"; gene_name "naa20";
+CM180705.1	Genbank	CDS	2204218	2204449	.	-	2	transcript_id "rna-ACY190_005311-T1_mrna"; gene_id "gene-ACY190_005311"; gene_name "naa20";
+CM180705.1	Genbank	CDS	2204567	2204735	.	-	0	transcript_id "rna-ACY190_005311-T1_mrna"; gene_id "gene-ACY190_005311"; gene_name "naa20";
+CM180705.1	Genbank	transcript	2282890	2284024	.	-	.	transcript_id "rna-ACY190_005332-T1_mrna"; gene_id "gene-ACY190_005332"
+CM180705.1	Genbank	exon	2282890	2283820	.	-	.	transcript_id "rna-ACY190_005332-T1_mrna"; gene_id "gene-ACY190_005332";
+CM180705.1	Genbank	exon	2283879	2284024	.	-	.	transcript_id "rna-ACY190_005332-T1_mrna"; gene_id "gene-ACY190_005332";
+CM180705.1	Genbank	CDS	2282890	2283820	.	-	1	transcript_id "rna-ACY190_005332-T1_mrna"; gene_id "gene-ACY190_005332";
+CM180705.1	Genbank	CDS	2283879	2284024	.	-	0	transcript_id "rna-ACY190_005332-T1_mrna"; gene_id "gene-ACY190_005332";
+CM180705.1	Genbank	transcript	2482673	2485673	.	-	.	transcript_id "rna-ACY190_005388-T1_mrna"; gene_id "gene-ACY190_005388"; gene_name "DIP2"
+CM180705.1	Genbank	exon	2482673	2485286	.	-	.	transcript_id "rna-ACY190_005388-T1_mrna"; gene_id "gene-ACY190_005388"; gene_name "DIP2";
+CM180705.1	Genbank	exon	2485354	2485608	.	-	.	transcript_id "rna-ACY190_005388-T1_mrna"; gene_id "gene-ACY190_005388"; gene_name "DIP2";
+CM180705.1	Genbank	exon	2485657	2485673	.	-	.	transcript_id "rna-ACY190_005388-T1_mrna"; gene_id "gene-ACY190_005388"; gene_name "DIP2";
+CM180705.1	Genbank	CDS	2482673	2485286	.	-	1	transcript_id "rna-ACY190_005388-T1_mrna"; gene_id "gene-ACY190_005388"; gene_name "DIP2";
+CM180705.1	Genbank	CDS	2485354	2485608	.	-	1	transcript_id "rna-ACY190_005388-T1_mrna"; gene_id "gene-ACY190_005388"; gene_name "DIP2";
+CM180705.1	Genbank	CDS	2485657	2485673	.	-	0	transcript_id "rna-ACY190_005388-T1_mrna"; gene_id "gene-ACY190_005388"; gene_name "DIP2";
+CM180705.1	Genbank	transcript	2499387	2501086	.	+	.	transcript_id "rna-ACY190_005395-T1_mrna"; gene_id "gene-ACY190_005395"; gene_name "PWP1"
+CM180705.1	Genbank	exon	2499387	2499658	.	+	.	transcript_id "rna-ACY190_005395-T1_mrna"; gene_id "gene-ACY190_005395"; gene_name "PWP1";
+CM180705.1	Genbank	exon	2499730	2501086	.	+	.	transcript_id "rna-ACY190_005395-T1_mrna"; gene_id "gene-ACY190_005395"; gene_name "PWP1";
+CM180705.1	Genbank	CDS	2499387	2499658	.	+	0	transcript_id "rna-ACY190_005395-T1_mrna"; gene_id "gene-ACY190_005395"; gene_name "PWP1";
+CM180705.1	Genbank	CDS	2499730	2501086	.	+	1	transcript_id "rna-ACY190_005395-T1_mrna"; gene_id "gene-ACY190_005395"; gene_name "PWP1";
+CM180705.1	Genbank	transcript	2505665	2507713	.	+	.	transcript_id "rna-ACY190_005397-T1_mrna"; gene_id "gene-ACY190_005397"; gene_name "RRN3"
+CM180705.1	Genbank	exon	2505665	2507713	.	+	.	transcript_id "rna-ACY190_005397-T1_mrna"; gene_id "gene-ACY190_005397"; gene_name "RRN3";
+CM180705.1	Genbank	CDS	2505665	2507713	.	+	0	transcript_id "rna-ACY190_005397-T1_mrna"; gene_id "gene-ACY190_005397"; gene_name "RRN3";
+CM180705.1	Genbank	transcript	2688353	2690026	.	+	.	transcript_id "rna-ACY190_005460-T1_mrna"; gene_id "gene-ACY190_005460"; gene_name "RSA4"
+CM180705.1	Genbank	exon	2688353	2688577	.	+	.	transcript_id "rna-ACY190_005460-T1_mrna"; gene_id "gene-ACY190_005460"; gene_name "RSA4";
+CM180705.1	Genbank	exon	2688637	2689718	.	+	.	transcript_id "rna-ACY190_005460-T1_mrna"; gene_id "gene-ACY190_005460"; gene_name "RSA4";
+CM180705.1	Genbank	exon	2689783	2690026	.	+	.	transcript_id "rna-ACY190_005460-T1_mrna"; gene_id "gene-ACY190_005460"; gene_name "RSA4";
+CM180705.1	Genbank	CDS	2688353	2688577	.	+	0	transcript_id "rna-ACY190_005460-T1_mrna"; gene_id "gene-ACY190_005460"; gene_name "RSA4";
+CM180705.1	Genbank	CDS	2688637	2689718	.	+	0	transcript_id "rna-ACY190_005460-T1_mrna"; gene_id "gene-ACY190_005460"; gene_name "RSA4";
+CM180705.1	Genbank	CDS	2689783	2690026	.	+	1	transcript_id "rna-ACY190_005460-T1_mrna"; gene_id "gene-ACY190_005460"; gene_name "RSA4";
+CM180705.1	Genbank	transcript	2837727	2838923	.	-	.	transcript_id "rna-ACY190_005514-T1_mrna"; gene_id "gene-ACY190_005514"; gene_name "CAB2"
+CM180705.1	Genbank	exon	2837727	2838923	.	-	.	transcript_id "rna-ACY190_005514-T1_mrna"; gene_id "gene-ACY190_005514"; gene_name "CAB2";
+CM180705.1	Genbank	CDS	2837727	2838923	.	-	0	transcript_id "rna-ACY190_005514-T1_mrna"; gene_id "gene-ACY190_005514"; gene_name "CAB2";
+CM180706.1	Genbank	transcript	657656	659596	.	-	.	transcript_id "rna-ACY190_004124-T1_mrna"; gene_id "gene-ACY190_004124"; gene_name "SWC4"
+CM180706.1	Genbank	exon	657656	659255	.	-	.	transcript_id "rna-ACY190_004124-T1_mrna"; gene_id "gene-ACY190_004124"; gene_name "SWC4";
+CM180706.1	Genbank	exon	659320	659437	.	-	.	transcript_id "rna-ACY190_004124-T1_mrna"; gene_id "gene-ACY190_004124"; gene_name "SWC4";
+CM180706.1	Genbank	exon	659503	659596	.	-	.	transcript_id "rna-ACY190_004124-T1_mrna"; gene_id "gene-ACY190_004124"; gene_name "SWC4";
+CM180706.1	Genbank	CDS	657656	659255	.	-	1	transcript_id "rna-ACY190_004124-T1_mrna"; gene_id "gene-ACY190_004124"; gene_name "SWC4";
+CM180706.1	Genbank	CDS	659320	659437	.	-	2	transcript_id "rna-ACY190_004124-T1_mrna"; gene_id "gene-ACY190_004124"; gene_name "SWC4";
+CM180706.1	Genbank	CDS	659503	659596	.	-	0	transcript_id "rna-ACY190_004124-T1_mrna"; gene_id "gene-ACY190_004124"; gene_name "SWC4";
+CM180706.1	Genbank	transcript	685023	686944	.	-	.	transcript_id "rna-ACY190_004134-T1_mrna"; gene_id "gene-ACY190_004134"; gene_name "RRP9"
+CM180706.1	Genbank	exon	685023	686510	.	-	.	transcript_id "rna-ACY190_004134-T1_mrna"; gene_id "gene-ACY190_004134"; gene_name "RRP9";
+CM180706.1	Genbank	exon	686576	686944	.	-	.	transcript_id "rna-ACY190_004134-T1_mrna"; gene_id "gene-ACY190_004134"; gene_name "RRP9";
+CM180706.1	Genbank	CDS	685023	686510	.	-	0	transcript_id "rna-ACY190_004134-T1_mrna"; gene_id "gene-ACY190_004134"; gene_name "RRP9";
+CM180706.1	Genbank	CDS	686576	686944	.	-	0	transcript_id "rna-ACY190_004134-T1_mrna"; gene_id "gene-ACY190_004134"; gene_name "RRP9";
+CM180706.1	Genbank	transcript	694124	697155	.	+	.	transcript_id "rna-ACY190_004138-T1_mrna"; gene_id "gene-ACY190_004138"; gene_name "utp13"
+CM180706.1	Genbank	exon	694124	694297	.	+	.	transcript_id "rna-ACY190_004138-T1_mrna"; gene_id "gene-ACY190_004138"; gene_name "utp13";
+CM180706.1	Genbank	exon	694353	694380	.	+	.	transcript_id "rna-ACY190_004138-T1_mrna"; gene_id "gene-ACY190_004138"; gene_name "utp13";
+CM180706.1	Genbank	exon	694433	697155	.	+	.	transcript_id "rna-ACY190_004138-T1_mrna"; gene_id "gene-ACY190_004138"; gene_name "utp13";
+CM180706.1	Genbank	CDS	694124	694297	.	+	0	transcript_id "rna-ACY190_004138-T1_mrna"; gene_id "gene-ACY190_004138"; gene_name "utp13";
+CM180706.1	Genbank	CDS	694353	694380	.	+	0	transcript_id "rna-ACY190_004138-T1_mrna"; gene_id "gene-ACY190_004138"; gene_name "utp13";
+CM180706.1	Genbank	CDS	694433	697155	.	+	2	transcript_id "rna-ACY190_004138-T1_mrna"; gene_id "gene-ACY190_004138"; gene_name "utp13";
+CM180706.1	Genbank	transcript	808657	810506	.	-	.	transcript_id "rna-ACY190_004179-T1_mrna"; gene_id "gene-ACY190_004179"; gene_name "cdc1"
+CM180706.1	Genbank	exon	808657	808952	.	-	.	transcript_id "rna-ACY190_004179-T1_mrna"; gene_id "gene-ACY190_004179"; gene_name "cdc1";
+CM180706.1	Genbank	exon	809011	809962	.	-	.	transcript_id "rna-ACY190_004179-T1_mrna"; gene_id "gene-ACY190_004179"; gene_name "cdc1";
+CM180706.1	Genbank	exon	810035	810166	.	-	.	transcript_id "rna-ACY190_004179-T1_mrna"; gene_id "gene-ACY190_004179"; gene_name "cdc1";
+CM180706.1	Genbank	exon	810221	810404	.	-	.	transcript_id "rna-ACY190_004179-T1_mrna"; gene_id "gene-ACY190_004179"; gene_name "cdc1";
+CM180706.1	Genbank	exon	810472	810506	.	-	.	transcript_id "rna-ACY190_004179-T1_mrna"; gene_id "gene-ACY190_004179"; gene_name "cdc1";
+CM180706.1	Genbank	CDS	808657	808952	.	-	2	transcript_id "rna-ACY190_004179-T1_mrna"; gene_id "gene-ACY190_004179"; gene_name "cdc1";
+CM180706.1	Genbank	CDS	809011	809962	.	-	0	transcript_id "rna-ACY190_004179-T1_mrna"; gene_id "gene-ACY190_004179"; gene_name "cdc1";
+CM180706.1	Genbank	CDS	810035	810166	.	-	0	transcript_id "rna-ACY190_004179-T1_mrna"; gene_id "gene-ACY190_004179"; gene_name "cdc1";
+CM180706.1	Genbank	CDS	810221	810404	.	-	1	transcript_id "rna-ACY190_004179-T1_mrna"; gene_id "gene-ACY190_004179"; gene_name "cdc1";
+CM180706.1	Genbank	CDS	810472	810506	.	-	0	transcript_id "rna-ACY190_004179-T1_mrna"; gene_id "gene-ACY190_004179"; gene_name "cdc1";
+CM180706.1	Genbank	transcript	1216428	1218630	.	-	.	transcript_id "rna-ACY190_004244-T1_mrna"; gene_id "gene-ACY190_004244"; gene_name "NOP7"
+CM180706.1	Genbank	exon	1216428	1218343	.	-	.	transcript_id "rna-ACY190_004244-T1_mrna"; gene_id "gene-ACY190_004244"; gene_name "NOP7";
+CM180706.1	Genbank	exon	1218447	1218545	.	-	.	transcript_id "rna-ACY190_004244-T1_mrna"; gene_id "gene-ACY190_004244"; gene_name "NOP7";
+CM180706.1	Genbank	exon	1218609	1218630	.	-	.	transcript_id "rna-ACY190_004244-T1_mrna"; gene_id "gene-ACY190_004244"; gene_name "NOP7";
+CM180706.1	Genbank	CDS	1216428	1218343	.	-	2	transcript_id "rna-ACY190_004244-T1_mrna"; gene_id "gene-ACY190_004244"; gene_name "NOP7";
+CM180706.1	Genbank	CDS	1218447	1218545	.	-	2	transcript_id "rna-ACY190_004244-T1_mrna"; gene_id "gene-ACY190_004244"; gene_name "NOP7";
+CM180706.1	Genbank	CDS	1218609	1218630	.	-	0	transcript_id "rna-ACY190_004244-T1_mrna"; gene_id "gene-ACY190_004244"; gene_name "NOP7";
+CM180706.1	Genbank	transcript	1926870	1929160	.	-	.	transcript_id "rna-ACY190_004451-T1_mrna"; gene_id "gene-ACY190_004451"; gene_name "MPP10"
+CM180706.1	Genbank	exon	1926870	1928824	.	-	.	transcript_id "rna-ACY190_004451-T1_mrna"; gene_id "gene-ACY190_004451"; gene_name "MPP10";
+CM180706.1	Genbank	exon	1929148	1929160	.	-	.	transcript_id "rna-ACY190_004451-T1_mrna"; gene_id "gene-ACY190_004451"; gene_name "MPP10";
+CM180706.1	Genbank	CDS	1926870	1928824	.	-	2	transcript_id "rna-ACY190_004451-T1_mrna"; gene_id "gene-ACY190_004451"; gene_name "MPP10";
+CM180706.1	Genbank	CDS	1929148	1929160	.	-	0	transcript_id "rna-ACY190_004451-T1_mrna"; gene_id "gene-ACY190_004451"; gene_name "MPP10";
+CM180706.1	Genbank	transcript	2206262	2207769	.	+	.	transcript_id "rna-ACY190_004493-T1_mrna"; gene_id "gene-ACY190_004493"
+CM180706.1	Genbank	exon	2206262	2206473	.	+	.	transcript_id "rna-ACY190_004493-T1_mrna"; gene_id "gene-ACY190_004493";
+CM180706.1	Genbank	exon	2206538	2206715	.	+	.	transcript_id "rna-ACY190_004493-T1_mrna"; gene_id "gene-ACY190_004493";
+CM180706.1	Genbank	exon	2206783	2207769	.	+	.	transcript_id "rna-ACY190_004493-T1_mrna"; gene_id "gene-ACY190_004493";
+CM180706.1	Genbank	CDS	2206262	2206473	.	+	0	transcript_id "rna-ACY190_004493-T1_mrna"; gene_id "gene-ACY190_004493";
+CM180706.1	Genbank	CDS	2206538	2206715	.	+	1	transcript_id "rna-ACY190_004493-T1_mrna"; gene_id "gene-ACY190_004493";
+CM180706.1	Genbank	CDS	2206783	2207769	.	+	0	transcript_id "rna-ACY190_004493-T1_mrna"; gene_id "gene-ACY190_004493";
+CM180706.1	Genbank	transcript	2209968	2212334	.	+	.	transcript_id "rna-ACY190_004495-T1_mrna"; gene_id "gene-ACY190_004495"; gene_name "ERB1"
+CM180706.1	Genbank	exon	2209968	2212334	.	+	.	transcript_id "rna-ACY190_004495-T1_mrna"; gene_id "gene-ACY190_004495"; gene_name "ERB1";
+CM180706.1	Genbank	CDS	2209968	2212334	.	+	0	transcript_id "rna-ACY190_004495-T1_mrna"; gene_id "gene-ACY190_004495"; gene_name "ERB1";
+CM180706.1	Genbank	transcript	2239332	2241674	.	-	.	transcript_id "rna-ACY190_004506-T1_mrna"; gene_id "gene-ACY190_004506"; gene_name "UTP25"
+CM180706.1	Genbank	exon	2239332	2240253	.	-	.	transcript_id "rna-ACY190_004506-T1_mrna"; gene_id "gene-ACY190_004506"; gene_name "UTP25";
+CM180706.1	Genbank	exon	2240311	2240888	.	-	.	transcript_id "rna-ACY190_004506-T1_mrna"; gene_id "gene-ACY190_004506"; gene_name "UTP25";
+CM180706.1	Genbank	exon	2240944	2241143	.	-	.	transcript_id "rna-ACY190_004506-T1_mrna"; gene_id "gene-ACY190_004506"; gene_name "UTP25";
+CM180706.1	Genbank	exon	2241194	2241674	.	-	.	transcript_id "rna-ACY190_004506-T1_mrna"; gene_id "gene-ACY190_004506"; gene_name "UTP25";
+CM180706.1	Genbank	CDS	2239332	2240253	.	-	1	transcript_id "rna-ACY190_004506-T1_mrna"; gene_id "gene-ACY190_004506"; gene_name "UTP25";
+CM180706.1	Genbank	CDS	2240311	2240888	.	-	0	transcript_id "rna-ACY190_004506-T1_mrna"; gene_id "gene-ACY190_004506"; gene_name "UTP25";
+CM180706.1	Genbank	CDS	2240944	2241143	.	-	2	transcript_id "rna-ACY190_004506-T1_mrna"; gene_id "gene-ACY190_004506"; gene_name "UTP25";
+CM180706.1	Genbank	CDS	2241194	2241674	.	-	0	transcript_id "rna-ACY190_004506-T1_mrna"; gene_id "gene-ACY190_004506"; gene_name "UTP25";
+CM180706.1	Genbank	transcript	2242064	2243299	.	+	.	transcript_id "rna-ACY190_004507-T1_mrna"; gene_id "gene-ACY190_004507"
+CM180706.1	Genbank	exon	2242064	2242165	.	+	.	transcript_id "rna-ACY190_004507-T1_mrna"; gene_id "gene-ACY190_004507";
+CM180706.1	Genbank	exon	2242275	2242987	.	+	.	transcript_id "rna-ACY190_004507-T1_mrna"; gene_id "gene-ACY190_004507";
+CM180706.1	Genbank	exon	2243083	2243299	.	+	.	transcript_id "rna-ACY190_004507-T1_mrna"; gene_id "gene-ACY190_004507";
+CM180706.1	Genbank	CDS	2242064	2242165	.	+	0	transcript_id "rna-ACY190_004507-T1_mrna"; gene_id "gene-ACY190_004507";
+CM180706.1	Genbank	CDS	2242275	2242987	.	+	0	transcript_id "rna-ACY190_004507-T1_mrna"; gene_id "gene-ACY190_004507";
+CM180706.1	Genbank	CDS	2243083	2243299	.	+	1	transcript_id "rna-ACY190_004507-T1_mrna"; gene_id "gene-ACY190_004507";
+CM180706.1	Genbank	transcript	2260227	2261731	.	-	.	transcript_id "rna-ACY190_004518-T1_mrna"; gene_id "gene-ACY190_004518"; gene_name "GCD7"
+CM180706.1	Genbank	exon	2260227	2260299	.	-	.	transcript_id "rna-ACY190_004518-T1_mrna"; gene_id "gene-ACY190_004518"; gene_name "GCD7";
+CM180706.1	Genbank	exon	2260368	2261205	.	-	.	transcript_id "rna-ACY190_004518-T1_mrna"; gene_id "gene-ACY190_004518"; gene_name "GCD7";
+CM180706.1	Genbank	exon	2261268	2261563	.	-	.	transcript_id "rna-ACY190_004518-T1_mrna"; gene_id "gene-ACY190_004518"; gene_name "GCD7";
+CM180706.1	Genbank	exon	2261634	2261731	.	-	.	transcript_id "rna-ACY190_004518-T1_mrna"; gene_id "gene-ACY190_004518"; gene_name "GCD7";
+CM180706.1	Genbank	CDS	2260227	2260299	.	-	1	transcript_id "rna-ACY190_004518-T1_mrna"; gene_id "gene-ACY190_004518"; gene_name "GCD7";
+CM180706.1	Genbank	CDS	2260368	2261205	.	-	2	transcript_id "rna-ACY190_004518-T1_mrna"; gene_id "gene-ACY190_004518"; gene_name "GCD7";
+CM180706.1	Genbank	CDS	2261268	2261563	.	-	1	transcript_id "rna-ACY190_004518-T1_mrna"; gene_id "gene-ACY190_004518"; gene_name "GCD7";
+CM180706.1	Genbank	CDS	2261634	2261731	.	-	0	transcript_id "rna-ACY190_004518-T1_mrna"; gene_id "gene-ACY190_004518"; gene_name "GCD7";
+CM180707.1	Genbank	transcript	122798	124812	.	-	.	transcript_id "rna-ACY190_000040-T1_mrna"; gene_id "gene-ACY190_000040"
+CM180707.1	Genbank	exon	122798	124024	.	-	.	transcript_id "rna-ACY190_000040-T1_mrna"; gene_id "gene-ACY190_000040";
+CM180707.1	Genbank	exon	124073	124403	.	-	.	transcript_id "rna-ACY190_000040-T1_mrna"; gene_id "gene-ACY190_000040";
+CM180707.1	Genbank	exon	124472	124812	.	-	.	transcript_id "rna-ACY190_000040-T1_mrna"; gene_id "gene-ACY190_000040";
+CM180707.1	Genbank	CDS	122798	124024	.	-	0	transcript_id "rna-ACY190_000040-T1_mrna"; gene_id "gene-ACY190_000040";
+CM180707.1	Genbank	CDS	124073	124403	.	-	1	transcript_id "rna-ACY190_000040-T1_mrna"; gene_id "gene-ACY190_000040";
+CM180707.1	Genbank	CDS	124472	124812	.	-	0	transcript_id "rna-ACY190_000040-T1_mrna"; gene_id "gene-ACY190_000040";
+CM180707.1	Genbank	transcript	806777	808368	.	+	.	transcript_id "rna-ACY190_000270-T1_mrna"; gene_id "gene-ACY190_000270"
+CM180707.1	Genbank	exon	806777	807422	.	+	.	transcript_id "rna-ACY190_000270-T1_mrna"; gene_id "gene-ACY190_000270";
+CM180707.1	Genbank	exon	807494	808368	.	+	.	transcript_id "rna-ACY190_000270-T1_mrna"; gene_id "gene-ACY190_000270";
+CM180707.1	Genbank	CDS	806777	807422	.	+	0	transcript_id "rna-ACY190_000270-T1_mrna"; gene_id "gene-ACY190_000270";
+CM180707.1	Genbank	CDS	807494	808368	.	+	2	transcript_id "rna-ACY190_000270-T1_mrna"; gene_id "gene-ACY190_000270";
+CM180707.1	Genbank	transcript	919407	920852	.	-	.	transcript_id "rna-ACY190_000313-T1_mrna"; gene_id "gene-ACY190_000313"
+CM180707.1	Genbank	exon	919407	920536	.	-	.	transcript_id "rna-ACY190_000313-T1_mrna"; gene_id "gene-ACY190_000313";
+CM180707.1	Genbank	exon	920606	920852	.	-	.	transcript_id "rna-ACY190_000313-T1_mrna"; gene_id "gene-ACY190_000313";
+CM180707.1	Genbank	CDS	919407	920536	.	-	2	transcript_id "rna-ACY190_000313-T1_mrna"; gene_id "gene-ACY190_000313";
+CM180707.1	Genbank	CDS	920606	920852	.	-	0	transcript_id "rna-ACY190_000313-T1_mrna"; gene_id "gene-ACY190_000313";
+CM180707.1	Genbank	transcript	1533209	1536197	.	-	.	transcript_id "rna-ACY190_000482-T1_mrna"; gene_id "gene-ACY190_000482"; gene_name "PWP2"
+CM180707.1	Genbank	exon	1533209	1535048	.	-	.	transcript_id "rna-ACY190_000482-T1_mrna"; gene_id "gene-ACY190_000482"; gene_name "PWP2";
+CM180707.1	Genbank	exon	1535100	1535347	.	-	.	transcript_id "rna-ACY190_000482-T1_mrna"; gene_id "gene-ACY190_000482"; gene_name "PWP2";
+CM180707.1	Genbank	exon	1535414	1535909	.	-	.	transcript_id "rna-ACY190_000482-T1_mrna"; gene_id "gene-ACY190_000482"; gene_name "PWP2";
+CM180707.1	Genbank	exon	1536015	1536127	.	-	.	transcript_id "rna-ACY190_000482-T1_mrna"; gene_id "gene-ACY190_000482"; gene_name "PWP2";
+CM180707.1	Genbank	exon	1536180	1536197	.	-	.	transcript_id "rna-ACY190_000482-T1_mrna"; gene_id "gene-ACY190_000482"; gene_name "PWP2";
+CM180707.1	Genbank	CDS	1533209	1535048	.	-	1	transcript_id "rna-ACY190_000482-T1_mrna"; gene_id "gene-ACY190_000482"; gene_name "PWP2";
+CM180707.1	Genbank	CDS	1535100	1535347	.	-	0	transcript_id "rna-ACY190_000482-T1_mrna"; gene_id "gene-ACY190_000482"; gene_name "PWP2";
+CM180707.1	Genbank	CDS	1535414	1535909	.	-	1	transcript_id "rna-ACY190_000482-T1_mrna"; gene_id "gene-ACY190_000482"; gene_name "PWP2";
+CM180707.1	Genbank	CDS	1536015	1536127	.	-	0	transcript_id "rna-ACY190_000482-T1_mrna"; gene_id "gene-ACY190_000482"; gene_name "PWP2";
+CM180707.1	Genbank	CDS	1536180	1536197	.	-	0	transcript_id "rna-ACY190_000482-T1_mrna"; gene_id "gene-ACY190_000482"; gene_name "PWP2";
+CM180707.1	Genbank	transcript	1961884	1964187	.	+	.	transcript_id "rna-ACY190_000605-T1_mrna"; gene_id "gene-ACY190_000605"; gene_name "DBP7"
+CM180707.1	Genbank	exon	1961884	1964187	.	+	.	transcript_id "rna-ACY190_000605-T1_mrna"; gene_id "gene-ACY190_000605"; gene_name "DBP7";
+CM180707.1	Genbank	CDS	1961884	1964187	.	+	0	transcript_id "rna-ACY190_000605-T1_mrna"; gene_id "gene-ACY190_000605"; gene_name "DBP7";
+CM180707.1	Genbank	transcript	2069788	2070894	.	-	.	transcript_id "rna-ACY190_000641-T1_mrna"; gene_id "gene-ACY190_000641"; gene_name "GCN3"
+CM180707.1	Genbank	exon	2069788	2070802	.	-	.	transcript_id "rna-ACY190_000641-T1_mrna"; gene_id "gene-ACY190_000641"; gene_name "GCN3";
+CM180707.1	Genbank	exon	2070860	2070894	.	-	.	transcript_id "rna-ACY190_000641-T1_mrna"; gene_id "gene-ACY190_000641"; gene_name "GCN3";
+CM180707.1	Genbank	CDS	2069788	2070802	.	-	1	transcript_id "rna-ACY190_000641-T1_mrna"; gene_id "gene-ACY190_000641"; gene_name "GCN3";
+CM180707.1	Genbank	CDS	2070860	2070894	.	-	0	transcript_id "rna-ACY190_000641-T1_mrna"; gene_id "gene-ACY190_000641"; gene_name "GCN3";
+CM180707.1	Genbank	transcript	2349344	2350524	.	+	.	transcript_id "rna-ACY190_000734-T1_mrna"; gene_id "gene-ACY190_000734"; gene_name "ebp2"
+CM180707.1	Genbank	exon	2349344	2350169	.	+	.	transcript_id "rna-ACY190_000734-T1_mrna"; gene_id "gene-ACY190_000734"; gene_name "ebp2";
+CM180707.1	Genbank	exon	2350229	2350524	.	+	.	transcript_id "rna-ACY190_000734-T1_mrna"; gene_id "gene-ACY190_000734"; gene_name "ebp2";
+CM180707.1	Genbank	CDS	2349344	2350169	.	+	0	transcript_id "rna-ACY190_000734-T1_mrna"; gene_id "gene-ACY190_000734"; gene_name "ebp2";
+CM180707.1	Genbank	CDS	2350229	2350524	.	+	2	transcript_id "rna-ACY190_000734-T1_mrna"; gene_id "gene-ACY190_000734"; gene_name "ebp2";
+CM180707.1	Genbank	transcript	2571824	2572836	.	+	.	transcript_id "rna-ACY190_000814-T1_mrna"; gene_id "gene-ACY190_000814"; gene_name "BCP1"
+CM180707.1	Genbank	exon	2571824	2571907	.	+	.	transcript_id "rna-ACY190_000814-T1_mrna"; gene_id "gene-ACY190_000814"; gene_name "BCP1";
+CM180707.1	Genbank	exon	2571982	2572836	.	+	.	transcript_id "rna-ACY190_000814-T1_mrna"; gene_id "gene-ACY190_000814"; gene_name "BCP1";
+CM180707.1	Genbank	CDS	2571824	2571907	.	+	0	transcript_id "rna-ACY190_000814-T1_mrna"; gene_id "gene-ACY190_000814"; gene_name "BCP1";
+CM180707.1	Genbank	CDS	2571982	2572836	.	+	0	transcript_id "rna-ACY190_000814-T1_mrna"; gene_id "gene-ACY190_000814"; gene_name "BCP1";
+CM180707.1	Genbank	transcript	2660368	2661247	.	+	.	transcript_id "rna-ACY190_000847-T1_mrna"; gene_id "gene-ACY190_000847"; gene_name "MRT4"
+CM180707.1	Genbank	exon	2660368	2660561	.	+	.	transcript_id "rna-ACY190_000847-T1_mrna"; gene_id "gene-ACY190_000847"; gene_name "MRT4";
+CM180707.1	Genbank	exon	2660692	2661247	.	+	.	transcript_id "rna-ACY190_000847-T1_mrna"; gene_id "gene-ACY190_000847"; gene_name "MRT4";
+CM180707.1	Genbank	CDS	2660368	2660561	.	+	0	transcript_id "rna-ACY190_000847-T1_mrna"; gene_id "gene-ACY190_000847"; gene_name "MRT4";
+CM180707.1	Genbank	CDS	2660692	2661247	.	+	1	transcript_id "rna-ACY190_000847-T1_mrna"; gene_id "gene-ACY190_000847"; gene_name "MRT4";
+CM180707.1	Genbank	transcript	2663718	2664267	.	+	.	transcript_id "rna-ACY190_000849-T1_mrna"; gene_id "gene-ACY190_000849"; gene_name "MRPL51"
+CM180707.1	Genbank	exon	2663718	2663756	.	+	.	transcript_id "rna-ACY190_000849-T1_mrna"; gene_id "gene-ACY190_000849"; gene_name "MRPL51";
+CM180707.1	Genbank	exon	2663831	2663913	.	+	.	transcript_id "rna-ACY190_000849-T1_mrna"; gene_id "gene-ACY190_000849"; gene_name "MRPL51";
+CM180707.1	Genbank	exon	2663976	2664267	.	+	.	transcript_id "rna-ACY190_000849-T1_mrna"; gene_id "gene-ACY190_000849"; gene_name "MRPL51";
+CM180707.1	Genbank	CDS	2663718	2663756	.	+	0	transcript_id "rna-ACY190_000849-T1_mrna"; gene_id "gene-ACY190_000849"; gene_name "MRPL51";
+CM180707.1	Genbank	CDS	2663831	2663913	.	+	0	transcript_id "rna-ACY190_000849-T1_mrna"; gene_id "gene-ACY190_000849"; gene_name "MRPL51";
+CM180707.1	Genbank	CDS	2663976	2664267	.	+	1	transcript_id "rna-ACY190_000849-T1_mrna"; gene_id "gene-ACY190_000849"; gene_name "MRPL51";
+CM180708.1	Genbank	transcript	133925	135940	.	+	.	transcript_id "rna-ACY190_005610-T1_mrna"; gene_id "gene-ACY190_005610"
+CM180708.1	Genbank	exon	133925	135940	.	+	.	transcript_id "rna-ACY190_005610-T1_mrna"; gene_id "gene-ACY190_005610";
+CM180708.1	Genbank	CDS	133925	135940	.	+	0	transcript_id "rna-ACY190_005610-T1_mrna"; gene_id "gene-ACY190_005610";
+CM180708.1	Genbank	transcript	516498	517445	.	+	.	transcript_id "rna-ACY190_005684-T1_mrna"; gene_id "gene-ACY190_005684"; gene_name "DPB2"
+CM180708.1	Genbank	exon	516498	517445	.	+	.	transcript_id "rna-ACY190_005684-T1_mrna"; gene_id "gene-ACY190_005684"; gene_name "DPB2";
+CM180708.1	Genbank	CDS	516498	517445	.	+	0	transcript_id "rna-ACY190_005684-T1_mrna"; gene_id "gene-ACY190_005684"; gene_name "DPB2";
+CM180708.1	Genbank	transcript	600553	602592	.	+	.	transcript_id "rna-ACY190_005709-T1_mrna"; gene_id "gene-ACY190_005709"; gene_name "UTP18"
+CM180708.1	Genbank	exon	600553	600882	.	+	.	transcript_id "rna-ACY190_005709-T1_mrna"; gene_id "gene-ACY190_005709"; gene_name "UTP18";
+CM180708.1	Genbank	exon	600943	601425	.	+	.	transcript_id "rna-ACY190_005709-T1_mrna"; gene_id "gene-ACY190_005709"; gene_name "UTP18";
+CM180708.1	Genbank	exon	601482	602349	.	+	.	transcript_id "rna-ACY190_005709-T1_mrna"; gene_id "gene-ACY190_005709"; gene_name "UTP18";
+CM180708.1	Genbank	exon	602441	602592	.	+	.	transcript_id "rna-ACY190_005709-T1_mrna"; gene_id "gene-ACY190_005709"; gene_name "UTP18";
+CM180708.1	Genbank	CDS	600553	600882	.	+	0	transcript_id "rna-ACY190_005709-T1_mrna"; gene_id "gene-ACY190_005709"; gene_name "UTP18";
+CM180708.1	Genbank	CDS	600943	601425	.	+	0	transcript_id "rna-ACY190_005709-T1_mrna"; gene_id "gene-ACY190_005709"; gene_name "UTP18";
+CM180708.1	Genbank	CDS	601482	602349	.	+	0	transcript_id "rna-ACY190_005709-T1_mrna"; gene_id "gene-ACY190_005709"; gene_name "UTP18";
+CM180708.1	Genbank	CDS	602441	602592	.	+	2	transcript_id "rna-ACY190_005709-T1_mrna"; gene_id "gene-ACY190_005709"; gene_name "UTP18";
+CM180708.1	Genbank	transcript	734709	735817	.	+	.	transcript_id "rna-ACY190_005747-T1_mrna"; gene_id "gene-ACY190_005747"; gene_name "LIA1"
+CM180708.1	Genbank	exon	734709	735178	.	+	.	transcript_id "rna-ACY190_005747-T1_mrna"; gene_id "gene-ACY190_005747"; gene_name "LIA1";
+CM180708.1	Genbank	exon	735289	735817	.	+	.	transcript_id "rna-ACY190_005747-T1_mrna"; gene_id "gene-ACY190_005747"; gene_name "LIA1";
+CM180708.1	Genbank	CDS	734709	735178	.	+	0	transcript_id "rna-ACY190_005747-T1_mrna"; gene_id "gene-ACY190_005747"; gene_name "LIA1";
+CM180708.1	Genbank	CDS	735289	735817	.	+	1	transcript_id "rna-ACY190_005747-T1_mrna"; gene_id "gene-ACY190_005747"; gene_name "LIA1";
+CM180708.1	Genbank	transcript	765672	767983	.	+	.	transcript_id "rna-ACY190_005758-T1_mrna"; gene_id "gene-ACY190_005758"; gene_name "ESF1"
+CM180708.1	Genbank	exon	765672	765735	.	+	.	transcript_id "rna-ACY190_005758-T1_mrna"; gene_id "gene-ACY190_005758"; gene_name "ESF1";
+CM180708.1	Genbank	exon	765843	767983	.	+	.	transcript_id "rna-ACY190_005758-T1_mrna"; gene_id "gene-ACY190_005758"; gene_name "ESF1";
+CM180708.1	Genbank	CDS	765672	765735	.	+	0	transcript_id "rna-ACY190_005758-T1_mrna"; gene_id "gene-ACY190_005758"; gene_name "ESF1";
+CM180708.1	Genbank	CDS	765843	767983	.	+	2	transcript_id "rna-ACY190_005758-T1_mrna"; gene_id "gene-ACY190_005758"; gene_name "ESF1";
+CM180708.1	Genbank	transcript	1218535	1219407	.	-	.	transcript_id "rna-ACY190_005907-T1_mrna"; gene_id "gene-ACY190_005907"; gene_name "SLD5"
+CM180708.1	Genbank	exon	1218535	1219164	.	-	.	transcript_id "rna-ACY190_005907-T1_mrna"; gene_id "gene-ACY190_005907"; gene_name "SLD5";
+CM180708.1	Genbank	exon	1219231	1219407	.	-	.	transcript_id "rna-ACY190_005907-T1_mrna"; gene_id "gene-ACY190_005907"; gene_name "SLD5";
+CM180708.1	Genbank	CDS	1218535	1219164	.	-	0	transcript_id "rna-ACY190_005907-T1_mrna"; gene_id "gene-ACY190_005907"; gene_name "SLD5";
+CM180708.1	Genbank	CDS	1219231	1219407	.	-	0	transcript_id "rna-ACY190_005907-T1_mrna"; gene_id "gene-ACY190_005907"; gene_name "SLD5";
+CM180708.1	Genbank	transcript	1405869	1407453	.	+	.	transcript_id "rna-ACY190_005963-T1_mrna"; gene_id "gene-ACY190_005963"; gene_name "COX15_2"
+CM180708.1	Genbank	exon	1405869	1406269	.	+	.	transcript_id "rna-ACY190_005963-T1_mrna"; gene_id "gene-ACY190_005963"; gene_name "COX15_2";
+CM180708.1	Genbank	exon	1406343	1407453	.	+	.	transcript_id "rna-ACY190_005963-T1_mrna"; gene_id "gene-ACY190_005963"; gene_name "COX15_2";
+CM180708.1	Genbank	CDS	1405869	1406269	.	+	0	transcript_id "rna-ACY190_005963-T1_mrna"; gene_id "gene-ACY190_005963"; gene_name "COX15_2";
+CM180708.1	Genbank	CDS	1406343	1407453	.	+	1	transcript_id "rna-ACY190_005963-T1_mrna"; gene_id "gene-ACY190_005963"; gene_name "COX15_2";
+CM180708.1	Genbank	transcript	1544475	1547380	.	-	.	transcript_id "rna-ACY190_006012-T1_mrna"; gene_id "gene-ACY190_006012"
+CM180708.1	Genbank	exon	1544475	1546793	.	-	.	transcript_id "rna-ACY190_006012-T1_mrna"; gene_id "gene-ACY190_006012";
+CM180708.1	Genbank	exon	1546862	1547380	.	-	.	transcript_id "rna-ACY190_006012-T1_mrna"; gene_id "gene-ACY190_006012";
+CM180708.1	Genbank	CDS	1544475	1546793	.	-	0	transcript_id "rna-ACY190_006012-T1_mrna"; gene_id "gene-ACY190_006012";
+CM180708.1	Genbank	CDS	1546862	1547380	.	-	0	transcript_id "rna-ACY190_006012-T1_mrna"; gene_id "gene-ACY190_006012";
+CM180708.1	Genbank	transcript	1677461	1679724	.	+	.	transcript_id "rna-ACY190_006054-T1_mrna"; gene_id "gene-ACY190_006054"; gene_name "ENP2"
+CM180708.1	Genbank	exon	1677461	1677677	.	+	.	transcript_id "rna-ACY190_006054-T1_mrna"; gene_id "gene-ACY190_006054"; gene_name "ENP2";
+CM180708.1	Genbank	exon	1677746	1679724	.	+	.	transcript_id "rna-ACY190_006054-T1_mrna"; gene_id "gene-ACY190_006054"; gene_name "ENP2";
+CM180708.1	Genbank	CDS	1677461	1677677	.	+	0	transcript_id "rna-ACY190_006054-T1_mrna"; gene_id "gene-ACY190_006054"; gene_name "ENP2";
+CM180708.1	Genbank	CDS	1677746	1679724	.	+	2	transcript_id "rna-ACY190_006054-T1_mrna"; gene_id "gene-ACY190_006054"; gene_name "ENP2";
+CM180708.1	Genbank	transcript	1962896	1963783	.	+	.	transcript_id "rna-ACY190_006141-T1_mrna"; gene_id "gene-ACY190_006141"; gene_name "cwf16"
+CM180708.1	Genbank	exon	1962896	1962935	.	+	.	transcript_id "rna-ACY190_006141-T1_mrna"; gene_id "gene-ACY190_006141"; gene_name "cwf16";
+CM180708.1	Genbank	exon	1962985	1963087	.	+	.	transcript_id "rna-ACY190_006141-T1_mrna"; gene_id "gene-ACY190_006141"; gene_name "cwf16";
+CM180708.1	Genbank	exon	1963156	1963783	.	+	.	transcript_id "rna-ACY190_006141-T1_mrna"; gene_id "gene-ACY190_006141"; gene_name "cwf16";
+CM180708.1	Genbank	CDS	1962896	1962935	.	+	0	transcript_id "rna-ACY190_006141-T1_mrna"; gene_id "gene-ACY190_006141"; gene_name "cwf16";
+CM180708.1	Genbank	CDS	1962985	1963087	.	+	2	transcript_id "rna-ACY190_006141-T1_mrna"; gene_id "gene-ACY190_006141"; gene_name "cwf16";
+CM180708.1	Genbank	CDS	1963156	1963783	.	+	1	transcript_id "rna-ACY190_006141-T1_mrna"; gene_id "gene-ACY190_006141"; gene_name "cwf16";
+CM180708.1	Genbank	transcript	1964152	1970147	.	-	.	transcript_id "rna-ACY190_006142-T1_mrna"; gene_id "gene-ACY190_006142"; gene_name "VPS11"
+CM180708.1	Genbank	exon	1964152	1964532	.	-	.	transcript_id "rna-ACY190_006142-T1_mrna"; gene_id "gene-ACY190_006142"; gene_name "VPS11";
+CM180708.1	Genbank	exon	1964589	1964987	.	-	.	transcript_id "rna-ACY190_006142-T1_mrna"; gene_id "gene-ACY190_006142"; gene_name "VPS11";
+CM180708.1	Genbank	exon	1965037	1965534	.	-	.	transcript_id "rna-ACY190_006142-T1_mrna"; gene_id "gene-ACY190_006142"; gene_name "VPS11";
+CM180708.1	Genbank	exon	1965585	1965920	.	-	.	transcript_id "rna-ACY190_006142-T1_mrna"; gene_id "gene-ACY190_006142"; gene_name "VPS11";
+CM180708.1	Genbank	exon	1965975	1966208	.	-	.	transcript_id "rna-ACY190_006142-T1_mrna"; gene_id "gene-ACY190_006142"; gene_name "VPS11";
+CM180708.1	Genbank	exon	1966260	1966883	.	-	.	transcript_id "rna-ACY190_006142-T1_mrna"; gene_id "gene-ACY190_006142"; gene_name "VPS11";
+CM180708.1	Genbank	exon	1966946	1967242	.	-	.	transcript_id "rna-ACY190_006142-T1_mrna"; gene_id "gene-ACY190_006142"; gene_name "VPS11";
+CM180708.1	Genbank	exon	1967313	1967381	.	-	.	transcript_id "rna-ACY190_006142-T1_mrna"; gene_id "gene-ACY190_006142"; gene_name "VPS11";
+CM180708.1	Genbank	exon	1968090	1970147	.	-	.	transcript_id "rna-ACY190_006142-T1_mrna"; gene_id "gene-ACY190_006142"; gene_name "VPS11";
+CM180708.1	Genbank	CDS	1964152	1964532	.	-	0	transcript_id "rna-ACY190_006142-T1_mrna"; gene_id "gene-ACY190_006142"; gene_name "VPS11";
+CM180708.1	Genbank	CDS	1964589	1964987	.	-	0	transcript_id "rna-ACY190_006142-T1_mrna"; gene_id "gene-ACY190_006142"; gene_name "VPS11";
+CM180708.1	Genbank	CDS	1965037	1965534	.	-	0	transcript_id "rna-ACY190_006142-T1_mrna"; gene_id "gene-ACY190_006142"; gene_name "VPS11";
+CM180708.1	Genbank	CDS	1965585	1965920	.	-	0	transcript_id "rna-ACY190_006142-T1_mrna"; gene_id "gene-ACY190_006142"; gene_name "VPS11";
+CM180708.1	Genbank	CDS	1965975	1966208	.	-	0	transcript_id "rna-ACY190_006142-T1_mrna"; gene_id "gene-ACY190_006142"; gene_name "VPS11";
+CM180708.1	Genbank	CDS	1966260	1966883	.	-	0	transcript_id "rna-ACY190_006142-T1_mrna"; gene_id "gene-ACY190_006142"; gene_name "VPS11";
+CM180708.1	Genbank	CDS	1966946	1967242	.	-	0	transcript_id "rna-ACY190_006142-T1_mrna"; gene_id "gene-ACY190_006142"; gene_name "VPS11";
+CM180708.1	Genbank	CDS	1967313	1967381	.	-	0	transcript_id "rna-ACY190_006142-T1_mrna"; gene_id "gene-ACY190_006142"; gene_name "VPS11";
+CM180708.1	Genbank	CDS	1968090	1970147	.	-	0	transcript_id "rna-ACY190_006142-T1_mrna"; gene_id "gene-ACY190_006142"; gene_name "VPS11";

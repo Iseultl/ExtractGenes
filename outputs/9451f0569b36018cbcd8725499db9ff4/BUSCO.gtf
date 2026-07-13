@@ -1,0 +1,942 @@
+CM179774.1	Genbank	transcript	613210	614379	.	+	.	transcript_id "rna-ACX4JU_000204-T1_mrna"; gene_id "gene-ACX4JU_000204"
+CM179774.1	Genbank	exon	613210	614135	.	+	.	transcript_id "rna-ACX4JU_000204-T1_mrna"; gene_id "gene-ACX4JU_000204";
+CM179774.1	Genbank	exon	614187	614379	.	+	.	transcript_id "rna-ACX4JU_000204-T1_mrna"; gene_id "gene-ACX4JU_000204";
+CM179774.1	Genbank	CDS	613210	614135	.	+	0	transcript_id "rna-ACX4JU_000204-T1_mrna"; gene_id "gene-ACX4JU_000204";
+CM179774.1	Genbank	CDS	614187	614379	.	+	1	transcript_id "rna-ACX4JU_000204-T1_mrna"; gene_id "gene-ACX4JU_000204";
+CM179774.1	Genbank	transcript	621673	624370	.	+	.	transcript_id "rna-ACX4JU_000209-T1_mrna"; gene_id "gene-ACX4JU_000209"; gene_name "DBP6"
+CM179774.1	Genbank	exon	621673	624370	.	+	.	transcript_id "rna-ACX4JU_000209-T1_mrna"; gene_id "gene-ACX4JU_000209"; gene_name "DBP6";
+CM179774.1	Genbank	CDS	621717	624287	.	+	0	transcript_id "rna-ACX4JU_000209-T1_mrna"; gene_id "gene-ACX4JU_000209"; gene_name "DBP6";
+CM179774.1	Genbank	transcript	928173	930014	.	-	.	transcript_id "rna-ACX4JU_000322-T1_mrna"; gene_id "gene-ACX4JU_000322"
+CM179774.1	Genbank	exon	928173	929272	.	-	.	transcript_id "rna-ACX4JU_000322-T1_mrna"; gene_id "gene-ACX4JU_000322";
+CM179774.1	Genbank	exon	929342	930014	.	-	.	transcript_id "rna-ACX4JU_000322-T1_mrna"; gene_id "gene-ACX4JU_000322";
+CM179774.1	Genbank	CDS	928401	929272	.	-	2	transcript_id "rna-ACX4JU_000322-T1_mrna"; gene_id "gene-ACX4JU_000322";
+CM179774.1	Genbank	CDS	929342	929834	.	-	0	transcript_id "rna-ACX4JU_000322-T1_mrna"; gene_id "gene-ACX4JU_000322";
+CM179774.1	Genbank	transcript	1145828	1148517	.	-	.	transcript_id "rna-ACX4JU_000395-T1_mrna"; gene_id "gene-ACX4JU_000395"; gene_name "SDA1"
+CM179774.1	Genbank	exon	1145828	1147854	.	-	.	transcript_id "rna-ACX4JU_000395-T1_mrna"; gene_id "gene-ACX4JU_000395"; gene_name "SDA1";
+CM179774.1	Genbank	exon	1147923	1148210	.	-	.	transcript_id "rna-ACX4JU_000395-T1_mrna"; gene_id "gene-ACX4JU_000395"; gene_name "SDA1";
+CM179774.1	Genbank	exon	1148286	1148321	.	-	.	transcript_id "rna-ACX4JU_000395-T1_mrna"; gene_id "gene-ACX4JU_000395"; gene_name "SDA1";
+CM179774.1	Genbank	exon	1148412	1148517	.	-	.	transcript_id "rna-ACX4JU_000395-T1_mrna"; gene_id "gene-ACX4JU_000395"; gene_name "SDA1";
+CM179774.1	Genbank	CDS	1145979	1147854	.	-	1	transcript_id "rna-ACX4JU_000395-T1_mrna"; gene_id "gene-ACX4JU_000395"; gene_name "SDA1";
+CM179774.1	Genbank	CDS	1147923	1148210	.	-	1	transcript_id "rna-ACX4JU_000395-T1_mrna"; gene_id "gene-ACX4JU_000395"; gene_name "SDA1";
+CM179774.1	Genbank	CDS	1148286	1148321	.	-	1	transcript_id "rna-ACX4JU_000395-T1_mrna"; gene_id "gene-ACX4JU_000395"; gene_name "SDA1";
+CM179774.1	Genbank	CDS	1148412	1148458	.	-	0	transcript_id "rna-ACX4JU_000395-T1_mrna"; gene_id "gene-ACX4JU_000395"; gene_name "SDA1";
+CM179774.1	Genbank	transcript	1290946	1291978	.	+	.	transcript_id "rna-ACX4JU_000444-T1_mrna"; gene_id "gene-ACX4JU_000444"
+CM179774.1	Genbank	exon	1290946	1291113	.	+	.	transcript_id "rna-ACX4JU_000444-T1_mrna"; gene_id "gene-ACX4JU_000444";
+CM179774.1	Genbank	exon	1291190	1291978	.	+	.	transcript_id "rna-ACX4JU_000444-T1_mrna"; gene_id "gene-ACX4JU_000444";
+CM179774.1	Genbank	CDS	1291018	1291113	.	+	0	transcript_id "rna-ACX4JU_000444-T1_mrna"; gene_id "gene-ACX4JU_000444";
+CM179774.1	Genbank	CDS	1291190	1291978	.	+	0	transcript_id "rna-ACX4JU_000444-T1_mrna"; gene_id "gene-ACX4JU_000444";
+CM179774.1	Genbank	transcript	1433332	1433988	.	-	.	transcript_id "rna-ACX4JU_000504-T1_mrna"; gene_id "gene-ACX4JU_000504"
+CM179774.1	Genbank	exon	1433332	1433988	.	-	.	transcript_id "rna-ACX4JU_000504-T1_mrna"; gene_id "gene-ACX4JU_000504";
+CM179774.1	Genbank	CDS	1433332	1433988	.	-	0	transcript_id "rna-ACX4JU_000504-T1_mrna"; gene_id "gene-ACX4JU_000504";
+CM179774.1	Genbank	transcript	1439554	1440527	.	+	.	transcript_id "rna-ACX4JU_000508-T1_mrna"; gene_id "gene-ACX4JU_000508"; gene_name "DPH5"
+CM179774.1	Genbank	exon	1439554	1439688	.	+	.	transcript_id "rna-ACX4JU_000508-T1_mrna"; gene_id "gene-ACX4JU_000508"; gene_name "DPH5";
+CM179774.1	Genbank	exon	1439753	1439877	.	+	.	transcript_id "rna-ACX4JU_000508-T1_mrna"; gene_id "gene-ACX4JU_000508"; gene_name "DPH5";
+CM179774.1	Genbank	exon	1439930	1440527	.	+	.	transcript_id "rna-ACX4JU_000508-T1_mrna"; gene_id "gene-ACX4JU_000508"; gene_name "DPH5";
+CM179774.1	Genbank	CDS	1439554	1439688	.	+	0	transcript_id "rna-ACX4JU_000508-T1_mrna"; gene_id "gene-ACX4JU_000508"; gene_name "DPH5";
+CM179774.1	Genbank	CDS	1439753	1439877	.	+	0	transcript_id "rna-ACX4JU_000508-T1_mrna"; gene_id "gene-ACX4JU_000508"; gene_name "DPH5";
+CM179774.1	Genbank	CDS	1439930	1440527	.	+	1	transcript_id "rna-ACX4JU_000508-T1_mrna"; gene_id "gene-ACX4JU_000508"; gene_name "DPH5";
+CM179774.1	Genbank	transcript	1478148	1479920	.	+	.	transcript_id "rna-ACX4JU_000521-T1_mrna"; gene_id "gene-ACX4JU_000521"; gene_name "prp3"
+CM179774.1	Genbank	exon	1478148	1479920	.	+	.	transcript_id "rna-ACX4JU_000521-T1_mrna"; gene_id "gene-ACX4JU_000521"; gene_name "prp3";
+CM179774.1	Genbank	CDS	1478148	1479920	.	+	0	transcript_id "rna-ACX4JU_000521-T1_mrna"; gene_id "gene-ACX4JU_000521"; gene_name "prp3";
+CM179774.1	Genbank	transcript	2361522	2363056	.	-	.	transcript_id "rna-ACX4JU_000842-T1_mrna"; gene_id "gene-ACX4JU_000842"; gene_name "GCV1"
+CM179774.1	Genbank	exon	2361522	2362587	.	-	.	transcript_id "rna-ACX4JU_000842-T1_mrna"; gene_id "gene-ACX4JU_000842"; gene_name "GCV1";
+CM179774.1	Genbank	exon	2362651	2363056	.	-	.	transcript_id "rna-ACX4JU_000842-T1_mrna"; gene_id "gene-ACX4JU_000842"; gene_name "GCV1";
+CM179774.1	Genbank	CDS	2361522	2362587	.	-	1	transcript_id "rna-ACX4JU_000842-T1_mrna"; gene_id "gene-ACX4JU_000842"; gene_name "GCV1";
+CM179774.1	Genbank	CDS	2362651	2363042	.	-	0	transcript_id "rna-ACX4JU_000842-T1_mrna"; gene_id "gene-ACX4JU_000842"; gene_name "GCV1";
+CM179774.1	Genbank	transcript	2366786	2370539	.	-	.	transcript_id "rna-ACX4JU_000844-T1_mrna"; gene_id "gene-ACX4JU_000844"; gene_name "MAK21"
+CM179774.1	Genbank	exon	2366786	2367888	.	-	.	transcript_id "rna-ACX4JU_000844-T1_mrna"; gene_id "gene-ACX4JU_000844"; gene_name "MAK21";
+CM179774.1	Genbank	exon	2367954	2368500	.	-	.	transcript_id "rna-ACX4JU_000844-T1_mrna"; gene_id "gene-ACX4JU_000844"; gene_name "MAK21";
+CM179774.1	Genbank	exon	2368550	2369664	.	-	.	transcript_id "rna-ACX4JU_000844-T1_mrna"; gene_id "gene-ACX4JU_000844"; gene_name "MAK21";
+CM179774.1	Genbank	exon	2369717	2370539	.	-	.	transcript_id "rna-ACX4JU_000844-T1_mrna"; gene_id "gene-ACX4JU_000844"; gene_name "MAK21";
+CM179774.1	Genbank	CDS	2366983	2367888	.	-	0	transcript_id "rna-ACX4JU_000844-T1_mrna"; gene_id "gene-ACX4JU_000844"; gene_name "MAK21";
+CM179774.1	Genbank	CDS	2367954	2368500	.	-	1	transcript_id "rna-ACX4JU_000844-T1_mrna"; gene_id "gene-ACX4JU_000844"; gene_name "MAK21";
+CM179774.1	Genbank	CDS	2368550	2369664	.	-	0	transcript_id "rna-ACX4JU_000844-T1_mrna"; gene_id "gene-ACX4JU_000844"; gene_name "MAK21";
+CM179774.1	Genbank	CDS	2369717	2370487	.	-	0	transcript_id "rna-ACX4JU_000844-T1_mrna"; gene_id "gene-ACX4JU_000844"; gene_name "MAK21";
+CM179774.1	Genbank	transcript	2381206	2382567	.	-	.	transcript_id "rna-ACX4JU_000851-T1_mrna"; gene_id "gene-ACX4JU_000851"; gene_name "PRP46"
+CM179774.1	Genbank	exon	2381206	2382567	.	-	.	transcript_id "rna-ACX4JU_000851-T1_mrna"; gene_id "gene-ACX4JU_000851"; gene_name "PRP46";
+CM179774.1	Genbank	CDS	2381206	2382567	.	-	0	transcript_id "rna-ACX4JU_000851-T1_mrna"; gene_id "gene-ACX4JU_000851"; gene_name "PRP46";
+CM179774.1	Genbank	transcript	2596787	2598103	.	-	.	transcript_id "rna-ACX4JU_000922-T1_mrna"; gene_id "gene-ACX4JU_000922"
+CM179774.1	Genbank	exon	2596787	2597366	.	-	.	transcript_id "rna-ACX4JU_000922-T1_mrna"; gene_id "gene-ACX4JU_000922";
+CM179774.1	Genbank	exon	2597442	2597911	.	-	.	transcript_id "rna-ACX4JU_000922-T1_mrna"; gene_id "gene-ACX4JU_000922";
+CM179774.1	Genbank	exon	2597998	2598037	.	-	.	transcript_id "rna-ACX4JU_000922-T1_mrna"; gene_id "gene-ACX4JU_000922";
+CM179774.1	Genbank	exon	2598096	2598103	.	-	.	transcript_id "rna-ACX4JU_000922-T1_mrna"; gene_id "gene-ACX4JU_000922";
+CM179774.1	Genbank	CDS	2596787	2597366	.	-	1	transcript_id "rna-ACX4JU_000922-T1_mrna"; gene_id "gene-ACX4JU_000922";
+CM179774.1	Genbank	CDS	2597442	2597911	.	-	0	transcript_id "rna-ACX4JU_000922-T1_mrna"; gene_id "gene-ACX4JU_000922";
+CM179774.1	Genbank	CDS	2597998	2598037	.	-	1	transcript_id "rna-ACX4JU_000922-T1_mrna"; gene_id "gene-ACX4JU_000922";
+CM179774.1	Genbank	CDS	2598096	2598103	.	-	0	transcript_id "rna-ACX4JU_000922-T1_mrna"; gene_id "gene-ACX4JU_000922";
+CM179774.1	Genbank	transcript	2630011	2630835	.	-	.	transcript_id "rna-ACX4JU_000937-T1_mrna"; gene_id "gene-ACX4JU_000937"; gene_name "TMA20"
+CM179774.1	Genbank	exon	2630011	2630401	.	-	.	transcript_id "rna-ACX4JU_000937-T1_mrna"; gene_id "gene-ACX4JU_000937"; gene_name "TMA20";
+CM179774.1	Genbank	exon	2630486	2630626	.	-	.	transcript_id "rna-ACX4JU_000937-T1_mrna"; gene_id "gene-ACX4JU_000937"; gene_name "TMA20";
+CM179774.1	Genbank	exon	2630822	2630835	.	-	.	transcript_id "rna-ACX4JU_000937-T1_mrna"; gene_id "gene-ACX4JU_000937"; gene_name "TMA20";
+CM179774.1	Genbank	CDS	2630011	2630401	.	-	1	transcript_id "rna-ACX4JU_000937-T1_mrna"; gene_id "gene-ACX4JU_000937"; gene_name "TMA20";
+CM179774.1	Genbank	CDS	2630486	2630626	.	-	1	transcript_id "rna-ACX4JU_000937-T1_mrna"; gene_id "gene-ACX4JU_000937"; gene_name "TMA20";
+CM179774.1	Genbank	CDS	2630822	2630835	.	-	0	transcript_id "rna-ACX4JU_000937-T1_mrna"; gene_id "gene-ACX4JU_000937"; gene_name "TMA20";
+CM179774.1	Genbank	transcript	2633631	2637160	.	-	.	transcript_id "rna-ACX4JU_000939-T1_mrna"; gene_id "gene-ACX4JU_000939"; gene_name "HIR1"
+CM179774.1	Genbank	exon	2633631	2633728	.	-	.	transcript_id "rna-ACX4JU_000939-T1_mrna"; gene_id "gene-ACX4JU_000939"; gene_name "HIR1";
+CM179774.1	Genbank	exon	2633805	2636561	.	-	.	transcript_id "rna-ACX4JU_000939-T1_mrna"; gene_id "gene-ACX4JU_000939"; gene_name "HIR1";
+CM179774.1	Genbank	exon	2636630	2636851	.	-	.	transcript_id "rna-ACX4JU_000939-T1_mrna"; gene_id "gene-ACX4JU_000939"; gene_name "HIR1";
+CM179774.1	Genbank	exon	2636944	2637018	.	-	.	transcript_id "rna-ACX4JU_000939-T1_mrna"; gene_id "gene-ACX4JU_000939"; gene_name "HIR1";
+CM179774.1	Genbank	exon	2637124	2637160	.	-	.	transcript_id "rna-ACX4JU_000939-T1_mrna"; gene_id "gene-ACX4JU_000939"; gene_name "HIR1";
+CM179774.1	Genbank	CDS	2633631	2633728	.	-	2	transcript_id "rna-ACX4JU_000939-T1_mrna"; gene_id "gene-ACX4JU_000939"; gene_name "HIR1";
+CM179774.1	Genbank	CDS	2633805	2636561	.	-	2	transcript_id "rna-ACX4JU_000939-T1_mrna"; gene_id "gene-ACX4JU_000939"; gene_name "HIR1";
+CM179774.1	Genbank	CDS	2636630	2636851	.	-	2	transcript_id "rna-ACX4JU_000939-T1_mrna"; gene_id "gene-ACX4JU_000939"; gene_name "HIR1";
+CM179774.1	Genbank	CDS	2636944	2637018	.	-	2	transcript_id "rna-ACX4JU_000939-T1_mrna"; gene_id "gene-ACX4JU_000939"; gene_name "HIR1";
+CM179774.1	Genbank	CDS	2637124	2637160	.	-	0	transcript_id "rna-ACX4JU_000939-T1_mrna"; gene_id "gene-ACX4JU_000939"; gene_name "HIR1";
+CM179774.1	Genbank	transcript	2731966	2735257	.	+	.	transcript_id "rna-ACX4JU_000975-T1_mrna"; gene_id "gene-ACX4JU_000975"; gene_name "GCD7"
+CM179774.1	Genbank	exon	2731966	2732074	.	+	.	transcript_id "rna-ACX4JU_000975-T1_mrna"; gene_id "gene-ACX4JU_000975"; gene_name "GCD7";
+CM179774.1	Genbank	exon	2732190	2732372	.	+	.	transcript_id "rna-ACX4JU_000975-T1_mrna"; gene_id "gene-ACX4JU_000975"; gene_name "GCD7";
+CM179774.1	Genbank	exon	2732434	2732729	.	+	.	transcript_id "rna-ACX4JU_000975-T1_mrna"; gene_id "gene-ACX4JU_000975"; gene_name "GCD7";
+CM179774.1	Genbank	exon	2732795	2733647	.	+	.	transcript_id "rna-ACX4JU_000975-T1_mrna"; gene_id "gene-ACX4JU_000975"; gene_name "GCD7";
+CM179774.1	Genbank	exon	2733711	2735257	.	+	.	transcript_id "rna-ACX4JU_000975-T1_mrna"; gene_id "gene-ACX4JU_000975"; gene_name "GCD7";
+CM179774.1	Genbank	CDS	2732275	2732372	.	+	0	transcript_id "rna-ACX4JU_000975-T1_mrna"; gene_id "gene-ACX4JU_000975"; gene_name "GCD7";
+CM179774.1	Genbank	CDS	2732434	2732729	.	+	1	transcript_id "rna-ACX4JU_000975-T1_mrna"; gene_id "gene-ACX4JU_000975"; gene_name "GCD7";
+CM179774.1	Genbank	CDS	2732795	2733647	.	+	2	transcript_id "rna-ACX4JU_000975-T1_mrna"; gene_id "gene-ACX4JU_000975"; gene_name "GCD7";
+CM179774.1	Genbank	CDS	2733711	2733783	.	+	1	transcript_id "rna-ACX4JU_000975-T1_mrna"; gene_id "gene-ACX4JU_000975"; gene_name "GCD7";
+CM179774.1	Genbank	transcript	2754449	2756248	.	-	.	transcript_id "rna-ACX4JU_000988-T1_mrna"; gene_id "gene-ACX4JU_000988"
+CM179774.1	Genbank	exon	2754449	2755188	.	-	.	transcript_id "rna-ACX4JU_000988-T1_mrna"; gene_id "gene-ACX4JU_000988";
+CM179774.1	Genbank	exon	2755255	2755967	.	-	.	transcript_id "rna-ACX4JU_000988-T1_mrna"; gene_id "gene-ACX4JU_000988";
+CM179774.1	Genbank	exon	2756031	2756248	.	-	.	transcript_id "rna-ACX4JU_000988-T1_mrna"; gene_id "gene-ACX4JU_000988";
+CM179774.1	Genbank	CDS	2754969	2755188	.	-	1	transcript_id "rna-ACX4JU_000988-T1_mrna"; gene_id "gene-ACX4JU_000988";
+CM179774.1	Genbank	CDS	2755255	2755967	.	-	0	transcript_id "rna-ACX4JU_000988-T1_mrna"; gene_id "gene-ACX4JU_000988";
+CM179774.1	Genbank	CDS	2756031	2756135	.	-	0	transcript_id "rna-ACX4JU_000988-T1_mrna"; gene_id "gene-ACX4JU_000988";
+CM179774.1	Genbank	transcript	2756371	2758981	.	+	.	transcript_id "rna-ACX4JU_000989-T1_mrna"; gene_id "gene-ACX4JU_000989"; gene_name "UTP25"
+CM179774.1	Genbank	exon	2756371	2756557	.	+	.	transcript_id "rna-ACX4JU_000989-T1_mrna"; gene_id "gene-ACX4JU_000989"; gene_name "UTP25";
+CM179774.1	Genbank	exon	2756623	2756999	.	+	.	transcript_id "rna-ACX4JU_000989-T1_mrna"; gene_id "gene-ACX4JU_000989"; gene_name "UTP25";
+CM179774.1	Genbank	exon	2757053	2757252	.	+	.	transcript_id "rna-ACX4JU_000989-T1_mrna"; gene_id "gene-ACX4JU_000989"; gene_name "UTP25";
+CM179774.1	Genbank	exon	2757322	2757899	.	+	.	transcript_id "rna-ACX4JU_000989-T1_mrna"; gene_id "gene-ACX4JU_000989"; gene_name "UTP25";
+CM179774.1	Genbank	exon	2757956	2758981	.	+	.	transcript_id "rna-ACX4JU_000989-T1_mrna"; gene_id "gene-ACX4JU_000989"; gene_name "UTP25";
+CM179774.1	Genbank	CDS	2756445	2756557	.	+	0	transcript_id "rna-ACX4JU_000989-T1_mrna"; gene_id "gene-ACX4JU_000989"; gene_name "UTP25";
+CM179774.1	Genbank	CDS	2756623	2756999	.	+	1	transcript_id "rna-ACX4JU_000989-T1_mrna"; gene_id "gene-ACX4JU_000989"; gene_name "UTP25";
+CM179774.1	Genbank	CDS	2757053	2757252	.	+	2	transcript_id "rna-ACX4JU_000989-T1_mrna"; gene_id "gene-ACX4JU_000989"; gene_name "UTP25";
+CM179774.1	Genbank	CDS	2757322	2757899	.	+	0	transcript_id "rna-ACX4JU_000989-T1_mrna"; gene_id "gene-ACX4JU_000989"; gene_name "UTP25";
+CM179774.1	Genbank	CDS	2757956	2758874	.	+	1	transcript_id "rna-ACX4JU_000989-T1_mrna"; gene_id "gene-ACX4JU_000989"; gene_name "UTP25";
+CM179774.1	Genbank	transcript	2786039	2788420	.	-	.	transcript_id "rna-ACX4JU_001002-T1_mrna"; gene_id "gene-ACX4JU_001002"; gene_name "ERB1"
+CM179774.1	Genbank	exon	2786039	2788420	.	-	.	transcript_id "rna-ACX4JU_001002-T1_mrna"; gene_id "gene-ACX4JU_001002"; gene_name "ERB1";
+CM179774.1	Genbank	CDS	2786039	2788420	.	-	0	transcript_id "rna-ACX4JU_001002-T1_mrna"; gene_id "gene-ACX4JU_001002"; gene_name "ERB1";
+CM179774.1	Genbank	transcript	2790275	2792239	.	-	.	transcript_id "rna-ACX4JU_001004-T1_mrna"; gene_id "gene-ACX4JU_001004"
+CM179774.1	Genbank	exon	2790275	2791540	.	-	.	transcript_id "rna-ACX4JU_001004-T1_mrna"; gene_id "gene-ACX4JU_001004";
+CM179774.1	Genbank	exon	2791601	2791772	.	-	.	transcript_id "rna-ACX4JU_001004-T1_mrna"; gene_id "gene-ACX4JU_001004";
+CM179774.1	Genbank	exon	2791831	2792239	.	-	.	transcript_id "rna-ACX4JU_001004-T1_mrna"; gene_id "gene-ACX4JU_001004";
+CM179774.1	Genbank	CDS	2790515	2791540	.	-	0	transcript_id "rna-ACX4JU_001004-T1_mrna"; gene_id "gene-ACX4JU_001004";
+CM179774.1	Genbank	CDS	2791601	2791772	.	-	1	transcript_id "rna-ACX4JU_001004-T1_mrna"; gene_id "gene-ACX4JU_001004";
+CM179774.1	Genbank	CDS	2791831	2792042	.	-	0	transcript_id "rna-ACX4JU_001004-T1_mrna"; gene_id "gene-ACX4JU_001004";
+CM179774.1	Genbank	transcript	2939519	2940848	.	+	.	transcript_id "rna-ACX4JU_001058-T1_mrna"; gene_id "gene-ACX4JU_001058"; gene_name "DRE2"
+CM179774.1	Genbank	exon	2939519	2940249	.	+	.	transcript_id "rna-ACX4JU_001058-T1_mrna"; gene_id "gene-ACX4JU_001058"; gene_name "DRE2";
+CM179774.1	Genbank	exon	2940362	2940591	.	+	.	transcript_id "rna-ACX4JU_001058-T1_mrna"; gene_id "gene-ACX4JU_001058"; gene_name "DRE2";
+CM179774.1	Genbank	exon	2940663	2940848	.	+	.	transcript_id "rna-ACX4JU_001058-T1_mrna"; gene_id "gene-ACX4JU_001058"; gene_name "DRE2";
+CM179774.1	Genbank	CDS	2939595	2940249	.	+	0	transcript_id "rna-ACX4JU_001058-T1_mrna"; gene_id "gene-ACX4JU_001058"; gene_name "DRE2";
+CM179774.1	Genbank	CDS	2940362	2940591	.	+	2	transcript_id "rna-ACX4JU_001058-T1_mrna"; gene_id "gene-ACX4JU_001058"; gene_name "DRE2";
+CM179774.1	Genbank	CDS	2940663	2940740	.	+	0	transcript_id "rna-ACX4JU_001058-T1_mrna"; gene_id "gene-ACX4JU_001058"; gene_name "DRE2";
+CM179774.1	Genbank	transcript	3238055	3239419	.	-	.	transcript_id "rna-ACX4JU_001162-T1_mrna"; gene_id "gene-ACX4JU_001162"; gene_name "TSR3"
+CM179774.1	Genbank	exon	3238055	3238794	.	-	.	transcript_id "rna-ACX4JU_001162-T1_mrna"; gene_id "gene-ACX4JU_001162"; gene_name "TSR3";
+CM179774.1	Genbank	exon	3238867	3239003	.	-	.	transcript_id "rna-ACX4JU_001162-T1_mrna"; gene_id "gene-ACX4JU_001162"; gene_name "TSR3";
+CM179774.1	Genbank	exon	3239063	3239419	.	-	.	transcript_id "rna-ACX4JU_001162-T1_mrna"; gene_id "gene-ACX4JU_001162"; gene_name "TSR3";
+CM179774.1	Genbank	CDS	3238055	3238794	.	-	2	transcript_id "rna-ACX4JU_001162-T1_mrna"; gene_id "gene-ACX4JU_001162"; gene_name "TSR3";
+CM179774.1	Genbank	CDS	3238867	3239003	.	-	1	transcript_id "rna-ACX4JU_001162-T1_mrna"; gene_id "gene-ACX4JU_001162"; gene_name "TSR3";
+CM179774.1	Genbank	CDS	3239063	3239310	.	-	0	transcript_id "rna-ACX4JU_001162-T1_mrna"; gene_id "gene-ACX4JU_001162"; gene_name "TSR3";
+CM179774.1	Genbank	transcript	3361569	3363727	.	-	.	transcript_id "rna-ACX4JU_001211-T1_mrna"; gene_id "gene-ACX4JU_001211"; gene_name "PCM1"
+CM179774.1	Genbank	exon	3361569	3362450	.	-	.	transcript_id "rna-ACX4JU_001211-T1_mrna"; gene_id "gene-ACX4JU_001211"; gene_name "PCM1";
+CM179774.1	Genbank	exon	3362505	3363005	.	-	.	transcript_id "rna-ACX4JU_001211-T1_mrna"; gene_id "gene-ACX4JU_001211"; gene_name "PCM1";
+CM179774.1	Genbank	exon	3363065	3363079	.	-	.	transcript_id "rna-ACX4JU_001211-T1_mrna"; gene_id "gene-ACX4JU_001211"; gene_name "PCM1";
+CM179774.1	Genbank	exon	3363148	3363292	.	-	.	transcript_id "rna-ACX4JU_001211-T1_mrna"; gene_id "gene-ACX4JU_001211"; gene_name "PCM1";
+CM179774.1	Genbank	exon	3363388	3363401	.	-	.	transcript_id "rna-ACX4JU_001211-T1_mrna"; gene_id "gene-ACX4JU_001211"; gene_name "PCM1";
+CM179774.1	Genbank	exon	3363467	3363727	.	-	.	transcript_id "rna-ACX4JU_001211-T1_mrna"; gene_id "gene-ACX4JU_001211"; gene_name "PCM1";
+CM179774.1	Genbank	CDS	3361569	3362450	.	-	0	transcript_id "rna-ACX4JU_001211-T1_mrna"; gene_id "gene-ACX4JU_001211"; gene_name "PCM1";
+CM179774.1	Genbank	CDS	3362505	3363005	.	-	0	transcript_id "rna-ACX4JU_001211-T1_mrna"; gene_id "gene-ACX4JU_001211"; gene_name "PCM1";
+CM179774.1	Genbank	CDS	3363065	3363079	.	-	0	transcript_id "rna-ACX4JU_001211-T1_mrna"; gene_id "gene-ACX4JU_001211"; gene_name "PCM1";
+CM179774.1	Genbank	CDS	3363148	3363292	.	-	1	transcript_id "rna-ACX4JU_001211-T1_mrna"; gene_id "gene-ACX4JU_001211"; gene_name "PCM1";
+CM179774.1	Genbank	CDS	3363388	3363401	.	-	0	transcript_id "rna-ACX4JU_001211-T1_mrna"; gene_id "gene-ACX4JU_001211"; gene_name "PCM1";
+CM179774.1	Genbank	CDS	3363467	3363559	.	-	0	transcript_id "rna-ACX4JU_001211-T1_mrna"; gene_id "gene-ACX4JU_001211"; gene_name "PCM1";
+CM179774.1	Genbank	transcript	3536316	3540310	.	-	.	transcript_id "rna-ACX4JU_001274-T1_mrna"; gene_id "gene-ACX4JU_001274"; gene_name "FRS1"
+CM179774.1	Genbank	exon	3536316	3537910	.	-	.	transcript_id "rna-ACX4JU_001274-T1_mrna"; gene_id "gene-ACX4JU_001274"; gene_name "FRS1";
+CM179774.1	Genbank	exon	3538008	3538816	.	-	.	transcript_id "rna-ACX4JU_001274-T1_mrna"; gene_id "gene-ACX4JU_001274"; gene_name "FRS1";
+CM179774.1	Genbank	exon	3538871	3539112	.	-	.	transcript_id "rna-ACX4JU_001274-T1_mrna"; gene_id "gene-ACX4JU_001274"; gene_name "FRS1";
+CM179774.1	Genbank	exon	3539167	3539433	.	-	.	transcript_id "rna-ACX4JU_001274-T1_mrna"; gene_id "gene-ACX4JU_001274"; gene_name "FRS1";
+CM179774.1	Genbank	exon	3539497	3539626	.	-	.	transcript_id "rna-ACX4JU_001274-T1_mrna"; gene_id "gene-ACX4JU_001274"; gene_name "FRS1";
+CM179774.1	Genbank	exon	3539688	3539764	.	-	.	transcript_id "rna-ACX4JU_001274-T1_mrna"; gene_id "gene-ACX4JU_001274"; gene_name "FRS1";
+CM179774.1	Genbank	exon	3539821	3539840	.	-	.	transcript_id "rna-ACX4JU_001274-T1_mrna"; gene_id "gene-ACX4JU_001274"; gene_name "FRS1";
+CM179774.1	Genbank	exon	3539909	3539949	.	-	.	transcript_id "rna-ACX4JU_001274-T1_mrna"; gene_id "gene-ACX4JU_001274"; gene_name "FRS1";
+CM179774.1	Genbank	exon	3540010	3540310	.	-	.	transcript_id "rna-ACX4JU_001274-T1_mrna"; gene_id "gene-ACX4JU_001274"; gene_name "FRS1";
+CM179774.1	Genbank	CDS	3537747	3537910	.	-	2	transcript_id "rna-ACX4JU_001274-T1_mrna"; gene_id "gene-ACX4JU_001274"; gene_name "FRS1";
+CM179774.1	Genbank	CDS	3538008	3538816	.	-	1	transcript_id "rna-ACX4JU_001274-T1_mrna"; gene_id "gene-ACX4JU_001274"; gene_name "FRS1";
+CM179774.1	Genbank	CDS	3538871	3539112	.	-	0	transcript_id "rna-ACX4JU_001274-T1_mrna"; gene_id "gene-ACX4JU_001274"; gene_name "FRS1";
+CM179774.1	Genbank	CDS	3539167	3539433	.	-	0	transcript_id "rna-ACX4JU_001274-T1_mrna"; gene_id "gene-ACX4JU_001274"; gene_name "FRS1";
+CM179774.1	Genbank	CDS	3539497	3539626	.	-	1	transcript_id "rna-ACX4JU_001274-T1_mrna"; gene_id "gene-ACX4JU_001274"; gene_name "FRS1";
+CM179774.1	Genbank	CDS	3539688	3539764	.	-	0	transcript_id "rna-ACX4JU_001274-T1_mrna"; gene_id "gene-ACX4JU_001274"; gene_name "FRS1";
+CM179774.1	Genbank	CDS	3539821	3539840	.	-	2	transcript_id "rna-ACX4JU_001274-T1_mrna"; gene_id "gene-ACX4JU_001274"; gene_name "FRS1";
+CM179774.1	Genbank	CDS	3539909	3539949	.	-	1	transcript_id "rna-ACX4JU_001274-T1_mrna"; gene_id "gene-ACX4JU_001274"; gene_name "FRS1";
+CM179774.1	Genbank	CDS	3540010	3540062	.	-	0	transcript_id "rna-ACX4JU_001274-T1_mrna"; gene_id "gene-ACX4JU_001274"; gene_name "FRS1";
+CM179774.1	Genbank	transcript	3668729	3669372	.	+	.	transcript_id "rna-ACX4JU_001320-T1_mrna"; gene_id "gene-ACX4JU_001320"; gene_name "naa20"
+CM179774.1	Genbank	exon	3668729	3668897	.	+	.	transcript_id "rna-ACX4JU_001320-T1_mrna"; gene_id "gene-ACX4JU_001320"; gene_name "naa20";
+CM179774.1	Genbank	exon	3668969	3669372	.	+	.	transcript_id "rna-ACX4JU_001320-T1_mrna"; gene_id "gene-ACX4JU_001320"; gene_name "naa20";
+CM179774.1	Genbank	CDS	3668729	3668897	.	+	0	transcript_id "rna-ACX4JU_001320-T1_mrna"; gene_id "gene-ACX4JU_001320"; gene_name "naa20";
+CM179774.1	Genbank	CDS	3668969	3669372	.	+	2	transcript_id "rna-ACX4JU_001320-T1_mrna"; gene_id "gene-ACX4JU_001320"; gene_name "naa20";
+CM179774.1	Genbank	transcript	3865526	3867921	.	+	.	transcript_id "rna-ACX4JU_001389-T1_mrna"; gene_id "gene-ACX4JU_001389"; gene_name "CSN12"
+CM179774.1	Genbank	exon	3865526	3866310	.	+	.	transcript_id "rna-ACX4JU_001389-T1_mrna"; gene_id "gene-ACX4JU_001389"; gene_name "CSN12";
+CM179774.1	Genbank	exon	3866370	3866442	.	+	.	transcript_id "rna-ACX4JU_001389-T1_mrna"; gene_id "gene-ACX4JU_001389"; gene_name "CSN12";
+CM179774.1	Genbank	exon	3866491	3866643	.	+	.	transcript_id "rna-ACX4JU_001389-T1_mrna"; gene_id "gene-ACX4JU_001389"; gene_name "CSN12";
+CM179774.1	Genbank	exon	3866706	3866767	.	+	.	transcript_id "rna-ACX4JU_001389-T1_mrna"; gene_id "gene-ACX4JU_001389"; gene_name "CSN12";
+CM179774.1	Genbank	exon	3866817	3867237	.	+	.	transcript_id "rna-ACX4JU_001389-T1_mrna"; gene_id "gene-ACX4JU_001389"; gene_name "CSN12";
+CM179774.1	Genbank	exon	3867292	3867921	.	+	.	transcript_id "rna-ACX4JU_001389-T1_mrna"; gene_id "gene-ACX4JU_001389"; gene_name "CSN12";
+CM179774.1	Genbank	CDS	3865739	3866310	.	+	0	transcript_id "rna-ACX4JU_001389-T1_mrna"; gene_id "gene-ACX4JU_001389"; gene_name "CSN12";
+CM179774.1	Genbank	CDS	3866370	3866442	.	+	1	transcript_id "rna-ACX4JU_001389-T1_mrna"; gene_id "gene-ACX4JU_001389"; gene_name "CSN12";
+CM179774.1	Genbank	CDS	3866491	3866643	.	+	0	transcript_id "rna-ACX4JU_001389-T1_mrna"; gene_id "gene-ACX4JU_001389"; gene_name "CSN12";
+CM179774.1	Genbank	CDS	3866706	3866767	.	+	0	transcript_id "rna-ACX4JU_001389-T1_mrna"; gene_id "gene-ACX4JU_001389"; gene_name "CSN12";
+CM179774.1	Genbank	CDS	3866817	3867237	.	+	1	transcript_id "rna-ACX4JU_001389-T1_mrna"; gene_id "gene-ACX4JU_001389"; gene_name "CSN12";
+CM179774.1	Genbank	CDS	3867292	3867378	.	+	0	transcript_id "rna-ACX4JU_001389-T1_mrna"; gene_id "gene-ACX4JU_001389"; gene_name "CSN12";
+CM179774.1	Genbank	transcript	3997885	4000169	.	-	.	transcript_id "rna-ACX4JU_001439-T1_mrna"; gene_id "gene-ACX4JU_001439"; gene_name "SRP68"
+CM179774.1	Genbank	exon	3997885	3998645	.	-	.	transcript_id "rna-ACX4JU_001439-T1_mrna"; gene_id "gene-ACX4JU_001439"; gene_name "SRP68";
+CM179774.1	Genbank	exon	3998703	3999842	.	-	.	transcript_id "rna-ACX4JU_001439-T1_mrna"; gene_id "gene-ACX4JU_001439"; gene_name "SRP68";
+CM179774.1	Genbank	exon	3999917	4000169	.	-	.	transcript_id "rna-ACX4JU_001439-T1_mrna"; gene_id "gene-ACX4JU_001439"; gene_name "SRP68";
+CM179774.1	Genbank	CDS	3998141	3998645	.	-	1	transcript_id "rna-ACX4JU_001439-T1_mrna"; gene_id "gene-ACX4JU_001439"; gene_name "SRP68";
+CM179774.1	Genbank	CDS	3998703	3999842	.	-	1	transcript_id "rna-ACX4JU_001439-T1_mrna"; gene_id "gene-ACX4JU_001439"; gene_name "SRP68";
+CM179774.1	Genbank	CDS	3999917	4000107	.	-	0	transcript_id "rna-ACX4JU_001439-T1_mrna"; gene_id "gene-ACX4JU_001439"; gene_name "SRP68";
+CM179774.1	Genbank	transcript	4132417	4134183	.	-	.	transcript_id "rna-ACX4JU_001485-T1_mrna"; gene_id "gene-ACX4JU_001485"
+CM179774.1	Genbank	exon	4132417	4133598	.	-	.	transcript_id "rna-ACX4JU_001485-T1_mrna"; gene_id "gene-ACX4JU_001485";
+CM179774.1	Genbank	exon	4133651	4133778	.	-	.	transcript_id "rna-ACX4JU_001485-T1_mrna"; gene_id "gene-ACX4JU_001485";
+CM179774.1	Genbank	exon	4133851	4133951	.	-	.	transcript_id "rna-ACX4JU_001485-T1_mrna"; gene_id "gene-ACX4JU_001485";
+CM179774.1	Genbank	exon	4134016	4134183	.	-	.	transcript_id "rna-ACX4JU_001485-T1_mrna"; gene_id "gene-ACX4JU_001485";
+CM179774.1	Genbank	CDS	4132665	4133598	.	-	1	transcript_id "rna-ACX4JU_001485-T1_mrna"; gene_id "gene-ACX4JU_001485";
+CM179774.1	Genbank	CDS	4133651	4133778	.	-	0	transcript_id "rna-ACX4JU_001485-T1_mrna"; gene_id "gene-ACX4JU_001485";
+CM179774.1	Genbank	CDS	4133851	4133951	.	-	2	transcript_id "rna-ACX4JU_001485-T1_mrna"; gene_id "gene-ACX4JU_001485";
+CM179774.1	Genbank	CDS	4134016	4134118	.	-	0	transcript_id "rna-ACX4JU_001485-T1_mrna"; gene_id "gene-ACX4JU_001485";
+CM179774.1	Genbank	transcript	4349482	4353425	.	-	.	transcript_id "rna-ACX4JU_001558-T1_mrna"; gene_id "gene-ACX4JU_001558"; gene_name "DIP2"
+CM179774.1	Genbank	exon	4349482	4352839	.	-	.	transcript_id "rna-ACX4JU_001558-T1_mrna"; gene_id "gene-ACX4JU_001558"; gene_name "DIP2";
+CM179774.1	Genbank	exon	4352914	4353168	.	-	.	transcript_id "rna-ACX4JU_001558-T1_mrna"; gene_id "gene-ACX4JU_001558"; gene_name "DIP2";
+CM179774.1	Genbank	exon	4353237	4353425	.	-	.	transcript_id "rna-ACX4JU_001558-T1_mrna"; gene_id "gene-ACX4JU_001558"; gene_name "DIP2";
+CM179774.1	Genbank	CDS	4350235	4352839	.	-	1	transcript_id "rna-ACX4JU_001558-T1_mrna"; gene_id "gene-ACX4JU_001558"; gene_name "DIP2";
+CM179774.1	Genbank	CDS	4352914	4353168	.	-	1	transcript_id "rna-ACX4JU_001558-T1_mrna"; gene_id "gene-ACX4JU_001558"; gene_name "DIP2";
+CM179774.1	Genbank	CDS	4353237	4353253	.	-	0	transcript_id "rna-ACX4JU_001558-T1_mrna"; gene_id "gene-ACX4JU_001558"; gene_name "DIP2";
+CM179774.1	Genbank	transcript	4364414	4366483	.	-	.	transcript_id "rna-ACX4JU_001566-T1_mrna"; gene_id "gene-ACX4JU_001566"; gene_name "PWP1"
+CM179774.1	Genbank	exon	4364414	4365946	.	-	.	transcript_id "rna-ACX4JU_001566-T1_mrna"; gene_id "gene-ACX4JU_001566"; gene_name "PWP1";
+CM179774.1	Genbank	exon	4366015	4366483	.	-	.	transcript_id "rna-ACX4JU_001566-T1_mrna"; gene_id "gene-ACX4JU_001566"; gene_name "PWP1";
+CM179774.1	Genbank	CDS	4364584	4365946	.	-	1	transcript_id "rna-ACX4JU_001566-T1_mrna"; gene_id "gene-ACX4JU_001566"; gene_name "PWP1";
+CM179774.1	Genbank	CDS	4366015	4366280	.	-	0	transcript_id "rna-ACX4JU_001566-T1_mrna"; gene_id "gene-ACX4JU_001566"; gene_name "PWP1";
+CM179774.1	Genbank	transcript	4373045	4375857	.	+	.	transcript_id "rna-ACX4JU_001570-T1_mrna"; gene_id "gene-ACX4JU_001570"; gene_name "RRN3"
+CM179774.1	Genbank	exon	4373045	4375857	.	+	.	transcript_id "rna-ACX4JU_001570-T1_mrna"; gene_id "gene-ACX4JU_001570"; gene_name "RRN3";
+CM179774.1	Genbank	CDS	4373406	4375547	.	+	0	transcript_id "rna-ACX4JU_001570-T1_mrna"; gene_id "gene-ACX4JU_001570"; gene_name "RRN3";
+CM179774.1	Genbank	transcript	4538273	4540081	.	+	.	transcript_id "rna-ACX4JU_001631-T1_mrna"; gene_id "gene-ACX4JU_001631"; gene_name "RSA4"
+CM179774.1	Genbank	exon	4538273	4538551	.	+	.	transcript_id "rna-ACX4JU_001631-T1_mrna"; gene_id "gene-ACX4JU_001631"; gene_name "RSA4";
+CM179774.1	Genbank	exon	4538618	4539696	.	+	.	transcript_id "rna-ACX4JU_001631-T1_mrna"; gene_id "gene-ACX4JU_001631"; gene_name "RSA4";
+CM179774.1	Genbank	exon	4539753	4540081	.	+	.	transcript_id "rna-ACX4JU_001631-T1_mrna"; gene_id "gene-ACX4JU_001631"; gene_name "RSA4";
+CM179774.1	Genbank	CDS	4538327	4538551	.	+	0	transcript_id "rna-ACX4JU_001631-T1_mrna"; gene_id "gene-ACX4JU_001631"; gene_name "RSA4";
+CM179774.1	Genbank	CDS	4538618	4539696	.	+	0	transcript_id "rna-ACX4JU_001631-T1_mrna"; gene_id "gene-ACX4JU_001631"; gene_name "RSA4";
+CM179774.1	Genbank	CDS	4539753	4539996	.	+	1	transcript_id "rna-ACX4JU_001631-T1_mrna"; gene_id "gene-ACX4JU_001631"; gene_name "RSA4";
+CM179775.1	Genbank	transcript	336979	337990	.	+	.	transcript_id "rna-ACX4JU_001875-T1_mrna"; gene_id "gene-ACX4JU_001875"; gene_name "nop16"
+CM179775.1	Genbank	exon	336979	337141	.	+	.	transcript_id "rna-ACX4JU_001875-T1_mrna"; gene_id "gene-ACX4JU_001875"; gene_name "nop16";
+CM179775.1	Genbank	exon	337208	337990	.	+	.	transcript_id "rna-ACX4JU_001875-T1_mrna"; gene_id "gene-ACX4JU_001875"; gene_name "nop16";
+CM179775.1	Genbank	CDS	337011	337141	.	+	0	transcript_id "rna-ACX4JU_001875-T1_mrna"; gene_id "gene-ACX4JU_001875"; gene_name "nop16";
+CM179775.1	Genbank	CDS	337208	337802	.	+	1	transcript_id "rna-ACX4JU_001875-T1_mrna"; gene_id "gene-ACX4JU_001875"; gene_name "nop16";
+CM179775.1	Genbank	transcript	572019	573183	.	+	.	transcript_id "rna-ACX4JU_001967-T1_mrna"; gene_id "gene-ACX4JU_001967"; gene_name "RRP40"
+CM179775.1	Genbank	exon	572019	573183	.	+	.	transcript_id "rna-ACX4JU_001967-T1_mrna"; gene_id "gene-ACX4JU_001967"; gene_name "RRP40";
+CM179775.1	Genbank	CDS	572233	573057	.	+	0	transcript_id "rna-ACX4JU_001967-T1_mrna"; gene_id "gene-ACX4JU_001967"; gene_name "RRP40";
+CM179775.1	Genbank	transcript	740848	742837	.	+	.	transcript_id "rna-ACX4JU_002027-T1_mrna"; gene_id "gene-ACX4JU_002027"; gene_name "DOM34"
+CM179775.1	Genbank	exon	740848	741281	.	+	.	transcript_id "rna-ACX4JU_002027-T1_mrna"; gene_id "gene-ACX4JU_002027"; gene_name "DOM34";
+CM179775.1	Genbank	exon	741341	741835	.	+	.	transcript_id "rna-ACX4JU_002027-T1_mrna"; gene_id "gene-ACX4JU_002027"; gene_name "DOM34";
+CM179775.1	Genbank	exon	741892	742837	.	+	.	transcript_id "rna-ACX4JU_002027-T1_mrna"; gene_id "gene-ACX4JU_002027"; gene_name "DOM34";
+CM179775.1	Genbank	CDS	741204	741281	.	+	0	transcript_id "rna-ACX4JU_002027-T1_mrna"; gene_id "gene-ACX4JU_002027"; gene_name "DOM34";
+CM179775.1	Genbank	CDS	741341	741835	.	+	0	transcript_id "rna-ACX4JU_002027-T1_mrna"; gene_id "gene-ACX4JU_002027"; gene_name "DOM34";
+CM179775.1	Genbank	CDS	741892	742551	.	+	0	transcript_id "rna-ACX4JU_002027-T1_mrna"; gene_id "gene-ACX4JU_002027"; gene_name "DOM34";
+CM179775.1	Genbank	transcript	820411	823242	.	-	.	transcript_id "rna-ACX4JU_002051-T1_mrna"; gene_id "gene-ACX4JU_002051"
+CM179775.1	Genbank	exon	820411	822660	.	-	.	transcript_id "rna-ACX4JU_002051-T1_mrna"; gene_id "gene-ACX4JU_002051";
+CM179775.1	Genbank	exon	822710	823242	.	-	.	transcript_id "rna-ACX4JU_002051-T1_mrna"; gene_id "gene-ACX4JU_002051";
+CM179775.1	Genbank	CDS	820411	822660	.	-	0	transcript_id "rna-ACX4JU_002051-T1_mrna"; gene_id "gene-ACX4JU_002051";
+CM179775.1	Genbank	CDS	822710	823144	.	-	0	transcript_id "rna-ACX4JU_002051-T1_mrna"; gene_id "gene-ACX4JU_002051";
+CM179775.1	Genbank	transcript	951818	954134	.	+	.	transcript_id "rna-ACX4JU_002095-T1_mrna"; gene_id "gene-ACX4JU_002095"; gene_name "ENP2"
+CM179775.1	Genbank	exon	951818	952120	.	+	.	transcript_id "rna-ACX4JU_002095-T1_mrna"; gene_id "gene-ACX4JU_002095"; gene_name "ENP2";
+CM179775.1	Genbank	exon	952189	954134	.	+	.	transcript_id "rna-ACX4JU_002095-T1_mrna"; gene_id "gene-ACX4JU_002095"; gene_name "ENP2";
+CM179775.1	Genbank	CDS	951904	952120	.	+	0	transcript_id "rna-ACX4JU_002095-T1_mrna"; gene_id "gene-ACX4JU_002095"; gene_name "ENP2";
+CM179775.1	Genbank	CDS	952189	954134	.	+	2	transcript_id "rna-ACX4JU_002095-T1_mrna"; gene_id "gene-ACX4JU_002095"; gene_name "ENP2";
+CM179775.1	Genbank	transcript	1494211	1497085	.	-	.	transcript_id "rna-ACX4JU_002274-T1_mrna"; gene_id "gene-ACX4JU_002274"; gene_name "ESF1"
+CM179775.1	Genbank	exon	1494211	1496825	.	-	.	transcript_id "rna-ACX4JU_002274-T1_mrna"; gene_id "gene-ACX4JU_002274"; gene_name "ESF1";
+CM179775.1	Genbank	exon	1496902	1497085	.	-	.	transcript_id "rna-ACX4JU_002274-T1_mrna"; gene_id "gene-ACX4JU_002274"; gene_name "ESF1";
+CM179775.1	Genbank	CDS	1494700	1496825	.	-	2	transcript_id "rna-ACX4JU_002274-T1_mrna"; gene_id "gene-ACX4JU_002274"; gene_name "ESF1";
+CM179775.1	Genbank	CDS	1496902	1496965	.	-	0	transcript_id "rna-ACX4JU_002274-T1_mrna"; gene_id "gene-ACX4JU_002274"; gene_name "ESF1";
+CM179775.1	Genbank	transcript	1511184	1512359	.	-	.	transcript_id "rna-ACX4JU_002280-T1_mrna"; gene_id "gene-ACX4JU_002280"; gene_name "LIA1"
+CM179775.1	Genbank	exon	1511184	1511700	.	-	.	transcript_id "rna-ACX4JU_002280-T1_mrna"; gene_id "gene-ACX4JU_002280"; gene_name "LIA1";
+CM179775.1	Genbank	exon	1511782	1512359	.	-	.	transcript_id "rna-ACX4JU_002280-T1_mrna"; gene_id "gene-ACX4JU_002280"; gene_name "LIA1";
+CM179775.1	Genbank	CDS	1511184	1511700	.	-	1	transcript_id "rna-ACX4JU_002280-T1_mrna"; gene_id "gene-ACX4JU_002280"; gene_name "LIA1";
+CM179775.1	Genbank	CDS	1511782	1512272	.	-	0	transcript_id "rna-ACX4JU_002280-T1_mrna"; gene_id "gene-ACX4JU_002280"; gene_name "LIA1";
+CM179775.1	Genbank	transcript	1643191	1645394	.	-	.	transcript_id "rna-ACX4JU_002328-T1_mrna"; gene_id "gene-ACX4JU_002328"; gene_name "UTP18"
+CM179775.1	Genbank	exon	1643191	1643342	.	-	.	transcript_id "rna-ACX4JU_002328-T1_mrna"; gene_id "gene-ACX4JU_002328"; gene_name "UTP18";
+CM179775.1	Genbank	exon	1643406	1644255	.	-	.	transcript_id "rna-ACX4JU_002328-T1_mrna"; gene_id "gene-ACX4JU_002328"; gene_name "UTP18";
+CM179775.1	Genbank	exon	1644315	1644818	.	-	.	transcript_id "rna-ACX4JU_002328-T1_mrna"; gene_id "gene-ACX4JU_002328"; gene_name "UTP18";
+CM179775.1	Genbank	exon	1644876	1645394	.	-	.	transcript_id "rna-ACX4JU_002328-T1_mrna"; gene_id "gene-ACX4JU_002328"; gene_name "UTP18";
+CM179775.1	Genbank	CDS	1643191	1643342	.	-	2	transcript_id "rna-ACX4JU_002328-T1_mrna"; gene_id "gene-ACX4JU_002328"; gene_name "UTP18";
+CM179775.1	Genbank	CDS	1643406	1644255	.	-	0	transcript_id "rna-ACX4JU_002328-T1_mrna"; gene_id "gene-ACX4JU_002328"; gene_name "UTP18";
+CM179775.1	Genbank	CDS	1644315	1644818	.	-	0	transcript_id "rna-ACX4JU_002328-T1_mrna"; gene_id "gene-ACX4JU_002328"; gene_name "UTP18";
+CM179775.1	Genbank	CDS	1644876	1645226	.	-	0	transcript_id "rna-ACX4JU_002328-T1_mrna"; gene_id "gene-ACX4JU_002328"; gene_name "UTP18";
+CM179775.1	Genbank	transcript	1736385	1738673	.	-	.	transcript_id "rna-ACX4JU_002362-T1_mrna"; gene_id "gene-ACX4JU_002362"; gene_name "DPB2"
+CM179775.1	Genbank	exon	1736385	1738673	.	-	.	transcript_id "rna-ACX4JU_002362-T1_mrna"; gene_id "gene-ACX4JU_002362"; gene_name "DPB2";
+CM179775.1	Genbank	CDS	1736385	1738673	.	-	0	transcript_id "rna-ACX4JU_002362-T1_mrna"; gene_id "gene-ACX4JU_002362"; gene_name "DPB2";
+CM179775.1	Genbank	transcript	1752755	1756377	.	+	.	transcript_id "rna-ACX4JU_002369-T1_mrna"; gene_id "gene-ACX4JU_002369"; gene_name "ATG7"
+CM179775.1	Genbank	exon	1752755	1753098	.	+	.	transcript_id "rna-ACX4JU_002369-T1_mrna"; gene_id "gene-ACX4JU_002369"; gene_name "ATG7";
+CM179775.1	Genbank	exon	1753204	1753312	.	+	.	transcript_id "rna-ACX4JU_002369-T1_mrna"; gene_id "gene-ACX4JU_002369"; gene_name "ATG7";
+CM179775.1	Genbank	exon	1753367	1754157	.	+	.	transcript_id "rna-ACX4JU_002369-T1_mrna"; gene_id "gene-ACX4JU_002369"; gene_name "ATG7";
+CM179775.1	Genbank	exon	1754226	1754370	.	+	.	transcript_id "rna-ACX4JU_002369-T1_mrna"; gene_id "gene-ACX4JU_002369"; gene_name "ATG7";
+CM179775.1	Genbank	exon	1754426	1754893	.	+	.	transcript_id "rna-ACX4JU_002369-T1_mrna"; gene_id "gene-ACX4JU_002369"; gene_name "ATG7";
+CM179775.1	Genbank	exon	1754949	1755607	.	+	.	transcript_id "rna-ACX4JU_002369-T1_mrna"; gene_id "gene-ACX4JU_002369"; gene_name "ATG7";
+CM179775.1	Genbank	exon	1755694	1756377	.	+	.	transcript_id "rna-ACX4JU_002369-T1_mrna"; gene_id "gene-ACX4JU_002369"; gene_name "ATG7";
+CM179775.1	Genbank	CDS	1752908	1753098	.	+	0	transcript_id "rna-ACX4JU_002369-T1_mrna"; gene_id "gene-ACX4JU_002369"; gene_name "ATG7";
+CM179775.1	Genbank	CDS	1753204	1753312	.	+	1	transcript_id "rna-ACX4JU_002369-T1_mrna"; gene_id "gene-ACX4JU_002369"; gene_name "ATG7";
+CM179775.1	Genbank	CDS	1753367	1754157	.	+	0	transcript_id "rna-ACX4JU_002369-T1_mrna"; gene_id "gene-ACX4JU_002369"; gene_name "ATG7";
+CM179775.1	Genbank	CDS	1754226	1754370	.	+	1	transcript_id "rna-ACX4JU_002369-T1_mrna"; gene_id "gene-ACX4JU_002369"; gene_name "ATG7";
+CM179775.1	Genbank	CDS	1754426	1754893	.	+	0	transcript_id "rna-ACX4JU_002369-T1_mrna"; gene_id "gene-ACX4JU_002369"; gene_name "ATG7";
+CM179775.1	Genbank	CDS	1754949	1755437	.	+	0	transcript_id "rna-ACX4JU_002369-T1_mrna"; gene_id "gene-ACX4JU_002369"; gene_name "ATG7";
+CM179775.1	Genbank	transcript	2064698	2065414	.	+	.	transcript_id "rna-ACX4JU_002459-T1_mrna"; gene_id "gene-ACX4JU_002459"; gene_name "imp3"
+CM179775.1	Genbank	exon	2064698	2064729	.	+	.	transcript_id "rna-ACX4JU_002459-T1_mrna"; gene_id "gene-ACX4JU_002459"; gene_name "imp3";
+CM179775.1	Genbank	exon	2064803	2065163	.	+	.	transcript_id "rna-ACX4JU_002459-T1_mrna"; gene_id "gene-ACX4JU_002459"; gene_name "imp3";
+CM179775.1	Genbank	exon	2065241	2065414	.	+	.	transcript_id "rna-ACX4JU_002459-T1_mrna"; gene_id "gene-ACX4JU_002459"; gene_name "imp3";
+CM179775.1	Genbank	CDS	2064698	2064729	.	+	0	transcript_id "rna-ACX4JU_002459-T1_mrna"; gene_id "gene-ACX4JU_002459"; gene_name "imp3";
+CM179775.1	Genbank	CDS	2064803	2065163	.	+	1	transcript_id "rna-ACX4JU_002459-T1_mrna"; gene_id "gene-ACX4JU_002459"; gene_name "imp3";
+CM179775.1	Genbank	CDS	2065241	2065414	.	+	0	transcript_id "rna-ACX4JU_002459-T1_mrna"; gene_id "gene-ACX4JU_002459"; gene_name "imp3";
+CM179775.1	Genbank	transcript	2200370	2201572	.	-	.	transcript_id "rna-ACX4JU_002506-T1_mrna"; gene_id "gene-ACX4JU_002506"; gene_name "RRP45"
+CM179775.1	Genbank	exon	2200370	2201133	.	-	.	transcript_id "rna-ACX4JU_002506-T1_mrna"; gene_id "gene-ACX4JU_002506"; gene_name "RRP45";
+CM179775.1	Genbank	exon	2201190	2201309	.	-	.	transcript_id "rna-ACX4JU_002506-T1_mrna"; gene_id "gene-ACX4JU_002506"; gene_name "RRP45";
+CM179775.1	Genbank	exon	2201367	2201572	.	-	.	transcript_id "rna-ACX4JU_002506-T1_mrna"; gene_id "gene-ACX4JU_002506"; gene_name "RRP45";
+CM179775.1	Genbank	CDS	2200539	2201133	.	-	1	transcript_id "rna-ACX4JU_002506-T1_mrna"; gene_id "gene-ACX4JU_002506"; gene_name "RRP45";
+CM179775.1	Genbank	CDS	2201190	2201309	.	-	1	transcript_id "rna-ACX4JU_002506-T1_mrna"; gene_id "gene-ACX4JU_002506"; gene_name "RRP45";
+CM179775.1	Genbank	CDS	2201367	2201530	.	-	0	transcript_id "rna-ACX4JU_002506-T1_mrna"; gene_id "gene-ACX4JU_002506"; gene_name "RRP45";
+CM179775.1	Genbank	transcript	2201737	2203257	.	+	.	transcript_id "rna-ACX4JU_002507-T1_mrna"; gene_id "gene-ACX4JU_002507"; gene_name "CWC15"
+CM179775.1	Genbank	exon	2201737	2201797	.	+	.	transcript_id "rna-ACX4JU_002507-T1_mrna"; gene_id "gene-ACX4JU_002507"; gene_name "CWC15";
+CM179775.1	Genbank	exon	2201852	2201874	.	+	.	transcript_id "rna-ACX4JU_002507-T1_mrna"; gene_id "gene-ACX4JU_002507"; gene_name "CWC15";
+CM179775.1	Genbank	exon	2201929	2202005	.	+	.	transcript_id "rna-ACX4JU_002507-T1_mrna"; gene_id "gene-ACX4JU_002507"; gene_name "CWC15";
+CM179775.1	Genbank	exon	2202056	2202340	.	+	.	transcript_id "rna-ACX4JU_002507-T1_mrna"; gene_id "gene-ACX4JU_002507"; gene_name "CWC15";
+CM179775.1	Genbank	exon	2202394	2202475	.	+	.	transcript_id "rna-ACX4JU_002507-T1_mrna"; gene_id "gene-ACX4JU_002507"; gene_name "CWC15";
+CM179775.1	Genbank	exon	2202526	2202696	.	+	.	transcript_id "rna-ACX4JU_002507-T1_mrna"; gene_id "gene-ACX4JU_002507"; gene_name "CWC15";
+CM179775.1	Genbank	exon	2202745	2202780	.	+	.	transcript_id "rna-ACX4JU_002507-T1_mrna"; gene_id "gene-ACX4JU_002507"; gene_name "CWC15";
+CM179775.1	Genbank	exon	2202831	2203257	.	+	.	transcript_id "rna-ACX4JU_002507-T1_mrna"; gene_id "gene-ACX4JU_002507"; gene_name "CWC15";
+CM179775.1	Genbank	CDS	2201788	2201797	.	+	0	transcript_id "rna-ACX4JU_002507-T1_mrna"; gene_id "gene-ACX4JU_002507"; gene_name "CWC15";
+CM179775.1	Genbank	CDS	2201852	2201874	.	+	2	transcript_id "rna-ACX4JU_002507-T1_mrna"; gene_id "gene-ACX4JU_002507"; gene_name "CWC15";
+CM179775.1	Genbank	CDS	2201929	2202005	.	+	0	transcript_id "rna-ACX4JU_002507-T1_mrna"; gene_id "gene-ACX4JU_002507"; gene_name "CWC15";
+CM179775.1	Genbank	CDS	2202056	2202340	.	+	1	transcript_id "rna-ACX4JU_002507-T1_mrna"; gene_id "gene-ACX4JU_002507"; gene_name "CWC15";
+CM179775.1	Genbank	CDS	2202394	2202475	.	+	1	transcript_id "rna-ACX4JU_002507-T1_mrna"; gene_id "gene-ACX4JU_002507"; gene_name "CWC15";
+CM179775.1	Genbank	CDS	2202526	2202696	.	+	0	transcript_id "rna-ACX4JU_002507-T1_mrna"; gene_id "gene-ACX4JU_002507"; gene_name "CWC15";
+CM179775.1	Genbank	CDS	2202745	2202780	.	+	0	transcript_id "rna-ACX4JU_002507-T1_mrna"; gene_id "gene-ACX4JU_002507"; gene_name "CWC15";
+CM179775.1	Genbank	CDS	2202831	2202848	.	+	0	transcript_id "rna-ACX4JU_002507-T1_mrna"; gene_id "gene-ACX4JU_002507"; gene_name "CWC15";
+CM179775.1	Genbank	transcript	2238550	2242294	.	-	.	transcript_id "rna-ACX4JU_002521-T1_mrna"; gene_id "gene-ACX4JU_002521"; gene_name "CDC54"
+CM179775.1	Genbank	exon	2238550	2238655	.	-	.	transcript_id "rna-ACX4JU_002521-T1_mrna"; gene_id "gene-ACX4JU_002521"; gene_name "CDC54";
+CM179775.1	Genbank	exon	2238718	2239459	.	-	.	transcript_id "rna-ACX4JU_002521-T1_mrna"; gene_id "gene-ACX4JU_002521"; gene_name "CDC54";
+CM179775.1	Genbank	exon	2239525	2240717	.	-	.	transcript_id "rna-ACX4JU_002521-T1_mrna"; gene_id "gene-ACX4JU_002521"; gene_name "CDC54";
+CM179775.1	Genbank	exon	2240779	2240850	.	-	.	transcript_id "rna-ACX4JU_002521-T1_mrna"; gene_id "gene-ACX4JU_002521"; gene_name "CDC54";
+CM179775.1	Genbank	exon	2240912	2241784	.	-	.	transcript_id "rna-ACX4JU_002521-T1_mrna"; gene_id "gene-ACX4JU_002521"; gene_name "CDC54";
+CM179775.1	Genbank	exon	2241837	2242294	.	-	.	transcript_id "rna-ACX4JU_002521-T1_mrna"; gene_id "gene-ACX4JU_002521"; gene_name "CDC54";
+CM179775.1	Genbank	CDS	2238872	2239459	.	-	0	transcript_id "rna-ACX4JU_002521-T1_mrna"; gene_id "gene-ACX4JU_002521"; gene_name "CDC54";
+CM179775.1	Genbank	CDS	2239525	2240717	.	-	2	transcript_id "rna-ACX4JU_002521-T1_mrna"; gene_id "gene-ACX4JU_002521"; gene_name "CDC54";
+CM179775.1	Genbank	CDS	2240779	2240850	.	-	2	transcript_id "rna-ACX4JU_002521-T1_mrna"; gene_id "gene-ACX4JU_002521"; gene_name "CDC54";
+CM179775.1	Genbank	CDS	2240912	2241784	.	-	2	transcript_id "rna-ACX4JU_002521-T1_mrna"; gene_id "gene-ACX4JU_002521"; gene_name "CDC54";
+CM179775.1	Genbank	CDS	2241837	2242182	.	-	0	transcript_id "rna-ACX4JU_002521-T1_mrna"; gene_id "gene-ACX4JU_002521"; gene_name "CDC54";
+CM179775.1	Genbank	transcript	2302390	2305136	.	+	.	transcript_id "rna-ACX4JU_002545-T1_mrna"; gene_id "gene-ACX4JU_002545"; gene_name "MAK10"
+CM179775.1	Genbank	exon	2302390	2302456	.	+	.	transcript_id "rna-ACX4JU_002545-T1_mrna"; gene_id "gene-ACX4JU_002545"; gene_name "MAK10";
+CM179775.1	Genbank	exon	2302556	2302623	.	+	.	transcript_id "rna-ACX4JU_002545-T1_mrna"; gene_id "gene-ACX4JU_002545"; gene_name "MAK10";
+CM179775.1	Genbank	exon	2302711	2302851	.	+	.	transcript_id "rna-ACX4JU_002545-T1_mrna"; gene_id "gene-ACX4JU_002545"; gene_name "MAK10";
+CM179775.1	Genbank	exon	2302917	2303153	.	+	.	transcript_id "rna-ACX4JU_002545-T1_mrna"; gene_id "gene-ACX4JU_002545"; gene_name "MAK10";
+CM179775.1	Genbank	exon	2303206	2303664	.	+	.	transcript_id "rna-ACX4JU_002545-T1_mrna"; gene_id "gene-ACX4JU_002545"; gene_name "MAK10";
+CM179775.1	Genbank	exon	2303722	2303979	.	+	.	transcript_id "rna-ACX4JU_002545-T1_mrna"; gene_id "gene-ACX4JU_002545"; gene_name "MAK10";
+CM179775.1	Genbank	exon	2304032	2304130	.	+	.	transcript_id "rna-ACX4JU_002545-T1_mrna"; gene_id "gene-ACX4JU_002545"; gene_name "MAK10";
+CM179775.1	Genbank	exon	2304195	2305136	.	+	.	transcript_id "rna-ACX4JU_002545-T1_mrna"; gene_id "gene-ACX4JU_002545"; gene_name "MAK10";
+CM179775.1	Genbank	CDS	2302390	2302456	.	+	0	transcript_id "rna-ACX4JU_002545-T1_mrna"; gene_id "gene-ACX4JU_002545"; gene_name "MAK10";
+CM179775.1	Genbank	CDS	2302556	2302623	.	+	2	transcript_id "rna-ACX4JU_002545-T1_mrna"; gene_id "gene-ACX4JU_002545"; gene_name "MAK10";
+CM179775.1	Genbank	CDS	2302711	2302851	.	+	0	transcript_id "rna-ACX4JU_002545-T1_mrna"; gene_id "gene-ACX4JU_002545"; gene_name "MAK10";
+CM179775.1	Genbank	CDS	2302917	2303153	.	+	0	transcript_id "rna-ACX4JU_002545-T1_mrna"; gene_id "gene-ACX4JU_002545"; gene_name "MAK10";
+CM179775.1	Genbank	CDS	2303206	2303664	.	+	0	transcript_id "rna-ACX4JU_002545-T1_mrna"; gene_id "gene-ACX4JU_002545"; gene_name "MAK10";
+CM179775.1	Genbank	CDS	2303722	2303979	.	+	0	transcript_id "rna-ACX4JU_002545-T1_mrna"; gene_id "gene-ACX4JU_002545"; gene_name "MAK10";
+CM179775.1	Genbank	CDS	2304032	2304130	.	+	0	transcript_id "rna-ACX4JU_002545-T1_mrna"; gene_id "gene-ACX4JU_002545"; gene_name "MAK10";
+CM179775.1	Genbank	CDS	2304195	2305136	.	+	0	transcript_id "rna-ACX4JU_002545-T1_mrna"; gene_id "gene-ACX4JU_002545"; gene_name "MAK10";
+CM179775.1	Genbank	transcript	2499490	2501158	.	+	.	transcript_id "rna-ACX4JU_002616-T1_mrna"; gene_id "gene-ACX4JU_002616"
+CM179775.1	Genbank	exon	2499490	2499652	.	+	.	transcript_id "rna-ACX4JU_002616-T1_mrna"; gene_id "gene-ACX4JU_002616";
+CM179775.1	Genbank	exon	2499721	2499760	.	+	.	transcript_id "rna-ACX4JU_002616-T1_mrna"; gene_id "gene-ACX4JU_002616";
+CM179775.1	Genbank	exon	2499819	2499865	.	+	.	transcript_id "rna-ACX4JU_002616-T1_mrna"; gene_id "gene-ACX4JU_002616";
+CM179775.1	Genbank	exon	2499925	2499935	.	+	.	transcript_id "rna-ACX4JU_002616-T1_mrna"; gene_id "gene-ACX4JU_002616";
+CM179775.1	Genbank	exon	2499993	2500025	.	+	.	transcript_id "rna-ACX4JU_002616-T1_mrna"; gene_id "gene-ACX4JU_002616";
+CM179775.1	Genbank	exon	2500085	2501158	.	+	.	transcript_id "rna-ACX4JU_002616-T1_mrna"; gene_id "gene-ACX4JU_002616";
+CM179775.1	Genbank	CDS	2499562	2499652	.	+	0	transcript_id "rna-ACX4JU_002616-T1_mrna"; gene_id "gene-ACX4JU_002616";
+CM179775.1	Genbank	CDS	2499721	2499760	.	+	2	transcript_id "rna-ACX4JU_002616-T1_mrna"; gene_id "gene-ACX4JU_002616";
+CM179775.1	Genbank	CDS	2499819	2499865	.	+	1	transcript_id "rna-ACX4JU_002616-T1_mrna"; gene_id "gene-ACX4JU_002616";
+CM179775.1	Genbank	CDS	2499925	2499935	.	+	2	transcript_id "rna-ACX4JU_002616-T1_mrna"; gene_id "gene-ACX4JU_002616";
+CM179775.1	Genbank	CDS	2499993	2500025	.	+	0	transcript_id "rna-ACX4JU_002616-T1_mrna"; gene_id "gene-ACX4JU_002616";
+CM179775.1	Genbank	CDS	2500085	2500969	.	+	0	transcript_id "rna-ACX4JU_002616-T1_mrna"; gene_id "gene-ACX4JU_002616";
+CM179775.1	Genbank	transcript	2565539	2567782	.	-	.	transcript_id "rna-ACX4JU_002641-T1_mrna"; gene_id "gene-ACX4JU_002641"
+CM179775.1	Genbank	exon	2565539	2567195	.	-	.	transcript_id "rna-ACX4JU_002641-T1_mrna"; gene_id "gene-ACX4JU_002641";
+CM179775.1	Genbank	exon	2567340	2567782	.	-	.	transcript_id "rna-ACX4JU_002641-T1_mrna"; gene_id "gene-ACX4JU_002641";
+CM179775.1	Genbank	CDS	2566074	2567195	.	-	0	transcript_id "rna-ACX4JU_002641-T1_mrna"; gene_id "gene-ACX4JU_002641";
+CM179775.1	Genbank	CDS	2567340	2567648	.	-	0	transcript_id "rna-ACX4JU_002641-T1_mrna"; gene_id "gene-ACX4JU_002641";
+CM179775.1	Genbank	transcript	2797396	2799169	.	+	.	transcript_id "rna-ACX4JU_002721-T1_mrna"; gene_id "gene-ACX4JU_002721"; gene_name "ALG7"
+CM179775.1	Genbank	exon	2797396	2797731	.	+	.	transcript_id "rna-ACX4JU_002721-T1_mrna"; gene_id "gene-ACX4JU_002721"; gene_name "ALG7";
+CM179775.1	Genbank	exon	2797847	2798027	.	+	.	transcript_id "rna-ACX4JU_002721-T1_mrna"; gene_id "gene-ACX4JU_002721"; gene_name "ALG7";
+CM179775.1	Genbank	exon	2798078	2799169	.	+	.	transcript_id "rna-ACX4JU_002721-T1_mrna"; gene_id "gene-ACX4JU_002721"; gene_name "ALG7";
+CM179775.1	Genbank	CDS	2797487	2797731	.	+	0	transcript_id "rna-ACX4JU_002721-T1_mrna"; gene_id "gene-ACX4JU_002721"; gene_name "ALG7";
+CM179775.1	Genbank	CDS	2797847	2798027	.	+	1	transcript_id "rna-ACX4JU_002721-T1_mrna"; gene_id "gene-ACX4JU_002721"; gene_name "ALG7";
+CM179775.1	Genbank	CDS	2798078	2799058	.	+	0	transcript_id "rna-ACX4JU_002721-T1_mrna"; gene_id "gene-ACX4JU_002721"; gene_name "ALG7";
+CM179775.1	Genbank	transcript	2838311	2839514	.	-	.	transcript_id "rna-ACX4JU_002734-T1_mrna"; gene_id "gene-ACX4JU_002734"; gene_name "KRR1"
+CM179775.1	Genbank	exon	2838311	2839054	.	-	.	transcript_id "rna-ACX4JU_002734-T1_mrna"; gene_id "gene-ACX4JU_002734"; gene_name "KRR1";
+CM179775.1	Genbank	exon	2839116	2839388	.	-	.	transcript_id "rna-ACX4JU_002734-T1_mrna"; gene_id "gene-ACX4JU_002734"; gene_name "KRR1";
+CM179775.1	Genbank	exon	2839455	2839514	.	-	.	transcript_id "rna-ACX4JU_002734-T1_mrna"; gene_id "gene-ACX4JU_002734"; gene_name "KRR1";
+CM179775.1	Genbank	CDS	2838311	2839054	.	-	0	transcript_id "rna-ACX4JU_002734-T1_mrna"; gene_id "gene-ACX4JU_002734"; gene_name "KRR1";
+CM179775.1	Genbank	CDS	2839116	2839388	.	-	0	transcript_id "rna-ACX4JU_002734-T1_mrna"; gene_id "gene-ACX4JU_002734"; gene_name "KRR1";
+CM179775.1	Genbank	CDS	2839455	2839514	.	-	0	transcript_id "rna-ACX4JU_002734-T1_mrna"; gene_id "gene-ACX4JU_002734"; gene_name "KRR1";
+CM179775.1	Genbank	transcript	2998516	3000243	.	-	.	transcript_id "rna-ACX4JU_002791-T1_mrna"; gene_id "gene-ACX4JU_002791"; gene_name "HAT1"
+CM179775.1	Genbank	exon	2998516	2999482	.	-	.	transcript_id "rna-ACX4JU_002791-T1_mrna"; gene_id "gene-ACX4JU_002791"; gene_name "HAT1";
+CM179775.1	Genbank	exon	2999546	2999810	.	-	.	transcript_id "rna-ACX4JU_002791-T1_mrna"; gene_id "gene-ACX4JU_002791"; gene_name "HAT1";
+CM179775.1	Genbank	exon	2999869	3000144	.	-	.	transcript_id "rna-ACX4JU_002791-T1_mrna"; gene_id "gene-ACX4JU_002791"; gene_name "HAT1";
+CM179775.1	Genbank	exon	3000225	3000243	.	-	.	transcript_id "rna-ACX4JU_002791-T1_mrna"; gene_id "gene-ACX4JU_002791"; gene_name "HAT1";
+CM179775.1	Genbank	CDS	2998516	2999482	.	-	1	transcript_id "rna-ACX4JU_002791-T1_mrna"; gene_id "gene-ACX4JU_002791"; gene_name "HAT1";
+CM179775.1	Genbank	CDS	2999546	2999810	.	-	2	transcript_id "rna-ACX4JU_002791-T1_mrna"; gene_id "gene-ACX4JU_002791"; gene_name "HAT1";
+CM179775.1	Genbank	CDS	2999869	3000144	.	-	2	transcript_id "rna-ACX4JU_002791-T1_mrna"; gene_id "gene-ACX4JU_002791"; gene_name "HAT1";
+CM179775.1	Genbank	CDS	3000225	3000243	.	-	0	transcript_id "rna-ACX4JU_002791-T1_mrna"; gene_id "gene-ACX4JU_002791"; gene_name "HAT1";
+CM179775.1	Genbank	transcript	3059272	3060639	.	-	.	transcript_id "rna-ACX4JU_002814-T1_mrna"; gene_id "gene-ACX4JU_002814"; gene_name "COX11"
+CM179775.1	Genbank	exon	3059272	3059731	.	-	.	transcript_id "rna-ACX4JU_002814-T1_mrna"; gene_id "gene-ACX4JU_002814"; gene_name "COX11";
+CM179775.1	Genbank	exon	3059789	3060230	.	-	.	transcript_id "rna-ACX4JU_002814-T1_mrna"; gene_id "gene-ACX4JU_002814"; gene_name "COX11";
+CM179775.1	Genbank	exon	3060302	3060371	.	-	.	transcript_id "rna-ACX4JU_002814-T1_mrna"; gene_id "gene-ACX4JU_002814"; gene_name "COX11";
+CM179775.1	Genbank	exon	3060422	3060639	.	-	.	transcript_id "rna-ACX4JU_002814-T1_mrna"; gene_id "gene-ACX4JU_002814"; gene_name "COX11";
+CM179775.1	Genbank	CDS	3059682	3059731	.	-	2	transcript_id "rna-ACX4JU_002814-T1_mrna"; gene_id "gene-ACX4JU_002814"; gene_name "COX11";
+CM179775.1	Genbank	CDS	3059789	3060230	.	-	0	transcript_id "rna-ACX4JU_002814-T1_mrna"; gene_id "gene-ACX4JU_002814"; gene_name "COX11";
+CM179775.1	Genbank	CDS	3060302	3060371	.	-	1	transcript_id "rna-ACX4JU_002814-T1_mrna"; gene_id "gene-ACX4JU_002814"; gene_name "COX11";
+CM179775.1	Genbank	CDS	3060422	3060624	.	-	0	transcript_id "rna-ACX4JU_002814-T1_mrna"; gene_id "gene-ACX4JU_002814"; gene_name "COX11";
+CM179775.1	Genbank	transcript	3101792	3103200	.	-	.	transcript_id "rna-ACX4JU_002830-T1_mrna"; gene_id "gene-ACX4JU_002830"; gene_name "DPH1"
+CM179775.1	Genbank	exon	3101792	3102951	.	-	.	transcript_id "rna-ACX4JU_002830-T1_mrna"; gene_id "gene-ACX4JU_002830"; gene_name "DPH1";
+CM179775.1	Genbank	exon	3103023	3103200	.	-	.	transcript_id "rna-ACX4JU_002830-T1_mrna"; gene_id "gene-ACX4JU_002830"; gene_name "DPH1";
+CM179775.1	Genbank	CDS	3101792	3102951	.	-	2	transcript_id "rna-ACX4JU_002830-T1_mrna"; gene_id "gene-ACX4JU_002830"; gene_name "DPH1";
+CM179775.1	Genbank	CDS	3103023	3103200	.	-	0	transcript_id "rna-ACX4JU_002830-T1_mrna"; gene_id "gene-ACX4JU_002830"; gene_name "DPH1";
+CM179775.1	Genbank	transcript	3268807	3271695	.	-	.	transcript_id "rna-ACX4JU_002901-T1_mrna"; gene_id "gene-ACX4JU_002901"; gene_name "RRP42"
+CM179775.1	Genbank	exon	3268807	3270750	.	-	.	transcript_id "rna-ACX4JU_002901-T1_mrna"; gene_id "gene-ACX4JU_002901"; gene_name "RRP42";
+CM179775.1	Genbank	exon	3270840	3271395	.	-	.	transcript_id "rna-ACX4JU_002901-T1_mrna"; gene_id "gene-ACX4JU_002901"; gene_name "RRP42";
+CM179775.1	Genbank	exon	3271460	3271695	.	-	.	transcript_id "rna-ACX4JU_002901-T1_mrna"; gene_id "gene-ACX4JU_002901"; gene_name "RRP42";
+CM179775.1	Genbank	CDS	3270133	3270750	.	-	0	transcript_id "rna-ACX4JU_002901-T1_mrna"; gene_id "gene-ACX4JU_002901"; gene_name "RRP42";
+CM179775.1	Genbank	CDS	3270840	3271394	.	-	0	transcript_id "rna-ACX4JU_002901-T1_mrna"; gene_id "gene-ACX4JU_002901"; gene_name "RRP42";
+CM179775.1	Genbank	transcript	4423540	4425618	.	-	.	transcript_id "rna-ACX4JU_003318-T1_mrna"; gene_id "gene-ACX4JU_003318"
+CM179775.1	Genbank	exon	4423540	4425618	.	-	.	transcript_id "rna-ACX4JU_003318-T1_mrna"; gene_id "gene-ACX4JU_003318";
+CM179775.1	Genbank	CDS	4423540	4425618	.	-	0	transcript_id "rna-ACX4JU_003318-T1_mrna"; gene_id "gene-ACX4JU_003318";
+CM179776.1	Genbank	transcript	317129	320511	.	-	.	transcript_id "rna-ACX4JU_003554-T1_mrna"; gene_id "gene-ACX4JU_003554"; gene_name "MCM2"
+CM179776.1	Genbank	exon	317129	317562	.	-	.	transcript_id "rna-ACX4JU_003554-T1_mrna"; gene_id "gene-ACX4JU_003554"; gene_name "MCM2";
+CM179776.1	Genbank	exon	317631	317800	.	-	.	transcript_id "rna-ACX4JU_003554-T1_mrna"; gene_id "gene-ACX4JU_003554"; gene_name "MCM2";
+CM179776.1	Genbank	exon	317856	320155	.	-	.	transcript_id "rna-ACX4JU_003554-T1_mrna"; gene_id "gene-ACX4JU_003554"; gene_name "MCM2";
+CM179776.1	Genbank	exon	320216	320331	.	-	.	transcript_id "rna-ACX4JU_003554-T1_mrna"; gene_id "gene-ACX4JU_003554"; gene_name "MCM2";
+CM179776.1	Genbank	exon	320417	320511	.	-	.	transcript_id "rna-ACX4JU_003554-T1_mrna"; gene_id "gene-ACX4JU_003554"; gene_name "MCM2";
+CM179776.1	Genbank	CDS	317463	317562	.	-	1	transcript_id "rna-ACX4JU_003554-T1_mrna"; gene_id "gene-ACX4JU_003554"; gene_name "MCM2";
+CM179776.1	Genbank	CDS	317631	317800	.	-	0	transcript_id "rna-ACX4JU_003554-T1_mrna"; gene_id "gene-ACX4JU_003554"; gene_name "MCM2";
+CM179776.1	Genbank	CDS	317856	320155	.	-	2	transcript_id "rna-ACX4JU_003554-T1_mrna"; gene_id "gene-ACX4JU_003554"; gene_name "MCM2";
+CM179776.1	Genbank	CDS	320216	320331	.	-	1	transcript_id "rna-ACX4JU_003554-T1_mrna"; gene_id "gene-ACX4JU_003554"; gene_name "MCM2";
+CM179776.1	Genbank	CDS	320417	320421	.	-	0	transcript_id "rna-ACX4JU_003554-T1_mrna"; gene_id "gene-ACX4JU_003554"; gene_name "MCM2";
+CM179776.1	Genbank	transcript	505475	507739	.	-	.	transcript_id "rna-ACX4JU_003625-T1_mrna"; gene_id "gene-ACX4JU_003625"; gene_name "SPB4"
+CM179776.1	Genbank	exon	505475	506744	.	-	.	transcript_id "rna-ACX4JU_003625-T1_mrna"; gene_id "gene-ACX4JU_003625"; gene_name "SPB4";
+CM179776.1	Genbank	exon	506798	507307	.	-	.	transcript_id "rna-ACX4JU_003625-T1_mrna"; gene_id "gene-ACX4JU_003625"; gene_name "SPB4";
+CM179776.1	Genbank	exon	507377	507739	.	-	.	transcript_id "rna-ACX4JU_003625-T1_mrna"; gene_id "gene-ACX4JU_003625"; gene_name "SPB4";
+CM179776.1	Genbank	CDS	505622	506744	.	-	1	transcript_id "rna-ACX4JU_003625-T1_mrna"; gene_id "gene-ACX4JU_003625"; gene_name "SPB4";
+CM179776.1	Genbank	CDS	506798	507307	.	-	1	transcript_id "rna-ACX4JU_003625-T1_mrna"; gene_id "gene-ACX4JU_003625"; gene_name "SPB4";
+CM179776.1	Genbank	CDS	507377	507666	.	-	0	transcript_id "rna-ACX4JU_003625-T1_mrna"; gene_id "gene-ACX4JU_003625"; gene_name "SPB4";
+CM179776.1	Genbank	transcript	1128650	1131446	.	+	.	transcript_id "rna-ACX4JU_003835-T1_mrna"; gene_id "gene-ACX4JU_003835"; gene_name "COG3"
+CM179776.1	Genbank	exon	1128650	1128985	.	+	.	transcript_id "rna-ACX4JU_003835-T1_mrna"; gene_id "gene-ACX4JU_003835"; gene_name "COG3";
+CM179776.1	Genbank	exon	1129058	1129397	.	+	.	transcript_id "rna-ACX4JU_003835-T1_mrna"; gene_id "gene-ACX4JU_003835"; gene_name "COG3";
+CM179776.1	Genbank	exon	1129450	1130475	.	+	.	transcript_id "rna-ACX4JU_003835-T1_mrna"; gene_id "gene-ACX4JU_003835"; gene_name "COG3";
+CM179776.1	Genbank	exon	1130537	1131446	.	+	.	transcript_id "rna-ACX4JU_003835-T1_mrna"; gene_id "gene-ACX4JU_003835"; gene_name "COG3";
+CM179776.1	Genbank	CDS	1128777	1128985	.	+	0	transcript_id "rna-ACX4JU_003835-T1_mrna"; gene_id "gene-ACX4JU_003835"; gene_name "COG3";
+CM179776.1	Genbank	CDS	1129058	1129397	.	+	1	transcript_id "rna-ACX4JU_003835-T1_mrna"; gene_id "gene-ACX4JU_003835"; gene_name "COG3";
+CM179776.1	Genbank	CDS	1129450	1130475	.	+	0	transcript_id "rna-ACX4JU_003835-T1_mrna"; gene_id "gene-ACX4JU_003835"; gene_name "COG3";
+CM179776.1	Genbank	CDS	1130537	1131319	.	+	0	transcript_id "rna-ACX4JU_003835-T1_mrna"; gene_id "gene-ACX4JU_003835"; gene_name "COG3";
+CM179776.1	Genbank	transcript	1422528	1424586	.	+	.	transcript_id "rna-ACX4JU_003939-T1_mrna"; gene_id "gene-ACX4JU_003939"
+CM179776.1	Genbank	exon	1422528	1422828	.	+	.	transcript_id "rna-ACX4JU_003939-T1_mrna"; gene_id "gene-ACX4JU_003939";
+CM179776.1	Genbank	exon	1422907	1424425	.	+	.	transcript_id "rna-ACX4JU_003939-T1_mrna"; gene_id "gene-ACX4JU_003939";
+CM179776.1	Genbank	exon	1424487	1424586	.	+	.	transcript_id "rna-ACX4JU_003939-T1_mrna"; gene_id "gene-ACX4JU_003939";
+CM179776.1	Genbank	CDS	1422528	1422828	.	+	0	transcript_id "rna-ACX4JU_003939-T1_mrna"; gene_id "gene-ACX4JU_003939";
+CM179776.1	Genbank	CDS	1422907	1424425	.	+	2	transcript_id "rna-ACX4JU_003939-T1_mrna"; gene_id "gene-ACX4JU_003939";
+CM179776.1	Genbank	CDS	1424487	1424586	.	+	1	transcript_id "rna-ACX4JU_003939-T1_mrna"; gene_id "gene-ACX4JU_003939";
+CM179776.1	Genbank	transcript	1517317	1519904	.	-	.	transcript_id "rna-ACX4JU_003971-T1_mrna"; gene_id "gene-ACX4JU_003971"; gene_name "COG5"
+CM179776.1	Genbank	exon	1517317	1517431	.	-	.	transcript_id "rna-ACX4JU_003971-T1_mrna"; gene_id "gene-ACX4JU_003971"; gene_name "COG5";
+CM179776.1	Genbank	exon	1517490	1519904	.	-	.	transcript_id "rna-ACX4JU_003971-T1_mrna"; gene_id "gene-ACX4JU_003971"; gene_name "COG5";
+CM179776.1	Genbank	CDS	1518254	1519684	.	-	0	transcript_id "rna-ACX4JU_003971-T1_mrna"; gene_id "gene-ACX4JU_003971"; gene_name "COG5";
+CM179776.1	Genbank	transcript	1912955	1915085	.	+	.	transcript_id "rna-ACX4JU_004141-T2_mrna"; gene_id "gene-ACX4JU_004141"
+CM179776.1	Genbank	exon	1912955	1913128	.	+	.	transcript_id "rna-ACX4JU_004141-T2_mrna"; gene_id "gene-ACX4JU_004141";
+CM179776.1	Genbank	exon	1913193	1913283	.	+	.	transcript_id "rna-ACX4JU_004141-T2_mrna"; gene_id "gene-ACX4JU_004141";
+CM179776.1	Genbank	exon	1913352	1913516	.	+	.	transcript_id "rna-ACX4JU_004141-T2_mrna"; gene_id "gene-ACX4JU_004141";
+CM179776.1	Genbank	exon	1913576	1914661	.	+	.	transcript_id "rna-ACX4JU_004141-T2_mrna"; gene_id "gene-ACX4JU_004141";
+CM179776.1	Genbank	exon	1914785	1915085	.	+	.	transcript_id "rna-ACX4JU_004141-T2_mrna"; gene_id "gene-ACX4JU_004141";
+CM179776.1	Genbank	CDS	1913025	1913128	.	+	0	transcript_id "rna-ACX4JU_004141-T2_mrna"; gene_id "gene-ACX4JU_004141";
+CM179776.1	Genbank	CDS	1913193	1913283	.	+	1	transcript_id "rna-ACX4JU_004141-T2_mrna"; gene_id "gene-ACX4JU_004141";
+CM179776.1	Genbank	CDS	1913352	1913516	.	+	0	transcript_id "rna-ACX4JU_004141-T2_mrna"; gene_id "gene-ACX4JU_004141";
+CM179776.1	Genbank	CDS	1913576	1914661	.	+	0	transcript_id "rna-ACX4JU_004141-T2_mrna"; gene_id "gene-ACX4JU_004141";
+CM179776.1	Genbank	CDS	1914785	1914940	.	+	0	transcript_id "rna-ACX4JU_004141-T2_mrna"; gene_id "gene-ACX4JU_004141";
+CM179776.1	Genbank	transcript	1925349	1926744	.	-	.	transcript_id "rna-ACX4JU_004144-T1_mrna"; gene_id "gene-ACX4JU_004144"; gene_name "NSA2"
+CM179776.1	Genbank	exon	1925349	1925627	.	-	.	transcript_id "rna-ACX4JU_004144-T1_mrna"; gene_id "gene-ACX4JU_004144"; gene_name "NSA2";
+CM179776.1	Genbank	exon	1925688	1925900	.	-	.	transcript_id "rna-ACX4JU_004144-T1_mrna"; gene_id "gene-ACX4JU_004144"; gene_name "NSA2";
+CM179776.1	Genbank	exon	1925961	1926503	.	-	.	transcript_id "rna-ACX4JU_004144-T1_mrna"; gene_id "gene-ACX4JU_004144"; gene_name "NSA2";
+CM179776.1	Genbank	exon	1926561	1926571	.	-	.	transcript_id "rna-ACX4JU_004144-T1_mrna"; gene_id "gene-ACX4JU_004144"; gene_name "NSA2";
+CM179776.1	Genbank	exon	1926688	1926744	.	-	.	transcript_id "rna-ACX4JU_004144-T1_mrna"; gene_id "gene-ACX4JU_004144"; gene_name "NSA2";
+CM179776.1	Genbank	CDS	1925612	1925627	.	-	1	transcript_id "rna-ACX4JU_004144-T1_mrna"; gene_id "gene-ACX4JU_004144"; gene_name "NSA2";
+CM179776.1	Genbank	CDS	1925688	1925900	.	-	1	transcript_id "rna-ACX4JU_004144-T1_mrna"; gene_id "gene-ACX4JU_004144"; gene_name "NSA2";
+CM179776.1	Genbank	CDS	1925961	1926503	.	-	1	transcript_id "rna-ACX4JU_004144-T1_mrna"; gene_id "gene-ACX4JU_004144"; gene_name "NSA2";
+CM179776.1	Genbank	CDS	1926561	1926571	.	-	0	transcript_id "rna-ACX4JU_004144-T1_mrna"; gene_id "gene-ACX4JU_004144"; gene_name "NSA2";
+CM179776.1	Genbank	CDS	1926688	1926690	.	-	0	transcript_id "rna-ACX4JU_004144-T1_mrna"; gene_id "gene-ACX4JU_004144"; gene_name "NSA2";
+CM179776.1	Genbank	transcript	2178110	2179342	.	+	.	transcript_id "rna-ACX4JU_004232-T1_mrna"; gene_id "gene-ACX4JU_004232"; gene_name "CAB2"
+CM179776.1	Genbank	exon	2178110	2179342	.	+	.	transcript_id "rna-ACX4JU_004232-T1_mrna"; gene_id "gene-ACX4JU_004232"; gene_name "CAB2";
+CM179776.1	Genbank	CDS	2178110	2179342	.	+	0	transcript_id "rna-ACX4JU_004232-T1_mrna"; gene_id "gene-ACX4JU_004232"; gene_name "CAB2";
+CM179776.1	Genbank	transcript	2412603	2414481	.	-	.	transcript_id "rna-ACX4JU_004319-T1_mrna"; gene_id "gene-ACX4JU_004319"; gene_name "COQ4"
+CM179776.1	Genbank	exon	2412603	2414130	.	-	.	transcript_id "rna-ACX4JU_004319-T1_mrna"; gene_id "gene-ACX4JU_004319"; gene_name "COQ4";
+CM179776.1	Genbank	exon	2414219	2414481	.	-	.	transcript_id "rna-ACX4JU_004319-T1_mrna"; gene_id "gene-ACX4JU_004319"; gene_name "COQ4";
+CM179776.1	Genbank	CDS	2413484	2414130	.	-	2	transcript_id "rna-ACX4JU_004319-T1_mrna"; gene_id "gene-ACX4JU_004319"; gene_name "COQ4";
+CM179776.1	Genbank	CDS	2414219	2414429	.	-	0	transcript_id "rna-ACX4JU_004319-T1_mrna"; gene_id "gene-ACX4JU_004319"; gene_name "COQ4";
+CM179776.1	Genbank	transcript	2422967	2424212	.	+	.	transcript_id "rna-ACX4JU_004325-T1_mrna"; gene_id "gene-ACX4JU_004325"; gene_name "SHY1"
+CM179776.1	Genbank	exon	2422967	2423256	.	+	.	transcript_id "rna-ACX4JU_004325-T1_mrna"; gene_id "gene-ACX4JU_004325"; gene_name "SHY1";
+CM179776.1	Genbank	exon	2423346	2423858	.	+	.	transcript_id "rna-ACX4JU_004325-T1_mrna"; gene_id "gene-ACX4JU_004325"; gene_name "SHY1";
+CM179776.1	Genbank	exon	2423922	2424027	.	+	.	transcript_id "rna-ACX4JU_004325-T1_mrna"; gene_id "gene-ACX4JU_004325"; gene_name "SHY1";
+CM179776.1	Genbank	exon	2424110	2424212	.	+	.	transcript_id "rna-ACX4JU_004325-T1_mrna"; gene_id "gene-ACX4JU_004325"; gene_name "SHY1";
+CM179776.1	Genbank	CDS	2423010	2423256	.	+	0	transcript_id "rna-ACX4JU_004325-T1_mrna"; gene_id "gene-ACX4JU_004325"; gene_name "SHY1";
+CM179776.1	Genbank	CDS	2423346	2423858	.	+	2	transcript_id "rna-ACX4JU_004325-T1_mrna"; gene_id "gene-ACX4JU_004325"; gene_name "SHY1";
+CM179776.1	Genbank	CDS	2423922	2424027	.	+	2	transcript_id "rna-ACX4JU_004325-T1_mrna"; gene_id "gene-ACX4JU_004325"; gene_name "SHY1";
+CM179776.1	Genbank	CDS	2424110	2424212	.	+	1	transcript_id "rna-ACX4JU_004325-T1_mrna"; gene_id "gene-ACX4JU_004325"; gene_name "SHY1";
+CM179776.1	Genbank	transcript	2560262	2561848	.	-	.	transcript_id "rna-ACX4JU_004374-T1_mrna"; gene_id "gene-ACX4JU_004374"; gene_name "rrp4"
+CM179776.1	Genbank	exon	2560262	2561450	.	-	.	transcript_id "rna-ACX4JU_004374-T1_mrna"; gene_id "gene-ACX4JU_004374"; gene_name "rrp4";
+CM179776.1	Genbank	exon	2561542	2561848	.	-	.	transcript_id "rna-ACX4JU_004374-T1_mrna"; gene_id "gene-ACX4JU_004374"; gene_name "rrp4";
+CM179776.1	Genbank	CDS	2560499	2561450	.	-	1	transcript_id "rna-ACX4JU_004374-T1_mrna"; gene_id "gene-ACX4JU_004374"; gene_name "rrp4";
+CM179776.1	Genbank	CDS	2561542	2561762	.	-	0	transcript_id "rna-ACX4JU_004374-T1_mrna"; gene_id "gene-ACX4JU_004374"; gene_name "rrp4";
+CM179776.1	Genbank	transcript	2820927	2822953	.	+	.	transcript_id "rna-ACX4JU_004445-T1_mrna"; gene_id "gene-ACX4JU_004445"; gene_name "ENP1"
+CM179776.1	Genbank	exon	2820927	2821424	.	+	.	transcript_id "rna-ACX4JU_004445-T1_mrna"; gene_id "gene-ACX4JU_004445"; gene_name "ENP1";
+CM179776.1	Genbank	exon	2821478	2821719	.	+	.	transcript_id "rna-ACX4JU_004445-T1_mrna"; gene_id "gene-ACX4JU_004445"; gene_name "ENP1";
+CM179776.1	Genbank	exon	2821776	2822953	.	+	.	transcript_id "rna-ACX4JU_004445-T1_mrna"; gene_id "gene-ACX4JU_004445"; gene_name "ENP1";
+CM179776.1	Genbank	CDS	2821047	2821424	.	+	0	transcript_id "rna-ACX4JU_004445-T1_mrna"; gene_id "gene-ACX4JU_004445"; gene_name "ENP1";
+CM179776.1	Genbank	CDS	2821478	2821719	.	+	0	transcript_id "rna-ACX4JU_004445-T1_mrna"; gene_id "gene-ACX4JU_004445"; gene_name "ENP1";
+CM179776.1	Genbank	CDS	2821776	2822649	.	+	1	transcript_id "rna-ACX4JU_004445-T1_mrna"; gene_id "gene-ACX4JU_004445"; gene_name "ENP1";
+CM179777.1	Genbank	transcript	638898	639932	.	+	.	transcript_id "rna-ACX4JU_007832-T1_mrna"; gene_id "gene-ACX4JU_007832"; gene_name "CWC26"
+CM179777.1	Genbank	exon	638898	639932	.	+	.	transcript_id "rna-ACX4JU_007832-T1_mrna"; gene_id "gene-ACX4JU_007832"; gene_name "CWC26";
+CM179777.1	Genbank	CDS	638898	639932	.	+	0	transcript_id "rna-ACX4JU_007832-T1_mrna"; gene_id "gene-ACX4JU_007832"; gene_name "CWC26";
+CM179777.1	Genbank	transcript	842573	843921	.	-	.	transcript_id "rna-ACX4JU_007920-T1_mrna"; gene_id "gene-ACX4JU_007920"; gene_name "dot2"
+CM179777.1	Genbank	exon	842573	843350	.	-	.	transcript_id "rna-ACX4JU_007920-T1_mrna"; gene_id "gene-ACX4JU_007920"; gene_name "dot2";
+CM179777.1	Genbank	exon	843410	843921	.	-	.	transcript_id "rna-ACX4JU_007920-T1_mrna"; gene_id "gene-ACX4JU_007920"; gene_name "dot2";
+CM179777.1	Genbank	CDS	843038	843350	.	-	1	transcript_id "rna-ACX4JU_007920-T1_mrna"; gene_id "gene-ACX4JU_007920"; gene_name "dot2";
+CM179777.1	Genbank	CDS	843410	843879	.	-	0	transcript_id "rna-ACX4JU_007920-T1_mrna"; gene_id "gene-ACX4JU_007920"; gene_name "dot2";
+CM179777.1	Genbank	transcript	1181513	1183847	.	+	.	transcript_id "rna-ACX4JU_008030-T1_mrna"; gene_id "gene-ACX4JU_008030"; gene_name "MPP10"
+CM179777.1	Genbank	exon	1181513	1183847	.	+	.	transcript_id "rna-ACX4JU_008030-T1_mrna"; gene_id "gene-ACX4JU_008030"; gene_name "MPP10";
+CM179777.1	Genbank	CDS	1181641	1183794	.	+	0	transcript_id "rna-ACX4JU_008030-T1_mrna"; gene_id "gene-ACX4JU_008030"; gene_name "MPP10";
+CM179777.1	Genbank	transcript	1598513	1601214	.	-	.	transcript_id "rna-ACX4JU_008179-T1_mrna"; gene_id "gene-ACX4JU_008179"; gene_name "SWC4"
+CM179777.1	Genbank	exon	1598513	1599098	.	-	.	transcript_id "rna-ACX4JU_008179-T1_mrna"; gene_id "gene-ACX4JU_008179"; gene_name "SWC4";
+CM179777.1	Genbank	exon	1599163	1600731	.	-	.	transcript_id "rna-ACX4JU_008179-T1_mrna"; gene_id "gene-ACX4JU_008179"; gene_name "SWC4";
+CM179777.1	Genbank	exon	1600795	1600912	.	-	.	transcript_id "rna-ACX4JU_008179-T1_mrna"; gene_id "gene-ACX4JU_008179"; gene_name "SWC4";
+CM179777.1	Genbank	exon	1600971	1601214	.	-	.	transcript_id "rna-ACX4JU_008179-T1_mrna"; gene_id "gene-ACX4JU_008179"; gene_name "SWC4";
+CM179777.1	Genbank	CDS	1599198	1600731	.	-	1	transcript_id "rna-ACX4JU_008179-T1_mrna"; gene_id "gene-ACX4JU_008179"; gene_name "SWC4";
+CM179777.1	Genbank	CDS	1600795	1600912	.	-	2	transcript_id "rna-ACX4JU_008179-T1_mrna"; gene_id "gene-ACX4JU_008179"; gene_name "SWC4";
+CM179777.1	Genbank	CDS	1600971	1601064	.	-	0	transcript_id "rna-ACX4JU_008179-T1_mrna"; gene_id "gene-ACX4JU_008179"; gene_name "SWC4";
+CM179777.1	Genbank	transcript	1628071	1630443	.	-	.	transcript_id "rna-ACX4JU_008194-T1_mrna"; gene_id "gene-ACX4JU_008194"; gene_name "RRP9"
+CM179777.1	Genbank	exon	1628071	1629888	.	-	.	transcript_id "rna-ACX4JU_008194-T1_mrna"; gene_id "gene-ACX4JU_008194"; gene_name "RRP9";
+CM179777.1	Genbank	exon	1629976	1630443	.	-	.	transcript_id "rna-ACX4JU_008194-T1_mrna"; gene_id "gene-ACX4JU_008194"; gene_name "RRP9";
+CM179777.1	Genbank	CDS	1628377	1629888	.	-	0	transcript_id "rna-ACX4JU_008194-T1_mrna"; gene_id "gene-ACX4JU_008194"; gene_name "RRP9";
+CM179777.1	Genbank	CDS	1629976	1630347	.	-	0	transcript_id "rna-ACX4JU_008194-T1_mrna"; gene_id "gene-ACX4JU_008194"; gene_name "RRP9";
+CM179777.1	Genbank	transcript	1637289	1640712	.	+	.	transcript_id "rna-ACX4JU_008198-T1_mrna"; gene_id "gene-ACX4JU_008198"; gene_name "utp13"
+CM179777.1	Genbank	exon	1637289	1637612	.	+	.	transcript_id "rna-ACX4JU_008198-T1_mrna"; gene_id "gene-ACX4JU_008198"; gene_name "utp13";
+CM179777.1	Genbank	exon	1637675	1637702	.	+	.	transcript_id "rna-ACX4JU_008198-T1_mrna"; gene_id "gene-ACX4JU_008198"; gene_name "utp13";
+CM179777.1	Genbank	exon	1637776	1640712	.	+	.	transcript_id "rna-ACX4JU_008198-T1_mrna"; gene_id "gene-ACX4JU_008198"; gene_name "utp13";
+CM179777.1	Genbank	CDS	1637439	1637612	.	+	0	transcript_id "rna-ACX4JU_008198-T1_mrna"; gene_id "gene-ACX4JU_008198"; gene_name "utp13";
+CM179777.1	Genbank	CDS	1637675	1637702	.	+	0	transcript_id "rna-ACX4JU_008198-T1_mrna"; gene_id "gene-ACX4JU_008198"; gene_name "utp13";
+CM179777.1	Genbank	CDS	1637776	1640498	.	+	2	transcript_id "rna-ACX4JU_008198-T1_mrna"; gene_id "gene-ACX4JU_008198"; gene_name "utp13";
+CM179777.1	Genbank	transcript	1648678	1650291	.	+	.	transcript_id "rna-ACX4JU_008201-T1_mrna"; gene_id "gene-ACX4JU_008201"; gene_name "MAK11"
+CM179777.1	Genbank	exon	1648678	1649613	.	+	.	transcript_id "rna-ACX4JU_008201-T1_mrna"; gene_id "gene-ACX4JU_008201"; gene_name "MAK11";
+CM179777.1	Genbank	exon	1649671	1650291	.	+	.	transcript_id "rna-ACX4JU_008201-T1_mrna"; gene_id "gene-ACX4JU_008201"; gene_name "MAK11";
+CM179777.1	Genbank	CDS	1648678	1649613	.	+	0	transcript_id "rna-ACX4JU_008201-T1_mrna"; gene_id "gene-ACX4JU_008201"; gene_name "MAK11";
+CM179777.1	Genbank	CDS	1649671	1650291	.	+	0	transcript_id "rna-ACX4JU_008201-T1_mrna"; gene_id "gene-ACX4JU_008201"; gene_name "MAK11";
+CM179777.1	Genbank	transcript	1755529	1757346	.	+	.	transcript_id "rna-ACX4JU_008244-T1_mrna"; gene_id "gene-ACX4JU_008244"; gene_name "cdc1"
+CM179777.1	Genbank	exon	1755529	1755572	.	+	.	transcript_id "rna-ACX4JU_008244-T1_mrna"; gene_id "gene-ACX4JU_008244"; gene_name "cdc1";
+CM179777.1	Genbank	exon	1755639	1755822	.	+	.	transcript_id "rna-ACX4JU_008244-T1_mrna"; gene_id "gene-ACX4JU_008244"; gene_name "cdc1";
+CM179777.1	Genbank	exon	1755881	1756012	.	+	.	transcript_id "rna-ACX4JU_008244-T1_mrna"; gene_id "gene-ACX4JU_008244"; gene_name "cdc1";
+CM179777.1	Genbank	exon	1756060	1757002	.	+	.	transcript_id "rna-ACX4JU_008244-T1_mrna"; gene_id "gene-ACX4JU_008244"; gene_name "cdc1";
+CM179777.1	Genbank	exon	1757051	1757346	.	+	.	transcript_id "rna-ACX4JU_008244-T1_mrna"; gene_id "gene-ACX4JU_008244"; gene_name "cdc1";
+CM179777.1	Genbank	CDS	1755529	1755572	.	+	0	transcript_id "rna-ACX4JU_008244-T1_mrna"; gene_id "gene-ACX4JU_008244"; gene_name "cdc1";
+CM179777.1	Genbank	CDS	1755639	1755822	.	+	1	transcript_id "rna-ACX4JU_008244-T1_mrna"; gene_id "gene-ACX4JU_008244"; gene_name "cdc1";
+CM179777.1	Genbank	CDS	1755881	1756012	.	+	0	transcript_id "rna-ACX4JU_008244-T1_mrna"; gene_id "gene-ACX4JU_008244"; gene_name "cdc1";
+CM179777.1	Genbank	CDS	1756060	1757002	.	+	0	transcript_id "rna-ACX4JU_008244-T1_mrna"; gene_id "gene-ACX4JU_008244"; gene_name "cdc1";
+CM179777.1	Genbank	CDS	1757051	1757346	.	+	2	transcript_id "rna-ACX4JU_008244-T1_mrna"; gene_id "gene-ACX4JU_008244"; gene_name "cdc1";
+CM179777.1	Genbank	transcript	1806966	1809309	.	-	.	transcript_id "rna-ACX4JU_008268-T1_mrna"; gene_id "gene-ACX4JU_008268"; gene_name "NOP7"
+CM179777.1	Genbank	exon	1806966	1809015	.	-	.	transcript_id "rna-ACX4JU_008268-T1_mrna"; gene_id "gene-ACX4JU_008268"; gene_name "NOP7";
+CM179777.1	Genbank	exon	1809099	1809197	.	-	.	transcript_id "rna-ACX4JU_008268-T1_mrna"; gene_id "gene-ACX4JU_008268"; gene_name "NOP7";
+CM179777.1	Genbank	exon	1809255	1809309	.	-	.	transcript_id "rna-ACX4JU_008268-T1_mrna"; gene_id "gene-ACX4JU_008268"; gene_name "NOP7";
+CM179777.1	Genbank	CDS	1807109	1809015	.	-	2	transcript_id "rna-ACX4JU_008268-T1_mrna"; gene_id "gene-ACX4JU_008268"; gene_name "NOP7";
+CM179777.1	Genbank	CDS	1809099	1809197	.	-	2	transcript_id "rna-ACX4JU_008268-T1_mrna"; gene_id "gene-ACX4JU_008268"; gene_name "NOP7";
+CM179777.1	Genbank	CDS	1809255	1809276	.	-	0	transcript_id "rna-ACX4JU_008268-T1_mrna"; gene_id "gene-ACX4JU_008268"; gene_name "NOP7";
+CM179777.1	Genbank	transcript	2342976	2347248	.	+	.	transcript_id "rna-ACX4JU_008470-T1_mrna"; gene_id "gene-ACX4JU_008470"; gene_name "srp72"
+CM179777.1	Genbank	exon	2342976	2343461	.	+	.	transcript_id "rna-ACX4JU_008470-T1_mrna"; gene_id "gene-ACX4JU_008470"; gene_name "srp72";
+CM179777.1	Genbank	exon	2343549	2343822	.	+	.	transcript_id "rna-ACX4JU_008470-T1_mrna"; gene_id "gene-ACX4JU_008470"; gene_name "srp72";
+CM179777.1	Genbank	exon	2343880	2344024	.	+	.	transcript_id "rna-ACX4JU_008470-T1_mrna"; gene_id "gene-ACX4JU_008470"; gene_name "srp72";
+CM179777.1	Genbank	exon	2344080	2347248	.	+	.	transcript_id "rna-ACX4JU_008470-T1_mrna"; gene_id "gene-ACX4JU_008470"; gene_name "srp72";
+CM179777.1	Genbank	CDS	2343141	2343461	.	+	0	transcript_id "rna-ACX4JU_008470-T1_mrna"; gene_id "gene-ACX4JU_008470"; gene_name "srp72";
+CM179777.1	Genbank	CDS	2343549	2343822	.	+	0	transcript_id "rna-ACX4JU_008470-T1_mrna"; gene_id "gene-ACX4JU_008470"; gene_name "srp72";
+CM179777.1	Genbank	CDS	2343880	2344024	.	+	2	transcript_id "rna-ACX4JU_008470-T1_mrna"; gene_id "gene-ACX4JU_008470"; gene_name "srp72";
+CM179777.1	Genbank	CDS	2344080	2345280	.	+	1	transcript_id "rna-ACX4JU_008470-T1_mrna"; gene_id "gene-ACX4JU_008470"; gene_name "srp72";
+CM179777.1	Genbank	transcript	2382242	2386290	.	-	.	transcript_id "rna-ACX4JU_008484-T1_mrna"; gene_id "gene-ACX4JU_008484"; gene_name "RAM1"
+CM179777.1	Genbank	exon	2382242	2383483	.	-	.	transcript_id "rna-ACX4JU_008484-T1_mrna"; gene_id "gene-ACX4JU_008484"; gene_name "RAM1";
+CM179777.1	Genbank	exon	2383535	2383652	.	-	.	transcript_id "rna-ACX4JU_008484-T1_mrna"; gene_id "gene-ACX4JU_008484"; gene_name "RAM1";
+CM179777.1	Genbank	exon	2383707	2383834	.	-	.	transcript_id "rna-ACX4JU_008484-T1_mrna"; gene_id "gene-ACX4JU_008484"; gene_name "RAM1";
+CM179777.1	Genbank	exon	2383897	2383971	.	-	.	transcript_id "rna-ACX4JU_008484-T1_mrna"; gene_id "gene-ACX4JU_008484"; gene_name "RAM1";
+CM179777.1	Genbank	exon	2384027	2384182	.	-	.	transcript_id "rna-ACX4JU_008484-T1_mrna"; gene_id "gene-ACX4JU_008484"; gene_name "RAM1";
+CM179777.1	Genbank	exon	2384251	2386290	.	-	.	transcript_id "rna-ACX4JU_008484-T1_mrna"; gene_id "gene-ACX4JU_008484"; gene_name "RAM1";
+CM179777.1	Genbank	CDS	2382865	2383483	.	-	1	transcript_id "rna-ACX4JU_008484-T1_mrna"; gene_id "gene-ACX4JU_008484"; gene_name "RAM1";
+CM179777.1	Genbank	CDS	2383535	2383652	.	-	2	transcript_id "rna-ACX4JU_008484-T1_mrna"; gene_id "gene-ACX4JU_008484"; gene_name "RAM1";
+CM179777.1	Genbank	CDS	2383707	2383834	.	-	1	transcript_id "rna-ACX4JU_008484-T1_mrna"; gene_id "gene-ACX4JU_008484"; gene_name "RAM1";
+CM179777.1	Genbank	CDS	2383897	2383971	.	-	1	transcript_id "rna-ACX4JU_008484-T1_mrna"; gene_id "gene-ACX4JU_008484"; gene_name "RAM1";
+CM179777.1	Genbank	CDS	2384027	2384182	.	-	1	transcript_id "rna-ACX4JU_008484-T1_mrna"; gene_id "gene-ACX4JU_008484"; gene_name "RAM1";
+CM179777.1	Genbank	CDS	2384251	2384774	.	-	0	transcript_id "rna-ACX4JU_008484-T1_mrna"; gene_id "gene-ACX4JU_008484"; gene_name "RAM1";
+CM179777.1	Genbank	transcript	2773993	2776171	.	-	.	transcript_id "rna-ACX4JU_008604-T1_mrna"; gene_id "gene-ACX4JU_008604"; gene_name "TFB1"
+CM179777.1	Genbank	exon	2773993	2775823	.	-	.	transcript_id "rna-ACX4JU_008604-T1_mrna"; gene_id "gene-ACX4JU_008604"; gene_name "TFB1";
+CM179777.1	Genbank	exon	2775875	2776171	.	-	.	transcript_id "rna-ACX4JU_008604-T1_mrna"; gene_id "gene-ACX4JU_008604"; gene_name "TFB1";
+CM179777.1	Genbank	CDS	2774037	2775823	.	-	2	transcript_id "rna-ACX4JU_008604-T1_mrna"; gene_id "gene-ACX4JU_008604"; gene_name "TFB1";
+CM179777.1	Genbank	CDS	2775875	2776016	.	-	0	transcript_id "rna-ACX4JU_008604-T1_mrna"; gene_id "gene-ACX4JU_008604"; gene_name "TFB1";
+CM179777.1	Genbank	transcript	2807737	2809200	.	-	.	transcript_id "rna-ACX4JU_008616-T1_mrna"; gene_id "gene-ACX4JU_008616"
+CM179777.1	Genbank	exon	2807737	2808953	.	-	.	transcript_id "rna-ACX4JU_008616-T1_mrna"; gene_id "gene-ACX4JU_008616";
+CM179777.1	Genbank	exon	2809030	2809200	.	-	.	transcript_id "rna-ACX4JU_008616-T1_mrna"; gene_id "gene-ACX4JU_008616";
+CM179777.1	Genbank	CDS	2807773	2808953	.	-	2	transcript_id "rna-ACX4JU_008616-T1_mrna"; gene_id "gene-ACX4JU_008616";
+CM179777.1	Genbank	CDS	2809030	2809072	.	-	0	transcript_id "rna-ACX4JU_008616-T1_mrna"; gene_id "gene-ACX4JU_008616";
+CM179777.1	Genbank	transcript	2822087	2823088	.	+	.	transcript_id "rna-ACX4JU_008622-T1_mrna"; gene_id "gene-ACX4JU_008622"; gene_name "sap62"
+CM179777.1	Genbank	exon	2822087	2822268	.	+	.	transcript_id "rna-ACX4JU_008622-T1_mrna"; gene_id "gene-ACX4JU_008622"; gene_name "sap62";
+CM179777.1	Genbank	exon	2822325	2823088	.	+	.	transcript_id "rna-ACX4JU_008622-T1_mrna"; gene_id "gene-ACX4JU_008622"; gene_name "sap62";
+CM179777.1	Genbank	CDS	2822257	2822268	.	+	0	transcript_id "rna-ACX4JU_008622-T1_mrna"; gene_id "gene-ACX4JU_008622"; gene_name "sap62";
+CM179777.1	Genbank	CDS	2822325	2823029	.	+	0	transcript_id "rna-ACX4JU_008622-T1_mrna"; gene_id "gene-ACX4JU_008622"; gene_name "sap62";
+CM179777.1	Genbank	transcript	2868307	2869332	.	-	.	transcript_id "rna-ACX4JU_008643-T1_mrna"; gene_id "gene-ACX4JU_008643"; gene_name "GIR2"
+CM179777.1	Genbank	exon	2868307	2869047	.	-	.	transcript_id "rna-ACX4JU_008643-T1_mrna"; gene_id "gene-ACX4JU_008643"; gene_name "GIR2";
+CM179777.1	Genbank	exon	2869116	2869332	.	-	.	transcript_id "rna-ACX4JU_008643-T1_mrna"; gene_id "gene-ACX4JU_008643"; gene_name "GIR2";
+CM179777.1	Genbank	CDS	2868404	2869047	.	-	2	transcript_id "rna-ACX4JU_008643-T1_mrna"; gene_id "gene-ACX4JU_008643"; gene_name "GIR2";
+CM179777.1	Genbank	CDS	2869116	2869182	.	-	0	transcript_id "rna-ACX4JU_008643-T1_mrna"; gene_id "gene-ACX4JU_008643"; gene_name "GIR2";
+CM179777.1	Genbank	transcript	2948582	2949594	.	+	.	transcript_id "rna-ACX4JU_008672-T1_mrna"; gene_id "gene-ACX4JU_008672"; gene_name "PSF1"
+CM179777.1	Genbank	exon	2948582	2948742	.	+	.	transcript_id "rna-ACX4JU_008672-T1_mrna"; gene_id "gene-ACX4JU_008672"; gene_name "PSF1";
+CM179777.1	Genbank	exon	2948803	2949329	.	+	.	transcript_id "rna-ACX4JU_008672-T1_mrna"; gene_id "gene-ACX4JU_008672"; gene_name "PSF1";
+CM179777.1	Genbank	exon	2949424	2949594	.	+	.	transcript_id "rna-ACX4JU_008672-T1_mrna"; gene_id "gene-ACX4JU_008672"; gene_name "PSF1";
+CM179777.1	Genbank	CDS	2948716	2948742	.	+	0	transcript_id "rna-ACX4JU_008672-T1_mrna"; gene_id "gene-ACX4JU_008672"; gene_name "PSF1";
+CM179777.1	Genbank	CDS	2948803	2949329	.	+	0	transcript_id "rna-ACX4JU_008672-T1_mrna"; gene_id "gene-ACX4JU_008672"; gene_name "PSF1";
+CM179777.1	Genbank	CDS	2949424	2949517	.	+	1	transcript_id "rna-ACX4JU_008672-T1_mrna"; gene_id "gene-ACX4JU_008672"; gene_name "PSF1";
+CM179777.1	Genbank	transcript	2963980	2966472	.	-	.	transcript_id "rna-ACX4JU_008676-T1_mrna"; gene_id "gene-ACX4JU_008676"
+CM179777.1	Genbank	exon	2963980	2965655	.	-	.	transcript_id "rna-ACX4JU_008676-T1_mrna"; gene_id "gene-ACX4JU_008676";
+CM179777.1	Genbank	exon	2965708	2966472	.	-	.	transcript_id "rna-ACX4JU_008676-T1_mrna"; gene_id "gene-ACX4JU_008676";
+CM179777.1	Genbank	CDS	2964603	2965655	.	-	0	transcript_id "rna-ACX4JU_008676-T1_mrna"; gene_id "gene-ACX4JU_008676";
+CM179777.1	Genbank	CDS	2965708	2966418	.	-	0	transcript_id "rna-ACX4JU_008676-T1_mrna"; gene_id "gene-ACX4JU_008676";
+CM179777.1	Genbank	transcript	3271266	3272403	.	-	.	transcript_id "rna-ACX4JU_008790-T1_mrna"; gene_id "gene-ACX4JU_008790"; gene_name "GAR1_2"
+CM179777.1	Genbank	exon	3271266	3271668	.	-	.	transcript_id "rna-ACX4JU_008790-T1_mrna"; gene_id "gene-ACX4JU_008790"; gene_name "GAR1_2";
+CM179777.1	Genbank	exon	3271721	3271749	.	-	.	transcript_id "rna-ACX4JU_008790-T1_mrna"; gene_id "gene-ACX4JU_008790"; gene_name "GAR1_2";
+CM179777.1	Genbank	exon	3271807	3271952	.	-	.	transcript_id "rna-ACX4JU_008790-T1_mrna"; gene_id "gene-ACX4JU_008790"; gene_name "GAR1_2";
+CM179777.1	Genbank	exon	3272015	3272115	.	-	.	transcript_id "rna-ACX4JU_008790-T1_mrna"; gene_id "gene-ACX4JU_008790"; gene_name "GAR1_2";
+CM179777.1	Genbank	exon	3272174	3272221	.	-	.	transcript_id "rna-ACX4JU_008790-T1_mrna"; gene_id "gene-ACX4JU_008790"; gene_name "GAR1_2";
+CM179777.1	Genbank	exon	3272285	3272403	.	-	.	transcript_id "rna-ACX4JU_008790-T1_mrna"; gene_id "gene-ACX4JU_008790"; gene_name "GAR1_2";
+CM179777.1	Genbank	CDS	3271460	3271668	.	-	2	transcript_id "rna-ACX4JU_008790-T1_mrna"; gene_id "gene-ACX4JU_008790"; gene_name "GAR1_2";
+CM179777.1	Genbank	CDS	3271721	3271749	.	-	1	transcript_id "rna-ACX4JU_008790-T1_mrna"; gene_id "gene-ACX4JU_008790"; gene_name "GAR1_2";
+CM179777.1	Genbank	CDS	3271807	3271952	.	-	0	transcript_id "rna-ACX4JU_008790-T1_mrna"; gene_id "gene-ACX4JU_008790"; gene_name "GAR1_2";
+CM179777.1	Genbank	CDS	3272015	3272115	.	-	2	transcript_id "rna-ACX4JU_008790-T1_mrna"; gene_id "gene-ACX4JU_008790"; gene_name "GAR1_2";
+CM179777.1	Genbank	CDS	3272174	3272221	.	-	2	transcript_id "rna-ACX4JU_008790-T1_mrna"; gene_id "gene-ACX4JU_008790"; gene_name "GAR1_2";
+CM179777.1	Genbank	CDS	3272285	3272360	.	-	0	transcript_id "rna-ACX4JU_008790-T1_mrna"; gene_id "gene-ACX4JU_008790"; gene_name "GAR1_2";
+CM179778.1	Genbank	transcript	204938	206188	.	-	.	transcript_id "rna-ACX4JU_004943-T1_mrna"; gene_id "gene-ACX4JU_004943"; gene_name "TMA46"
+CM179778.1	Genbank	exon	204938	205370	.	-	.	transcript_id "rna-ACX4JU_004943-T1_mrna"; gene_id "gene-ACX4JU_004943"; gene_name "TMA46";
+CM179778.1	Genbank	exon	205427	205977	.	-	.	transcript_id "rna-ACX4JU_004943-T1_mrna"; gene_id "gene-ACX4JU_004943"; gene_name "TMA46";
+CM179778.1	Genbank	exon	206051	206068	.	-	.	transcript_id "rna-ACX4JU_004943-T1_mrna"; gene_id "gene-ACX4JU_004943"; gene_name "TMA46";
+CM179778.1	Genbank	exon	206132	206188	.	-	.	transcript_id "rna-ACX4JU_004943-T1_mrna"; gene_id "gene-ACX4JU_004943"; gene_name "TMA46";
+CM179778.1	Genbank	CDS	204938	205370	.	-	1	transcript_id "rna-ACX4JU_004943-T1_mrna"; gene_id "gene-ACX4JU_004943"; gene_name "TMA46";
+CM179778.1	Genbank	CDS	205427	205977	.	-	0	transcript_id "rna-ACX4JU_004943-T1_mrna"; gene_id "gene-ACX4JU_004943"; gene_name "TMA46";
+CM179778.1	Genbank	CDS	206051	206068	.	-	0	transcript_id "rna-ACX4JU_004943-T1_mrna"; gene_id "gene-ACX4JU_004943"; gene_name "TMA46";
+CM179778.1	Genbank	CDS	206132	206188	.	-	0	transcript_id "rna-ACX4JU_004943-T1_mrna"; gene_id "gene-ACX4JU_004943"; gene_name "TMA46";
+CM179778.1	Genbank	transcript	308921	309516	.	-	.	transcript_id "rna-ACX4JU_004984-T1_mrna"; gene_id "gene-ACX4JU_004984"; gene_name "MRPL51"
+CM179778.1	Genbank	exon	308921	309218	.	-	.	transcript_id "rna-ACX4JU_004984-T1_mrna"; gene_id "gene-ACX4JU_004984"; gene_name "MRPL51";
+CM179778.1	Genbank	exon	309287	309369	.	-	.	transcript_id "rna-ACX4JU_004984-T1_mrna"; gene_id "gene-ACX4JU_004984"; gene_name "MRPL51";
+CM179778.1	Genbank	exon	309438	309516	.	-	.	transcript_id "rna-ACX4JU_004984-T1_mrna"; gene_id "gene-ACX4JU_004984"; gene_name "MRPL51";
+CM179778.1	Genbank	CDS	308927	309218	.	-	1	transcript_id "rna-ACX4JU_004984-T1_mrna"; gene_id "gene-ACX4JU_004984"; gene_name "MRPL51";
+CM179778.1	Genbank	CDS	309287	309369	.	-	0	transcript_id "rna-ACX4JU_004984-T1_mrna"; gene_id "gene-ACX4JU_004984"; gene_name "MRPL51";
+CM179778.1	Genbank	CDS	309438	309476	.	-	0	transcript_id "rna-ACX4JU_004984-T1_mrna"; gene_id "gene-ACX4JU_004984"; gene_name "MRPL51";
+CM179778.1	Genbank	transcript	311931	312844	.	-	.	transcript_id "rna-ACX4JU_004986-T1_mrna"; gene_id "gene-ACX4JU_004986"; gene_name "MRT4"
+CM179778.1	Genbank	exon	311931	312480	.	-	.	transcript_id "rna-ACX4JU_004986-T1_mrna"; gene_id "gene-ACX4JU_004986"; gene_name "MRT4";
+CM179778.1	Genbank	exon	312569	312844	.	-	.	transcript_id "rna-ACX4JU_004986-T1_mrna"; gene_id "gene-ACX4JU_004986"; gene_name "MRT4";
+CM179778.1	Genbank	CDS	311931	312480	.	-	1	transcript_id "rna-ACX4JU_004986-T1_mrna"; gene_id "gene-ACX4JU_004986"; gene_name "MRT4";
+CM179778.1	Genbank	CDS	312569	312762	.	-	0	transcript_id "rna-ACX4JU_004986-T1_mrna"; gene_id "gene-ACX4JU_004986"; gene_name "MRT4";
+CM179778.1	Genbank	transcript	408594	410003	.	-	.	transcript_id "rna-ACX4JU_005017-T1_mrna"; gene_id "gene-ACX4JU_005017"; gene_name "BCP1"
+CM179778.1	Genbank	exon	408594	409484	.	-	.	transcript_id "rna-ACX4JU_005017-T1_mrna"; gene_id "gene-ACX4JU_005017"; gene_name "BCP1";
+CM179778.1	Genbank	exon	409537	409773	.	-	.	transcript_id "rna-ACX4JU_005017-T1_mrna"; gene_id "gene-ACX4JU_005017"; gene_name "BCP1";
+CM179778.1	Genbank	exon	409833	410003	.	-	.	transcript_id "rna-ACX4JU_005017-T1_mrna"; gene_id "gene-ACX4JU_005017"; gene_name "BCP1";
+CM179778.1	Genbank	CDS	408930	409484	.	-	0	transcript_id "rna-ACX4JU_005017-T1_mrna"; gene_id "gene-ACX4JU_005017"; gene_name "BCP1";
+CM179778.1	Genbank	CDS	409537	409773	.	-	0	transcript_id "rna-ACX4JU_005017-T1_mrna"; gene_id "gene-ACX4JU_005017"; gene_name "BCP1";
+CM179778.1	Genbank	CDS	409833	409916	.	-	0	transcript_id "rna-ACX4JU_005017-T1_mrna"; gene_id "gene-ACX4JU_005017"; gene_name "BCP1";
+CM179778.1	Genbank	transcript	667040	668763	.	-	.	transcript_id "rna-ACX4JU_005114-T1_mrna"; gene_id "gene-ACX4JU_005114"; gene_name "ebp2"
+CM179778.1	Genbank	exon	667040	667091	.	-	.	transcript_id "rna-ACX4JU_005114-T1_mrna"; gene_id "gene-ACX4JU_005114"; gene_name "ebp2";
+CM179778.1	Genbank	exon	667407	667706	.	-	.	transcript_id "rna-ACX4JU_005114-T1_mrna"; gene_id "gene-ACX4JU_005114"; gene_name "ebp2";
+CM179778.1	Genbank	exon	667772	668465	.	-	.	transcript_id "rna-ACX4JU_005114-T1_mrna"; gene_id "gene-ACX4JU_005114"; gene_name "ebp2";
+CM179778.1	Genbank	exon	668533	668763	.	-	.	transcript_id "rna-ACX4JU_005114-T1_mrna"; gene_id "gene-ACX4JU_005114"; gene_name "ebp2";
+CM179778.1	Genbank	CDS	667408	667706	.	-	2	transcript_id "rna-ACX4JU_005114-T1_mrna"; gene_id "gene-ACX4JU_005114"; gene_name "ebp2";
+CM179778.1	Genbank	CDS	667772	668465	.	-	0	transcript_id "rna-ACX4JU_005114-T1_mrna"; gene_id "gene-ACX4JU_005114"; gene_name "ebp2";
+CM179778.1	Genbank	CDS	668533	668706	.	-	0	transcript_id "rna-ACX4JU_005114-T1_mrna"; gene_id "gene-ACX4JU_005114"; gene_name "ebp2";
+CM179778.1	Genbank	transcript	938184	939300	.	+	.	transcript_id "rna-ACX4JU_005213-T1_mrna"; gene_id "gene-ACX4JU_005213"; gene_name "GCN3"
+CM179778.1	Genbank	exon	938184	938209	.	+	.	transcript_id "rna-ACX4JU_005213-T1_mrna"; gene_id "gene-ACX4JU_005213"; gene_name "GCN3";
+CM179778.1	Genbank	exon	938265	939300	.	+	.	transcript_id "rna-ACX4JU_005213-T1_mrna"; gene_id "gene-ACX4JU_005213"; gene_name "GCN3";
+CM179778.1	Genbank	CDS	938184	938209	.	+	0	transcript_id "rna-ACX4JU_005213-T1_mrna"; gene_id "gene-ACX4JU_005213"; gene_name "GCN3";
+CM179778.1	Genbank	CDS	938265	939300	.	+	1	transcript_id "rna-ACX4JU_005213-T1_mrna"; gene_id "gene-ACX4JU_005213"; gene_name "GCN3";
+CM179778.1	Genbank	transcript	1021671	1023947	.	-	.	transcript_id "rna-ACX4JU_005244-T1_mrna"; gene_id "gene-ACX4JU_005244"; gene_name "DBP7"
+CM179778.1	Genbank	exon	1021671	1023947	.	-	.	transcript_id "rna-ACX4JU_005244-T1_mrna"; gene_id "gene-ACX4JU_005244"; gene_name "DBP7";
+CM179778.1	Genbank	CDS	1021671	1023947	.	-	0	transcript_id "rna-ACX4JU_005244-T1_mrna"; gene_id "gene-ACX4JU_005244"; gene_name "DBP7";
+CM179778.1	Genbank	transcript	1177823	1179459	.	+	.	transcript_id "rna-ACX4JU_005304-T1_mrna"; gene_id "gene-ACX4JU_005304"; gene_name "UBA4"
+CM179778.1	Genbank	exon	1177823	1178069	.	+	.	transcript_id "rna-ACX4JU_005304-T1_mrna"; gene_id "gene-ACX4JU_005304"; gene_name "UBA4";
+CM179778.1	Genbank	exon	1178160	1178373	.	+	.	transcript_id "rna-ACX4JU_005304-T1_mrna"; gene_id "gene-ACX4JU_005304"; gene_name "UBA4";
+CM179778.1	Genbank	exon	1178439	1179459	.	+	.	transcript_id "rna-ACX4JU_005304-T1_mrna"; gene_id "gene-ACX4JU_005304"; gene_name "UBA4";
+CM179778.1	Genbank	CDS	1177823	1178069	.	+	0	transcript_id "rna-ACX4JU_005304-T1_mrna"; gene_id "gene-ACX4JU_005304"; gene_name "UBA4";
+CM179778.1	Genbank	CDS	1178160	1178373	.	+	2	transcript_id "rna-ACX4JU_005304-T1_mrna"; gene_id "gene-ACX4JU_005304"; gene_name "UBA4";
+CM179778.1	Genbank	CDS	1178439	1179459	.	+	1	transcript_id "rna-ACX4JU_005304-T1_mrna"; gene_id "gene-ACX4JU_005304"; gene_name "UBA4";
+CM179778.1	Genbank	transcript	1371254	1372762	.	-	.	transcript_id "rna-ACX4JU_005392-T1_mrna"; gene_id "gene-ACX4JU_005392"; gene_name "TRM61"
+CM179778.1	Genbank	exon	1371254	1372762	.	-	.	transcript_id "rna-ACX4JU_005392-T1_mrna"; gene_id "gene-ACX4JU_005392"; gene_name "TRM61";
+CM179778.1	Genbank	CDS	1371254	1372762	.	-	0	transcript_id "rna-ACX4JU_005392-T1_mrna"; gene_id "gene-ACX4JU_005392"; gene_name "TRM61";
+CM179778.1	Genbank	transcript	1523801	1525698	.	+	.	transcript_id "rna-ACX4JU_005450-T1_mrna"; gene_id "gene-ACX4JU_005450"
+CM179778.1	Genbank	exon	1523801	1524991	.	+	.	transcript_id "rna-ACX4JU_005450-T1_mrna"; gene_id "gene-ACX4JU_005450";
+CM179778.1	Genbank	exon	1525072	1525698	.	+	.	transcript_id "rna-ACX4JU_005450-T1_mrna"; gene_id "gene-ACX4JU_005450";
+CM179778.1	Genbank	CDS	1523838	1524581	.	+	0	transcript_id "rna-ACX4JU_005450-T1_mrna"; gene_id "gene-ACX4JU_005450";
+CM179778.1	Genbank	transcript	1646880	1647902	.	+	.	transcript_id "rna-ACX4JU_005485-T1_mrna"; gene_id "gene-ACX4JU_005485"; gene_name "ISY1"
+CM179778.1	Genbank	exon	1646880	1646959	.	+	.	transcript_id "rna-ACX4JU_005485-T1_mrna"; gene_id "gene-ACX4JU_005485"; gene_name "ISY1";
+CM179778.1	Genbank	exon	1647056	1647902	.	+	.	transcript_id "rna-ACX4JU_005485-T1_mrna"; gene_id "gene-ACX4JU_005485"; gene_name "ISY1";
+CM179778.1	Genbank	CDS	1646957	1646959	.	+	0	transcript_id "rna-ACX4JU_005485-T1_mrna"; gene_id "gene-ACX4JU_005485"; gene_name "ISY1";
+CM179778.1	Genbank	CDS	1647056	1647814	.	+	0	transcript_id "rna-ACX4JU_005485-T1_mrna"; gene_id "gene-ACX4JU_005485"; gene_name "ISY1";
+CM179778.1	Genbank	transcript	1781583	1782698	.	-	.	transcript_id "rna-ACX4JU_005537-T1_mrna"; gene_id "gene-ACX4JU_005537"; gene_name "ATG3"
+CM179778.1	Genbank	exon	1781583	1782120	.	-	.	transcript_id "rna-ACX4JU_005537-T1_mrna"; gene_id "gene-ACX4JU_005537"; gene_name "ATG3";
+CM179778.1	Genbank	exon	1782175	1782698	.	-	.	transcript_id "rna-ACX4JU_005537-T1_mrna"; gene_id "gene-ACX4JU_005537"; gene_name "ATG3";
+CM179778.1	Genbank	CDS	1781583	1782120	.	-	1	transcript_id "rna-ACX4JU_005537-T1_mrna"; gene_id "gene-ACX4JU_005537"; gene_name "ATG3";
+CM179778.1	Genbank	CDS	1782175	1782698	.	-	0	transcript_id "rna-ACX4JU_005537-T1_mrna"; gene_id "gene-ACX4JU_005537"; gene_name "ATG3";
+CM179778.1	Genbank	transcript	2202666	2203361	.	+	.	transcript_id "rna-ACX4JU_005686-T1_mrna"; gene_id "gene-ACX4JU_005686"; gene_name "SPT4"
+CM179778.1	Genbank	exon	2202666	2202868	.	+	.	transcript_id "rna-ACX4JU_005686-T1_mrna"; gene_id "gene-ACX4JU_005686"; gene_name "SPT4";
+CM179778.1	Genbank	exon	2202933	2203130	.	+	.	transcript_id "rna-ACX4JU_005686-T1_mrna"; gene_id "gene-ACX4JU_005686"; gene_name "SPT4";
+CM179778.1	Genbank	exon	2203179	2203231	.	+	.	transcript_id "rna-ACX4JU_005686-T1_mrna"; gene_id "gene-ACX4JU_005686"; gene_name "SPT4";
+CM179778.1	Genbank	exon	2203285	2203361	.	+	.	transcript_id "rna-ACX4JU_005686-T1_mrna"; gene_id "gene-ACX4JU_005686"; gene_name "SPT4";
+CM179778.1	Genbank	CDS	2202785	2202868	.	+	0	transcript_id "rna-ACX4JU_005686-T1_mrna"; gene_id "gene-ACX4JU_005686"; gene_name "SPT4";
+CM179778.1	Genbank	CDS	2202933	2203130	.	+	0	transcript_id "rna-ACX4JU_005686-T1_mrna"; gene_id "gene-ACX4JU_005686"; gene_name "SPT4";
+CM179778.1	Genbank	CDS	2203179	2203231	.	+	0	transcript_id "rna-ACX4JU_005686-T1_mrna"; gene_id "gene-ACX4JU_005686"; gene_name "SPT4";
+CM179778.1	Genbank	CDS	2203285	2203318	.	+	1	transcript_id "rna-ACX4JU_005686-T1_mrna"; gene_id "gene-ACX4JU_005686"; gene_name "SPT4";
+CM179778.1	Genbank	transcript	2516428	2518156	.	-	.	transcript_id "rna-ACX4JU_005786-T1_mrna"; gene_id "gene-ACX4JU_005786"; gene_name "FYV10"
+CM179778.1	Genbank	exon	2516428	2516859	.	-	.	transcript_id "rna-ACX4JU_005786-T1_mrna"; gene_id "gene-ACX4JU_005786"; gene_name "FYV10";
+CM179778.1	Genbank	exon	2516930	2517124	.	-	.	transcript_id "rna-ACX4JU_005786-T1_mrna"; gene_id "gene-ACX4JU_005786"; gene_name "FYV10";
+CM179778.1	Genbank	exon	2517195	2517734	.	-	.	transcript_id "rna-ACX4JU_005786-T1_mrna"; gene_id "gene-ACX4JU_005786"; gene_name "FYV10";
+CM179778.1	Genbank	exon	2517799	2518156	.	-	.	transcript_id "rna-ACX4JU_005786-T1_mrna"; gene_id "gene-ACX4JU_005786"; gene_name "FYV10";
+CM179778.1	Genbank	CDS	2516428	2516859	.	-	0	transcript_id "rna-ACX4JU_005786-T1_mrna"; gene_id "gene-ACX4JU_005786"; gene_name "FYV10";
+CM179778.1	Genbank	CDS	2516930	2517124	.	-	0	transcript_id "rna-ACX4JU_005786-T1_mrna"; gene_id "gene-ACX4JU_005786"; gene_name "FYV10";
+CM179778.1	Genbank	CDS	2517195	2517734	.	-	0	transcript_id "rna-ACX4JU_005786-T1_mrna"; gene_id "gene-ACX4JU_005786"; gene_name "FYV10";
+CM179778.1	Genbank	CDS	2517799	2517852	.	-	0	transcript_id "rna-ACX4JU_005786-T1_mrna"; gene_id "gene-ACX4JU_005786"; gene_name "FYV10";
+CM179778.1	Genbank	transcript	2550600	2551319	.	+	.	transcript_id "rna-ACX4JU_005800-T1_mrna"; gene_id "gene-ACX4JU_005800"; gene_name "FAP7"
+CM179778.1	Genbank	exon	2550600	2550782	.	+	.	transcript_id "rna-ACX4JU_005800-T1_mrna"; gene_id "gene-ACX4JU_005800"; gene_name "FAP7";
+CM179778.1	Genbank	exon	2550890	2551038	.	+	.	transcript_id "rna-ACX4JU_005800-T1_mrna"; gene_id "gene-ACX4JU_005800"; gene_name "FAP7";
+CM179778.1	Genbank	exon	2551118	2551319	.	+	.	transcript_id "rna-ACX4JU_005800-T1_mrna"; gene_id "gene-ACX4JU_005800"; gene_name "FAP7";
+CM179778.1	Genbank	CDS	2550600	2550782	.	+	0	transcript_id "rna-ACX4JU_005800-T1_mrna"; gene_id "gene-ACX4JU_005800"; gene_name "FAP7";
+CM179778.1	Genbank	CDS	2550890	2551038	.	+	0	transcript_id "rna-ACX4JU_005800-T1_mrna"; gene_id "gene-ACX4JU_005800"; gene_name "FAP7";
+CM179778.1	Genbank	CDS	2551118	2551319	.	+	1	transcript_id "rna-ACX4JU_005800-T1_mrna"; gene_id "gene-ACX4JU_005800"; gene_name "FAP7";
+CM179778.1	Genbank	transcript	2672454	2674511	.	-	.	transcript_id "rna-ACX4JU_005825-T1_mrna"; gene_id "gene-ACX4JU_005825"
+CM179778.1	Genbank	exon	2672454	2673622	.	-	.	transcript_id "rna-ACX4JU_005825-T1_mrna"; gene_id "gene-ACX4JU_005825";
+CM179778.1	Genbank	exon	2673687	2674022	.	-	.	transcript_id "rna-ACX4JU_005825-T1_mrna"; gene_id "gene-ACX4JU_005825";
+CM179778.1	Genbank	exon	2674108	2674511	.	-	.	transcript_id "rna-ACX4JU_005825-T1_mrna"; gene_id "gene-ACX4JU_005825";
+CM179778.1	Genbank	CDS	2672818	2673622	.	-	1	transcript_id "rna-ACX4JU_005825-T1_mrna"; gene_id "gene-ACX4JU_005825";
+CM179778.1	Genbank	CDS	2673687	2674022	.	-	1	transcript_id "rna-ACX4JU_005825-T1_mrna"; gene_id "gene-ACX4JU_005825";
+CM179778.1	Genbank	CDS	2674108	2674337	.	-	0	transcript_id "rna-ACX4JU_005825-T1_mrna"; gene_id "gene-ACX4JU_005825";
+CM179778.1	Genbank	transcript	3002510	3005696	.	-	.	transcript_id "rna-ACX4JU_005952-T1_mrna"; gene_id "gene-ACX4JU_005952"; gene_name "PWP2"
+CM179778.1	Genbank	exon	3002510	3004571	.	-	.	transcript_id "rna-ACX4JU_005952-T1_mrna"; gene_id "gene-ACX4JU_005952"; gene_name "PWP2";
+CM179778.1	Genbank	exon	3004621	3004868	.	-	.	transcript_id "rna-ACX4JU_005952-T1_mrna"; gene_id "gene-ACX4JU_005952"; gene_name "PWP2";
+CM179778.1	Genbank	exon	3004918	3005413	.	-	.	transcript_id "rna-ACX4JU_005952-T1_mrna"; gene_id "gene-ACX4JU_005952"; gene_name "PWP2";
+CM179778.1	Genbank	exon	3005486	3005598	.	-	.	transcript_id "rna-ACX4JU_005952-T1_mrna"; gene_id "gene-ACX4JU_005952"; gene_name "PWP2";
+CM179778.1	Genbank	exon	3005649	3005696	.	-	.	transcript_id "rna-ACX4JU_005952-T1_mrna"; gene_id "gene-ACX4JU_005952"; gene_name "PWP2";
+CM179778.1	Genbank	CDS	3002738	3004571	.	-	1	transcript_id "rna-ACX4JU_005952-T1_mrna"; gene_id "gene-ACX4JU_005952"; gene_name "PWP2";
+CM179778.1	Genbank	CDS	3004621	3004868	.	-	0	transcript_id "rna-ACX4JU_005952-T1_mrna"; gene_id "gene-ACX4JU_005952"; gene_name "PWP2";
+CM179778.1	Genbank	CDS	3004918	3005413	.	-	1	transcript_id "rna-ACX4JU_005952-T1_mrna"; gene_id "gene-ACX4JU_005952"; gene_name "PWP2";
+CM179778.1	Genbank	CDS	3005486	3005598	.	-	0	transcript_id "rna-ACX4JU_005952-T1_mrna"; gene_id "gene-ACX4JU_005952"; gene_name "PWP2";
+CM179778.1	Genbank	CDS	3005649	3005666	.	-	0	transcript_id "rna-ACX4JU_005952-T1_mrna"; gene_id "gene-ACX4JU_005952"; gene_name "PWP2";
+CM179778.1	Genbank	transcript	3157881	3159146	.	+	.	transcript_id "rna-ACX4JU_006005-T1_mrna"; gene_id "gene-ACX4JU_006005"; gene_name "cwf16"
+CM179778.1	Genbank	exon	3157881	3158131	.	+	.	transcript_id "rna-ACX4JU_006005-T1_mrna"; gene_id "gene-ACX4JU_006005"; gene_name "cwf16";
+CM179778.1	Genbank	exon	3158187	3158314	.	+	.	transcript_id "rna-ACX4JU_006005-T1_mrna"; gene_id "gene-ACX4JU_006005"; gene_name "cwf16";
+CM179778.1	Genbank	exon	3158369	3159146	.	+	.	transcript_id "rna-ACX4JU_006005-T1_mrna"; gene_id "gene-ACX4JU_006005"; gene_name "cwf16";
+CM179778.1	Genbank	CDS	3158109	3158131	.	+	0	transcript_id "rna-ACX4JU_006005-T1_mrna"; gene_id "gene-ACX4JU_006005"; gene_name "cwf16";
+CM179778.1	Genbank	CDS	3158187	3158314	.	+	1	transcript_id "rna-ACX4JU_006005-T1_mrna"; gene_id "gene-ACX4JU_006005"; gene_name "cwf16";
+CM179778.1	Genbank	CDS	3158369	3159048	.	+	2	transcript_id "rna-ACX4JU_006005-T1_mrna"; gene_id "gene-ACX4JU_006005"; gene_name "cwf16";
+CM179778.1	Genbank	transcript	3364178	3366157	.	-	.	transcript_id "rna-ACX4JU_006084-T1_mrna"; gene_id "gene-ACX4JU_006084"; gene_name "TRM6"
+CM179778.1	Genbank	exon	3364178	3365810	.	-	.	transcript_id "rna-ACX4JU_006084-T1_mrna"; gene_id "gene-ACX4JU_006084"; gene_name "TRM6";
+CM179778.1	Genbank	exon	3365865	3366157	.	-	.	transcript_id "rna-ACX4JU_006084-T1_mrna"; gene_id "gene-ACX4JU_006084"; gene_name "TRM6";
+CM179778.1	Genbank	CDS	3364178	3365810	.	-	1	transcript_id "rna-ACX4JU_006084-T1_mrna"; gene_id "gene-ACX4JU_006084"; gene_name "TRM6";
+CM179778.1	Genbank	CDS	3365865	3365950	.	-	0	transcript_id "rna-ACX4JU_006084-T1_mrna"; gene_id "gene-ACX4JU_006084"; gene_name "TRM6";
+CM179779.1	Genbank	transcript	289370	290761	.	+	.	transcript_id "rna-ACX4JU_006356-T1_mrna"; gene_id "gene-ACX4JU_006356"
+CM179779.1	Genbank	exon	289370	289577	.	+	.	transcript_id "rna-ACX4JU_006356-T1_mrna"; gene_id "gene-ACX4JU_006356";
+CM179779.1	Genbank	exon	289638	290761	.	+	.	transcript_id "rna-ACX4JU_006356-T1_mrna"; gene_id "gene-ACX4JU_006356";
+CM179779.1	Genbank	CDS	289511	289577	.	+	0	transcript_id "rna-ACX4JU_006356-T1_mrna"; gene_id "gene-ACX4JU_006356";
+CM179779.1	Genbank	CDS	289638	290605	.	+	2	transcript_id "rna-ACX4JU_006356-T1_mrna"; gene_id "gene-ACX4JU_006356";
+CM179779.1	Genbank	transcript	584755	587114	.	-	.	transcript_id "rna-ACX4JU_006462-T1_mrna"; gene_id "gene-ACX4JU_006462"; gene_name "COG6"
+CM179779.1	Genbank	exon	584755	586716	.	-	.	transcript_id "rna-ACX4JU_006462-T1_mrna"; gene_id "gene-ACX4JU_006462"; gene_name "COG6";
+CM179779.1	Genbank	exon	586779	587114	.	-	.	transcript_id "rna-ACX4JU_006462-T1_mrna"; gene_id "gene-ACX4JU_006462"; gene_name "COG6";
+CM179779.1	Genbank	CDS	584755	586716	.	-	0	transcript_id "rna-ACX4JU_006462-T1_mrna"; gene_id "gene-ACX4JU_006462"; gene_name "COG6";
+CM179779.1	Genbank	CDS	586779	587075	.	-	0	transcript_id "rna-ACX4JU_006462-T1_mrna"; gene_id "gene-ACX4JU_006462"; gene_name "COG6";
+CM179779.1	Genbank	transcript	1214707	1218005	.	-	.	transcript_id "rna-ACX4JU_006698-T1_mrna"; gene_id "gene-ACX4JU_006698"; gene_name "VPS11"
+CM179779.1	Genbank	exon	1214707	1215087	.	-	.	transcript_id "rna-ACX4JU_006698-T1_mrna"; gene_id "gene-ACX4JU_006698"; gene_name "VPS11";
+CM179779.1	Genbank	exon	1215142	1215540	.	-	.	transcript_id "rna-ACX4JU_006698-T1_mrna"; gene_id "gene-ACX4JU_006698"; gene_name "VPS11";
+CM179779.1	Genbank	exon	1215589	1216092	.	-	.	transcript_id "rna-ACX4JU_006698-T1_mrna"; gene_id "gene-ACX4JU_006698"; gene_name "VPS11";
+CM179779.1	Genbank	exon	1216146	1216481	.	-	.	transcript_id "rna-ACX4JU_006698-T1_mrna"; gene_id "gene-ACX4JU_006698"; gene_name "VPS11";
+CM179779.1	Genbank	exon	1216537	1216770	.	-	.	transcript_id "rna-ACX4JU_006698-T1_mrna"; gene_id "gene-ACX4JU_006698"; gene_name "VPS11";
+CM179779.1	Genbank	exon	1216821	1217432	.	-	.	transcript_id "rna-ACX4JU_006698-T1_mrna"; gene_id "gene-ACX4JU_006698"; gene_name "VPS11";
+CM179779.1	Genbank	exon	1217492	1217788	.	-	.	transcript_id "rna-ACX4JU_006698-T1_mrna"; gene_id "gene-ACX4JU_006698"; gene_name "VPS11";
+CM179779.1	Genbank	exon	1217861	1217929	.	-	.	transcript_id "rna-ACX4JU_006698-T1_mrna"; gene_id "gene-ACX4JU_006698"; gene_name "VPS11";
+CM179779.1	Genbank	exon	1217991	1218005	.	-	.	transcript_id "rna-ACX4JU_006698-T1_mrna"; gene_id "gene-ACX4JU_006698"; gene_name "VPS11";
+CM179779.1	Genbank	CDS	1214707	1215087	.	-	0	transcript_id "rna-ACX4JU_006698-T1_mrna"; gene_id "gene-ACX4JU_006698"; gene_name "VPS11";
+CM179779.1	Genbank	CDS	1215142	1215540	.	-	0	transcript_id "rna-ACX4JU_006698-T1_mrna"; gene_id "gene-ACX4JU_006698"; gene_name "VPS11";
+CM179779.1	Genbank	CDS	1215589	1216092	.	-	0	transcript_id "rna-ACX4JU_006698-T1_mrna"; gene_id "gene-ACX4JU_006698"; gene_name "VPS11";
+CM179779.1	Genbank	CDS	1216146	1216481	.	-	0	transcript_id "rna-ACX4JU_006698-T1_mrna"; gene_id "gene-ACX4JU_006698"; gene_name "VPS11";
+CM179779.1	Genbank	CDS	1216537	1216770	.	-	0	transcript_id "rna-ACX4JU_006698-T1_mrna"; gene_id "gene-ACX4JU_006698"; gene_name "VPS11";
+CM179779.1	Genbank	CDS	1216821	1217432	.	-	0	transcript_id "rna-ACX4JU_006698-T1_mrna"; gene_id "gene-ACX4JU_006698"; gene_name "VPS11";
+CM179779.1	Genbank	CDS	1217492	1217788	.	-	0	transcript_id "rna-ACX4JU_006698-T1_mrna"; gene_id "gene-ACX4JU_006698"; gene_name "VPS11";
+CM179779.1	Genbank	CDS	1217861	1217929	.	-	0	transcript_id "rna-ACX4JU_006698-T1_mrna"; gene_id "gene-ACX4JU_006698"; gene_name "VPS11";
+CM179779.1	Genbank	CDS	1217991	1218005	.	-	0	transcript_id "rna-ACX4JU_006698-T1_mrna"; gene_id "gene-ACX4JU_006698"; gene_name "VPS11";
+CM179779.1	Genbank	transcript	1795807	1796796	.	-	.	transcript_id "rna-ACX4JU_006918-T1_mrna"; gene_id "gene-ACX4JU_006918"; gene_name "SLD5"
+CM179779.1	Genbank	exon	1795807	1796433	.	-	.	transcript_id "rna-ACX4JU_006918-T1_mrna"; gene_id "gene-ACX4JU_006918"; gene_name "SLD5";
+CM179779.1	Genbank	exon	1796510	1796796	.	-	.	transcript_id "rna-ACX4JU_006918-T1_mrna"; gene_id "gene-ACX4JU_006918"; gene_name "SLD5";
+CM179779.1	Genbank	CDS	1795807	1796433	.	-	0	transcript_id "rna-ACX4JU_006918-T1_mrna"; gene_id "gene-ACX4JU_006918"; gene_name "SLD5";
+CM179779.1	Genbank	CDS	1796510	1796683	.	-	0	transcript_id "rna-ACX4JU_006918-T1_mrna"; gene_id "gene-ACX4JU_006918"; gene_name "SLD5";
+CM179779.1	Genbank	transcript	1968602	1970412	.	+	.	transcript_id "rna-ACX4JU_006971-T1_mrna"; gene_id "gene-ACX4JU_006971"; gene_name "COX15"
+CM179779.1	Genbank	exon	1968602	1969078	.	+	.	transcript_id "rna-ACX4JU_006971-T1_mrna"; gene_id "gene-ACX4JU_006971"; gene_name "COX15";
+CM179779.1	Genbank	exon	1969137	1970412	.	+	.	transcript_id "rna-ACX4JU_006971-T1_mrna"; gene_id "gene-ACX4JU_006971"; gene_name "COX15";
+CM179779.1	Genbank	CDS	1968681	1969078	.	+	0	transcript_id "rna-ACX4JU_006971-T1_mrna"; gene_id "gene-ACX4JU_006971"; gene_name "COX15";
+CM179779.1	Genbank	CDS	1969137	1970250	.	+	1	transcript_id "rna-ACX4JU_006971-T1_mrna"; gene_id "gene-ACX4JU_006971"; gene_name "COX15";
+CM179779.1	Genbank	transcript	2337586	2338815	.	+	.	transcript_id "rna-ACX4JU_007106-T1_mrna"; gene_id "gene-ACX4JU_007106"; gene_name "BUD23"
+CM179779.1	Genbank	exon	2337586	2337907	.	+	.	transcript_id "rna-ACX4JU_007106-T1_mrna"; gene_id "gene-ACX4JU_007106"; gene_name "BUD23";
+CM179779.1	Genbank	exon	2337999	2338815	.	+	.	transcript_id "rna-ACX4JU_007106-T1_mrna"; gene_id "gene-ACX4JU_007106"; gene_name "BUD23";
+CM179779.1	Genbank	CDS	2337885	2337907	.	+	0	transcript_id "rna-ACX4JU_007106-T1_mrna"; gene_id "gene-ACX4JU_007106"; gene_name "BUD23";
+CM179779.1	Genbank	CDS	2337999	2338815	.	+	1	transcript_id "rna-ACX4JU_007106-T1_mrna"; gene_id "gene-ACX4JU_007106"; gene_name "BUD23";
+CM179779.1	Genbank	transcript	2416299	2417195	.	-	.	transcript_id "rna-ACX4JU_007118-T1_mrna"; gene_id "gene-ACX4JU_007118"; gene_name "MSW1"
+CM179779.1	Genbank	exon	2416299	2416750	.	-	.	transcript_id "rna-ACX4JU_007118-T1_mrna"; gene_id "gene-ACX4JU_007118"; gene_name "MSW1";
+CM179779.1	Genbank	exon	2416812	2416930	.	-	.	transcript_id "rna-ACX4JU_007118-T1_mrna"; gene_id "gene-ACX4JU_007118"; gene_name "MSW1";
+CM179779.1	Genbank	exon	2416980	2417095	.	-	.	transcript_id "rna-ACX4JU_007118-T1_mrna"; gene_id "gene-ACX4JU_007118"; gene_name "MSW1";
+CM179779.1	Genbank	exon	2417163	2417195	.	-	.	transcript_id "rna-ACX4JU_007118-T1_mrna"; gene_id "gene-ACX4JU_007118"; gene_name "MSW1";
+CM179779.1	Genbank	CDS	2416299	2416750	.	-	2	transcript_id "rna-ACX4JU_007118-T1_mrna"; gene_id "gene-ACX4JU_007118"; gene_name "MSW1";
+CM179779.1	Genbank	CDS	2416812	2416930	.	-	1	transcript_id "rna-ACX4JU_007118-T1_mrna"; gene_id "gene-ACX4JU_007118"; gene_name "MSW1";
+CM179779.1	Genbank	CDS	2416980	2417095	.	-	0	transcript_id "rna-ACX4JU_007118-T1_mrna"; gene_id "gene-ACX4JU_007118"; gene_name "MSW1";
+CM179779.1	Genbank	CDS	2417163	2417195	.	-	0	transcript_id "rna-ACX4JU_007118-T1_mrna"; gene_id "gene-ACX4JU_007118"; gene_name "MSW1";
+CM179779.1	Genbank	transcript	2466583	2470005	.	-	.	transcript_id "rna-ACX4JU_007138-T1_mrna"; gene_id "gene-ACX4JU_007138"; gene_name "cbc1"
+CM179779.1	Genbank	exon	2466583	2467776	.	-	.	transcript_id "rna-ACX4JU_007138-T1_mrna"; gene_id "gene-ACX4JU_007138"; gene_name "cbc1";
+CM179779.1	Genbank	exon	2467849	2468030	.	-	.	transcript_id "rna-ACX4JU_007138-T1_mrna"; gene_id "gene-ACX4JU_007138"; gene_name "cbc1";
+CM179779.1	Genbank	exon	2468084	2468970	.	-	.	transcript_id "rna-ACX4JU_007138-T1_mrna"; gene_id "gene-ACX4JU_007138"; gene_name "cbc1";
+CM179779.1	Genbank	exon	2469038	2469305	.	-	.	transcript_id "rna-ACX4JU_007138-T1_mrna"; gene_id "gene-ACX4JU_007138"; gene_name "cbc1";
+CM179779.1	Genbank	exon	2469383	2469489	.	-	.	transcript_id "rna-ACX4JU_007138-T1_mrna"; gene_id "gene-ACX4JU_007138"; gene_name "cbc1";
+CM179779.1	Genbank	exon	2469566	2469660	.	-	.	transcript_id "rna-ACX4JU_007138-T1_mrna"; gene_id "gene-ACX4JU_007138"; gene_name "cbc1";
+CM179779.1	Genbank	exon	2469767	2470005	.	-	.	transcript_id "rna-ACX4JU_007138-T1_mrna"; gene_id "gene-ACX4JU_007138"; gene_name "cbc1";
+CM179779.1	Genbank	CDS	2466881	2467776	.	-	2	transcript_id "rna-ACX4JU_007138-T1_mrna"; gene_id "gene-ACX4JU_007138"; gene_name "cbc1";
+CM179779.1	Genbank	CDS	2467849	2468030	.	-	1	transcript_id "rna-ACX4JU_007138-T1_mrna"; gene_id "gene-ACX4JU_007138"; gene_name "cbc1";
+CM179779.1	Genbank	CDS	2468084	2468970	.	-	0	transcript_id "rna-ACX4JU_007138-T1_mrna"; gene_id "gene-ACX4JU_007138"; gene_name "cbc1";
+CM179779.1	Genbank	CDS	2469038	2469305	.	-	1	transcript_id "rna-ACX4JU_007138-T1_mrna"; gene_id "gene-ACX4JU_007138"; gene_name "cbc1";
+CM179779.1	Genbank	CDS	2469383	2469489	.	-	0	transcript_id "rna-ACX4JU_007138-T1_mrna"; gene_id "gene-ACX4JU_007138"; gene_name "cbc1";
+CM179779.1	Genbank	CDS	2469566	2469660	.	-	2	transcript_id "rna-ACX4JU_007138-T1_mrna"; gene_id "gene-ACX4JU_007138"; gene_name "cbc1";
+CM179779.1	Genbank	CDS	2469767	2469830	.	-	0	transcript_id "rna-ACX4JU_007138-T1_mrna"; gene_id "gene-ACX4JU_007138"; gene_name "cbc1";
+CM179779.1	Genbank	transcript	2493469	2495060	.	+	.	transcript_id "rna-ACX4JU_007147-T1_mrna"; gene_id "gene-ACX4JU_007147"; gene_name "GET4"
+CM179779.1	Genbank	exon	2493469	2493760	.	+	.	transcript_id "rna-ACX4JU_007147-T1_mrna"; gene_id "gene-ACX4JU_007147"; gene_name "GET4";
+CM179779.1	Genbank	exon	2493859	2494115	.	+	.	transcript_id "rna-ACX4JU_007147-T1_mrna"; gene_id "gene-ACX4JU_007147"; gene_name "GET4";
+CM179779.1	Genbank	exon	2494269	2494421	.	+	.	transcript_id "rna-ACX4JU_007147-T1_mrna"; gene_id "gene-ACX4JU_007147"; gene_name "GET4";
+CM179779.1	Genbank	exon	2494474	2495060	.	+	.	transcript_id "rna-ACX4JU_007147-T1_mrna"; gene_id "gene-ACX4JU_007147"; gene_name "GET4";
+CM179779.1	Genbank	CDS	2493717	2493760	.	+	0	transcript_id "rna-ACX4JU_007147-T1_mrna"; gene_id "gene-ACX4JU_007147"; gene_name "GET4";
+CM179779.1	Genbank	CDS	2493859	2494115	.	+	1	transcript_id "rna-ACX4JU_007147-T1_mrna"; gene_id "gene-ACX4JU_007147"; gene_name "GET4";
+CM179779.1	Genbank	CDS	2494269	2494421	.	+	2	transcript_id "rna-ACX4JU_007147-T1_mrna"; gene_id "gene-ACX4JU_007147"; gene_name "GET4";
+CM179779.1	Genbank	CDS	2494474	2495060	.	+	2	transcript_id "rna-ACX4JU_007147-T1_mrna"; gene_id "gene-ACX4JU_007147"; gene_name "GET4";
+CM179779.1	Genbank	transcript	2568141	2569588	.	+	.	transcript_id "rna-ACX4JU_007172-T1_mrna"; gene_id "gene-ACX4JU_007172"; gene_name "MED6"
+CM179779.1	Genbank	exon	2568141	2568335	.	+	.	transcript_id "rna-ACX4JU_007172-T1_mrna"; gene_id "gene-ACX4JU_007172"; gene_name "MED6";
+CM179779.1	Genbank	exon	2568412	2568773	.	+	.	transcript_id "rna-ACX4JU_007172-T1_mrna"; gene_id "gene-ACX4JU_007172"; gene_name "MED6";
+CM179779.1	Genbank	exon	2568838	2569588	.	+	.	transcript_id "rna-ACX4JU_007172-T1_mrna"; gene_id "gene-ACX4JU_007172"; gene_name "MED6";
+CM179779.1	Genbank	CDS	2568242	2568335	.	+	0	transcript_id "rna-ACX4JU_007172-T1_mrna"; gene_id "gene-ACX4JU_007172"; gene_name "MED6";
+CM179779.1	Genbank	CDS	2568412	2568773	.	+	2	transcript_id "rna-ACX4JU_007172-T1_mrna"; gene_id "gene-ACX4JU_007172"; gene_name "MED6";
+CM179779.1	Genbank	CDS	2568838	2569356	.	+	0	transcript_id "rna-ACX4JU_007172-T1_mrna"; gene_id "gene-ACX4JU_007172"; gene_name "MED6";
+CM179780.1	Genbank	transcript	379729	382978	.	-	.	transcript_id "rna-ACX4JU_009059-T1_mrna"; gene_id "gene-ACX4JU_009059"; gene_name "ctf18"
+CM179780.1	Genbank	exon	379729	380152	.	-	.	transcript_id "rna-ACX4JU_009059-T1_mrna"; gene_id "gene-ACX4JU_009059"; gene_name "ctf18";
+CM179780.1	Genbank	exon	380216	382712	.	-	.	transcript_id "rna-ACX4JU_009059-T1_mrna"; gene_id "gene-ACX4JU_009059"; gene_name "ctf18";
+CM179780.1	Genbank	exon	382768	382978	.	-	.	transcript_id "rna-ACX4JU_009059-T1_mrna"; gene_id "gene-ACX4JU_009059"; gene_name "ctf18";
+CM179780.1	Genbank	CDS	379729	380152	.	-	1	transcript_id "rna-ACX4JU_009059-T1_mrna"; gene_id "gene-ACX4JU_009059"; gene_name "ctf18";
+CM179780.1	Genbank	CDS	380216	382712	.	-	2	transcript_id "rna-ACX4JU_009059-T1_mrna"; gene_id "gene-ACX4JU_009059"; gene_name "ctf18";
+CM179780.1	Genbank	CDS	382768	382978	.	-	0	transcript_id "rna-ACX4JU_009059-T1_mrna"; gene_id "gene-ACX4JU_009059"; gene_name "ctf18";
+CM179780.1	Genbank	transcript	383570	384773	.	-	.	transcript_id "rna-ACX4JU_009060-T1_mrna"; gene_id "gene-ACX4JU_009060"; gene_name "ETF1"
+CM179780.1	Genbank	exon	383570	384150	.	-	.	transcript_id "rna-ACX4JU_009060-T1_mrna"; gene_id "gene-ACX4JU_009060"; gene_name "ETF1";
+CM179780.1	Genbank	exon	384222	384390	.	-	.	transcript_id "rna-ACX4JU_009060-T1_mrna"; gene_id "gene-ACX4JU_009060"; gene_name "ETF1";
+CM179780.1	Genbank	exon	384465	384773	.	-	.	transcript_id "rna-ACX4JU_009060-T1_mrna"; gene_id "gene-ACX4JU_009060"; gene_name "ETF1";
+CM179780.1	Genbank	CDS	383570	384150	.	-	2	transcript_id "rna-ACX4JU_009060-T1_mrna"; gene_id "gene-ACX4JU_009060"; gene_name "ETF1";
+CM179780.1	Genbank	CDS	384222	384390	.	-	0	transcript_id "rna-ACX4JU_009060-T1_mrna"; gene_id "gene-ACX4JU_009060"; gene_name "ETF1";
+CM179780.1	Genbank	CDS	384465	384773	.	-	0	transcript_id "rna-ACX4JU_009060-T1_mrna"; gene_id "gene-ACX4JU_009060"; gene_name "ETF1";
+CM179780.1	Genbank	transcript	699621	701213	.	+	.	transcript_id "rna-ACX4JU_009179-T1_mrna"; gene_id "gene-ACX4JU_009179"
+CM179780.1	Genbank	exon	699621	700254	.	+	.	transcript_id "rna-ACX4JU_009179-T1_mrna"; gene_id "gene-ACX4JU_009179";
+CM179780.1	Genbank	exon	700342	701213	.	+	.	transcript_id "rna-ACX4JU_009179-T1_mrna"; gene_id "gene-ACX4JU_009179";
+CM179780.1	Genbank	CDS	699621	700254	.	+	0	transcript_id "rna-ACX4JU_009179-T1_mrna"; gene_id "gene-ACX4JU_009179";
+CM179780.1	Genbank	CDS	700342	701213	.	+	2	transcript_id "rna-ACX4JU_009179-T1_mrna"; gene_id "gene-ACX4JU_009179";
+CM179780.1	Genbank	transcript	812519	814027	.	-	.	transcript_id "rna-ACX4JU_009227-T1_mrna"; gene_id "gene-ACX4JU_009227"
+CM179780.1	Genbank	exon	812519	813678	.	-	.	transcript_id "rna-ACX4JU_009227-T1_mrna"; gene_id "gene-ACX4JU_009227";
+CM179780.1	Genbank	exon	813781	814027	.	-	.	transcript_id "rna-ACX4JU_009227-T1_mrna"; gene_id "gene-ACX4JU_009227";
+CM179780.1	Genbank	CDS	812519	813678	.	-	2	transcript_id "rna-ACX4JU_009227-T1_mrna"; gene_id "gene-ACX4JU_009227";
+CM179780.1	Genbank	CDS	813781	814027	.	-	0	transcript_id "rna-ACX4JU_009227-T1_mrna"; gene_id "gene-ACX4JU_009227";
+CM179780.1	Genbank	transcript	923272	924832	.	-	.	transcript_id "rna-ACX4JU_009261-T1_mrna"; gene_id "gene-ACX4JU_009261"
+CM179780.1	Genbank	exon	923272	923727	.	-	.	transcript_id "rna-ACX4JU_009261-T1_mrna"; gene_id "gene-ACX4JU_009261";
+CM179780.1	Genbank	exon	923791	923943	.	-	.	transcript_id "rna-ACX4JU_009261-T1_mrna"; gene_id "gene-ACX4JU_009261";
+CM179780.1	Genbank	exon	924014	924220	.	-	.	transcript_id "rna-ACX4JU_009261-T1_mrna"; gene_id "gene-ACX4JU_009261";
+CM179780.1	Genbank	exon	924273	924677	.	-	.	transcript_id "rna-ACX4JU_009261-T1_mrna"; gene_id "gene-ACX4JU_009261";
+CM179780.1	Genbank	exon	924749	924832	.	-	.	transcript_id "rna-ACX4JU_009261-T1_mrna"; gene_id "gene-ACX4JU_009261";
+CM179780.1	Genbank	CDS	923491	923727	.	-	0	transcript_id "rna-ACX4JU_009261-T1_mrna"; gene_id "gene-ACX4JU_009261";
+CM179780.1	Genbank	CDS	923791	923943	.	-	0	transcript_id "rna-ACX4JU_009261-T1_mrna"; gene_id "gene-ACX4JU_009261";
+CM179780.1	Genbank	CDS	924014	924220	.	-	0	transcript_id "rna-ACX4JU_009261-T1_mrna"; gene_id "gene-ACX4JU_009261";
+CM179780.1	Genbank	CDS	924273	924653	.	-	0	transcript_id "rna-ACX4JU_009261-T1_mrna"; gene_id "gene-ACX4JU_009261";
+CM179780.1	Genbank	transcript	1120893	1122919	.	-	.	transcript_id "rna-ACX4JU_009306-T1_mrna"; gene_id "gene-ACX4JU_009306"; gene_name "cyp6"
+CM179780.1	Genbank	exon	1120893	1121470	.	-	.	transcript_id "rna-ACX4JU_009306-T1_mrna"; gene_id "gene-ACX4JU_009306"; gene_name "cyp6";
+CM179780.1	Genbank	exon	1121526	1121722	.	-	.	transcript_id "rna-ACX4JU_009306-T1_mrna"; gene_id "gene-ACX4JU_009306"; gene_name "cyp6";
+CM179780.1	Genbank	exon	1121778	1122478	.	-	.	transcript_id "rna-ACX4JU_009306-T1_mrna"; gene_id "gene-ACX4JU_009306"; gene_name "cyp6";
+CM179780.1	Genbank	exon	1122601	1122919	.	-	.	transcript_id "rna-ACX4JU_009306-T1_mrna"; gene_id "gene-ACX4JU_009306"; gene_name "cyp6";
+CM179780.1	Genbank	CDS	1121069	1121470	.	-	0	transcript_id "rna-ACX4JU_009306-T1_mrna"; gene_id "gene-ACX4JU_009306"; gene_name "cyp6";
+CM179780.1	Genbank	CDS	1121526	1121722	.	-	2	transcript_id "rna-ACX4JU_009306-T1_mrna"; gene_id "gene-ACX4JU_009306"; gene_name "cyp6";
+CM179780.1	Genbank	CDS	1121778	1122478	.	-	1	transcript_id "rna-ACX4JU_009306-T1_mrna"; gene_id "gene-ACX4JU_009306"; gene_name "cyp6";
+CM179780.1	Genbank	CDS	1122601	1122680	.	-	0	transcript_id "rna-ACX4JU_009306-T1_mrna"; gene_id "gene-ACX4JU_009306"; gene_name "cyp6";
+CM179780.1	Genbank	transcript	1188720	1191191	.	-	.	transcript_id "rna-ACX4JU_009332-T1_mrna"; gene_id "gene-ACX4JU_009332"
+CM179780.1	Genbank	exon	1188720	1188836	.	-	.	transcript_id "rna-ACX4JU_009332-T1_mrna"; gene_id "gene-ACX4JU_009332";
+CM179780.1	Genbank	exon	1188892	1189009	.	-	.	transcript_id "rna-ACX4JU_009332-T1_mrna"; gene_id "gene-ACX4JU_009332";
+CM179780.1	Genbank	exon	1189070	1189354	.	-	.	transcript_id "rna-ACX4JU_009332-T1_mrna"; gene_id "gene-ACX4JU_009332";
+CM179780.1	Genbank	exon	1189407	1189921	.	-	.	transcript_id "rna-ACX4JU_009332-T1_mrna"; gene_id "gene-ACX4JU_009332";
+CM179780.1	Genbank	exon	1189976	1190069	.	-	.	transcript_id "rna-ACX4JU_009332-T1_mrna"; gene_id "gene-ACX4JU_009332";
+CM179780.1	Genbank	exon	1190115	1190349	.	-	.	transcript_id "rna-ACX4JU_009332-T1_mrna"; gene_id "gene-ACX4JU_009332";
+CM179780.1	Genbank	exon	1190407	1190513	.	-	.	transcript_id "rna-ACX4JU_009332-T1_mrna"; gene_id "gene-ACX4JU_009332";
+CM179780.1	Genbank	exon	1190573	1190811	.	-	.	transcript_id "rna-ACX4JU_009332-T1_mrna"; gene_id "gene-ACX4JU_009332";
+CM179780.1	Genbank	exon	1190876	1190930	.	-	.	transcript_id "rna-ACX4JU_009332-T1_mrna"; gene_id "gene-ACX4JU_009332";
+CM179780.1	Genbank	exon	1190982	1191191	.	-	.	transcript_id "rna-ACX4JU_009332-T1_mrna"; gene_id "gene-ACX4JU_009332";
+CM179780.1	Genbank	CDS	1188754	1188836	.	-	2	transcript_id "rna-ACX4JU_009332-T1_mrna"; gene_id "gene-ACX4JU_009332";
+CM179780.1	Genbank	CDS	1188892	1189009	.	-	0	transcript_id "rna-ACX4JU_009332-T1_mrna"; gene_id "gene-ACX4JU_009332";
+CM179780.1	Genbank	CDS	1189070	1189354	.	-	0	transcript_id "rna-ACX4JU_009332-T1_mrna"; gene_id "gene-ACX4JU_009332";
+CM179780.1	Genbank	CDS	1189407	1189921	.	-	2	transcript_id "rna-ACX4JU_009332-T1_mrna"; gene_id "gene-ACX4JU_009332";
+CM179780.1	Genbank	CDS	1189976	1190069	.	-	0	transcript_id "rna-ACX4JU_009332-T1_mrna"; gene_id "gene-ACX4JU_009332";
+CM179780.1	Genbank	CDS	1190115	1190349	.	-	1	transcript_id "rna-ACX4JU_009332-T1_mrna"; gene_id "gene-ACX4JU_009332";
+CM179780.1	Genbank	CDS	1190407	1190513	.	-	0	transcript_id "rna-ACX4JU_009332-T1_mrna"; gene_id "gene-ACX4JU_009332";
+CM179780.1	Genbank	CDS	1190573	1190811	.	-	2	transcript_id "rna-ACX4JU_009332-T1_mrna"; gene_id "gene-ACX4JU_009332";
+CM179780.1	Genbank	CDS	1190876	1190930	.	-	0	transcript_id "rna-ACX4JU_009332-T1_mrna"; gene_id "gene-ACX4JU_009332";
+CM179780.1	Genbank	CDS	1190982	1191008	.	-	0	transcript_id "rna-ACX4JU_009332-T1_mrna"; gene_id "gene-ACX4JU_009332";
+CM179781.1	Genbank	transcript	709320	710173	.	+	.	transcript_id "rna-ACX4JU_009808-T1_mrna"; gene_id "gene-ACX4JU_009808"; gene_name "TMA22"
+CM179781.1	Genbank	exon	709320	709383	.	+	.	transcript_id "rna-ACX4JU_009808-T1_mrna"; gene_id "gene-ACX4JU_009808"; gene_name "TMA22";
+CM179781.1	Genbank	exon	709469	709488	.	+	.	transcript_id "rna-ACX4JU_009808-T1_mrna"; gene_id "gene-ACX4JU_009808"; gene_name "TMA22";
+CM179781.1	Genbank	exon	709611	709698	.	+	.	transcript_id "rna-ACX4JU_009808-T1_mrna"; gene_id "gene-ACX4JU_009808"; gene_name "TMA22";
+CM179781.1	Genbank	exon	709764	710173	.	+	.	transcript_id "rna-ACX4JU_009808-T1_mrna"; gene_id "gene-ACX4JU_009808"; gene_name "TMA22";
+CM179781.1	Genbank	CDS	709320	709383	.	+	0	transcript_id "rna-ACX4JU_009808-T1_mrna"; gene_id "gene-ACX4JU_009808"; gene_name "TMA22";
+CM179781.1	Genbank	CDS	709469	709488	.	+	2	transcript_id "rna-ACX4JU_009808-T1_mrna"; gene_id "gene-ACX4JU_009808"; gene_name "TMA22";
+CM179781.1	Genbank	CDS	709611	709698	.	+	0	transcript_id "rna-ACX4JU_009808-T1_mrna"; gene_id "gene-ACX4JU_009808"; gene_name "TMA22";
+CM179781.1	Genbank	CDS	709764	710173	.	+	2	transcript_id "rna-ACX4JU_009808-T1_mrna"; gene_id "gene-ACX4JU_009808"; gene_name "TMA22";
+CM179781.1	Genbank	transcript	721774	724872	.	-	.	transcript_id "rna-ACX4JU_009814-T1_mrna"; gene_id "gene-ACX4JU_009814"; gene_name "SEC10"
+CM179781.1	Genbank	exon	721774	722479	.	-	.	transcript_id "rna-ACX4JU_009814-T1_mrna"; gene_id "gene-ACX4JU_009814"; gene_name "SEC10";
+CM179781.1	Genbank	exon	722543	724872	.	-	.	transcript_id "rna-ACX4JU_009814-T1_mrna"; gene_id "gene-ACX4JU_009814"; gene_name "SEC10";
+CM179781.1	Genbank	CDS	721970	722479	.	-	0	transcript_id "rna-ACX4JU_009814-T1_mrna"; gene_id "gene-ACX4JU_009814"; gene_name "SEC10";
+CM179781.1	Genbank	CDS	722543	724723	.	-	0	transcript_id "rna-ACX4JU_009814-T1_mrna"; gene_id "gene-ACX4JU_009814"; gene_name "SEC10";
+CM179781.1	Genbank	transcript	924043	928009	.	-	.	transcript_id "rna-ACX4JU_009862-T1_mrna"; gene_id "gene-ACX4JU_009862"; gene_name "NOP14"
+CM179781.1	Genbank	exon	924043	927622	.	-	.	transcript_id "rna-ACX4JU_009862-T1_mrna"; gene_id "gene-ACX4JU_009862"; gene_name "NOP14";
+CM179781.1	Genbank	exon	927690	928009	.	-	.	transcript_id "rna-ACX4JU_009862-T1_mrna"; gene_id "gene-ACX4JU_009862"; gene_name "NOP14";
+CM179781.1	Genbank	CDS	925169	927622	.	-	0	transcript_id "rna-ACX4JU_009862-T1_mrna"; gene_id "gene-ACX4JU_009862"; gene_name "NOP14";
+CM179781.1	Genbank	CDS	927690	927977	.	-	0	transcript_id "rna-ACX4JU_009862-T1_mrna"; gene_id "gene-ACX4JU_009862"; gene_name "NOP14";
+CM179781.1	Genbank	transcript	967247	968650	.	-	.	transcript_id "rna-ACX4JU_009876-T1_mrna"; gene_id "gene-ACX4JU_009876"; gene_name "rpc25"
+CM179781.1	Genbank	exon	967247	967488	.	-	.	transcript_id "rna-ACX4JU_009876-T1_mrna"; gene_id "gene-ACX4JU_009876"; gene_name "rpc25";
+CM179781.1	Genbank	exon	967550	967727	.	-	.	transcript_id "rna-ACX4JU_009876-T1_mrna"; gene_id "gene-ACX4JU_009876"; gene_name "rpc25";
+CM179781.1	Genbank	exon	967786	967849	.	-	.	transcript_id "rna-ACX4JU_009876-T1_mrna"; gene_id "gene-ACX4JU_009876"; gene_name "rpc25";
+CM179781.1	Genbank	exon	967904	967990	.	-	.	transcript_id "rna-ACX4JU_009876-T1_mrna"; gene_id "gene-ACX4JU_009876"; gene_name "rpc25";
+CM179781.1	Genbank	exon	968046	968142	.	-	.	transcript_id "rna-ACX4JU_009876-T1_mrna"; gene_id "gene-ACX4JU_009876"; gene_name "rpc25";
+CM179781.1	Genbank	exon	968206	968304	.	-	.	transcript_id "rna-ACX4JU_009876-T1_mrna"; gene_id "gene-ACX4JU_009876"; gene_name "rpc25";
+CM179781.1	Genbank	exon	968379	968650	.	-	.	transcript_id "rna-ACX4JU_009876-T1_mrna"; gene_id "gene-ACX4JU_009876"; gene_name "rpc25";
+CM179781.1	Genbank	CDS	967444	967488	.	-	0	transcript_id "rna-ACX4JU_009876-T1_mrna"; gene_id "gene-ACX4JU_009876"; gene_name "rpc25";
+CM179781.1	Genbank	CDS	967550	967727	.	-	1	transcript_id "rna-ACX4JU_009876-T1_mrna"; gene_id "gene-ACX4JU_009876"; gene_name "rpc25";
+CM179781.1	Genbank	CDS	967786	967849	.	-	2	transcript_id "rna-ACX4JU_009876-T1_mrna"; gene_id "gene-ACX4JU_009876"; gene_name "rpc25";
+CM179781.1	Genbank	CDS	967904	967990	.	-	2	transcript_id "rna-ACX4JU_009876-T1_mrna"; gene_id "gene-ACX4JU_009876"; gene_name "rpc25";
+CM179781.1	Genbank	CDS	968046	968142	.	-	0	transcript_id "rna-ACX4JU_009876-T1_mrna"; gene_id "gene-ACX4JU_009876"; gene_name "rpc25";
+CM179781.1	Genbank	CDS	968206	968304	.	-	0	transcript_id "rna-ACX4JU_009876-T1_mrna"; gene_id "gene-ACX4JU_009876"; gene_name "rpc25";
+CM179781.1	Genbank	CDS	968379	968390	.	-	0	transcript_id "rna-ACX4JU_009876-T1_mrna"; gene_id "gene-ACX4JU_009876"; gene_name "rpc25";
+CM179781.1	Genbank	transcript	1038589	1040424	.	+	.	transcript_id "rna-ACX4JU_009907-T1_mrna"; gene_id "gene-ACX4JU_009907"
+CM179781.1	Genbank	exon	1038589	1038630	.	+	.	transcript_id "rna-ACX4JU_009907-T1_mrna"; gene_id "gene-ACX4JU_009907";
+CM179781.1	Genbank	exon	1038776	1038809	.	+	.	transcript_id "rna-ACX4JU_009907-T1_mrna"; gene_id "gene-ACX4JU_009907";
+CM179781.1	Genbank	exon	1038887	1040424	.	+	.	transcript_id "rna-ACX4JU_009907-T1_mrna"; gene_id "gene-ACX4JU_009907";
+CM179781.1	Genbank	CDS	1038589	1038630	.	+	0	transcript_id "rna-ACX4JU_009907-T1_mrna"; gene_id "gene-ACX4JU_009907";
+CM179781.1	Genbank	CDS	1038776	1038809	.	+	0	transcript_id "rna-ACX4JU_009907-T1_mrna"; gene_id "gene-ACX4JU_009907";
+CM179781.1	Genbank	CDS	1038887	1040424	.	+	2	transcript_id "rna-ACX4JU_009907-T1_mrna"; gene_id "gene-ACX4JU_009907";
+CM179781.1	Genbank	transcript	1051485	1052696	.	-	.	transcript_id "rna-ACX4JU_009911-T1_mrna"; gene_id "gene-ACX4JU_009911"
+CM179781.1	Genbank	exon	1051485	1052696	.	-	.	transcript_id "rna-ACX4JU_009911-T1_mrna"; gene_id "gene-ACX4JU_009911";
+CM179781.1	Genbank	CDS	1051485	1052696	.	-	0	transcript_id "rna-ACX4JU_009911-T1_mrna"; gene_id "gene-ACX4JU_009911";
+CM179781.1	Genbank	transcript	1095410	1097198	.	+	.	transcript_id "rna-ACX4JU_009929-T1_mrna"; gene_id "gene-ACX4JU_009929"; gene_name "RPP1"
+CM179781.1	Genbank	exon	1095410	1095581	.	+	.	transcript_id "rna-ACX4JU_009929-T1_mrna"; gene_id "gene-ACX4JU_009929"; gene_name "RPP1";
+CM179781.1	Genbank	exon	1095667	1097198	.	+	.	transcript_id "rna-ACX4JU_009929-T1_mrna"; gene_id "gene-ACX4JU_009929"; gene_name "RPP1";
+CM179781.1	Genbank	CDS	1095506	1095581	.	+	0	transcript_id "rna-ACX4JU_009929-T1_mrna"; gene_id "gene-ACX4JU_009929"; gene_name "RPP1";
+CM179781.1	Genbank	CDS	1095667	1096547	.	+	2	transcript_id "rna-ACX4JU_009929-T1_mrna"; gene_id "gene-ACX4JU_009929"; gene_name "RPP1";
+CM179781.1	Genbank	transcript	1276551	1278203	.	+	.	transcript_id "rna-ACX4JU_009999-T1_mrna"; gene_id "gene-ACX4JU_009999"
+CM179781.1	Genbank	exon	1276551	1278203	.	+	.	transcript_id "rna-ACX4JU_009999-T1_mrna"; gene_id "gene-ACX4JU_009999";
+CM179781.1	Genbank	CDS	1276663	1277916	.	+	0	transcript_id "rna-ACX4JU_009999-T1_mrna"; gene_id "gene-ACX4JU_009999";
