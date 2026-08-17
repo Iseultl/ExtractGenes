@@ -1,0 +1,915 @@
+CEYIJT010000025.1	EMBL	transcript	14085	15972	.	-	.	transcript_id "rna-GHUX1742BS_000351"; gene_id "gene-GHUX1742BS_000351"
+CEYIJT010000025.1	EMBL	exon	14085	15723	.	-	.	transcript_id "rna-GHUX1742BS_000351"; gene_id "gene-GHUX1742BS_000351";
+CEYIJT010000025.1	EMBL	exon	15821	15972	.	-	.	transcript_id "rna-GHUX1742BS_000351"; gene_id "gene-GHUX1742BS_000351";
+CEYIJT010000025.1	EMBL	CDS	14085	15723	.	-	1	transcript_id "rna-GHUX1742BS_000351"; gene_id "gene-GHUX1742BS_000351";
+CEYIJT010000025.1	EMBL	CDS	15821	15972	.	-	0	transcript_id "rna-GHUX1742BS_000351"; gene_id "gene-GHUX1742BS_000351";
+CEYIJT010000106.1	EMBL	transcript	12579	13684	.	-	.	transcript_id "rna-GHUX1742BS_001068"; gene_id "gene-GHUX1742BS_001068"; gene_name "NSA2"
+CEYIJT010000106.1	EMBL	exon	12579	12769	.	-	.	transcript_id "rna-GHUX1742BS_001068"; gene_id "gene-GHUX1742BS_001068"; gene_name "NSA2";
+CEYIJT010000106.1	EMBL	exon	12878	13022	.	-	.	transcript_id "rna-GHUX1742BS_001068"; gene_id "gene-GHUX1742BS_001068"; gene_name "NSA2";
+CEYIJT010000106.1	EMBL	exon	13159	13236	.	-	.	transcript_id "rna-GHUX1742BS_001068"; gene_id "gene-GHUX1742BS_001068"; gene_name "NSA2";
+CEYIJT010000106.1	EMBL	exon	13328	13684	.	-	.	transcript_id "rna-GHUX1742BS_001068"; gene_id "gene-GHUX1742BS_001068"; gene_name "NSA2";
+CEYIJT010000106.1	EMBL	CDS	12579	12769	.	-	2	transcript_id "rna-GHUX1742BS_001068"; gene_id "gene-GHUX1742BS_001068"; gene_name "NSA2";
+CEYIJT010000106.1	EMBL	CDS	12878	13022	.	-	0	transcript_id "rna-GHUX1742BS_001068"; gene_id "gene-GHUX1742BS_001068"; gene_name "NSA2";
+CEYIJT010000106.1	EMBL	CDS	13159	13236	.	-	0	transcript_id "rna-GHUX1742BS_001068"; gene_id "gene-GHUX1742BS_001068"; gene_name "NSA2";
+CEYIJT010000106.1	EMBL	CDS	13328	13684	.	-	0	transcript_id "rna-GHUX1742BS_001068"; gene_id "gene-GHUX1742BS_001068"; gene_name "NSA2";
+CEYIJT010000318.1	EMBL	transcript	7498	8794	.	+	.	transcript_id "rna-GHUX1742BS_002580"; gene_id "gene-GHUX1742BS_002580"; gene_name "LIA1"
+CEYIJT010000318.1	EMBL	exon	7498	8206	.	+	.	transcript_id "rna-GHUX1742BS_002580"; gene_id "gene-GHUX1742BS_002580"; gene_name "LIA1";
+CEYIJT010000318.1	EMBL	exon	8275	8794	.	+	.	transcript_id "rna-GHUX1742BS_002580"; gene_id "gene-GHUX1742BS_002580"; gene_name "LIA1";
+CEYIJT010000318.1	EMBL	CDS	7498	8206	.	+	0	transcript_id "rna-GHUX1742BS_002580"; gene_id "gene-GHUX1742BS_002580"; gene_name "LIA1";
+CEYIJT010000318.1	EMBL	CDS	8275	8672	.	+	2	transcript_id "rna-GHUX1742BS_002580"; gene_id "gene-GHUX1742BS_002580"; gene_name "LIA1";
+CEYIJT010000764.1	EMBL	transcript	1503	4717	.	-	.	transcript_id "rna-GHUX1742BS_005304"; gene_id "gene-GHUX1742BS_005304"; gene_name "COG3"
+CEYIJT010000764.1	EMBL	exon	1503	1889	.	-	.	transcript_id "rna-GHUX1742BS_005304"; gene_id "gene-GHUX1742BS_005304"; gene_name "COG3";
+CEYIJT010000764.1	EMBL	exon	1936	2159	.	-	.	transcript_id "rna-GHUX1742BS_005304"; gene_id "gene-GHUX1742BS_005304"; gene_name "COG3";
+CEYIJT010000764.1	EMBL	exon	2233	2413	.	-	.	transcript_id "rna-GHUX1742BS_005304"; gene_id "gene-GHUX1742BS_005304"; gene_name "COG3";
+CEYIJT010000764.1	EMBL	exon	2494	2701	.	-	.	transcript_id "rna-GHUX1742BS_005304"; gene_id "gene-GHUX1742BS_005304"; gene_name "COG3";
+CEYIJT010000764.1	EMBL	exon	2775	2857	.	-	.	transcript_id "rna-GHUX1742BS_005304"; gene_id "gene-GHUX1742BS_005304"; gene_name "COG3";
+CEYIJT010000764.1	EMBL	exon	2966	2998	.	-	.	transcript_id "rna-GHUX1742BS_005304"; gene_id "gene-GHUX1742BS_005304"; gene_name "COG3";
+CEYIJT010000764.1	EMBL	exon	3153	3647	.	-	.	transcript_id "rna-GHUX1742BS_005304"; gene_id "gene-GHUX1742BS_005304"; gene_name "COG3";
+CEYIJT010000764.1	EMBL	exon	3929	4717	.	-	.	transcript_id "rna-GHUX1742BS_005304"; gene_id "gene-GHUX1742BS_005304"; gene_name "COG3";
+CEYIJT010000764.1	EMBL	CDS	1503	1889	.	-	0	transcript_id "rna-GHUX1742BS_005304"; gene_id "gene-GHUX1742BS_005304"; gene_name "COG3";
+CEYIJT010000764.1	EMBL	CDS	1936	2159	.	-	2	transcript_id "rna-GHUX1742BS_005304"; gene_id "gene-GHUX1742BS_005304"; gene_name "COG3";
+CEYIJT010000764.1	EMBL	CDS	2233	2413	.	-	0	transcript_id "rna-GHUX1742BS_005304"; gene_id "gene-GHUX1742BS_005304"; gene_name "COG3";
+CEYIJT010000764.1	EMBL	CDS	2494	2701	.	-	1	transcript_id "rna-GHUX1742BS_005304"; gene_id "gene-GHUX1742BS_005304"; gene_name "COG3";
+CEYIJT010000764.1	EMBL	CDS	2775	2857	.	-	0	transcript_id "rna-GHUX1742BS_005304"; gene_id "gene-GHUX1742BS_005304"; gene_name "COG3";
+CEYIJT010000764.1	EMBL	CDS	2966	2998	.	-	0	transcript_id "rna-GHUX1742BS_005304"; gene_id "gene-GHUX1742BS_005304"; gene_name "COG3";
+CEYIJT010000764.1	EMBL	CDS	3153	3647	.	-	0	transcript_id "rna-GHUX1742BS_005304"; gene_id "gene-GHUX1742BS_005304"; gene_name "COG3";
+CEYIJT010000764.1	EMBL	CDS	3929	4717	.	-	0	transcript_id "rna-GHUX1742BS_005304"; gene_id "gene-GHUX1742BS_005304"; gene_name "COG3";
+CEYIJT010000795.1	EMBL	transcript	2260	3823	.	-	.	transcript_id "rna-GHUX1742BS_005482"; gene_id "gene-GHUX1742BS_005482"
+CEYIJT010000795.1	EMBL	exon	2260	2295	.	-	.	transcript_id "rna-GHUX1742BS_005482"; gene_id "gene-GHUX1742BS_005482";
+CEYIJT010000795.1	EMBL	exon	2508	2578	.	-	.	transcript_id "rna-GHUX1742BS_005482"; gene_id "gene-GHUX1742BS_005482";
+CEYIJT010000795.1	EMBL	exon	2666	2938	.	-	.	transcript_id "rna-GHUX1742BS_005482"; gene_id "gene-GHUX1742BS_005482";
+CEYIJT010000795.1	EMBL	exon	3152	3823	.	-	.	transcript_id "rna-GHUX1742BS_005482"; gene_id "gene-GHUX1742BS_005482";
+CEYIJT010000795.1	EMBL	CDS	2260	2295	.	-	0	transcript_id "rna-GHUX1742BS_005482"; gene_id "gene-GHUX1742BS_005482";
+CEYIJT010000795.1	EMBL	CDS	2508	2578	.	-	2	transcript_id "rna-GHUX1742BS_005482"; gene_id "gene-GHUX1742BS_005482";
+CEYIJT010000795.1	EMBL	CDS	2666	2938	.	-	2	transcript_id "rna-GHUX1742BS_005482"; gene_id "gene-GHUX1742BS_005482";
+CEYIJT010000795.1	EMBL	CDS	3152	3809	.	-	0	transcript_id "rna-GHUX1742BS_005482"; gene_id "gene-GHUX1742BS_005482";
+CEYIJT010000836.1	EMBL	transcript	6760	7016	.	-	.	transcript_id "rna-GHUX1742BS_005697"; gene_id "gene-GHUX1742BS_005697"; gene_name "DRE2_1"
+CEYIJT010000836.1	EMBL	exon	6760	7016	.	-	.	transcript_id "rna-GHUX1742BS_005697"; gene_id "gene-GHUX1742BS_005697"; gene_name "DRE2_1";
+CEYIJT010000836.1	EMBL	CDS	6760	7016	.	-	2	transcript_id "rna-GHUX1742BS_005697"; gene_id "gene-GHUX1742BS_005697"; gene_name "DRE2_1";
+CEYIJT010000981.1	EMBL	transcript	2128	3294	.	+	.	transcript_id "rna-GHUX1742BS_006422"; gene_id "gene-GHUX1742BS_006422"; gene_name "ARD1"
+CEYIJT010000981.1	EMBL	exon	2128	2418	.	+	.	transcript_id "rna-GHUX1742BS_006422"; gene_id "gene-GHUX1742BS_006422"; gene_name "ARD1";
+CEYIJT010000981.1	EMBL	exon	2494	2543	.	+	.	transcript_id "rna-GHUX1742BS_006422"; gene_id "gene-GHUX1742BS_006422"; gene_name "ARD1";
+CEYIJT010000981.1	EMBL	exon	2603	3294	.	+	.	transcript_id "rna-GHUX1742BS_006422"; gene_id "gene-GHUX1742BS_006422"; gene_name "ARD1";
+CEYIJT010000981.1	EMBL	CDS	2128	2418	.	+	0	transcript_id "rna-GHUX1742BS_006422"; gene_id "gene-GHUX1742BS_006422"; gene_name "ARD1";
+CEYIJT010000981.1	EMBL	CDS	2494	2543	.	+	0	transcript_id "rna-GHUX1742BS_006422"; gene_id "gene-GHUX1742BS_006422"; gene_name "ARD1";
+CEYIJT010000981.1	EMBL	CDS	2603	3215	.	+	1	transcript_id "rna-GHUX1742BS_006422"; gene_id "gene-GHUX1742BS_006422"; gene_name "ARD1";
+CEYIJT010001098.1	EMBL	transcript	5450	6983	.	-	.	transcript_id "rna-GHUX1742BS_007003"; gene_id "gene-GHUX1742BS_007003"
+CEYIJT010001098.1	EMBL	exon	5450	5981	.	-	.	transcript_id "rna-GHUX1742BS_007003"; gene_id "gene-GHUX1742BS_007003";
+CEYIJT010001098.1	EMBL	exon	6162	6245	.	-	.	transcript_id "rna-GHUX1742BS_007003"; gene_id "gene-GHUX1742BS_007003";
+CEYIJT010001098.1	EMBL	exon	6387	6604	.	-	.	transcript_id "rna-GHUX1742BS_007003"; gene_id "gene-GHUX1742BS_007003";
+CEYIJT010001098.1	EMBL	exon	6677	6983	.	-	.	transcript_id "rna-GHUX1742BS_007003"; gene_id "gene-GHUX1742BS_007003";
+CEYIJT010001098.1	EMBL	CDS	5787	5981	.	-	0	transcript_id "rna-GHUX1742BS_007003"; gene_id "gene-GHUX1742BS_007003";
+CEYIJT010001098.1	EMBL	CDS	6162	6245	.	-	0	transcript_id "rna-GHUX1742BS_007003"; gene_id "gene-GHUX1742BS_007003";
+CEYIJT010001098.1	EMBL	CDS	6387	6604	.	-	2	transcript_id "rna-GHUX1742BS_007003"; gene_id "gene-GHUX1742BS_007003";
+CEYIJT010001098.1	EMBL	CDS	6677	6980	.	-	0	transcript_id "rna-GHUX1742BS_007003"; gene_id "gene-GHUX1742BS_007003";
+CEYIJT010001363.1	EMBL	transcript	1652	3247	.	-	.	transcript_id "rna-GHUX1742BS_008233"; gene_id "gene-GHUX1742BS_008233"
+CEYIJT010001363.1	EMBL	exon	1652	2981	.	-	.	transcript_id "rna-GHUX1742BS_008233"; gene_id "gene-GHUX1742BS_008233";
+CEYIJT010001363.1	EMBL	exon	3154	3247	.	-	.	transcript_id "rna-GHUX1742BS_008233"; gene_id "gene-GHUX1742BS_008233";
+CEYIJT010001363.1	EMBL	CDS	1652	2881	.	-	0	transcript_id "rna-GHUX1742BS_008233"; gene_id "gene-GHUX1742BS_008233";
+CEYIJT010001466.1	EMBL	transcript	264	1319	.	-	.	transcript_id "rna-GHUX1742BS_008697"; gene_id "gene-GHUX1742BS_008697"; gene_name "EBNA1BP2"
+CEYIJT010001466.1	EMBL	exon	264	512	.	-	.	transcript_id "rna-GHUX1742BS_008697"; gene_id "gene-GHUX1742BS_008697"; gene_name "EBNA1BP2";
+CEYIJT010001466.1	EMBL	exon	684	1319	.	-	.	transcript_id "rna-GHUX1742BS_008697"; gene_id "gene-GHUX1742BS_008697"; gene_name "EBNA1BP2";
+CEYIJT010001466.1	EMBL	CDS	264	512	.	-	0	transcript_id "rna-GHUX1742BS_008697"; gene_id "gene-GHUX1742BS_008697"; gene_name "EBNA1BP2";
+CEYIJT010001466.1	EMBL	CDS	684	1319	.	-	0	transcript_id "rna-GHUX1742BS_008697"; gene_id "gene-GHUX1742BS_008697"; gene_name "EBNA1BP2";
+CEYIJT010001485.1	EMBL	transcript	772	2492	.	-	.	transcript_id "rna-GHUX1742BS_008796"; gene_id "gene-GHUX1742BS_008796"
+CEYIJT010001485.1	EMBL	exon	772	1011	.	-	.	transcript_id "rna-GHUX1742BS_008796"; gene_id "gene-GHUX1742BS_008796";
+CEYIJT010001485.1	EMBL	exon	1902	2492	.	-	.	transcript_id "rna-GHUX1742BS_008796"; gene_id "gene-GHUX1742BS_008796";
+CEYIJT010001485.1	EMBL	CDS	772	1011	.	-	0	transcript_id "rna-GHUX1742BS_008796"; gene_id "gene-GHUX1742BS_008796";
+CEYIJT010001485.1	EMBL	CDS	1902	2492	.	-	0	transcript_id "rna-GHUX1742BS_008796"; gene_id "gene-GHUX1742BS_008796";
+CEYIJT010001633.1	EMBL	transcript	1990	2463	.	+	.	transcript_id "rna-GHUX1742BS_009431"; gene_id "gene-GHUX1742BS_009431"; gene_name "SNU23"
+CEYIJT010001633.1	EMBL	exon	1990	2463	.	+	.	transcript_id "rna-GHUX1742BS_009431"; gene_id "gene-GHUX1742BS_009431"; gene_name "SNU23";
+CEYIJT010001633.1	EMBL	CDS	1990	2463	.	+	0	transcript_id "rna-GHUX1742BS_009431"; gene_id "gene-GHUX1742BS_009431"; gene_name "SNU23";
+CEYIJT010001945.1	EMBL	transcript	1908	4723	.	-	.	transcript_id "rna-GHUX1742BS_010686"; gene_id "gene-GHUX1742BS_010686"; gene_name "CTNNBL1"
+CEYIJT010001945.1	EMBL	exon	1908	2291	.	-	.	transcript_id "rna-GHUX1742BS_010686"; gene_id "gene-GHUX1742BS_010686"; gene_name "CTNNBL1";
+CEYIJT010001945.1	EMBL	exon	2578	2695	.	-	.	transcript_id "rna-GHUX1742BS_010686"; gene_id "gene-GHUX1742BS_010686"; gene_name "CTNNBL1";
+CEYIJT010001945.1	EMBL	exon	2876	3081	.	-	.	transcript_id "rna-GHUX1742BS_010686"; gene_id "gene-GHUX1742BS_010686"; gene_name "CTNNBL1";
+CEYIJT010001945.1	EMBL	exon	3416	3562	.	-	.	transcript_id "rna-GHUX1742BS_010686"; gene_id "gene-GHUX1742BS_010686"; gene_name "CTNNBL1";
+CEYIJT010001945.1	EMBL	exon	3878	4723	.	-	.	transcript_id "rna-GHUX1742BS_010686"; gene_id "gene-GHUX1742BS_010686"; gene_name "CTNNBL1";
+CEYIJT010001945.1	EMBL	CDS	1908	2291	.	-	0	transcript_id "rna-GHUX1742BS_010686"; gene_id "gene-GHUX1742BS_010686"; gene_name "CTNNBL1";
+CEYIJT010001945.1	EMBL	CDS	2578	2695	.	-	1	transcript_id "rna-GHUX1742BS_010686"; gene_id "gene-GHUX1742BS_010686"; gene_name "CTNNBL1";
+CEYIJT010001945.1	EMBL	CDS	2876	3081	.	-	0	transcript_id "rna-GHUX1742BS_010686"; gene_id "gene-GHUX1742BS_010686"; gene_name "CTNNBL1";
+CEYIJT010001945.1	EMBL	CDS	3416	3562	.	-	0	transcript_id "rna-GHUX1742BS_010686"; gene_id "gene-GHUX1742BS_010686"; gene_name "CTNNBL1";
+CEYIJT010001945.1	EMBL	CDS	3878	4723	.	-	0	transcript_id "rna-GHUX1742BS_010686"; gene_id "gene-GHUX1742BS_010686"; gene_name "CTNNBL1";
+CEYIJT010002152.1	EMBL	transcript	3169	5004	.	-	.	transcript_id "rna-GHUX1742BS_011503"; gene_id "gene-GHUX1742BS_011503"; gene_name "EIF3M"
+CEYIJT010002152.1	EMBL	exon	3169	3652	.	-	.	transcript_id "rna-GHUX1742BS_011503"; gene_id "gene-GHUX1742BS_011503"; gene_name "EIF3M";
+CEYIJT010002152.1	EMBL	exon	3729	3915	.	-	.	transcript_id "rna-GHUX1742BS_011503"; gene_id "gene-GHUX1742BS_011503"; gene_name "EIF3M";
+CEYIJT010002152.1	EMBL	exon	4090	4515	.	-	.	transcript_id "rna-GHUX1742BS_011503"; gene_id "gene-GHUX1742BS_011503"; gene_name "EIF3M";
+CEYIJT010002152.1	EMBL	exon	4638	5004	.	-	.	transcript_id "rna-GHUX1742BS_011503"; gene_id "gene-GHUX1742BS_011503"; gene_name "EIF3M";
+CEYIJT010002152.1	EMBL	CDS	3422	3652	.	-	0	transcript_id "rna-GHUX1742BS_011503"; gene_id "gene-GHUX1742BS_011503"; gene_name "EIF3M";
+CEYIJT010002152.1	EMBL	CDS	3729	3915	.	-	1	transcript_id "rna-GHUX1742BS_011503"; gene_id "gene-GHUX1742BS_011503"; gene_name "EIF3M";
+CEYIJT010002152.1	EMBL	CDS	4090	4515	.	-	1	transcript_id "rna-GHUX1742BS_011503"; gene_id "gene-GHUX1742BS_011503"; gene_name "EIF3M";
+CEYIJT010002152.1	EMBL	CDS	4638	4735	.	-	0	transcript_id "rna-GHUX1742BS_011503"; gene_id "gene-GHUX1742BS_011503"; gene_name "EIF3M";
+CEYIJT010002187.1	EMBL	transcript	798	3027	.	+	.	transcript_id "rna-GHUX1742BS_011641"; gene_id "gene-GHUX1742BS_011641"; gene_name "APC2_1"
+CEYIJT010002187.1	EMBL	exon	798	1249	.	+	.	transcript_id "rna-GHUX1742BS_011641"; gene_id "gene-GHUX1742BS_011641"; gene_name "APC2_1";
+CEYIJT010002187.1	EMBL	exon	1321	1448	.	+	.	transcript_id "rna-GHUX1742BS_011641"; gene_id "gene-GHUX1742BS_011641"; gene_name "APC2_1";
+CEYIJT010002187.1	EMBL	exon	1598	1655	.	+	.	transcript_id "rna-GHUX1742BS_011641"; gene_id "gene-GHUX1742BS_011641"; gene_name "APC2_1";
+CEYIJT010002187.1	EMBL	exon	1729	1782	.	+	.	transcript_id "rna-GHUX1742BS_011641"; gene_id "gene-GHUX1742BS_011641"; gene_name "APC2_1";
+CEYIJT010002187.1	EMBL	exon	2011	2039	.	+	.	transcript_id "rna-GHUX1742BS_011641"; gene_id "gene-GHUX1742BS_011641"; gene_name "APC2_1";
+CEYIJT010002187.1	EMBL	exon	2113	2181	.	+	.	transcript_id "rna-GHUX1742BS_011641"; gene_id "gene-GHUX1742BS_011641"; gene_name "APC2_1";
+CEYIJT010002187.1	EMBL	exon	2368	2491	.	+	.	transcript_id "rna-GHUX1742BS_011641"; gene_id "gene-GHUX1742BS_011641"; gene_name "APC2_1";
+CEYIJT010002187.1	EMBL	exon	2567	2599	.	+	.	transcript_id "rna-GHUX1742BS_011641"; gene_id "gene-GHUX1742BS_011641"; gene_name "APC2_1";
+CEYIJT010002187.1	EMBL	exon	2674	2744	.	+	.	transcript_id "rna-GHUX1742BS_011641"; gene_id "gene-GHUX1742BS_011641"; gene_name "APC2_1";
+CEYIJT010002187.1	EMBL	exon	2887	2935	.	+	.	transcript_id "rna-GHUX1742BS_011641"; gene_id "gene-GHUX1742BS_011641"; gene_name "APC2_1";
+CEYIJT010002187.1	EMBL	exon	3013	3027	.	+	.	transcript_id "rna-GHUX1742BS_011641"; gene_id "gene-GHUX1742BS_011641"; gene_name "APC2_1";
+CEYIJT010002187.1	EMBL	CDS	800	1249	.	+	0	transcript_id "rna-GHUX1742BS_011641"; gene_id "gene-GHUX1742BS_011641"; gene_name "APC2_1";
+CEYIJT010002187.1	EMBL	CDS	1321	1448	.	+	0	transcript_id "rna-GHUX1742BS_011641"; gene_id "gene-GHUX1742BS_011641"; gene_name "APC2_1";
+CEYIJT010002187.1	EMBL	CDS	1598	1655	.	+	1	transcript_id "rna-GHUX1742BS_011641"; gene_id "gene-GHUX1742BS_011641"; gene_name "APC2_1";
+CEYIJT010002187.1	EMBL	CDS	1729	1782	.	+	0	transcript_id "rna-GHUX1742BS_011641"; gene_id "gene-GHUX1742BS_011641"; gene_name "APC2_1";
+CEYIJT010002187.1	EMBL	CDS	2011	2039	.	+	0	transcript_id "rna-GHUX1742BS_011641"; gene_id "gene-GHUX1742BS_011641"; gene_name "APC2_1";
+CEYIJT010002187.1	EMBL	CDS	2113	2181	.	+	1	transcript_id "rna-GHUX1742BS_011641"; gene_id "gene-GHUX1742BS_011641"; gene_name "APC2_1";
+CEYIJT010002187.1	EMBL	CDS	2368	2491	.	+	1	transcript_id "rna-GHUX1742BS_011641"; gene_id "gene-GHUX1742BS_011641"; gene_name "APC2_1";
+CEYIJT010002187.1	EMBL	CDS	2567	2599	.	+	0	transcript_id "rna-GHUX1742BS_011641"; gene_id "gene-GHUX1742BS_011641"; gene_name "APC2_1";
+CEYIJT010002187.1	EMBL	CDS	2674	2744	.	+	0	transcript_id "rna-GHUX1742BS_011641"; gene_id "gene-GHUX1742BS_011641"; gene_name "APC2_1";
+CEYIJT010002187.1	EMBL	CDS	2887	2935	.	+	1	transcript_id "rna-GHUX1742BS_011641"; gene_id "gene-GHUX1742BS_011641"; gene_name "APC2_1";
+CEYIJT010002187.1	EMBL	CDS	3013	3027	.	+	0	transcript_id "rna-GHUX1742BS_011641"; gene_id "gene-GHUX1742BS_011641"; gene_name "APC2_1";
+CEYIJT010002205.1	EMBL	transcript	985	2740	.	-	.	transcript_id "rna-GHUX1742BS_011710"; gene_id "gene-GHUX1742BS_011710"; gene_name "LRRC47_2"
+CEYIJT010002205.1	EMBL	exon	985	1140	.	-	.	transcript_id "rna-GHUX1742BS_011710"; gene_id "gene-GHUX1742BS_011710"; gene_name "LRRC47_2";
+CEYIJT010002205.1	EMBL	exon	1278	1535	.	-	.	transcript_id "rna-GHUX1742BS_011710"; gene_id "gene-GHUX1742BS_011710"; gene_name "LRRC47_2";
+CEYIJT010002205.1	EMBL	exon	1620	2297	.	-	.	transcript_id "rna-GHUX1742BS_011710"; gene_id "gene-GHUX1742BS_011710"; gene_name "LRRC47_2";
+CEYIJT010002205.1	EMBL	exon	2414	2740	.	-	.	transcript_id "rna-GHUX1742BS_011710"; gene_id "gene-GHUX1742BS_011710"; gene_name "LRRC47_2";
+CEYIJT010002205.1	EMBL	CDS	985	1140	.	-	0	transcript_id "rna-GHUX1742BS_011710"; gene_id "gene-GHUX1742BS_011710"; gene_name "LRRC47_2";
+CEYIJT010002205.1	EMBL	CDS	1278	1535	.	-	0	transcript_id "rna-GHUX1742BS_011710"; gene_id "gene-GHUX1742BS_011710"; gene_name "LRRC47_2";
+CEYIJT010002205.1	EMBL	CDS	1620	2297	.	-	0	transcript_id "rna-GHUX1742BS_011710"; gene_id "gene-GHUX1742BS_011710"; gene_name "LRRC47_2";
+CEYIJT010002205.1	EMBL	CDS	2414	2740	.	-	0	transcript_id "rna-GHUX1742BS_011710"; gene_id "gene-GHUX1742BS_011710"; gene_name "LRRC47_2";
+CEYIJT010002232.1	EMBL	transcript	4293	5104	.	-	.	transcript_id "rna-GHUX1742BS_011802"; gene_id "gene-GHUX1742BS_011802"; gene_name "PRPF18"
+CEYIJT010002232.1	EMBL	exon	4293	4653	.	-	.	transcript_id "rna-GHUX1742BS_011802"; gene_id "gene-GHUX1742BS_011802"; gene_name "PRPF18";
+CEYIJT010002232.1	EMBL	exon	4787	5104	.	-	.	transcript_id "rna-GHUX1742BS_011802"; gene_id "gene-GHUX1742BS_011802"; gene_name "PRPF18";
+CEYIJT010002232.1	EMBL	CDS	4416	4653	.	-	1	transcript_id "rna-GHUX1742BS_011802"; gene_id "gene-GHUX1742BS_011802"; gene_name "PRPF18";
+CEYIJT010002232.1	EMBL	CDS	4787	5043	.	-	0	transcript_id "rna-GHUX1742BS_011802"; gene_id "gene-GHUX1742BS_011802"; gene_name "PRPF18";
+CEYIJT010002360.1	EMBL	transcript	292	1762	.	+	.	transcript_id "rna-GHUX1742BS_012267"; gene_id "gene-GHUX1742BS_012267"
+CEYIJT010002360.1	EMBL	exon	292	1762	.	+	.	transcript_id "rna-GHUX1742BS_012267"; gene_id "gene-GHUX1742BS_012267";
+CEYIJT010002360.1	EMBL	CDS	316	1521	.	+	0	transcript_id "rna-GHUX1742BS_012267"; gene_id "gene-GHUX1742BS_012267";
+CEYIJT010002407.1	EMBL	transcript	178	3519	.	+	.	transcript_id "rna-GHUX1742BS_012440"; gene_id "gene-GHUX1742BS_012440"
+CEYIJT010002407.1	EMBL	exon	178	549	.	+	.	transcript_id "rna-GHUX1742BS_012440"; gene_id "gene-GHUX1742BS_012440";
+CEYIJT010002407.1	EMBL	exon	664	747	.	+	.	transcript_id "rna-GHUX1742BS_012440"; gene_id "gene-GHUX1742BS_012440";
+CEYIJT010002407.1	EMBL	exon	896	986	.	+	.	transcript_id "rna-GHUX1742BS_012440"; gene_id "gene-GHUX1742BS_012440";
+CEYIJT010002407.1	EMBL	exon	1058	1229	.	+	.	transcript_id "rna-GHUX1742BS_012440"; gene_id "gene-GHUX1742BS_012440";
+CEYIJT010002407.1	EMBL	exon	1433	1596	.	+	.	transcript_id "rna-GHUX1742BS_012440"; gene_id "gene-GHUX1742BS_012440";
+CEYIJT010002407.1	EMBL	exon	1678	1958	.	+	.	transcript_id "rna-GHUX1742BS_012440"; gene_id "gene-GHUX1742BS_012440";
+CEYIJT010002407.1	EMBL	exon	2059	3519	.	+	.	transcript_id "rna-GHUX1742BS_012440"; gene_id "gene-GHUX1742BS_012440";
+CEYIJT010002407.1	EMBL	CDS	232	549	.	+	0	transcript_id "rna-GHUX1742BS_012440"; gene_id "gene-GHUX1742BS_012440";
+CEYIJT010002407.1	EMBL	CDS	664	747	.	+	0	transcript_id "rna-GHUX1742BS_012440"; gene_id "gene-GHUX1742BS_012440";
+CEYIJT010002407.1	EMBL	CDS	896	986	.	+	0	transcript_id "rna-GHUX1742BS_012440"; gene_id "gene-GHUX1742BS_012440";
+CEYIJT010002407.1	EMBL	CDS	1058	1229	.	+	2	transcript_id "rna-GHUX1742BS_012440"; gene_id "gene-GHUX1742BS_012440";
+CEYIJT010002407.1	EMBL	CDS	1433	1596	.	+	1	transcript_id "rna-GHUX1742BS_012440"; gene_id "gene-GHUX1742BS_012440";
+CEYIJT010002407.1	EMBL	CDS	1678	1958	.	+	2	transcript_id "rna-GHUX1742BS_012440"; gene_id "gene-GHUX1742BS_012440";
+CEYIJT010002407.1	EMBL	CDS	2059	2178	.	+	0	transcript_id "rna-GHUX1742BS_012440"; gene_id "gene-GHUX1742BS_012440";
+CEYIJT010002515.1	EMBL	transcript	2206	4703	.	-	.	transcript_id "rna-GHUX1742BS_012832"; gene_id "gene-GHUX1742BS_012832"; gene_name "COPS4"
+CEYIJT010002515.1	EMBL	exon	2206	2634	.	-	.	transcript_id "rna-GHUX1742BS_012832"; gene_id "gene-GHUX1742BS_012832"; gene_name "COPS4";
+CEYIJT010002515.1	EMBL	exon	2703	2762	.	-	.	transcript_id "rna-GHUX1742BS_012832"; gene_id "gene-GHUX1742BS_012832"; gene_name "COPS4";
+CEYIJT010002515.1	EMBL	exon	2866	2973	.	-	.	transcript_id "rna-GHUX1742BS_012832"; gene_id "gene-GHUX1742BS_012832"; gene_name "COPS4";
+CEYIJT010002515.1	EMBL	exon	3207	3361	.	-	.	transcript_id "rna-GHUX1742BS_012832"; gene_id "gene-GHUX1742BS_012832"; gene_name "COPS4";
+CEYIJT010002515.1	EMBL	exon	3561	3662	.	-	.	transcript_id "rna-GHUX1742BS_012832"; gene_id "gene-GHUX1742BS_012832"; gene_name "COPS4";
+CEYIJT010002515.1	EMBL	exon	3738	3786	.	-	.	transcript_id "rna-GHUX1742BS_012832"; gene_id "gene-GHUX1742BS_012832"; gene_name "COPS4";
+CEYIJT010002515.1	EMBL	exon	3858	3923	.	-	.	transcript_id "rna-GHUX1742BS_012832"; gene_id "gene-GHUX1742BS_012832"; gene_name "COPS4";
+CEYIJT010002515.1	EMBL	exon	3986	4060	.	-	.	transcript_id "rna-GHUX1742BS_012832"; gene_id "gene-GHUX1742BS_012832"; gene_name "COPS4";
+CEYIJT010002515.1	EMBL	exon	4166	4703	.	-	.	transcript_id "rna-GHUX1742BS_012832"; gene_id "gene-GHUX1742BS_012832"; gene_name "COPS4";
+CEYIJT010002515.1	EMBL	CDS	2470	2634	.	-	0	transcript_id "rna-GHUX1742BS_012832"; gene_id "gene-GHUX1742BS_012832"; gene_name "COPS4";
+CEYIJT010002515.1	EMBL	CDS	2703	2762	.	-	0	transcript_id "rna-GHUX1742BS_012832"; gene_id "gene-GHUX1742BS_012832"; gene_name "COPS4";
+CEYIJT010002515.1	EMBL	CDS	2866	2973	.	-	0	transcript_id "rna-GHUX1742BS_012832"; gene_id "gene-GHUX1742BS_012832"; gene_name "COPS4";
+CEYIJT010002515.1	EMBL	CDS	3207	3361	.	-	2	transcript_id "rna-GHUX1742BS_012832"; gene_id "gene-GHUX1742BS_012832"; gene_name "COPS4";
+CEYIJT010002515.1	EMBL	CDS	3561	3662	.	-	2	transcript_id "rna-GHUX1742BS_012832"; gene_id "gene-GHUX1742BS_012832"; gene_name "COPS4";
+CEYIJT010002515.1	EMBL	CDS	3738	3786	.	-	0	transcript_id "rna-GHUX1742BS_012832"; gene_id "gene-GHUX1742BS_012832"; gene_name "COPS4";
+CEYIJT010002515.1	EMBL	CDS	3858	3923	.	-	0	transcript_id "rna-GHUX1742BS_012832"; gene_id "gene-GHUX1742BS_012832"; gene_name "COPS4";
+CEYIJT010002515.1	EMBL	CDS	3986	4060	.	-	0	transcript_id "rna-GHUX1742BS_012832"; gene_id "gene-GHUX1742BS_012832"; gene_name "COPS4";
+CEYIJT010002515.1	EMBL	CDS	4166	4624	.	-	0	transcript_id "rna-GHUX1742BS_012832"; gene_id "gene-GHUX1742BS_012832"; gene_name "COPS4";
+CEYIJT010002904.1	EMBL	transcript	2567	4191	.	+	.	transcript_id "rna-GHUX1742BS_014174"; gene_id "gene-GHUX1742BS_014174"; gene_name "DPAGT1"
+CEYIJT010002904.1	EMBL	exon	2567	3398	.	+	.	transcript_id "rna-GHUX1742BS_014174"; gene_id "gene-GHUX1742BS_014174"; gene_name "DPAGT1";
+CEYIJT010002904.1	EMBL	exon	3525	4191	.	+	.	transcript_id "rna-GHUX1742BS_014174"; gene_id "gene-GHUX1742BS_014174"; gene_name "DPAGT1";
+CEYIJT010002904.1	EMBL	CDS	2571	3398	.	+	0	transcript_id "rna-GHUX1742BS_014174"; gene_id "gene-GHUX1742BS_014174"; gene_name "DPAGT1";
+CEYIJT010002904.1	EMBL	CDS	3525	4088	.	+	0	transcript_id "rna-GHUX1742BS_014174"; gene_id "gene-GHUX1742BS_014174"; gene_name "DPAGT1";
+CEYIJT010003188.1	EMBL	transcript	1162	4136	.	-	.	transcript_id "rna-GHUX1742BS_015089"; gene_id "gene-GHUX1742BS_015089"; gene_name "PGM3"
+CEYIJT010003188.1	EMBL	exon	1162	1332	.	-	.	transcript_id "rna-GHUX1742BS_015089"; gene_id "gene-GHUX1742BS_015089"; gene_name "PGM3";
+CEYIJT010003188.1	EMBL	exon	1541	1670	.	-	.	transcript_id "rna-GHUX1742BS_015089"; gene_id "gene-GHUX1742BS_015089"; gene_name "PGM3";
+CEYIJT010003188.1	EMBL	exon	1884	1957	.	-	.	transcript_id "rna-GHUX1742BS_015089"; gene_id "gene-GHUX1742BS_015089"; gene_name "PGM3";
+CEYIJT010003188.1	EMBL	exon	2500	2647	.	-	.	transcript_id "rna-GHUX1742BS_015089"; gene_id "gene-GHUX1742BS_015089"; gene_name "PGM3";
+CEYIJT010003188.1	EMBL	exon	2712	2845	.	-	.	transcript_id "rna-GHUX1742BS_015089"; gene_id "gene-GHUX1742BS_015089"; gene_name "PGM3";
+CEYIJT010003188.1	EMBL	exon	2927	3018	.	-	.	transcript_id "rna-GHUX1742BS_015089"; gene_id "gene-GHUX1742BS_015089"; gene_name "PGM3";
+CEYIJT010003188.1	EMBL	exon	3168	4136	.	-	.	transcript_id "rna-GHUX1742BS_015089"; gene_id "gene-GHUX1742BS_015089"; gene_name "PGM3";
+CEYIJT010003188.1	EMBL	CDS	1162	1332	.	-	0	transcript_id "rna-GHUX1742BS_015089"; gene_id "gene-GHUX1742BS_015089"; gene_name "PGM3";
+CEYIJT010003188.1	EMBL	CDS	1541	1670	.	-	1	transcript_id "rna-GHUX1742BS_015089"; gene_id "gene-GHUX1742BS_015089"; gene_name "PGM3";
+CEYIJT010003188.1	EMBL	CDS	1884	1957	.	-	0	transcript_id "rna-GHUX1742BS_015089"; gene_id "gene-GHUX1742BS_015089"; gene_name "PGM3";
+CEYIJT010003188.1	EMBL	CDS	2500	2647	.	-	1	transcript_id "rna-GHUX1742BS_015089"; gene_id "gene-GHUX1742BS_015089"; gene_name "PGM3";
+CEYIJT010003188.1	EMBL	CDS	2712	2845	.	-	0	transcript_id "rna-GHUX1742BS_015089"; gene_id "gene-GHUX1742BS_015089"; gene_name "PGM3";
+CEYIJT010003188.1	EMBL	CDS	2927	3018	.	-	2	transcript_id "rna-GHUX1742BS_015089"; gene_id "gene-GHUX1742BS_015089"; gene_name "PGM3";
+CEYIJT010003188.1	EMBL	CDS	3168	4107	.	-	0	transcript_id "rna-GHUX1742BS_015089"; gene_id "gene-GHUX1742BS_015089"; gene_name "PGM3";
+CEYIJT010003496.1	EMBL	transcript	43	2256	.	+	.	transcript_id "rna-GHUX1742BS_016050"; gene_id "gene-GHUX1742BS_016050"
+CEYIJT010003496.1	EMBL	exon	43	775	.	+	.	transcript_id "rna-GHUX1742BS_016050"; gene_id "gene-GHUX1742BS_016050";
+CEYIJT010003496.1	EMBL	exon	849	948	.	+	.	transcript_id "rna-GHUX1742BS_016050"; gene_id "gene-GHUX1742BS_016050";
+CEYIJT010003496.1	EMBL	exon	1020	1192	.	+	.	transcript_id "rna-GHUX1742BS_016050"; gene_id "gene-GHUX1742BS_016050";
+CEYIJT010003496.1	EMBL	exon	1308	1884	.	+	.	transcript_id "rna-GHUX1742BS_016050"; gene_id "gene-GHUX1742BS_016050";
+CEYIJT010003496.1	EMBL	exon	1955	2256	.	+	.	transcript_id "rna-GHUX1742BS_016050"; gene_id "gene-GHUX1742BS_016050";
+CEYIJT010003496.1	EMBL	CDS	44	775	.	+	0	transcript_id "rna-GHUX1742BS_016050"; gene_id "gene-GHUX1742BS_016050";
+CEYIJT010003496.1	EMBL	CDS	849	948	.	+	0	transcript_id "rna-GHUX1742BS_016050"; gene_id "gene-GHUX1742BS_016050";
+CEYIJT010003496.1	EMBL	CDS	1020	1192	.	+	2	transcript_id "rna-GHUX1742BS_016050"; gene_id "gene-GHUX1742BS_016050";
+CEYIJT010003496.1	EMBL	CDS	1308	1884	.	+	0	transcript_id "rna-GHUX1742BS_016050"; gene_id "gene-GHUX1742BS_016050";
+CEYIJT010003496.1	EMBL	CDS	1955	2256	.	+	2	transcript_id "rna-GHUX1742BS_016050"; gene_id "gene-GHUX1742BS_016050";
+CEYIJT010003624.1	EMBL	transcript	154	2179	.	+	.	transcript_id "rna-GHUX1742BS_016441"; gene_id "gene-GHUX1742BS_016441"
+CEYIJT010003624.1	EMBL	exon	154	468	.	+	.	transcript_id "rna-GHUX1742BS_016441"; gene_id "gene-GHUX1742BS_016441";
+CEYIJT010003624.1	EMBL	exon	541	587	.	+	.	transcript_id "rna-GHUX1742BS_016441"; gene_id "gene-GHUX1742BS_016441";
+CEYIJT010003624.1	EMBL	exon	664	738	.	+	.	transcript_id "rna-GHUX1742BS_016441"; gene_id "gene-GHUX1742BS_016441";
+CEYIJT010003624.1	EMBL	exon	843	886	.	+	.	transcript_id "rna-GHUX1742BS_016441"; gene_id "gene-GHUX1742BS_016441";
+CEYIJT010003624.1	EMBL	exon	973	1090	.	+	.	transcript_id "rna-GHUX1742BS_016441"; gene_id "gene-GHUX1742BS_016441";
+CEYIJT010003624.1	EMBL	exon	1238	1321	.	+	.	transcript_id "rna-GHUX1742BS_016441"; gene_id "gene-GHUX1742BS_016441";
+CEYIJT010003624.1	EMBL	exon	1461	1512	.	+	.	transcript_id "rna-GHUX1742BS_016441"; gene_id "gene-GHUX1742BS_016441";
+CEYIJT010003624.1	EMBL	exon	1579	1652	.	+	.	transcript_id "rna-GHUX1742BS_016441"; gene_id "gene-GHUX1742BS_016441";
+CEYIJT010003624.1	EMBL	exon	1805	2179	.	+	.	transcript_id "rna-GHUX1742BS_016441"; gene_id "gene-GHUX1742BS_016441";
+CEYIJT010003624.1	EMBL	CDS	156	468	.	+	0	transcript_id "rna-GHUX1742BS_016441"; gene_id "gene-GHUX1742BS_016441";
+CEYIJT010003624.1	EMBL	CDS	541	587	.	+	2	transcript_id "rna-GHUX1742BS_016441"; gene_id "gene-GHUX1742BS_016441";
+CEYIJT010003624.1	EMBL	CDS	664	738	.	+	0	transcript_id "rna-GHUX1742BS_016441"; gene_id "gene-GHUX1742BS_016441";
+CEYIJT010003624.1	EMBL	CDS	843	886	.	+	0	transcript_id "rna-GHUX1742BS_016441"; gene_id "gene-GHUX1742BS_016441";
+CEYIJT010003624.1	EMBL	CDS	973	1090	.	+	1	transcript_id "rna-GHUX1742BS_016441"; gene_id "gene-GHUX1742BS_016441";
+CEYIJT010003624.1	EMBL	CDS	1238	1321	.	+	0	transcript_id "rna-GHUX1742BS_016441"; gene_id "gene-GHUX1742BS_016441";
+CEYIJT010003624.1	EMBL	CDS	1461	1512	.	+	0	transcript_id "rna-GHUX1742BS_016441"; gene_id "gene-GHUX1742BS_016441";
+CEYIJT010003624.1	EMBL	CDS	1579	1652	.	+	2	transcript_id "rna-GHUX1742BS_016441"; gene_id "gene-GHUX1742BS_016441";
+CEYIJT010003624.1	EMBL	CDS	1805	2023	.	+	0	transcript_id "rna-GHUX1742BS_016441"; gene_id "gene-GHUX1742BS_016441";
+CEYIJT010003753.1	EMBL	transcript	1	1539	.	-	.	transcript_id "rna-GHUX1742BS_016844"; gene_id "gene-GHUX1742BS_016844"; gene_name "HAT1"
+CEYIJT010003753.1	EMBL	exon	1	1539	.	-	.	transcript_id "rna-GHUX1742BS_016844"; gene_id "gene-GHUX1742BS_016844"; gene_name "HAT1";
+CEYIJT010003753.1	EMBL	CDS	231	1481	.	-	0	transcript_id "rna-GHUX1742BS_016844"; gene_id "gene-GHUX1742BS_016844"; gene_name "HAT1";
+CEYIJT010003820.1	EMBL	transcript	569	1642	.	-	.	transcript_id "rna-GHUX1742BS_017021"; gene_id "gene-GHUX1742BS_017021"
+CEYIJT010003820.1	EMBL	exon	569	772	.	-	.	transcript_id "rna-GHUX1742BS_017021"; gene_id "gene-GHUX1742BS_017021";
+CEYIJT010003820.1	EMBL	exon	854	1642	.	-	.	transcript_id "rna-GHUX1742BS_017021"; gene_id "gene-GHUX1742BS_017021";
+CEYIJT010003820.1	EMBL	CDS	569	772	.	-	0	transcript_id "rna-GHUX1742BS_017021"; gene_id "gene-GHUX1742BS_017021";
+CEYIJT010003820.1	EMBL	CDS	854	1642	.	-	0	transcript_id "rna-GHUX1742BS_017021"; gene_id "gene-GHUX1742BS_017021";
+CEYIJT010003896.1	EMBL	transcript	2408	3567	.	-	.	transcript_id "rna-GHUX1742BS_017230"; gene_id "gene-GHUX1742BS_017230"; gene_name "CYP59"
+CEYIJT010003896.1	EMBL	exon	2408	2511	.	-	.	transcript_id "rna-GHUX1742BS_017230"; gene_id "gene-GHUX1742BS_017230"; gene_name "CYP59";
+CEYIJT010003896.1	EMBL	exon	2585	2606	.	-	.	transcript_id "rna-GHUX1742BS_017230"; gene_id "gene-GHUX1742BS_017230"; gene_name "CYP59";
+CEYIJT010003896.1	EMBL	exon	2676	2870	.	-	.	transcript_id "rna-GHUX1742BS_017230"; gene_id "gene-GHUX1742BS_017230"; gene_name "CYP59";
+CEYIJT010003896.1	EMBL	exon	2944	3567	.	-	.	transcript_id "rna-GHUX1742BS_017230"; gene_id "gene-GHUX1742BS_017230"; gene_name "CYP59";
+CEYIJT010003896.1	EMBL	CDS	2408	2511	.	-	2	transcript_id "rna-GHUX1742BS_017230"; gene_id "gene-GHUX1742BS_017230"; gene_name "CYP59";
+CEYIJT010003896.1	EMBL	CDS	2585	2606	.	-	0	transcript_id "rna-GHUX1742BS_017230"; gene_id "gene-GHUX1742BS_017230"; gene_name "CYP59";
+CEYIJT010003896.1	EMBL	CDS	2676	2870	.	-	0	transcript_id "rna-GHUX1742BS_017230"; gene_id "gene-GHUX1742BS_017230"; gene_name "CYP59";
+CEYIJT010003896.1	EMBL	CDS	2944	3567	.	-	0	transcript_id "rna-GHUX1742BS_017230"; gene_id "gene-GHUX1742BS_017230"; gene_name "CYP59";
+CEYIJT010004135.1	EMBL	transcript	961	2656	.	+	.	transcript_id "rna-GHUX1742BS_017904"; gene_id "gene-GHUX1742BS_017904"
+CEYIJT010004135.1	EMBL	exon	961	1105	.	+	.	transcript_id "rna-GHUX1742BS_017904"; gene_id "gene-GHUX1742BS_017904";
+CEYIJT010004135.1	EMBL	exon	1173	1231	.	+	.	transcript_id "rna-GHUX1742BS_017904"; gene_id "gene-GHUX1742BS_017904";
+CEYIJT010004135.1	EMBL	exon	2136	2303	.	+	.	transcript_id "rna-GHUX1742BS_017904"; gene_id "gene-GHUX1742BS_017904";
+CEYIJT010004135.1	EMBL	exon	2354	2656	.	+	.	transcript_id "rna-GHUX1742BS_017904"; gene_id "gene-GHUX1742BS_017904";
+CEYIJT010004135.1	EMBL	CDS	961	1105	.	+	0	transcript_id "rna-GHUX1742BS_017904"; gene_id "gene-GHUX1742BS_017904";
+CEYIJT010004135.1	EMBL	CDS	1173	1231	.	+	2	transcript_id "rna-GHUX1742BS_017904"; gene_id "gene-GHUX1742BS_017904";
+CEYIJT010004135.1	EMBL	CDS	2136	2303	.	+	0	transcript_id "rna-GHUX1742BS_017904"; gene_id "gene-GHUX1742BS_017904";
+CEYIJT010004135.1	EMBL	CDS	2354	2656	.	+	0	transcript_id "rna-GHUX1742BS_017904"; gene_id "gene-GHUX1742BS_017904";
+CEYIJT010004307.1	EMBL	transcript	926	2934	.	+	.	transcript_id "rna-GHUX1742BS_018386"; gene_id "gene-GHUX1742BS_018386"; gene_name "NOL10"
+CEYIJT010004307.1	EMBL	exon	926	1859	.	+	.	transcript_id "rna-GHUX1742BS_018386"; gene_id "gene-GHUX1742BS_018386"; gene_name "NOL10";
+CEYIJT010004307.1	EMBL	exon	1936	2170	.	+	.	transcript_id "rna-GHUX1742BS_018386"; gene_id "gene-GHUX1742BS_018386"; gene_name "NOL10";
+CEYIJT010004307.1	EMBL	exon	2247	2934	.	+	.	transcript_id "rna-GHUX1742BS_018386"; gene_id "gene-GHUX1742BS_018386"; gene_name "NOL10";
+CEYIJT010004307.1	EMBL	CDS	1005	1859	.	+	0	transcript_id "rna-GHUX1742BS_018386"; gene_id "gene-GHUX1742BS_018386"; gene_name "NOL10";
+CEYIJT010004307.1	EMBL	CDS	1936	2170	.	+	0	transcript_id "rna-GHUX1742BS_018386"; gene_id "gene-GHUX1742BS_018386"; gene_name "NOL10";
+CEYIJT010004307.1	EMBL	CDS	2247	2803	.	+	2	transcript_id "rna-GHUX1742BS_018386"; gene_id "gene-GHUX1742BS_018386"; gene_name "NOL10";
+CEYIJT010005099.1	EMBL	transcript	1380	2586	.	-	.	transcript_id "rna-GHUX1742BS_020467"; gene_id "gene-GHUX1742BS_020467"; gene_name "TRMT61A_1"
+CEYIJT010005099.1	EMBL	exon	1380	1481	.	-	.	transcript_id "rna-GHUX1742BS_020467"; gene_id "gene-GHUX1742BS_020467"; gene_name "TRMT61A_1";
+CEYIJT010005099.1	EMBL	exon	1850	1930	.	-	.	transcript_id "rna-GHUX1742BS_020467"; gene_id "gene-GHUX1742BS_020467"; gene_name "TRMT61A_1";
+CEYIJT010005099.1	EMBL	exon	2065	2586	.	-	.	transcript_id "rna-GHUX1742BS_020467"; gene_id "gene-GHUX1742BS_020467"; gene_name "TRMT61A_1";
+CEYIJT010005099.1	EMBL	CDS	1380	1481	.	-	0	transcript_id "rna-GHUX1742BS_020467"; gene_id "gene-GHUX1742BS_020467"; gene_name "TRMT61A_1";
+CEYIJT010005099.1	EMBL	CDS	1850	1930	.	-	0	transcript_id "rna-GHUX1742BS_020467"; gene_id "gene-GHUX1742BS_020467"; gene_name "TRMT61A_1";
+CEYIJT010005099.1	EMBL	CDS	2065	2586	.	-	0	transcript_id "rna-GHUX1742BS_020467"; gene_id "gene-GHUX1742BS_020467"; gene_name "TRMT61A_1";
+CEYIJT010005132.1	EMBL	transcript	368	1607	.	+	.	transcript_id "rna-GHUX1742BS_020542"; gene_id "gene-GHUX1742BS_020542"; gene_name "EIF2B1"
+CEYIJT010005132.1	EMBL	exon	368	1031	.	+	.	transcript_id "rna-GHUX1742BS_020542"; gene_id "gene-GHUX1742BS_020542"; gene_name "EIF2B1";
+CEYIJT010005132.1	EMBL	exon	1106	1261	.	+	.	transcript_id "rna-GHUX1742BS_020542"; gene_id "gene-GHUX1742BS_020542"; gene_name "EIF2B1";
+CEYIJT010005132.1	EMBL	exon	1335	1607	.	+	.	transcript_id "rna-GHUX1742BS_020542"; gene_id "gene-GHUX1742BS_020542"; gene_name "EIF2B1";
+CEYIJT010005132.1	EMBL	CDS	435	1031	.	+	0	transcript_id "rna-GHUX1742BS_020542"; gene_id "gene-GHUX1742BS_020542"; gene_name "EIF2B1";
+CEYIJT010005132.1	EMBL	CDS	1106	1261	.	+	0	transcript_id "rna-GHUX1742BS_020542"; gene_id "gene-GHUX1742BS_020542"; gene_name "EIF2B1";
+CEYIJT010005132.1	EMBL	CDS	1335	1508	.	+	0	transcript_id "rna-GHUX1742BS_020542"; gene_id "gene-GHUX1742BS_020542"; gene_name "EIF2B1";
+CEYIJT010005440.1	EMBL	transcript	1121	2806	.	+	.	transcript_id "rna-GHUX1742BS_021295"; gene_id "gene-GHUX1742BS_021295"; gene_name "MAK10_3"
+CEYIJT010005440.1	EMBL	exon	1121	1240	.	+	.	transcript_id "rna-GHUX1742BS_021295"; gene_id "gene-GHUX1742BS_021295"; gene_name "MAK10_3";
+CEYIJT010005440.1	EMBL	exon	1377	1601	.	+	.	transcript_id "rna-GHUX1742BS_021295"; gene_id "gene-GHUX1742BS_021295"; gene_name "MAK10_3";
+CEYIJT010005440.1	EMBL	exon	1674	1701	.	+	.	transcript_id "rna-GHUX1742BS_021295"; gene_id "gene-GHUX1742BS_021295"; gene_name "MAK10_3";
+CEYIJT010005440.1	EMBL	exon	1782	1895	.	+	.	transcript_id "rna-GHUX1742BS_021295"; gene_id "gene-GHUX1742BS_021295"; gene_name "MAK10_3";
+CEYIJT010005440.1	EMBL	exon	2034	2806	.	+	.	transcript_id "rna-GHUX1742BS_021295"; gene_id "gene-GHUX1742BS_021295"; gene_name "MAK10_3";
+CEYIJT010005440.1	EMBL	CDS	1122	1240	.	+	0	transcript_id "rna-GHUX1742BS_021295"; gene_id "gene-GHUX1742BS_021295"; gene_name "MAK10_3";
+CEYIJT010005440.1	EMBL	CDS	1377	1601	.	+	1	transcript_id "rna-GHUX1742BS_021295"; gene_id "gene-GHUX1742BS_021295"; gene_name "MAK10_3";
+CEYIJT010005440.1	EMBL	CDS	1674	1701	.	+	1	transcript_id "rna-GHUX1742BS_021295"; gene_id "gene-GHUX1742BS_021295"; gene_name "MAK10_3";
+CEYIJT010005440.1	EMBL	CDS	1782	1895	.	+	0	transcript_id "rna-GHUX1742BS_021295"; gene_id "gene-GHUX1742BS_021295"; gene_name "MAK10_3";
+CEYIJT010005440.1	EMBL	CDS	2034	2105	.	+	0	transcript_id "rna-GHUX1742BS_021295"; gene_id "gene-GHUX1742BS_021295"; gene_name "MAK10_3";
+CEYIJT010006581.1	EMBL	transcript	265	2146	.	+	.	transcript_id "rna-GHUX1742BS_023852"; gene_id "gene-GHUX1742BS_023852"; gene_name "LEO1"
+CEYIJT010006581.1	EMBL	exon	265	592	.	+	.	transcript_id "rna-GHUX1742BS_023852"; gene_id "gene-GHUX1742BS_023852"; gene_name "LEO1";
+CEYIJT010006581.1	EMBL	exon	662	784	.	+	.	transcript_id "rna-GHUX1742BS_023852"; gene_id "gene-GHUX1742BS_023852"; gene_name "LEO1";
+CEYIJT010006581.1	EMBL	exon	858	974	.	+	.	transcript_id "rna-GHUX1742BS_023852"; gene_id "gene-GHUX1742BS_023852"; gene_name "LEO1";
+CEYIJT010006581.1	EMBL	exon	1051	1084	.	+	.	transcript_id "rna-GHUX1742BS_023852"; gene_id "gene-GHUX1742BS_023852"; gene_name "LEO1";
+CEYIJT010006581.1	EMBL	exon	1238	1824	.	+	.	transcript_id "rna-GHUX1742BS_023852"; gene_id "gene-GHUX1742BS_023852"; gene_name "LEO1";
+CEYIJT010006581.1	EMBL	exon	1915	2146	.	+	.	transcript_id "rna-GHUX1742BS_023852"; gene_id "gene-GHUX1742BS_023852"; gene_name "LEO1";
+CEYIJT010006581.1	EMBL	CDS	335	592	.	+	0	transcript_id "rna-GHUX1742BS_023852"; gene_id "gene-GHUX1742BS_023852"; gene_name "LEO1";
+CEYIJT010006581.1	EMBL	CDS	662	784	.	+	0	transcript_id "rna-GHUX1742BS_023852"; gene_id "gene-GHUX1742BS_023852"; gene_name "LEO1";
+CEYIJT010006581.1	EMBL	CDS	858	974	.	+	0	transcript_id "rna-GHUX1742BS_023852"; gene_id "gene-GHUX1742BS_023852"; gene_name "LEO1";
+CEYIJT010006581.1	EMBL	CDS	1051	1084	.	+	0	transcript_id "rna-GHUX1742BS_023852"; gene_id "gene-GHUX1742BS_023852"; gene_name "LEO1";
+CEYIJT010006581.1	EMBL	CDS	1238	1824	.	+	2	transcript_id "rna-GHUX1742BS_023852"; gene_id "gene-GHUX1742BS_023852"; gene_name "LEO1";
+CEYIJT010006581.1	EMBL	CDS	1915	1974	.	+	0	transcript_id "rna-GHUX1742BS_023852"; gene_id "gene-GHUX1742BS_023852"; gene_name "LEO1";
+CEYIJT010007448.1	EMBL	transcript	178	2043	.	+	.	transcript_id "rna-GHUX1742BS_025600"; gene_id "gene-GHUX1742BS_025600"; gene_name "EIF3F_1"
+CEYIJT010007448.1	EMBL	exon	178	350	.	+	.	transcript_id "rna-GHUX1742BS_025600"; gene_id "gene-GHUX1742BS_025600"; gene_name "EIF3F_1";
+CEYIJT010007448.1	EMBL	exon	458	591	.	+	.	transcript_id "rna-GHUX1742BS_025600"; gene_id "gene-GHUX1742BS_025600"; gene_name "EIF3F_1";
+CEYIJT010007448.1	EMBL	exon	681	878	.	+	.	transcript_id "rna-GHUX1742BS_025600"; gene_id "gene-GHUX1742BS_025600"; gene_name "EIF3F_1";
+CEYIJT010007448.1	EMBL	exon	1045	1129	.	+	.	transcript_id "rna-GHUX1742BS_025600"; gene_id "gene-GHUX1742BS_025600"; gene_name "EIF3F_1";
+CEYIJT010007448.1	EMBL	exon	1310	1344	.	+	.	transcript_id "rna-GHUX1742BS_025600"; gene_id "gene-GHUX1742BS_025600"; gene_name "EIF3F_1";
+CEYIJT010007448.1	EMBL	exon	1609	1665	.	+	.	transcript_id "rna-GHUX1742BS_025600"; gene_id "gene-GHUX1742BS_025600"; gene_name "EIF3F_1";
+CEYIJT010007448.1	EMBL	exon	1737	2043	.	+	.	transcript_id "rna-GHUX1742BS_025600"; gene_id "gene-GHUX1742BS_025600"; gene_name "EIF3F_1";
+CEYIJT010007448.1	EMBL	CDS	212	350	.	+	0	transcript_id "rna-GHUX1742BS_025600"; gene_id "gene-GHUX1742BS_025600"; gene_name "EIF3F_1";
+CEYIJT010007448.1	EMBL	CDS	458	591	.	+	2	transcript_id "rna-GHUX1742BS_025600"; gene_id "gene-GHUX1742BS_025600"; gene_name "EIF3F_1";
+CEYIJT010007448.1	EMBL	CDS	681	878	.	+	0	transcript_id "rna-GHUX1742BS_025600"; gene_id "gene-GHUX1742BS_025600"; gene_name "EIF3F_1";
+CEYIJT010007448.1	EMBL	CDS	1045	1129	.	+	0	transcript_id "rna-GHUX1742BS_025600"; gene_id "gene-GHUX1742BS_025600"; gene_name "EIF3F_1";
+CEYIJT010007448.1	EMBL	CDS	1310	1344	.	+	2	transcript_id "rna-GHUX1742BS_025600"; gene_id "gene-GHUX1742BS_025600"; gene_name "EIF3F_1";
+CEYIJT010007448.1	EMBL	CDS	1609	1665	.	+	0	transcript_id "rna-GHUX1742BS_025600"; gene_id "gene-GHUX1742BS_025600"; gene_name "EIF3F_1";
+CEYIJT010007448.1	EMBL	CDS	1737	1940	.	+	0	transcript_id "rna-GHUX1742BS_025600"; gene_id "gene-GHUX1742BS_025600"; gene_name "EIF3F_1";
+CEYIJT010008112.1	EMBL	transcript	241	1247	.	+	.	transcript_id "rna-GHUX1742BS_026859"; gene_id "gene-GHUX1742BS_026859"; gene_name "GPN1"
+CEYIJT010008112.1	EMBL	exon	241	834	.	+	.	transcript_id "rna-GHUX1742BS_026859"; gene_id "gene-GHUX1742BS_026859"; gene_name "GPN1";
+CEYIJT010008112.1	EMBL	exon	1098	1247	.	+	.	transcript_id "rna-GHUX1742BS_026859"; gene_id "gene-GHUX1742BS_026859"; gene_name "GPN1";
+CEYIJT010008112.1	EMBL	CDS	241	834	.	+	0	transcript_id "rna-GHUX1742BS_026859"; gene_id "gene-GHUX1742BS_026859"; gene_name "GPN1";
+CEYIJT010008112.1	EMBL	CDS	1098	1247	.	+	0	transcript_id "rna-GHUX1742BS_026859"; gene_id "gene-GHUX1742BS_026859"; gene_name "GPN1";
+CEYIJT010008198.1	EMBL	transcript	37	666	.	-	.	transcript_id "rna-GHUX1742BS_027011"; gene_id "gene-GHUX1742BS_027011"; gene_name "ANAPC10"
+CEYIJT010008198.1	EMBL	exon	37	426	.	-	.	transcript_id "rna-GHUX1742BS_027011"; gene_id "gene-GHUX1742BS_027011"; gene_name "ANAPC10";
+CEYIJT010008198.1	EMBL	exon	502	666	.	-	.	transcript_id "rna-GHUX1742BS_027011"; gene_id "gene-GHUX1742BS_027011"; gene_name "ANAPC10";
+CEYIJT010008198.1	EMBL	CDS	37	426	.	-	1	transcript_id "rna-GHUX1742BS_027011"; gene_id "gene-GHUX1742BS_027011"; gene_name "ANAPC10";
+CEYIJT010008198.1	EMBL	CDS	502	653	.	-	0	transcript_id "rna-GHUX1742BS_027011"; gene_id "gene-GHUX1742BS_027011"; gene_name "ANAPC10";
+CEYIJT010008237.1	EMBL	transcript	665	1675	.	+	.	transcript_id "rna-GHUX1742BS_027083"; gene_id "gene-GHUX1742BS_027083"
+CEYIJT010008237.1	EMBL	exon	665	988	.	+	.	transcript_id "rna-GHUX1742BS_027083"; gene_id "gene-GHUX1742BS_027083";
+CEYIJT010008237.1	EMBL	exon	1056	1114	.	+	.	transcript_id "rna-GHUX1742BS_027083"; gene_id "gene-GHUX1742BS_027083";
+CEYIJT010008237.1	EMBL	exon	1200	1334	.	+	.	transcript_id "rna-GHUX1742BS_027083"; gene_id "gene-GHUX1742BS_027083";
+CEYIJT010008237.1	EMBL	exon	1409	1675	.	+	.	transcript_id "rna-GHUX1742BS_027083"; gene_id "gene-GHUX1742BS_027083";
+CEYIJT010008237.1	EMBL	CDS	721	988	.	+	0	transcript_id "rna-GHUX1742BS_027083"; gene_id "gene-GHUX1742BS_027083";
+CEYIJT010008237.1	EMBL	CDS	1056	1114	.	+	2	transcript_id "rna-GHUX1742BS_027083"; gene_id "gene-GHUX1742BS_027083";
+CEYIJT010008237.1	EMBL	CDS	1200	1334	.	+	0	transcript_id "rna-GHUX1742BS_027083"; gene_id "gene-GHUX1742BS_027083";
+CEYIJT010008237.1	EMBL	CDS	1409	1549	.	+	0	transcript_id "rna-GHUX1742BS_027083"; gene_id "gene-GHUX1742BS_027083";
+CEYIJT010008434.1	EMBL	transcript	1	1706	.	-	.	transcript_id "rna-GHUX1742BS_027424"; gene_id "gene-GHUX1742BS_027424"; gene_name "RWDD4"
+CEYIJT010008434.1	EMBL	exon	1	1345	.	-	.	transcript_id "rna-GHUX1742BS_027424"; gene_id "gene-GHUX1742BS_027424"; gene_name "RWDD4";
+CEYIJT010008434.1	EMBL	exon	1432	1706	.	-	.	transcript_id "rna-GHUX1742BS_027424"; gene_id "gene-GHUX1742BS_027424"; gene_name "RWDD4";
+CEYIJT010008434.1	EMBL	CDS	623	1345	.	-	0	transcript_id "rna-GHUX1742BS_027424"; gene_id "gene-GHUX1742BS_027424"; gene_name "RWDD4";
+CEYIJT010008434.1	EMBL	CDS	1432	1632	.	-	0	transcript_id "rna-GHUX1742BS_027424"; gene_id "gene-GHUX1742BS_027424"; gene_name "RWDD4";
+CEYIJT010008547.1	EMBL	transcript	171	1140	.	+	.	transcript_id "rna-GHUX1742BS_027638"; gene_id "gene-GHUX1742BS_027638"; gene_name "COX11"
+CEYIJT010008547.1	EMBL	exon	171	682	.	+	.	transcript_id "rna-GHUX1742BS_027638"; gene_id "gene-GHUX1742BS_027638"; gene_name "COX11";
+CEYIJT010008547.1	EMBL	exon	799	1140	.	+	.	transcript_id "rna-GHUX1742BS_027638"; gene_id "gene-GHUX1742BS_027638"; gene_name "COX11";
+CEYIJT010008547.1	EMBL	CDS	191	682	.	+	0	transcript_id "rna-GHUX1742BS_027638"; gene_id "gene-GHUX1742BS_027638"; gene_name "COX11";
+CEYIJT010008547.1	EMBL	CDS	799	1140	.	+	0	transcript_id "rna-GHUX1742BS_027638"; gene_id "gene-GHUX1742BS_027638"; gene_name "COX11";
+CEYIJT010010927.1	EMBL	transcript	172	1170	.	-	.	transcript_id "rna-GHUX1742BS_031472"; gene_id "gene-GHUX1742BS_031472"; gene_name "RRP9"
+CEYIJT010010927.1	EMBL	exon	172	342	.	-	.	transcript_id "rna-GHUX1742BS_031472"; gene_id "gene-GHUX1742BS_031472"; gene_name "RRP9";
+CEYIJT010010927.1	EMBL	exon	438	1170	.	-	.	transcript_id "rna-GHUX1742BS_031472"; gene_id "gene-GHUX1742BS_031472"; gene_name "RRP9";
+CEYIJT010010927.1	EMBL	CDS	172	342	.	-	0	transcript_id "rna-GHUX1742BS_031472"; gene_id "gene-GHUX1742BS_031472"; gene_name "RRP9";
+CEYIJT010010927.1	EMBL	CDS	438	1170	.	-	1	transcript_id "rna-GHUX1742BS_031472"; gene_id "gene-GHUX1742BS_031472"; gene_name "RRP9";
+CEYIJT010011692.1	EMBL	transcript	443	892	.	-	.	transcript_id "rna-GHUX1742BS_032548"; gene_id "gene-GHUX1742BS_032548"; gene_name "MCTS1_3"
+CEYIJT010011692.1	EMBL	exon	443	892	.	-	.	transcript_id "rna-GHUX1742BS_032548"; gene_id "gene-GHUX1742BS_032548"; gene_name "MCTS1_3";
+CEYIJT010011692.1	EMBL	CDS	443	892	.	-	0	transcript_id "rna-GHUX1742BS_032548"; gene_id "gene-GHUX1742BS_032548"; gene_name "MCTS1_3";
+CEYIJT010011887.1	EMBL	transcript	220	980	.	-	.	transcript_id "rna-GHUX1742BS_032817"; gene_id "gene-GHUX1742BS_032817"
+CEYIJT010011887.1	EMBL	exon	220	541	.	-	.	transcript_id "rna-GHUX1742BS_032817"; gene_id "gene-GHUX1742BS_032817";
+CEYIJT010011887.1	EMBL	exon	697	794	.	-	.	transcript_id "rna-GHUX1742BS_032817"; gene_id "gene-GHUX1742BS_032817";
+CEYIJT010011887.1	EMBL	exon	869	980	.	-	.	transcript_id "rna-GHUX1742BS_032817"; gene_id "gene-GHUX1742BS_032817";
+CEYIJT010011887.1	EMBL	CDS	220	541	.	-	1	transcript_id "rna-GHUX1742BS_032817"; gene_id "gene-GHUX1742BS_032817";
+CEYIJT010011887.1	EMBL	CDS	697	794	.	-	0	transcript_id "rna-GHUX1742BS_032817"; gene_id "gene-GHUX1742BS_032817";
+CEYIJT010011887.1	EMBL	CDS	869	973	.	-	0	transcript_id "rna-GHUX1742BS_032817"; gene_id "gene-GHUX1742BS_032817";
+CEYIJT010143473.1	EMBL	transcript	10029	12557	.	+	.	transcript_id "rna-GHUX1742BS_001359"; gene_id "gene-GHUX1742BS_001359"
+CEYIJT010143473.1	EMBL	exon	10029	10097	.	+	.	transcript_id "rna-GHUX1742BS_001359"; gene_id "gene-GHUX1742BS_001359";
+CEYIJT010143473.1	EMBL	exon	10171	10569	.	+	.	transcript_id "rna-GHUX1742BS_001359"; gene_id "gene-GHUX1742BS_001359";
+CEYIJT010143473.1	EMBL	exon	10635	11246	.	+	.	transcript_id "rna-GHUX1742BS_001359"; gene_id "gene-GHUX1742BS_001359";
+CEYIJT010143473.1	EMBL	exon	11325	11603	.	+	.	transcript_id "rna-GHUX1742BS_001359"; gene_id "gene-GHUX1742BS_001359";
+CEYIJT010143473.1	EMBL	exon	11856	11981	.	+	.	transcript_id "rna-GHUX1742BS_001359"; gene_id "gene-GHUX1742BS_001359";
+CEYIJT010143473.1	EMBL	exon	12114	12147	.	+	.	transcript_id "rna-GHUX1742BS_001359"; gene_id "gene-GHUX1742BS_001359";
+CEYIJT010143473.1	EMBL	exon	12289	12367	.	+	.	transcript_id "rna-GHUX1742BS_001359"; gene_id "gene-GHUX1742BS_001359";
+CEYIJT010143473.1	EMBL	exon	12525	12557	.	+	.	transcript_id "rna-GHUX1742BS_001359"; gene_id "gene-GHUX1742BS_001359";
+CEYIJT010143473.1	EMBL	CDS	10047	10097	.	+	0	transcript_id "rna-GHUX1742BS_001359"; gene_id "gene-GHUX1742BS_001359";
+CEYIJT010143473.1	EMBL	CDS	10171	10569	.	+	0	transcript_id "rna-GHUX1742BS_001359"; gene_id "gene-GHUX1742BS_001359";
+CEYIJT010143473.1	EMBL	CDS	10635	11246	.	+	0	transcript_id "rna-GHUX1742BS_001359"; gene_id "gene-GHUX1742BS_001359";
+CEYIJT010143473.1	EMBL	CDS	11325	11603	.	+	0	transcript_id "rna-GHUX1742BS_001359"; gene_id "gene-GHUX1742BS_001359";
+CEYIJT010143473.1	EMBL	CDS	11856	11981	.	+	0	transcript_id "rna-GHUX1742BS_001359"; gene_id "gene-GHUX1742BS_001359";
+CEYIJT010143473.1	EMBL	CDS	12114	12147	.	+	0	transcript_id "rna-GHUX1742BS_001359"; gene_id "gene-GHUX1742BS_001359";
+CEYIJT010143473.1	EMBL	CDS	12289	12367	.	+	2	transcript_id "rna-GHUX1742BS_001359"; gene_id "gene-GHUX1742BS_001359";
+CEYIJT010143473.1	EMBL	CDS	12525	12557	.	+	1	transcript_id "rna-GHUX1742BS_001359"; gene_id "gene-GHUX1742BS_001359";
+CEYIJT010143542.1	EMBL	transcript	287	855	.	+	.	transcript_id "rna-GHUX1742BS_001865"; gene_id "gene-GHUX1742BS_001865"; gene_name "MCTS1_1"
+CEYIJT010143542.1	EMBL	exon	287	334	.	+	.	transcript_id "rna-GHUX1742BS_001865"; gene_id "gene-GHUX1742BS_001865"; gene_name "MCTS1_1";
+CEYIJT010143542.1	EMBL	exon	406	855	.	+	.	transcript_id "rna-GHUX1742BS_001865"; gene_id "gene-GHUX1742BS_001865"; gene_name "MCTS1_1";
+CEYIJT010143542.1	EMBL	CDS	287	334	.	+	0	transcript_id "rna-GHUX1742BS_001865"; gene_id "gene-GHUX1742BS_001865"; gene_name "MCTS1_1";
+CEYIJT010143542.1	EMBL	CDS	406	855	.	+	0	transcript_id "rna-GHUX1742BS_001865"; gene_id "gene-GHUX1742BS_001865"; gene_name "MCTS1_1";
+CEYIJT010143661.1	EMBL	transcript	7061	7534	.	-	.	transcript_id "rna-GHUX1742BS_002678"; gene_id "gene-GHUX1742BS_002678"; gene_name "MRPL43"
+CEYIJT010143661.1	EMBL	exon	7061	7073	.	-	.	transcript_id "rna-GHUX1742BS_002678"; gene_id "gene-GHUX1742BS_002678"; gene_name "MRPL43";
+CEYIJT010143661.1	EMBL	exon	7227	7534	.	-	.	transcript_id "rna-GHUX1742BS_002678"; gene_id "gene-GHUX1742BS_002678"; gene_name "MRPL43";
+CEYIJT010143661.1	EMBL	CDS	7061	7073	.	-	1	transcript_id "rna-GHUX1742BS_002678"; gene_id "gene-GHUX1742BS_002678"; gene_name "MRPL43";
+CEYIJT010143661.1	EMBL	CDS	7227	7534	.	-	0	transcript_id "rna-GHUX1742BS_002678"; gene_id "gene-GHUX1742BS_002678"; gene_name "MRPL43";
+CEYIJT010143704.1	EMBL	transcript	311	2253	.	+	.	transcript_id "rna-GHUX1742BS_002971"; gene_id "gene-GHUX1742BS_002971"; gene_name "EIF2B2"
+CEYIJT010143704.1	EMBL	exon	311	586	.	+	.	transcript_id "rna-GHUX1742BS_002971"; gene_id "gene-GHUX1742BS_002971"; gene_name "EIF2B2";
+CEYIJT010143704.1	EMBL	exon	624	938	.	+	.	transcript_id "rna-GHUX1742BS_002971"; gene_id "gene-GHUX1742BS_002971"; gene_name "EIF2B2";
+CEYIJT010143704.1	EMBL	exon	1068	1108	.	+	.	transcript_id "rna-GHUX1742BS_002971"; gene_id "gene-GHUX1742BS_002971"; gene_name "EIF2B2";
+CEYIJT010143704.1	EMBL	exon	1266	1323	.	+	.	transcript_id "rna-GHUX1742BS_002971"; gene_id "gene-GHUX1742BS_002971"; gene_name "EIF2B2";
+CEYIJT010143704.1	EMBL	exon	1407	1441	.	+	.	transcript_id "rna-GHUX1742BS_002971"; gene_id "gene-GHUX1742BS_002971"; gene_name "EIF2B2";
+CEYIJT010143704.1	EMBL	exon	1517	1592	.	+	.	transcript_id "rna-GHUX1742BS_002971"; gene_id "gene-GHUX1742BS_002971"; gene_name "EIF2B2";
+CEYIJT010143704.1	EMBL	exon	1674	1766	.	+	.	transcript_id "rna-GHUX1742BS_002971"; gene_id "gene-GHUX1742BS_002971"; gene_name "EIF2B2";
+CEYIJT010143704.1	EMBL	exon	2113	2253	.	+	.	transcript_id "rna-GHUX1742BS_002971"; gene_id "gene-GHUX1742BS_002971"; gene_name "EIF2B2";
+CEYIJT010143704.1	EMBL	CDS	311	586	.	+	0	transcript_id "rna-GHUX1742BS_002971"; gene_id "gene-GHUX1742BS_002971"; gene_name "EIF2B2";
+CEYIJT010143704.1	EMBL	CDS	624	938	.	+	0	transcript_id "rna-GHUX1742BS_002971"; gene_id "gene-GHUX1742BS_002971"; gene_name "EIF2B2";
+CEYIJT010143704.1	EMBL	CDS	1068	1108	.	+	0	transcript_id "rna-GHUX1742BS_002971"; gene_id "gene-GHUX1742BS_002971"; gene_name "EIF2B2";
+CEYIJT010143704.1	EMBL	CDS	1266	1323	.	+	1	transcript_id "rna-GHUX1742BS_002971"; gene_id "gene-GHUX1742BS_002971"; gene_name "EIF2B2";
+CEYIJT010143704.1	EMBL	CDS	1407	1441	.	+	0	transcript_id "rna-GHUX1742BS_002971"; gene_id "gene-GHUX1742BS_002971"; gene_name "EIF2B2";
+CEYIJT010143704.1	EMBL	CDS	1517	1592	.	+	1	transcript_id "rna-GHUX1742BS_002971"; gene_id "gene-GHUX1742BS_002971"; gene_name "EIF2B2";
+CEYIJT010143704.1	EMBL	CDS	1674	1766	.	+	0	transcript_id "rna-GHUX1742BS_002971"; gene_id "gene-GHUX1742BS_002971"; gene_name "EIF2B2";
+CEYIJT010143704.1	EMBL	CDS	2113	2253	.	+	0	transcript_id "rna-GHUX1742BS_002971"; gene_id "gene-GHUX1742BS_002971"; gene_name "EIF2B2";
+CEYIJT010144004.1	EMBL	transcript	1864	6453	.	-	.	transcript_id "rna-GHUX1742BS_004797"; gene_id "gene-GHUX1742BS_004797"
+CEYIJT010144004.1	EMBL	exon	1864	1987	.	-	.	transcript_id "rna-GHUX1742BS_004797"; gene_id "gene-GHUX1742BS_004797";
+CEYIJT010144004.1	EMBL	exon	2058	2471	.	-	.	transcript_id "rna-GHUX1742BS_004797"; gene_id "gene-GHUX1742BS_004797";
+CEYIJT010144004.1	EMBL	exon	2721	2900	.	-	.	transcript_id "rna-GHUX1742BS_004797"; gene_id "gene-GHUX1742BS_004797";
+CEYIJT010144004.1	EMBL	exon	2959	3006	.	-	.	transcript_id "rna-GHUX1742BS_004797"; gene_id "gene-GHUX1742BS_004797";
+CEYIJT010144004.1	EMBL	exon	3086	3253	.	-	.	transcript_id "rna-GHUX1742BS_004797"; gene_id "gene-GHUX1742BS_004797";
+CEYIJT010144004.1	EMBL	exon	3351	3461	.	-	.	transcript_id "rna-GHUX1742BS_004797"; gene_id "gene-GHUX1742BS_004797";
+CEYIJT010144004.1	EMBL	exon	5487	5594	.	-	.	transcript_id "rna-GHUX1742BS_004797"; gene_id "gene-GHUX1742BS_004797";
+CEYIJT010144004.1	EMBL	exon	5662	6453	.	-	.	transcript_id "rna-GHUX1742BS_004797"; gene_id "gene-GHUX1742BS_004797";
+CEYIJT010144004.1	EMBL	CDS	1864	1987	.	-	0	transcript_id "rna-GHUX1742BS_004797"; gene_id "gene-GHUX1742BS_004797";
+CEYIJT010144004.1	EMBL	CDS	2058	2471	.	-	0	transcript_id "rna-GHUX1742BS_004797"; gene_id "gene-GHUX1742BS_004797";
+CEYIJT010144004.1	EMBL	CDS	2721	2900	.	-	0	transcript_id "rna-GHUX1742BS_004797"; gene_id "gene-GHUX1742BS_004797";
+CEYIJT010144004.1	EMBL	CDS	2959	3006	.	-	0	transcript_id "rna-GHUX1742BS_004797"; gene_id "gene-GHUX1742BS_004797";
+CEYIJT010144004.1	EMBL	CDS	3086	3253	.	-	0	transcript_id "rna-GHUX1742BS_004797"; gene_id "gene-GHUX1742BS_004797";
+CEYIJT010144004.1	EMBL	CDS	3351	3461	.	-	0	transcript_id "rna-GHUX1742BS_004797"; gene_id "gene-GHUX1742BS_004797";
+CEYIJT010144004.1	EMBL	CDS	5487	5594	.	-	0	transcript_id "rna-GHUX1742BS_004797"; gene_id "gene-GHUX1742BS_004797";
+CEYIJT010144004.1	EMBL	CDS	5662	6453	.	-	0	transcript_id "rna-GHUX1742BS_004797"; gene_id "gene-GHUX1742BS_004797";
+CEYIJT010144027.1	EMBL	transcript	307	2469	.	-	.	transcript_id "rna-GHUX1742BS_004919-2"; gene_id "gene-GHUX1742BS_004919"; gene_name "COX15"
+CEYIJT010144027.1	EMBL	exon	307	724	.	-	.	transcript_id "rna-GHUX1742BS_004919-2"; gene_id "gene-GHUX1742BS_004919"; gene_name "COX15";
+CEYIJT010144027.1	EMBL	exon	789	1514	.	-	.	transcript_id "rna-GHUX1742BS_004919-2"; gene_id "gene-GHUX1742BS_004919"; gene_name "COX15";
+CEYIJT010144027.1	EMBL	exon	1592	1704	.	-	.	transcript_id "rna-GHUX1742BS_004919-2"; gene_id "gene-GHUX1742BS_004919"; gene_name "COX15";
+CEYIJT010144027.1	EMBL	exon	1893	2469	.	-	.	transcript_id "rna-GHUX1742BS_004919-2"; gene_id "gene-GHUX1742BS_004919"; gene_name "COX15";
+CEYIJT010144027.1	EMBL	CDS	624	724	.	-	2	transcript_id "rna-GHUX1742BS_004919-2"; gene_id "gene-GHUX1742BS_004919"; gene_name "COX15";
+CEYIJT010144027.1	EMBL	CDS	789	1514	.	-	2	transcript_id "rna-GHUX1742BS_004919-2"; gene_id "gene-GHUX1742BS_004919"; gene_name "COX15";
+CEYIJT010144027.1	EMBL	CDS	1592	1704	.	-	1	transcript_id "rna-GHUX1742BS_004919-2"; gene_id "gene-GHUX1742BS_004919"; gene_name "COX15";
+CEYIJT010144027.1	EMBL	CDS	1893	2422	.	-	0	transcript_id "rna-GHUX1742BS_004919-2"; gene_id "gene-GHUX1742BS_004919"; gene_name "COX15";
+CEYIJT010144111.1	EMBL	transcript	112	1701	.	+	.	transcript_id "rna-GHUX1742BS_005405"; gene_id "gene-GHUX1742BS_005405"
+CEYIJT010144111.1	EMBL	exon	112	1701	.	+	.	transcript_id "rna-GHUX1742BS_005405"; gene_id "gene-GHUX1742BS_005405";
+CEYIJT010144111.1	EMBL	CDS	112	1701	.	+	0	transcript_id "rna-GHUX1742BS_005405"; gene_id "gene-GHUX1742BS_005405";
+CEYIJT010144171.1	EMBL	transcript	3563	6762	.	+	.	transcript_id "rna-GHUX1742BS_005733"; gene_id "gene-GHUX1742BS_005733"
+CEYIJT010144171.1	EMBL	exon	3563	3859	.	+	.	transcript_id "rna-GHUX1742BS_005733"; gene_id "gene-GHUX1742BS_005733";
+CEYIJT010144171.1	EMBL	exon	3948	4039	.	+	.	transcript_id "rna-GHUX1742BS_005733"; gene_id "gene-GHUX1742BS_005733";
+CEYIJT010144171.1	EMBL	exon	4112	5204	.	+	.	transcript_id "rna-GHUX1742BS_005733"; gene_id "gene-GHUX1742BS_005733";
+CEYIJT010144171.1	EMBL	exon	5330	6762	.	+	.	transcript_id "rna-GHUX1742BS_005733"; gene_id "gene-GHUX1742BS_005733";
+CEYIJT010144171.1	EMBL	CDS	3608	3859	.	+	0	transcript_id "rna-GHUX1742BS_005733"; gene_id "gene-GHUX1742BS_005733";
+CEYIJT010144171.1	EMBL	CDS	3948	4039	.	+	0	transcript_id "rna-GHUX1742BS_005733"; gene_id "gene-GHUX1742BS_005733";
+CEYIJT010144171.1	EMBL	CDS	4112	5204	.	+	1	transcript_id "rna-GHUX1742BS_005733"; gene_id "gene-GHUX1742BS_005733";
+CEYIJT010144171.1	EMBL	CDS	5330	5488	.	+	0	transcript_id "rna-GHUX1742BS_005733"; gene_id "gene-GHUX1742BS_005733";
+CEYIJT010144260.1	EMBL	transcript	1651	4374	.	-	.	transcript_id "rna-GHUX1742BS_006171"; gene_id "gene-GHUX1742BS_006171"
+CEYIJT010144260.1	EMBL	exon	1651	2167	.	-	.	transcript_id "rna-GHUX1742BS_006171"; gene_id "gene-GHUX1742BS_006171";
+CEYIJT010144260.1	EMBL	exon	2350	2459	.	-	.	transcript_id "rna-GHUX1742BS_006171"; gene_id "gene-GHUX1742BS_006171";
+CEYIJT010144260.1	EMBL	exon	2655	2683	.	-	.	transcript_id "rna-GHUX1742BS_006171"; gene_id "gene-GHUX1742BS_006171";
+CEYIJT010144260.1	EMBL	exon	2789	3046	.	-	.	transcript_id "rna-GHUX1742BS_006171"; gene_id "gene-GHUX1742BS_006171";
+CEYIJT010144260.1	EMBL	exon	3186	3501	.	-	.	transcript_id "rna-GHUX1742BS_006171"; gene_id "gene-GHUX1742BS_006171";
+CEYIJT010144260.1	EMBL	exon	3718	4374	.	-	.	transcript_id "rna-GHUX1742BS_006171"; gene_id "gene-GHUX1742BS_006171";
+CEYIJT010144260.1	EMBL	CDS	1651	2167	.	-	1	transcript_id "rna-GHUX1742BS_006171"; gene_id "gene-GHUX1742BS_006171";
+CEYIJT010144260.1	EMBL	CDS	2350	2459	.	-	0	transcript_id "rna-GHUX1742BS_006171"; gene_id "gene-GHUX1742BS_006171";
+CEYIJT010144260.1	EMBL	CDS	2655	2683	.	-	2	transcript_id "rna-GHUX1742BS_006171"; gene_id "gene-GHUX1742BS_006171";
+CEYIJT010144260.1	EMBL	CDS	2789	3046	.	-	2	transcript_id "rna-GHUX1742BS_006171"; gene_id "gene-GHUX1742BS_006171";
+CEYIJT010144260.1	EMBL	CDS	3186	3501	.	-	0	transcript_id "rna-GHUX1742BS_006171"; gene_id "gene-GHUX1742BS_006171";
+CEYIJT010144260.1	EMBL	CDS	3718	4374	.	-	0	transcript_id "rna-GHUX1742BS_006171"; gene_id "gene-GHUX1742BS_006171";
+CEYIJT010144305.1	EMBL	transcript	88	2346	.	+	.	transcript_id "rna-GHUX1742BS_006402"; gene_id "gene-GHUX1742BS_006402"; gene_name "DPH1"
+CEYIJT010144305.1	EMBL	exon	88	588	.	+	.	transcript_id "rna-GHUX1742BS_006402"; gene_id "gene-GHUX1742BS_006402"; gene_name "DPH1";
+CEYIJT010144305.1	EMBL	exon	662	1084	.	+	.	transcript_id "rna-GHUX1742BS_006402"; gene_id "gene-GHUX1742BS_006402"; gene_name "DPH1";
+CEYIJT010144305.1	EMBL	exon	1160	1438	.	+	.	transcript_id "rna-GHUX1742BS_006402"; gene_id "gene-GHUX1742BS_006402"; gene_name "DPH1";
+CEYIJT010144305.1	EMBL	exon	1513	2346	.	+	.	transcript_id "rna-GHUX1742BS_006402"; gene_id "gene-GHUX1742BS_006402"; gene_name "DPH1";
+CEYIJT010144305.1	EMBL	CDS	109	588	.	+	0	transcript_id "rna-GHUX1742BS_006402"; gene_id "gene-GHUX1742BS_006402"; gene_name "DPH1";
+CEYIJT010144305.1	EMBL	CDS	662	1084	.	+	0	transcript_id "rna-GHUX1742BS_006402"; gene_id "gene-GHUX1742BS_006402"; gene_name "DPH1";
+CEYIJT010144305.1	EMBL	CDS	1160	1438	.	+	0	transcript_id "rna-GHUX1742BS_006402"; gene_id "gene-GHUX1742BS_006402"; gene_name "DPH1";
+CEYIJT010144305.1	EMBL	CDS	1513	2346	.	+	0	transcript_id "rna-GHUX1742BS_006402"; gene_id "gene-GHUX1742BS_006402"; gene_name "DPH1";
+CEYIJT010144399.1	EMBL	transcript	3864	5421	.	-	.	transcript_id "rna-GHUX1742BS_006866"; gene_id "gene-GHUX1742BS_006866"; gene_name "sap62"
+CEYIJT010144399.1	EMBL	exon	3864	4123	.	-	.	transcript_id "rna-GHUX1742BS_006866"; gene_id "gene-GHUX1742BS_006866"; gene_name "sap62";
+CEYIJT010144399.1	EMBL	exon	4304	4390	.	-	.	transcript_id "rna-GHUX1742BS_006866"; gene_id "gene-GHUX1742BS_006866"; gene_name "sap62";
+CEYIJT010144399.1	EMBL	exon	4465	4575	.	-	.	transcript_id "rna-GHUX1742BS_006866"; gene_id "gene-GHUX1742BS_006866"; gene_name "sap62";
+CEYIJT010144399.1	EMBL	exon	4734	4883	.	-	.	transcript_id "rna-GHUX1742BS_006866"; gene_id "gene-GHUX1742BS_006866"; gene_name "sap62";
+CEYIJT010144399.1	EMBL	exon	4954	5097	.	-	.	transcript_id "rna-GHUX1742BS_006866"; gene_id "gene-GHUX1742BS_006866"; gene_name "sap62";
+CEYIJT010144399.1	EMBL	exon	5371	5421	.	-	.	transcript_id "rna-GHUX1742BS_006866"; gene_id "gene-GHUX1742BS_006866"; gene_name "sap62";
+CEYIJT010144399.1	EMBL	CDS	3896	4123	.	-	0	transcript_id "rna-GHUX1742BS_006866"; gene_id "gene-GHUX1742BS_006866"; gene_name "sap62";
+CEYIJT010144399.1	EMBL	CDS	4304	4390	.	-	0	transcript_id "rna-GHUX1742BS_006866"; gene_id "gene-GHUX1742BS_006866"; gene_name "sap62";
+CEYIJT010144399.1	EMBL	CDS	4465	4575	.	-	0	transcript_id "rna-GHUX1742BS_006866"; gene_id "gene-GHUX1742BS_006866"; gene_name "sap62";
+CEYIJT010144399.1	EMBL	CDS	4734	4883	.	-	0	transcript_id "rna-GHUX1742BS_006866"; gene_id "gene-GHUX1742BS_006866"; gene_name "sap62";
+CEYIJT010144399.1	EMBL	CDS	4954	5097	.	-	0	transcript_id "rna-GHUX1742BS_006866"; gene_id "gene-GHUX1742BS_006866"; gene_name "sap62";
+CEYIJT010144399.1	EMBL	CDS	5371	5373	.	-	0	transcript_id "rna-GHUX1742BS_006866"; gene_id "gene-GHUX1742BS_006866"; gene_name "sap62";
+CEYIJT010144443.1	EMBL	transcript	4987	6801	.	-	.	transcript_id "rna-GHUX1742BS_007070"; gene_id "gene-GHUX1742BS_007070"; gene_name "RRN3"
+CEYIJT010144443.1	EMBL	exon	4987	6564	.	-	.	transcript_id "rna-GHUX1742BS_007070"; gene_id "gene-GHUX1742BS_007070"; gene_name "RRN3";
+CEYIJT010144443.1	EMBL	exon	6640	6801	.	-	.	transcript_id "rna-GHUX1742BS_007070"; gene_id "gene-GHUX1742BS_007070"; gene_name "RRN3";
+CEYIJT010144443.1	EMBL	CDS	4987	6564	.	-	0	transcript_id "rna-GHUX1742BS_007070"; gene_id "gene-GHUX1742BS_007070"; gene_name "RRN3";
+CEYIJT010144443.1	EMBL	CDS	6640	6801	.	-	0	transcript_id "rna-GHUX1742BS_007070"; gene_id "gene-GHUX1742BS_007070"; gene_name "RRN3";
+CEYIJT010144489.1	EMBL	transcript	3979	5471	.	+	.	transcript_id "rna-GHUX1742BS_007305"; gene_id "gene-GHUX1742BS_007305"; gene_name "SRP72_1"
+CEYIJT010144489.1	EMBL	exon	3979	4634	.	+	.	transcript_id "rna-GHUX1742BS_007305"; gene_id "gene-GHUX1742BS_007305"; gene_name "SRP72_1";
+CEYIJT010144489.1	EMBL	exon	4987	5060	.	+	.	transcript_id "rna-GHUX1742BS_007305"; gene_id "gene-GHUX1742BS_007305"; gene_name "SRP72_1";
+CEYIJT010144489.1	EMBL	exon	5331	5471	.	+	.	transcript_id "rna-GHUX1742BS_007305"; gene_id "gene-GHUX1742BS_007305"; gene_name "SRP72_1";
+CEYIJT010144489.1	EMBL	CDS	4004	4634	.	+	0	transcript_id "rna-GHUX1742BS_007305"; gene_id "gene-GHUX1742BS_007305"; gene_name "SRP72_1";
+CEYIJT010144489.1	EMBL	CDS	4987	5060	.	+	2	transcript_id "rna-GHUX1742BS_007305"; gene_id "gene-GHUX1742BS_007305"; gene_name "SRP72_1";
+CEYIJT010144489.1	EMBL	CDS	5331	5471	.	+	0	transcript_id "rna-GHUX1742BS_007305"; gene_id "gene-GHUX1742BS_007305"; gene_name "SRP72_1";
+CEYIJT010144629.1	EMBL	transcript	2105	5794	.	-	.	transcript_id "rna-GHUX1742BS_007934"; gene_id "gene-GHUX1742BS_007934"; gene_name "SWC4"
+CEYIJT010144629.1	EMBL	exon	2105	2340	.	-	.	transcript_id "rna-GHUX1742BS_007934"; gene_id "gene-GHUX1742BS_007934"; gene_name "SWC4";
+CEYIJT010144629.1	EMBL	exon	2497	3307	.	-	.	transcript_id "rna-GHUX1742BS_007934"; gene_id "gene-GHUX1742BS_007934"; gene_name "SWC4";
+CEYIJT010144629.1	EMBL	exon	3416	3462	.	-	.	transcript_id "rna-GHUX1742BS_007934"; gene_id "gene-GHUX1742BS_007934"; gene_name "SWC4";
+CEYIJT010144629.1	EMBL	exon	3564	3637	.	-	.	transcript_id "rna-GHUX1742BS_007934"; gene_id "gene-GHUX1742BS_007934"; gene_name "SWC4";
+CEYIJT010144629.1	EMBL	exon	3773	3960	.	-	.	transcript_id "rna-GHUX1742BS_007934"; gene_id "gene-GHUX1742BS_007934"; gene_name "SWC4";
+CEYIJT010144629.1	EMBL	exon	4044	4187	.	-	.	transcript_id "rna-GHUX1742BS_007934"; gene_id "gene-GHUX1742BS_007934"; gene_name "SWC4";
+CEYIJT010144629.1	EMBL	exon	4349	4513	.	-	.	transcript_id "rna-GHUX1742BS_007934"; gene_id "gene-GHUX1742BS_007934"; gene_name "SWC4";
+CEYIJT010144629.1	EMBL	exon	4662	4727	.	-	.	transcript_id "rna-GHUX1742BS_007934"; gene_id "gene-GHUX1742BS_007934"; gene_name "SWC4";
+CEYIJT010144629.1	EMBL	exon	4999	5127	.	-	.	transcript_id "rna-GHUX1742BS_007934"; gene_id "gene-GHUX1742BS_007934"; gene_name "SWC4";
+CEYIJT010144629.1	EMBL	exon	5197	5259	.	-	.	transcript_id "rna-GHUX1742BS_007934"; gene_id "gene-GHUX1742BS_007934"; gene_name "SWC4";
+CEYIJT010144629.1	EMBL	exon	5339	5794	.	-	.	transcript_id "rna-GHUX1742BS_007934"; gene_id "gene-GHUX1742BS_007934"; gene_name "SWC4";
+CEYIJT010144629.1	EMBL	CDS	2105	2340	.	-	2	transcript_id "rna-GHUX1742BS_007934"; gene_id "gene-GHUX1742BS_007934"; gene_name "SWC4";
+CEYIJT010144629.1	EMBL	CDS	2497	3307	.	-	0	transcript_id "rna-GHUX1742BS_007934"; gene_id "gene-GHUX1742BS_007934"; gene_name "SWC4";
+CEYIJT010144629.1	EMBL	CDS	3416	3462	.	-	2	transcript_id "rna-GHUX1742BS_007934"; gene_id "gene-GHUX1742BS_007934"; gene_name "SWC4";
+CEYIJT010144629.1	EMBL	CDS	3564	3637	.	-	1	transcript_id "rna-GHUX1742BS_007934"; gene_id "gene-GHUX1742BS_007934"; gene_name "SWC4";
+CEYIJT010144629.1	EMBL	CDS	3773	3960	.	-	0	transcript_id "rna-GHUX1742BS_007934"; gene_id "gene-GHUX1742BS_007934"; gene_name "SWC4";
+CEYIJT010144629.1	EMBL	CDS	4044	4187	.	-	0	transcript_id "rna-GHUX1742BS_007934"; gene_id "gene-GHUX1742BS_007934"; gene_name "SWC4";
+CEYIJT010144629.1	EMBL	CDS	4349	4513	.	-	0	transcript_id "rna-GHUX1742BS_007934"; gene_id "gene-GHUX1742BS_007934"; gene_name "SWC4";
+CEYIJT010144629.1	EMBL	CDS	4662	4727	.	-	0	transcript_id "rna-GHUX1742BS_007934"; gene_id "gene-GHUX1742BS_007934"; gene_name "SWC4";
+CEYIJT010144629.1	EMBL	CDS	4999	5127	.	-	0	transcript_id "rna-GHUX1742BS_007934"; gene_id "gene-GHUX1742BS_007934"; gene_name "SWC4";
+CEYIJT010144629.1	EMBL	CDS	5197	5259	.	-	0	transcript_id "rna-GHUX1742BS_007934"; gene_id "gene-GHUX1742BS_007934"; gene_name "SWC4";
+CEYIJT010144629.1	EMBL	CDS	5339	5794	.	-	0	transcript_id "rna-GHUX1742BS_007934"; gene_id "gene-GHUX1742BS_007934"; gene_name "SWC4";
+CEYIJT010144662.1	EMBL	transcript	3184	4691	.	+	.	transcript_id "rna-GHUX1742BS_008099-2"; gene_id "gene-GHUX1742BS_008099"; gene_name "rpc25"
+CEYIJT010144662.1	EMBL	exon	3184	3387	.	+	.	transcript_id "rna-GHUX1742BS_008099-2"; gene_id "gene-GHUX1742BS_008099"; gene_name "rpc25";
+CEYIJT010144662.1	EMBL	exon	3461	3593	.	+	.	transcript_id "rna-GHUX1742BS_008099-2"; gene_id "gene-GHUX1742BS_008099"; gene_name "rpc25";
+CEYIJT010144662.1	EMBL	exon	3690	3778	.	+	.	transcript_id "rna-GHUX1742BS_008099-2"; gene_id "gene-GHUX1742BS_008099"; gene_name "rpc25";
+CEYIJT010144662.1	EMBL	exon	3850	3897	.	+	.	transcript_id "rna-GHUX1742BS_008099-2"; gene_id "gene-GHUX1742BS_008099"; gene_name "rpc25";
+CEYIJT010144662.1	EMBL	exon	4004	4075	.	+	.	transcript_id "rna-GHUX1742BS_008099-2"; gene_id "gene-GHUX1742BS_008099"; gene_name "rpc25";
+CEYIJT010144662.1	EMBL	exon	4147	4691	.	+	.	transcript_id "rna-GHUX1742BS_008099-2"; gene_id "gene-GHUX1742BS_008099"; gene_name "rpc25";
+CEYIJT010144662.1	EMBL	CDS	3277	3387	.	+	0	transcript_id "rna-GHUX1742BS_008099-2"; gene_id "gene-GHUX1742BS_008099"; gene_name "rpc25";
+CEYIJT010144662.1	EMBL	CDS	3461	3593	.	+	0	transcript_id "rna-GHUX1742BS_008099-2"; gene_id "gene-GHUX1742BS_008099"; gene_name "rpc25";
+CEYIJT010144662.1	EMBL	CDS	3690	3778	.	+	2	transcript_id "rna-GHUX1742BS_008099-2"; gene_id "gene-GHUX1742BS_008099"; gene_name "rpc25";
+CEYIJT010144662.1	EMBL	CDS	3850	3897	.	+	0	transcript_id "rna-GHUX1742BS_008099-2"; gene_id "gene-GHUX1742BS_008099"; gene_name "rpc25";
+CEYIJT010144662.1	EMBL	CDS	4004	4075	.	+	0	transcript_id "rna-GHUX1742BS_008099-2"; gene_id "gene-GHUX1742BS_008099"; gene_name "rpc25";
+CEYIJT010144662.1	EMBL	CDS	4147	4320	.	+	0	transcript_id "rna-GHUX1742BS_008099-2"; gene_id "gene-GHUX1742BS_008099"; gene_name "rpc25";
+CEYIJT010144706.1	EMBL	transcript	243	1540	.	+	.	transcript_id "rna-GHUX1742BS_008302"; gene_id "gene-GHUX1742BS_008302"; gene_name "TSR3"
+CEYIJT010144706.1	EMBL	exon	243	1250	.	+	.	transcript_id "rna-GHUX1742BS_008302"; gene_id "gene-GHUX1742BS_008302"; gene_name "TSR3";
+CEYIJT010144706.1	EMBL	exon	1295	1540	.	+	.	transcript_id "rna-GHUX1742BS_008302"; gene_id "gene-GHUX1742BS_008302"; gene_name "TSR3";
+CEYIJT010144706.1	EMBL	CDS	243	1250	.	+	0	transcript_id "rna-GHUX1742BS_008302"; gene_id "gene-GHUX1742BS_008302"; gene_name "TSR3";
+CEYIJT010144706.1	EMBL	CDS	1295	1540	.	+	0	transcript_id "rna-GHUX1742BS_008302"; gene_id "gene-GHUX1742BS_008302"; gene_name "TSR3";
+CEYIJT010144796.1	EMBL	transcript	3857	4765	.	+	.	transcript_id "rna-GHUX1742BS_008704"; gene_id "gene-GHUX1742BS_008704"
+CEYIJT010144796.1	EMBL	exon	3857	4071	.	+	.	transcript_id "rna-GHUX1742BS_008704"; gene_id "gene-GHUX1742BS_008704";
+CEYIJT010144796.1	EMBL	exon	4126	4765	.	+	.	transcript_id "rna-GHUX1742BS_008704"; gene_id "gene-GHUX1742BS_008704";
+CEYIJT010144796.1	EMBL	CDS	3857	4071	.	+	0	transcript_id "rna-GHUX1742BS_008704"; gene_id "gene-GHUX1742BS_008704";
+CEYIJT010144796.1	EMBL	CDS	4126	4765	.	+	1	transcript_id "rna-GHUX1742BS_008704"; gene_id "gene-GHUX1742BS_008704";
+CEYIJT010145000.1	EMBL	transcript	3395	5292	.	-	.	transcript_id "rna-GHUX1742BS_009584"; gene_id "gene-GHUX1742BS_009584"; gene_name "SURF1"
+CEYIJT010145000.1	EMBL	exon	3395	4096	.	-	.	transcript_id "rna-GHUX1742BS_009584"; gene_id "gene-GHUX1742BS_009584"; gene_name "SURF1";
+CEYIJT010145000.1	EMBL	exon	4163	4828	.	-	.	transcript_id "rna-GHUX1742BS_009584"; gene_id "gene-GHUX1742BS_009584"; gene_name "SURF1";
+CEYIJT010145000.1	EMBL	exon	4909	5292	.	-	.	transcript_id "rna-GHUX1742BS_009584"; gene_id "gene-GHUX1742BS_009584"; gene_name "SURF1";
+CEYIJT010145000.1	EMBL	CDS	4025	4096	.	-	0	transcript_id "rna-GHUX1742BS_009584"; gene_id "gene-GHUX1742BS_009584"; gene_name "SURF1";
+CEYIJT010145000.1	EMBL	CDS	4163	4828	.	-	0	transcript_id "rna-GHUX1742BS_009584"; gene_id "gene-GHUX1742BS_009584"; gene_name "SURF1";
+CEYIJT010145000.1	EMBL	CDS	4909	5292	.	-	0	transcript_id "rna-GHUX1742BS_009584"; gene_id "gene-GHUX1742BS_009584"; gene_name "SURF1";
+CEYIJT010145026.1	EMBL	transcript	1	4584	.	+	.	transcript_id "rna-GHUX1742BS_009689"; gene_id "gene-GHUX1742BS_009689"; gene_name "NCBP1_1"
+CEYIJT010145026.1	EMBL	exon	1	666	.	+	.	transcript_id "rna-GHUX1742BS_009689"; gene_id "gene-GHUX1742BS_009689"; gene_name "NCBP1_1";
+CEYIJT010145026.1	EMBL	exon	1653	2024	.	+	.	transcript_id "rna-GHUX1742BS_009689"; gene_id "gene-GHUX1742BS_009689"; gene_name "NCBP1_1";
+CEYIJT010145026.1	EMBL	exon	2206	2785	.	+	.	transcript_id "rna-GHUX1742BS_009689"; gene_id "gene-GHUX1742BS_009689"; gene_name "NCBP1_1";
+CEYIJT010145026.1	EMBL	exon	2859	2965	.	+	.	transcript_id "rna-GHUX1742BS_009689"; gene_id "gene-GHUX1742BS_009689"; gene_name "NCBP1_1";
+CEYIJT010145026.1	EMBL	exon	3304	3360	.	+	.	transcript_id "rna-GHUX1742BS_009689"; gene_id "gene-GHUX1742BS_009689"; gene_name "NCBP1_1";
+CEYIJT010145026.1	EMBL	exon	3431	3705	.	+	.	transcript_id "rna-GHUX1742BS_009689"; gene_id "gene-GHUX1742BS_009689"; gene_name "NCBP1_1";
+CEYIJT010145026.1	EMBL	exon	3779	4003	.	+	.	transcript_id "rna-GHUX1742BS_009689"; gene_id "gene-GHUX1742BS_009689"; gene_name "NCBP1_1";
+CEYIJT010145026.1	EMBL	exon	4080	4584	.	+	.	transcript_id "rna-GHUX1742BS_009689"; gene_id "gene-GHUX1742BS_009689"; gene_name "NCBP1_1";
+CEYIJT010145026.1	EMBL	CDS	1	666	.	+	0	transcript_id "rna-GHUX1742BS_009689"; gene_id "gene-GHUX1742BS_009689"; gene_name "NCBP1_1";
+CEYIJT010145026.1	EMBL	CDS	1653	2024	.	+	0	transcript_id "rna-GHUX1742BS_009689"; gene_id "gene-GHUX1742BS_009689"; gene_name "NCBP1_1";
+CEYIJT010145026.1	EMBL	CDS	2206	2785	.	+	0	transcript_id "rna-GHUX1742BS_009689"; gene_id "gene-GHUX1742BS_009689"; gene_name "NCBP1_1";
+CEYIJT010145026.1	EMBL	CDS	2859	2965	.	+	2	transcript_id "rna-GHUX1742BS_009689"; gene_id "gene-GHUX1742BS_009689"; gene_name "NCBP1_1";
+CEYIJT010145026.1	EMBL	CDS	3304	3360	.	+	0	transcript_id "rna-GHUX1742BS_009689"; gene_id "gene-GHUX1742BS_009689"; gene_name "NCBP1_1";
+CEYIJT010145026.1	EMBL	CDS	3431	3705	.	+	0	transcript_id "rna-GHUX1742BS_009689"; gene_id "gene-GHUX1742BS_009689"; gene_name "NCBP1_1";
+CEYIJT010145026.1	EMBL	CDS	3779	4003	.	+	1	transcript_id "rna-GHUX1742BS_009689"; gene_id "gene-GHUX1742BS_009689"; gene_name "NCBP1_1";
+CEYIJT010145026.1	EMBL	CDS	4080	4392	.	+	1	transcript_id "rna-GHUX1742BS_009689"; gene_id "gene-GHUX1742BS_009689"; gene_name "NCBP1_1";
+CEYIJT010145205.1	EMBL	transcript	2357	5501	.	-	.	transcript_id "rna-GHUX1742BS_010420"; gene_id "gene-GHUX1742BS_010420"; gene_name "SDAD1"
+CEYIJT010145205.1	EMBL	exon	2357	2662	.	-	.	transcript_id "rna-GHUX1742BS_010420"; gene_id "gene-GHUX1742BS_010420"; gene_name "SDAD1";
+CEYIJT010145205.1	EMBL	exon	2738	2855	.	-	.	transcript_id "rna-GHUX1742BS_010420"; gene_id "gene-GHUX1742BS_010420"; gene_name "SDAD1";
+CEYIJT010145205.1	EMBL	exon	3056	3174	.	-	.	transcript_id "rna-GHUX1742BS_010420"; gene_id "gene-GHUX1742BS_010420"; gene_name "SDAD1";
+CEYIJT010145205.1	EMBL	exon	3466	3861	.	-	.	transcript_id "rna-GHUX1742BS_010420"; gene_id "gene-GHUX1742BS_010420"; gene_name "SDAD1";
+CEYIJT010145205.1	EMBL	exon	3941	4132	.	-	.	transcript_id "rna-GHUX1742BS_010420"; gene_id "gene-GHUX1742BS_010420"; gene_name "SDAD1";
+CEYIJT010145205.1	EMBL	exon	4306	4440	.	-	.	transcript_id "rna-GHUX1742BS_010420"; gene_id "gene-GHUX1742BS_010420"; gene_name "SDAD1";
+CEYIJT010145205.1	EMBL	exon	4510	4590	.	-	.	transcript_id "rna-GHUX1742BS_010420"; gene_id "gene-GHUX1742BS_010420"; gene_name "SDAD1";
+CEYIJT010145205.1	EMBL	exon	4668	5501	.	-	.	transcript_id "rna-GHUX1742BS_010420"; gene_id "gene-GHUX1742BS_010420"; gene_name "SDAD1";
+CEYIJT010145205.1	EMBL	CDS	2357	2662	.	-	0	transcript_id "rna-GHUX1742BS_010420"; gene_id "gene-GHUX1742BS_010420"; gene_name "SDAD1";
+CEYIJT010145205.1	EMBL	CDS	2738	2855	.	-	1	transcript_id "rna-GHUX1742BS_010420"; gene_id "gene-GHUX1742BS_010420"; gene_name "SDAD1";
+CEYIJT010145205.1	EMBL	CDS	3056	3174	.	-	0	transcript_id "rna-GHUX1742BS_010420"; gene_id "gene-GHUX1742BS_010420"; gene_name "SDAD1";
+CEYIJT010145205.1	EMBL	CDS	3466	3861	.	-	0	transcript_id "rna-GHUX1742BS_010420"; gene_id "gene-GHUX1742BS_010420"; gene_name "SDAD1";
+CEYIJT010145205.1	EMBL	CDS	3941	4132	.	-	0	transcript_id "rna-GHUX1742BS_010420"; gene_id "gene-GHUX1742BS_010420"; gene_name "SDAD1";
+CEYIJT010145205.1	EMBL	CDS	4306	4440	.	-	0	transcript_id "rna-GHUX1742BS_010420"; gene_id "gene-GHUX1742BS_010420"; gene_name "SDAD1";
+CEYIJT010145205.1	EMBL	CDS	4510	4590	.	-	0	transcript_id "rna-GHUX1742BS_010420"; gene_id "gene-GHUX1742BS_010420"; gene_name "SDAD1";
+CEYIJT010145205.1	EMBL	CDS	4668	5501	.	-	0	transcript_id "rna-GHUX1742BS_010420"; gene_id "gene-GHUX1742BS_010420"; gene_name "SDAD1";
+CEYIJT010145320.1	EMBL	transcript	2948	4514	.	-	.	transcript_id "rna-GHUX1742BS_010878"; gene_id "gene-GHUX1742BS_010878"; gene_name "WARS2"
+CEYIJT010145320.1	EMBL	exon	2948	3630	.	-	.	transcript_id "rna-GHUX1742BS_010878"; gene_id "gene-GHUX1742BS_010878"; gene_name "WARS2";
+CEYIJT010145320.1	EMBL	exon	3815	3965	.	-	.	transcript_id "rna-GHUX1742BS_010878"; gene_id "gene-GHUX1742BS_010878"; gene_name "WARS2";
+CEYIJT010145320.1	EMBL	exon	4033	4514	.	-	.	transcript_id "rna-GHUX1742BS_010878"; gene_id "gene-GHUX1742BS_010878"; gene_name "WARS2";
+CEYIJT010145320.1	EMBL	CDS	3022	3630	.	-	0	transcript_id "rna-GHUX1742BS_010878"; gene_id "gene-GHUX1742BS_010878"; gene_name "WARS2";
+CEYIJT010145320.1	EMBL	CDS	3815	3965	.	-	1	transcript_id "rna-GHUX1742BS_010878"; gene_id "gene-GHUX1742BS_010878"; gene_name "WARS2";
+CEYIJT010145320.1	EMBL	CDS	4033	4514	.	-	0	transcript_id "rna-GHUX1742BS_010878"; gene_id "gene-GHUX1742BS_010878"; gene_name "WARS2";
+CEYIJT010145701.1	EMBL	transcript	2102	4924	.	-	.	transcript_id "rna-GHUX1742BS_012312"; gene_id "gene-GHUX1742BS_012312"
+CEYIJT010145701.1	EMBL	exon	2102	3187	.	-	.	transcript_id "rna-GHUX1742BS_012312"; gene_id "gene-GHUX1742BS_012312";
+CEYIJT010145701.1	EMBL	exon	3487	3864	.	-	.	transcript_id "rna-GHUX1742BS_012312"; gene_id "gene-GHUX1742BS_012312";
+CEYIJT010145701.1	EMBL	exon	3937	4924	.	-	.	transcript_id "rna-GHUX1742BS_012312"; gene_id "gene-GHUX1742BS_012312";
+CEYIJT010145701.1	EMBL	CDS	2235	3187	.	-	2	transcript_id "rna-GHUX1742BS_012312"; gene_id "gene-GHUX1742BS_012312";
+CEYIJT010145701.1	EMBL	CDS	3487	3864	.	-	2	transcript_id "rna-GHUX1742BS_012312"; gene_id "gene-GHUX1742BS_012312";
+CEYIJT010145701.1	EMBL	CDS	3937	4924	.	-	0	transcript_id "rna-GHUX1742BS_012312"; gene_id "gene-GHUX1742BS_012312";
+CEYIJT010145842.1	EMBL	transcript	1135	2276	.	+	.	transcript_id "rna-GHUX1742BS_012825"; gene_id "gene-GHUX1742BS_012825"; gene_name "EXOSC7"
+CEYIJT010145842.1	EMBL	exon	1135	2276	.	+	.	transcript_id "rna-GHUX1742BS_012825"; gene_id "gene-GHUX1742BS_012825"; gene_name "EXOSC7";
+CEYIJT010145842.1	EMBL	CDS	1167	2072	.	+	0	transcript_id "rna-GHUX1742BS_012825"; gene_id "gene-GHUX1742BS_012825"; gene_name "EXOSC7";
+CEYIJT010145901.1	EMBL	transcript	28	1106	.	+	.	transcript_id "rna-GHUX1742BS_013039"; gene_id "gene-GHUX1742BS_013039"; gene_name "EXOSC3"
+CEYIJT010145901.1	EMBL	exon	28	779	.	+	.	transcript_id "rna-GHUX1742BS_013039"; gene_id "gene-GHUX1742BS_013039"; gene_name "EXOSC3";
+CEYIJT010145901.1	EMBL	exon	983	1106	.	+	.	transcript_id "rna-GHUX1742BS_013039"; gene_id "gene-GHUX1742BS_013039"; gene_name "EXOSC3";
+CEYIJT010145901.1	EMBL	CDS	28	779	.	+	0	transcript_id "rna-GHUX1742BS_013039"; gene_id "gene-GHUX1742BS_013039"; gene_name "EXOSC3";
+CEYIJT010145901.1	EMBL	CDS	983	1106	.	+	1	transcript_id "rna-GHUX1742BS_013039"; gene_id "gene-GHUX1742BS_013039"; gene_name "EXOSC3";
+CEYIJT010146052.1	EMBL	transcript	85	3634	.	-	.	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1"
+CEYIJT010146052.1	EMBL	exon	85	188	.	-	.	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	exon	262	311	.	-	.	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	exon	384	486	.	-	.	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	exon	557	685	.	-	.	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	exon	864	950	.	-	.	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	exon	1022	1084	.	-	.	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	exon	1551	1663	.	-	.	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	exon	1734	1842	.	-	.	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	exon	2086	2127	.	-	.	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	exon	2193	2335	.	-	.	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	exon	2479	2533	.	-	.	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	exon	2620	2648	.	-	.	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	exon	2722	2785	.	-	.	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	exon	2863	3036	.	-	.	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	exon	3088	3180	.	-	.	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	exon	3288	3385	.	-	.	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	exon	3541	3634	.	-	.	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	CDS	85	188	.	-	0	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	CDS	262	311	.	-	2	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	CDS	384	486	.	-	0	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	CDS	557	685	.	-	0	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	CDS	864	950	.	-	0	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	CDS	1022	1084	.	-	0	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	CDS	1551	1663	.	-	2	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	CDS	1734	1842	.	-	0	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	CDS	2086	2127	.	-	0	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	CDS	2193	2335	.	-	2	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	CDS	2479	2533	.	-	0	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	CDS	2620	2648	.	-	2	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	CDS	2722	2785	.	-	0	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	CDS	2863	3036	.	-	0	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	CDS	3088	3180	.	-	0	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	CDS	3288	3385	.	-	2	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146052.1	EMBL	CDS	3541	3634	.	-	0	transcript_id "rna-GHUX1742BS_013568"; gene_id "gene-GHUX1742BS_013568"; gene_name "EIF3L_1";
+CEYIJT010146084.1	EMBL	transcript	501	2333	.	-	.	transcript_id "rna-GHUX1742BS_013667"; gene_id "gene-GHUX1742BS_013667"
+CEYIJT010146084.1	EMBL	exon	501	650	.	-	.	transcript_id "rna-GHUX1742BS_013667"; gene_id "gene-GHUX1742BS_013667";
+CEYIJT010146084.1	EMBL	exon	887	1081	.	-	.	transcript_id "rna-GHUX1742BS_013667"; gene_id "gene-GHUX1742BS_013667";
+CEYIJT010146084.1	EMBL	exon	1338	1476	.	-	.	transcript_id "rna-GHUX1742BS_013667"; gene_id "gene-GHUX1742BS_013667";
+CEYIJT010146084.1	EMBL	exon	1554	1610	.	-	.	transcript_id "rna-GHUX1742BS_013667"; gene_id "gene-GHUX1742BS_013667";
+CEYIJT010146084.1	EMBL	exon	1832	1898	.	-	.	transcript_id "rna-GHUX1742BS_013667"; gene_id "gene-GHUX1742BS_013667";
+CEYIJT010146084.1	EMBL	exon	2045	2333	.	-	.	transcript_id "rna-GHUX1742BS_013667"; gene_id "gene-GHUX1742BS_013667";
+CEYIJT010146084.1	EMBL	CDS	501	650	.	-	0	transcript_id "rna-GHUX1742BS_013667"; gene_id "gene-GHUX1742BS_013667";
+CEYIJT010146084.1	EMBL	CDS	887	1081	.	-	0	transcript_id "rna-GHUX1742BS_013667"; gene_id "gene-GHUX1742BS_013667";
+CEYIJT010146084.1	EMBL	CDS	1338	1476	.	-	1	transcript_id "rna-GHUX1742BS_013667"; gene_id "gene-GHUX1742BS_013667";
+CEYIJT010146084.1	EMBL	CDS	1554	1610	.	-	1	transcript_id "rna-GHUX1742BS_013667"; gene_id "gene-GHUX1742BS_013667";
+CEYIJT010146084.1	EMBL	CDS	1832	1898	.	-	2	transcript_id "rna-GHUX1742BS_013667"; gene_id "gene-GHUX1742BS_013667";
+CEYIJT010146084.1	EMBL	CDS	2045	2333	.	-	0	transcript_id "rna-GHUX1742BS_013667"; gene_id "gene-GHUX1742BS_013667";
+CEYIJT010146105.1	EMBL	transcript	1072	2147	.	+	.	transcript_id "rna-GHUX1742BS_013737"; gene_id "gene-GHUX1742BS_013737"; gene_name "GINS4"
+CEYIJT010146105.1	EMBL	exon	1072	1529	.	+	.	transcript_id "rna-GHUX1742BS_013737"; gene_id "gene-GHUX1742BS_013737"; gene_name "GINS4";
+CEYIJT010146105.1	EMBL	exon	1803	2147	.	+	.	transcript_id "rna-GHUX1742BS_013737"; gene_id "gene-GHUX1742BS_013737"; gene_name "GINS4";
+CEYIJT010146105.1	EMBL	CDS	1134	1529	.	+	0	transcript_id "rna-GHUX1742BS_013737"; gene_id "gene-GHUX1742BS_013737"; gene_name "GINS4";
+CEYIJT010146105.1	EMBL	CDS	1803	1991	.	+	0	transcript_id "rna-GHUX1742BS_013737"; gene_id "gene-GHUX1742BS_013737"; gene_name "GINS4";
+CEYIJT010146365.1	EMBL	transcript	1123	4256	.	-	.	transcript_id "rna-GHUX1742BS_014619"; gene_id "gene-GHUX1742BS_014619"
+CEYIJT010146365.1	EMBL	exon	1123	1287	.	-	.	transcript_id "rna-GHUX1742BS_014619"; gene_id "gene-GHUX1742BS_014619";
+CEYIJT010146365.1	EMBL	exon	1430	1707	.	-	.	transcript_id "rna-GHUX1742BS_014619"; gene_id "gene-GHUX1742BS_014619";
+CEYIJT010146365.1	EMBL	exon	1783	2028	.	-	.	transcript_id "rna-GHUX1742BS_014619"; gene_id "gene-GHUX1742BS_014619";
+CEYIJT010146365.1	EMBL	exon	2260	2374	.	-	.	transcript_id "rna-GHUX1742BS_014619"; gene_id "gene-GHUX1742BS_014619";
+CEYIJT010146365.1	EMBL	exon	2624	2823	.	-	.	transcript_id "rna-GHUX1742BS_014619"; gene_id "gene-GHUX1742BS_014619";
+CEYIJT010146365.1	EMBL	exon	2910	3340	.	-	.	transcript_id "rna-GHUX1742BS_014619"; gene_id "gene-GHUX1742BS_014619";
+CEYIJT010146365.1	EMBL	exon	3502	4256	.	-	.	transcript_id "rna-GHUX1742BS_014619"; gene_id "gene-GHUX1742BS_014619";
+CEYIJT010146365.1	EMBL	CDS	1123	1287	.	-	0	transcript_id "rna-GHUX1742BS_014619"; gene_id "gene-GHUX1742BS_014619";
+CEYIJT010146365.1	EMBL	CDS	1430	1707	.	-	2	transcript_id "rna-GHUX1742BS_014619"; gene_id "gene-GHUX1742BS_014619";
+CEYIJT010146365.1	EMBL	CDS	1783	2028	.	-	2	transcript_id "rna-GHUX1742BS_014619"; gene_id "gene-GHUX1742BS_014619";
+CEYIJT010146365.1	EMBL	CDS	2260	2374	.	-	0	transcript_id "rna-GHUX1742BS_014619"; gene_id "gene-GHUX1742BS_014619";
+CEYIJT010146365.1	EMBL	CDS	2624	2823	.	-	2	transcript_id "rna-GHUX1742BS_014619"; gene_id "gene-GHUX1742BS_014619";
+CEYIJT010146365.1	EMBL	CDS	2910	3340	.	-	1	transcript_id "rna-GHUX1742BS_014619"; gene_id "gene-GHUX1742BS_014619";
+CEYIJT010146365.1	EMBL	CDS	3502	4169	.	-	0	transcript_id "rna-GHUX1742BS_014619"; gene_id "gene-GHUX1742BS_014619";
+CEYIJT010146562.1	EMBL	transcript	23	3139	.	+	.	transcript_id "rna-GHUX1742BS_015231"; gene_id "gene-GHUX1742BS_015231"; gene_name "MCM4"
+CEYIJT010146562.1	EMBL	exon	23	562	.	+	.	transcript_id "rna-GHUX1742BS_015231"; gene_id "gene-GHUX1742BS_015231"; gene_name "MCM4";
+CEYIJT010146562.1	EMBL	exon	732	1092	.	+	.	transcript_id "rna-GHUX1742BS_015231"; gene_id "gene-GHUX1742BS_015231"; gene_name "MCM4";
+CEYIJT010146562.1	EMBL	exon	1183	1407	.	+	.	transcript_id "rna-GHUX1742BS_015231"; gene_id "gene-GHUX1742BS_015231"; gene_name "MCM4";
+CEYIJT010146562.1	EMBL	exon	1486	1563	.	+	.	transcript_id "rna-GHUX1742BS_015231"; gene_id "gene-GHUX1742BS_015231"; gene_name "MCM4";
+CEYIJT010146562.1	EMBL	exon	1638	1754	.	+	.	transcript_id "rna-GHUX1742BS_015231"; gene_id "gene-GHUX1742BS_015231"; gene_name "MCM4";
+CEYIJT010146562.1	EMBL	exon	1828	2061	.	+	.	transcript_id "rna-GHUX1742BS_015231"; gene_id "gene-GHUX1742BS_015231"; gene_name "MCM4";
+CEYIJT010146562.1	EMBL	exon	2131	2355	.	+	.	transcript_id "rna-GHUX1742BS_015231"; gene_id "gene-GHUX1742BS_015231"; gene_name "MCM4";
+CEYIJT010146562.1	EMBL	exon	2425	2583	.	+	.	transcript_id "rna-GHUX1742BS_015231"; gene_id "gene-GHUX1742BS_015231"; gene_name "MCM4";
+CEYIJT010146562.1	EMBL	exon	2754	3139	.	+	.	transcript_id "rna-GHUX1742BS_015231"; gene_id "gene-GHUX1742BS_015231"; gene_name "MCM4";
+CEYIJT010146562.1	EMBL	CDS	66	562	.	+	0	transcript_id "rna-GHUX1742BS_015231"; gene_id "gene-GHUX1742BS_015231"; gene_name "MCM4";
+CEYIJT010146562.1	EMBL	CDS	732	1092	.	+	1	transcript_id "rna-GHUX1742BS_015231"; gene_id "gene-GHUX1742BS_015231"; gene_name "MCM4";
+CEYIJT010146562.1	EMBL	CDS	1183	1407	.	+	0	transcript_id "rna-GHUX1742BS_015231"; gene_id "gene-GHUX1742BS_015231"; gene_name "MCM4";
+CEYIJT010146562.1	EMBL	CDS	1486	1563	.	+	0	transcript_id "rna-GHUX1742BS_015231"; gene_id "gene-GHUX1742BS_015231"; gene_name "MCM4";
+CEYIJT010146562.1	EMBL	CDS	1638	1754	.	+	0	transcript_id "rna-GHUX1742BS_015231"; gene_id "gene-GHUX1742BS_015231"; gene_name "MCM4";
+CEYIJT010146562.1	EMBL	CDS	1828	2061	.	+	0	transcript_id "rna-GHUX1742BS_015231"; gene_id "gene-GHUX1742BS_015231"; gene_name "MCM4";
+CEYIJT010146562.1	EMBL	CDS	2131	2355	.	+	0	transcript_id "rna-GHUX1742BS_015231"; gene_id "gene-GHUX1742BS_015231"; gene_name "MCM4";
+CEYIJT010146562.1	EMBL	CDS	2425	2583	.	+	0	transcript_id "rna-GHUX1742BS_015231"; gene_id "gene-GHUX1742BS_015231"; gene_name "MCM4";
+CEYIJT010146562.1	EMBL	CDS	2754	3139	.	+	0	transcript_id "rna-GHUX1742BS_015231"; gene_id "gene-GHUX1742BS_015231"; gene_name "MCM4";
+CEYIJT010147066.1	EMBL	transcript	2706	3632	.	+	.	transcript_id "rna-GHUX1742BS_016789"; gene_id "gene-GHUX1742BS_016789"; gene_name "ATG3"
+CEYIJT010147066.1	EMBL	exon	2706	3431	.	+	.	transcript_id "rna-GHUX1742BS_016789"; gene_id "gene-GHUX1742BS_016789"; gene_name "ATG3";
+CEYIJT010147066.1	EMBL	exon	3524	3632	.	+	.	transcript_id "rna-GHUX1742BS_016789"; gene_id "gene-GHUX1742BS_016789"; gene_name "ATG3";
+CEYIJT010147066.1	EMBL	CDS	2706	3431	.	+	0	transcript_id "rna-GHUX1742BS_016789"; gene_id "gene-GHUX1742BS_016789"; gene_name "ATG3";
+CEYIJT010147066.1	EMBL	CDS	3524	3632	.	+	0	transcript_id "rna-GHUX1742BS_016789"; gene_id "gene-GHUX1742BS_016789"; gene_name "ATG3";
+CEYIJT010147230.1	EMBL	transcript	511	1290	.	-	.	transcript_id "rna-GHUX1742BS_017248"; gene_id "gene-GHUX1742BS_017248"; gene_name "SRP68_3"
+CEYIJT010147230.1	EMBL	exon	511	612	.	-	.	transcript_id "rna-GHUX1742BS_017248"; gene_id "gene-GHUX1742BS_017248"; gene_name "SRP68_3";
+CEYIJT010147230.1	EMBL	exon	685	1290	.	-	.	transcript_id "rna-GHUX1742BS_017248"; gene_id "gene-GHUX1742BS_017248"; gene_name "SRP68_3";
+CEYIJT010147230.1	EMBL	CDS	511	612	.	-	0	transcript_id "rna-GHUX1742BS_017248"; gene_id "gene-GHUX1742BS_017248"; gene_name "SRP68_3";
+CEYIJT010147230.1	EMBL	CDS	685	1290	.	-	0	transcript_id "rna-GHUX1742BS_017248"; gene_id "gene-GHUX1742BS_017248"; gene_name "SRP68_3";
+CEYIJT010147320.1	EMBL	transcript	789	3207	.	-	.	transcript_id "rna-GHUX1742BS_017497"; gene_id "gene-GHUX1742BS_017497"
+CEYIJT010147320.1	EMBL	exon	789	865	.	-	.	transcript_id "rna-GHUX1742BS_017497"; gene_id "gene-GHUX1742BS_017497";
+CEYIJT010147320.1	EMBL	exon	886	995	.	-	.	transcript_id "rna-GHUX1742BS_017497"; gene_id "gene-GHUX1742BS_017497";
+CEYIJT010147320.1	EMBL	exon	1076	1282	.	-	.	transcript_id "rna-GHUX1742BS_017497"; gene_id "gene-GHUX1742BS_017497";
+CEYIJT010147320.1	EMBL	exon	1439	1459	.	-	.	transcript_id "rna-GHUX1742BS_017497"; gene_id "gene-GHUX1742BS_017497";
+CEYIJT010147320.1	EMBL	exon	1525	1544	.	-	.	transcript_id "rna-GHUX1742BS_017497"; gene_id "gene-GHUX1742BS_017497";
+CEYIJT010147320.1	EMBL	exon	1686	1875	.	-	.	transcript_id "rna-GHUX1742BS_017497"; gene_id "gene-GHUX1742BS_017497";
+CEYIJT010147320.1	EMBL	exon	1985	2097	.	-	.	transcript_id "rna-GHUX1742BS_017497"; gene_id "gene-GHUX1742BS_017497";
+CEYIJT010147320.1	EMBL	exon	2590	3207	.	-	.	transcript_id "rna-GHUX1742BS_017497"; gene_id "gene-GHUX1742BS_017497";
+CEYIJT010147320.1	EMBL	CDS	789	865	.	-	2	transcript_id "rna-GHUX1742BS_017497"; gene_id "gene-GHUX1742BS_017497";
+CEYIJT010147320.1	EMBL	CDS	886	995	.	-	1	transcript_id "rna-GHUX1742BS_017497"; gene_id "gene-GHUX1742BS_017497";
+CEYIJT010147320.1	EMBL	CDS	1076	1282	.	-	1	transcript_id "rna-GHUX1742BS_017497"; gene_id "gene-GHUX1742BS_017497";
+CEYIJT010147320.1	EMBL	CDS	1439	1459	.	-	1	transcript_id "rna-GHUX1742BS_017497"; gene_id "gene-GHUX1742BS_017497";
+CEYIJT010147320.1	EMBL	CDS	1525	1544	.	-	0	transcript_id "rna-GHUX1742BS_017497"; gene_id "gene-GHUX1742BS_017497";
+CEYIJT010147320.1	EMBL	CDS	1686	1875	.	-	1	transcript_id "rna-GHUX1742BS_017497"; gene_id "gene-GHUX1742BS_017497";
+CEYIJT010147320.1	EMBL	CDS	1985	2097	.	-	0	transcript_id "rna-GHUX1742BS_017497"; gene_id "gene-GHUX1742BS_017497";
+CEYIJT010147320.1	EMBL	CDS	2590	3207	.	-	0	transcript_id "rna-GHUX1742BS_017497"; gene_id "gene-GHUX1742BS_017497";
+CEYIJT010147450.1	EMBL	transcript	242	3439	.	+	.	transcript_id "rna-GHUX1742BS_017867"; gene_id "gene-GHUX1742BS_017867"; gene_name "COG5"
+CEYIJT010147450.1	EMBL	exon	242	872	.	+	.	transcript_id "rna-GHUX1742BS_017867"; gene_id "gene-GHUX1742BS_017867"; gene_name "COG5";
+CEYIJT010147450.1	EMBL	exon	945	1031	.	+	.	transcript_id "rna-GHUX1742BS_017867"; gene_id "gene-GHUX1742BS_017867"; gene_name "COG5";
+CEYIJT010147450.1	EMBL	exon	1178	1243	.	+	.	transcript_id "rna-GHUX1742BS_017867"; gene_id "gene-GHUX1742BS_017867"; gene_name "COG5";
+CEYIJT010147450.1	EMBL	exon	1309	1541	.	+	.	transcript_id "rna-GHUX1742BS_017867"; gene_id "gene-GHUX1742BS_017867"; gene_name "COG5";
+CEYIJT010147450.1	EMBL	exon	1776	1956	.	+	.	transcript_id "rna-GHUX1742BS_017867"; gene_id "gene-GHUX1742BS_017867"; gene_name "COG5";
+CEYIJT010147450.1	EMBL	exon	2028	2766	.	+	.	transcript_id "rna-GHUX1742BS_017867"; gene_id "gene-GHUX1742BS_017867"; gene_name "COG5";
+CEYIJT010147450.1	EMBL	exon	2846	3439	.	+	.	transcript_id "rna-GHUX1742BS_017867"; gene_id "gene-GHUX1742BS_017867"; gene_name "COG5";
+CEYIJT010147450.1	EMBL	CDS	294	872	.	+	0	transcript_id "rna-GHUX1742BS_017867"; gene_id "gene-GHUX1742BS_017867"; gene_name "COG5";
+CEYIJT010147450.1	EMBL	CDS	945	1031	.	+	0	transcript_id "rna-GHUX1742BS_017867"; gene_id "gene-GHUX1742BS_017867"; gene_name "COG5";
+CEYIJT010147450.1	EMBL	CDS	1178	1243	.	+	0	transcript_id "rna-GHUX1742BS_017867"; gene_id "gene-GHUX1742BS_017867"; gene_name "COG5";
+CEYIJT010147450.1	EMBL	CDS	1309	1541	.	+	0	transcript_id "rna-GHUX1742BS_017867"; gene_id "gene-GHUX1742BS_017867"; gene_name "COG5";
+CEYIJT010147450.1	EMBL	CDS	1776	1956	.	+	1	transcript_id "rna-GHUX1742BS_017867"; gene_id "gene-GHUX1742BS_017867"; gene_name "COG5";
+CEYIJT010147450.1	EMBL	CDS	2028	2627	.	+	0	transcript_id "rna-GHUX1742BS_017867"; gene_id "gene-GHUX1742BS_017867"; gene_name "COG5";
+CEYIJT010147573.1	EMBL	transcript	119	2845	.	+	.	transcript_id "rna-GHUX1742BS_018207"; gene_id "gene-GHUX1742BS_018207"; gene_name "DDX55"
+CEYIJT010147573.1	EMBL	exon	119	775	.	+	.	transcript_id "rna-GHUX1742BS_018207"; gene_id "gene-GHUX1742BS_018207"; gene_name "DDX55";
+CEYIJT010147573.1	EMBL	exon	893	1054	.	+	.	transcript_id "rna-GHUX1742BS_018207"; gene_id "gene-GHUX1742BS_018207"; gene_name "DDX55";
+CEYIJT010147573.1	EMBL	exon	1229	1249	.	+	.	transcript_id "rna-GHUX1742BS_018207"; gene_id "gene-GHUX1742BS_018207"; gene_name "DDX55";
+CEYIJT010147573.1	EMBL	exon	1473	1697	.	+	.	transcript_id "rna-GHUX1742BS_018207"; gene_id "gene-GHUX1742BS_018207"; gene_name "DDX55";
+CEYIJT010147573.1	EMBL	exon	1792	2845	.	+	.	transcript_id "rna-GHUX1742BS_018207"; gene_id "gene-GHUX1742BS_018207"; gene_name "DDX55";
+CEYIJT010147573.1	EMBL	CDS	119	775	.	+	0	transcript_id "rna-GHUX1742BS_018207"; gene_id "gene-GHUX1742BS_018207"; gene_name "DDX55";
+CEYIJT010147573.1	EMBL	CDS	893	1054	.	+	0	transcript_id "rna-GHUX1742BS_018207"; gene_id "gene-GHUX1742BS_018207"; gene_name "DDX55";
+CEYIJT010147573.1	EMBL	CDS	1229	1249	.	+	0	transcript_id "rna-GHUX1742BS_018207"; gene_id "gene-GHUX1742BS_018207"; gene_name "DDX55";
+CEYIJT010147573.1	EMBL	CDS	1473	1697	.	+	0	transcript_id "rna-GHUX1742BS_018207"; gene_id "gene-GHUX1742BS_018207"; gene_name "DDX55";
+CEYIJT010147573.1	EMBL	CDS	1792	2568	.	+	0	transcript_id "rna-GHUX1742BS_018207"; gene_id "gene-GHUX1742BS_018207"; gene_name "DDX55";
+CEYIJT010147613.1	EMBL	transcript	101	3393	.	-	.	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324"
+CEYIJT010147613.1	EMBL	exon	101	271	.	-	.	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	exon	348	459	.	-	.	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	exon	530	583	.	-	.	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	exon	653	703	.	-	.	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	exon	792	875	.	-	.	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	exon	950	1046	.	-	.	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	exon	1183	1283	.	-	.	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	exon	1353	1426	.	-	.	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	exon	1517	1604	.	-	.	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	exon	1957	2021	.	-	.	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	exon	2091	2204	.	-	.	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	exon	2309	2380	.	-	.	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	exon	2504	2591	.	-	.	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	exon	2717	2775	.	-	.	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	exon	2845	3393	.	-	.	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	CDS	195	271	.	-	2	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	CDS	348	459	.	-	0	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	CDS	530	583	.	-	0	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	CDS	653	703	.	-	0	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	CDS	792	875	.	-	0	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	CDS	950	1046	.	-	1	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	CDS	1183	1283	.	-	0	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	CDS	1353	1426	.	-	2	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	CDS	1517	1604	.	-	0	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	CDS	1957	2021	.	-	2	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	CDS	2091	2204	.	-	2	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	CDS	2309	2380	.	-	2	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	CDS	2504	2591	.	-	0	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	CDS	2717	2775	.	-	2	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147613.1	EMBL	CDS	2845	3055	.	-	0	transcript_id "rna-GHUX1742BS_018324"; gene_id "gene-GHUX1742BS_018324";
+CEYIJT010147911.1	EMBL	transcript	270	3171	.	-	.	transcript_id "rna-GHUX1742BS_019147"; gene_id "gene-GHUX1742BS_019147"; gene_name "VTA1_2"
+CEYIJT010147911.1	EMBL	exon	270	389	.	-	.	transcript_id "rna-GHUX1742BS_019147"; gene_id "gene-GHUX1742BS_019147"; gene_name "VTA1_2";
+CEYIJT010147911.1	EMBL	exon	419	558	.	-	.	transcript_id "rna-GHUX1742BS_019147"; gene_id "gene-GHUX1742BS_019147"; gene_name "VTA1_2";
+CEYIJT010147911.1	EMBL	exon	744	845	.	-	.	transcript_id "rna-GHUX1742BS_019147"; gene_id "gene-GHUX1742BS_019147"; gene_name "VTA1_2";
+CEYIJT010147911.1	EMBL	exon	1196	1232	.	-	.	transcript_id "rna-GHUX1742BS_019147"; gene_id "gene-GHUX1742BS_019147"; gene_name "VTA1_2";
+CEYIJT010147911.1	EMBL	exon	1521	1580	.	-	.	transcript_id "rna-GHUX1742BS_019147"; gene_id "gene-GHUX1742BS_019147"; gene_name "VTA1_2";
+CEYIJT010147911.1	EMBL	exon	2554	2574	.	-	.	transcript_id "rna-GHUX1742BS_019147"; gene_id "gene-GHUX1742BS_019147"; gene_name "VTA1_2";
+CEYIJT010147911.1	EMBL	exon	2642	2689	.	-	.	transcript_id "rna-GHUX1742BS_019147"; gene_id "gene-GHUX1742BS_019147"; gene_name "VTA1_2";
+CEYIJT010147911.1	EMBL	exon	2765	2839	.	-	.	transcript_id "rna-GHUX1742BS_019147"; gene_id "gene-GHUX1742BS_019147"; gene_name "VTA1_2";
+CEYIJT010147911.1	EMBL	exon	2939	2986	.	-	.	transcript_id "rna-GHUX1742BS_019147"; gene_id "gene-GHUX1742BS_019147"; gene_name "VTA1_2";
+CEYIJT010147911.1	EMBL	exon	3058	3171	.	-	.	transcript_id "rna-GHUX1742BS_019147"; gene_id "gene-GHUX1742BS_019147"; gene_name "VTA1_2";
+CEYIJT010147911.1	EMBL	CDS	270	389	.	-	0	transcript_id "rna-GHUX1742BS_019147"; gene_id "gene-GHUX1742BS_019147"; gene_name "VTA1_2";
+CEYIJT010147911.1	EMBL	CDS	419	558	.	-	2	transcript_id "rna-GHUX1742BS_019147"; gene_id "gene-GHUX1742BS_019147"; gene_name "VTA1_2";
+CEYIJT010147911.1	EMBL	CDS	744	845	.	-	2	transcript_id "rna-GHUX1742BS_019147"; gene_id "gene-GHUX1742BS_019147"; gene_name "VTA1_2";
+CEYIJT010147911.1	EMBL	CDS	1196	1232	.	-	0	transcript_id "rna-GHUX1742BS_019147"; gene_id "gene-GHUX1742BS_019147"; gene_name "VTA1_2";
+CEYIJT010147911.1	EMBL	CDS	1521	1580	.	-	0	transcript_id "rna-GHUX1742BS_019147"; gene_id "gene-GHUX1742BS_019147"; gene_name "VTA1_2";
+CEYIJT010147911.1	EMBL	CDS	2554	2574	.	-	0	transcript_id "rna-GHUX1742BS_019147"; gene_id "gene-GHUX1742BS_019147"; gene_name "VTA1_2";
+CEYIJT010147911.1	EMBL	CDS	2642	2689	.	-	0	transcript_id "rna-GHUX1742BS_019147"; gene_id "gene-GHUX1742BS_019147"; gene_name "VTA1_2";
+CEYIJT010147911.1	EMBL	CDS	2765	2839	.	-	0	transcript_id "rna-GHUX1742BS_019147"; gene_id "gene-GHUX1742BS_019147"; gene_name "VTA1_2";
+CEYIJT010147911.1	EMBL	CDS	2939	2986	.	-	0	transcript_id "rna-GHUX1742BS_019147"; gene_id "gene-GHUX1742BS_019147"; gene_name "VTA1_2";
+CEYIJT010147911.1	EMBL	CDS	3058	3171	.	-	0	transcript_id "rna-GHUX1742BS_019147"; gene_id "gene-GHUX1742BS_019147"; gene_name "VTA1_2";
+CEYIJT010148094.1	EMBL	transcript	1450	2979	.	-	.	transcript_id "rna-GHUX1742BS_019607"; gene_id "gene-GHUX1742BS_019607"; gene_name "PAK1IP1_2"
+CEYIJT010148094.1	EMBL	exon	1450	2066	.	-	.	transcript_id "rna-GHUX1742BS_019607"; gene_id "gene-GHUX1742BS_019607"; gene_name "PAK1IP1_2";
+CEYIJT010148094.1	EMBL	exon	2175	2291	.	-	.	transcript_id "rna-GHUX1742BS_019607"; gene_id "gene-GHUX1742BS_019607"; gene_name "PAK1IP1_2";
+CEYIJT010148094.1	EMBL	exon	2361	2979	.	-	.	transcript_id "rna-GHUX1742BS_019607"; gene_id "gene-GHUX1742BS_019607"; gene_name "PAK1IP1_2";
+CEYIJT010148094.1	EMBL	CDS	1756	2066	.	-	2	transcript_id "rna-GHUX1742BS_019607"; gene_id "gene-GHUX1742BS_019607"; gene_name "PAK1IP1_2";
+CEYIJT010148094.1	EMBL	CDS	2175	2291	.	-	2	transcript_id "rna-GHUX1742BS_019607"; gene_id "gene-GHUX1742BS_019607"; gene_name "PAK1IP1_2";
+CEYIJT010148094.1	EMBL	CDS	2361	2979	.	-	0	transcript_id "rna-GHUX1742BS_019607"; gene_id "gene-GHUX1742BS_019607"; gene_name "PAK1IP1_2";
+CEYIJT010148187.1	EMBL	transcript	92	1332	.	+	.	transcript_id "rna-GHUX1742BS_019861"; gene_id "gene-GHUX1742BS_019861"; gene_name "UTP11L"
+CEYIJT010148187.1	EMBL	exon	92	252	.	+	.	transcript_id "rna-GHUX1742BS_019861"; gene_id "gene-GHUX1742BS_019861"; gene_name "UTP11L";
+CEYIJT010148187.1	EMBL	exon	328	522	.	+	.	transcript_id "rna-GHUX1742BS_019861"; gene_id "gene-GHUX1742BS_019861"; gene_name "UTP11L";
+CEYIJT010148187.1	EMBL	exon	637	867	.	+	.	transcript_id "rna-GHUX1742BS_019861"; gene_id "gene-GHUX1742BS_019861"; gene_name "UTP11L";
+CEYIJT010148187.1	EMBL	exon	937	1332	.	+	.	transcript_id "rna-GHUX1742BS_019861"; gene_id "gene-GHUX1742BS_019861"; gene_name "UTP11L";
+CEYIJT010148187.1	EMBL	CDS	118	252	.	+	0	transcript_id "rna-GHUX1742BS_019861"; gene_id "gene-GHUX1742BS_019861"; gene_name "UTP11L";
+CEYIJT010148187.1	EMBL	CDS	328	522	.	+	0	transcript_id "rna-GHUX1742BS_019861"; gene_id "gene-GHUX1742BS_019861"; gene_name "UTP11L";
+CEYIJT010148187.1	EMBL	CDS	637	867	.	+	0	transcript_id "rna-GHUX1742BS_019861"; gene_id "gene-GHUX1742BS_019861"; gene_name "UTP11L";
+CEYIJT010148187.1	EMBL	CDS	937	1143	.	+	0	transcript_id "rna-GHUX1742BS_019861"; gene_id "gene-GHUX1742BS_019861"; gene_name "UTP11L";
+CEYIJT010148254.1	EMBL	transcript	557	2408	.	-	.	transcript_id "rna-GHUX1742BS_020033"; gene_id "gene-GHUX1742BS_020033"; gene_name "POLD2_1"
+CEYIJT010148254.1	EMBL	exon	557	631	.	-	.	transcript_id "rna-GHUX1742BS_020033"; gene_id "gene-GHUX1742BS_020033"; gene_name "POLD2_1";
+CEYIJT010148254.1	EMBL	exon	649	759	.	-	.	transcript_id "rna-GHUX1742BS_020033"; gene_id "gene-GHUX1742BS_020033"; gene_name "POLD2_1";
+CEYIJT010148254.1	EMBL	exon	1107	1214	.	-	.	transcript_id "rna-GHUX1742BS_020033"; gene_id "gene-GHUX1742BS_020033"; gene_name "POLD2_1";
+CEYIJT010148254.1	EMBL	exon	1391	1467	.	-	.	transcript_id "rna-GHUX1742BS_020033"; gene_id "gene-GHUX1742BS_020033"; gene_name "POLD2_1";
+CEYIJT010148254.1	EMBL	exon	1904	2014	.	-	.	transcript_id "rna-GHUX1742BS_020033"; gene_id "gene-GHUX1742BS_020033"; gene_name "POLD2_1";
+CEYIJT010148254.1	EMBL	exon	2312	2408	.	-	.	transcript_id "rna-GHUX1742BS_020033"; gene_id "gene-GHUX1742BS_020033"; gene_name "POLD2_1";
+CEYIJT010148254.1	EMBL	CDS	557	631	.	-	0	transcript_id "rna-GHUX1742BS_020033"; gene_id "gene-GHUX1742BS_020033"; gene_name "POLD2_1";
+CEYIJT010148254.1	EMBL	CDS	649	759	.	-	0	transcript_id "rna-GHUX1742BS_020033"; gene_id "gene-GHUX1742BS_020033"; gene_name "POLD2_1";
+CEYIJT010148254.1	EMBL	CDS	1107	1214	.	-	0	transcript_id "rna-GHUX1742BS_020033"; gene_id "gene-GHUX1742BS_020033"; gene_name "POLD2_1";
+CEYIJT010148254.1	EMBL	CDS	1391	1467	.	-	2	transcript_id "rna-GHUX1742BS_020033"; gene_id "gene-GHUX1742BS_020033"; gene_name "POLD2_1";
+CEYIJT010148254.1	EMBL	CDS	1904	2014	.	-	2	transcript_id "rna-GHUX1742BS_020033"; gene_id "gene-GHUX1742BS_020033"; gene_name "POLD2_1";
+CEYIJT010148254.1	EMBL	CDS	2312	2408	.	-	0	transcript_id "rna-GHUX1742BS_020033"; gene_id "gene-GHUX1742BS_020033"; gene_name "POLD2_1";
+CEYIJT010148415.1	EMBL	transcript	111	2820	.	-	.	transcript_id "rna-GHUX1742BS_020436"; gene_id "gene-GHUX1742BS_020436"; gene_name "EIF3H"
+CEYIJT010148415.1	EMBL	exon	111	1461	.	-	.	transcript_id "rna-GHUX1742BS_020436"; gene_id "gene-GHUX1742BS_020436"; gene_name "EIF3H";
+CEYIJT010148415.1	EMBL	exon	1536	1625	.	-	.	transcript_id "rna-GHUX1742BS_020436"; gene_id "gene-GHUX1742BS_020436"; gene_name "EIF3H";
+CEYIJT010148415.1	EMBL	exon	1784	1882	.	-	.	transcript_id "rna-GHUX1742BS_020436"; gene_id "gene-GHUX1742BS_020436"; gene_name "EIF3H";
+CEYIJT010148415.1	EMBL	exon	1974	2648	.	-	.	transcript_id "rna-GHUX1742BS_020436"; gene_id "gene-GHUX1742BS_020436"; gene_name "EIF3H";
+CEYIJT010148415.1	EMBL	exon	2722	2820	.	-	.	transcript_id "rna-GHUX1742BS_020436"; gene_id "gene-GHUX1742BS_020436"; gene_name "EIF3H";
+CEYIJT010148415.1	EMBL	CDS	991	1461	.	-	0	transcript_id "rna-GHUX1742BS_020436"; gene_id "gene-GHUX1742BS_020436"; gene_name "EIF3H";
+CEYIJT010148415.1	EMBL	CDS	1536	1625	.	-	0	transcript_id "rna-GHUX1742BS_020436"; gene_id "gene-GHUX1742BS_020436"; gene_name "EIF3H";
+CEYIJT010148415.1	EMBL	CDS	1784	1882	.	-	0	transcript_id "rna-GHUX1742BS_020436"; gene_id "gene-GHUX1742BS_020436"; gene_name "EIF3H";
+CEYIJT010148415.1	EMBL	CDS	1974	2648	.	-	0	transcript_id "rna-GHUX1742BS_020436"; gene_id "gene-GHUX1742BS_020436"; gene_name "EIF3H";
+CEYIJT010148415.1	EMBL	CDS	2722	2769	.	-	0	transcript_id "rna-GHUX1742BS_020436"; gene_id "gene-GHUX1742BS_020436"; gene_name "EIF3H";
+CEYIJT010148565.1	EMBL	transcript	1449	2904	.	-	.	transcript_id "rna-GHUX1742BS_020802"; gene_id "gene-GHUX1742BS_020802"; gene_name "COQ4"
+CEYIJT010148565.1	EMBL	exon	1449	1719	.	-	.	transcript_id "rna-GHUX1742BS_020802"; gene_id "gene-GHUX1742BS_020802"; gene_name "COQ4";
+CEYIJT010148565.1	EMBL	exon	2163	2904	.	-	.	transcript_id "rna-GHUX1742BS_020802"; gene_id "gene-GHUX1742BS_020802"; gene_name "COQ4";
+CEYIJT010148565.1	EMBL	CDS	1672	1719	.	-	0	transcript_id "rna-GHUX1742BS_020802"; gene_id "gene-GHUX1742BS_020802"; gene_name "COQ4";
+CEYIJT010148565.1	EMBL	CDS	2163	2717	.	-	0	transcript_id "rna-GHUX1742BS_020802"; gene_id "gene-GHUX1742BS_020802"; gene_name "COQ4";
+CEYIJT010148731.1	EMBL	transcript	317	1427	.	-	.	transcript_id "rna-GHUX1742BS_021203"; gene_id "gene-GHUX1742BS_021203"
+CEYIJT010148731.1	EMBL	exon	317	370	.	-	.	transcript_id "rna-GHUX1742BS_021203"; gene_id "gene-GHUX1742BS_021203";
+CEYIJT010148731.1	EMBL	exon	642	713	.	-	.	transcript_id "rna-GHUX1742BS_021203"; gene_id "gene-GHUX1742BS_021203";
+CEYIJT010148731.1	EMBL	exon	822	881	.	-	.	transcript_id "rna-GHUX1742BS_021203"; gene_id "gene-GHUX1742BS_021203";
+CEYIJT010148731.1	EMBL	exon	1113	1427	.	-	.	transcript_id "rna-GHUX1742BS_021203"; gene_id "gene-GHUX1742BS_021203";
+CEYIJT010148731.1	EMBL	CDS	317	370	.	-	0	transcript_id "rna-GHUX1742BS_021203"; gene_id "gene-GHUX1742BS_021203";
+CEYIJT010148731.1	EMBL	CDS	642	713	.	-	0	transcript_id "rna-GHUX1742BS_021203"; gene_id "gene-GHUX1742BS_021203";
+CEYIJT010148731.1	EMBL	CDS	822	881	.	-	0	transcript_id "rna-GHUX1742BS_021203"; gene_id "gene-GHUX1742BS_021203";
+CEYIJT010148731.1	EMBL	CDS	1113	1427	.	-	0	transcript_id "rna-GHUX1742BS_021203"; gene_id "gene-GHUX1742BS_021203";
+CEYIJT010149233.1	EMBL	transcript	1585	2244	.	+	.	transcript_id "rna-GHUX1742BS_022364"; gene_id "gene-GHUX1742BS_022364"; gene_name "MRTO4"
+CEYIJT010149233.1	EMBL	exon	1585	2244	.	+	.	transcript_id "rna-GHUX1742BS_022364"; gene_id "gene-GHUX1742BS_022364"; gene_name "MRTO4";
+CEYIJT010149233.1	EMBL	CDS	1585	2244	.	+	0	transcript_id "rna-GHUX1742BS_022364"; gene_id "gene-GHUX1742BS_022364"; gene_name "MRTO4";
+CEYIJT010150300.1	EMBL	transcript	105	2187	.	-	.	transcript_id "rna-GHUX1742BS_024650"; gene_id "gene-GHUX1742BS_024650"; gene_name "EMC2"
+CEYIJT010150300.1	EMBL	exon	105	711	.	-	.	transcript_id "rna-GHUX1742BS_024650"; gene_id "gene-GHUX1742BS_024650"; gene_name "EMC2";
+CEYIJT010150300.1	EMBL	exon	785	1033	.	-	.	transcript_id "rna-GHUX1742BS_024650"; gene_id "gene-GHUX1742BS_024650"; gene_name "EMC2";
+CEYIJT010150300.1	EMBL	exon	1185	1225	.	-	.	transcript_id "rna-GHUX1742BS_024650"; gene_id "gene-GHUX1742BS_024650"; gene_name "EMC2";
+CEYIJT010150300.1	EMBL	exon	1481	1621	.	-	.	transcript_id "rna-GHUX1742BS_024650"; gene_id "gene-GHUX1742BS_024650"; gene_name "EMC2";
+CEYIJT010150300.1	EMBL	exon	1781	2187	.	-	.	transcript_id "rna-GHUX1742BS_024650"; gene_id "gene-GHUX1742BS_024650"; gene_name "EMC2";
+CEYIJT010150300.1	EMBL	CDS	455	711	.	-	2	transcript_id "rna-GHUX1742BS_024650"; gene_id "gene-GHUX1742BS_024650"; gene_name "EMC2";
+CEYIJT010150300.1	EMBL	CDS	785	1033	.	-	2	transcript_id "rna-GHUX1742BS_024650"; gene_id "gene-GHUX1742BS_024650"; gene_name "EMC2";
+CEYIJT010150300.1	EMBL	CDS	1185	1225	.	-	1	transcript_id "rna-GHUX1742BS_024650"; gene_id "gene-GHUX1742BS_024650"; gene_name "EMC2";
+CEYIJT010150300.1	EMBL	CDS	1481	1621	.	-	1	transcript_id "rna-GHUX1742BS_024650"; gene_id "gene-GHUX1742BS_024650"; gene_name "EMC2";
+CEYIJT010150300.1	EMBL	CDS	1781	2145	.	-	0	transcript_id "rna-GHUX1742BS_024650"; gene_id "gene-GHUX1742BS_024650"; gene_name "EMC2";
+CEYIJT010150367.1	EMBL	transcript	150	1949	.	+	.	transcript_id "rna-GHUX1742BS_024782"; gene_id "gene-GHUX1742BS_024782"
+CEYIJT010150367.1	EMBL	exon	150	971	.	+	.	transcript_id "rna-GHUX1742BS_024782"; gene_id "gene-GHUX1742BS_024782";
+CEYIJT010150367.1	EMBL	exon	1108	1180	.	+	.	transcript_id "rna-GHUX1742BS_024782"; gene_id "gene-GHUX1742BS_024782";
+CEYIJT010150367.1	EMBL	exon	1248	1324	.	+	.	transcript_id "rna-GHUX1742BS_024782"; gene_id "gene-GHUX1742BS_024782";
+CEYIJT010150367.1	EMBL	exon	1665	1949	.	+	.	transcript_id "rna-GHUX1742BS_024782"; gene_id "gene-GHUX1742BS_024782";
+CEYIJT010150367.1	EMBL	CDS	150	971	.	+	0	transcript_id "rna-GHUX1742BS_024782"; gene_id "gene-GHUX1742BS_024782";
+CEYIJT010150367.1	EMBL	CDS	1108	1180	.	+	0	transcript_id "rna-GHUX1742BS_024782"; gene_id "gene-GHUX1742BS_024782";
+CEYIJT010150367.1	EMBL	CDS	1248	1324	.	+	2	transcript_id "rna-GHUX1742BS_024782"; gene_id "gene-GHUX1742BS_024782";
+CEYIJT010150367.1	EMBL	CDS	1665	1949	.	+	0	transcript_id "rna-GHUX1742BS_024782"; gene_id "gene-GHUX1742BS_024782";
+CEYIJT010150479.1	EMBL	transcript	160	2051	.	+	.	transcript_id "rna-GHUX1742BS_025012"; gene_id "gene-GHUX1742BS_025012"
+CEYIJT010150479.1	EMBL	exon	160	682	.	+	.	transcript_id "rna-GHUX1742BS_025012"; gene_id "gene-GHUX1742BS_025012";
+CEYIJT010150479.1	EMBL	exon	758	864	.	+	.	transcript_id "rna-GHUX1742BS_025012"; gene_id "gene-GHUX1742BS_025012";
+CEYIJT010150479.1	EMBL	exon	1091	1623	.	+	.	transcript_id "rna-GHUX1742BS_025012"; gene_id "gene-GHUX1742BS_025012";
+CEYIJT010150479.1	EMBL	exon	1691	1748	.	+	.	transcript_id "rna-GHUX1742BS_025012"; gene_id "gene-GHUX1742BS_025012";
+CEYIJT010150479.1	EMBL	exon	1989	2051	.	+	.	transcript_id "rna-GHUX1742BS_025012"; gene_id "gene-GHUX1742BS_025012";
+CEYIJT010150479.1	EMBL	CDS	181	682	.	+	0	transcript_id "rna-GHUX1742BS_025012"; gene_id "gene-GHUX1742BS_025012";
+CEYIJT010150479.1	EMBL	CDS	758	864	.	+	2	transcript_id "rna-GHUX1742BS_025012"; gene_id "gene-GHUX1742BS_025012";
+CEYIJT010150479.1	EMBL	CDS	1091	1219	.	+	0	transcript_id "rna-GHUX1742BS_025012"; gene_id "gene-GHUX1742BS_025012";
+CEYIJT010150879.1	EMBL	transcript	620	1918	.	-	.	transcript_id "rna-GHUX1742BS_025797"; gene_id "gene-GHUX1742BS_025797"; gene_name "GINS1"
+CEYIJT010150879.1	EMBL	exon	620	1125	.	-	.	transcript_id "rna-GHUX1742BS_025797"; gene_id "gene-GHUX1742BS_025797"; gene_name "GINS1";
+CEYIJT010150879.1	EMBL	exon	1298	1411	.	-	.	transcript_id "rna-GHUX1742BS_025797"; gene_id "gene-GHUX1742BS_025797"; gene_name "GINS1";
+CEYIJT010150879.1	EMBL	exon	1516	1918	.	-	.	transcript_id "rna-GHUX1742BS_025797"; gene_id "gene-GHUX1742BS_025797"; gene_name "GINS1";
+CEYIJT010150879.1	EMBL	CDS	1008	1125	.	-	1	transcript_id "rna-GHUX1742BS_025797"; gene_id "gene-GHUX1742BS_025797"; gene_name "GINS1";
+CEYIJT010150879.1	EMBL	CDS	1298	1411	.	-	1	transcript_id "rna-GHUX1742BS_025797"; gene_id "gene-GHUX1742BS_025797"; gene_name "GINS1";
+CEYIJT010150879.1	EMBL	CDS	1516	1862	.	-	0	transcript_id "rna-GHUX1742BS_025797"; gene_id "gene-GHUX1742BS_025797"; gene_name "GINS1";
+CEYIJT010151654.1	EMBL	transcript	238	953	.	+	.	transcript_id "rna-GHUX1742BS_027236"; gene_id "gene-GHUX1742BS_027236"; gene_name "GAR1"
+CEYIJT010151654.1	EMBL	exon	238	272	.	+	.	transcript_id "rna-GHUX1742BS_027236"; gene_id "gene-GHUX1742BS_027236"; gene_name "GAR1";
+CEYIJT010151654.1	EMBL	exon	343	953	.	+	.	transcript_id "rna-GHUX1742BS_027236"; gene_id "gene-GHUX1742BS_027236"; gene_name "GAR1";
+CEYIJT010151654.1	EMBL	CDS	260	272	.	+	0	transcript_id "rna-GHUX1742BS_027236"; gene_id "gene-GHUX1742BS_027236"; gene_name "GAR1";
+CEYIJT010151654.1	EMBL	CDS	343	953	.	+	2	transcript_id "rna-GHUX1742BS_027236"; gene_id "gene-GHUX1742BS_027236"; gene_name "GAR1";
+CEYIJT010153007.1	EMBL	transcript	315	1262	.	+	.	transcript_id "rna-GHUX1742BS_029525"; gene_id "gene-GHUX1742BS_029525"; gene_name "DPH5"
+CEYIJT010153007.1	EMBL	exon	315	1262	.	+	.	transcript_id "rna-GHUX1742BS_029525"; gene_id "gene-GHUX1742BS_029525"; gene_name "DPH5";
+CEYIJT010153007.1	EMBL	CDS	315	1262	.	+	0	transcript_id "rna-GHUX1742BS_029525"; gene_id "gene-GHUX1742BS_029525"; gene_name "DPH5";
+CEYIJT010153750.1	EMBL	transcript	917	1195	.	-	.	transcript_id "rna-GHUX1742BS_030687"; gene_id "gene-GHUX1742BS_030687"; gene_name "SUPT4H1"
+CEYIJT010153750.1	EMBL	exon	917	1195	.	-	.	transcript_id "rna-GHUX1742BS_030687"; gene_id "gene-GHUX1742BS_030687"; gene_name "SUPT4H1";
+CEYIJT010153750.1	EMBL	CDS	917	1195	.	-	0	transcript_id "rna-GHUX1742BS_030687"; gene_id "gene-GHUX1742BS_030687"; gene_name "SUPT4H1";
+CEYIJT010154052.1	EMBL	transcript	1	947	.	-	.	transcript_id "rna-GHUX1742BS_031152"; gene_id "gene-GHUX1742BS_031152"; gene_name "Ak6"
+CEYIJT010154052.1	EMBL	exon	1	334	.	-	.	transcript_id "rna-GHUX1742BS_031152"; gene_id "gene-GHUX1742BS_031152"; gene_name "Ak6";
+CEYIJT010154052.1	EMBL	exon	535	947	.	-	.	transcript_id "rna-GHUX1742BS_031152"; gene_id "gene-GHUX1742BS_031152"; gene_name "Ak6";
+CEYIJT010154052.1	EMBL	CDS	148	334	.	-	1	transcript_id "rna-GHUX1742BS_031152"; gene_id "gene-GHUX1742BS_031152"; gene_name "Ak6";
+CEYIJT010154052.1	EMBL	CDS	535	884	.	-	0	transcript_id "rna-GHUX1742BS_031152"; gene_id "gene-GHUX1742BS_031152"; gene_name "Ak6";
+CEYIJT010154133.1	EMBL	transcript	90	794	.	+	.	transcript_id "rna-GHUX1742BS_031276"; gene_id "gene-GHUX1742BS_031276"
+CEYIJT010154133.1	EMBL	exon	90	624	.	+	.	transcript_id "rna-GHUX1742BS_031276"; gene_id "gene-GHUX1742BS_031276";
+CEYIJT010154133.1	EMBL	exon	765	794	.	+	.	transcript_id "rna-GHUX1742BS_031276"; gene_id "gene-GHUX1742BS_031276";
+CEYIJT010154133.1	EMBL	CDS	106	624	.	+	0	transcript_id "rna-GHUX1742BS_031276"; gene_id "gene-GHUX1742BS_031276";
+CEYIJT010154133.1	EMBL	CDS	765	794	.	+	0	transcript_id "rna-GHUX1742BS_031276"; gene_id "gene-GHUX1742BS_031276";
+CEYIJT010154300.1	EMBL	transcript	79	902	.	+	.	transcript_id "rna-GHUX1742BS_031528"; gene_id "gene-GHUX1742BS_031528"; gene_name "CCDC94"
+CEYIJT010154300.1	EMBL	exon	79	386	.	+	.	transcript_id "rna-GHUX1742BS_031528"; gene_id "gene-GHUX1742BS_031528"; gene_name "CCDC94";
+CEYIJT010154300.1	EMBL	exon	577	718	.	+	.	transcript_id "rna-GHUX1742BS_031528"; gene_id "gene-GHUX1742BS_031528"; gene_name "CCDC94";
+CEYIJT010154300.1	EMBL	exon	818	902	.	+	.	transcript_id "rna-GHUX1742BS_031528"; gene_id "gene-GHUX1742BS_031528"; gene_name "CCDC94";
+CEYIJT010154300.1	EMBL	CDS	142	386	.	+	0	transcript_id "rna-GHUX1742BS_031528"; gene_id "gene-GHUX1742BS_031528"; gene_name "CCDC94";
+CEYIJT010154300.1	EMBL	CDS	577	718	.	+	1	transcript_id "rna-GHUX1742BS_031528"; gene_id "gene-GHUX1742BS_031528"; gene_name "CCDC94";
+CEYIJT010154300.1	EMBL	CDS	818	880	.	+	0	transcript_id "rna-GHUX1742BS_031528"; gene_id "gene-GHUX1742BS_031528"; gene_name "CCDC94";
+CEYIJT010155615.1	EMBL	transcript	189	798	.	+	.	transcript_id "rna-GHUX1742BS_033326"; gene_id "gene-GHUX1742BS_033326"; gene_name "KRR1_2"
+CEYIJT010155615.1	EMBL	exon	189	425	.	+	.	transcript_id "rna-GHUX1742BS_033326"; gene_id "gene-GHUX1742BS_033326"; gene_name "KRR1_2";
+CEYIJT010155615.1	EMBL	exon	635	697	.	+	.	transcript_id "rna-GHUX1742BS_033326"; gene_id "gene-GHUX1742BS_033326"; gene_name "KRR1_2";
+CEYIJT010155615.1	EMBL	exon	750	798	.	+	.	transcript_id "rna-GHUX1742BS_033326"; gene_id "gene-GHUX1742BS_033326"; gene_name "KRR1_2";
+CEYIJT010155615.1	EMBL	CDS	189	425	.	+	0	transcript_id "rna-GHUX1742BS_033326"; gene_id "gene-GHUX1742BS_033326"; gene_name "KRR1_2";
+CEYIJT010155615.1	EMBL	CDS	635	697	.	+	0	transcript_id "rna-GHUX1742BS_033326"; gene_id "gene-GHUX1742BS_033326"; gene_name "KRR1_2";
+CEYIJT010155615.1	EMBL	CDS	750	798	.	+	0	transcript_id "rna-GHUX1742BS_033326"; gene_id "gene-GHUX1742BS_033326"; gene_name "KRR1_2";
+CEYIJT010156395.1	EMBL	transcript	146	879	.	+	.	transcript_id "rna-GHUX1742BS_034219"; gene_id "gene-GHUX1742BS_034219"; gene_name "GTF2H2_2"
+CEYIJT010156395.1	EMBL	exon	146	879	.	+	.	transcript_id "rna-GHUX1742BS_034219"; gene_id "gene-GHUX1742BS_034219"; gene_name "GTF2H2_2";
+CEYIJT010156395.1	EMBL	CDS	176	688	.	+	0	transcript_id "rna-GHUX1742BS_034219"; gene_id "gene-GHUX1742BS_034219"; gene_name "GTF2H2_2";

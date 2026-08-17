@@ -1,0 +1,726 @@
+JBWZMV010000001.1	Genbank	transcript	312986	315466	.	-	.	transcript_id "rna-ACYAQ4_000112-T1_mrna"; gene_id "gene-ACYAQ4_000112"
+JBWZMV010000001.1	Genbank	exon	312986	313751	.	-	.	transcript_id "rna-ACYAQ4_000112-T1_mrna"; gene_id "gene-ACYAQ4_000112";
+JBWZMV010000001.1	Genbank	exon	314112	314659	.	-	.	transcript_id "rna-ACYAQ4_000112-T1_mrna"; gene_id "gene-ACYAQ4_000112";
+JBWZMV010000001.1	Genbank	exon	314700	315204	.	-	.	transcript_id "rna-ACYAQ4_000112-T1_mrna"; gene_id "gene-ACYAQ4_000112";
+JBWZMV010000001.1	Genbank	exon	315231	315466	.	-	.	transcript_id "rna-ACYAQ4_000112-T1_mrna"; gene_id "gene-ACYAQ4_000112";
+JBWZMV010000001.1	Genbank	CDS	312986	313751	.	-	1	transcript_id "rna-ACYAQ4_000112-T1_mrna"; gene_id "gene-ACYAQ4_000112";
+JBWZMV010000001.1	Genbank	CDS	314112	314659	.	-	0	transcript_id "rna-ACYAQ4_000112-T1_mrna"; gene_id "gene-ACYAQ4_000112";
+JBWZMV010000001.1	Genbank	CDS	314700	315204	.	-	1	transcript_id "rna-ACYAQ4_000112-T1_mrna"; gene_id "gene-ACYAQ4_000112";
+JBWZMV010000001.1	Genbank	CDS	315231	315466	.	-	0	transcript_id "rna-ACYAQ4_000112-T1_mrna"; gene_id "gene-ACYAQ4_000112";
+JBWZMV010000001.1	Genbank	transcript	362605	364265	.	-	.	transcript_id "rna-ACYAQ4_000123-T1_mrna"; gene_id "gene-ACYAQ4_000123"; gene_name "PCM1"
+JBWZMV010000001.1	Genbank	exon	362605	363462	.	-	.	transcript_id "rna-ACYAQ4_000123-T1_mrna"; gene_id "gene-ACYAQ4_000123"; gene_name "PCM1";
+JBWZMV010000001.1	Genbank	exon	363513	364265	.	-	.	transcript_id "rna-ACYAQ4_000123-T1_mrna"; gene_id "gene-ACYAQ4_000123"; gene_name "PCM1";
+JBWZMV010000001.1	Genbank	CDS	362605	363462	.	-	0	transcript_id "rna-ACYAQ4_000123-T1_mrna"; gene_id "gene-ACYAQ4_000123"; gene_name "PCM1";
+JBWZMV010000001.1	Genbank	CDS	363513	364265	.	-	0	transcript_id "rna-ACYAQ4_000123-T1_mrna"; gene_id "gene-ACYAQ4_000123"; gene_name "PCM1";
+JBWZMV010000001.1	Genbank	transcript	462540	463856	.	+	.	transcript_id "rna-ACYAQ4_000153-T1_mrna"; gene_id "gene-ACYAQ4_000153"; gene_name "GCV1"
+JBWZMV010000001.1	Genbank	exon	462540	462821	.	+	.	transcript_id "rna-ACYAQ4_000153-T1_mrna"; gene_id "gene-ACYAQ4_000153"; gene_name "GCV1";
+JBWZMV010000001.1	Genbank	exon	462840	463856	.	+	.	transcript_id "rna-ACYAQ4_000153-T1_mrna"; gene_id "gene-ACYAQ4_000153"; gene_name "GCV1";
+JBWZMV010000001.1	Genbank	CDS	462540	462821	.	+	0	transcript_id "rna-ACYAQ4_000153-T1_mrna"; gene_id "gene-ACYAQ4_000153"; gene_name "GCV1";
+JBWZMV010000001.1	Genbank	CDS	462840	463856	.	+	0	transcript_id "rna-ACYAQ4_000153-T1_mrna"; gene_id "gene-ACYAQ4_000153"; gene_name "GCV1";
+JBWZMV010000001.1	Genbank	transcript	508167	508999	.	+	.	transcript_id "rna-ACYAQ4_000166-T1_mrna"; gene_id "gene-ACYAQ4_000166"; gene_name "NSA2"
+JBWZMV010000001.1	Genbank	exon	508167	508169	.	+	.	transcript_id "rna-ACYAQ4_000166-T1_mrna"; gene_id "gene-ACYAQ4_000166"; gene_name "NSA2";
+JBWZMV010000001.1	Genbank	exon	508220	508999	.	+	.	transcript_id "rna-ACYAQ4_000166-T1_mrna"; gene_id "gene-ACYAQ4_000166"; gene_name "NSA2";
+JBWZMV010000001.1	Genbank	CDS	508167	508169	.	+	0	transcript_id "rna-ACYAQ4_000166-T1_mrna"; gene_id "gene-ACYAQ4_000166"; gene_name "NSA2";
+JBWZMV010000001.1	Genbank	CDS	508220	508999	.	+	0	transcript_id "rna-ACYAQ4_000166-T1_mrna"; gene_id "gene-ACYAQ4_000166"; gene_name "NSA2";
+JBWZMV010000001.1	Genbank	transcript	516946	517687	.	-	.	transcript_id "rna-ACYAQ4_000171-T1_mrna"; gene_id "gene-ACYAQ4_000171"; gene_name "GIR2"
+JBWZMV010000001.1	Genbank	exon	516946	517565	.	-	.	transcript_id "rna-ACYAQ4_000171-T1_mrna"; gene_id "gene-ACYAQ4_000171"; gene_name "GIR2";
+JBWZMV010000001.1	Genbank	exon	517621	517687	.	-	.	transcript_id "rna-ACYAQ4_000171-T1_mrna"; gene_id "gene-ACYAQ4_000171"; gene_name "GIR2";
+JBWZMV010000001.1	Genbank	CDS	516946	517565	.	-	2	transcript_id "rna-ACYAQ4_000171-T1_mrna"; gene_id "gene-ACYAQ4_000171"; gene_name "GIR2";
+JBWZMV010000001.1	Genbank	CDS	517621	517687	.	-	0	transcript_id "rna-ACYAQ4_000171-T1_mrna"; gene_id "gene-ACYAQ4_000171"; gene_name "GIR2";
+JBWZMV010000001.1	Genbank	transcript	533063	533906	.	-	.	transcript_id "rna-ACYAQ4_000180-T1_mrna"; gene_id "gene-ACYAQ4_000180"; gene_name "TMA22"
+JBWZMV010000001.1	Genbank	exon	533063	533257	.	-	.	transcript_id "rna-ACYAQ4_000180-T1_mrna"; gene_id "gene-ACYAQ4_000180"; gene_name "TMA22";
+JBWZMV010000001.1	Genbank	exon	533313	533530	.	-	.	transcript_id "rna-ACYAQ4_000180-T1_mrna"; gene_id "gene-ACYAQ4_000180"; gene_name "TMA22";
+JBWZMV010000001.1	Genbank	exon	533590	533677	.	-	.	transcript_id "rna-ACYAQ4_000180-T1_mrna"; gene_id "gene-ACYAQ4_000180"; gene_name "TMA22";
+JBWZMV010000001.1	Genbank	exon	533752	533771	.	-	.	transcript_id "rna-ACYAQ4_000180-T1_mrna"; gene_id "gene-ACYAQ4_000180"; gene_name "TMA22";
+JBWZMV010000001.1	Genbank	exon	533846	533906	.	-	.	transcript_id "rna-ACYAQ4_000180-T1_mrna"; gene_id "gene-ACYAQ4_000180"; gene_name "TMA22";
+JBWZMV010000001.1	Genbank	CDS	533063	533257	.	-	0	transcript_id "rna-ACYAQ4_000180-T1_mrna"; gene_id "gene-ACYAQ4_000180"; gene_name "TMA22";
+JBWZMV010000001.1	Genbank	CDS	533313	533530	.	-	2	transcript_id "rna-ACYAQ4_000180-T1_mrna"; gene_id "gene-ACYAQ4_000180"; gene_name "TMA22";
+JBWZMV010000001.1	Genbank	CDS	533590	533677	.	-	0	transcript_id "rna-ACYAQ4_000180-T1_mrna"; gene_id "gene-ACYAQ4_000180"; gene_name "TMA22";
+JBWZMV010000001.1	Genbank	CDS	533752	533771	.	-	2	transcript_id "rna-ACYAQ4_000180-T1_mrna"; gene_id "gene-ACYAQ4_000180"; gene_name "TMA22";
+JBWZMV010000001.1	Genbank	CDS	533846	533906	.	-	0	transcript_id "rna-ACYAQ4_000180-T1_mrna"; gene_id "gene-ACYAQ4_000180"; gene_name "TMA22";
+JBWZMV010000001.1	Genbank	transcript	588908	590122	.	-	.	transcript_id "rna-ACYAQ4_000202-T1_mrna"; gene_id "gene-ACYAQ4_000202"
+JBWZMV010000001.1	Genbank	exon	588908	590122	.	-	.	transcript_id "rna-ACYAQ4_000202-T1_mrna"; gene_id "gene-ACYAQ4_000202";
+JBWZMV010000001.1	Genbank	CDS	588908	590122	.	-	0	transcript_id "rna-ACYAQ4_000202-T1_mrna"; gene_id "gene-ACYAQ4_000202";
+JBWZMV010000001.1	Genbank	transcript	599606	601135	.	-	.	transcript_id "rna-ACYAQ4_000209-T1_mrna"; gene_id "gene-ACYAQ4_000209"
+JBWZMV010000001.1	Genbank	exon	599606	600607	.	-	.	transcript_id "rna-ACYAQ4_000209-T1_mrna"; gene_id "gene-ACYAQ4_000209";
+JBWZMV010000001.1	Genbank	exon	600664	600828	.	-	.	transcript_id "rna-ACYAQ4_000209-T1_mrna"; gene_id "gene-ACYAQ4_000209";
+JBWZMV010000001.1	Genbank	exon	600885	600975	.	-	.	transcript_id "rna-ACYAQ4_000209-T1_mrna"; gene_id "gene-ACYAQ4_000209";
+JBWZMV010000001.1	Genbank	exon	601032	601135	.	-	.	transcript_id "rna-ACYAQ4_000209-T1_mrna"; gene_id "gene-ACYAQ4_000209";
+JBWZMV010000001.1	Genbank	CDS	599606	600607	.	-	0	transcript_id "rna-ACYAQ4_000209-T1_mrna"; gene_id "gene-ACYAQ4_000209";
+JBWZMV010000001.1	Genbank	CDS	600664	600828	.	-	0	transcript_id "rna-ACYAQ4_000209-T1_mrna"; gene_id "gene-ACYAQ4_000209";
+JBWZMV010000001.1	Genbank	CDS	600885	600975	.	-	1	transcript_id "rna-ACYAQ4_000209-T1_mrna"; gene_id "gene-ACYAQ4_000209";
+JBWZMV010000001.1	Genbank	CDS	601032	601135	.	-	0	transcript_id "rna-ACYAQ4_000209-T1_mrna"; gene_id "gene-ACYAQ4_000209";
+JBWZMV010000001.1	Genbank	transcript	634455	635126	.	-	.	transcript_id "rna-ACYAQ4_000219-T1_mrna"; gene_id "gene-ACYAQ4_000219"
+JBWZMV010000001.1	Genbank	exon	634455	635126	.	-	.	transcript_id "rna-ACYAQ4_000219-T1_mrna"; gene_id "gene-ACYAQ4_000219";
+JBWZMV010000001.1	Genbank	CDS	634455	635126	.	-	0	transcript_id "rna-ACYAQ4_000219-T1_mrna"; gene_id "gene-ACYAQ4_000219";
+JBWZMV010000001.1	Genbank	transcript	773309	775912	.	-	.	transcript_id "rna-ACYAQ4_000260-T1_mrna"; gene_id "gene-ACYAQ4_000260"
+JBWZMV010000001.1	Genbank	exon	773309	775912	.	-	.	transcript_id "rna-ACYAQ4_000260-T1_mrna"; gene_id "gene-ACYAQ4_000260";
+JBWZMV010000001.1	Genbank	CDS	773309	775912	.	-	0	transcript_id "rna-ACYAQ4_000260-T1_mrna"; gene_id "gene-ACYAQ4_000260";
+JBWZMV010000001.1	Genbank	transcript	900742	901227	.	+	.	transcript_id "rna-ACYAQ4_000304-T1_mrna"; gene_id "gene-ACYAQ4_000304"; gene_name "PSF1"
+JBWZMV010000001.1	Genbank	exon	900742	901076	.	+	.	transcript_id "rna-ACYAQ4_000304-T1_mrna"; gene_id "gene-ACYAQ4_000304"; gene_name "PSF1";
+JBWZMV010000001.1	Genbank	exon	901134	901227	.	+	.	transcript_id "rna-ACYAQ4_000304-T1_mrna"; gene_id "gene-ACYAQ4_000304"; gene_name "PSF1";
+JBWZMV010000001.1	Genbank	CDS	900742	901076	.	+	0	transcript_id "rna-ACYAQ4_000304-T1_mrna"; gene_id "gene-ACYAQ4_000304"; gene_name "PSF1";
+JBWZMV010000001.1	Genbank	CDS	901134	901227	.	+	1	transcript_id "rna-ACYAQ4_000304-T1_mrna"; gene_id "gene-ACYAQ4_000304"; gene_name "PSF1";
+JBWZMV010000001.1	Genbank	transcript	1025510	1026835	.	-	.	transcript_id "rna-ACYAQ4_000345-T1_mrna"; gene_id "gene-ACYAQ4_000345"
+JBWZMV010000001.1	Genbank	exon	1025510	1025539	.	-	.	transcript_id "rna-ACYAQ4_000345-T1_mrna"; gene_id "gene-ACYAQ4_000345";
+JBWZMV010000001.1	Genbank	exon	1025600	1026835	.	-	.	transcript_id "rna-ACYAQ4_000345-T1_mrna"; gene_id "gene-ACYAQ4_000345";
+JBWZMV010000001.1	Genbank	CDS	1025510	1025539	.	-	0	transcript_id "rna-ACYAQ4_000345-T1_mrna"; gene_id "gene-ACYAQ4_000345";
+JBWZMV010000001.1	Genbank	CDS	1025600	1026835	.	-	0	transcript_id "rna-ACYAQ4_000345-T1_mrna"; gene_id "gene-ACYAQ4_000345";
+JBWZMV010000001.1	Genbank	transcript	1418790	1420078	.	-	.	transcript_id "rna-ACYAQ4_000458-T1_mrna"; gene_id "gene-ACYAQ4_000458"
+JBWZMV010000001.1	Genbank	exon	1418790	1419767	.	-	.	transcript_id "rna-ACYAQ4_000458-T1_mrna"; gene_id "gene-ACYAQ4_000458";
+JBWZMV010000001.1	Genbank	exon	1419821	1420078	.	-	.	transcript_id "rna-ACYAQ4_000458-T1_mrna"; gene_id "gene-ACYAQ4_000458";
+JBWZMV010000001.1	Genbank	CDS	1418790	1419767	.	-	0	transcript_id "rna-ACYAQ4_000458-T1_mrna"; gene_id "gene-ACYAQ4_000458";
+JBWZMV010000001.1	Genbank	CDS	1419821	1420078	.	-	0	transcript_id "rna-ACYAQ4_000458-T1_mrna"; gene_id "gene-ACYAQ4_000458";
+JBWZMV010000001.1	Genbank	transcript	1457825	1461002	.	+	.	transcript_id "rna-ACYAQ4_000473-T1_mrna"; gene_id "gene-ACYAQ4_000473"; gene_name "CDC54"
+JBWZMV010000001.1	Genbank	exon	1457825	1458170	.	+	.	transcript_id "rna-ACYAQ4_000473-T1_mrna"; gene_id "gene-ACYAQ4_000473"; gene_name "CDC54";
+JBWZMV010000001.1	Genbank	exon	1458218	1459090	.	+	.	transcript_id "rna-ACYAQ4_000473-T1_mrna"; gene_id "gene-ACYAQ4_000473"; gene_name "CDC54";
+JBWZMV010000001.1	Genbank	exon	1459144	1461002	.	+	.	transcript_id "rna-ACYAQ4_000473-T1_mrna"; gene_id "gene-ACYAQ4_000473"; gene_name "CDC54";
+JBWZMV010000001.1	Genbank	CDS	1457825	1458170	.	+	0	transcript_id "rna-ACYAQ4_000473-T1_mrna"; gene_id "gene-ACYAQ4_000473"; gene_name "CDC54";
+JBWZMV010000001.1	Genbank	CDS	1458218	1459090	.	+	2	transcript_id "rna-ACYAQ4_000473-T1_mrna"; gene_id "gene-ACYAQ4_000473"; gene_name "CDC54";
+JBWZMV010000001.1	Genbank	CDS	1459144	1461002	.	+	2	transcript_id "rna-ACYAQ4_000473-T1_mrna"; gene_id "gene-ACYAQ4_000473"; gene_name "CDC54";
+JBWZMV010000001.1	Genbank	transcript	1509206	1513875	.	+	.	transcript_id "rna-ACYAQ4_000491-T1_mrna"; gene_id "gene-ACYAQ4_000491"
+JBWZMV010000001.1	Genbank	exon	1509206	1509622	.	+	.	transcript_id "rna-ACYAQ4_000491-T1_mrna"; gene_id "gene-ACYAQ4_000491";
+JBWZMV010000001.1	Genbank	exon	1509745	1510421	.	+	.	transcript_id "rna-ACYAQ4_000491-T1_mrna"; gene_id "gene-ACYAQ4_000491";
+JBWZMV010000001.1	Genbank	exon	1510487	1510777	.	+	.	transcript_id "rna-ACYAQ4_000491-T1_mrna"; gene_id "gene-ACYAQ4_000491";
+JBWZMV010000001.1	Genbank	exon	1510829	1511747	.	+	.	transcript_id "rna-ACYAQ4_000491-T1_mrna"; gene_id "gene-ACYAQ4_000491";
+JBWZMV010000001.1	Genbank	exon	1512157	1513875	.	+	.	transcript_id "rna-ACYAQ4_000491-T1_mrna"; gene_id "gene-ACYAQ4_000491";
+JBWZMV010000001.1	Genbank	CDS	1509206	1509622	.	+	0	transcript_id "rna-ACYAQ4_000491-T1_mrna"; gene_id "gene-ACYAQ4_000491";
+JBWZMV010000001.1	Genbank	CDS	1509745	1510421	.	+	0	transcript_id "rna-ACYAQ4_000491-T1_mrna"; gene_id "gene-ACYAQ4_000491";
+JBWZMV010000001.1	Genbank	CDS	1510487	1510777	.	+	1	transcript_id "rna-ACYAQ4_000491-T1_mrna"; gene_id "gene-ACYAQ4_000491";
+JBWZMV010000001.1	Genbank	CDS	1510829	1511747	.	+	1	transcript_id "rna-ACYAQ4_000491-T1_mrna"; gene_id "gene-ACYAQ4_000491";
+JBWZMV010000001.1	Genbank	CDS	1512157	1513875	.	+	0	transcript_id "rna-ACYAQ4_000491-T1_mrna"; gene_id "gene-ACYAQ4_000491";
+JBWZMV010000001.1	Genbank	transcript	1526341	1527117	.	-	.	transcript_id "rna-ACYAQ4_000496-T1_mrna"; gene_id "gene-ACYAQ4_000496"; gene_name "SLD5"
+JBWZMV010000001.1	Genbank	exon	1526341	1526700	.	-	.	transcript_id "rna-ACYAQ4_000496-T1_mrna"; gene_id "gene-ACYAQ4_000496"; gene_name "SLD5";
+JBWZMV010000001.1	Genbank	exon	1526754	1526934	.	-	.	transcript_id "rna-ACYAQ4_000496-T1_mrna"; gene_id "gene-ACYAQ4_000496"; gene_name "SLD5";
+JBWZMV010000001.1	Genbank	exon	1526993	1527117	.	-	.	transcript_id "rna-ACYAQ4_000496-T1_mrna"; gene_id "gene-ACYAQ4_000496"; gene_name "SLD5";
+JBWZMV010000001.1	Genbank	CDS	1526341	1526700	.	-	0	transcript_id "rna-ACYAQ4_000496-T1_mrna"; gene_id "gene-ACYAQ4_000496"; gene_name "SLD5";
+JBWZMV010000001.1	Genbank	CDS	1526754	1526934	.	-	1	transcript_id "rna-ACYAQ4_000496-T1_mrna"; gene_id "gene-ACYAQ4_000496"; gene_name "SLD5";
+JBWZMV010000001.1	Genbank	CDS	1526993	1527117	.	-	0	transcript_id "rna-ACYAQ4_000496-T1_mrna"; gene_id "gene-ACYAQ4_000496"; gene_name "SLD5";
+JBWZMV010000001.1	Genbank	transcript	1558379	1559938	.	+	.	transcript_id "rna-ACYAQ4_000510-T1_mrna"; gene_id "gene-ACYAQ4_000510"
+JBWZMV010000001.1	Genbank	exon	1558379	1559938	.	+	.	transcript_id "rna-ACYAQ4_000510-T1_mrna"; gene_id "gene-ACYAQ4_000510";
+JBWZMV010000001.1	Genbank	CDS	1558379	1559938	.	+	0	transcript_id "rna-ACYAQ4_000510-T1_mrna"; gene_id "gene-ACYAQ4_000510";
+JBWZMV010000001.1	Genbank	transcript	1604905	1606571	.	-	.	transcript_id "rna-ACYAQ4_000529-T1_mrna"; gene_id "gene-ACYAQ4_000529"; gene_name "PWP1"
+JBWZMV010000001.1	Genbank	exon	1604905	1606276	.	-	.	transcript_id "rna-ACYAQ4_000529-T1_mrna"; gene_id "gene-ACYAQ4_000529"; gene_name "PWP1";
+JBWZMV010000001.1	Genbank	exon	1606330	1606571	.	-	.	transcript_id "rna-ACYAQ4_000529-T1_mrna"; gene_id "gene-ACYAQ4_000529"; gene_name "PWP1";
+JBWZMV010000001.1	Genbank	CDS	1604905	1606276	.	-	1	transcript_id "rna-ACYAQ4_000529-T1_mrna"; gene_id "gene-ACYAQ4_000529"; gene_name "PWP1";
+JBWZMV010000001.1	Genbank	CDS	1606330	1606571	.	-	0	transcript_id "rna-ACYAQ4_000529-T1_mrna"; gene_id "gene-ACYAQ4_000529"; gene_name "PWP1";
+JBWZMV010000001.1	Genbank	transcript	2154101	2156307	.	+	.	transcript_id "rna-ACYAQ4_000699-T1_mrna"; gene_id "gene-ACYAQ4_000699"; gene_name "MAK10_2"
+JBWZMV010000001.1	Genbank	exon	2154101	2154226	.	+	.	transcript_id "rna-ACYAQ4_000699-T1_mrna"; gene_id "gene-ACYAQ4_000699"; gene_name "MAK10_2";
+JBWZMV010000001.1	Genbank	exon	2154276	2154509	.	+	.	transcript_id "rna-ACYAQ4_000699-T1_mrna"; gene_id "gene-ACYAQ4_000699"; gene_name "MAK10_2";
+JBWZMV010000001.1	Genbank	exon	2154567	2155028	.	+	.	transcript_id "rna-ACYAQ4_000699-T1_mrna"; gene_id "gene-ACYAQ4_000699"; gene_name "MAK10_2";
+JBWZMV010000001.1	Genbank	exon	2155075	2156307	.	+	.	transcript_id "rna-ACYAQ4_000699-T1_mrna"; gene_id "gene-ACYAQ4_000699"; gene_name "MAK10_2";
+JBWZMV010000001.1	Genbank	CDS	2154101	2154226	.	+	0	transcript_id "rna-ACYAQ4_000699-T1_mrna"; gene_id "gene-ACYAQ4_000699"; gene_name "MAK10_2";
+JBWZMV010000001.1	Genbank	CDS	2154276	2154509	.	+	0	transcript_id "rna-ACYAQ4_000699-T1_mrna"; gene_id "gene-ACYAQ4_000699"; gene_name "MAK10_2";
+JBWZMV010000001.1	Genbank	CDS	2154567	2155028	.	+	0	transcript_id "rna-ACYAQ4_000699-T1_mrna"; gene_id "gene-ACYAQ4_000699"; gene_name "MAK10_2";
+JBWZMV010000001.1	Genbank	CDS	2155075	2156307	.	+	0	transcript_id "rna-ACYAQ4_000699-T1_mrna"; gene_id "gene-ACYAQ4_000699"; gene_name "MAK10_2";
+JBWZMV010000002.1	Genbank	transcript	706614	708596	.	-	.	transcript_id "rna-ACYAQ4_000930-T1_mrna"; gene_id "gene-ACYAQ4_000930"; gene_name "NOP7"
+JBWZMV010000002.1	Genbank	exon	706614	708596	.	-	.	transcript_id "rna-ACYAQ4_000930-T1_mrna"; gene_id "gene-ACYAQ4_000930"; gene_name "NOP7";
+JBWZMV010000002.1	Genbank	CDS	706614	708596	.	-	0	transcript_id "rna-ACYAQ4_000930-T1_mrna"; gene_id "gene-ACYAQ4_000930"; gene_name "NOP7";
+JBWZMV010000003.1	Genbank	transcript	524466	525976	.	-	.	transcript_id "rna-ACYAQ4_001282-T1_mrna"; gene_id "gene-ACYAQ4_001282"; gene_name "cyp6"
+JBWZMV010000003.1	Genbank	exon	524466	525840	.	-	.	transcript_id "rna-ACYAQ4_001282-T1_mrna"; gene_id "gene-ACYAQ4_001282"; gene_name "cyp6";
+JBWZMV010000003.1	Genbank	exon	525897	525976	.	-	.	transcript_id "rna-ACYAQ4_001282-T1_mrna"; gene_id "gene-ACYAQ4_001282"; gene_name "cyp6";
+JBWZMV010000003.1	Genbank	CDS	524466	525840	.	-	1	transcript_id "rna-ACYAQ4_001282-T1_mrna"; gene_id "gene-ACYAQ4_001282"; gene_name "cyp6";
+JBWZMV010000003.1	Genbank	CDS	525897	525976	.	-	0	transcript_id "rna-ACYAQ4_001282-T1_mrna"; gene_id "gene-ACYAQ4_001282"; gene_name "cyp6";
+JBWZMV010000004.1	Genbank	transcript	151752	152534	.	-	.	transcript_id "rna-ACYAQ4_001506-T1_mrna"; gene_id "gene-ACYAQ4_001506"; gene_name "dot2"
+JBWZMV010000004.1	Genbank	exon	151752	152534	.	-	.	transcript_id "rna-ACYAQ4_001506-T1_mrna"; gene_id "gene-ACYAQ4_001506"; gene_name "dot2";
+JBWZMV010000004.1	Genbank	CDS	151752	152534	.	-	0	transcript_id "rna-ACYAQ4_001506-T1_mrna"; gene_id "gene-ACYAQ4_001506"; gene_name "dot2";
+JBWZMV010000004.1	Genbank	transcript	393559	395109	.	-	.	transcript_id "rna-ACYAQ4_001576-T1_mrna"; gene_id "gene-ACYAQ4_001576"
+JBWZMV010000004.1	Genbank	exon	393559	393642	.	-	.	transcript_id "rna-ACYAQ4_001576-T1_mrna"; gene_id "gene-ACYAQ4_001576";
+JBWZMV010000004.1	Genbank	exon	393697	394734	.	-	.	transcript_id "rna-ACYAQ4_001576-T1_mrna"; gene_id "gene-ACYAQ4_001576";
+JBWZMV010000004.1	Genbank	exon	394801	395109	.	-	.	transcript_id "rna-ACYAQ4_001576-T1_mrna"; gene_id "gene-ACYAQ4_001576";
+JBWZMV010000004.1	Genbank	CDS	393559	393642	.	-	0	transcript_id "rna-ACYAQ4_001576-T1_mrna"; gene_id "gene-ACYAQ4_001576";
+JBWZMV010000004.1	Genbank	CDS	393697	394734	.	-	0	transcript_id "rna-ACYAQ4_001576-T1_mrna"; gene_id "gene-ACYAQ4_001576";
+JBWZMV010000004.1	Genbank	CDS	394801	395109	.	-	0	transcript_id "rna-ACYAQ4_001576-T1_mrna"; gene_id "gene-ACYAQ4_001576";
+JBWZMV010000004.1	Genbank	transcript	509462	510560	.	+	.	transcript_id "rna-ACYAQ4_001614-T1_mrna"; gene_id "gene-ACYAQ4_001614"
+JBWZMV010000004.1	Genbank	exon	509462	510184	.	+	.	transcript_id "rna-ACYAQ4_001614-T1_mrna"; gene_id "gene-ACYAQ4_001614";
+JBWZMV010000004.1	Genbank	exon	510237	510560	.	+	.	transcript_id "rna-ACYAQ4_001614-T1_mrna"; gene_id "gene-ACYAQ4_001614";
+JBWZMV010000004.1	Genbank	CDS	509462	510184	.	+	0	transcript_id "rna-ACYAQ4_001614-T1_mrna"; gene_id "gene-ACYAQ4_001614";
+JBWZMV010000004.1	Genbank	CDS	510237	510560	.	+	0	transcript_id "rna-ACYAQ4_001614-T1_mrna"; gene_id "gene-ACYAQ4_001614";
+JBWZMV010000004.1	Genbank	transcript	697126	698424	.	-	.	transcript_id "rna-ACYAQ4_001679-T1_mrna"; gene_id "gene-ACYAQ4_001679"; gene_name "MSW1"
+JBWZMV010000004.1	Genbank	exon	697126	697580	.	-	.	transcript_id "rna-ACYAQ4_001679-T1_mrna"; gene_id "gene-ACYAQ4_001679"; gene_name "MSW1";
+JBWZMV010000004.1	Genbank	exon	697627	697745	.	-	.	transcript_id "rna-ACYAQ4_001679-T1_mrna"; gene_id "gene-ACYAQ4_001679"; gene_name "MSW1";
+JBWZMV010000004.1	Genbank	exon	697799	697914	.	-	.	transcript_id "rna-ACYAQ4_001679-T1_mrna"; gene_id "gene-ACYAQ4_001679"; gene_name "MSW1";
+JBWZMV010000004.1	Genbank	exon	697963	698043	.	-	.	transcript_id "rna-ACYAQ4_001679-T1_mrna"; gene_id "gene-ACYAQ4_001679"; gene_name "MSW1";
+JBWZMV010000004.1	Genbank	exon	698152	698424	.	-	.	transcript_id "rna-ACYAQ4_001679-T1_mrna"; gene_id "gene-ACYAQ4_001679"; gene_name "MSW1";
+JBWZMV010000004.1	Genbank	CDS	697126	697580	.	-	2	transcript_id "rna-ACYAQ4_001679-T1_mrna"; gene_id "gene-ACYAQ4_001679"; gene_name "MSW1";
+JBWZMV010000004.1	Genbank	CDS	697627	697745	.	-	1	transcript_id "rna-ACYAQ4_001679-T1_mrna"; gene_id "gene-ACYAQ4_001679"; gene_name "MSW1";
+JBWZMV010000004.1	Genbank	CDS	697799	697914	.	-	0	transcript_id "rna-ACYAQ4_001679-T1_mrna"; gene_id "gene-ACYAQ4_001679"; gene_name "MSW1";
+JBWZMV010000004.1	Genbank	CDS	697963	698043	.	-	0	transcript_id "rna-ACYAQ4_001679-T1_mrna"; gene_id "gene-ACYAQ4_001679"; gene_name "MSW1";
+JBWZMV010000004.1	Genbank	CDS	698152	698424	.	-	0	transcript_id "rna-ACYAQ4_001679-T1_mrna"; gene_id "gene-ACYAQ4_001679"; gene_name "MSW1";
+JBWZMV010000004.1	Genbank	transcript	777229	779113	.	+	.	transcript_id "rna-ACYAQ4_001707-T1_mrna"; gene_id "gene-ACYAQ4_001707"
+JBWZMV010000004.1	Genbank	exon	777229	777255	.	+	.	transcript_id "rna-ACYAQ4_001707-T1_mrna"; gene_id "gene-ACYAQ4_001707";
+JBWZMV010000004.1	Genbank	exon	777309	777357	.	+	.	transcript_id "rna-ACYAQ4_001707-T1_mrna"; gene_id "gene-ACYAQ4_001707";
+JBWZMV010000004.1	Genbank	exon	777435	779113	.	+	.	transcript_id "rna-ACYAQ4_001707-T1_mrna"; gene_id "gene-ACYAQ4_001707";
+JBWZMV010000004.1	Genbank	CDS	777229	777255	.	+	0	transcript_id "rna-ACYAQ4_001707-T1_mrna"; gene_id "gene-ACYAQ4_001707";
+JBWZMV010000004.1	Genbank	CDS	777309	777357	.	+	0	transcript_id "rna-ACYAQ4_001707-T1_mrna"; gene_id "gene-ACYAQ4_001707";
+JBWZMV010000004.1	Genbank	CDS	777435	779113	.	+	2	transcript_id "rna-ACYAQ4_001707-T1_mrna"; gene_id "gene-ACYAQ4_001707";
+JBWZMV010000004.1	Genbank	transcript	911240	913773	.	+	.	transcript_id "rna-ACYAQ4_001749-T1_mrna"; gene_id "gene-ACYAQ4_001749"; gene_name "MCM2"
+JBWZMV010000004.1	Genbank	exon	911240	913468	.	+	.	transcript_id "rna-ACYAQ4_001749-T1_mrna"; gene_id "gene-ACYAQ4_001749"; gene_name "MCM2";
+JBWZMV010000004.1	Genbank	exon	913522	913773	.	+	.	transcript_id "rna-ACYAQ4_001749-T1_mrna"; gene_id "gene-ACYAQ4_001749"; gene_name "MCM2";
+JBWZMV010000004.1	Genbank	CDS	911240	913468	.	+	0	transcript_id "rna-ACYAQ4_001749-T1_mrna"; gene_id "gene-ACYAQ4_001749"; gene_name "MCM2";
+JBWZMV010000004.1	Genbank	CDS	913522	913773	.	+	0	transcript_id "rna-ACYAQ4_001749-T1_mrna"; gene_id "gene-ACYAQ4_001749"; gene_name "MCM2";
+JBWZMV010000005.1	Genbank	transcript	916939	917900	.	-	.	transcript_id "rna-ACYAQ4_002084-T1_mrna"; gene_id "gene-ACYAQ4_002084"; gene_name "DPH5"
+JBWZMV010000005.1	Genbank	exon	916939	917539	.	-	.	transcript_id "rna-ACYAQ4_002084-T1_mrna"; gene_id "gene-ACYAQ4_002084"; gene_name "DPH5";
+JBWZMV010000005.1	Genbank	exon	917588	917712	.	-	.	transcript_id "rna-ACYAQ4_002084-T1_mrna"; gene_id "gene-ACYAQ4_002084"; gene_name "DPH5";
+JBWZMV010000005.1	Genbank	exon	917766	917900	.	-	.	transcript_id "rna-ACYAQ4_002084-T1_mrna"; gene_id "gene-ACYAQ4_002084"; gene_name "DPH5";
+JBWZMV010000005.1	Genbank	CDS	916939	917539	.	-	1	transcript_id "rna-ACYAQ4_002084-T1_mrna"; gene_id "gene-ACYAQ4_002084"; gene_name "DPH5";
+JBWZMV010000005.1	Genbank	CDS	917588	917712	.	-	0	transcript_id "rna-ACYAQ4_002084-T1_mrna"; gene_id "gene-ACYAQ4_002084"; gene_name "DPH5";
+JBWZMV010000005.1	Genbank	CDS	917766	917900	.	-	0	transcript_id "rna-ACYAQ4_002084-T1_mrna"; gene_id "gene-ACYAQ4_002084"; gene_name "DPH5";
+JBWZMV010000005.1	Genbank	transcript	918127	918843	.	+	.	transcript_id "rna-ACYAQ4_002085-T1_mrna"; gene_id "gene-ACYAQ4_002085"; gene_name "SNU23"
+JBWZMV010000005.1	Genbank	exon	918127	918843	.	+	.	transcript_id "rna-ACYAQ4_002085-T1_mrna"; gene_id "gene-ACYAQ4_002085"; gene_name "SNU23";
+JBWZMV010000005.1	Genbank	CDS	918127	918843	.	+	0	transcript_id "rna-ACYAQ4_002085-T1_mrna"; gene_id "gene-ACYAQ4_002085"; gene_name "SNU23";
+JBWZMV010000005.1	Genbank	transcript	1053061	1053971	.	-	.	transcript_id "rna-ACYAQ4_002122-T1_mrna"; gene_id "gene-ACYAQ4_002122"; gene_name "BCP1"
+JBWZMV010000005.1	Genbank	exon	1053061	1053828	.	-	.	transcript_id "rna-ACYAQ4_002122-T1_mrna"; gene_id "gene-ACYAQ4_002122"; gene_name "BCP1";
+JBWZMV010000005.1	Genbank	exon	1053885	1053971	.	-	.	transcript_id "rna-ACYAQ4_002122-T1_mrna"; gene_id "gene-ACYAQ4_002122"; gene_name "BCP1";
+JBWZMV010000005.1	Genbank	CDS	1053061	1053828	.	-	0	transcript_id "rna-ACYAQ4_002122-T1_mrna"; gene_id "gene-ACYAQ4_002122"; gene_name "BCP1";
+JBWZMV010000005.1	Genbank	CDS	1053885	1053971	.	-	0	transcript_id "rna-ACYAQ4_002122-T1_mrna"; gene_id "gene-ACYAQ4_002122"; gene_name "BCP1";
+JBWZMV010000006.1	Genbank	transcript	2812	5050	.	+	.	transcript_id "rna-ACYAQ4_002124-T1_mrna"; gene_id "gene-ACYAQ4_002124"; gene_name "ATG7"
+JBWZMV010000006.1	Genbank	exon	2812	3014	.	+	.	transcript_id "rna-ACYAQ4_002124-T1_mrna"; gene_id "gene-ACYAQ4_002124"; gene_name "ATG7";
+JBWZMV010000006.1	Genbank	exon	3076	3184	.	+	.	transcript_id "rna-ACYAQ4_002124-T1_mrna"; gene_id "gene-ACYAQ4_002124"; gene_name "ATG7";
+JBWZMV010000006.1	Genbank	exon	3237	4532	.	+	.	transcript_id "rna-ACYAQ4_002124-T1_mrna"; gene_id "gene-ACYAQ4_002124"; gene_name "ATG7";
+JBWZMV010000006.1	Genbank	exon	4580	5050	.	+	.	transcript_id "rna-ACYAQ4_002124-T1_mrna"; gene_id "gene-ACYAQ4_002124"; gene_name "ATG7";
+JBWZMV010000006.1	Genbank	CDS	2812	3014	.	+	0	transcript_id "rna-ACYAQ4_002124-T1_mrna"; gene_id "gene-ACYAQ4_002124"; gene_name "ATG7";
+JBWZMV010000006.1	Genbank	CDS	3076	3184	.	+	1	transcript_id "rna-ACYAQ4_002124-T1_mrna"; gene_id "gene-ACYAQ4_002124"; gene_name "ATG7";
+JBWZMV010000006.1	Genbank	CDS	3237	4532	.	+	0	transcript_id "rna-ACYAQ4_002124-T1_mrna"; gene_id "gene-ACYAQ4_002124"; gene_name "ATG7";
+JBWZMV010000006.1	Genbank	CDS	4580	5050	.	+	0	transcript_id "rna-ACYAQ4_002124-T1_mrna"; gene_id "gene-ACYAQ4_002124"; gene_name "ATG7";
+JBWZMV010000006.1	Genbank	transcript	20410	21021	.	-	.	transcript_id "rna-ACYAQ4_002132-T1_mrna"; gene_id "gene-ACYAQ4_002132"; gene_name "imp3"
+JBWZMV010000006.1	Genbank	exon	20410	20805	.	-	.	transcript_id "rna-ACYAQ4_002132-T1_mrna"; gene_id "gene-ACYAQ4_002132"; gene_name "imp3";
+JBWZMV010000006.1	Genbank	exon	20866	21021	.	-	.	transcript_id "rna-ACYAQ4_002132-T1_mrna"; gene_id "gene-ACYAQ4_002132"; gene_name "imp3";
+JBWZMV010000006.1	Genbank	CDS	20410	20805	.	-	0	transcript_id "rna-ACYAQ4_002132-T1_mrna"; gene_id "gene-ACYAQ4_002132"; gene_name "imp3";
+JBWZMV010000006.1	Genbank	CDS	20866	21021	.	-	0	transcript_id "rna-ACYAQ4_002132-T1_mrna"; gene_id "gene-ACYAQ4_002132"; gene_name "imp3";
+JBWZMV010000006.1	Genbank	transcript	126187	127661	.	-	.	transcript_id "rna-ACYAQ4_002174-T1_mrna"; gene_id "gene-ACYAQ4_002174"; gene_name "GCD7"
+JBWZMV010000006.1	Genbank	exon	126187	126277	.	-	.	transcript_id "rna-ACYAQ4_002174-T1_mrna"; gene_id "gene-ACYAQ4_002174"; gene_name "GCD7";
+JBWZMV010000006.1	Genbank	exon	126331	127503	.	-	.	transcript_id "rna-ACYAQ4_002174-T1_mrna"; gene_id "gene-ACYAQ4_002174"; gene_name "GCD7";
+JBWZMV010000006.1	Genbank	exon	127564	127661	.	-	.	transcript_id "rna-ACYAQ4_002174-T1_mrna"; gene_id "gene-ACYAQ4_002174"; gene_name "GCD7";
+JBWZMV010000006.1	Genbank	CDS	126187	126277	.	-	1	transcript_id "rna-ACYAQ4_002174-T1_mrna"; gene_id "gene-ACYAQ4_002174"; gene_name "GCD7";
+JBWZMV010000006.1	Genbank	CDS	126331	127503	.	-	1	transcript_id "rna-ACYAQ4_002174-T1_mrna"; gene_id "gene-ACYAQ4_002174"; gene_name "GCD7";
+JBWZMV010000006.1	Genbank	CDS	127564	127661	.	-	0	transcript_id "rna-ACYAQ4_002174-T1_mrna"; gene_id "gene-ACYAQ4_002174"; gene_name "GCD7";
+JBWZMV010000006.1	Genbank	transcript	393970	394743	.	-	.	transcript_id "rna-ACYAQ4_002272-T1_mrna"; gene_id "gene-ACYAQ4_002272"
+JBWZMV010000006.1	Genbank	exon	393970	394743	.	-	.	transcript_id "rna-ACYAQ4_002272-T1_mrna"; gene_id "gene-ACYAQ4_002272";
+JBWZMV010000006.1	Genbank	CDS	393970	394743	.	-	0	transcript_id "rna-ACYAQ4_002272-T1_mrna"; gene_id "gene-ACYAQ4_002272";
+JBWZMV010000006.1	Genbank	transcript	863445	864235	.	+	.	transcript_id "rna-ACYAQ4_002432-T1_mrna"; gene_id "gene-ACYAQ4_002432"; gene_name "ISY1"
+JBWZMV010000006.1	Genbank	exon	863445	863447	.	+	.	transcript_id "rna-ACYAQ4_002432-T1_mrna"; gene_id "gene-ACYAQ4_002432"; gene_name "ISY1";
+JBWZMV010000006.1	Genbank	exon	863504	864235	.	+	.	transcript_id "rna-ACYAQ4_002432-T1_mrna"; gene_id "gene-ACYAQ4_002432"; gene_name "ISY1";
+JBWZMV010000006.1	Genbank	CDS	863445	863447	.	+	0	transcript_id "rna-ACYAQ4_002432-T1_mrna"; gene_id "gene-ACYAQ4_002432"; gene_name "ISY1";
+JBWZMV010000006.1	Genbank	CDS	863504	864235	.	+	0	transcript_id "rna-ACYAQ4_002432-T1_mrna"; gene_id "gene-ACYAQ4_002432"; gene_name "ISY1";
+JBWZMV010000008.1	Genbank	transcript	28748	30782	.	-	.	transcript_id "rna-ACYAQ4_002780-T1_mrna"; gene_id "gene-ACYAQ4_002780"
+JBWZMV010000008.1	Genbank	exon	28748	28758	.	-	.	transcript_id "rna-ACYAQ4_002780-T1_mrna"; gene_id "gene-ACYAQ4_002780";
+JBWZMV010000008.1	Genbank	exon	28793	30782	.	-	.	transcript_id "rna-ACYAQ4_002780-T1_mrna"; gene_id "gene-ACYAQ4_002780";
+JBWZMV010000008.1	Genbank	CDS	28748	28758	.	-	2	transcript_id "rna-ACYAQ4_002780-T1_mrna"; gene_id "gene-ACYAQ4_002780";
+JBWZMV010000008.1	Genbank	CDS	28793	30782	.	-	0	transcript_id "rna-ACYAQ4_002780-T1_mrna"; gene_id "gene-ACYAQ4_002780";
+JBWZMV010000008.1	Genbank	transcript	168147	169005	.	-	.	transcript_id "rna-ACYAQ4_002823-T1_mrna"; gene_id "gene-ACYAQ4_002823"; gene_name "CWC15"
+JBWZMV010000008.1	Genbank	exon	168147	168410	.	-	.	transcript_id "rna-ACYAQ4_002823-T1_mrna"; gene_id "gene-ACYAQ4_002823"; gene_name "CWC15";
+JBWZMV010000008.1	Genbank	exon	168467	168925	.	-	.	transcript_id "rna-ACYAQ4_002823-T1_mrna"; gene_id "gene-ACYAQ4_002823"; gene_name "CWC15";
+JBWZMV010000008.1	Genbank	exon	168973	169005	.	-	.	transcript_id "rna-ACYAQ4_002823-T1_mrna"; gene_id "gene-ACYAQ4_002823"; gene_name "CWC15";
+JBWZMV010000008.1	Genbank	CDS	168147	168410	.	-	0	transcript_id "rna-ACYAQ4_002823-T1_mrna"; gene_id "gene-ACYAQ4_002823"; gene_name "CWC15";
+JBWZMV010000008.1	Genbank	CDS	168467	168925	.	-	0	transcript_id "rna-ACYAQ4_002823-T1_mrna"; gene_id "gene-ACYAQ4_002823"; gene_name "CWC15";
+JBWZMV010000008.1	Genbank	CDS	168973	169005	.	-	0	transcript_id "rna-ACYAQ4_002823-T1_mrna"; gene_id "gene-ACYAQ4_002823"; gene_name "CWC15";
+JBWZMV010000008.1	Genbank	transcript	169246	170179	.	+	.	transcript_id "rna-ACYAQ4_002824-T1_mrna"; gene_id "gene-ACYAQ4_002824"; gene_name "RRP45"
+JBWZMV010000008.1	Genbank	exon	169246	169409	.	+	.	transcript_id "rna-ACYAQ4_002824-T1_mrna"; gene_id "gene-ACYAQ4_002824"; gene_name "RRP45";
+JBWZMV010000008.1	Genbank	exon	169462	170179	.	+	.	transcript_id "rna-ACYAQ4_002824-T1_mrna"; gene_id "gene-ACYAQ4_002824"; gene_name "RRP45";
+JBWZMV010000008.1	Genbank	CDS	169246	169409	.	+	0	transcript_id "rna-ACYAQ4_002824-T1_mrna"; gene_id "gene-ACYAQ4_002824"; gene_name "RRP45";
+JBWZMV010000008.1	Genbank	CDS	169462	170179	.	+	1	transcript_id "rna-ACYAQ4_002824-T1_mrna"; gene_id "gene-ACYAQ4_002824"; gene_name "RRP45";
+JBWZMV010000008.1	Genbank	transcript	389942	391337	.	-	.	transcript_id "rna-ACYAQ4_002888-T1_mrna"; gene_id "gene-ACYAQ4_002888"; gene_name "FYV10"
+JBWZMV010000008.1	Genbank	exon	389942	390619	.	-	.	transcript_id "rna-ACYAQ4_002888-T1_mrna"; gene_id "gene-ACYAQ4_002888"; gene_name "FYV10";
+JBWZMV010000008.1	Genbank	exon	390672	391211	.	-	.	transcript_id "rna-ACYAQ4_002888-T1_mrna"; gene_id "gene-ACYAQ4_002888"; gene_name "FYV10";
+JBWZMV010000008.1	Genbank	exon	391287	391337	.	-	.	transcript_id "rna-ACYAQ4_002888-T1_mrna"; gene_id "gene-ACYAQ4_002888"; gene_name "FYV10";
+JBWZMV010000008.1	Genbank	CDS	389942	390619	.	-	0	transcript_id "rna-ACYAQ4_002888-T1_mrna"; gene_id "gene-ACYAQ4_002888"; gene_name "FYV10";
+JBWZMV010000008.1	Genbank	CDS	390672	391211	.	-	0	transcript_id "rna-ACYAQ4_002888-T1_mrna"; gene_id "gene-ACYAQ4_002888"; gene_name "FYV10";
+JBWZMV010000008.1	Genbank	CDS	391287	391337	.	-	0	transcript_id "rna-ACYAQ4_002888-T1_mrna"; gene_id "gene-ACYAQ4_002888"; gene_name "FYV10";
+JBWZMV010000008.1	Genbank	transcript	460597	462117	.	-	.	transcript_id "rna-ACYAQ4_002908-T1_mrna"; gene_id "gene-ACYAQ4_002908"; gene_name "MAK11"
+JBWZMV010000008.1	Genbank	exon	460597	462117	.	-	.	transcript_id "rna-ACYAQ4_002908-T1_mrna"; gene_id "gene-ACYAQ4_002908"; gene_name "MAK11";
+JBWZMV010000008.1	Genbank	CDS	460597	462117	.	-	0	transcript_id "rna-ACYAQ4_002908-T1_mrna"; gene_id "gene-ACYAQ4_002908"; gene_name "MAK11";
+JBWZMV010000008.1	Genbank	transcript	530798	531551	.	-	.	transcript_id "rna-ACYAQ4_002931-T1_mrna"; gene_id "gene-ACYAQ4_002931"; gene_name "rpc25"
+JBWZMV010000008.1	Genbank	exon	530798	531017	.	-	.	transcript_id "rna-ACYAQ4_002931-T1_mrna"; gene_id "gene-ACYAQ4_002931"; gene_name "rpc25";
+JBWZMV010000008.1	Genbank	exon	531077	531227	.	-	.	transcript_id "rna-ACYAQ4_002931-T1_mrna"; gene_id "gene-ACYAQ4_002931"; gene_name "rpc25";
+JBWZMV010000008.1	Genbank	exon	531289	531484	.	-	.	transcript_id "rna-ACYAQ4_002931-T1_mrna"; gene_id "gene-ACYAQ4_002931"; gene_name "rpc25";
+JBWZMV010000008.1	Genbank	exon	531540	531551	.	-	.	transcript_id "rna-ACYAQ4_002931-T1_mrna"; gene_id "gene-ACYAQ4_002931"; gene_name "rpc25";
+JBWZMV010000008.1	Genbank	CDS	530798	531017	.	-	1	transcript_id "rna-ACYAQ4_002931-T1_mrna"; gene_id "gene-ACYAQ4_002931"; gene_name "rpc25";
+JBWZMV010000008.1	Genbank	CDS	531077	531227	.	-	2	transcript_id "rna-ACYAQ4_002931-T1_mrna"; gene_id "gene-ACYAQ4_002931"; gene_name "rpc25";
+JBWZMV010000008.1	Genbank	CDS	531289	531484	.	-	0	transcript_id "rna-ACYAQ4_002931-T1_mrna"; gene_id "gene-ACYAQ4_002931"; gene_name "rpc25";
+JBWZMV010000008.1	Genbank	CDS	531540	531551	.	-	0	transcript_id "rna-ACYAQ4_002931-T1_mrna"; gene_id "gene-ACYAQ4_002931"; gene_name "rpc25";
+JBWZMV010000008.1	Genbank	transcript	563497	564570	.	+	.	transcript_id "rna-ACYAQ4_002948-T1_mrna"; gene_id "gene-ACYAQ4_002948"
+JBWZMV010000008.1	Genbank	exon	563497	563957	.	+	.	transcript_id "rna-ACYAQ4_002948-T1_mrna"; gene_id "gene-ACYAQ4_002948";
+JBWZMV010000008.1	Genbank	exon	564009	564570	.	+	.	transcript_id "rna-ACYAQ4_002948-T1_mrna"; gene_id "gene-ACYAQ4_002948";
+JBWZMV010000008.1	Genbank	CDS	563497	563957	.	+	0	transcript_id "rna-ACYAQ4_002948-T1_mrna"; gene_id "gene-ACYAQ4_002948";
+JBWZMV010000008.1	Genbank	CDS	564009	564570	.	+	1	transcript_id "rna-ACYAQ4_002948-T1_mrna"; gene_id "gene-ACYAQ4_002948";
+JBWZMV010000008.1	Genbank	transcript	706439	707601	.	-	.	transcript_id "rna-ACYAQ4_002986-T1_mrna"; gene_id "gene-ACYAQ4_002986"; gene_name "GCN3"
+JBWZMV010000008.1	Genbank	exon	706439	706540	.	-	.	transcript_id "rna-ACYAQ4_002986-T1_mrna"; gene_id "gene-ACYAQ4_002986"; gene_name "GCN3";
+JBWZMV010000008.1	Genbank	exon	706596	707418	.	-	.	transcript_id "rna-ACYAQ4_002986-T1_mrna"; gene_id "gene-ACYAQ4_002986"; gene_name "GCN3";
+JBWZMV010000008.1	Genbank	exon	707474	707525	.	-	.	transcript_id "rna-ACYAQ4_002986-T1_mrna"; gene_id "gene-ACYAQ4_002986"; gene_name "GCN3";
+JBWZMV010000008.1	Genbank	exon	707580	707601	.	-	.	transcript_id "rna-ACYAQ4_002986-T1_mrna"; gene_id "gene-ACYAQ4_002986"; gene_name "GCN3";
+JBWZMV010000008.1	Genbank	CDS	706439	706540	.	-	0	transcript_id "rna-ACYAQ4_002986-T1_mrna"; gene_id "gene-ACYAQ4_002986"; gene_name "GCN3";
+JBWZMV010000008.1	Genbank	CDS	706596	707418	.	-	1	transcript_id "rna-ACYAQ4_002986-T1_mrna"; gene_id "gene-ACYAQ4_002986"; gene_name "GCN3";
+JBWZMV010000008.1	Genbank	CDS	707474	707525	.	-	2	transcript_id "rna-ACYAQ4_002986-T1_mrna"; gene_id "gene-ACYAQ4_002986"; gene_name "GCN3";
+JBWZMV010000008.1	Genbank	CDS	707580	707601	.	-	0	transcript_id "rna-ACYAQ4_002986-T1_mrna"; gene_id "gene-ACYAQ4_002986"; gene_name "GCN3";
+JBWZMV010000009.1	Genbank	transcript	215198	216749	.	-	.	transcript_id "rna-ACYAQ4_003094-T1_mrna"; gene_id "gene-ACYAQ4_003094"; gene_name "HAT1"
+JBWZMV010000009.1	Genbank	exon	215198	216327	.	-	.	transcript_id "rna-ACYAQ4_003094-T1_mrna"; gene_id "gene-ACYAQ4_003094"; gene_name "HAT1";
+JBWZMV010000009.1	Genbank	exon	216378	216659	.	-	.	transcript_id "rna-ACYAQ4_003094-T1_mrna"; gene_id "gene-ACYAQ4_003094"; gene_name "HAT1";
+JBWZMV010000009.1	Genbank	exon	216722	216749	.	-	.	transcript_id "rna-ACYAQ4_003094-T1_mrna"; gene_id "gene-ACYAQ4_003094"; gene_name "HAT1";
+JBWZMV010000009.1	Genbank	CDS	215198	216327	.	-	2	transcript_id "rna-ACYAQ4_003094-T1_mrna"; gene_id "gene-ACYAQ4_003094"; gene_name "HAT1";
+JBWZMV010000009.1	Genbank	CDS	216378	216659	.	-	2	transcript_id "rna-ACYAQ4_003094-T1_mrna"; gene_id "gene-ACYAQ4_003094"; gene_name "HAT1";
+JBWZMV010000009.1	Genbank	CDS	216722	216749	.	-	0	transcript_id "rna-ACYAQ4_003094-T1_mrna"; gene_id "gene-ACYAQ4_003094"; gene_name "HAT1";
+JBWZMV010000009.1	Genbank	transcript	373228	376015	.	+	.	transcript_id "rna-ACYAQ4_003145-T1_mrna"; gene_id "gene-ACYAQ4_003145"; gene_name "NOP14"
+JBWZMV010000009.1	Genbank	exon	373228	373524	.	+	.	transcript_id "rna-ACYAQ4_003145-T1_mrna"; gene_id "gene-ACYAQ4_003145"; gene_name "NOP14";
+JBWZMV010000009.1	Genbank	exon	373580	376015	.	+	.	transcript_id "rna-ACYAQ4_003145-T1_mrna"; gene_id "gene-ACYAQ4_003145"; gene_name "NOP14";
+JBWZMV010000009.1	Genbank	CDS	373228	373524	.	+	0	transcript_id "rna-ACYAQ4_003145-T1_mrna"; gene_id "gene-ACYAQ4_003145"; gene_name "NOP14";
+JBWZMV010000009.1	Genbank	CDS	373580	376015	.	+	0	transcript_id "rna-ACYAQ4_003145-T1_mrna"; gene_id "gene-ACYAQ4_003145"; gene_name "NOP14";
+JBWZMV010000010.1	Genbank	transcript	6959	7876	.	-	.	transcript_id "rna-ACYAQ4_003275-T1_mrna"; gene_id "gene-ACYAQ4_003275"
+JBWZMV010000010.1	Genbank	exon	6959	7476	.	-	.	transcript_id "rna-ACYAQ4_003275-T1_mrna"; gene_id "gene-ACYAQ4_003275";
+JBWZMV010000010.1	Genbank	exon	7519	7876	.	-	.	transcript_id "rna-ACYAQ4_003275-T1_mrna"; gene_id "gene-ACYAQ4_003275";
+JBWZMV010000010.1	Genbank	CDS	6959	7476	.	-	2	transcript_id "rna-ACYAQ4_003275-T1_mrna"; gene_id "gene-ACYAQ4_003275";
+JBWZMV010000010.1	Genbank	CDS	7519	7876	.	-	0	transcript_id "rna-ACYAQ4_003275-T1_mrna"; gene_id "gene-ACYAQ4_003275";
+JBWZMV010000010.1	Genbank	transcript	492232	492918	.	-	.	transcript_id "rna-ACYAQ4_003409-T1_mrna"; gene_id "gene-ACYAQ4_003409"
+JBWZMV010000010.1	Genbank	exon	492232	492918	.	-	.	transcript_id "rna-ACYAQ4_003409-T1_mrna"; gene_id "gene-ACYAQ4_003409";
+JBWZMV010000010.1	Genbank	CDS	492232	492918	.	-	0	transcript_id "rna-ACYAQ4_003409-T1_mrna"; gene_id "gene-ACYAQ4_003409";
+JBWZMV010000010.1	Genbank	transcript	568617	570063	.	+	.	transcript_id "rna-ACYAQ4_003429-T1_mrna"; gene_id "gene-ACYAQ4_003429"
+JBWZMV010000010.1	Genbank	exon	568617	569229	.	+	.	transcript_id "rna-ACYAQ4_003429-T1_mrna"; gene_id "gene-ACYAQ4_003429";
+JBWZMV010000010.1	Genbank	exon	569285	570063	.	+	.	transcript_id "rna-ACYAQ4_003429-T1_mrna"; gene_id "gene-ACYAQ4_003429";
+JBWZMV010000010.1	Genbank	CDS	568617	569229	.	+	0	transcript_id "rna-ACYAQ4_003429-T1_mrna"; gene_id "gene-ACYAQ4_003429";
+JBWZMV010000010.1	Genbank	CDS	569285	570063	.	+	2	transcript_id "rna-ACYAQ4_003429-T1_mrna"; gene_id "gene-ACYAQ4_003429";
+JBWZMV010000010.1	Genbank	transcript	639034	641088	.	+	.	transcript_id "rna-ACYAQ4_003453-T1_mrna"; gene_id "gene-ACYAQ4_003453"; gene_name "RRN3"
+JBWZMV010000010.1	Genbank	exon	639034	641088	.	+	.	transcript_id "rna-ACYAQ4_003453-T1_mrna"; gene_id "gene-ACYAQ4_003453"; gene_name "RRN3";
+JBWZMV010000010.1	Genbank	CDS	639034	641088	.	+	0	transcript_id "rna-ACYAQ4_003453-T1_mrna"; gene_id "gene-ACYAQ4_003453"; gene_name "RRN3";
+JBWZMV010000011.1	Genbank	transcript	604639	605494	.	-	.	transcript_id "rna-ACYAQ4_003678-T1_mrna"; gene_id "gene-ACYAQ4_003678"
+JBWZMV010000011.1	Genbank	exon	604639	605349	.	-	.	transcript_id "rna-ACYAQ4_003678-T1_mrna"; gene_id "gene-ACYAQ4_003678";
+JBWZMV010000011.1	Genbank	exon	605399	605494	.	-	.	transcript_id "rna-ACYAQ4_003678-T1_mrna"; gene_id "gene-ACYAQ4_003678";
+JBWZMV010000011.1	Genbank	CDS	604639	605349	.	-	0	transcript_id "rna-ACYAQ4_003678-T1_mrna"; gene_id "gene-ACYAQ4_003678";
+JBWZMV010000011.1	Genbank	CDS	605399	605494	.	-	0	transcript_id "rna-ACYAQ4_003678-T1_mrna"; gene_id "gene-ACYAQ4_003678";
+JBWZMV010000012.1	Genbank	transcript	309389	310291	.	-	.	transcript_id "rna-ACYAQ4_003778-T1_mrna"; gene_id "gene-ACYAQ4_003778"; gene_name "RPP1"
+JBWZMV010000012.1	Genbank	exon	309389	309843	.	-	.	transcript_id "rna-ACYAQ4_003778-T1_mrna"; gene_id "gene-ACYAQ4_003778"; gene_name "RPP1";
+JBWZMV010000012.1	Genbank	exon	309901	310291	.	-	.	transcript_id "rna-ACYAQ4_003778-T1_mrna"; gene_id "gene-ACYAQ4_003778"; gene_name "RPP1";
+JBWZMV010000012.1	Genbank	CDS	309389	309843	.	-	2	transcript_id "rna-ACYAQ4_003778-T1_mrna"; gene_id "gene-ACYAQ4_003778"; gene_name "RPP1";
+JBWZMV010000012.1	Genbank	CDS	309901	310291	.	-	0	transcript_id "rna-ACYAQ4_003778-T1_mrna"; gene_id "gene-ACYAQ4_003778"; gene_name "RPP1";
+JBWZMV010000012.1	Genbank	transcript	350806	352618	.	-	.	transcript_id "rna-ACYAQ4_003793-T1_mrna"; gene_id "gene-ACYAQ4_003793"; gene_name "CSN12"
+JBWZMV010000012.1	Genbank	exon	350806	350889	.	-	.	transcript_id "rna-ACYAQ4_003793-T1_mrna"; gene_id "gene-ACYAQ4_003793"; gene_name "CSN12";
+JBWZMV010000012.1	Genbank	exon	351143	351554	.	-	.	transcript_id "rna-ACYAQ4_003793-T1_mrna"; gene_id "gene-ACYAQ4_003793"; gene_name "CSN12";
+JBWZMV010000012.1	Genbank	exon	351601	351662	.	-	.	transcript_id "rna-ACYAQ4_003793-T1_mrna"; gene_id "gene-ACYAQ4_003793"; gene_name "CSN12";
+JBWZMV010000012.1	Genbank	exon	351711	351942	.	-	.	transcript_id "rna-ACYAQ4_003793-T1_mrna"; gene_id "gene-ACYAQ4_003793"; gene_name "CSN12";
+JBWZMV010000012.1	Genbank	exon	351991	352283	.	-	.	transcript_id "rna-ACYAQ4_003793-T1_mrna"; gene_id "gene-ACYAQ4_003793"; gene_name "CSN12";
+JBWZMV010000012.1	Genbank	exon	352334	352618	.	-	.	transcript_id "rna-ACYAQ4_003793-T1_mrna"; gene_id "gene-ACYAQ4_003793"; gene_name "CSN12";
+JBWZMV010000012.1	Genbank	CDS	350806	350889	.	-	0	transcript_id "rna-ACYAQ4_003793-T1_mrna"; gene_id "gene-ACYAQ4_003793"; gene_name "CSN12";
+JBWZMV010000012.1	Genbank	CDS	351143	351554	.	-	1	transcript_id "rna-ACYAQ4_003793-T1_mrna"; gene_id "gene-ACYAQ4_003793"; gene_name "CSN12";
+JBWZMV010000012.1	Genbank	CDS	351601	351662	.	-	0	transcript_id "rna-ACYAQ4_003793-T1_mrna"; gene_id "gene-ACYAQ4_003793"; gene_name "CSN12";
+JBWZMV010000012.1	Genbank	CDS	351711	351942	.	-	1	transcript_id "rna-ACYAQ4_003793-T1_mrna"; gene_id "gene-ACYAQ4_003793"; gene_name "CSN12";
+JBWZMV010000012.1	Genbank	CDS	351991	352283	.	-	0	transcript_id "rna-ACYAQ4_003793-T1_mrna"; gene_id "gene-ACYAQ4_003793"; gene_name "CSN12";
+JBWZMV010000012.1	Genbank	CDS	352334	352618	.	-	0	transcript_id "rna-ACYAQ4_003793-T1_mrna"; gene_id "gene-ACYAQ4_003793"; gene_name "CSN12";
+JBWZMV010000012.1	Genbank	transcript	632840	634640	.	-	.	transcript_id "rna-ACYAQ4_003877-T1_mrna"; gene_id "gene-ACYAQ4_003877"; gene_name "TRM6"
+JBWZMV010000012.1	Genbank	exon	632840	634496	.	-	.	transcript_id "rna-ACYAQ4_003877-T1_mrna"; gene_id "gene-ACYAQ4_003877"; gene_name "TRM6";
+JBWZMV010000012.1	Genbank	exon	634552	634640	.	-	.	transcript_id "rna-ACYAQ4_003877-T1_mrna"; gene_id "gene-ACYAQ4_003877"; gene_name "TRM6";
+JBWZMV010000012.1	Genbank	CDS	632840	634496	.	-	1	transcript_id "rna-ACYAQ4_003877-T1_mrna"; gene_id "gene-ACYAQ4_003877"; gene_name "TRM6";
+JBWZMV010000012.1	Genbank	CDS	634552	634640	.	-	0	transcript_id "rna-ACYAQ4_003877-T1_mrna"; gene_id "gene-ACYAQ4_003877"; gene_name "TRM6";
+JBWZMV010000013.1	Genbank	transcript	359524	360998	.	+	.	transcript_id "rna-ACYAQ4_004011-T1_mrna"; gene_id "gene-ACYAQ4_004011"
+JBWZMV010000013.1	Genbank	exon	359524	360101	.	+	.	transcript_id "rna-ACYAQ4_004011-T1_mrna"; gene_id "gene-ACYAQ4_004011";
+JBWZMV010000013.1	Genbank	exon	360167	360998	.	+	.	transcript_id "rna-ACYAQ4_004011-T1_mrna"; gene_id "gene-ACYAQ4_004011";
+JBWZMV010000013.1	Genbank	CDS	359524	360101	.	+	0	transcript_id "rna-ACYAQ4_004011-T1_mrna"; gene_id "gene-ACYAQ4_004011";
+JBWZMV010000013.1	Genbank	CDS	360167	360998	.	+	1	transcript_id "rna-ACYAQ4_004011-T1_mrna"; gene_id "gene-ACYAQ4_004011";
+JBWZMV010000014.1	Genbank	transcript	52993	54456	.	-	.	transcript_id "rna-ACYAQ4_004105-T1_mrna"; gene_id "gene-ACYAQ4_004105"; gene_name "cdc1"
+JBWZMV010000014.1	Genbank	exon	52993	53213	.	-	.	transcript_id "rna-ACYAQ4_004105-T1_mrna"; gene_id "gene-ACYAQ4_004105"; gene_name "cdc1";
+JBWZMV010000014.1	Genbank	exon	53264	54191	.	-	.	transcript_id "rna-ACYAQ4_004105-T1_mrna"; gene_id "gene-ACYAQ4_004105"; gene_name "cdc1";
+JBWZMV010000014.1	Genbank	exon	54250	54456	.	-	.	transcript_id "rna-ACYAQ4_004105-T1_mrna"; gene_id "gene-ACYAQ4_004105"; gene_name "cdc1";
+JBWZMV010000014.1	Genbank	CDS	52993	53213	.	-	2	transcript_id "rna-ACYAQ4_004105-T1_mrna"; gene_id "gene-ACYAQ4_004105"; gene_name "cdc1";
+JBWZMV010000014.1	Genbank	CDS	53264	54191	.	-	0	transcript_id "rna-ACYAQ4_004105-T1_mrna"; gene_id "gene-ACYAQ4_004105"; gene_name "cdc1";
+JBWZMV010000014.1	Genbank	CDS	54250	54456	.	-	0	transcript_id "rna-ACYAQ4_004105-T1_mrna"; gene_id "gene-ACYAQ4_004105"; gene_name "cdc1";
+JBWZMV010000014.1	Genbank	transcript	250351	251389	.	+	.	transcript_id "rna-ACYAQ4_004162-T1_mrna"; gene_id "gene-ACYAQ4_004162"
+JBWZMV010000014.1	Genbank	exon	250351	250688	.	+	.	transcript_id "rna-ACYAQ4_004162-T1_mrna"; gene_id "gene-ACYAQ4_004162";
+JBWZMV010000014.1	Genbank	exon	250741	251389	.	+	.	transcript_id "rna-ACYAQ4_004162-T1_mrna"; gene_id "gene-ACYAQ4_004162";
+JBWZMV010000014.1	Genbank	CDS	250351	250688	.	+	0	transcript_id "rna-ACYAQ4_004162-T1_mrna"; gene_id "gene-ACYAQ4_004162";
+JBWZMV010000014.1	Genbank	CDS	250741	251389	.	+	1	transcript_id "rna-ACYAQ4_004162-T1_mrna"; gene_id "gene-ACYAQ4_004162";
+JBWZMV010000014.1	Genbank	transcript	273809	276424	.	-	.	transcript_id "rna-ACYAQ4_004171-T1_mrna"; gene_id "gene-ACYAQ4_004171"; gene_name "cbc1"
+JBWZMV010000014.1	Genbank	exon	273809	274596	.	-	.	transcript_id "rna-ACYAQ4_004171-T1_mrna"; gene_id "gene-ACYAQ4_004171"; gene_name "cbc1";
+JBWZMV010000014.1	Genbank	exon	274659	275739	.	-	.	transcript_id "rna-ACYAQ4_004171-T1_mrna"; gene_id "gene-ACYAQ4_004171"; gene_name "cbc1";
+JBWZMV010000014.1	Genbank	exon	275799	276274	.	-	.	transcript_id "rna-ACYAQ4_004171-T1_mrna"; gene_id "gene-ACYAQ4_004171"; gene_name "cbc1";
+JBWZMV010000014.1	Genbank	exon	276364	276424	.	-	.	transcript_id "rna-ACYAQ4_004171-T1_mrna"; gene_id "gene-ACYAQ4_004171"; gene_name "cbc1";
+JBWZMV010000014.1	Genbank	CDS	273809	274596	.	-	2	transcript_id "rna-ACYAQ4_004171-T1_mrna"; gene_id "gene-ACYAQ4_004171"; gene_name "cbc1";
+JBWZMV010000014.1	Genbank	CDS	274659	275739	.	-	0	transcript_id "rna-ACYAQ4_004171-T1_mrna"; gene_id "gene-ACYAQ4_004171"; gene_name "cbc1";
+JBWZMV010000014.1	Genbank	CDS	275799	276274	.	-	2	transcript_id "rna-ACYAQ4_004171-T1_mrna"; gene_id "gene-ACYAQ4_004171"; gene_name "cbc1";
+JBWZMV010000014.1	Genbank	CDS	276364	276424	.	-	0	transcript_id "rna-ACYAQ4_004171-T1_mrna"; gene_id "gene-ACYAQ4_004171"; gene_name "cbc1";
+JBWZMV010000014.1	Genbank	transcript	466193	467932	.	+	.	transcript_id "rna-ACYAQ4_004218-T1_mrna"; gene_id "gene-ACYAQ4_004218"; gene_name "RRP9"
+JBWZMV010000014.1	Genbank	exon	466193	467932	.	+	.	transcript_id "rna-ACYAQ4_004218-T1_mrna"; gene_id "gene-ACYAQ4_004218"; gene_name "RRP9";
+JBWZMV010000014.1	Genbank	CDS	466193	467932	.	+	0	transcript_id "rna-ACYAQ4_004218-T1_mrna"; gene_id "gene-ACYAQ4_004218"; gene_name "RRP9";
+JBWZMV010000014.1	Genbank	transcript	515624	518422	.	-	.	transcript_id "rna-ACYAQ4_004234-T1_mrna"; gene_id "gene-ACYAQ4_004234"; gene_name "utp13"
+JBWZMV010000014.1	Genbank	exon	515624	518118	.	-	.	transcript_id "rna-ACYAQ4_004234-T1_mrna"; gene_id "gene-ACYAQ4_004234"; gene_name "utp13";
+JBWZMV010000014.1	Genbank	exon	518168	518195	.	-	.	transcript_id "rna-ACYAQ4_004234-T1_mrna"; gene_id "gene-ACYAQ4_004234"; gene_name "utp13";
+JBWZMV010000014.1	Genbank	exon	518246	518422	.	-	.	transcript_id "rna-ACYAQ4_004234-T1_mrna"; gene_id "gene-ACYAQ4_004234"; gene_name "utp13";
+JBWZMV010000014.1	Genbank	CDS	515624	518118	.	-	2	transcript_id "rna-ACYAQ4_004234-T1_mrna"; gene_id "gene-ACYAQ4_004234"; gene_name "utp13";
+JBWZMV010000014.1	Genbank	CDS	518168	518195	.	-	0	transcript_id "rna-ACYAQ4_004234-T1_mrna"; gene_id "gene-ACYAQ4_004234"; gene_name "utp13";
+JBWZMV010000014.1	Genbank	CDS	518246	518422	.	-	0	transcript_id "rna-ACYAQ4_004234-T1_mrna"; gene_id "gene-ACYAQ4_004234"; gene_name "utp13";
+JBWZMV010000016.1	Genbank	transcript	110961	112475	.	+	.	transcript_id "rna-ACYAQ4_004530-T1_mrna"; gene_id "gene-ACYAQ4_004530"; gene_name "TRM61"
+JBWZMV010000016.1	Genbank	exon	110961	112475	.	+	.	transcript_id "rna-ACYAQ4_004530-T1_mrna"; gene_id "gene-ACYAQ4_004530"; gene_name "TRM61";
+JBWZMV010000016.1	Genbank	CDS	110961	112475	.	+	0	transcript_id "rna-ACYAQ4_004530-T1_mrna"; gene_id "gene-ACYAQ4_004530"; gene_name "TRM61";
+JBWZMV010000016.1	Genbank	transcript	328683	329394	.	-	.	transcript_id "rna-ACYAQ4_004608-T1_mrna"; gene_id "gene-ACYAQ4_004608"; gene_name "nop16"
+JBWZMV010000016.1	Genbank	exon	328683	329223	.	-	.	transcript_id "rna-ACYAQ4_004608-T1_mrna"; gene_id "gene-ACYAQ4_004608"; gene_name "nop16";
+JBWZMV010000016.1	Genbank	exon	329279	329394	.	-	.	transcript_id "rna-ACYAQ4_004608-T1_mrna"; gene_id "gene-ACYAQ4_004608"; gene_name "nop16";
+JBWZMV010000016.1	Genbank	CDS	328683	329223	.	-	1	transcript_id "rna-ACYAQ4_004608-T1_mrna"; gene_id "gene-ACYAQ4_004608"; gene_name "nop16";
+JBWZMV010000016.1	Genbank	CDS	329279	329394	.	-	0	transcript_id "rna-ACYAQ4_004608-T1_mrna"; gene_id "gene-ACYAQ4_004608"; gene_name "nop16";
+JBWZMV010000016.1	Genbank	transcript	500527	501054	.	-	.	transcript_id "rna-ACYAQ4_004660-T1_mrna"; gene_id "gene-ACYAQ4_004660"; gene_name "MED6"
+JBWZMV010000016.1	Genbank	exon	500527	501054	.	-	.	transcript_id "rna-ACYAQ4_004660-T1_mrna"; gene_id "gene-ACYAQ4_004660"; gene_name "MED6";
+JBWZMV010000016.1	Genbank	CDS	500527	501054	.	-	0	transcript_id "rna-ACYAQ4_004660-T1_mrna"; gene_id "gene-ACYAQ4_004660"; gene_name "MED6";
+JBWZMV010000017.1	Genbank	transcript	398087	399427	.	+	.	transcript_id "rna-ACYAQ4_004828-T1_mrna"; gene_id "gene-ACYAQ4_004828"; gene_name "COG5"
+JBWZMV010000017.1	Genbank	exon	398087	399427	.	+	.	transcript_id "rna-ACYAQ4_004828-T1_mrna"; gene_id "gene-ACYAQ4_004828"; gene_name "COG5";
+JBWZMV010000017.1	Genbank	CDS	398087	399427	.	+	0	transcript_id "rna-ACYAQ4_004828-T1_mrna"; gene_id "gene-ACYAQ4_004828"; gene_name "COG5";
+JBWZMV010000018.1	Genbank	transcript	25124	26230	.	+	.	transcript_id "rna-ACYAQ4_004892-T1_mrna"; gene_id "gene-ACYAQ4_004892"; gene_name "ETF1"
+JBWZMV010000018.1	Genbank	exon	25124	25423	.	+	.	transcript_id "rna-ACYAQ4_004892-T1_mrna"; gene_id "gene-ACYAQ4_004892"; gene_name "ETF1";
+JBWZMV010000018.1	Genbank	exon	25484	26230	.	+	.	transcript_id "rna-ACYAQ4_004892-T1_mrna"; gene_id "gene-ACYAQ4_004892"; gene_name "ETF1";
+JBWZMV010000018.1	Genbank	CDS	25124	25423	.	+	0	transcript_id "rna-ACYAQ4_004892-T1_mrna"; gene_id "gene-ACYAQ4_004892"; gene_name "ETF1";
+JBWZMV010000018.1	Genbank	CDS	25484	26230	.	+	0	transcript_id "rna-ACYAQ4_004892-T1_mrna"; gene_id "gene-ACYAQ4_004892"; gene_name "ETF1";
+JBWZMV010000018.1	Genbank	transcript	243535	246490	.	-	.	transcript_id "rna-ACYAQ4_004960-T1_mrna"; gene_id "gene-ACYAQ4_004960"; gene_name "ctf18"
+JBWZMV010000018.1	Genbank	exon	243535	243973	.	-	.	transcript_id "rna-ACYAQ4_004960-T1_mrna"; gene_id "gene-ACYAQ4_004960"; gene_name "ctf18";
+JBWZMV010000018.1	Genbank	exon	244029	246490	.	-	.	transcript_id "rna-ACYAQ4_004960-T1_mrna"; gene_id "gene-ACYAQ4_004960"; gene_name "ctf18";
+JBWZMV010000018.1	Genbank	CDS	243535	243973	.	-	1	transcript_id "rna-ACYAQ4_004960-T1_mrna"; gene_id "gene-ACYAQ4_004960"; gene_name "ctf18";
+JBWZMV010000018.1	Genbank	CDS	244029	246490	.	-	0	transcript_id "rna-ACYAQ4_004960-T1_mrna"; gene_id "gene-ACYAQ4_004960"; gene_name "ctf18";
+JBWZMV010000019.1	Genbank	transcript	435277	437397	.	-	.	transcript_id "rna-ACYAQ4_005203-T1_mrna"; gene_id "gene-ACYAQ4_005203"; gene_name "MPP10"
+JBWZMV010000019.1	Genbank	exon	435277	437397	.	-	.	transcript_id "rna-ACYAQ4_005203-T1_mrna"; gene_id "gene-ACYAQ4_005203"; gene_name "MPP10";
+JBWZMV010000019.1	Genbank	CDS	435277	437397	.	-	0	transcript_id "rna-ACYAQ4_005203-T1_mrna"; gene_id "gene-ACYAQ4_005203"; gene_name "MPP10";
+JBWZMV010000020.1	Genbank	transcript	463346	464518	.	-	.	transcript_id "rna-ACYAQ4_005387-T1_mrna"; gene_id "gene-ACYAQ4_005387"; gene_name "CWC26"
+JBWZMV010000020.1	Genbank	exon	463346	464411	.	-	.	transcript_id "rna-ACYAQ4_005387-T1_mrna"; gene_id "gene-ACYAQ4_005387"; gene_name "CWC26";
+JBWZMV010000020.1	Genbank	exon	464511	464518	.	-	.	transcript_id "rna-ACYAQ4_005387-T1_mrna"; gene_id "gene-ACYAQ4_005387"; gene_name "CWC26";
+JBWZMV010000020.1	Genbank	CDS	463346	464411	.	-	1	transcript_id "rna-ACYAQ4_005387-T1_mrna"; gene_id "gene-ACYAQ4_005387"; gene_name "CWC26";
+JBWZMV010000020.1	Genbank	CDS	464511	464518	.	-	0	transcript_id "rna-ACYAQ4_005387-T1_mrna"; gene_id "gene-ACYAQ4_005387"; gene_name "CWC26";
+JBWZMV010000022.1	Genbank	transcript	303025	306085	.	-	.	transcript_id "rna-ACYAQ4_005665-T1_mrna"; gene_id "gene-ACYAQ4_005665"; gene_name "MAK21"
+JBWZMV010000022.1	Genbank	exon	303025	304264	.	-	.	transcript_id "rna-ACYAQ4_005665-T1_mrna"; gene_id "gene-ACYAQ4_005665"; gene_name "MAK21";
+JBWZMV010000022.1	Genbank	exon	304322	305478	.	-	.	transcript_id "rna-ACYAQ4_005665-T1_mrna"; gene_id "gene-ACYAQ4_005665"; gene_name "MAK21";
+JBWZMV010000022.1	Genbank	exon	305531	306085	.	-	.	transcript_id "rna-ACYAQ4_005665-T1_mrna"; gene_id "gene-ACYAQ4_005665"; gene_name "MAK21";
+JBWZMV010000022.1	Genbank	CDS	303025	304264	.	-	1	transcript_id "rna-ACYAQ4_005665-T1_mrna"; gene_id "gene-ACYAQ4_005665"; gene_name "MAK21";
+JBWZMV010000022.1	Genbank	CDS	304322	305478	.	-	0	transcript_id "rna-ACYAQ4_005665-T1_mrna"; gene_id "gene-ACYAQ4_005665"; gene_name "MAK21";
+JBWZMV010000022.1	Genbank	CDS	305531	306085	.	-	0	transcript_id "rna-ACYAQ4_005665-T1_mrna"; gene_id "gene-ACYAQ4_005665"; gene_name "MAK21";
+JBWZMV010000022.1	Genbank	transcript	318815	320301	.	-	.	transcript_id "rna-ACYAQ4_005671-T1_mrna"; gene_id "gene-ACYAQ4_005671"; gene_name "PRP46"
+JBWZMV010000022.1	Genbank	exon	318815	318900	.	-	.	transcript_id "rna-ACYAQ4_005671-T1_mrna"; gene_id "gene-ACYAQ4_005671"; gene_name "PRP46";
+JBWZMV010000022.1	Genbank	exon	318950	319114	.	-	.	transcript_id "rna-ACYAQ4_005671-T1_mrna"; gene_id "gene-ACYAQ4_005671"; gene_name "PRP46";
+JBWZMV010000022.1	Genbank	exon	319173	320301	.	-	.	transcript_id "rna-ACYAQ4_005671-T1_mrna"; gene_id "gene-ACYAQ4_005671"; gene_name "PRP46";
+JBWZMV010000022.1	Genbank	CDS	318815	318900	.	-	2	transcript_id "rna-ACYAQ4_005671-T1_mrna"; gene_id "gene-ACYAQ4_005671"; gene_name "PRP46";
+JBWZMV010000022.1	Genbank	CDS	318950	319114	.	-	2	transcript_id "rna-ACYAQ4_005671-T1_mrna"; gene_id "gene-ACYAQ4_005671"; gene_name "PRP46";
+JBWZMV010000022.1	Genbank	CDS	319173	320301	.	-	0	transcript_id "rna-ACYAQ4_005671-T1_mrna"; gene_id "gene-ACYAQ4_005671"; gene_name "PRP46";
+JBWZMV010000023.1	Genbank	transcript	149575	152363	.	-	.	transcript_id "rna-ACYAQ4_005770-T1_mrna"; gene_id "gene-ACYAQ4_005770"; gene_name "PWP2"
+JBWZMV010000023.1	Genbank	exon	149575	152116	.	-	.	transcript_id "rna-ACYAQ4_005770-T1_mrna"; gene_id "gene-ACYAQ4_005770"; gene_name "PWP2";
+JBWZMV010000023.1	Genbank	exon	152178	152290	.	-	.	transcript_id "rna-ACYAQ4_005770-T1_mrna"; gene_id "gene-ACYAQ4_005770"; gene_name "PWP2";
+JBWZMV010000023.1	Genbank	exon	152346	152363	.	-	.	transcript_id "rna-ACYAQ4_005770-T1_mrna"; gene_id "gene-ACYAQ4_005770"; gene_name "PWP2";
+JBWZMV010000023.1	Genbank	CDS	149575	152116	.	-	1	transcript_id "rna-ACYAQ4_005770-T1_mrna"; gene_id "gene-ACYAQ4_005770"; gene_name "PWP2";
+JBWZMV010000023.1	Genbank	CDS	152178	152290	.	-	0	transcript_id "rna-ACYAQ4_005770-T1_mrna"; gene_id "gene-ACYAQ4_005770"; gene_name "PWP2";
+JBWZMV010000023.1	Genbank	CDS	152346	152363	.	-	0	transcript_id "rna-ACYAQ4_005770-T1_mrna"; gene_id "gene-ACYAQ4_005770"; gene_name "PWP2";
+JBWZMV010000023.1	Genbank	transcript	179126	179626	.	+	.	transcript_id "rna-ACYAQ4_005778-T1_mrna"; gene_id "gene-ACYAQ4_005778"; gene_name "SPT4"
+JBWZMV010000023.1	Genbank	exon	179126	179209	.	+	.	transcript_id "rna-ACYAQ4_005778-T1_mrna"; gene_id "gene-ACYAQ4_005778"; gene_name "SPT4";
+JBWZMV010000023.1	Genbank	exon	179283	179536	.	+	.	transcript_id "rna-ACYAQ4_005778-T1_mrna"; gene_id "gene-ACYAQ4_005778"; gene_name "SPT4";
+JBWZMV010000023.1	Genbank	exon	179593	179626	.	+	.	transcript_id "rna-ACYAQ4_005778-T1_mrna"; gene_id "gene-ACYAQ4_005778"; gene_name "SPT4";
+JBWZMV010000023.1	Genbank	CDS	179126	179209	.	+	0	transcript_id "rna-ACYAQ4_005778-T1_mrna"; gene_id "gene-ACYAQ4_005778"; gene_name "SPT4";
+JBWZMV010000023.1	Genbank	CDS	179283	179536	.	+	0	transcript_id "rna-ACYAQ4_005778-T1_mrna"; gene_id "gene-ACYAQ4_005778"; gene_name "SPT4";
+JBWZMV010000023.1	Genbank	CDS	179593	179626	.	+	1	transcript_id "rna-ACYAQ4_005778-T1_mrna"; gene_id "gene-ACYAQ4_005778"; gene_name "SPT4";
+JBWZMV010000023.1	Genbank	transcript	181737	182781	.	+	.	transcript_id "rna-ACYAQ4_005780-T1_mrna"; gene_id "gene-ACYAQ4_005780"; gene_name "cwf16"
+JBWZMV010000023.1	Genbank	exon	181737	181847	.	+	.	transcript_id "rna-ACYAQ4_005780-T1_mrna"; gene_id "gene-ACYAQ4_005780"; gene_name "cwf16";
+JBWZMV010000023.1	Genbank	exon	181931	181965	.	+	.	transcript_id "rna-ACYAQ4_005780-T1_mrna"; gene_id "gene-ACYAQ4_005780"; gene_name "cwf16";
+JBWZMV010000023.1	Genbank	exon	182073	182781	.	+	.	transcript_id "rna-ACYAQ4_005780-T1_mrna"; gene_id "gene-ACYAQ4_005780"; gene_name "cwf16";
+JBWZMV010000023.1	Genbank	CDS	181737	181847	.	+	0	transcript_id "rna-ACYAQ4_005780-T1_mrna"; gene_id "gene-ACYAQ4_005780"; gene_name "cwf16";
+JBWZMV010000023.1	Genbank	CDS	181931	181965	.	+	0	transcript_id "rna-ACYAQ4_005780-T1_mrna"; gene_id "gene-ACYAQ4_005780"; gene_name "cwf16";
+JBWZMV010000023.1	Genbank	CDS	182073	182781	.	+	1	transcript_id "rna-ACYAQ4_005780-T1_mrna"; gene_id "gene-ACYAQ4_005780"; gene_name "cwf16";
+JBWZMV010000023.1	Genbank	transcript	310312	311394	.	+	.	transcript_id "rna-ACYAQ4_005823-T1_mrna"; gene_id "gene-ACYAQ4_005823"; gene_name "oca3"
+JBWZMV010000023.1	Genbank	exon	310312	310689	.	+	.	transcript_id "rna-ACYAQ4_005823-T1_mrna"; gene_id "gene-ACYAQ4_005823"; gene_name "oca3";
+JBWZMV010000023.1	Genbank	exon	310743	310949	.	+	.	transcript_id "rna-ACYAQ4_005823-T1_mrna"; gene_id "gene-ACYAQ4_005823"; gene_name "oca3";
+JBWZMV010000023.1	Genbank	exon	311005	311394	.	+	.	transcript_id "rna-ACYAQ4_005823-T1_mrna"; gene_id "gene-ACYAQ4_005823"; gene_name "oca3";
+JBWZMV010000023.1	Genbank	CDS	310312	310689	.	+	0	transcript_id "rna-ACYAQ4_005823-T1_mrna"; gene_id "gene-ACYAQ4_005823"; gene_name "oca3";
+JBWZMV010000023.1	Genbank	CDS	310743	310949	.	+	0	transcript_id "rna-ACYAQ4_005823-T1_mrna"; gene_id "gene-ACYAQ4_005823"; gene_name "oca3";
+JBWZMV010000023.1	Genbank	CDS	311005	311394	.	+	0	transcript_id "rna-ACYAQ4_005823-T1_mrna"; gene_id "gene-ACYAQ4_005823"; gene_name "oca3";
+JBWZMV010000023.1	Genbank	transcript	394979	395981	.	-	.	transcript_id "rna-ACYAQ4_005853-T1_mrna"; gene_id "gene-ACYAQ4_005853"; gene_name "ebp2"
+JBWZMV010000023.1	Genbank	exon	394979	395704	.	-	.	transcript_id "rna-ACYAQ4_005853-T1_mrna"; gene_id "gene-ACYAQ4_005853"; gene_name "ebp2";
+JBWZMV010000023.1	Genbank	exon	395769	395981	.	-	.	transcript_id "rna-ACYAQ4_005853-T1_mrna"; gene_id "gene-ACYAQ4_005853"; gene_name "ebp2";
+JBWZMV010000023.1	Genbank	CDS	394979	395704	.	-	0	transcript_id "rna-ACYAQ4_005853-T1_mrna"; gene_id "gene-ACYAQ4_005853"; gene_name "ebp2";
+JBWZMV010000023.1	Genbank	CDS	395769	395981	.	-	0	transcript_id "rna-ACYAQ4_005853-T1_mrna"; gene_id "gene-ACYAQ4_005853"; gene_name "ebp2";
+JBWZMV010000023.1	Genbank	transcript	433659	434273	.	+	.	transcript_id "rna-ACYAQ4_005867-T1_mrna"; gene_id "gene-ACYAQ4_005867"; gene_name "FAP7"
+JBWZMV010000023.1	Genbank	exon	433659	433841	.	+	.	transcript_id "rna-ACYAQ4_005867-T1_mrna"; gene_id "gene-ACYAQ4_005867"; gene_name "FAP7";
+JBWZMV010000023.1	Genbank	exon	433920	434273	.	+	.	transcript_id "rna-ACYAQ4_005867-T1_mrna"; gene_id "gene-ACYAQ4_005867"; gene_name "FAP7";
+JBWZMV010000023.1	Genbank	CDS	433659	433841	.	+	0	transcript_id "rna-ACYAQ4_005867-T1_mrna"; gene_id "gene-ACYAQ4_005867"; gene_name "FAP7";
+JBWZMV010000023.1	Genbank	CDS	433920	434273	.	+	0	transcript_id "rna-ACYAQ4_005867-T1_mrna"; gene_id "gene-ACYAQ4_005867"; gene_name "FAP7";
+JBWZMV010000024.1	Genbank	transcript	201166	202220	.	+	.	transcript_id "rna-ACYAQ4_005947-T1_mrna"; gene_id "gene-ACYAQ4_005947"; gene_name "LIA1"
+JBWZMV010000024.1	Genbank	exon	201166	201653	.	+	.	transcript_id "rna-ACYAQ4_005947-T1_mrna"; gene_id "gene-ACYAQ4_005947"; gene_name "LIA1";
+JBWZMV010000024.1	Genbank	exon	201704	202220	.	+	.	transcript_id "rna-ACYAQ4_005947-T1_mrna"; gene_id "gene-ACYAQ4_005947"; gene_name "LIA1";
+JBWZMV010000024.1	Genbank	CDS	201166	201653	.	+	0	transcript_id "rna-ACYAQ4_005947-T1_mrna"; gene_id "gene-ACYAQ4_005947"; gene_name "LIA1";
+JBWZMV010000024.1	Genbank	CDS	201704	202220	.	+	1	transcript_id "rna-ACYAQ4_005947-T1_mrna"; gene_id "gene-ACYAQ4_005947"; gene_name "LIA1";
+JBWZMV010000024.1	Genbank	transcript	329702	331924	.	-	.	transcript_id "rna-ACYAQ4_005983-T1_mrna"; gene_id "gene-ACYAQ4_005983"; gene_name "DBP7"
+JBWZMV010000024.1	Genbank	exon	329702	331924	.	-	.	transcript_id "rna-ACYAQ4_005983-T1_mrna"; gene_id "gene-ACYAQ4_005983"; gene_name "DBP7";
+JBWZMV010000024.1	Genbank	CDS	329702	331924	.	-	0	transcript_id "rna-ACYAQ4_005983-T1_mrna"; gene_id "gene-ACYAQ4_005983"; gene_name "DBP7";
+JBWZMV010000025.1	Genbank	transcript	99865	101326	.	-	.	transcript_id "rna-ACYAQ4_006044-T1_mrna"; gene_id "gene-ACYAQ4_006044"
+JBWZMV010000025.1	Genbank	exon	99865	100399	.	-	.	transcript_id "rna-ACYAQ4_006044-T1_mrna"; gene_id "gene-ACYAQ4_006044";
+JBWZMV010000025.1	Genbank	exon	100455	101326	.	-	.	transcript_id "rna-ACYAQ4_006044-T1_mrna"; gene_id "gene-ACYAQ4_006044";
+JBWZMV010000025.1	Genbank	CDS	99865	100399	.	-	1	transcript_id "rna-ACYAQ4_006044-T1_mrna"; gene_id "gene-ACYAQ4_006044";
+JBWZMV010000025.1	Genbank	CDS	100455	101326	.	-	0	transcript_id "rna-ACYAQ4_006044-T1_mrna"; gene_id "gene-ACYAQ4_006044";
+JBWZMV010000025.1	Genbank	transcript	140814	142002	.	-	.	transcript_id "rna-ACYAQ4_006059-T1_mrna"; gene_id "gene-ACYAQ4_006059"; gene_name "TMA46"
+JBWZMV010000025.1	Genbank	exon	140814	141324	.	-	.	transcript_id "rna-ACYAQ4_006059-T1_mrna"; gene_id "gene-ACYAQ4_006059"; gene_name "TMA46";
+JBWZMV010000025.1	Genbank	exon	141377	142002	.	-	.	transcript_id "rna-ACYAQ4_006059-T1_mrna"; gene_id "gene-ACYAQ4_006059"; gene_name "TMA46";
+JBWZMV010000025.1	Genbank	CDS	140814	141324	.	-	1	transcript_id "rna-ACYAQ4_006059-T1_mrna"; gene_id "gene-ACYAQ4_006059"; gene_name "TMA46";
+JBWZMV010000025.1	Genbank	CDS	141377	142002	.	-	0	transcript_id "rna-ACYAQ4_006059-T1_mrna"; gene_id "gene-ACYAQ4_006059"; gene_name "TMA46";
+JBWZMV010000025.1	Genbank	transcript	211544	212318	.	-	.	transcript_id "rna-ACYAQ4_006078-T1_mrna"; gene_id "gene-ACYAQ4_006078"; gene_name "COX11"
+JBWZMV010000025.1	Genbank	exon	211544	211593	.	-	.	transcript_id "rna-ACYAQ4_006078-T1_mrna"; gene_id "gene-ACYAQ4_006078"; gene_name "COX11";
+JBWZMV010000025.1	Genbank	exon	211647	212097	.	-	.	transcript_id "rna-ACYAQ4_006078-T1_mrna"; gene_id "gene-ACYAQ4_006078"; gene_name "COX11";
+JBWZMV010000025.1	Genbank	exon	212151	212220	.	-	.	transcript_id "rna-ACYAQ4_006078-T1_mrna"; gene_id "gene-ACYAQ4_006078"; gene_name "COX11";
+JBWZMV010000025.1	Genbank	exon	212272	212318	.	-	.	transcript_id "rna-ACYAQ4_006078-T1_mrna"; gene_id "gene-ACYAQ4_006078"; gene_name "COX11";
+JBWZMV010000025.1	Genbank	CDS	211544	211593	.	-	2	transcript_id "rna-ACYAQ4_006078-T1_mrna"; gene_id "gene-ACYAQ4_006078"; gene_name "COX11";
+JBWZMV010000025.1	Genbank	CDS	211647	212097	.	-	0	transcript_id "rna-ACYAQ4_006078-T1_mrna"; gene_id "gene-ACYAQ4_006078"; gene_name "COX11";
+JBWZMV010000025.1	Genbank	CDS	212151	212220	.	-	1	transcript_id "rna-ACYAQ4_006078-T1_mrna"; gene_id "gene-ACYAQ4_006078"; gene_name "COX11";
+JBWZMV010000025.1	Genbank	CDS	212272	212318	.	-	0	transcript_id "rna-ACYAQ4_006078-T1_mrna"; gene_id "gene-ACYAQ4_006078"; gene_name "COX11";
+JBWZMV010000025.1	Genbank	transcript	312334	313419	.	+	.	transcript_id "rna-ACYAQ4_006114-T1_mrna"; gene_id "gene-ACYAQ4_006114"; gene_name "RRP42"
+JBWZMV010000025.1	Genbank	exon	312334	312759	.	+	.	transcript_id "rna-ACYAQ4_006114-T1_mrna"; gene_id "gene-ACYAQ4_006114"; gene_name "RRP42";
+JBWZMV010000025.1	Genbank	exon	312823	313419	.	+	.	transcript_id "rna-ACYAQ4_006114-T1_mrna"; gene_id "gene-ACYAQ4_006114"; gene_name "RRP42";
+JBWZMV010000025.1	Genbank	CDS	312334	312759	.	+	0	transcript_id "rna-ACYAQ4_006114-T1_mrna"; gene_id "gene-ACYAQ4_006114"; gene_name "RRP42";
+JBWZMV010000025.1	Genbank	CDS	312823	313419	.	+	0	transcript_id "rna-ACYAQ4_006114-T1_mrna"; gene_id "gene-ACYAQ4_006114"; gene_name "RRP42";
+JBWZMV010000025.1	Genbank	transcript	417635	419570	.	-	.	transcript_id "rna-ACYAQ4_006141-T1_mrna"; gene_id "gene-ACYAQ4_006141"; gene_name "SPB4"
+JBWZMV010000025.1	Genbank	exon	417635	419344	.	-	.	transcript_id "rna-ACYAQ4_006141-T1_mrna"; gene_id "gene-ACYAQ4_006141"; gene_name "SPB4";
+JBWZMV010000025.1	Genbank	exon	419400	419570	.	-	.	transcript_id "rna-ACYAQ4_006141-T1_mrna"; gene_id "gene-ACYAQ4_006141"; gene_name "SPB4";
+JBWZMV010000025.1	Genbank	CDS	417635	419344	.	-	0	transcript_id "rna-ACYAQ4_006141-T1_mrna"; gene_id "gene-ACYAQ4_006141"; gene_name "SPB4";
+JBWZMV010000025.1	Genbank	CDS	419400	419570	.	-	0	transcript_id "rna-ACYAQ4_006141-T1_mrna"; gene_id "gene-ACYAQ4_006141"; gene_name "SPB4";
+JBWZMV010000026.1	Genbank	transcript	21082	22176	.	-	.	transcript_id "rna-ACYAQ4_006164-T1_mrna"; gene_id "gene-ACYAQ4_006164"; gene_name "CAB2"
+JBWZMV010000026.1	Genbank	exon	21082	22176	.	-	.	transcript_id "rna-ACYAQ4_006164-T1_mrna"; gene_id "gene-ACYAQ4_006164"; gene_name "CAB2";
+JBWZMV010000026.1	Genbank	CDS	21082	22176	.	-	0	transcript_id "rna-ACYAQ4_006164-T1_mrna"; gene_id "gene-ACYAQ4_006164"; gene_name "CAB2";
+JBWZMV010000026.1	Genbank	transcript	61818	62952	.	+	.	transcript_id "rna-ACYAQ4_006178-T1_mrna"; gene_id "gene-ACYAQ4_006178"; gene_name "SHY1"
+JBWZMV010000026.1	Genbank	exon	61818	62049	.	+	.	transcript_id "rna-ACYAQ4_006178-T1_mrna"; gene_id "gene-ACYAQ4_006178"; gene_name "SHY1";
+JBWZMV010000026.1	Genbank	exon	62108	62617	.	+	.	transcript_id "rna-ACYAQ4_006178-T1_mrna"; gene_id "gene-ACYAQ4_006178"; gene_name "SHY1";
+JBWZMV010000026.1	Genbank	exon	62684	62789	.	+	.	transcript_id "rna-ACYAQ4_006178-T1_mrna"; gene_id "gene-ACYAQ4_006178"; gene_name "SHY1";
+JBWZMV010000026.1	Genbank	exon	62853	62952	.	+	.	transcript_id "rna-ACYAQ4_006178-T1_mrna"; gene_id "gene-ACYAQ4_006178"; gene_name "SHY1";
+JBWZMV010000026.1	Genbank	CDS	61818	62049	.	+	0	transcript_id "rna-ACYAQ4_006178-T1_mrna"; gene_id "gene-ACYAQ4_006178"; gene_name "SHY1";
+JBWZMV010000026.1	Genbank	CDS	62108	62617	.	+	2	transcript_id "rna-ACYAQ4_006178-T1_mrna"; gene_id "gene-ACYAQ4_006178"; gene_name "SHY1";
+JBWZMV010000026.1	Genbank	CDS	62684	62789	.	+	2	transcript_id "rna-ACYAQ4_006178-T1_mrna"; gene_id "gene-ACYAQ4_006178"; gene_name "SHY1";
+JBWZMV010000026.1	Genbank	CDS	62853	62952	.	+	1	transcript_id "rna-ACYAQ4_006178-T1_mrna"; gene_id "gene-ACYAQ4_006178"; gene_name "SHY1";
+JBWZMV010000026.1	Genbank	transcript	278394	279297	.	+	.	transcript_id "rna-ACYAQ4_006240-T1_mrna"; gene_id "gene-ACYAQ4_006240"; gene_name "COQ4"
+JBWZMV010000026.1	Genbank	exon	278394	278604	.	+	.	transcript_id "rna-ACYAQ4_006240-T1_mrna"; gene_id "gene-ACYAQ4_006240"; gene_name "COQ4";
+JBWZMV010000026.1	Genbank	exon	278651	279297	.	+	.	transcript_id "rna-ACYAQ4_006240-T1_mrna"; gene_id "gene-ACYAQ4_006240"; gene_name "COQ4";
+JBWZMV010000026.1	Genbank	CDS	278394	278604	.	+	0	transcript_id "rna-ACYAQ4_006240-T1_mrna"; gene_id "gene-ACYAQ4_006240"; gene_name "COQ4";
+JBWZMV010000026.1	Genbank	CDS	278651	279297	.	+	2	transcript_id "rna-ACYAQ4_006240-T1_mrna"; gene_id "gene-ACYAQ4_006240"; gene_name "COQ4";
+JBWZMV010000026.1	Genbank	transcript	310505	311647	.	+	.	transcript_id "rna-ACYAQ4_006252-T1_mrna"; gene_id "gene-ACYAQ4_006252"; gene_name "ATG3"
+JBWZMV010000026.1	Genbank	exon	310505	311025	.	+	.	transcript_id "rna-ACYAQ4_006252-T1_mrna"; gene_id "gene-ACYAQ4_006252"; gene_name "ATG3";
+JBWZMV010000026.1	Genbank	exon	311072	311540	.	+	.	transcript_id "rna-ACYAQ4_006252-T1_mrna"; gene_id "gene-ACYAQ4_006252"; gene_name "ATG3";
+JBWZMV010000026.1	Genbank	exon	311594	311647	.	+	.	transcript_id "rna-ACYAQ4_006252-T1_mrna"; gene_id "gene-ACYAQ4_006252"; gene_name "ATG3";
+JBWZMV010000026.1	Genbank	CDS	310505	311025	.	+	0	transcript_id "rna-ACYAQ4_006252-T1_mrna"; gene_id "gene-ACYAQ4_006252"; gene_name "ATG3";
+JBWZMV010000026.1	Genbank	CDS	311072	311540	.	+	1	transcript_id "rna-ACYAQ4_006252-T1_mrna"; gene_id "gene-ACYAQ4_006252"; gene_name "ATG3";
+JBWZMV010000026.1	Genbank	CDS	311594	311647	.	+	0	transcript_id "rna-ACYAQ4_006252-T1_mrna"; gene_id "gene-ACYAQ4_006252"; gene_name "ATG3";
+JBWZMV010000028.1	Genbank	transcript	319004	321391	.	+	.	transcript_id "rna-ACYAQ4_006515-T1_mrna"; gene_id "gene-ACYAQ4_006515"; gene_name "DPB2"
+JBWZMV010000028.1	Genbank	exon	319004	319692	.	+	.	transcript_id "rna-ACYAQ4_006515-T1_mrna"; gene_id "gene-ACYAQ4_006515"; gene_name "DPB2";
+JBWZMV010000028.1	Genbank	exon	319741	321391	.	+	.	transcript_id "rna-ACYAQ4_006515-T1_mrna"; gene_id "gene-ACYAQ4_006515"; gene_name "DPB2";
+JBWZMV010000028.1	Genbank	CDS	319004	319692	.	+	0	transcript_id "rna-ACYAQ4_006515-T1_mrna"; gene_id "gene-ACYAQ4_006515"; gene_name "DPB2";
+JBWZMV010000028.1	Genbank	CDS	319741	321391	.	+	1	transcript_id "rna-ACYAQ4_006515-T1_mrna"; gene_id "gene-ACYAQ4_006515"; gene_name "DPB2";
+JBWZMV010000030.1	Genbank	transcript	315117	316919	.	+	.	transcript_id "rna-ACYAQ4_006791-T1_mrna"; gene_id "gene-ACYAQ4_006791"
+JBWZMV010000030.1	Genbank	exon	315117	316919	.	+	.	transcript_id "rna-ACYAQ4_006791-T1_mrna"; gene_id "gene-ACYAQ4_006791";
+JBWZMV010000030.1	Genbank	CDS	315117	316919	.	+	0	transcript_id "rna-ACYAQ4_006791-T1_mrna"; gene_id "gene-ACYAQ4_006791";
+JBWZMV010000030.1	Genbank	transcript	360480	362426	.	+	.	transcript_id "rna-ACYAQ4_006806-T1_mrna"; gene_id "gene-ACYAQ4_006806"; gene_name "ENP2"
+JBWZMV010000030.1	Genbank	exon	360480	362426	.	+	.	transcript_id "rna-ACYAQ4_006806-T1_mrna"; gene_id "gene-ACYAQ4_006806"; gene_name "ENP2";
+JBWZMV010000030.1	Genbank	CDS	360480	362426	.	+	0	transcript_id "rna-ACYAQ4_006806-T1_mrna"; gene_id "gene-ACYAQ4_006806"; gene_name "ENP2";
+JBWZMV010000032.1	Genbank	transcript	72368	73413	.	-	.	transcript_id "rna-ACYAQ4_006986-T1_mrna"; gene_id "gene-ACYAQ4_006986"; gene_name "DRE2"
+JBWZMV010000032.1	Genbank	exon	72368	72675	.	-	.	transcript_id "rna-ACYAQ4_006986-T1_mrna"; gene_id "gene-ACYAQ4_006986"; gene_name "DRE2";
+JBWZMV010000032.1	Genbank	exon	72729	73413	.	-	.	transcript_id "rna-ACYAQ4_006986-T1_mrna"; gene_id "gene-ACYAQ4_006986"; gene_name "DRE2";
+JBWZMV010000032.1	Genbank	CDS	72368	72675	.	-	2	transcript_id "rna-ACYAQ4_006986-T1_mrna"; gene_id "gene-ACYAQ4_006986"; gene_name "DRE2";
+JBWZMV010000032.1	Genbank	CDS	72729	73413	.	-	0	transcript_id "rna-ACYAQ4_006986-T1_mrna"; gene_id "gene-ACYAQ4_006986"; gene_name "DRE2";
+JBWZMV010000036.1	Genbank	transcript	353406	354856	.	+	.	transcript_id "rna-ACYAQ4_007604-T1_mrna"; gene_id "gene-ACYAQ4_007604"
+JBWZMV010000036.1	Genbank	exon	353406	353595	.	+	.	transcript_id "rna-ACYAQ4_007604-T1_mrna"; gene_id "gene-ACYAQ4_007604";
+JBWZMV010000036.1	Genbank	exon	353649	353862	.	+	.	transcript_id "rna-ACYAQ4_007604-T1_mrna"; gene_id "gene-ACYAQ4_007604";
+JBWZMV010000036.1	Genbank	exon	353911	354856	.	+	.	transcript_id "rna-ACYAQ4_007604-T1_mrna"; gene_id "gene-ACYAQ4_007604";
+JBWZMV010000036.1	Genbank	CDS	353406	353595	.	+	0	transcript_id "rna-ACYAQ4_007604-T1_mrna"; gene_id "gene-ACYAQ4_007604";
+JBWZMV010000036.1	Genbank	CDS	353649	353862	.	+	2	transcript_id "rna-ACYAQ4_007604-T1_mrna"; gene_id "gene-ACYAQ4_007604";
+JBWZMV010000036.1	Genbank	CDS	353911	354856	.	+	1	transcript_id "rna-ACYAQ4_007604-T1_mrna"; gene_id "gene-ACYAQ4_007604";
+JBWZMV010000038.1	Genbank	transcript	38497	39125	.	-	.	transcript_id "rna-ACYAQ4_007751-T1_mrna"; gene_id "gene-ACYAQ4_007751"; gene_name "naa20"
+JBWZMV010000038.1	Genbank	exon	38497	38900	.	-	.	transcript_id "rna-ACYAQ4_007751-T1_mrna"; gene_id "gene-ACYAQ4_007751"; gene_name "naa20";
+JBWZMV010000038.1	Genbank	exon	38957	39125	.	-	.	transcript_id "rna-ACYAQ4_007751-T1_mrna"; gene_id "gene-ACYAQ4_007751"; gene_name "naa20";
+JBWZMV010000038.1	Genbank	CDS	38497	38900	.	-	2	transcript_id "rna-ACYAQ4_007751-T1_mrna"; gene_id "gene-ACYAQ4_007751"; gene_name "naa20";
+JBWZMV010000038.1	Genbank	CDS	38957	39125	.	-	0	transcript_id "rna-ACYAQ4_007751-T1_mrna"; gene_id "gene-ACYAQ4_007751"; gene_name "naa20";
+JBWZMV010000038.1	Genbank	transcript	72050	74035	.	-	.	transcript_id "rna-ACYAQ4_007762-T1_mrna"; gene_id "gene-ACYAQ4_007762"; gene_name "srp72"
+JBWZMV010000038.1	Genbank	exon	72050	73238	.	-	.	transcript_id "rna-ACYAQ4_007762-T1_mrna"; gene_id "gene-ACYAQ4_007762"; gene_name "srp72";
+JBWZMV010000038.1	Genbank	exon	73296	74035	.	-	.	transcript_id "rna-ACYAQ4_007762-T1_mrna"; gene_id "gene-ACYAQ4_007762"; gene_name "srp72";
+JBWZMV010000038.1	Genbank	CDS	72050	73238	.	-	1	transcript_id "rna-ACYAQ4_007762-T1_mrna"; gene_id "gene-ACYAQ4_007762"; gene_name "srp72";
+JBWZMV010000038.1	Genbank	CDS	73296	74035	.	-	0	transcript_id "rna-ACYAQ4_007762-T1_mrna"; gene_id "gene-ACYAQ4_007762"; gene_name "srp72";
+JBWZMV010000038.1	Genbank	transcript	251371	252555	.	-	.	transcript_id "rna-ACYAQ4_007814-T1_mrna"; gene_id "gene-ACYAQ4_007814"; gene_name "TSR3"
+JBWZMV010000038.1	Genbank	exon	251371	252555	.	-	.	transcript_id "rna-ACYAQ4_007814-T1_mrna"; gene_id "gene-ACYAQ4_007814"; gene_name "TSR3";
+JBWZMV010000038.1	Genbank	CDS	251371	252555	.	-	0	transcript_id "rna-ACYAQ4_007814-T1_mrna"; gene_id "gene-ACYAQ4_007814"; gene_name "TSR3";
+JBWZMV010000039.1	Genbank	transcript	205523	206971	.	+	.	transcript_id "rna-ACYAQ4_007899-T1_mrna"; gene_id "gene-ACYAQ4_007899"; gene_name "DPH1"
+JBWZMV010000039.1	Genbank	exon	205523	205754	.	+	.	transcript_id "rna-ACYAQ4_007899-T1_mrna"; gene_id "gene-ACYAQ4_007899"; gene_name "DPH1";
+JBWZMV010000039.1	Genbank	exon	205818	206971	.	+	.	transcript_id "rna-ACYAQ4_007899-T1_mrna"; gene_id "gene-ACYAQ4_007899"; gene_name "DPH1";
+JBWZMV010000039.1	Genbank	CDS	205523	205754	.	+	0	transcript_id "rna-ACYAQ4_007899-T1_mrna"; gene_id "gene-ACYAQ4_007899"; gene_name "DPH1";
+JBWZMV010000039.1	Genbank	CDS	205818	206971	.	+	2	transcript_id "rna-ACYAQ4_007899-T1_mrna"; gene_id "gene-ACYAQ4_007899"; gene_name "DPH1";
+JBWZMV010000039.1	Genbank	transcript	269792	272482	.	-	.	transcript_id "rna-ACYAQ4_007914-T1_mrna"; gene_id "gene-ACYAQ4_007914"; gene_name "DBP6"
+JBWZMV010000039.1	Genbank	exon	269792	272482	.	-	.	transcript_id "rna-ACYAQ4_007914-T1_mrna"; gene_id "gene-ACYAQ4_007914"; gene_name "DBP6";
+JBWZMV010000039.1	Genbank	CDS	269792	272482	.	-	0	transcript_id "rna-ACYAQ4_007914-T1_mrna"; gene_id "gene-ACYAQ4_007914"; gene_name "DBP6";
+JBWZMV010000040.1	Genbank	transcript	65925	67422	.	-	.	transcript_id "rna-ACYAQ4_007944-T1_mrna"; gene_id "gene-ACYAQ4_007944"; gene_name "COX15"
+JBWZMV010000040.1	Genbank	exon	65925	67002	.	-	.	transcript_id "rna-ACYAQ4_007944-T1_mrna"; gene_id "gene-ACYAQ4_007944"; gene_name "COX15";
+JBWZMV010000040.1	Genbank	exon	67061	67422	.	-	.	transcript_id "rna-ACYAQ4_007944-T1_mrna"; gene_id "gene-ACYAQ4_007944"; gene_name "COX15";
+JBWZMV010000040.1	Genbank	CDS	65925	67002	.	-	1	transcript_id "rna-ACYAQ4_007944-T1_mrna"; gene_id "gene-ACYAQ4_007944"; gene_name "COX15";
+JBWZMV010000040.1	Genbank	CDS	67061	67422	.	-	0	transcript_id "rna-ACYAQ4_007944-T1_mrna"; gene_id "gene-ACYAQ4_007944"; gene_name "COX15";
+JBWZMV010000040.1	Genbank	transcript	294741	295535	.	-	.	transcript_id "rna-ACYAQ4_008016-T1_mrna"; gene_id "gene-ACYAQ4_008016"; gene_name "RRP40"
+JBWZMV010000040.1	Genbank	exon	294741	295280	.	-	.	transcript_id "rna-ACYAQ4_008016-T1_mrna"; gene_id "gene-ACYAQ4_008016"; gene_name "RRP40";
+JBWZMV010000040.1	Genbank	exon	295338	295535	.	-	.	transcript_id "rna-ACYAQ4_008016-T1_mrna"; gene_id "gene-ACYAQ4_008016"; gene_name "RRP40";
+JBWZMV010000040.1	Genbank	CDS	294741	295280	.	-	0	transcript_id "rna-ACYAQ4_008016-T1_mrna"; gene_id "gene-ACYAQ4_008016"; gene_name "RRP40";
+JBWZMV010000040.1	Genbank	CDS	295338	295535	.	-	0	transcript_id "rna-ACYAQ4_008016-T1_mrna"; gene_id "gene-ACYAQ4_008016"; gene_name "RRP40";
+JBWZMV010000041.1	Genbank	transcript	38092	40029	.	+	.	transcript_id "rna-ACYAQ4_008038-T1_mrna"; gene_id "gene-ACYAQ4_008038"; gene_name "SRP68"
+JBWZMV010000041.1	Genbank	exon	38092	38282	.	+	.	transcript_id "rna-ACYAQ4_008038-T1_mrna"; gene_id "gene-ACYAQ4_008038"; gene_name "SRP68";
+JBWZMV010000041.1	Genbank	exon	38332	39456	.	+	.	transcript_id "rna-ACYAQ4_008038-T1_mrna"; gene_id "gene-ACYAQ4_008038"; gene_name "SRP68";
+JBWZMV010000041.1	Genbank	exon	39507	40029	.	+	.	transcript_id "rna-ACYAQ4_008038-T1_mrna"; gene_id "gene-ACYAQ4_008038"; gene_name "SRP68";
+JBWZMV010000041.1	Genbank	CDS	38092	38282	.	+	0	transcript_id "rna-ACYAQ4_008038-T1_mrna"; gene_id "gene-ACYAQ4_008038"; gene_name "SRP68";
+JBWZMV010000041.1	Genbank	CDS	38332	39456	.	+	1	transcript_id "rna-ACYAQ4_008038-T1_mrna"; gene_id "gene-ACYAQ4_008038"; gene_name "SRP68";
+JBWZMV010000041.1	Genbank	CDS	39507	40029	.	+	1	transcript_id "rna-ACYAQ4_008038-T1_mrna"; gene_id "gene-ACYAQ4_008038"; gene_name "SRP68";
+JBWZMV010000044.1	Genbank	transcript	120697	121225	.	-	.	transcript_id "rna-ACYAQ4_008374-T1_mrna"; gene_id "gene-ACYAQ4_008374"; gene_name "MRPL51"
+JBWZMV010000044.1	Genbank	exon	120697	120988	.	-	.	transcript_id "rna-ACYAQ4_008374-T1_mrna"; gene_id "gene-ACYAQ4_008374"; gene_name "MRPL51";
+JBWZMV010000044.1	Genbank	exon	121045	121127	.	-	.	transcript_id "rna-ACYAQ4_008374-T1_mrna"; gene_id "gene-ACYAQ4_008374"; gene_name "MRPL51";
+JBWZMV010000044.1	Genbank	exon	121187	121225	.	-	.	transcript_id "rna-ACYAQ4_008374-T1_mrna"; gene_id "gene-ACYAQ4_008374"; gene_name "MRPL51";
+JBWZMV010000044.1	Genbank	CDS	120697	120988	.	-	1	transcript_id "rna-ACYAQ4_008374-T1_mrna"; gene_id "gene-ACYAQ4_008374"; gene_name "MRPL51";
+JBWZMV010000044.1	Genbank	CDS	121045	121127	.	-	0	transcript_id "rna-ACYAQ4_008374-T1_mrna"; gene_id "gene-ACYAQ4_008374"; gene_name "MRPL51";
+JBWZMV010000044.1	Genbank	CDS	121187	121225	.	-	0	transcript_id "rna-ACYAQ4_008374-T1_mrna"; gene_id "gene-ACYAQ4_008374"; gene_name "MRPL51";
+JBWZMV010000044.1	Genbank	transcript	123901	124754	.	-	.	transcript_id "rna-ACYAQ4_008376-T1_mrna"; gene_id "gene-ACYAQ4_008376"; gene_name "MRT4"
+JBWZMV010000044.1	Genbank	exon	123901	123958	.	-	.	transcript_id "rna-ACYAQ4_008376-T1_mrna"; gene_id "gene-ACYAQ4_008376"; gene_name "MRT4";
+JBWZMV010000044.1	Genbank	exon	124019	124498	.	-	.	transcript_id "rna-ACYAQ4_008376-T1_mrna"; gene_id "gene-ACYAQ4_008376"; gene_name "MRT4";
+JBWZMV010000044.1	Genbank	exon	124564	124754	.	-	.	transcript_id "rna-ACYAQ4_008376-T1_mrna"; gene_id "gene-ACYAQ4_008376"; gene_name "MRT4";
+JBWZMV010000044.1	Genbank	CDS	123901	123958	.	-	1	transcript_id "rna-ACYAQ4_008376-T1_mrna"; gene_id "gene-ACYAQ4_008376"; gene_name "MRT4";
+JBWZMV010000044.1	Genbank	CDS	124019	124498	.	-	1	transcript_id "rna-ACYAQ4_008376-T1_mrna"; gene_id "gene-ACYAQ4_008376"; gene_name "MRT4";
+JBWZMV010000044.1	Genbank	CDS	124564	124754	.	-	0	transcript_id "rna-ACYAQ4_008376-T1_mrna"; gene_id "gene-ACYAQ4_008376"; gene_name "MRT4";
+JBWZMV010000046.1	Genbank	transcript	171603	174109	.	+	.	transcript_id "rna-ACYAQ4_008599-T1_mrna"; gene_id "gene-ACYAQ4_008599"; gene_name "COG3"
+JBWZMV010000046.1	Genbank	exon	171603	171719	.	+	.	transcript_id "rna-ACYAQ4_008599-T1_mrna"; gene_id "gene-ACYAQ4_008599"; gene_name "COG3";
+JBWZMV010000046.1	Genbank	exon	171785	172089	.	+	.	transcript_id "rna-ACYAQ4_008599-T1_mrna"; gene_id "gene-ACYAQ4_008599"; gene_name "COG3";
+JBWZMV010000046.1	Genbank	exon	172146	172485	.	+	.	transcript_id "rna-ACYAQ4_008599-T1_mrna"; gene_id "gene-ACYAQ4_008599"; gene_name "COG3";
+JBWZMV010000046.1	Genbank	exon	172535	173476	.	+	.	transcript_id "rna-ACYAQ4_008599-T1_mrna"; gene_id "gene-ACYAQ4_008599"; gene_name "COG3";
+JBWZMV010000046.1	Genbank	exon	173525	174109	.	+	.	transcript_id "rna-ACYAQ4_008599-T1_mrna"; gene_id "gene-ACYAQ4_008599"; gene_name "COG3";
+JBWZMV010000046.1	Genbank	CDS	171603	171719	.	+	0	transcript_id "rna-ACYAQ4_008599-T1_mrna"; gene_id "gene-ACYAQ4_008599"; gene_name "COG3";
+JBWZMV010000046.1	Genbank	CDS	171785	172089	.	+	0	transcript_id "rna-ACYAQ4_008599-T1_mrna"; gene_id "gene-ACYAQ4_008599"; gene_name "COG3";
+JBWZMV010000046.1	Genbank	CDS	172146	172485	.	+	1	transcript_id "rna-ACYAQ4_008599-T1_mrna"; gene_id "gene-ACYAQ4_008599"; gene_name "COG3";
+JBWZMV010000046.1	Genbank	CDS	172535	173476	.	+	0	transcript_id "rna-ACYAQ4_008599-T1_mrna"; gene_id "gene-ACYAQ4_008599"; gene_name "COG3";
+JBWZMV010000046.1	Genbank	CDS	173525	174109	.	+	0	transcript_id "rna-ACYAQ4_008599-T1_mrna"; gene_id "gene-ACYAQ4_008599"; gene_name "COG3";
+JBWZMV010000050.1	Genbank	transcript	193126	195112	.	+	.	transcript_id "rna-ACYAQ4_009008-T1_mrna"; gene_id "gene-ACYAQ4_009008"; gene_name "FRS1"
+JBWZMV010000050.1	Genbank	exon	193126	193178	.	+	.	transcript_id "rna-ACYAQ4_009008-T1_mrna"; gene_id "gene-ACYAQ4_009008"; gene_name "FRS1";
+JBWZMV010000050.1	Genbank	exon	193284	195014	.	+	.	transcript_id "rna-ACYAQ4_009008-T1_mrna"; gene_id "gene-ACYAQ4_009008"; gene_name "FRS1";
+JBWZMV010000050.1	Genbank	exon	195067	195112	.	+	.	transcript_id "rna-ACYAQ4_009008-T1_mrna"; gene_id "gene-ACYAQ4_009008"; gene_name "FRS1";
+JBWZMV010000050.1	Genbank	CDS	193126	193178	.	+	0	transcript_id "rna-ACYAQ4_009008-T1_mrna"; gene_id "gene-ACYAQ4_009008"; gene_name "FRS1";
+JBWZMV010000050.1	Genbank	CDS	193284	195014	.	+	1	transcript_id "rna-ACYAQ4_009008-T1_mrna"; gene_id "gene-ACYAQ4_009008"; gene_name "FRS1";
+JBWZMV010000050.1	Genbank	CDS	195067	195112	.	+	1	transcript_id "rna-ACYAQ4_009008-T1_mrna"; gene_id "gene-ACYAQ4_009008"; gene_name "FRS1";
+JBWZMV010000055.1	Genbank	transcript	14035	16363	.	-	.	transcript_id "rna-ACYAQ4_009413-T1_mrna"; gene_id "gene-ACYAQ4_009413"; gene_name "SDA1"
+JBWZMV010000055.1	Genbank	exon	14035	16177	.	-	.	transcript_id "rna-ACYAQ4_009413-T1_mrna"; gene_id "gene-ACYAQ4_009413"; gene_name "SDA1";
+JBWZMV010000055.1	Genbank	exon	16231	16266	.	-	.	transcript_id "rna-ACYAQ4_009413-T1_mrna"; gene_id "gene-ACYAQ4_009413"; gene_name "SDA1";
+JBWZMV010000055.1	Genbank	exon	16317	16363	.	-	.	transcript_id "rna-ACYAQ4_009413-T1_mrna"; gene_id "gene-ACYAQ4_009413"; gene_name "SDA1";
+JBWZMV010000055.1	Genbank	CDS	14035	16177	.	-	1	transcript_id "rna-ACYAQ4_009413-T1_mrna"; gene_id "gene-ACYAQ4_009413"; gene_name "SDA1";
+JBWZMV010000055.1	Genbank	CDS	16231	16266	.	-	1	transcript_id "rna-ACYAQ4_009413-T1_mrna"; gene_id "gene-ACYAQ4_009413"; gene_name "SDA1";
+JBWZMV010000055.1	Genbank	CDS	16317	16363	.	-	0	transcript_id "rna-ACYAQ4_009413-T1_mrna"; gene_id "gene-ACYAQ4_009413"; gene_name "SDA1";
+JBWZMV010000055.1	Genbank	transcript	73922	77207	.	-	.	transcript_id "rna-ACYAQ4_009432-T1_mrna"; gene_id "gene-ACYAQ4_009432"; gene_name "VPS11"
+JBWZMV010000055.1	Genbank	exon	73922	75262	.	-	.	transcript_id "rna-ACYAQ4_009432-T1_mrna"; gene_id "gene-ACYAQ4_009432"; gene_name "VPS11";
+JBWZMV010000055.1	Genbank	exon	75309	75644	.	-	.	transcript_id "rna-ACYAQ4_009432-T1_mrna"; gene_id "gene-ACYAQ4_009432"; gene_name "VPS11";
+JBWZMV010000055.1	Genbank	exon	75690	75923	.	-	.	transcript_id "rna-ACYAQ4_009432-T1_mrna"; gene_id "gene-ACYAQ4_009432"; gene_name "VPS11";
+JBWZMV010000055.1	Genbank	exon	75972	76619	.	-	.	transcript_id "rna-ACYAQ4_009432-T1_mrna"; gene_id "gene-ACYAQ4_009432"; gene_name "VPS11";
+JBWZMV010000055.1	Genbank	exon	76672	76791	.	-	.	transcript_id "rna-ACYAQ4_009432-T1_mrna"; gene_id "gene-ACYAQ4_009432"; gene_name "VPS11";
+JBWZMV010000055.1	Genbank	exon	76862	77113	.	-	.	transcript_id "rna-ACYAQ4_009432-T1_mrna"; gene_id "gene-ACYAQ4_009432"; gene_name "VPS11";
+JBWZMV010000055.1	Genbank	exon	77196	77207	.	-	.	transcript_id "rna-ACYAQ4_009432-T1_mrna"; gene_id "gene-ACYAQ4_009432"; gene_name "VPS11";
+JBWZMV010000055.1	Genbank	CDS	73922	75262	.	-	0	transcript_id "rna-ACYAQ4_009432-T1_mrna"; gene_id "gene-ACYAQ4_009432"; gene_name "VPS11";
+JBWZMV010000055.1	Genbank	CDS	75309	75644	.	-	0	transcript_id "rna-ACYAQ4_009432-T1_mrna"; gene_id "gene-ACYAQ4_009432"; gene_name "VPS11";
+JBWZMV010000055.1	Genbank	CDS	75690	75923	.	-	0	transcript_id "rna-ACYAQ4_009432-T1_mrna"; gene_id "gene-ACYAQ4_009432"; gene_name "VPS11";
+JBWZMV010000055.1	Genbank	CDS	75972	76619	.	-	0	transcript_id "rna-ACYAQ4_009432-T1_mrna"; gene_id "gene-ACYAQ4_009432"; gene_name "VPS11";
+JBWZMV010000055.1	Genbank	CDS	76672	76791	.	-	0	transcript_id "rna-ACYAQ4_009432-T1_mrna"; gene_id "gene-ACYAQ4_009432"; gene_name "VPS11";
+JBWZMV010000055.1	Genbank	CDS	76862	77113	.	-	0	transcript_id "rna-ACYAQ4_009432-T1_mrna"; gene_id "gene-ACYAQ4_009432"; gene_name "VPS11";
+JBWZMV010000055.1	Genbank	CDS	77196	77207	.	-	0	transcript_id "rna-ACYAQ4_009432-T1_mrna"; gene_id "gene-ACYAQ4_009432"; gene_name "VPS11";
+JBWZMV010000057.1	Genbank	transcript	210117	211577	.	+	.	transcript_id "rna-ACYAQ4_009642-T1_mrna"; gene_id "gene-ACYAQ4_009642"; gene_name "ALG7"
+JBWZMV010000057.1	Genbank	exon	210117	210542	.	+	.	transcript_id "rna-ACYAQ4_009642-T1_mrna"; gene_id "gene-ACYAQ4_009642"; gene_name "ALG7";
+JBWZMV010000057.1	Genbank	exon	210600	211577	.	+	.	transcript_id "rna-ACYAQ4_009642-T1_mrna"; gene_id "gene-ACYAQ4_009642"; gene_name "ALG7";
+JBWZMV010000057.1	Genbank	CDS	210117	210542	.	+	0	transcript_id "rna-ACYAQ4_009642-T1_mrna"; gene_id "gene-ACYAQ4_009642"; gene_name "ALG7";
+JBWZMV010000057.1	Genbank	CDS	210600	211577	.	+	0	transcript_id "rna-ACYAQ4_009642-T1_mrna"; gene_id "gene-ACYAQ4_009642"; gene_name "ALG7";
+JBWZMV010000058.1	Genbank	transcript	202700	204754	.	+	.	transcript_id "rna-ACYAQ4_009732-T1_mrna"; gene_id "gene-ACYAQ4_009732"; gene_name "ESF1"
+JBWZMV010000058.1	Genbank	exon	202700	204754	.	+	.	transcript_id "rna-ACYAQ4_009732-T1_mrna"; gene_id "gene-ACYAQ4_009732"; gene_name "ESF1";
+JBWZMV010000058.1	Genbank	CDS	202700	204754	.	+	0	transcript_id "rna-ACYAQ4_009732-T1_mrna"; gene_id "gene-ACYAQ4_009732"; gene_name "ESF1";
+JBWZMV010000061.1	Genbank	transcript	29515	30185	.	+	.	transcript_id "rna-ACYAQ4_009942-T1_mrna"; gene_id "gene-ACYAQ4_009942"; gene_name "TMA20"
+JBWZMV010000061.1	Genbank	exon	29515	29528	.	+	.	transcript_id "rna-ACYAQ4_009942-T1_mrna"; gene_id "gene-ACYAQ4_009942"; gene_name "TMA20";
+JBWZMV010000061.1	Genbank	exon	29585	30185	.	+	.	transcript_id "rna-ACYAQ4_009942-T1_mrna"; gene_id "gene-ACYAQ4_009942"; gene_name "TMA20";
+JBWZMV010000061.1	Genbank	CDS	29515	29528	.	+	0	transcript_id "rna-ACYAQ4_009942-T1_mrna"; gene_id "gene-ACYAQ4_009942"; gene_name "TMA20";
+JBWZMV010000061.1	Genbank	CDS	29585	30185	.	+	1	transcript_id "rna-ACYAQ4_009942-T1_mrna"; gene_id "gene-ACYAQ4_009942"; gene_name "TMA20";
+JBWZMV010000061.1	Genbank	transcript	251519	253843	.	-	.	transcript_id "rna-ACYAQ4_010024-T1_mrna"; gene_id "gene-ACYAQ4_010024"; gene_name "ERB1"
+JBWZMV010000061.1	Genbank	exon	251519	253147	.	-	.	transcript_id "rna-ACYAQ4_010024-T1_mrna"; gene_id "gene-ACYAQ4_010024"; gene_name "ERB1";
+JBWZMV010000061.1	Genbank	exon	253202	253843	.	-	.	transcript_id "rna-ACYAQ4_010024-T1_mrna"; gene_id "gene-ACYAQ4_010024"; gene_name "ERB1";
+JBWZMV010000061.1	Genbank	CDS	251519	253147	.	-	0	transcript_id "rna-ACYAQ4_010024-T1_mrna"; gene_id "gene-ACYAQ4_010024"; gene_name "ERB1";
+JBWZMV010000061.1	Genbank	CDS	253202	253843	.	-	0	transcript_id "rna-ACYAQ4_010024-T1_mrna"; gene_id "gene-ACYAQ4_010024"; gene_name "ERB1";
+JBWZMV010000063.1	Genbank	transcript	94680	96006	.	+	.	transcript_id "rna-ACYAQ4_010129-T1_mrna"; gene_id "gene-ACYAQ4_010129"
+JBWZMV010000063.1	Genbank	exon	94680	94782	.	+	.	transcript_id "rna-ACYAQ4_010129-T1_mrna"; gene_id "gene-ACYAQ4_010129";
+JBWZMV010000063.1	Genbank	exon	94842	95070	.	+	.	transcript_id "rna-ACYAQ4_010129-T1_mrna"; gene_id "gene-ACYAQ4_010129";
+JBWZMV010000063.1	Genbank	exon	95118	96006	.	+	.	transcript_id "rna-ACYAQ4_010129-T1_mrna"; gene_id "gene-ACYAQ4_010129";
+JBWZMV010000063.1	Genbank	CDS	94680	94782	.	+	0	transcript_id "rna-ACYAQ4_010129-T1_mrna"; gene_id "gene-ACYAQ4_010129";
+JBWZMV010000063.1	Genbank	CDS	94842	95070	.	+	2	transcript_id "rna-ACYAQ4_010129-T1_mrna"; gene_id "gene-ACYAQ4_010129";
+JBWZMV010000063.1	Genbank	CDS	95118	96006	.	+	1	transcript_id "rna-ACYAQ4_010129-T1_mrna"; gene_id "gene-ACYAQ4_010129";
+JBWZMV010000064.1	Genbank	transcript	15384	17246	.	-	.	transcript_id "rna-ACYAQ4_010185-T1_mrna"; gene_id "gene-ACYAQ4_010185"; gene_name "SWC4"
+JBWZMV010000064.1	Genbank	exon	15384	17246	.	-	.	transcript_id "rna-ACYAQ4_010185-T1_mrna"; gene_id "gene-ACYAQ4_010185"; gene_name "SWC4";
+JBWZMV010000064.1	Genbank	CDS	15384	17246	.	-	0	transcript_id "rna-ACYAQ4_010185-T1_mrna"; gene_id "gene-ACYAQ4_010185"; gene_name "SWC4";
+JBWZMV010000068.1	Genbank	transcript	44461	45813	.	+	.	transcript_id "rna-ACYAQ4_010495-T1_mrna"; gene_id "gene-ACYAQ4_010495"; gene_name "RSA4"
+JBWZMV010000068.1	Genbank	exon	44461	44685	.	+	.	transcript_id "rna-ACYAQ4_010495-T1_mrna"; gene_id "gene-ACYAQ4_010495"; gene_name "RSA4";
+JBWZMV010000068.1	Genbank	exon	44740	45813	.	+	.	transcript_id "rna-ACYAQ4_010495-T1_mrna"; gene_id "gene-ACYAQ4_010495"; gene_name "RSA4";
+JBWZMV010000068.1	Genbank	CDS	44461	44685	.	+	0	transcript_id "rna-ACYAQ4_010495-T1_mrna"; gene_id "gene-ACYAQ4_010495"; gene_name "RSA4";
+JBWZMV010000068.1	Genbank	CDS	44740	45813	.	+	0	transcript_id "rna-ACYAQ4_010495-T1_mrna"; gene_id "gene-ACYAQ4_010495"; gene_name "RSA4";
+JBWZMV010000072.1	Genbank	transcript	102072	104066	.	-	.	transcript_id "rna-ACYAQ4_010814-T1_mrna"; gene_id "gene-ACYAQ4_010814"; gene_name "TFB1"
+JBWZMV010000072.1	Genbank	exon	102072	103873	.	-	.	transcript_id "rna-ACYAQ4_010814-T1_mrna"; gene_id "gene-ACYAQ4_010814"; gene_name "TFB1";
+JBWZMV010000072.1	Genbank	exon	103928	104066	.	-	.	transcript_id "rna-ACYAQ4_010814-T1_mrna"; gene_id "gene-ACYAQ4_010814"; gene_name "TFB1";
+JBWZMV010000072.1	Genbank	CDS	102072	103873	.	-	2	transcript_id "rna-ACYAQ4_010814-T1_mrna"; gene_id "gene-ACYAQ4_010814"; gene_name "TFB1";
+JBWZMV010000072.1	Genbank	CDS	103928	104066	.	-	0	transcript_id "rna-ACYAQ4_010814-T1_mrna"; gene_id "gene-ACYAQ4_010814"; gene_name "TFB1";
+JBWZMV010000072.1	Genbank	transcript	177742	179260	.	-	.	transcript_id "rna-ACYAQ4_010836-T1_mrna"; gene_id "gene-ACYAQ4_010836"; gene_name "prp3"
+JBWZMV010000072.1	Genbank	exon	177742	178346	.	-	.	transcript_id "rna-ACYAQ4_010836-T1_mrna"; gene_id "gene-ACYAQ4_010836"; gene_name "prp3";
+JBWZMV010000072.1	Genbank	exon	178408	179260	.	-	.	transcript_id "rna-ACYAQ4_010836-T1_mrna"; gene_id "gene-ACYAQ4_010836"; gene_name "prp3";
+JBWZMV010000072.1	Genbank	CDS	177742	178346	.	-	2	transcript_id "rna-ACYAQ4_010836-T1_mrna"; gene_id "gene-ACYAQ4_010836"; gene_name "prp3";
+JBWZMV010000072.1	Genbank	CDS	178408	179260	.	-	0	transcript_id "rna-ACYAQ4_010836-T1_mrna"; gene_id "gene-ACYAQ4_010836"; gene_name "prp3";
+JBWZMV010000078.1	Genbank	transcript	24075	27249	.	-	.	transcript_id "rna-ACYAQ4_011148-T1_mrna"; gene_id "gene-ACYAQ4_011148"; gene_name "HIR1"
+JBWZMV010000078.1	Genbank	exon	24075	24181	.	-	.	transcript_id "rna-ACYAQ4_011148-T1_mrna"; gene_id "gene-ACYAQ4_011148"; gene_name "HIR1";
+JBWZMV010000078.1	Genbank	exon	24234	27249	.	-	.	transcript_id "rna-ACYAQ4_011148-T1_mrna"; gene_id "gene-ACYAQ4_011148"; gene_name "HIR1";
+JBWZMV010000078.1	Genbank	CDS	24075	24181	.	-	2	transcript_id "rna-ACYAQ4_011148-T1_mrna"; gene_id "gene-ACYAQ4_011148"; gene_name "HIR1";
+JBWZMV010000078.1	Genbank	CDS	24234	27249	.	-	0	transcript_id "rna-ACYAQ4_011148-T1_mrna"; gene_id "gene-ACYAQ4_011148"; gene_name "HIR1";
+JBWZMV010000080.1	Genbank	transcript	85358	86251	.	+	.	transcript_id "rna-ACYAQ4_011294-T1_mrna"; gene_id "gene-ACYAQ4_011294"; gene_name "BUD23"
+JBWZMV010000080.1	Genbank	exon	85358	85380	.	+	.	transcript_id "rna-ACYAQ4_011294-T1_mrna"; gene_id "gene-ACYAQ4_011294"; gene_name "BUD23";
+JBWZMV010000080.1	Genbank	exon	85432	86251	.	+	.	transcript_id "rna-ACYAQ4_011294-T1_mrna"; gene_id "gene-ACYAQ4_011294"; gene_name "BUD23";
+JBWZMV010000080.1	Genbank	CDS	85358	85380	.	+	0	transcript_id "rna-ACYAQ4_011294-T1_mrna"; gene_id "gene-ACYAQ4_011294"; gene_name "BUD23";
+JBWZMV010000080.1	Genbank	CDS	85432	86251	.	+	1	transcript_id "rna-ACYAQ4_011294-T1_mrna"; gene_id "gene-ACYAQ4_011294"; gene_name "BUD23";
+JBWZMV010000081.1	Genbank	transcript	113128	114093	.	-	.	transcript_id "rna-ACYAQ4_011361-T1_mrna"; gene_id "gene-ACYAQ4_011361"; gene_name "KRR1"
+JBWZMV010000081.1	Genbank	exon	113128	114093	.	-	.	transcript_id "rna-ACYAQ4_011361-T1_mrna"; gene_id "gene-ACYAQ4_011361"; gene_name "KRR1";
+JBWZMV010000081.1	Genbank	CDS	113128	114093	.	-	0	transcript_id "rna-ACYAQ4_011361-T1_mrna"; gene_id "gene-ACYAQ4_011361"; gene_name "KRR1";
+JBWZMV010000091.1	Genbank	transcript	11602	12369	.	-	.	transcript_id "rna-ACYAQ4_011899-T1_mrna"; gene_id "gene-ACYAQ4_011899"
+JBWZMV010000091.1	Genbank	exon	11602	12369	.	-	.	transcript_id "rna-ACYAQ4_011899-T1_mrna"; gene_id "gene-ACYAQ4_011899";
+JBWZMV010000091.1	Genbank	CDS	11602	12369	.	-	0	transcript_id "rna-ACYAQ4_011899-T1_mrna"; gene_id "gene-ACYAQ4_011899";
+JBWZMV010000091.1	Genbank	transcript	13182	15456	.	+	.	transcript_id "rna-ACYAQ4_011900-T1_mrna"; gene_id "gene-ACYAQ4_011900"; gene_name "UTP25"
+JBWZMV010000091.1	Genbank	exon	13182	13324	.	+	.	transcript_id "rna-ACYAQ4_011900-T1_mrna"; gene_id "gene-ACYAQ4_011900"; gene_name "UTP25";
+JBWZMV010000091.1	Genbank	exon	13395	14105	.	+	.	transcript_id "rna-ACYAQ4_011900-T1_mrna"; gene_id "gene-ACYAQ4_011900"; gene_name "UTP25";
+JBWZMV010000091.1	Genbank	exon	14157	15456	.	+	.	transcript_id "rna-ACYAQ4_011900-T1_mrna"; gene_id "gene-ACYAQ4_011900"; gene_name "UTP25";
+JBWZMV010000091.1	Genbank	CDS	13182	13324	.	+	0	transcript_id "rna-ACYAQ4_011900-T1_mrna"; gene_id "gene-ACYAQ4_011900"; gene_name "UTP25";
+JBWZMV010000091.1	Genbank	CDS	13395	14105	.	+	1	transcript_id "rna-ACYAQ4_011900-T1_mrna"; gene_id "gene-ACYAQ4_011900"; gene_name "UTP25";
+JBWZMV010000091.1	Genbank	CDS	14157	15456	.	+	1	transcript_id "rna-ACYAQ4_011900-T1_mrna"; gene_id "gene-ACYAQ4_011900"; gene_name "UTP25";
+JBWZMV010000091.1	Genbank	transcript	76286	77336	.	+	.	transcript_id "rna-ACYAQ4_011923-T1_mrna"; gene_id "gene-ACYAQ4_011923"; gene_name "rrp4"
+JBWZMV010000091.1	Genbank	exon	76286	76446	.	+	.	transcript_id "rna-ACYAQ4_011923-T1_mrna"; gene_id "gene-ACYAQ4_011923"; gene_name "rrp4";
+JBWZMV010000091.1	Genbank	exon	76508	77336	.	+	.	transcript_id "rna-ACYAQ4_011923-T1_mrna"; gene_id "gene-ACYAQ4_011923"; gene_name "rrp4";
+JBWZMV010000091.1	Genbank	CDS	76286	76446	.	+	0	transcript_id "rna-ACYAQ4_011923-T1_mrna"; gene_id "gene-ACYAQ4_011923"; gene_name "rrp4";
+JBWZMV010000091.1	Genbank	CDS	76508	77336	.	+	1	transcript_id "rna-ACYAQ4_011923-T1_mrna"; gene_id "gene-ACYAQ4_011923"; gene_name "rrp4";
+JBWZMV010000093.1	Genbank	transcript	8724	9586	.	-	.	transcript_id "rna-ACYAQ4_012013-T1_mrna"; gene_id "gene-ACYAQ4_012013"; gene_name "GAR1_1"
+JBWZMV010000093.1	Genbank	exon	8724	9262	.	-	.	transcript_id "rna-ACYAQ4_012013-T1_mrna"; gene_id "gene-ACYAQ4_012013"; gene_name "GAR1_1";
+JBWZMV010000093.1	Genbank	exon	9320	9370	.	-	.	transcript_id "rna-ACYAQ4_012013-T1_mrna"; gene_id "gene-ACYAQ4_012013"; gene_name "GAR1_1";
+JBWZMV010000093.1	Genbank	exon	9526	9586	.	-	.	transcript_id "rna-ACYAQ4_012013-T1_mrna"; gene_id "gene-ACYAQ4_012013"; gene_name "GAR1_1";
+JBWZMV010000093.1	Genbank	CDS	8724	9262	.	-	2	transcript_id "rna-ACYAQ4_012013-T1_mrna"; gene_id "gene-ACYAQ4_012013"; gene_name "GAR1_1";
+JBWZMV010000093.1	Genbank	CDS	9320	9370	.	-	2	transcript_id "rna-ACYAQ4_012013-T1_mrna"; gene_id "gene-ACYAQ4_012013"; gene_name "GAR1_1";
+JBWZMV010000093.1	Genbank	CDS	9526	9586	.	-	0	transcript_id "rna-ACYAQ4_012013-T1_mrna"; gene_id "gene-ACYAQ4_012013"; gene_name "GAR1_1";
+JBWZMV010000093.1	Genbank	transcript	126499	128633	.	+	.	transcript_id "rna-ACYAQ4_012052-T1_mrna"; gene_id "gene-ACYAQ4_012052"; gene_name "COG6"
+JBWZMV010000093.1	Genbank	exon	126499	126810	.	+	.	transcript_id "rna-ACYAQ4_012052-T1_mrna"; gene_id "gene-ACYAQ4_012052"; gene_name "COG6";
+JBWZMV010000093.1	Genbank	exon	126858	128633	.	+	.	transcript_id "rna-ACYAQ4_012052-T1_mrna"; gene_id "gene-ACYAQ4_012052"; gene_name "COG6";
+JBWZMV010000093.1	Genbank	CDS	126499	126810	.	+	0	transcript_id "rna-ACYAQ4_012052-T1_mrna"; gene_id "gene-ACYAQ4_012052"; gene_name "COG6";
+JBWZMV010000093.1	Genbank	CDS	126858	128633	.	+	0	transcript_id "rna-ACYAQ4_012052-T1_mrna"; gene_id "gene-ACYAQ4_012052"; gene_name "COG6";
+JBWZMV010000095.1	Genbank	transcript	146553	148160	.	+	.	transcript_id "rna-ACYAQ4_012167-T1_mrna"; gene_id "gene-ACYAQ4_012167"; gene_name "DOM34"
+JBWZMV010000095.1	Genbank	exon	146553	146633	.	+	.	transcript_id "rna-ACYAQ4_012167-T1_mrna"; gene_id "gene-ACYAQ4_012167"; gene_name "DOM34";
+JBWZMV010000095.1	Genbank	exon	147024	148160	.	+	.	transcript_id "rna-ACYAQ4_012167-T1_mrna"; gene_id "gene-ACYAQ4_012167"; gene_name "DOM34";
+JBWZMV010000095.1	Genbank	CDS	146553	146633	.	+	0	transcript_id "rna-ACYAQ4_012167-T1_mrna"; gene_id "gene-ACYAQ4_012167"; gene_name "DOM34";
+JBWZMV010000095.1	Genbank	CDS	147024	148160	.	+	0	transcript_id "rna-ACYAQ4_012167-T1_mrna"; gene_id "gene-ACYAQ4_012167"; gene_name "DOM34";
+JBWZMV010000102.1	Genbank	transcript	62314	63533	.	-	.	transcript_id "rna-ACYAQ4_012510-T1_mrna"; gene_id "gene-ACYAQ4_012510"
+JBWZMV010000102.1	Genbank	exon	62314	63401	.	-	.	transcript_id "rna-ACYAQ4_012510-T1_mrna"; gene_id "gene-ACYAQ4_012510";
+JBWZMV010000102.1	Genbank	exon	63458	63533	.	-	.	transcript_id "rna-ACYAQ4_012510-T1_mrna"; gene_id "gene-ACYAQ4_012510";
+JBWZMV010000102.1	Genbank	CDS	62314	63401	.	-	2	transcript_id "rna-ACYAQ4_012510-T1_mrna"; gene_id "gene-ACYAQ4_012510";
+JBWZMV010000102.1	Genbank	CDS	63458	63533	.	-	0	transcript_id "rna-ACYAQ4_012510-T1_mrna"; gene_id "gene-ACYAQ4_012510";
+JBWZMV010000118.1	Genbank	transcript	2662	4419	.	-	.	transcript_id "rna-ACYAQ4_013187-T1_mrna"; gene_id "gene-ACYAQ4_013187"; gene_name "RAM1"
+JBWZMV010000118.1	Genbank	exon	2662	2914	.	-	.	transcript_id "rna-ACYAQ4_013187-T1_mrna"; gene_id "gene-ACYAQ4_013187"; gene_name "RAM1";
+JBWZMV010000118.1	Genbank	exon	2979	3281	.	-	.	transcript_id "rna-ACYAQ4_013187-T1_mrna"; gene_id "gene-ACYAQ4_013187"; gene_name "RAM1";
+JBWZMV010000118.1	Genbank	exon	3392	3509	.	-	.	transcript_id "rna-ACYAQ4_013187-T1_mrna"; gene_id "gene-ACYAQ4_013187"; gene_name "RAM1";
+JBWZMV010000118.1	Genbank	exon	3567	3694	.	-	.	transcript_id "rna-ACYAQ4_013187-T1_mrna"; gene_id "gene-ACYAQ4_013187"; gene_name "RAM1";
+JBWZMV010000118.1	Genbank	exon	3839	4419	.	-	.	transcript_id "rna-ACYAQ4_013187-T1_mrna"; gene_id "gene-ACYAQ4_013187"; gene_name "RAM1";
+JBWZMV010000118.1	Genbank	CDS	2662	2914	.	-	1	transcript_id "rna-ACYAQ4_013187-T1_mrna"; gene_id "gene-ACYAQ4_013187"; gene_name "RAM1";
+JBWZMV010000118.1	Genbank	CDS	2979	3281	.	-	1	transcript_id "rna-ACYAQ4_013187-T1_mrna"; gene_id "gene-ACYAQ4_013187"; gene_name "RAM1";
+JBWZMV010000118.1	Genbank	CDS	3392	3509	.	-	2	transcript_id "rna-ACYAQ4_013187-T1_mrna"; gene_id "gene-ACYAQ4_013187"; gene_name "RAM1";
+JBWZMV010000118.1	Genbank	CDS	3567	3694	.	-	1	transcript_id "rna-ACYAQ4_013187-T1_mrna"; gene_id "gene-ACYAQ4_013187"; gene_name "RAM1";
+JBWZMV010000118.1	Genbank	CDS	3839	4419	.	-	0	transcript_id "rna-ACYAQ4_013187-T1_mrna"; gene_id "gene-ACYAQ4_013187"; gene_name "RAM1";
+JBWZMV010000146.1	Genbank	transcript	41914	44514	.	-	.	transcript_id "rna-ACYAQ4_014048-T1_mrna"; gene_id "gene-ACYAQ4_014048"; gene_name "SEC10"
+JBWZMV010000146.1	Genbank	exon	41914	44249	.	-	.	transcript_id "rna-ACYAQ4_014048-T1_mrna"; gene_id "gene-ACYAQ4_014048"; gene_name "SEC10";
+JBWZMV010000146.1	Genbank	exon	44316	44514	.	-	.	transcript_id "rna-ACYAQ4_014048-T1_mrna"; gene_id "gene-ACYAQ4_014048"; gene_name "SEC10";
+JBWZMV010000146.1	Genbank	CDS	41914	44249	.	-	2	transcript_id "rna-ACYAQ4_014048-T1_mrna"; gene_id "gene-ACYAQ4_014048"; gene_name "SEC10";
+JBWZMV010000146.1	Genbank	CDS	44316	44514	.	-	0	transcript_id "rna-ACYAQ4_014048-T1_mrna"; gene_id "gene-ACYAQ4_014048"; gene_name "SEC10";
+JBWZMV010000147.1	Genbank	transcript	42141	45074	.	-	.	transcript_id "rna-ACYAQ4_014069-T1_mrna"; gene_id "gene-ACYAQ4_014069"; gene_name "DIP2"
+JBWZMV010000147.1	Genbank	exon	42141	45006	.	-	.	transcript_id "rna-ACYAQ4_014069-T1_mrna"; gene_id "gene-ACYAQ4_014069"; gene_name "DIP2";
+JBWZMV010000147.1	Genbank	exon	45058	45074	.	-	.	transcript_id "rna-ACYAQ4_014069-T1_mrna"; gene_id "gene-ACYAQ4_014069"; gene_name "DIP2";
+JBWZMV010000147.1	Genbank	CDS	42141	45006	.	-	1	transcript_id "rna-ACYAQ4_014069-T1_mrna"; gene_id "gene-ACYAQ4_014069"; gene_name "DIP2";
+JBWZMV010000147.1	Genbank	CDS	45058	45074	.	-	0	transcript_id "rna-ACYAQ4_014069-T1_mrna"; gene_id "gene-ACYAQ4_014069"; gene_name "DIP2";
+JBWZMV010000164.1	Genbank	transcript	31600	33098	.	-	.	transcript_id "rna-ACYAQ4_014418-T1_mrna"; gene_id "gene-ACYAQ4_014418"; gene_name "ENP1"
+JBWZMV010000164.1	Genbank	exon	31600	32458	.	-	.	transcript_id "rna-ACYAQ4_014418-T1_mrna"; gene_id "gene-ACYAQ4_014418"; gene_name "ENP1";
+JBWZMV010000164.1	Genbank	exon	32509	33098	.	-	.	transcript_id "rna-ACYAQ4_014418-T1_mrna"; gene_id "gene-ACYAQ4_014418"; gene_name "ENP1";
+JBWZMV010000164.1	Genbank	CDS	31600	32458	.	-	1	transcript_id "rna-ACYAQ4_014418-T1_mrna"; gene_id "gene-ACYAQ4_014418"; gene_name "ENP1";
+JBWZMV010000164.1	Genbank	CDS	32509	33098	.	-	0	transcript_id "rna-ACYAQ4_014418-T1_mrna"; gene_id "gene-ACYAQ4_014418"; gene_name "ENP1";
