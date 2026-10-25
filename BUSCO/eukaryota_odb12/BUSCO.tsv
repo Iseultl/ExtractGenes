@@ -41,7 +41,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 0683d86c1cfd12b07816a7ca9c6c6b19	GCA_000977835.2	NA	eukaryota_odb12	129	84.5	83.7	0.8	7.8	7.8	0	0	0	0	0	0	0	0	0
 0af51dddb93234486cca6ff434de7e3e	GCA_020499675.1	NA	eukaryota_odb12	129	98.4	98.4	0.0	1.6	0.0	0	0	0	0	0	0	0	0	0
 0f7a36543ce2b869599a8d872597f41d	GCF_963692335.1	NA	eukaryota_odb12	129	99.2	98.4	0.8	0.8	0.0	41	2	1	0	0	0	4	38	40
-13b5bd870fa8880fd288a57958aa63bb	GCA_014049495.1	NA	eukaryota_odb12	129	86.8	85.3	1.6	5.4	7.8	0	0	0	0	0	0	0	0	0
 178ecb6089bb812baced9d31ca34a61f	GCA_905163595.1	Cosmia_trapezina	eukaryota_odb12	129	92.2	89.1	3.1	6.2	1.6	0	0	0	0	0	0	0	0	0
 1c22cf4610076ca0a7f741942dd43e5d	GCA_041438045.1	NA	eukaryota_odb12	129	97.7	97.7	0.0	1.6	0.8	0	0	0	0	0	0	0	0	0
 2046cfd750417b205e4a58b234930506	GCA_042035195.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	84	25	7	4	12	0	0	28	28
@@ -192,7 +191,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 252ba54bc1a2b9fd84c6637159cb1b13	GCF_907164565.1	NA	eukaryota_odb12	129	97.7	96.1	1.6	1.6	0.8	24	2	0	0	1	0	13	25	25
 298973dd572176a357bfb9782f124218	GCA_000090985.2	NA	eukaryota_odb12	129	80.6	80.6	0.0	10.1	9.3	0	0	9	13	0	0	4	26	26
 06c719ba25333a8ac6f41764dea57851	GCA_001329695.1	NA	eukaryota_odb12	129	89.9	88.4	1.6	7.8	2.3	0	0	0	0	0	0	0	0	0
-0b3ca648ce83d72952f7474ff080198e	GCA_014049455.1	NA	eukaryota_odb12	129	86.8	84.5	2.3	5.4	7.8	0	0	0	0	0	0	0	0	0
 17d9fa685a7fa08e7b322d135f841475	GCA_001263195.1	NA	eukaryota_odb12	129	94.6	93.8	0.8	4.7	0.8	0	0	0	0	0	0	0	0	0
 1c8b45b8cae3c51f82fb683644d1c529	GCA_001632505.1	NA	eukaryota_odb12	129	90.7	90.7	0.0	7.8	1.6	0	0	5	0	1	0	3	12	13
 208774ea977cc993ccad9301ded16bca	GCF_023721935.1	NA	eukaryota_odb12	129	97.7	93.8	3.9	2.3	0.0	25	1	0	0	2	0	4	25	25
@@ -255,7 +253,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 2551eae51a92b3c77cee7bdf0fda86e0	GCA_001644535.1	NA	eukaryota_odb12	129	97.7	97.7	0.0	2.3	0.0	0	0	0	0	0	0	0	0	0
 29aa1417e4fd6eaf760fb69f5b88abb1	GCA_051621175.1	NA	eukaryota_odb12	129	89.1	87.6	1.6	9.3	1.6	0	0	1	0	0	0	1	3	3
 01fde953208afa3e13e1b9edd02be0dd	GCA_963082785.1	Philonthus_spinipes	eukaryota_odb12	129	89.1	87.6	1.6	7.8	3.1	0	0	1	0	0	0	0	1	1
-06e8ad058a9e5c4a0a2d78716364a2c7	GCA_016098025.1	NA	eukaryota_odb12	129	96.1	94.6	1.6	2.3	1.6	0	0	0	0	0	0	0	1	1
 0b61e1b6943ccc0583b4993d49b306cc	GCA_004170445.1	NA	eukaryota_odb12	129	96.9	15.5	81.4	0.8	2.3	0	0	0	0	0	0	0	0	0
 0fc598344706e5f180646b23411ae12a	GCA_024699845.1	NA	eukaryota_odb12	129	76.7	75.2	1.6	11.6	11.6	0	0	0	0	0	0	0	0	0
 140a7f26d368a1c02bb5b19fc133f535	GCA_051311805.1	Agelaius_phoeniceus	eukaryota_odb12	129	97.7	96.1	1.6	1.6	0.8	0	7	7	8	1	0	8	24	24
@@ -411,7 +408,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 102a8df069ce6e0c696c54624a3b8b63	GCA_026954905.1	NA	eukaryota_odb12	129	83.7	82.9	0.8	7.8	8.5	0	0	0	0	0	0	0	0	0
 143a8f27b286862789ab3a144225fd44	GCA_011763815.1	NA	eukaryota_odb12	129	91.5	82.2	9.3	6.2	2.3	0	0	0	0	0	0	0	0	0
 18581e2822314f2ad507afcc6f32f8ac	GCA_042076555.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	84	25	7	4	12	0	0	28	28
-1cfc1f1b5a0e10dd5e94fbd71d31b367	GCA_015502445.1	NA	eukaryota_odb12	129	94.6	93.0	1.6	3.1	2.3	0	0	0	0	0	0	0	0	0
 20d0dff3e875c3496bfa5ff77ec8e050	GCA_965153425.1	Rubus_idaeus	eukaryota_odb12	129	96.9	80.6	16.3	1.6	1.6	0	0	0	0	0	0	0	0	0
 259f8f9ea5a427a65f69acfe725c2d30	GCA_949125335.1	NA	eukaryota_odb12	129	83.7	82.9	0.8	7.8	8.5	0	0	0	0	0	0	0	0	0
 004166a92683b1cee4700d5f7c6c0ff8	GCA_042034215.1	Homo_sapiens	eukaryota_odb12	129	96.9	96.1	0.8	3.1	0.0	84	25	7	4	12	0	0	28	28
@@ -884,7 +880,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 265c80b49863aa39df3deea8bb3854c9	GCA_000276665.1	Chinchilla_lanigera	eukaryota_odb12	129	97.7	96.1	1.6	0.0	2.3	0	0	4	13	0	0	12	27	28
 2a8b2318e1825b983bb7dd0518b6c71b	GCA_000326865.1	NA	eukaryota_odb12	129	89.9	88.4	1.6	7.0	3.1	0	1	5	1	1	0	2	11	11
 031cc77028c033cf3b5f5ae16ada7375	GCA_027575805.1	NA	eukaryota_odb12	129	89.1	89.1	0.0	7.8	3.1	0	0	0	0	0	0	0	0	0
-083306629b4a510f67c1f679e9cc84ac	GCA_016745375.1	NA	eukaryota_odb12	129	97.7	95.3	2.3	1.6	0.8	0	2	11	8	8	0	12	33	33
 0c74098bd811b8e925e4b328e5fefa41	GCA_020502025.1	NA	eukaryota_odb12	129	97.7	97.7	0.0	2.3	0.0	0	0	0	0	0	0	0	0	0
 10ebb38dd0ccfcc39f3a35d68faffb4c	GCA_024761105.1	NA	eukaryota_odb12	129	93.8	7.8	86.0	4.7	1.6	0	0	0	0	0	0	0	1	1
 14e1a22ecaa0d35a1f03c638ae2d19c6	GCA_026025075.1	NA	eukaryota_odb12	129	94.6	94.6	0.0	3.1	2.3	0	0	0	0	0	0	0	0	0
@@ -1002,7 +997,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 1db4920506f151c6b38ec5f27b22bc91	GCA_900700895.2	Pisum_sativum	eukaryota_odb12	129	95.3	89.1	6.2	4.7	0.0	0	0	0	0	0	0	0	0	0
 26987e7abeb812e524433195c83917b5	GCA_013398405.1	NA	eukaryota_odb12	129	72.1	70.5	1.6	17.1	10.9	1	2	8	1	1	0	7	20	20
 2ac15786bc766e3a42647fc14ba8c821	GCA_018467005.2	Homo_sapiens	eukaryota_odb12	129	96.9	96.1	0.8	3.1	0.0	84	25	7	4	12	0	0	28	28
-0010f151b254fc1827eac1f5685f477b	GCA_015679585.1	NA	eukaryota_odb12	129	93.0	90.7	2.3	6.2	0.8	0	0	0	0	0	0	0	0	0
 04a6ab08cdeba73c6e60dd12be97d4f5	GCA_002222245.1	NA	eukaryota_odb12	129	97.7	96.9	0.8	1.6	0.8	0	0	0	0	0	0	0	0	0
 094bf6b04854cdeba841b46395623623	GCA_947172395.1	Bicyclus_anynana	eukaryota_odb12	129	95.3	95.3	0.0	3.9	0.8	0	0	0	0	0	0	0	0	0
 0db27b3fb72ee0c005fb33c591e44745	GCA_949783245.1	Hordeum_vulgare_subsp_spontaneum	eukaryota_odb12	129	100.0	89.1	10.9	0.0	0.0	0	0	0	0	0	0	0	0	0
@@ -1017,7 +1011,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 0986c6dd113a1c594d783113c4b36f18	GCA_000349185.1	Anopheles_arabiensis	eukaryota_odb12	129	96.9	96.9	0.0	0.8	2.3	0	0	1	1	0	0	1	3	3
 0e065555622d253442b4b6c295df9215	GCA_016801405.1	Parastagonospora_nodorum_sn15	eukaryota_odb12	129	99.2	99.2	0.0	0.8	0.0	0	0	0	0	0	0	0	0	0
 16666fa813b101c1c56910a3457e904f	GCA_052059015.1	NA	eukaryota_odb12	129	76.7	76.7	0.0	10.1	13.2	0	0	0	0	0	0	0	0	0
-1ade235febca6b56392522af3f8a648c	GCA_015849325.1	NA	eukaryota_odb12	129	94.6	91.5	3.1	4.7	0.8	0	0	0	0	0	0	0	0	0
 1efeb451268421aa9875f82c5af15ae1	GCA_035927145.1	NA	eukaryota_odb12	129	95.3	95.3	0.0	3.1	1.6	0	0	0	0	0	0	0	0	0
 2392794a75e02e5ca0309a5671a3fac4	GCA_020500215.1	NA	eukaryota_odb12	129	97.7	97.7	0.0	2.3	0.0	0	0	0	0	0	0	0	0	0
 27e79616ee08926a93add52170c5c6ff	GCA_004918515.1	NA	eukaryota_odb12	129	83.7	83.7	0.0	7.0	9.3	0	0	0	0	0	0	0	0	0
@@ -1499,7 +1492,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 1e7ab428b009e9b5e5276a972156aaba	GCA_004027455.1	Hydrochoerus_hydrochaeris	eukaryota_odb12	129	92.2	89.9	2.3	6.2	1.6	6	1	4	16	0	0	10	22	22
 22fe5dc2a4e8adff1d06e4192cdee91f	GCF_000006405.1	NA	eukaryota_odb12	129	63.6	35.7	27.9	17.8	18.6	1	0	3	0	0	0	2	6	6
 276cd9b528d22dd3334ecefd379bafdd	GCA_022830815.1	NA	eukaryota_odb12	129	98.4	97.7	0.8	1.6	0.0	0	0	0	0	0	0	0	0	0
-2b95260af4ad29cd35124d065adf9788	GCA_056153285.1	NA	eukaryota_odb12	129	87.6	86.0	1.6	4.7	7.8	0	0	2	0	0	0	3	4	4
 0487c097da7cdf728b912e5e8ed4be65	GCA_965112245.2	Peltodoris_atromaculata	eukaryota_odb12	129	88.4	88.4	0.0	8.5	3.1	0	2	7	10	0	0	3	16	17
 0d8e7b63a615e1e1a86c54193558e862	GCA_030014295.1	Loxodonta_africana	eukaryota_odb12	129	98.4	96.1	2.3	1.6	0.0	0	3	10	12	4	0	25	25	32
 11e12954113af88512e8eecb477d4646	GCA_964166675.1	Cepaea_nemoralis	eukaryota_odb12	129	96.1	88.4	7.8	3.9	0.0	0	3	11	3	0	0	6	15	18
@@ -1511,7 +1503,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 0997676a8d575feb74526db7e161e770	GCA_947078815.1	Oryzias_latipes	eukaryota_odb12	129	96.9	96.9	0.0	3.1	0.0	1	10	9	59	2	0	10	35	36
 0e1c5e6874392d1cbe713cf3fcc56b39	GCA_964659585.1	Natrix_maura	eukaryota_odb12	129	99.2	98.4	0.8	0.8	0.0	0	23	7	6	0	0	18	25	27
 125c3fc22221784bcf579a16fc0526b2	GCA_000338975.1	NA	eukaryota_odb12	129	94.6	94.6	0.0	5.4	0.0	0	0	0	0	0	0	0	0	0
-168cf531e1636f3c0bfaac362bd9d4e5	GCA_013634535.1	NA	eukaryota_odb12	129	82.9	82.2	0.8	15.5	1.6	0	5	3	10	1	0	2	22	22
 1ae5f4f9dd5719e697de5776ed8f26ee	GCA_016748045.1	NA	eukaryota_odb12	129	98.4	98.4	0.0	1.6	0.0	0	0	0	0	0	0	0	0	0
 1f162fc54a2f07c6de8526ad1b6df685	GCA_028891585.1	NA	eukaryota_odb12	129	96.1	96.1	0.0	3.9	0.0	0	0	0	0	0	0	0	0	0
 23a1d58b602cf4bbb4beb9972c1d2064	GCA_049949165.1	NA	eukaryota_odb12	129	99.2	99.2	0.0	0.0	0.8	0	1	9	0	0	0	16	35	36
@@ -1617,7 +1608,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 1ea0634fe15bb9cbea1755bf279d3b63	GCF_020536065.1	NA	eukaryota_odb12	129	90.7	90.7	0.0	5.4	3.9	0	0	0	0	0	0	0	0	0
 23424fad08e5df3d6415809daec594a6	GCA_001185155.1	NA	eukaryota_odb12	129	94.6	85.3	9.3	4.7	0.8	0	0	0	1	0	0	0	1	1
 27859195f98f8469b30a97ea4076e391	GCA_052571445.1	NA	eukaryota_odb12	129	98.4	98.4	0.0	0.8	0.8	0	0	0	0	0	0	0	0	0
-0518be5d6c4bd374f386f64cb012f425	GCA_016748015.1	NA	eukaryota_odb12	129	93.8	93.8	0.0	3.1	3.1	0	0	0	0	0	0	0	0	0
 09a6b4cf99cf754c5f8cc6e6d4d9470d	GCA_949124545.1	NA	eukaryota_odb12	129	83.7	82.9	0.8	8.5	7.8	0	0	0	0	0	0	0	0	0
 0e2824d432b5cceb3080eb4279938352	GCA_963854355.1	Epinotia_brunnichana	eukaryota_odb12	129	89.9	89.1	0.8	7.8	2.3	0	0	0	0	0	0	0	0	0
 1277981b632c4534229525f4d8465c17	GCA_042985785.1	NA	eukaryota_odb12	129	62.0	61.2	0.8	29.5	8.5	0	2	4	6	0	0	7	22	22
@@ -1655,7 +1645,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 128d6c775bdd23cdb379d6e9273b34be	GCA_003711585.2	Larimichthys_crocea	eukaryota_odb12	129	92.2	82.9	9.3	5.4	2.3	4	8	6	37	0	0	12	37	38
 16ab7ace0a0de13a9aa36252b6e23073	GCA_002156985.1	NA	eukaryota_odb12	129	86.8	86.0	0.8	9.3	3.9	0	0	0	0	0	0	0	0	0
 1b041ddb64c34c1256a080d35929b55d	GCF_030435805.1	NA	eukaryota_odb12	129	99.2	94.6	4.7	0.8	0.0	22	3	0	2	1	0	6	26	26
-1f320e23f4b3f445ccfc508917485ed4	GCA_018894095.1	NA	eukaryota_odb12	129	100.0	99.2	0.8	0.0	0.0	0	0	0	0	0	0	0	0	0
 23d67b2256125b61c20642c9ac197af0	GCA_010076325.1	NA	eukaryota_odb12	129	86.8	86.8	0.0	8.5	4.7	1	2	9	2	1	0	7	22	22
 281c32f5d1502857a540a105888ab72c	GCA_965120345.2	NA	eukaryota_odb12	129	96.9	86.8	10.1	3.1	0.0	0	1	8	6	2	0	6	17	18
 0099795c7d47b8419257195b4ff6f7fc	GCA_018804185.1	Ovis_aries	eukaryota_odb12	129	97.7	93.8	3.9	2.3	0.0	5	2	2	16	0	0	4	26	32
@@ -1952,7 +1941,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 1bb5abc8a1c9b90986ff687516b8a2dc	GCA_949710015.1	Crataerina_pallida	eukaryota_odb12	129	98.4	96.1	2.3	1.6	0.0	0	0	2	0	0	0	1	3	3
 1f9d695ee64d7ed950a7fdd7bcd91c61	GCA_949783165.1	Hordeum_vulgare	eukaryota_odb12	129	99.2	89.9	9.3	0.0	0.8	0	0	0	0	0	0	0	0	0
 245ca27cf74faad655ad59ded0ce20ad	GCA_949825045.1	Argyresthia_goedartella	eukaryota_odb12	129	97.7	96.9	0.8	1.6	0.8	0	0	0	0	0	0	0	0	0
-2898e446a820bf3b1bc8fa2920195571	GCA_016097945.1	NA	eukaryota_odb12	129	69.0	68.2	0.8	15.5	15.5	0	0	0	0	0	0	0	0	0
 01172fae3ef624a03106605d801e7f99	GCA_000978015.2	NA	eukaryota_odb12	129	84.5	83.7	0.8	7.8	7.8	0	0	0	0	0	0	0	0	0
 058004fe610073d77d06748b9eadbfec	GCA_018282135.1	NA	eukaryota_odb12	129	99.2	99.2	0.0	0.0	0.8	0	0	0	0	0	0	0	0	0
 0a4d3834308d1a2447266ce4c3bba08e	GCA_024244235.1	NA	eukaryota_odb12	129	96.1	96.1	0.0	1.6	2.3	0	0	0	0	0	0	0	0	0
@@ -1969,7 +1957,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 1bb83666e8374da1b88954f71afda626	GCF_019232065.1	NA	eukaryota_odb12	129	98.4	98.4	0.0	0.8	0.8	22	4	0	0	0	0	7	23	23
 1fa6213a0571906e7011af253d89d5a7	GCA_051991645.1	NA	eukaryota_odb12	129	100.0	0.8	99.2	0.0	0.0	0	0	0	0	0	0	0	0	0
 245f040c471c9dbeff0a057e79d35b70	GCA_029990705.1	NA	eukaryota_odb12	129	85.3	84.5	0.8	7.8	7.0	0	0	0	0	0	0	0	0	0
-28a0d04562abfc64afa5aa6bc4a02b38	GCA_016735825.1	NA	eukaryota_odb12	129	84.5	83.7	0.8	6.2	9.3	0	0	0	0	0	0	0	0	0
 011ccd9cf863fa485a8f5b7c3fe98a46	GCA_017607465.1	NA	eukaryota_odb12	129	87.6	87.6	0.0	4.7	7.8	0	0	0	0	0	0	0	0	0
 05839a52fa9f1233537d3085fe671f9c	GCF_015220805.1	NA	eukaryota_odb12	129	98.4	98.4	0.0	0.8	0.8	21	0	0	0	0	0	6	23	23
 0a50c576a1de75723a1653b367e04068	GCA_964338965.1	Zygaena_sarpedon	eukaryota_odb12	129	98.4	97.7	0.8	0.8	0.8	0	0	0	0	0	0	0	0	0
@@ -2028,8 +2015,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 05b8317e0ebec18ce33a10c374af092a	GCA_025201885.1	NA	eukaryota_odb12	129	89.1	89.1	0.0	6.2	4.7	0	0	0	0	0	0	1	2	2
 0a65887558fe22b6d9fd583366b0af65	GCA_030533445.1	Cyprinodon_diabolis	eukaryota_odb12	129	96.1	96.1	0.0	1.6	2.3	0	4	19	10	1	0	31	36	36
 0ef94211ee20b74a56e01782fdde6680	GCF_001952655.1	NA	eukaryota_odb12	129	96.1	96.1	0.0	2.3	1.6	32	0	5	0	0	0	5	31	32
-132780d2d01ceb343869f0bf0ab84ac7	GCA_015679415.1	NA	eukaryota_odb12	129	96.1	93.0	3.1	1.6	2.3	0	0	0	0	1	0	0	1	1
-17340081b7abebc2b571230db64d6681	GCA_016097855.1	NA	eukaryota_odb12	129	96.1	93.0	3.1	2.3	1.6	0	0	0	0	0	0	0	1	1
 1bce86bba328317f842db608b32ddf63	GCA_010093715.1	NA	eukaryota_odb12	129	99.2	99.2	0.0	0.8	0.0	0	0	0	0	0	0	0	1	1
 2483bffb867858b671337214a09d6560	GCA_002865625.1	NA	eukaryota_odb12	129	99.2	99.2	0.0	0.8	0.0	0	0	0	0	0	0	0	0	0
 28b93eaf5c9bd3f90771c0cd85ec10f2	GCF_003331165.1	NA	eukaryota_odb12	129	100.0	99.2	0.8	0.0	0.0	37	0	2	0	0	0	5	35	35
@@ -2181,7 +2166,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 0636ddbaa3e3adb45b68a6801a5dfda6	GCA_036417295.1	NA	eukaryota_odb12	129	96.9	96.9	0.0	2.3	0.8	0	0	0	0	0	0	0	0	0
 0aba736888b3110fa0a1e5150e167945	GCA_014737475.1	Bombus_confusus	eukaryota_odb12	129	97.7	95.3	2.3	1.6	0.8	0	0	0	2	0	0	0	1	1
 0f3b884faf4725f4cc0406f3b2b09b12	GCA_020744275.1	NA	eukaryota_odb12	129	98.4	98.4	0.0	0.8	0.8	0	0	0	0	0	0	0	0	0
-137b13ec7a0ababa952cea1c4f1b49d6	GCA_016098015.1	NA	eukaryota_odb12	129	91.5	90.7	0.8	4.7	3.9	0	0	0	0	0	0	0	0	0
 1760b07840e6ee89b2a07e9d40ea12d9	GCA_000691945.2	NA	eukaryota_odb12	129	23.3	22.5	0.8	6.2	70.5	0	0	0	0	0	0	0	0	0
 1c0406f037a43ebfcd14666b4b5638a1	GCA_963920705.1	Odiellus_spinosus	eukaryota_odb12	129	98.4	98.4	0.0	0.0	1.6	0	1	3	10	1	0	5	14	14
 2008fae2c5c290b62e48da05bc9b6f5f	GCA_035927965.1	NA	eukaryota_odb12	129	96.9	96.1	0.8	2.3	0.8	0	0	0	0	0	0	0	0	0
@@ -2338,7 +2322,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 352df2b00be15ecbb99f1d6456eaf50a	GCA_030347275.1	NA	eukaryota_odb12	129	99.2	95.3	3.9	0.0	0.8	0	0	1	0	0	0	0	1	1
 39f93a5ab9381285ed8830d31a11841e	GCA_964200315.2	NA	eukaryota_odb12	129	3.1	3.1	0.0	16.3	80.6	0	0	0	1	0	0	1	4	4
 42c4a7220009448eae9e0179e6ec6982	GCA_030553415.1	NA	eukaryota_odb12	129	100.0	2.3	97.7	0.0	0.0	0	0	0	0	0	0	0	0	0
-471df3058c2fe9249d22bf189d0779bf	GCA_015502565.1	NA	eukaryota_odb12	129	95.3	95.3	0.0	4.7	0.0	0	0	0	0	0	0	0	0	0
 4ba5012200fe39f106655118e31f307d	GCA_023510055.1	NA	eukaryota_odb12	129	89.9	89.9	0.0	7.0	3.1	0	0	0	0	0	0	0	0	0
 500cdc3ae654b586ae6e5e5b3facbfb5	GCF_000151665.1	NA	eukaryota_odb12	129	49.6	45.0	4.7	23.3	27.1	0	0	1	0	2	0	4	6	6
 2c588a7df3ccc1fa8fd5a944335dbe15	GCA_964304675.1	Epiphyas_postvittana	eukaryota_odb12	129	93.0	93.0	0.0	6.2	0.8	0	0	0	0	0	0	0	0	0
@@ -2483,7 +2466,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 47586ea5771a9b06dffafed99605fe5b	GCA_023748825.1	NA	eukaryota_odb12	129	98.4	98.4	0.0	0.8	0.8	0	0	0	0	0	0	0	0	0
 4bcec76dc8cca1abaaaa2062e9c046d6	GCA_021527665.1	NA	eukaryota_odb12	129	96.1	92.2	3.9	2.3	1.6	0	0	0	2	0	0	0	2	2
 50358e7251414391c89744323253a172	GCA_000976545.2	NA	eukaryota_odb12	129	82.9	82.2	0.8	7.0	10.1	0	0	0	0	0	0	0	0	0
-549a71b3a7899c0c0e0206be2f797c59	GCA_015847185.1	NA	eukaryota_odb12	129	96.9	93.8	3.1	3.1	0.0	0	0	0	0	0	0	0	0	0
 2c9da161e332cdf323be868995b36ddf	GCA_963923925.1	NA	eukaryota_odb12	129	95.3	94.6	0.8	3.9	0.8	0	0	0	0	0	0	0	1	1
 30ed6e35f60de900e8cdf0054276f58e	GCA_052057135.1	NA	eukaryota_odb12	129	98.4	97.7	0.8	1.6	0.0	0	0	0	0	0	0	0	0	0
 356d14d0b855c2e4e96c6d3b66226392	GCA_010082375.1	NA	eukaryota_odb12	129	89.1	89.1	0.0	8.5	2.3	1	3	9	2	0	0	7	22	22
@@ -2519,7 +2501,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 35935fc2a9467e6285bd9775080b269b	GCA_003698175.1	NA	eukaryota_odb12	129	95.3	95.3	0.0	0.8	3.9	0	0	0	0	0	0	0	0	0
 430bcdb97a3502732b582f1f5c8ebd90	GCA_000690725.1	Stegastes_partitus	eukaryota_odb12	129	95.3	93.0	2.3	3.1	1.6	3	2	13	17	0	0	20	43	44
 4766e1eca0cabc43dac8cc05e2761f14	GCA_965112305.1	Impatiens_parviflora	eukaryota_odb12	129	97.7	20.2	77.5	2.3	0.0	0	0	0	0	0	0	0	0	0
-4bdf91241a7a7b43b722bedf3188b259	GCA_015500005.1	NA	eukaryota_odb12	129	89.9	88.4	1.6	9.3	0.8	0	0	0	0	0	0	0	0	0
 50489a01b8d212c43b8b8b41be38396b	GCA_964199685.1	NA	eukaryota_odb12	129	72.9	72.1	0.8	4.7	22.5	0	0	12	6	1	0	5	22	22
 54b03648ddce78c6204c8fde87e054b8	GCA_020500555.1	NA	eukaryota_odb12	129	96.9	96.9	0.0	3.1	0.0	0	0	0	0	0	0	0	0	0
 09e51aafdc9d778fc0e253873ec5df62	GCA_027579525.1	NA	eukaryota_odb12	129	67.4	65.9	1.6	21.7	10.9	0	0	0	0	0	0	0	0	0
@@ -2641,7 +2622,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 54e8971e153d1d0908010fbe45c408fd	GCA_965212395.1	Arnica_montana	eukaryota_odb12	129	97.7	72.1	25.6	1.6	0.8	0	0	0	0	0	0	0	0	0
 2ceacac164d010bfcef2290e4f4a9b80	GCF_963924245.1	NA	eukaryota_odb12	129	98.4	98.4	0.0	0.8	0.8	23	0	0	0	0	0	6	23	23
 3128648377d0d7efe3be6adabf577e69	GCA_001447645.1	NA	eukaryota_odb12	129	76.7	76.0	0.8	4.7	18.6	0	0	1	1	1	0	4	6	6
-35d6e40f872a3bae2ee54f88914c6082	GCA_015529795.1	NA	eukaryota_odb12	129	92.2	90.7	1.6	6.2	1.6	0	0	0	0	0	0	0	0	0
 3a8211958069e27b798373b0db6734d4	GCA_025134795.1	NA	eukaryota_odb12	129	99.2	99.2	0.0	0.0	0.8	0	0	0	0	0	0	0	0	0
 3ee8df3d09e7d353874f121756196872	GCA_949316465.1	Diarsia_mendica	eukaryota_odb12	129	95.3	94.6	0.8	3.1	1.6	0	0	0	0	0	0	0	0	0
 4345be9eabf350d35c17a188b6a889bd	GCF_020184175.1	NA	eukaryota_odb12	129	99.2	96.1	3.1	0.8	0.0	0	0	0	0	0	0	0	0	0
@@ -2823,7 +2803,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 50fd7634744e0766085874430c65d4f4	GCA_947359425.1	Lagria_hirta	eukaryota_odb12	129	96.9	96.1	0.8	1.6	1.6	0	0	0	0	0	0	0	0	0
 553e90f0d8da13099f4a069e14b24686	GCA_024243675.1	NA	eukaryota_odb12	129	20.9	20.2	0.8	7.0	72.1	0	0	0	0	0	0	0	0	0
 1210cfed2eda287417a6c68f8e8b75ad	GCA_027577975.1	NA	eukaryota_odb12	129	57.4	57.4	0.0	25.6	17.1	0	0	0	0	0	0	0	0	0
-33a61b96ed3152f04bfffe91b2b370ca	GCA_015502485.1	NA	eukaryota_odb12	129	96.1	92.2	3.9	2.3	1.6	0	0	0	0	0	0	0	1	1
 38465053c634ce0853cb8b59777c4128	GCA_014529505.1	NA	eukaryota_odb12	129	51.2	50.4	0.8	15.5	33.3	0	0	0	0	0	0	0	0	0
 3d12581510597a0913f1c2ae15a8b917	GCA_900963305.2	Echeneis_naucrates	eukaryota_odb12	129	98.4	96.1	2.3	1.6	0.0	0	10	22	14	1	0	26	37	38
 413ae4c4b1d6b5ddafbcdd24a486e7aa	GCA_020568055.1	NA	eukaryota_odb12	129	99.2	99.2	0.0	0.8	0.0	0	0	0	0	0	0	0	0	0
@@ -2973,16 +2952,13 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 31a6bc15154109c8345245660eb48804	GCF_000298275.1	NA	eukaryota_odb12	129	97.7	94.6	3.1	2.3	0.0	18	0	0	0	1	0	6	25	25
 3694bf885b6b64d3c099a94e9116356e	GCA_053895495.1	NA	eukaryota_odb12	129	100.0	89.1	10.9	0.0	0.0	0	0	0	0	0	0	0	0	0
 3b15ff46197381b77b2a0cf3b541b27a	GCA_027578975.1	NA	eukaryota_odb12	129	97.7	97.7	0.0	2.3	0.0	0	0	0	0	0	0	0	0	0
-3f85b4b6b7474a2107b3db59e69c1702	GCA_017655625.1	NA	eukaryota_odb12	129	84.5	83.7	0.8	7.0	8.5	0	0	0	0	0	0	0	0	0
 43da7786b33dfaba9925e4f39c65efbd	GCA_949126885.1	Montipora_capitata	eukaryota_odb12	129	77.5	0.0	77.5	18.6	3.9	0	2	18	10	0	0	14	25	26
-4837e88101466e376af7846d163777b2	GCA_015484485.1	NA	eukaryota_odb12	129	97.7	97.7	0.0	2.3	0.0	0	0	0	0	0	0	0	0	0
 4cb7f7d351976ed408a0e5319dc3dfc5	GCA_020570975.1	NA	eukaryota_odb12	129	99.2	99.2	0.0	0.8	0.0	0	0	0	0	0	0	0	0	0
 513de23957904465fd1bfae25f4b92ce	GCF_008065305.1	NA	eukaryota_odb12	129	89.9	89.9	0.0	5.4	4.7	0	0	0	0	0	0	0	0	0
 557e827428cfd95850ce3f0bcd250154	GCA_014461135.1	NA	eukaryota_odb12	129	97.7	96.9	0.8	1.6	0.8	0	0	0	0	0	0	0	0	0
 2d871dcac0f35ce701555c856a79e182	GCA_949124365.1	NA	eukaryota_odb12	129	85.3	84.5	0.8	7.8	7.0	0	0	0	0	0	0	0	0	0
 31aeb9470e05faf85e02fe439221e512	GCA_910595825.1	Xanthogramma_pedissequum	eukaryota_odb12	129	93.0	89.1	3.9	5.4	1.6	0	0	1	1	0	0	1	3	3
 369569803ff079f9ae1376caf6d3279f	GCA_020580145.1	NA	eukaryota_odb12	129	99.2	99.2	0.0	0.8	0.0	0	0	0	0	0	0	0	0	0
-43db8ec4426cf87efc3e92fe960c4470	GCA_016098155.1	NA	eukaryota_odb12	129	97.7	97.7	0.0	2.3	0.0	0	0	0	0	0	0	0	0	0
 4838c81e6eda79726fbdc60f5a9c350d	GCA_958295425.1	Solea_solea	eukaryota_odb12	129	98.4	98.4	0.0	1.6	0.0	1	5	9	33	0	0	10	36	37
 4cb94a1e25eb17bfcf7533afd278e9cd	GCA_000516915.1	NA	eukaryota_odb12	129	56.6	55.8	0.8	18.6	24.8	0	1	5	6	2	0	2	20	20
 513e548d82bd0723fee23f660c78cc97	GCA_963931745.2	NA	eukaryota_odb12	129	98.4	81.4	17.1	1.6	0.0	0	0	0	0	0	0	0	0	0
@@ -3102,7 +3078,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 4404fd29491e48c9486aa108f36e903a	GCA_051941825.1	NA	eukaryota_odb12	129	84.5	84.5	0.0	6.2	9.3	0	0	0	0	0	0	0	0	0
 4890fd0198f752ab41a48f21297a02a1	GCA_921997145.2	Mus_musculus	eukaryota_odb12	129	99.2	96.9	2.3	0.8	0.0	46	10	4	1	3	0	6	31	31
 4ceacd2ebe746d782e962b1d0cdd1a82	GCA_008330645.1	NA	eukaryota_odb12	129	78.3	77.5	0.8	11.6	10.1	0	0	1	2	1	0	2	6	7
-51859ba081beaab96b3df046ba86322b	GCA_016618385.1	NA	eukaryota_odb12	129	68.2	55.8	12.4	10.9	20.9	0	3	5	9	0	0	6	25	26
 55a9d676ab4e816628c491d89b7000d3	GCA_022627135.1	NA	eukaryota_odb12	129	93.8	93.8	0.0	0.8	5.4	0	0	0	0	1	0	0	1	1
 2dc207e6bc37560191264855cf188475	GCA_027942865.1	NA	eukaryota_odb12	129	100.0	100.0	0.0	0.0	0.0	37	0	0	1	1	0	9	40	41
 31ebf0b69becf596681d362e413d332a	GCA_034508575.1	NA	eukaryota_odb12	129	95.3	83.7	11.6	3.1	1.6	0	0	12	3	3	0	4	21	22
@@ -3145,7 +3120,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 2dc98daa9db912d0a0f778fb8054ac31	GCF_009389715.1	NA	eukaryota_odb12	129	99.2	69.0	30.2	0.8	0.0	0	0	0	0	0	0	0	1	1
 36d0a5462bac1a4733a50af66c68bdff	GCA_022814085.1	NA	eukaryota_odb12	129	93.0	93.0	0.0	3.9	3.1	0	0	0	0	0	0	0	0	0
 3b710a04d9dd75f82271b40a2b1ad7e5	GCF_000003605.3	NA	eukaryota_odb12	129	81.4	80.6	0.8	15.5	3.1	13	0	2	1	1	0	2	18	19
-3fd463e4ffb935197ea0dcf0c92f8066	GCA_004217705.1	NA	eukaryota_odb12	129	87.6	87.6	0.0	5.4	7.0	0	0	0	0	0	0	0	0	0
 4413aa60a4c3980a75d73c2d3c42bdfa	GCA_052939295.1	NA	eukaryota_odb12	129	95.3	38.0	57.4	2.3	2.3	0	0	0	0	0	0	0	0	0
 48a1b06cdc26fe50f92b10c060a65387	GCA_021432615.1	NA	eukaryota_odb12	129	99.2	98.4	0.8	0.8	0.0	0	0	0	1	0	0	0	1	1
 4cfbc8a407288ceb96f356c9070aabf7	GCA_943142095.1	Ophonus_ardosiacus	eukaryota_odb12	129	96.1	93.8	2.3	2.3	1.6	0	0	1	0	0	0	1	2	2
@@ -3175,7 +3149,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 36d445df00bd3d8e568b7450bb0dd2ec	GCA_011950945.2	NA	eukaryota_odb12	129	95.3	86.0	9.3	3.1	1.6	0	0	0	0	0	0	0	0	0
 3b7bd64df1038ec0db9279dbf1ddbc40	GCA_949783535.1	Hordeum_vulgare	eukaryota_odb12	129	100.0	89.1	10.9	0.0	0.0	0	0	0	0	0	0	0	0	0
 3fe0e9929d2af8abafaeb72b32ea1d86	GCA_024244595.1	NA	eukaryota_odb12	129	36.4	31.8	4.7	35.7	27.9	0	0	0	0	0	0	0	0	0
-44342f7810b53808bfd29dbfc5fa2162	GCA_015679405.1	NA	eukaryota_odb12	129	93.8	93.0	0.8	3.9	2.3	0	0	0	0	0	0	0	0	0
 4d00e0e72aea0465f320399020851902	GCA_001720155.1	NA	eukaryota_odb12	129	95.3	94.6	0.8	3.9	0.8	0	0	0	0	0	0	0	0	0
 51a5078bb332fc77f7f74408822c03c0	GCA_042038345.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	84	25	7	4	12	0	0	28	28
 55c07a491750140f11482e3e9bf587bc	GCF_013373865.1	NA	eukaryota_odb12	129	99.2	94.6	4.7	0.8	0.0	1	0	0	0	0	0	0	1	1
@@ -3413,7 +3386,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 5615a99963cd116749dcc9dae501cf59	GCA_015679495.1	NA	eukaryota_odb12	129	89.9	89.1	0.8	5.4	4.7	0	0	0	0	0	0	0	0	0
 328193308e3ce8fc709e966c8d85931b	GCA_029281435.1	NA	eukaryota_odb12	129	94.6	88.4	6.2	3.1	2.3	0	0	0	0	0	0	0	0	0
 372fb55e03ab5450026f5b943131c1d5	GCA_024761265.1	NA	eukaryota_odb12	129	96.9	96.1	0.8	2.3	0.8	0	0	0	0	0	0	0	0	0
-3be5f06b7a287a77b44061ef68e97280	GCA_017639395.1	NA	eukaryota_odb12	129	96.1	53.5	42.6	2.3	1.6	0	0	0	0	0	0	0	0	0
 4040144317a421c8ef5384431772cae7	GCA_903986555.1	NA	eukaryota_odb12	129	69.8	69.0	0.8	14.7	15.5	0	0	0	0	0	0	0	1	1
 44a6fc86ec90bc1abbc78872c571647a	GCA_035926935.1	NA	eukaryota_odb12	129	92.2	92.2	0.0	4.7	3.1	0	0	0	0	0	0	0	0	0
 490a97ac3970436fc69b2c6d3bbe6c87	GCF_929443795.2	NA	eukaryota_odb12	129	98.4	96.9	1.6	1.6	0.0	23	0	0	0	0	0	8	25	25
@@ -4123,7 +4095,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 38e60c779c935d2cdafb93d467d7581d	GCF_003473485.1	NA	eukaryota_odb12	129	100.0	74.4	25.6	0.0	0.0	0	0	0	0	0	0	0	0	0
 3d9071836fd3ef716da63cf6c613df93	GCA_949699075.1	Asteroscopus_sphinx	eukaryota_odb12	129	94.6	94.6	0.0	5.4	0.0	0	0	0	0	0	0	0	0	0
 41ba9d6a8f4a687778e66313dbc69bb7	GCA_030463245.1	Vulpes_corsac	eukaryota_odb12	129	98.4	93.0	5.4	0.0	1.6	0	1	9	9	3	0	17	29	29
-466210e6b74ba5b472b81a98af6a3f28	GCA_015852425.1	NA	eukaryota_odb12	129	98.4	96.1	2.3	1.6	0.0	0	0	0	0	0	0	0	0	0
 4f1bd83a076bfa91049a62f22113202e	GCA_051941645.1	NA	eukaryota_odb12	129	57.4	57.4	0.0	23.3	19.4	0	0	0	0	1	0	0	1	1
 53893d6d92048a87eb61c2187dc9d7e3	GCA_033725935.1	NA	eukaryota_odb12	129	98.4	98.4	0.0	1.6	0.0	0	0	0	0	0	0	0	0	0
 2bb04eb2853fa5045400e282843a674f	GCA_015039465.1	NA	eukaryota_odb12	129	98.4	96.9	1.6	1.6	0.0	0	0	0	0	0	0	0	0	0
@@ -4142,7 +4113,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 3816f8316853b5c423dbf6d7abf0c2be	GCA_052360485.1	NA	eukaryota_odb12	129	86.0	84.5	1.6	13.2	0.8	0	0	0	0	0	0	0	0	0
 3cee199cd17783cf891f8fb0e1237455	GCA_018360675.1	NA	eukaryota_odb12	129	99.2	98.4	0.8	0.0	0.8	0	0	0	0	0	0	0	0	0
 4123696319f349e7fe0584f774b50717	GCF_000247585.1	NA	eukaryota_odb12	129	97.7	96.9	0.8	1.6	0.8	0	0	0	0	0	0	0	1	1
-45aec8e95e0ff28e78aade82642ae860	GCA_015679535.1	NA	eukaryota_odb12	129	94.6	93.0	1.6	4.7	0.8	0	0	0	0	0	0	0	0	0
 4a1d46afd3562209926093373e92865b	GCA_004798825.1	NA	eukaryota_odb12	129	90.7	90.7	0.0	7.8	1.6	0	0	0	0	0	0	0	0	0
 4e48eee64f421c605c5685c50f005cc8	GCF_011077185.1	NA	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	28	0	0	0	0	0	10	26	26
 2bb68bfb6e1fc0e321f04fd5b0b06ca3	GCA_951802195.1	Tausonia_pullulans	eukaryota_odb12	129	82.9	82.9	0.0	8.5	8.5	0	0	0	0	0	0	0	0	0
@@ -4313,7 +4283,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 34a86a7270f28817149c5f9214ac7577	GCA_021018955.2	NA	eukaryota_odb12	129	83.7	82.9	0.8	4.7	11.6	0	0	0	0	0	0	0	0	0
 394bb3daddb127da8048792117d99eea	GCF_036250125.1	NA	eukaryota_odb12	129	99.2	99.2	0.0	0.8	0.0	26	0	0	0	0	0	7	24	24
 3e00a797ba3bd7ad7175975c5aaadb77	GCA_964288835.1	Spialia_rosae	eukaryota_odb12	129	94.6	93.8	0.8	2.3	3.1	0	0	0	0	0	0	0	0	0
-422f8add04869b5d6dccd4eedfbebbd5	GCA_015679425.1	NA	eukaryota_odb12	129	96.9	94.6	2.3	2.3	0.8	0	0	0	0	0	0	0	0	0
 46a592b6f8f968071f1e183203e019db	GCF_009792415.1	NA	eukaryota_odb12	129	56.6	55.0	1.6	11.6	31.8	0	0	0	0	0	0	0	0	0
 4b29d1b1bc85ba339c58b82e05ce1044	GCA_012932295.1	Cyclina_sinensis	eukaryota_odb12	129	92.2	78.3	14.0	3.9	3.9	0	4	17	12	0	0	14	28	30
 4f719114500d89d01c36db341ba642ce	GCA_001584585.1	NA	eukaryota_odb12	129	72.1	72.1	0.0	16.3	11.6	0	0	0	1	0	0	1	10	10
@@ -4330,7 +4299,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 53d79ae8727bd43bd958ea618a8ec1c2	GCA_029704095.1	NA	eukaryota_odb12	129	99.2	98.4	0.8	0.8	0.0	0	0	0	0	0	0	0	0	0
 2be1d70781e688cc9bac4fd938d82765	GCA_965194555.1	Satyrus_actaea	eukaryota_odb12	129	94.6	93.8	0.8	3.9	1.6	0	0	0	0	0	0	0	0	0
 3035c66dc790623921ac49c1971bcd76	GCA_951802175.1	Populus_nigra	eukaryota_odb12	129	100.0	66.7	33.3	0.0	0.0	0	0	0	0	0	0	0	0	0
-34b7d213f7c47d5d80fc5c4c8ecc40ed	GCA_015852385.1	NA	eukaryota_odb12	129	97.7	96.1	1.6	1.6	0.8	0	0	0	0	0	0	0	0	0
 3950e2ecc0b346b5e09d9addc94d2c6f	GCA_042257625.1	NA	eukaryota_odb12	129	98.4	98.4	0.0	1.6	0.0	0	0	0	0	0	0	0	0	0
 3e059137e644c2f7b97aea60ace33ad3	GCA_920106075.1	NA	eukaryota_odb12	129	96.9	96.9	0.0	2.3	0.8	0	0	0	0	0	0	0	0	0
 42388b0fab2a5e4bcf12bfc3dd3358db	GCA_964146915.1	Fragaria_vesca	eukaryota_odb12	129	97.7	91.5	6.2	1.6	0.8	0	0	0	0	0	0	0	0	0
@@ -4342,7 +4310,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 2f733962142a7d9ad4a0d8d1ebfef620	GCA_003144235.1	NA	eukaryota_odb12	129	96.1	96.1	0.0	3.1	0.8	0	0	0	1	0	0	0	1	1
 336cb729ff45ca38b47dfb69e88f15a1	GCA_000320665.2	NA	eukaryota_odb12	129	62.0	62.0	0.0	10.9	27.1	0	0	0	2	0	0	2	4	4
 3820669938474d69035183092ebf362b	GCF_010183535.1	NA	eukaryota_odb12	129	89.9	87.6	2.3	2.3	7.8	0	0	0	0	0	0	1	1	1
-3cf6388b3923f8aac044ff6ebedf2c88	GCA_015499975.1	NA	eukaryota_odb12	129	96.9	94.6	2.3	3.1	0.0	0	0	0	0	0	0	0	0	0
 412855f2c66b52c82616fa56266f1dfe	GCA_933228875.1	Leistus_spinibarbis	eukaryota_odb12	129	81.4	78.3	3.1	4.7	14.0	0	0	0	0	0	0	1	1	1
 45b3efb3ffc21c2ddcc823f14ac41f23	GCA_042032545.1	Homo_sapiens	eukaryota_odb12	129	96.9	96.1	0.8	3.1	0.0	83	25	8	4	12	0	0	28	28
 4a22f6425a660c27176539a38e18d178	GCA_911649665.1	NA	eukaryota_odb12	129	17.1	17.1	0.0	1.6	81.4	0	0	0	0	0	0	0	0	0
@@ -4400,7 +4367,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 4b4aa9636baa0883cee156b493161d68	GCA_009193525.1	NA	eukaryota_odb12	129	97.7	97.7	0.0	2.3	0.0	0	0	0	0	0	0	0	0	0
 4f933599f9235fc90966f979ce4378ef	GCF_018340385.1	NA	eukaryota_odb12	129	99.2	35.7	63.6	0.0	0.8	47	0	2	0	0	0	9	58	58
 53ea066d769dfec65347fa863a849506	GCA_963678695.2	Diplodus_puntazzo	eukaryota_odb12	129	98.4	98.4	0.0	1.6	0.0	1	6	19	17	0	0	27	42	44
-2c01d82c680a50174fa147203bd64e40	GCA_015852435.1	NA	eukaryota_odb12	129	93.0	92.2	0.8	3.1	3.9	0	0	0	0	0	0	0	0	0
 3054b50c5d7c34159ef0c465caee8923	GCA_907164925.1	Osmia_bicornis_bicornis	eukaryota_odb12	129	88.4	87.6	0.8	3.1	8.5	0	0	1	2	0	0	0	1	1
 34cf96a57f156b2cd171cfd1e0e07b8b	GCA_964276605.1	Idaea_trigeminata	eukaryota_odb12	129	97.7	97.7	0.0	0.0	2.3	0	0	0	0	0	0	0	0	0
 3981b22168afa9daa3c2290c92dbdf5d	GCA_963971525.1	Cephus_spinipes	eukaryota_odb12	129	96.9	95.3	1.6	0.0	3.1	0	0	2	0	0	0	0	2	2
@@ -4428,7 +4394,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 4b586db109045b2886705bdf4c7428fb	GCA_013368375.1	NA	eukaryota_odb12	129	93.0	92.2	0.8	4.7	2.3	0	0	0	0	0	0	0	0	0
 4faac3cdfe220a5021c35fa850c52bb3	GCF_963678975.1	NA	eukaryota_odb12	129	97.7	96.1	1.6	1.6	0.8	3	0	4	1	1	0	5	19	20
 53f1a07db1b60274499c3cef09fde52d	GCA_936440985.2	Protodeltote_pygarga	eukaryota_odb12	129	92.2	92.2	0.0	4.7	3.1	0	0	0	0	0	0	0	0	0
-2c120e75da3c8bf8d5721824f79ab142	GCA_015852375.1	NA	eukaryota_odb12	129	94.6	93.0	1.6	3.9	1.6	0	0	0	0	0	0	0	0	0
 30624886d9e3a3cf822003fab4369ed3	GCA_947538915.1	Tenthredo_distinguenda	eukaryota_odb12	129	96.9	96.9	0.0	1.6	1.6	0	0	1	1	0	0	0	1	1
 34d72d42e82164cd735ec9524112b2cc	GCF_041260155.1	NA	eukaryota_odb12	129	100.0	97.7	2.3	0.0	0.0	11	0	4	0	0	0	12	25	28
 3992dbd1b18ba2b2157ec99f099ba3f4	GCF_003369915.1	NA	eukaryota_odb12	129	99.2	81.4	17.8	0.0	0.8	2	0	0	0	0	0	1	3	3
@@ -4660,7 +4625,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 74c54b9907dfdbc83aa02a5cb942f331	GCA_965196675.1	Pontia_edusa	eukaryota_odb12	129	96.9	96.9	0.0	0.0	3.1	0	0	0	0	0	0	0	0	0
 791a979a7e71a9022de1c908bcc8a86f	GCA_042028635.1	Homo_sapiens	eukaryota_odb12	129	96.9	96.1	0.8	3.1	0.0	84	25	7	4	12	0	0	28	28
 7d96c0e5c2a6ea2893ac596ad514ac53	GCA_905331295.1	NA	eukaryota_odb12	129	98.4	87.6	10.9	1.6	0.0	0	0	8	3	1	0	9	17	18
-573beb8edb1aa1c7eb1633e4cd8da186	GCA_016097925.1	NA	eukaryota_odb12	129	93.8	93.0	0.8	4.7	1.6	0	0	0	0	0	0	0	0	0
 5b3e971aaf6a713d3137292fcf8ce527	GCA_935421215.2	Melolontha_melolontha	eukaryota_odb12	129	97.7	95.3	2.3	1.6	0.8	0	0	2	0	0	0	0	1	1
 5f438fdcf82f381832ca266248fc4fff	GCA_055878685.1	NA	eukaryota_odb12	129	100.0	83.7	16.3	0.0	0.0	0	0	0	0	0	0	0	0	0
 63af7ee4bdb607a9d16d2cbfb654d456	GCA_023375685.2	Ictalurus_furcatus	eukaryota_odb12	129	93.8	93.0	0.8	2.3	3.9	2	1	20	13	0	0	30	32	33
@@ -4989,7 +4953,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 7fae2ee14a7d7c8d4bd4195f5d13626c	GCA_963692855.1	NA	eukaryota_odb12	129	69.8	31.8	38.0	7.0	23.3	0	0	0	0	2	0	0	2	2
 58e58eb20f961d880b9011cf28337fa7	GCA_018360275.1	NA	eukaryota_odb12	129	99.2	98.4	0.8	0.8	0.0	0	0	0	0	0	0	0	1	1
 5d46e38d2e44e5a4ef7e516094d4d97d	GCF_000585535.1	NA	eukaryota_odb12	129	97.7	96.9	0.8	2.3	0.0	0	0	0	0	0	0	0	0	0
-616323f9af6c8f7c77f22b440a11fa6d	GCA_016098045.1	NA	eukaryota_odb12	129	95.3	94.6	0.8	3.1	1.6	0	0	1	0	0	0	0	2	2
 65d2b57b51abde8d2b3a5b0e1ba3ca74	GCA_052938595.1	NA	eukaryota_odb12	129	97.7	40.3	57.4	0.8	1.6	0	0	0	0	0	0	0	0	0
 69f72f24036e5405116b919ed0bc0007	GCA_966185115.1	Epinotia_pygmaeana	eukaryota_odb12	129	92.2	92.2	0.0	6.2	1.6	0	0	0	0	0	0	0	0	0
 7270c2ea2422d7e19aa35645e1030f27	GCA_046867075.2	NA	eukaryota_odb12	129	93.0	93.0	0.0	5.4	1.6	0	0	0	0	0	0	0	0	0
@@ -5167,7 +5130,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 5d97ff3813773bbfe91c907d1bd296b6	GCA_933228765.1	Miltochrista_miniata	eukaryota_odb12	129	90.7	88.4	2.3	7.0	2.3	0	0	0	0	0	0	0	0	0
 61c2cd38ab2571c5c46688d93973f4f7	GCA_921998635.2	Mus_musculus	eukaryota_odb12	129	98.4	96.1	2.3	1.6	0.0	46	10	4	1	3	0	6	28	28
 65f5e7ee8d048976cc7114106c12d74d	GCA_044509165.1	Taphozous_melanopogon	eukaryota_odb12	129	97.7	94.6	3.1	0.8	1.6	0	2	2	10	2	0	10	23	23
-6a33b5fd83ed244cb59c8ec10f3828e4	GCA_015680655.1	NA	eukaryota_odb12	129	98.4	96.1	2.3	1.6	0.0	0	0	0	0	0	0	0	0	0
 6e6f9803fd034d345b9304b4969d3c40	GCA_965117245.1	Callitriche_obtusangula	eukaryota_odb12	129	99.2	91.5	7.8	0.8	0.0	0	0	0	0	0	0	0	1	1
 72be4159ea329e8b186426cd53b34a20	GCA_020501105.1	NA	eukaryota_odb12	129	96.9	96.9	0.0	3.1	0.0	0	0	0	0	0	0	0	0	0
 7752f5fb0cd5a384f1428a1dbb14b1d9	GCA_008692205.1	NA	eukaryota_odb12	129	85.3	84.5	0.8	9.3	5.4	0	0	0	0	0	0	0	0	0
@@ -5294,12 +5256,10 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 5dc35b1ca52410a2149fb3b7ef5be94f	GCA_009831355.1	Oryza_sativa_Indica_Group	eukaryota_odb12	129	94.6	84.5	10.1	3.9	1.6	0	0	0	0	0	0	0	0	0
 61fc43c0ba489bbfc86eb66132463dd9	GCA_001572075.1	NA	eukaryota_odb12	129	96.9	96.1	0.8	3.1	0.0	0	0	0	0	0	0	0	0	0
 6633d4953eecda9b7ce7ec2b21049e9a	GCA_042027455.1	Homo_sapiens	eukaryota_odb12	129	96.1	94.6	1.6	3.9	0.0	84	25	7	4	12	0	0	28	28
-6a6140f427be9a97f89daba840ab7641	GCA_015501075.1	NA	eukaryota_odb12	129	96.9	94.6	2.3	2.3	0.8	0	0	0	0	0	0	0	0	0
 6e8e0cff13e846b0c1be4ffa00736573	GCA_030848705.1	NA	eukaryota_odb12	129	96.1	76.0	20.2	3.1	0.8	0	0	0	0	0	0	0	0	0
 77819953833986404975e326b5d45dbc	GCA_964271765.1	Limenitis_reducta	eukaryota_odb12	129	95.3	94.6	0.8	3.9	0.8	0	0	0	0	0	0	0	0	0
 7bfe3ae8de6a9c7694f48766b74e60e3	GCA_020501375.1	NA	eukaryota_odb12	129	96.9	96.9	0.0	3.1	0.0	0	0	0	0	0	0	0	0	0
 803d5d4a9a2912490972012999d2c2ac	GCF_031168955.1	NA	eukaryota_odb12	129	96.9	96.9	0.0	2.3	0.8	35	0	1	0	0	0	6	34	35
-5957171cdeaca512b2a3c8bf0278237b	GCA_013841205.1	NA	eukaryota_odb12	129	92.2	92.2	0.0	1.6	6.2	0	0	1	0	0	0	0	1	1
 5dc475936cb068ffecdd9a3cc3534593	GCA_000214015.2	NA	eukaryota_odb12	129	83.7	82.9	0.8	5.4	10.9	0	0	0	1	0	0	2	22	22
 61fd5e3272fa7cd66ff0287299dec375	GCA_014905635.1	NA	eukaryota_odb12	129	89.9	89.9	0.0	8.5	1.6	0	1	0	2	0	0	0	3	3
 663fadf7966b76107d42001017483d2c	GCA_911150065.1	NA	eukaryota_odb12	129	94.6	94.6	0.0	2.3	3.1	0	0	0	0	0	0	0	0	0
@@ -5581,7 +5541,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 59ca74a39b86765ebfa7121ee88e075d	GCA_000976455.3	NA	eukaryota_odb12	129	82.9	82.2	0.8	7.8	9.3	0	0	0	0	0	0	0	0	0
 5e3b4e6115f9b04df984a7555e87b87b	GCA_000263155.2	NA	eukaryota_odb12	129	99.2	82.2	17.1	0.8	0.0	0	0	0	0	0	0	0	0	0
 62941bde460d3d663711f3796bd0ba97	GCA_051942385.1	NA	eukaryota_odb12	129	78.3	78.3	0.0	10.1	11.6	0	0	0	0	0	0	0	0	0
-66c87171743d8c0fab74914f557201a9	GCA_905067625.1	NA	eukaryota_odb12	129	94.6	91.5	3.1	3.9	1.6	0	0	0	0	0	0	0	0	0
 6ac44731cd69762cd93010daec2ae65a	GCA_020501495.1	NA	eukaryota_odb12	129	97.7	97.7	0.0	2.3	0.0	0	0	0	0	0	0	0	0	0
 6f21095957b61339d07659ef0ba980e2	GCF_028828025.1	NA	eukaryota_odb12	129	99.2	99.2	0.0	0.8	0.0	0	0	0	0	0	0	0	0	0
 73826e1edb8f8805eb091026baddf298	GCA_019632275.1	NA	eukaryota_odb12	129	93.0	92.2	0.8	5.4	1.6	0	0	0	0	0	0	0	0	0
@@ -6269,7 +6228,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 7982fb9eca3212babf47ce190a835162	GCA_048987585.1	NA	eukaryota_odb12	129	97.7	78.3	19.4	1.6	0.8	0	0	0	0	0	0	0	0	0
 7e151983b2e366d5aaadebb523e8f017	GCA_002317995.1	NA	eukaryota_odb12	129	96.9	26.4	70.5	3.1	0.0	0	0	0	0	0	0	0	0	0
 578b22e137e5d53f8185b9b8ef788eed	GCA_019207205.1	NA	eukaryota_odb12	129	89.9	89.9	0.0	5.4	4.7	0	0	0	0	0	0	0	0	0
-5b8b94b8c1e72fbf095ad9973fbd9d71	GCA_015679485.1	NA	eukaryota_odb12	129	97.7	96.9	0.8	1.6	0.8	0	0	0	0	0	0	0	0	0
 5fb8387e3b1b3afe14ae3d29267502af	GCA_010405405.1	NA	eukaryota_odb12	129	99.2	99.2	0.0	0.8	0.0	0	0	0	0	0	0	0	0	0
 640fee9917507b3a79c66a195d5842bb	GCA_963681255.1	NA	eukaryota_odb12	129	93.8	92.2	1.6	3.9	2.3	0	0	1	1	1	0	0	3	3
 68601f78f452d5d351cf20998b4629e5	GCF_004010195.1	NA	eukaryota_odb12	129	96.9	96.9	0.0	2.3	0.8	25	0	2	0	0	0	6	28	30
@@ -6280,7 +6238,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 7e199463b9e5b21b33728430d19b8a0a	GCF_000738915.1	NA	eukaryota_odb12	129	18.6	17.8	0.8	10.9	70.5	0	0	0	0	0	0	0	0	0
 64109d984f913a3e80350edd573059d6	GCA_013201765.1	NA	eukaryota_odb12	129	99.2	98.4	0.8	0.8	0.0	0	0	0	0	0	0	0	0	0
 6862abeffa066d4f4c0ea2d2184b2a90	GCA_039105265.1	NA	eukaryota_odb12	129	53.5	48.8	4.7	9.3	37.2	0	0	0	0	0	0	0	0	0
-6c811cc104c88bd518a4e6321571725f	GCA_014858505.1	NA	eukaryota_odb12	129	96.1	82.9	13.2	3.9	0.0	0	0	0	0	0	0	0	0	0
 7542167324aa3c1b6870bf31a16408f1	GCA_004918455.1	NA	eukaryota_odb12	129	84.5	84.5	0.0	7.8	7.8	0	0	0	0	0	0	0	0	0
 79895fd5c5360f0a487d5afac8d6d84d	GCA_020500805.1	NA	eukaryota_odb12	129	97.7	97.7	0.0	2.3	0.0	0	0	0	0	0	0	0	0	0
 7e1df85d2497482fd90c6f7de80b5520	GCA_000977655.2	NA	eukaryota_odb12	129	84.5	83.7	0.8	7.0	8.5	0	0	0	0	0	0	0	0	0
@@ -6430,7 +6387,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 57b45c1b5a746c5a9a0273f39667832a	GCF_011100555.1	NA	eukaryota_odb12	129	97.7	87.6	10.1	1.6	0.8	38	5	0	0	2	0	15	33	37
 5bd5281cfd7ab615c738d3de0caba800	GCA_905332015.1	NA	eukaryota_odb12	129	96.9	89.1	7.8	1.6	1.6	0	0	11	7	4	0	11	26	26
 5ff760d98c77fe739cf2f497ddd8cfd7	GCA_001723895.1	Crocodylus_porosus	eukaryota_odb12	129	89.1	89.1	0.0	6.2	4.7	0	5	8	5	0	0	17	20	20
-64768fd9fd04241a4fa1bafb8f7cc4e1	GCF_000002655.1	NA	eukaryota_odb12	129	98.4	98.4	0.0	1.6	0.0	0	0	0	0	0	0	0	0	0
 68b3deb95d8c9ed52c9462a6b8740750	GCA_902825255.1	NA	eukaryota_odb12	129	89.9	89.9	0.0	8.5	1.6	0	0	8	11	3	0	10	29	29
 6cb0b06550ebf9e75fdf0bc0726fce64	GCA_966194805.1	NA	eukaryota_odb12	129	92.2	92.2	0.0	6.2	1.6	0	0	0	0	0	0	0	0	0
 70fb14ed73d945b059ff4722109cab6e	GCA_964027135.1	NA	eukaryota_odb12	129	92.2	89.1	3.1	4.7	3.1	0	9	12	8	4	0	16	30	31
@@ -6508,13 +6464,11 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 6cd95cf1591ad107ed4432c28b532305	GCA_000671755.1	Glossina_brevipalpis	eukaryota_odb12	129	89.1	85.3	3.9	3.1	7.8	0	0	1	1	0	0	0	2	2
 7117dcfd7e70c8dd6981be460bd798c2	GCA_905116865.2	Candidula_unifasciata	eukaryota_odb12	129	91.5	89.9	1.6	7.8	0.8	0	2	10	4	0	0	3	15	18
 75a3e312cd3e33c99fd3a81407c43c15	GCA_023508785.1	NA	eukaryota_odb12	129	93.0	93.0	0.0	4.7	2.3	0	0	0	0	0	0	0	0	0
-79db5178521d5a7d9b5b0fba77773797	GCA_016098165.1	NA	eukaryota_odb12	129	93.0	89.9	3.1	4.7	2.3	0	0	0	0	0	0	0	0	0
 57dd9abe1099fdebec9a55e5b43d579e	GCA_004917745.1	NA	eukaryota_odb12	129	93.8	93.0	0.8	2.3	3.9	0	0	0	0	0	0	0	0	0
 5bfefb4090cf119dd8a45933d9771986	GCF_000263155.2	NA	eukaryota_odb12	129	99.2	82.9	16.3	0.8	0.0	0	0	0	0	0	0	0	0	0
 601f2a9f3d85eff9cc05cb764ab4c638	GCA_027575275.1	NA	eukaryota_odb12	129	83.7	83.7	0.0	7.0	9.3	0	0	0	0	0	0	0	0	0
 64abfc3c34571af9db1799887fa2a104	GCF_051020765.1	NA	eukaryota_odb12	129	99.2	87.6	11.6	0.8	0.0	1	0	0	0	0	0	0	1	1
 6cdd6548ce8e3fee121aa49feec63d97	GCA_964237465.1	Plagiothecium_denticulatum	eukaryota_odb12	129	97.7	89.9	7.8	2.3	0.0	0	0	0	0	0	0	0	0	0
-711addafed6bdb472bc59fb3f0e06624	GCA_015502505.1	NA	eukaryota_odb12	129	95.3	92.2	3.1	3.1	1.6	0	0	0	0	0	0	0	0	0
 75a7607d2d8e7ba0bb5a6fc3e717ec61	GCA_965267545.1	Crambus_pratella	eukaryota_odb12	129	86.8	86.8	0.0	4.7	8.5	0	0	0	0	0	0	0	0	0
 79deb2a0414c5c02886f76eb224032d3	GCA_000968615.1	NA	eukaryota_odb12	129	94.6	93.8	0.8	1.6	3.9	0	0	0	0	0	0	0	0	0
 7e6e9b8a1c7d330de6eb894b85995beb	GCA_002222145.1	NA	eukaryota_odb12	129	96.9	96.1	0.8	2.3	0.8	0	0	0	0	0	0	0	0	0
@@ -6608,7 +6562,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 6cf40c7857248e311ff39309a73fd51e	GCF_007827085.1	NA	eukaryota_odb12	129	97.7	93.0	4.7	1.6	0.8	24	0	0	0	1	0	11	27	27
 71513078b9948f8e6478ad2787fbefd4	GCA_022578815.1	NA	eukaryota_odb12	129	100.0	100.0	0.0	0.0	0.0	0	0	0	0	0	0	0	0	0
 75d3058851933cf51ababd2d2ee0a419	GCF_000231115.1	NA	eukaryota_odb12	129	21.7	21.7	0.0	7.8	70.5	0	0	0	0	0	0	0	0	0
-7a08b45372340872f3ac47462eafb374	GCA_015502455.1	NA	eukaryota_odb12	129	95.3	92.2	3.1	4.7	0.0	0	0	0	0	0	0	0	0	0
 57f35ea0aeddec444119699f766bbd25	GCF_000972845.2	NA	eukaryota_odb12	129	98.4	98.4	0.0	1.6	0.0	38	2	1	0	0	0	10	40	41
 5c31baefec29713117fc002491b75718	GCA_904063045.1	NA	eukaryota_odb12	129	96.1	93.8	2.3	2.3	1.6	0	0	6	3	0	0	3	17	18
 60487cae23a4998c9e8138bd54a27e4e	GCA_900102585.1	NA	eukaryota_odb12	129	0.8	0.8	0.0	0.0	99.2	0	0	0	0	0	0	0	0	0
@@ -6795,7 +6748,6 @@ annotation_id	assembly_accession	species	lineage	busco_count	complete	single	dup
 7ee807b16cafa014c3096d0f972cab03	GCA_000708205.1	NA	eukaryota_odb12	129	93.8	93.8	0.0	5.4	0.8	0	0	0	0	0	0	0	0	0
 584575c23b817eba07115e4f4c1ecd0f	GCA_958496365.1	Subacronicta_megacephala	eukaryota_odb12	129	89.1	86.8	2.3	9.3	1.6	0	0	0	0	0	0	0	0	0
 5c9c5be95c635f0f2695ed89f540333e	GCA_949820665.1	Scrobipalpa_costella	eukaryota_odb12	129	95.3	94.6	0.8	4.7	0.0	0	0	0	0	0	0	0	0	0
-60aef7a6ddec4541e846755aa23240ca	GCA_013368295.1	NA	eukaryota_odb12	129	95.3	94.6	0.8	3.9	0.8	0	0	0	0	0	0	0	0	0
 651feaeba9b94c4922d5dbd72016c343	GCA_035931885.1	NA	eukaryota_odb12	129	95.3	95.3	0.0	3.1	1.6	0	0	0	0	0	0	0	0	0
 695bc8adfc970efd10023e8c7fa1be5d	GCA_000342415.1	NA	eukaryota_odb12	129	61.2	61.2	0.0	12.4	26.4	0	0	0	0	0	0	0	0	0
 6d2bf9e66d3f183291dae1e4a153caae	GCF_019740435.1	NA	eukaryota_odb12	129	97.7	96.1	1.6	1.6	0.8	40	0	0	0	0	0	3	38	38
@@ -6954,7 +6906,6 @@ a90ceb043b279bd57c08cdb8aab03670	GCA_011947485.2	NA	eukaryota_odb12	129	89.1	89.
 987fc4b1c8e07d29b28f131dd2ce1ea7	GCA_013398295.1	NA	eukaryota_odb12	129	84.5	84.5	0.0	9.3	6.2	1	2	7	2	1	0	6	20	20
 9cdf02bcd3af777f820c40fdffbcc066	GCA_000151505.1	NA	eukaryota_odb12	129	87.6	87.6	0.0	10.1	2.3	0	0	0	0	0	0	0	0	0
 a0c8298332738411e78d04efe7c29846	GCA_013399935.1	NA	eukaryota_odb12	129	72.1	72.1	0.0	17.8	10.1	1	1	11	2	1	0	9	25	25
-a4cf482c4126611e0e2cece2df25de06	GCA_016098135.1	NA	eukaryota_odb12	129	97.7	97.7	0.0	2.3	0.0	0	0	0	0	0	0	0	0	0
 a91b5310cf4e1269386e5e797895e39b	GCA_046862605.1	NA	eukaryota_odb12	129	59.7	48.8	10.9	5.4	34.9	0	0	0	0	0	0	0	0	0
 837cae3ad24139dd613c7f7c755e530c	GCA_019669845.1	NA	eukaryota_odb12	129	99.2	99.2	0.0	0.0	0.8	0	0	0	0	0	0	0	0	0
 8807aa1ef7ed1a4a7fb225f15d74c3c5	GCA_905147265.1	Cyaniris_semiargus	eukaryota_odb12	129	91.5	89.1	2.3	6.2	2.3	0	0	0	0	0	0	0	0	0
@@ -7433,7 +7384,6 @@ a7d0578337d8f7cd8d992700a1e0231e	GCA_001661415.1	NA	eukaryota_odb12	129	89.9	89.
 95490e9bb34c8df1121133fd82d280ca	GCF_028827665.1	NA	eukaryota_odb12	129	98.4	98.4	0.0	1.6	0.0	0	0	0	0	0	0	0	0	0
 993c5b82827abe1a5d6eb579b21b7c8e	GCA_056578945.1	NA	eukaryota_odb12	129	96.1	80.6	15.5	3.9	0.0	0	0	0	0	0	0	0	0	0
 a1c2d553444457c8ecfc9dbf0ec6c5cb	GCA_000732565.1	NA	eukaryota_odb12	129	100.0	99.2	0.8	0.0	0.0	0	0	0	0	0	0	0	0	0
-a58d0897bd3e39321775ea7abea23d8c	GCA_016618255.1	NA	eukaryota_odb12	129	77.5	76.0	1.6	10.1	12.4	0	0	0	1	0	0	1	2	2
 a9c57dc365581c04c875c1ac91279180	GCA_928272305.1	Volucella_inflata	eukaryota_odb12	129	97.7	96.9	0.8	0.8	1.6	0	0	0	2	0	0	0	2	2
 8444fd16058869ba866ff91283725b72	GCA_946251945.1	Acronicta_psi	eukaryota_odb12	129	97.7	97.7	0.0	1.6	0.8	0	0	0	0	0	0	0	0	0
 88de04670beff5f6c2e6b6526aeddb73	GCA_055769225.1	NA	eukaryota_odb12	129	99.2	97.7	1.6	0.8	0.0	0	0	0	0	0	0	0	0	0
@@ -7544,7 +7494,6 @@ a9f17cc93e288de770da63c5febb9780	GCA_004918415.1	NA	eukaryota_odb12	129	83.7	83.
 9981a456297281370da5e567616c619d	GCF_016906535.1	NA	eukaryota_odb12	129	82.2	80.6	1.6	15.5	2.3	0	0	0	0	0	0	0	0	0
 9dca7aef80ac11a48ccf4fcc8b408642	GCA_023646055.1	NA	eukaryota_odb12	129	90.7	90.7	0.0	4.7	4.7	0	0	0	0	0	0	0	0	0
 a1f491022d1e4ff8e9183e83c7f5796c	GCA_014898285.1	NA	eukaryota_odb12	129	100.0	100.0	0.0	0.0	0.0	0	0	0	0	0	0	0	0	0
-a5b430b3dbfeb9ad1c4f8eb7d53fb4f1	GCA_015849285.1	NA	eukaryota_odb12	129	96.1	92.2	3.9	3.1	0.8	0	0	0	0	0	0	0	0	0
 a9f36c76112c8399f8cb588c42f0f1d8	GCA_010093625.1	NA	eukaryota_odb12	129	98.4	98.4	0.0	1.6	0.0	0	0	0	0	0	0	0	0	0
 88fcf4b7f40181d8c6724268eed6a3c4	GCF_032362555.1	NA	eukaryota_odb12	129	100.0	99.2	0.8	0.0	0.0	0	0	0	0	0	0	0	0	0
 8d019857d01fbf175941803a6a53ed28	GCA_000320685.2	NA	eukaryota_odb12	129	62.0	61.2	0.8	10.1	27.9	0	0	0	2	0	0	2	4	4
@@ -7596,7 +7545,6 @@ aa0b9e1ae674db40f20f4260c2a96431	GCF_000499745.2	NA	eukaryota_odb12	129	10.9	9.3
 9dda34e5c01356f9dbc98b5bedf1f2dc	GCF_947179165.1	NA	eukaryota_odb12	129	99.2	86.8	12.4	0.0	0.8	0	0	0	0	0	0	0	0	0
 a5cdd79e2891e888f82c406307cb4d69	GCA_904855205.1	NA	eukaryota_odb12	129	84.5	82.9	1.6	10.9	4.7	0	0	0	0	0	0	0	0	0
 aa1ac4538b673872572e628956331e09	GCA_004027145.1	Daubentonia_madagascariensis	eukaryota_odb12	129	93.0	93.0	0.0	4.7	2.3	0	2	3	11	0	0	12	26	29
-8914f9c43cd646fbe4cf1776f971475d	GCA_016735785.1	NA	eukaryota_odb12	129	84.5	83.7	0.8	6.2	9.3	0	0	0	0	0	0	0	0	0
 8d14600a9612bfb517c9bc437840fb95	GCA_013201795.1	NA	eukaryota_odb12	129	97.7	97.7	0.0	1.6	0.8	0	0	0	0	0	0	0	0	0
 91508f5c3c0d8e024a1a0610dc1dbd3c	GCA_030347275.1	Microctonus_aethiopoides	eukaryota_odb12	129	99.2	95.3	3.9	0.0	0.8	0	0	1	0	0	0	0	1	1
 959c69480bf1150012d46ec2323f5f66	GCA_022813905.1	NA	eukaryota_odb12	129	95.3	93.8	1.6	3.1	1.6	0	0	0	0	0	0	0	0	0
@@ -7693,7 +7641,6 @@ aa49016d53664b2b97a3f49b221d2168	GCA_003344405.1	NA	eukaryota_odb12	129	95.3	95.
 9de6ef3da9c2518a91a34cdd3db39c6e	GCA_051943935.2	NA	eukaryota_odb12	129	72.1	72.1	0.0	13.2	14.7	0	0	0	0	0	0	0	0	0
 a224ca9ddc35c0f67f51a1b61fe7e9a5	GCA_054471195.1	NA	eukaryota_odb12	129	93.0	79.1	14.0	5.4	1.6	0	0	0	0	0	0	0	0	0
 a5e86034b6631bc422752c59d2356534	GCA_014065205.1	NA	eukaryota_odb12	129	96.1	95.3	0.8	2.3	1.6	0	0	0	0	0	0	0	0	0
-aa4c2212c1b91c37ce1639cfcf16bea3	GCA_015849275.1	NA	eukaryota_odb12	129	93.8	93.8	0.0	4.7	1.6	0	0	0	0	0	0	0	0	0
 8d46e1a84f16f47ecdf1a206b71afb26	GCA_022984875.1	NA	eukaryota_odb12	129	97.7	96.9	0.8	0.8	1.6	0	0	0	0	0	0	0	0	0
 917521f80440611f19f4f43debde0bf5	GCF_017654505.1	NA	eukaryota_odb12	129	95.3	48.8	46.5	4.7	0.0	32	1	4	0	0	0	13	44	45
 95b89f20a2dbd828b45ad37e8ae22193	GCA_029783415.1	NA	eukaryota_odb12	129	98.4	39.5	58.9	0.0	1.6	0	0	0	0	0	0	0	0	0
@@ -7779,7 +7726,6 @@ a61b7ae790f93c5cb26f67a44f1b6fd9	GCA_003032435.1	Marchantia_polymorpha_str_Tak_1
 aa6112a15b5acd604d0740a192a31862	GCA_009733105.1	NA	eukaryota_odb12	129	100.0	100.0	0.0	0.0	0.0	0	0	0	0	0	0	1	1	1
 84e387f40636c43e6253b99b7a70945f	GCA_053525275.1	NA	eukaryota_odb12	129	77.5	76.7	0.8	10.1	12.4	0	1	2	2	0	0	0	5	5
 8d6442dd28457ba236824ba0595e5549	GCA_020568415.1	NA	eukaryota_odb12	129	99.2	99.2	0.0	0.8	0.0	0	0	0	0	0	0	0	0	0
-918a281c6d44e721639f7b3064620af8	GCA_015529505.1	NA	eukaryota_odb12	129	96.1	93.0	3.1	3.1	0.8	0	0	0	0	0	0	0	0	0
 95dbdb5d7178b3812c65cebf3bf6b971	GCA_911728515.1	Peribatodes_rhomboidaria	eukaryota_odb12	129	89.9	86.8	3.1	7.8	2.3	0	0	0	0	0	0	0	0	0
 9a02e778f74b3a736863ab2f9d89afa4	GCF_030144855.1	NA	eukaryota_odb12	129	100.0	100.0	0.0	0.0	0.0	23	0	2	0	0	0	7	27	29
 9e054269390fa4b2522f34ffa3aa0f9f	GCF_000803265.1	NA	eukaryota_odb12	129	22.5	22.5	0.0	11.6	65.9	0	0	0	0	0	0	0	0	0
@@ -7938,7 +7884,6 @@ a65139d1e922e3747a7d3f2e67e69397	GCA_965212255.1	Arnica_montana	eukaryota_odb12	
 8532fa01b600413177e1e6c23bf8ee12	GCA_026979955.1	NA	eukaryota_odb12	129	84.5	82.9	1.6	4.7	10.9	0	0	1	1	0	0	0	3	3
 897a0675f881b309e0692adfcde74977	GCA_042077185.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	84	25	7	4	12	0	0	28	28
 91d75faf1c80aa2add396757eb16971a	GCF_001638985.1	NA	eukaryota_odb12	129	87.6	86.0	1.6	5.4	7.0	0	0	0	0	0	0	0	0	0
-960fce6ca16608d9dd84eb19905ca8bb	GCA_017315405.1	NA	eukaryota_odb12	129	86.0	84.5	1.6	5.4	8.5	0	0	0	0	0	0	0	0	0
 9a3ebc5d5512292d010e9714e6901699	GCA_950371115.1	Anania_fuscalis	eukaryota_odb12	129	91.5	88.4	3.1	6.2	2.3	0	0	0	0	0	0	0	0	0
 9e3e399194fc3c021e7b123bcad6b6f7	GCA_964341355.1	Quercus_ilex	eukaryota_odb12	129	98.4	84.5	14.0	1.6	0.0	0	0	0	0	0	0	0	0	0
 a27fa07d0eb1ea6904054ff731b22a52	GCA_052576345.1	NA	eukaryota_odb12	129	96.1	95.3	0.8	3.1	0.8	0	0	0	0	0	0	0	0	0
@@ -7965,7 +7910,6 @@ a6705d8816a4060860d24e27dbbc5f35	GCA_019202795.1	NA	eukaryota_odb12	129	100.0	6.
 aac0b095c87198fe82763e18f0fb7300	GCA_028411795.1	NA	eukaryota_odb12	129	97.7	88.4	9.3	2.3	0.0	0	0	0	0	0	0	0	0	0
 854b1806537abee2cdcb7b682b38aac8	GCA_965111795.1	Pyrgus_carthami	eukaryota_odb12	129	98.4	96.1	2.3	1.6	0.0	0	0	0	0	0	0	0	0	0
 89854f758274ba90a99eb8337923ae32	GCA_042076865.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	84	25	7	4	12	0	0	28	28
-8dc60ea9e1ce466eba4a262971c0862d	GCA_015679595.1	NA	eukaryota_odb12	129	93.8	92.2	1.6	1.6	4.7	0	0	0	0	0	0	0	0	0
 91e8d6aac75610d71dd7d981149abbfb	GCF_947507565.1	NA	eukaryota_odb12	129	96.9	95.3	1.6	0.8	2.3	5	0	3	2	0	0	1	16	17
 961ad18687458d9c910d7b69d00739c4	GCF_016086655.4	NA	eukaryota_odb12	129	99.2	97.7	1.6	0.8	0.0	9	0	3	0	0	0	4	18	18
 9a4b7f90afe90491ed071dcf25199ee5	GCA_027579355.1	NA	eukaryota_odb12	129	63.6	60.5	3.1	28.7	7.8	0	0	0	0	0	0	0	0	0
@@ -8056,7 +8000,6 @@ aae955d8cc98c48c57e15240fef8062b	GCA_964197965.1	Veronica_serpyllifolia	eukaryot
 9a5c5cc688d37db76387d4da1e3a9380	GCA_025769895.1	NA	eukaryota_odb12	129	95.3	93.8	1.6	4.7	0.0	0	0	0	0	0	0	0	1	1
 9e70f231e5adf192808c30de5b8f8b14	GCA_010015825.1	NA	eukaryota_odb12	129	98.4	98.4	0.0	0.8	0.8	0	0	0	0	0	0	0	0	0
 a29edd386260472eda80375a3f44c9b1	GCA_023242295.1	NA	eukaryota_odb12	129	96.1	96.1	0.0	0.8	3.1	0	0	0	0	0	0	0	0	0
-a6b552ddcf6ab6fce634ccf015499ff1	GCA_015499985.1	NA	eukaryota_odb12	129	99.2	95.3	3.9	0.8	0.0	0	0	0	0	0	0	0	0	0
 aae962a4442bffb2080e4b27edbcba78	GCA_003444635.2	NA	eukaryota_odb12	129	98.4	98.4	0.0	0.8	0.8	0	0	0	0	0	0	0	0	0
 8573b99ce87c074b71aeb7ce5166c97d	GCA_949786395.1	Onychomys_leucogaster	eukaryota_odb12	129	96.9	95.3	1.6	0.8	2.3	10	0	3	12	0	0	6	24	24
 8ddcff78ec2936045f710b673de07cde	GCA_025200525.1	NA	eukaryota_odb12	129	93.0	66.7	26.4	4.7	2.3	0	0	0	0	0	0	0	0	0
@@ -8085,7 +8028,6 @@ aaf52278f3516fdf1ff690d93007b5b5	GCA_028027615.1	NA	eukaryota_odb12	129	98.4	98.
 9e7bfc0558446e67453b484063d5c4eb	GCA_002087225.1	NA	eukaryota_odb12	129	59.7	59.7	0.0	11.6	28.7	0	0	2	0	0	0	3	4	4
 a2af2a0df1ff96a1ec4f65b02a28c3ea	GCA_001272555.1	NA	eukaryota_odb12	129	93.8	92.2	1.6	2.3	3.9	0	0	1	0	0	0	1	1	1
 a6beada7111e907047d9303f25d3f792	GCA_028827405.1	NA	eukaryota_odb12	129	97.7	97.7	0.0	2.3	0.0	0	0	0	0	0	0	0	0	0
-aaf7870da90d62155907f080bd9481b7	GCA_016097885.1	NA	eukaryota_odb12	129	89.9	89.9	0.0	5.4	4.7	0	0	0	0	0	0	0	0	0
 8579bb6ec271932a55d96af6cf723082	GCA_964338945.1	Aricia_morronensis	eukaryota_odb12	129	97.7	96.9	0.8	0.8	1.6	0	0	0	0	0	0	0	0	0
 89b3b071703392109468be0a1f2d2e6a	GCA_052939355.1	NA	eukaryota_odb12	129	99.2	39.5	59.7	0.0	0.8	0	0	0	0	0	0	0	0	0
 8de8571c17fe3c788e910a0ce25f1ab6	GCA_056365515.1	NA	eukaryota_odb12	129	97.7	97.7	0.0	1.6	0.8	0	0	0	0	0	0	0	0	0
@@ -8300,7 +8242,6 @@ ab4b0f0f952ad4dcb0a7455d01823718	GCF_002006095.1	NA	eukaryota_odb12	129	100.0	96
 a2e8f385121a1d0f705ec09dd44ff02b	GCF_024868665.1	NA	eukaryota_odb12	129	96.1	94.6	1.6	2.3	1.6	33	1	2	0	0	0	4	34	35
 a7388001dedf8fe17c268f1d885dd8ec	GCA_911174965.1	NA	eukaryota_odb12	129	96.1	96.1	0.0	2.3	1.6	0	0	0	0	0	0	0	0	0
 ab4c3cd5b9d289182d6e3768cf367981	GCA_055815275.1	NA	eukaryota_odb12	129	64.3	62.8	1.6	20.9	14.7	0	7	5	0	0	0	0	37	38
-8e6216f06f2fdaf6d1d03c86b3462921	GCA_016098105.1	NA	eukaryota_odb12	129	94.6	94.6	0.0	4.7	0.8	0	0	0	0	0	0	0	0	0
 928b628d808244bc2fcbea84c6492838	GCF_000150275.1	NA	eukaryota_odb12	129	90.7	89.1	1.6	5.4	3.9	0	0	8	7	0	0	4	24	25
 96c041c2015d6e7764708ce120dc5198	GCA_044906105.1	Sus_scrofa	eukaryota_odb12	129	97.7	95.3	2.3	1.6	0.8	12	1	0	12	0	0	13	24	24
 9ebde7e83e709a14f0b4aa1ab4d5e32f	GCA_022495115.1	NA	eukaryota_odb12	129	98.4	98.4	0.0	1.6	0.0	0	0	0	0	0	0	0	0	0
@@ -8368,7 +8309,6 @@ ab728f9b8b04c85f8a76183e1a9e9376	GCA_052570605.1	NA	eukaryota_odb12	129	100.0	10
 9ad9a2bdc7be2cd6cc6f04ee7760217d	GCA_905220595.1	Spilosoma_lubricipeda	eukaryota_odb12	129	93.0	91.5	1.6	7.0	0.0	0	0	0	0	0	0	0	0	0
 a2ff298c06cbc71ad5b58254f1a5f420	GCA_009805785.1	NA	eukaryota_odb12	129	62.8	60.5	2.3	10.9	26.4	0	0	0	0	0	0	0	0	0
 a750c2cc105007c1a82c1a57abe4f4a9	GCA_004917105.1	NA	eukaryota_odb12	129	96.9	96.1	0.8	0.8	2.3	0	0	0	0	0	0	0	0	0
-ab7352d3a41f60daf7af0eb67946a556	GCA_015849305.1	NA	eukaryota_odb12	129	92.2	89.1	3.1	4.7	3.1	0	0	0	0	0	0	0	0	0
 8602e263d3dcee4e669ed404b380c243	GCA_020797205.1	NA	eukaryota_odb12	129	86.8	84.5	2.3	7.0	6.2	0	0	0	0	0	0	0	0	0
 8a315dc33234a24cd04d3fd48a7f830e	GCA_030462695.1	NA	eukaryota_odb12	129	92.2	89.9	2.3	5.4	2.3	0	0	0	0	0	0	0	0	0
 8e85ad26b3febb606ea3376c5b43ee3f	GCA_041956765.1	NA	eukaryota_odb12	129	100.0	100.0	0.0	0.0	0.0	0	0	0	0	0	0	0	0	0
@@ -8870,7 +8810,6 @@ a88bc4e9f9c6e07e4997ee9289c89c2c	GCA_032988185.1	NA	eukaryota_odb12	129	99.2	99.
 a0371725009ef18e57adf5a46a9672c1	GCA_943789525.1	Agriphila_geniculea	eukaryota_odb12	129	87.6	83.7	3.9	9.3	3.1	0	0	0	0	0	0	0	0	0
 a40b1bb9c6c69ab4afb7c9864969236c	GCA_021365365.1	NA	eukaryota_odb12	129	100.0	100.0	0.0	0.0	0.0	0	0	0	0	0	0	0	0	0
 a88cee9151e2d27de5add36af6955111	GCA_010094095.1	NA	eukaryota_odb12	129	94.6	94.6	0.0	5.4	0.0	0	0	0	0	0	0	0	0	0
-82dd6a83571db9166c6961a674d6f584	GCA_016097935.1	NA	eukaryota_odb12	129	96.9	96.9	0.0	2.3	0.8	0	0	0	0	0	0	0	0	0
 8b63f209fe7a7bc531256bc94c39f8d5	GCF_003676215.2	NA	eukaryota_odb12	129	99.2	94.6	4.7	0.8	0.0	0	0	0	0	0	0	0	0	0
 8fa7b668efef9845ee15032d02572945	GCA_964199635.1	NA	eukaryota_odb12	129	73.6	72.1	1.6	6.2	20.2	0	0	11	6	2	0	6	22	22
 97f4e81a17884a97b16d5f7003d5b535	GCF_003344945.1	NA	eukaryota_odb12	129	96.1	96.1	0.0	3.1	0.8	0	0	0	0	0	0	0	0	0
@@ -8988,7 +8927,6 @@ a06820f69468e069df474c1bc6f48ca5	GCF_000338995.1	NA	eukaryota_odb12	129	96.9	96.
 a43ac5ce3e33b1ec855ea6da55576c65	GCA_001447935.2	NA	eukaryota_odb12	129	88.4	88.4	0.0	4.7	7.0	0	0	0	0	0	0	0	0	0
 a8b2d04da1d61cbdd6c8d09e9cce9c40	GCA_000507465.4	NA	eukaryota_odb12	129	95.3	94.6	0.8	3.9	0.8	0	1	0	0	1	0	0	2	2
 877d6b37febedabdecb863daa3b6b931	GCA_041121695.1	NA	eukaryota_odb12	129	86.0	84.5	1.6	7.8	6.2	0	0	0	0	0	0	0	0	0
-8b88832f172ea9fb0c8808919b4c70bd	GCA_015680625.1	NA	eukaryota_odb12	129	100.0	95.3	4.7	0.0	0.0	0	0	0	0	0	0	0	0	0
 941b08a4cd4a2a3aec25affaec40e1c9	GCA_027942845.1	NA	eukaryota_odb12	129	89.9	89.9	0.0	7.0	3.1	0	0	0	0	0	0	0	0	0
 9c85a872122dbdeaf3c7fc4c7ef5f8ea	GCF_003184695.1	NA	eukaryota_odb12	129	96.9	96.9	0.0	2.3	0.8	0	0	0	0	0	0	0	0	0
 a06c83874da33d2462822f1ebe49bc08	GCA_001691755.2	NA	eukaryota_odb12	129	90.7	90.7	0.0	9.3	0.0	0	0	0	0	0	0	0	0	0
@@ -9027,7 +8965,6 @@ a8bee73e05c84ca60a9cff49dd3c9ace	GCA_966194815.1	NA	eukaryota_odb12	129	98.4	98.
 86450f2f3603ced592c985e6a7ed158f	GCA_024704145.1	NA	eukaryota_odb12	129	98.4	98.4	0.0	0.8	0.8	0	0	0	0	0	0	0	0	0
 8a92e365a1cf9e9ac1799f5093521917	GCA_020797215.1	NA	eukaryota_odb12	129	86.0	83.7	2.3	7.8	6.2	0	0	0	0	0	0	0	0	0
 8ee686ba4394ca651c826a1670f2ff91	GCF_949316345.1	NA	eukaryota_odb12	129	100.0	100.0	0.0	0.0	0.0	38	1	1	0	0	0	3	34	35
-970a0fed12cae967129b63033a777098	GCA_015847195.1	NA	eukaryota_odb12	129	97.7	96.1	1.6	0.8	1.6	0	0	0	0	0	0	0	0	0
 9b510ef07adf67a654eeae49aaacfffb	GCF_009834535.1	NA	eukaryota_odb12	129	99.2	96.9	2.3	0.8	0.0	29	5	0	0	1	0	18	23	23
 a7a688e589ec5d8c4f25ec8112c418b4	GCA_045524125.1	Homo_sapiens	eukaryota_odb12	129	96.9	96.1	0.8	3.1	0.0	84	25	7	4	12	0	0	28	28
 830545a0c4d78c6804f65d9339353399	GCA_028827665.1	NA	eukaryota_odb12	129	98.4	98.4	0.0	1.6	0.0	0	0	0	0	0	0	0	0	0
@@ -9053,7 +8990,6 @@ a8bf851d930126c320366adf6a1903b8	GCA_001447445.1	NA	eukaryota_odb12	129	80.6	76.
 8fe074f01e3ba084c4d9bafd479908bf	GCA_040363505.1	NA	eukaryota_odb12	129	55.8	55.8	0.0	13.2	31.0	0	0	0	0	0	0	1	3	3
 943cecacf32e09e9995c096b3c999dcc	GCA_027578515.1	NA	eukaryota_odb12	129	86.0	85.3	0.8	10.9	3.1	0	0	0	0	0	0	0	0	0
 983f26ab8c094c0799b1ef66fc1b6655	GCA_963678685.1	Patella_ulyssiponensis	eukaryota_odb12	129	97.7	96.9	0.8	2.3	0.0	0	0	10	5	0	0	9	23	24
-a07c4d85eb9d7b2cdb6232bf4bd6222f	GCA_014154955.1	NA	eukaryota_odb12	129	100.0	100.0	0.0	0.0	0.0	0	0	0	0	0	0	0	0	0
 a46074791a9ffa15e94ccc034a14631b	GCF_000150675.1	NA	eukaryota_odb12	129	88.4	88.4	0.0	9.3	2.3	0	0	0	0	0	0	0	0	0
 a8c13a539a5b9cd5933a6fe0e6882f33	GCA_048127405.1	Tectura_virginea	eukaryota_odb12	129	89.9	88.4	1.6	6.2	3.9	0	1	5	7	0	0	5	18	19
 8305dfaea279c2c46034fb30228eb589	GCA_905187575.2	Celastrina_argiolus	eukaryota_odb12	129	99.2	99.2	0.0	0.8	0.0	0	0	0	0	0	0	0	0	0
@@ -9073,7 +9009,6 @@ a8c2c0d2e77ad52cd4a384c30d948071	GCA_949124125.1	NA	eukaryota_odb12	129	84.5	83.
 9c9bc2ce8c57a5fdf46343a4a21606d2	GCA_035232765.1	NA	eukaryota_odb12	129	62.8	62.0	0.8	9.3	27.9	0	0	0	0	0	0	0	0	0
 a0847add4e39d4628e58c9fd6d1df101	GCA_022814295.1	NA	eukaryota_odb12	129	96.9	96.9	0.0	2.3	0.8	0	0	0	0	0	0	0	0	0
 a463d7d9c2419e5a51e8523bcd1d9337	GCA_020450235.1	NA	eukaryota_odb12	129	87.6	86.0	1.6	6.2	6.2	0	0	0	0	0	0	0	0	0
-a8c7d974f417ccf2b684fb1814196a65	GCA_016098035.1	NA	eukaryota_odb12	129	93.8	91.5	2.3	3.9	2.3	0	0	0	0	0	0	0	0	0
 8313de915a8b06fa5a7575c556fbfdec	GCF_013377495.2	NA	eukaryota_odb12	129	99.2	99.2	0.0	0.0	0.8	24	1	0	2	0	0	5	23	23
 8b9a6883ba45a6ee8fffbc6751a20596	GCA_011947395.2	NA	eukaryota_odb12	129	99.2	99.2	0.0	0.0	0.8	0	0	0	0	0	0	0	0	0
 8fe91d1e4e8d8d091dc908662c500492	GCA_047715535.1	NA	eukaryota_odb12	129	98.4	98.4	0.0	0.8	0.8	0	0	0	0	1	0	0	1	1
@@ -9166,7 +9101,6 @@ a499105a237662ec1c77cb8d0096bc38	GCA_965279245.1	Agelas_clathrodes	eukaryota_odb
 a8fa6c83bed333c3e9d6138b61402ada	GCA_037389245.1	Oryzias_sinensis	eukaryota_odb12	129	86.0	86.0	0.0	6.2	7.8	0	9	18	10	0	0	28	30	30
 835a524869de416301b3ded1cc75f520	GCA_949128145.1	Beris_chalybata	eukaryota_odb12	129	87.6	84.5	3.1	9.3	3.1	0	0	0	0	0	0	0	0	0
 87e0a9b9750c525305809db38b39be91	GCA_002072405.1	NA	eukaryota_odb12	129	89.9	89.1	0.8	1.6	8.5	0	0	0	0	0	0	0	0	0
-9023c4be631b4bb66795692d3b4ef68b	GCA_014049485.1	NA	eukaryota_odb12	129	77.5	67.4	10.1	11.6	10.9	0	0	0	0	0	0	0	0	0
 94670453785a5cf3ea59ff7dadfc15a6	GCF_964198595.1	NA	eukaryota_odb12	129	93.8	92.2	1.6	4.7	1.6	25	1	1	1	0	0	5	27	46
 986c12fce47279eb97cfb59d894e5f5d	GCA_949124195.1	NA	eukaryota_odb12	129	84.5	82.9	1.6	7.8	7.8	0	0	0	0	0	0	0	0	0
 9cc102cbae728c2bc96b102c6f5bc413	GCA_030039215.1	NA	eukaryota_odb12	129	69.0	68.2	0.8	12.4	18.6	0	0	0	0	0	0	0	0	0
@@ -9386,7 +9320,6 @@ ce04c85d073d3015f252bc2a5689e3ca	GCF_048934315.1	NA	eukaryota_odb12	129	96.1	92.
 ad521a744524ce5974515a81a1c7b41a	GCA_020574345.1	NA	eukaryota_odb12	129	99.2	99.2	0.0	0.8	0.0	0	0	0	0	0	0	0	0	0
 b12af3affc6a5cf85e26d94940e93099	GCA_008124465.1	NA	eukaryota_odb12	129	79.8	67.4	12.4	17.8	2.3	0	0	0	0	0	0	0	0	0
 b561a5ca5632d0f52c01a139e2c11934	GCA_042077705.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	84	25	7	4	12	0	0	28	28
-b96b5655cae1871876f170b942de0f63	GCA_014872705.1	NA	eukaryota_odb12	129	95.3	94.6	0.8	4.7	0.0	0	0	0	0	0	0	0	0	0
 bd74ecbf5bab9ddee4758abcd94ff6d0	GCA_964304595.1	Cricetus_cricetus	eukaryota_odb12	129	100.0	96.9	3.1	0.0	0.0	0	0	3	11	0	0	14	26	27
 c644fbf8f070b24736bf3ded18907328	GCF_041296265.1	NA	eukaryota_odb12	129	100.0	98.4	1.6	0.0	0.0	30	3	0	0	0	0	7	23	23
 ca1abcd33e118e41703a0070c54b1c34	GCA_001190045.1	Vigna_angularis	eukaryota_odb12	129	84.5	73.6	10.9	10.1	5.4	0	0	0	0	0	0	0	0	0
@@ -9404,7 +9337,6 @@ ce1b4ce0ae1bcfe9bd43357a324edb74	GCA_026651735.1	NA	eukaryota_odb12	129	92.2	61.
 ad5ad37f0bda6763fb4ca88c9b05b006	GCA_038025025.1	NA	eukaryota_odb12	129	97.7	97.7	0.0	1.6	0.8	0	0	0	0	0	0	0	0	0
 b12dddd7af8dd9ca99cb7691ac33303b	GCA_016865085.1	NA	eukaryota_odb12	129	100.0	98.4	1.6	0.0	0.0	0	0	0	0	0	0	1	1	1
 b96f8682cd1ca580ac7c514b5c67eb89	GCA_949123155.1	NA	eukaryota_odb12	129	81.4	80.6	0.8	8.5	10.1	0	0	0	0	0	0	0	0	0
-bd8176d9f51154e6c0850f7cf7762bc9	GCA_018691285.1	NA	eukaryota_odb12	129	98.4	62.0	36.4	1.6	0.0	0	0	0	0	0	0	0	0	0
 c23cd687fc1e7a0b54510eb8c14811a2	GCA_035926155.1	NA	eukaryota_odb12	129	99.2	5.4	93.8	0.8	0.0	0	0	0	0	0	0	0	0	0
 c64bba418d6e618dbfb0d607e135bd41	GCA_035926095.1	NA	eukaryota_odb12	129	98.4	97.7	0.8	1.6	0.0	0	0	0	0	0	0	0	0	0
 ca1dfd243f612a8f4f86e9e7c0062559	GCF_017590135.1	NA	eukaryota_odb12	129	97.7	95.3	2.3	0.8	1.6	27	0	0	0	0	0	5	24	24
@@ -9505,7 +9437,6 @@ ce50ecde45f34c142e31b2a1b3179607	GCA_964234935.1	Andrena_helvola	eukaryota_odb12
 5bb28540f45550ec96b93eb22b63154a	GCA_976984555.1	Peregrinus_maidis	eukaryota_odb12	129	93.8	92.2	1.6	3.9	2.3	0	0	3	1	0	0	0	2	2
 ada0c6c045854e091e34229e657cc1f2	GCA_019511825.2	NA	eukaryota_odb12	129	90.7	13.2	77.5	2.3	7.0	0	0	0	0	0	0	0	0	0
 b16628998a4bccf69d31fff0c144a352	GCA_004027535.1	Acomys_cahirinus	eukaryota_odb12	129	80.6	79.8	0.8	14.0	5.4	0	3	2	7	0	0	12	27	27
-b5881a0658cbafc71446d2ec16ebd6da	GCA_015849335.1	NA	eukaryota_odb12	129	92.2	89.1	3.1	3.9	3.9	0	0	0	0	1	0	0	1	1
 b995b045685e05cd16481d57e7be0b7b	GCA_000976725.3	NA	eukaryota_odb12	129	84.5	83.7	0.8	7.8	7.8	0	0	0	0	0	0	0	0	0
 bdc0bc963d3a003110609b088876965d	GCF_003287225.1	NA	eukaryota_odb12	129	100.0	99.2	0.8	0.0	0.0	21	3	1	0	1	0	12	25	27
 c67d10328a7672fecc490e063e53422b	GCA_014904985.1	NA	eukaryota_odb12	129	92.2	90.7	1.6	7.0	0.8	0	0	0	0	0	0	0	0	0
@@ -9645,7 +9576,6 @@ ade7a8074fa28efa7a505050cca812a1	GCF_019393585.1	NA	eukaryota_odb12	129	100.0	98
 b190dcb736d12fe4c866b26ddf8dda67	GCA_020578105.1	NA	eukaryota_odb12	129	99.2	99.2	0.0	0.8	0.0	0	0	0	0	0	0	0	0	0
 b5b5ca9328d5b4a73ad8b2a454fbc90a	GCA_964035675.1	Buglossoporus_quercinus	eukaryota_odb12	129	89.1	89.1	0.0	7.0	3.9	0	0	0	0	0	0	0	0	0
 b9bda7787eb3cc10be47ec1b83e84c16	GCA_002804325.1	NA	eukaryota_odb12	129	85.3	84.5	0.8	7.8	7.0	0	0	0	0	0	0	0	0	0
-be0a4bca7cf0591841c3e260cd683b32	GCA_015852415.1	NA	eukaryota_odb12	129	93.8	90.7	3.1	3.9	2.3	0	0	0	0	0	0	0	0	0
 c2cde99bbbc4b0d01c57cd83fa7db275	GCF_016545835.1	NA	eukaryota_odb12	129	99.2	97.7	1.6	0.8	0.0	24	1	1	0	0	0	11	25	25
 c6b3cde9c11c1a266bf55d66607d5895	GCA_022605725.3	Anthonomus_grandis_grandis	eukaryota_odb12	129	97.7	96.9	0.8	1.6	0.8	0	0	0	0	0	0	0	0	0
 ca6be478d531bdf22ac05850a3b45005	GCA_010084205.1	NA	eukaryota_odb12	129	82.9	76.0	7.0	12.4	4.7	1	3	8	1	1	0	6	22	22
@@ -9738,7 +9668,6 @@ cec4d828ca7b13dafdd92d3e7d0e1222	GCA_905333075.3	Atethmia_centrago	eukaryota_odb
 ae017fb7f9864c6a6d5de6700ac39368	GCF_000341935.2	NA	eukaryota_odb12	129	99.2	98.4	0.8	0.0	0.8	1	0	0	0	0	0	0	1	1
 b1c16c4029850002575d17b829b4990d	GCA_000218685.1	NA	eukaryota_odb12	129	86.8	86.8	0.0	3.9	9.3	0	0	0	0	0	0	0	0	0
 b5ceddba81d927f1934faf768d10e574	GCA_014132575.2	Gasterosteus_nipponicus	eukaryota_odb12	129	94.6	94.6	0.0	3.1	2.3	1	8	9	42	0	0	10	36	37
-b9f51ca623031bce5da10e01fd692758	GCA_015502465.1	NA	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	0	0	0	0	0	0	0	0	0
 be432e5e05b9104ec54b7f860ff68194	GCA_016858165.1	NA	eukaryota_odb12	129	85.3	84.5	0.8	7.8	7.0	0	0	0	0	0	0	0	0	0
 c2fce865d32e4a5cec929fd11eb79c54	GCA_011950985.2	NA	eukaryota_odb12	129	94.6	86.0	8.5	3.9	1.6	0	0	0	0	0	0	0	0	0
 c6e082d9c2f2ac704ece4cda9303838f	GCA_051944055.2	NA	eukaryota_odb12	129	89.1	33.3	55.8	7.0	3.9	0	0	0	0	0	0	0	1	1
@@ -9762,7 +9691,6 @@ b9f99f35a57714a066a855a95870d8d2	GCA_018398675.1	Coregonus_clupeaformis	eukaryot
 be5348813f72238270136cc5e009d07a	GCA_029448575.1	NA	eukaryota_odb12	129	93.8	90.7	3.1	3.9	2.3	0	0	0	0	0	0	0	0	0
 c31320d19bd3d2183620c804dc5266ab	GCF_039105145.1	NA	eukaryota_odb12	129	95.3	95.3	0.0	3.1	1.6	0	0	0	0	1	0	0	1	1
 c6ec855de6fbe6e2776057789f640fdb	GCA_905332305.1	NA	eukaryota_odb12	129	83.7	76.0	7.8	14.0	2.3	0	0	7	5	2	0	6	24	25
-ca9140277bfaac64568ef475a8a88f52	GCA_015852495.1	NA	eukaryota_odb12	129	92.2	91.5	0.8	4.7	3.1	0	0	0	0	0	0	0	0	0
 cecf70d04bcec781f997d4fc037d5a2f	GCA_900660285.1	NA	eukaryota_odb12	129	87.6	87.6	0.0	6.2	6.2	0	0	0	0	0	0	0	0	0
 6ab54f7625241a850ee88d7fe052fe0b	GCA_965642085.1	Tetranychus_urticae	eukaryota_odb12	129	81.4	78.3	3.1	5.4	13.2	0	0	4	1	0	0	2	5	5
 b1c767599e4a1ab95c19a5dc7701760e	GCA_022160305.1	NA	eukaryota_odb12	129	97.7	97.7	0.0	1.6	0.8	0	0	0	0	1	0	0	1	1
@@ -10457,7 +10385,6 @@ c7f062103de2813f7c2b33df872cf539	GCF_027580225.2	NA	eukaryota_odb12	129	100.0	97
 cbdc1bf1d64956a0be740dcb72b137e0	GCA_013030025.1	NA	eukaryota_odb12	129	94.6	57.4	37.2	3.1	2.3	0	0	0	0	0	0	0	0	0
 cfbf20b1150dc224962eec3035424f56	GCA_015679545.1	NA	eukaryota_odb12	129	93.0	89.9	3.1	5.4	1.6	0	0	0	0	0	0	0	0	0
 9e50f5f0d60e9ddf945486ef3929d753	GCA_008795835.1	Panthera_leo	eukaryota_odb12	129	95.3	93.0	2.3	3.9	0.8	0	3	4	10	1	0	18	25	25
-af0a2062b8cfeb4f2e81c3df4e29579b	GCA_004115005.2	NA	eukaryota_odb12	129	89.9	54.3	35.7	7.0	3.1	0	0	0	0	0	0	0	0	0
 b2ff4eea38fdce5f4ccdf0d7269f2306	GCA_020573495.1	NA	eukaryota_odb12	129	99.2	99.2	0.0	0.8	0.0	0	0	0	0	0	0	0	0	0
 b6e0036d90730722ec0d0e5a9dc7f1d4	GCA_001890105.1	NA	eukaryota_odb12	129	98.4	98.4	0.0	1.6	0.0	0	0	0	0	1	0	0	1	1
 bb064a11f6d1052e50f8f831dc9783b8	GCA_905147235.1	Erynnis_tages	eukaryota_odb12	129	79.8	76.7	3.1	8.5	11.6	0	0	0	0	0	0	0	0	0
@@ -10703,7 +10630,6 @@ af4c0f52b911b19763d68a1260f6e7db	GCA_000190235.1	NA	eukaryota_odb12	129	55.0	55.
 b3732c698b7ac83b48fb8a96af215254	GCA_052939215.1	NA	eukaryota_odb12	129	93.8	31.0	62.8	3.1	3.1	0	0	0	0	0	0	0	0	0
 b753967ec22b31c04e63afba7774e83f	GCA_036810415.1	NA	eukaryota_odb12	129	95.3	94.6	0.8	3.9	0.8	0	0	0	0	0	0	0	0	0
 c066121025b069236656e0020952d6ae	GCA_052570065.1	NA	eukaryota_odb12	129	96.9	96.9	0.0	1.6	1.6	0	0	0	0	0	0	0	0	0
-c47907a4ad50b48fad18f98672376148	GCA_014049585.1	NA	eukaryota_odb12	129	87.6	85.3	2.3	5.4	7.0	0	0	0	0	0	0	0	0	0
 c8525e4c879edc2e61a516fe71bd018a	GCA_013400015.1	NA	eukaryota_odb12	129	82.2	81.4	0.8	12.4	5.4	3	2	10	0	1	0	9	23	23
 cc4be1f8cf81ad246acec6a28468b066	GCA_002743455.1	Anas_platyrhynchos_platyrhynchos	eukaryota_odb12	129	82.9	82.9	0.0	7.8	9.3	0	2	6	4	2	0	14	21	21
 d005853f10ff3a34e71a95269a4da947	GCF_040668555.2	NA	eukaryota_odb12	129	98.4	97.7	0.8	0.8	0.8	1	0	0	0	0	0	0	1	1
@@ -10943,7 +10869,6 @@ ac461ef6ca6e254a01da228c6aef11ff	GCA_963978835.1	Tenthredo_scrophulariae	eukaryo
 b025087be7bdfad3f08624fb82e0acba	GCA_900005705.1	NA	eukaryota_odb12	129	0.0	0.0	0.0	0.0	100.0	0	3	19	4	6	0	19	46	48
 b44bfb225487b015e5e408d86a5891cf	GCA_029694785.1	NA	eukaryota_odb12	129	84.5	84.5	0.0	2.3	13.2	0	0	0	0	0	0	0	0	0
 b80c175c1f6aea6e49223c42247a590e	GCA_004918505.1	NA	eukaryota_odb12	129	98.4	97.7	0.8	0.0	1.6	0	0	0	0	0	0	0	0	0
-bc7c76846677fd12f2b190115c004a15	GCA_015847235.1	NA	eukaryota_odb12	129	99.2	96.1	3.1	0.8	0.0	0	0	0	0	0	0	0	0	0
 c13f005d4b157915d2e140ef756c1c59	GCA_009733165.1	NA	eukaryota_odb12	129	71.3	71.3	0.0	20.2	8.5	0	3	4	9	4	0	5	19	19
 c546260b81eaa4c7c02e003aede509e7	GCA_964057205.1	Orthosia_cruda	eukaryota_odb12	129	92.2	90.7	1.6	6.2	1.6	0	0	0	0	0	0	0	0	0
 c91199dbd9f935bd190e8dcd25bed876	GCA_964030765.1	Micromesistius_poutassou	eukaryota_odb12	129	87.6	86.8	0.8	3.9	8.5	0	2	13	16	0	0	16	32	33
@@ -11657,7 +11582,6 @@ f2739a5c74577ab2daca041447dd5f94	GCA_027945405.1	NA	eukaryota_odb12	129	93.0	93.
 c753ebf0406ba0478bc3051ed2575734	GCA_963555595.1	Tethea_ocularis	eukaryota_odb12	129	97.7	97.7	0.0	1.6	0.8	0	0	0	0	0	0	0	0	0
 d45ae1bedc9ed4c33c38661020091490	GCF_001632365.1	NA	eukaryota_odb12	129	99.2	97.7	1.6	0.8	0.0	0	0	0	0	0	0	0	0	0
 d8a7e10dd551ca110cfe4a7a1b9d5262	GCA_046332435.1	Homo_sapiens	eukaryota_odb12	129	96.9	96.1	0.8	3.1	0.0	91	33	7	4	12	0	0	28	28
-dc9be8e7cc1f2b320533515afae75e01	GCA_015679605.1	NA	eukaryota_odb12	129	93.0	92.2	0.8	6.2	0.8	0	0	0	0	0	0	0	0	0
 e0a00d8310e1eb3764d3221044501551	GCA_018469935.2	Homo_sapiens	eukaryota_odb12	129	96.1	95.3	0.8	3.9	0.0	84	25	7	4	12	0	0	28	28
 e4784e3be8c3757ad992755336d1cf0d	GCA_002738545.1	NA	eukaryota_odb12	129	18.6	18.6	0.0	41.1	40.3	0	0	4	1	0	0	3	16	16
 ecf171d49cd79d91680e002a1a854039	GCA_000166175.1	NA	eukaryota_odb12	129	97.7	96.1	1.6	1.6	0.8	0	0	0	0	0	0	0	1	1
@@ -11694,7 +11618,6 @@ d67bcb21975dfcb0497fa5a3d18012f3	GCF_019399895.1	NA	eukaryota_odb12	129	99.2	95.
 da2ab8c60a9a1a308e4f07dfa287fec3	GCA_042037975.1	Homo_sapiens	eukaryota_odb12	129	96.9	96.1	0.8	3.1	0.0	84	25	7	4	12	0	0	28	28
 de3b523577e62414de7c9d5409235821	GCA_003144195.1	NA	eukaryota_odb12	129	92.2	91.5	0.8	3.9	3.9	0	0	0	0	0	0	0	0	0
 e24f09b74b5475dc44550d1e9f9d1534	GCA_013396465.1	NA	eukaryota_odb12	129	83.7	82.9	0.8	9.3	7.0	2	2	9	2	1	0	8	22	22
-e6735b4703f2de0de6b4c961a13e5e5b	GCA_016098005.1	NA	eukaryota_odb12	129	96.1	95.3	0.8	2.3	1.6	0	0	0	0	0	0	0	0	0
 ea6f4440dabcedb495f1f12e0a6197b2	GCA_020744135.1	NA	eukaryota_odb12	129	99.2	99.2	0.0	0.8	0.0	0	0	0	0	0	0	0	0	0
 eed1a13edc4a5c4fc2f3a35d275307c3	GCA_029990845.1	NA	eukaryota_odb12	129	84.5	83.7	0.8	7.8	7.8	0	0	0	0	0	0	0	0	0
 f27d9465932f0b3f462ad020dab3f4f2	GCA_007821545.1	NA	eukaryota_odb12	129	84.5	84.5	0.0	7.8	7.8	0	0	0	0	0	0	0	0	0
@@ -11953,7 +11876,6 @@ ef0a7acffc31a1e1353b6282154eda54	GCA_905359475.1	NA	eukaryota_odb12	129	99.2	99.
 f2fea6677f36d16f30b50812b0241531	GCF_905475395.1	NA	eukaryota_odb12	129	98.4	97.7	0.8	0.0	1.6	0	0	0	1	0	0	1	2	2
 f6bce2d667e80eaade72b321f334f649	GCF_014905175.1	NA	eukaryota_odb12	129	98.4	89.9	8.5	0.0	1.6	3	0	0	0	0	0	0	1	1
 c93f792a61f98b6023374aab3e71df20	GCF_021653875.1	NA	eukaryota_odb12	129	17.1	17.1	0.0	13.2	69.8	0	0	0	0	0	0	0	0	0
-d46054786b66bbb5f13f5a3c0fa8d1e8	GCA_018127085.1	NA	eukaryota_odb12	129	88.4	88.4	0.0	4.7	7.0	0	0	0	0	0	0	0	0	0
 d8b2917ee487ca2403bfb8be521bdd52	GCA_002287475.2	NA	eukaryota_odb12	129	97.7	97.7	0.0	1.6	0.8	0	0	0	0	0	0	0	0	0
 dcafcfae92738344e40a0cb1b7051006	GCA_022813765.1	NA	eukaryota_odb12	129	92.2	92.2	0.0	3.9	3.9	0	0	0	0	0	0	0	0	0
 e0a5846831242a804cdc1c992a7fcaeb	GCA_042037925.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	84	25	7	4	12	0	0	28	28
@@ -12308,7 +12230,6 @@ f74189ee28847417cd9f6c95b0af5c10	GCA_004024725.1	Cheirogaleus_medius	eukaryota_o
 d2f3b8e48a961990fab129f5746d3d4c	GCA_911175315.1	NA	eukaryota_odb12	129	97.7	97.7	0.0	0.8	1.6	0	0	0	0	0	0	0	0	0
 d74fdd0ef980baef381f7e8e7d8ce641	GCA_042077085.1	Homo_sapiens	eukaryota_odb12	129	96.1	96.1	0.0	3.9	0.0	84	25	7	4	12	0	0	28	28
 db36341aa3fefddbef7e54230279a228	GCA_029990475.1	NA	eukaryota_odb12	129	83.7	82.9	0.8	8.5	7.8	0	0	0	0	0	0	0	0	0
-df5772a79b3a4f11b95d42ba610b8188	GCA_015529785.1	NA	eukaryota_odb12	129	93.8	93.0	0.8	4.7	1.6	0	0	0	0	0	0	0	0	0
 e75515549c3f53098143c8dc363b3e0a	GCA_042036925.1	Homo_sapiens	eukaryota_odb12	129	96.9	96.1	0.8	3.1	0.0	84	25	7	4	12	0	0	28	28
 eb5d0519f6df26ab0ce112e191081c23	GCA_010090195.1	NA	eukaryota_odb12	129	83.7	82.9	0.8	12.4	3.9	1	1	8	4	1	0	7	25	25
 ef9d94cef722c91522443f5f745e1e9b	GCA_029990785.1	NA	eukaryota_odb12	129	85.3	84.5	0.8	7.8	7.0	0	0	0	0	0	0	0	0	0
@@ -12326,7 +12247,6 @@ f3980fae45e75a03a9b775924a1827e0	GCF_009769535.1	NA	eukaryota_odb12	129	96.9	90.
 f74aee0d122c81fe3024a669fc30ac6c	GCF_001278385.1	NA	eukaryota_odb12	129	93.0	93.0	0.0	3.1	3.9	0	0	0	0	0	0	0	0	0
 d2fa24a4816ec427c2a2dadf7dd627d8	GCF_038048845.1	NA	eukaryota_odb12	129	95.3	95.3	0.0	2.3	2.3	18	0	0	0	0	0	7	25	25
 d758fb3088f98cb87aeae216d86c506b	GCA_922989275.2	Gari_tellinella	eukaryota_odb12	129	60.5	60.5	0.0	31.0	8.5	0	2	14	8	0	0	6	31	32
-db3ec003d26443d5bf865c28011dfbe2	GCA_015679645.1	NA	eukaryota_odb12	129	89.9	88.4	1.6	7.8	2.3	0	0	0	0	0	0	0	0	0
 df60c1f1df993fca5b8377702817a7e7	GCA_965117275.1	Bathymodiolus_heckerae	eukaryota_odb12	129	93.0	92.2	0.8	4.7	2.3	0	1	10	11	0	0	4	21	26
 e335537d9225301c167f9978ecea9dc0	GCA_964200675.1	Schoenoplectus_lacustris	eukaryota_odb12	129	97.7	48.8	48.8	1.6	0.8	0	0	0	0	0	0	0	0	0
 e75548af2141c3e80b24d6a02386fbf3	GCF_027887155.1	NA	eukaryota_odb12	129	100.0	100.0	0.0	0.0	0.0	21	0	0	1	1	0	10	24	24
@@ -12488,7 +12408,6 @@ db6e5a236d70ede8de37f3e07701fd77	GCA_038363885.1	NA	eukaryota_odb12	129	96.9	96.
 dfa251e1df50b3ff346956fe087f9a86	GCA_949628195.1	Phasia_obesa	eukaryota_odb12	129	93.0	87.6	5.4	5.4	1.6	0	0	3	1	0	0	1	4	4
 e37340866b347d0a24c8428685f3498a	GCA_902077795.2	NA	eukaryota_odb12	129	99.2	99.2	0.0	0.0	0.8	0	0	0	0	0	0	0	0	0
 e795ddc4a33feafb7cceab4963d51d86	GCA_033297225.1	NA	eukaryota_odb12	129	98.4	98.4	0.0	1.6	0.0	0	0	0	0	0	0	0	0	0
-ebb93f988c9a6a1e2f4b692c9f4ebe72	GCA_015502575.1	NA	eukaryota_odb12	129	93.8	91.5	2.3	3.9	2.3	0	0	0	0	0	0	0	0	0
 efd5b7045005564d1c3469aaa2eeba32	GCF_019923935.1	NA	eukaryota_odb12	129	98.4	96.1	2.3	1.6	0.0	28	0	0	1	2	0	5	25	31
 f3c01a608c419cda6ad0ecbff75abb95	GCA_030265305.1	Biomphalaria_pfeifferi	eukaryota_odb12	129	97.7	97.7	0.0	1.6	0.8	0	2	13	4	2	0	13	18	19
 f78635a64e0f2e7526e2dbcc634b412a	GCA_918843925.1	Eulithis_prunata	eukaryota_odb12	129	95.3	93.8	1.6	3.1	1.6	0	0	0	0	0	0	0	0	0
@@ -12555,7 +12474,6 @@ ebd230e5b509c38b5fd7df6d9cef2c7d	GCA_037954025.1	NA	eukaryota_odb12	129	94.6	84.
 efee3190ff41260f1d23fd946605255a	GCA_024244615.1	NA	eukaryota_odb12	129	80.6	77.5	3.1	15.5	3.9	0	0	0	0	0	0	0	0	0
 f3d096d9fe9047cae76f6657028968c7	GCA_907166875.3	NA	eukaryota_odb12	129	10.9	10.9	0.0	1.6	87.6	0	0	0	0	0	0	0	0	0
 f7a1a8625ce27c1ded21efa47e96ecef	GCA_013400195.1	NA	eukaryota_odb12	129	86.8	86.8	0.0	10.1	3.1	2	2	9	0	1	0	9	21	21
-cb08f54264a8a75bbcee7d98d8bed2c3	GCA_015529515.1	NA	eukaryota_odb12	129	98.4	96.1	2.3	1.6	0.0	0	0	0	0	0	0	0	0	0
 d4927747d03e7416bafaa1f32a1bb6d1	GCF_000313525.1	NA	eukaryota_odb12	129	89.1	89.1	0.0	7.0	3.9	0	0	0	0	0	0	0	0	0
 d8c3294101214c93523552ce83e04bbb	GCA_002102555.1	NA	eukaryota_odb12	129	82.9	80.6	2.3	13.2	3.9	0	0	0	0	0	0	0	0	0
 dcc199bde61cab0a19720e5dc64f6c5e	GCF_013085055.1	NA	eukaryota_odb12	129	100.0	100.0	0.0	0.0	0.0	0	0	0	0	0	0	0	0	0
@@ -12574,7 +12492,6 @@ e7b71a0bcbbb1760f1f54a05d1c0f282	GCA_001632435.1	NA	eukaryota_odb12	129	97.7	97.
 ebdb6a3fcf8a37786665589fdea53729	GCA_951394285.1	Epirrhoe_tristata	eukaryota_odb12	129	95.3	93.0	2.3	4.7	0.0	0	0	0	0	0	0	0	0	0
 eff153a886d280a987271ab45c04fdeb	GCA_042026525.1	Homo_sapiens	eukaryota_odb12	129	96.9	95.3	1.6	3.1	0.0	84	25	7	4	12	0	0	28	28
 f3d3646acd650413d5f5193c1a735b30	GCA_963681505.1	Eunapius_fragilis	eukaryota_odb12	129	65.9	63.6	2.3	10.1	24.0	0	4	3	3	1	0	8	10	10
-f7a3984748735fd78fe8fc62be63528f	GCA_014049445.1	NA	eukaryota_odb12	129	87.6	86.0	1.6	5.4	7.0	0	0	0	0	0	0	0	0	0
 d35470d0613ce308e273bdaead95b7e6	GCA_023646635.1	NA	eukaryota_odb12	129	89.9	89.9	0.0	8.5	1.6	0	0	0	0	0	0	0	0	0
 d7c0c4d53270d656d78b6a01ed4dcf1c	GCA_052570515.1	NA	eukaryota_odb12	129	100.0	100.0	0.0	0.0	0.0	0	0	0	0	0	0	0	0	0
 db907dfbff12571d250f865db9f7e427	GCA_017524585.1	NA	eukaryota_odb12	129	96.1	91.5	4.7	2.3	1.6	0	2	5	7	1	0	9	26	32
@@ -12962,7 +12879,6 @@ dc4f54470c0645f04d5e93c9607b7b82	GCA_025370935.1	NA	eukaryota_odb12	129	71.3	66.
 e435cd6b49ffaaa8839b94010e8809bf	GCA_000976065.2	NA	eukaryota_odb12	129	85.3	84.5	0.8	7.8	7.0	0	0	0	0	0	0	0	0	0
 e86437a1234e47061326f10f0167b324	GCA_963942485.1	Pediacus_dermestoides	eukaryota_odb12	129	95.3	91.5	3.9	4.7	0.0	0	0	0	0	0	0	0	0	0
 f08ce9ab6fe86755e9992164a0fba85e	GCA_963583895.1	Melanophora_roralis	eukaryota_odb12	129	95.3	89.9	5.4	3.9	0.8	0	0	1	0	0	0	1	2	2
-f446456ac6a80af4020048ee9045ab30	GCA_015502475.1	NA	eukaryota_odb12	129	97.7	95.3	2.3	2.3	0.0	0	0	0	0	0	0	0	0	0
 f83aabc0acb6d05459b08d245967555f	GCA_013400355.1	NA	eukaryota_odb12	129	83.7	83.7	0.0	10.1	6.2	3	2	10	0	1	0	9	23	23
 cddb10d20c83222ccc71a53e33364b0f	GCF_036321535.1	NA	eukaryota_odb12	129	97.7	96.1	1.6	1.6	0.8	22	7	1	0	1	0	13	23	23
 d4a13b90b2db9655b3d434c9678d1e33	GCF_019456465.1	NA	eukaryota_odb12	129	85.3	85.3	0.0	8.5	6.2	0	0	0	0	0	0	1	1	1
@@ -13454,7 +13370,6 @@ d95c8df6b1b8f6a1401c02b6c48f21ae	GCA_029204335.1	NA	eukaryota_odb12	129	98.4	92.
 dd78b81614e3ef54e9d94a87c24bd016	GCA_965184155.1	Leiobunum_subalpinum	eukaryota_odb12	129	89.9	89.1	0.8	3.1	7.0	0	2	5	2	0	0	6	14	14
 e15a7effb4e6eddcac5e308f7d259261	GCA_019207265.1	NA	eukaryota_odb12	129	89.9	89.9	0.0	5.4	4.7	0	0	0	0	0	0	0	0	0
 e57d3b3a7b6b5f27fd8332fbf7bc1fc7	GCA_019207005.1	NA	eukaryota_odb12	129	89.9	89.9	0.0	5.4	4.7	0	0	0	0	0	0	0	0	0
-e99ef8b2d91cdbbfd552c0faad4fc4dc	GCA_016098085.1	NA	eukaryota_odb12	129	98.4	96.1	2.3	0.8	0.8	0	0	0	0	0	0	0	0	0
 edec540f9f6e3d281d1bc9cb1ccfb714	GCA_000836315.1	NA	eukaryota_odb12	129	86.0	85.3	0.8	11.6	2.3	0	0	0	0	0	0	0	0	0
 f1ad8659e2813444603f27d5c6184b24	GCF_030869305.1	NA	eukaryota_odb12	129	99.2	99.2	0.0	0.8	0.0	0	0	0	0	0	0	0	0	0
 f57c4828fc031a314518d3d9212fd49e	GCF_949748355.1	NA	eukaryota_odb12	129	98.4	95.3	3.1	0.0	1.6	38	0	0	0	0	0	5	35	36
@@ -13534,7 +13449,6 @@ d0f1473baaf90102d190dd75ad1637ac	GCA_027574695.1	NA	eukaryota_odb12	129	98.4	98.
 d589f0b7cdb372243b2a9030bee04484	GCA_023373885.1	Hestina_assimilis	eukaryota_odb12	129	96.9	96.1	0.8	2.3	0.8	0	0	0	0	0	0	0	0	0
 d9817161f2257681d7f1ee6b0405758b	GCA_019924775.1	NA	eukaryota_odb12	129	81.4	78.3	3.1	17.8	0.8	0	0	0	0	0	0	0	0	0
 dd99d9b36651d9c29f674dc5a7bec7f0	GCA_032988195.1	NA	eukaryota_odb12	129	96.1	96.1	0.0	3.1	0.8	0	0	0	0	0	0	0	0	0
-e16d81a31f373a15679eb88e90b8cfc3	GCA_015679695.1	NA	eukaryota_odb12	129	96.1	93.8	2.3	3.1	0.8	0	0	0	0	0	0	0	0	0
 e59e2bf7670cdaae56ff5d677f0bce51	GCA_945859555.1	Megachile_ligniseca	eukaryota_odb12	129	94.6	93.8	0.8	1.6	3.9	0	0	3	1	0	0	0	1	1
 e9c0a887ba9acf861890c610532a979f	GCA_042038885.1	Homo_sapiens	eukaryota_odb12	129	96.9	96.1	0.8	3.1	0.0	84	25	7	4	12	0	0	28	28
 ee23619930269d10caa5abde086039fd	GCA_022457155.1	Cladopsammia_gracilis	eukaryota_odb12	129	91.5	86.0	5.4	7.0	1.6	0	2	22	8	1	0	9	34	35
@@ -14089,7 +14003,6 @@ fbf4cc49d7df13e5ab2b34b2503a4dbe	GCA_013399455.1	NA	eukaryota_odb12	129	76.7	76.
 ffe0a20f31ee45502a095eac51cce77b	GCA_025201675.1	NA	eukaryota_odb12	129	89.1	87.6	1.6	10.1	0.8	0	0	0	0	0	0	0	0	0
 fbfe5abc143af45cbf46a93fb6b1abf1	GCF_018687715.1	NA	eukaryota_odb12	129	99.2	78.3	20.9	0.8	0.0	0	0	0	0	0	0	0	2	2
 ffe5461c27b1bc83ba2c1945aa91d31f	GCA_048937215.1	NA	eukaryota_odb12	129	99.2	99.2	0.0	0.8	0.0	0	0	0	0	0	0	0	0	0
-a37a93b4a414b247fe40792d3f2d4376	GCA_016946835.1	NA	eukaryota_odb12	129	89.9	62.8	27.1	0.8	9.3	0	0	0	0	0	0	0	0	0
 fc0a5d682ba89eb6daecc7144350b18d	GCA_947579085.1	Lacanobia_wlatinum	eukaryota_odb12	129	93.8	93.8	0.0	3.1	3.1	0	0	0	0	0	0	0	0	0
 ffeba70b9d3109e8ccbbc3b30f69d7f7	GCA_002207925.1	Prunus_avium	eukaryota_odb12	129	84.5	75.2	9.3	8.5	7.0	0	0	0	0	0	0	0	0	0
 fc0ccf0be038f4a85a1009b39b1c3bc0	GCA_029542885.1	NA	eukaryota_odb12	129	78.3	78.3	0.0	10.1	11.6	0	0	0	0	0	0	0	0	0
@@ -14192,7 +14105,6 @@ f902767e9e50269b786b7196e5aa3c7f	GCF_001477535.1	NA	eukaryota_odb12	129	94.6	93.
 fd10e0ae0661e87d6eeb6f5ebd44a279	GCA_000149585.1	NA	eukaryota_odb12	129	77.5	77.5	0.0	17.1	5.4	0	0	0	0	0	0	0	0	0
 f90682cb9b4d33616087db3f413be5bf	GCF_000338955.1	NA	eukaryota_odb12	129	94.6	93.8	0.8	3.9	1.6	0	0	0	0	0	0	0	0	0
 fd21c313666ca72b16282652fbd26878	GCA_014634165.1	Acropora_microphthalma	eukaryota_odb12	129	89.1	88.4	0.8	8.5	2.3	0	3	11	12	0	0	10	22	23
-fc444a4c9e73151b593d265ff0768380	GCA_019049425.1	NA	eukaryota_odb12	129	85.3	85.3	0.0	5.4	9.3	0	0	0	0	0	0	0	0	0
 f908d400b5756b96b210791eeec84985	GCA_000091045.1	Cryptococcus_deneoformans_JEC21	eukaryota_odb12	129	98.4	97.7	0.8	0.8	0.8	0	0	0	0	0	0	0	0	0
 fd2b29948a31fbf62bf47b8b24e42bd2	GCF_021464435.1	NA	eukaryota_odb12	129	100.0	98.4	1.6	0.0	0.0	1	0	0	0	0	0	0	1	1
 f90a645df3680f0cf32ad256accf9ca5	GCA_055755555.1	NA	eukaryota_odb12	129	96.1	96.1	0.0	1.6	2.3	0	0	0	0	0	0	0	0	0
