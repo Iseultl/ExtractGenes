@@ -9256,7 +9256,6 @@ f6db08cc640c811229d5ef1915c447ee	2026-07-26 14:54:47	FASTA index file /tmp/tmp.W
 5130b81eb3924521e87bc12d2799025a	2026-07-26 14:48:30	FASTA index file /tmp/tmp.ubEFzfOXpf/input.fna.fai created. Warning: couldn't find fasta record for 'NC_051308'! Error: no genomic sequence available (check -g option!).
 5df3c34f32248d0e416f60b41c83c764	2026-07-26 17:56:26	run_selenoprofiles_timeout_after_10800s
 710e275001af854bc044327bb7d13872	2026-07-26 14:49:56	FASTA index file /tmp/tmp.H4NLP5YvvD/input.fna.fai created. Warning: couldn't find fasta record for 'CM019670'! Error: no genomic sequence available (check -g option!).
-9618a982a0fa2cdc50a9a74a51f37db9	2026-07-26 14:49:57	URL error downloading http://localhost/annotrieve/pending/GCA_059492235.1: [Errno 111] Connection refused
 b31670f5b04143faf52f6a185a0a4fff	2026-07-26 14:50:00	URL error downloading http://localhost/annotrieve/pending/GCA_009936445.1: [Errno 111] Connection refused
 d29e7cfd60000bde877132acdd5d78f0	2026-07-26 14:51:05	FASTA index file /tmp/tmp.X79uiJGJOW/input.fna.fai created. Warning: couldn't find fasta record for 'VUKX01010758'! Error: no genomic sequence available (check -g option!).
 f6fd01767ed923e9060b9ae8eb9a76a0	2026-07-26 14:51:58	FASTA index file /tmp/tmp.R8YL3aZsbr/input.fna.fai created. Warning: couldn't find fasta record for 'WBNP01046397'! Error: no genomic sequence available (check -g option!).
@@ -13789,7 +13788,6 @@ bf69a11b1e669002b26be379a6b7bf3d	2026-08-02 16:53:36	URL error downloading http:
 56795252ea7b040bbb062d9f37d1e76c	2026-08-02 14:27:33	URL error downloading http://localhost/annotrieve/pending/GCA_965231395.2: [Errno 111] Connection refused
 6b18e0e05788571a39cd6eca380e4a37	2026-08-02 14:27:35	URL error downloading http://localhost/annotrieve/pending/GCF_000956065.1: [Errno 111] Connection refused
 7fcfcef65eee0a52e282cce7dc943e24	2026-08-02 14:28:36	"FASTA index file /tmp/tmp.qYPd23Pr7h/input.fna.fai created. double free or corruption (!prev) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64:  2802 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
-9618a982a0fa2cdc50a9a74a51f37db9	2026-08-02 14:28:36	URL error downloading http://localhost/annotrieve/pending/GCA_059492235.1: [Errno 111] Connection refused
 a9decb805e9e4342f581a65a8361ca87	2026-08-02 14:30:05	FASTA index file /tmp/tmp.GOTFHx4I2i/input.fna.fai created. Warning: couldn't find fasta record for 'OZ243412'! Error: no genomic sequence available (check -g option!).
 bf6e229f690ca461141fd3e74e5e20ce	2026-08-02 14:30:56	FASTA index file /tmp/tmp.Ozaz9oEuIt/input.fna.fai created. Warning: couldn't find fasta record for 'VXAA01007163'! Error: no genomic sequence available (check -g option!).
 0cc18d01d5e89becc8273cee6c945ecc	2026-08-09 13:19:09	URL error downloading http://localhost/annotrieve/pending/GCA_000338675.2: [Errno 111] Connection refused
@@ -14416,7 +14414,6 @@ a99f530a90b6ee23fc2a642a38311be3	2026-08-09 18:28:53	URL error downloading http:
 56e1231cae9e1c1791896be25ce4ded4	2026-08-09 18:03:26	FASTA index file /tmp/tmp.vG4lPIL5ER/input.fna.fai created.
 6b25f2fbc0bc9eb81e9cf2702d47d279	2026-08-09 18:04:10	FASTA index file /tmp/tmp.NQFQpq9PYr/input.fna.fai created. Warning: couldn't find fasta record for 'VZRD01000765'! Error: no genomic sequence available (check -g option!).
 7fcfcef65eee0a52e282cce7dc943e24	2026-08-09 18:05:06	"FASTA index file /tmp/tmp.9bBzzqw443/input.fna.fai created. double free or corruption (!prev) /home/runner/work/ExtractGenes/ExtractGenes/scripts/01_extract_proteins.sh: line 64: 19161 Aborted                 (core dumped) gffread -g ""$FASTA_FILE"" -y ""$ALL_PROTEINS_OUTPUT"" ""$CLEAN_GFF_FILE"""
-9618a982a0fa2cdc50a9a74a51f37db9	2026-08-09 18:05:07	URL error downloading http://localhost/annotrieve/pending/GCA_059492235.1: [Errno 111] Connection refused
 a9c15212f7c3becec09f32a89319572a	2026-08-09 18:05:57	FASTA index file /tmp/tmp.YhaSWU7Tge/input.fna.fai created. Warning: couldn't find fasta record for 'VUKY01009752'! Error: no genomic sequence available (check -g option!).
 0501081105e305c677aec25ef4add939	2026-08-09 20:10:40	FASTA index file /tmp/tmp.fK19I0SYks/input.fna.fai created.
 1a3e7f70216ca64554d8674f18426c5f	2026-08-09 20:12:08	FASTA index file /tmp/tmp.y6BTcbEyZ2/input.fna.fai created. Warning: couldn't find fasta record for 'OZ210060'! Error: no genomic sequence available (check -g option!).
